@@ -1,358 +1,364 @@
-and add boilerplate:
-# CC-Canto
-# A Cantonese dictionary for everyone
-# Version 2016-01-15
+# CC-FCanto
+# Le dictionnaire cantonais-français libre
+# Version 2018-11-29
 # 
+# Basé sur une la version originale en anglais, CC-Canto
 # Copyright (c) 2015-16 Pleco Software Incorporated
-# Distributed under a Creative Commons Attribution-Share Alike 3.0 license (http://creativecommons.org/licenses/by-sa/3.0/)
+# Distributé sous license Creative Commons Attribution - Partage dans les Mêmes Conditions 3.0 non transposé (http://creativecommons.org/licenses/by-sa/3.0/)
 #
-# For more information + to submit feedback, see our website at cccanto.org
+# Ce dictionnaire destiné à être utilisé avec le dictionnaire chinois (aussi open-source) CC-CEDICT
+# Voir mdbg.net pour télécharger CC-CEDICT, voir cccanto.org pour télécharger une liste open-source des prononciations cantonais pour CC-CEDICT
 #
-# This dictionary is intended to be used in conjunction with the (also open-source) Chinese dictionary CC-CEDICT
-# See mdbg.net to download CC-CEDICT, see cccanto.org to download an open-source list of Cantonese readings for CC-CEDICT
-#
-一不小心 一不小心 [yi1 bu5 xiao3 xin1] {jat1 bat1 siu2 sam1} /Accidentally/
-一世人 一世人 [yi1 shi4 ren2] {jat1 sai3 jan4} /the whole life (of a person); one's entire life; for a lifetime/
-一世英名 一世英名 [yi1 shi4 ying1 ming2] {jat1 sai3 jing1 ming4} /one's great reputation and fame /
-一个 一个 [yi1 ge5] {jat1 go3} /One;a/an/
-一串 一串 [yi1 chuan4] {jat1 cyun3} /a series of /
-一九九七年 一九九七年 [yi1 jiu3 jiu3 qi1 nian2] {jat1 gau2 gau2 cat1 nin4} /Year 1997/
-一九四九年 一九四九年 [yi1 jiu3 si4 jiu3 nian2] {jat1 gau2 sei3 gau2 nin4} /Year 1949/
-一事 一事 [yi1 shi4] {jat1 si6} /A matter/
-一二 一二 [yi1 er4] {jat1 ji6} /one or two, a little, a few, one by one/
-一些些 一些些 [yi1 xie1 xie1] {jat1 se1 se1} /A little bit/
-一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /One must bear the consequences of his own act/
-一人計短，二人計長 一人计短，二人计长 [yi1 ren2 ji4 duan3 , er4 ren2 ji4 zhang3] {jat1 jan4 gai3 dyun2 ji6 jan4 gai3 zoeng2} /two minds are better than one /
-一仆一碌 一仆一碌 [yi1 pu2 yi1 lu4] {jat1 puk1 jat1 luk1} /stumbling to the ground rolling and crawling; running away in such a hurry that one is almost falling over/
-一介 一介 [yi1 jie4] {jat1 gaai3} /just a kind (of person)/
-一代英豪 一代英豪 [yi1 dai4 ying1 hao2] {jat1 doi6 jing1 hou4} /hero of the era /
-一代豪傑 一代豪杰 [yi1 dai4 hao2 jie2] {jat1 doi6 hou4 git6} /hero of the era /
-一件還一件 一件还一件 [yi1 jian4 hai2 yi2 jian4] {jat1 gin6 waan4 jat1 gin6} /1. a different matter     2. don't mix another incident with this one/
-一件頭 一件头 [yi1 jian4 tou2] {jat1 gin6 tau4} /one-piece (swimwear) /
-一任 一任 [yi1 ren4] {jat1 jam6} /Allow; let (somebody do as he pleases); A term/
-一份 一份 [yi1 fen4] {jat1 fan6} /[measure word] a portion/
-一住 一住 [yi1 zhu4] {jat1 zyu6} /Live in/
-一來到 一来到 [yi1 lai2 dao4] {jat1 lai4 dou3} /When one's first got here/
-一便 一便 [yi1 bian4] {jat1 bin6} /aside, while/
-一係 一系 [yi1 xi4] {jat1 hai6} /(conjunction) neither; either or also; or,  used when you want to make a suggestion, similar to the meaning of "what about…?" / "how about…"/
-一個 一个 [yi1 ge5] {jat1 go3} /a; one/
-一個一個 一个一个 [yi1 ge5 yi1 ge5] {jat1 go3 jat1 go3} /each by each; one follow another /
-一個中國 一个中国 [yi1 ge4 Zhong1 guo2] {jat1 go3 zung1 gwok3} /One-China policy/
-一個二個 一个二个 [yi1 ge5 er4 ge4] {jat1 go3 ji6 go3} /one and two, each and every one/
-一個做好，一個做醜 一个做好，一个做丑 [yi2 ge5 zuo4 hao3 , yi2 ge5 zuo4 chou3] {jat1 go3 zou6 hou2 ，jat1 go3 zou6 cau2} /one plays the good guy, the other plays the bad /
-一個字 一个字 [yi1 ge5 zi4] {jat1 go3 zi6} /1. one character 2. five minutes (spoken)/
-一個對 一个对 [yi1 ge5 dui4] {jat1 go3 deoi3} /one thing which, one person who/
-一個崩 一个崩 [yi1 ge5 beng1] {jat1 go3 bang1} /a coin (a dollar, a cent)/
-一個巴仙 一个巴仙 [yi1 ge5 ba1 xian1] {jat1 go3 baa1 sin1} /One percent;1%/
-一個鐘 一个钟 [yi1 ge5 zhong1] {jat1 go3 zung1} /One Hour/
-一個餅印 一个饼印 [yi1 ge5 bing3 yin4] {jat1 go3 beng2 jan3} /a biscuit imprint, which means two people look really alike, usually refers members of the same family/
-一個餅印噉 一个饼印啖 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} /lit. look identical as from the same mold, meaning one share the same looks as another /
-一個骨 一个骨 [yi1 ge5 gu3] {jat1 go3 gwat1} /15 minutes; quarter-hour; literal meaning: a piece of bone; Cantonese slang, derived from the English word 'quarter', the pronunciation of 'quart' sounds similar to the Cantonese pronunciation of '骨' (gwat1)/
-一倍 一倍 [yi1 bei4] {jat1 pui5} /100% more; double; twice /
-一億 一亿 [yi1 yi4] {jat1 jik1} /One hundred million/
-一元化 一元化 [yi1 yuan2 hua4] {jat1 jyun4 faa3} /Unified/
-一元復始 一元复始 [yi1 yuan2 fu4 shi3] {jat1 jyun4 fuk6 ci2} /New year, new start/
-一元方程 一元方程 [yi1 yuan2 fang1 cheng2] {jat1 jyun4 fong1 cing4} /Quadratic Equation/
-一兆 一兆 [yi1 zhao4] {jat1 siu6} /one trillion /
-一共 一共 [yi1 gong4] {jat1 gung6} /(adverb) 1. the sum of; 2. in total/
-一凹一凸 一凹一凸 [yi1 ao1 yi1 tu1] {jat1 nap1 jat1 dat6} /lit. one who protrudes, one who caves in, meaning compatible /
-一分 一分 [yi1 fen4] {jat1 fan1} /One minute/point/cent/
-一分一秒 一分一秒 [yi1 fen1 yi1 miao3] {jat1 fan1 jat1 miu5} /as time (goes by) /
-一分錢 一分钱 [yi1 fen1 qian2] {jat1 fan1 cin4} /what you pay (what you get)/
-一刻 一刻 [yi1 ke4] {jat1 haak1} /A moment;A quarter/
-一動不如一靜 一动不如一静 [yi1 dong4 bu4 ru2 yi1 jing4] {jat1 dung6 bat1 jyu4 jat1 zing6} /lit. one move is not as good as standing still, meaning not to take action until one can clarify if any moves are of any value /
-一十 一十 [yi1 shi2] {jat1 sap6} /The whole thing/
-一千 一千 [yi1 qian1] {jat1 cin1} /one thousand/
-一去不返 一去不返 [yi1 qu4 bu4 fan3] {jat1 heoi3 bat1 faan2} /never come back after leaving /
-一口價 一口价 [yi1 kou3 jia4] {jat1 hau2 gaa3} /last or final bid of the bargaining or negotiation (normally used in negotiating the price of buying or purchasing something)/
-一口煙 一口烟 [yi1 kou3 yan1] {jat1 hau2 jin1} /a puff of smoke or cigarette/
-一句講晒 一句讲晒 [yi1 ju4 jiang3 shai4] {jat1 geoi3 gong2 saai3} /finish in one sentence (spoken)/
-一句鐘 一句钟 [yi1 ju4 zhong1] {jat1 geoi3 zung1} /One hour/
-一向 一向 [yi1 xiang4] {jat1 hoeng3} /(verb)  have been…/
-一向都 一向都 [yi1 xiang4 du1] {jat1 hoeng3 dou1} /had always /
-一味 一味 [yi1 wei4] {jat1 mei6} /(noun) 1. single dish; 2. single interest/
-一哥 一哥 [yi1 ge1] {jat1 go1} / (slang) a leader or a chief of a group; often specifically a reference to the Commissioner of Police in Hong Kong, who is the head of the Hong Kong Police Force; a term to describe someone who is the most capable or particularly talented within a specific field/
-一唔係 一唔系 [yi1 n2 xi4] {jat1 m4 hai6} /else/
-一啖砂糖一啖屎 一啖砂糖一啖屎 [yi1 dan4 sha1 tang2 yi1 dan4 shi3] {jat1 daam6 saa1 tong4 jat1 daam6 si2} /lit. one mouthful of sugar, follow by a mouthful of shit; meaning good things follow by the bad, switching alternately /
-一啲 一啲 [yi1 di1] {jat1 di1} /a bit/
-一啲啲 一啲啲 [yi1 di1 di1] {jat1 di1 di1} /a little bit (spoken)/
-一嘢 一嘢 [yi1 ye3] {jat1 je5} /one hit or strike /
-一嚿嘢 一嚿嘢 [yi1 huo4 ye3] {jat1 gau6 je5} /a blob of (thing) /
-一嚿水 一嚿水 [yi1 huo4 shui3] {jat1 gau6 seoi2} /a hundred dollars /
-一嚿溜 一嚿溜 [yi1 huo4 liu1] {jat1 gau6 liu1} /One ball of (something)/
-一嚿雲 一嚿云 [yi1 huo4 yun2] {jat1 gau6 wan4} /lit. a piece of cloud, meaning confused or lost in thoughts /
-一嚿飯 一嚿饭 [yi1 huo4 fan4] {jat1 gau6 faan6} /idiot; foolish (slang)/
-一嚿飯噉 一嚿饭啖 [yi1 huo4 fan4 dan4] {jat1 gau6 faan6 gam2} /lit. a lump of rice, meaning one who is slow in reaction /
-一回 一回 [yi1 hui2] {jat1 wui4} /[measure word] one round, one time/
-一國三公 一国三公 [yi1 guo2 san1 gong1] {jat1 gwok3 saam1 gung1} /A state with three rulers – divided leadership – the power being not unified/
-一國之君 一国之君 [yi1 guo2 zhi1 jun1] {jat1 gwok3 zi1 gwan1} /A King/President/Prime Minister/(the highest title) of the country/
-一團 一团 [yi1 tuan2] {jat1 tyun4} /a group /
-一坺 一坺 [yi1 bo4] {jat1 pet6} /Uses to describe something sticky such as dirt, starch paste/
-一坺迾 一坺迾 [yi1 bo4 lie4] {jat1 paat6 laat6} /lit. one pile of mud, meaning one who refuses to take any actions or make a living /
-一場 一场 [yi1 chang2] {jat1 coeng4} /[measure word] one round or an event, such as a round of game, a dream, or a speech./
-一場歡喜一場空 一场欢喜一场空 [yi1 chang2 huan1 xi3 yi1 chang3 kong1] {jat1 coeng4 fun1 hei2 jat1 coeng4 hung1} /to end in disappointment after high hopes given /
-一夕之間 一夕之间 [yi1 xi1 zhi1 jian1] {jat1 zik6 zi1 gaan1} /overnight /
-一夜夫妻百日恩 一夜夫妻百日恩 [yi1 ye4 fu1 qi1 bai3 ri4 en1] {jat1 je6 fu1 cai1 baak3 jat6 jan1} /lit. once married for the first night, there are 100 days of gratitude, meaning one must treasure their partner/
-一夜風流 一夜风流 [yi1 ye4 feng1 liu2] {jat1 je6 fung1 lau4} /one night of casual (sexual) relationship /
-一天 一天 [yi1 tian1] {jat1 tin1} /One Day/
-一天光晒 一天光晒 [yi1 tian1 guang1 shai4] {jat1 tin1 gwong1 saai3} /describes the feeling of finally managing to resolve the issue or problem (dark clouds on the sky– which finally disappear [negative]) and feeling relieved again (seeing the sun which is sunny and bright again [positive])/
-一天都光晒 一天都光晒 [yi1 tian1 du1 guang1 shai4] {jat1 tin1 dou1 gwong1 saai3} /lit. the sky is well-lit, meaning things turn out all good eventually /
-一夫 一夫 [yi1 fu1] {jat1 fu1} /One husband/
-一夫一妻制 一夫一妻制 [yi1 fu1 yi1 qi1 zhi4] {jat1 fu1 jat1 cai1 zai3} /Monogamy/
-一夫當關 一夫当关 [yi1 fu1 dang1 guan1] {jat1 fu1 dong1 gwaan1} /lit. one man guarding the gateway, meaning one who is courageous and can fend off any troubles/
-一如往昔 一如往昔 [yi1 ru2 wang3 xi1] {jat1 jyu4 wong5 sik1} /Like always/
-一妻多夫 一妻多夫 [yi1 qi1 duo1 fu1] {jat1 cai1 do1 fu1} /one wife and multiple husbands, polyandry/
-一妻多夫制 一妻多夫制 [yi1 qi1 duo1 fu1 zhi4] {jat1 cai1 do1 fu1 zai3} /Polygamy/
-一姐 一姐 [yi1 jie3] {jat1 ze2} /The female leader/
-一字之差 一字之差 [yi1 zi4 zhi1 cha1] {jat1 zi6 zi1 caa1} /a difference of a single word or character /
-一字咁淺 一字咁浅 [yi1 zi4 gan1 qian3] {jat1 zi6 gam2 cin2} /as simple as the word "one" /
-一字角 一字角 [yi1 zi4 jiao3] {jat1 zi6 gok3} /Corner/
-一字馬 一字马 [yi1 zi4 ma3] {jat1 zi6 maa5} /a split (with both legs straight flat on ground)/
-一官半職 一官半职 [yi1 guan1 ban4 zhi2] {jat1 gun1 bun3 zik1} /A position in the government/
-一定會 一定会 [yi1 ding4 hui4] {jat1 ding6 wui5} /Must be/
-一家大細 一家大细 [yi1 jia1 da4 xi4] {jat1 gaa1 daai6 sai3} /the whole family, which includes the adults (parents and/or grandparents) and children/
-一將功成萬骨枯 一将功成万骨枯 [yi1 jiang4 gong1 cheng2 wan4 gu3 ku1] {jat1 zoeng3 gung1 sing4 maan6 gwat1 fu1} /one man succeeds ten thousand bones perish, which means a man's success is built upon scarifies of many people/
-一對一 一对一 [yi1 dui4 yi1] {jat1 deoi3 jat1} /one on/versus one /
-一小時 一小时 [yi1 xiao3 shi2] {jat1 siu2 si4} /One hour/
-一就一，二就二 一就一，二就二 [yi2 jiu4 yi1 , er4 jiu4 er4] {jat1 zau6 jat1 ji6 zau6 ji6} /be decisive; hurry up (spoken)/
-一局 一局 [yi1 ju2] {jat1 guk6} /A round; A game./
-一山不能藏二虎 一山不能藏二虎 [yi1 shan1 bu4 neng2 cang2 er4 hu3] {jat1 saan1 bat1 nang4 cong4 ji6 fu2} /lit. a mountain cannot host two tigers, meaning there must be a winner/
-一山還比一山高 一山还比一山高 [yi1 shan1 hai2 bi3 yi1 shan1 gao1] {jat1 saan1 waan4 bei2 jat1 saan1 gou1} /lit. there's always a mountain higher than another, meaning there's always one with better talents/
-一岩一窟 一岩一窟 [yi1 yan2 yi1 ku1] {jat1 ngaam4 jat1 fat1} /uneven; not smooth; full of bumps and lumps /
-一己之私 一己之私 [yi1 ji3 zhi1 si1] {jat1 gei2 zi1 si1} /One's own interests/
-一帆風順 一帆风顺 [yi1fan1feng1shun4] {jat1 faan4 fung1 seon6} /(noun) Have a safe trip!/
-一年 一年 [yi1 nian2] {jat1 nin4} /One year/
-一年一度 一年一度 [yi1 nian2 yi1 du4] {jat1 nin4 jat1 dou6} /once a year, annually/
-一年級 一年级 [yi1 nian2 ji2] {jat1 nin4 kap1} /Grade one; Primary one /
-一式 一式 [yi1 shi4] {jat1 sik1} /one set; one style/
-一式兩份 一式两份 [yi1 shi4 liang3 fen4] {jat1 sik1 loeng5 fan6} /the master document has to be with two original copies/
-一弓射兩箭 一弓射两箭 [yi1 gong1 she4 liang3 jian4] {jat1 gung1 se6 loeng5 zin3} /Kill two birds with one stone, meaning succeeding in doing two things by only one action/
-一張 一张 [yi1 zhang1] {jat1 zoeng1} /a piece (of paper) /
-一張嘢 一张嘢 [yi1 zhang1 ye3] {jat1 zoeng1 je5} /a piece of../
-一往 一往 [yi1 wang3] {jat1 wong5} /As always/
-一往情深 一往情深 [yi1wang3qing2shen1] {jat1 wong5 cing4 sam1} /(idiom) In love (with someone) with one heart/
-一德路 一德路 [yi1 de2 lu4] {jat1 dak1 lou6} /name of a road in Guangzhou, with its subway station /
-一心一意 一心一意 [yi1xin1yi1yi4] {jat1 sam1 jat1 ji3} /(adverb phrase) Into someone with all one's heart/
-一心向上 一心向上 [yi1 xin1 xiang4 shang4] {jat1 sam1 hoeng3 soeng6} /wholehearted to reach high /
-一忍再忍 一忍再忍 [yi1 ren3 zai4 ren3] {jat1 jan2 zoi3 jan2} /Keep bearing/
-一念之間 一念之间 [yi1 nian4 zhi1 jian1] {jat1 nim6 zi1 gaan1} /within a moment of thought /
-一息尚存 一息尚存 [yi1 xi1 shang4 cun2] {jat1 sik1 soeng6 cyun4} /surviving till last breath; will not give up till the last breath /
-一息間 一息间 [yi1 xi2 jian1] {jat1 sik1 gaan1} /in an instant /
-一成 一成 [yi1 cheng2] {jat1 sing4} /ten percent/
-一戙都冇 一戙都冇 [yi1 dong4 dou1 mao3] {jat1 dung6 dou1 mou5} /(slang) (of gambling) to lose everything and have nothing left;to suffer a crushing defeat; to have no solutions at all/
-一手 一手 [yi1shou3] {jat1 sau2} /(noun) (of info, trade etc.) 1. Firsthand; (figurative) 2. So much work on hands/
-一手一腳 一手一脚 [yi1 shou3 yi4 jiao3] {jat1 sau2 jat1 goek3} /(noun) one hand and one leg; (slang) someone's own works; someone works alone; to do something from scratch/
-一手交錢 一手交钱 [yi1 shou3 jiao1 qian2] {jat1 sau2 gaau1 cin2} /Pay the money and receive the cargo at the same time/
-一批 一批 [yi1 pi1] {jat1 pai1} /A batch/
-一技旁身 一技旁身 [yi1 ji4 pang2 shen1] {jat1 gei6 pong4 san1} /with a skill handy at hands/
-一把 一把 [yi1 ba3] {jat1 baa2} /bunch/
-一把火 一把火 [yi1 ba3 huo3] {jat1 baa2 fo2} /burning with anger/
-一拍行 一拍行 [yi1 pai1 xing2] {jat1 paak3 hong2} /Two people walking side by side/
-一招半式 一招半式 [yi1 zhao1 ban4 shi4] {jat1 ziu1 bun3 sik1} /lit. half or part of a martial arts style, meaning one who is knowledgeable partially /
-一撇嘢 一撇嘢 [yi1 pie3 ye3] {jat1 pit3 je5} /a stroke of a thing, which means a part of something or happening/
-一撇水 一撇水 [yi1 pie3 shui3] {jat1 pit3 seoi2} /a thousand dollars /
-一擔擔 一担担 [yi1 dan1 dan4] {jat1 daam3 daam1} /(adjective) alike; similar; as same as; identical; two of a kind; tweedledum and tweedledee/
-一支公 一支公 [yi1 zhi1 gong1] {jat1 zi1 gung1} /a lonely man; one who is alone /
-一文 一文 [yi1 wen2] {jat1 man4} /a dollar, usually refers a very small amount of cash or money /
-一於 一於 [yi1 wu1] {jat1 jyu1} /(conjunctive adverb) decided; determined; settled on(suggestive imperative) used for suggesting that you or other people to do something or to just go with a decision, similar to saying "let's…" "in any case, let's…" / "let's just…" / "no need to hesitate, just…"/
-一日 一日 [yi1 ri4] {jat1 jat6} /(n.) a day or one day; (slang)  used as part of a prepositional phrase (一日都係) to blame someone (or something or 'a reason') for some negative things that have happened, all because of; owing to; thanks to (e.g. 一日都係你 means "It's all because of you" or "Thanks to you".)/
-一日到黑 一日到黑 [yi1 ri4 dao4 hei1] {jat1 jat6 dou3 hak1} /all day long/
-一早 一早 [yi1 zao3] {jat1 zou2} /earlier/
-一早就 一早就 [yi1 zao3 jiu4] {jat1 zou2 zau6} /early in the morning, already at the beginning/
-一時 一时 [yi1 shi2] {jat1 si4} /suddenly; at an instant/
-一時一樣 一时一样 [yi1 shi2 yi1 yang4] {jat1 si4 jat1 joeng6} /describes a person's behavior which is inconsistent and/or often changing his/her mind/
-一時之間 一时之间 [yi1 shi2 zhi1 jian1] {jat1 si4 zi1 gaan1} /at a sudden /
-一時口快 一时口快 [yi1 shi2 kou3 kuai4] {jat1 si4 hau2 faai3} /one who said something not meant to be spoken; one who slipped with one's words/
-一時時 一时时 [yi1 shi2 shi2] {jat1 si4 si4} /sometimes/
-一朝 一朝 [yi1 zhao1] {jat1 ziu1} /one morning /
-一朝天子一朝臣 一朝天子一朝臣 [yi1 chao2 tian1 zi3 yi1 chao2 chen2] {jat1 ciu4 tin1 zi2 jat1 ciu4 san4} /lit. one reign of an emperor, one reign of officials, meaning one's subordinates or followers will tend to lose its power once the superior has fallen from power /
-一朝被蛇咬 一朝被蛇咬 [yi1 zhao1 bei4 she2 yao3] {jat1 ziu1 bei6 se4 ngaau5} /A burnt dog dreads the fire;once bitten, twice shy/
-一本通書睇到老 一本通书睇到老 [yi4 ben3 tong1 shu1 di4 dao4 lao3] {jat1 bun2 tung1 syu1 tai2 dou3 lou5} /always do things by the book; inflexible to changes or new ways of doing things/
-一朵鮮花插在牛糞上 一朵鲜花插在牛粪上 [yi1 duo3 xian1 hua1 cha1 zai4 niu2 fen4 shang5] {jat1 do2 sin1 faa1 caap3 zoi6 ngau4 fan3 soeng5} /lit. a fresh flower planted on a cow dung, meaning a relationship where the woman has great qualities, where the man has not, or much inferior (especially use in looks) /
-一枕黃粱 一枕黄粱 [yi1 zhen3 huang2 liang2] {jat1 zam2 wong4 loeng4} /Fond dream/
-一枝公 一枝公 [yi1 zhi1 gong1] {jat1 zi1 gung1} /(slang) (a term used for a man only) alone; single/
-一架 一架 [yi1 jia4] {jat1 gaa3} /classifier for plane or vehicles /
-一條冷 一条冷 [yi4 tiao2 leng3] {jat1 tiu4 laang5} /a lonely man; one who is alone /
-一條數 一条数 [yi1 tiao2 shu4] {jat1 tiu4 sou3} /1. one maths question     2. one debt or bill /
-一條氣 一条气 [yi1 tiao2 qi4] {jat1 tiu4 hei3} /non-stop; in one go (spoken)/
-一梯兩伙 一梯两伙 [yi1 ti1 liang3 huo3] {jat1 tai1 loeng5 fo2} /two apartment units per floor /
-一樂也 一乐也 [yi1 le4 ye3] {jat1 lok6 jaa5} /a moment of joy and pleasure /
-一樓一鳯 一楼一鳯 [yi1 lou2 yi1 feng4] {jat1 lau4 jat1 fung6} /a type of brothel where there's only one prostitute operating in one apartment unit (unlike the ones who operate in a shared flat) /
-一樓一鳳 一楼一凤 [yi1 lou2 yi1 feng4] {jat1 lau4 jat1 fung6} /Prostitute/
-一模一樣 一模一样 [yi1 mu2 yi1 yang4] {jat1 mou4 jat1 joeng6} /identical/
-一樣米養百樣人 一样米养百样人 [yi1 yang4 mi3 yang3 bai3 yang4 ren2] {jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4} /one kind, the same kind of rice feeds/ raises one hundred types of people, everybody has different opinions, thoughts, behaviors/
-一檔 一档 [yi1 dang4] {jat1 檔:dong2} /1. classifier for shops     2. first gear /
-一次起兩次止 一次起两次止 [yi1 ci4 qi3 liang3 ci4 zhi3] {jat1 ci3 hei2 loeng5 ci3 zi2} /No more than twice/
-一次過 一次过 [yi1 ci4 guo4] {jat1 ci3 gwo3} /in one go/
-一步 一步 [yi1 bu4] {jat1 bou6} /one step/
-一步一步 一步一步 [yi1 bu4 yi1 bu4] {jat1 bou6 jat1 bou6} /Step by Step/
-一死一傷 一死一伤 [yi1 si3 yi1 shang1] {jat1 sei2 jat1 soeng1} /One dead and another injured./
-一死了之 一死了之 [yi1 si3 liao3 zhi1] {jat1 sei2 liu5 zi1} /to die and end it all, when one chooses to take his/ her life, death pays all debts/
-一段 一段 [yi1 duan4] {jat1 dyun6} /classifier for sections and relationships /
-一殼眼淚 一壳眼泪 [yi1 ke2 yan3 lei4] {jat1 hok3 ngaan5 leoi6} /feeling of sadness; literally 'a scoop of tears'/
-一毛錢 一毛钱 [yi1 mao2 qian2] {jat1 mou4 cin4} /One dime/
-一氧化碳中毒 一氧化碳中毒 [yi1 yang3 hua4 tan4 zhong4 du2] {jat1 joeng5 faa3 taan3 zung1 duk6} /Carbon Monoxide Poisoning/
-一池春水 一池春水 [yi1 chi2 chun1 shui3] {jat1 ci4 ceon1 seoi2} /Spring pond;quiet water/
-一池秋水 一池秋水 [yi1 chi2 qiu1 shui3] {jat1 ci4 cau1 seoi2} /Spring pond;quiet water; Same as一池春水/
-一決勝負 一决胜负 [yi1 jue2 sheng4 fu4] {jat1 kyut3 sing3 fu6} /battle for victory /
-一沉百踩 一沉百踩 [yi1 chen2 bai3 cai3] {jat1 cam4 baak3 caai2} /(metaphor) when someone is undervalued, or losses power or authority, she/he is being bullied by others/
-一派 一派 [yi1 pai4] {jat1 paai3} /One kind of; a faction/
-一流 一流 [yi1 liu2] {jat1 lau4} /1. first class 2. world class/
-一瀉千里 一泻千里 [yi1 xie4 qian1 li3] {jat1 se3 cin1 lei5} /Flow down in a rushing torrent to a far distance/
-一物治一物，糯米治木蝨 一物治一物，糯米治木虱 [yi2 wu4 zhi4 yi2 wu4 , nuo4 mi3 zhi4 mu4 shi1] {jat1 mat6 zi6 jat1 mat6 ，no6 mai5 zi6 muk6 sat1} /one thing cures one thing, glutinous rice exterminates wood louse, which refers to the theory of natural enemies/
-一班人 一班人 [yi1 ban1 ren2] {jat1 baan1 jan4} /a group of people/
-一理通，百理明 一理通，百理明 [yi1 li3 tong1 , bai3 li3 ming2] {jat1 lei5 tung1 baak3 lei5 ming4} /being able to understand one logic, reveals complete sense to hundreds of reasons or factors /
-一生人 一生人 [yi1 sheng1 ren2] {jat1 sang1 jan4} /A life time/
-一番 一番 [yi1 fan1] {jat1 faan1} /for once (spoken)/
-一疋布咁長 一匹布咁长 [yi1 pi3 bu4 gan1 zhang3] {jat1 pat1 bou3 gam3 coeng4} /long; lengthy (spoken)/
-一登龍門 一登龙门 [yi1 deng1 long2 men2] {jat1 dang1 lung4 mun4} /to reach one's goal /
-一發 一发 [yi1 fa1] {jat1 faat3} /classifier for bullets /
-一百 一百 [yi1 bai3] {jat1 baak3} /one hundred/
-一百萬 一百万 [yi1 bai3 wan4] {jat1 baak3 maan6} /one million/
-一百零一 一百零一 [yi1 bai3 ling2 yi1] {jat1 baak3 ling4 jat1} /One hundred and one;101/
-一皮 一皮 [yi1 pi2] {jat1 pei4} /ten thousand dollars/
-一皮嘢 一皮嘢 [yi1 pi2 ye3] {jat1 pei4 je5} /ten thousand dollars/
-一盅兩件 一盅两件 [yi1 zhong1 liang3 jian4] {jat1 zung1 loeng5 gin6} /the slang for 'to eat dim sum' (a common Chinese cuisine); a cup of tea and 2 pieces of dim sum; minimum order; minimum purchase/
-一盤水 一盘水 [yi1 pan2 shui3] {jat1 pun4 seoi2} /a tray of water, a lot of money or ten thousand dollar/
-一直行 一直行 [yi1 zhi2 hang2] {jat1 zik6 haang4} /keep walking, keep walking straight/
-一眼睇晒 一眼睇晒 [yi1 yan3 di4 shai4] {jat1 ngaan5 tai2 saai3} /seen all at one glance /
-一眼關七 一眼关七 [yi1 yan3 guan1 qi1] {jat1 ngaan5 gwaan1 cat1} /(adj.) to be aware of everything happening at the moment; to be on alert, multitasking/
-一眾 一众 [yi1 zhong4] {jat1 zung3} /1. one type     2. everyone; whole group /
-一碌杉 一碌杉 [yi1 lu4 shan1] {jat1 luk1 caam3} /lit. a piece of log, meaning one who is inflexible, stiff, awkward or non-responsive, especially while one is standing still /
-一碗 一碗 [yi4 wan3] {jat1 wun2} /[measure word] a bowl of something/
-一碟齋 一碟斋 [yi4 die2 zhai1] {jat1 dip6 zaai1} /a mess/
-一磚豆腐想升仙 一砖豆腐想升仙 [yi1 zhuan1 dou4 fu5 xiang3 sheng1 xian1] {jat1 zyun1 dau6 2 fu6 soeng2 sing1 sin1} /(Sarcasm) When someone thinks he/she knows everything by knowing just a part of it/
-一萬 一万 [yi1 wan4] {jat1 maan6} /ten thousand/
-一窿蛇 一窿蛇 [yi1 long2 she2] {jat1 lung4 se4} /a group of bad guys/
-一站式 一站式 [yi1 zhan4 shi4] {jat1 zaam6 sik1} /One-stop (service)/
-一端 一端 [yi1 duan1] {jat1 dyun1} /at one end of /
-一竹篙打一船人 一竹篙打一船人 [yi1 zhu2 gao1 da3 yi1 chuan2 ren2] {jat1 zuk1 gou1 daa2 jat1 syun4 jan4} /a pole hits a boat of people, which means one holds onto someone's wrong and thinks the rest of others are the same/
-一竹篙打死一船人 一竹篙打死一船人 [yi1 zhu2 gao1 da3 si3 yi1 chuan2 ren2] {jat1 zuk1 gou1 daa2 sei2 jat1 syun4 jan4} /a pole hits and kills a boat of people, which means one holds onto someone's wrong and thinks the rest of others are the same/
-一竹篙揇沉一船人 一竹篙揇沉一船人 [yi1 zhu2 gao1 nan3 chen2 yi1 chuan2 ren2] {jat1 zuk1 gou1 naam5 cam4 jat1 syun4 jan4} /Tar with the same bush, meaning to believe wrongly that someone or something has the same bad qualities as someone or something that is similar/
-一筆還一筆 一笔还一笔 [yi1 bi3 hai2 yi1 bi3] {jat1 bat1 waan4 jat1 bat1} /one account apart from one account, it means to separate one event from another instead of combining them together/
-一等兵 一等兵 [yi1 deng3 bing1] {jat1 dang2 bing1} /private first class (military)/
-一箭雙雕 一箭双雕 [yi1 jian4 shuang1 diao1] {jat1 zin3 soeng1 diu1} /kill two birds with one stone; achieve two things at one stroke; serve double purpose (idiom)/
-一箸夾中 一箸夹中 [yi1 zhu4 jia1 zhong1] {jat1 zyu6 gaap3 zung1} /a person who has an accurate guess in the first attempt/
-一粒嘢 一粒嘢 [yi1 li4 ye3] {jat1 lap1 je5} /classifier of extremely small item (ie dust, rice, mole, raindrops etc)/
-一粒神 一粒神 [yi1 li4 shen2] {jat1 nap1 san4} /one cent coin /
-一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /probationary police inspector, who has a star on the badge/
-一統天下 一统天下 [yi1 tong3 tian1 xia4] {jat1 tung2 tin1 haa6} /unify the country/
-一經 一经 [yi1 jing1] {jat1 ging1} /as soon as, once/
-一群 一群 [yi1 qun2] {jat1 kwan4} /[measure word] a group/
-一而再 一而再 [yi1 er2 zai4] {jat1 ji4 zoi3} /Again and again/
-一肚氣 一肚气 [yi1 du4 qi4] {jat1 tou5 hei3} /a belly full of air, it is used to describe a person being very angry and annoyed/
-一脈相傳 一脉相传 [yi1 mai4 xiang1 chuan2] {jat1 mak6 soeng1 cyun4} /a custom, idea or thing passed down from generation to generation within the family/
-一腳牛屎 一脚牛屎 [yi1 jiao3 niu2 shi3] {jat1 goek3 ngau4 si2} /a foot covered in cow dung, it is used to describe a person getting himself/ herself in big trouble which is hard to get out of/
-一腳踏兩船 一脚踏两船 [yi1 jiao3 ta4 liang3 chuan2] {jat1 goek3 daap6 loeng5 syun4} /two-timing (slang)/
-一腳踢 一脚踢 [yi1 jiao3 ti1] {jat1 goek3 tek3} /(slang) to describe someone who handles all the tasks for a project or a business/
-一自 一自 [yi1 zi4] {jat1 zi6} /as soon as; one side; do this and that at the same time/
-一致 一致 [yi1zhi4] {jat1 zi3} /(adjective) Same/
-一舉成名 一举成名 [yi1 ju3 cheng2 ming2] {jat1 geoi2 sing4 ming4} /lit. one passed imperial examinations and make fame, meaning one who make fame in an instant /
-一舊飯 一旧饭 [yi1 jiu4 fan4] {jat1 gau6 faan6} /lit. one lump of rice, meaning one who is not responsive or stupid /
-一色 一色 [yi1 shai3] {jat1 sik1} /same colour; same tone; identical /
-一草 一草 [yi1 cao3] {jat1 cou2} /ten dollars/
-一處 一处 [yi1 chu4] {jat1 cyu3} /a place/
-一蟹不如一蟹 一蟹不如一蟹 [yi1 xie4 bu4 ru2 yi1 xie4] {jat1 haai5 bat1 jyu4 jat1 haai5} /each crab is worst than the one before that, which means the quality of something or people keeps getting worse/
-一表人才 一表人才 [yi1 biao3 ren2 cai2] {jat1 biu2 jan4 coi4} /refers a person looking outstanding/
-一見鍾情 一见钟情 [yi1 jian4 zhong1 qing2] {jat1 gin3 zung1 cing4} /to be deeply in love with something/ someone right away after the first glance/ sight/
-一覽表 一览表 [yi1 lan3 biao3] {jat1 laam5 biu2} /summary in the form of a chart /
-一言以蔽 一言以蔽 [yi1 yan2 yi3 bi4] {jat1 jin4 ji5 bai3} /In a word/
-一言堂 一言堂 [yi1 yan2 tang2] {jat1 jin4 tong4} /it is used to describe a person not listening to others, and who is undemocratic, a dictator/
-一言驚醒夢中人 一言惊醒梦中人 [yi1 yan2 jing1 xing5 meng4 zhong1 ren2] {jat1 jin4 ging1 sing2 mung6 zung1 jan4} /It means saying the right word to someone at the most appropriate time, so that that person has a sudden realization/
-一講曹操，曹操就到 一讲曹操，曹操就到 [yi1 jiang3 Cao2 Cao1 , Cao2 Cao1 jiu4 dao4] {jat1 gong2 cou4 cou1 cou4 cou1 zau6 dou3} /speaking of the devil and he shall appear, when something/ someone being discussed appear unexpectedly/
-一路上 一路上 [yi1 lu4 shang4] {jat1 lou6 soeng6} /on the road, all the way/
-一路路 一路路 [yi1 lu4 lu4] {jat1 lou6 lou6} /gradually/
-一身債 一身债 [yi1 shen1 zhai4] {jat1 san1 zaai3} /one with lot of debts /
-一身蟻 一身蚁 [yi1 shen1 yi3] {jat1 san1 ngai5} /(slang) to describe someone who is in serious trouble / predicament or difficulty/
-一身鬆 一身松 [yi1 shen1 song1] {jat1 san1 sung1} /one relieved from stress/
-一輪嘴 一轮嘴 [yi1 lun2 zui3] {jat1 leon2 zeoi2} /the act of telling or asking something impatiently (no pause in between words)/
-一轆木 一辘木 [yi1 lu4 mu4] {jat1 luk1 muk6} /[noun] to describe someone sluggish, or slow on thought and action/
-一轆木噉 一辘木啖 [yi1 lu4 mu4 dan4] {jat1 luk1 muk6 gam2} /[adjective] to describe someone sluggish, or slow on thought and action/
-一轆杉 一辘杉 [yi1 lu4 shan1] {jat1 luk1 caam3} /one who stand motionless or straight /
-一邊倒 一边倒 [yi1 bian1 dao3] {jat1 bin1 dou2} /leaning to the majority /
-一部 一部 [yi1 bu4] {jat1 bou6} /Radical 1, [measure word] a thing, usually used with object or thing like cellphone or movie/
-一部份 一部份 [yi1 bu4 fen4] {jat1 bou6 fan6} /A part/
-一醉解千愁 一醉解千愁 [yi1 zui4 jie3 qian1 chou2] {jat1 zeoi3 gaai2 cin1 sau4} /Get drunk to escape from reality/
-一鑊 一镬 [yi1 huo4] {jat1 wok6} /lit. a wok, meaning at once /
-一鑊泡 一镬泡 [yi1 huo4 pao4] {jat1 wok6 pou5} /(slang) in a chaotic state; a plight of; in a mess/
-一鑊熟 一镬熟 [yi1 huo4 shu2] {jat1 wok6 suk6} /(slang) utterly destroyed; nothing survives; all go down together; to finish someting in one stroke; to make a clean sweep/
-一鑊粥 一镬粥 [yi1 huo4 zhou1] {jat1 wok6 zuk1} /make a mess of (slang)/
-一鑊繑起 一镬繑起 [yi1 huo4 jue2 qi3] {jat1 wok6 kiu5 hei2} /to betray one unexpectedly /
-一門 一门 [yi1 men2] {jat1 mun4} /classifier for courses/
-一陣 一阵 [yi1 zhen4] {jat1 zan6} /(adverb) 1. later; (noun)  one moment/
-一陣間 一阵间 [yi1 zhen4 jian1] {jat1 zan6 gaan3} /(adverb) in a while; a short while; one moment/
-一陣陣 一阵阵 [yi1 zhen4 zhen4] {jat1 zan6 zan6} /at intervals /
-一陣風 一阵风 [yi1 zhen4 feng1] {jat1 zan6 fung1} /a breeze, wind/
-一隅 一隅 [yi1 yu2] {jat1 jyu4} /A place, a corner/
-一隻屐 一只屐 [yi1 zhi1 ji1] {jat1 zek3 kek6} /a sad face (slang)/
-一隻屐噉 一只屐啖 [yi1 zhi1 ji1 dan4] {jat1 zek3 kek6 gam2} /exhaustive; tired; discouraged; dispirited /
-一隻牛 一只牛 [yi1 zhi1 niu2] {jat1 zek3 ngau4} /lit. a bull, meaning one who is hardworking /
-一隻狗噉 一只狗啖 [yi1 zhi1 gou3 dan4] {jat1 zek3 gau2 gam2} /one behaving like a dog /
-一雙 一双 [yi1 shuang1] {jat1 soeng1} /A pair/
-一雙鞋 一双鞋 [yi1 shuang1 xie2] {jat1 soeng1 haai4} /a pair of shoes/
-一雞死，一雞鳴 一鸡死，一鸡鸣 [yi1 ji1 si3 , yi1 ji1 ming2] {jat1 gai1 sei2 ，jat1 gai1 ming4} /lit. one chicken dies, another starts crowing, meaning nothing ends if it meant to survive /
-一雞死一雞鳴 一鸡死一鸡鸣 [yi1 ji1 si3 yi1 ji1 ming2] {jat1 gai1 sei2 jat1 gai1 ming4} /lit. one chicken dies, another starts crowing, meaning nothing ends if it meant to survive/
-一面 一面 [yi1mian4] {jat1 min6} /(noun) Single side/
-一面屁 一面屁 [yi1 mian4 pi4] {jat1 min6 pei3} /(slang) to be humiliated; to be affronted/
-一項 一项 [yi1 xiang4] {jat1 hong6} /classifier for sports and missions /
-一頭…一頭… 一头…一头… [yi1 tou2… yi4 tou2 …] {jat1 tau4 …jat1 tau4…} /A… (animal) A…(animal)/
-一頭半個月 一头半个月 [yi1 tou2 ban4 ge4 yue4] {jat1 tau4 bun3 go3 jyut6} /to describe a period of time around a month or half a month/
-一頭半月 一头半月 [yi1 tou2 ban4 yue4] {jat1 tau4 bun3 jyut6} /for a period of half of a month to a month /
-一頭家 一头家 [yi1 tou2 jia1] {jat1 tau4 gaa1} /A family/
-一頭煙 一头烟 [yi1 tou2 yan1] {jat1 tau4 jin1} /describes the situation where a person is very busy; to be confused; to be at a loss on what to do/
-一頸血 一颈血 [yi1 jing3 xie3] {jat1 geng2 hyut3} /being ripped of; loss of money (slang)/
-一額汗 一额汗 [yi1 e2 han4] {jat1 ngaak6 hon6} /a forehead full of sweat, it is used to describe a person who is very nervous, anxious/
-一飛沖天 一飞冲天 [yi1 fei1 chong1 tian1] {jat1 fei1 cung1 tin1} /soaring into the sky /
-一餐 一餐 [yi1 can1] {jat1 caan1} /classifier for meals /
-一餐飯 一餐饭 [yi1 can1 fan4] {jat1 caan1 faan6} /A meal (mostly lunch or dinner)/
-一髮千鈞 一发千钧 [yi1 fa4 qian1 jun1] {jat1 faat3 cin1 gwan1} /thousand unit of weight is hang on to one single hair, which describes the situation is very dangerous/
-一鳴驚人 一鸣惊人 [yi1 ming2 jing1 ren2] {jat1 ming4 ging1 jan4} /to gain fame overnight or suddenly/
-一點鐘 一点钟 [yi1 dian3 zhong1] {jat1 dim2 zung1} /One o'clock/
-一齊 一齐 [yi1 qi2] {jat1 cai4} /(adverb)  all together/
-丁 丁 [ding1] {ding1} /(noun) 1. male adult (such as a member of a family, male servant, etc.); (noun)  Chinese surname/
-丁屋 丁屋 [ding1 wu1] {ding1 uk1} /Houses owned by indigenous male villagers in Hong Kong /
-丁等 丁等 [ding1 deng3] {ding1 dang2} /A little/
-七一遊行 七一游行 [Qi1 Yi1 you2 xing2] {cat1 jat1 jau4 hang4} /July 1st Demonstration/
-七仔 七仔 [qi1 zi3] {cat1 zi2} /7-Eleven convenience stores/
-七個一皮 七个一皮 [qi1 ge4 yi1 pi2] {cat1 go3 jat1 pei4} /stress and confusion due to huge workload /
-七個字 七个字 [qi1 ge4 zi4] {cat1 go3 zi6} /1. seven characters or words     2. thirty-five minutes /
-七出 七出 [qi1 chu1] {cat1 ceot1} /the seven requirement before a divorce is granted in pre-modern China and SE Asia /
-七十七 七十七 [qi1 shi2 qi1] {cat1 sap6 cat1} /seventy-seven/
-七十二行 七十二行 [qi1 shi2 er4 hang2] {cat1 sap6 ji6 hong4} /the 72 key categories of occupation /
-七千 七千 [qi1 qian1] {cat1 cin1} /seven thousand/
-七名 七名 [qi1 ming2] {cat1 ming4} /Seven (people)/
-七嘴八舌 七嘴八舌 [qi1 zui3 ba1 she2] {cat1 zeoi2 baat3 sit3} /spreading rumours (idiom)/
-七國咁亂 七国咁乱 [qi1 guo2 gan1 luan4] {cat1 gwok3 gam3 lyun6} /(adjective) extremely messy; chaotic; anarchic (can describe a place or a situation)/
-七大洲 七大洲 [qi1 da4 zhou1] {cat1 daai6 zau1} /Seven continents/
-七姊妹 七姊妹 [qi1 zi3 mei5] {cat1 zi2 mui6} /lit. seven sisters, is a old village in the district of North Point in Hong Kong /
-七姊妹道 七姊妹道 [qi1 zi3 mei5 dao4] {cat1 zi2 mui6 dou6} /Tsat Tsz Mui Road, a road in North Point, HK/
-七姐 七姐 [qi1 jie3] {cat1 ze2} /also known as Zhinu, who is a weaver girl in Chinese myth and a goddess/
-七孔生煙 七孔生烟 [qi1 kong3 sheng1 yan1] {cat1 hung2 sang1 jin1} /lit. steaming from seven holes, meaning one is extremely angry /
-七彩 七彩 [qi1 cai3] {cat1 coi2} /1. colourful 2. huge variety/
-七情上面 七情上面 [qi1 qing2 shang4 mian5] {cat1 cing4 soeng5 min6} /seven emotions all on the face, which means someone delivers strong emotional expressions/
-七情六慾 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /seven emotions and six desires, which refers to the natures of human/
-七情六欲 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /general psychologic reactions to surroundings of human /
-七手八腳 七手八脚 [qi1 shou3 ba1 jiao3] {cat1 sau2 baat3 goek3} /seven hands eight feet, which means there are a lot of people interfering and the situation is messy/
-七扶八插 七扶八插 [qi1 fu2 ba1 cha1] {cat1 fu4 baat3 caap3} /a group effort to help one /
-七折八扣 七折八扣 [qi1 zhe2 ba1 kou4] {cat1 zit3 baat3 kau3} /thirty percent off and then twenty percent off, which means a huge discount/
-七擒七縱 七擒七纵 [qi1 qin2 qi1 zong4] {cat1 kam4 cat1 zung3} /a strategy that convince your captive or opponent surrender wholeheartedly /
-七支八離 七支八离 [qi1 zhi1 ba1 li2] {cat1 zi1 baat3 lei4} /Broken; Fragmented/
-七日 七日 [qi1 ri4] {cat1 jat6} /seven days, seventh [date]/
-七星岩 七星岩 [qi1 xing1 yan2] {cat1 sing1 ngaam4} /Seven-Star Cave, Seven-Star Crag, and Seven-Star Reef; three locations share the same Chinese title, two are in Mainland China, and one is at Taiwan/
-七星茶 七星茶 [Qi1 xing1 cha2] {cat1 sing1 caa4} /seven star tea, which is usually called as Health star granules or calming herbal tea for infant/
-七月一號 七月一号 [Qi1 yue4 yi1 hao2] {cat1 jyut6 jat1 hou6} /July 1st/
-七月三十號 七月三十号 [Qi1 yue4 san1 shi2 hao4] {cat1 jyut6 saam1 sap6 hou6} /July 30th/
-七步成詩 七步成诗 [qi1 bu4 cheng2 shi1] {cat1 bou6 sing4 si1} /one who composes a poem (in his mind) within 7 steps/
-七百 七百 [qi1 bai3] {cat1 baak3} /Seven hundred/
-七窮六絕 七穷六绝 [qi1 qiong2 liu4 jue2] {cat1 kung4 luk6 zyut6} /Desperate/
-七絃琴 七弦琴 [qi1 xian2 qin2] {cat1 jin4 kam4} /guqin (seven-string Chinese musical instrument of the zither family)/
-七行詩 七行诗 [qi1 hang2 shi1] {cat1 hong4 si1} /Heptastich/
-七言詩 七言诗 [qi1 yan2 shi1] {cat1 jin4 si1} /a type of Chinese poetry, where every line only consist of seven chinese characters /
-七除八扣 七除八扣 [qi1 chu2 ba1 kou4] {cat1 ceoi4 baat3 kau3} /further discounts after discount; further reductions after reduction /
-七零八落 七零八落 [qi1ling2ba1luo4] {cat1 ling4 baat3 lok6} /(idiom) Refer objects are scattered and dispersed/
-七顛八倒 七颠八倒 [qi1 dian1 ba1 dao3] {cat1 din1 baat3 dou2} /Things got messed up/
-七點鐘 七点钟 [qi1 dian3 zhong1] {cat1 dim2 zung1} /seven o'clock/
-三 三 [san1] {saam1} /(slang)  Someone's love affair (usually refers to a female)/
+
+# Guide typographique:
+# - Utilise les lettres minuscules partout, sauf pour les noms propres
+# - Sépare les définitions différentes avec une barre oblique, sans espaces
+# - S'il faut utiliser les mots <quelque chose> ou <quelqu'un>, utilise <qqch> et <qqn>
+# - S'il y a une forme masculin et féminin, écris comme: un(e)
+# - Pour les traductions avec une version littérale, mets-le après les autres définitions et ajoute un (litt.) devant la traduction
+
+一不小心 一不小心 [yi1 bu5 xiao3 xin1] {jat1 bat1 siu2 sam1} /par accident/
+一世人 一世人 [yi1 shi4 ren2] {jat1 sai3 jan4} /toute la vie (de qqn), la vie entière, pour toute une vie/
+一世英名 一世英名 [yi1 shi4 ying1 ming2] {jat1 sai3 jing1 ming4} /la grande réputation et renommée de qqn/
+一个 一个 [yi1 ge5] {jat1 go3} /un(e)/
+一串 一串 [yi1 chuan4] {jat1 cyun3} /une série de qqch/
+一九九七年 一九九七年 [yi1 jiu3 jiu3 qi1 nian2] {jat1 gau2 gau2 cat1 nin4} /l'année 1997/
+一九四九年 一九四九年 [yi1 jiu3 si4 jiu3 nian2] {jat1 gau2 sei3 gau2 nin4} /l'année 1949/
+一事 一事 [yi1 shi4] {jat1 si6} /une affaire, un sujet/
+一二 一二 [yi1 er4] {jat1 ji6} /un ou deux, un peu, quelques-uns, un par un/
+一些些 一些些 [yix1 xie1 xie1] {jat1 se1 se1} /un petit peu/
+一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /on doit affronter les conséquences de nos actions/
+???? 一人計短，二人計長 一人计短，二人计长 [yi1 ren2 ji4 duan3 , er4 ren2 ji4 zhang3] {jat1 jan4 gai3 dyun2 ji6 jan4 gai3 zoeng2} /mieux voient quatre yeux que deux/
+一仆一碌 一仆一碌 [yi1 pu2 yi1 lu4] {jat1 puk1 jat1 luk1} /trébucher, tomber sur la terre en roulant ou en rampant/s'enfuir tellement vite jusqu'au point de presque tomber/(litt.) un trébuchement, un roulement
+一介 一介 [yi1 jie4] {jat1 gaai3} /juste un type (de personne)/
+一代英豪 一代英豪 [yi1 dai4 ying1 hao2] {jat1 doi6 jing1 hou4} /héros d'une ère/
+一代豪傑 一代豪杰 [yi1 dai4 hao2 jie2] {jat1 doi6 hou4 git6} /héros d'une ère/
+一件還一件 一件还一件 [yi1 jian4 hai2 yi2 jian4] {jat1 gin6 waan4 jat1 gin6} /une autre affaire/n'emmêle pas une autre affaire avec celle-ci./
+一件頭 一件头 [yi1 jian4 tou2] {jat1 gin6 tau4} /maillot de bain une-pièce/
+一任 一任 [yi1 ren4] {jat1 jam6} /permettre/laisser qqn faire comme il veut/une période, un mandat/
+一份 一份 [yi1 fen4] {jat1 fan6} /[classificateur] une portion/
+一住 一住 [yi1 zhu4] {jat1 zyu6} /vivre dans/
+一來到 一来到 [yi1 lai2 dao4] {jat1 lai4 dou3} /dès que qqn arrive/
+一便 一便 [yi1 bian4] {jat1 bin6} /à part; lorsque/
+一係 一系 [yi1 xi4] {jat1 hai6} /ni l'un ni l'autre/l'un ou l'autre, aussi/(pour faire une suggestion) «qu'en est-il de...» ou «pourquoi pas…»/
+一個 一个 [yi1 ge5] {jat1 go3} /un(e)/
+一個一個 一个一个 [yi1 ge5 yi1 ge5] {jat1 go3 jat1 go3} /un par un/
+一個中國 一个中国 [yi1 ge4 Zhong1 guo2] {jat1 go3 zung1 gwok3} /politique d'une seule Chine/
+一個二個 一个二个 [yi1 ge5 er4 ge4] {jat1 go3 ji6 go3} /un et deux/tout, chaque/
+一個做好，一個做醜 一个做好，一个做丑 [yi2 ge5 zuo4 hao3 , yi2 ge5 zuo4 chou3] {jat1 go3 zou6 hou2 ，jat1 go3 zou6 cau2} /jouer au «gentil flic, mauvais flic»/
+一個字 一个字 [yi1 ge5 zi4] {jat1 go3 zi6} /un caractère/cinq minutes (orig.) les caractères sur une horloge analogique représentent chacun cinq minutes)/
+一個對 一个对 [yi1 ge5 dui4] {jat1 go3 deoi3} /une chose, ou une personne qui.../
+一個崩 一个崩 [yi1 ge5 beng1] {jat1 go3 bang1} /une pièce de monnaie (un dollar, un centime)/
+一個巴仙 一个巴仙 [yi1 ge5 ba1 xian1] {jat1 go3 baa1 sin1} /un pourcent/
+一個鐘 一个钟 [yi1 ge5 zhong1] {jat1 go3 zung1} /une heure/
+一個餅印 一个饼印 [yi1 ge5 bing3 yin4] {jat1 go3 beng2 jan3} deux personnes qui se ressemblent, habituellement utilisé pour désigner des membres de la même famille/(litt.) une empreinte de biscuit/
+一個餅印噉 一个饼印啖 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} deux personnes qui se ressemblent, habituellement utilisé pour désigner des membres de la même famille/(litt.) comme une empreinte de biscuit/
+一個骨 一个骨 [yi1 ge5 gu3] {jat1 go3 gwat1} /quinze minutes, un quart d'heure (orig.) argot cantonais, de l'anglais 'quarter' (un quart), la prononciation du mot 'quart' en anglais est similaire à la prononciation cantonaise du mot '骨' (gwat1)/(litt.) un os/
+一倍 一倍 [yi1 bei4] {jat1 pui5} /100% plus, double, deux fois/
+一億 一亿 [yi1 yi4] {jat1 jik1} /cent millions/
+一元化 一元化 [yi1 yuan2 hua4] {jat1 jyun4 faa3} /unifié/
+一元復始 一元复始 [yi1 yuan2 fu4 shi3] {jat1 jyun4 fuk6 ci2} /nouvelle année, nouveau départ/
+一元方程 一元方程 [yi1 yuan2 fang1 cheng2] {jat1 jyun4 fong1 cing4} /équation du second degré/
+一兆 一兆 [yi1 zhao4] {jat1 siu6} /échelle longue: billion, échelle courte: trillion, 1 000 000 000/
+一共 一共 [yi1 gong4] {jat1 gung6} /la somme/en total/
+一凹一凸 一凹一凸 [yi1 ao1 yi1 tu1] {jat1 nap1 jat1 dat6} /compatible/(litt.) un qui a creux, un qui saillit/
+一分 一分 [yi1 fen4] {jat1 fan1} /une minute/un point/un centime/
+一分一秒 一分一秒 [yi1 fen1 yi1 miao3] {jat1 fan1 jat1 miu5} /au fil des temps/
+一分錢一分貨 一分钱一分货 [yi1 fen1 qian2] {jat1 fan1 cin4} /what you pay (what you get)/
+一刻 一刻 [yi1 ke4] {jat1 haak1} /un moment/quinze minutes/
+一動不如一靜 一动不如一静 [yi1 dong4 bu4 ru2 yi1 jing4] {jat1 dung6 bat1 jyu4 jat1 zing6} /ne pas agir avant qu'on sache si une action vaut la peine/(litt.) une action est pire que rester immobile/
+一十 一十 [yi1 shi2] {jat1 sap6} /l'entier/
+一千 一千 [yi1 qian1] {jat1 cin1} /mille/
+一去不返 一去不返 [yi1 qu4 bu4 fan3] {jat1 heoi3 bat1 faan2} /ne pas revenir après être parti(e)/
+一口價 一口价 [yi1 kou3 jia4] {jat1 hau2 gaa3} /la dernière offre (utilisé pour négocier un prix d'achat)/
+一口煙 一口烟 [yi1 kou3 yan1] {jat1 hau2 jin1} /une bouffée de fumée/
+一句講晒 一句讲晒 [yi1 ju4 jiang3 shai4] {jat1 geoi3 gong2 saai3} /tout dire avec une phrase/
+一句鐘 一句钟 [yi1 ju4 zhong1] {jat1 geoi3 zung1} /une heure/
+一向 一向 [yi1 xiang4] {jat1 hoeng3} /avoir toujours été/
+一向都 一向都 [yi1 xiang4 du1] {jat1 hoeng3 dou1} /avoir toujours été/
+一味 一味 [yi1 wei4] {jat1 mei6} /un plat/interêt unique/
+一哥 一哥 [yi1 ge1] {jat1 go1} /(argot) le leader ou le chef d'un group; souvent une référence spécifique au Commissaire de Police de Hong Kong, chef du Hong Kong Police Force/quelqu'un qui est particulièrement capable ou talentueux dans une domaine spécifique/
+一唔係 一唔系 [yi1 n2 xi4] {jat1 m4 hai6} /autrement/
+一啖砂糖一啖屎 一啖砂糖一啖屎 [yi1 dan4 sha1 tang2 yi1 dan4 shi3] {jat1 daam6 saa1 tong4 jat1 daam6 si2} /les bons moments s'alternent avec les moments difficiles/(litt.) une bouchée de sucre, suivie d'une bouchée de merde/
+一啲 一啲 [yi1 di1] {jat1 di1} /un peu/
+一啲啲 一啲啲 [yi1 di1 di1] {jat1 di1 di1} /un peu/
+一嘢 一嘢 [yi1 ye3] {jat1 je5} /un coup, une frappe/
+一嚿嘢 一嚿嘢 [yi1 huo4 ye3] {jat1 gau6 je5} /masse informe, pâte/
+一嚿水 一嚿水 [yi1 huo4 shui3] {jat1 gau6 seoi2} /cent dollars/
+一嚿溜 一嚿溜 [yi1 huo4 liu1] {jat1 gau6 liu1} /une boule de qqch/
+一嚿雲 一嚿云 [yi1 huo4 yun2] {jat1 gau6 wan4} /être confus perdu dans ses pensées/(litt.) un morceau de nuage/
+一嚿飯 一嚿饭 [yi1 huo4 fan4] {jat1 gau6 faan6} /idiot, bête, sot/lent/(litt.) une masse de riz/
+一嚿飯噉 一嚿饭啖 [yi1 huo4 fan4 dan4] {jat1 gau6 faan6 gam2} /idiot, bête, sot/lent/(litt.) une masse de riz/
+一回 一回 [yi1 hui2] {jat1 wui4} /un round, un tour, une fois/
+一國三公 一国三公 [yi1 guo2 san1 gong1] {jat1 gwok3 saam1 gung1} /direction ou leadership désuni/(litt.) un état avec trois dirigeants
+一國之君 一国之君 [yi1 guo2 zhi1 jun1] {jat1 gwok3 zi1 gwan1} /un roi/un président/un premier ministre/le chef d'État/
+一團 一团 [yi1 tuan2] {jat1 tyun4} /un groupe/
+一坺 一坺 [yi1 bo4] {jat1 pet6} /une mass collante, molle/
+一坺迾 一坺迾 [yi1 bo4 lie4] {jat1 paat6 laat6} /qqn qui refuse de gagner sa vie, d'agir afin de gagner sa vie/(litt.) un amas de boue/ 
+一場 一场 [yi1 chang2] {jat1 coeng4} /un round, un tour/
+一場歡喜一場空 一场欢喜一场空 [yi1 chang2 huan1 xi3 yi1 chang3 kong1] {jat1 coeng4 fun1 hei2 jat1 coeng4 hung1} /déception après des grands espoirs/
+一夕之間 一夕之间 [yi1 xi1 zhi1 jian1] {jat1 zik6 zi1 gaan1} /de nuit, pendant la nuit/
+一夜夫妻百日恩 一夜夫妻百日恩 [yi1 ye4 fu1 qi1 bai3 ri4 en1] {jat1 je6 fu1 cai1 baak3 jat6 jan1} /chacun doit chérir son partenaire/(litt.) il y a cent jours de gratitude après la première nuit de mariage
+一夜風流 一夜风流 [yi1 ye4 feng1 liu2] {jat1 je6 fung1 lau4} /une aventure d'un soir/
+一天 一天 [yi1 tian1] {jat1 tin1} /un jour/
+一天光晒 一天光晒 [yi1 tian1 guang1 shai4] {jat1 tin1 gwong1 saai3} /le sentiment d'avoir finalement résolu un problème et le soulagement qui l'accompagne/tout est bien qui finit bien/(litt.) un ciel rempli de lumière
+一天都光晒 一天都光晒 [yi1 tian1 du1 guang1 shai4] {jat1 tin1 dou1 gwong1 saai3} /tout va bien finir/(litt.) un ciel complètement rempli de lumière
+一夫 一夫 [yi1 fu1] {jat1 fu1} /un mari/
+一夫一妻制 一夫一妻制 [yi1 fu1 yi1 qi1 zhi4] {jat1 fu1 jat1 cai1 zai3} /la monogamie/
+一夫當關 一夫当关 [yi1 fu1 dang1 guan1] {jat1 fu1 dong1 gwaan1} /qqn courageux qui peut résoudre les problèmes/(litt.) un homme qui protège l'entrée
+一如往昔 一如往昔 [yi1 ru2 wang3 xi1] {jat1 jyu4 wong5 sik1} /comme toujours/
+一妻多夫 一妻多夫 [yi1 qi1 duo1 fu1] {jat1 cai1 do1 fu1} /une femme avec plusieurs maris, polyandrie/
+一妻多夫制 一妻多夫制 [yi1 qi1 duo1 fu1 zhi4] {jat1 cai1 do1 fu1 zai3} /polygamie/
+一姐 一姐 [yi1 jie3] {jat1 ze2} /dirigeant (féminin)/
+一字之差 一字之差 [yi1 zi4 zhi1 cha1] {jat1 zi6 zi1 caa1} /la différence d'un caractère ou un mot/
+一字咁淺 一字咁浅 [yi1 zi4 gan1 qian3] {jat1 zi6 gam2 cin2} /aussi simple que le mot «un»/
+一字角 一字角 [yi1 zi4 jiao3] {jat1 zi6 gok3} /coin/
+一字馬 一字马 [yi1 zi4 ma3] {jat1 zi6 maa5} /le grand écart/
+一官半職 一官半职 [yi1 guan1 ban4 zhi2] {jat1 gun1 bun3 zik1} /une position dans le gouvernement/
+一定會 一定会 [yi1 ding4 hui4] {jat1 ding6 wui5} /sûrement/
+一家大細 一家大细 [yi1 jia1 da4 xi4] {jat1 gaa1 daai6 sai3} /toute la famille, y compris les parents, grand-parents, enfants, etc./(litt.) une famille des grands et petits
+一將功成萬骨枯 一将功成万骨枯 [yi1 jiang4 gong1 cheng2 wan4 gu3 ku1] {jat1 zoeng3 gung1 sing4 maan6 gwat1 fu1} /la réussite de qqn dépend sur un grand nombre de personnes/(litt.) un homme réussit avec la mort de dix mille os
+一對一 一对一 [yi1 dui4 yi1] {jat1 deoi3 jat1} /tête-à-tête, one-on-one/un contre un/
+一小時 一小时 [yi1 xiao3 shi2] {jat1 siu2 si4} /une heure/
+一就一，二就二 一就一，二就二 [yi2 jiu4 yi1 , er4 jiu4 er4] {jat1 zau6 jat1 ji6 zau6 ji6} /sois décisif, dépêche-toi/(litt.) si c'est un, c'est un; si c'est deux, c'est deux
+一局 一局 [yi1 ju2] {jat1 guk6} /un round, un jeu/
+一山不能藏二虎 一山不能藏二虎 [yi1 shan1 bu4 neng2 cang2 er4 hu3] {jat1 saan1 bat1 nang4 cong4 ji6 fu2} /il doit y avoir un gagnant/(litt.) une montagne ne peut être abri pour deux tigres
+一山還比一山高 一山还比一山高 [yi1 shan1 hai2 bi3 yi1 shan1 gao1] {jat1 saan1 waan4 bei2 jat1 saan1 gou1} /il y a toujours qqn plus doué/(litt.) il y a toujours une montagne plus haute
+一岩一窟 一岩一窟 [yi1 yan2 yi1 ku1] {jat1 ngaam4 jat1 fat1} /bosselé, rugueux/
+一己之私 一己之私 [yi1 ji3 zhi1 si1] {jat1 gei2 zi1 si1} /propres interêts/
+一帆風順 一帆风顺 [yi1 fan1 feng1 shun4] {jat1 faan4 fung1 seon6} /bon voyage!/
+一年 一年 [yi1 nian2] {jat1 nin4} /un an, une année/
+一年一度 一年一度 [yi1 nian2 yi1 du4] {jat1 nin4 jat1 dou6} /une fois par an, annuellement/
+一年級 一年级 [yi1 nian2 ji2] {jat1 nin4 kap1} /(Can.) première année, (Fr.) cours préparatoire/
+一式 一式 [yi1 shi4] {jat1 sik1} /une collection; une style/
+一式兩份 一式两份 [yi1 shi4 liang3 fen4] {jat1 sik1 loeng5 fan6} /deux exemplaires du même document/
+一弓射兩箭 一弓射两箭 [yi1 gong1 she4 liang3 jian4] {jat1 gung1 se6 loeng5 zin3} /faire d'une pierre deux coups/
+一張 一张 [yi1 zhang1] {jat1 zoeng1} /une feuille (de papier)/
+一張嘢 一张嘢 [yi1 zhang1 ye3] {jat1 zoeng1 je5} /une feuille de.../un morceau de/
+一往 一往 [yi1 wang3] {jat1 wong5} /comme toujours/
+???? 一往情深 一往情深 [yi1 wang3 qing2 shen1] {jat1 wong5 cing4 sam1} /être amoureux de quelqu'un avec un coeur/
+一德路 一德路 [yi1 de2 lu4] {jat1 dak1 lou6} /le nom d'une rue en Guangzhou, avec sa propre station de métro/
+一心一意 一心一意 [yi1 xin1 yi1 yi4] {jat1 sam1 jat1 ji3} /être complètement captivé, focalisée/adorer qqn de tout votre coeur
+???? 一心向上 一心向上 [yi1 xin1 xiang4 shang4] {jat1 sam1 hoeng3 soeng6} /être complètement concentré sur s'améliorer/
+一忍再忍 一忍再忍 [yi1 ren3 zai4 ren3] {jat1 jan2 zoi3 jan2} /se retenir encore et encore/
+一念之間 一念之间 [yi1 nian4 zhi1 jian1] {jat1 nim6 zi1 gaan1} /dès qu'on y pense/
+一息尚存 一息尚存 [yi1 xi1 shang4 cun2] {jat1 sik1 soeng6 cyun4} /ne pas abandonner jusqu'au dernier souffle/
+一息間 一息间 [yi1 xi2 jian1] {jat1 sik1 gaan1} /dans un instant/
+一成 一成 [yi1 cheng2] {jat1 sing4} /dix pourcent/
+一戙都冇 一戙都冇 [yi1 dong4 dou1 mao3] {jat1 dung6 dou1 mou5} /tout perdre/subir une défaite totale/ne pas avoir aucune solution/
+一手 一手 [yi1shou3] {jat1 sau2} /première main/avoir trop à faire/
+一手一腳 一手一脚 [yi1 shou3 yi4 jiao3] {jat1 sau2 jat1 goek3} /une main et un pied/tout faire soi-même, faire à partir de rien/
+一手交錢一手交貨 一手交钱一手交货 [yi1 shou3 jiao1 qian2] {jat1 sau2 gaau1 cin2} /payer l'argent et recevoir les biens au même temps/
+一批 一批 [yi1 pi1] {jat1 pai1} /un lot, une fournée/
+???? 一技旁身 一技旁身 [yi1 ji4 pang2 shen1] {jat1 gei6 pong4 san1} /with a skill handy at hands/
+一把 一把 [yi1 ba3] {jat1 baa2} /un ensemble/
+一把火 一把火 [yi1 ba3 huo3] {jat1 baa2 fo2} /être en colère/
+一拍行 一拍行 [yi1 pai1 xing2] {jat1 paak3 hong2} /deux personnes qui se promènent côte à côte/
+一招半式 一招半式 [yi1 zhao1 ban4 shi4] {jat1 ziu1 bun3 sik1} /qqn qui connaît partiellement qqch/(litt.) une moitié d'un art martial
+一撇嘢 一撇嘢 [yi1 pie3 ye3] {jat1 pit3 je5} /une partie de qqch ou qqch qui se passe/(litt.) un trait de qqch
+一撇水 一撇水 [yi1 pie3 shui3] {jat1 pit3 seoi2} /mille dollars/
+一擔擔 一担担 [yi1 dan1 dan4] {jat1 daam3 daam1} /similaire/identique/bonnet blanc, blanc bonnet/
+一支公 一支公 [yi1 zhi1 gong1] {jat1 zi1 gung1} /un homme solitaire/
+一文 一文 [yi1 wen2] {jat1 man4} /un dollar/peu d'argent/
+一於 一於 [yi1 wu1] {jat1 jyu1} /décidé, déterminé/(utilisé pour suggérer un plan d'action) pouquoi pas seulement.../
+一日 一日 [yi1 ri4] {jat1 jat6} /un jour, une journée/(argot) utilisé dans des locutions pour blâmer qqn or qqch pour qqch de négatif qui s'est produit (e.g.) 一日都係你 signifie "c'est tout à cause de toi"/
+一日到黑 一日到黑 [yi1 ri4 dao4 hei1] {jat1 jat6 dou3 hak1} /toute la journée/
+一早 一早 [yi1 zao3] {jat1 zou2} /plus tôt/
+一早就 一早就 [yi1 zao3 jiu4] {jat1 zou2 zau6} /tôt le matin/dès le début/
+一時 一时 [yi1 shi2] {jat1 si4} /soudainement/
+一時一樣 一时一样 [yi1 shi2 yi1 yang4] {jat1 si4 jat1 joeng6} /indécis, une personne qui change d'avis souvent/
+一時之間 一时之间 [yi1 shi2 zhi1 jian1] {jat1 si4 zi1 gaan1} /tout à coup/
+一時口快 一时口快 [yi1 shi2 kou3 kuai4] {jat1 si4 hau2 faai3} /quelqu'un qui dit quelque chose qui n'est pas censé être dit/
+一時時 一时时 [yi1 shi2 shi2] {jat1 si4 si4} /parfois/
+一朝 一朝 [yi1 zhao1] {jat1 ziu1} /un matin/
+一朝天子一朝臣 一朝天子一朝臣 [yi1 chao2 tian1 zi3 yi1 chao2 chen2] {jat1 ciu4 tin1 zi2 jat1 ciu4 san4} /après que le chef perd son pouvoir, les subordonées le perdent aussi/(litt.) un règne d'empereur, un règne de fonctionnaires/
+???? 一朝被蛇咬 一朝被蛇咬 [yi1 zhao1 bei4 she2 yao3] {jat1 ziu1 bei6 se4 ngaau5} /chat échaudé craint l'eau froide, une victime devient plus prudente/
+一本通書睇到老 一本通书睇到老 [yi4 ben3 tong1 shu1 di4 dao4 lao3] {jat1 bun2 tung1 syu1 tai2 dou3 lou5} /être rigide, inflexible, tout faire selon les règles/(litt.) lire un livre jusqu'à la vieillesse/
+一朵鮮花插在牛糞上 一朵鲜花插在牛粪上 [yi1 duo3 xian1 hua1 cha1 zai4 niu2 fen4 shang5] {jat1 do2 sin1 faa1 caap3 zoi6 ngau4 fan3 soeng5} /une relation romantique dans laquelle la femme a plus de qualités que l'homme, surtout pour parler de physique/(litt.) une fleur fraîche insérée sur de la bouse/
+???? 一枕黃粱 一枕黄粱 [yi1 zhen3 huang2 liang2] {jat1 zam2 wong4 loeng4} /Fond dream/
+一枝公 一枝公 [yi1 zhi1 gong1] {jat1 zi1 gung1} /(pour décrire hommes seulement) célibataire, solitaire/
+一架 一架 [yi1 jia4] {jat1 gaa3} /classificateur pour véhicules et avions/
+???? 一條冷 一条冷 [yi4 tiao2 leng3] {jat1 tiu4 laang5} /un homme solitaire/
+一條數 一条数 [yi1 tiao2 shu4] {jat1 tiu4 sou3} /une question mathématique/une dette/une facture/
+一條氣 一条气 [yi1 tiao2 qi4] {jat1 tiu4 hei3} /en une seule fois, d'un coup/
+???? 一梯兩伙 一梯两伙 [yi1 ti1 liang3 huo3] {jat1 tai1 loeng5 fo2} /deux appartements par étage/
+???? 一樂也 一乐也 [yi1 le4 ye3] {jat1 lok6 jaa5} /un moment de joie ou de plaisir/
+???? 一樓一鳯 一楼一鳯 [yi1 lou2 yi1 feng4] {jat1 lau4 jat1 fung6} /a type of brothel where there's only one prostitute operating in one apartment unit (unlike the ones who operate in a shared flat) /
+???? 一樓一鳳 一楼一凤 [yi1 lou2 yi1 feng4] {jat1 lau4 jat1 fung6} /Prostitute/
+一模一樣 一模一样 [yi1 mu2 yi1 yang4] {jat1 mou4 jat1 joeng6} /identique/
+一樣米養百樣人 一样米养百样人 [yi1 yang4 mi3 yang3 bai3 yang4 ren2] {jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4} /tout le monde est unique/(litt.) le même riz nourrit cent types de personnes
+一檔 一档 [yi1 dang4] {jat1 dong2} /classificateur pour les magasins/la première vitesse/
+???? 一次起兩次止 一次起两次止 [yi1 ci4 qi3 liang3 ci4 zhi3] {jat1 ci3 hei2 loeng5 ci3 zi2} /No more than twice/
+一次過 一次过 [yi1 ci4 guo4] {jat1 ci3 gwo3} /en une seule fois, d'un coup/
+一步 一步 [yi1 bu4] {jat1 bou6} /un pas/
+一步一步 一步一步 [yi1 bu4 yi1 bu4] {jat1 bou6 jat1 bou6} /pas à pas, étape par étape/
+一死一傷 一死一伤 [yi1 si3 yi1 shang1] {jat1 sei2 jat1 soeng1} /un mort et un blessé/
+???? 一死了之 一死了之 [yi1 si3 liao3 zhi1] {jat1 sei2 liu5 zi1} /to die and end it all, when one chooses to take his/ her life, death pays all debts/
+一段 一段 [yi1 duan4] {jat1 dyun6} /classificateur pour sections et relations romantiques/
+一殼眼淚 一壳眼泪 [yi1 ke2 yan3 lei4] {jat1 hok3 ngaan5 leoi6} /tristesse/(litt.) une pelle de larmes/
+一毛錢 一毛钱 [yi1 mao2 qian2] {jat1 mou4 cin4} /une pièce de dix centimes/
+一氧化碳中毒 一氧化碳中毒 [yi1 yang3 hua4 tan4 zhong4 du2] {jat1 joeng5 faa3 taan3 zung1 duk6} /intoxication au monoxyde de carbone/
+???? 一池春水 一池春水 [yi1 chi2 chun1 shui3] {jat1 ci4 ceon1 seoi2} /un étang de printemps, eau calme/
+???? 一池秋水 一池秋水 [yi1 chi2 qiu1 shui3] {jat1 ci4 cau1 seoi2} /étang d'automne, eau calme/voir aussi 一池春水/
+???? 一決勝負 一决胜负 [yi1 jue2 sheng4 fu4] {jat1 kyut3 sing3 fu6} /une bataille pour la victoire/
+一沉百踩 一沉百踩 [yi1 chen2 bai3 cai3] {jat1 cam4 baak3 caai2} /quand quelqu'un est sous-evalué, ou perd le pouvoir ou authorité, il ou elle est malmené(e) par les autres/(litt.) dès qu'on coule, on est piétiné cent fois/
+???? 一派 一派 [yi1 pai4] {jat1 paai3} /un type de qqch/a faction/
+一流 一流 [yi1 liu2] {jat1 lau4} /première qualité, première classe/
+???? 一瀉千里 一泻千里 [yi1 xie4 qian1 li3] {jat1 se3 cin1 lei5} /Flow down in a rushing torrent to a far distance/
+???? 一物治一物，糯米治木蝨 一物治一物，糯米治木虱 [yi2 wu4 zhi4 yi2 wu4 , nuo4 mi3 zhi4 mu4 shi1] {jat1 mat6 zi6 jat1 mat6 , no6 mai5 zi6 muk6 sat1} /one thing cures one thing, glutinous rice exterminates wood louse, which refers to the theory of natural enemies/
+一班人 一班人 [yi1 ban1 ren2] {jat1 baan1 jan4} /un groupe de personnes/
+一理通，百理明 一理通，百理明 [yi1 li3 tong1 , bai3 li3 ming2] {jat1 lei5 tung1 baak3 lei5 ming4} /être capable de comprendre la logique d'une chose révèle le sens de cent autres/
+一生人 一生人 [yi1 sheng1 ren2] {jat1 sang1 jan4} /toute une vie/
+一番 一番 [yi1 fan1] {jat1 faan1} /pour une fois/
+一疋布咁長 一匹布咁长 [yi1 pi3 bu4 gan1 zhang3] {jat1 pat1 bou3 gam3 coeng4} /long(ue)/(litt.) long comme un chiffon/
+???? 一登龍門 一登龙门 [yi1 deng1 long2 men2] {jat1 dang1 lung4 mun4} /achever un but/(litt.) arriver à la porte du dragon/
+一發 一发 [yi1 fa1] {jat1 faat3} /classificateur pour balles (armes à feu)/
+一百 一百 [yi1 bai3] {jat1 baak3} /cent/
+一百萬 一百万 [yi1 bai3 wan4] {jat1 baak3 maan6} /un million/
+一百零一 一百零一 [yi1 bai3 ling2 yi1] {jat1 baak3 ling4 jat1} /cent un/
+一皮 一皮 [yi1 pi2] {jat1 pei4} /dix mille dollars/
+一皮嘢 一皮嘢 [yi1 pi2 ye3] {jat1 pei4 je5} /dix mille dollars/
+???? 一盅兩件 一盅两件 [yi1 zhong1 liang3 jian4] {jat1 zung1 loeng5 gin6} /manger du dimsum/commande minimum, achat minimum/(litt.) une tasse de thé et deux plats de dimsum/
+一盤水 一盘水 [yi1 pan2 shui3] {jat1 pun4 seoi2} /un plateau d'eau/beaucoup d'argent/dix mille argent/
+一直行 一直行 [yi1 zhi2 hang2] {jat1 zik6 haang4} /marcher tout droit/continuer à marcher/
+一眼睇晒 一眼睇晒 [yi1 yan3 di4 shai4] {jat1 ngaan5 tai2 saai3} /tout voir avec un coup d'oeil/
+???? 一眼關七 一眼关七 [yi1 yan3 guan1 qi1] {jat1 ngaan5 gwaan1 cat1} /être conscient de tout, faire plusieurs choses à la fois/
+一眾 一众 [yi1 zhong4] {jat1 zung3} /un type/tout le monde, le groupe entier/
+???? 一碌杉 一碌杉 [yi1 lu4 shan1] {jat1 luk1 caam3} / meaning one who is inflexible, stiff, awkward or non-responsive, especially while one is standing still /(litt.) un rondin/
+一碗 一碗 [yi4 wan3] {jat1 wun2} /classificateur pour désigner un bol de qqch/
+???? 一碟齋 一碟斋 [yi4 die2 zhai1] {jat1 dip6 zaai1} /un désordre/(litt.) un plat de légumes assortis/
+一磚豆腐想升仙 一砖豆腐想升仙 [yi1 zhuan1 dou4 fu5 xiang3 sheng1 xian1] {jat1 zyun1 dau6 2 fu6 soeng2 sing1 sin1} /qqn qui pense tout savoir quand en réalité il sait peu/(litt.) un morceau de tofu qui voudrait être immortel/
+一萬 一万 [yi1 wan4] {jat1 maan6} /dix mille/
+???? 一窿蛇 一窿蛇 [yi1 long2 she2] {jat1 lung4 se4} /un groupe de méchants/
+一站式 一站式 [yi1 zhan4 shi4] {jat1 zaam6 sik1} /guichet unique/
+一端 一端 [yi1 duan1] {jat1 dyun1} /une extrémité de qqch/
+一竹篙打一船人 一竹篙打一船人 [yi1 zhu2 gao1 da3 yi1 chuan2 ren2] {jat1 zuk1 gou1 daa2 jat1 syun4 jan4} /qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe un bateau rempli de personnes/
+一竹篙打死一船人 一竹篙打死一船人 [yi1 zhu2 gao1 da3 si3 yi1 chuan2 ren2] {jat1 zuk1 gou1 daa2 sei2 jat1 syun4 jan4} /qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe et tue un bateau rempli de personnes/
+???? 一竹篙揇沉一船人 一竹篙揇沉一船人 [yi1 zhu2 gao1 nan3 chen2 yi1 chuan2 ren2] {jat1 zuk1 gou1 naam5 cam4 jat1 syun4 jan4} /qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe et fait couler un bateau rempli de personnes/
+一筆還一筆 一笔还一笔 [yi1 bi3 hai2 yi1 bi3] {jat1 bat1 waan4 jat1 bat1} /séparer un compte d'un autre, ne pas mélanger deux comptes/
+一等兵 一等兵 [yi1 deng3 bing1] {jat1 dang2 bing1} /private first class (militaire), équivalent français: première classe/
+一箭雙雕 一箭双雕 [yi1 jian4 shuang1 diao1] {jat1 zin3 soeng1 diu1} /faire d'une pierre deux coups/(litt.) une coupe deux statues/
+一箸夾中 一箸夹中 [yi1 zhu4 jia1 zhong1] {jat1 zyu6 gaap3 zung1} /qqn qui devine correctement à la première tentative/(litt.) saisir exactement avec les baguettes/
+一粒嘢 一粒嘢 [yi1 li4 ye3] {jat1 lap1 je5} /classificateur pour des petites choses (e.g. poussière, riz, gouttes d'eau)/
+一粒神 一粒神 [yi1 li4 shen2] {jat1 nap1 san4} /une pièce d'un centime/
+一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /inspecteur de probation dans le Hong Kong Police Force (orig.) les inspecteurs de probations ont une petite fleur sur leur badges/(litt.) une petite fleur/
+一統天下 一统天下 [yi1 tong3 tian1 xia4] {jat1 tung2 tin1 haa6} /unifier le pays/
+一經 一经 [yi1 jing1] {jat1 ging1} /dès que/une fois que/
+一群 一群 [yi1 qun2] {jat1 kwan4} /classificateur pour décrire les groupes/
+一而再 一而再 [yi1 er2 zai4] {jat1 ji4 zoi3} /encore et encore/
+一肚氣 一肚气 [yi1 du4 qi4] {jat1 tou5 hei3} /qqn fâché et énervé/(litt.) un ventre rempli d'air/
+???? 一脈相傳 一脉相传 [yi1 mai4 xiang1 chuan2] {jat1 mak6 soeng1 cyun4} /une coutume, idée, ou qqch transmise au fil des générations dans une famille/
+一腳牛屎 一脚牛屎 [yi1 jiao3 niu2 shi3] {jat1 goek3 ngau4 si2} /qqn dans une situation qui est difficile à régler/(litt.) un pied couvert de bouse/
+一腳踏兩船 一脚踏两船 [yi1 jiao3 ta4 liang3 chuan2] {jat1 goek3 daap6 loeng5 syun4} /être infidèle/(litt.) un pied sur deux bateaux/
+一腳踢 一脚踢 [yi1 jiao3 ti1] {jat1 goek3 tek3} /qqn qui se charge de tout faire pour un projet ou une entreprise/(litt.) un pied qui donne un coup de pied/
+???? 一自 一自 [yi1 zi4] {jat1 zi6} /dès que/un côté/faire deux choses à la fois/
+一致 一致 [yi1 zhi4] {jat1 zi3} /même/
+一舉成名 一举成名 [yi1 ju3 cheng2 ming2] {jat1 geoi2 sing4 ming4} /qqn qui devient tout à coup célèbre/(litt.) qqn qui a réussi les examinations impériales et qui devient célèbre/
+一舊飯 一旧饭 [yi1 jiu4 fan4] {jat1 gau6 faan6} /peu sensible, stupide/(litt.) un grumeau de riz/
+一色 一色 [yi1 shai3] {jat1 sik1} /même couleur/même ton/identique/
+???? 一草 一草 [yi1 cao3] {jat1 cou2} /dix dollars/(litt.) une herbe/
+一處 一处 [yi1 chu4] {jat1 cyu3} /un endroit/
+一蟹不如一蟹 一蟹不如一蟹 [yi1 xie4 bu4 ru2 yi1 xie4] {jat1 haai5 bat1 jyu4 jat1 haai5} /la qualité de qqch or les personnes empire/(litt.) chaque crabe est pire que le précédent/
+???? 一表人才 一表人才 [yi1 biao3 ren2 cai2] {jat1 biu2 jan4 coi4} /qqn ayant l'air magnifique/
+一見鍾情 一见钟情 [yi1 jian4 zhong1 qing2] {jat1 gin3 zung1 cing4} /avoir le coup de foudre/adorer qqch à première vue/
+???? 一覽表 一览表 [yi1 lan3 biao3] {jat1 laam5 biu2} /résumé en forme de tableaux/
+???? 一言以蔽 一言以蔽 [yi1 yan2 yi3 bi4] {jat1 jin4 ji5 bai3} /en un mot/
+???? 一言堂 一言堂 [yi1 yan2 tang2] {jat1 jin4 tong4} /it is used to describe a person not listening to others, and who is undemocratic, a dictator/
+一言驚醒夢中人 一言惊醒梦中人 [yi1 yan2 jing1 xing5 meng4 zhong1 ren2] {jat1 jin4 ging1 sing2 mung6 zung1 jan4} /dire la bonne chose au bon moment pour que qqn comprenne ou se rend compte de qqch/(litt.) un mot qui réveille qqn en plein rêve/
+一講曹操，曹操就到 一讲曹操，曹操就到 [yi1 jiang3 Cao2 Cao1 , Cao2 Cao1 jiu4 dao4] {jat1 gong2 cou4 cou1 cou4 cou1 zau6 dou3} /quand on parle du loup/(litt.) quand on parle de 曹操, 曹操 arrive/
+一路上 一路上 [yi1 lu4 shang4] {jat1 lou6 soeng6} /sur la route/tout du long/
+一路路 一路路 [yi1 lu4 lu4] {jat1 lou6 lou6} /progressivement/
+一身債 一身债 [yi1 shen1 zhai4] {jat1 san1 zaai3} /avoir beaucoup de dettes/(litt.) un corps de dettes/
+一身蟻 一身蚁 [yi1 shen1 yi3] {jat1 san1 ngai5} /qqn dans qui éprouve de graves difficultés/(litt.) un corps couvert de fourmis/
+一身鬆 一身松 [yi1 shen1 song1] {jat1 san1 sung1} /être soulagé du stress/
+???? 一輪嘴 一轮嘴 [yi1 lun2 zui3] {jat1 leon2 zeoi2} /parler impatiemment, sans interruptions/
+一轆木 一辘木 [yi1 lu4 mu4] {jat1 luk1 muk6} /qqn lent, stupide/
+一轆木噉 一辘木啖 [yi1 lu4 mu4 dan4] {jat1 luk1 muk6 gam2} /qqn lent, stupide/
+???? 一轆杉 一辘杉 [yi1 lu4 shan1] {jat1 luk1 caam3} /one who stand motionless or straight /
+???? 一邊倒 一边倒 [yi1 bian1 dao3] {jat1 bin1 dou2} /leaning to the majority /
+一部 一部 [yi1 bu4] {jat1 bou6} /classificateur pour les téléphones cellulaires ou des télévisions/
+一部份 一部份 [yi1 bu4 fen4] {jat1 bou6 fan6} /une partie/
+一醉解千愁 一醉解千愁 [yi1 zui4 jie3 qian1 chou2] {jat1 zeoi3 gaai2 cin1 sau4} /se soûler pour échapper à la réalité/(litt.) dès qu'on se soûle, mille problèmes se résolvent/
+一鑊 一镬 [yi1 huo4] {jat1 wok6} /tous à la fois/(litt.) un wok/
+???? 一鑊泡 一镬泡 [yi1 huo4 pao4] {jat1 wok6 pou5} /un état chaotique, en désordre/(litt.) un wok rempli de bulles/
+???? 一鑊熟 一镬熟 [yi1 huo4 shu2] {jat1 wok6 suk6} /complètement détruit/finir quelque chose d'un coup/faire table rase/(litt.) un wok cuit/
+一鑊粥 一镬粥 [yi1 huo4 zhou1] {jat1 wok6 zuk1} /gâcher (qqch)/(litt.) un wok de congee/
+一鑊繑起 一镬繑起 [yi1 huo4 jue2 qi3] {jat1 wok6 kiu5 hei2} /une trahison imprévue/
+???? 一門 一门 [yi1 men2] {jat1 mun4} /classificateur pour les cours/
+一陣 一阵 [yi1 zhen4] {jat1 zan6} /plus tard/un moment/
+一陣間 一阵间 [yi1 zhen4 jian1] {jat1 zan6 gaan3} /dans un moment/un moment/
+一陣陣 一阵阵 [yi1 zhen4 zhen4] {jat1 zan6 zan6} /à intervalles réguliers/
+一陣風 一阵风 [yi1 zhen4 feng1] {jat1 zan6 fung1} /une brise, un vent/
+???? 一隅 一隅 [yi1 yu2] {jat1 jyu4} /un endroit, un coin/
+???? 一隻屐 一只屐 [yi1 zhi1 ji1] {jat1 zek3 kek6} /un visage triste/
+一隻屐噉 一只屐啖 [yi1 zhi1 ji1 dan4] {jat1 zek3 kek6 gam2} /avoir l'air démoralisé, triste/
+一隻牛 一只牛 [yi1 zhi1 niu2] {jat1 zek3 ngau4} /travailleur, dévoué/(litt.) un taureau/
+一隻狗噉 一只狗啖 [yi1 zhi1 gou3 dan4] {jat1 zek3 gau2 gam2} /se comporter comme un chien/
+一雙 一双 [yi1 shuang1] {jat1 soeng1} /une paire/
+一雙鞋 一双鞋 [yi1 shuang1 xie2] {jat1 soeng1 haai4} /une paire de souliers/
+???? 一雞死，一雞鳴 一鸡死，一鸡鸣 [yi1 ji1 si3 , yi1 ji1 ming2] {jat1 gai1 sei2 ，jat1 gai1 ming4} /rien ne termine s'il est censé continuer/(litt.) un poulet meurt, un autre fait cocorico/
+一雞死一雞鳴 一鸡死一鸡鸣 [yi1 ji1 si3 yi1 ji1 ming2] {jat1 gai1 sei2 jat1 gai1 ming4} /rien ne termine s'il est censé continuer/(litt.) un poulet meurt, un autre fait cocorico/
+一面 一面 [yi1 mian4] {jat1 min6} /un côté, une face/
+???? 一面屁 一面屁 [yi1 mian4 pi4] {jat1 min6 pei3} /être humilié/être insulté/
+一項 一项 [yi1 xiang4] {jat1 hong6} /classificateur pour sports et missions/
+一頭…一頭… 一头…一头… [yi1 tou2… yi4 tou2 …] {jat1 tau4 …jat1 tau4…} /un... (animal) un... (animal)/
+一頭半個月 一头半个月 [yi1 tou2 ban4 ge4 yue4] {jat1 tau4 bun3 go3 jyut6} /une période d'environ un demi-mois à un mois/
+一頭半月 一头半月 [yi1 tou2 ban4 yue4] {jat1 tau4 bun3 jyut6} /une période d'environ un demi-mois à un mois/
+一頭家 一头家 [yi1 tou2 jia1] {jat1 tau4 gaa1} /une famille/
+一頭煙 一头烟 [yi1 tou2 yan1] {jat1 tau4 jin1} /qqn de très occupé, confus, qui ne sait pas quoi faire/(litt.) une tête de fumée/
+一頸血 一颈血 [yi1 jing3 xie3] {jat1 geng2 hyut3} /être arnaqué/(litt.) un cou de sang/
+???? 一額汗 一额汗 [yi1 e2 han4] {jat1 ngaak6 hon6} /qqn de très nerveux/(litt.) un front en sueur/
+一飛沖天 一飞冲天 [yi1 fei1 chong1 tian1] {jat1 fei1 cung1 tin1} /s'envoler dans le ciel/
+一餐 一餐 [yi1 can1] {jat1 caan1} /classificateur pour les repas/
+一餐飯 一餐饭 [yi1 can1 fan4] {jat1 caan1 faan6} /un repas (surtout pour désigner les déjeuners, soupers ou dîners)/
+一髮千鈞 一发千钧 [yi1 fa4 qian1 jun1] {jat1 faat3 cin1 gwan1} /une situation dangereuse/(litt.) mille (quantité de poids) suspendu par un cheveu/
+???? 一鳴驚人 一鸣惊人 [yi1 ming2 jing1 ren2] {jat1 ming4 ging1 jan4} /devenir tout à coup célèbre/
+一點鐘 一点钟 [yi1 dian3 zhong1] {jat1 dim2 zung1} /une heure (e.g. à une heure du matin)/
+一齊 一齐 [yi1 qi2] {jat1 cai4} /tous ensemble/
+丁 丁 [ding1] {ding1} /homme adulte/un surnom chinois/
+???? 丁屋 丁屋 [ding1 wu1] {ding1 uk1} /Houses owned by indigenous male villagers in Hong Kong /
+丁等 丁等 [ding1 deng3] {ding1 dang2} /un peu/
+七一遊行 七一游行 [Qi1 Yi1 you2 xing2] {cat1 jat1 jau4 hang4} /défilés du 1er juillet à Hong Kong/
+七仔 七仔 [qi1 zi3] {cat1 zi2} /7-Eleven, une enseigne de magasins de proximité ou dépanneurs/
+七個一皮 七个一皮 [qi1 ge4 yi1 pi2] {cat1 go3 jat1 pei4} /stresse et confusion causé par une charge important de travail/
+七個字 七个字 [qi1 ge4 zi4] {cat1 go3 zi6} /sept caractères/trente-cinq minutes (voir 一個字 ou 一个字 pour origine)/
+七出 七出 [qi1 chu1] {cat1 ceot1} /les sept raisons pour se divorcer dans la Chine l'Asie du Sud-Est pré-moderne/
+七十七 七十七 [qi1 shi2 qi1] {cat1 sap6 cat1} /soixante-dix-sept/
+???? 七十二行 七十二行 [qi1 shi2 er4 hang2] {cat1 sap6 ji6 hong4} /the 72 key categories of occupation /
+七千 七千 [qi1 qian1] {cat1 cin1} /sept mille/
+七名 七名 [qi1 ming2] {cat1 ming4} /sept personnes/
+七嘴八舌 七嘴八舌 [qi1 zui3 ba1 she2] {cat1 zeoi2 baat3 sit3} /répandre des rumeurs/(litt.) sept bouches huit langues/
+七國咁亂 七国咁乱 [qi1 guo2 gan1 luan4] {cat1 gwok3 gam3 lyun6} /désordonné, anarchique/(litt.) être aussi désordonée que la période des Royaumes combattants/
+七大洲 七大洲 [qi1 da4 zhou1] {cat1 daai6 zau1} /les sept continents/
+七姊妹 七姊妹 [qi1 zi3 mei5] {cat1 zi2 mui6} /Tsat Tsz Mui, une région située dans le quartier North Point, Hong Kong/(litt.) sept soeurs/
+七姊妹道 七姊妹道 [qi1 zi3 mei5 dao4] {cat1 zi2 mui6 dou6} /la rue Tsat Tsz Mui, située dans le quartier North Point, Hong Kong/
+七姐 七姐 [qi1 jie3] {cat1 ze2} /connu aussi sous le nom de Zhinu, elle est la Tisserande dans la légende «Le Bouvier et la Tisserande»/
+七孔生煙 七孔生烟 [qi1 kong3 sheng1 yan1] {cat1 hung2 sang1 jin1} furieux, enragé/(litt.) la fumée qui jaillit par sept trous/
+七彩 七彩 [qi1 cai3] {cat1 coi2} /coloré/une grande variété/
+???? 七情上面 七情上面 [qi1 qing2 shang4 mian5] {cat1 cing4 soeng5 min6} /qqn qui exprime fortement ses expressions/(litt.) sept émotions sur le visage/
+七情六慾 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /la nature humaine/(litt.) sept émotions et six désirs/
+???? 七情六欲 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /general psychologic reactions to surroundings of human /
+七手八腳 七手八脚 [qi1 shou3 ba1 jiao3] {cat1 sau2 baat3 goek3} /beaucoup de personnes qui s'immiscent dans une situation, une situation chaotique/(litt.) sept mains huit pieds/
+???? 七扶八插 七扶八插 [qi1 fu2 ba1 cha1] {cat1 fu4 baat3 caap3} /un effort collectif pour aider qqn/(litt.) sept (mains) qui supportent, huit qui insèrent/
+???? 七折八扣 七折八扣 [qi1 zhe2 ba1 kou4] {cat1 zit3 baat3 kau3} /une grande réduction (de prix)/(litt.) 30 pourcent de rabais, puis encore 20 pourcent de rabais de plus/
+???? 七擒七縱 七擒七纵 [qi1 qin2 qi1 zong4] {cat1 kam4 cat1 zung3} /une stratégie qui oblige un ennemi à se rendre/
+???? 七支八離 七支八离 [qi1 zhi1 ba1 li2] {cat1 zi1 baat3 lei4} /cassé, fragmenté/
+七日 七日 [qi1 ri4] {cat1 jat6} /sept jours/le septième jour/
+七星岩 七星岩 [qi1 xing1 yan2] {cat1 sing1 ngaam4} /la grotte à sept étoiles de la ville de Guilin dans la province de Guangxi/le parc de sept roches, dans le sud-ouest de la province de Guangdong/Qixingyan, ou Chihsingyen, un group d'îles de corail dans le sud de Taïwan/
+七星茶 七星茶 [Qi1 xing1 cha2] {cat1 sing1 caa4} /une marque de tisanes chinoises pour enfants/(litt.) thé de sept étoiles/
+七月一號 七月一号 [Qi1 yue4 yi1 hao2] {cat1 jyut6 jat1 hou6} /le premier juillet/
+七月三十號 七月三十号 [Qi1 yue4 san1 shi2 hao4] {cat1 jyut6 saam1 sap6 hou6} /le trente juillet/
+七步成詩 七步成诗 [qi1 bu4 cheng2 shi1] {cat1 bou6 sing4 si1} /qqn qui crée un poème dans le temps qu'il faut pour marcher sept pas/
+七百 七百 [qi1 bai3] {cat1 baak3} /sept cents/
+???? 七窮六絕 七穷六绝 [qi1 qiong2 liu4 jue2] {cat1 kung4 luk6 zyut6} /désespéré/(litt.) sept pauvres, six rejets/
+七絃琴 七弦琴 [qi1 xian2 qin2] {cat1 jin4 kam4} /le guqin, un instrument à cordes pincées de la famille de cithares/
+七行詩 七行诗 [qi1 hang2 shi1] {cat1 hong4 si1} /un septain/
+七言詩 七言诗 [qi1 yan2 shi1] {cat1 jin4 si1} /un poème chinois dont les vers consistent de sept mots/
+七除八扣 七除八扣 [qi1 chu2 ba1 kou4] {cat1 ceoi4 baat3 kau3} /un rabais en plus d'un autre rabais/(litt.) sept enlevé, huit réductions/
+???? 七零八落 七零八落 [qi1 ling2 ba1 luo4] {cat1 ling4 baat3 lok6} /des choses éparpillées partout, en désordre/(litt.) sept /
+???? 七顛八倒 七颠八倒 [qi1 dian1 ba1 dao3] {cat1 din1 baat3 dou2} /gâcher qqch/
+七點鐘 七点钟 [qi1 dian3 zhong1] {cat1 dim2 zung1} /sept heures (e.g. du matin)/
+三 三 [san1] {saam1} /relation amoureuse (habituellement utilisé pour désigner celles des femmes)/
 三Ｔ 三T [san1 T] {saam1 Ｔ} /Triple trio.Horse racing terms, precise predicting top three in three game in a row.(Regardless of the ranking) /
 三九兩丁七 三九两丁七 [san1 jiu3 liang3 ding1 qi1] {saam1 gau2 loeng5 ding1 cat1} /very few people/
 三九唔識七 三九唔识七 [san1 jiu3 n2 shi2 qi1] {saam1 gau2 m4 sik1 cat1} /describes the situation where no one knows who anyone else is, where everyone is a total stranger to everyone else/
