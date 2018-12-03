@@ -375,10 +375,10 @@
 三六 三六 [san1 liu4] {saam1 luk6} /chien/
 三六香肉 三六香肉 [san1 liu4 xiang1 rou4] {saam1 luk6 hoeng1 juk6} /viande de chien/(litt.) viande salée de trois-six
 三分顏色上大紅 三分颜色上大红 [san1 fen1 yan2 se5 shang4 da4 gong1] {saam1 fan1 ngaan4 sik1 soeng5 daai6 hung4} /qqn qui se croit supérieur aux autres après être félicité pour peu/
-三十一日 三十一日 [san1 shi2 yi1 ri4] {saam1 sap6 jat1 jat6} /trente-et-un jours, le trente-et-unième jour d'un mois/
+三十一日 三十一日 [san1 shi2 yi1 ri4] {saam1 sap6 jat1 jat6} /trente-et-un jours/le trente-et-unième jour d'un mois/
 三十一號 三十一号 [san1 shi5 yi1 hao2] {saam1 sap6 jat1 hou6} /trente-et-unième jour d'un mois/
 三十三 三十三 [san1 shi2 san1] {saam1 sap6 saam1} /trente-trois/
-三十日 三十日 [san1 shi2 ri4] {saam1 sap6 jat6} /trente jours, le trentième jour d'un mois/
+三十日 三十日 [san1 shi2 ri4] {saam1 sap6 jat6} /trente jours/le trentième jour d'un mois/
 三千 三千 [san1 qian1] {saam1 cin1} /trois mille/
 三及第 三及第 [san1 ji2 di4] {saam1 kap6 dai6} /quelque chose d'incomplet et désordonné/un style d'écriture qui combine le chinois classique, la langue chinoise écrite formelle, et le cantonais/(litt.) un type de congee de porc/
 三口兩脷 三口两脷 [san1 kou3 liang3 li4] {saam1 hau2 loeng5 lei6} /une manque de crédibilité/(litt.) trois bouches et deux langues/
@@ -402,7 +402,7 @@
 三急 三急 [san1 ji2] {saam1 gap1} /les trois besoins, uriner, excréter, vomir/
 三扒兩撥 三扒两拨 [san1 ba1 liang3 bo1] {saam1 paa4 loeng5 but6} /qqn de très éfficace/
 三方 三方 [san1 fang1] {saam1 fong1} /trois côtés/tripartite/trilatéral/
-三日 三日 [san1 ri4] {saam1 jat6} /trois jours, le troisième jour d'un mois/
+三日 三日 [san1 ri4] {saam1 jat6} /trois jours/le troisième jour d'un mois/
 三日兩夜 三日两夜 [san1 ri4 liang3 ye4] {saam1 jat6 loeng5 je6} /trois jours, deux nuits/
 三日兩頭 三日两头 [san1 ri4 liang3 tou2] {saam1 jat6 loeng5 tau4} /quelques jours/
 三更窮五更富 三更穷五更富 [san1 geng1 qiong2 wu3 geng1 fu4] {saam1 gaang1 kung4 ng5 gaang1 fu3} /qqn qui ne sait pas gérer son argent/(litt.) pauvre à trois heures, riche à cinq heures/
@@ -646,10 +646,10 @@
 世態 世态 [shi4 tai4] {sai3 taai3} /l'état d'une société/
 世界上 世界上 [shi4 jie4 shang4] {sai3 gaai3 soeng6} /dans ce monde/autour du monde/
 世界之窗站 世界之窗站 [shi4 jie4 zhi1 chuang1 zhan4] {sai3 gaai3 zi1 coeng1 zaam6} /la station «Window of the World» (Fenêtre du Monde), un endroit à Shenzhen/
-世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /un homme sociable; un homme sage, habituellement péjoratif./(litt.) un enfant du monde/
+世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /un homme sociable/un homme sage, habituellement péjoratif./un béni-oui-oui, un paillason/(litt.) un enfant du monde/
 世界史 世界史 [shi4 jie4 shi3] {sai3 gaai3 si2} /l'histoire/
 世界女 世界女 [shi4 jie4 nü3] {sai3 gaai3 neoi5} /une femme qui gère bien les personnes, particulièrement ses supérieurs/
-???? 世界小姐 世界小姐 [Shi4 jie4 Xiao3 jie3] {sai3 gaai3 siu2 ze2} /Mademoiselle mondiale/
+世界小姐 世界小姐 [Shi4 jie4 Xiao3 jie3] {sai3 gaai3 siu2 ze2} /Miss Monde, un concours de beauté international/
 世界市場 世界市场 [shi4 jie4 shi4 chang3] {sai3 gaai3 si5 coeng4} /le marché mondial/
 世界性 世界性 [shi4 jie4 xing4] {sai3 gaai3 sing3} /mondial/
 世界歷史 世界历史 [shi4 jie4 li4 shi3] {sai3 gaai3 lik6 si2} /l'histoire/
@@ -668,7 +668,7 @@
 丟生晒 丢生晒 [diu1 sheng1 shai4] {diu1 saang1 saai3} /rouillé, manquer de pratique/
 丟疏 丢疏 [diu1 shu1] {diu1 so1} /rouillé, manquer de pratique/
 丟疏咗 丢疏咗 [diu1 shu1 zuo5] {diu1 so1 zo2} /rouillé, manquer de pratique/
-???? 丟眼色 丢眼色 [diu1 yan3 se4] {diu1 ngaan5 sik1} /faire un clin d'oeil pour indiquer qqch/
+丟眼色 丢眼色 [diu1 yan3 se4] {diu1 ngaan5 sik1} /faire un clin d'oeil pour indiquer qqch/
 丟眼角 丢眼角 [diu1 yan3 jiao3] {diu1 ngaan5 gok3} /faire un clin d'oeil pour indiquer qqch/
 丟那媽 丢那妈 [diu1 na4 ma1] {diu1 naa5 maa1} /(vulgaire) baiser sa mère, niquer sa mère/
 並未 并未 [bing4 wei4] {bing3 mei6} /pas encore/
@@ -677,9 +677,9 @@
 丫 丫 [ya1] {aa1} /bébé/onomatopée pour les corbeaux/le son d'un bébé qui pleure/
 中 中 [zhong1] {zung1} /frapper qqch précisément/gagner (un prix, la loterie)/
 中上層 中上层 [zhong1 shang4 ceng2] {zung1 soeng6 cang4} /la classe moyenne supérieure/
-???? 中上游 中上游 [zhong1 shang4 you2] {zung1 soeng6 jau4} /Upper-middle reaches/
+中上游 中上游 [zhong1 shang4 you2] {zung1 soeng6 jau4} /dans une chaîne logistique, l'amont/la class moyenne supérieure/
 中下 中下 [zhong1 xia4] {zung1 haa6} /moyenne inférieure/
-???? 中下游 中下游 [zhong1 xia4 you2] {zung1 haa6 jau4} /Lower--middle reaches/
+中下游 中下游 [zhong1 xia4 you2] {zung1 haa6 jau4} /dans une chaîne logistique, l'aval/la class moyenne inférieure/
 中中哋 中中哋 [zhong1 zhong1 di4] {zung1 zung1 dei2} /environ au milieu/quelqu'un qui ne marche pas en ligne droite/
 中位 中位 [zhong1 wei4] {zung1 wai6} /la place du milieu/
 ???? 中停 中停 [zhong1 ting2] {zung1 ting4} /arrêter au milieu/or refers to the part from forehead to eyebrows in face reading/
@@ -718,391 +718,391 @@
 中女 中女 [zhong1 nü3] {zung1 neoi5} /femme d'âge mûr/
 中學 中学 [zhong1 xue2] {zung1 hok6} /Canada: secondaire; France: collège, lycée/
 中學教師 中学教师 [zhong1 xue2 jiao4 shi1] {zung1 hok6 gaau3 si1} /enseignant(e) au secondaire, collège, lycée/
-中學會考 中学会考 [zhong1 xue2 hui4 kao3] {zung1 hok6 wui6 haau2} /Hong Kong Certificate of Education Examination (HKCEE) /
-中學雞 中学鸡 [zhong1 xue2 ji1] {zung1 hok6 gai1} /a term which is used to describe secondary school students who are immature, reckless, attention-seeking, and afraid to take up responsibilities/
-中小 中小 [zhong1 xiao3] {zung1 siu2} /Small and medium/
-中山路 中山路 [Zhong1 shan1 Lu4] {zung1 saan1 lou6} /Zhong Shan Lu, a common name used for roads in China /
-中州 中州 [Zhong1 zhou1] {zung1 zau1} /lit. Central Plains (Province), is an ancient province around the area for current Henan Province, in China /
-中年人 中年人 [zhong1 nian2 ren2] {zung1 nin4 jan4} /middle-aged people/
-中庸之道 中庸之道 [zhong1 yong1 zhi1 dao4] {zung1 jung4 zi1 dou3} /the golden mean/
-中心 中心 [zhong1 xin1] {zung1 sam1} /(noun) 1. mall; 2. plaza/
-中心內容 中心内容 [zhong1 xin1 nei4 rong2] {zung1 sam1 noi6 jung4} /Main content/
-中心思想 中心思想 [zhong1 xin1 si1 xiang3] {zung1 sam1 si1 soeng2} /Main idea; main thought/
-中文大學 中文大学 [Zhong1 wen2 da4 xue2] {zung1 man4 daai6 hok6} /Chinese University/
-中文字 中文字 [zhong1 wen2 zi4] {zung1 man4 zi6} /Chinese characters/
-中文數字 中文数字 [Zhong1 wen2 shu4 zi4] {zung1 man4 sou3 zi6} /Chinese numerals/
-中文系 中文系 [Zhong1 wen2 xi4] {zung1 man4 hai6} /Department of Chinese language and literature/
-中更 中更 [zhong1 geng1] {zung1 gang1} /a title for the Chinese lords; changes in the middle of a process; a working shift in the middle of a day/
-中樂 中乐 [Zhong1 yue4] {zung1 ngok6} /Chinese music/
-中檔 中档 [zhong1 dang4] {zung1 dong3} /Medium-grade; Mid-range/
-中環中心 中环中心 [zhong1 huan2 zhong1 xin1] {zung1 waan4 zung1 sam1} /The Center, a skyscraper in Hong Kong/
-中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /Central Plaza/
-中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /Central Market, a historical heritage in Central, of Hong Kong /
-中用 中用 [zhong1 yong4] {zung1 jung6} /useful/
-中碼 中码 [zhong1 ma3] {zung1 maa5} /medium size (apparel)/
-中立國家 中立国家 [zhong1 li4 guo2 jia1] {zung1 laap6 gwok3 gaa1} /neutral state /
-中等 中等 [zhong1deng3] {zung1 dang2} /(adjective) Middle; (of figure) 1. Average/
-中美關係 中美关系 [Zhong1 Mei3 guan1 xi5] {zung1 mei5 gwaan1 hai6} /China-United States relations; Sino-American relations /
-中美高 中美高 [Zhong1 mei3 gao1] {zung1 mei5 gou1} /High Tech in USA/China/
-中耕 中耕 [zhong1 geng1] {zung1 gaang1} /Intertillage/
-中肯 中肯 [zhong4ken3] {zung3 hang2} /(adjective) (of opinion) Fair/
-中腦 中脑 [zhong1 nao3] {zung1 nou5} /Midbrain/
-中英聯合聲明 中英联合声明 [Zhong1 Ying1 lian2 he2 sheng1 ming2] {zung1 jing1 lyun4 hap6 sing1 ming4} /Sino-British Joint Declaration/
-中菜 中菜 [Zhong1 cai4] {zung1 coi3} /Chinese cuisine/
-中華人民共和國主席 中华人民共和国主席 [Zhong1 hua2 Ren2 min2 Gong4 he2 guo2 Zhu3 xi2] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 zyu2 zik6} /President of the People's Republic of China /
-中華人民共和國國務院 中华人民共和国国务院 [Zhong1 hua2 Ren2 min2 Gong4 he2 guo2 Guo2 wu4 yuan4] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 gwok3 mou6 jyun2} /State Council of the People's Republic of China/
-中華人民共和國國徽 中华人民共和国国徽 [Zhong1 hua2 Ren2 min2 Gong4 he2 guo2 guo2 hui1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 gwok3 fai1} /National Emblem of the People's Republic of China/
-中華人民共和國香港特別行政區 中华人民共和国香港特别行政区 [Zhong1 hua2 Ren2 min2 Gong4 he2 guo2 Xiang1 gang3 Te4 bie2 Xing2 zheng4 qu1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 hoeng1 gong2 dak6 bit6 hang4 zing3 keoi1} /Hong Kong Special Administrative Region of the People's Republic of China/
+中學會考 中学会考 [zhong1 xue2 hui4 kao3] {zung1 hok6 wui6 haau2} /Hong Kong Certificate of Education Examination (HKCEE), un examen à la fin du secondaire, remplacé en 2012 par le Hong Kong Diploma of Secondary Education (HKDSE)/
+中學雞 中学鸡 [zhong1 xue2 ji1] {zung1 hok6 gai1} /des étudiants de (secondaire, Can., lycée, collège, Fr.) qui sont immatures/qqn dont le niveau d'enseignement le plus élevé atteint est le (secondaire, Can., lycée, collège, Fr.)/
+中小 中小 [zhong1 xiao3] {zung1 siu2} /petit et moyen/
+中山路 中山路 [zhong1 shan1 Lu4] {zung1 saan1 lou6} /Zhong Shan Lu, un nom courant des rues en Chine/
+中州 中州 [zhong1 zhou1] {zung1 zau1} /une ancienne province située aux alentours de ce qui est maintenant la province de Henan/(litt.) les plaines centrales/
+中年人 中年人 [zhong1 nian2 ren2] {zung1 nin4 jan4} /les gens d'âge mûr/
+中庸之道 中庸之道 [zhong1 yong1 zhi1 dao4] {zung1 jung4 zi1 dou3} /le Zhong Yong, l'impartialité et l'invariabilité/
+中心 中心 [zhong1 xin1] {zung1 sam1} /centre commercial/place/
+中心內容 中心内容 [zhong1 xin1 nei4 rong2] {zung1 sam1 noi6 jung4} /l'idée principale (d'un livre, un article, un film, etc.)/
+中心思想 中心思想 [zhong1 xin1 si1 xiang3] {zung1 sam1 si1 soeng2} /l'idée principale (d'un livre, un article, un film, etc.)/
+中文大學 中文大学 [Zhong1 wen2 da4 xue2] {zung1 man4 daai6 hok6} /université chinoise/
+中文字 中文字 [zhong1 wen2 zi4] {zung1 man4 zi6} /les caractères chinoises/
+中文數字 中文数字 [Zhong1 wen2 shu4 zi4] {zung1 man4 sou3 zi6} /les numéros chinois/
+中文系 中文系 [Zhong1 wen2 xi4] {zung1 man4 hai6} /le département de langue et littérature chinoise/
+中更 中更 [zhong1 geng1] {zung1 gang1} /le poste du milieu de la journée de travail (plutôt que le poste de matin ou le poste de nuit)/un titre des seigneurs chinois/un changement en plein milieu de qqch/
+中樂 中乐 [Zhong1 yue4] {zung1 ngok6} /la musique chinoise/
+中檔 中档 [zhong1 dang4] {zung1 dong3} /milieu de gamme/
+中環中心 中环中心 [zhong1 huan2 zhong1 xin1] {zung1 waan4 zung1 sam1} /The Center, un gratte-ciel situé à Hong Kong/
+中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /le Central Plaza, un gratte-ciel situé à Hong Kong/
+中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /le Central Market, un site historique situé à Central, Hong Kong /
+中用 中用 [zhong1 yong4] {zung1 jung6} /utile/
+中碼 中码 [zhong1 ma3] {zung1 maa5} /taille moyen (pour vêtements)/
+中立國家 中立国家 [zhong1 li4 guo2 jia1] {zung1 laap6 gwok3 gaa1} /État neutre/
+中等 中等 [zhong1 deng3] {zung1 dang2} /normal, moyen/au milieu/
+中美關係 中美关系 [Zhong1 Mei3 guan1 xi5] {zung1 mei5 gwaan1 hai6} /les relations sino-américaines/
+中美高 中美高 [zhong1 mei3 gao1] {zung1 mei5 gou1} /les techniques de pointe aux États-Unis et la China/
+???? 中耕 中耕 [zhong1 geng1] {zung1 gaang1} /le labour entre deux rangées de plantes/
+中肯 中肯 [zhong4 ken3] {zung3 hang2} /impartial, juste (pour parler d'une opinion)/
+中腦 中脑 [zhong1 nao3] {zung1 nou5} /mésencéphale, cerveau moyen/
+中英聯合聲明 中英联合声明 [Zhong1 Ying1 lian2 he2 sheng1 ming2] {zung1 jing1 lyun4 hap6 sing1 ming4} /la déclaration conjointe sino-britannique/
+中菜 中菜 [zhong1 cai4] {zung1 coi3} /la cuisine chinoise/
+中華人民共和國主席 中华人民共和国主席 [zhong1 hua2 ren2 min2 gong4 he2 guo2 zhu3 xi2] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 zyu2 zik6} /le président de la république populaire de Chine/
+中華人民共和國國務院 中华人民共和国国务院 [zhong1 hua2 zen2 min2 gong4 he2 guo2 guo2 wu4 yuan4] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 gwok3 mou6 jyun2} /Conseil des affaires de l’État de la république populaire de Chine/
+中華人民共和國國徽 中华人民共和国国徽 [zhong1 hua2 ren2 min2 gong4 he2 guo2 guo2 hui1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 gwok3 fai1} /l'emblème de la république populaire de Chine/
+中華人民共和國香港特別行政區 中华人民共和国香港特别行政区 [Zhong1 hua2 Ren2 min2 Gong4 he2 guo2 Xiang1 gang3 Te4 bie2 Xing2 zheng4 qu1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 hoeng1 gong2 dak6 bit6 hang4 zing3 keoi1} /la région administrative spéciale de Hong Kong de la République populaire de Chine/
 中華巴士 中华巴士 [Zhong1 hua2 ba1 shi4] {zung1 waa4 baa1 si6} /China Motor Bus/
-中華民族 中华民族 [Zhong1hua2min2zu2] {zung1 waa4 man4 zuk6} /(noun) Chinese nation/
-中華白海豚 中华白海豚 [Zhong1 hua2 bai2 hai3 tun2] {zung1 waa4 baak6 hoi2 tyun4} /Sousa Chinensis/ Chinese White Dolphin/
+中華民族 中华民族 [Zhong1hua2min2zu2] {zung1 waa4 man4 zuk6} /la nation chinoise/
+中華白海豚 中华白海豚 [Zhong1 hua2 bai2 hai3 tun2] {zung1 waa4 baak6 hoi2 tyun4} /le dauphin à bosse du Pacifique/
 中華航空 中华航空 [Zhong1 hua2 Hang2 kong1] {zung1 waa4 hong4 hung1} /China Airlines/
-中華英雄 中华英雄 [Zhong1 hua2 ying1 xiong2] {zung1 waa4 jing1 hung4} /Hero, a monthly local comic /
-中蛇 中蛇 [zhong1 she2] {zung3 se4} /[literal translation] hit a snake/
-中褸 中褛 [zhong1 lü3] {zung1 lau1} /overcoat/
-中資集團 中资集团 [zhong1 zi1 ji2 tuan2] {zung1 zi1 zaap6 tyun4} /Chinese funded enterprises/
+中華英雄 中华英雄 [Zhong1 hua2 ying1 xiong2] {zung1 waa4 jing1 hung4} /Chinese Hero: Tales of the Blood Sword, un manhua - bande dessinée en Chine - publié de 1980-1995/
+中蛇 中蛇 [zhong1 she2] {zung3 se4} /réussir un coup monté/(litt.) frapper un serpent/
+中褸 中褛 [zhong1 lü3] {zung1 lau1} /pardessus, manteau/
+中資集團 中资集团 [zhong1 zi1 ji2 tuan2] {zung1 zi1 zaap6 tyun4} /entreprises financées par la Chine/
 中途宿舍 中途宿舍 [zhong1 tu2 su4 she4] {zung1 tou4 suk1 se3} /Half-way house/
-中部國際機場 中部国际机场 [zhong1 bu4 guo2 ji4 ji1 chang3] {zung1 bou6 gwok3 zai3 gei1 coeng4} /Chubu Centrair International Airport, in Nagoya, Japan /
-中醫藥 中医药 [Zhong1 yi1 yao4] {zung1 ji1 joek6} /Traditional Chinese Medicine/
-中銀大廈 中银大厦 [Zhong1 Yin2 da4 sha4] {zung1 ngan4 daai6 haa6} /Bank of China Tower/
-中間人 中间人 [zhong1 jian1 ren2] {zung1 gaan1 jan4} /middle man, agent/
-中間界 中间界 [zhong1 jian1 jie4] {zung1 gaan1 gaai3} /middle split (hair style)/
+中部國際機場 中部国际机场 [zhong1 bu4 guo2 ji4 ji1 chang3] {zung1 bou6 gwok3 zai3 gei1 coeng4} /l'aéroport international du Chūbu, situé au Japon/
+中醫藥 中医药 [Zhong1 yi1 yao4] {zung1 ji1 joek6} /la médecine traditionnelle chinoise/
+中銀大廈 中银大厦 [Zhong1 Yin2 da4 sha4] {zung1 ngan4 daai6 haa6} /la tour de la Bank of China/
+中間人 中间人 [zhong1 jian1 ren2] {zung1 gaan1 jan4} /intermédiaire (une personne, e.g qqn qui sert d'intermédiaire)/
+中間界 中间界 [zhong1 jian1 jie4] {zung1 gaan1 gaais3} /une raie au milieu/
 中電 中电 [zhong4 dian4] {zung1 din6} /CLP Power Hong Kong Limited/
-中頻 中频 [zhong1 pin2] {zung1 pan4} /Midband; medium frequency/
-中飛 中飞 [zhong1 fei1] {zung3 fei1} /middle-powered power boats /
-串 串 [chuan4] {cyun3} /(adjective) 1. cocky and arrogant; (verb) 1. to arrogantly talk to someone; 2. to tease (someone); (verb)  spell (English)/
-串仔 串仔 [chuan4 zi3] {cyun3 zi2} /male gangsters who hang around on the streets/
-串埋 串埋 [chuan4 mai2] {cyun3 maai4} /Partner in…/
-串女 串女 [chuan4 nü3] {cyun3 neoi5} /female gangsters who hang around on the streets/
-串字 串字 [chuan4 zi4] {cyun3 zi6} /spell a word/
-串講 串讲 [chuan4 jiang3] {cyun3 gong2} /Synopsis explain/
-丸仔 丸仔 [wan2 zi3] {jyun2 zai2} /pills (often illegal drugs)/
-丹墀 丹墀 [dan1 chi2] {daan1 ci4} /the front entry of a Chinese palace, usually the terrace is painted red/
-丹尼士巨龍 丹尼士巨龙 [dan1 ni2 shi4 ju4 long2] {daan1 nei4 si6 geoi6 lung4} /Dennis Dragon (bus type) /
-主人房 主人房 [zhu3 ren2 fang2] {zyu2 jan4 fong2} /master bedroom/
-主任 主任 [zhu3 ren4] {zyu2 jam6} /supervisor/
-主使 主使 [zhu3 shi3] {zyu2 si2} /instigate, order/
-主修科目 主修科目 [zhu3 xiu1 ke1 mu4] {zyu2 sau1 fo1 muk6} /Major course/
-主力牆 主力墙 [zhu3 li4 qiang2] {zyu2 lik6 coeng4} /load-bearing wall; structural wall/
-主力軍 主力军 [zhu3 li4 jun1] {zyu2 lik6 gwan1} /Main force/
-主動 主动 [zhu3 dong4] {zyu2 dung6} /proactive/
-主動權 主动权 [zhu3 dong4 quan2] {zyu2 dung6 kyun4} /Initiative/
-主唱 主唱 [zhu3 chang4] {zyu2 coeng3} /Lead singer/
-主婚 主婚 [zhu3 hun1] {zyu2 fan1} /preside a wedding/
-主婦手 主妇手 [zhu3 fu4 shou3] {zyu2 fu5 sau2} /Hand Eczema/
-主將 主将 [zhu3 jiang4] {zyu2 zoeng3} /captain, leading player, chief commander/
-主帥 主帅 [zhu3 shuai4] {zyu2 seoi3} /Chief; Commander; Manager/
-主持正義 主持正义 [zhu3 chi2 zheng4 yi4] {zyu2 ci4 zing3 ji6} /Uphold justice/
-主教山 主教山 [zhu3 jiao4 shan1] {zyu2 gaau3 saan1} /Penha Hill/
-主旨 主旨 [zhu3 zhi3] {zyu2 zi2} /(noun) 1. Subject; (of literature)  Theme/
-主根 主根 [zhu3 gen1] {zyu2 gan1} /Main root/
-主次 主次 [zhu3 ci4] {zyu2 ci3} /primary and secondary/
-主治 主治 [zhu3 zhi4] {zyu2 zi6} /(Medical term)Specialty of…/
-主禮 主礼 [zhu3 li3] {zyu2 lai5} /Officiating/
-主筆 主笔 [zhu3 bi3] {zyu2 bat1} /Editor in chief; Lead writer/
-主考 主考 [zhu3 kao3] {zyu2 haau2} /chief examiner/
-主腦 主脑 [zhu3 nao3] {zyu2 nou5} /leader; mastermind /
-主要 主要 [zhu3 yao4] {zyu2 jiu3} /mainly/
-主要原因 主要原因 [zhu3 yao4 yuan2 yin1] {zyu2 jiu3 jyun4 jan1} /main reason/
-主要指標 主要指标 [zhu3 yao4 zhi3 biao1] {zyu2 jiu3 zi2 biu1} /main indicator /
+中頻 中频 [zhong1 pin2] {zung1 pan4} /(onde de) fréquence moyenne/canal de transmission moyenne/
+中飛 中飞 [zhong1 fei1] {zung3 fei1} /hors-bord de puissance moyenne/
+串 串 [chuan4] {cyun3} /prétentieux, arrogant/prendre qqn de haut/se moquer de qqn, taquiner/épeler, écrire (un mot)/
+串仔 串仔 [chuan4 zi3] {cyun3 zi2} /des gangsters (de sexe masculin) qui rôdent les rues/
+串埋 串埋 [chuan4 mai2] {cyun3 maai4} /faire (qqch) avec (qqn)/
+串女 串女 [chuan4 nü3] {cyun3 neoi5} /des gangsters (de sexe féminin) qui rôdent les rues/
+串字 串字 [chuan4 zi4] {cyun3 zi6} /épeler un mot/
+串講 串讲 [chuan4 jiang3] {cyun3 gong2} /éxpliquer, résumer/
+丸仔 丸仔 [wan2 zi3] {jyun2 zai2} /pilules, comprimés (souvent pour désigner les drogues)/
+丹墀 丹墀 [dan1 chi2] {daan1 ci4} /les marches à l'entrée à un palais chinois/
+丹尼士巨龍 丹尼士巨龙 [dan1 ni2 shi4 ju4 long2] {daan1 nei4 si6 geoi6 lung4} /le Dennis Dragon, un modèle d'autobus manufacturé par la compagnie Dennis/
+主人房 主人房 [zhu3 ren2 fang2] {zyu2 jan4 fong2} /grande chambre, chambre principale/
+主任 主任 [zhu3 ren4] {zyu2 jam6} /superviseur, responsable/
+主使 主使 [zhu3 shi3] {zyu2 si2} /inciter, ordonner/
+主修科目 主修科目 [zhu3 xiu1 ke1 mu4] {zyu2 sau1 fo1 muk6} /matière principale (éducation)/
+主力牆 主力墙 [zhu3 li4 qiang2] {zyu2 lik6 coeng4} /mur porteur/
+主力軍 主力军 [zhu3 li4 jun1] {zyu2 lik6 gwan1} /ceux qui contribuent le plus dans un group, ceux qui sont importants/
+主動 主动 [zhu3 dong4] {zyu2 dung6} /(qqn de) dynamique, proactif/
+主動權 主动权 [zhu3 dong4 quan2] {zyu2 dung6 kyun4} /(avoir de) l'initiative/
+主唱 主唱 [zhu3 chang4] {zyu2 coeng3} /chanteur, chanteuse principal(e)/
+主婚 主婚 [zhu3 hun1] {zyu2 fan1} /célébrant (d'un mariage)/
+主婦手 主妇手 [zhu3 fu4 shou3] {zyu2 fu5 sau2} /eczéma des mains/
+主將 主将 [zhu3 jiang4] {zyu2 zoeng3} /capitaine, dirigeant/
+主帥 主帅 [zhu3 shuai4] {zyu2 seoi3} /chef, capitaine, dirigeant/
+主持正義 主持正义 [zhu3 chi2 zheng4 yi4] {zyu2 ci4 zing3 ji6} /soutenir, rendre la justice/
+主教山 主教山 [zhu3 jiao4 shan1] {zyu2 gaau3 saan1} /Penha Hill, un colline située à Macau/
+主旨 主旨 [zhu3 zhi3] {zyu2 zi2} /sujet/thème/
+主根 主根 [zhu3 gen1] {zyu2 gan1} /racine principale/
+主次 主次 [zhu3 ci4] {zyu2 ci3} /le principal et les autres moins importants/(litt.) primaire et secondaire/
+主治 主治 [zhu3 zhi4] {zyu2 zi6} /médecin agréé/(un médicament qui) cible ou qui guérit (qcch)/
+主禮 主礼 [zhu3 li3] {zyu2 lai5} /officier, célébrer (qqch)/
+主筆 主笔 [zhu3 bi3] {zyu2 bat1} /rédacteur, rédatrice en chef/
+主考 主考 [zhu3 kao3] {zyu2 haau2} /inspecteur, examinateur, examinatrice en chef/
+主腦 主脑 [zhu3 nao3] {zyu2 nou5} /cerveau (chef de qqch)/
+主要 主要 [zhu3 yao4] {zyu2 jiu3} /principalement/
+主要原因 主要原因 [zhu3 yao4 yuan2 yin1] {zyu2 jiu3 jyun4 jan1} /raison, cause principale/
+主要指標 主要指标 [zhu3 yao4 zhi3 biao1] {zyu2 jiu3 zi2 biu1} /indicateur principal/
 主謀 主谋 [zhu3 mou2] {zyu2 mau4} /a mastermind/
-主辦單位 主办单位 [zhu3 ban4 dan1 wei4] {zyu2 baan6 daan1 wai2} /Organizer; Sponsor/
-主題公園 主题公园 [zhu3 ti2 gong1 yuan2] {zyu2 tai4 gung1 jyun4} /Theme park/
-主題樂園 主题乐园 [zhu3 ti2 le4 yuan2] {zyu2 tai4 lok6 jyun4} /Theme park/
-乃念 乃念 [nai3 nian4] {naai5 nim6} /thinking about; taking into consideration the past/
-久一…久二… 久一…久二… [jiu3 yi1… jiu3 er4 …] {gau2 jat1 …gau2 ji6…} /Doing something in fits and starts; doing something on and off/
-久不久 久不久 [jiu3 bu4 jiu3] {gau2 bat1 gau2} /from time to time/
-久唔久 久唔久 [jiu3 n2 jiu3] {gau2 m4 gau2} /occasionally, from time to time/
-之 之 [zhi1] {zi1} /(determiner, pronoun) 1. That; 2. This; (noun) (of road) branch/
-之不過 之不过 [zhi1 bu5 guo4] {zi1 bat1 gwo3} /(conjunction) however; but;/
-之但係 之但系 [zhi1 dan4 xi4] {zi1 daan6 hai6} /But/
-之先 之先 [zhi1 xian1] {zi1 sin1} /long before, ahead/
-之嘛 之嘛 [zhi1 ma5] {zi1 maa3} /(modal particle) Used at the end of a sentence, usually to show the unimportance of the thing you talked about; "that's all"/
-之字線 之字线 [zhi1 zi4 xian4] {zi1 zi6 sin3} /Zigzag/
-之餘 之余 [zhi1 yu2] {zi1 jyu4} /other than /
-尹光 尹光 [yin3 guang1] {wan5 gwong1} /Jackson Wan Kwong, name of a singer in Hong Kong/
-尹天照 尹天照 [yin3 tian1 zhao4] {wan5 tin1 ziu3} /Eric Wan Tin-Chiu, name of an actor in Hong Kong /
-尹揚明 尹扬明 [yin3 yang2 ming2] {wan5 joeng4 ming4} /Vincent Wan Yeung-Ming, name of an actor in Hong Kong/
-乍到 乍到 [zha4 dao4] {zaa3 dou3} /Just arrived/
-乍暖還寒 乍暖还寒 [zha4 nuan3 huan2 han2] {zaa3 nyun5 waan4 hon4} /In between Winter and Spring, where the temperature fluctuates between warm and cold /
-乏人問津 乏人问津 [fa2 ren2 wen4 jin1] {fat6 jan4 man6 zeon1} /not catching attention or interest in people /
-乏善足陳 乏善足陈 [fa2 shan4 zu2 chen2] {fat6 sin6 zuk1 can4} /1. there is nothing worth mentioning for one     2. no benefits     3. nothing of value /
-乒乒乓乓 乒乒乓乓 [ping1 ping5 pang1 pang1] {ping1 ping1 pong1 pong1} /onomatopoeia, Describe the noise/
-乒乓波 乒乓波 [ping1 pang1 bo1] {bing1 bam1 bo1} /(n.) ping pong ball./
-乒鈴𠾴唥 乒鈴𠾴唥 [] {ping1 ling1 baang4 laang4} /onomatopoeia, Describe the noise/
-乖乖 乖乖 [guai1 guai5] {gwaai1 gwaai1} /be good; well-behaved (spoken)/
-乖乖仔 乖乖仔 [guai1 guai5 zi3] {gwaai1 gwaai1 zai2} /Good boy/
-乖乖女 乖乖女 [guai1 guai5 nü3] {gwaai1 gwaai1 neoi5} /good and obedient girl/
-乖仔 乖仔 [guai1 zi3] {gwaai1 zai2} /good or well-behaved boy/
-乖女 乖女 [guai1 nü3] {gwaai1 neoi5} /good girl/
-乖舛 乖舛 [guai1 chuan3] {gwaai1 cyun2} /Disagreeable; unfortunate/
-乖豬 乖猪 [guai1 zhu1] {gwaai1 zyu1} /lit. good pig, used when we are telling a close one (children or lover) that they are behaving well /
-乘搭 乘搭 [cheng2 da1] {sing4 daap3} /to ride (transport) /
-乙部 乙部 [yi3 bu4] {jyut3 bou6} /Second section /
-乜 乜 [mie1] {me1} /(adjective)  all kinds (stuff, works, etc.)/
-乜乜物物 乜乜物物 [mie1 mie1 wu4 wu4] {mat1 mat1 mat6 mat6} /(adj.)(n.)  blah blah blah, such and such./
-乜事 乜事 [mie1 shi4] {mat1 si6} /1. what's the matter?     2. what happened? /
-乜人 乜人 [mie1 ren2] {me1 jan4} /what kind of person, every kind of person/
-乜嘢話 乜嘢话 [mie1 ye3 hua4] {mat1 je5 waa2} /what did you say?/
-乜春 乜春 [mie1 chun1] {mat1 ceon1} /what's up?/
-乜東東 乜东东 [mie1 dong1 dong1] {mat1 dung1 dung1} /(slang) what is that?/
-乜水 乜水 [mie1 shui3] {me1 seoi2} /who/
-乜滯 乜滞 [mie1 zhi4] {mat1 zai6} /not; not too (spoken)/
-乜花款 乜花款 [mie1 hua1 kuan3] {mat1 faa1 fun2} /what is the gimmick/
-乜說話 乜说话 [mie1 shuo1 hua4] {me1 syut3 waa6} /no problem at all/
-乜誰 乜谁 [mie1 shui2] {mat1 seoi2} /(pronoun) who; whom ; (noun)  so-and-so; what's-his-name; what's-her-name/
-乜都 乜都 [mie1 dou1] {me1 dou1} /everything is/
-乜都假 乜都假 [mie1 dou1 jia3] {mat1 dou1 gaa2} /(slang) (of object) everything is fake; all are fake; (of event) a phrase to express how resolute someone is to stand one's ground which cannot be compromised, with an intention somewhat similar to telling others not to even bother; to describe a situation where there are no solutions or alternatives: there's no way out / cannot be helped; a phrase used to ascertain others any alternatives are pointless / ineffective / not worth the effort: of no use / of no good; interjection no way!; not possible!;/
-乜都得 乜都得 [mie1 dou1 de5] {mat1 dou1 dak1} /able to do anything /
-乜野 乜野 [mie1 ye3] {me1 je5} /what's up; what is; every kind of thing/
-乜頭乜路 乜头乜路 [mie1 tou2 mie1 lu4] {mat1 tau4 mat1 lou6} /a person or a group who is not known or recognizable /
-乜鬼 乜鬼 [mie1 gui3] {mat1 gwai2} /"what the hell?"; an intense way of asking "what"/
-九 九 [jiu3] {gau2} /(slang) (of coarse language)  shithead/
-九七年 九七年 [jiu3 qi1 nian2] {gau2 cat1 nin4} /year 1997/
-九九金 九九金 [jiu3 jiu3 jin1] {gau2 gau2 gam1} /999 gold, very fine gold/
-九個字 九个字 [jiu3 ge4 zi4] {gau2 go3 zi6} /1. nine characters or words     2. forty-five minutes /
-九出十三歸 九出十三归 [jiu3 chu1 shi2 san1 gui1] {gau2 ceot1 sap6 saam1 gwai1} /a loanshark term, meaning when one borrows ten dollars, one only received nine, but have to repay thirteen /
-九十九 九十九 [jiu3 shi2 jiu3] {gau2 sap6 gau2} /ninety-nine/
-九十年代 九十年代 [jiu3 shi2 nian2 dai4] {gau2 sap6 nin4 doi6} /during the 90s (era) /
-九千 九千 [jiu3 qian1] {gau2 cin1} /nine thousand/
-九唔搭八 九唔搭八 [jiu3 n2 da1 ba1] {gau2 m4 daap3 baat3} /(slang) someone is completely illogical, ludicrous and nonsensical; irrelevant, off topic/
-九因歌 九因歌 [jiu3 yin1 ge1] {gau2 jan1 go1} /Chinese multiplication table/
-九大簋 九大簋 [Jiu3 da4 gui3] {gau2 daai6 gwai2} /(n.) a big meal; a feast; a banquet that consists of 9 courses./
-九子連環 九子连环 [jiu3 zi3 lian2 huan2] {gau2 zi2 lin4 waan4} /one type of winning hands in the game of Mahjong /
-九宮格 九宫格 [jiu3 gong1 ge2] {gau2 gung1 gaak3} /1. nine grid squares     2. sudoku /
-九廣西鐵 九广西铁 [jiu3 Guang3 xi1 tie3] {gau2 gwong2 sai1 tit3} /KCR West Rail Line, now just known as "West Rail" /
-九廣鐵路 九广铁路 [jiu3 guang3 tie3 lu4] {gau2 gwong2 tit3 lou6} /Kowloon-Canton Railway/
-九廣鐵路公司 九广铁路公司 [jiu3 guang3 tie3 lu4 gong1 si1] {gau2 gwong2 tit3 lou6 gung1 si1} /Kowloon-Canton Railway Corporation/
-九廿幾 九廿几 [jiu3 nian4 ji3] {gau2 jaa6 gei2} /in the range of ninety's /
-九成九 九成九 [jiu3 cheng2 jiu3] {gau2 sing4 gau2} /99%, most probably or likely /
-九方輸入法 九方输入法 [jiu3 fang1 shu1 ru4 fa3] {gau2 fong1 syu1 jap6 faat3} /Q9 Imput Method/
-九族 九族 [jiu3 zu2] {gau2 zuk6} /across nine generations within one's family /
-九日 九日 [jiu3 ri4] {gau2 jat6} /nine days, ninth [date]/
-九曲十三彎 九曲十三弯 [jiu3 qu1 shi2 san1 wan1] {gau2 kuk1 sap6 saam1 waan1} /nine bends thirteen curves, which means the way is really curvy/
-九江煎堆 九江煎堆 [jiu3 jiang1 jian1 dui1] {gau2 gong1 zin1 deoi1} /Jiujiang Sesame Ball (a type of Chinese deep fried pastry) /
-九肚魚 九肚鱼 [jiu3 du4 yu2] {gau2 tou5 jyu4} /Bombay Duck / Bummalo/
-九針群島 九针群岛 [jiu3 zhen1 qun2 dao3] {gau2 zam1 kwan4 dou2} /North Ninepin Island/ Pak Kwo Chau (A place in Hong Kong)/
-九鐵 九铁 [jiu3 tie3] {gau2 tit3} /Kowloon-Canton Railway/
-九點鐘 九点钟 [jiu3 dian3 zhong1] {gau2 dim2 zung1} /Nine o'clock/
-九龍公園 九龙公园 [Jiu3 long2 gong1 yuan2] {gau2 lung4 gung1 jyun4} /Kowloon Park/
-九龍城區 九龙城区 [Jiu3 long2 cheng2 qu1] {gau2 lung4 sing4 keoi1} /Kowloon City District/
-九龍城寨公園 九龙城寨公园 [Jiu3 long2 Cheng2 zhai4 gong1 yuan2] {gau2 lung4 sing4 zaai6 gung1 jyun4} /Kowloon Walled City Park/
-九龍塘 九龙塘 [Jiu3 long2 tang2] {gau2 lung4 tong4} /the name of a place in Hong Kong: Kowloon Tong/
-九龍山 九龙山 [jiu3 long2 shan1] {gau2 lung4 saan1} /Kowloon Hill /
-九龍巴士 九龙巴士 [Jiu3 long2 ba1 shi4] {gau2 lung4 baa1 si6} /The Kowloon Motor Bus/
-九龍水塘 九龙水塘 [Jiu3 long2 shui3 tang2] {gau2 lung4 seoi2 tong4} /Kowloon Reservoir/
-九龍清真寺 九龙清真寺 [Jiu3 long2 Qing1 zhen1 si4] {gau2 lung4 cing1 zan1 zi6} /Kowloon Masjid and Islamic Centre/
-九龍灣 九龙湾 [jiu3 long2 wan1] {gau2 lung4 waan1} /the name of a place in Hong Kong: Kowloon Bay/
+主辦單位 主办单位 [zhu3 ban4 dan1 wei4] {zyu2 baan6 daan1 wai2} /hôte/
+主題公園 主题公园 [zhu3 ti2 gong1 yuan2] {zyu2 tai4 gung1 jyun4} /parque d'attractions/
+主題樂園 主题乐园 [zhu3 ti2 le4 yuan2] {zyu2 tai4 lok6 jyun4} /parque d'attractions/
+???? 乃念 乃念 [nai3 nian4] {naai5 nim6} /penser (de qqch)/prendre en compte le passé/
+久一…久二… 久一…久二… [jiu3 yi1… jiu3 er4 …] {gau2 jat1 …gau2 ji6…} /faire qqch par intermittance/
+久不久 久不久 [jiu3 bu4 jiu3] {gau2 bat1 gau2} /de temps en temps/
+久唔久 久唔久 [jiu3 n2 jiu3] {gau2 m4 gau2} /de temps en temps/
+之 之 [zhi1] {zi1} /ceci, cela/embranchement (d'une route)/
+之不過 之不过 [zhi1 bu5 guo4] {zi1 bat1 gwo3} /mais, toutefois/
+之但係 之但系 [zhi1 dan4 xi4] {zi1 daan6 hai6} /mais, toutefois/
+???? 之先 之先 [zhi1 xian1] {zi1 sin1} /il y a longtemps, jadis/droit devant/
+之嘛 之嘛 [zhi1 ma5] {zi1 maa3} /une particule modale utilisé pour démontrer l'insignifiance de qqch dite, comme «c'est juste...», «ce n'est que», «..., c'est tout.»/
+之字線 之字线 [zhi1 zi4 xian4] {zi1 zi6 sin3} /zigzag/
+之餘 之余 [zhi1 yu2] {zi1 jyu4} /sauf, mis à part (qqch)/
+尹光 尹光 [yin3 guang1] {wan5 gwong1} /Jackson Wan Kwong une chanteuse Hongkongaise/
+尹天照 尹天照 [yin3 tian1 zhao4] {wan5 tin1 ziu3} /Eric Wan Tin-Chiu, un acteur Hongkongais/
+尹揚明 尹扬明 [yin3 yang2 ming2] {wan5 joeng4 ming4} /Vincent Wan Yeung-Ming, un acteur Hongkongais/
+???? 乍到 乍到 [zha4 dao4] {zaa3 dou3} /Just arrived/
+乍暖還寒 乍暖还寒 [zha4 nuan3 huan2 han2] {zaa3 nyun5 waan4 hon4} /une variation de température soudaine lors de la période entre l'hiver et le printemps/
+乏人問津 乏人问津 [fa2 ren2 wen4 jin1] {fat6 jan4 man6 zeon1} /qui ne suscite pas d'intérêt/(litt.) peu de personnes qui demandent (à propos de qqch)/
+乏善足陳 乏善足陈 [fa2 shan4 zu2 chen2] {fat6 sin6 zuk1 can4} /n'avoir que de critiques à offrir/rien de bon/
+乒乒乓乓 乒乒乓乓 [ping1 ping5 pang1 pang1] {ping1 ping1 pong1 pong1} /onomatopée pour quelque chose rebondit/
+乒乓波 乒乓波 [ping1 pang1 bo1] {bing1 bam1 bo1} /une balle de ping-pong/
+乒鈴𠾴唥 乒鈴𠾴唥 [] {ping1 ling1 baang4 laang4} /onomatopée pour quelque chose qui tombe/
+乖乖 乖乖 [guai1 guai5] {gwaai1 gwaai1} /sage, bien-élevé (pour parler d'enfants)/
+乖乖仔 乖乖仔 [guai1 guai5 zi3] {gwaai1 gwaai1 zai2} /un fils sage/
+乖乖女 乖乖女 [guai1 guai5 nü3] {gwaai1 gwaai1 neoi5} /une fille sage/
+乖仔 乖仔 [guai1 zi3] {gwaai1 zai2} /un fils sage, un fils bien-élevé/
+乖女 乖女 [guai1 nü3] {gwaai1 neoi5} /une fille sage, une fille bien-élevé/
+乖舛 乖舛 [guai1 chuan3] {gwaai1 cyun2} /malheureux/erroné/
+乖豬 乖猪 [guai1 zhu1] {gwaai1 zyu1} /(utilisé pour dire à qqn qu'il est) bien élevé/(litt.) cochon sage/
+乘搭 乘搭 [cheng2 da1] {sing4 daap3} /prendre (un mode de transport, e.g. un bus, un train, etc)/
+乙部 乙部 [yi3 bu4] {jyut3 bou6} /deuxième section/
+乜 乜 [mie1] {me1} /toutes sortes (de choses)/quel, quoi (utilisé dans les questions)
+乜乜物物 乜乜物物 [mie1 mie1 wu4 wu4] {mat1 mat1 mat6 mat6} /du bla-bla, tout le reste/
+乜事 乜事 [mie1 shi4] {mat1 si6} /qu'est-ce qu'il y a?/qu'est-ce qui se passe?/
+乜人 乜人 [mie1 ren2] {me1 jan4} /what kind of person, every kind of person/(litt.) quel type de personne/
+乜嘢話 乜嘢话 [mie1 ye3 hua4] {mat1 je5 waa2} /qu'as-tu dit?/
+乜春 乜春 [mie1 chun1] {mat1 ceon1} /quoi?/qu'est-ce que tu racontes?/
+乜東東 乜东东 [mie1 dong1 dong1] {mat1 dung1 dung1} /qu'est-ce que c'est?, c'est quoi ça?/
+乜水 乜水 [mie1 shui3] {me1 seoi2} /qui/machin, bidule (qqn dont le nom on a oublié)/untel, unetelle/
+乜滯 乜滞 [mie1 zhi4] {mat1 zai6} /pas beaucoup, peu/
+???? 乜花款 乜花款 [mie1 hua1 kuan3] {mat1 faa1 fun2} /what is the gimmick/
+???? 乜說話 乜说话 [mie1 shuo1 hua4] {me1 syut3 waa6} /pas de problème/pas du tout/
+乜誰 乜谁 [mie1 shui2] {mat1 seoi2} /qui/machin, bidule (qqn dont le nom on a oublié)/untel, unetelle/
+乜都 乜都 [mie1 dou1] {me1 dou1} /tout est (e.g. 乜都可以, tout est possible)/
+乜都假 乜都假 [mie1 dou1 jia3] {mat1 dou1 gaa2} /inévitable, n'y pouvoir rien faire/c'est tout faux! c'est tout une imitation! (en parlant d'objets)/ne pas abandonner, ne pas perdre l'espoir/mais ce n'est pas possible!/
+乜都得 乜都得 [mie1 dou1 de5] {mat1 dou1 dak1} /tout est possible/n'importe lequel/
+乜野 乜野 [mie1 ye3] {me1 je5} /quoi?/hein?/tous (en parlant d'une catégorie de choses)/
+乜頭乜路 乜头乜路 [mie1 tou2 mie1 lu4] {mat1 tau4 mat1 lou6} /une personne ou un groupe inconnu/
+乜鬼 乜鬼 [mie1 gui3] {mat1 gwai2} /(pour exprimer exaspération) mais qu'est-ce que.../
+九 九 [jiu3] {gau2} /connard, salaud (vulgaire)/
+九七年 九七年 [jiu3 qi1 nian2] {gau2 cat1 nin4} /l'année 1997/
+九九金 九九金 [jiu3 jiu3 jin1] {gau2 gau2 gam1} /or fin, or 999, or de 24 carats/
+九個字 九个字 [jiu3 ge4 zi4] {gau2 go3 zi6} /neuf caractères ou mots/quarante-cinq minutes/
+九出十三歸 九出十三归 [jiu3 chu1 shi2 san1 gui1] {gau2 ceot1 sap6 saam1 gwai1} /(pour parler des usuriers) emprunter dix dollars, recevoir seulement neuf dollars, mais devoir rembourser treize dollars/
+九十九 九十九 [jiu3 shi2 jiu3] {gau2 sap6 gau2} /quatre-vingt-dix-neuf/
+九十年代 九十年代 [jiu3 shi2 nian2 dai4] {gau2 sap6 nin4 doi6} /pendant les années 1990/
+九千 九千 [jiu3 qian1] {gau2 cin1} /neuf mille/
+九唔搭八 九唔搭八 [jiu3 n2 da1 ba1] {gau2 m4 daap3 baat3} /qqn incompréhensible, fou, absurde/
+九因歌 九因歌 [jiu3 yin1 ge1] {gau2 jan1 go1} /poème de table de multiplication chinoise, un moyen mnémotechnique/
+九大簋 九大簋 [Jiu3 da4 gui3] {gau2 daai6 gwai2} /un festin, un repas qui contient neuf plats/
+九子連環 九子连环 [jiu3 zi3 lian2 huan2] {gau2 zi2 lin4 waan4} /un type de main gagnante dans le jeu de mah-jong/
+九宮格 九宫格 [jiu3 gong1 ge2] {gau2 gung1 gaak3} /une grille de neuf carrés/le sudoku/
+九廣西鐵 九广西铁 [jiu3 Guang3 xi1 tie3] {gau2 gwong2 sai1 tit3} /la ligne du Réseau Ouest KCR, maintenant connu sous le nom de la ligne du Réseau Ouest (西鐵綫, 西铁线)/
+九廣鐵路 九广铁路 [jiu3 guang3 tie3 lu4] {gau2 gwong2 tit3 lou6} /le Kowloon-Canton Railway/
+九廣鐵路公司 九广铁路公司 [jiu3 guang3 tie3 lu4 gong1 si1] {gau2 gwong2 tit3 lou6 gung1 si1} /le Kowloon-Canton Railway Corporation/
+九廿幾 九廿几 [jiu3 nian4 ji3] {gau2 jaa6 gei2} /environ quatre-vingt-dix/
+九成九 九成九 [jiu3 cheng2 jiu3] {gau2 sing4 gau2} /très probable/quatre-vingt-dix-neuf pourcent/
+九方輸入法 九方输入法 [jiu3 fang1 shu1 ru4 fa3] {gau2 fong1 syu1 jap6 faat3} /méthode de saisie Q9/
+九族 九族 [jiu3 zu2] {gau2 zuk6} /neuf générations d'une famille/
+九日 九日 [jiu3 ri4] {gau2 jat6} /neuf jours/le neuvième jour d'un mois/
+九曲十三彎 九曲十三弯 [jiu3 qu1 shi2 san1 wan1] {gau2 kuk1 sap6 saam1 waan1} /une voie très sinueuse/(litt.) neuf coudes, treize courbes/
+九江煎堆 九江煎堆 [jiu3 jiang1 jian1 dui1] {gau2 gong1 zin1 deoi1} /Jiujiang jian dui, une patisserie chinoise frite/
+九肚魚 九肚鱼 [jiu3 du4 yu2] {gau2 tou5 jyu4} /une espèce de poisson-lézard, Harpadon nehereus/
+九針群島 九针群岛 [jiu3 zhen1 qun2 dao3] {gau2 zam1 kwan4 dou2} /les îles Ninepin, situées à Hong Kong/
+九鐵 九铁 [jiu3 tie3] {gau2 tit3} /le Kowloon-Canton Railway/
+九點鐘 九点钟 [jiu3 dian3 zhong1] {gau2 dim2 zung1} /neuf heures (e.g. du matin)/
+九龍公園 九龙公园 [Jiu3 long2 gong1 yuan2] {gau2 lung4 gung1 jyun4} /Parc Kowloon/
+九龍城區 九龙城区 [Jiu3 long2 cheng2 qu1] {gau2 lung4 sing4 keoi1} /le district de Kowloon City/
+九龍城寨公園 九龙城寨公园 [Jiu3 long2 Cheng2 zhai4 gong1 yuan2] {gau2 lung4 sing4 zaai6 gung1 jyun4} /Parc de la Ville fortifiée de Kowloon/
+九龍塘 九龙塘 [Jiu3 long2 tang2] {gau2 lung4 tong4} /Kowloon Tong, une région située à Kowloon, Hong Kong/
+九龍山 九龙山 [jiu3 long2 shan1] {gau2 lung4 saan1} /la montagne Kowloon, qui n'existe plus/
+九龍巴士 九龙巴士 [Jiu3 long2 ba1 shi4] {gau2 lung4 baa1 si6} /The Kowloon Motor Bus Company (1933) Limited/
+九龍水塘 九龙水塘 [Jiu3 long2 shui3 tang2] {gau2 lung4 seoi2 tong4} /lac de barrage de Kowloon/
+九龍清真寺 九龙清真寺 [Jiu3 long2 Qing1 zhen1 si4] {gau2 lung4 cing1 zan1 zi6} /le Kowloon Masjid and Islamic Centre, une des cinq mosqués principales en Hong Kong/
+九龍灣 九龙湾 [jiu3 long2 wan1] {gau2 lung4 waan1} /la Baie de Kowloon/
 九龍醫院 九龙医院 [Jiu3 long2 yi1 yuan4] {gau2 lung4 ji1 jyun2} /Kowloon Hospital/
-乞人憎 乞人憎 [qi3 ren2 zeng1] {hat1 jan4 zang1} /(adjective) repulsive; despicable; annoying; disgusting; contemptible/
-乞兒相 乞儿相 [qi3 er2 xiang4] {hat1 ji4 soeng3} /has the look of a beggar /
-乞嗤 乞嗤 [qi3 chi1] {hat1 ci1} /(v.)(n.) Sneeze./
-乞米 乞米 [qi3 mi3] {hat1 mai5} /beg for food/
-乞衣 乞衣 [qi3 yi1] {hat1 ji1} /beggar/
-乞降 乞降 [qi3 xiang2] {hat1 gong3} /plead to surrender /
-乞靈 乞灵 [qi3 ling2] {hat1 ling4} /to seek help from spirits or gods /
-也不 也不 [ye3 bu2] {jaa5 bat1} /also not; neither /
-也好 也好 [ye3 hao3] {jaa5 hou2} /good also/
-也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /(slang) to flaunt; to show off;/
-也是 也是 [ye3 shi4] {jaa5 si6} /Also; too/
-也與 也与 [ye3 yu3] {jaa5 jyu5} /a remark used in expressing doubt or questionable /
-乳名 乳名 [ru3 ming2] {jyu5 meng2} /(noun)  Nickname /
-乳糖消化不良 乳糖消化不良 [ru3 tang2 xiao1 hua4 bu4 liang2] {jyu5 tong4 siu1 faa3 bat1 loeng4} /Lactose Intolerance/
-乳餅 乳饼 [ru3 bing3] {jyu5 beng2} /Rubing, a Chinese farmer cheese/
-乳鴿 乳鸽 [ru3 ge1] {jyu5 gaap3} /a squab; a small pigeon/
-乳齒象 乳齿象 [ru3 chi3 xiang4] {jyu5 ci2 zoeng6} /Mastodon/
-乸 乸 [na3] {naa2} /(slang) 1. wife; (noun) (of gender)  female/
-乸型 乸型 [na2 xing2] {naa2 jing4} /describes a male who acts effeminately or showing characteristics of a typical woman/
-乸聲乸氣 乸声乸气 [na2 sheng1 na2 qi4] {naa2 seng1 naa2 hei3} /to describe a man showing feminine characteristics/
-乸脷 乸脷 [na2 li4] {naa2 lei6} /lit. stinging one's tongue, meaning very costly, or something or a person who is very tough to handle or bear with /
-乾 干 [gan1] {gon1} /(adjective)  dull and dreary (because not in a relationship and single for a long time)/
-乾凈 干净 [gan1 jing4] {gon1 zeng6} /clean; tidy /
-乾包 干包 [gan1 bao1] {gon1 baau1} /dried jackfruit /
-乾噌噌 干噌噌 [gan1 ceng1 ceng1] {gon1 zang1 zang1} /dry and bland (taste)/
-乾塘 干塘 [gan1 tang2] {gon1 tong4} /depleted; exhausted (can refer to running out of money / exhausted after sex)/
-乾工 干工 [gan1 gong1] {gon1 gung1} /Getting paid without working/
-乾巴 干巴 [gan1 ba5] {gon1 baa1} /Dry/
-乾手淨腳 干手淨脚 [gan1 shou3 cheng2 jiao3] {gon1 sau2 zeng6 goek3} /describes the feeling of no more worries and troubles; to describe a situation where all the 'loose ends' (i.e. troubles) are settled and taken care of, so one does not need to worry any further; to literally "clean hands, clean feet"/
-乾時緊月 干时紧月 [gan1 shi2 jin3 yue4] {gon1 si4 gan2 jyut6} /Nervous/
-乾柴烈火 干柴烈火 [gan1 chai2 lie4 huo3] {gon1 caai4 lit6 fo2} /lit. dry firewood fierce fire, meaning a couple strong desire for sex/
-乾水 干水 [gan1 shui3] {gon1 seoi2} /1. game of mahjong     2. water or soup boiled for too long where no and very little liquid remains /
-乾洗店 干洗店 [gan1 xi3 dian4] {gon1 sai2 dim3} /dry cleaner and laundry/
-乾淨企理 干净企理 [gan1 jing4 qi3 li3] {gon1 zeng6 kei5 lei5} /Clean and neat/
-乾濕褸 干湿褛 [gan1 shi1 lü3] {gon1 sap1 lau1} /trench coat/
-乾炒 干炒 [gan1 chao3] {gon1 caau2} /dry fry; one of the frying technique in Chinese cooking/
-乾炒牛河 干炒牛河 [gan1 chao3 niu2 he2] {gon1 caau2 ngau4 ho4} /stir-fried beef rice noodle/
-乾燒伊麵 干烧伊面 [gan1 shao1 yi1 mian4] {gon1 siu1 ji1 min6} /braised e-fu noodles/
-乾爭爭 干争争 [gan1 zheng1 zheng1] {gon1 zang1 zang1} /use to describe food which is dry and hard /
-乾瑤柱 干瑶柱 [gan1 yao2 zhu4] {gon1 jiu4 cyu5} /conpoy, dried scallop/
-乾萌萌 干萌萌 [gan1 meng2 meng2] {gon1 mang4 mang4} /dry and hard (taste)/
-乾衣機 干衣机 [gan1 yi1 ji1] {gon1 ji1 gei1} /clothes dryer /
-乾電 干电 [gan1 dian4] {gon1 din6} /direct current (electricity) /
-乾電池 干电池 [gan1 dian4 chi2] {gon1 din6 ci4} /dry cell battery/
-乾骾骾 干鲠鲠 [gan1 geng3 geng3] {gon1 gang2 gang2} /dry and hard to swallow (taste)/
-乾鯁 干鲠 [gan1 geng3] {gon1 gang2} /Swallow something without drinking anything/
-乾鯁鯁 干鲠鲠 [gan1 geng3 geng3] {gon1 gang2 gang2} /Swallow something without drinking anything/
-亂 乱 [luan4] {lyun6} /(noun)  chaos/
-亂七八糟 乱七八糟 [luan4qi1ba1zao1] {lyun6 cat1 baat3 zou1} /(adjective) Super messy /
-亂作一團 乱作一团 [luan4 zuo4 yi1 tuan2] {lyun6 zok3 jat1 tyun4} /end up in a huge mess /
-亂來 乱来 [luan4 lai2] {lyun6 lai4} /Recklessly;unruly/
-亂咁 乱咁 [luan4 gan1] {lyun6 gam3} /Casually;randomly/
-亂咁舂 乱咁舂 [luan4 gan1 chong1] {lyun6 gam3 zung1} /(adj.)  describes someone who does something without directions; (phrasal verb) to do something without thinking thoroughly./
-亂噏 乱噏 [luan4 xi1] {lyun2 ngap1} /to talk nonsense; to jabber on; to babble/
-亂噏廿四 乱噏廿四 [luan4 xi1 nian4 si4] {lyun6 ngap1 jaa6 sei3} /talk nonsense or rubbish (spoken)/
-亂嚟 乱嚟 [luan4 li2] {lyun2 lei4} /to do something recklessly or foolishly or irresponsibly/
-亂子 乱子 [luan4 zi5] {lyun6 zi2} /Trouble/
-亂揈 乱轰 [luan4 hong1] {lyun6 gwang1} /Spend extravagantly/
-亂晒坑 乱晒坑 [luan4 shai4 keng1] {lyun6 saai3 haang1} /messy; confused/
-亂晒籠 乱晒笼 [luan4 shai4 long2] {lyun6 saai3 lung4} /very messy, chaotic/
-亂用 乱用 [luan4 yong4] {lyun6 jung6} /using or operating an item without knowledge or following given instructions /
-亂立立 乱立立 [luan4 li4 li4] {lyun6 lap6 lap2} /messy/
-亂籠 乱笼 [luan4 long2] {lyun6 lung4} /messy; confused (spoken)/
-亂葬崗 乱葬岗 [luan4 zang4 gang3] {lyun6 zong3 gong1} /unmarked graves or burial sites/
-亂諗嘢 乱谂嘢 [luan4 shen3 ye3] {lyun6 nam2 je5} /Overthinking/
-亂講無為 乱讲无为 [luan4 jiang3 wu2 wei2] {lyun6 gong2 mou4 wai6} /talk rubbish; talk nonsense/
-亂車廿四 乱车廿四 [luan4 che1 nian4 si4] {lyun6 ce1 jaa6 sei3} /talk rubbish; talk nonsense/
-亂逛 乱逛 [luan4 guang4] {lyun6 gwaang6} /Wandering/
-亂過亂世佳人 乱过乱世佳人 [luan4 guo4 Luan4 shi4 Jia1 ren2] {lyun6 gwo3 lyun6 sai3 gaai1 jan4} /more unsettle or turbulent than a loving couple during wartime /
-亂離 乱离 [luan4 li2] {lyun6 lei4} /the suffering brought to a country by its political instability /
-亂龍 乱龙 [luan4 long2] {lyun2 lung4} /disorderly; chaotic; mixed-up/
-了不得 了不得 [liao3 bu5 de5] {liu5 bat1 dak1} /terrific; extraordinary/
-了哥 了哥 [liao3 ge1] {liu1 go1} /myna bird /
-了望 了望 [liao4 wang4] {liu5 mong6} /Look from a height or a distance; look down from a higher place/
-事 事 [shi4] {si6} /issue/
-事不關己，己不勞心 事不关己，己不劳心 [shi4 bu4 guan1 ji3 , ji3 bu4 lao2 xin1] {si6 bat1 gwaan1 gei2, gei2 bat1 lou4 sam1} /lit. if it's not my business, should not be on my mind, meaning never mind other's business /
-事主 事主 [shi4 zhu3] {si6 zyu2} /victim of a crime /
-事乾 事干 [shi4 gan1] {si6 gon1} /used in the sentence "Why are you looking for me? / what do you want"/
-事先 事先 [shi4 xian1] {si6 sin1} /(adverb)  Ahead/
-事出有因 事出有因 [shi4 chu1 you3 yin1] {si6 ceot1 jau5 jan1} /There's reason for everything/
-事實 事实 [shi4 shi2] {si6 sat6} /reality; truth/
-事幹 事干 [shi4 gan4] {si6 gon3} /matter (as in "What's the matter?")/
-事後孔明 事后孔明 [shi4 hou4 Kong3 ming2] {si6 hau6 hung2 ming4} /hindsight /
-事急馬行田 事急马行田 [shi4 ji2 ma3 xing2 tian2] {si6 gap1 maa5 haang4 tin4} /a Cantonese idiom which describes someone who is flexible enough to adapt to the circumstances of an emergency situation/
-事發 事发 [shi4 fa1] {si6 faat3} /the incident that happened /
-事頭 事头 [shi4 tou2] {si6 tau2} /(n. / appellation) refers to the boss or the head of a department who is a man./
-事頭婆 事头婆 [shi4 tou2 po2] {si6 tau4 po4} /(n. / appellation) refers to the boss or the head of a department who is a female; refers to the boss' wife; a humuorous term to refer to the queen of England, namely Elizabeth II./
-二世祖 二世祖 [er4 Shi4 zu3] {ji6 sai3 zou2} /(noun) a trust fund baby/
-二五仔 二五仔 [er4 wu3 zi3] {ji6 ng5 zai2} /(noun) a traitor; a snitch;  an informant; a mole; betrayer/
-二仔底 二仔底 [er4 zi3 di3] {ji6 zi2 dai2} /1. someone who is shameless and clingy     2. one who is incapable, not prepared /
-二偈 二偈 [er4 ji4] {ji6 gai6} /A type of chinese poem/
-二傳手 二传手 [er4 chuan2 shou3] {ji6 cyun4 sau2} /setter; tosser (volleyball)/
-二十一 二十一 [er4 shi2 yi1] {ji6 sap6 jat1} /twenty one/
-二十一日 二十一日 [er4 shi2 yi1 ri4] {ji6 sap6 jat1 jat6} /twenty one days; twenty-first [date]/
-二十七日 二十七日 [er4 shi2 qi1 ri4] {ji6 sap6 cat1 jat6} /twenty seven days; twenty-seventh [date]/
-二十三日 二十三日 [er4 shi2 san1 ri4] {ji6 sap6 saam1 jat6} /twenty tree days; twenty-third [date]/
-二十九日 二十九日 [er4 shi2 jiu3 ri4] {ji6 sap6 gau2 jat6} /twenty nine days; twenty-ninth [date]/
-二十二 二十二 [er4 shi2 er4] {ji6 sap6 ji6} /twenty two/
-二十二日 二十二日 [er4 shi2 er4 ri4] {ji6 sap6 ji6 jat6} /twenty two days; twenty-second [date]/
-二十五日 二十五日 [er4 shi2 wu3 ri4] {ji6 sap6 ng5 jat6} /twenty five days; twenty-fifth [date]/
-二十八日 二十八日 [er4 shi2 ba1 ri4] {ji6 sap6 baat3 jat6} /twenty eight days; twenty-eighth [date]/
-二十六日 二十六日 [er4 shi2 liu4 ri4] {ji6 sap6 luk6 jat6} /twenty six days; twenty-sixth [date]/
-二十四日 二十四日 [er4 shi2 si4 ri4] {ji6 sap6 sei3 jat6} /twenty four days; twenty-fourth [date]/
-二十日 二十日 [er4 shi2 ri4] {ji6 sap6 jat6} /twenty days; twentieth [date]/
-二千 二千 [er4 qian1] {ji6 cin1} /two thousand/
-二叔 二叔 [er4 shu2] {ji6 suk1} /Second elder uncle/
-二叔公 二叔公 [er4 shu1 gong1] {ji6 suk1 gung1} /Second elder uncle/
-二叔婆 二叔婆 [er4 shu1 po2] {ji6 suk1 po4} /grandfather's second younger brother's wife/
-二奶仔 二奶仔 [er4 nai3 zi3] {ji6 naai zai2} /1. mistress     2. one who does not get treated equally or discriminated /
-二奶命 二奶命 [er4 nai3 ming4] {ji6 naai1 meng6} /one's destined to be second-in-line, like a concubine /
-二手市場 二手市场 [er4 shou3 shi4 chang3] {ji6 sau2 si5 coeng4} /second-hand goods market /
-二打六 二打六 [er4 da3 liu4] {ji6 daa2 luk6} /(noun) a flunky; an extra in a movie/
-二撇雞 二撇鸡 [er4 pie1 ji1] {ji6 pit3 gai1} /thin moustache resembling the two-stroke Chinese character 八/
-二日 二日 [er4 ri4] {ji6 jat6} /two days; second [date]/
-二毫 二毫 [er4 hao2] {ji6 hou4} /twenty cents /
-二百 二百 [er4 bai3] {ji6 baak3} /two hundred/
-二花面 二花面 [er4 hua1 mian4] {ji6 faa1 min6} /a type of character in Chinese opera /
-二進位 二进位 [er4 jin4 wei4] {ji6 zeon3 wai2} /Binary/
-二進位制 二进位制 [er4 jin4 wei4 zhi4] {ji6 zeon3 wai2 zai3} /Binary system/
-二點鐘 二点钟 [er4 dian3 zhong1] {ji6 dim2 zung1} /Two o'clock/
-于思 于思 [yu2 sai1] {jyu1 si1} /face full of beard or whiskers /
-互市 互市 [hu4 shi4] {wu6 si5} /trading between Chinese with other tribes or nations in ancient China /
-互相幫助 互相帮助 [hu4 xiang1 bang1 zhu4] {wu6 soeng1 bong1 zo6} /to help or assist each other /
-互聯網協議 互联网协议 [hu4 lian2 wang3 xie2 yi4] {wu6 lyun4 mong5 hip3 ji5} /The Internet Protocol/
-五一勞動節 五一劳动节 [Wu3 Yi1 Lao2 dong4 jie2] {ng5 jat1 lou4 dung6 zit3} /May 1st Labour Day/
-五五波 五五波 [wu3 wu3 bo1] {ng5 ng5 bo1} /a fifty-fifty situation; a fifty-fifty chance (often used to describe an evenly matched sporting event)/
-五個字 五个字 [wu3 ge4 zi4] {ng5 go3 zi6} /1. five characters or words     2. twenty-five minutes /
-五內 五内 [wu3 nei4] {ng5 noi6} /five viscera (consist of heart, liver, spleen, lungs and kidneys)/
-五十五 五十五 [wu3 shi2 wu3] {ng5 sap6 ng5} /fifty-five/
-五千 五千 [wu3 qian1] {ng5 cin1} /five thousand/
-五味架 五味架 [wu3 wei4 jia4] {ng5 mei6 gaa2} /cruet-stand; cruet set /
-五山 五山 [Wu3 Shan1] {ng5 saan1} /Wushan- a place in Guangzhou, China/
-五山站 五山站 [Wu3 Shan1 zhan4] {ng5 saan1 zaam6} /Wushan station- a place in Guangzhou, China/
-五年 五年 [wu3 nian2] {ng5 nin4} /Five years/
-五指 五指 [wu3 zhi3] {ng5 zi2} /Five fingers/
-五日 五日 [Wu3 ri4] {ng5 jat6} /five days; fifth [date]/
-五時花六時變 五时花六时变 [wu3 shi2 hua1 liu4 shi2 bian4] {ng5 si4 faa1 luk6 si4 bin3} /indecisive (slang)/
-五月茶 五月茶 [wu3 yue4 cha2] {ng5 jyut6 caa4} /Antidesma bunium, a species of fruit tree/
-五服 五服 [wu3 fu2] {ng5 fuk6} /the five classifications of mourning attire used across East Asia /
-五枝旗杆 五枝旗杆 [wu3 zhi1 qi2 gan1] {ng5 zi1 kei4 gon1} /Five Flagpoles, is a famous meeting point in Tsim Sha Tsui during 80s and 90s/
-五柳魚 五柳鱼 [wu3 liu3 yu2] {ng5 lau5 jyu4} /a fish dish in Chinese cooking, which it is categorized as Sichuan or Hangzhou cuisine/
-五桶櫃 五桶柜 [wu3 tong3 gui4] {ng5 tung2 gwai6} /a drawer with five cabinets /
-五爪金龍 五爪金龙 [wu3 zhao3 jin1 long2] {ng5 zaau2 gam1 lung4} /monitor lizard /
-五百 五百 [wu3 bai3] {ng5 baak3} /five hundred/
-五稜鏡 五棱镜 [wu3 leng2 jing4] {ng5 ling4 geng3} /Pentaprism/
-五窮六絕 五穷六绝 [wu3 qiong2 liu4 jue2] {ng5 kung4 luk6 zyut6} /to become desperate /
-五花茶 五花茶 [wu3 hua1 cha2] {ng5 faa1 caa4} /mixed herbal tea made of five different kinds of flowers/
-五蛇羹 五蛇羹 [wu3 she2 geng1] {ng5 se4 gang1} /snake soup cooked with five types of snakes /
-五行欠打 五行欠打 [wu3 xing2 qian4 da3] {ng5 hang4 him3 daa2} /someone who does some behaviors and make people so mad that he/she deserves some beatings/
-五行欠水 五行欠水 [wu3 xing2 qian4 shui3] {ng5 hang4 him3 seoi2} /in financial strait (slang)/
-五行缺水 五行缺水 [wu3 xing2 que1 shui3] {ng5 hang4 kyut3 seoi2} /a humorous way of saying that somebody lacks money; literally 'lacking the element of water'/
-五邑 五邑 [wu3 yi4] {ng5 jap1} /the Greater Taishan Region which includes, Heshan, Xinhui, Taishan, Kaiping, Enping, situated in the Pearl River Delta/
-五金舖 五金铺 [wu3 jin1 pu4] {ng5 gam1 pou3} /Hardware shop/
-五金鋪 五金铺 [wu3 jin1 pu4] {ng5 gam1 pou3} /Hardware shop/
-五顏六色 五颜六色 [wu3 yan2 liu4 se4] {ng5 ngaan4 luk6 sik1} /(adjective)  rainbow-colored/
-五餅二魚 五饼二鱼 [wu3 bing3 er4 yu2] {ng5 beng2 ji6 jyu4} /Five Loaves and Two fish,a miracle story in the Bible/
-五馬分屍 五马分尸 [wu3 ma3 fen1 shi1] {ng5 maa5 fan1 si1} /dismemberment, as a person's head and limbs are attached to five horses and being tore off/
-五點鐘 五点钟 [wu3 dian3 zhong1] {ng5 dim2 zung1} /Five o'clock/
-井底之蛙 井底之蛙 [jing3di3zhi1wa1] {zeng2 dai2 zi1 waa1} /(idiom) Hillbilly/
-井欄 井栏 [jing3 lan2] {zeng2 laan4} /1. foundation of a water well     2. a vehicle used in battlefield in ancient China /
-井水 井水 [jing3 shui3] {zeng2 seoi2} /water from a water well/
-井鹽 井盐 [jing3 yan2] {zeng2 jim4} /salt from a water well /
-些少 些少 [xie1 shao3] {se1 siu2} /(adjective / adverb / determiner / pronoun) a bit; a little; some; a few/
-些微 些微 [xie1 wei1] {se1 mei4} /slightly, a little bit/
-亞仔 亚仔 [ya4 zi3] {aa3 zai2} /Son; Little boy/
-亞太地區 亚太地区 [Ya4 Tai4 Di4 qu1] {aa3 taai3 dei6 keoi1} /The Asian-Pacific region/
-亞奀 亚奀 [ya4 di2] {aa3 ngan1} /Thin little boy/
-亞女 亚女 [ya4 nü3] {aa3 neoi5} /1. daughter, as called by her mother     2. a young girl, as called, and can be use by anyone /
-亞奶 亚奶 [ya4 nai3] {aa3 naai5} /Grandma/
-亞妹 亚妹 [ya4 mei4] {aa3 mui6} /Little sister;little girl/
-亞姑 亚姑 [ya4 gu1] {aa3 gu1} /Aunt; Auntie/
-亞姨 亚姨 [ya4 yi2] {aa3 ji4} /Aunt; Auntie/
-亞婆 亚婆 [ya1 po2] {aa3 po4} /Grandma; Old lady/
-亞媽 亚妈 [ya4 ma1] {aa3 maa1} / mother, as called by her children /
-亞嫂 亚嫂 [ya4 sao3] {aa3 sou2} /1. one's elder brother's wife     2. wife of one's boss or superior /
-亞嬸 亚婶 [ya4 shen3] {aa3 sam2} /Aunt; Auntie/
-亞庇 亚庇 [ya4 bi4] {aa3 bei3} /Kota kinabalu, a place in Malaysia/
-亞氏保加症 亚氏保加症 [Ya4 shi4 bao3 jia1 zheng4] {aa3 si6 bou2 gaa1 zing3} /Asperger Syndrome/
-亞洲台 亚洲台 [Ya4 zhou1 tai2] {aa3 zau1 toi4} /ATV Asia, one of the channels in Asia Television Network in Hong Kong /
-亞洲四小龍 亚洲四小龙 [Ya4 zhou1 si4 xiao3 long2] {aa3 zau1 sei3 siu2 lung4} /Four Asian Tigers: Hong Kong, Taiwan, Singapore and South Korea /
-亞洲國際博覽館 亚洲国际博览馆 [Ya4 zhou1 guo2 ji4 bo2 lan3 guan3] {aa3 zau1 gwok3 zai3 bok3 laam5 gun2} /Asia World-Expo/
-亞洲太平洋經濟合作組織 亚洲太平洋经济合作组织 [Ya4 zhou1 Tai4 ping2 yang2 Jing1 ji4 He2 zuo4 Zu3 zhi1] {aa3 zau1 taai3 ping4 joeng4 ging1 zai3 hap6 zok3 zou2 zik1} /APEC(Asia-Pacific Economic Cooperation)/
-亞洲運動會 亚洲运动会 [Ya4 zhou1 Yun4 dong4 hui4] {aa3 zau1 wan6 dung6 wui2} /The Asian Games/
-亞洲電視 亚洲电视 [Ya4 zhou1 dian4 shi4] {aa3 zau1 din6 si6} /Asia Television Network, a television station in Hong Kong /
-亞洲電視國際台 亚洲电视国际台 [Ya4 zhou1 dian4 shi4 guo2 ji4 tai2] {aa3 zau1 din6 si6 gwok3 zai3 toi4} /ATV World, one of the channels in Asia Television Network in Hong Kong /
-亞洲電視有限公司 亚洲电视有限公司 [Ya4 zhou1 dian4 shi4 you3 xian4 gong1 si1] {aa3 zau1 din6 si6 jau5 haan6 gung1 si1} /Asia Television Co.,Limited, Television Station in Hong Kong/
-亞洲電視本港台 亚洲电视本港台 [Ya4 zhou1 dian4 shi4 ben3 Gang3 Tai2] {aa3 zau1 din6 si6 bun2 gong2 toi4} /ATV Home, one of the channels in Asia Television Network in Hong Kong /
-亞爸 亚爸 [ya4 ba4] {aa3 baa1} /dad, father-in-law/
-亞爺 亚爷 [ya4 ye2] {aa3 je4} /Grandpa/
-亞狗亞貓 亚狗亚猫 [ya4 gou3 ya4 mao1] {aa3 gau2 aa3 maau1} /anybody; a nobody /
-亞生 亚生 [ya4 sheng1] {aa3 saang1} /Sir;Mr…./
-亞皆老街 亚皆老街 [ya4 jie1 lao3 jie1] {aa3 gaai1 lou5 gaai1} /Argyle Street, a street in Kowloon, Hong Kong /
-亞視 亚视 [ya4 shi4] {aa3 si6} /Asia Television Network, a television station in Hong Kong /
-亞福 亚福 [ya4 fu2] {aa3 fuk1} /Call/name someone lucky,usually to the servant/
-亞細 亚细 [ya4 xi4] {aa3 sai3} /Call/name someone little/
-亞細安 亚细安 [ya4 xi4 an1] {aa3 sai3 on1} /ASEAN-Association of Southeast Asian Nations/
-亞茂 亚茂 [ya4 mao4] {aa3 mau6} /Call/name someone stupid/
-亞誰 亚谁 [ya4 shui2] {aa3 seoi4} /call/name someone without knowing his name/
-亞頭 亚头 [ya4 tou2] {aa3 tau4} /leader; boss (spoken)/
-亞駝 亚驼 [ya4 tuo2] {aa3 to4} /Call/name someone humpback/
-亡命 亡命 [wang2ming4] {mong4 ming6} /(verb) To risk life doing /on something/
-亡命徒 亡命徒 [wang2 ming4 tu2] {mong4 ming6 tou4} /The fugitive/
-亡國之音 亡国之音 [wang2 guo2 zhi1 yin1] {mong4 gwok3 zi1 jam1} /sorrowful music played in a failed or doomed nation /
-亡戟得矛 亡戟得矛 [wang2 ji3 de2 mao2] {mong4 gik1 dak1 maau4} /to make a loss or gain at the same time /
-交 交 [jiao1] {gaau1} /(verb) 1. Exchange; 2. Unite (sexual intercourse); 3. Engage in; 4. join/
-交代 交代 [jiao1dai4] {gaau1 doi6} /(noun) 1. Explanation; 2. Elucidation/
-交叉 交叉 [jiao1 cha1] {gaau1 caa1} /a cross (as opposite to a tick)/
-交叉科學 交叉科学 [jiao1 cha1 ke1 xue2] {gaau1 caa1 fo1 hok6} /Interdisciplinary Sciences/
-交吉 交吉 [jiao1 ji2] {gaau1 gat1} /vacant possession/
+乞人憎 乞人憎 [qi3 ren2 zeng1] {hat1 jan4 zang1} /méprisable, dégoûtant/(litt.) agir comme s'il un mendiant, demandait qu'on le déteste/
+乞兒相 乞儿相 [qi3 er2 xiang4] {hat1 ji4 soeng3} /avoir l'air d'un mendiant/
+乞嗤 乞嗤 [qi3 chi1] {hat1 ci1} /éternuer/
+乞米 乞米 [qi3 mi3] {hat1 mai5} /demander de la nourriture/
+乞衣 乞衣 [qi3 yi1] {hat1 ji1} /mendiant(e)/
+???? 乞降 乞降 [qi3 xiang2] {hat1 gong3} /demander grâce, demander la possibilité de capituler/
+乞靈 乞灵 [qi3 ling2] {hat1 ling4} /demander l'aide des dieux ou des esprits/
+也不 也不 [ye3 bu2] {jaa5 bat1} /non plus/ni/
+也好 也好 [ye3 hao3] {jaa5 hou2} /aussi bon, également bon/
+???? 也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /frimer, exhiber/
+也是 也是 [ye3 shi4] {jaa5 si6} /aussi, également/
+???? 也與 也与 [ye3 yu3] {jaa5 jyu5} /qui exprime de doute, discutable/
+乳名 乳名 [ru3 ming2] {jyu5 meng2} /surnom, sobriquet/
+乳糖消化不良 乳糖消化不良 [ru3 tang2 xiao1 hua4 bu4 liang2] {jyu5 tong4 siu1 faa3 bat1 loeng4} /intolérance au lactose/
+乳餅 乳饼 [ru3 bing3] {jyu5 beng2} /Rubing, un fromage de chèvre/
+乳鴿 乳鸽 [ru3 ge1] {jyu5 gaap3} /un pigeon, pigeonneau/
+乳齒象 乳齿象 [ru3 chi3 xiang4] {jyu5 ci2 zoeng6} /un mammut, des mastodontes/
+乸 乸 [na3] {naa2} /une femme/une épouse/
+乸型 乸型 [na2 xing2] {naa2 jing4} /un homme efféminé (pej.)/
+乸聲乸氣 乸声乸气 [na2 sheng1 na2 qi4] {naa2 seng1 naa2 hei3} /un homme efféminé (pej.)/(litt.) sons de femme, air de femme/
+乸脷 乸脷 [na2 li4] {naa2 lei6} /très coûteux, très cher/qqn désagréable/(litt.) qui pique la langue, voir aussi (揦脷)/
+乾 干 [gan1] {gon1} /ennuyeux, insipide (à cause d'être célibataire)/(litt.) sec/
+乾凈 干净 [gan1 jing4] {gon1 zeng6} /propre/
+乾包 干包 [gan1 bao1] {gon1 baau1} /jaque seché/
+乾噌噌 干噌噌 [gan1 ceng1 ceng1] {gon1 zang1 zang1} /sec et sans goût/
+乾塘 干塘 [gan1 tang2] {gon1 tong4} /épuisé (argent, énergie)/
+乾工 干工 [gan1 gong1] {gon1 gung1} /être payé sans travailler/
+乾巴 干巴 [gan1 ba5] {gon1 baa1} /sec/
+乾手淨腳 干手淨脚 [gan1 shou3 cheng2 jiao3] {gon1 sau2 zeng6 goek3} /sans soucis, le sentiment de savoir que tout est réglé/(litt.) mains propres, pieds propres/
+???? 乾時緊月 干时紧月 [gan1 shi2 jin3 yue4] {gon1 si4 gan2 jyut6} /nerveux(se)/
+乾柴烈火 干柴烈火 [gan1 chai2 lie4 huo3] {gon1 caai4 lit6 fo2} /un couple excité, qui veut coucher ensemble/(litt.) bois sec, feu vif/
+乾水 干水 [gan1 shui3] {gon1 seoi2} /le jeu de mah-jong/une soupe bouillie tellement longtemps que peu de liquide reste/
+乾洗店 干洗店 [gan1 xi3 dian4] {gon1 sai2 dim3} /un pressing/
+乾淨企理 干净企理 [gan1 jing4 qi3 li3] {gon1 zeng6 kei5 lei5} /propre et rangé/
+乾濕褸 干湿褛 [gan1 shi1 lü3] {gon1 sap1 lau1} /un trench-coat/
+乾炒 干炒 [gan1 chao3] {gon1 caau2} /frire à sec, une technique de friture chinoise/
+乾炒牛河 干炒牛河 [gan1 chao3 niu2 he2] {gon1 caau2 ngau4 ho4} /chow fun au boeuf, un plat cantonais à base de sauté de boeuf, de hor fun (nouilles de riz) et de pousses de haricot mungo/
+乾燒伊麵 干烧伊面 [gan1 shao1 yi1 mian4] {gon1 siu1 ji1 min6} /nouilles frites «yi mein»/
+乾爭爭 干争争 [gan1 zheng1 zheng1] {gon1 zang1 zang1} /(un aliment) sec et dur/
+乾瑤柱 干瑶柱 [gan1 yao2 zhu4] {gon1 jiu4 cyu5} /le conpoy, le pétoncle séché/
+乾萌萌 干萌萌 [gan1 meng2 meng2] {gon1 mang4 mang4} /(un aliment) sec et dur/
+乾衣機 干衣机 [gan1 yi1 ji1] {gon1 ji1 gei1} /sèche-linge, séchoir/
+乾電 干电 [gan1 dian4] {gon1 din6} /courant continu/
+乾電池 干电池 [gan1 dian4 chi2] {gon1 din6 ci4} /pile sèche/
+乾骾骾 干鲠鲠 [gan1 geng3 geng3] {gon1 gang2 gang2} /(un aliment) sec et difficil à avaler/
+乾鯁 干鲠 [gan1 geng3] {gon1 gang2} /avaler qqch sans boire de liquide avec/
+乾鯁鯁 干鲠鲠 [gan1 geng3 geng3] {gon1 gang2 gang2} /avaler qqch sans boire de liquide avec/
+亂 乱 [luan4] {lyun6} /désordre/
+亂七八糟 乱七八糟 [luan4 qi1 ba1 zao1] {lyun6 cat1 baat3 zou1} /un désordre total/(litt.) désordre à sept huit pourri/
+???? 亂作一團 乱作一团 [luan4 zuo4 yi1 tuan2] {lyun6 zok3 jat1 tyun4} /créer un désordre/
+亂來 乱来 [luan4 lai2] {lyun6 lai4} /(faire qqch) imprudemment, sans y réféchir/(faire qqch) d'une manière désorganisée/
+???? 亂咁 乱咁 [luan4 gan1] {lyun6 gam3} /Casually;randomly/
+亂咁舂 乱咁舂 [luan4 gan1 chong1] {lyun6 gam3 zung1} /faire qqch sans préparation/faire qqch inutile/
+亂噏 乱噏 [luan4 xi1] {lyun2 ngap1} /dire des bêtises, bredouiller n'importe quoi/
+亂噏廿四 乱噏廿四 [luan4 xi1 nian4 si4] {lyun6 ngap1 jaa6 sei3} /dire des bêtises, bredouiller n'importe quoi/
+亂嚟 乱嚟 [luan4 li2] {lyun2 lei4} /(faire qqch) imprudemment, sans y réféchir/(faire qqch) d'une manière désorganisée/
+???? 亂子 乱子 [luan4 zi5] {lyun6 zi2} /Trouble/
+???? 亂揈 乱轰 [luan4 hong1] {lyun6 gwang1} /Spend extravagantly/
+亂晒坑 乱晒坑 [luan4 shai4 keng1] {lyun6 saai3 haang1} /mettre (qqch) en désordre/en désordre, désorganisé/chaotique
+亂晒籠 乱晒笼 [luan4 shai4 long2] {lyun6 saai3 lung4} /en désordre, désorganisé/chaotique/
+亂用 乱用 [luan4 yong4] {lyun6 jung6} /utiliser qqch sans lire les instructions ou sans savoir comment l'utiliser/
+亂立立 乱立立 [luan4 li4 li4] {lyun6 lap6 lap2} /en désordre/
+亂籠 乱笼 [luan4 long2] {lyun6 lung4} /en désordre, chaotique (voir aussi 亂龍, 乱龙)/
+???? 亂葬崗 乱葬岗 [luan4 zang4 gang3] {lyun6 zong3 gong1} /tombes sans inscriptions/
+亂諗嘢 乱谂嘢 [luan4 shen3 ye3] {lyun6 nam2 je5} /trop réfléchir, suranalyser/
+亂講無為 乱讲无为 [luan4 jiang3 wu2 wei2] {lyun6 gong2 mou4 wai6} /dire des bêtises, dire n'importe quoi/
+亂車廿四 乱车廿四 [luan4 che1 nian4 si4] {lyun6 ce1 jaa6 sei3} /dire des bêtises, dire n'importe quoi/
+亂逛 乱逛 [luan4 guang4] {lyun6 gwaang6} /flâner, errer/
+亂過亂世佳人 乱过乱世佳人 [luan4 guo4 luan4 shi4 jia1 ren2] {lyun6 gwo3 lyun6 sai3 gaai1 jan4} /très désorganisé/(litt.) plus désorganisé qu'un couple en temps de guerre/
+???? 亂離 乱离 [luan4 li2] {lyun6 lei4} /the suffering brought to a country by its political instability /
+亂龍 乱龙 [luan4 long2] {lyun2 lung4} /désorganisé, chaotique (voir aussi 亂籠, 乱笼)/
+了不得 了不得 [liao3 bu5 de5] {liu5 bat1 dak1} /fantastique, extraordinaire/
+了哥 了哥 [liao3 ge1] {liu1 go1} /maintes, un type d'oiseau/
+了望 了望 [liao4 wang4] {liu5 mong6} /regarder d'en haut/
+事 事 [shi4] {si6} /une affaire, un problème/
+事不關己，己不勞心 事不关己，己不劳心 [shi4 bu4 guan1 ji3, ji3 bu4 lao2 xin1] {si6 bat1 gwaan1 gei2, gei2 bat1 lou4 sam1} /ne pas se soucier des affaires des autres/(litt.) si cela ne me regarde pas, je ne devrais pas m'inquiéter/
+事主 事主 [shi4 zhu3] {si6 zyu2} /victime (de crime, d'un accident)/
+???? 事乾 事干 [shi4 gan1] {si6 gon1} /used in the sentence "Why are you looking for me? / what do you want"/
+事先 事先 [shi4 xian1] {si6 sin1} /devant, avant, à l'avance (temps)/
+事出有因 事出有因 [shi4 chu1 you3 yin1] {si6 ceot1 jau5 jan1} /tout arrive pour une raison/
+事實 事实 [shi4 shi2] {si6 sat6} /la réalité, la vérité/
+???? 事幹 事干 [shi4 gan4] {si6 gon3} /une question (de qqch), affaire/utilisé pour demander «qu'est-ce qu'il y a?»/
+事後孔明 事后孔明 [shi4 hou4 Kong3 ming2] {si6 hau6 hung2 ming4} /recul, après coup, rétrospective/
+事急馬行田 事急马行田 [shi4 ji2 ma3 xing2 tian2] {si6 gap1 maa5 haang4 tin4} /adaptable, flexible, être réactif (orig.) habituellement, le cheval se déplace en forme de 日; se déplacer en 田 est illégal. /(litt.) dans une situation d'urgence, le cheval se déplace en 田/
+事發 事发 [shi4 fa1] {si6 faat3} /un incident qui s'est produit/
+事頭 事头 [shi4 tou2] {si6 tau2} /le patron ou chef (pour hommes seulement)/
+事頭婆 事头婆 [shi4 tou2 po2] {si6 tau4 po4} /la patronne ou cheffe (pour femmes seulement)/un terme qui désigne la reine du Royaume-Uni, actuellement Élisabeth II/
+二世祖 二世祖 [er4 shi4 zu3] {ji6 sai3 zou2} /héritier, héritière, fils ou fille des riches/
+二五仔 二五仔 [er4 wu3 zi3] {ji6 ng5 zai2} /traître, taupe, informateur (orig.) un moine de septième rang (2 + 5) nommé Ma Ling-yee qui a trahi son village/(litt.) un enfant deux-cinq/
+二仔底 二仔底 [er4 zi3 di3] {ji6 zi2 dai2} /qqn collant/qqn qui n'est pas préparé, incapable, incompétent/
+二偈 二偈 [er4 ji4] {ji6 gai6} /un type de poème chinois/
+二傳手 二传手 [er4 chuan2 shou3] {ji6 cyun4 sau2} /dans le volley-ball, le passeur/
+二十一 二十一 [er4 shi2 yi1] {ji6 sap6 jat1} /vingt-et-un/
+二十一日 二十一日 [er4 shi2 yi1 ri4] {ji6 sap6 jat1 jat6} /vingt-et-un jours/le vingt-et-unième jour d'un mois/
+二十七日 二十七日 [er4 shi2 qi1 ri4] {ji6 sap6 cat1 jat6} /vingt-sept jours/le vingt-septième jour d'un mois/
+二十三日 二十三日 [er4 shi2 san1 ri4] {ji6 sap6 saam1 jat6} /vingt-trois jours/le vingt-troisième jour d'un mois/
+二十九日 二十九日 [er4 shi2 jiu3 ri4] {ji6 sap6 gau2 jat6} /vingt-neuf jours/le vingt-neuvième jour d'un mois/
+二十二 二十二 [er4 shi2 er4] {ji6 sap6 ji6} /vignt-deux/
+二十二日 二十二日 [er4 shi2 er4 ri4] {ji6 sap6 ji6 jat6} /vingt-deux jours/le vingt-deuxième jour d'un mois/
+二十五日 二十五日 [er4 shi2 wu3 ri4] {ji6 sap6 ng5 jat6} /vingt-cinq jours/le vingt-cinquième jour d'un mois/
+二十八日 二十八日 [er4 shi2 ba1 ri4] {ji6 sap6 baat3 jat6} /vingt-huit jours/le vingt-huitième jour d'un mois/
+二十六日 二十六日 [er4 shi2 liu4 ri4] {ji6 sap6 luk6 jat6} /vingt-six jours/le vingt-sixième jour d'un mois/
+二十四日 二十四日 [er4 shi2 si4 ri4] {ji6 sap6 sei3 jat6} /vingt-quatre jours/le vingt-quatrième jour d'un mois/
+二十日 二十日 [er4 shi2 ri4] {ji6 sap6 jat6} /vingt jours/le vingtième jour d'un mois/
+二千 二千 [er4 qian1] {ji6 cin1} /deux mille/
+二叔 二叔 [er4 shu2] {ji6 suk1} /deuxième oncle, qui est plus âgé que le père/
+二叔公 二叔公 [er4 shu1 gong1] {ji6 suk1 gung1} /grand-oncle, qui est plus jeune que le grand-père/prêteur sur gages (pej.)/
+二叔婆 二叔婆 [er4 shu1 po2] {ji6 suk1 po4} /la femme d'un grand-oncle qui est plus jeune que le grand-père/
+二奶仔 二奶仔 [er4 nai3 zi3] {ji6 naai zai2} /maîtresse/quelqu'un qui est victime de discrimination/enfant illégitime/(litt.) enfant d'une maîtresse/
+二奶命 二奶命 [er4 nai3 ming4] {ji6 naai1 meng6} /destiné à être traîté de seconde zone/(litt.) la vie d'une maîtresse/
+二手市場 二手市场 [er4 shou3 shi4 chang3] {ji6 sau2 si5 coeng4} /marché d'occasion, marché de seconde/
+二打六 二打六 [er4 da3 liu4] {ji6 daa2 luk6} /une personne de statut inférieur/une personne incompétente/un subalterne/un figurant (dans un film)/(orig.) huit taels font un demi Catty, qui n'est pas assez de poids/(litt.) deux et six taels font huit taels/
+二撇雞 二撇鸡 [er4 pie1 ji1] {ji6 pit3 gai1} /moustache séparée au centre, comme le caractère 八 (voir 八字鬍子, 八字胡子)/(litt.) deux traits de poulet/
+二日 二日 [er4 ri4] {ji6 jat6} /deux jours/deuxième jour d'un mois/
+二毫 二毫 [er4 hao2] {ji6 hou4} /vingt centimes/
+二百 二百 [er4 bai3] {ji6 baak3} /deux cents/
+二花面 二花面 [er4 hua1 mian4] {ji6 faa1 min6} /un type de personnage dans l'opéra chinois/
+二進位 二进位 [er4 jin4 wei4] {ji6 zeon3 wai2} /binaire/
+二進位制 二进位制 [er4 jin4 wei4 zhi4] {ji6 zeon3 wai2 zai3} /système binaire/
+二點鐘 二点钟 [er4 dian3 zhong1] {ji6 dim2 zung1} /deux heures (e.g. du matin)/
+于思 于思 [yu2 sai1] {jyu1 si1} /une moustache épaisse/
+互市 互市 [hu4 shi4] {wu6 si5} /la commerce entre la Chine et les autres nations ou tribus pendant la période antique/
+互相幫助 互相帮助 [hu4 xiang1 bang1 zhu4] {wu6 soeng1 bong1 zo6} /s'entraider/
+互聯網協議 互联网协议 [hu4 lian2 wang3 xie2 yi4] {wu6 lyun4 mong5 hip3 ji5} /le «Internet Protocol», protocole Internet/
+五一勞動節 五一劳动节 [wu3 yi1 lao2 dong4 jie2] {ng5 jat1 lou4 dung6 zit3} /fête du Travail du premier mai/
+五五波 五五波 [wu3 wu3 bo1] {ng5 ng5 bo1} /une chance sur deux/
+五個字 五个字 [wu3 ge4 zi4] {ng5 go3 zi6} /cinq caractères ou mots/vingt-cinq minutes/
+五內 五内 [wu3 nei4] {ng5 noi6} /les cinq organes internes (le coeur, la foie, la rate, les poumouns, les reins)/
+五十五 五十五 [wu3 shi2 wu3] {ng5 sap6 ng5} /cinquant-cinq/
+五千 五千 [wu3 qian1] {ng5 cin1} /cinq mille/
+五味架 五味架 [wu3 wei4 jia4] {ng5 mei6 gaa2} /ménagère de table, un ensemble de petits récipients/(litt.) étagère à cinq saveurs/
+五山 五山 [Wu3 Shan1] {ng5 saan1} /Wushan, un endroit situé à Guangzhou, Chine/
+五山站 五山站 [Wu3 Shan1 zhan4] {ng5 saan1 zaam6} /la station Wushan- un endroit situé à Guangzhou, Chine/
+五年 五年 [wu3 nian2] {ng5 nin4} /cinq ans/
+五指 五指 [wu3 zhi3] {ng5 zi2} /cinq doigts/
+五日 五日 [Wu3 ri4] {ng5 jat6} /cinq jours/le cinquième jour d'un mois/
+???? 五時花六時變 五时花六时变 [wu3 shi2 hua1 liu4 shi2 bian4] {ng5 si4 faa1 luk6 si4 bin3} /indécis/
+五月茶 五月茶 [wu3 yue4 cha2] {ng5 jyut6 caa4} /Antidesma bunius, une espèce d'arbre fruitier originaire d'Asie du Sud-Est/
+五服 五服 [wu3 fu2] {ng5 fuk6} /les cinq types d'habits de deuil/
+五枝旗杆 五枝旗杆 [wu3 zhi1 qi2 gan1] {ng5 zi1 kei4 gon1} /les «Cinq Mâts», un endroit situé à Tsim Sha Tsui à Hong Kong/
+五柳魚 五柳鱼 [wu3 liu3 yu2] {ng5 lau5 jyu4} /un plat de poisson, garni avec cinq légumes en lanières/(litt.) poisson à cinq saules/
+五桶櫃 五桶柜 [wu3 tong3 gui4] {ng5 tung2 gwai6} /un meuble de rangement avec cinq tiroirs/
+五爪金龍 五爪金龙 [wu3 zhao3 jin1 long2] {ng5 zaau2 gam1 lung4} /les varans, un genre de sauriens/
+五百 五百 [wu3 bai3] {ng5 baak3} /cinq cents/
+五稜鏡 五棱镜 [wu3 leng2 jing4] {ng5 ling4 geng3} /un pentaprisme/
+五窮六絕 五穷六绝 [wu3 qiong2 liu4 jue2] {ng5 kung4 luk6 zyut6} /désespéré/(HK) hors saison (pour parler des films)/(litt.) pauvre en mai, impasse en juin/
+五花茶 五花茶 [wu3 hua1 cha2] {ng5 faa1 caa4} /tisane infusée de cinq types de fleurs/
+五蛇羹 五蛇羹 [wu3 she2 geng1] {ng5 se4 gang1} /soupe faite avec cinq types de serpents/
+???? 五行欠打 五行欠打 [wu3 xing2 qian4 da3] {ng5 hang4 him3 daa2} /déobéissant, vilain (pour enfants)/
+五行欠水 五行欠水 [wu3 xing2 qian4 shui3] {ng5 hang4 him3 seoi2} /ne pas avoir d'argent/
+五行缺水 五行缺水 [wu3 xing2 que1 shui3] {ng5 hang4 kyut3 seoi2} /ne pas avoir d'argent/
+五邑 五邑 [wu3 yi4] {ng5 jap1} /Wuyi, une région située dans le delta de la rivière des Perles, et qui inclue les cinq comptés de Heshan, Xinhui, Taishan, Kaiping, et Enping/
+五金舖 五金铺 [wu3 jin1 pu4] {ng5 gam1 pou3} /une quincaillerie/(litt.) magasin de cinq métaux/
+五金鋪 五金铺 [wu3 jin1 pu4] {ng5 gam1 pou3} /une quincaillerie/(litt.) magasin de cinq métaux/
+五顏六色 五颜六色 [wu3 yan2 liu4 se4] {ng5 ngaan4 luk6 sik1} /coloré/multicolore/
+五餅二魚 五饼二鱼 [wu3 bing3 er4 yu2] {ng5 beng2 ji6 jyu4} /une histoire de la bible, dans laquelle Jésus nourrit cinq mille personnes avec cinq miches de pain et deux poissons/(litt.) cinq miches de pain et deux poissons/
+五馬分屍 五马分尸 [wu3 ma3 fen1 shi1] {ng5 maa5 fan1 si1} /être équarri (démembré puis décapité) (orig.) de l'anglais «drawn and quartered», un châtiment pour les crimes de haute trahison/(litt.) cinq chevaux pour déchirer/
+五點鐘 五点钟 [wu3 dian3 zhong1] {ng5 dim2 zung1} /cinq heures (e.g. du matin)/
+井底之蛙 井底之蛙 [jing3 di3 zhi1 wa1] {zeng2 dai2 zi1 waa1} /une personne ignorante/(litt.) une grenouille au fond d'un puits/
+井欄 井栏 [jing3 lan2] {zeng2 laan4} /la tête de puits/une véhicule utilisé sur les champs de bataille dans la Chine antique/
+井水 井水 [jing3 shui3] {zeng2 seoi2} /eau de puits/
+井鹽 井盐 [jing3 yan2] {zeng2 jim4} /sel de puits/
+些少 些少 [xie1 shao3] {se1 siu2} /un peu/
+些微 些微 [xie1 wei1] {se1 mei4} /un petit peu/
+亞仔 亚仔 [ya4 zi3] {aa3 zai2} /fiston, fils/un petit garçon/
+亞太地區 亚太地区 [Ya4 Tai4 Di4 qu1] {aa3 taai3 dei6 keoi1} /l'Asie-Pacifique/
+亞奀 亚奀 [ya4 di2] {aa3 ngan1} /une petite personne maigre (pour enfants)/une personne émaciée/
+亞女 亚女 [ya4 nü3] {aa3 neoi5} /fistonne, fille/une petite fille/
+亞奶 亚奶 [ya4 nai3] {aa3 naai5} /mamie, grand-mère/
+亞妹 亚妹 [ya4 mei4] {aa3 mui6} /soeur cadette/une petite fille/
+亞姑 亚姑 [ya4 gu1] {aa3 gu1} /tata, tatie, tante/
+亞姨 亚姨 [ya4 yi2] {aa3 ji4} /tata, tatie, tante/
+亞婆 亚婆 [ya1 po2] {aa3 po4} /mamie, grand-mère/une vieille dame/
+亞媽 亚妈 [ya4 ma1] {aa3 maa1} /maman, mère/
+亞嫂 亚嫂 [ya4 sao3] {aa3 sou2} /la femme d'un frère plus âgé/la femme d'un patron/
+亞嬸 亚婶 [ya4 shen3] {aa3 sam2} /tata, tatie, tante/
+亞庇 亚庇 [ya4 bi4] {aa3 bei3} /Kota Kinabalu, une ville située en Malaisie/
+亞氏保加症 亚氏保加症 [ya4 shi4 bao3 jia1 zheng4] {aa3 si6 bou2 gaa1 zing3} /le syndrome d'Asperger/
+亞洲台 亚洲台 [ya4 zhou1 tai2] {aa3 zau1 toi4} /ATV Asia, autrefois une des chaînes du Asia Television Network à Hong Kong/
+亞洲四小龍 亚洲四小龙 [ya4 zhou1 si4 xiao3 long2] {aa3 zau1 sei3 siu2 lung4} /les quatre dragons asiatiques: Hong Kong, Taïwan, Singapour and la Corée du Sud/
+亞洲國際博覽館 亚洲国际博览馆 [ya4 zhou1 guo2 ji4 bo2 lan3 guan3] {aa3 zau1 gwok3 zai3 bok3 laam5 gun2} /le AsiaWorld–Expo, un édifice à Hong Kong/
+亞洲太平洋經濟合作組織 亚洲太平洋经济合作组织 [Ya4 zhou1 Tai4 ping2 yang2 Jing1 ji4 He2 zuo4 Zu3 zhi1] {aa3 zau1 taai3 ping4 joeng4 ging1 zai3 hap6 zok3 zou2 zik1} /la Coopération économique pour l'Asie-Pacifique/
+亞洲運動會 亚洲运动会 [Ya4 zhou1 Yun4 dong4 hui4] {aa3 zau1 wan6 dung6 wui2} /les Jeux asiatiques/
+亞洲電視 亚洲电视 [Ya4 zhou1 dian4 shi4] {aa3 zau1 din6 si6} /ATV Asia, autrefois une chaîne de télévision à Hong Kong/
+亞洲電視國際台 亚洲电视国际台 [Ya4 zhou1 dian4 shi4 guo2 ji4 tai2] {aa3 zau1 din6 si6 gwok3 zai3 toi4} /ATV World, autrefois une des chaînes du Asia Television Network à Hong Kong/
+亞洲電視有限公司 亚洲电视有限公司 [Ya4 zhou1 dian4 shi4 you3 xian4 gong1 si1] {aa3 zau1 din6 si6 jau5 haan6 gung1 si1} /Asia Television Limited, une compagnie de télédiffusion à Hong Kong/
+亞洲電視本港台 亚洲电视本港台 [Ya4 zhou1 dian4 shi4 ben3 Gang3 Tai2] {aa3 zau1 din6 si6 bun2 gong2 toi4} /ATV Home, autrefois une des chaînes du Asia Television Network à Hong Kong/
+亞爸 亚爸 [ya4 ba4] {aa3 baa1} /papa, père/beau-père/
+亞爺 亚爷 [ya4 ye2] {aa3 je4} /papi, grand-père/
+亞狗亞貓 亚狗亚猫 [ya4 gou3 ya4 mao1] {aa3 gau2 aa3 maau1} /un moins-que-rien/personne/(litt.) le chien, le chat/
+亞生 亚生 [ya4 sheng1] {aa3 saang1} /monsieur.../
+亞皆老街 亚皆老街 [ya4 jie1 lao3 jie1] {aa3 gaai1 lou5 gaai1} /rue Argyle, une rue situé à Kowloon, Hong Kong /
+亞視 亚视 [ya4 shi4] {aa3 si6} /Asia Television Limited, une compagnie de télédiffusion à Hong Kong/
+???? 亞福 亚福 [ya4 fu2] {aa3 fuk1} /une phrase pour appeler une domestique ou serveur/(litt.) un chanceux/
+亞細 亚细 [ya4 xi4] {aa3 sai3} /une phrase pour appeler qqn qui est petit/
+亞細安 亚细安 [ya4 xi4 an1] {aa3 sai3 on1} /l'Association des nations de l'Asie du Sud-Est, ANASE, ASEAN/
+亞茂 亚茂 [ya4 mao4] {aa3 mau6} /une phrase pour appeler qqn qui est stupide/
+亞誰 亚谁 [ya4 shui2] {aa3 seoi4} /une phrase pour appeler qqn dont on a oublié le nom/
+亞頭 亚头 [ya4 tou2] {aa3 tau4} /le patron, le chef/
+亞駝 亚驼 [ya4 tuo2] {aa3 to4} /une phrase pour appeler un bossu/
+亡命 亡命 [wang2ming4] {mong4 ming6} /risquer sa vie pour faire qqch/fuir/s'évader d'un prison
+亡命徒 亡命徒 [wang2 ming4 tu2] {mong4 ming6 tou4} /un fugitif, une fugitive, un(e) fuyard(e)/
+???? 亡國之音 亡国之音 [wang2 guo2 zhi1 yin1] {mong4 gwok3 zi1 jam1} /le chant funèbre d'une nation vouée à l'échec/
+亡戟得矛 亡戟得矛 [wang2 ji3 de2 mao2] {mong4 gik1 dak1 maau4} /compenser pour qqch de perdu en gagnant qqch d'autre/(litt.) perdre une hallebarde, remporter une lance/
+交 交 [jiao1] {gaau1} /échanger/rapport sexuel/s'impliquer (dans qqch)/se joindre (à qqch), devenir membre (de qqch)/
+交代 交代 [jiao1 dai4] {gaau1 doi6} /une explication/
+交叉 交叉 [jiao1 cha1] {gaau1 caa1} /la marque x/
+交叉科學 交叉科学 [jiao1 cha1 ke1 xue2] {gaau1 caa1 fo1 hok6} /les sciences interdisciplinaires/
+交吉 交吉 [jiao1 ji2] {gaau1 gat1} /libre possession (orig.) 空 signifiait «inoccupé» (donc, donner un immeuble inoccupé), mais est prononcé comme 凶 «diabolique, malheureux», donc on l'a remplacé par l'antonyme, 吉, «chanceux, heureux»/(litt.) livrer la fortune/
 交回 交回 [jiao1 hui2] {gaau1 wui4} /to return (an item to)/
 交學費 交学费 [jiao1 xue2 fei4] {gaau1 hok6 fai3} /pay school tuition fees/
 交帶 交带 [jiao1 dai4] {gaau1 daai3} /to hand over; (adjective) very responsible; to order/
@@ -2239,6 +2239,7 @@
 八妹 八妹 [ba1 mei4] {baat3 mui1} /a young girl who is a busybody or a gossiper/
 八婆 八婆 [ba1 po2] {baat3 po4} /(of coarse language)  bitch/
 八字波 八字波 [ba1 zi4 bo1] {baat3 zi6 bo1} /breasts that are shaped as "eight [八]" in Chinese character /
+八字鬍子 八字胡子 [ba1 zi4 hu2 zi] {baat3 zi6 wu4 zi2} /moustache séparée au centre, comme le caractère 八 (voir 二撇雞, 二撇鸡) /
 八寶飯 八宝饭 [ba1 bao3 fan4] {baat3 bou2 faan6} /traditional Shanghainese snack, consist of eight kinds of ingredients, they are steamed glutinous rice, red beans, red dates and etc. /
 八年 八年 [ba1 nian2] {baat3 nin4} /eight years/
 八日 八日 [ba1 ri4] {baat3 jat6} /eight days; eighth [date]/
