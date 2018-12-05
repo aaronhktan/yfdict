@@ -439,7 +439,7 @@
 三行 三行 [san1 hang2] {saam1 hang4} /les professions de maçonnerie, menuiserie, and peintre en bâtiment/
 三行仔 三行仔 [san1 hang2 zi3] {saam1 hong4 zai2} /menuisier, construction, et installateur/
 三行佬 三行佬 [san1 hang2 lao3] {saam1 hong4 lou2} /menuisier, construction, et installateur/
-三衰六旺 三衰六旺 [san1 shuai1 liu4 wang4] {saam1 seoi1 luk6 wong6} /les défis et bonnes fortunes vécus au cours d'une fie/(litt.) trois événements malheureux, six événements heureux/
+三衰六旺 三衰六旺 [san1 shuai1 liu4 wang4] {saam1 seoi1 luk6 wong6} /les défis et bonnes fortunes vécus au cours d'une vie, les hauts et les bas (voir aussi 人有三衰六旺)/(litt.) trois malheurs, six bonheurs/
 三角尺 三角尺 [san1 jiao3 chi3] {saam1 gok3 cek3} /une équerre/
 三角架 三角架 [san1 jiao3 jia4] {saam1 gok3 gaa2} /trépied/
 三角測量 三角测量 [san1 jiao3 ce4 liang2] {saam1 gok3 caak1 loeng4} /triangulation/
@@ -1146,114 +1146,113 @@
 人一世物一世 人一世物一世 [ren2 yi1 shi4 wu4 yi1 shi4] {jan4 jat1 sai3 mat6 jat1 sai3} /on n'a qu'une vie; on devrait tout essayer/(litt.) les personnes ont une vie, les choses ont une vie/
 人仔 人仔 [ren2 zi3] {jan4 zai2} /un surnom pour le Renminbi, la monnaie officiel de la République Populaire de la Chine/
 人仔細細 人仔细细 [ren2 zi3 xi4 xi4] {jan4 zai2 sai3 sai3} /un jeune qui se comporte comme un adulte/un jeune/une année ayant peu de valeur historique/
-人倫 人伦 [ren2 lun2] {jan4 leon4} /relations humaines (dans la pensée de Confucius)/
+人倫 人伦 [ren2 lun2] {jan4 leon4} /relations interpersonelles (dans le contexte de la pensée de Confucius)/
 人像 人像 [ren2 xiang4] {jan4 zoeng6} /un portrait/
-人和 人和 [ren2 he2] {jan4 wo4} /to win the hearts of general public /
-人和站 人和站 [ren2 he2 zhan4] {jan4 wo4 zaam6} /Renhe Station- a place in Guangzhou, China/
-人哋 人哋 [ren2 di4] {jan4 dei6} /(pronoun) they; he; she; I; other people; everybody else/
-人嚟 人嚟 [ren2 li2] {jan4 lai4} /summoning one to come and serve /
-人地 人地 [ren2 di4] {jan4 dei6} /others (spoken)/
-人地生疏 人地生疏 [ren2 di4 sheng1 shu1] {jan4 dei6 sang1 so1} /he or she is rusty; or to describe two or more people are not close/
-人士 人士 [ren2 shi4] {jan4 si6} /(noun)  (A formal word of) folks/
-人壽燕梳 人寿燕梳 [ren2 shou4 yan4 shu1] {jan4 sau6 jin3 so1} /life insurance/
-人多好做作 人多好做作 [ren2 duo1 hao3 zuo4 zuo5] {jan4 do1 hou2 zou6 zok3} /Many hands make the job easy/
-人多手腳亂 人多手脚乱 [ren2 duo1 shou3 jiao3 luan4] {jan4 do1 sau2 goek3 lyun6} /too many cooks in the kitchen, too many people trying to work on the same task/ project and that messes up the progress/
-人夾人緣 人夹人缘 [ren2 jia1 ren2 yuan2] {jan4 gaap3 jan4 jyun4} /relationships are developed based on destiny; if they are meant to develop relationship, it will naturally occur /
-人客 人客 [ren2 ke4] {jan4 haak3} /(noun) customers; clients; guests/
-人山人海 人山人海 [ren2shan1ren2hai3] {jan4 saan1 jan4 hoi2} /(noun) (of metaphor) People are everywhere /
-人工 人工 [ren2 gong1] {jan4 gung1} /(noun)  salary/
-人工受精 人工受精 [ren2 gong1 shou4 jing1] {jan4 gung1 sau6 zing1} /Artificial Insemination/
-人影 人影 [ren2 ying3] {jan4 jing2} /lit. human shadow, meaning not a trace of other human presence around, to describe a deserted place /
-人心惶惶 人心惶惶 [ren2 xin1 huang2 huang2] {jan4 sam1 wong4 wong4} /uneasiness or anxiety felt by general public /
-人心肉做 人心肉做 [ren2 xin1 rou4 zuo4] {jan4 sam1 juk6 zou6} /a heart is made out of meat, which means no matter how cruel a person is, he or she still has some sympathy/
-人心隔肚皮 人心隔肚皮 [ren2 xin1 ge2 du4 pi2] {jan4 sam1 gaak3 tou5 pei4} /cannot judge one is a good person by its look (slang)/
-人急智生 人急智生 [ren2 ji2 zhi4 sheng1] {jan4 gap1 zi3 sang1} /sharp or quick-witted while emergency or desperate /
-人情 人情 [ren2 qing2] {jan4 cing4} /monetary gift for one's wedding (Cantonese)/
-人情紙咁薄 人情纸咁薄 [ren2 qing2 zhi3 gan1 bo2] {jan4 cing4 zi2 gam2 bok6} /heartless (spoken)/
-人情薄過紙 人情薄过纸 [ren2 qing2 bo2 guo4 zhi3] {jan4 cing4 bok6 gwo3 zi2} /human relationship is thinner than a paper, which means a relationship can be very weak/
-人手 人手 [ren2 shou3] {jan4 sau2} /(noun)  Workforce/
-人才輩出 人才辈出 [ren2 cai2 bei4 chu1] {jan4 coi4 bui3 ceot1} /batches of talented people arise amongst generations /
-人日 人日 [ren2 ri4] {jan4 jat6} /Human Day, on the 7th day of first month for the lunar calendar, the day when human being were made /
-人有三衰六旺 人有三衰六旺 [ren2 you3 san1 shuai1 liu4 wang4] {jan4 jau5 saam1 seoi1 luk6 wong6} /one has three bad and six good fortunes, which means a person's life has ups and downs/
-人有我有 人有我有 [ren2 you3 wo3 you3] {jan4 jau5 ngo5 jau5} /one wanting an item not because of need, but just because lots of people have one /
-人板 人板 [ren2 ban3] {jan4 baan2} /a real life sample, role model to other people/
-人比人，比死人 人比人，比死人 [ren2 bi3 ren2 , bi3 si3 ren2] {jan4 bei2 jan4 bei2 sei2 jan4} /there's no point in comparing between people, as we are all different, and can be endless in defining differences/
-人民力量 人民力量 [ren2 min2 li4 liang5] {jan4 man4 lik6 loeng6} /People Power, a pro-democratic political party in Hong Kong /
-人民英雄 人民英雄 [ren2 min2 ying1 xiong2] {jan4 man4 jing1 hung4} /people's hero, commoners' hero/
-人氣急升 人气急升 [ren2 qi4 ji2 sheng1] {jan4 hei3 gap1 sing1} /gaining popularity at a sudden /
-人滿之患 人满之患 [ren2 man3 zhi1 huan4] {jan4 mun5 zi1 waan6} /disasters or issues caused by overcrowding /
-人無千日好 人无千日好 [ren2 wu2 qian1 ri4 hao3] {jan4 mou4 cin1 jat6 hou2} /1. friendships do not last forever     2.things do not always go the way we want  /
-人無千日好，花無百日紅 人无千日好，花无百日红 [ren2 wu2 qian1 ri4 hao3 , hua1 wu2 bai3 ri4 hong2] {jan4 mou4 cin1 jat6 hou2 ，faa1 mou4 baak3 jat6 hung4} /1. friendships do not last forever     2.things do not always go the way we want  /
-人版 人版 [ren2 ban3] {jan4 baan2} /living example/
-人瑞 人瑞 [ren2 rui4] {jan4 seoi6} /centenarian; century-old person/
-人生 人生 [ren2 sheng1] {jan4 sang1} /one's lifetime/
-人生地不熟 人生地不熟 [ren2 sheng1 di4 bu4 shu2] {jan4 sang1 dei6 bat1 suk6} /as a new arrival (to a place), one feeling insecure or unfamiliar with the surroundings/
-人生觀 人生观 [ren2 sheng1 guan1] {jan4 sang1 gun1} /philosophy of life/
-人盡可夫 人尽可夫 [ren2 jin4 ke3 fu1] {jan4 zeon6 ho2 fu1} /a promiscuous female who can sleep with any men she met/
-人神共憤 人神共愤 [ren2 shen2 gong4 fen4] {jan4 san4 gung6 fan5} /be hated by both men and god; incur the greatest popular indignation /
-人窮志不窮 人穷志不穷 [ren2 qiong2 zhi4 bu4 qiong2] {jan4 kung4 zi3 bat1 kung4} /one who is poor but with great ambitions /
-人細鬼大 人细鬼大 [ren2 xi4 gui3 da4] {jan4 sai3 gwai2 daai6} /(slang) someone who is young but mature and astute / shrewd / savvy/
-人羣 人羣 [ren2 qun2] {jan4 kwan4} /a group of people; a crowd/
-人老精，鬼老靈 人老精，鬼老灵 [ren2 lao3 jing1 , gui3 lao3 ling2] {jan4 lou5 zeng1 ，gwai2 lou5 leng4} /The grown up/seniors might have thought things thoroughly because they have experienced lots in their lives/
-人老精鬼老靈 人老精鬼老灵 [ren2 lao3 jing1 gui3 lao3 ling2] {jan4 lou5 zeng1 gwai2 lou5 leng4} /The grown up/seniors might have thought things thoroughly because they have experienced lots in their lives/
-人聲 人声 [ren2 sheng1] {jan4 seng1} /Human voice/
-人肉炸彈 人肉炸弹 [ren2 rou4 zha4 dan4] {jan4 juk6 zaa3 daan2} /one strapping a bomb to oneself /
-人蔘 人蔘 [ren2 shen1] {jan4} /Ginseng/
-人蠢冇藥醫 人蠢冇藥医 [ren2 chun3 mao3 shuo4 yi1] {jan4 ceon2 mou5 joek6 ji1} /it is used to describe a person who is so stupid that no medicine can cure his/ her stupidity/
-人講你又講 人讲你又讲 [ren2 jiang3 ni3 you4 jiang3] {jan4 gong2 nei5 jau6 gong2} /someone who says things said by others, meaning a person lacks the critical and analytical skills to process information/
-人辦 人办 [ren2 ban4] {jan4 baan6} /a sample used to demostrate how one can behave badly or unacceptedably as seen from public/
-人造皮 人造皮 [ren2 zao4 pi2] {jan4 zou6 pei4} /Leatherette; Artificial leather/
-人造衞星 人造卫星 [ren2 zao4 wei4 xing1] {jan4 zou6 wai6 sing1} /Man-made satellite; Artificial satellite/
-人道 人道 [ren2 dao4] {jan4 dou6} /(noun)  Act of humanity/
-人際關係 人际关系 [ren2 ji4 guan1 xi5] {jan4 zai3 gwaan1 hai6} /inter-personal relationships/
-人面 人面 [ren2 mian4] {jan4 min6} /human face/
-人面桃花 人面桃花 [ren2 mian4 tao2 hua1] {jan4 min6 tou4 faa1} /the missing feeling one male feel as his partner leaves him /
-人頭 人头 [ren2 tou2] {jan4 tau4} /(noun) (of body part)  Head/
-人頭涌涌 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /crowded with a lot of people/
-人頭湧湧 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /crowded/
-人頭豬腦 人头猪脑 [ren2 tou2 zhu1 nao3] {jan4 tau4 zyu1 nou5} /dumb; stupid; literally 'pig-brained'/
-什物 什物 [shi2 wu4] {zaap6 mat6} /miscellany/
-仁心 仁心 [ren2 xin1] {jan4 sam1} /A kind heart/
-仁濟醫院 仁济医院 [ren2 ji4 yi1 yuan4] {jan4 zai3 ji1 jyun2} /Yan Chai Hospital/
-仁獸 仁兽 [ren2 shou4] {jan4 sau3} /another name for Chinese unicorn (a Chinese mythical beast)/
-仁者無敵 仁者无敌 [ren2 zhe3 wu2 di2] {jan4 ze2 mou4 dik6} /being kind to the world brings no enemy /
-仄紙 仄纸 [ze4 zhi3] {zak1 zi2} /cheque/
-仆 仆 [pu1] {puk1} /(verb)  Fall down (on street) /
-仆你個街 仆你个街 [pu2 ni3 ge4 jie1] {buk6 nei5 go3 gaai1} /lit. you would fall or trip over on the street, a swearing phrase use for cursing someone to fall or go to hell /
-仆嚫 仆嚫 [pu2 chen4] {puk1 can3} /tripped over; fall accidently /
-仆直 仆直 [pu2 zhi2] {buk6 zik6} /it is a swearing phrase which means falling on the street to the extent that someone lays flat on the ground, it is used to describe a bad situation/
-仆街 仆街 [pu1 jie1] {puk1 gaai1} /(verb)  fall on street/
-仆街仔 仆街仔 [pu1 jie1 zi3] {buk6 gaai1 zi2} /it is a swearing phrase which means falling on the street, it is used to describe someone who is an asshole/
-仆轉 仆转 [pu2 zhuan3] {puk1 zyun3} /face front and lay down/
-仇口 仇口 [chou2 kou3] {sau4 hau2} /enemy/
-仇家 仇家 [chou2 jia1] {sau4 gaa1} /nemesis; enemy/
-仇殺 仇杀 [chou2 sha1] {sau4 saat3} /to kill in revenge, vendetta/
-仇視 仇视 [chou2 shi4] {sau4 si6} /regard one as enemy; to be hostile to /
-今個月 今个月 [jin1 ge5 yue4] {gam1 go3 jyut6} /this month/
-今勻 今匀 [jin1 yun2] {gam1 wan4} /this time/
-今宵 今宵 [jin1 xiao1] {gam1 siu1} /Tonight/
-今屆 今届 [jin1 jie4] {gam1 gaai3} /this current occurrence /
-今日 今日 [jin1 ri4] {gam1 jat6} /(adverb)  nowadays/
-今時唔同往日 今时唔同往日 [jin1 shi2 n2 tong2 wang3 ri4] {gam1 si4 m4 tung4 wong5 jat6} /how it is nowadays is not the same as how it used to be; the situation is different/
-今晚打老虎 今晚打老虎 [jin1 wan3 da3 lao3 hu3] {gam1 maan5 daa2 lou5 fu2} /hello; how are you? (old slang)/
-今晚黑 今晚黑 [jin1 wan3 hei1] {gam1 maan5 hak1} /tonight (spoken)/
-今朝 今朝 [jin1 zhao1] {gam1 ziu1} /(noun)  this morning, …/
-今朝早 今朝早 [jin1 chao2 zao3] {gam1 ziu1 zou2} /this morning/
-今次 今次 [jin1 ci4] {gam1 ci3} /this time/
-今鋪 今铺 [jin1 pu4] {gam1 pou1} /this occasion or time/
-介乎 介乎 [jie4hu1] {gaai3 fu4} / (adjective) In-between/
-介紹人 介绍人 [jie4 shao4 ren2] {gaai3 siu6 jan4} /introducer; sponsor/
-介紹信 介绍信 [jie4 shao4 xin4] {gaai3 siu6 seon3} /a referral letter/
-仔 仔 [zi3] {zai2} /(noun) 1. boyfriend; 2. Son/
-仔乸 仔乸 [zi3 na2] {zai2 naa2} /mother and son (spoken)/
-仔仔 仔仔 [zai3 zai3] {zai2 zai2} /nickname for one's son (baby or boy) /
-仔大仔世界 仔大仔世界 [zi3 da4 zi3 shi4 jie4] {zai2 daai6 zai2 sai3 gaai3} /(slang) children who are grown up have their own ideas, make their own decisions and live their own lives/
-仔女 仔女 [zi3 nü3] {zai2 neoi2} /(noun) sons and daughters; children/
-仔孫 仔孙 [zi3 sun1] {zi2 syun1} /offsprings /
-仔爺 仔爷 [zi3 ye2] {zai2 je4} /son and father/
-仔細 仔细 [zi3 xi4] {zi2 sai3} /(noun + adjective)1. son is little; (adverb)  in detail/
-仔細女嫩 仔细女嫩 [zi3 xi4 nü3 nen4] {zai2 sai3 neoi5 nyun6} /one's child(ren) are still young /
-仔細老婆嫩 仔细老婆嫩 [zi3 xi4 lao3 po5 nen4] {zai2 sai3 lou5 po4 nyun6} /one's child(ren) and wife are still young /
+人和 人和 [ren2 he2] {jan4 wo4} /obtenir le soutien du public/
+人和站 人和站 [ren2 he2 zhan4] {jan4 wo4 zaam6} /la station Renhe - un endroit situé à Guangzhou, Chine/
+人哋 人哋 [ren2 di4] {jan4 dei6} /les autres (personnes)/quelqu'un, quelqu'un d'autre/il ou elle/je/voir aussi 人地/
+???? 人嚟 人嚟 [ren2 li2] {jan4 lai4} /summoning one to come and serve /
+人地 人地 [ren2 di4] {jan4 dei6} /les autres (personnes)/quelqu'un, quelqu'un d'autre/il ou elle/je/voir aussi 人哋/
+人地生疏 人地生疏 [ren2 di4 sheng1 shu1] {jan4 dei6 sang1 so1} /deux personnes qui ne sont pas proches/ne pas être familier avec ses environs/(litt.) il ou elle est rouillé(e)/
+人士 人士 [ren2 shi4] {jan4 si6} /les gens (registre soutenu)/
+人壽燕梳 人寿燕梳 [ren2 shou4 yan4 shu1] {jan4 sau6 jin3 so1} /assurance-vie/
+人多好做作 人多好做作 [ren2 duo1 hao3 zuo4 zuo5] {jan4 do1 hou2 zou6 zok3} /plusieurs personnes rendent une tâche plus facile/
+人多手腳亂 人多手脚乱 [ren2 duo1 shou3 jiao3 luan4] {jan4 do1 sau2 goek3 lyun6} /deux patrons font chavirer la barque, s'il y a trop de partipants, la tâche ne sera pas bien faite/(litt.) avec trop de personnes, les mains et les pieds se mélangent/
+???? 人夾人緣 人夹人缘 [ren2 jia1 ren2 yuan2] {jan4 gaap3 jan4 jyun4} /relationships are developed based on destiny; if they are meant to develop relationship, it will naturally occur /
+人客 人客 [ren2 ke4] {jan4 haak3} /un client/un invité/
+人山人海 人山人海 [ren2shan1ren2hai3] {jan4 saan1 jan4 hoi2} /une foule, beaucoup de personnes/(litt.) montagnes et océans de personnes/
+人工 人工 [ren2 gong1] {jan4 gung1} /salaire/
+人工受精 人工受精 [ren2 gong1 shou4 jing1] {jan4 gung1 sau6 zing1} /l'insémination artificielle/
+人影 人影 [ren2 ying3] {jan4 jing2} /un endroit désert, sans autres personnes/(litt.) l'ombre des personnes/
+人心惶惶 人心惶惶 [ren2 xin1 huang2 huang2] {jan4 sam1 wong4 wong4} /une angoisse ou inquiétude répandue/(litt.) les coeurs anxieux du public/
+人心肉做 人心肉做 [ren2 xin1 rou4 zuo4] {jan4 sam1 juk6 zou6} /même les personnes les plus cruelles ont un peu de sympathie/(litt.) le coeur humain est fait de chair/
+???? 人心隔肚皮 人心隔肚皮 [ren2 xin1 ge2 du4 pi2] {jan4 sam1 gaak3 tou5 pei4} /impossible de juger par apparences; il est difficile de connaître la vraie nature de qqn/
+???? 人急智生 人急智生 [ren2 ji2 zhi4 sheng1] {jan4 gap1 zi3 sang1} /la rapidité d'esprit lors d'une situation d'urgence/
+人情 人情 [ren2 qing2] {jan4 cing4} /un cadeau de mariage monétaire/
+人情紙咁薄 人情纸咁薄 [ren2 qing2 zhi3 gan1 bo2] {jan4 cing4 zi2 gam2 bok6} /sans coeur, cruel (voir aussi 人情薄過紙 人情薄过纸)/(litt.) la morale humaine est mince comme du papier/
+人情薄過紙 人情薄过纸 [ren2 qing2 bo2 guo4 zhi3] {jan4 cing4 bok6 gwo3 zi2} /sans coeur, cruel (voir aussi 人情紙咁薄 人情纸咁薄)/(litt.) la morale humaine est plus mince que du papier/
+人手 人手 [ren2 shou3] {jan4 sau2} /main d'oeuvre/
+???? 人才輩出 人才辈出 [ren2 cai2 bei4 chu1] {jan4 coi4 bui3 ceot1} /les groupes de personnes talentueuses surviennent à générations/
+人日 人日 [ren2 ri4] {jan4 jat6} /Renri, la fête des humains, qui tombe le sept du premier mois du calendrier chinois/
+人有三衰六旺 人有三衰六旺 [ren2 you3 san1 shuai1 liu4 wang4] {jan4 jau5 saam1 seoi1 luk6 wong6} /les défis et bonnes fortunes vécus au cours d'une vie, les hauts et les bas (voir aussi 三衰六旺)/(litt.) les gens vivent trois malheurs et six bonheurs au cours d'une vie/xw
+人有我有 人有我有 [ren2 you3 wo3 you3] {jan4 jau5 ngo5 jau5} /vouloir qqch parce que les autres l'ont et non par necessité, rivaliser ses voisins/(litt.) les autres en ont, moi j'en ai/
+人板 人板 [ren2 ban3] {jan4 baan2} /modèle (qqn avec une conduite exemplaire/
+???? 人比人，比死人 人比人，比死人 [ren2 bi3 ren2 , bi3 si3 ren2] {jan4 bei2 jan4 bei2 sei2 jan4} /tout le monde est unique, donc il n'existe pas de raison pour faire des comparaisons avec les autres/
+人民力量 人民力量 [ren2 min2 li4 liang5] {jan4 man4 lik6 loeng6} /People Power, un parti politique à Hong Kong/
+人民英雄 人民英雄 [ren2 min2 ying1 xiong2] {jan4 man4 jing1 hung4} /un héros du peuple, un héros populaire/
+人氣急升 人气急升 [ren2 qi4 ji2 sheng1] {jan4 hei3 gap1 sing1} /tout à coup devenir populaire/
+人滿之患 人满之患 [ren2 man3 zhi1 huan4] {jan4 mun5 zi1 waan6} /des problèmes dûs au surpeuplement/
+人無千日好 人无千日好 [ren2 wu2 qian1 ri4 hao3] {jan4 mou4 cin1 jat6 hou2} /les amitiés se terminent forcément un jour/les choses ne déroulent pas toujours comme prévu/voir aussi 人無千日好，花無百日紅 人无千日好，花无百日红/(litt.) on n'a pas mille bonnes journées/
+人無千日好，花無百日紅 人无千日好，花无百日红 [ren2 wu2 qian1 ri4 hao3 , hua1 wu2 bai3 ri4 hong2] {jan4 mou4 cin1 jat6 hou2 ，faa1 mou4 baak3 jat6 hung4} /les amitiés se terminent forcément un jour/les choses ne déroulent pas toujours comme prévu/voir aussi 人無千日好 人无千日好/(litt.) on n'a pas mille bonnes journés, et les fleurs ne restent pas rouge cent jours/
+人瑞 人瑞 [ren2 rui4] {jan4 seoi6} /un(e) centenaire/
+人生 人生 [ren2 sheng1] {jan4 sang1} /la vie (d'une personne)/
+???? 人生地不熟 人生地不熟 [ren2 sheng1 di4 bu4 shu2] {jan4 sang1 dei6 bat1 suk6} /ne pas être familier avec ses environs/
+人生觀 人生观 [ren2 sheng1 guan1] {jan4 sang1 gun1} /conception de la vie, philosophie de la vie/
+人盡可夫 人尽可夫 [ren2 jin4 ke3 fu1] {jan4 zeon6 ho2 fu1} /une femme aux moeurs légères/
+人神共憤 人神共愤 [ren2 shen2 gong4 fen4] {jan4 san4 gung6 fan5} /susciter de l'indignation populaire/(litt.) être détesté par l'homme et dieu/
+人窮志不窮 人穷志不穷 [ren2 qiong2 zhi4 bu4 qiong2] {jan4 kung4 zi3 bat1 kung4} /qqn pauvre qui a toutefois de grandes ambitions/
+人細鬼大 人细鬼大 [ren2 xi4 gui3 da4] {jan4 sai3 gwai2 daai6} /malin, maligne/(litt.) qqn jeune qui est toutefois futé/
+人羣 人羣 [ren2 qun2] {jan4 kwan4} /un groupe de personnes, une foule/
+???? 人老精，鬼老靈 人老精，鬼老灵 [ren2 lao3 jing1 , gui3 lao3 ling2] {jan4 lou5 zeng1 ，gwai2 lou5 leng4} /les personnes âgées sont sages à cause de leurs expériences (voir aussi 人老精鬼老靈 人老精鬼老灵)/
+人老精鬼老靈 人老精鬼老灵 [ren2 lao3 jing1 gui3 lao3 ling2] {jan4 lou5 zeng1 gwai2 lou5 leng4} /les personnes âgées sont sages à cause de leurs expériences (voir aussi 人老精，鬼老靈 人老精，鬼老灵)/
+人聲 人声 [ren2 sheng1] {jan4 seng1} /la voix humaine/
+人肉炸彈 人肉炸弹 [ren2 rou4 zha4 dan4] {jan4 juk6 zaa3 daan2} /un kamikaze, une bombe humaine/(litt.) bombe à chair humaine/
+人蔘 人蔘 [ren2 shen1] {jan4 sam1} /le ginseng/
+人蠢冇藥醫 人蠢冇藥医 [ren2 chun3 mao3 shuo4 yi1] {jan4 ceon2 mou5 joek6 ji1} /un(e) idiot(e), un(e) imbécile/(litt.) une personne tellement stupide qu'aucun médicament ne peut aider/
+人講你又講 人讲你又讲 [ren2 jiang3 ni3 you4 jiang3] {jan4 gong2 nei5 jau6 gong2} /qqn qui manque un esprit critique/(litt.) quelqu'un qui répète ce que les autres disent/
+???? 人辦 人办 [ren2 ban4] {jan4 baan6} /a sample used to demostrate how one can behave badly or unacceptedably as seen from public/
+人造皮 人造皮 [ren2 zao4 pi2] {jan4 zou6 pei4} /le cuir artificiel/
+人造衞星 人造卫星 [ren2 zao4 wei4 xing1] {jan4 zou6 wai6 sing1} /un satellite artificiel/
+人道 人道 [ren2 dao4] {jan4 dou6} /l'humanitarianisme/une action humaine, une bonne action/
+人際關係 人际关系 [ren2 ji4 guan1 xi5] {jan4 zai3 gwaan1 hai6} /les relations interpersonnelles/
+人面 人面 [ren2 mian4] {jan4 min6} /visage d'un être humain/
+???? 人面桃花 人面桃花 [ren2 mian4 tao2 hua1] {jan4 min6 tou4 faa1} /ce qu'un homme ressent après que son partenaire le quitte/
+人頭 人头 [ren2 tou2] {jan4 tau4} /la tête d'un être humain/
+人頭涌涌 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /(un endroit) bondé, plein à craquer/
+人頭湧湧 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /(un endroit) bondé, plein à craquer (voir aussi 人頭涌涌 人头涌涌)/
+人頭豬腦 人头猪脑 [ren2 tou2 zhu1 nao3] {jan4 tau4 zyu1 nou5} /stupide, idiot/(litt.) une tête avec un cerveau de cochon/
+什物 什物 [shi2 wu4] {zaap6 mat6} /choses diverses/
+仁心 仁心 [ren2 xin1] {jan4 sam1} /bon coeur, au grand coeur/
+仁濟醫院 仁济医院 [ren2 ji4 yi1 yuan4] {jan4 zai3 ji1 jyun2} /l'Hôpital Yan Chai/
+仁獸 仁兽 [ren2 shou4] {jan4 sau3} /un nom pour le qilin, un animal fabuleux de la mythologie chinoise/
+仁者無敵 仁者无敌 [ren2 zhe3 wu2 di2] {jan4 ze2 mou4 dik6} /les personnes sympathiques n'ont pas d'ennemi/
+仄紙 仄纸 [ze4 zhi3] {zak1 zi2} /un chèque/
+仆 仆 [pu1] {puk1} /tomber, chuter (sur la rue)/
+仆你個街 仆你个街 [pu2 ni3 ge4 jie1] {buk6 nei5 go3 gaai1} /(vulg.) va te faire voir! va te faire foutre!/(litt.) que tu tombes sur la rue!/
+仆嚫 仆嚫 [pu2 chen4] {puk1 can3} /trébucher par accident/
+仆直 仆直 [pu2 zhi2] {puk6 zik6} /une mauvaise situation/avoir des problèmes/(litt.) tomber à plat-ventre sur la rue/
+仆街 仆街 [pu1 jie1] {puk1 gaai1} /(vulg.) va te faire voir! va te faire foutre!/(litt.) que tu tombes sur la rue!/
+仆街仔 仆街仔 [pu1 jie1 zi3] {buk6 gaai1 zi2} /(vulg.) un connard/(litt.) qqn qui tombe sur la rue/
+???? 仆轉 仆转 [pu2 zhuan3] {puk1 zyun3} /face front and lay down/
+仇口 仇口 [chou2 kou3] {sau4 hau2} /un ennemi/
+仇家 仇家 [chou2 jia1] {sau4 gaa1} /un ennemi/
+仇殺 仇杀 [chou2 sha1] {sau4 saat3} /tuer par la vengeance/
+仇視 仇视 [chou2 shi4] {sau4 si6} /considérer qqn comme ennemi/être hostile à qqn/
+今個月 今个月 [jin1 ge5 yue4] {gam1 go3 jyut6} /ce mois-ci/
+今勻 今匀 [jin1 yun2] {gam1 wan4} /cette heure-ci/
+今宵 今宵 [jin1 xiao1] {gam1 siu1} /ce soir/
+今屆 今届 [jin1 jie4] {gam1 gaai3} /cet évènement-ci (d'une suite d'évènements)/
+今日 今日 [jin1 ri4] {gam1 jat6} /aujourd'hui/de nos jours/
+今時唔同往日 今时唔同往日 [jin1 shi2 n2 tong2 wang3 ri4] {gam1 si4 m4 tung4 wong5 jat6} /les choses ont changé depuis ce temps/
+今晚打老虎 今晚打老虎 [jin1 wan3 da3 lao3 hu3] {gam1 maan5 daa2 lou5 fu2} /salut, comment ça va? (vieilli)/
+今晚黑 今晚黑 [jin1 wan3 hei1] {gam1 maan5 hak1} /cette nuit/
+今朝 今朝 [jin1 zhao1] {gam1 ziu1} /ce matin/
+今朝早 今朝早 [jin1 chao2 zao3] {gam1 ziu1 zou2} /ce matin/
+今次 今次 [jin1 ci4] {gam1 ci3} /cette fois-ci/
+今鋪 今铺 [jin1 pu4] {gam1 pou1} /cette fois-ci/
+介乎 介乎 [jie4 hu1] {gaai3 fu4} /entre/
+???? 介紹人 介绍人 [jie4 shao4 ren2] {gaai3 siu6 jan4} /un sponsor/
+介紹信 介绍信 [jie4 shao4 xin4] {gaai3 siu6 seon3} /lettre de référence, lettre de recommendation/
+仔 仔 [zi3] {zai2} /fils/copain, petit ami/
+仔乸 仔乸 [zi3 na2] {zai2 naa2} /une mère et son fils/
+仔仔 仔仔 [zai3 zai3] {zai2 zai2} /un surnom pour un fils (enfant ou bébé)/
+???? 仔大仔世界 仔大仔世界 [zi3 da4 zi3 shi4 jie4] {zai2 daai6 zai2 sai3 gaai3} /(slang) children who are grown up have their own ideas, make their own decisions and live their own lives/
+仔女 仔女 [zi3 nü3] {zai2 neoi2} /enfants, fils et filles/
+仔孫 仔孙 [zi3 sun1] {zi2 syun1} /progéniture, descendance/
+仔爺 仔爷 [zi3 ye2] {zai2 je4} /un père et son fils/
+仔細 仔细 [zi3 xi4] {zi2 sai3} /attentivement/prudemment/
+仔細女嫩 仔细女嫩 [zi3 xi4 nü3 nen4] {zai2 sai3 neoi5 nyun6} /jeunes enfants/
+仔細老婆嫩 仔细老婆嫩 [zi3 xi4 lao3 po5 nen4] {zai2 sai3 lou5 po4 nyun6} /des enfants et une femme encore jeunes/
 仕進 仕进 [shi4 jin4] {si6 zeon3} /become more hard-working and positive in order to achieve something/
 他他條條 他他条条 [tuo4 tuo4 tiao2 tiao5] {taa1 taa1 tiu4 tiu4} /take it slow or relaxing /
 他們的 他们的 [ta1 men5 de5] {taa1 mun4 dik1} /their/
