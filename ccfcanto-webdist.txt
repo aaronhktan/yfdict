@@ -15,44 +15,45 @@
 # - Sépare les définitions différentes avec une barre oblique, sans espaces
 # - S'il faut utiliser les mots <quelque chose> ou <quelqu'un>, utilise <qqch> et <qqn>
 # - S'il y a une forme masculin et féminin, écris comme: un(e)
-# - Pour les traductions avec une version littérale, mets-le après les autres définitions et ajoute un (litt.) devant la traduction
+# - Pour les traductions avec une version littérale, mets-la après les autres définitions et ajoute un (litt.) devant la traduction
+# - En parenthèses: (expr. idiom.), (arch.), (n.m.), (n.f), (classificateur), (orig.), (nom de famille)
 
 一不小心 一不小心 [yi1 bu5 xiao3 xin1] {jat1 bat1 siu2 sam1} /par accident/
 一世人 一世人 [yi1 shi4 ren2] {jat1 sai3 jan4} /toute la vie (de qqn), la vie entière, pour toute une vie/
-一世英名 一世英名 [yi1 shi4 ying1 ming2] {jat1 sai3 jing1 ming4} /la grande réputation et renommée de qqn/
+一世英名 一世英名 [yi1 shi4 ying1 ming2] {jat1 sai3 jing1 ming4} /grande réputation et renommée de qqn/
 一个 一个 [yi1 ge5] {jat1 go3} /un(e)/
 一串 一串 [yi1 chuan4] {jat1 cyun3} /une série de qqch/
 一九九七年 一九九七年 [yi1 jiu3 jiu3 qi1 nian2] {jat1 gau2 gau2 cat1 nin4} /l'année 1997/
 一九四九年 一九四九年 [yi1 jiu3 si4 jiu3 nian2] {jat1 gau2 sei3 gau2 nin4} /l'année 1949/
-一事 一事 [yi1 shi4] {jat1 si6} /une affaire, un sujet/
-一二 一二 [yi1 er4] {jat1 ji6} /un ou deux, un peu, quelques-uns, un par un/
+一事 一事 [yi1 shi4] {jat1 si6} /affaire, sujet/
+一二 一二 [yi1 er4] {jat1 ji6} /un ou deux/un peu/quelques-uns/un par un/
 一些些 一些些 [yix1 xie1 xie1] {jat1 se1 se1} /un petit peu/
-一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /on doit affronter les conséquences de nos actions/
-一人計短，二人計長 一人计短，二人计长 [yi1 ren2 ji4 duan3 , er4 ren2 ji4 zhang3] {jat1 jan4 gai3 dyun2 ji6 jan4 gai3 zoeng2} /mieux voient quatre yeux que deux/(litt.) une personne possède peu de sagesse, deux personnes en possèdent plus/
+一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /(expr. idiom.) on doit affronter les conséquences de nos actions/
+一人計短，二人計長 一人计短，二人计长 [yi1 ren2 ji4 duan3 , er4 ren2 ji4 zhang3] {jat1 jan4 gai3 dyun2 ji6 jan4 gai3 zoeng2} /(expr. idiom.) mieux voient quatre yeux que deux/(litt.) une personne possède peu de sagesse, deux personnes en possèdent plus/
 一仆一碌 一仆一碌 [yi1 pu2 yi1 lu4] {jat1 puk1 jat1 luk1} /trébucher, tomber sur la terre en roulant ou en rampant/s'enfuir tellement vite jusqu'au point de presque tomber/(litt.) un trébuchement, un roulement
-一介 一介 [yi1 jie4] {jat1 gaai3} /juste un type (de personne)/
+一介 一介 [yi1 jie4] {jat1 gaai3} /un type (de personne)/
 一代英豪 一代英豪 [yi1 dai4 ying1 hao2] {jat1 doi6 jing1 hou4} /héros d'une ère/
 一代豪傑 一代豪杰 [yi1 dai4 hao2 jie2] {jat1 doi6 hou4 git6} /héros d'une ère/
-一件還一件 一件还一件 [yi1 jian4 hai2 yi2 jian4] {jat1 gin6 waan4 jat1 gin6} /une autre affaire/n'emmêle pas une autre affaire avec celle-ci./
+一件還一件 一件还一件 [yi1 jian4 hai2 yi2 jian4] {jat1 gin6 waan4 jat1 gin6} /une affaire à la fois, n'emmêle pas une autre affaire avec celle-ci/
 一件頭 一件头 [yi1 jian4 tou2] {jat1 gin6 tau4} /maillot de bain une-pièce/
 一任 一任 [yi1 ren4] {jat1 jam6} /permettre/laisser qqn faire comme il veut/une période, un mandat/
-一份 一份 [yi1 fen4] {jat1 fan6} /[classificateur] une portion/
+一份 一份 [yi1 fen4] {jat1 fan6} /(classificateur) une portion/
 一住 一住 [yi1 zhu4] {jat1 zyu6} /vivre dans/
 一來到 一来到 [yi1 lai2 dao4] {jat1 lai4 dou3} /dès que qqn arrive/
-一便 一便 [yi1 bian4] {jat1 bin6} /à part; lorsque/
+一便 一便 [yi1 bian4] {jat1 bin6} /à part/lorsque/
 一係 一系 [yi1 xi4] {jat1 hai6} /ni l'un ni l'autre/l'un ou l'autre, aussi/(pour faire une suggestion) «qu'en est-il de...» ou «pourquoi pas…»/
 一個 一个 [yi1 ge5] {jat1 go3} /un(e)/
 一個一個 一个一个 [yi1 ge5 yi1 ge5] {jat1 go3 jat1 go3} /un par un/
 一個中國 一个中国 [yi1 ge4 Zhong1 guo2] {jat1 go3 zung1 gwok3} /politique d'une seule Chine/
 一個二個 一个二个 [yi1 ge5 er4 ge4] {jat1 go3 ji6 go3} /un et deux/tout, chaque/
-一個做好，一個做醜 一个做好，一个做丑 [yi2 ge5 zuo4 hao3 , yi2 ge5 zuo4 chou3] {jat1 go3 zou6 hou2 ，jat1 go3 zou6 cau2} /jouer au «gentil flic, mauvais flic»/
+一個做好，一個做醜 一个做好，一个做丑 [yi2 ge5 zuo4 hao3 , yi2 ge5 zuo4 chou3] {jat1 go3 zou6 hou2 ，jat1 go3 zou6 cau2} /(expr. idiom.) jouer au «gentil flic, mauvais flic»/
 一個字 一个字 [yi1 ge5 zi4] {jat1 go3 zi6} /un caractère/cinq minutes (orig.) les caractères sur une horloge analogique représentent chacun cinq minutes)/
 一個對 一个对 [yi1 ge5 dui4] {jat1 go3 deoi3} /une chose, ou une personne qui.../
 一個崩 一个崩 [yi1 ge5 beng1] {jat1 go3 bang1} /une pièce de monnaie (un dollar, un centime)/
 一個巴仙 一个巴仙 [yi1 ge5 ba1 xian1] {jat1 go3 baa1 sin1} /un pourcent/
 一個鐘 一个钟 [yi1 ge5 zhong1] {jat1 go3 zung1} /une heure/
-一個餅印 一个饼印 [yi1 ge5 bing3 yin4] {jat1 go3 beng2 jan3} deux personnes qui se ressemblent, habituellement utilisé pour désigner des membres de la même famille/(litt.) une empreinte de biscuit/
-一個餅印噉 一个饼印啖 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} deux personnes qui se ressemblent, habituellement utilisé pour désigner des membres de la même famille/(litt.) comme une empreinte de biscuit/
+一個餅印 一个饼印 [yi1 ge5 bing3 yin4] {jat1 go3 beng2 jan3} deux personnes qui se ressemblent (habituellement utilisé pour désigner des membres de la même famille)/(litt.) une empreinte de biscuit/
+一個餅印噉 一个饼印啖 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} deux personnes qui se ressemblent (habituellement utilisé pour désigner des membres de la même famille)/(litt.) comme une empreinte de biscuit/
 一個骨 一个骨 [yi1 ge5 gu3] {jat1 go3 gwat1} /quinze minutes, un quart d'heure (orig.) argot cantonais, de l'anglais 'quarter' (un quart), la prononciation du mot 'quart' en anglais est similaire à la prononciation cantonaise du mot '骨' (gwat1)/(litt.) un os/
 一倍 一倍 [yi1 bei4] {jat1 pui5} /100% plus, double, deux fois/
 一億 一亿 [yi1 yi4] {jat1 jik1} /cent millions/
@@ -60,72 +61,72 @@
 一元復始 一元复始 [yi1 yuan2 fu4 shi3] {jat1 jyun4 fuk6 ci2} /nouvelle année, nouveau départ/
 一元方程 一元方程 [yi1 yuan2 fang1 cheng2] {jat1 jyun4 fong1 cing4} /équation du second degré/
 一兆 一兆 [yi1 zhao4] {jat1 siu6} /échelle longue: billion, échelle courte: trillion, 1 000 000 000/
-一共 一共 [yi1 gong4] {jat1 gung6} /la somme/en total/
+一共 一共 [yi1 gong4] {jat1 gung6} /somme/en total/
 一凹一凸 一凹一凸 [yi1 ao1 yi1 tu1] {jat1 nap1 jat1 dat6} /compatible/(litt.) un qui a creux, un qui saillit/
 一分 一分 [yi1 fen4] {jat1 fan1} /une minute/un point/un centime/
 一分一秒 一分一秒 [yi1 fen1 yi1 miao3] {jat1 fan1 jat1 miu5} /au fil des temps/
-一分錢一分貨 一分钱一分货 [yi1 fen1 qian2] {jat1 fan1 cin4} /what you pay (what you get)/
+一分錢一分貨 一分钱一分货 [yi1 fen1 qian2 yi1 fen1 huo4] {jat1 fan1 cin4 jat1 fan1 fo3} /en avoir pour son argent/
 一刻 一刻 [yi1 ke4] {jat1 haak1} /un moment/quinze minutes/
-一動不如一靜 一动不如一静 [yi1 dong4 bu4 ru2 yi1 jing4] {jat1 dung6 bat1 jyu4 jat1 zing6} /ne pas agir avant qu'on sache si une action vaut la peine/(litt.) une action est pire que rester immobile/
-一十 一十 [yi1 shi2] {jat1 sap6} /l'entier/
+一動不如一靜 一动不如一静 [yi1 dong4 bu4 ru2 yi1 jing4] {jat1 dung6 bat1 jyu4 jat1 zing6} /ne pas agir avant de savoir qu'une action vaille la peine/(litt.) une action est pire que rester immobile/
+一十 一十 [yi1 shi2] {jat1 sap6} /le tout/
 一千 一千 [yi1 qian1] {jat1 cin1} /mille/
 一去不返 一去不返 [yi1 qu4 bu4 fan3] {jat1 heoi3 bat1 faan2} /ne pas revenir après être parti(e)/
-一口價 一口价 [yi1 kou3 jia4] {jat1 hau2 gaa3} /la dernière offre (utilisé pour négocier un prix d'achat)/
+一口價 一口价 [yi1 kou3 jia4] {jat1 hau2 gaa3} /dernière offre (pour négocier un prix d'achat)/
 一口煙 一口烟 [yi1 kou3 yan1] {jat1 hau2 jin1} /une bouffée de fumée/
 一句講晒 一句讲晒 [yi1 ju4 jiang3 shai4] {jat1 geoi3 gong2 saai3} /tout dire avec une phrase/
 一句鐘 一句钟 [yi1 ju4 zhong1] {jat1 geoi3 zung1} /une heure/
 一向 一向 [yi1 xiang4] {jat1 hoeng3} /avoir toujours été/
 一向都 一向都 [yi1 xiang4 du1] {jat1 hoeng3 dou1} /avoir toujours été/
 一味 一味 [yi1 wei4] {jat1 mei6} /un plat/interêt unique/
-一哥 一哥 [yi1 ge1] {jat1 go1} /(argot) le leader ou le chef d'un group; souvent une référence spécifique au Commissaire de Police de Hong Kong, chef du Hong Kong Police Force/quelqu'un qui est particulièrement capable ou talentueux dans une domaine spécifique/
+一哥 一哥 [yi1 ge1] {jat1 go1} /(argot) le leader ou le chef d'un group; souvent une référence spécifique au Commissaire de Police de Hong Kong, chef du Hong Kong Police Force/qqn qui est particulièrement capable ou talentueux dans une domaine spécifique/
 一唔係 一唔系 [yi1 n2 xi4] {jat1 m4 hai6} /autrement/
 一啖砂糖一啖屎 一啖砂糖一啖屎 [yi1 dan4 sha1 tang2 yi1 dan4 shi3] {jat1 daam6 saa1 tong4 jat1 daam6 si2} /les bons moments s'alternent avec les moments difficiles/(litt.) une bouchée de sucre, suivie d'une bouchée de merde/
 一啲 一啲 [yi1 di1] {jat1 di1} /un peu/
 一啲啲 一啲啲 [yi1 di1 di1] {jat1 di1 di1} /un peu/
 一嘢 一嘢 [yi1 ye3] {jat1 je5} /un coup, une frappe/
-一嚿嘢 一嚿嘢 [yi1 huo4 ye3] {jat1 gau6 je5} /masse informe, pâte/
+一嚿嘢 一嚿嘢 [yi1 huo4 ye3] {jat1 gau6 je5} /une masse informe, une pâte/
 一嚿水 一嚿水 [yi1 huo4 shui3] {jat1 gau6 seoi2} /cent dollars/
 一嚿溜 一嚿溜 [yi1 huo4 liu1] {jat1 gau6 liu1} /une boule de qqch/
-一嚿雲 一嚿云 [yi1 huo4 yun2] {jat1 gau6 wan4} /être confus perdu dans ses pensées/(litt.) un morceau de nuage/
+一嚿雲 一嚿云 [yi1 huo4 yun2] {jat1 gau6 wan4} /être confus, perdu dans ses pensées/(litt.) un morceau de nuage/
 一嚿飯 一嚿饭 [yi1 huo4 fan4] {jat1 gau6 faan6} /idiot, bête, sot/lent/(litt.) une masse de riz/
 一嚿飯噉 一嚿饭啖 [yi1 huo4 fan4 dan4] {jat1 gau6 faan6 gam2} /idiot, bête, sot/lent/(litt.) une masse de riz/
 一回 一回 [yi1 hui2] {jat1 wui4} /un round, un tour, une fois/
 一國三公 一国三公 [yi1 guo2 san1 gong1] {jat1 gwok3 saam1 gung1} /direction ou leadership désuni/(litt.) un état avec trois dirigeants
-一國之君 一国之君 [yi1 guo2 zhi1 jun1] {jat1 gwok3 zi1 gwan1} /un roi/un président/un premier ministre/le chef d'État/
+一國之君 一国之君 [yi1 guo2 zhi1 jun1] {jat1 gwok3 zi1 gwan1} /roi/président/premier ministre/chef d'État/
 一團 一团 [yi1 tuan2] {jat1 tyun4} /un groupe/
 一坺 一坺 [yi1 bo4] {jat1 pet6} /une mass collante, molle/
 一坺迾 一坺迾 [yi1 bo4 lie4] {jat1 paat6 laat6} /qqn qui refuse de gagner sa vie, d'agir afin de gagner sa vie/(litt.) un amas de boue/ 
 一場 一场 [yi1 chang2] {jat1 coeng4} /un round, un tour/
 一場歡喜一場空 一场欢喜一场空 [yi1 chang2 huan1 xi3 yi1 chang3 kong1] {jat1 coeng4 fun1 hei2 jat1 coeng4 hung1} /déception après des grands espoirs/
 一夕之間 一夕之间 [yi1 xi1 zhi1 jian1] {jat1 zik6 zi1 gaan1} /de nuit, pendant la nuit/
-一夜夫妻百日恩 一夜夫妻百日恩 [yi1 ye4 fu1 qi1 bai3 ri4 en1] {jat1 je6 fu1 cai1 baak3 jat6 jan1} /chacun doit chérir son partenaire/(litt.) il y a cent jours de gratitude après la première nuit de mariage
+一夜夫妻百日恩 一夜夫妻百日恩 [yi1 ye4 fu1 qi1 bai3 ri4 en1] {jat1 je6 fu1 cai1 baak3 jat6 jan1} /chacun doit chérir son partenaire/(litt.) il y a cent jours de gratitude après la première nuit de mariage/
 一夜風流 一夜风流 [yi1 ye4 feng1 liu2] {jat1 je6 fung1 lau4} /une aventure d'un soir/
 一天 一天 [yi1 tian1] {jat1 tin1} /un jour/
-一天光晒 一天光晒 [yi1 tian1 guang1 shai4] {jat1 tin1 gwong1 saai3} /le sentiment d'avoir finalement résolu un problème et le soulagement qui l'accompagne/tout est bien qui finit bien/(litt.) un ciel rempli de lumière
-一天都光晒 一天都光晒 [yi1 tian1 du1 guang1 shai4] {jat1 tin1 dou1 gwong1 saai3} /tout va bien finir/(litt.) un ciel complètement rempli de lumière
+一天光晒 一天光晒 [yi1 tian1 guang1 shai4] {jat1 tin1 gwong1 saai3} /(expr. idiom.) le sentiment d'avoir finalement résolu un problème et le soulagement qui l'accompagne/tout est bien qui finit bien/(litt.) un ciel rempli de lumière/
+一天都光晒 一天都光晒 [yi1 tian1 du1 guang1 shai4] {jat1 tin1 dou1 gwong1 saai3} /(expr. idiom.) le sentiment d'avoir finalement résolu un problème et le soulagement qui l'accompagne/(litt.) un ciel complètement rempli de lumière/
 一夫 一夫 [yi1 fu1] {jat1 fu1} /un mari/
-一夫一妻制 一夫一妻制 [yi1 fu1 yi1 qi1 zhi4] {jat1 fu1 jat1 cai1 zai3} /la monogamie/
-一夫當關 一夫当关 [yi1 fu1 dang1 guan1] {jat1 fu1 dong1 gwaan1} /qqn courageux qui peut résoudre les problèmes/(litt.) un homme qui protège l'entrée
+一夫一妻制 一夫一妻制 [yi1 fu1 yi1 qi1 zhi4] {jat1 fu1 jat1 cai1 zai3} /monogamie/
+一夫當關 一夫当关 [yi1 fu1 dang1 guan1] {jat1 fu1 dong1 gwaan1} /qqn courageux qui peut résoudre les problèmes/(litt.) un homme qui protège l'entrée/
 一如往昔 一如往昔 [yi1 ru2 wang3 xi1] {jat1 jyu4 wong5 sik1} /comme toujours/
 一妻多夫 一妻多夫 [yi1 qi1 duo1 fu1] {jat1 cai1 do1 fu1} /une femme avec plusieurs maris, polyandrie/
 一妻多夫制 一妻多夫制 [yi1 qi1 duo1 fu1 zhi4] {jat1 cai1 do1 fu1 zai3} /polygamie/
-一姐 一姐 [yi1 jie3] {jat1 ze2} /dirigeant (féminin)/
+一姐 一姐 [yi1 jie3] {jat1 ze2} /dirigeante/
 一字之差 一字之差 [yi1 zi4 zhi1 cha1] {jat1 zi6 zi1 caa1} /la différence d'un caractère ou un mot/
 一字咁淺 一字咁浅 [yi1 zi4 gan1 qian3] {jat1 zi6 gam2 cin2} /aussi simple que le mot «un»/
 一字角 一字角 [yi1 zi4 jiao3] {jat1 zi6 gok3} /coin/
-一字馬 一字马 [yi1 zi4 ma3] {jat1 zi6 maa5} /le grand écart/
+一字馬 一字马 [yi1 zi4 ma3] {jat1 zi6 maa5} /grand écart/
 一官半職 一官半职 [yi1 guan1 ban4 zhi2] {jat1 gun1 bun3 zik1} /une position dans le gouvernement/
 一定會 一定会 [yi1 ding4 hui4] {jat1 ding6 wui5} /sûrement/
-一家大細 一家大细 [yi1 jia1 da4 xi4] {jat1 gaa1 daai6 sai3} /toute la famille, y compris les parents, grand-parents, enfants, etc./(litt.) une famille des grands et petits
-一將功成萬骨枯 一将功成万骨枯 [yi1 jiang4 gong1 cheng2 wan4 gu3 ku1] {jat1 zoeng3 gung1 sing4 maan6 gwat1 fu1} /la réussite de qqn dépend sur un grand nombre de personnes/(litt.) un homme réussit avec la mort de dix mille os
+一家大細 一家大细 [yi1 jia1 da4 xi4] {jat1 gaa1 daai6 sai3} /toute la famille, y compris les parents, grand-parents, enfants, etc./(litt.) une famille des grands et petits/
+一將功成萬骨枯 一将功成万骨枯 [yi1 jiang4 gong1 cheng2 wan4 gu3 ku1] {jat1 zoeng3 gung1 sing4 maan6 gwat1 fu1} /(expr. idiom.) la réussite de qqn dépend sur un grand nombre de personnes/(litt.) un homme réussit avec la mort de dix mille os
 一對一 一对一 [yi1 dui4 yi1] {jat1 deoi3 jat1} /tête-à-tête, one-on-one/un contre un/
 一小時 一小时 [yi1 xiao3 shi2] {jat1 siu2 si4} /une heure/
-一就一，二就二 一就一，二就二 [yi2 jiu4 yi1 , er4 jiu4 er4] {jat1 zau6 jat1 ji6 zau6 ji6} /sois décisif, dépêche-toi/(litt.) si c'est un, c'est un; si c'est deux, c'est deux
+一就一，二就二 一就一，二就二 [yi2 jiu4 yi1 , er4 jiu4 er4] {jat1 zau6 jat1 ji6 zau6 ji6} /sois décisif, dépêche-toi/(litt.) si c'est un, c'est un; si c'est deux, c'est deux/
 一局 一局 [yi1 ju2] {jat1 guk6} /un round, un jeu/
-一山不能藏二虎 一山不能藏二虎 [yi1 shan1 bu4 neng2 cang2 er4 hu3] {jat1 saan1 bat1 nang4 cong4 ji6 fu2} /il doit y avoir un gagnant/(litt.) une montagne ne peut être abri pour deux tigres
-一山還比一山高 一山还比一山高 [yi1 shan1 hai2 bi3 yi1 shan1 gao1] {jat1 saan1 waan4 bei2 jat1 saan1 gou1} /il y a toujours qqn plus doué/(litt.) il y a toujours une montagne plus haute
+一山不能藏二虎 一山不能藏二虎 [yi1 shan1 bu4 neng2 cang2 er4 hu3] {jat1 saan1 bat1 nang4 cong4 ji6 fu2} /(expr. idiom.) il doit y avoir un gagnant/(litt.) une montagne ne peut être abri pour deux tigres/
+一山還比一山高 一山还比一山高 [yi1 shan1 hai2 bi3 yi1 shan1 gao1] {jat1 saan1 waan4 bei2 jat1 saan1 gou1} /il y a toujours qqn plus doué/(litt.) il y a toujours une montagne plus haute/
 一岩一窟 一岩一窟 [yi1 yan2 yi1 ku1] {jat1 ngaam4 jat1 fat1} /bosselé, rugueux/
-一己之私 一己之私 [yi1 ji3 zhi1 si1] {jat1 gei2 zi1 si1} /propres interêts/
+一己之私 一己之私 [yi1 ji3 zhi1 si1] {jat1 gei2 zi1 si1} /(expr. idiom.) intérêt personnel/
 一帆風順 一帆风顺 [yi1 fan1 feng1 shun4] {jat1 faan4 fung1 seon6} /bon voyage!/
 一年 一年 [yi1 nian2] {jat1 nin4} /un an, une année/
 一年一度 一年一度 [yi1 nian2 yi1 du4] {jat1 nin4 jat1 dou6} /une fois par an, annuellement/
@@ -137,7 +138,7 @@
 一張嘢 一张嘢 [yi1 zhang1 ye3] {jat1 zoeng1 je5} /une feuille de.../un morceau de/
 一往 一往 [yi1 wang3] {jat1 wong5} /comme toujours/
 一往情深 一往情深 [yi1 wang3 qing2 shen1] {jat1 wong5 cing4 sam1} /être complètement amoureux de quelqu'un pour très longtemps/
-一德路 一德路 [yi1 de2 lu4] {jat1 dak1 lou6} /le nom d'une rue en Guangzhou, avec sa propre station de métro/
+一德路 一德路 [yi1 de2 lu4] {jat1 dak1 lou6} /rue Yide en Guangzhou, avec sa propre station de métro/
 一心一意 一心一意 [yi1 xin1 yi1 yi4] {jat1 sam1 jat1 ji3} /être complètement captivé, focalisée/adorer qqn de tout votre coeur
 一心向上 一心向上 [yi1 xin1 xiang4 shang4] {jat1 sam1 hoeng3 soeng6} /être complètement concentré sur le développement personnel/
 一忍再忍 一忍再忍 [yi1 ren3 zai4 ren3] {jat1 jan2 zoi3 jan2} /se retenir encore et encore/
@@ -154,8 +155,8 @@
 一把 一把 [yi1 ba3] {jat1 baa2} /un ensemble/
 一把火 一把火 [yi1 ba3 huo3] {jat1 baa2 fo2} /être en colère/
 一拍行 一拍行 [yi1 pai1 xing2] {jat1 paak3 hong2} /deux personnes qui se promènent côte à côte/
-一招半式 一招半式 [yi1 zhao1 ban4 shi4] {jat1 ziu1 bun3 sik1} /qqn qui connaît partiellement qqch/(litt.) une moitié d'un art martial
-一撇嘢 一撇嘢 [yi1 pie3 ye3] {jat1 pit3 je5} /une partie de qqch ou qqch qui se passe/(litt.) un trait de qqch
+一招半式 一招半式 [yi1 zhao1 ban4 shi4] {jat1 ziu1 bun3 sik1} /qqn qui connaît partiellement qqch/(litt.) une moitié d'un art martial/
+一撇嘢 一撇嘢 [yi1 pie3 ye3] {jat1 pit3 je5} /une partie de qqch ou qqch qui se passe/(litt.) un trait de qqch/
 一撇水 一撇水 [yi1 pie3 shui3] {jat1 pit3 seoi2} /mille dollars/
 一擔擔 一担担 [yi1 dan1 dan4] {jat1 daam3 daam1} /similaire/identique/bonnet blanc, blanc bonnet/
 一支公 一支公 [yi1 zhi1 gong1] {jat1 zi1 gung1} /un homme solitaire/
@@ -175,9 +176,9 @@
 一朝被蛇咬 一朝被蛇咬 [yi1 zhao1 bei4 she2 yao3] {jat1 ziu1 bei6 se4 ngaau5} /chat échaudé craint l'eau froide, une victime devient plus prudente/(litt.) une fois mordu par un serpent/
 一本通書睇到老 一本通书睇到老 [yi4 ben3 tong1 shu1 di4 dao4 lao3] {jat1 bun2 tung1 syu1 tai2 dou3 lou5} /être rigide, inflexible, tout faire selon les règles/(litt.) lire un livre jusqu'à la vieillesse/
 一朵鮮花插在牛糞上 一朵鲜花插在牛粪上 [yi1 duo3 xian1 hua1 cha1 zai4 niu2 fen4 shang5] {jat1 do2 sin1 faa1 caap3 zoi6 ngau4 fan3 soeng5} /une relation romantique dans laquelle la femme a plus de qualités que l'homme, surtout pour parler de physique/(litt.) une fleur fraîche insérée sur de la bouse/
-一枕黃粱 一枕黄粱 [yi1 zhen3 huang2 liang2] {jat1 zam2 wong4 loeng4} /un rêve de splendeur qui n'est pas reflété dans la réalité après s'être réveillé/(litt.) un rêve de mil doré/
-一枝公 一枝公 [yi1 zhi1 gong1] {jat1 zi1 gung1} /(pour décrire hommes seulement) célibataire, solitaire/
-一架 一架 [yi1 jia4] {jat1 gaa3} /classificateur pour véhicules et avions/
+一枕黃粱 一枕黄粱 [yi1 zhen3 huang2 liang2] {jat1 zam2 wong4 loeng4} /(expr. idiom.) un rêve de splendeur qui n'est pas reflété dans la réalité après s'être réveillé/(litt.) un rêve de mil doré/
+一枝公 一枝公 [yi1 zhi1 gong1] {jat1 zi1 gung1} /(pour hommes seulement) célibataire, solitaire/
+一架 一架 [yi1 jia4] {jat1 gaa3} /(classificateur pour véhicules et avions)/
 一條冷 一条冷 [yi4 tiao2 leng3] {jat1 tiu4 laang5} /un homme solitaire/
 一條數 一条数 [yi1 tiao2 shu4] {jat1 tiu4 sou3} /une question mathématique/une dette/une facture/
 一條氣 一条气 [yi1 tiao2 qi4] {jat1 tiu4 hei3} /en une seule fois, d'un coup/
@@ -186,20 +187,20 @@
 一樓一鳯 一楼一鳯 [yi1 lou2 yi1 feng4] {jat1 lau4 jat1 fung6} /une prostituée qui travaille seule/(litt.) un étage, une prostituée/
 一樓一鳳 一楼一凤 [yi1 lou2 yi1 feng4] {jat1 lau4 jat1 fung6} /une prostituée qui travaille seule/(litt.) un étage, une prostituée/
 一模一樣 一模一样 [yi1 mu2 yi1 yang4] {jat1 mou4 jat1 joeng6} /identique/
-一樣米養百樣人 一样米养百样人 [yi1 yang4 mi3 yang3 bai3 yang4 ren2] {jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4} /tout le monde est unique/(litt.) le même riz nourrit cent types de personnes
-一檔 一档 [yi1 dang4] {jat1 dong2} /classificateur pour les magasins/la première vitesse/
-一次起兩次止 一次起两次止 [yi1 ci4 qi3 liang3 ci4 zhi3] {jat1 ci3 hei2 loeng5 ci3 zi2} /pas plus que deux fois/(litt.) une fois pour commencer, mais arrêter la deuxième fois/
+一樣米養百樣人 一样米养百样人 [yi1 yang4 mi3 yang3 bai3 yang4 ren2] {jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4} /(expr. idiom.) tout le monde est unique/(litt.) le même riz nourrit cent types de personnes/
+一檔 一档 [yi1 dang4] {jat1 dong2} /(classificateur pour les magasins)/première vitesse/
+一次起兩次止 一次起两次止 [yi1 ci4 qi3 liang3 ci4 zhi3] {jat1 ci3 hei2 loeng5 ci3 zi2} /pas plus que deux fois/(litt.) commencer la première fois, mais arrêter la deuxième fois/
 一次過 一次过 [yi1 ci4 guo4] {jat1 ci3 gwo3} /en une seule fois, d'un coup/
 一步 一步 [yi1 bu4] {jat1 bou6} /un pas/
 一步一步 一步一步 [yi1 bu4 yi1 bu4] {jat1 bou6 jat1 bou6} /pas à pas, étape par étape/
 一死一傷 一死一伤 [yi1 si3 yi1 shang1] {jat1 sei2 jat1 soeng1} /un mort et un blessé/
 一死了之 一死了之 [yi1 si3 liao3 zhi1] {jat1 sei2 liu5 zi1} /avec la mort, tout s'achève/
-一段 一段 [yi1 duan4] {jat1 dyun6} /classificateur pour sections et relations romantiques/
+一段 一段 [yi1 duan4] {jat1 dyun6} /(classificateur pour sections)/(classificateur pour relations romantiques)/
 一殼眼淚 一壳眼泪 [yi1 ke2 yan3 lei4] {jat1 hok3 ngaan5 leoi6} /tristesse/(litt.) une pelle de larmes/
 一毛錢 一毛钱 [yi1 mao2 qian2] {jat1 mou4 cin4} /une pièce de dix centimes/
 一氧化碳中毒 一氧化碳中毒 [yi1 yang3 hua4 tan4 zhong4 du2] {jat1 joeng5 faa3 taan3 zung1 duk6} /intoxication au monoxyde de carbone/
 一池春水 一池春水 [yi1 chi2 chun1 shui3] {jat1 ci4 ceon1 seoi2} /un étang de printemps, eau calme/
-一池秋水 一池秋水 [yi1 chi2 qiu1 shui3] {jat1 ci4 cau1 seoi2} /étang d'automne, eau calme/voir aussi 一池春水/
+一池秋水 一池秋水 [yi1 chi2 qiu1 shui3] {jat1 ci4 cau1 seoi2} /étang d'automne, eau calme (voir aussi 一池春水)/
 一決勝負 一决胜负 [yi1 jue2 sheng4 fu4] {jat1 kyut3 sing3 fu6} /une bataille pour régler qqch, ou la victoire; une bataille décisive/
 一沉百踩 一沉百踩 [yi1 chen2 bai3 cai3] {jat1 cam4 baak3 caai2} /quand quelqu'un est sous-evalué, ou perd le pouvoir ou authorité, il ou elle est malmené(e) par les autres/(litt.) dès qu'on coule, on est piétiné cent fois/
 一派 一派 [yi1 pai4] {jat1 paai3} /une faction, un bloc/une catégorie de qqch ou qqn/
@@ -212,79 +213,79 @@
 一番 一番 [yi1 fan1] {jat1 faan1} /pour une fois/
 一疋布咁長 一匹布咁长 [yi1 pi3 bu4 gan1 zhang3] {jat1 pat1 bou3 gam3 coeng4} /long(ue)/(litt.) long comme un chiffon/
 一登龍門 一登龙门 [yi1 deng1 long2 men2] {jat1 dang1 lung4 mun4} /achever un but/être promu à une position plus élevée/(litt.) arriver à la porte du dragon/
-一發 一发 [yi1 fa1] {jat1 faat3} /classificateur pour balles (armes à feu)/
+一發 一发 [yi1 fa1] {jat1 faat3} /(classificateur pour balles) (armes à feu)/
 一百 一百 [yi1 bai3] {jat1 baak3} /cent/
 一百萬 一百万 [yi1 bai3 wan4] {jat1 baak3 maan6} /un million/
 一百零一 一百零一 [yi1 bai3 ling2 yi1] {jat1 baak3 ling4 jat1} /cent un/
 一皮 一皮 [yi1 pi2] {jat1 pei4} /dix mille dollars/
 一皮嘢 一皮嘢 [yi1 pi2 ye3] {jat1 pei4 je5} /dix mille dollars/
 一盅兩件 一盅两件 [yi1 zhong1 liang3 jian4] {jat1 zung1 loeng5 gin6} /manger du dimsum/(Hong Kong) commande minimum, achat minimum/(litt.) une tasse de thé et deux plats de dimsum/
-一盤水 一盘水 [yi1 pan2 shui3] {jat1 pun4 seoi2} /un plateau d'eau/beaucoup d'argent/dix mille argent/
+一盤水 一盘水 [yi1 pan2 shui3] {jat1 pun4 seoi2} /un plateau d'eau/beaucoup d'argent/dix mille dollars/
 一直行 一直行 [yi1 zhi2 hang2] {jat1 zik6 haang4} /marcher tout droit/continuer à marcher/
 一眼睇晒 一眼睇晒 [yi1 yan3 di4 shai4] {jat1 ngaan5 tai2 saai3} /tout voir avec un coup d'oeil/
-一眼關七 一眼关七 [yi1 yan3 guan1 qi1] {jat1 ngaan5 gwaan1 cat1} /être conscient de tout, faire plusieurs choses à la fois/(litt.) faire attention à sept choses avec un oeil/
+一眼關七 一眼关七 [yi1 yan3 guan1 qi1] {jat1 ngaan5 gwaan1 cat1} /(expr. idiom.) être conscient de tout, faire plusieurs choses à la fois/(litt.) faire attention à sept choses avec un oeil/
 一眾 一众 [yi1 zhong4] {jat1 zung3} /un type/tout le monde, le groupe entier/
-一碌杉 一碌杉 [yi1 lu4 shan1] {jat1 luk1 caam3} /qqn qui ne réagit pas, qui ne bouge pas, qui ne prend pas initiative/(litt.) un rondin/
-一碗 一碗 [yi4 wan3] {jat1 wun2} /classificateur pour désigner un bol de qqch/
+一碌杉 一碌杉 [yi1 lu4 shan1] {jat1 luk1 caam3} /qqn qui ne réagit pas, qui ne bouge pas/qui ne prend pas initiative/(litt.) un rondin/
+一碗 一碗 [yi4 wan3] {jat1 wun2} /(classificateur pour désigner un bol de qqch)/
 一碟齋 一碟斋 [yi4 die2 zhai1] {jat1 dip6 zaai1} /un désordre/(litt.) un plat de légumes assortis/
-一磚豆腐想升仙 一砖豆腐想升仙 [yi1 zhuan1 dou4 fu5 xiang3 sheng1 xian1] {jat1 zyun1 dau6 2 fu6 soeng2 sing1 sin1} /qqn qui pense tout savoir quand en réalité il sait peu/(litt.) un morceau de tofu qui voudrait être immortel/
+一磚豆腐想升仙 一砖豆腐想升仙 [yi1 zhuan1 dou4 fu5 xiang3 sheng1 xian1] {jat1 zyun1 dau6 2 fu6 soeng2 sing1 sin1} /(expr idiom.) qqn qui pense tout savoir quand en réalité il sait peu/(litt.) un morceau de tofu qui voudrait être immortel/
 一萬 一万 [yi1 wan4] {jat1 maan6} /dix mille/
-???? 一窿蛇 一窿蛇 [yi1 long2 she2] {jat1 lung4 se4} /un groupe de méchants/(litt.) une cage rempli de serpents/
+一窿蛇 一窿蛇 [yi1 long2 she2] {jat1 lung4 se4} /un groupe de méchants/(litt.) une cage rempli de serpents/
 一站式 一站式 [yi1 zhan4 shi4] {jat1 zaam6 sik1} /guichet unique/
 一端 一端 [yi1 duan1] {jat1 dyun1} /une extrémité de qqch/
-一竹篙打一船人 一竹篙打一船人 [yi1 zhu2 gao1 da3 yi1 chuan2 ren2] {jat1 zuk1 gou1 daa2 jat1 syun4 jan4} /qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe un bateau rempli de personnes/
-一竹篙打死一船人 一竹篙打死一船人 [yi1 zhu2 gao1 da3 si3 yi1 chuan2 ren2] {jat1 zuk1 gou1 daa2 sei2 jat1 syun4 jan4} /qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe et tue un bateau rempli de personnes/
-一竹篙揇沉一船人 一竹篙揇沉一船人 [yi1 zhu2 gao1 nan3 chen2 yi1 chuan2 ren2] {jat1 zuk1 gou1 naam5 cam4 jat1 syun4 jan4} /qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe et fait couler un bateau rempli de personnes/
+一竹篙打一船人 一竹篙打一船人 [yi1 zhu2 gao1 da3 yi1 chuan2 ren2] {jat1 zuk1 gou1 daa2 jat1 syun4 jan4} /(expr. idiom.) qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe un bateau rempli de personnes/
+一竹篙打死一船人 一竹篙打死一船人 [yi1 zhu2 gao1 da3 si3 yi1 chuan2 ren2] {jat1 zuk1 gou1 daa2 sei2 jat1 syun4 jan4} /(expr. idiom.) qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe et tue un bateau rempli de personnes/
+一竹篙揇沉一船人 一竹篙揇沉一船人 [yi1 zhu2 gao1 nan3 chen2 yi1 chuan2 ren2] {jat1 zuk1 gou1 naam5 cam4 jat1 syun4 jan4} /(expr. idiom.) qqn qui met tout le monde dans le même sac après avoir vécu une injustice/(litt.) un poteau qui frappe et fait couler un bateau rempli de personnes/
 一筆還一筆 一笔还一笔 [yi1 bi3 hai2 yi1 bi3] {jat1 bat1 waan4 jat1 bat1} /séparer un compte d'un autre, ne pas mélanger deux comptes/
 一等兵 一等兵 [yi1 deng3 bing1] {jat1 dang2 bing1} /private first class (militaire), équivalent français: première classe/
-一箭雙雕 一箭双雕 [yi1 jian4 shuang1 diao1] {jat1 zin3 soeng1 diu1} /faire d'une pierre deux coups/(litt.) une coupe deux statues/
-一箸夾中 一箸夹中 [yi1 zhu4 jia1 zhong1] {jat1 zyu6 gaap3 zung1} /qqn qui devine correctement à la première tentative/(litt.) saisir exactement avec les baguettes/
-一粒嘢 一粒嘢 [yi1 li4 ye3] {jat1 lap1 je5} /classificateur pour des petites choses (e.g. poussière, riz, gouttes d'eau)/
+一箭雙雕 一箭双雕 [yi1 jian4 shuang1 diao1] {jat1 zin3 soeng1 diu1} /(expr. idiom.) faire d'une pierre deux coups/(litt.) une coupe deux statues/
+一箸夾中 一箸夹中 [yi1 zhu4 jia1 zhong1] {jat1 zyu6 gaap3 zung1} /(expr. idiom.) qqn qui devine correctement à la première tentative/(litt.) saisir exactement avec les baguettes/
+一粒嘢 一粒嘢 [yi1 li4 ye3] {jat1 lap1 je5} /(classificateur pour des petites choses) (e.g. poussière, riz, gouttes d'eau)/
 一粒神 一粒神 [yi1 li4 shen2] {jat1 nap1 san4} /une pièce d'un centime/
 一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /inspecteur de probation dans le Hong Kong Police Force (orig.) les inspecteurs de probations ont une petite fleur sur leur badges/(litt.) une petite fleur/
 一統天下 一统天下 [yi1 tong3 tian1 xia4] {jat1 tung2 tin1 haa6} /unifier le pays/
 一經 一经 [yi1 jing1] {jat1 ging1} /dès que/une fois que/
-一群 一群 [yi1 qun2] {jat1 kwan4} /classificateur pour décrire les groupes/
+一群 一群 [yi1 qun2] {jat1 kwan4} /(classificateur pour décrire les groupes)/
 一而再 一而再 [yi1 er2 zai4] {jat1 ji4 zoi3} /encore et encore/
 一肚氣 一肚气 [yi1 du4 qi4] {jat1 tou5 hei3} /qqn fâché et énervé/(litt.) un ventre rempli d'air/
-一脈相傳 一脉相传 [yi1 mai4 xiang1 chuan2] {jat1 mak6 soeng1 cyun4} /une coutume, idée, ou qqch transmise au fil des générations dans une famille/
-一腳牛屎 一脚牛屎 [yi1 jiao3 niu2 shi3] {jat1 goek3 ngau4 si2} /qqn dans une situation qui est difficile à régler/(litt.) un pied couvert de bouse/
-一腳踏兩船 一脚踏两船 [yi1 jiao3 ta4 liang3 chuan2] {jat1 goek3 daap6 loeng5 syun4} /être infidèle/(litt.) un pied sur deux bateaux/
-一腳踢 一脚踢 [yi1 jiao3 ti1] {jat1 goek3 tek3} /qqn qui se charge de tout faire pour un projet ou une entreprise/(litt.) un pied qui donne un coup de pied/
+一脈相傳 一脉相传 [yi1 mai4 xiang1 chuan2] {jat1 mak6 soeng1 cyun4} /(expr. idiom.) une coutume, idée, ou qqch transmise au fil des générations dans une famille/
+一腳牛屎 一脚牛屎 [yi1 jiao3 niu2 shi3] {jat1 goek3 ngau4 si2} /(expr. idiom.) qqn dans une situation qui est difficile à régler/(litt.) un pied couvert de bouse/
+一腳踏兩船 一脚踏两船 [yi1 jiao3 ta4 liang3 chuan2] {jat1 goek3 daap6 loeng5 syun4} /(expr. idiom.) être infidèle/(litt.) un pied sur deux bateaux/
+一腳踢 一脚踢 [yi1 jiao3 ti1] {jat1 goek3 tek3} /qqn qui se charge de tout faire pour un projet ou une entreprise/(litt.) un coup de pied d'un seul pied/
 一自 一自 [yi1 zi4] {jat1 zi6} /dès que/un côté/faire deux choses à la fois/
 一致 一致 [yi1 zhi4] {jat1 zi3} /même/
-一舉成名 一举成名 [yi1 ju3 cheng2 ming2] {jat1 geoi2 sing4 ming4} /qqn qui devient tout à coup célèbre/(litt.) qqn qui a réussi les examinations impériales et qui devient célèbre/
+一舉成名 一举成名 [yi1 ju3 cheng2 ming2] {jat1 geoi2 sing4 ming4} /(expr. idiom.) qqn qui devient tout à coup célèbre/(litt.) qqn qui a réussi les examinations impériales et qui devient célèbre/
 一舊飯 一旧饭 [yi1 jiu4 fan4] {jat1 gau6 faan6} /peu sensible, stupide/(litt.) un grumeau de riz/
 一色 一色 [yi1 shai3] {jat1 sik1} /même couleur/même ton/identique/
 一草 一草 [yi1 cao3] {jat1 cou2} /dix dollars/(litt.) une herbe/
 一處 一处 [yi1 chu4] {jat1 cyu3} /un endroit/
-一蟹不如一蟹 一蟹不如一蟹 [yi1 xie4 bu4 ru2 yi1 xie4] {jat1 haai5 bat1 jyu4 jat1 haai5} /la qualité de qqch or les personnes empire/(litt.) chaque crabe est pire que le précédent/
+一蟹不如一蟹 一蟹不如一蟹 [yi1 xie4 bu4 ru2 yi1 xie4] {jat1 haai5 bat1 jyu4 jat1 haai5} /(expr. idiom.) la qualité de qqch or les personnes empire/(litt.) chaque crabe est pire que le précédent/
 一表人才 一表人才 [yi1 biao3 ren2 cai2] {jat1 biu2 jan4 coi4} /qqn ayant l'air magnifique/
 一見鍾情 一见钟情 [yi1 jian4 zhong1 qing2] {jat1 gin3 zung1 cing4} /avoir le coup de foudre/adorer qqch à première vue/
 一覽表 一览表 [yi1 lan3 biao3] {jat1 laam5 biu2} /résumé en forme de tableaux/
 一言以蔽 一言以蔽 [yi1 yan2 yi3 bi4] {jat1 jin4 ji5 bai3} /en un mot/(litt.) tout couvrir en un mot/
-一言堂 一言堂 [yi1 yan2 tang2] {jat1 jin4 tong4} /une personne qui n'écoute pas les autres, pour qui seul son propre opinion compte/
-一言驚醒夢中人 一言惊醒梦中人 [yi1 yan2 jing1 xing5 meng4 zhong1 ren2] {jat1 jin4 ging1 sing2 mung6 zung1 jan4} /dire la bonne chose au bon moment pour que qqn comprenne ou se rend compte de qqch/(litt.) un mot qui réveille qqn en plein rêve/
-一講曹操，曹操就到 一讲曹操，曹操就到 [yi1 jiang3 Cao2 Cao1 , Cao2 Cao1 jiu4 dao4] {jat1 gong2 cou4 cou1 cou4 cou1 zau6 dou3} /quand on parle du loup/(litt.) quand on parle de 曹操, 曹操 arrive/
+一言堂 一言堂 [yi1 yan2 tang2] {jat1 jin4 tong4} /qqn qui n'écoute pas les autres, pour qui seul son propre opinion compte/(litt.) une salle avec une personne qui parle/
+一言驚醒夢中人 一言惊醒梦中人 [yi1 yan2 jing1 xing5 meng4 zhong1 ren2] {jat1 jin4 ging1 sing2 mung6 zung1 jan4} /(expr. idiom.) dire la bonne chose au bon moment pour que qqn comprenne ou se rend compte de qqch/(litt.) un mot qui réveille qqn en plein rêve/
+一講曹操，曹操就到 一讲曹操，曹操就到 [yi1 jiang3 cao2 cao1 , cao2 cao1 jiu4 dao4] {jat1 gong2 cou4 cou1 cou4 cou1 zau6 dou3} /(expr. idiom.) quand on parle du loup/(litt.) quand on parle de 曹操, 曹操 arrive/
 一路上 一路上 [yi1 lu4 shang4] {jat1 lou6 soeng6} /sur la route/tout du long/
 一路路 一路路 [yi1 lu4 lu4] {jat1 lou6 lou6} /progressivement/
-一身債 一身债 [yi1 shen1 zhai4] {jat1 san1 zaai3} /avoir beaucoup de dettes/(litt.) un corps de dettes/
-一身蟻 一身蚁 [yi1 shen1 yi3] {jat1 san1 ngai5} /qqn dans qui éprouve de graves difficultés/(litt.) un corps couvert de fourmis/
+一身債 一身债 [yi1 shen1 zhai4] {jat1 san1 zaai3} /avoir beaucoup de dettes/(litt.) un corps couvert de dettes/
+一身蟻 一身蚁 [yi1 shen1 yi3] {jat1 san1 ngai5} /qqn qui éprouve de graves difficultés/(litt.) un corps couvert de fourmis/
 一身鬆 一身松 [yi1 shen1 song1] {jat1 san1 sung1} /être soulagé du stress/
 一輪嘴 一轮嘴 [yi1 lun2 zui3] {jat1 leon2 zeoi2} /parler impatiemment, sans interruptions/
 一轆木 一辘木 [yi1 lu4 mu4] {jat1 luk1 muk6} /qqn lent, stupide/
 一轆木噉 一辘木啖 [yi1 lu4 mu4 dan4] {jat1 luk1 muk6 gam2} /qqn lent, stupide/
 一轆杉 一辘杉 [yi1 lu4 shan1] {jat1 luk1 caam3} /qqn qui ne réagit pas, qui ne bouge pas, qui ne prend pas initiative/(litt.) un rondin/
 一邊倒 一边倒 [yi1 bian1 dao3] {jat1 bin1 dou2} /unilatéral/en faveur d'une majorité/
-一部 一部 [yi1 bu4] {jat1 bou6} /classificateur pour les téléphones cellulaires ou des télévisions/
+一部 一部 [yi1 bu4] {jat1 bou6} /(classificateur pour les téléphones cellulaires ou des télévisions)/
 一部份 一部份 [yi1 bu4 fen4] {jat1 bou6 fan6} /une partie/
-一醉解千愁 一醉解千愁 [yi1 zui4 jie3 qian1 chou2] {jat1 zeoi3 gaai2 cin1 sau4} /se soûler pour échapper à la réalité/(litt.) dès qu'on se soûle, mille problèmes se résolvent/
+一醉解千愁 一醉解千愁 [yi1 zui4 jie3 qian1 chou2] {jat1 zeoi3 gaai2 cin1 sau4} /(expr. idiom.) se soûler pour échapper à la réalité/(litt.) dès qu'on se soûle, mille problèmes se résolvent/
 一鑊 一镬 [yi1 huo4] {jat1 wok6} /tous à la fois/(litt.) un wok/
 一鑊泡 一镬泡 [yi1 huo4 pao4] {jat1 wok6 pou5} /un état chaotique, en désordre/(litt.) un wok rempli de bulles/
 一鑊熟 一镬熟 [yi1 huo4 shu2] {jat1 wok6 suk6} /complètement détruit/finir quelque chose d'un coup/faire table rase/(litt.) un wok avec tout son contenu cuit/
 一鑊粥 一镬粥 [yi1 huo4 zhou1] {jat1 wok6 zuk1} /gâcher (qqch)/(litt.) un wok de congee/
 一鑊繑起 一镬繑起 [yi1 huo4 jue2 qi3] {jat1 wok6 kiu5 hei2} /une trahison imprévue/
-一門 一门 [yi1 men2] {jat1 mun4} /classificateur pour les cours/
+一門 一门 [yi1 men2] {jat1 mun4} /(classificateur pour les cours)/
 一陣 一阵 [yi1 zhen4] {jat1 zan6} /plus tard/un moment/
 一陣間 一阵间 [yi1 zhen4 jian1] {jat1 zan6 gaan3} /dans un moment/un moment/
 一陣陣 一阵阵 [yi1 zhen4 zhen4] {jat1 zan6 zan6} /à intervalles réguliers/
@@ -296,27 +297,27 @@
 一隻狗噉 一只狗啖 [yi1 zhi1 gou3 dan4] {jat1 zek3 gau2 gam2} /se comporter comme un chien/
 一雙 一双 [yi1 shuang1] {jat1 soeng1} /une paire/
 一雙鞋 一双鞋 [yi1 shuang1 xie2] {jat1 soeng1 haai4} /une paire de souliers/
-一雞死，一雞鳴 一鸡死，一鸡鸣 [yi1 ji1 si3 , yi1 ji1 ming2] {jat1 gai1 sei2 ，jat1 gai1 ming4} /lorsqu'une porte ferme, une autre s'ouvre/rien ne termine s'il est censé continuer/(litt.) un poulet meurt, un autre fait cocorico/
-一雞死一雞鳴 一鸡死一鸡鸣 [yi1 ji1 si3 yi1 ji1 ming2] {jat1 gai1 sei2 jat1 gai1 ming4} /lorsqu'une porte ferme, une autre s'ouvre/rien ne termine s'il est censé continuer/(litt.) un poulet meurt, un autre fait cocorico/
+一雞死，一雞鳴 一鸡死，一鸡鸣 [yi1 ji1 si3 , yi1 ji1 ming2] {jat1 gai1 sei2 ，jat1 gai1 ming4} /(expr. idiom.) lorsqu'une porte ferme, une autre s'ouvre/rien ne termine s'il est censé continuer/(litt.) un poulet meurt, un autre fait cocorico/
+一雞死一雞鳴 一鸡死一鸡鸣 [yi1 ji1 si3 yi1 ji1 ming2] {jat1 gai1 sei2 jat1 gai1 ming4} /(expr. idiom.) lorsqu'une porte ferme, une autre s'ouvre/rien ne termine s'il est censé continuer/(litt.) un poulet meurt, un autre fait cocorico/
 一面 一面 [yi1 mian4] {jat1 min6} /un côté, une face/
 一面屁 一面屁 [yi1 mian4 pi4] {jat1 min6 pei3} /être humilié/être insulté/(litt.) un visage assommé par des pets/
-一項 一项 [yi1 xiang4] {jat1 hong6} /classificateur pour sports et missions/
+一項 一项 [yi1 xiang4] {jat1 hong6} /(classificateur pour sports et missions)/
 一頭…一頭… 一头…一头… [yi1 tou2… yi4 tou2 …] {jat1 tau4 …jat1 tau4…} /un... (animal) un... (animal)/
 一頭半個月 一头半个月 [yi1 tou2 ban4 ge4 yue4] {jat1 tau4 bun3 go3 jyut6} /une période d'environ un demi-mois à un mois/
 一頭半月 一头半月 [yi1 tou2 ban4 yue4] {jat1 tau4 bun3 jyut6} /une période d'environ un demi-mois à un mois/
 一頭家 一头家 [yi1 tou2 jia1] {jat1 tau4 gaa1} /une famille/
 一頭煙 一头烟 [yi1 tou2 yan1] {jat1 tau4 jin1} /qqn de très occupé, confus, qui ne sait pas quoi faire/(litt.) une tête de fumée/
-一頸血 一颈血 [yi1 jing3 xie3] {jat1 geng2 hyut3} /être arnaqué/(litt.) un cou de sang/
-一額汗 一额汗 [yi1 e2 han4] {jat1 ngaak6 hon6} /qqn de très nerveux/(litt.) un front en sueur/
+一頸血 一颈血 [yi1 jing3 xie3] {jat1 geng2 hyut3} /être arnaqué/(litt.) un cou sanglant/
+一額汗 一额汗 [yi1 e2 han4] {jat1 ngaak6 hon6} /très nerveux/(litt.) un front en sueur/
 一飛沖天 一飞冲天 [yi1 fei1 chong1 tian1] {jat1 fei1 cung1 tin1} /s'envoler dans le ciel/
-一餐 一餐 [yi1 can1] {jat1 caan1} /classificateur pour les repas/
+一餐 一餐 [yi1 can1] {jat1 caan1} /(classificateur pour les repas)/
 一餐飯 一餐饭 [yi1 can1 fan4] {jat1 caan1 faan6} /un repas (surtout pour désigner les déjeuners, soupers ou dîners)/
-一髮千鈞 一发千钧 [yi1 fa4 qian1 jun1] {jat1 faat3 cin1 gwan1} /une situation dangereuse/(litt.) mille (quantité de poids) suspendu par un cheveu/
-一鳴驚人 一鸣惊人 [yi1 ming2 jing1 ren2] {jat1 ming4 ging1 jan4} /devenir tout à coup célèbre/(litt.) réveiller des personnes avec un cocorico/
-一點鐘 一点钟 [yi1 dian3 zhong1] {jat1 dim2 zung1} /une heure (e.g. à une heure du matin)/
+一髮千鈞 一发千钧 [yi1 fa4 qian1 jun1] {jat1 faat3 cin1 gwan1} /situation dangereuse/(litt.) mille (quantité de poids) suspendu par un cheveu/
+一鳴驚人 一鸣惊人 [yi1 ming2 jing1 ren2] {jat1 ming4 ging1 jan4} /(expr. idiom.) devenir tout à coup célèbre/(litt.) réveiller des personnes avec un cocorico/
+一點鐘 一点钟 [yi1 dian3 zhong1] {jat1 dim2 zung1} /une heure (du matin, de l'après-midi)/
 一齊 一齐 [yi1 qi2] {jat1 cai4} /tous ensemble/
-丁 丁 [ding1] {ding1} /homme adulte/un surnom chinois/
-丁屋 丁屋 [ding1 wu1] {ding1 uk1} /maisons possédées par les Hong Kongiens indigènes, descendu d'un villageois des Nouveaux Territoires de l'année 1898/
+丁 丁 [ding1] {ding1} /homme adulte/(nom de famille)/
+丁屋 丁屋 [ding1 wu1] {ding1 uk1} /maisons possédées par les Hong Kongiens indigènes, descendus des villageois des Nouveaux Territoires de l'année 1898/
 丁等 丁等 [ding1 deng3] {ding1 dang2} /un peu/
 七一遊行 七一游行 [Qi1 Yi1 you2 xing2] {cat1 jat1 jau4 hang4} /défilés du 1er juillet à Hong Kong/
 七仔 七仔 [qi1 zi3] {cat1 zi2} /7-Eleven, une enseigne de magasins de proximité ou dépanneurs/
@@ -331,93 +332,93 @@
 七國咁亂 七国咁乱 [qi1 guo2 gan1 luan4] {cat1 gwok3 gam3 lyun6} /désordonné, anarchique/(litt.) être aussi désordonée que la période des Royaumes combattants/
 七大洲 七大洲 [qi1 da4 zhou1] {cat1 daai6 zau1} /les sept continents/
 七姊妹 七姊妹 [qi1 zi3 mei5] {cat1 zi2 mui6} /Tsat Tsz Mui, une région située dans le quartier North Point, Hong Kong/(litt.) sept soeurs/
-七姊妹道 七姊妹道 [qi1 zi3 mei5 dao4] {cat1 zi2 mui6 dou6} /la rue Tsat Tsz Mui, située dans le quartier North Point, Hong Kong/
-七姐 七姐 [qi1 jie3] {cat1 ze2} /connu aussi sous le nom de Zhinu, elle est la Tisserande dans la légende «Le Bouvier et la Tisserande»/
-七孔生煙 七孔生烟 [qi1 kong3 sheng1 yan1] {cat1 hung2 sang1 jin1} furieux, enragé/(litt.) la fumée qui jaillit par sept trous/
-七彩 七彩 [qi1 cai3] {cat1 coi2} /coloré/une grande variété/
-七情上面 七情上面 [qi1 qing2 shang4 mian5] {cat1 cing4 soeng5 min6} /qqn qui exprime fortement ses expressions/(litt.) sept émotions sur le visage/
-七情六慾 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /la nature humaine/les sept émotions de base universelles: la joie, la colère, le chagrin, la surprise, l'inquiétude, le peur, la pensée; les six désirs: le désir sexuel, l'orgueil, la dignité, les sons harmonieux, une bonne vie et un bon mort, les plaisirs sensuels/(litt.) sept émotions et six désirs/
-七情六欲 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /la nature humaine/les sept émotions de base universelles: la joie, la colère, le chagrin, la surprise, l'inquiétude, le peur, la pensée; les six désirs: le désir sexuel, l'orgueil, la dignité, les sons harmonieux, une bonne vie et un bon mort, les plaisirs sensuels/(litt.) sept émotions et six désirs/
-七手八腳 七手八脚 [qi1 shou3 ba1 jiao3] {cat1 sau2 baat3 goek3} /beaucoup de personnes qui s'immiscent dans une situation, une situation chaotique/(litt.) sept mains huit pieds/
-七扶八插 七扶八插 [qi1 fu2 ba1 cha1] {cat1 fu4 baat3 caap3} /un effort collectif pour aider qqn/(litt.) sept (mains) qui supportent, huit qui insèrent/
-七折八扣 七折八扣 [qi1 zhe2 ba1 kou4] {cat1 zit3 baat3 kau3} /une grande réduction (de prix)/(litt.) un prix réduit sept ou huit fois/
-七擒七縱 七擒七纵 [qi1 qin2 qi1 zong4] {cat1 kam4 cat1 zung3} /une stratégie qui oblige un ennemi à se rendre/(litt.) attraper sept fois et relâcher sept fois/
+七姊妹道 七姊妹道 [qi1 zi3 mei5 dao4] {cat1 zi2 mui6 dou6} /rue Tsat Tsz Mui, située dans le quartier North Point, Hong Kong/
+七姐 七姐 [qi1 jie3] {cat1 ze2} /connu aussi sous le nom de Zhinu, la Tisserande dans la légende «Le Bouvier et la Tisserande»/
+七孔生煙 七孔生烟 [qi1 kong3 sheng1 yan1] {cat1 hung2 sang1 jin1} /(expr. idiom.) furieux, enragé/(litt.) la fumée qui jaillit par sept trous/
+七彩 七彩 [qi1 cai3] {cat1 coi2} /coloré/grande variété/
+七情上面 七情上面 [qi1 qing2 shang4 mian5] {cat1 cing4 soeng5 min6} /(expr. idiom.) qqn qui exprime fortement ses expressions/(litt.) sept émotions sur le visage/
+七情六慾 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /nature humaine/les sept émotions de base universelles: la joie, la colère, le chagrin, la surprise, l'inquiétude, le peur, la pensée; les six désirs: le désir sexuel, l'orgueil, la dignité, les sons harmonieux, une bonne vie et un bon mort, les plaisirs sensuels/(litt.) sept émotions et six désirs/
+七情六欲 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /nature humaine/les sept émotions de base universelles: la joie, la colère, le chagrin, la surprise, l'inquiétude, le peur, la pensée; les six désirs: le désir sexuel, l'orgueil, la dignité, les sons harmonieux, une bonne vie et un bon mort, les plaisirs sensuels/(litt.) sept émotions et six désirs/
+七手八腳 七手八脚 [qi1 shou3 ba1 jiao3] {cat1 sau2 baat3 goek3} /(expr. idiom.) beaucoup de personnes qui se mêlent dans une affaire, une situation chaotique/(litt.) sept mains huit pieds/
+七扶八插 七扶八插 [qi1 fu2 ba1 cha1] {cat1 fu4 baat3 caap3} /(expr. idiom.) un effort collectif pour aider qqn/(litt.) sept (mains) qui supportent, huit qui insèrent/
+七折八扣 七折八扣 [qi1 zhe2 ba1 kou4] {cat1 zit3 baat3 kau3} /grande réduction (de prix)/(litt.) un prix réduit sept ou huit fois/
+七擒七縱 七擒七纵 [qi1 qin2 qi1 zong4] {cat1 kam4 cat1 zung3} /stratégie qui oblige un ennemi à se rendre/(litt.) attraper sept fois et relâcher sept fois/
 七支八離 七支八离 [qi1 zhi1 ba1 li2] {cat1 zi1 baat3 lei4} /cassé, fragmenté (voir aussi 支離破碎 ou 支离破碎)/
-七日 七日 [qi1 ri4] {cat1 jat6} /sept jours/le septième jour/
-七星岩 七星岩 [qi1 xing1 yan2] {cat1 sing1 ngaam4} /la grotte à sept étoiles de la ville de Guilin dans la province de Guangxi/le parc de sept roches, dans le sud-ouest de la province de Guangdong/Qixingyan, ou Chihsingyen, un group d'îles de corail dans le sud de Taïwan/
-七星茶 七星茶 [Qi1 xing1 cha2] {cat1 sing1 caa4} /une marque de tisanes chinoises pour enfants/(litt.) thé de sept étoiles/
+七日 七日 [qi1 ri4] {cat1 jat6} /sept jours/le septième jour d'un mois/
+七星岩 七星岩 [qi1 xing1 yan2] {cat1 sing1 ngaam4} /grotte à sept étoiles, à Guilin, dans la province de Guangxi/parc de sept roches, dans le sud-ouest de la province de Guangdong/Qixingyan, ou Chihsingyen, un group d'îles de corail dans le sud de Taïwan/
+七星茶 七星茶 [Qi1 xing1 cha2] {cat1 sing1 caa4} /marque de tisanes chinoises pour enfants/(litt.) thé de sept étoiles/
 七月一號 七月一号 [Qi1 yue4 yi1 hao2] {cat1 jyut6 jat1 hou6} /le premier juillet/
 七月三十號 七月三十号 [Qi1 yue4 san1 shi2 hao4] {cat1 jyut6 saam1 sap6 hou6} /le trente juillet/
 七步成詩 七步成诗 [qi1 bu4 cheng2 shi1] {cat1 bou6 sing4 si1} /qqn qui crée un poème dans le temps qu'il faut pour marcher sept pas/
 七百 七百 [qi1 bai3] {cat1 baak3} /sept cents/
 七窮六絕 七穷六绝 [qi1 qiong2 liu4 jue2] {cat1 kung4 luk6 zyut6} /désespéré/(litt.) sept pauvres, six désespérés/
-七絃琴 七弦琴 [qi1 xian2 qin2] {cat1 jin4 kam4} /le guqin, un instrument à cordes pincées de la famille de cithares/
-七行詩 七行诗 [qi1 hang2 shi1] {cat1 hong4 si1} /un septain/
-七言詩 七言诗 [qi1 yan2 shi1] {cat1 jin4 si1} /un poème chinois dont les vers consistent de sept mots/
-七除八扣 七除八扣 [qi1 chu2 ba1 kou4] {cat1 ceoi4 baat3 kau3} /un rabais en plus d'un autre rabais/(litt.) sept enlevé, huit réductions/
+七絃琴 七弦琴 [qi1 xian2 qin2] {cat1 jin4 kam4} /guqin, un instrument à cordes pincées de la famille de cithares/
+七行詩 七行诗 [qi1 hang2 shi1] {cat1 hong4 si1} /septain/
+七言詩 七言诗 [qi1 yan2 shi1] {cat1 jin4 si1} /poème chinois dont les vers consistent de sept mots/
+七除八扣 七除八扣 [qi1 chu2 ba1 kou4] {cat1 ceoi4 baat3 kau3} /rabais en plus d'un autre rabais/(litt.) sept enlevé, huit réductions/
 七零八落 七零八落 [qi1 ling2 ba1 luo4] {cat1 ling4 baat3 lok6} /des choses éparpillées partout, en désordre/(litt.) sept bouts, huit qui chutent/
 七顛八倒 七颠八倒 [qi1 dian1 ba1 dao3] {cat1 din1 baat3 dou2} /gâcher qqch/(litt.) verser sept ou huit fois/
-七點鐘 七点钟 [qi1 dian3 zhong1] {cat1 dim2 zung1} /sept heures (e.g. du matin)/
+七點鐘 七点钟 [qi1 dian3 zhong1] {cat1 dim2 zung1} /sept heures (du matin, de l'après-midi)/
 三 三 [san1] {saam1} /liaison, relation amoureuse (habituellement utilisé pour désigner celles des femmes)/
 三Ｔ 三T [san1 T] {saam1 Ｔ} /«triple trio»; dans le lexique du sport hippique, prédire les trois premiers au classement en n'importe quel ordre/
 三九兩丁七 三九两丁七 [san1 jiu3 liang3 ding1 qi1] {saam1 gau2 loeng5 ding1 cat1} /peu de personnes/
-三九唔識七 三九唔识七 [san1 jiu3 n2 shi2 qi1] {saam1 gau2 m4 sik1 cat1} /une situation dans laquelle personne ne connaît personne d'autre/
+三九唔識七 三九唔识七 [san1 jiu3 n2 shi2 qi1] {saam1 gau2 m4 sik1 cat1} /situation dans laquelle personne ne connaît personne d'autre/
 三九四零五二 三九四零五二 [san1 jiu3 si4 ling2 wu3 er4] {saam1 gau2 sei3 ling4 ng5 ji6} /six numéros, qui se prononcent avec les six tons de cantonais en ordre: 3 (ton 1), 9 (ton 2), 4 (ton 3), 0 (ton 4), 5 (ton 5), 2 (ton 6)/
 三五知己 三五知己 [san1 wu3 zhi1 ji3] {saam1 ng5 zi1 gei2} /quelques amis proches/
 三人性交 三人性交 [san1 ren2 xing4 jiao1] {saam1 jan4 sing3 gaau1} /plan à trois/
-三仔 三仔 [san1 zi3] {saam1 zai2} /un film classifié III, équivalent français: classement X, équivalent canadien: 18 ans ou plus/les trois objectifs des adolescents des années 1970 à 1990: s'acheter une voiture, s'acheter une maison, se marier/paquet de cartes/
+三仔 三仔 [san1 zi3] {saam1 zai2} /film classifié III, équivalent français: classement X, équivalent canadien: 18 ans ou plus/les trois objectifs des adolescents des années 1970 à 1990: s'acheter une voiture, s'acheter une maison, se marier/paquet de cartes/
 三個字 三个字 [san1 ge4 zi4] {saam1 go3 zi6} /trois caractères/quinze minutes (voir 一個字 ou 一个字 pour origine)/
 三個骨 三个骨 [san1 ge4 gu3] {saam1 go3 gwat1} /trois quarts/quarante-cinq minutes/
 三元里 三元里 [san1 yuan2 li3] {saam1 jyun4 lei5} /Sanyuanli, un endroit à Guangzhou/
 三元里站 三元里站 [san1 yuan2 li3 zhan4] {saam1 jyun4 lei5 zaam6} /Station Sanyuanli, un endroit à Guangzhou/
-三兩下手勢 三两下手势 [san1 liang3 xia4 shou3 shi4] {saam1 loeng5 haa5 sau2 sai3} /quelque chose qui doit se faire rapidement/(litt.) deux ou trois gestes/
-三八婦女節 三八妇女节 [San1 Ba1 Fu4 nü3 jie2] {saam1 baat3 fu5 neoi5 zit3} /les 8 mars, la Journée internationale des femmes/
+三兩下手勢 三两下手势 [san1 liang3 xia4 shou3 shi4] {saam1 loeng5 haa5 sau2 sai3} /qqch qui doit se faire rapidement/(litt.) deux ou trois gestes/
+三八婦女節 三八妇女节 [San1 Ba1 Fu4 nü3 jie2] {saam1 baat3 fu5 neoi5 zit3} /le huit mars, la Journée internationale des femmes/
 三六 三六 [san1 liu4] {saam1 luk6} /chien/
-三六香肉 三六香肉 [san1 liu4 xiang1 rou4] {saam1 luk6 hoeng1 juk6} /viande de chien/(litt.) viande salée de trois-six
+三六香肉 三六香肉 [san1 liu4 xiang1 rou4] {saam1 luk6 hoeng1 juk6} /viande de chien/(litt.) viande salée de trois-six/
 三分顏色上大紅 三分颜色上大红 [san1 fen1 yan2 se5 shang4 da4 gong1] {saam1 fan1 ngaan4 sik1 soeng5 daai6 hung4} /qqn qui se croit supérieur aux autres après être félicité pour peu/
 三十一日 三十一日 [san1 shi2 yi1 ri4] {saam1 sap6 jat1 jat6} /trente-et-un jours/le trente-et-unième jour d'un mois/
 三十一號 三十一号 [san1 shi5 yi1 hao2] {saam1 sap6 jat1 hou6} /trente-et-unième jour d'un mois/
 三十三 三十三 [san1 shi2 san1] {saam1 sap6 saam1} /trente-trois/
 三十日 三十日 [san1 shi2 ri4] {saam1 sap6 jat6} /trente jours/le trentième jour d'un mois/
 三千 三千 [san1 qian1] {saam1 cin1} /trois mille/
-三及第 三及第 [san1 ji2 di4] {saam1 kap6 dai6} /quelque chose d'incomplet et désordonné/un style d'écriture qui combine le chinois classique, la langue chinoise écrite formelle, et le cantonais/(litt.) un type de congee de porc/
-三口兩脷 三口两脷 [san1 kou3 liang3 li4] {saam1 hau2 loeng5 lei6} /une manque de crédibilité/(litt.) trois bouches et deux langues/
+三及第 三及第 [san1 ji2 di4] {saam1 kap6 dai6} /qqch d'incomplet et désordonné/style d'écriture qui combine le chinois classique, la langue chinoise écrite formelle, et le cantonais/(litt.) un type de congee de porc/
+三口兩脷 三口两脷 [san1 kou3 liang3 li4] {saam1 hau2 loeng5 lei6} /manque de crédibilité/(litt.) trois bouches et deux langues/
 三口六面 三口六面 [san1 kou3 liu4 mian4] {saam1 hau2 luk6 min6} /être précis concernant un sujet/(litt.) trois bouches et six côtés du visage/
 三句不離本行 三句不离本行 [san1 ju4 bu4 li2 ben3 hang2] {saam1 geoi3 bat1 lei4 bun2 hong4} /qqn qui parle constamment de son métier ou sa profession, qui utilise toujours le jargon associé/(litt.) en trois phrase, on ne s'éloigne pas de sa profession/
 三合板 三合板 [san1 he2 ban3] {saam1 gap3 baan2} /contreplaqué/
 三唔識七 三唔识七 [san1 n2 shi2 qi1] {saam1 m4 sik1 cat1} /ne pas connaître quelqu'un/(litt.) le trois ne connaît pas le sept/
 三國 三国 [san1 guo2] {saam1 gwok3} /trois pays/
-三國時代 三国时代 [San1 guo2 shi2 dai4] {saam1 gwok3 si4 doi6} /la période des «Trois Royaumes»/
-三姑六婆 三姑六婆 [san1 gu1 liu4 po2] {saam1 gu1 luk6 po4} /des femmes cacanières et jaseuses/(litt.) trois tantes six femmes/
+三國時代 三国时代 [San1 guo2 shi2 dai4] {saam1 gwok3 si4 doi6} /période des «Trois Royaumes»/
+三姑六婆 三姑六婆 [san1 gu1 liu4 po2] {saam1 gu1 luk6 po4} /femmes cacanières et jaseuses/(litt.) trois tantes six femmes/
 三寸金蓮 三寸金莲 [san1 cun4 jin1 lian2] {saam1 cyun3 gam1 lin4} /coutume des pieds bandés/
-三寸釘 三寸钉 [san1 cun4 ding1] {saam1 cyun3 deng1} /les petites personnes/
+三寸釘 三寸钉 [san1 cun4 ding1] {saam1 cyun3 deng1} /petites personnes/
 三尖八角 三尖八角 [san1 jian1 ba1 jiao3] {saam1 zim1 baat3 gok3} /formes irréguliers/inutile, incompatible/(litt.) trois points, huit angles/
 三岔路口 三岔路口 [san1 cha4 lu4 kou3] {saam1 caa3 lou6 hau2} /au croisement, au carrefour, à la croisée (de qqch)/
 三幅被 三幅被 [san1 fu2 bei4] {saam1 fuk1 pei5} /qqn qui parle toujours de la même chose/
 三年 三年 [san1 nian2] {saam1 nin4} /trois ans, trois années/
 三幾 三几 [san1 ji3] {saam1 gei2} /environ trois/
 三度空間 三度空间 [san1 du4 kong1 jian1] {saam1 dou6 hung1 gaan1} /trois dimensions/
-三心兩意 三心两意 [san1 xin1 liang3 yi4] {saam1 sam1 loeng5 ji3} /indécis/(litt.) trois coeurs, deux opinions/
-三思 三思 [san1 si1] {saam3 si1} /une façon de dire à qqn d'y réfléchir à deux fois avant de faire qqch/
+三心兩意 三心两意 [san1 xin1 liang3 yi4] {saam1 sam1 loeng5 ji3} /(expr. idiom.) indécis/(litt.) trois coeurs, deux opinions/
+三思 三思 [san1 si1] {saam3 si1} /façon de dire à qqn d'y réfléchir à deux fois avant d'agir/
 三急 三急 [san1 ji2] {saam1 gap1} /les trois besoins, uriner, excréter, vomir/
 三扒兩撥 三扒两拨 [san1 ba1 liang3 bo1] {saam1 paa4 loeng5 but6} /qqn de très éfficace/
 三方 三方 [san1 fang1] {saam1 fong1} /trois côtés/tripartite/trilatéral/
 三日 三日 [san1 ri4] {saam1 jat6} /trois jours/le troisième jour d'un mois/
 三日兩夜 三日两夜 [san1 ri4 liang3 ye4] {saam1 jat6 loeng5 je6} /trois jours, deux nuits/
 三日兩頭 三日两头 [san1 ri4 liang3 tou2] {saam1 jat6 loeng5 tau4} /quelques jours/
-三更窮五更富 三更穷五更富 [san1 geng1 qiong2 wu3 geng1 fu4] {saam1 gaang1 kung4 ng5 gaang1 fu3} /qqn qui ne sait pas gérer son argent/(litt.) pauvre à trois heures, riche à cinq heures/
-三月二十一號 三月二十一号 [san1 yue4 er4 shi2 yi1 hao4] {saam1 jyut6 ji6 sap6 jat1 hou6} /le 21 mars/
+三更窮五更富 三更穷五更富 [san1 geng1 qiong2 wu3 geng1 fu4] {saam1 gaang1 kung4 ng5 gaang1 fu3} /(expr. idiom.) qqn qui ne sait pas gérer son argent/(litt.) pauvre à trois heures, riche à cinq heures/
+三月二十一號 三月二十一号 [san1 yue4 er4 shi2 yi1 hao4] {saam1 jyut6 ji6 sap6 jat1 hou6} /le vingt et un mars/
 三朝 三朝 [san1 zhao1] {saam1 ciu4} /trois dynasties/
-三朝元老 三朝元老 [san1 chao2 yuan2 lao3] {saam1 ciu4 jyun4 lou5} /un employé qui a travaillé sous trois changements de gestion/un ministre qui sert sous trois empereurs/
-三板 三板 [san1 ban3] {saam1 baan2} /un sampan; un bateau chinois/
+三朝元老 三朝元老 [san1 chao2 yuan2 lao3] {saam1 ciu4 jyun4 lou5} /employé qui a travaillé sous trois changements de gestion/ministre qui sert sous trois empereurs/
+三板 三板 [san1 ban3] {saam1 baan2} /sampan, un bateau chinois/
 三板斧 三板斧 [san1 ban3 fu3] {saam1 baan2 fu2} /qqn ou qqch qui ne sait faire que trois choses, «three-trick pony»/
-三枝桅 三枝桅 [san1 zhi1 wei2] {saam1 zi1 ngai4} /un trois-mâts/
-三柴 三柴 [san1 chai2] {saam1 caai4} /un sergeant (orig.) les insignes des sergeants ont trois chevrons/
+三枝桅 三枝桅 [san1 zhi1 wei2] {saam1 zi1 ngai4} /trois-mâts/
+三柴 三柴 [san1 chai2] {saam1 caai4} /sergeant (orig.) les insignes des sergeants ont trois chevrons/
 三條 三条 [san1 tiao2] {saam1 tiu4} /trois bâtonnets de qqch/trois bandes de qqch/
 三棟屋博物館 三栋屋博物馆 [san1 dong4 wu1 bo2 wu4 guan3] {saam1 dung6 uk1 bok3 mat6 gun2} /Musée Sam Tung Uk, à Hong Kong/(litt.) musée de la maison à trois poutres/
 三步揦埋兩步 三步揦埋两步 [san1 bu4 la2 mai2 liang3 bu4] {saam1 bou6 laa3 maai4 loeng5 bou6} /marcher à grands pas/(litt.) couvrir une distance de trois pas avec deux/
 三歲定八十 三岁定八十 [san1 sui4 ding4 ba1 shi2] {saam1 seoi3 ding6 baat3 sap6} /le comportement d'un enfant à trois ans déterminera on comportement comme adulte/(litt.) trois ans détermine quatre-vingts/
-三江 三江 [san1 jiang1] {saam1 gong1} /les trois-rivières: le Heilongjiang, l'Oussouri and la rivière Songhua/
+三江 三江 [san1 jiang1] {saam1 gong1} /les trois rivières: le Heilongjiang, l'Oussouri and la rivière Songhua/
 三蒸酒 三蒸酒 [san1 zheng1 jiu3] {saam1 zing1 zau2} /vin de riz distillé trois fois/
 三百 三百 [san1 bai3] {saam1 baak3} /trois cents/
 三相 三相 [san1 xiang4] {saam1 soeng3} /avec trois parties (pour désigner les prises)/triphasé/
@@ -426,41 +427,41 @@
 三索線 三索线 [san1 suo3 xian4] {saam1 sok3 sin3} /corde à trois tresses/coelognathus radiatus, une espèce de serpents/
 三維電影 三维电影 [san1 wei2 dian4 ying3] {saam1 wai4 din6 jing2} /film en relief/
 三緘其口 三缄其口 [san1 jian1 qi2 kou3] {saam1 gaam1 kei4 hau2} /parler prudemment/(litt.) fermer sa bouche trois fois/
-三缺一 三缺一 [san1 que1 yi1] {saam1 kyut3 jat1} /un joueur manquant, jouer mah-jong avec trois personnes au lieu de quatre/
+三缺一 三缺一 [san1 que1 yi1] {saam1 kyut3 jat1} /joueur manquant/jouer mah-jong avec trois personnes au lieu de quatre/
 三腳凳 三脚凳 [san1 jiao3 deng4] {saam1 goek3 dang3} /qqn qui est peu fiable/(litt.) une chaise avec trois pieds/
 三腳櫈 三脚凳 [san1 jiao3 deng4] {saam1 goek3 dang3} /qqn qui est peu fiable/(litt.) une chaise avec trois pieds/
-三腳雞 三脚鸡 [san1 jiao3 ji1] {saam1 goek3 gai1} /une moto à trois roues/un tuk-tuk/
+三腳雞 三脚鸡 [san1 jiao3 ji1] {saam1 goek3 gai1} /moto à trois roues/tuk-tuk/
 三花 三花 [san1 hua1] {saam1 faa1} /trois fleurs/inspecteur du Hong Kong Police Force (orig.) les insignes de l'inspecteur en chef ont trois fleurs/
 三蕃市 三蕃市 [San1 fan1 shi4] {saam1 faan4 si5} /San Francisco/
 三藩市交通局 三藩市交通局 [san1 fan1 shi4 jiao1 tong1 ju2] {saam1 faan4 si5 gaau1 tung1 guk6} /Département de transport de San Francisco/
-三藩市城市鐵路 三藩市城市铁路 [san1 fan1 shi4 cheng2 shi4 tie3 lu4] {saam1 faan4 si5 sing4 si5 tit3 lou6} /les voies ferrées de San Francisco/
-三藩市華埠 三藩市华埠 [san1 fan1 shi4 Hua2 bu4] {saam1 faan4 si5 waa4 fau6} /le quartier chinois de San Francisco/
-三蛇 三蛇 [san1 she2] {saam1 se4} /trois serpent/les mauvaises situations ou personnes/
+三藩市城市鐵路 三藩市城市铁路 [san1 fan1 shi4 cheng2 shi4 tie3 lu4] {saam1 faan4 si5 sing4 si5 tit3 lou6} /voies ferrées de San Francisco/
+三藩市華埠 三藩市华埠 [san1 fan1 shi4 Hua2 bu4] {saam1 faan4 si5 waa4 fau6} /quartier chinois de San Francisco/
+三蛇 三蛇 [san1 she2] {saam1 se4} /trois serpent/mauvaises situations ou personnes/
 三蛇羹 三蛇羹 [san1 she2 geng1] {saam1 se4 gang1} /soupe à serpents, préparée avec trois types de serpents/
-三行 三行 [san1 hang2] {saam1 hang4} /les professions de maçonnerie, menuiserie, and peintre en bâtiment/
+三行 三行 [san1 hang2] {saam1 hang4} /maçonnerie, menuiserie, and peintre en bâtiment/
 三行仔 三行仔 [san1 hang2 zi3] {saam1 hong4 zai2} /menuisier, construction, et installateur/
 三行佬 三行佬 [san1 hang2 lao3] {saam1 hong4 lou2} /menuisier, construction, et installateur/
-三衰六旺 三衰六旺 [san1 shuai1 liu4 wang4] {saam1 seoi1 luk6 wong6} /les défis et bonnes fortunes vécus au cours d'une vie, les hauts et les bas (voir aussi 人有三衰六旺)/(litt.) trois malheurs, six bonheurs/
-三角尺 三角尺 [san1 jiao3 chi3] {saam1 gok3 cek3} /une équerre/
+三衰六旺 三衰六旺 [san1 shuai1 liu4 wang4] {saam1 seoi1 luk6 wong6} /défis et bonnes fortunes vécus au cours d'une vie, les hauts et les bas (voir aussi 人有三衰六旺)/(litt.) trois malheurs, six bonheurs/
+三角尺 三角尺 [san1 jiao3 chi3] {saam1 gok3 cek3} /équerre/
 三角架 三角架 [san1 jiao3 jia4] {saam1 gok3 gaa2} /trépied/
 三角測量 三角测量 [san1 jiao3 ce4 liang2] {saam1 gok3 caak1 loeng4} /triangulation/
 三角皮帶 三角皮带 [san1 jiao3 pi2 dai4] {saam1 gok3 pei4 daai2} /courroie trapézoïdale/
-三角鐵 三角铁 [san1 jiao3 tie3] {saam1 gok3 tit3} /le triangle (instrument)/
+三角鐵 三角铁 [san1 jiao3 tie3] {saam1 gok3 tit3} /triangle (instrument)/
 三足鼎立 三足鼎立 [san1 zu2 ding3 li4] {saam1 zuk1 ding2 laap6} /confrontation entre trois grands pouvoirs/(litt.) trois pieds qui supportent un ding, un chaudron chinois/
 三重彩 三重彩 [san1 chong2 cai3] {saam1 cung4 coi2} /dans le lexique du sport hippique, prédire correctement les trois premiers au classement en n'importe quel ordre/
-三項鐵人 三项铁人 [san1 xiang4 tie3 ren2] {saam1 hong6 tit3 jan4} /un triathlon/
-三鳥 三鸟 [San1 niao3] {saam1 niu5} /trois oiseaux/les ambassadeurs/les poulets, canards, et oies/
-三點三 三点三 [san1 dian3 san1] {saam1 dim2 saam1} /3,3/quinze heures quinze/thé de l'après-midi
+三項鐵人 三项铁人 [san1 xiang4 tie3 ren2] {saam1 hong6 tit3 jan4} /triathlon/
+三鳥 三鸟 [san1 niao3] {saam1 niu5} /trois oiseaux/ambassadeurs/poulets, canards, et oies/
+三點三 三点三 [san1 dian3 san1] {saam1 dim2 saam1} /3,3/quinze heures quinze/thé de l'après-midi/
 三點式 三点式 [san1 dian3 shi4] {saam1 dim2 sik1} /bikini/
-三點鐘 三点钟 [san1 dian3 zhong1] {saam1 dim2 zung1} /trois heures (e.g. du matin)/
+三點鐘 三点钟 [san1 dian3 zhong1] {saam1 dim2 zung1} /trois heures (du matin, de l'après-midi)/
 上 上 [shang4] {soeng5} /supérieur/au sujet (de qqch)/visser/dans le lexique du mah-jong, faire exposer trois tuiles numérales en ordre/
 上上下下 上上下下 [shang4 shang4 xia4 xia4] {soeng6 soeng6 haa6 haa6} /tout le monde/
 上下九 上下九 [shang4 xia4 jiu3] {soeng6 haa6 gau2} /Shangxiajiu, un endroit à Guangzhou/
-上便 上便 [shang4 bian4] {soeng6 bin6} /en haut/sur/le dessus/une expression utilisé par les Hongkongais pour parler de la Chine continentale/
-上個禮拜 上个礼拜 [shang4 ge5 li3 bai4] {soeng5 go3 lai5 baai3} /la semaine passée/
+上便 上便 [shang4 bian4] {soeng6 bin6} /en haut/sur/le dessus/expression utilisé par les Hongkongais pour parler de la Chine continentale/
+上個禮拜 上个礼拜 [shang4 ge5 li3 bai4] {soeng5 go3 lai5 baai3} /semaine passée/
 上列 上列 [shang4 lie4] {soeng6 lit6} /(qqch) énumérée ci-dessus/
-上半場 上半场 [shang4 ban4 chang3] {soeng6 bun3 coeng4} /la première moitié (d'un jeu)/
-上半部 上半部 [shang4 ban4 bu4] {soeng6 bun3 bou6} /la première moitié/la moitié supérieure/
+上半場 上半场 [shang4 ban4 chang3] {soeng6 bun3 coeng4} /première moitié (d'un jeu)/
+上半部 上半部 [shang4 ban4 bu4] {soeng6 bun3 bou6} /première moitié/moitié supérieure/
 上品 上品 [shang4 pin3] {soeng6 ban2} /haute qualité/
 上嚟 上嚟 [shang4 li2] {soeng5 lai2} /venir ici/monter ici/
 上址 上址 [shang4 zhi3] {soeng6 zi2} /l'addresse ci-dessus/
@@ -472,28 +473,28 @@
 上山 上山 [shang4shan1] {soeng5 saan1} /cortège funèbre/(litt.) monter sur une montagne/
 上岸 上岸 [shang4 an4] {soeng5 ngon6} /devenir riche/
 上市 上市 [shang4 shi4] {soeng5 si5} /coté en bourse/
-上得山多終遇虎 上得山多终遇虎 [shang4 de5 shan1 duo1 zhong1 yu4 hu3] {soeng5 dak1 saan1 do1 zung1 jyu6 fu2} /si qqn tente leur chances plusieurs fois, il finira avec un résultat négatif/(litt.) une rencontre avec un tigre est inévitable si on monte souvent une montagne/
+上得山多終遇虎 上得山多终遇虎 [shang4 de5 shan1 duo1 zhong1 yu4 hu3] {soeng5 dak1 saan1 do1 zung1 jyu6 fu2} /(expr. idiom.) qqn qui tente leur chances plusieurs fois finira mal/(litt.) une rencontre avec un tigre est inévitable si on monte souvent une montagne/
 上情下達 上情下达 [shang4 qing2 xia4 da2] {soeng6 cing4 haa6 daat6} /transmettre un ordre des supérieurs aux subordonés/
 上數 上数 [shang4 shu4] {soeng6 sou3} /selon la prononciation, peut signifier 上訴, allure/(litt.) chiffre supérieur/
 上斜 上斜 [shang4 xie2] {soeng5 ce4} /remonter une pente/
-上晝 上昼 [shang4 zhou4] {soeng6 zau3} /le matin/
-上朝 上朝 [shang4 chao2] {soeng5 ciu4} /assemblée matinale tenue par l'empereur et ses ministres, pour discuter des problèmes qui se survenaient dans leur térritoire/
+上晝 上昼 [shang4 zhou4] {soeng6 zau3} /matin/
+上朝 上朝 [shang4 chao2] {soeng5 ciu4} /(arch.) assemblée matinale tenue par l'empereur et ses ministres, pour discuter des problèmes qui se survenaient dans leur térritoire/
 上架 上架 [shang4 jia4] {soeng5 gaa2} /mettre un nouveau produit sur les tablettes/
 上機 上机 [shang4 ji1] {soeng5 gei1} /embarquer (dans un avion)/
 上氣唔接下氣 上气唔接下气 [shang4 qi4 n2 jie1 xia4 qi4] {soeng6 hei3 m4 zip3 haa6 hei3} /essouflé/
-上海人 上海人 [shang4 hai3 ren2] {soeng6 hoi2 jan4} /les Shanghaïens/
+上海人 上海人 [shang4 hai3 ren2] {soeng6 hoi2 jan4} /Shanghaïens/
 上海灘 上海滩 [shang4 hai3 tan1] {soeng6 hoi2 taan1} /Le Bund, connu aussi sous le nom Waitan/
 上海街 上海街 [shang4 hai3 jie1] {soeng6 hoi2 gaai1} /rue Shanghai street, située à Kowloon, Hong Kong/
 上湯 上汤 [shang4 tang1] {soeng6 tong1} /consommé; une soupe fait à base de fond blanc de vollaile, boeuf, ou poisson à fins de cuisine, et non pour consommer/
-上漆 上漆 [shang4 qi1] {soeng5 cat1} /une finition de lacque/peindre, peinturer (un mur, une voiture, etc.)/
+上漆 上漆 [shang4 qi1] {soeng5 cat1} /finition de lacque/peindre, peinturer (un mur, une voiture, etc.)/
 上畫 上画 [shang4 hua4] {soeng5 waa2} /sortie de film/
 上皮組織 上皮组织 [shang4 pi2 zu3 zhi1] {soeng6 pei4 zou2 zik1} /tissu épithélial/
-上盤 上盘 [shang4 pan2] {soeng6 pun4} /une phrase dans le lexique des jeux d'argent de soccer/
+上盤 上盘 [shang4 pan2] {soeng6 pun4} /phrase dans le lexique des jeux d'argent de soccer/
 上空裝 上空装 [shang4 kong1 zhuang1] {soeng6 hung1 zong1} /torse nu/
 上窰民俗文物館 上窑民俗文物馆 [shang4 yao2 min2 su2 wen2 wu4 guan3] {soeng6 jiu4 man4 zuk6 man4 mat6 gun2} /musée folklorique Sheung Yiu/
 上等貨 上等货 [shang4 deng3 huo4] {soeng6 dang2 fo3} /produits haut-de-gamme/
 上策 上策 [shang4 ce4] {soeng6 caak3} /un bon plan, une bonne stratégie/
-上算 上算 [shang4 suan4] {soeng6 syun3} /une bonne affaire/qqch qui vaut la peine/
+上算 上算 [shang4 suan4] {soeng6 syun3} /bonne affaire/qqch qui vaut la peine/
 上網 上网 [shang4 wang3] {soeng5 mong5} /en ligne/
 上聯 上联 [shang4 lian2] {soeng6 lyun4} /première ligne d'un distique ou couplet/
 上腦 上脑 [shang4 nao3] {soeng5 nou5} /influencer l'esprit de qqn, faire qqn agir de manière irréfléchie/
@@ -504,7 +505,7 @@
 上蠟 上蜡 [shang4 la4] {soeng5 laap6} /cirer/
 上車 上车 [shang4 che1] {soeng5 ce1} /faire son premier achat d'immobilier, accéder à la propriété/
 上車盤 上车盘 [shang4 che1 pan2] {soeng6 ce1 pun4} /première maison d'un accédant à la propriété/
-上鋪 上铺 [shang4 pu4] {soeng6 pou1} /le lit de dessus sur un lit superposé/
+上鋪 上铺 [shang4 pu4] {soeng6 pou1} /lit de dessus sur un lit superposé/
 上鏈 上链 [shang4 lian4] {soeng5 lin6} /remonter une chaîne/
 上陣不離父子兵 上阵不离父子兵 [shang4 zhen4 bu4 li2 fu4 zi3 bing1] {soeng5 zan6 bat1 lei4 fu6 zi2 bing1} /avoir une bonne relation entre un père et son fils, un père et fils qui ont les mêmes opinions/(litt.) entrer en bataille comme un père et son fils/
 上電 上电 [shang4 dian4] {soeng5 din6} /consommer des drogues/
@@ -540,27 +541,27 @@
 下文 下文 [xia4 wen2] {haa6 man4} /les développments, les faits nouveaux (d'une situation)/
 下晏 下晏 [xia4 yan4] {haa6 aan3} /l'après-midi/
 下晝 下昼 [xia4 zhou4] {haa6 zau3} /l'après-midi/
-下欄 下栏 [xia4 lan2] {haa6 laan4} /pourboire/la nourriture qui reste d'un repas/
+下欄 下栏 [xia4 lan2] {haa6 laan4} /pourboire/nourriture qui reste d'un repas/
 下氣 下气 [xia4 qi4] {haa6 hei3} /dans la médecine chinoise, calmer l'énergie interne/(se présenter, faire qqch) d'une manière timide/se calmer/
-下水船 下水船 [xia4 shui3 chuan2] {haa6 seoi2 syun4} /la prochaine cargaison/
+下水船 下水船 [xia4 shui3 chuan2] {haa6 seoi2 syun4} /prochaine cargaison/
 下火 下火 [xia4 huo3] {haa6 fo2} /dans la médecine chinoise, se dégager de la chaleur interne/
 下爬輕輕 下爬轻轻 [xia4 pa2 qing1 qing1] {haa6 paa4 heng1 heng1} /qqn qui promet tout mais ne peut pas les tenir/
 下班時間 下班时间 [xia4 ban1 shi2 jian1] {haa6 baan1 si4 gaan3} /l'heure de départ (pour un emploi)/
-下環 下环 [xia4 huan2] {haa6 waan4} /l'ancien nom pour une région près de Wan Chai et Causeway Bay de Hong Kong/une région de Macau/
-下盤 下盘 [xia4 pan2] {haa6 pun4} /la partie inférieure du corps/parier/
+下環 下环 [xia4 huan2] {haa6 waan4} /l'ancien nom pour une région près de Wan Chai et Causeway Bay de Hong Kong/région de Macau/
+下盤 下盘 [xia4 pan2] {haa6 pun4} /partie inférieure du corps/parier/
 下等 下等 [xia4 deng3] {haa6 dang2} /inférieur, pauvre qualité/
 下策 下策 [xia4 ce4] {haa6 caak3} /un mauvais plan ou décision/
 下聯 下联 [xia4 lian2] {haa6 lyun4} /deuxième ligne d'un distique ou couplet/
 下芳村 下芳村 [xia4 fang1 cun1] {haa6 fong1 cyun1} /un endroit situé à Guangzhou/
-下賤 下贱 [xia4 jian4] {haa6 zin6} /ignoble/une femme infidèle/une femme aux moeurs légères/
+下賤 下贱 [xia4 jian4] {haa6 zin6} /ignoble/femme infidèle/femme aux moeurs légères/
 下述 下述 [xia4 shu4] {haa6 seot6} /qqch expliqué ci-dessous/
 下逐客令 下逐客令 [xia4 zhu2 ke4 ling4] {haa6 zuk6 haak3 ling6} /un ordre pour renvoyer, expulser qqn/
 下部 下部 [xia4 bu4] {haa6 bou6} /en bas, sous/
 下里巴人 下里巴人 [xia4 li3 ba1 ren2] {haa6 lei5 baa1 jan4} /de l'art ou littérature qui attire le plus petit dénominateur commun/
-下間 下间 [xia4 jian1] {haa6 gaan3} /la prochaine... (pour désigner les restaurants, maisons, magasins, écoles, etc.)/la cuisine (obs.)/
+下間 下间 [xia4 jian1] {haa6 gaan3} /la prochaine... (pour désigner les restaurants, maisons, magasins, écoles, etc.)/(arch.) la cuisine/
 下降 下降 [xia4 jiang4] {haa6 gong3} /descendre, qqch qui descend/
-下限 下限 [xia4 xian4] {haa6 haan6} /la limite inférieurl/
-下集 下集 [xia4 ji2] {haa6 zaap6} /le prochain épisode/
+下限 下限 [xia4 xian4] {haa6 haan6} /limite inférieure/
+下集 下集 [xia4 ji2] {haa6 zaap6} /prochain épisode/
 不乏其人 不乏其人 [bu4 fa2 qi2 ren2] {bat1 fat6 kei4 jan4} /ne pas manquer des gens qui pensent de la même façon/
 不予置評 不予置评 [bu4 yu3 zhi4 ping2] {bat1 jyu5 zi3 ping4} /no comment, rester sans commentaire/
 不值一提 不值一提 [bu4 zhi2 yi1 ti2] {bat1 zik6 jat1 tai4} /qqch chose qui ne merite pas d'être mentionné/
@@ -598,7 +599,7 @@
 不摟 不搂 [bu4 lou3] {bat1 lau1} /depuis le début/toujours/
 不敢 不敢 [bu4 gan3] {bat1 gam2} /ne pas oser (faire qqch)/
 不文 不文 [bu4 wen2] {bat1 man4} /inapproprié/
-不文物 不文物 [bu4 wen2 wu4] {bat1 man4 mat6} /le pénis/
+不文物 不文物 [bu4 wen2 wu4] {bat1 man4 mat6} /pénis/
 不日放映 不日放映 [bu4 ri4 fang4 ying4] {bat1 jat6 fong3 jing2} /bientôt (utilisé pour les sorties de film)/
 不景 不景 [bu4 jing3] {bat1 ging2} /ne pas bien se présenter (pour parler du futur ou de l'économie)/
 不景氣 不景气 [bu4 jing3 qi4] {bat1 ging2 hei3} /récession/
@@ -640,27 +641,27 @@
 不過如此 不过如此 [bu5 guo4 ru2 ci3] {bat1 gwo3 jyu4 ci2} /c'est tout, c'est fini, pas plus que ça/
 丕烈 丕烈 [pi1 lie4] {pei1 lit6} /un grand exploit/
 丕績 丕绩 [pi1 ji4] {pei1 zek3} /un grand exploit/
-世 世 [shi4] {sai3} /classificateur pour une vie/
+世 世 [shi4] {sai3} /(classificateur pour une vie)/
 世侄 世侄 [shi4 zhi2] {sai3 zat6} /les fils des amis/
 世叔 世叔 [shi4 shu1] {sai3 suk1} /un ami de la famille/(litt.) oncle/
-世姪 世侄 [shi4 zhi2] {sai3 zat6} /le fils d'un ami de la famille/
+世姪 世侄 [shi4 zhi2] {sai3 zat6} /fils d'un ami de la famille/
 世態 世态 [shi4 tai4] {sai3 taai3} /l'état d'une société/
 世界上 世界上 [shi4 jie4 shang4] {sai3 gaai3 soeng6} /dans ce monde/autour du monde/
-世界之窗站 世界之窗站 [shi4 jie4 zhi1 chuang1 zhan4] {sai3 gaai3 zi1 coeng1 zaam6} /la station «Window of the World» (Fenêtre du Monde), un endroit à Shenzhen/
-世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /un homme sociable/un homme sage, habituellement péjoratif./un béni-oui-oui, un paillason/(litt.) un enfant du monde/
+世界之窗站 世界之窗站 [shi4 jie4 zhi1 chuang1 zhan4] {sai3 gaai3 zi1 coeng1 zaam6} /station «Window of the World» (Fenêtre du Monde), un endroit à Shenzhen/
+世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /homme sociable/homme sage, habituellement péjoratif./un béni-oui-oui, un paillason/(litt.) un enfant du monde/
 世界史 世界史 [shi4 jie4 shi3] {sai3 gaai3 si2} /l'histoire/
-世界女 世界女 [shi4 jie4 nü3] {sai3 gaai3 neoi5} /une femme qui gère bien les personnes, particulièrement ses supérieurs/
+世界女 世界女 [shi4 jie4 nü3] {sai3 gaai3 neoi5} /femme qui gère bien les personnes, particulièrement ses supérieurs/
 世界小姐 世界小姐 [Shi4 jie4 Xiao3 jie3] {sai3 gaai3 siu2 ze2} /Miss Monde, un concours de beauté international/
-世界市場 世界市场 [shi4 jie4 shi4 chang3] {sai3 gaai3 si5 coeng4} /le marché mondial/
+世界市場 世界市场 [shi4 jie4 shi4 chang3] {sai3 gaai3 si5 coeng4} /marché mondial/
 世界性 世界性 [shi4 jie4 xing4] {sai3 gaai3 sing3} /mondial/
 世界歷史 世界历史 [shi4 jie4 li4 shi3] {sai3 gaai3 lik6 si2} /l'histoire/
 世界波 世界波 [shi4 jie4 bo1] {sai3 gaai3 bo1} /être extrêmement doué pour le soccer/(litt.) digne de la Coupe due monde/
 世界盃 世界杯 [Shi4 jie4 bei1] {sai3 gaai3 bui1} /coupe du monde, applicable plusieurs sports/
 世界語言 世界语言 [shi4 jie4 yu3 yan2] {sai3 gaai3 jyu5 jin4} /langues étrangères/
 世界遺產 世界遗产 [shi4 jie4 yi2 chan3] {sai3 gaai3 wai4 caan2} /patrimoine mondial/
-世界銀行集團 世界银行集团 [shi4 jie4 yin2 hang2 ji2 tuan2] {sai3 gaai3 ngan4 hong4 zaap6 tyun4} /le Group de la Banque mondiale/
-世紀之戰 世纪之战 [shi4 ji4 zhi1 zhan4] {sai3 gei2 zi1 zin3} /le combat ou bataille du siècle/
-世貿中心 世贸中心 [Shi4 Mao4 Zhong1 xin1] {sai3 mau6 zung1 sam1} /le World Trade Center/
+世界銀行集團 世界银行集团 [shi4 jie4 yin2 hang2 ji2 tuan2] {sai3 gaai3 ngan4 hong4 zaap6 tyun4} /Groupe de la Banque mondiale/
+世紀之戰 世纪之战 [shi4 ji4 zhi1 zhan4] {sai3 gei2 zi1 zin3} /combat ou bataille du siècle/
+世貿中心 世贸中心 [Shi4 Mao4 Zhong1 xin1] {sai3 mau6 zung1 sam1} /World Trade Center/
 丟低 丢低 [diu1 di1] {diu6 dai1} /laisser/
 丟假 丢假 [diu1 jia3] {diu1 gaa2} /se ridiculiser/
 丟卒保車 丢卒保车 [diu1 zu2 bao3 ju1] {diu1 zeot1 bou2 ce1} /(dans le lexique de xiangqi, ou echecs chinois) sacrifier le pion plus faible (un cheval) pour garder un pion plus fort (le chariot)/
@@ -675,46 +676,46 @@
 並未 并未 [bing4 wei4] {bing3 mei6} /pas encore/
 並肩作戰 并肩作战 [bing4 jian1 zuo4 zhan4] {bing6 gin1 zok3 zin3} /se battre avec qqn/
 並蒂 并蒂 [bing4 di4] {bing6 dai3} /deux fleurs qui fleurissent au même temps/
-丫 丫 [ya1] {aa1} /bébé/onomatopée pour les corbeaux/le son d'un bébé qui pleure/
+丫 丫 [ya1] {aa1} /bébé/onomatopée pour les corbeaux/son d'un bébé qui pleure/
 中 中 [zhong1] {zung1} /frapper qqch précisément/gagner (un prix, la loterie)/
-中上層 中上层 [zhong1 shang4 ceng2] {zung1 soeng6 cang4} /la classe moyenne supérieure/
-中上游 中上游 [zhong1 shang4 you2] {zung1 soeng6 jau4} /dans une chaîne logistique, l'amont/la class moyenne supérieure/
+中上層 中上层 [zhong1 shang4 ceng2] {zung1 soeng6 cang4} /classe moyenne supérieure/
+中上游 中上游 [zhong1 shang4 you2] {zung1 soeng6 jau4} /dans une chaîne logistique, l'amont/class moyenne supérieure/
 中下 中下 [zhong1 xia4] {zung1 haa6} /moyenne inférieure/
-中下游 中下游 [zhong1 xia4 you2] {zung1 haa6 jau4} /dans une chaîne logistique, l'aval/la class moyenne inférieure/
+中下游 中下游 [zhong1 xia4 you2] {zung1 haa6 jau4} /dans une chaîne logistique, l'aval/class moyenne inférieure/
 中中哋 中中哋 [zhong1 zhong1 di4] {zung1 zung1 dei2} /environ au milieu/quelqu'un qui ne marche pas en ligne droite/
-中位 中位 [zhong1 wei4] {zung1 wai6} /la place du milieu/
+中位 中位 [zhong1 wei4] {zung1 wai6} /place du milieu/
 中停 中停 [zhong1 ting2] {zung1 ting4} /arrêter au milieu/dans la physiognomonie chinoise, la partie du visage entre les sourcils jusqu'au bas du nez/
-中共總書記 中共总书记 [zhong1 gong4 zong3 shu1 ji5] {zung1 gung6 zung2 syu1 gei3} /le secrétaire général du Comité central du Parti communiste chinois/
-中古時代 中古时代 [zhong1 gu3 Shi2 dai4] {zung1 gu2 si4 doi6} /le Moyen Âge/
+中共總書記 中共总书记 [zhong1 gong4 zong3 shu1 ji5] {zung1 gung6 zung2 syu1 gei3} /secrétaire général du Comité central du Parti communiste chinois/
+中古時代 中古时代 [zhong1 gu3 Shi2 dai4] {zung1 gu2 si4 doi6} /Moyen Âge/
 中史 中史 [zhong1 shi3] {zung1 si2} /l'histoire chinoise/
 中國人 中国人 [Zhong1guo2ren2] {zung1 gwok3 jan4} /les Chinois/
-中國人民 中国人民 [zhong1 guo2 ren2 min2] {zung1 gwok3 jan4 man4} /le peuple de la république populaire de Chine/
-中國共產黨中央委員會總書記 中国共产党中央委员会总书记 [zhong1 guo2 gong4 chan3 dang3 zhong1 yang1 wei3 yuan2 hui4 zong3 shu1 ji5] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 wai2 jyun4 wui2 zung2 syu1 gei3} /le secrétaire général du Comité central du Parti communiste chinois/
-中國共產黨中央政治局 中国共产党中央政治局 [zhong1 guo2 Gong4 chan3 dang3 zhong1 yang1 Zheng4 zhi4 ju2] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 zing3 zi6 guk6} /le Bureau politique du Comité central du Parti communiste chinois/
-中國共產黨中央政治局常務委員會 中国共产党中央政治局常务委员会 [zhong1 guo2 gong4 chan3 dang3 Zzong1 yang1 Zheng4 zhi4 ju2 chang2 wu4 wei3 yuan2 hui4] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 zing3 zi6 guk6 soeng4 mou6 wai2 jyun4 wui2} /le comité permanent du bureau politique du Parti communiste chinois/
+中國人民 中国人民 [zhong1 guo2 ren2 min2] {zung1 gwok3 jan4 man4} /peuple de la république populaire de Chine/
+中國共產黨中央委員會總書記 中国共产党中央委员会总书记 [zhong1 guo2 gong4 chan3 dang3 zhong1 yang1 wei3 yuan2 hui4 zong3 shu1 ji5] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 wai2 jyun4 wui2 zung2 syu1 gei3} /secrétaire général du Comité central du Parti communiste chinois/
+中國共產黨中央政治局 中国共产党中央政治局 [zhong1 guo2 Gong4 chan3 dang3 zhong1 yang1 Zheng4 zhi4 ju2] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 zing3 zi6 guk6} /Bureau politique du Comité central du Parti communiste chinois/
+中國共產黨中央政治局常務委員會 中国共产党中央政治局常务委员会 [zhong1 guo2 gong4 chan3 dang3 Zzong1 yang1 Zheng4 zhi4 ju2 chang2 wu4 wei3 yuan2 hui4] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 zing3 zi6 guk6 soeng4 mou6 wai2 jyun4 wui2} /comité permanent du bureau politique du Parti communiste chinois/
 中國功夫 中国功夫 [zhong1 guo2 gong1 fu5] {zung1 gwok3 gung1 fu1} /Kung-fu chinois/
 中國南方航空公司 中国南方航空公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gung1 si1} /China Southern Airlines/
 中國南方航空股份有限公司 中国南方航空股份有限公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gu2 fan6 jau5 haan6 gung1 si1} /China Southern Airlines Company Limited/
 中國史 中国史 [zhong1 guo2 shi3] {zung1 gwok3 si2} /l'histoire chinoise/
 中國四大發明 中国四大发明 [zhong1 guo2 si4 da4 fa1 ming2] {zung1 gwok3 sei3 daai6 faat3 ming4} /les quatre grandes inventions de la Chine antique/
-中國國家圖書館 中国国家图书馆 [zhong1 guo2 guo2 jia1 tu2 shu1 guan3] {zung1 gwok3 gwok3 gaa1 tou4 syu1 gun2} /la Bibliothèque nationale de Chine/
+中國國家圖書館 中国国家图书馆 [zhong1 guo2 guo2 jia1 tu2 shu1 guan3] {zung1 gwok3 gwok3 gaa1 tou4 syu1 gun2} /Bibliothèque nationale de Chine/
 中國大陸 中国大陆 [zhong1 guo2 da4 lu4] {zung1 gwok3 daai6 luk6} /la Chine continentale/
 中國字 中国字 [zhong1 guo2 zi4] {zung1 gwok3 zi6} /les caractères chinoises/
-中國政府 中国政府 [Zhong1 guo2 zheng4 fu3] {zung1 gwok3 zing3 fu2} /le gouvernement de la Chine/
-中國文化 中国文化 [zhong1 guo2 wen2 hua4] {zung1 gwok3 man4 faa3} /la culture chinoise/
-中國文學 中国文学 [Zhong1 guo2 wen2 xue2] {zung1 gwok3 man4 hok6} /la littérature chinoise/
+中國政府 中国政府 [Zhong1 guo2 zheng4 fu3] {zung1 gwok3 zing3 fu2} /gouvernement de la Chine/
+中國文化 中国文化 [zhong1 guo2 wen2 hua4] {zung1 gwok3 man4 faa3} /culture chinoise/
+中國文學 中国文学 [Zhong1 guo2 wen2 xue2] {zung1 gwok3 man4 hok6} /littérature chinoise/
 中國歷史 中国历史 [Zhong1 guo2 li4 shi3] {zung1 gwok3 lik6 si2} /l'histoire chinoise/
 中國石油天然氣股份有限公司 中国石油天然气股份有限公司 [zhong1 guo2 Shi2 you2 tian1 ran2 qi4 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 sek6 jau4 tin1 jin4 hei3 gu2 fan6 jau5 haan6 gung1 si1} /PetroChina Company Limited/
-中國網絡審查 中国网络审查 [zhong1 guo2 wang3 luo4 shen3 cha2] {zung1 gwok3 mong5 lok6 sam2 caa4} /la censure d'Internet en république populaire de Chine/
-中國語 中国语 [Zhong1 guo2 yu3] {zung1 gwok3 jyu5} /la langue chinoise/
+中國網絡審查 中国网络审查 [zhong1 guo2 wang3 luo4 shen3 cha2] {zung1 gwok3 mong5 lok6 sam2 caa4} /censure d'Internet en république populaire de Chine/
+中國語 中国语 [Zhong1 guo2 yu3] {zung1 gwok3 jyu5} /langue chinoise/
 中國象棋 中国象棋 [Zhong1 guo2 xiang4 qi2] {zung1 gwok3 zoeng6 kei4} /les echecs chinois/
-中國音樂 中国音乐 [Zhong1 guo2 yin1 yue4] {zung1 gwok3 jam1 ngok6} /la musique chinoise/
+中國音樂 中国音乐 [Zhong1 guo2 yin1 yue4] {zung1 gwok3 jam1 ngok6} /musique chinoise/
 中國香港 中国香港 [Zhong1 guo2 Xiang1 gang3] {zung1 gwok3 hoeng1 gong2} /Hong Kong, Chine/
 中坑 中坑 [zhong1 keng1] {zung1 haang1} /homme d'âge mûr/
-中堂 中堂 [zhong1 tang2] {zung1 tong4} /une région dans la ville de Dongguan, en Guangdong, Chine/
-中場休息 中场休息 [zhong1 chang3 xiu1 xi5] {zung1 coeng4 jau1 sik1} /l'entracte/la mi-temps/
+中堂 中堂 [zhong1 tang2] {zung1 tong4} /région dans la ville de Dongguan, en Guangdong, Chine/
+中場休息 中场休息 [zhong1 chang3 xiu1 xi5] {zung1 coeng4 jau1 sik1} /l'entracte/mi-temps/
 中大 中大 [Zhong1 Da4] {zung1 daai6} /l’université chinoise de Hong Kong/
-中央圖書館 中央图书馆 [zhong1 yang1 tu2 shu1 guan3] {zung1 joeng1 tou4 syu1 gun2} /la bibliothèque centrale de Hong Kong/
+中央圖書館 中央图书馆 [zhong1 yang1 tu2 shu1 guan3] {zung1 joeng1 tou4 syu1 gun2} /bibliothèque centrale de Hong Kong/
 中央處理器 中央处理器 [zhong1 yang1 chu3 li3 qi4] {zung1 joeng1 cyu2 lei5 hei3} /un processeur, ou une unité centrale de traitement/
 中女 中女 [zhong1 nü3] {zung1 neoi5} /femme d'âge mûr/
 中學 中学 [zhong1 xue2] {zung1 hok6} /Canada: secondaire; France: collège, lycée/
@@ -723,51 +724,51 @@
 中學雞 中学鸡 [zhong1 xue2 ji1] {zung1 hok6 gai1} /des étudiants de (secondaire, Can., lycée, collège, Fr.) qui sont immatures/qqn dont le niveau d'enseignement le plus élevé atteint est le (secondaire, Can., lycée, collège, Fr.)/
 中小 中小 [zhong1 xiao3] {zung1 siu2} /petit et moyen/
 中山路 中山路 [zhong1 shan1 Lu4] {zung1 saan1 lou6} /Zhong Shan Lu, un nom courant des rues en Chine/
-中州 中州 [zhong1 zhou1] {zung1 zau1} /une ancienne province située aux alentours de ce qui est maintenant la province de Henan/(litt.) les plaines centrales/
+中州 中州 [zhong1 zhou1] {zung1 zau1} /ancienne province située aux alentours de ce qui est maintenant la province de Henan/(litt.) les plaines centrales/
 中年人 中年人 [zhong1 nian2 ren2] {zung1 nin4 jan4} /les gens d'âge mûr/
-中庸之道 中庸之道 [zhong1 yong1 zhi1 dao4] {zung1 jung4 zi1 dou3} /le Zhong Yong, l'impartialité et l'invariabilité/
+中庸之道 中庸之道 [zhong1 yong1 zhi1 dao4] {zung1 jung4 zi1 dou3} /Zhong Yong, l'impartialité et l'invariabilité/
 中心 中心 [zhong1 xin1] {zung1 sam1} /centre commercial/place/
 中心內容 中心内容 [zhong1 xin1 nei4 rong2] {zung1 sam1 noi6 jung4} /l'idée principale (d'un livre, un article, un film, etc.)/
 中心思想 中心思想 [zhong1 xin1 si1 xiang3] {zung1 sam1 si1 soeng2} /l'idée principale (d'un livre, un article, un film, etc.)/
 中文大學 中文大学 [zhong1 wen2 da4 xue2] {zung1 man4 daai6 hok6} /université chinoise/
 中文字 中文字 [zhong1 wen2 zi4] {zung1 man4 zi6} /les caractères chinoises/
 中文數字 中文数字 [zhong1 wen2 shu4 zi4] {zung1 man4 sou3 zi6} /les numéros chinois/
-中文系 中文系 [zhong1 wen2 xi4] {zung1 man4 hai6} /le département de langue et littérature chinoise/
-中更 中更 [zhong1 geng1] {zung1 gang1} /le poste du milieu de la journée de travail (plutôt que le poste de matin ou le poste de nuit)/un titre des seigneurs chinois/un changement en plein milieu de qqch/
-中樂 中乐 [zhong1 yue4] {zung1 ngok6} /la musique chinoise/
+中文系 中文系 [zhong1 wen2 xi4] {zung1 man4 hai6} /département de langue et littérature chinoise/
+中更 中更 [zhong1 geng1] {zung1 gang1} /poste du milieu de la journée de travail (plutôt que le poste de matin ou le poste de nuit)/un titre des seigneurs chinois/changement en plein milieu de qqch/
+中樂 中乐 [zhong1 yue4] {zung1 ngok6} /musique chinoise/
 中檔 中档 [zhong1 dang4] {zung1 dong3} /milieu de gamme/
 中環中心 中环中心 [zhong1 huan2 zhong1 xin1] {zung1 waan4 zung1 sam1} /The Center, un gratte-ciel situé à Hong Kong/
-中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /le Central Plaza, un gratte-ciel situé à Hong Kong/
-中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /le Central Market, un site historique situé à Central, Hong Kong /
+中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /Central Plaza, un gratte-ciel situé à Hong Kong/
+中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /Central Market, un site historique situé à Central, Hong Kong /
 中用 中用 [zhong1 yong4] {zung1 jung6} /utile/
 中碼 中码 [zhong1 ma3] {zung1 maa5} /taille moyen (pour vêtements)/
 中立國家 中立国家 [zhong1 li4 guo2 jia1] {zung1 laap6 gwok3 gaa1} /État neutre/
 中等 中等 [zhong1 deng3] {zung1 dang2} /normal, moyen/au milieu/
 中美關係 中美关系 [Zhong1 Mei3 guan1 xi5] {zung1 mei5 gwaan1 hai6} /les relations sino-américaines/
 中美高 中美高 [zhong1 mei3 gao1] {zung1 mei5 gou1} /les techniques de pointe aux États-Unis et la China/
-中耕 中耕 [zhong1 geng1] {zung1 gaang1} /le labour entre deux rangées de plantes/
+中耕 中耕 [zhong1 geng1] {zung1 gaang1} /labour entre deux rangées de plantes/
 中肯 中肯 [zhong4 ken3] {zung3 hang2} /impartial, juste (pour parler d'une opinion)/
 中腦 中脑 [zhong1 nao3] {zung1 nou5} /mésencéphale, cerveau moyen/
-中英聯合聲明 中英联合声明 [Zhong1 Ying1 lian2 he2 sheng1 ming2] {zung1 jing1 lyun4 hap6 sing1 ming4} /la déclaration conjointe sino-britannique/
-中菜 中菜 [zhong1 cai4] {zung1 coi3} /la cuisine chinoise/
-中華人民共和國主席 中华人民共和国主席 [zhong1 hua2 ren2 min2 gong4 he2 guo2 zhu3 xi2] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 zyu2 zik6} /le président de la république populaire de Chine/
+中英聯合聲明 中英联合声明 [Zhong1 Ying1 lian2 he2 sheng1 ming2] {zung1 jing1 lyun4 hap6 sing1 ming4} /déclaration conjointe sino-britannique/
+中菜 中菜 [zhong1 cai4] {zung1 coi3} /cuisine chinoise/
+中華人民共和國主席 中华人民共和国主席 [zhong1 hua2 ren2 min2 gong4 he2 guo2 zhu3 xi2] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 zyu2 zik6} /président de la république populaire de Chine/
 中華人民共和國國務院 中华人民共和国国务院 [zhong1 hua2 zen2 min2 gong4 he2 guo2 guo2 wu4 yuan4] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 gwok3 mou6 jyun2} /Conseil des affaires de l’État de la république populaire de Chine/
 中華人民共和國國徽 中华人民共和国国徽 [zhong1 hua2 ren2 min2 gong4 he2 guo2 guo2 hui1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 gwok3 fai1} /l'emblème de la république populaire de Chine/
-中華人民共和國香港特別行政區 中华人民共和国香港特别行政区 [Zhong1 hua2 Ren2 min2 Gong4 he2 guo2 Xiang1 gang3 Te4 bie2 Xing2 zheng4 qu1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 hoeng1 gong2 dak6 bit6 hang4 zing3 keoi1} /la région administrative spéciale de Hong Kong de la République populaire de Chine/
+中華人民共和國香港特別行政區 中华人民共和国香港特别行政区 [Zhong1 hua2 Ren2 min2 Gong4 he2 guo2 Xiang1 gang3 Te4 bie2 Xing2 zheng4 qu1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 hoeng1 gong2 dak6 bit6 hang4 zing3 keoi1} /région administrative spéciale de Hong Kong de la République populaire de Chine/
 中華巴士 中华巴士 [Zhong1 hua2 ba1 shi4] {zung1 waa4 baa1 si6} /China Motor Bus/
 中華民族 中华民族 [Zhong1hua2min2zu2] {zung1 waa4 man4 zuk6} /la nation chinoise/
-中華白海豚 中华白海豚 [Zhong1 hua2 bai2 hai3 tun2] {zung1 waa4 baak6 hoi2 tyun4} /le dauphin à bosse du Pacifique/
+中華白海豚 中华白海豚 [Zhong1 hua2 bai2 hai3 tun2] {zung1 waa4 baak6 hoi2 tyun4} /dauphin à bosse du Pacifique/
 中華航空 中华航空 [Zhong1 hua2 Hang2 kong1] {zung1 waa4 hong4 hung1} /China Airlines/
-中華英雄 中华英雄 [Zhong1 hua2 ying1 xiong2] {zung1 waa4 jing1 hung4} /Chinese Hero: Tales of the Blood Sword, un manhua - bande dessinée en Chine - publié de 1980-1995/
+中華英雄 中华英雄 [Zhong1 hua2 ying1 xiong2] {zung1 waa4 jing1 hung4} /Chinese Hero: Tales of the Blood Sword, un manhua - bande dessinée en Chine - publié de 1980 à 1995/
 中蛇 中蛇 [zhong1 she2] {zung3 se4} /réussir un coup monté/(litt.) frapper un serpent/
 中褸 中褛 [zhong1 lü3] {zung1 lau1} /pardessus, manteau/
 中資集團 中资集团 [zhong1 zi1 ji2 tuan2] {zung1 zi1 zaap6 tyun4} /entreprises financées par la Chine/
 中途宿舍 中途宿舍 [zhong1 tu2 su4 she4] {zung1 tou4 suk1 se3} /Half-way house/
 中部國際機場 中部国际机场 [zhong1 bu4 guo2 ji4 ji1 chang3] {zung1 bou6 gwok3 zai3 gei1 coeng4} /l'aéroport international du Chūbu, situé au Japon/
-中醫藥 中医药 [Zhong1 yi1 yao4] {zung1 ji1 joek6} /la médecine traditionnelle chinoise/
-中銀大廈 中银大厦 [Zhong1 Yin2 da4 sha4] {zung1 ngan4 daai6 haa6} /la tour de la Bank of China/
+中醫藥 中医药 [Zhong1 yi1 yao4] {zung1 ji1 joek6} /médecine traditionnelle chinoise/
+中銀大廈 中银大厦 [Zhong1 Yin2 da4 sha4] {zung1 ngan4 daai6 haa6} /tour de la Bank of China/
 中間人 中间人 [zhong1 jian1 ren2] {zung1 gaan1 jan4} /intermédiaire (une personne, e.g qqn qui sert d'intermédiaire)/
-中間界 中间界 [zhong1 jian1 jie4] {zung1 gaan1 gaais3} /une raie au milieu/
+中間界 中间界 [zhong1 jian1 jie4] {zung1 gaan1 gaais3} /raie au milieu/
 中電 中电 [zhong4 dian4] {zung1 din6} /CLP Power Hong Kong Limited/
 中頻 中频 [zhong1 pin2] {zung1 pan4} /(onde de) fréquence moyenne/canal de transmission moyenne/
 中飛 中飞 [zhong1 fei1] {zung3 fei1} /hors-bord de puissance moyenne/
@@ -779,7 +780,7 @@
 串講 串讲 [chuan4 jiang3] {cyun3 gong2} /éxpliquer, résumer/
 丸仔 丸仔 [wan2 zi3] {jyun2 zai2} /pilules, comprimés (souvent pour désigner les drogues)/
 丹墀 丹墀 [dan1 chi2] {daan1 ci4} /les marches à l'entrée à un palais chinois/
-丹尼士巨龍 丹尼士巨龙 [dan1 ni2 shi4 ju4 long2] {daan1 nei4 si6 geoi6 lung4} /le Dennis Dragon, un modèle d'autobus manufacturé par la compagnie Dennis/
+丹尼士巨龍 丹尼士巨龙 [dan1 ni2 shi4 ju4 long2] {daan1 nei4 si6 geoi6 lung4} /Dennis Dragon, un modèle d'autobus manufacturé par la compagnie Dennis/
 主人房 主人房 [zhu3 ren2 fang2] {zyu2 jan4 fong2} /grande chambre, chambre principale/
 主任 主任 [zhu3 ren4] {zyu2 jam6} /superviseur, responsable/
 主使 主使 [zhu3 shi3] {zyu2 si2} /inciter, ordonner/
@@ -797,7 +798,7 @@
 主教山 主教山 [zhu3 jiao4 shan1] {zyu2 gaau3 saan1} /Penha Hill, un colline située à Macau/
 主旨 主旨 [zhu3 zhi3] {zyu2 zi2} /sujet/thème/
 主根 主根 [zhu3 gen1] {zyu2 gan1} /racine principale/
-主次 主次 [zhu3 ci4] {zyu2 ci3} /le principal et les autres moins importants/(litt.) primaire et secondaire/
+主次 主次 [zhu3 ci4] {zyu2 ci3} /le plus important et les autres/(litt.) primaire et secondaire/
 主治 主治 [zhu3 zhi4] {zyu2 zi6} /médecin agréé/(un médicament qui) cible ou qui guérit (qcch)/
 主禮 主礼 [zhu3 li3] {zyu2 lai5} /officier, célébrer (qqch)/
 主筆 主笔 [zhu3 bi3] {zyu2 bat1} /rédacteur, rédatrice en chef/
@@ -818,24 +819,24 @@
 之不過 之不过 [zhi1 bu5 guo4] {zi1 bat1 gwo3} /mais, toutefois/
 之但係 之但系 [zhi1 dan4 xi4] {zi1 daan6 hai6} /mais, toutefois/
 之先 之先 [zhi1 xian1] {zi1 sin1} /il y a longtemps, jadis/droit devant/
-之嘛 之嘛 [zhi1 ma5] {zi1 maa3} /une particule modale utilisé pour démontrer l'insignifiance de qqch dite, comme «c'est juste...», «ce n'est que», «..., c'est tout.»/
+之嘛 之嘛 [zhi1 ma5] {zi1 maa3} /particule modale utilisé pour démontrer l'insignifiance de qqch dite, comme «c'est juste...», «ce n'est que», «..., c'est tout.»/
 之字線 之字线 [zhi1 zi4 xian4] {zi1 zi6 sin3} /zigzag/
 之餘 之余 [zhi1 yu2] {zi1 jyu4} /sauf, mis à part (qqch)/
 尹光 尹光 [yin3 guang1] {wan5 gwong1} /Jackson Wan Kwong une chanteuse Hongkongaise/
 尹天照 尹天照 [yin3 tian1 zhao4] {wan5 tin1 ziu3} /Eric Wan Tin-Chiu, un acteur Hongkongais/
 尹揚明 尹扬明 [yin3 yang2 ming2] {wan5 joeng4 ming4} /Vincent Wan Yeung-Ming, un acteur Hongkongais/
 乍到 乍到 [zha4 dao4] {zaa3 dou3} /récemment arrivé/
-乍暖還寒 乍暖还寒 [zha4 nuan3 huan2 han2] {zaa3 nyun5 waan4 hon4} /une variation de température soudaine lors de la période entre l'hiver et le printemps/
+乍暖還寒 乍暖还寒 [zha4 nuan3 huan2 han2] {zaa3 nyun5 waan4 hon4} /variation de température soudaine lors de la période entre l'hiver et le printemps/
 乏人問津 乏人问津 [fa2 ren2 wen4 jin1] {fat6 jan4 man6 zeon1} /qui ne suscite pas d'intérêt/(litt.) peu de personnes qui demandent (à propos de qqch)/
 乏善足陳 乏善足陈 [fa2 shan4 zu2 chen2] {fat6 sin6 zuk1 can4} /n'avoir que de critiques à offrir/rien de bon/
 乒乒乓乓 乒乒乓乓 [ping1 ping5 pang1 pang1] {ping1 ping1 pong1 pong1} /onomatopée pour quelque chose rebondit/
-乒乓波 乒乓波 [ping1 pang1 bo1] {bing1 bam1 bo1} /une balle de ping-pong/
+乒乓波 乒乓波 [ping1 pang1 bo1] {bing1 bam1 bo1} /balle de ping-pong/
 乒鈴𠾴唥 乒鈴𠾴唥 [] {ping1 ling1 baang4 laang4} /onomatopée pour quelque chose qui tombe/
 乖乖 乖乖 [guai1 guai5] {gwaai1 gwaai1} /sage, bien-élevé (pour parler d'enfants)/
 乖乖仔 乖乖仔 [guai1 guai5 zi3] {gwaai1 gwaai1 zai2} /un fils sage/
-乖乖女 乖乖女 [guai1 guai5 nü3] {gwaai1 gwaai1 neoi5} /une fille sage/
+乖乖女 乖乖女 [guai1 guai5 nü3] {gwaai1 gwaai1 neoi5} /fille sage/
 乖仔 乖仔 [guai1 zi3] {gwaai1 zai2} /un fils sage, un fils bien-élevé/
-乖女 乖女 [guai1 nü3] {gwaai1 neoi5} /une fille sage, une fille bien-élevé/
+乖女 乖女 [guai1 nü3] {gwaai1 neoi5} /fille sage, fille bien-élevé/
 乖舛 乖舛 [guai1 chuan3] {gwaai1 cyun2} /malheureux/erroné/
 乖豬 乖猪 [guai1 zhu1] {gwaai1 zyu1} /(utilisé pour dire à qqn qu'il est) bien élevé/(litt.) cochon sage/
 乘搭 乘搭 [cheng2 da1] {sing4 daap3} /prendre (un mode de transport, e.g. un bus, un train, etc)/
@@ -856,7 +857,7 @@
 乜都假 乜都假 [mie1 dou1 jia3] {mat1 dou1 gaa2} /inévitable, n'y pouvoir rien faire/c'est tout faux! c'est tout une imitation! (en parlant d'objets)/ne pas abandonner, ne pas perdre l'espoir/mais ce n'est pas possible!/
 乜都得 乜都得 [mie1 dou1 de5] {mat1 dou1 dak1} /tout est possible/n'importe lequel/
 乜野 乜野 [mie1 ye3] {me1 je5} /quoi?/hein?/tous (en parlant d'une catégorie de choses)/
-乜頭乜路 乜头乜路 [mie1 tou2 mie1 lu4] {mat1 tau4 mat1 lou6} /une personne ou un groupe inconnu/
+乜頭乜路 乜头乜路 [mie1 tou2 mie1 lu4] {mat1 tau4 mat1 lou6} /personne ou groupe inconnu/
 乜鬼 乜鬼 [mie1 gui3] {mat1 gwai2} /(pour exprimer exaspération) mais qu'est-ce que.../
 九 九 [jiu3] {gau2} /connard, salaud (vulgaire)/
 九七年 九七年 [jiu3 qi1 nian2] {gau2 cat1 nin4} /l'année 1997/
@@ -870,30 +871,30 @@
 九因歌 九因歌 [jiu3 yin1 ge1] {gau2 jan1 go1} /poème de table de multiplication chinoise, un moyen mnémotechnique/
 九大簋 九大簋 [Jiu3 da4 gui3] {gau2 daai6 gwai2} /un festin, un repas qui contient neuf plats/
 九子連環 九子连环 [jiu3 zi3 lian2 huan2] {gau2 zi2 lin4 waan4} /un type de main gagnante dans le jeu de mah-jong/
-九宮格 九宫格 [jiu3 gong1 ge2] {gau2 gung1 gaak3} /une grille de neuf carrés/le sudoku/
-九廣西鐵 九广西铁 [jiu3 Guang3 xi1 tie3] {gau2 gwong2 sai1 tit3} /la ligne du Réseau Ouest KCR, maintenant connu sous le nom de la ligne du Réseau Ouest (西鐵綫, 西铁线)/
-九廣鐵路 九广铁路 [jiu3 guang3 tie3 lu4] {gau2 gwong2 tit3 lou6} /le Kowloon-Canton Railway/
-九廣鐵路公司 九广铁路公司 [jiu3 guang3 tie3 lu4 gong1 si1] {gau2 gwong2 tit3 lou6 gung1 si1} /le Kowloon-Canton Railway Corporation/
+九宮格 九宫格 [jiu3 gong1 ge2] {gau2 gung1 gaak3} /grille de neuf carrés/sudoku/
+九廣西鐵 九广西铁 [jiu3 Guang3 xi1 tie3] {gau2 gwong2 sai1 tit3} /ligne du Réseau Ouest KCR, maintenant connu sous le nom de la ligne du Réseau Ouest (西鐵綫, 西铁线)/
+九廣鐵路 九广铁路 [jiu3 guang3 tie3 lu4] {gau2 gwong2 tit3 lou6} /Kowloon-Canton Railway/
+九廣鐵路公司 九广铁路公司 [jiu3 guang3 tie3 lu4 gong1 si1] {gau2 gwong2 tit3 lou6 gung1 si1} /Kowloon-Canton Railway Corporation/
 九廿幾 九廿几 [jiu3 nian4 ji3] {gau2 jaa6 gei2} /environ quatre-vingt-dix/
 九成九 九成九 [jiu3 cheng2 jiu3] {gau2 sing4 gau2} /très probable/quatre-vingt-dix-neuf pourcent/
 九方輸入法 九方输入法 [jiu3 fang1 shu1 ru4 fa3] {gau2 fong1 syu1 jap6 faat3} /méthode de saisie Q9/
 九族 九族 [jiu3 zu2] {gau2 zuk6} /neuf générations d'une famille/
 九日 九日 [jiu3 ri4] {gau2 jat6} /neuf jours/le neuvième jour d'un mois/
-九曲十三彎 九曲十三弯 [jiu3 qu1 shi2 san1 wan1] {gau2 kuk1 sap6 saam1 waan1} /une voie très sinueuse/(litt.) neuf coudes, treize courbes/
+九曲十三彎 九曲十三弯 [jiu3 qu1 shi2 san1 wan1] {gau2 kuk1 sap6 saam1 waan1} /voie très sinueuse/(litt.) neuf coudes, treize courbes/
 九江煎堆 九江煎堆 [jiu3 jiang1 jian1 dui1] {gau2 gong1 zin1 deoi1} /Jiujiang jian dui, une patisserie chinoise frite/
-九肚魚 九肚鱼 [jiu3 du4 yu2] {gau2 tou5 jyu4} /une espèce de poisson-lézard, Harpadon nehereus/
+九肚魚 九肚鱼 [jiu3 du4 yu2] {gau2 tou5 jyu4} /espèce de poisson-lézard, Harpadon nehereus/
 九針群島 九针群岛 [jiu3 zhen1 qun2 dao3] {gau2 zam1 kwan4 dou2} /les îles Ninepin, situées à Hong Kong/
-九鐵 九铁 [jiu3 tie3] {gau2 tit3} /le Kowloon-Canton Railway/
+九鐵 九铁 [jiu3 tie3] {gau2 tit3} /Kowloon-Canton Railway/
 九點鐘 九点钟 [jiu3 dian3 zhong1] {gau2 dim2 zung1} /neuf heures (e.g. du matin)/
 九龍公園 九龙公园 [Jiu3 long2 gong1 yuan2] {gau2 lung4 gung1 jyun4} /Parc Kowloon/
-九龍城區 九龙城区 [Jiu3 long2 cheng2 qu1] {gau2 lung4 sing4 keoi1} /le district de Kowloon City/
+九龍城區 九龙城区 [Jiu3 long2 cheng2 qu1] {gau2 lung4 sing4 keoi1} /district de Kowloon City/
 九龍城寨公園 九龙城寨公园 [Jiu3 long2 Cheng2 zhai4 gong1 yuan2] {gau2 lung4 sing4 zaai6 gung1 jyun4} /Parc de la Ville fortifiée de Kowloon/
 九龍塘 九龙塘 [Jiu3 long2 tang2] {gau2 lung4 tong4} /Kowloon Tong, une région située à Kowloon, Hong Kong/
-九龍山 九龙山 [jiu3 long2 shan1] {gau2 lung4 saan1} /la montagne Kowloon, qui n'existe plus/
+九龍山 九龙山 [jiu3 long2 shan1] {gau2 lung4 saan1} /montagne Kowloon, qui n'existe plus/
 九龍巴士 九龙巴士 [Jiu3 long2 ba1 shi4] {gau2 lung4 baa1 si6} /The Kowloon Motor Bus Company (1933) Limited/
 九龍水塘 九龙水塘 [Jiu3 long2 shui3 tang2] {gau2 lung4 seoi2 tong4} /lac de barrage de Kowloon/
-九龍清真寺 九龙清真寺 [Jiu3 long2 Qing1 zhen1 si4] {gau2 lung4 cing1 zan1 zi6} /le Kowloon Masjid and Islamic Centre, une des cinq mosqués principales en Hong Kong/
-九龍灣 九龙湾 [jiu3 long2 wan1] {gau2 lung4 waan1} /la Baie de Kowloon/
+九龍清真寺 九龙清真寺 [Jiu3 long2 Qing1 zhen1 si4] {gau2 lung4 cing1 zan1 zi6} /Kowloon Masjid and Islamic Centre, une des cinq mosqués principales en Hong Kong/
+九龍灣 九龙湾 [jiu3 long2 wan1] {gau2 lung4 waan1} /Baie de Kowloon/
 九龍醫院 九龙医院 [Jiu3 long2 yi1 yuan4] {gau2 lung4 ji1 jyun2} /Kowloon Hospital/
 乞人憎 乞人憎 [qi3 ren2 zeng1] {hat1 jan4 zang1} /méprisable, dégoûtant/(litt.) agir comme s'il un mendiant, demandait qu'on le déteste/
 乞兒相 乞儿相 [qi3 er2 xiang4] {hat1 ji4 soeng3} /avoir l'air d'un mendiant/
@@ -906,13 +907,13 @@
 也好 也好 [ye3 hao3] {jaa5 hou2} /aussi bon, également bon/
 也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /frimer, exhiber/
 也是 也是 [ye3 shi4] {jaa5 si6} /aussi, également/
-也與 也与 [ye3 yu3] {jaa5 jyu5} /une expression qui exprime de doute, discutable/
+也與 也与 [ye3 yu3] {jaa5 jyu5} /expression qui exprime de doute, discutable/
 乳名 乳名 [ru3 ming2] {jyu5 meng2} /surnom, sobriquet/
 乳糖消化不良 乳糖消化不良 [ru3 tang2 xiao1 hua4 bu4 liang2] {jyu5 tong4 siu1 faa3 bat1 loeng4} /intolérance au lactose/
 乳餅 乳饼 [ru3 bing3] {jyu5 beng2} /Rubing, un fromage de chèvre/
 乳鴿 乳鸽 [ru3 ge1] {jyu5 gaap3} /un pigeon, pigeonneau/
 乳齒象 乳齿象 [ru3 chi3 xiang4] {jyu5 ci2 zoeng6} /un mammut, des mastodontes/
-乸 乸 [na3] {naa2} /une femme/une épouse/
+乸 乸 [na3] {naa2} /femme/épouse/
 乸型 乸型 [na2 xing2] {naa2 jing4} /un homme efféminé (pej.)/
 乸聲乸氣 乸声乸气 [na2 sheng1 na2 qi4] {naa2 seng1 naa2 hei3} /un homme efféminé (pej.)/(litt.) sons de femme, air de femme/
 乸脷 乸脷 [na2 li4] {naa2 lei6} /très coûteux, très cher/qqn désagréable/(litt.) qui pique la langue, voir aussi (揦脷)/
@@ -926,7 +927,7 @@
 乾手淨腳 干手淨脚 [gan1 shou3 cheng2 jiao3] {gon1 sau2 zeng6 goek3} /sans soucis, le sentiment de savoir que tout est réglé/(litt.) mains propres, pieds propres/
 乾時緊月 干时紧月 [gan1 shi2 jin3 yue4] {gon1 si4 gan2 jyut6} /nerveux(euse)/
 乾柴烈火 干柴烈火 [gan1 chai2 lie4 huo3] {gon1 caai4 lit6 fo2} /un couple excité, qui veut coucher ensemble/(litt.) bois sec, feu vif/
-乾水 干水 [gan1 shui3] {gon1 seoi2} /le jeu de mah-jong/une soupe bouillie tellement longtemps que peu de liquide reste/
+乾水 干水 [gan1 shui3] {gon1 seoi2} /jeu de mah-jong/soupe bouillie tellement longtemps que peu de liquide reste/
 乾洗店 干洗店 [gan1 xi3 dian4] {gon1 sai2 dim3} /un pressing/
 乾淨企理 干净企理 [gan1 jing4 qi3 li3] {gon1 zeng6 kei5 lei5} /propre et rangé/
 乾濕褸 干湿褛 [gan1 shi1 lü3] {gon1 sap1 lau1} /un trench-coat/
@@ -934,7 +935,7 @@
 乾炒牛河 干炒牛河 [gan1 chao3 niu2 he2] {gon1 caau2 ngau4 ho4} /chow fun au boeuf, un plat cantonais à base de sauté de boeuf, de hor fun (nouilles de riz) et de pousses de haricot mungo/
 乾燒伊麵 干烧伊面 [gan1 shao1 yi1 mian4] {gon1 siu1 ji1 min6} /nouilles frites «yi mein»/
 乾爭爭 干争争 [gan1 zheng1 zheng1] {gon1 zang1 zang1} /(un aliment) sec et dur/
-乾瑤柱 干瑶柱 [gan1 yao2 zhu4] {gon1 jiu4 cyu5} /le conpoy, le pétoncle séché/
+乾瑤柱 干瑶柱 [gan1 yao2 zhu4] {gon1 jiu4 cyu5} /conpoy, pétoncle séché/
 乾萌萌 干萌萌 [gan1 meng2 meng2] {gon1 mang4 mang4} /(un aliment) sec et dur/
 乾衣機 干衣机 [gan1 yi1 ji1] {gon1 ji1 gei1} /sèche-linge, séchoir/
 乾電 干电 [gan1 dian4] {gon1 din6} /courant continu/
@@ -951,7 +952,7 @@
 亂噏 乱噏 [luan4 xi1] {lyun2 ngap1} /dire des bêtises, bredouiller n'importe quoi/
 亂噏廿四 乱噏廿四 [luan4 xi1 nian4 si4] {lyun6 ngap1 jaa6 sei3} /dire des bêtises, bredouiller n'importe quoi/
 亂嚟 乱嚟 [luan4 li2] {lyun2 lei4} /(faire qqch) imprudemment, sans y réféchir/(faire qqch) d'une manière désorganisée/
-亂子 乱子 [luan4 zi5] {lyun6 zi2} /une dispute, des difficultés/
+亂子 乱子 [luan4 zi5] {lyun6 zi2} /dispute, difficultés/
 亂揈 乱轰 [luan4 hong1] {lyun6 gwang1} /dépenser trop d'argent/
 亂晒坑 乱晒坑 [luan4 shai4 keng1] {lyun6 saai3 haang1} /mettre (qqch) en désordre/en désordre, désorganisé/chaotique
 亂晒籠 乱晒笼 [luan4 shai4 long2] {lyun6 saai3 lung4} /en désordre, désorganisé/chaotique/
@@ -969,19 +970,19 @@
 了不得 了不得 [liao3 bu5 de5] {liu5 bat1 dak1} /fantastique, extraordinaire/
 了哥 了哥 [liao3 ge1] {liu1 go1} /maintes, un type d'oiseau/
 了望 了望 [liao4 wang4] {liu5 mong6} /regarder d'en haut/
-事 事 [shi4] {si6} /une affaire, un problème/
+事 事 [shi4] {si6} /affaire/problème/
 事不關己，己不勞心 事不关己，己不劳心 [shi4 bu4 guan1 ji3, ji3 bu4 lao2 xin1] {si6 bat1 gwaan1 gei2, gei2 bat1 lou4 sam1} /ne pas se soucier des affaires des autres/(litt.) si cela ne me regarde pas, je ne devrais pas m'inquiéter/
 事主 事主 [shi4 zhu3] {si6 zyu2} /victime (de crime, d'un accident)/
 事乾 事干 [shi4 gan1] {si6 gon1} /utilisé dans une phrase pour demander pourquoi, e.g. «你搵我乜事幹» ou «你搵我乜事干», pourquoi me cherches-tu?/
 事先 事先 [shi4 xian1] {si6 sin1} /devant, avant, à l'avance (temps)/
 事出有因 事出有因 [shi4 chu1 you3 yin1] {si6 ceot1 jau5 jan1} /tout arrive pour une raison/
-事實 事实 [shi4 shi2] {si6 sat6} /la réalité, la vérité/
-事幹 事干 [shi4 gan4] {si6 gon3} /une question (de qqch), une affaire/utilisé pour demander «qu'est-ce qu'il y a?» ou «pourquoi?»/
+事實 事实 [shi4 shi2] {si6 sat6} /réalité, vérité/
+事幹 事干 [shi4 gan4] {si6 gon3} /une question (de qqch), affaire/utilisé pour demander «qu'est-ce qu'il y a?» ou «pourquoi?»/
 事後孔明 事后孔明 [shi4 hou4 Kong3 ming2] {si6 hau6 hung2 ming4} /recul, après coup, rétrospective/
 事急馬行田 事急马行田 [shi4 ji2 ma3 xing2 tian2] {si6 gap1 maa5 haang4 tin4} /adaptable, flexible, être réactif (orig.) habituellement, le cheval se déplace en forme de 日; se déplacer en 田 est illégal. /(litt.) dans une situation d'urgence, le cheval se déplace en 田/
 事發 事发 [shi4 fa1] {si6 faat3} /un incident qui s'est produit/
-事頭 事头 [shi4 tou2] {si6 tau2} /le patron ou chef (pour hommes seulement)/
-事頭婆 事头婆 [shi4 tou2 po2] {si6 tau4 po4} /la patronne ou cheffe (pour femmes seulement)/un terme qui désigne la reine du Royaume-Uni, actuellement Élisabeth II/
+事頭 事头 [shi4 tou2] {si6 tau2} /patron ou chef (pour hommes seulement)/
+事頭婆 事头婆 [shi4 tou2 po2] {si6 tau4 po4} /patronne ou cheffe (pour femmes seulement)/terme qui désigne la reine du Royaume-Uni, actuellement Élisabeth II/
 二世祖 二世祖 [er4 shi4 zu3] {ji6 sai3 zou2} /héritier, héritière, fils ou fille des riches/
 二五仔 二五仔 [er4 wu3 zi3] {ji6 ng5 zai2} /traître, taupe, informateur (orig.) un moine de septième rang (2 + 5) nommé Ma Ling-yee qui a trahi son village/(litt.) un enfant deux-cinq/
 二仔底 二仔底 [er4 zi3 di3] {ji6 zi2 dai2} /qqn collant/qqn qui n'est pas préparé, incapable, incompétent/
@@ -1002,11 +1003,11 @@
 二千 二千 [er4 qian1] {ji6 cin1} /deux mille/
 二叔 二叔 [er4 shu2] {ji6 suk1} /deuxième oncle, qui est plus âgé que le père/
 二叔公 二叔公 [er4 shu1 gong1] {ji6 suk1 gung1} /grand-oncle, qui est plus jeune que le grand-père/prêteur sur gages (pej.)/
-二叔婆 二叔婆 [er4 shu1 po2] {ji6 suk1 po4} /la femme d'un grand-oncle qui est plus jeune que le grand-père/
+二叔婆 二叔婆 [er4 shu1 po2] {ji6 suk1 po4} /femme d'un grand-oncle qui est plus jeune que le grand-père/
 二奶仔 二奶仔 [er4 nai3 zi3] {ji6 naai zai2} /maîtresse/quelqu'un qui est victime de discrimination/enfant illégitime/(litt.) enfant d'une maîtresse/
 二奶命 二奶命 [er4 nai3 ming4] {ji6 naai1 meng6} /destiné à être traîté de seconde zone/(litt.) la vie d'une maîtresse/
 二手市場 二手市场 [er4 shou3 shi4 chang3] {ji6 sau2 si5 coeng4} /marché d'occasion, marché de seconde/
-二打六 二打六 [er4 da3 liu4] {ji6 daa2 luk6} /une personne de statut inférieur/une personne incompétente/un subalterne/un figurant (dans un film)/(orig.) huit taels font un demi Catty, qui n'est pas assez de poids/(litt.) deux et six taels font huit taels/
+二打六 二打六 [er4 da3 liu4] {ji6 daa2 luk6} /personne de statut inférieur/personne incompétente/subalterne/figurant (dans un film)/(orig.) huit taels font un demi Catty, qui n'est pas assez de poids/(litt.) deux et six taels font huit taels/
 二撇雞 二撇鸡 [er4 pie1 ji1] {ji6 pit3 gai1} /moustache séparée au centre, comme le caractère 八 (voir 八字鬍子, 八字胡子)/(litt.) deux traits de poulet/
 二日 二日 [er4 ri4] {ji6 jat6} /deux jours/deuxième jour d'un mois/
 二毫 二毫 [er4 hao2] {ji6 hou4} /vingt centimes/
@@ -1015,10 +1016,10 @@
 二進位 二进位 [er4 jin4 wei4] {ji6 zeon3 wai2} /binaire/
 二進位制 二进位制 [er4 jin4 wei4 zhi4] {ji6 zeon3 wai2 zai3} /système binaire/
 二點鐘 二点钟 [er4 dian3 zhong1] {ji6 dim2 zung1} /deux heures (e.g. du matin)/
-于思 于思 [yu2 sai1] {jyu1 si1} /une moustache épaisse/
-互市 互市 [hu4 shi4] {wu6 si5} /la commerce entre la Chine et les autres nations ou tribus pendant la période antique/
+于思 于思 [yu2 sai1] {jyu1 si1} /moustache épaisse/
+互市 互市 [hu4 shi4] {wu6 si5} /commerce entre la Chine et les autres nations ou tribus pendant la période antique/
 互相幫助 互相帮助 [hu4 xiang1 bang1 zhu4] {wu6 soeng1 bong1 zo6} /s'entraider/
-互聯網協議 互联网协议 [hu4 lian2 wang3 xie2 yi4] {wu6 lyun4 mong5 hip3 ji5} /le «Internet Protocol», protocole Internet/
+互聯網協議 互联网协议 [hu4 lian2 wang3 xie2 yi4] {wu6 lyun4 mong5 hip3 ji5} /«Internet Protocol», le protocole Internet/
 五一勞動節 五一劳动节 [wu3 yi1 lao2 dong4 jie2] {ng5 jat1 lou4 dung6 zit3} /fête du Travail du premier mai/
 五五波 五五波 [wu3 wu3 bo1] {ng5 ng5 bo1} /une chance sur deux/
 五個字 五个字 [wu3 ge4 zi4] {ng5 go3 zi6} /cinq caractères ou mots/vingt-cinq minutes/
@@ -1027,7 +1028,7 @@
 五千 五千 [wu3 qian1] {ng5 cin1} /cinq mille/
 五味架 五味架 [wu3 wei4 jia4] {ng5 mei6 gaa2} /ménagère de table, un ensemble de petits récipients/(litt.) étagère à cinq saveurs/
 五山 五山 [Wu3 Shan1] {ng5 saan1} /Wushan, un endroit situé à Guangzhou, Chine/
-五山站 五山站 [Wu3 Shan1 zhan4] {ng5 saan1 zaam6} /la station Wushan- un endroit situé à Guangzhou, Chine/
+五山站 五山站 [Wu3 Shan1 zhan4] {ng5 saan1 zaam6} /station Wushan, un endroit situé à Guangzhou, Chine/
 五年 五年 [wu3 nian2] {ng5 nin4} /cinq ans/
 五指 五指 [wu3 zhi3] {ng5 zi2} /cinq doigts/
 五日 五日 [Wu3 ri4] {ng5 jat6} /cinq jours/le cinquième jour d'un mois/
@@ -1047,36 +1048,36 @@
 五行欠水 五行欠水 [wu3 xing2 qian4 shui3] {ng5 hang4 him3 seoi2} /ne pas avoir d'argent/
 五行缺水 五行缺水 [wu3 xing2 que1 shui3] {ng5 hang4 kyut3 seoi2} /ne pas avoir d'argent/
 五邑 五邑 [wu3 yi4] {ng5 jap1} /Wuyi, une région située dans le delta de la rivière des Perles, et qui inclue les cinq comptés de Heshan, Xinhui, Taishan, Kaiping, et Enping/
-五金舖 五金铺 [wu3 jin1 pu4] {ng5 gam1 pou3} /une quincaillerie/(litt.) magasin de cinq métaux/
-五金鋪 五金铺 [wu3 jin1 pu4] {ng5 gam1 pou3} /une quincaillerie/(litt.) magasin de cinq métaux/
+五金舖 五金铺 [wu3 jin1 pu4] {ng5 gam1 pou3} /quincaillerie/(litt.) magasin de cinq métaux/
+五金鋪 五金铺 [wu3 jin1 pu4] {ng5 gam1 pou3} /quincaillerie/(litt.) magasin de cinq métaux/
 五顏六色 五颜六色 [wu3 yan2 liu4 se4] {ng5 ngaan4 luk6 sik1} /coloré/multicolore/
-五餅二魚 五饼二鱼 [wu3 bing3 er4 yu2] {ng5 beng2 ji6 jyu4} /une histoire de la bible, dans laquelle Jésus nourrit cinq mille personnes avec cinq miches de pain et deux poissons/(litt.) cinq miches de pain et deux poissons/
+五餅二魚 五饼二鱼 [wu3 bing3 er4 yu2] {ng5 beng2 ji6 jyu4} /histoire de la bible, dans laquelle Jésus nourrit cinq mille personnes avec cinq miches de pain et deux poissons/(litt.) cinq miches de pain et deux poissons/
 五馬分屍 五马分尸 [wu3 ma3 fen1 shi1] {ng5 maa5 fan1 si1} /être équarri (démembré puis décapité) (orig.) de l'anglais «drawn and quartered», un châtiment pour les crimes de haute trahison/(litt.) cinq chevaux pour déchirer/
 五點鐘 五点钟 [wu3 dian3 zhong1] {ng5 dim2 zung1} /cinq heures (e.g. du matin)/
-井底之蛙 井底之蛙 [jing3 di3 zhi1 wa1] {zeng2 dai2 zi1 waa1} /une personne ignorante/(litt.) une grenouille au fond d'un puits/
-井欄 井栏 [jing3 lan2] {zeng2 laan4} /la tête de puits/une véhicule utilisé sur les champs de bataille dans la Chine antique/
+井底之蛙 井底之蛙 [jing3 di3 zhi1 wa1] {zeng2 dai2 zi1 waa1} /personne ignorante/(litt.) une grenouille au fond d'un puits/
+井欄 井栏 [jing3 lan2] {zeng2 laan4} /tête de puits/véhicule utilisé sur les champs de bataille dans la Chine antique/
 井水 井水 [jing3 shui3] {zeng2 seoi2} /eau de puits/
 井鹽 井盐 [jing3 yan2] {zeng2 jim4} /sel de puits/
 些少 些少 [xie1 shao3] {se1 siu2} /un peu/
 些微 些微 [xie1 wei1] {se1 mei4} /un petit peu/
-亞仔 亚仔 [ya4 zi3] {aa3 zai2} /fiston, fils/un petit garçon/
+亞仔 亚仔 [ya4 zi3] {aa3 zai2} /fiston, fils/petit garçon/
 亞太地區 亚太地区 [Ya4 Tai4 Di4 qu1] {aa3 taai3 dei6 keoi1} /l'Asie-Pacifique/
-亞奀 亚奀 [ya4 di2] {aa3 ngan1} /une petite personne maigre (pour enfants)/une personne émaciée/
-亞女 亚女 [ya4 nü3] {aa3 neoi5} /fistonne, fille/une petite fille/
+亞奀 亚奀 [ya4 di2] {aa3 ngan1} /petite personne maigre (pour enfants)/personne émaciée/
+亞女 亚女 [ya4 nü3] {aa3 neoi5} /fistonne, fille/petite fille/
 亞奶 亚奶 [ya4 nai3] {aa3 naai5} /mamie, grand-mère/
-亞妹 亚妹 [ya4 mei4] {aa3 mui6} /soeur cadette/une petite fille/
+亞妹 亚妹 [ya4 mei4] {aa3 mui6} /soeur cadette/petite fille/
 亞姑 亚姑 [ya4 gu1] {aa3 gu1} /tata, tatie, tante/
 亞姨 亚姨 [ya4 yi2] {aa3 ji4} /tata, tatie, tante/
-亞婆 亚婆 [ya1 po2] {aa3 po4} /mamie, grand-mère/une vieille dame/
+亞婆 亚婆 [ya1 po2] {aa3 po4} /mamie, grand-mère/vieille dame/
 亞媽 亚妈 [ya4 ma1] {aa3 maa1} /maman, mère/
-亞嫂 亚嫂 [ya4 sao3] {aa3 sou2} /la femme d'un frère plus âgé/la femme d'un patron/
+亞嫂 亚嫂 [ya4 sao3] {aa3 sou2} /femme d'un frère plus âgé/femme d'un patron/
 亞嬸 亚婶 [ya4 shen3] {aa3 sam2} /tata, tatie, tante/
 亞庇 亚庇 [ya4 bi4] {aa3 bei3} /Kota Kinabalu, une ville située en Malaisie/
-亞氏保加症 亚氏保加症 [ya4 shi4 bao3 jia1 zheng4] {aa3 si6 bou2 gaa1 zing3} /le syndrome d'Asperger/
+亞氏保加症 亚氏保加症 [ya4 shi4 bao3 jia1 zheng4] {aa3 si6 bou2 gaa1 zing3} /syndrome d'Asperger/
 亞洲台 亚洲台 [ya4 zhou1 tai2] {aa3 zau1 toi4} /ATV Asia, autrefois une des chaînes du Asia Television Network à Hong Kong/
 亞洲四小龍 亚洲四小龙 [ya4 zhou1 si4 xiao3 long2] {aa3 zau1 sei3 siu2 lung4} /les quatre dragons asiatiques: Hong Kong, Taïwan, Singapour and la Corée du Sud/
-亞洲國際博覽館 亚洲国际博览馆 [ya4 zhou1 guo2 ji4 bo2 lan3 guan3] {aa3 zau1 gwok3 zai3 bok3 laam5 gun2} /le AsiaWorld–Expo, un édifice à Hong Kong/
-亞洲太平洋經濟合作組織 亚洲太平洋经济合作组织 [Ya4 zhou1 Tai4 ping2 yang2 Jing1 ji4 He2 zuo4 Zu3 zhi1] {aa3 zau1 taai3 ping4 joeng4 ging1 zai3 hap6 zok3 zou2 zik1} /la Coopération économique pour l'Asie-Pacifique/
+亞洲國際博覽館 亚洲国际博览馆 [ya4 zhou1 guo2 ji4 bo2 lan3 guan3] {aa3 zau1 gwok3 zai3 bok3 laam5 gun2} /AsiaWorld–Expo, un édifice à Hong Kong/
+亞洲太平洋經濟合作組織 亚洲太平洋经济合作组织 [Ya4 zhou1 Tai4 ping2 yang2 Jing1 ji4 He2 zuo4 Zu3 zhi1] {aa3 zau1 taai3 ping4 joeng4 ging1 zai3 hap6 zok3 zou2 zik1} /Coopération économique pour l'Asie-Pacifique/
 亞洲運動會 亚洲运动会 [Ya4 zhou1 Yun4 dong4 hui4] {aa3 zau1 wan6 dung6 wui2} /les Jeux asiatiques/
 亞洲電視 亚洲电视 [Ya4 zhou1 dian4 shi4] {aa3 zau1 din6 si6} /ATV Asia, autrefois une chaîne de télévision à Hong Kong/
 亞洲電視國際台 亚洲电视国际台 [Ya4 zhou1 dian4 shi4 guo2 ji4 tai2] {aa3 zau1 din6 si6 gwok3 zai3 toi4} /ATV World, autrefois une des chaînes du Asia Television Network à Hong Kong/
@@ -1088,61 +1089,61 @@
 亞生 亚生 [ya4 sheng1] {aa3 saang1} /monsieur.../
 亞皆老街 亚皆老街 [ya4 jie1 lao3 jie1] {aa3 gaai1 lou5 gaai1} /rue Argyle, une rue situé à Kowloon, Hong Kong /
 亞視 亚视 [ya4 shi4] {aa3 si6} /Asia Television Limited, une compagnie de télédiffusion à Hong Kong/
-亞福 亚福 [ya4 fu2] {aa3 fuk1} /une phrase pour appeler une domestique ou serveur (vieilli)/(litt.) un chanceux/
-亞細 亚细 [ya4 xi4] {aa3 sai3} /une phrase pour appeler qqn qui est petit/
+亞福 亚福 [ya4 fu2] {aa3 fuk1} /(arch.) expression pour appeler une domestique ou serveur/(litt.) un chanceux/
+亞細 亚细 [ya4 xi4] {aa3 sai3} /expression pour appeler qqn qui est petit/
 亞細安 亚细安 [ya4 xi4 an1] {aa3 sai3 on1} /l'Association des nations de l'Asie du Sud-Est, ANASE, ASEAN/
-亞茂 亚茂 [ya4 mao4] {aa3 mau6} /une phrase pour appeler qqn qui est stupide/
-亞誰 亚谁 [ya4 shui2] {aa3 seoi4} /une phrase pour appeler qqn dont on a oublié le nom/
-亞頭 亚头 [ya4 tou2] {aa3 tau4} /le patron, le chef/
-亞駝 亚驼 [ya4 tuo2] {aa3 to4} /une phrase pour appeler un bossu/
+亞茂 亚茂 [ya4 mao4] {aa3 mau6} /expression pour appeler qqn qui est stupide/
+亞誰 亚谁 [ya4 shui2] {aa3 seoi4} /phrase pour appeler qqn dont on a oublié le nom/
+亞頭 亚头 [ya4 tou2] {aa3 tau4} /patron, chef/
+亞駝 亚驼 [ya4 tuo2] {aa3 to4} /expression pour appeler un bossu/
 亡命 亡命 [wang2ming4] {mong4 ming6} /risquer sa vie pour faire qqch/fuir/s'évader d'un prison
 亡命徒 亡命徒 [wang2 ming4 tu2] {mong4 ming6 tou4} /un fugitif, une fugitive, un(e) fuyard(e)/
-亡國之音 亡国之音 [wang2 guo2 zhi1 yin1] {mong4 gwok3 zi1 jam1} /le chant funèbre d'une nation vouée à l'échec/
+亡國之音 亡国之音 [wang2 guo2 zhi1 yin1] {mong4 gwok3 zi1 jam1} /chant funèbre d'une nation vouée à l'échec/
 亡戟得矛 亡戟得矛 [wang2 ji3 de2 mao2] {mong4 gik1 dak1 maau4} /compenser pour qqch de perdu en gagnant qqch d'autre/(litt.) perdre une hallebarde, remporter une lance/
 交 交 [jiao1] {gaau1} /échanger/rapport sexuel/s'impliquer (dans qqch)/se joindre (à qqch), devenir membre (de qqch)/
-交代 交代 [jiao1 dai4] {gaau1 doi6} /une explication/
-交叉 交叉 [jiao1 cha1] {gaau1 caa1} /la marque x/
+交代 交代 [jiao1 dai4] {gaau1 doi6} /explication/
+交叉 交叉 [jiao1 cha1] {gaau1 caa1} /marque x/
 交叉科學 交叉科学 [jiao1 cha1 ke1 xue2] {gaau1 caa1 fo1 hok6} /les sciences interdisciplinaires/
 交吉 交吉 [jiao1 ji2] {gaau1 gat1} /libre possession (orig.) 空 signifiait «inoccupé» (donc, donner un immeuble inoccupé), mais est prononcé comme 凶 «diabolique, malheureux», donc on l'a remplacé par l'antonyme, 吉, «chanceux, heureux»/(litt.) livrer la fortune/
 交回 交回 [jiao1 hui2] {gaau1 wui4} /rendre (qqch à qqn)/
 交學費 交学费 [jiao1 xue2 fei4] {gaau1 hok6 fai3} /payer les frais de scolarité/
 交帶 交带 [jiao1 dai4] {gaau1 daai3} /ordonner/responsable/remettre (qqch à qqn)/
 交心 交心 [jiao1 xin1] {gaau1 sam1} /se confier (à qqn), devenir très ami (avec qqn)/
-交投 交投 [jiao1 tou2] {gaau1 tau4} /échanger/un contact visuel bref (四目交投)/
+交投 交投 [jiao1 tou2] {gaau1 tau4} /échanger/contact visuel bref (四目交投)/
 交換生 交换生 [jiao1 huan4 sheng1] {gaau1 wun6 sang1} /étudiant étranger(ère)/
 交易 交易 [jiao1 yi4] {gaau1 jik6} /un échange/
 交更 交更 [jiao1 geng1] {gaau1 gaang1} /relayer (les périodes de travail)/
 交水費 交水费 [jiao1 shui3 fei4] {gaau1 seoi2 fai3} /faire pipi/
-交界處 交界处 [jiao1 jie4 chu4] {gaau1 gaai3 cyu3} /une intersection/
+交界處 交界处 [jiao1 jie4 chu4] {gaau1 gaai3 cyu3} /intersection/
 交相輝映 交相辉映 [jiao1 xiang1 hui1 ying4] {gaau1 soeng1 fai1 jing2} /faire ressortir la beauté de qqch en étant ensemble/
 交租 交租 [jiao1 zu1] {gaau1 zou1} /payer le loyer/
 交足功課 交足功课 [jiao1 zu2 gong1 ke4] {gaau1 zuk1 gung1 fo3} /bien faire son travail/(litt.) soumettre tous ses devoirs/
-交通事故 交通事故 [jiao1 tong1 shi4 gu4] {gaau1 tung1 si6 gu3} /un accident routier/un accident de la circulation/
+交通事故 交通事故 [jiao1 tong1 shi4 gu4] {gaau1 tung1 si6 gu3} /accident routier/accident de la circulation/
 交通擠塞 交通挤塞 [jiao1 tong1 ji3 sai1] {gaau1 tung1 zai1 sak1} /un embouteillage (de circulation)/
 交通燈 交通灯 [jiao1 tong1 deng1] {gaau1 tung1 dang1} /feux de signalisation/qqn qui est indécis/
 交通線 交通线 [jiao1 tong1 xian4] {gaau1 tung1 sin3} /voies de transport/
-交通要道 交通要道 [jiao1 tong1 yao4 dao4] {gaau1 tung1 jiu3 dou6} /une artère principale d'une voie de transport/
+交通要道 交通要道 [jiao1 tong1 yao4 dao4] {gaau1 tung1 jiu3 dou6} /artère principale d'une voie de transport/
 交通警 交通警 [jiao1 tong1 jing3] {gaau1 tung1 ging2} /police de la route/
-交通運輸 交通运输 [jiao1 tong1 yun4 shu1] {gaau1 tung1 wan6 syu1} /la transportation/
+交通運輸 交通运输 [jiao1 tong1 yun4 shu1] {gaau1 tung1 wan6 syu1} /transportation/
 交關 交关 [jiao1 guan1] {gaau1 gwaan1} /très, extrêmement (e.g.) 錯得交關 错得交关 extremely wrong; 靚仔得交關 靓仔得交关 extremely handsome./
 交際 交际 [jiao1 ji4] {gaau1 zai3} /interpersonnel/
 交際舞 交际舞 [jiao1 ji4 wu3] {gaau1 zai3 mou5} /danse de salon/
-交響樂 交响乐 [jiao1 xiang3 yue4] {gaau1 hoeng2 ngok6} /une symphonie, musique symphonique/
+交響樂 交响乐 [jiao1 xiang3 yue4] {gaau1 hoeng2 ngok6} /symphonie/musique symphonique/
 亦可 亦可 [yi4 ke3] {jik6 ho2} /pouvoir (faire qqch) aussi/
 亦然 亦然 [yi4 ran2] {jik6 jin4} /aussi, également/
 亦舒 亦舒 [yi4 shu1] {jik6 syu1} /Yi Shu, une auteure Hongkongaise/
 亦都 亦都 [yi1 du1] {jik6 dou1} /aussi, également/
 享有 享有 [xiang3 you3] {hoeng2 jau5} /bénificier de qqch, jouir de qqch/
 享福 享福 [xiang3 fu2] {hoeng2 fuk1} /se profiter pleinement de sa vie/vivre confortablement/
-京溪南方醫院站 京溪南方医院站 [jing1 xi1 nan2 fang1 yi1 yuan4 zhan4] {ging1 kai1 naam4 fong1 ji1 jyun2 zaam6} /la station Jingxi Southern Hospital, un endroit situé à Guangzhou/
+京溪南方醫院站 京溪南方医院站 [jing1 xi1 nan2 fang1 yi1 yuan4 zhan4] {ging1 kai1 naam4 fong1 ji1 jyun2 zaam6} /station Jingxi Southern Hospital, un endroit situé à Guangzhou/
 京都市 京都市 [jing1 du1 shi4] {ging1 dou1 si5} /Kyoto - une ville au Japon/
 京都議定書 京都议定书 [jing1 du1 yi4 ding4 shu1] {ging1 dou1 ji5 ding6 syu1} /Kyoto Protocol/
 亭亭 亭亭 [ting2 ting2] {ting4 ting4} /élégant (pour parler de femmes)/
-亭子間 亭子间 [ting2 zi5 jian1] {ting4 zi2 gaan1} /une mansarde, une petite chambre habituellement dans un grenier ou au dessus de la cuisine/
+亭子間 亭子间 [ting2 zi5 jian1] {ting4 zi2 gaan1} /mansarde, une petite chambre habituellement dans un grenier ou au dessus de la cuisine/
 亮 亮 [liang4] {loeng6} /qui brille/lumineux(euse)/
-亮光 亮光 [liang4 guang1] {loeng6 gwong1} /une lumière brillante/
+亮光 亮光 [liang4 guang1] {loeng6 gwong1} /lumière brillante/
 亮晶晶 亮晶晶 [liang4 jing1 jing1] {loeng6 zing1 zing1} /scintillant, étincelant/
-亮紅燈 亮红灯 [liang4 hong2 deng1] {loeng6 hung4 dang1} /le feu qui passe au rouge/
+亮紅燈 亮红灯 [liang4 hong2 deng1] {loeng6 hung4 dang1} /feu de signalisation qui passe au rouge/
 人一世，物一世 人一世，物一世 [ren2 yi1 shi4 , wu4 yi1 shi4] {jan4 jat1 sai3 mat6 jat1 sai3} /on n'a qu'une vie; on devrait tout essayer/(litt.) les personnes ont une vie, les choses ont une vie/
 人一世物一世 人一世物一世 [ren2 yi1 shi4 wu4 yi1 shi4] {jan4 jat1 sai3 mat6 jat1 sai3} /on n'a qu'une vie; on devrait tout essayer/(litt.) les personnes ont une vie, les choses ont une vie/
 人仔 人仔 [ren2 zi3] {jan4 zai2} /un surnom pour le Renminbi, la monnaie officiel de la République Populaire de la Chine/
@@ -1150,9 +1151,9 @@
 人倫 人伦 [ren2 lun2] {jan4 leon4} /relations interpersonelles (dans le contexte de la pensée de Confucius)/
 人像 人像 [ren2 xiang4] {jan4 zoeng6} /un portrait/
 人和 人和 [ren2 he2] {jan4 wo4} /obtenir le soutien du public/
-人和站 人和站 [ren2 he2 zhan4] {jan4 wo4 zaam6} /la station Renhe - un endroit situé à Guangzhou, Chine/
+人和站 人和站 [ren2 he2 zhan4] {jan4 wo4 zaam6} /station Renhe, un endroit situé à Guangzhou, Chine/
 人哋 人哋 [ren2 di4] {jan4 dei6} /les autres (personnes)/quelqu'un, quelqu'un d'autre/il ou elle/je/voir aussi 人地/
-人嚟 人嚟 [ren2 li2] {jan4 lai4} /une expression pour appeler qqn/
+人嚟 人嚟 [ren2 li2] {jan4 lai4} /expression pour appeler qqn/
 人地 人地 [ren2 di4] {jan4 dei6} /les autres (personnes)/quelqu'un, quelqu'un d'autre/il ou elle/je/voir aussi 人哋/
 人地生疏 人地生疏 [ren2 di4 sheng1 shu1] {jan4 dei6 sang1 so1} /deux personnes qui ne sont pas proches/ne pas être familier avec ses environs/(litt.) il ou elle est rouillé(e)/
 人士 人士 [ren2 shi4] {jan4 si6} /les gens (registre soutenu)/
@@ -1160,15 +1161,15 @@
 人多好做作 人多好做作 [ren2 duo1 hao3 zuo4 zuo5] {jan4 do1 hou2 zou6 zok3} /plusieurs personnes rendent une tâche plus facile/
 人多手腳亂 人多手脚乱 [ren2 duo1 shou3 jiao3 luan4] {jan4 do1 sau2 goek3 lyun6} /deux patrons font chavirer la barque, s'il y a trop de partipants, la tâche ne sera pas bien faite/(litt.) avec trop de personnes, les mains et les pieds se mélangent/
 人夾人緣 人夹人缘 [ren2 jia1 ren2 yuan2] {jan4 gaap3 jan4 jyun4} /les relations sont prédestinées; s'ils sont censés être ensemble, ils le seront/
-人客 人客 [ren2 ke4] {jan4 haak3} /un client/un invité/
-人山人海 人山人海 [ren2shan1ren2hai3] {jan4 saan1 jan4 hoi2} /une foule, beaucoup de personnes/(litt.) montagnes et océans de personnes/
+人客 人客 [ren2 ke4] {jan4 haak3} /client/invité/
+人山人海 人山人海 [ren2shan1ren2hai3] {jan4 saan1 jan4 hoi2} /foule, beaucoup de personnes/(litt.) montagnes et océans de personnes/
 人工 人工 [ren2 gong1] {jan4 gung1} /salaire/
 人工受精 人工受精 [ren2 gong1 shou4 jing1] {jan4 gung1 sau6 zing1} /l'insémination artificielle/
 人影 人影 [ren2 ying3] {jan4 jing2} /un endroit désert, sans autres personnes/(litt.) l'ombre des personnes/
-人心惶惶 人心惶惶 [ren2 xin1 huang2 huang2] {jan4 sam1 wong4 wong4} /une angoisse ou inquiétude répandue/(litt.) les coeurs anxieux du public/
+人心惶惶 人心惶惶 [ren2 xin1 huang2 huang2] {jan4 sam1 wong4 wong4} /angoisse ou inquiétude répandue/(litt.) les coeurs anxieux du public/
 人心肉做 人心肉做 [ren2 xin1 rou4 zuo4] {jan4 sam1 juk6 zou6} /même les personnes les plus cruelles ont un peu de sympathie/(litt.) le coeur humain est fait de chair/
 人心隔肚皮 人心隔肚皮 [ren2 xin1 ge2 du4 pi2] {jan4 sam1 gaak3 tou5 pei4} /il est impossible de juger par apparences; il est difficile de connaître la vraie nature de qqn/
-人急智生 人急智生 [ren2 ji2 zhi4 sheng1] {jan4 gap1 zi3 sang1} /la rapidité d'esprit lors d'une situation d'urgence/
+人急智生 人急智生 [ren2 ji2 zhi4 sheng1] {jan4 gap1 zi3 sang1} /rapidité d'esprit lors d'une situation d'urgence/
 人情 人情 [ren2 qing2] {jan4 cing4} /un cadeau de mariage monétaire/
 人情紙咁薄 人情纸咁薄 [ren2 qing2 zhi3 gan1 bo2] {jan4 cing4 zi2 gam2 bok6} /sans coeur, cruel (voir aussi 人情薄過紙 人情薄过纸)/(litt.) la morale humaine est mince comme du papier/
 人情薄過紙 人情薄过纸 [ren2 qing2 bo2 guo4 zhi3] {jan4 cing4 bok6 gwo3 zi2} /sans coeur, cruel (voir aussi 人情紙咁薄 人情纸咁薄)/(litt.) la morale humaine est plus mince que du papier/
@@ -1187,29 +1188,29 @@
 人無千日好，花無百日紅 人无千日好，花无百日红 [ren2 wu2 qian1 ri4 hao3 , hua1 wu2 bai3 ri4 hong2] {jan4 mou4 cin1 jat6 hou2 ，faa1 mou4 baak3 jat6 hung4} /les amitiés se terminent forcément un jour/les choses ne déroulent pas toujours comme prévu/voir aussi 人無千日好 人无千日好/(litt.) on n'a pas mille bonnes journés, et les fleurs ne restent pas rouge cent jours/
 人版 人版 [ren2 ban3] {jan4 baan2} /un modèle (qqn avec une conduite exemplaire/
 人瑞 人瑞 [ren2 rui4] {jan4 seoi6} /un(e) centenaire/
-人生 人生 [ren2 sheng1] {jan4 sang1} /la vie (d'une personne)/
+人生 人生 [ren2 sheng1] {jan4 sang1} /vie (d'une personne)/
 人生地不熟 人生地不熟 [ren2 sheng1 di4 bu4 shu2] {jan4 sang1 dei6 bat1 suk6} /ne pas être familier avec ses environs ou les personnes/
 人生觀 人生观 [ren2 sheng1 guan1] {jan4 sang1 gun1} /conception de la vie, philosophie de la vie/
-人盡可夫 人尽可夫 [ren2 jin4 ke3 fu1] {jan4 zeon6 ho2 fu1} /une femme aux moeurs légères/
+人盡可夫 人尽可夫 [ren2 jin4 ke3 fu1] {jan4 zeon6 ho2 fu1} /femme aux moeurs légères/
 人神共憤 人神共愤 [ren2 shen2 gong4 fen4] {jan4 san4 gung6 fan5} /susciter de l'indignation populaire/(litt.) être détesté par l'homme et dieu/
 人窮志不窮 人穷志不穷 [ren2 qiong2 zhi4 bu4 qiong2] {jan4 kung4 zi3 bat1 kung4} /qqn pauvre qui a toutefois de grandes ambitions/
 人細鬼大 人细鬼大 [ren2 xi4 gui3 da4] {jan4 sai3 gwai2 daai6} /malin, maligne/(litt.) qqn jeune qui est toutefois futé/
 人羣 人羣 [ren2 qun2] {jan4 kwan4} /un groupe de personnes, une foule/
 人老精，鬼老靈 人老精，鬼老灵 [ren2 lao3 jing1 , gui3 lao3 ling2] {jan4 lou5 zeng1 ，gwai2 lou5 leng4} /les personnes âgées sont sages à cause de leurs expériences (voir aussi 人老精鬼老靈 人老精鬼老灵)/(litt.) les personnes âgées deviennent sages, les esprits anciens sont plus puissants/
 人老精鬼老靈 人老精鬼老灵 [ren2 lao3 jing1 gui3 lao3 ling2] {jan4 lou5 zeng1 gwai2 lou5 leng4} /les personnes âgées sont sages à cause de leurs expériences (voir aussi 人老精，鬼老靈 人老精，鬼老灵)/(litt.) les personnes âgées deviennent sages, les esprits anciens sont plus puissants/
-人聲 人声 [ren2 sheng1] {jan4 seng1} /la voix humaine/
+人聲 人声 [ren2 sheng1] {jan4 seng1} /voix humaine/
 人肉炸彈 人肉炸弹 [ren2 rou4 zha4 dan4] {jan4 juk6 zaa3 daan2} /un kamikaze, une bombe humaine/(litt.) bombe à chair humaine/
-人蔘 人蔘 [ren2 shen1] {jan4 sam1} /le ginseng/
+人蔘 人蔘 [ren2 shen1] {jan4 sam1} /ginseng/
 人蠢冇藥醫 人蠢冇藥医 [ren2 chun3 mao3 shuo4 yi1] {jan4 ceon2 mou5 joek6 ji1} /un(e) idiot(e), un(e) imbécile/(litt.) une personne tellement stupide qu'aucun médicament ne peut aider/
 人講你又講 人讲你又讲 [ren2 jiang3 ni3 you4 jiang3] {jan4 gong2 nei5 jau6 gong2} /qqn qui manque un esprit critique/(litt.) quelqu'un qui répète ce que les autres disent/
-人辦 人办 [ren2 ban4] {jan4 baan6} /un modèle d'une mauvaise personne/
-人造皮 人造皮 [ren2 zao4 pi2] {jan4 zou6 pei4} /le cuir artificiel/
+人辦 人办 [ren2 ban4] {jan4 baan6} /un exemple des mauvaises personnes/
+人造皮 人造皮 [ren2 zao4 pi2] {jan4 zou6 pei4} /cuir artificiel/
 人造衞星 人造卫星 [ren2 zao4 wei4 xing1] {jan4 zou6 wai6 sing1} /un satellite artificiel/
-人道 人道 [ren2 dao4] {jan4 dou6} /l'humanitarianisme/une action humaine, une bonne action/
+人道 人道 [ren2 dao4] {jan4 dou6} /humanitarianisme/action humaine, bonne action/
 人際關係 人际关系 [ren2 ji4 guan1 xi5] {jan4 zai3 gwaan1 hai6} /les relations interpersonnelles/
 人面 人面 [ren2 mian4] {jan4 min6} /visage d'un être humain/
 人面桃花 人面桃花 [ren2 mian4 tao2 hua1] {jan4 min6 tou4 faa1} /ce qu'un homme ressent après que son partenaire le quitte (orig.) un histoire où un homme voit une femme très belle en voyageant, mais quand il revient l'année suivante, ne voit que des fleurs de pêche/
-人頭 人头 [ren2 tou2] {jan4 tau4} /la tête d'un être humain/
+人頭 人头 [ren2 tou2] {jan4 tau4} /tête d'un être humain/
 人頭涌涌 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /(un endroit) bondé, plein à craquer/
 人頭湧湧 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /(un endroit) bondé, plein à craquer (voir aussi 人頭涌涌 人头涌涌)/
 人頭豬腦 人头猪脑 [ren2 tou2 zhu1 nao3] {jan4 tau4 zyu1 nou5} /stupide, idiot/(litt.) une tête avec un cerveau de cochon/
@@ -1222,7 +1223,7 @@
 仆 仆 [pu1] {puk1} /tomber, chuter (sur la rue)/
 仆你個街 仆你个街 [pu2 ni3 ge4 jie1] {buk6 nei5 go3 gaai1} /(vulg.) va te faire voir! va te faire foutre!/(litt.) que tu tombes sur la rue!/
 仆嚫 仆嚫 [pu2 chen4] {puk1 can3} /trébucher par accident/
-仆直 仆直 [pu2 zhi2] {puk6 zik6} /une mauvaise situation/avoir des problèmes/(litt.) tomber à plat-ventre sur la rue/
+仆直 仆直 [pu2 zhi2] {puk6 zik6} /mauvaise situation/avoir des problèmes/(litt.) tomber à plat-ventre sur la rue/
 仆街 仆街 [pu1 jie1] {puk1 gaai1} /(vulg.) va te faire voir! va te faire foutre!/(litt.) que tu tombes sur la rue!/
 仆街仔 仆街仔 [pu1 jie1 zi3] {buk6 gaai1 zi2} /(vulg.) un connard/(litt.) qqn qui tombe sur la rue/
 仆轉 仆转 [pu2 zhuan3] {puk1 zyun3} /se coucher face contre terre/
@@ -1246,7 +1247,7 @@
 介紹人 介绍人 [jie4 shao4 ren2] {gaai3 siu6 jan4} /un agent/
 介紹信 介绍信 [jie4 shao4 xin4] {gaai3 siu6 seon3} /lettre de référence, lettre de recommendation/
 仔 仔 [zi3] {zai2} /fils/copain, petit ami/
-仔乸 仔乸 [zi3 na2] {zai2 naa2} /une mère et son fils/
+仔乸 仔乸 [zi3 na2] {zai2 naa2} /mère et son fils/
 仔仔 仔仔 [zai3 zai3] {zai2 zai2} /un surnom pour un fils (enfant ou bébé)/
 仔大仔世界 仔大仔世界 [zi3 da4 zi3 shi4 jie4] {zai2 daai6 zai2 sai3 gaai3} /être indépendent/(litt.) les enfants grandissent, et ils ont leur propre monde/
 仔女 仔女 [zi3 nü3] {zai2 neoi2} /enfants, fils et filles/
@@ -1264,19 +1265,19 @@
 他朝 他朝 [ta1 chao2] {taa1 ziu1} /un autre jour, à l'avenir/
 他條 他条 [ta1 tiao2] {taa1 tiu4} /détendu, confortable, sans pression/
 他的 他的 [ta1 de5] {taa1 dik1} /son ou sa/
-仗 仗 [zhang4] {zoeng3} /une canne/une baguette, un bâton/
+仗 仗 [zhang4] {zoeng3} /canne/baguette, bâton/
 付息 付息 [fu4 xi1] {fu6 sik1} /payer des interêts/
 付排 付排 [fu4 pai2] {fu6 paai4} /envoyer au compositeur/
-仙 仙 [xian1] {sin1} /divin(e)/un dieu/une fée/un centime (orig.) la prononciation du mot ressemble à la prononciation anglaise du mot pour centime, «cent»/
+仙 仙 [xian1] {sin1} /divin(e)/dieu/fée/centime (orig.) la prononciation du mot ressemble à la prononciation anglaise du mot pour centime, «cent»/
 仙台市 仙台市 [Xian1 tai2 shi4] {sin1 toi4 si5} /Sendai, une ville japonaise/
-仙女 仙女 [xian1 nü3] {sin1 neoi5} /une fée/une femme divine/
+仙女 仙女 [xian1 nü3] {sin1 neoi5} /fée/femme divine/
 仙屎 仙屎 [xian1 shi3] {sin1 si2} /centimes (au pluriel)/
 仙都唔仙吓 仙都唔仙吓 [xian1 du1 n2 xian1 xia4] {sin1 dou1 m4 sin1 haa5} /pauvre, sans un sou/pingre, avare/
 仝 同 [tong2] {tung4} /(faire qqch) ensemble/pour le compte de (qqn)/
 代代平安 代代平安 [dai4 dai4 ping2 an1] {doi6 doi6 ping4 on1} /des voeux de Nouvel An qui souhaitent la paix à toutes les générations/accepter un cadeau ou de l'argent facilement/
 代理 代理 [dai4 li3] {doi6 lei5} /un représentant, un agent/
 代言人 代言人 [dai4 yan2 ren2] {doi6 jin4 jan4} /un porte-parole/
-代辦所 代办所 [dai4 ban4 suo3] {doi6 baan6 so2} /une agence/
+代辦所 代办所 [dai4 ban4 suo3] {doi6 baan6 so2} /agence/
 令人難忘 令人难忘 [ling4 ren2 nan2 wang4] {ling6 jan4 naan4 mong4} /faire de l'effet (à qqn), faire une grande impression (à qqn)/
 令到 令到 [ling4 dao4] {ling6 dou3} /causer (qqn à ...)/
 令嬡 令嫒 [ling4 ai4] {ling6 oi3} /votre fille (soutenu)/
@@ -1288,7 +1289,7 @@
 以假亂真 以假乱真 [yi3 jia3 luan4 zhen1] {ji5 gaa2 lyun6 zan1} /tromper, duper/(litt.) utiliser des faux pour confondre avec les vrais/
 以偏概全 以偏概全 [yi3 pian1 gai4 quan2] {ji5 pin1 koi3 cyun4} /faire des généralités/(litt.) faire le total avec une portion/
 以己度人 以己度人 [yi3 ji3 duo2 ren2] {ji5 gei2 dok6 jan4} /se comparer aux autres/(litt.) mesurer les autres à partir de soi/
-以巴衝突 以巴冲突 [yi3 Ba1 chong1 tu5] {ji5 baa1 cung1 dat6} /le conflit israélo-palestinien/
+以巴衝突 以巴冲突 [yi3 Ba1 chong1 tu5] {ji5 baa1 cung1 dat6} /conflit israélo-palestinien/
 以後 以后 [yi3 hou4] {ji5 hau6} /désormais, dorénavant, à partir de maintenant/
 以心為心 以心为心 [yi3 xin1 wei2 xin1] {ji5 sam1 wai4 sam1} /juger les autres comme on voudrait être jugé/compartir avec (qqn), avoir de la peine (pour qqn)/
 以怨報德 以怨报德 [yi3 yuan4 bao4 de2] {ji5 jyun3 bou3 dak1} /rendre l'amour avec la haine/
@@ -1306,12 +1307,12 @@
 仲係 仲系 [zhong4 xi4] {zung6 hai6} /encore, toujours/
 仲兼 仲兼 [zhong4 jian1] {zung6 gim1} /de plus, en outre/
 仲好 仲好 [zhong4 hao3] {zung6 hou2} /encore mieux/
-仲春 仲春 [zhong4 chun1] {zung6 ceon1} /le deuxième mois dans le calendrier chinois/
+仲春 仲春 [zhong4 chun1] {zung6 ceon1} /deuxième mois dans le calendrier chinois/
 仲有 仲有 [zhong4 you3] {zung6 jau5} /de plus/
 仲未 仲未 [zhong4 wei4] {zung6 mei6} /pas encore/
 仳離 仳离 [pi3 li2] {pei2 lei4} /se divorcer, se séparer/
-仵作佬 仵作佬 [wu3 zuo4 lao3] {ng5 zok3 lou2} /un employé du funérarium/un médecin légiste (vielli)/
-件 件 [jian4] {gin6} /le courrier/un document/
+仵作佬 仵作佬 [wu3 zuo4 lao3] {ng5 zok3 lou2} /employé du funérarium/(arch.) médecin légiste/
+件 件 [jian4] {gin6} /courrier/document/
 件件 件件 [jian4 jian4] {gin6 gin6} /chacun/des morceaux/
 ???? 件頭 件头 [jian4 tou2] {gin6 tau4} /piece (swimwear) /
 任丘 任丘 [ren4 qiu1] {jam4 jau1} /Renqiu, une ville de la province de Hebei, China/
@@ -1319,11 +1320,11 @@
 任劍輝 任剑辉 [ren4 jian4 hui1] {jam4 gim3 fai1} /Yam Kim-fai, une actrice de l'opéra cantonaise/
 任賢齊 任贤齐 [ren4 xian2 qi2] {jam4 jin4 cai4} /Richie Jen, un chanteur et acteur taïwanais/
 任食 任食 [ren4 shi2] {jam6 sik6} /(buffet) à volonté/
-份 份 [fen4] {fan6} /une partie, une portion/
-份人 份人 [fen4 ren2] {fan6 jan4} /la personnalité, un caractère (de qqn)/
+份 份 [fen4] {fan6} /partie, portion/
+份人 份人 [fen4 ren2] {fan6 jan4} /personnalité, caractère (de qqn)/
 份外 份外 [fen4 wai4] {fan6 ngoi6} /très/
-企人邊 企人边 [qi3 ren2 bian1] {kei5 jan4 bin1} /la clé (de sinogramme) «彳»/
-企位 企位 [qi3 wei4] {kei2 wai2} /une salle comble/une place debout/
+企人邊 企人边 [qi3 ren2 bian1] {kei5 jan4 bin1} /clé (de sinogramme) «彳»/
+企位 企位 [qi3 wei4] {kei2 wai2} /salle comble/place debout/
 企堂 企堂 [qi3 tang2] {kei5 tong2} /un serveur, une serveuse/
 企定 企定 [qi3 ding4] {kei5 ding6} /rester tranquille, rester immobile/
 企業形象 企业形象 [qi3 ye4 xing2 xiang4] {kei5 jip6 jing4 zoeng6} /image de marque/
@@ -1336,46 +1337,46 @@
 企街 企街 [qi3 jie1] {kei5 gaai1} /un(e) prostitué(e), particulièrement ceux ou celles originant de la Chine qui ont seulement un permis de voyage/
 企起身 企起身 [qi3 qi3 shen1] {kei2 hei2 san1} /se lever, se mettre debout/
 企身 企身 [qi3 shen1] {kei5 san1} /debout/
-企身煲 企身煲 [qi3 shen1 bao1] {kei5 san1 bou1} /une marmite haute pour faire de la soup ou du congee/
+企身煲 企身煲 [qi3 shen1 bao1] {kei5 san1 bou1} /marmite haute pour faire de la soupe ou du congee/
 企領 企领 [qi3 ling3] {kei5 leng5} /avoir le col remonté/
 伊利沙伯醫院 伊利沙伯医院 [yi1 li4 sha1 bo2 yi1 yuan4] {ji1 lei6 saa1 baak3 ji1 jyun2} /l'hôpital Queen Elizabeth, situé à Hong Kong/
-伊利近街 伊利近街 [yi1 li4 jin4 jie1] {ji1 lei6 gan6 gaai1} /la rue Elgin, une rue située à Central, Hong Kong/
-伊士 伊士 [yi1 shi4] {ji1 si6} /la levure/
+伊利近街 伊利近街 [yi1 li4 jin4 jie1] {ji1 lei6 gan6 gaai1} /rue Elgin, une rue située à Central, Hong Kong/
+伊士 伊士 [yi1 shi4] {ji1 si6} /levure/
 伊府麵 伊府面 [yi1 fu3 mian4] {ji1 fu2 min6} /les nouilles yi mein, aussi appelés e-fu/
-伊挹 伊挹 [yi1 yi4] {ji1 jap1} /une relation amoureuse secrète entre deux personnes/
+伊挹 伊挹 [yi1 yi4] {ji1 jap1} /relation amoureuse secrète entre deux personnes/
 伊撈七 伊捞七 [yi1 lao1 qi1] {ji1 laau4 cat1} /sûrement, assurément, sans aucune doute/généralement/
 伊斯蘭教 伊斯兰教 [yi1 si1 lan2 jiao4] {ji1 si1 laan4 gaau3} /islamique/
 伊朗伊斯蘭共和國 伊朗伊斯兰共和国 [yi1 lang3 yi1 si1 lan2 gong4 he2 guo2] {ji1 long5 ji1 si1 laan4 gung6 wo4 gwok3} /la république islamique d'Iran/
-伊波拉病毒 伊波拉病毒 [yi1 bo1 la1 bing4 du2] {ji1 bo1 laai1 beng6 duk6} /le virus Ebola/
+伊波拉病毒 伊波拉病毒 [yi1 bo1 la1 bing4 du2] {ji1 bo1 laai1 beng6 duk6} /virus Ebola/
 伊麪 伊面 [yi1 mian4] {ji1 min6} /les nouilles yi mein/
 伊麵 伊面 [yi1 mian4] {ji1 min6} /les nouilles yi mein/
 伏低 伏低 [fu2 di1] {buk6 dai1} /s'étendre/
 伏兒人 伏儿人 [fu2 r5 ren2] {fuk6 ji4 jan4} /cache-cache/
-伏匿匿 伏匿匿 [fu2 ni4 ni4] {buk6 nei1 nei1} /le cache-cache/jouer à cache-cache/
+伏匿匿 伏匿匿 [fu2 ni4 ni4] {buk6 nei1 nei1} /cache-cache/jouer à cache-cache/
 休养所 休养所 [xiu1 yang3 suo3] {jau1 joeng5 so2} /un sanatorium/
 休息 休息 [xiu1 xi5] {jau1 sik1} /faire une pause/se coucher, dormir/
-休息時間 休息时间 [xiu1 xi2 shi2 jian1] {jau1 sik1 si4 gaan3} /une pause/
-休憩 休憩 [xiu1 qi4] {jau1 hei3} /prendre une pause/la loisir/
-休戚 休戚 [xiu1 qi1] {jau1 cik1} /la joie et la tristesse/
+休息時間 休息时间 [xiu1 xi2 shi2 jian1] {jau1 sik1 si4 gaan3} /pause/
+休憩 休憩 [xiu1 qi4] {jau1 hei3} /prendre une pause/loisir/
+休戚 休戚 [xiu1 qi1] {jau1 cik1} /joie et tristesse/
 休眠 休眠 [xiu1 mian2] {jau1 min4} /l'hibernation, le repos/
 休閑 休闲 [xiu1 xian2] {jau1 haan4} /se reposer/
-休養所 休养所 [xiu1 yang3 suo3] {jau1 joeng5 so2} /un sanatorium/
-伙 伙 [huo3] {fo2} /classificateur pour les personnes/une équipe/une maison/
-伙房 伙房 [huo3 fang2] {fo2 fong4} /une cuisine/
-伙記 伙记 [huo3 ji4] {fo2 gei3} /un employé/un serveur, une serveuse/une policière/
+休養所 休养所 [xiu1 yang3 suo3] {jau1 joeng5 so2} /sanatorium/
+伙 伙 [huo3] {fo2} /(classificateur pour les personnes)/équipe/maison/
+伙房 伙房 [huo3 fang2] {fo2 fong4} /cuisine/
+伙記 伙记 [huo3 ji4] {fo2 gei3} /employé/serveur, serveuse/policière/
 伙頭 伙头 [huo3 tou2] {fo2 tau2} /un cuisinier (familier)/
 伙頭君 伙头君 [huo3 tou2 jun1] {fo2 tau4 gwan1} /un cuisinier dans l'armée/
 伙頭墳洲 伙头坟洲 [huo3 tou2 fen2 zhou1] {fo2 tau4 fan4 zau1} /Town Island, une île dans les Nouveaux Territoires, Hong Kong/
 伙頭軍 伙头军 [huo3 tou2 jun1] {fo2 tau4 gwan1} /un cuisinier dans l'armée/
 伢伢仔 伢伢仔 [ya2 ya2 zi3] {ngaa4 ngaa4 zai2} /un bébé/
 伯公 伯公 [bo2 gong1] {baak3 gung1} /un frère aîné d'un grand-père/
-伯娘 伯娘 [bo2 niang2] {baak3 noeng4} /la femme d'un frère aîné d'un père/
-伯婆 伯婆 [bo2 po2] {baak3 po4} /la tante d'un père/la tante d'un mari/
-伯母 伯母 [bo2mu3] {baak3 mou5} /une manière soutenue d'appeler la mère d'un ami/
+伯娘 伯娘 [bo2 niang2] {baak3 noeng4} /femme d'un frère aîné d'un père/
+伯婆 伯婆 [bo2 po2] {baak3 po4} /tante d'un père/tante d'un mari/
+伯母 伯母 [bo2 mu3] {baak3 mou5} /manière soutenue d'appeler la mère d'un ami/
 伯爵茶 伯爵茶 [bo2 jue2 cha2] {baak3 zoek3 caa4} /thé Earl Grey/
 伯爺 伯爷 [bo2 ye2] {baak3 je1} /un père/
 伯爺公 伯爷公 [bo2 ye2 gong1] {baak3 je1 gung1} /un homme âgé/
-伯爺婆 伯爷婆 [bo2 ye2 po2] {baak3 je1 po2} /une femme âgée/
+伯爺婆 伯爷婆 [bo2 ye2 po2] {baak3 je1 po2} /femme âgée/
 ???? 伯牙 伯牙 [bo2 ya2] {baak3 ngaa4} /Bo Ya, a minister of Jin Kingdom during Spring and Autumn Period /
 估 估 [gu1] {gu2} /deviner/
 估吓 估吓 [gu1 xia4] {gu2 haa5} /devinez!/
@@ -1383,7 +1384,7 @@
 估計 估计 [gu1 ji4] {gu2 gai3} /estimer, deviner/
 伴 伴 [ban4] {bun6} /accompagner (qqn)/
 伴儅 伴儅 [ban4 dang1] {bun6 dong3} /domestique/
-伸展 伸展 [shen1 zhan3] {san1 zin2} /s'étirer/une prolongation/
+伸展 伸展 [shen1 zhan3] {san1 zin2} /s'étirer/prolongation/
 伸張正義 伸张正义 [shen1 zhang1 zheng4 yi4] {san1 zoeng1 zing3 ji6} /soutenir, rendre la justice/
 似層層 似层层 [shi4 ceng2 ceng2] {ci5 cang4 cang4} /avoir l'air réel/vif/
 似模似樣 似模似样 [shi4 mo2 si4 yang4] {ci5 mou4 ci5 joeng6} /semblable/qqn qui fait un bon travail/avoir la tête de l'emploi/
@@ -1392,7 +1393,7 @@
 似足 似足 [shi4 zu2] {ci5 zuk1} /similaire, semblant/
 但係 但系 [dan4 xi4] {daan6 hai6} /mais/
 但凡 但凡 [dan4 fan2] {daan6 faan4} /sans exception/
-佈置 布置 [bu4zhi4] {bou3 zi3} /le plan d'une maison/l'agencement des meubles/décorer/organiser/
+佈置 布置 [bu4zhi4] {bou3 zi3} /plan d'une maison/l'agencement des meubles/décorer/organiser/
 佈設 布设 [bu4 she4] {bou3 cit3} /planifier/arranger/
 佊 佊 [bi3] {pe5} /mal/
 位址 位址 [wei4 zhi3] {wai6 zi2} /emplacement/
@@ -1403,40 +1404,40 @@
 低人一等 低人一等 [di1 ren2 yi1 deng3] {dai1 jan4 jat1 dang2} /inférieur aux autres/(litt.) en dessous des autres personnes par un rang/
 低位 低位 [di1 wei4] {dai1 wai6} /bas prix (d'une action)/position basse/
 低威 低威 [di1 wei1] {dai1 wai1} /admettre un échec/
-低年級 低年级 [di1 nian2 ji2] {dai1 nin4 kap1} /une classe inférieure (e.g. première année, cours préparatoire)/
+低年級 低年级 [di1 nian2 ji2] {dai1 nin4 kap1} /classe inférieure (e.g. première année, cours préparatoire)/
 低微 低微 [di1 wei1] {dai1 mei4} /inférieur/
 低於 低于 [di1 yu2] {dai1 jyu1} /moins/sous, au dessous/
-低格 低格 [di1 ge2] {dai1 gaak3} /une personne de statut inférieure/
+低格 低格 [di1 ge2] {dai1 gaak3} /personne de statut inférieure/
 低波 低波 [di1 bo1] {dai1 bo1} /première vitesse/
 低聲下氣 低声下气 [di1 sheng1 xia4 qi4] {dai1 seng1 haa6 hei3} /être servile pour demander qqch/
 低能兒童 低能儿童 [di1 neng2 er2 tong2] {dai1 nang4 ji4 tung4} /des enfants avec un handicap mental/
 低腰褲 低腰裤 [di1 yao1 ku4] {dai1 jiu1 fu3} /des jeans à taille basse/
 低賤 低贱 [di1 jian4] {dai1 zin6} /qqn de classe inférieur/
-低音吉他 低音吉他 [di1 yin1 ji2 ta5] {dai1 jam1 gat1 taa1} /la guitare basse/
-低音結他 低音结他 [di1 yin1 jie2 ta1] {dai1 jam1 git3 taa1} /la guitare basse/
+低音吉他 低音吉他 [di1 yin1 ji2 ta5] {dai1 jam1 gat1 taa1} /guitare basse/
+低音結他 低音结他 [di1 yin1 jie2 ta1] {dai1 jam1 git3 taa1} /guitare basse/
 低頭不語 低头不语 [di1 tou2 bu4 yu3] {dai1 tau4 bat1 jyu5} /garder la tête basse sans dire un mot/
 低頭切肉，把眼看人 低头切肉，把眼看人 [di1 tou2 qie1 rou4 , ba3 yan3 kan4 ren2] {dai1 tau4 cit3 juk6 ，baa2 ngaan5 hon3 jan4} /traiter les personnes différemment en fonction d'une estimation des avantages qu'on tire en faisant ceci/
 低飛 低飞 [di1 fei1] {dai1 fei1} /voler à basse altitude/
 住喺 住喺 [zhu4 bei2] {zyu6 hai2} /vivre à (quelque part)/
 住埋 住埋 [zhu4 mai2] {zyu6 maai4} /vivre avec (qqn)/
 住宅單位 住宅单位 [zhu4 zhai2 dan1 wei4] {zyu6 zaak6 daan1 wai2} /un appartement résidentiel/
-住客會所 住客会所 [zhu4 ke4 hui4 suo3] {zyu6 haak3 wui6 so2} /une salle de détente commune/
-住家工 住家工 [zhu4 jia1 gong1] {zyu6 gaa1 gung1} /une nounou/
+住客會所 住客会所 [zhu4 ke4 hui4 suo3] {zyu6 haak3 wui6 so2} /salle de détente commune/
+住家工 住家工 [zhu4 jia1 gong1] {zyu6 gaa1 gung1} /nounou/
 住家男人 住家男人 [zhu4 jia1 nan2 ren5] {zyu6 gaa1 naam4 jan4} /père au foyer, homme au foyer/
 住家菜 住家菜 [zhu4 jia1 cai4] {zyu6 gaa1 coi3} /plats faits maison/
-住年妹 住年妹 [zhu4 nian2 mei4] {zyu6 nin4 mui6} /une jeune servante/une servante sur toute l'année/
+住年妹 住年妹 [zhu4 nian2 mei4] {zyu6 nin4 mui6} /jeune servante/servante sur toute l'année/
 住月 住月 [zhu4 yue4] {zyu6 jyut6} /soin post-natal/
 佐敦 佐敦 [zuo3 dun1] {zo3 deon1} /Jordan, un endroit à Hong Kong/
 佐敦谷 佐敦谷 [zuo3 dun1 gu3] {zo3 deon1 guk1} /Jordan Valley, un quartier résidentiel en Kowloon, Hong Kong /
-佐敦道 佐敦道 [zuo3 dun1 dao4] {zo3 deon1 dou6} /la rue Jordan, une rue à Kowloon, Hong Kong /
+佐敦道 佐敦道 [zuo3 dun1 dao4] {zo3 deon1 dou6} /rue Jordan, une rue à Kowloon, Hong Kong /
 佐理 佐理 [zuo3 li3] {zo3 lei5} /un assistant/aider (qqn à faire qqch)/
-佐賀縣 佐贺县 [zuo3 he4 xian4] {zo3 ho6 jyun6} /la préfecture de Saga, au Japon/
+佐賀縣 佐贺县 [zuo3 he4 xian4] {zo3 ho6 jyun6} /préfecture de Saga, au Japon/
 佔地 占地 [zhan4 di4] {zim3 dei6} /occuper de place au sol/
 佔領中環 占领中环 [zhan4 ling3 zhong1 huan2] {zim3 ling5 zung1 waan4} /Occupy Central with Love and Peace, «Occupons Central avec l'amour et la paix», une compagne de désobéissance civile avec but de faire pression sur le gouvernement de la République populaire de la Chine de respecter le suffrage universel à Hong Kong/
-何 何 [he2] {ho4} /un surnom chinois/quand/
-何B仔 何B仔 [he2 B zi3] {ho4 bi1 zai2} /le pénis (familier)/
-何以 何以 [he2 yi3] {ho4 ji5} /la raison (pour laquelle...)/d'où/
-何來 何来 [he2 lai2] {ho4 loi4} /une expression pour questionner l'origine de qqch/une expression pour démontrer la surprise (que qqch s'est produit)/
+何 何 [he2] {ho4} /(nom de famille)/quand/
+何B仔 何B仔 [he2 B zi3] {ho4 bi1 zai2} /(fam.) pénis/
+何以 何以 [he2 yi3] {ho4 ji5} /raison (pour laquelle...)/d'où/
+何來 何来 [he2 lai2] {ho4 loi4} /expression pour questionner l'origine de qqch/expression pour démontrer la surprise (que qqch s'est produit)/
 何俊仁 何俊仁 [he2 jun4 ren2] {ho4 zeon3 jan4} /Albert Ho, président du parti politique Hong Kong Alliance in Support of Patriotic Democratic Movements in China/
 何其 何其 [he2 qi2] {ho4 kei4} /comment/pourquoi/l'étendue de (qqch)/tant/très/
 何妨 何妨 [he2 fang2] {ho4 fong4} /pourquoi pas (faire qqch)/
@@ -1457,12 +1458,12 @@
 佗炮 佗炮 [tuo2 pao4] {to4 paau3} /porter une arme/
 佗累 佗累 [tuo2 lei3] {to1 leoi4} /être un fardeau (pour les autres)/
 佗衰 佗衰 [tuo2 shuai1] {to4 seoi1} /être une influence néfaste/(litt.) qqn qui apporte des melheurs avec soi/ 
-佗衰家 佗衰家 [tuo2 shuai1 jia1] {to4 seoi1 gaa1} /la brebis galeuse/
+佗衰家 佗衰家 [tuo2 shuai1 jia1] {to4 seoi1 gaa1} /(expr. idiom.) brebis galeuse/
 佗鐵 佗铁 [tuo2 tie3] {to4 tit3} /porter une arme/
 佘詩曼 佘诗曼 [she2 shi1 man4] {se4 si1 maan6} /Charmaine Sheh, une actrice hongkongaise/
-佛廟 佛庙 [fo2 miao4] {fat6 miu6} /un temple bouddhiste/
-佛手 佛手 [Fo2 shou3] {fat6 sau2} /la main de Bouddha, un agrume aromatique/
-佛手柑 佛手柑 [Fo2 shou3 gan1] {fat6 sau2 gam1} /la main de Bouddha, un agrume aromatique/
+佛廟 佛庙 [fo2 miao4] {fat6 miu6} /temple bouddhiste/
+佛手 佛手 [Fo2 shou3] {fat6 sau2} /main de Bouddha, un agrume aromatique/
+佛手柑 佛手柑 [Fo2 shou3 gan1] {fat6 sau2 gam1} /main de Bouddha, un agrume aromatique/
 佛誕 佛诞 [Fo2 dan4] {fat6 daan3} /l'anniversaire de Bouddha/
 佛都有火 佛都有火 [fo2 dou1 you3 huo3] {fat6 dou1 jau5 fo2} /qqch ou qqn qui met en colère même les personnes les plus paisibles/(litt.) (qqch) qui met Bouddha en colère/
 作供 作供 [zuo4 gong1] {zok3 gung1} /témoigner/
@@ -1491,7 +1492,7 @@
 作賽 作赛 [zuo4 sai4] {zok3 coi3} /participer à un concours/(sport) se battre/
 作陪 作陪 [zuo4 pei2] {zok3 pui4} /accompagner/
 作雨 作雨 [zuo4 yu3] {zok3 jyu5} /pleuvoir/
-佞人 佞人 [ning4 ren2] {ning6 jan4} /un flagorneur, flatteur, lèche-bottes/
+佞人 佞人 [ning4 ren2] {ning6 jan4} /flagorneur, flatteur, lèche-bottes/
 佞臣 佞臣 [ning4 chen2] {ning6 san4} /des fonctionnels flatteurs, lèche-bottes/
 你們的 你们的 [ni3 men5 de5] {nei5 mun4 dik1} /votre/le ou la vôtre/
 你做初一，我做十五 你做初一，我做十五 [ni3 zuo4 chu1 yi1 , wo3 zuo4 shi2 wu3] {nei5 zou6 co1 jat1 ，ngo5 zou6 sap6 ng5} /un prêté pour un rendu, oeil pour oeil, dent pour dent, (faire qqch) en représaillles/(litt.) tu m'invites pour le souper (Can.), le dîner (Fr.) le premier, je t'invite le quinze/
@@ -1520,38 +1521,38 @@
 佯攻 佯攻 [yang2 gong1] {joeng4 gung1} /faire une feinte/
 佯死 佯死 [yang2 si3] {joeng4 sei2} /faire le mort/
 佯稱 佯称 [yang2 cheng1] {joeng4 cing1} /faire semblant/mentir/
-佳偶天成 佳偶天成 [jia1 ou3 tian1 cheng2] {gaai1 ngau5 tin1 sing4} /un mariage parfait/
-佳音 佳音 [jia1 yin1] {gaai1 jam1} /une bonne nouvelle/
+佳偶天成 佳偶天成 [jia1 ou3 tian1 cheng2] {gaai1 ngau5 tin1 sing4} /mariage parfait/
+佳音 佳音 [jia1 yin1] {gaai1 jam1} /bonne nouvelle/
 併存 并存 [bing4 cun2] {bing3 cyun4} /coexistence/
 佼佼 佼佼 [jiao3 jiao3] {gaau2 gaau2} /exceptionnel, extraordinaire/
-使 使 [shi3] {sai2} /une particle finale pour des émissaires/
-使乜 使乜 [shi3 mie1] {sai2 mat1} /une expression pour exprimer l'inutilité de qqch, semblable à «à quoi sert...» ou «pourquoi»/
+使 使 [shi3] {sai2} /(arch.) particule finale pour des émissaires/
+使乜 使乜 [shi3 mie1] {sai2 mat1} /expression pour exprimer l'inutilité de qqch, semblable à «à quoi sert...» ou «pourquoi»/
 使乜講 使乜讲 [shi3 mie1 jiang3] {sai2 mat1 gong2} /certainement, bien sûr/
 使到 使到 [shi3 dao4] {sai2 dou3} /causer/
 使命感 使命感 [shi3 ming4 gan3] {si3 ming6 gam2} /vocation/
 使唔使 使唔使 [shi3 m2 shi3] {sai2 m4 sai2} /est-ce qu'on a besoin de, est-ce qu'il est nécessaire de.../
-使女 使女 [shi3 nü3] {si2 neoi5} /une servante/
-使婆 使婆 [shi3 po2] {si3 po4} /une nourrice/
-使媽 使妈 [shi3 ma1] {si2 maa1} /une nourrice (familier)/
+使女 使女 [shi3 nü3] {si2 neoi5} /servante/
+使婆 使婆 [shi3 po2] {si3 po4} /nourrice/
+使媽 使妈 [shi3 ma1] {si2 maa1} /nourrice (familier)/
 使𢃇 使𢃇 [shi3] {sai2 lei2} /faire de la voile/
 使橫手 使橫手 [shi3 guang1 shou3] {sai2 waang4 sau2} /utiliser des tactiques sournoises/
 使牛 使牛 [shi3 niu2] {si2 ngau4} /élevage de vaches/
-使用手冊 使用手册 [shi3 yong4 shou3 ce4] {si2 jung6 sau2 caak3} /un manuel, le mode d'emploi/
+使用手冊 使用手册 [shi3 yong4 shou3 ce4] {si2 jung6 sau2 caak3} /manuel, le mode d'emploi/
 使脾氣 使脾气 [shi3 pi2 qi5] {sai2 pei4 hei3} /irascible, coléreux, coléreuse/
 使費 使费 [shi3 fei4] {sai2 fai3} /dépenser (de l'argent)/
 使銅銀夾大聲 使铜银夹大声 [shi3 tong2 yin2 jia1 da4 sheng1] {sai2 tung4 ngan4 gaap3 daai6 seng1} /cacher sa culpabilité en étant hostile aux autres/avoir tort mais rester fâché contre les autres, impénitant/(litt.) parler plus fort en utilisant de la monnaie de cuivre (i.e. de la monnaie contrefaite)/
 使錢 使钱 [shi3 qian2] {sai2 cin2} /dépenser de l'argent/
 使頸 使颈 [shi3 jing3] {sai2 geng2} /se mettre en colère/
 侄仔 侄仔 [zhi2 zi3] {zat6 zai2} /neveu/
-侄婦 侄妇 [zhi2 fu4] {zat6 fu5} /la femme d'un neveu, belle-fille/
-侄心抱 侄心抱 [zhi2 xin1 bao4] {zat6 sam1 pou5} /la femme d'un neveu, belle-fillle/
+侄婦 侄妇 [zhi2 fu4] {zat6 fu5} /femme d'un neveu, belle-fille/
+侄心抱 侄心抱 [zhi2 xin1 bao4] {zat6 sam1 pou5} /femme d'un neveu, belle-fillle/
 來 来 [lai2] {loi4} /qui vient/le futur/
-來世 来世 [lai2 shi4] {loi4 sai3} /la vie après la mort/
+來世 来世 [lai2 shi4] {loi4 sai3} /vie après la mort/
 來之不易 来之不易 [lai2 zhi1 bu4 yi4] {loi4 zi1 bat1 ji6} /(qqch qui) ne vient pas facilement, qui est difficile/
-來人 来人 [lai2 ren2] {loi4 jan4} /une phrase pour appeler un(e) domestique/
-來勢 来势 [lai2 shi4] {loi4 sai3} /la force de qqch qui arrive/l'attitude de qqn qui fait son entrée/
+來人 来人 [lai2 ren2] {loi4 jan4} /expression pour appeler un(e) domestique/
+來勢 来势 [lai2 shi4] {loi4 sai3} /force de qqch qui arrive/attitude de qqn qui fait son entrée/
 來料加工 来料加工 [lai2 liao4 jia1 gong1] {loi4 liu2 gaa1 gung1} /traiter une commande avec de matériau fourni par les clients/
-來檬 来檬 [lai2 meng2] {loi4 mung1} /le citrus aurantiifolia, le limettier/
+來檬 来檬 [lai2 meng2] {loi4 mung1} /citrus aurantiifolia, le limettier/
 來歷 来历 [lai2 li4] {loi4 lik6} /l'origine, l'histoire (de qqn ou qqch)/
 來源 来源 [lai2 yuan2] {loi4 jyun4} /venir de, être issu de/
 來者 来者 [lai2 zhe3] {loi4 ze2} /qqn qui vient/les personnes à l'avenir/n'importe qui/
@@ -1561,9 +1562,9 @@
 來路貨 来路货 [lai2 lu4 huo4] {loi4 lou2 fo3} /produits importés/
 來頭 来头 [lai2tou2] {loi4 tau4} /l'origine (de qqn), contexte, histoire/
 例 例 [li4] {lai6} /réglementations/régulaire/
-例水 例水 [li4 shui3] {lai6 seoi2} /une soupe sans goût disponible dans la restaurants de Hong Kong/(litt.) l'eau habituelle/
+例水 例水 [li4 shui3] {lai6 seoi2} /soupe sans goût proposée dans la restaurants de Hong Kong/(litt.) l'eau habituelle/
 例湯 例汤 [li4 tang1] {lai6 tong1} /soupe du jour/
-例牌 例牌 [li4 pai2] {lai6 paai2} /la même chose que d'habitude/
+例牌 例牌 [li4 pai2] {lai6 paai2} /même chose que d'habitude/
 例牌菜 例牌菜 [li4 pai2 cai4] {lai6 paai4 coi3} /plat de prédilection/
 例規 例规 [li4 gui1] {lai6 kwai1} /réglementations/
 侍仔 侍仔 [shi4 zi3] {si6 zai2} /serveur/
@@ -1574,7 +1575,7 @@
 供應 供应 [gong1 ying4] {gung1 jing3} /fournir/
 供應量 供应量 [gong1 ying4 liang4] {gung1 jing3 loeng6} /niveau d'apprivisionnement (de qqch)/
 供書教學 供书教学 [gong1 shu1 jiao1 xue2] {gung1 syu1 gaau3 hok6} /payer ses propres frais de scolarité/
-供桌 供桌 [gong4 zhuo1] {gung1 coek3} /un autel/
+供桌 供桌 [gong4 zhuo1] {gung1 coek3} /autel/
 供樓 供楼 [gong1 lou2] {gung1 lau2} /rembourser un prêt hypothécaire/
 供款 供款 [gong4 kuan3] {gung1 fun2} /cotisations/rembouser (un prêt, etc.)/
 依家 依家 [yi1 jia1] {ji1 gaa1} /maintenant/actuellement/
@@ -1584,22 +1585,22 @@
 依牙鬆槓 依牙松杠 [yi1 ya2 song1 gang4] {ji1 ngaa4 sung1 gung3} /se serrer les dents/exprimer par inadvertance des émotions ou une opinion/dire n'importe quoi/(litt.) montrer ses dents et son menton/
 依牙鬆鋼 依牙松钢 [yi1 ya2 song1 gang1] {ji1 ngaa4 sung1 gong3} /se serrer les dents/exprimer par inadvertance des émotions ou une opinion/dire n'importe quoi/(litt.) montrer ses dents et son menton/
 依足 依足 [yi1 zu2] {ji1 zuk1} /suivre exactement, faire qqch à la lettre/
-依鬱 依郁 [yi1 yu4] {ji1 juk1} /un malheur imprévu/
+依鬱 依郁 [yi1 yu4] {ji1 juk1} /malheur imprévu/
 侯斯頓 侯斯顿 [hou2 si1 dun4] {hau4 si1 deon6} /Houston, une ville de l'état de Texas dans le États-Unis/
 侵攻 侵攻 [qin1 gong1] {cam1 gung1} /envahir/
 侵早 侵早 [qin1 zao3] {cam1 zou2} /l'aube/
 侵犯 侵犯 [qin1 fan4] {cam1 faan6} /envahir/
 侵犯版權 侵犯版权 [qin1 fan4 ban3 quan2] {cam1 faan6 baan2 kyun4} /l'atteinte au droit d'auteur/
-侵略戰爭 侵略战争 [qin1 lüe4 zhan4 zheng1] {cam1 loek6 zin3 zang1} /une guerre d'aggression/
-侵蝕 侵蚀 [qin1 shi2] {cam1 sik6} /la corrosion/
+侵略戰爭 侵略战争 [qin1 lüe4 zhan4 zheng1] {cam1 loek6 zin3 zang1} /guerre d'aggression/
+侵蝕 侵蚀 [qin1 shi2] {cam1 sik6} /corrosion/
 侵越 侵越 [qin1 yue4] {cam1 jyut6} /pénétrer illégalement (dans quelque part)/
 侵食 侵食 [qin1 shi2] {cam1 sik6} /corrosif/
-侸 侸 [shu4] {syu6} /un arbre/
+侸 侸 [shu4] {syu6} /arbre/
 便 便 [bian4] {bin6} /des excréments/
 便宜 便宜 [bian4 yi2] {pin4 ji4} /bon marché, pas coûteux/des avantages immérités/
 便服 便服 [bian4 fu2] {bin6 fuk6} /(une tenue) décontracté(e)/
 便衣兵 便衣兵 [bian4 yi1 bing1] {bin6 ji1 ji3 bing1} /officier en civil/
-便飯 便饭 [bian4 fan4] {bin6 faan6} /un repas simple/
+便飯 便饭 [bian4 fan4] {bin6 faan6} /repas simple/
 係 系 [xi4] {hai6} /être/oui/
 係乜係物 系乜系物 [xi4 mie1 xi4 wu4] {hai6 mat1 hai6 mat6} /quelque chose/
 係人都知 系人都知 [xi4 ren2 du1 zhi1] {hai6 jan4 dou1 zi1} /(qqch que)tout le monde sait/
@@ -1624,64 +1625,64 @@
 俄羅斯聯邦國歌 俄罗斯联邦国歌 [E2 luo2 si1 Lian2 bang1 guo2 ge1] {ngo4 lo4 si1 lyun4 bong1 gwok3 go1} /l’Hymne national de la fédération de Russie/
 俊逸 俊逸 [jun4 yi4] {zeon3 jat6} /beau et talentueux/
 俗不可耐 俗不可耐 [su2 bu4 ke3 nai4] {zuk6 bat1 ho2 noi6} /tellement abject qu'il est impossible de supporter/
-俗例 俗例 [su2 li4] {zuk6 lai6} /la façon habituelle (de faire qqch)/
-俗品 俗品 [su2 pin3] {zuk6 ban2} /un produit de mauvais goût, kitsch/
+俗例 俗例 [su2 li4] {zuk6 lai6} /façon habituelle (de faire qqch)/
+俗品 俗品 [su2 pin3] {zuk6 ban2} /produit de mauvais goût, kitsch/
 俗語 俗语 [su2 yu3] {zuk6 jyu5} /l'argot/
 俗骨 俗骨 [su2 gu3] {zuk6 gwat1} /vulgaire/
-俘虜 俘虏 [fu2 lu3] {fu1 lou5} /un(e) hotage/faire qqn prisonnier/
+俘虜 俘虏 [fu2 lu3] {fu1 lou5} /hotage/faire qqn prisonnier/
 保你大 保你大 [bao3 ni3 da4] {bou2 nei5 daai6} /j'abandonne (avec un ton sarcastique)/
 保健食品 保健食品 [bao3 jian4 shi2 pin3] {bou2 gin6 sik6 ban2} /aliments sains/
-保加利亞人 保加利亚人 [Bao3 jia1 li4 ya4 ren2] {bou2 gaa1 lei6 aa3 jan4} /la langue gulgare/
-保加利亞語 保加利亚语 [Bao3 jia1 li4 ya4 yu3] {bou2 gaa1 lei6 aa3 jyu5} /la langue bulgare/
-保姆車 保姆车 [bao3 mu3 che1] {bou2 mou5 ce1} /un autobus privé, une camionnette privée/un monospace, une mini-fourgonnette/(litt.) camionnette nounou/
+保加利亞人 保加利亚人 [Bao3 jia1 li4 ya4 ren2] {bou2 gaa1 lei6 aa3 jan4} /langue bulgare/
+保加利亞語 保加利亚语 [Bao3 jia1 li4 ya4 yu3] {bou2 gaa1 lei6 aa3 jyu5} /langue bulgare/
+保姆車 保姆车 [bao3 mu3 che1] {bou2 mou5 ce1} /autobus privé, camionnette privée/monospace, mini-fourgonnette/(litt.) camionnette nounou/
 保存期 保存期 [bao3 cun2 qi1] {bou2 cyun4 kei4} /durée de conservation/
-保安局 保安局 [bao3 an1 ju2] {bou2 on1 guk6} /le Bureau de la sécurité de Hong Kong/
+保安局 保安局 [bao3 an1 ju2] {bou2 on1 guk6} /Bureau de la sécurité de Hong Kong/
 保安費 保安费 [bao3 an1 fei4] {bou2 on1 fai3} /paiements de protection/
 保密 保密 [bao3 mi4] {bou2 mat6} /garder un secret/
 保持中立 保持中立 [bao3 chi2 zhong1 li4] {bou2 ci4 zung1 laap6} /rester neutre/
 保持者 保持者 [bao3 chi2 zhe3] {bou2 ci4 ze2} /le responsable de la tenue des registres/
-保溫杯 保温杯 [bao3 wen1 bei1] {bou2 wan1 bui1} /une bouteille thermos/
-保育員 保育员 [bao3 yu4 yuan2] {bou2 juk6 jyun4} /une gouvernante, travailleur de la garderie/
+保溫杯 保温杯 [bao3 wen1 bei1] {bou2 wan1 bui1} /bouteille thermos/
+保育員 保育员 [bao3 yu4 yuan2] {bou2 juk6 jyun4} /gouvernante, travailleur de la garderie/
 保薦 保荐 [bao3 jian4] {bou2 zin3} /recommander, soutenir (qqn)/
 保衞 保卫 [bao3 wei4] {bou2 wai6} /défendre/
-保證書 保证书 [bao3 zheng4 shu1] {bou2 zing3 syu1} /une lettre de garantie/
+保證書 保证书 [bao3 zheng4 shu1] {bou2 zing3 syu1} /lettre de garantie/
 保護裝置 保护装置 [bao3 hu4 zhuang1 zhi4] {bou2 wu6 zong1 zi3} /équipement de protection/
 保護費 保护费 [bao3 hu4 fei4] {bou2 wu6 fai3} /paiements de protection/
-保障 保障 [bao3 zhang4] {bou2 zoeng3} /la protéction/protéger/
-保險公司 保险公司 [bao3 xian3 gong1 si1] {bou2 him2 gung1 si1} /une compagnie d'assurance/
-保險業 保险业 [bao3 xian3 ye4] {bou2 him2 jip6} /le secteur des assurances/
+保障 保障 [bao3 zhang4] {bou2 zoeng3} /protéction/protéger/
+保險公司 保险公司 [bao3 xian3 gong1 si1] {bou2 him2 gung1 si1} /compagnie d'assurance/
+保險業 保险业 [bao3 xian3 ye4] {bou2 him2 jip6} /secteur des assurances/
 保險金 保险金 [bao3 xian3 jin1] {bou2 him2 gam1} /prestation d'assurance/
 保飯碗 保饭碗 [bao3 fan4 wan3] {bou2 faan6 wun2} /garder son emploi/(litt.) garder son bol de riz/
 保養期 保养朞 [bao3 yang3 ji1] {bou2 joeng5 kei4} /période de garantie/
 保養證 保养证 [bao3 yang3 zheng4] {bou2 joeng5 zing3} /carte de garantie/
 保鮮 保鲜 [bao3 xian1] {bou2 sin1} /garder la fraîcheur (d'un aliment)/
 信不信由你 信不信由你 [xin4 bu4 xin4 you2 ni3] {seon3 bat1 seon3 jau4 nei5} /croyez-le ou non/
-信仰 信仰 [xin4 yang3] {seon3 joeng5} /une croyance/
-信史 信史 [xin4 shi3] {seon3 si2} /l'histoire documentée/l'histoire crédible/une période spécifique de l'histoire/
+信仰 信仰 [xin4 yang3] {seon3 joeng5} /croyance/
+信史 信史 [xin4 shi3] {seon3 si2} /histoire documentée/histoire crédible/période spécifique de l'histoire/
 信和中心 信和中心 [xin4 he2 zhong1 xin1] {seon3 wo4 zung3 sam1} /Sino Centre, un centre commercial à Hong Kong /
 信德中心 信德中心 [xin4 de2 zhong1 xin1] {seon3 dak1 zung3 sam1} /Shun Tak Centre, un centre commercial à Hong Kong près de la gare maritime des ferrys/traversiers Hong Kong-Macau/
 信心爆棚 信心爆棚 [xin4 xin1 bao4 peng2] {seon3 sam1 baau3 paang4} /avoir beaucoup de confiance en soi/
 信息產業 信息产业 [xin4 xi1 chan3 ye4] {seon3 sik1 caan2 jip6} /l'industrie de l'information/
 信息高速公路 信息高速公路 [xin4 xi1 gao1 su4 gong1 lu4] {seon3 sik1 gou1 cuk1 gung1 lou6} /l'autoroute de l'information, l'infrastructure de l'Internet/
 信手拈來 信手拈来 [xin4 shou3 nian1 lai2] {seon3 sau2 nim1 loi4} /vif ou vive d'esprit/avoir qqch au bout des doigts/
-信物 信物 [xin4 wu4] {seon3 mat6} /un object souvenir/
-信用咭 信用咭 [xin4 yong4 ji1] {seon3 jung6 kaat1} /une carte de crédit/
-信皮 信皮 [xin4 pi2] {seon3 pei4} /une enveloppe/
-信箱 信箱 [xin4 xiang1] {seon3 soeng1} /une boîte à lettres/
-信肉 信肉 [xin4 rou4] {seon3 juk6} /le contenu d'une lettre/
-信號彈 信号弹 [xin4 hao4 dan4] {seon3 hou6 daan2} /un feu de Bengale, un signal lumineux, une fusée éclairante/
-信號槍 信号枪 [xin4 hao4 qiang1] {seon3 hou6 coeng1} /un pistolet de détresse/
+信物 信物 [xin4 wu4] {seon3 mat6} /object souvenir/
+信用咭 信用咭 [xin4 yong4 ji1] {seon3 jung6 kaat1} /carte de crédit/
+信皮 信皮 [xin4 pi2] {seon3 pei4} /enveloppe/
+信箱 信箱 [xin4 xiang1] {seon3 soeng1} /boîte à lettres/
+信肉 信肉 [xin4 rou4] {seon3 juk6} /contenu d'une lettre/
+信號彈 信号弹 [xin4 hao4 dan4] {seon3 hou6 daan2} /feu de Bengale, signal lumineux, fusée éclairante/
+信號槍 信号枪 [xin4 hao4 qiang1] {seon3 hou6 coeng1} /pistolet de détresse/
 信邪 信邪 [xin4 xie2] {seon3 ce4} /croire à l'hérésie/
 修建 修建 [xiu1 jian4] {sau1 gin3} /effectuer des travaux (sur un édifice)/
 修整 修整 [xiu1 zheng3] {sau1 zing2} /réparer/
 修橋整路 修桥整路 [xiu1 qiao2 zheng3 lu4] {sau1 kiu4 zing2 lou6} /faire du bon, faire qqch de difficile/(litt.) réparer les ponts et construire des routes/
 修橋補路 修桥补路 [xiu1 qiao2 bu3 lu4] {sau1 kiu4 bou2 lou6} /faire du bon, faire qqch de difficile/(litt.) réparer les ponts et construire des routes/
-修理工 修理工 [xiu1 li3 gong1] {sau1 lei5 gung1} /un réparateur, une réparateuse/
+修理工 修理工 [xiu1 li3 gong1] {sau1 lei5 gung1} /réparateur, une réparateuse/
 修補 修补 [xiu1 bu3] {sau1 bou2} /réparer, rénover, retoucher/
-修訂 修订 [xiu1 ding4] {sau1 ding3} /une révision, une modification, un changement/
+修訂 修订 [xiu1 ding4] {sau1 ding3} /révision, modification, changement/
 修身養性 修身养性 [xiu1 shen1 yang3 xing4] {sau1 san1 joeng5 sing3} /cultiver son esprit et améliorer son caractère/
 ???? 修遊 修游 [xiu1 you2] {sau1 jau4} /Study tour/
-修道士 修道士 [xiu1 dao4 shi4] {sau1 dou6 si6} /un moine/
+修道士 修道士 [xiu1 dao4 shi4] {sau1 dou6 si6} /moine/
 修配 修配 [xiu1 pei4] {sau1 pui3} /remettre en état d'origine/
 俯拾即是 俯拾即是 [fu3 shi2 ji2 shi4] {fu2 sap6 zik1 si6} /qqch qui qu'on trouve partout/(litt.) avoir seulement besoin de s'agenouiller pour trouver qqch/
 俹簁 俹簁 [ya4 shai1] {naa2 sai1} /être irresponsable/faire du mauvais travail/
@@ -1689,20 +1690,20 @@
 俾心機 俾心机 [bi3 xin1 ji1] {bei2 sam1 gei1} /faire de son mieux, faire un effort/
 俾錢 俾钱 [bi3 qian2] {bei2 cin2} /payer/
 俾面 俾面 [bi3 mian4] {bei2 min6} /rendre un service à qqn/
-倉 仓 [cang1] {cong1} /un entrepôt/
+倉 仓 [cang1] {cong1} /entrepôt/
 倉底貨 仓底货 [cang1 di3 huo4] {cong1 dai2 fo3} /des produits invendables, des produits qui ne sont pas populaires/(litt.) des produits au fond de l'entrepôt/
-倉頡輸入法 仓颉输入法 [cang1 Jie2 shu1 ru4 fa3] {cong1 kit3 syu1 jap6 faat3} /la méthode cangjie, une méthode d'entrée pour saisir des sinogrammes/
+倉頡輸入法 仓颉输入法 [cang1 Jie2 shu1 ru4 fa3] {cong1 kit3 syu1 jap6 faat3} /méthode cangjie, une méthode d'entrée pour saisir des sinogrammes/
 個人衛生 个人卫生 [ge4 ren2 wei4 sheng1] {go3 jan4 wai6 sang1} /hygiène personelle/
 個半 个半 [ge4 ban4] {go3 bun3} /un et demi/
-個喎 个㖞 [ge4 kuai1] {go3 waa1} /une expression pour des exclamations ou des questions/
+個喎 个㖞 [ge4 kuai1] {go3 waa1} /expression pour des exclamations ou des questions/
 個噃 个噃 [ge4 bo5] {go3 bo3} /particule en chinois signifiant «comme ça»/
 個囉 个罗 [ge4 luo2] {go3 lo1} /particule en chinois pour indiquer un affirmation, une assertion/
-個自 个自 [ge4 zi4] {go3 zi6} /un individuel, une seule personne ou chose/
+個自 个自 [ge4 zi4] {go3 zi6} /individu, une seule personne ou chose/
 個陣 个阵 [ge4 zhen4] {go3 zan6} /en ce temps-là, à l'époque, alors/
-個體 个体 [ge4 ti3] {go3 tai2} /un seul object/une entité/
+個體 个体 [ge4 ti3] {go3 tai2} /seul object/entité/
 倒 倒 [dao4] {dou2} /renverser, inverser/
 倒冧 倒冧 [dao4 lin1] {dou2 lam3} /s'effondrer/
-倒吊冇滴墨水 倒吊冇滴墨水 [dao4 diao4 mao3 di1 mo4 shui3] {dou3 diu3 mou5 dik1 mak6 seoi2} /une personne qui semble savoir beaucoup mais qui ne sait rien/(litt.) être suspendu la tête en bas sans renverser ni une goutte d'encre/
+倒吊冇滴墨水 倒吊冇滴墨水 [dao4 diao4 mao3 di1 mo4 shui3] {dou3 diu3 mou5 dik1 mak6 seoi2} /personne qui semble savoir beaucoup mais qui ne sait rien/(litt.) être suspendu la tête en bas sans renverser ni une goutte d'encre/
 倒吊沙煲 倒吊沙煲 [dao4 diao4 sha1 bao1] {dou3 diu3 saa1 bou1} /ne pas avoir assez d'argent pour la nourriture/(litt.) une marmite à l'envers/
 倒吊荷包 倒吊荷包 [dao4 diao4 he2 bao1] {dou3 diu3 ho4 baau1} /dépenser trop d'argent sans en avoir besoin/être prêt à perdre de l'argent/(litt.) vider son portefeuille/
 倒垃圾 倒垃圾 [dao4 la1 ji1] {dou3 laap6 saap3} /sortir la poubelle/
@@ -1710,18 +1711,18 @@
 倒夜香 倒夜香 [dao4 ye4 xiang1] {dou2 je6 hoeng1} /matières de vidange/
 倒屎 倒屎 [dao4 shi3] {dou2 si2} /évacuer les matières (fécales)/
 倒屎咁早 倒屎咁早 [dao4 shi3 gan1 zao3] {dou2 si2 gam3 zou2} /très tôt le matin/(litt.) tôt comme les personnes qui vident les pots de chambre/
-倒後鏡 倒后镜 [dao4 hou4 jing4] {dou3 hau6 geng3} /un rétroviseur/
+倒後鏡 倒后镜 [dao4 hou4 jing4] {dou3 hau6 geng3} /rétroviseur/
 倒掟 倒掟 [dao4 ding4] {dou3 deng3} /être suspendu à l'envers, la tête en bas/
 倒掟頭 倒掟头 [dao4 ding4 tou2] {dou3 deng3 tau4} /avoir la tête en bas/
-倒模 倒模 [dao4 mo2] {dou2 mou4} /un moule/modeler, façonner/
+倒模 倒模 [dao4 mo2] {dou2 mou4} /moule/modeler, façonner/
 倒水 倒水 [dao4 shui3] {dou2 seoi2} /verser de l'eau/
-倒汗水 倒汗水 [dao4 han4 shui3] {dou2 hon6 seoi2} /la buée/
+倒汗水 倒汗水 [dao4 han4 shui3] {dou2 hon6 seoi2} /buée/
 倒瀉 倒泻 [dao4 xie4] {dou3 se3} /renverser (un liquide)/
 倒瀉籮蟹 倒泻箩蟹 [dao4 xie4 luo2 xie4] {dou2 se2 lo4 haai5} /en désordre/
 倒牙 倒牙 [dao3 ya2] {dou2 ngaa4} /les dents sensibles/
 倒瓤 倒瓤 [dao4 rang2] {dou2 nong4} /(des melons) trop mûrs, blets/
 倒瓤冬瓜 倒瓤冬瓜 [dao4 rang2 dong1 gua1] {dou2 nong4 dung1 gwaa1} /qqn qui donne l'impression de savoir beaucoup mais qui en fait ne sait rien/(litt.) une courge cireuse blette/
-倒眼 倒眼 [dao4 yan3] {dou3 ngaan5} /le strabisme, un défaut de parallélisme des axes visuels/
+倒眼 倒眼 [dao4 yan3] {dou3 ngaan5} /strabisme, un défaut de parallélisme des axes visuels/
 倒竈 倒灶 [dao3 zao4] {dou2 zou3} /être davantage un obstacle qu'une aide/(litt.) renverser le poêle de nourriture/
 倒米 倒米 [dao4 mi3] {dou2 mai5} /détruire une entreprise/(litt.) jeter du riz/
 倒米壽星 倒米寿星 [dao4 mi3 shou4 xing5] {dou2 mai5 sau6 sing1} /qqn qui essaie d'aider mais qui finit par nuire à l'effort/(litt.) une personne qui dépense de l'argent/
@@ -1730,7 +1731,7 @@
 倒褪 倒褪 [dao4 tun4] {dou3 tan3} /reculer/empirer/ne pas faire des choses en ordre/
 倒轉頭 倒转头 [dao4 zhuan3 tou2] {dou3 zyun2 tau4} /se retourner/inverser/à l'envers/au contraire/
 倔 倔 [jue2] {gwat6} /obstiné, entêté/bourru/direct, brusque/
-倔尾龍 倔尾龙 [jue2 wei3 long2] {gwat6 mei5 lung4} /un perturbateur/qqn qui est difficile de communiquer avec/
+倔尾龍 倔尾龙 [jue2 wei3 long2] {gwat6 mei5 lung4} /perturbateur/qqn qui est difficile de communiquer avec/
 倔強 倔强 [jue2 jiang4] {gwat6 koeng5} /rigide/
 倔情 倔情 [jue2 qing2] {gwat6 cing4} /(une personne) déraisonnable, insensé/(d'une personne) froid/
 倔擂槌 倔擂槌 [jue2 lei2 chui2] {gwat6 leoi4 ceoi4} /obstiné, entêté/bourru/direct, brusque/
@@ -1742,8 +1743,8 @@
 倖免 幸免 [xing4 mian3] {hang6 min5} /échapper par hasard/
 候命 候命 [hou4 ming4] {hau6 ming6} /en état d'alerte, de garde, en attente/
 候教 候教 [hou4 jiao4] {hau6 gaau3} /en attente d'instructions/
-候機室 候机室 [hou4 ji1 shi4] {hau6 gei1 sat1} /une salle d'attente dans un aéroport/
-候鑊 候镬 [hou4 huo4] {hau6 wok6} /un cuisinier/être chargé de cuisiner/
+候機室 候机室 [hou4 ji1 shi4] {hau6 gei1 sat1} /salle d'attente dans un aéroport/
+候鑊 候镬 [hou4 huo4] {hau6 wok6} /cuisinier/être chargé de cuisiner/
 倚傍 倚傍 [yi3 bang4] {ji2 bong6} /compter sur qqch/
 倚憑 倚凭 [yi3 ping2] {ji2 pang4} /compter sur qqch/
 倚老賣老 倚老卖老 [yi3 lao3 mai4 lao3] {ji2 lou5 maai6 lou5} /qqn avec plus d'expérience qui regarde de haut ceux qui en ont moins/
@@ -1759,31 +1760,31 @@
 借書 借书 [jie4 shu1] {ze3 syu1} /emprunter un livre/
 借歪 借歪 [jie4 wai1] {ze3 me2} /excusez-moi, pardon/s'écarter (du passage de qqch ou qqn), se pousser/
 借歪啲 借歪啲 [jie4 wai1 di1] {ze3 me2 di1} /excusez-moi, pardon/s'écarter (du passage de qqch ou qqn), se pousser/
-借殼 借壳 [jie4 ke2] {ze3 hok3} /une prise de contrôle inversée/
+借殼 借壳 [jie4 ke2] {ze3 hok3} /prise de contrôle inversée/
 借水遁 借水遁 [jie4 shui3 dun4] {ze3 seoi2 deon6} /utiliser l'eau pour échapper, une phrase utilisé dans la fiction des arts martiaux/
 借花敬佛 借花敬佛 [jie4 hua1 jing4 fo2] {ze3 faa1 ging3 fat6} /prendre qqch donné par qqn pour l'offir à qqn d'autre/(litt.) emprunter une fleur pour offrier à Bouddha/
 借鑑 借鉴 [jie4 jian4] {ze3 gaam3} /faire référence à, indiquer en référence/être porté par les épaules des géants, s'appuyer sur les travaux du passé/
 借開 借开 [jie4 kai1] {ze3 hoi1} /excusez-moi, pardon (impoli)/s'écarter (du passage de qqch ou qqn), se pousser/
 借頭借路 借头借路 [jie4 tou2 jie4 lu4] {ze3 tau4 ze3 lou6} /trouvant des excuses/tournant autour du pot/
 倦容 倦容 [juan4 rong2] {gyun6 jung4} /l'air fatigué/
-倫敦金屬交易所 伦敦金属交易所 [lun2 dun1 jin1 shu3 jiao1 yi4 suo3] {leon4 deon1 gam1 suk6 gaau1 jik6 so2} /Le London Metal Exchange (Marché des métaux de Londres)/
+倫敦金屬交易所 伦敦金属交易所 [lun2 dun1 jin1 shu3 jiao1 yi4 suo3] {leon4 deon1 gam1 suk6 gaau1 jik6 so2} /London Metal Exchange (Marché des métaux de Londres)/
 倫比 伦比 [lun2 bi3] {leon4 bei2} /être égal à (qqch d'autre)/comparer/
-倫滘糕 伦滘糕 [lun2 jiao4 gao1] {leon4 gaau3 gou1} /une génoise à sucre blanc, une patisserie cantonaise/
-倫理 伦理 [lun2 li3] {leon4 lei5} /la morale, les moeurs/
+倫滘糕 伦滘糕 [lun2 jiao4 gao1] {leon4 gaau3 gou1} /génoise à sucre blanc, une patisserie cantonaise/
+倫理 伦理 [lun2 li3] {leon4 lei5} /morale, moeurs/
 值回票價 值回票价 [zhi2 hui2 piao4 jia4] {zik6 wui4 piu3 gaa3} /valoir la peine/(litt.) valoir le prix du billet/
 倾偈 倾偈 [qing1 ji4] {king1 gai2} /bavarder, placoter/
 假 假 [jia3] {gaa2} /vacances, congés/jour férié/
 假使間 假使间 [jia3 shi3 jian1] {gaa2 si2 gaan1} /si/peut-être/
 假假哋 假假哋 [jia3 jia3 di4] {gaa2 gaa2 dei2} /au moins/
 假假地 假假地 [jia3 jia3 di4] {gaa2 gaa2 dei6} /avoir l'air un peu faux/
-假單 假单 [jia3 dan1] {gaa3 daan1} /une demande de congé/
+假單 假单 [jia3 dan1] {gaa3 daan1} /demande de congé/
 假期 假期 [jia4 qi1] {gaa3 kei4} /vanaces, congé/
 假膊 假膊 [jia3 bo2] {gaa2 bok3} /des épaulettes/des épaulières/
-偈 偈 [ji4] {gai6} /une discussion, une conversation/
+偈 偈 [ji4] {gai6} /discussion, conversation/
 偈油 偈油 [ji4 you2] {gai2 jau2} /huile de graissage/
 偉大 伟大 [wei3 da4] {wai5 daai6} /magnifique/(des seins) grands/
 偏幫 偏帮 [pian1 bang1] {pin1 bong1} /favoriser qqn/
-偏門 偏门 [pian1men2] {pin1 mun4} /une porte latérale/les activités illégales des triades chinoises/
+偏門 偏门 [pian1men2] {pin1 mun4} /porte latérale/activités illégales des triades chinoises/
 做 做 [zuo4] {zou6} /cuisiner/travailler/
 做七 做七 [zuo4 qi1] {zou6 cat1} /rendre hommage à un décédé sept jours après son mort/
 做世界 做世界 [zuo4 shi4 jie5] {zou6 sai3 gaai3} /voler (qqch de qqn)/gagner sa vie/
@@ -1792,7 +1793,7 @@
 做人 做人 [zuo4 ren2] {zou6 jan4} /avoir des enfants (familier)/
 做人世 做人世 [zuo4 ren2 shi4] {zou6 jan4 sai3} /être avec quelqu'un pour la vie/
 做低 做低 [zuo4 di1] {zou6 dai1} /tuer, assassiner (qqn)/
-做冬 做冬 [zuo4 dong1] {zou6 dung1} /le souper (Can.), dîner (Fr.) du solstice d'hiver/
+做冬 做冬 [zuo4 dong1] {zou6 dung1} /souper (Can.), dîner (Fr.) du solstice d'hiver/
 做到氣咳 做到气咳 [zuo4 dao4 qi4 ke2] {zou6 dou3 hei3 kat1} /être très occupé, avoir trop à faire/(litt.) travailler jusqu'au bout du souffle/
 做功課 做功课 [zuo4 gong1 ke4] {zou6 gung1 fo3} /faire ses devoirs/préparer/
 做咗人豬仔 做咗人猪仔 [zuo4 zuo5 ren2 zhu1 zai3] {zou6 zo2 jan4 zyu1 zai2} /être vendu pour l'engagisme/(litt.) être le cochon de qqn/
@@ -1821,7 +1822,7 @@
 做百囉 做百罗 [zuo4 bai3 luo2] {zou6 baak3 lo1} /fête de cent jours pour un bébé/
 做磨心 做磨心 [zuo4 mo4 xin1] {zou6 mo4 sam1} /être l'intermédiaire/qqn qui souffre à cause de buts contradictoires de deux groupes/haïs de tous/
 做義工 做义工 [zuo4 yi4 gong1] {zou6 ji6 gung1} /faire du bénévolat/
-做老襯 做老衬 [zuo4 lao3 chen4] {zou6 lou5 can3} /un jeune marié/un gogo, un pigeon/
+做老襯 做老衬 [zuo4 lao3 chen4] {zou6 lou5 can3} /jeune marié/gogo, pigeon/
 做莊 做庄 [zuo4 zhuang1] {zou6 zong1} /être le donneur (des cartes)/
 做賊 做贼 [zuo4 zei2] {zou6 caak6} /voler/être un voleur/
 做運動 做运动 [zuo4 yun4 dong5] {zou6 wan6 dung6} /faire de l'exercice/
@@ -1837,34 +1838,34 @@
 停止 停止 [ting2 zhi3] {ting4 zi2} /mettre fin (à qqch)/suspendre (qqch)/
 停泊 停泊 [ting2 bo2] {ting4 paak3} /garer, stationner/
 停滯 停滞 [ting2 zhi4] {ting4 zai6} /se coincer, s'enliser/
-停火協定 停火协定 [ting2 huo3 xie2 ding4] {ting4 fo2 hip3 ding6} /un cessez-le-feu/
-停火協議 停火协议 [ting2 huo3 xie2 yi4] {ting4 fo2 hip3 ji5} /un cessez-le-feu/
-停牌 停牌 [ting2 pai2] {ting4 paai4} /un permis suspendu/
+停火協定 停火协定 [ting2 huo3 xie2 ding4] {ting4 fo2 hip3 ding6} /cessez-le-feu/
+停火協議 停火协议 [ting2 huo3 xie2 yi4] {ting4 fo2 hip3 ji5} /cessez-le-feu/
+停牌 停牌 [ting2 pai2] {ting4 paai4} /permis suspendu/
 停留 停留 [ting2 liu2] {ting4 lau4} /rester/s'arrêter pour un moment/
 停留時間 停留时间 [ting2 liu2 shi2 jian1] {ting4 lau4 si4 gaan3} /durée de séjour/
 停經 停经 [ting2 jing1] {ting4 ging1} /cesser d'avoir ses règles/
 停薪 停薪 [ting2 xin1] {ting4 san1} /retenir un salaire/
 停車 停车 [ting2 che1] {ting4 ce1} /garer, stationner/se ranger (un véhicule)/
 停車位 停车位 [ting2 che1 wei4] {ting4 ce1 wai2} /place de stationnement/
-停車標誌 停车标志 [ting2 che1 biao1 zhi4] {ting4 ce1 biu1 zi3} /un panneau stop/
+停車標誌 停车标志 [ting2 che1 biao1 zhi4] {ting4 ce1 biu1 zi3} /panneau stop/
 健全 健全 [jian4 quan2] {gin6 cyun4} /en bonne santé/
-健力士世界紀錄 健力士世界纪录 [jian4 li4 shi4 shi4 jie4 ji4 lu4] {gin6 lik6 si6 sai3 gaai3 gei2 luk6} /le Livre Guinness des records/
+健力士世界紀錄 健力士世界纪录 [jian4 li4 shi4 shi4 jie4 ji4 lu4] {gin6 lik6 si6 sai3 gaai3 gei2 luk6} /Livre Guinness des records/
 健在 健在 [jian4 zai4] {gin6 zoi6} /toujours en vie/
 健將 健将 [jian4 jiang4] {gin6 zoeng3} /les meilleurs athlètes/
 健步 健步 [jian4 bu4] {gin6 bou6} /en bonne santé/marcher avec vigueur/
-健美 健美 [jian4 mei3] {gin6 mei5} /le culturisme, le body-building/
+健美 健美 [jian4 mei3] {gin6 mei5} /culturisme, body-building/
 ???? 健身操 健身操 [jian4 shen1 cao1] {gin6 san1 cou1} /l'aérobic/
 偪 逼 [bi1] {bik1} /pousser/(un endroit) bondé/(une date limit qui) approche/
 偪人 逼人 [bi1 ren2] {bik1 jan4} /(un endroit) bondé/sous pression/
 側便 侧便 [ce4 bian4] {zak1 bin6} /sur un côté/
 側側膊 侧侧膊 [ce4 ce4 bo2] {zak1 zak1 bok3} /esquiver ses responsabilités/faire porter blâme à d'autres/
 側側膊唔多覺 侧侧膊唔多觉 [ce4 ce4 bo2 n2 duo1 jue2] {zak1 zak1 bok3 m4 do1 gok3} /faire qqch en secret, de manière que personne ne réalise/
-側向 侧向 [ce4 xiang4] {zak1 hoeng3} /une direction d'un côté, une direction qui n'est pas droit devant/
+側向 侧向 [ce4 xiang4] {zak1 hoeng3} /direction d'un côté, direction qui n'est pas droit devant/
 側擊 侧击 [ce4 ji1] {zak1 gik1} /flanquer, une attaque de flanque/
-側泳 侧泳 [ce4 yong3] {zak1 wing6} /la nage indienne/
+側泳 侧泳 [ce4 yong3] {zak1 wing6} /nage indienne/
 側田 侧田 [ce4 tian2] {zak1 tin4} /Justin Lo, un chanteur hongkongais/
-側線 侧线 [ce4 xian4] {zak1 sin3} /la ligne latérale (d'un poisson)/
-側翼 侧翼 [ce4 yi4] {zak1 jik6} /le flanc/
+側線 侧线 [ce4 xian4] {zak1 sin3} /ligne latérale (d'un poisson)/
+側翼 侧翼 [ce4 yi4] {zak1 jik6} /flanc/
 側膊 侧膊 [ce4 bo2] {zak1 bok3} /esquiver ses responsabilités/
 側記 侧记 [ce4 ji4] {zak1 gei3} /les feux de position/
 側跟 侧跟 [ce4 gen1] {zak1 gan1} /à côté/
@@ -1879,7 +1880,7 @@
 偷嘢 偷嘢 [tou1 ye3] {tau1 je5} /voler qqch/
 偷師 偷师 [tou1 shi1] {tau1 si1} /apprendre qqch de qqn sans qu'ils sachent/
 偷步 偷步 [tou1 bu4] {tau1 bou6} /faire un faux départ/
-偷渡客 偷渡客 [tou1 du4 ke4] {tau1 dou6 haak3} /un(e) pasager(ère) clandestin(e)/
+偷渡客 偷渡客 [tou1 du4 ke4] {tau1 dou6 haak3} /pasager(ère) clandestin(e)/
 偷睇 偷睇 [tou1 di4] {tau1 tai2} /jeter un coup d'oeil/
 ???? 偷薄 偷薄 [tou1 bo2] {tau1 bok6} /réduire l'épaisseur de qqch/
 偷走 偷走 [tou1 zou3] {tau1 zau2} /subtiliser/s'enfuir/
@@ -1891,31 +1892,31 @@
 偷食 偷食 [tou1 shi2] {tau1 sik6} /avoir une liaison/(litt.) voler la nourriture/
 偷食唔抹嘴 偷食唔抹嘴 [tou1 shi2 n2 mo3 zui3] {tau1 sik6 m4 maat3 zeoi2} /qqn qui laisse des traces après avoir triché ou fait qqch d'illégale/(litt.) ne pas essuyer la bouche après avoir mangé sans permission/
 偷龍轉鳳 偷龙转凤 [tou1 long2 zhuan3 feng4] {tau1 lung4 zyun2 fung6} /échanger qqch pour une autre sans que personne ne s'en aperçoive/(litt.) voler un dragon et le remplacer avec un phénix/
-傀儡政府 傀儡政府 [kui3 lei3 zheng4 fu3] {faai3 leoi5 zing3 fu2} /un gouvernement fantoche/
+傀儡政府 傀儡政府 [kui3 lei3 zheng4 fu3] {faai3 leoi5 zing3 fu2} /gouvernement fantoche/
 傅穎 傅颖 [fu4 ying3] {fu6 wing6} /Theresa Fu, une actrice hongkongaise/
-傍友 傍友 [bang4 you3] {bong6 jau2} /un flatteur, un béni-oui-oui/
-傍家 傍家 [bang4 jia1] {pong4 gaa1} /une maîtresse/
+傍友 傍友 [bang4 you3] {bong6 jau2} /flatteur, béni-oui-oui/
+傍家 傍家 [bang4 jia1] {pong4 gaa1} /maîtresse/
 ???? 傍水 傍水 [bang4 shui3] {bong6 seoi2} /Paying money/
-傑志 杰志 [jie2 zhi4] {git6 zi3} /le Kitchee SC, un club de football de Hong Kong/
-傖雞 伧鸡 [cang1 ji1] {caang4 gai1} /une garce/
-傖雞婆 伧鸡婆 [cang1 ji1 po2] {caang4 gai1 po4} /une garce/
-傘帳 伞帐 [san3 zhang4] {saan3 zoeng3} /une moustiquaire/
+傑志 杰志 [jie2 zhi4] {git6 zi3} /Kitchee SC, un club de football de Hong Kong/
+傖雞 伧鸡 [cang1 ji1] {caang4 gai1} /garce/
+傖雞婆 伧鸡婆 [cang1 ji1 po2] {caang4 gai1 po4} /garce/
+傘帳 伞帐 [san3 zhang4] {saan3 zoeng3} /moustiquaire/
 傢俬 傢俬 [jia1 si1] {gaa1 si1} /les meubles, le mobilier/
-傢俬舖 傢俬铺 [jia1 si1 pu4] {gaa1 si1 pou3} /un magasin de meubles/
-傢俬雜物 傢俬杂物 [jia1 si1 za2 wu4] {gaa1 si1 zaap6 mat6} /le mobilier et articles divers/
+傢俬舖 傢俬铺 [jia1 si1 pu4] {gaa1 si1 pou3} /magasin de meubles/
+傢俬雜物 傢俬杂物 [jia1 si1 za2 wu4] {gaa1 si1 zaap6 mat6} /mobilier et articles divers/
 傣族 傣族 [Dai3 zu2] {taai3 zuk6} /les Dai, un groupe ethnique dans le sud du province Yunnan en China/
 𠌥 𠆿 [] {wu1} /se pencher, se baisser/
 𠌥低 𠆿低 [] {wu1 dai1} /se pencher, se baisser/
 催 催 [cui1] {ceoi1} /se dépêcher/
-催化裂化 催化裂化 [cui1 hua4 lie4 hua4] {ceoi1 faa3 lit6 faa3} /le craquage catalytique, un procédé de raffinage utilisé dans la fabrication du carburant/
-催命符 催命符 [cui1 ming4 fu2] {ceoi1 meng6 fu4} /un sort taoïst pour accélérer la mort de qqn/qqn qui demande toujours aux autres de se dépêcher/une mesure devastateur prise sur qqn/
+催化裂化 催化裂化 [cui1 hua4 lie4 hua4] {ceoi1 faa3 lit6 faa3} /craquage catalytique, un procédé de raffinage utilisé dans la fabrication du carburant/
+催命符 催命符 [cui1 ming4 fu2] {ceoi1 meng6 fu4} /sort taoïst pour accélérer la mort de qqn/qqn qui demande toujours aux autres de se dépêcher/mesure devastatrice prise sur qqn/
 催命鬼 催命鬼 [cui1 ming4 gui3] {ceoi1 meng6 gwai2} /qqn qui encourage les autres à mourir plus vite/
-催妝 催妆 [cui1 zhuang1] {ceoi1 zong1} /un coutume de la China antique, où la mariée ne s'habille pas dans sa robe de mariée jusqu'à ce que son marié lui demande plusieurs fois/
+催妝 催妆 [cui1 zhuang1] {ceoi1 zong1} /coutume de la China antique, où la mariée ne s'habille pas dans sa robe de mariée jusqu'à ce que son marié lui demande plusieurs fois/
 催穀 催穀 [cui1 gou4] {ceoi1 guk1} /encourager, stimuler/
-傭金 佣金 [yong4 jin1] {jung4 gam1} /une commission (pour une vente)/
+傭金 佣金 [yong4 jin1] {jung4 gam1} /commission (pour une vente)/
 傳信 传信 [chuan2 xin4] {cyun4 seon3} /passer un message/
-傳信鴿 传信鸽 [chuan2 xin4 ge1] {cyun4 seon3 gap3} /un pigeon voyager/
-傳奇 传奇 [chuan2 qi2] {cyun4 kei4} /une légende/
+傳信鴿 传信鸽 [chuan2 xin4 ge1] {cyun4 seon3 gap3} /pigeon voyageur/
+傳奇 传奇 [chuan2 qi2] {cyun4 kei4} /mythe, légende/
 傳授 传授 [chuan2 shou4] {cyun4 sau6} /transmettre (des idées, coutumes, etc)/
 傳播 传播 [chuan2 bo1] {cyun4 bo3} /diffuser, radiodiffuser/
 傳播媒介 传播媒介 [chuan2 bo1 mei2 jie4] {cyun4 bo3 mui4 gaai3} /les médias de masse/
@@ -1925,33 +1926,33 @@
 傳統教育 传统教育 [chuan2 tong3 jiao4 yu4] {cyun4 tung2 gaau3 juk6} /l'éducation traditionelle/
 傳統觀念 传统观念 [chuan2 tong3 guan1 nian4] {cyun4 tung2 gun1 nim6} /les croyances traditionelles/
 傳經送寶 传经送宝 [chuan2 jing1 song4 bao3] {cyun4 ging1 sung3 bou2} /transmettre des expériences de valeur/
-傳説 传说 [chuan2 shuo1] {cyun4 syut3} /une légende/
+傳説 传说 [chuan2 shuo1] {cyun4 syut3} /légende/
 傳送 传送 [chuan2 song4] {cyun4 sung3} /envoyer/transmettre/
 傳遞 传递 [chuan2 di4] {cyun4 dai6} /transmettre/
 傴僂 伛偻 [yu3 lou2] {jyu2 lau4} /bossu/
-債仔 债仔 [zhai4 zi3] {zaai3 zai2} /un débiteur, une débitrice/
-債務國 债务国 [zhai4 wu4 guo2] {zaai3 mou6 gwok3} /une nation endettée/
+債仔 债仔 [zhai4 zi3] {zaai3 zai2} /débiteur, débitrice/
+債務國 债务国 [zhai4 wu4 guo2] {zaai3 mou6 gwok3} /nation endettée/
 傷 伤 [shang1] {soeng1} /se sentir blessé/
 傷害 伤害 [shang1 hai4] {soeng1 hoi6} /blesser, faire du mal à/nuire/
-傷心 伤心 [shang1 xin1] {soeng1 sam1} /la tristesse, le chagrin/
+傷心 伤心 [shang1 xin1] {soeng1 sam1} /tristesse, chagrin/
 傷風 伤风 [shang1 feng1] {soeng1 fung1} /le froid/
 傻事 傻事 [sha3 shi4] {so4 si6} /des choses absurdes/
-傻人 傻人 [sha3 ren2] {so4 jan4} /un(e) idiot(e)/
-傻仔 傻仔 [sha3 zi3] {so4 zai2 } /un idiot/
+傻人 傻人 [sha3 ren2] {so4 jan4} /idiot(e)/
+傻仔 傻仔 [sha3 zi3] {so4 zai2 } /idiot/
 傻仔水 傻仔水 [sha3 zi3 shui3] {so4 zi2 seoi2} /l'alcool/(litt.) l'eau des idiots/
-傻佬 傻佬 [sha3 lao3] {so4 lou2} /un idiot/
+傻佬 傻佬 [sha3 lao3] {so4 lou2} /idiot/
 傻傻哋 傻傻哋 [sha3 sha3 di4] {so4 so4 dei6} /l'air stupide, idiot, bête, fou/
 傻傻戇戇 傻傻戆戆 [sha3 sha3 zhuang4 zhuang4] {so4 so4 ngong6 ngong6} /stupide, bête, idiot/
-傻女 傻女 [sha3 nü3] {so4 neoi5} /une idiote/
-傻妹 傻妹 [sha3 mei4] {so4 mui6} /une idiote/
-傻婆 傻婆 [sha3 po2] {so4 po4} /une idiote/une handicapée mentale/
+傻女 傻女 [sha3 nü3] {so4 neoi5} /idiote/
+傻妹 傻妹 [sha3 mei4] {so4 mui6} /idiote/
+傻婆 傻婆 [sha3 po2] {so4 po4} /idiote/handicapée mentale/
 傻更 傻更 [sha3 geng4] {so4 gaang1} /stupide, bête, idiot/
 傻更更 傻更更 [sha3 geng1 geng1] {so4 gang3 gang3} /stupide, bête, idiot/
-傻瓜機 傻瓜机 [sha3 gua1 ji1] {so4 gwaa1 gei1} /un appareil photographique compact/(litt.) un appareil pour les idiots/
-傻豬 傻猪 [sha3 zhu1] {so4 zyu1} /un(e) idiot(e)/(litt.) un cochon idiot/
-傻閪 傻閪 [sha3 se1] {so4 hai1} /un(e) idiot(e)/(litt.) un vagin stupide (vulgaire)/
-傻雞 傻鸡 [sha3 ji1] {so4 gai1} /une idiote/
-傾 倾 [qing1] {king1} /la domination/bavarder, placoter/
+傻瓜機 傻瓜机 [sha3 gua1 ji1] {so4 gwaa1 gei1} /appareil photographique compact/(litt.) appareil pour les idiots/
+傻豬 傻猪 [sha3 zhu1] {so4 zyu1} /idiot(e)/(litt.) un cochon idiot/
+傻閪 傻閪 [sha3 se1] {so4 hai1} /idiot(e)/(litt.) un vagin stupide (vulgaire)/
+傻雞 傻鸡 [sha3 ji1] {so4 gai1} /idiote/
+傾 倾 [qing1] {king1} /domination/bavarder, placoter/
 傾世界 倾世界 [qing1 shi4 jie4] {king1 sai3 gaai3} /Harangue/
 傾偈 倾偈 [qing1 ji4] {king1 gai2} /bavader, placoter/
 傾力 倾力 [qing1 li4] {king1 lik6} /essayer de son mieux/
@@ -1969,57 +1970,57 @@
 傾電話 倾电话 [qing1 dian4 hua4] {king1 din6 waa2} /parler au téléphone/
 僅僅 仅仅 [jin3 jin3] {gan2 gan2} /de peu, de justesse/
 僅次於 仅次于 [jin3 ci4 yu2] {gan2 ci3 jyu1} /être deuxième de justesse/
-僆 僆 [lian4] {lin5} /un poussin/des jumeaux ou de jumelles/
-僆仔 僆仔 [lian2 zi3] {leng1 zai2} /un homme naïf/
-僆女 僆女 [lian2 nü3] {leng1 neoi5} /une fille adolescente/
-僆妹 僆妹 [lian2 mei4] {leng1 mui6} /une petite fille (péjoratif)/
-僆模 僆模 [lian2 mo2] {leng1 mou4} /un modèle de qualité inférieure/
-像 像 [xiang4] {zoeng6} /ressembler, avoir l'air de/une statue/le nombre de pixels dans un appareil photo/
+僆 僆 [lian4] {lin5} /poussin/jumeaux ou jumelles/
+僆仔 僆仔 [lian2 zi3] {leng1 zai2} /homme naïf/
+僆女 僆女 [lian2 nü3] {leng1 neoi5} /fille adolescente/
+僆妹 僆妹 [lian2 mei4] {leng1 mui6} /petite fille (péjoratif)/
+僆模 僆模 [lian2 mo2] {leng1 mou4} /modèle de qualité inférieure/
+像 像 [xiang4] {zoeng6} /ressembler, avoir l'air de/statue/nombre de pixels dans un appareil photo/
 像是 象是 [xiang4 shi4] {zoeng6 si6} /avoir l'air de/
 僑匯 侨汇 [qiao2 hui4] {kiu4 wui6} /des versements, des virements outre-mer/
 僑眷 侨眷 [qiao2 juan4] {kiu4 gyun3} /les membres de la familles des Chinois d'outre-mer/
-僑領 侨领 [qiao2 ling3] {kiu4 ling5} /les chef des Chinois d'outre-mer/
-僕從 仆从 [pu2 cong2] {buk6 cung4} /un(e) domestique/
+僑領 侨领 [qiao2 ling3] {kiu4 ling5} /les dirigeant des Chinois d'outre-mer/
+僕從 仆从 [pu2 cong2] {buk6 cung4} /domestique/serviteur/
 僚屬 僚属 [liao2 shu3] {liu4 suk6} /le personnel/
-僭建 僭建 [jian4 jian4] {cim5 gin3} /des immeubles ou des extensions d'immeuble illégaux/une augmentation mammaire/
+僭建 僭建 [jian4 jian4] {cim5 gin3} /immeubles ou extensions d'immeuble illégaux/augmentation mammaire/
 僭建屋 僭建屋 [jian4 jian4 wu1] {cim5 gin3 uk1} /des immeubles illégaux/
-僱主 雇主 [gu4 zhu3] {gu3 zyu2} /un employeur/
+僱主 雇主 [gu4 zhu3] {gu3 zyu2} /employeur/
 僱傭 雇佣 [gu4 yong1] {gu3 jung4} /être un employé/embaucher/
-僱傭兵 雇佣兵 [gu4 yong1 bing1] {gu3 jung4 bing1} /un mercenaire/
-僱員 雇员 [gu4 yuan2] {gu3 jyun4} /un(e) employé(e)/
-價值規律 价值规律 [jia4 zhi2 gui1 lü4] {gaa3 zik6 kwai1 leot6} /la théorie de la valeur, un concept marxiste d'analyse économique/
-價錢牌 价钱牌 [jia4 qian5 pai2] {gaa3 cin4 paai4} /l'étiquette de prix/
+僱傭兵 雇佣兵 [gu4 yong1 bing1] {gu3 jung4 bing1} /mercenaire/
+僱員 雇员 [gu4 yuan2] {gu3 jyun4} /employé(e)/
+價值規律 价值规律 [jia4 zhi2 gui1 lü4] {gaa3 zik6 kwai1 leot6} /théorie de la valeur, un concept marxiste d'analyse économique/
+價錢牌 价钱牌 [jia4 qian5 pai2] {gaa3 cin4 paai4} /étiquette de prix/
 僽 僽 [zhou4] {zau3} /inquiété/pressé, rapide/
 儀器 仪器 [yi2qi4] {ji4 hei3} /de l'équipement, des appareils/
-儀容 仪容 [yi2rong2] {ji4 jung4} /un air, un aspect, l'apparence/
+儀容 仪容 [yi2rong2] {ji4 jung4} /air, aspect, apparence/
 儀態萬方 仪态万方 [yi2 tai4 wan4 fang1] {ji4 taai3 maan6 fong1} /(d'une femme) élégante, gracieuse/
 儆惜 儆惜 [jing3 xi1] {ging2 sik1} /respecter et chérir/
 儉樸 俭朴 [jian3 pu3] {gim6 pok3} /(une personne) économe, chiche/
-儒林 儒林 [ru2 lin2] {jyu4 lam4} /un genre d'opéra/Rulin waishi (ou Julin waishi), la Chronique indiscrète des mandarins, un roman satirique/
-儒艮 儒艮 [ru2 gen4] {jyu4 gan3} /le dugong/
-儕嘩嘩 侪哗哗 [chai2 hua1 hua1] {caai4 waa1 waa1} /se grouper par hasard/un group qui bavarde et qui rit/
-優 优 [you1] {jau1} /une actrice (des médias japonais)/remonter (des pantalons)/
-優先權 优先权 [you1 xian1 quan2] {jau1 sin1 kyun4} /le droit à une haute priorité/
-優先發展 优先发展 [you1 xian1 fa1 zhan3] {jau1 sin1 faat3 zin2} /une grande priorité dans le développement/
-優勝 优胜 [you1 sheng4] {jau1 sing3} /un avantage/
-優勝者 优胜者 [you1 sheng4 zhe3] {jau1 sing3 ze2} /le gagnant/
+儒林 儒林 [ru2 lin2] {jyu4 lam4} /genre d'opéra/Rulin waishi (ou Julin waishi), la Chronique indiscrète des mandarins, un roman satirique/
+儒艮 儒艮 [ru2 gen4] {jyu4 gan3} /dugong/
+儕嘩嘩 侪哗哗 [chai2 hua1 hua1] {caai4 waa1 waa1} /se grouper par hasard/group qui bavarde et qui rit/
+優 优 [you1] {jau1} /actrice (des médias japonais)/remonter (des pantalons)/
+優先權 优先权 [you1 xian1 quan2] {jau1 sin1 kyun4} /droit à une haute priorité/
+優先發展 优先发展 [you1 xian1 fa1 zhan3] {jau1 sin1 faat3 zin2} /grande priorité dans le développement/
+優勝 优胜 [you1 sheng4] {jau1 sing3} /avantage/
+優勝者 优胜者 [you1 sheng4 zhe3] {jau1 sing3 ze2} /gagnant/
 優化組合 优化组合 [you1 hua4 zu3 he2] {jau1 faa3 zou2 hap6} /l’optimisation combinatoire/
 優客李林 优客李林 [you1 ke4 li3 lin2] {jau1 haak3 lei5 lam4} /Ukulele, un groupe de musique taïwanais/
 優惠 优惠 [you1 hui4] {jau1 wai6} /des promotions, des rabais/
 優惠價 优惠价 [you1 hui4 jia4] {jau1 wai6 gaa3} /des prix promotionnels/
-優惠待遇 优惠待遇 [you1 hui4 dai4 yu4] {jau1 wai6 doi6 jyu6} /le traitement préférentiel/
+優惠待遇 优惠待遇 [you1 hui4 dai4 yu4] {jau1 wai6 doi6 jyu6} /traitement préférentiel/
 優生 优生 [you1 sheng1] {jau1 sang1} /des étudidant studieux et étudiantes studieuses/étudiant(e)s dans le tableu d'honneur/
-優越感 优越感 [you1 yue4 gan3] {jau1 jyut6 gam2} /le sentiment de supériorité/
+優越感 优越感 [you1 yue4 gan3] {jau1 jyut6 gam2} /sentiment de supériorité/
 儲 储 [chu3] {cyu5} /emmagasiner, stocker/économiser (de l'argent)/
-儲值 储值 [chu3 zhi2] {cyu5 zik6} /prepaid; stored value /
-儲值票 储值票 [chu2 zhi2 piao4] {cyu5 zik6 piu3} /stored value ticket or card/
-儲備基金 储备基金 [chu3 bei4 ji1 jin1] {cyu5 bei6 gei1 gam1} / Reserve fund/
-儲備量 儲备量 [chu3 bei4 liang4] {cyu5 bei6 loeng6} /Reserves/
-儲埋 储埋 [chu3 mai2] {cyu5 maai4} /stored/
-儲存 储存 [chu3cun2] {cyu5 cyun4} /(verb) (of computer) Save (a file);   /
-儲物室 储物室 [chu3 wu4 shi4] {cyu5 mat6 sat1} /Storage Room/
-儲蓄存款 储蓄存款 [chu3 xu4 cun2 kuan3] {cyu5 cuk1 cyun4 fun2} /savings deposit /
-儲蓄所 储蓄所 [chu3 xu4 suo3] {cyu5 cuk1 so2} /Savings Bank/
+儲值 储值 [chu3 zhi2] {cyu5 zik6} /(une carte) prépayé(e), de valeur stockée/
+儲值票 储值票 [chu2 zhi2 piao4] {cyu5 zik6 piu3} /billet ou carte de valeur stockée/
+儲備基金 储备基金 [chu3 bei4 ji1 jin1] {cyu5 bei6 gei1 gam1} /fonds souverain/
+儲備量 儲备量 [chu3 bei4 liang4] {cyu5 bei6 loeng6} /réserve (de qqch)/
+儲埋 储埋 [chu3 mai2] {cyu5 maai4} /stocké (de valeur sur une carte, etc.)/
+儲存 储存 [chu3 cun2] {cyu5 cyun4} /sauvegarder (un fichier)/
+儲物室 储物室 [chu3 wu4 shi4] {cyu5 mat6 sat1} /réserve, local pour marchandises/
+儲蓄存款 储蓄存款 [chu3 xu4 cun2 kuan3] {cyu5 cuk1 cyun4 fun2} /dépôt d'épargne/
+儲蓄所 储蓄所 [chu3 xu4 suo3] {cyu5 cuk1 so2} /caisse d'épargne/
 儲蓄銀行 储蓄银行 [chu3 xu4 yin2 hang2] {cyu5 cuk1 ngan4 hong4} /Savings Bank/
 儲蓄額 储蓄额 [chu3 xu4 e2] {cyu5 cuk1 ngaak6} /Savings amount/
 儲郵票 储邮票 [chu3 you2 piao4] {cyu5 jau4 piu3} /Collect Stamp/
