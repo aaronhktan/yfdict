@@ -3035,12 +3035,12 @@
 勾佬 勾佬 [gou1 lao3] {ngau1 lou2} /(d'une femme) qui a un liaison avec un autre homme/
 勾手指 勾手指 [gou1 shou3 zhi3] {au1 sau2 zi2} /promesse du petit doigt/
 勾搭 勾搭 [gou1 da5] {ngau1 daap3} /séduire/
-勾通 勾通 [gou1 tong1] {gau1 tung1} /to conspire or infiltrate /
+勾通 勾通 [gou1 tong1] {gau1 tung1} /conspirer, infiltrer/
 勿歇 勿歇 [wu4 xie1] {mat6 hit3} /sans interruption/
 包 包 [bao1] {baau1} /petit pain/
 包保 包保 [bao1 bao3] {baau1 bou2} /garantir, promettre/
 包剪揼 包剪揼 [bao1 jian3 beng5] {baau1 zin2 dap6} /roche-papiers-ciseaux/
-包剪𢱕 包剪𢱕 [Bao1 jian3 da1] {baau1 zin2 dap6} /roche-papiers-ciseaux/
+包剪𢱕 包剪𢱕 [bao1 jian3 da1] {baau1 zin2 dap6} /roche-papiers-ciseaux/
 包喺我身上 包喺我身上 [bao1 bei2 wo3 shen1 shang5] {baau1 hai2 ngo5 san1 soeng6} /je peux m'en occuper/
 包尾 包尾 [bao1 wei3] {baau1 mei1} /le dernier dans une liste, une compétition/
 ???? 包撞板 包撞板 [bao1 zhuang4 ban3] {baau1 zong6 baan2} /destiné à échouer/
@@ -3048,11 +3048,11 @@
 包租婆 包租婆 [bao1 zu1 po2] {baau1 zou1 po2} /propriétaire, logeuse (n.f.)/
 包羅萬有 包罗万有 [bao1 luo2 wan4 you3] {baau1 lo4 maan6 jau5} /tout compris/
 包艇 包艇 [bao1 ting3] {baau1 teng5} /réserver un bateau/
-包裝 包装 [bao1 zhuang1] {baau1 zong1} /exterior by the looks/
+包裝 包装 [bao1 zhuang1] {baau1 zong1} /emballage/
 包起 包起 [bao1 qi3] {baau1 hei2} /accepter toute responsabilité/achat de tout qui est disponible/
 包頂頸 包顶颈 [bao1 ding3 jing3] {baau1 ding2 geng2} /ergoteur, chicaneur/
 包骨 包骨 [bao1 gu3] {baau1 gwat1} /couture chevauchée, où l'envers d'un pièce tissu est au dessus de l'endroit de l'autre/
-匏瓜 匏瓜 [pao2 gua1] {paau4 gwaa1} /1. calabash      /qqn qui est talentueux/
+匏瓜 匏瓜 [pao2 gua1] {paau4 gwaa1} /calebasse/qqn qui est talentueux/
 化 化 [hua4] {faa3} /en finir avec qqch/accepter la vérité, réalité/fondre/mendier/
 化化聲 化化声 [hua4 hua4 sheng1] {faa3 faa3 seng1} /onomatopée pour le vent/
 化合物 化合物 [hua4he2wu4] {faa3 hap6 mat6} /(chimie) composé de/
@@ -3069,10 +3069,10 @@
 化肥廠 化肥厂 [hua4 fei2 chang3] {faa3 fei4 cong2} /producteur d'engrais/usine d'engrais/
 化險為夷 化险为夷 [hua4xian3wei2yi2 ] {faa3 him2 wai4 ji4} /(expr. idiom.) éviter tout risque, rester sécuritaire/
 化驗室 化验室 [hua4 yan4 shi4] {faa3 jim6 sat1} /laboratoire/
-化驗師 化验师 [hua4 yan4 shi1] {faa3 jim6 si1} /lab analyst /
+化驗師 化验师 [hua4 yan4 shi1] {faa3 jim6 si1} /analyste du laboratoire/
 化骨龍 化骨龙 [hua4 gu3 long2] {faa3 gwat1 lung4} /dépendant, qqn qui dépend sur l'argent et ressources des parents/(litt.) un poisson mythique qui fait disparaître qqn qui le mange/
 ???? 化鴟為鳳 化鸱为凤 [hua4 chi1 wei2 feng4] {faa3 ci1 wai4 fung6} /(expr. idiom.) bien gouverner une société/(litt.) transformer le mal en bien/
-北九州 北九州 [bei3 jiu3 zhou1] {bak1 gau2 zau1} /Kitakyushu, une ville au Japon/
+北九州 北九州 [bei3 jiu3 zhou1] {bak1 gau2 zau1} /Kitakyūshū, une ville au Japon/
 北京填鴨 北京填鸭 [bei3 jing1 tian2 ya1] {bak1 ging1 tin4 aap3} /canard laqué/
 北京奧運 北京奥运 [bei3 jing1 Ao4 Yun4] {bak1 ging1 ou3 wan6} /Jeux Olympiques à Beijing/
 北京西站 北京西站 [bei3 jing1 Xi1 Zhan4] {bak1 ging1 sai1 zaam6} /Beijing West Railway Station, une gare à Beijing/
@@ -3098,155 +3098,156 @@
 匡復 匡复 [kuang1 fu4] {hong1 fuk6} /sauver ou raviver une régime politique/
 匡扶 匡扶 [kuang1 fu2] {hong1 fu4} /assister/
 匡救 匡救 [kuang1 jiu4] {hong1 gau3} /sauver, porter secours à/
-匡濟 匡济 [kuang1 ji4] {hong1 zai3} /to rectify or save /
-匡衡 匡衡 [kuang1 heng2] {hong1 hang4} /Kuang Heng, a prime minister who served in the Han Dynasty, China /
-匡謬 匡谬 [kuang1 miu4] {hong1 mau6} /ridiculous; mistakes; errors /
-匯單 汇单 [hui4 dan1] {wui6 daan1} /Money Order;/
-匰 匰 [dan1] {daan1} /an instrument to hold the ancestral tablet in temples/
-匼 匼 [ke1] {hap1} /box/
-匿 匿 [ni4] {nik1} /(adjective)  anonymous/
-匿名信 匿名信 [ni4 ming2 xin4] {nik1 ming4 seon3} /anonymous letter /
-匿埋 匿埋 [ni4 mai2] {nei1 maai4} /(verb) to hide;/
-區 区 [qu1] {keoi1} /(noun)  Chinese surname/
-十 十 [shi2] {sap6} /(adverb)  all/
-十一個字 十一个字 [shi2 yi1 ge4 zi4] {sap6 jat1 go3 zi6} /1. eleven words or characters     2. fifty-five minutes /
-十一日 十一日 [shi2 yi1 ri4] {sap6 jat1 jat6} /eleven days; eleventh [date]/
-十七世紀 十七世纪 [shi2 qi1 shi4 ji4] {sap6 cat1 sai3 gei2} /17th century/
-十七日 十七日 [shi2 qi1 ri4] {sap6 cat1 jat6} /seventeen days; seventeenth [date]/
-十三么 十三么 [shi2 san1 me5] {sap6 saam1 jiu1} /13 terminal tiles, a type of winning hand in game of Mahjong /
-十三恐懼症 十三恐惧症 [shi2 san1 kong3 ju4 zheng4] {sap6 saam1 hung2 geoi6 zing3} /Triskaidekaphobia, a disorder of being scared of the digit "13"/
-十三點 十三点 [shi2 san1 dian3] {sap6 saam1 dim2} /(noun) 1. one o'clock pm or 13:00; (noun) a comic book, "Miss 13 Dot"; (slang) (of teenaged girl) naive, eccentric and silly/
-十九世紀 十九世纪 [shi2 jiu3 shi4 ji4] {sap6 gau2 sai3 gei2} /19th century/
-十九日 十九日 [shi2 jiu3 ri4] {sap6 gau2 jat6} /nineteen days; nineteenth [date]/
-十二日 十二日 [shi2 er4 ri4] {sap6 ji6 jat6} /twelve days; twelfth [date]/
-十二生肖 十二生肖 [shi2 er4 sheng1 xiao4] {sap6 ji6 saang1 ciu3} /The 12 Chinese zodiacs/
-十五二十 十五二十 [shi2 wu3 er4 shi2] {sap6 ng5 ji6 sap6} /Fifteen-Twenty, a guessing game played between two with both hands/
-十五十六 十五十六 [shi2 wu3 shi2 liu4] {sap6 ng5 sap6 luk6} /(adjective) (of making decision) uncertain; indecisive; unsure; at sixes and sevens/
-十五日 十五日 [shi2 wu3 ri4] {sap6 ng5 jat6} /fifteen days; fifteenth [date]/
-十人生九品 十人生九品 [shi2 ren2 sheng1 jiu3 pin3] {sap6 jan4 saang1 gau2 ban2} /Nine charateristics: Confident, humble, appreciated, content, knowing mistakes, calm, forgiving, and self-realized, willing/
-十個字 十个字 [shi2 ge4 zi4] {sap6 go3 zi6} /1. ten words or characters     2. fifty minutes /
-十個茶壺九個蓋 十个茶壶九个盖 [shi2 ge4 cha2 hu2 jiu3 ge4 gai4] {sap6 go3 caa4 wu4 gau2 go3 goi3} /lit. ten teapots with nine covers; meaning not capable to handle current situation or resolve current issues /
-十兆 十兆 [shi2 zhao4] {sap6 siu6} /Ten trillion/
-十八世紀 十八世纪 [shi2 ba1 shi4 ji4] {sap6 baat3 sai3 gei2} /18th century/
-十八廿二 十八廿二 [shi2 ba1 nian4 er4] {sap6 baat3 jaa6 ji6} /eighteen to twenty-two; young age (slang)/
-十八日 十八日 [shi2 ba1 ri4] {sap6 baat3 jat6} /eighteen days; eighteenth [date]/
-十八羅漢 十八罗汉 [shi2 ba1 luo2 han4] {sap6 baat3 lo4 hon3} /the Eighteen Arhats, original followers of the Buddha/
-十八般武藝 十八般武艺 [shi2 ba1 ban1 wu3 yi4] {sap6 baat3 bun1 mou5 ngai6} /skilled in various type of combat; one with great and varied abilities /
-十六日 十六日 [shi2 liu4 ri4] {sap6 luk6 jat6} /sixteen days; sixteenth [date]/
-十六進位 十六进位 [shi2 liu4 jin4 wei4] {sap6 luk6 zeon3 wai2} /Hexadecimal/
-十冤九仇 十冤九仇 [shi2 yuan1 jiu3 chou2] {sap6 jyun1 gau2 sau4} /ten wrong nine enmity, which means a deep hatred/
-十冬臘月 十冬腊月 [shi2 dong1 la4 yue4] {sap6 dung1 laap6 jyut6} /the winter lunar months of October to December /
-十分之 十分之 [shi2 fen1 zhi1] {sap6 fan1 zi1} /fraction of the tenth/
-十劃都未有一撇 十画都未有一撇 [shi2 hua4 dou1 wei4 you3 yi4 pie3] {sap6 waak6 dou1 mei6 jau5 jat1 pit3} /lit. not even one strokes drawn from the ten strokes, meaning one is far from completion or without progress /
-十卜 十卜 [shi2 bu3] {sap6 buk1} /support/
-十問九唔應 十问九唔应 [shi2 wen4 jiu3 n2 ying4] {sap6 man6 gau2 m4 jing1} /not responsive, not answering even when being asked questions many times/
-十四K 十四K [shi2 si4 K] {sap6 sei3 kei1} /a triad in Hong Kong which was the world's biggest gang in 1990s/
-十四日 十四日 [shi2 si4 ri4] {sap6 sei3 jat6} /fourteen days; fourteenth [date]/
-十字架 十字架 [shi2 zi4 jia4] {sap6 zi6 gaa2} /triazolam (drug)/
-十字車 十字车 [shi2 zi4 che1] {sap6 zi6 ce1} /ambulance (spoken)/
-十字鋤 十字锄 [shi2 zi4 chu2] {sap6 zi6 co4} /Hoe/
-十字鎬 十字镐 [shi2 zi4 gao3] {sap6 zi6 hou6} /Pickaxe/
-十室九空 十室九空 [shi2 shi4 jiu3 kong1] {sap6 sat1 gau2 hung1} /to describe a place where mass of people have either died or fled /
-十居其九 十居其九 [shi2 ju1 qi2 jiu3] {sap6 geoi1 kei4 gau2} /most probably or likely /
-十年唔耕，九年唔種 十年唔耕，九年唔种 [shi2 nian2 n2 geng1 , jiu3 nian2 m2 zhong3] {sap6 nin4 m4 gaang1 ，gau2 nin4 m4 zung3} /loss of skills if not used for a long time /
-十年樹木 十年树木 [shi2 nian2 shu4 mu4] {sap6 nin4 syu6 muk6} /lit. ten years of the tree wood, meaning it takes ten years to grow a mature tree /
-十惡不赦 十恶不赦 [shi2 e4 bu4 she4] {sap6 ok3 bat1 se3} /utterly evil and morally wrong/
-十扑 十扑 [shi2 pu1] {sap6 pok3} /Support/
-十指孖埋 十指孖埋 [shi2 zhi3 ma1 mai2] {sap6 zi2 maa1 maai4} /incapable to do anything (slang)/
-十日 十日 [shi2 ri4] {sap6 jat6} /ten days/
-十月芥菜 十月芥菜 [Shi2 yue4 gai4 cai4] {sap6 jyut6 gaai3 coi3} /when teenagers first experience love /
-十畫未有一撇 十画未有一撇 [shi2 hua4 wei4 you3 yi4 pie3] {sap6 waak6 mei6 jau5 jat1 pit3} /just saying; have not or just begin preparation (slang)/
-十畫都未有一撇 十画都未有一撇 [shi2 hua4 dou1 wei4 you3 yi4 pie3] {sap6 waak6 dou1 mei6 jau5 jat1 pit3} /lit. not even one strokes drawn from the ten strokes, meaning one is far from completion or without progress /
-十萬九千七 十万九千七 [shi2 wan4 jiu3 qian1 qi1] {sap6 maan6 gau2 cin1 cat1} /1. lit. one hundred and nine thousand and seven hundred, meaning very far     2. horse betting term in Hong Kong, meaning to bet fully on Triple Trio /
-十萬八千里 十万八千里 [shi2 wan4 ba1 qian1 li3] {sap6 maan6 baat3 cin1 lei5} /lit. one hundred and eight thousand kilometres, meaning very far away /
-十足十 十足十 [shi2 zu2 shi2] {sap6 zuk1 sap6} /normally used to describe people or things that are very similar each other; to be exactly like something/
-十進位制 十进位制 [shi2 jin4 wei4 zhi4] {sap6 zeon3 wai2 zai3} /one of the kinds of decimal numeral system, base 10/
-十隻手指有長短 十只手指有长短 [shi2 zhi1 shou3 zhi3 you3 chang2 duan3] {sap6 zek3 sau2 zi2 jau5 coeng4 dyun2} /everything/ everyone is different in the world/
-千 千 [qian1] {cin1} /(noun) 1. swindler; 2. cheat; (verb) 1. to swindle; 2. cheat (at card/gambling games)/
-千嬌百媚 千娇百媚 [qian1 jiao1 bai3 mei4] {cin1 giu1 baak3 mei6} /beautiful and charming/
-千層糕 千层糕 [qian1 ceng2 gao1] {cin1 cang4 gou1} /layered cake or dessert/
-千山萬水 千山万水 [qian1 shan1 wan4 shui3] {cin1 saan1 maan6 seoi2} /a lengthy and hard expedition/
-千揀萬揀,揀着個爛燈盞 千拣万拣,拣着个烂灯盏 [qian1 jian3 wan4 jian3 , jian3 zhe5 ge4 lan4 deng1 zhan3] {cin1 gaan2 maan6 gaan2 ,gaan2 zoek6 go3 laan6 dang1 zaan2} /after rounds of selection, one end up with the worst choice out of all /
-千斤 千斤 [qian1 jin1] {cin1 gan1} /1. a Chinese measuring unit, equals to approximately 500 kg per unit     2. very heavy; weighty /
-千祁 千祁 [qian1 Qi2] {cin1 kei4} /Please, as to hope something happen/not happen/
-千祈 千祈 [qian1 qi2] {cin1 kei4} /(slang) have to; must; need; be sure to/
-千祈唔好 千祈唔好 [qian1 qi2 m2 hao3] {cin1 kei4 m4 hou2} /I hope it won't/
-千禧 千禧 [qian1 xi3] {cin1 hei1} /millennium/
-千萬富翁 千万富翁 [qian1 wan4 fu4 weng1] {cin1 maan6 fu3 jung1} /Multi-millionaire;Rich person/
-千載 千载 [qian1 zai3] {cin1 zoi2} /A Thousand Years/
-千載一時 千载一时 [qian1 zai3 yi1 shi2] {cin1 zoi2 jat1 si4} /once in a thousand years, which means a rare opportunity/
-千里姻緣兜錯圈 千里姻缘兜错圈 [qian1 li3 yin1 yuan2 dou1 cuo4 quan1] {cin1 lei5 jan1 jyun4 dau1 co3 hyun1} /TV drama series named "A Matter of Business" broadcasted in Hong Kong by TVB in 1998/
-千里送鵝毛，物輕情意重 千里送鹅毛，物轻情意重 [qian1 li3 song4 e2 mao2 , wu4 qing1 qing2 yi4 zhong4] {cin1 lei5 sung3 ngo4 mou4 ，mat6 hing1 cing4 ji3 zung6} /Even though the gift itself costs little, but the meaning of it is what really matters/
-千錘百煉 千锤百炼 [qian1 chui2 bai3 lian4] {cin1 ceoi4 baak3 lin6} /well experienced, after hard works and harsh challenges/
-升 升 [sheng1] {sing1} /(verb)  to level up/
-升冪 升幂 [sheng1 mi4] {sing1 mik6} / Ascending Power (A mathematical term)/
-升呢 升呢 [sheng1 ne5] {sing1 ne1} /upgrade, level up/
-升平 升平 [sheng1 ping2] {sing1 ping4} /Peaceful and safe/
-升氣球 升气球 [sheng1 qi4 qiu2] {sing1 hei3 kau4} /ascending balloon /
-升水 升水 [sheng1 shui3] {sing1 seoi2} /premium (currency)/
-升盤 升盘 [sheng1 pan2] {sing1 pun4} /a bathroom or kitchen sink /
-升等考試 升等考试 [sheng1 deng3 kao3 shi4] {sing1 dang2 haau2 si5} /Promotion Examination/
-升讀 升读 [sheng1 du2] {sing1 duk6} /to move on to next stage of education, such as primary to secondary, secondary to tertiary /
-午市 午市 [wu3 shi4] {ng5 si5} /peak business period for eateries during lunch time /
-午間 午间 [wu3 jian1] {ng5 gaan1} /noon/
-午飯 午饭 [wu3 fan4] {ng5 faan6} /afternoon meal/
-午餐肉 午餐肉 [wu3 can1 rou4] {ng5 caan1 juk6} /spam; luncheon meat /
-半 半 [ban4] {bun3} /(adjective)  middle/
-半世 半世 [ban4 shi4] {bun3 sai3} /half a lifetime/
-半世人 半世人 [ban4 shi4 ren2] {bun3 sai3 jan4} /Half of a lifetime/
-半個鐘 半个钟 [ban4 ge5 zhong1] {bun3 go3 zung1} /Half an hour/
-半勒卡 半勒卡 [ban4 lei1 ka3] {bun3 lak6 kaa1} /halfway; somewhere in between /
-半吞半吐 半吞半吐 [ban4 tun1 ban4 tu3] {bun3 tan1 bun3 tou3} /mutter and mumble; indirectly spoken /
-半唐番 半唐番 [ban4 tang2 fan1] {bun3 tong4 faan1} /(noun) a mixed-race person (half Chinese, half foreign) person; something that combines Chinese and Western elements/
-半夜食黃瓜 半夜食黄瓜 [ban4 ye4 shi2 huang2 gua5] {bun3 je6 sik6 wong4 gwaa1} /eating a cucumber in midnight, which means not knowing where is the start and end/
-半天吊 半天吊 [ban4 tian1 diao4] {bun3 tin1 diu3} /(adjective) hanging in midair; suspended up high; (slang) at an impasse/
-半山 半山 [ban4 shan1] {bun3 saan1} /Mid-levels, an area situated on the northern slopes of the mountain ranges on Hong Kong Island in Hong Kong/
-半島 半岛 [ban4 dao3] {bun3 dou2} /(noun)  Usually refers to the Peninsula Hotel in Tsimshatsui Hong Kong/
-半島酒店 半岛酒店 [ban4 dao3 jiu3 dian4] {bun3 dou2 zau2 dim3} /The Peninsula Hong Kong, a hotel in Hong Kong /
-半截裙 半截裙 [ban4 jie2 qun2] {bun3 zit6 kwan4} /skirt/
-半斤八両 半斤八两 [ban4 jin1 ba1 liang3] {bun3 gan1 baat3 loeng5} /1. equality 2. getting fair returns on efforts put in (old slang)/
-半日 半日 [ban4 ri4] {bun3 jat6} /half a day/
-半晝 半昼 [ban4 zhou4] {bun3 zau3} /half day (slang)/
-半條人命 半条人命 [ban4 tiao2 ren2 ming4] {bun3 tiu4 jan4 meng6} /lit. half a life, meaning one who worked flat out at work, and have exhausted half of one's life or energy /
-半生熟 半生熟 [ban4 sheng1 shou2] {bun3 saang1 suk6} /half cooked/
-半肥瘦 半肥瘦 [ban4 fei2 shou4] {bun3 fei4 sau3} /not too fat or lean (meat)/
-半途而廢 半途而废 [ban4tu2er2fei4] {bun3 tou4 ji4 fai3} /(verb) Drop out in half way/
-半鹹半淡 半鹹半淡 [ban4 jian3 ban4 dan4] {bun3 haam4 bun3 taam5} /lit. in between salty and tasteless, meaning one has not mastered a set of skills or language /
-半鹹淡 半咸淡 [ban4 xian2 dan4] {bun3 haam4 taam5} /describes the situation where a person is speaking a language inaccurately which is not his/her mother tongue/
-卑職 卑职 [bei1 zhi2] {bei1 zik1} /I (as a lower level, such as when an employee talking to his supervisor)/
-卑路乍灣 卑路乍湾 [bei1 lu4 zha4 wan1] {bei1 lou6 乍:zaa3 waan1} /Belcher Bay, a bay off the northwest shore of Hong Kong Island in Hong Kong /
-卑鄙小人 卑鄙小人 [bei1 bi3 xiao3 ren2] {bei1 pei2 siu2 jan4} /scum; sneaky or despicable person /
-卒 卒 [cu4] {zeot1} /1. soldier 2. pawn (Chinese chess) 3. servant/
-卒之 卒之 [zu2 zhi1] {zeot1 zi1} /(adverb) at last; finally; eventually/
-卒仔 卒仔 [zu2 zi3] {zeot1 zai2} /the lowest ranking soldier; minor character/
-卓 卓 [zhuo2] {coek3} /(adjective)  Lofty/
-卓悅 卓悦 [zhuo2 yue4] {coek3 jyut6} /Bonjour, a cosmetic products chain in Hong Kong     2. outstanding; excellence /
-卓韻芝 卓韵芝 [zhuo2 yun4 zhi1] {coek3 wan5 zi1} /Vincci Cheuk, an actress and director in Hong Kong /
-卓頭 卓头 [zhuo2 tou2] {coek3 tau4} /exagerrated gimmick to catch attention/
-協定 协定 [xie2ding4] {hip3 ding6} /(verb) 1. Agree something with someone; (noun) (of government) 2. Pact/
-南丫島 南丫岛 [nan2 ya1 dao3] {naam4 aa1 dou2} /Lamma Island, an island situated in the southern seas of Hong Kong/
-南中國海 南中国海 [nan2 Zhong1 guo2 Hai3] {naam4 zung1 gwok3 hoi2} /South China Sea/
-南乳肉 南乳肉 [nan2 ru3 rou4] {naam4 jyu5 juk6} /fermented red beancurd/
-南乳花生 南乳花生 [nan2 ru3 hua1 sheng1] {naam4 jyu5 faa1 sang1} /fermented bean curd flavoured peanuts/
-南京長江大橋 南京长江大桥 [Nan2 jing1 Chang2 Jiang1 Da4 qiao2] {naam4 ging1 coeng4 gong1 daai6 kiu4} /Nanjing Yangtze River Bridge/
-南便 南便 [nan2 bian4] {naam4 bin6} /south/
-南北對話 南北对话 [Nan2 Bei3 Dui4 hua4] {naam4 bak1 deoi3 waa6} /The economic negotiation or activity between developing countries (south) and developed countries (north)./
-南北杏 南北杏 [nan2 bei3 xing4] {naam4 bak1 hang6} /apricot kernel (both sweet and bitter types)/
-南北行 南北行 [nan2 bei3 hang2] {naam4 bak1 hang4} /Nam Pei Hong, a Chinese herbal and medicinal chain in Hong Kong/
-南南合作 南南合作 [Nan2 Nan2 he2 zuo4] {naam4 naam4 hap6 zok3} /Africa-South America Cooperation/
-南國 南国 [nan2 guo2] {naam4 gwok3} /Southern China/
-南大洋 南大洋 [nan2 da4 yang2] {naam4 daai6 joeng4} /Southern Ocean, Antarctic Ocean/
-南太平洋 南太平洋 [Nan2 tai4 ping2 yang2] {naam4 taai3 ping4 joeng4} /South Pacific Ocean/
-南寒帶 南寒带 [nan2 han2 dai4] {naam4 hon4 daai3} /South Frigid Zone, the region around the south pole including Antarctica and surrounding waters/
-南方都市報 南方都市报 [Nan2 fang1 Du1 shi4 Bao4] {naam4 fong1 dou1 si5 bou3} /Southern Metropolis Daily, a newspaper in Guangzhou/
-南昌 南昌 [Nan2 chang1] {naam4 coeng1} /(noun)  Abbreviation of Nam Cheong Station, which is a station of West Rail Line of MTR in Hong Kong/
-南橋 南桥 [nan2 qiao2] {naam4 kiu4} /Southbridge (computing)/
-南洋伯 南洋伯 [Nan2 yang2 bo2] {naam4 joeng2 baak3} /Chinese men who were born and raised in Southeast Asian countries/
-南洋客 南洋客 [Nan2 yang2 ke4] {naam4 joeng4 haak3} /overseas Chinese who returned to China from South East Asia/
-南洲站 南洲站 [nan2 zhou1 zhan4] {naam4 zau1 zaam6} /Nanzhou Station, a subway station in Guangzhou, China/
-南浦 南浦 [nan2 pu3] {naam4 pou2} /1. Nanpu, an ancient name for Wanzhou in China     2. Nampo, a city in South Korea/
-南海十三郎 南海十三郎 [Nan2 Hai3 shi2 san1 lang2] {naam4 hoi2 sap6 saam1 long4} /Nam Hoi 13th Man, a nickname for Kong Yu-Miu, a famous scriptwriter for Cantonese opera/
-南溫帶 南温带 [nan2 wen1 dai4] {naam4 wan1 daai3} /South Temperatue Zone, the part of the earth's surface between the tropic of Capricorn and the Antarctic Circle/
+匡濟 匡济 [kuang1 ji4] {hong1 zai3} /sauver/
+匡衡 匡衡 [kuang1 heng2] {hong1 hang4} /Kuang Heng, un premier ministre de la dynastie Han/
+匡謬 匡谬 [kuang1 miu4] {hong1 mau6} /corriger les erreurs/ridicule/erreurs/
+匯單 汇单 [hui4 dan1] {wui6 daan1} /mandat postal/
+匰 匰 [dan1] {daan1} /instrument pour tenir la tablette ancestrale dans un sanctuaire ancestrale/
+匼 匼 [ke1] {hap1} /boîte/
+匿 匿 [ni4] {nik1} /qui est anonyme/
+匿名信 匿名信 [ni4 ming2 xin4] {nik1 ming4 seon3} /lettre anonyme/
+匿埋 匿埋 [ni4 mai2] {nei1 maai4} /cacher/
+區 区 [qu1] {keoi1} /(nom de famille)/
+十 十 [shi2] {sap6} /tout (adverbe)/
+十一個字 十一个字 [shi2 yi1 ge4 zi4] {sap6 jat1 go3 zi6} /onze mots ou caractères/cinquant-cinq minutes/
+十一日 十一日 [shi2 yi1 ri4] {sap6 jat1 jat6} /onze jours/l'onzième jour d'un mois/
+十七世紀 十七世纪 [shi2 qi1 shi4 ji4] {sap6 cat1 sai3 gei2} /dix-septième siècle/
+十七日 十七日 [shi2 qi1 ri4] {sap6 cat1 jat6} /dix-sept jours/le dix-septième jour d'un mois/
+十三么 十三么 [shi2 san1 me5] {sap6 saam1 jiu1} /treize orphelins, une main gagnante de mah-jong/
+十三恐懼症 十三恐惧症 [shi2 san1 kong3 ju4 zheng4] {sap6 saam1 hung2 geoi6 zing3} /triskaïdékaphobie, la phobie du nombre treize/
+十三點 十三点 [shi2 san1 dian3] {sap6 saam1 dim2} /treize heures, une heure de l'après-midi/"Miss 13 Dot", une bande dessinée/(d'une fille adolescente) naive, débile, excentrique/
+十九世紀 十九世纪 [shi2 jiu3 shi4 ji4] {sap6 gau2 sai3 gei2} /dix-neuvième siècle/
+十九日 十九日 [shi2 jiu3 ri4] {sap6 gau2 jat6} /dix-neuf jours/le dix-neuvième jour d'un mois/
+十二日 十二日 [shi2 er4 ri4] {sap6 ji6 jat6} /douze jours/le douzième jour d'un mois/
+十二生肖 十二生肖 [shi2 er4 sheng1 xiao4] {sap6 ji6 saang1 ciu3} /les douze signes du zodiaque chinois/
+十五二十 十五二十 [shi2 wu3 er4 shi2] {sap6 ng5 ji6 sap6} /«Quinze-vingt» un jeu de devinettes joué avec les deux mains/
+十五十六 十五十六 [shi2 wu3 shi2 liu4] {sap6 ng5 sap6 luk6} /indécis, incertain/
+十五日 十五日 [shi2 wu3 ri4] {sap6 ng5 jat6} /quinze jours/le quinzième jour d'un mois/
+十人生九品 十人生九品 [shi2 ren2 sheng1 jiu3 pin3] {sap6 jan4 saang1 gau2 ban2} /neuf caracteristiques de personnalité: confiance, humilité, appréciation, contentement, reconnaisance des erreurs, clémence, réalisation de son potentiel, et volonté/
+十個字 十个字 [shi2 ge4 zi4] {sap6 go3 zi6} /dix mots ou caractères/cinquante minutes/
+十個茶壺九個蓋 十个茶壶九个盖 [shi2 ge4 cha2 hu2 jiu3 ge4 gai4] {sap6 go3 caa4 wu4 gau2 go3 goi3} /ne pas pouvoir s'occuper de qqch/(litt.) dix théières avec neuf couvercles/
+十兆 十兆 [shi2 zhao4] {sap6 siu6} /10^13, échelle courte: dix trillions, échelle longue: dix billions/
+十八世紀 十八世纪 [shi2 ba1 shi4 ji4] {sap6 baat3 sai3 gei2} /dix-huitième siècle/
+十八廿二 十八廿二 [shi2 ba1 nian4 er4] {sap6 baat3 jaa6 ji6} /jeunesse (fam.)/(litt.) dix-huit vingt-deux/
+十八日 十八日 [shi2 ba1 ri4] {sap6 baat3 jat6} /dix-huit jours/le dix-huitième jour d'un mois/
+十八羅漢 十八罗汉 [shi2 ba1 luo2 han4] {sap6 baat3 lo4 hon3} /les dix-huit arhats, disciples originaux de Bouddha/
+???? 十八般武藝 十八般武艺 [shi2 ba1 ban1 wu3 yi4] {sap6 baat3 bun1 mou5 ngai6} /doué en plusieurs type de combat/qqn qui est talentueux/
+十六日 十六日 [shi2 liu4 ri4] {sap6 luk6 jat6} /seize jours/le seizième jour d'un mois/
+十六進位 十六进位 [shi2 liu4 jin4 wei4] {sap6 luk6 zeon3 wai2} /hexadécimal/
+十冤九仇 十冤九仇 [shi2 yuan1 jiu3 chou2] {sap6 jyun1 gau2 sau4} /haine profonde/(litt.) dix maux, neuf inimitiés/
+十冬臘月 十冬腊月 [shi2 dong1 la4 yue4] {sap6 dung1 laap6 jyut6} /mois du calendrier chinois de l'hiver correspondant à peu pres d<octobre à décembre/
+十分之 十分之 [shi2 fen1 zhi1] {sap6 fan1 zi1} /(fraction) dixième/
+十劃都未有一撇 十画都未有一撇 [shi2 hua4 dou1 wei4 you3 yi4 pie3] {sap6 waak6 dou1 mei6 jau5 jat1 pit3} /(expr. idiom.) loin d'être achevé/(litt.) même pas un trait écrit de dix/
+十畫都未有一撇
+十卜 十卜 [shi2 bu3] {sap6 buk1} /soutien/
+十問九唔應 十问九唔应 [shi2 wen4 jiu3 n2 ying4] {sap6 man6 gau2 m4 jing1} /qui ne réagit pas/(litt.) demander dix fois, sans réponse neuf fois/
+十四K 十四K [shi2 si4 K] {sap6 sei3 kei1} /14K, une triade basée à Hong Kong, la plus grande pendant les années 1990/
+十四日 十四日 [shi2 si4 ri4] {sap6 sei3 jat6} /quatorze jours/le quatorzième jour d'un mois/
+十字架 十字架 [shi2 zi4 jia4] {sap6 zi6 gaa2} /triazolam, un médicament hypnotique/
+十字車 十字车 [shi2 zi4 che1] {sap6 zi6 ce1} /ambulance/
+十字鋤 十字锄 [shi2 zi4 chu2] {sap6 zi6 co4} /binette, houe/
+十字鎬 十字镐 [shi2 zi4 gao3] {sap6 zi6 hou6} /pioche/
+十室九空 十室九空 [shi2 shi4 jiu3 kong1] {sap6 sat1 gau2 hung1} /un endroit où beaucoup de personnes sont morts ou ont pris fuite/(litt.) parmi dix salles, neuf sont vides/
+十居其九 十居其九 [shi2 ju1 qi2 jiu3] {sap6 geoi1 kei4 gau2} /probable/(litt.) neuf cas sur dix/
+十年唔耕，九年唔種 十年唔耕，九年唔种 [shi2 nian2 n2 geng1 , jiu3 nian2 m2 zhong3] {sap6 nin4 m4 gaang1 ，gau2 nin4 m4 zung3} /(expr. idiom.) perte d'habiletés si elles ne sont pas utilisées pour longtemps/(litt.) dix années sans labourer, neuf années sans semer/
+十年樹木 十年树木 [shi2 nian2 shu4 mu4] {sap6 nin4 syu6 muk6} /(expr. idiom.) il faut dix années pour faire pousser un arbre... (mais cents années pour éduquer qqn)/(litt.) dix années de bois d'arbre/
+十惡不赦 十恶不赦 [shi2 e4 bu4 she4] {sap6 ok3 bat1 se3} /complètement mal et moralement inacceptable/
+十扑 十扑 [shi2 pu1] {sap6 pok3} /soutien/
+十指孖埋 十指孖埋 [shi2 zhi3 ma1 mai2] {sap6 zi2 maa1 maai4} /(expr. idiom.) ne pas pouvoir rien faire, incapable/(litt.) dix doigts entremêlés/
+十日 十日 [shi2 ri4] {sap6 jat6} /dix jours/
+十月芥菜 十月芥菜 [Shi2 yue4 gai4 cai4] {sap6 jyut6 gaai3 coi3} /(expr. idiom.) premier amour/(litt.) moutarde chinoise d'octobre/
+十畫未有一撇 十画未有一撇 [shi2 hua4 wei4 you3 yi4 pie3] {sap6 waak6 mei6 jau5 jat1 pit3} /(expr. idiom.) loin d'être achevé/(litt.) même pas un trait écrit de dix/
+十畫都未有一撇 十画都未有一撇 [shi2 hua4 dou1 wei4 you3 yi4 pie3] {sap6 waak6 dou1 mei6 jau5 jat1 pit3} /(expr. idiom.) loin d'être achevé/(litt.) même pas un trait écrit de dix/
+十萬九千七 十万九千七 [shi2 wan4 jiu3 qian1 qi1] {sap6 maan6 gau2 cin1 cat1} /très loin/parier sur le «triple trio»; dans le lexique du sport hippique/(litt.) cent-neuf-mille-sept-cent/
+十萬八千里 十万八千里 [shi2 wan4 ba1 qian1 li3] {sap6 maan6 baat3 cin1 lei5} /très loin/(litt.) cent-mille-huit-cent kilomètres/
+十足十 十足十 [shi2 zu2 shi2] {sap6 zuk1 sap6} /deux choses qui sont très similaires, exactement le même/
+十進位制 十进位制 [shi2 jin4 wei4 zhi4] {sap6 zeon3 wai2 zai3} /système décimal/
+十隻手指有長短 十只手指有长短 [shi2 zhi1 shou3 zhi3 you3 chang2 duan3] {sap6 zek3 sau2 zi2 jau5 coeng4 dyun2} /tout le monde, tout est unique/(litt.) des dix doigts il y en a des plus courts et plus longs/
+千 千 [qian1] {cin1} /escroc, arnaqueur/escroquer, arnaquer/tricher (aux jeux de cartes)/
+千嬌百媚 千娇百媚 [qian1 jiao1 bai3 mei4] {cin1 giu1 baak3 mei6} /belle et charmante/
+千層糕 千层糕 [qian1 ceng2 gao1] {cin1 cang4 gou1} /mille-feuille, ou autre gâteau ou patisserie avec plusieurs couches/
+千山萬水 千山万水 [qian1 shan1 wan4 shui3] {cin1 saan1 maan6 seoi2} /expédition longue et dure/(litt.) mille montagnes et dix-mille eaux/
+千揀萬揀,揀着個爛燈盞 千拣万拣,拣着个烂灯盏 [qian1 jian3 wan4 jian3 , jian3 zhe5 ge4 lan4 deng1 zhan3] {cin1 gaan2 maan6 gaan2 ,gaan2 zoek6 go3 laan6 dang1 zaan2} /(expr. idiom.) après plusieurs rondes de décisions, choisir le pire choix/(litt.) mille choix, dix-mille choix, choisir l'ampoule grillée/
+千斤 千斤 [qian1 jin1] {cin1 gan1} /unité de mesure équivalent à 500kg/très lourd/
+千祁 千祁 [qian1 qi2] {cin1 kei4} /absolument, devoir/
+千祈 千祈 [qian1 qi2] {cin1 kei4} /absolument, devoir/
+千祈唔好 千祈唔好 [qian1 qi2 m2 hao3] {cin1 kei4 m4 hou2} /j'espère que (qqch ne se produise pas), il faut absolument pas que.../
+千禧 千禧 [qian1 xi3] {cin1 hei1} /millénaire/
+千萬富翁 千万富翁 [qian1 wan4 fu4 weng1] {cin1 maan6 fu3 jung1} /multimillionaire/
+千載 千载 [qian1 zai3] {cin1 zoi2} /millénaire/
+千載一時 千载一时 [qian1 zai3 yi1 shi2] {cin1 zoi2 jat1 si4} /(expr. idiom.) opportunité rare/(litt.) une fois dans un millénaire/
+千里姻緣兜錯圈 千里姻缘兜错圈 [qian1 li3 yin1 yuan2 dou1 cuo4 quan1] {cin1 lei5 jan1 jyun4 dau1 co3 hyun1} /«A Matter of Business», une émission de télé difusée à Hong Kong en 1998/
+千里送鵝毛，物輕情意重 千里送鹅毛，物轻情意重 [qian1 li3 song4 e2 mao2 , wu4 qing1 qing2 yi4 zhong4] {cin1 lei5 sung3 ngo4 mou4 ，mat6 hing1 cing4 ji3 zung6} /(expr. idiom.) c'est l'intention qui compte lorsqu'il s'agit de cadeaux/(litt.) mille kilomètres pour donner une plume d'oie, le cadeau est léger mais le sentiment est profond/
+千錘百煉 千锤百炼 [qian1 chui2 bai3 lian4] {cin1 ceoi4 baak3 lin6} /experimenté/(litt.) marteler mille fois, affiner cent fois/
+升 升 [sheng1] {sing1} /passer au niveau supérieur/
+升冪 升幂 [sheng1 mi4] {sing1 mik6} /réécrire un polynôme en ordre croissant/
+升呢 升呢 [sheng1 ne5] {sing1 ne1} /passer au niveau supérieur/
+升平 升平 [sheng1 ping2] {sing1 ping4} /calme, tranquille, sécuritaire/
+升氣球 升气球 [sheng1 qi4 qiu2] {sing1 hei3 kau4} /ballon qui s'élève dans l'air/
+升水 升水 [sheng1 shui3] {sing1 seoi2} /dans le lexique du sport hippique, gagner de l'argent/
+升盤 升盘 [sheng1 pan2] {sing1 pun4} /évier de salle de bains ou cuisine/
+升等考試 升等考试 [sheng1 deng3 kao3 shi4] {sing1 dang2 haau2 si5} /examination de promotion/
+升讀 升读 [sheng1 du2] {sing1 duk6} /passer au prochain niveau d'éducation (e.g. école primaire à secondaire, secondaire au CEGEP, CEGEP à l'université)/
+午市 午市 [wu3 shi4] {ng5 si5} /(Can.) heure du dîner, (Fr.) heure du déjeuner/
+午間 午间 [wu3 jian1] {ng5 gaan1} /midi/
+午飯 午饭 [wu3 fan4] {ng5 faan6} /(Can.) dîner, (Fr.) déjeuner/
+午餐肉 午餐肉 [wu3 can1 rou4] {ng5 caan1 juk6} /spam, pâté de porc/
+半 半 [ban4] {bun3} /(adjectif, préfixe) mi-/
+半世 半世 [ban4 shi4] {bun3 sai3} /moitié d'une vie/
+半世人 半世人 [ban4 shi4 ren2] {bun3 sai3 jan4} /moitié d'une vie/
+半個鐘 半个钟 [ban4 ge5 zhong1] {bun3 go3 zung1} /demi-heure/
+半勒卡 半勒卡 [ban4 lei1 ka3] {bun3 lak6 kaa1} /à mi-chemin/entre (deux endroits)/
+半吞半吐 半吞半吐 [ban4 tun1 ban4 tu3] {bun3 tan1 bun3 tou3} /marmonner, grommeler/
+半唐番 半唐番 [ban4 tang2 fan1] {bun3 tong4 faan1} /métis (demi-Chinois, demi-blanc)/qui combine des éléments de l'Orient et l'Occident/
+半夜食黃瓜 半夜食黄瓜 [ban4 ye4 shi2 huang2 gua5] {bun3 je6 sik6 wong4 gwaa1} /(expr. idiom.) ne pas savoir où commencer et où terminer/(litt.) manger un concombre à minuit/
+半天吊 半天吊 [ban4 tian1 diao4] {bun3 tin1 diu3} /suspendu dans les airs/dans l'impasse/
+半山 半山 [ban4 shan1] {bun3 saan1} /«Mid-levels», les mi-niveaux, une région de Hong Kong/
+半島 半岛 [ban4 dao3] {bun3 dou2} /The Peninsula Hotel Hong Kong, un hôtel de Hong Kong/
+半島酒店 半岛酒店 [ban4 dao3 jiu3 dian4] {bun3 dou2 zau2 dim3} /The Peninsula Hotel Hong Kong, un hôtel de Hong Kong/
+半截裙 半截裙 [ban4 jie2 qun2] {bun3 zit6 kwan4} /jupe/
+半斤八両 半斤八两 [ban4 jin1 ba1 liang3] {bun3 gan1 baat3 loeng5} /égalité/(expr. idiom., vieilli) on récolte ce que l'on sème/
+半日 半日 [ban4 ri4] {bun3 jat6} /demi-journée/
+半晝 半昼 [ban4 zhou4] {bun3 zau3} /demi-journée/
+半條人命 半条人命 [ban4 tiao2 ren2 ming4] {bun3 tiu4 jan4 meng6} /s'épuiser au travail/(litt.) moitié d'une vie humaine/
+半生熟 半生熟 [ban4 sheng1 shou2] {bun3 saang1 suk6} /mi-cuit/
+半肥瘦 半肥瘦 [ban4 fei2 shou4] {bun3 fei4 sau3} /pas trop maigre et pas trop gras (de viande)/
+半途而廢 半途而废 [ban4 tu2 er2 fei4] {bun3 tou4 ji4 fai3} /se retirer, abandonner au milieu/
+半鹹半淡 半鹹半淡 [ban4 jian3 ban4 dan4] {bun3 haam4 bun3 taam5} /ne pas avoir maîtrisé une langue ou une habileté/(litt.) entre salée et fade/
+半鹹淡 半咸淡 [ban4 xian2 dan4] {bun3 haam4 taam5} /qqn qui parle une langue pas maîtrisée/(litt.) entre salée et fade/
+卑職 卑职 [bei1 zhi2] {bei1 zik1} /je (respectueux)/
+卑路乍灣 卑路乍湾 [bei1 lu4 zha4 wan1] {bei1 lou6 zaa3 waan1} /Belcher Bay, une baie à Hong Kong/
+卑鄙小人 卑鄙小人 [bei1 bi3 xiao3 ren2] {bei1 pei2 siu2 jan4} /vaurien, ordure, pourriture/
+卒 卒 [cu4] {zeot1} /soldat/soldats, pions dans les échecs chiois/domestique/
+卒之 卒之 [zu2 zhi1] {zeot1 zi1} /finalement, enfin/
+卒仔 卒仔 [zu2 zi3] {zeot1 zai2} /rang le plus bas des soldats/ personnage secondaire/
+卓 卓 [zhuo2] {coek3} /haut, élevé/
+卓悅 卓悦 [zhuo2 yue4] {coek3 jyut6} /Bonjour, une chaîne de produits de beauté/extraordinaire, excellence/
+卓韻芝 卓韵芝 [zhuo2 yun4 zhi1] {coek3 wan5 zi1} /Vincci Cheuk, une actrice et réalisatrice hongkongaise/
+卓頭 卓头 [zhuo2 tou2] {coek3 tau4} /facéties exagérées pour attirer l'attention/
+協定 协定 [xie2 ding4] {hip3 ding6} /être d'accord avec qqn/accord, convention, traité/
+南丫島 南丫岛 [nan2 ya1 dao3] {naam4 aa1 dou2} /Île Lamma, une île de Hong Kong/
+南中國海 南中国海 [nan2 Zhong1 guo2 Hai3] {naam4 zung1 gwok3 hoi2} /mer de Chine méridionale/
+南乳肉 南乳肉 [nan2 ru3 rou4] {naam4 jyu5 juk6} /tofu rouge fermenté/
+南乳花生 南乳花生 [nan2 ru3 hua1 sheng1] {naam4 jyu5 faa1 sang1} /arachides à saveur de tofu rouge fermenté/
+南京長江大橋 南京长江大桥 [nan2 jing1 chang2 jiang1 da4 qiao2] {naam4 ging1 coeng4 gong1 daai6 kiu4} /grand pont de Nankin sur le Yangtsé/
+南便 南便 [nan2 bian4] {naam4 bin6} /vers le sud/
+南北對話 南北对话 [nan2 bei3 dui4 hua4] {naam4 bak1 deoi3 waa6} /activité économique entre le sud et le nord/
+南北杏 南北杏 [nan2 bei3 xing4] {naam4 bak1 hang6} /noyau d'abricot/
+南北行 南北行 [nan2 bei3 hang2] {naam4 bak1 hang4} /Nam Pei Hong, une chaîne de médicaments à Hong Kong/
+南南合作 南南合作 [Nan2 Nan2 he2 zuo4] {naam4 naam4 hap6 zok3} /coopération entre l'Amérique du Sud et l'Afrique/
+南國 南国 [nan2 guo2] {naam4 gwok3} /Chine du sud/
+南大洋 南大洋 [nan2 da4 yang2] {naam4 daai6 joeng4} /Océan Austral/
+南太平洋 南太平洋 [Nan2 tai4 ping2 yang2] {naam4 taai3 ping4 joeng4} /Océan Pacifique Sud/
+南寒帶 南寒带 [nan2 han2 dai4] {naam4 hon4 daai3} /«South Frigid Zone», une région autour de l'Antarctique/
+南方都市報 南方都市报 [Nan2 fang1 Du1 shi4 Bao4] {naam4 fong1 dou1 si5 bou3} /Southern Metropolis Daily, un journal de Guangzhou/
+南昌 南昌 [Nan2 chang1] {naam4 coeng1} /station Nam Cheong, station de la ligne du Réseau Ouest à Hong Kong/
+南橋 南桥 [nan2 qiao2] {naam4 kiu4} /southbridge, une des deux puces du chipset d'une carte mère/
+南洋伯 南洋伯 [nan2 yang2 bo2] {naam4 joeng2 baak3} /hommes chinois qui sont nés et ont grandi dans les pays de l'Asie du Sud-Ouest/
+南洋客 南洋客 [nan2 yang2 ke4] {naam4 joeng4 haak3} /hommes chinois qui sont revenus à Chine venant de l'Asie du Sud-Ouest/
+南洲站 南洲站 [nan2 zhou1 zhan4] {naam4 zau1 zaam6} /station Nanzhou, une station de métro à Guangzhou, Chine/
+南浦 南浦 [nan2 pu3] {naam4 pou2} /Nanpu, un nom ancien de Wanzhou en Chine/Nampo, une ville de la Corée du Sud/
+南海十三郎 南海十三郎 [Nan2 Hai3 shi2 san1 lang2] {naam4 hoi2 sap6 saam1 long4} /«Nam Hoi 13th Man», le treizième homme de Nam Hoi, un surnom pour Kong Yu-Miu, scénariste de l'opéra cantonais/
+南溫帶 南温带 [nan2 wen1 dai4] {naam4 wan1 daai3} /«South Temperate Zone», zone tempérée du sud, la partie de la Terre entre le tropique du Capricorne et le cercle antarctique/
 南無佬 南无佬 [na1 mo2 lao3] {naam4 mou4 lou2} /taoist priest/
 南生圍 南生围 [nan2 sheng1 wei2] {naam4 sang1 wai4} /Nam Sang Wai, a tourist attration in New Territories, Hong Kong/
 南華李 南华李 [nan2 hua2 li3] {naam4 waa4 lei5} /South China plum/
