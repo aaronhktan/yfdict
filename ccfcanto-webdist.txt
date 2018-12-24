@@ -2828,7 +2828,7 @@
 前後左右 前后左右 [qian2 hou4 zuo3 you4] {cin4 hau6 zo2 jau6} /environs/
 前後腳 前后脚 [qian2 hou4 jiao3] {cin4 hau6 goek3} /arriver un après l'autre pour éviter d'attirer l'attention/
 前思后想 前思后想 [qian2 si1 hou4 xiang3] {cin4 si1 hau6 soeng2} /bien réfléchir/
-前排 前排 [qian2 pai2] {cin4 paai4} /avant/auparavant/il y a peu de temps/première rangée/
+前排 前排 [qian2 pai2] {cin4 paai4} /avant/auparavant/ces derniers temps/première rangée/
 前提 前提 [qian2 ti2] {cin4 tai4} /précondition préalable/
 前晚 前晚 [qian2 wan3] {cin4 maan5} /nuit d'avant-hier/
 前海灣站 前海湾站 [qian2 hai3 wan1 zhan4] {cin4 hoi2 waan1 zaam6} /station Qianhaiwan, une station de métro à Shenzhen, Chine/
@@ -3748,263 +3748,262 @@
 君子協定 君子协定 [jun1 zi3 xie2 ding4] {gwan1 zi2 hip3 ding6} /accord informel/
 君悅酒店 君悦酒店 [jun1 yue4 jiu3 dian4] {gwan1 jyut6 zau2 dim3} /Grand Hyatt, une chaîne d'hôtels/
 君真 君真 [jun1 zhen1] {gwan1 zan1} /fiable, authentique/
-君臨天下 君临天下 [jun1 lin2 tian1 xia4] {gwan1 lam4 tin1 haa6} /The Harhourside, name of a real estate in Hong Kong; the king is superior and leads the world/
-吞 吞 [tun1] {tan1} /take possession/
-吞口水養命 吞口水养命 [tun1 kou3 shui3 yang3 ming4] {tan1 hau2 seoi2 joeng5 meng6} /lit. to survive on swallowing saliva, meaning one who is extremely poor/
-吞咗火藥 吞咗火药 [tun1 zuo5 huo3 yao4] {tan1 zo2 fo2 joek6} /angry; bad temper/
-吞拿魚三文治 吞拿鱼三文治 [tun1 na2 yu2 san1 wen2 zhi4] {tan1 naa4 jyu2 saam1 man4 zi6} /Tuna sandwich/
-吞槍 吞枪 [tun1 qiang1] {tan1 coeng1} /to commit suicide by shooting oneself in the throat with a gun/
-吞樸 吞朴 [tun1 pu3] {tan1 pok1} /Being lazy/
-吞蛋 吞蛋 [tun1 dan4] {tan1 daan2} /lit. swallow an egg, meaning to score nil or no marks in a sport match or exam /
-吞那魚 吞那鱼 [tun1 na4 yu2] {tan1 naa5 jyu4} /tuna fish/
-吟吟沉沉 吟吟沉沉 [yin2 yin2 chen2 chen2] {ngam4 ngam4 cam4 cam4} /muttering/
-吟沉 吟沉 [yin2 chen2] {ngam4 cam4} /nagging; mumbling/
-吟詩作對 吟诗作对 [yin2 shi1 zuo4 dui4] {jam4 si1 zok3 deoi3} /Composing poems and couplets/
-含冤莫白 含冤莫白 [han2 yuan1 mo4 bai2] {ham4 jyun1 mok6 baak6} /to be falsely accused and condemned/
-含含聲 含含声 [han2 han2 sheng1] {ham4 ham4 seng1} /an onomatopoeia for burning or noise from a crowded place/
-含撚 含捻 [han2 nian3] {ham4 lan2} /Blow job/
-含有 含有 [han2you3] {ham4 jau5} /(verb) 1. Include; 2. Consist of /
-含水量 含水量 [han2 shui3 liang4] {ham4 seoi2 loeng6} /Water content/
-含糊 含糊 [han2 hu5] {ham4 wu4} /unclear/
-含羞 含羞 [han2 xiu1] {ham4 sau1} /Shy/
-含血噴人 含血喷人 [han2 xue4 pen1 ren2] {ham4 hyut3 pan3 jan4} /to frame someone up for things not done/
-含飴弄孫 含饴弄孙 [han2 yi2 nong4 sun1] {ham4 ji4 lung6 syun1} /enjoying the retirement life/
-吱吱喳喳 吱吱喳喳 [zhi1 zhi1 zha1 zha1] {zi1 zi1 zaa1 zaa1} /describes someone who talks non-stop like a bird chirping/
-吱吱斟斟 吱吱斟斟 [zhi1 zhi1 zhen1 zhen1] {zi1 zi1 zam1 zam1} /whisper to one another (spoken)/
-吱喳 吱喳 [zhi1 zha1] {zi1 zaa1} /talkative; noisy chatter/
-吱喳婆 吱喳婆 [zhi1 zha1 po2] {zi1 zaa1 po2} /annoying women who always talk and gossip, who never close their mouths/
-吳亮星 吴亮星 [wu2 liang4 xing1] {ng4 loeng6 sing1} /Ng Leung-sing, name of politician/
-吳倩蓮 吴倩莲 [wu2 qian4 lian2] {ng4 sin6 lin4} /Jacklyn Wu, name of an actress/
-吳剛 吴刚 [wu2 gang1] {ng4 gong1} /Wu Gang, name of an actor/
-吳卓羲 吴卓羲 [wu2 zhuo2 Xi1] {ng4 coek3 hei1} /Ron Ng, name of an actor/
-吳君如 吴君如 [wu2 jun1 ru2] {ng4 gwan1 jyu4} /Sandra Ng, name of an actress/
-吳孟達 吴孟达 [wu2 meng4 da2] {ng4 maang6 daat6} /Ng Man Tat, name of an actor/
-吳宇森 吴宇森 [wu2 yu3 sen1] {ng4 jyu5 sam1} /John Woo Yu-Sum, a Hong Kong film director /
-吳彥祖 吴彦祖 [wu2 yan4 zu3] {ng4 jin6 zou2} /Daniel Wu, name of an actor/
-吳松街 吴松街 [wu2 song1 jie1] {ng4 cung4 gaai1} /Woo Sung Street, street in Hong Kong/
-吳浩康 吴浩康 [wu2 hao4 kang1] {ng4 hou6 hong1} /Deep Ng, name of a singer/
-吵耳 吵耳 [chao3 er3] {caau2 ji5} /irritating to one's ears /
-吶喊 呐喊 [na4han3] {naap6 haam3} /(verb) 1. Cheer; (adjective) 2. Roaring /
-吷 吷 [xue4] {hyut3 / kyut3} /to suck; to sip; to wheeze/
-吸塵 吸尘 [xi1 chen2] {kap1 can4} /Vacuum cleaning; breathing in polluted/ dusty air/
-吸塵機 吸尘机 [xi1 chen2 ji1] {kap1 can4 gei1} /hoover/
-吸引 吸引 [xi1 yin3] {kap1 jan5} /(verb)  To catch someone's attention/
-吸收 吸收 [xi1 shou1] {kap1 sau1} /to learn; to pick up/
-吸毒者 吸毒者 [xi1 du2 zhe3] {kap1 duk6 ze2} /drug addicts/
-吸煙 吸烟 [xi1 yan1] {kap1 jin1} /to smoke a cigarette/
-吸熱反應 吸热反应 [xi1 re4 fan3 ying4] {kap1 jit6 faan2 jing3} /Endothermic reaction/
-吹口琴 吹口琴 [chui1 kou3 qin2] {ceoi1 hau2 kam4} /to play harmonica /
-吹咩 吹咩 [chui1 mie1] {ceoi1 me1} /what can you do to me?/
-吹唔脹 吹唔胀 [chui1 n2 zhang4] {ceoi1 m4 zoeng3} /feeling helpless, powerless/
-吹打 吹打 [chui1 da3] {ceoi1 daa2} /blow and beat, to play music/
-吹水 吹水 [chui1 shui3] {ceoi1 seoi2} /(verb) to chitchat; to talk; to gossip;  to brag/
-吹水唔抹嘴 吹水唔抹嘴 [chui1 shui3 m2 mo3 zui3] {ceoi1 seoi2 m4 maat3 zeoi2} /it describes people who overly boast/ exaggerate during chatting/
-吹波機 吹波机 [chui1 bo1 ji1] {ceoi1 bo1 gei1} /breathalyzer/
-吹波膠 吹波膠 [chui1 bo1 hao2] {ceoi1 bo1 gaau1} /bubble gum/
-吹漲 吹涨 [chui1 zhang3] {ceoi1 zoeng3} /1. to be helpless, or unable to react to absurd situation or words     2. to blow up (ballon)/
-吹爆 吹爆 [chui1 bao4] {ceoi1 baau3} /to be infuriated by someone; to be angry due to something or someone's act/
-吹皺一池春水 吹皱一池春水 [chui1 zhou4 yi1 chi2 chun1 shui3] {ceoi1 zau3 jat1 ci4 ceon1 seoi2} /none of your business/
-吹笛 吹笛 [chui1 di2] {ceoi1 dek2} /Playing flute/
-吹脹 吹胀 [chui1zhang4] {ceoi1 zoeng3} /(adjective) (of feeling) Frustrated; pissed off because of being annoyed/
-吹雞 吹鸡 [chui1 ji1] {ceoi1 gai1} /to blow a whistle; to call for backup/
-吹風 吹风 [chui1 feng1] {ceoi1 fung1} /to enjoy some breeze/
-吹鬚睩眼 吹须睩眼 [chui1 xu1 lu4 yan3] {ceoi1 sou1 luk1 ngaan5} /one who is so mad or angry where his moustache curls and eyes wide open /
-吼 吼 [hou3] {haau1} /(verb)  watch closely on something because of great interest/
-吼住 吼住 [hou3 zhu4] {hau3 zyu6} /to look or pay extra attention to /
-吼斗 吼斗 [hou3 dou4] {hau1 dau2} /to buy; to want/
-吼機會 吼机会 [hou3 ji1 hui4] {hau1 gei1 wui6} /Waiting for opportunity/
-吽 吽 [hong1] {ngau6} /(Cantonese) 1. slow; non-responsive 2. stupid/
-吽仔 吽仔 [hong1 zi3] {ngau6 zai2} /pregnant; stupid boys/
-吽哣 吽哣 [hong1 pou4] {ngau6 dau6} /day-dream; lost in thoughts /
-吾 吾 [wu2] {ng4} /(pronoun)  Oneself/
-呀 呀 [ya5] {aa1} /1. In rhetorical question, it is used as an interrogative word; (interjection) 1. Oh! 2. Wow!/
-呂宋 吕宋 [Lü3 song4] {leoi5 sung3} /Luzon, place in Philipines/
-呂宋煙 吕宋烟 [Lü3 song4 yan1] {leoi5 sung3 jin1} /Cigar/
-呂良偉 吕良伟 [lü3 liang2 wei3] {leoi5 loeng4 wai5} /Ray Lui, name of an actor/
-呃 呃 [e4] {ak1} /(verb) 1. deceive; 2. lie; 3. cheat;/
-呃人 呃人 [e4 ren2] {ak1 jan4} /telling a lie (spoken)/
-呃呃騙騙 呃呃骗骗 [e4 e4 pian4 pian5] {aak1 aak1 pin3 pin3} /the act of cheating / conning others/
-呃晒 呃晒 [e4 shai4] {ak1 saai3} /Cheat all the people/
-呃神騙鬼 呃神骗鬼 [e4 shen2 pian4 gui3] {aak1 san4 pin3 gwai2} /the act of lying to / deceiving / swindling others 2/
-呃秤 呃秤 [e4 cheng4] {aak1 cing3} /(a merchant who) cheats the customer by rigging the scales/
-呃錢 呃钱 [e4 qian2] {ak1 cin4} /rip off (money); to cheat money /
-呃飲呃食 呃饮呃食 [e4 yin3 e4 shi2] {aak1 jam2 aak1 sik6} /cheating for free meals/
-呃鬼 呃鬼 [e4 gui3] {aak1 gwai2} /lit. to lie to a ghost, meaning to lie/
-呃鬼食豆腐 呃鬼食豆腐 [e4 gui3 shi2 dou4 fu5] {aak1 gwai2 sik6 dau6 fu6} /a feeble attempt to trick someone or to lure someone into a trap that is very easy to see through/
-呆板 呆板 [dai1ban3] {ngoi4 baan2} /(adjective) 1. Sluggish; (of people) 1. Dull; 2. Bored/
-呆鈍 呆钝 [dai1 dun4] {ngoi4 deon6} /dumb, slow, inflexible/
-呈現 呈现 [cheng2 xian4] {cing4 jin6} /(verb)  Show/
-告 告 [gao4] {gou3} /(verb) 1. sue; 2. advise; 3. announce/
-告假 告假 [gao4 jia4] {gou3 gaa3} /to apply/ ask for a leave of absence; to request to go on a holiday/
-告地狀 告地状 [gao4 di4 zhuang4] {gou3 dei6 zong6} /the sad, unfortunate life story written on the ground by beggars to seek money and help/
-告士打道 告士打道 [gao4 shi4 da3 dao4] {gou3 si6 daa2 dou6} /Gloucester Road, a road in Hong Kong/
-告枕頭狀 告枕头状 [gao4 zhen3 tou2 zhuang4] {gou3 zam2 tau4 zong6} /when one complains to another during pillow talk about another person, can be use on a couple or anyone in a relationship /
-告狀 告状 [gao4 zhuang4] {gou3 zong6} /(verb)  Snitch/
-告白 告白 [gao4 bai2] {gou3 baak6} /(noun) (of TV broadcast)  advertisement/
-告票 告票 [gao4 piao4] {gou3 piu3} /penalty ticket; summon/
-告辭 告辞 [gao4 ci2] {gou3 ci4} /(noun)  Farewell/
-呔 呔 [tai1] {taai1} /(noun)  wheel; (slang) waist (usually it refers to overweight and waistline is oversized)/
-呔令 呔令 [dai1 ling4] {taai1 ling1} /Tyre-Ring/
-呔夾 呔夹 [dai1 jia1] {taai1 gep6} /tie clip/
-呔針 呔针 [dai1 zhen1] {taai1 zam1} /Tie Pin/
-㕵 㕵 [guo2] {gwok3} /the sound of a dog barking/
-㕵㕵狗 㕵㕵狗 [guo2 guo2 gou3] {gwok3 gwok3 gau2} /汪汪狗 a doggie/
-呢 呢 [ne5] {ne1} /(determiner) 1. this; 2. these; (slang)  level/
-呢D 呢D [ne5 D] {nei4 di1} /(slang) these/
-呢位 呢位 [ne5 wei4] {nei4 wai6} /this person/
-呢便 呢便 [ne5 bian4] {ni1 bin6} /right here; this side/
-呢個 呢个 [ne5 ge4] {ni1 go3} /this/
-呢勻 呢匀 [ne5 yun2] {nei4 wan4} /on this occasion; this time (spoken)/
-呢可 呢可 [ne5 ke3] {ne1 ho2} /right?/
-呢吓 呢吓 [ne5 xia4] {nei1 haa2 } /This time/
-呢啲 呢啲 [ne5 di1] {ni1 di1} /(slang) these/
-呢嗱 呢嗱 [ne5 na2] {ne1 naa4} /Vanilla/
-呢度 呢度 [ne5 du4] {ni1 dou6} /(prep.) here./
-呢排 呢排 [ne5 pai2] {ni1 paai4} /(adverb) lately; recently/
-呢排 呢排 [ne5 pai2] {ni1 paai4} /These days; this period/
-呢條 呢条 [ne5 tiao2] {ni1 tiu4} /This/
-呢槓嘢 呢杠嘢 [ne5 gang4 ye3] {ni1 lung5 je5} /this thing; this matter/
-呢樣 呢样 [ne5 yang4] {nei4 joeng6} /this type, this kind, this/
-呢次 呢次 [ne5 ci4] {nei1 ci3} /on this occasion /
-呢牌 呢牌 [ne5 pai2] {ni1 paai2} /These days; this period/
-呢絨 呢绒 [ni2 rong2] {nei4 jung2} /woollen/
-呢處 呢处 [ne5 chu3] {ni1 syu3} /this place or area; here/
-呢輪 呢轮 [ne5 lun2] {ni1 leon4} /this round; recently; lately/
-呢鋪 呢铺 [ne5 pu4] {li1 pou1} /This time; this round/
-呢陣 呢阵 [ne5 zhen4] {nei4 zan6} /recently; now (spoken)/
-呢陣時 呢阵时 [ne5 zhen4 shi2] {nei4 zan6 si4} /at this moment/
-呢隻嘢 呢只嘢 [ne5 zhi1 ye3] {nei1 zek3 je5} /this [thing or animal]/
-呢駁 呢驳 [ne5 bo2] {ni1 bok3} /recently/
-周不時 周不时 [zhou1 bu4 shi2] {zau1 bat1 si4} /every once in a while/
-周匝 周匝 [zhou1 za1] {zau1 zaap3} /surround; considerate/
-周年旺相 周年旺相 [zhou1 nian2 wang4 xiang4] {zau1 nin4 wong6 soeng3} /an expression to wish people luck all year round/
-周慧敏 周慧敏 [zhou1 hui4 min3] {zau1 wai6 man5} /Vivian chow, name of a singer/
-周打 周打 [zhou1 da3] {zau1 daa2} /Chowder/
-周打蜆湯 周打蚬汤 [zhou1 da3 xian3 tang1] {zau1 daa2 hin2 tong1} /Chowder soup with clam/
-周打魚湯 周打鱼汤 [zhou1 da3 yu2 tang1] {zau1 daa2 jyu4 tong1} /Chowder soup with fish/
-周時 周时 [zhou1 shi2] {zau1 si4} / (adverb) always; often/
-周時無日 周时无日 [zhou1 shi2 wu2 ri4] {zau1 si4 mou4 jat6} /often or usually (negatively) /
-周期律 周期律 [zhou1 qi1 lü4] {zau1 kei4 leot6} /Period; cycle/
-周海媚 周海媚 [zhou1 hai3 mei4] {zau1 hoi2 mei4} /Kathy Chau, name of an actress/
-周率 周率 [zhou1 lü4] {zau1 leot2} /Pi/
-周界 周界 [zhou1 jie4] {zau1 gaai3} /perimeter/
-周秀娜 周秀娜 [zhou1 xiu4 nuo2] {zau1 sau3 naa4} /Chrissie Chow, name of a model/
-周街 周街 [zhou1 jie1] {zau1 gaai1} /everywhere/
-周記 周记 [Zhou1 ji4] {zau1 gei3} /Weekly journal/
-周身 周身 [zhou1 shen1] {zau1 san1} /bodily/
-周身八寶 周身八宝 [zhou1 shen1 ba1 bao3] {zau1 san1 baat3 bou2} /Have many tools around; people who have many talents; people who have many good solutions for problems/
-周身刀冇張利 周身刀冇张利 [zhou1 shen1 dao1 mao3 zhang1 li4] {zau1 san1 dou1 mou5 zoeng1 lei6} /a proverb which describes someone who does not even has a single specialized skill; 'jack of all trades, master of none'; literally 'there is not a single knife on his/her body that is sharp'/
-周身唔聚財 周身唔聚财 [zhou1 shen1 n2 ju4 cai2] {zau1 san1 m4 zeoi6 coi4} /feeling uneasy or uncomfortable (slang)/
-周身屎 周身屎 [zhou1 shen1 shi3] {zau1 san1 si2} /to be in deep shit/
-周身癮 周身瘾 [zhou1 shen1 yin3] {zau1 san1 jan5} /feeling itchy all over the body/
-周身蟻 周身蚁 [zhou1 shen1 yi3] {zau1 san1 ngai5} /(slang) in a lot of trouble;/
-呱呱叫 呱呱叫 [gua1 gua1 jiao4] {gwaa1 gwaa1 giu3} /scream; yell; cry out/
-呱呱嘈 呱呱嘈 [gu1 gu1 cao2] {gwaa1 gwaa1 cou4} /be noisy, to talk loudly/
-味 味 [wei4] {mei6} /(noun) 1. unit of dishes; (adverb)  only/
-味千拉麵 味千拉面 [wei4 qian1 la1 mian4] {mei6 cin1 laai1 min6} /Ajisen Ramen, name of a restaurant/
-味碟 味碟 [wei4 die2] {mei6 dip6} /sauce dish, dipping bowl/
-味粥 味粥 [wei4 zhou1] {mei6 zuk1} /Flavor congee/
-味道 味道 [wei4 dao5] {mei6 dou6} /(noun)  taste/
-味醂 味醂 [wei4 lan3] {mei6 lam5} /Mirin/
-呵 呵 [a1] {aa6} /to comfort (Cantonese)/
-呵呵大笑 呵呵大笑 [he1 he1 da4 xiao4] {ho1 ho1 daai6 siu3} /to laugh loudly/
-呷 呷 [xia1] {haap3} /(verb)  sip/
-呷乾醋 呷干醋 [xia1 gan1 cu4] {haap3 gon1 cou3} /be jealous (spoken)/
-呷醋 呷醋 [xia1 cu4] {haap3 cou3} /(adjective) jealous; envious/
-呻 呻 [shen1] {san1} /1. grumble 2. to complain or whinge/
-呻窮 呻穷 [shen1 qiong2] {san3 kung4} /to sigh and claim one is poor/
-呻笨 呻笨 [shen1 ben4] {san1 ban6} /admitting oneself being stupid; to confide in somebody/
-呼之欲出 呼之欲出 [hu1 zhi1 yu4 chu1] {fu1 zi1 juk6 ceot1} /Easy to guess; very obvious/
-呼吸作用 呼吸作用 [hu1 xi1 zuo4 yong4] {fu1 kap1 zok3 jung6} /respiratory/
-呼吸困難 呼吸困难 [hu1 xi1 kun4 nan5] {fu1 kap1 kwan3 naan4} /Hard to breathe/
-呼呼喝喝 呼呼喝喝 [hu1 hu1 he4 he1] {fu1 fu1 hot3 hot3} /to be arrogant, boastful, rude, impolite; to scold loudly/
-呼天搶地 呼天抢地 [hu1 tian1 qiang1 di4] {fu1 tin1 coeng1 dei6} /lit. yelling out to the sky and banging the ground, meaning one who is in mighty grief/
-呼籲 呼吁 [hu1yu4] {fu1 jyu6} /(verb) Advocate/
-命令 命令 [ming4 ling4] {ming6 ling6} /to order or command/
-命大 命大 [ming4 da4] {ming6 daai6} /lucky/
-命正 命正 [ming4 zheng4] {meng6 zeng3} /Good fate/
-命水 命水 [ming4 shui3] {meng6 seoi2} /destiny; fate/
-命醜 命丑 [ming4 chou3] {meng6 cau2} /Bad fate/
-咀 咀 [ju3] {zeoi2} /(Cantonese) 1. to kiss 2. a point or tip/
-咀嚼 咀嚼 [ju3 jue2] {zeoi2 zoek3} /(verb) (formal)  Masticate/
-咁 咁 [gan1] {gam3} /(adverb)  too (used before an adjective)/
-咁上下 咁上下 [gan1 shang4 xia4] {gam3 soeng6 haa5} /approximately/
-咁啱 咁啱 [gan1 yan1] {gam2 ngaam1} /coincidentally; happen to /
-咁啱嘅 咁啱嘅 [gan1 yan1 ge2] {gam2 ngaam1 koi3} /what a coincidence/
-咁多 咁多 [gan1 duo1] {gam3 do1} /so much/
-咁多人死唔見你死 咁多人死唔见你死 [gan1 duo1 ren2 si3 n2 jian4 ni3 si3] {gam3 do1 jan4 sei2 m4 gin3 nei5 sei2} /why don't you die when there's so much death?/
-咁多位 咁多位 [gan1 duo1 wei4] {gam2 do1 wai6} /to address everyone /
-咁大個仔 咁大个仔 [gan1 da4 ge4 zi3] {gam3 daai6 go3 zai2} /Grown up/
-咁大隻蛤乸隨街跳 咁大只蛤乸随街跳 [gan1 da4 zhi1 ge2 na2 sui2 jie1 tiao4] {gam3 daai6 zek3 gap3 naa2 ceoi4 gaai1 tiu3} /There is no free lunch/
-咁滯 咁滞 [gan1 zhi4] {gam3 zai6} /almost/
-咁諗 咁谂 [gan1 shen3] {gam1 sam2} /(verb) think; think of;/
-咁高咁大 咁高咁大 [gan1 gao1 gan1 da4] {gam2 gou1 gam2 daai6} /at the same level or rank (spoken)/
-咂嘴 咂嘴 [za1 zui3] {zaap3 zeoi2} /Lip smacking/
-咋 咋 [za3] {zaa3} /that's it; it's just (Cantonese)/
-咋咋聲 咋咋声 [ze2 ze2 sheng1] {zaa4 zaa2 seng1} /Quick/
-咋咋臨 咋咋临 [ze2 ze2 lin2] {zaa4 zaa4 lam4} /Quick/
-和了 和了 [huo4 le5] {wu2 liu5} /a draw/
-和事佬 和事佬 [he2 shi4 lao3] {wo6 si6 lou2} /peacemaker; one who tried to settle other's dispute /
-和事老 和事老 [he2 shi4 lao3] {wo4 si6 lou5} /a middleman who acts as a mediator or negotiator to try and resolve the issue(s) of others/
-和事酒 和事酒 [he2 shi4 jiu3] {wo4 si6 zau2} /meal/ drinks for settling the dispute/
-和勝和 和胜和 [he2 sheng4 he2] {wo4 sing3 wo2} /Wo Shing Wo, name of the triad/
-和味 和味 [he2 wei4] {wo4 mei6} /(adj.) delicious; describes a good business agreement with a lucrative profit, i.e. a sweet deal./
-和尚擔遮 和尚担遮 [he2 shang5 dan1 zhe1] {wo4 soeng2 daam1 ze1} /breaking rules and laws, not under control/
-和平利用 和平利用 [he2 ping2 li4 yong4] {wo4 ping4 lei6 jung6} /peacefully use/
-和平演變 和平演变 [he2 ping2 yan3 bian4] {wo4 ping4 jin2 bin3} /peaceful revolution/
-和平路 和平路 [he2 ping2 lu4] {wo4 ping4 lou6} /Heping Road, name of the road in Shenzhen/
-和薖 和薖 [he2 ke1] {wo6 gwo2} /no lose/
-和藹 和蔼 [he2 ai3] {wo4 oi2} /(adjective)  Kind and gentle /
-和衷共濟 和衷共济 [he2 zhong1 gong4 ji4] {wo4 cung1 gung6 zai3} /support each other/
-和諧 和谐 [he2 xie2] {wo4 haai4} /peace/
-和諧式客機 和谐式客机 [he2 xie2 shi4 ke4 ji1] {wo4 haai4 sik1 haak3 gei1} /Concorde/
-和頭酒 和头酒 [he2 tou2 jiu3] {wo4 tau4 zau2} /banquet for settlement of disputes between gangs or anyone/
-和風細雨 和风细雨 [he2 feng1 xi4 yu3] {wo4 fung1 sai3 jyu5} /lit. slight breeze and a drizzle, meaning one's behaviour or actions are mild and gentle /
-咎由自取 咎由自取 [jiu4 you2 zi4 qu3] {gau3 jau4 zi6 ceoi2} /bring trouble on oneself (idiom)/
-咔咔聲 咔咔声 [ka1 ka1 sheng1] {kaa4 kaa2 seng1} /Ka Ka, sound/
-咕咕 咕咕 [gu1 gu1] {gu1 gu1} /inflexible; little boy's genital/
-咕咕聲 咕咕声 [gu1 gu5 sheng1] {gu4 gu2 seng1} /the rumbling sound of the stomach when a person is feeling hungry/
-咕咕雀 咕咕雀 [gu1 gu5 que4] {gu4 gu1 zoek2} /cuckoo/
-咕𠱸 咕𠱸 [Gu1 chen2] {ku1 seon2} /Cushion/
-咕哩 咕哩 [gu1 li5] {gu1 lei5} /unskilled labour; coolie/
-咕喱 咕喱 [gu1 li2] {gu1 lei1} /a coolie/
-咖啡妹 咖啡妹 [ka1 fei1 mei4] {gaa3 fe1 mui6} /lit. coffee girl, a nickname for female traffic inspectors of Hong Kong /
-咖喱角 咖喱角 [ga1 li2 jiao3] {gaa3 lei1 gok3} /Curry Pastry/
-咖央醬 咖央酱 [ka1 yang1 jiang4] {gaa3 jaang1 zoeng3} /coconut jam/
-咖椰醬 咖椰酱 [ka1 ye1 jiang4] {gaa3 je4 zoeng3} /coconut jam/
-咧啡 咧啡 [lie5 fei1] {le3 fe1} /sloppy; shaggy (spoken)/
-咩 咩 [mie1] {me1} /(adverb)  what?/
-咩咋 咩咋 [mie1 za3] {mei1 zaa3} /What only?/
-咩咩 咩咩 [mie1 mie1] {me1 me1} /onomatopoeia for sheep/
-咩嘢 咩嘢 [mie1 ye3] {me1 je5} /what is it?/
-咩料 咩料 [mie1 liao4] {me1 liu2} /What's going on?; What's up?/
-咩話 咩话 [mie1 hua4] {me1 waa2} /What do you mean?; What did you say?/
-咪 咪 [mi1] {miu1} /(verb) 1. don't; must not; are not; is not; 2. hardly study (adverb) 1. so; might (noun) 1. microphone; 2. mile/
-咪仙 咪仙 [mi1 xian1] {mai1 sin1} /streptomycin, an antibiotic drug/
-咪住 咪住 [mi1 zhu4] {mai5 zyu6} /hold on; hold it (spoken)/
-咪係 咪系 [mi1 xi4] {mai6 hai6} /to be; that's right; isn't it like that/
-咪咪摸摸 咪咪摸摸 [mi1 mi1 mo1 mo5] {mi1 mi1 mo1 mo1} /Slowly/
-咪喐 咪喐 [mi1 yu4] {mai5 juk1} /don't move/
-咪嘈 咪嘈 [mi1 cao2] {mai5 cou4} /shut up; keep quiet (spoken)/
-咪嘴 咪嘴 [mi1 zui3] {mai1 zeoi2} /to lip-sync /
-咪媽爛臭 咪妈烂臭 [mi1 ma1 lan4 chou4] {mi1 maa1 laan6 cau3} /smelly/
-咪家 咪家 [mi1 jia1] {mai1 gaa1} /a person who studies day and night/
-咪拘 咪拘 [mi1 ju1] {mai5 keoi1} /don't hold yourself; or also an expression of rejection, don't think or don't dare/
-咪搞 咪搞 [mi1 gao3] {mai5 gaau2} /Don't include/ involve me, don't count me in/
-咪摸 咪摸 [mi1 mo1] {mai5 mo2} /dawdle, slow/
-咪書 咪书 [mi1 shu1] {mai1 syu1} /1. to study hard     2. to read books excessively /
-咪自 咪自 [mi1 zi4] {mai5 zi6} /a similar pronunciation of 咪住, which means stop, hold a second/
-咪表 咪表 [mi1 biao3] {mai1 biu1} /Parking parameter/
-咪話 咪话 [mi1 hua4] {mai5 waa6} /don't say/
-咪郁 咪郁 [mi1 yu4] {mai5 juk1} /don't move/
-咪錶 咪表 [mi1 biao3] {mai1 biu1} /parking meter/
+君臨天下 君临天下 [jun1 lin2 tian1 xia4] {gwan1 lam4 tin1 haa6} /The Harbourside, un tour à Hong Kong/(litt.) le roi dirige le monde/
+吞 吞 [tun1] {tan1} /prendre possession/
+吞口水養命 吞口水养命 [tun1 kou3 shui3 yang3 ming4] {tan1 hau2 seoi2 joeng5 meng6} /(expr. idiom.) qqn qui est extrêmement pauvre/(litt.) survivre en avalant sa propre salive/
+吞咗火藥 吞咗火药 [tun1 zuo5 huo3 yao4] {tan1 zo2 fo2 joek6} /(expr. idiom.) fâché, en colère/irascible qui a mauvais caractère/(litt.) avalé des médicaments de feu/
+吞拿魚三文治 吞拿鱼三文治 [tun1 na2 yu2 san1 wen2 zhi4] {tan1 naa4 jyu2 saam1 man4 zi6} /sandwich au thon/
+吞槍 吞枪 [tun1 qiang1] {tan1 coeng1} /commettre suicide en tirant sur sa gorge/
+吞樸 吞朴 [tun1 pu3] {tan1 pok1} /être paresseux/
+吞蛋 吞蛋 [tun1 dan4] {tan1 daan2} /obtenir une note de zéro sur un examen/(litt.) avaler un oeuf/
+吞那魚 吞那鱼 [tun1 na4 yu2] {tan1 naa5 jyu4} /thon/
+吟吟沉沉 吟吟沉沉 [yin2 yin2 chen2 chen2] {ngam4 ngam4 cam4 cam4} /maugréant, gromellant/
+吟沉 吟沉 [yin2 chen2] {ngam4 cam4} /maugréant, gromellant/
+吟詩作對 吟诗作对 [yin2 shi1 zuo4 dui4] {jam4 si1 zok3 deoi3} /écrir des poèmes et des distiques/
+???? 含冤莫白 含冤莫白 [han2 yuan1 mo4 bai2] {ham4 jyun1 mok6 baak6} /être victime d'un coup monté/
+含含聲 含含声 [han2 han2 sheng1] {ham4 ham4 seng1} /onomatopée pour qqch qui brûle/onomatopée pour un endroit bruyant/
+含撚 含捻 [han2 nian3] {ham4 lan2} /fellation, pipe, turlute/
+含有 含有 [han2you3] {ham4 jau5} /inclure/consister de (qqch)/
+含水量 含水量 [han2 shui3 liang4] {ham4 seoi2 loeng6} /teneur en eau/
+含糊 含糊 [han2 hu5] {ham4 wu4} /pas claire (de texte, de paroles)/
+含羞 含羞 [han2 xiu1] {ham4 sau1} /timide/
+含血噴人 含血喷人 [han2 xue4 pen1 ren2] {ham4 hyut3 pan3 jan4} /monter un coup/
+含飴弄孫 含饴弄孙 [han2 yi2 nong4 sun1] {ham4 ji4 lung6 syun1} /(expr. idiom.) profiter de sa retraite/(litt.) manger des sucreries et jouer avec ses petits-enfants/
+吱吱喳喳 吱吱喳喳 [zhi1 zhi1 zha1 zha1] {zi1 zi1 zaa1 zaa1} /(expr. idiom.) parler sans arrêt/(litt.) onomatopée pour les oiseaux/
+吱吱斟斟 吱吱斟斟 [zhi1 zhi1 zhen1 zhen1] {zi1 zi1 zam1 zam1} /chuchoter/
+吱喳 吱喳 [zhi1 zha1] {zi1 zaa1} /bavard/
+吱喳婆 吱喳婆 [zhi1 zha1 po2] {zi1 zaa1 po2} /des femmes qui parlent sans arrêt/
+吳亮星 吴亮星 [wu2 liang4 xing1] {ng4 loeng6 sing1} /Ng Leung-sing, femme politique hongkongaise/
+吳倩蓮 吴倩莲 [wu2 qian4 lian2] {ng4 sin6 lin4} /Jacklyn Wu actrice hongkongaise/
+吳剛 吴刚 [wu2 gang1] {ng4 gong1} /Wu Gang, acteur honkongais/
+吳卓羲 吴卓羲 [wu2 zhuo2 Xi1] {ng4 coek3 hei1} /Ron Ng, acteur hongkongais/
+吳君如 吴君如 [wu2 jun1 ru2] {ng4 gwan1 jyu4} /Sandra Ng, actrice hongkongaise/
+吳孟達 吴孟达 [wu2 meng4 da2] {ng4 maang6 daat6} /Ng Man Tat, acteur hongkongais/
+吳宇森 吴宇森 [wu2 yu3 sen1] {ng4 jyu5 sam1} /John Woo Yu-Sum, réalisateur hongkongais/
+吳彥祖 吴彦祖 [wu2 yan4 zu3] {ng4 jin6 zou2} /Daniel Wu, acteur hongkongais/
+吳松街 吴松街 [wu2 song1 jie1] {ng4 cung4 gaai1} /rue Woo Sung, une rue à Hong Kong/
+吳浩康 吴浩康 [wu2 hao4 kang1] {ng4 hou6 hong1} /Deep Ng, chanteur et acteur hongkongais/
+吵耳 吵耳 [chao3 er3] {caau2 ji5} /(un son) désagréable, grinçant/
+吶喊 呐喊 [na4 han3] {naap6 haam3} /crier/acclamer, applaudir/rugissant, bruyant/
+吷 吷 [xue4] {hyut3 / kyut3} /aspirer/siroter/respirer bruyamment/
+吸塵 吸尘 [xi1 chen2] {kap1 can4} /aspirer, passer l'aspirateur dans/respirer de l'air pollué/
+吸塵機 吸尘机 [xi1 chen2 ji1] {kap1 can4 gei1} /aspirateur/
+吸引 吸引 [xi1 yin3] {kap1 jan5} /attirer l'attention/séduisant/
+吸收 吸收 [xi1 shou1] {kap1 sau1} /apprendre/
+吸毒者 吸毒者 [xi1 du2 zhe3] {kap1 duk6 ze2} /drogué, droguée, toxicomane/
+吸煙 吸烟 [xi1 yan1] {kap1 jin1} /fumer une cigarette/
+吸熱反應 吸热反应 [xi1 re4 fan3 ying4] {kap1 jit6 faan2 jing3} /réaction endothermique/
+吹口琴 吹口琴 [chui1 kou3 qin2] {ceoi1 hau2 kam4} /jouer de l'harmonica/
+吹咩 吹咩 [chui1 mie1] {ceoi1 me1} /que peux-tu me faire?/
+吹唔脹 吹唔胀 [chui1 n2 zhang4] {ceoi1 m4 zoeng3} /se sentir impuissant/
+吹打 吹打 [chui1 da3] {ceoi1 daa2} /(expr. idiom.) jouer de la musique/(litt.) souffler et frapper/
+吹水 吹水 [chui1 shui3] {ceoi1 seoi2} /bavarder, placoter/parler/cancaner, jaser/se vanter/
+吹水唔抹嘴 吹水唔抹嘴 [chui1 shui3 m2 mo3 zui3] {ceoi1 seoi2 m4 maat3 zeoi2} /(expr. idiom.) des personnes qui se vantent trop/(expr. idiom.) dire n'importe quoi/(litt.) souffler de l'eau sans nettoyer la bouche/
+吹波機 吹波机 [chui1 bo1 ji1] {ceoi1 bo1 gei1} /éthylotest/
+吹波膠 吹波膠 [chui1 bo1 hao2] {ceoi1 bo1 gaau1} /chewing-gum/
+吹漲 吹涨 [chui1 zhang3] {ceoi1 zoeng3} /ne pas pouvoir réagir face à une situation absurde/énervant/gonfler (un ballon)/
+吹爆 吹爆 [chui1 bao4] {ceoi1 baau3} /être fâché contre qqn/
+吹皺一池春水 吹皱一池春水 [chui1 zhou4 yi1 chi2 chun1 shui3] {ceoi1 zau3 jat1 ci4 ceon1 seoi2} /(expr. idiom.) ce n'est pas de vos oignons/
+吹笛 吹笛 [chui1 di2] {ceoi1 dek2} /jouer de flûte/
+吹脹 吹胀 [chui1zhang4] {ceoi1 zoeng3} /frustré, énervé/
+吹雞 吹鸡 [chui1 ji1] {ceoi1 gai1} /donner un coup de sifflet/demander du renfort/
+吹風 吹风 [chui1 feng1] {ceoi1 fung1} /jouir de la brise/
+吹鬚睩眼 吹须睩眼 [chui1 xu1 lu4 yan3] {ceoi1 sou1 luk1 ngaan5} /(expr. idiom.) très fâché/(litt.) souffler sa moustache et rouler les yeux/
+吼 吼 [hou3] {haau1} /suivre (qqch) de près/
+吼住 吼住 [hou3 zhu4] {hau3 zyu6} /suivre (qqch) de près/
+吼斗 吼斗 [hou3 dou4] {hau1 dau2} /acheter/vouloir/
+吼機會 吼机会 [hou3 ji1 hui4] {hau1 gei1 wui6} /attendre l'occasion (de faire qqch)/
+吽 吽 [hong1] {ngau6} /lent, qui ne réagit pas/stupide/
+吽仔 吽仔 [hong1 zi3] {ngau6 zai2} /enceinte/garçons stupides/
+吽哣 吽哣 [hong1 pou4] {ngau6 dau6} /rêvasser/
+吾 吾 [wu2] {ng4} /soi-même/
+呀 呀 [ya5] {aa1} /dans une question rhétorique, un mot interrogatoire/oh!/wow!/
+呂宋 吕宋 [Lü3 song4] {leoi5 sung3} /Luçon, la plus grande île des Philippines/
+呂宋煙 吕宋烟 [Lü3 song4 yan1] {leoi5 sung3 jin1} /cigare/
+呂良偉 吕良伟 [lü3 liang2 wei3] {leoi5 loeng4 wai5} /Ray Lui, un acteur hongkongais/
+呃 呃 [e4] {ak1} /tromper, duper/mentir/tricher (à qqch)/
+呃人 呃人 [e4 ren2] {ak1 jan4} /mentir/
+呃呃騙騙 呃呃骗骗 [e4 e4 pian4 pian5] {aak1 aak1 pin3 pin3} /duper les autres/
+呃晒 呃晒 [e4 shai4] {ak1 saai3} /duper tout le monde/
+呃神騙鬼 呃神骗鬼 [e4 shen2 pian4 gui3] {aak1 san4 pin3 gwai2} /(expr. idiom.) mentir, tromper les autres/(litt.) duper les dieux et mentir aux esprits/
+呃秤 呃秤 [e4 cheng4] {aak1 cing3} /escroquer ses clients en utilisant des balances truquées/
+呃錢 呃钱 [e4 qian2] {ak1 cin4} /escroquer/arnaquer/arnaque/
+???? 呃飲呃食 呃饮呃食 [e4 yin3 e4 shi2] {aak1 jam2 aak1 sik6} /priver qqn d'un repas/
+呃鬼 呃鬼 [e4 gui3] {aak1 gwai2} /(expr. idiom.) mentir/(litt.) duper un fantôme/
+???? 呃鬼食豆腐 呃鬼食豆腐 [e4 gui3 shi2 dou4 fu5] {aak1 gwai2 sik6 dau6 fu6} /mensonge qui est facile à détecter/(litt.) duper un fantôme pour manger du tofu/
+呆板 呆板 [dai1 ban3] {ngoi4 baan2} /endormi, apathique/insipide/ennuyé/
+呆鈍 呆钝 [dai1 dun4] {ngoi4 deon6} /stupide, mentalement lent/inflexible/
+呈現 呈现 [cheng2 xian4] {cing4 jin6} /montrer/
+告 告 [gao4] {gou3} /utiliser/conseiller/annoncer/
+告假 告假 [gao4 jia4] {gou3 gaa3} /demander un congé/
+告地狀 告地状 [gao4 di4 zhuang4] {gou3 dei6 zong6} /histoire larmoyante écrite sur la terre par les mendiants/
+告士打道 告士打道 [gao4 shi4 da3 dao4] {gou3 si6 daa2 dou6} /rue Gloucester, une rue à Hong Kong/
+告枕頭狀 告枕头状 [gao4 zhen3 tou2 zhuang4] {gou3 zam2 tau4 zong6} /se plaigner pendant des conversations sur l'oreiller/
+告狀 告状 [gao4 zhuang4] {gou3 zong6} /balance, mouchard/
+告白 告白 [gao4 bai2] {gou3 baak6} /publicité/
+告票 告票 [gao4 piao4] {gou3 piu3} /assignation/
+告辭 告辞 [gao4 ci2] {gou3 ci4} /adieux/
+呔 呔 [tai1] {taai1} /pneu/taille (habituellement pour qqn qui est plus grande, péjoratif)/
+呔令 呔令 [dai1 ling4] {taai1 ling1} /jante (de voiture)/
+呔夾 呔夹 [dai1 jia1] {taai1 gep6} /pince à cravate/
+呔針 呔针 [dai1 zhen1] {taai1 zam1} /épingle à cravate/
+㕵 㕵 [guo2] {gwok3} /aboiment/
+㕵㕵狗 㕵㕵狗 [guo2 guo2 gou3] {gwok3 gwok3 gau2} /汪汪狗 chien/
+???? 呢 呢 [ne5] {ne1} /ceci, cela/ (slang)  level/
+呢D 呢D [ne5 D] {nei4 di1} /ceux-ci, celles-ci/
+呢位 呢位 [ne5 wei4] {nei4 wai6} /cette personne/
+呢便 呢便 [ne5 bian4] {ni1 bin6} /ici/cette côté/
+呢個 呢个 [ne5 ge4] {ni1 go3} /ceci, celle-ci/
+呢勻 呢匀 [ne5 yun2] {nei4 wan4} /cette fois-ci/
+呢可 呢可 [ne5 ke3] {ne1 ho2} /..., non?/
+呢吓 呢吓 [ne5 xia4] {nei1 haa2 } /cette fois-ci/
+呢啲 呢啲 [ne5 di1] {ni1 di1} /ceux-ci, celles-ci/
+呢嗱 呢嗱 [ne5 na2] {ne1 naa4} /vanille/
+呢度 呢度 [ne5 du4] {ni1 dou6} /ici/
+呢排 呢排 [ne5 pai2] {ni1 paai4} /ces derniers temps, dernièrement/de ces jours/
+呢條 呢条 [ne5 tiao2] {ni1 tiu4} /ceci, celle-ci/
+呢槓嘢 呢杠嘢 [ne5 gang4 ye3] {ni1 lung5 je5} /ceci, cette chose/
+呢樣 呢样 [ne5 yang4] {nei4 joeng6} /ce type, cette sorte, ce style, ceci/
+呢次 呢次 [ne5 ci4] {nei1 ci3} /cette fois/
+呢牌 呢牌 [ne5 pai2] {ni1 paai2} /de ces jours/
+呢絨 呢绒 [ni2 rong2] {nei4 jung2} /de laine/
+呢處 呢处 [ne5 chu3] {ni1 syu3} /ici, cet endroit/
+呢輪 呢轮 [ne5 lun2] {ni1 leon4} /dernièrement/
+呢鋪 呢铺 [ne5 pu4] {li1 pou1} /cette fois/
+呢陣 呢阵 [ne5 zhen4] {nei4 zan6} /récemment, maintenant/
+呢陣時 呢阵时 [ne5 zhen4 shi2] {nei4 zan6 si4} /maintenant/
+呢隻嘢 呢只嘢 [ne5 zhi1 ye3] {nei1 zek3 je5} /cet (animal)/
+呢駁 呢驳 [ne5 bo2] {ni1 bok3} /récemment/
+周不時 周不时 [zhou1 bu4 shi2] {zau1 bat1 si4} /de temps en temps/
+???? 周匝 周匝 [zhou1 za1] {zau1 zaap3} /surround; considerate/
+周年旺相 周年旺相 [zhou1 nian2 wang4 xiang4] {zau1 nin4 wong6 soeng3} /expression pour souhaiter la chance pour toute l'année/
+周慧敏 周慧敏 [zhou1 hui4 min3] {zau1 wai6 man5} /Vivian chow, chanteuse hongkongaise/
+周打 周打 [zhou1 da3] {zau1 daa2} /soupe épaisse, chaudrée/
+周打蜆湯 周打蚬汤 [zhou1 da3 xian3 tang1] {zau1 daa2 hin2 tong1} /soupe de clams/
+周打魚湯 周打鱼汤 [zhou1 da3 yu2 tang1] {zau1 daa2 jyu4 tong1} /chaudrée au poisson/
+周時 周时 [zhou1 shi2] {zau1 si4} /toujours, souvent/
+周時無日 周时无日 [zhou1 shi2 wu2 ri4] {zau1 si4 mou4 jat6} /souvent, habituellement (de sense négatif)/
+周期律 周期律 [zhou1 qi1 lü4] {zau1 kei4 leot6} /période, cycle/
+周海媚 周海媚 [zhou1 hai3 mei4] {zau1 hoi2 mei4} /Kathy Chau, actrice hongkongaise/
+周率 周率 [zhou1 lü4] {zau1 leot2} /pi/
+周界 周界 [zhou1 jie4] {zau1 gaai3} /périmètre/
+周秀娜 周秀娜 [zhou1 xiu4 nuo2] {zau1 sau3 naa4} /Chrissie Chow, mannequin hongkongaise/
+周街 周街 [zhou1 jie1] {zau1 gaai1} /partout/
+周記 周记 [Zhou1 ji4] {zau1 gei3} /journal hebdomadaire/
+周身 周身 [zhou1 shen1] {zau1 san1} /physique, corporel, relatif au corps/
+周身八寶 周身八宝 [zhou1 shen1 ba1 bao3] {zau1 san1 baat3 bou2} /(expr. idiom.) avoir beaucoup d'outils partout/(expr. idiom.) qqn qui est très talentueux/(expr. idiom.) qqn qui est ingénieux/(litt.) avoir huit trésors autour de soi/
+周身刀冇張利 周身刀冇张利 [zhou1 shen1 dao1 mao3 zhang1 li4] {zau1 san1 dou1 mou5 zoeng1 lei6} /(expr. idiom.) qui est propre à tout n'est propre à rien/(litt.) ne pas avoir un seul couteau tranchant/
+???? 周身唔聚財 周身唔聚财 [zhou1 shen1 n2 ju4 cai2] {zau1 san1 m4 zeoi6 coi4} /se sentir inconfortable/
+周身屎 周身屎 [zhou1 shen1 shi3] {zau1 san1 si2} /être dans une mauvaise situation, être dans la merde/
+周身癮 周身瘾 [zhou1 shen1 yin3] {zau1 san1 jan5} /qui gratte partout sur le corps/
+周身蟻 周身蚁 [zhou1 shen1 yi3] {zau1 san1 ngai5} /avoir un gros problème, être dans le pétrin/
+呱呱叫 呱呱叫 [gua1 gua1 jiao4] {gwaa1 gwaa1 giu3} /hurler, crier/
+呱呱嘈 呱呱嘈 [gu1 gu1 cao2] {gwaa1 gwaa1 cou4} /être bruyant/parler bruyamment/
+味 味 [wei4] {mei6} /(classificateur pour les plats)/seulement/
+味千拉麵 味千拉面 [wei4 qian1 la1 mian4] {mei6 cin1 laai1 min6} /Ajisen Ramen, un restaurant/
+味碟 味碟 [wei4 die2] {mei6 dip6} /bol à trempette/
+味粥 味粥 [wei4 zhou1] {mei6 zuk1} /congee avec un goût/
+味道 味道 [wei4 dao5] {mei6 dou6} /saveur, goût, arôme/
+味醂 味醂 [wei4 lan3] {mei6 lam5} /le mirin, une sorte de saké très doux utilisé comme assaisonnement dans la cuisine japonaise/
+呵 呵 [a1] {aa6} /réconforter/
+呵呵大笑 呵呵大笑 [he1 he1 da4 xiao4] {ho1 ho1 daai6 siu3} /rire fort/
+呷 呷 [xia1] {haap3} /siroter/
+呷乾醋 呷干醋 [xia1 gan1 cu4] {haap3 gon1 cou3} /être jaloux (fam.)/
+呷醋 呷醋 [xia1 cu4] {haap3 cou3} /jaloux, envieux/
+呻 呻 [shen1] {san1} /maugréer, chialer/se plaindre/
+???? 呻窮 呻穷 [shen1 qiong2] {san3 kung4} /se plaindre que l'on est pauvre/
+呻笨 呻笨 [shen1 ben4] {san1 ban6} /admettre qu'on est stupide/se confier à qqn/
+???? 呼之欲出 呼之欲出 [hu1 zhi1 yu4 chu1] {fu1 zi1 juk6 ceot1} /évident/
+呼吸作用 呼吸作用 [hu1 xi1 zuo4 yong4] {fu1 kap1 zok3 jung6} /respiratoire/
+呼吸困難 呼吸困难 [hu1 xi1 kun4 nan5] {fu1 kap1 kwan3 naan4} /dyspnée, une difficulté respiratoire/
+呼呼喝喝 呼呼喝喝 [hu1 hu1 he4 he1] {fu1 fu1 hot3 hot3} /arrogant/impoli/gronder, réprimander/
+呼天搶地 呼天抢地 [hu1 tian1 qiang1 di4] {fu1 tin1 coeng1 dei6} /qui est en deuil/(litt.) crier au ciel et frapper la terre/
+呼籲 呼吁 [hu1 yu4] {fu1 jyu6} /préconiser, recommander/
+命令 命令 [ming4 ling4] {ming6 ling6} /ordonner/
+命大 命大 [ming4 da4] {ming6 daai6} /chanceux/
+命正 命正 [ming4 zheng4] {meng6 zeng3} /bon sort/
+命水 命水 [ming4 shui3] {meng6 seoi2} /destin/
+命醜 命丑 [ming4 chou3] {meng6 cau2} /mauvais sort/
+咀 咀 [ju3] {zeoi2} /embrasser/point ou bout/
+咀嚼 咀嚼 [ju3 jue2] {zeoi2 zoek3} /mastiquer (formel)/
+咁 咁 [gan1] {gam3} /tellement, aussi/
+咁上下 咁上下 [gan1 shang4 xia4] {gam3 soeng6 haa5} /environ, à peu près/
+咁啱 咁啱 [gan1 yan1] {gam3 ngaam1} /incidemment, tout à fait par hasard/
+咁啱嘅 咁啱嘅 [gan1 yan1 ge2] {gam2 ngaam1 koi3} /quelle coïncidence/
+咁多 咁多 [gan1 duo1] {gam3 do1} /tellement/
+???? 咁多人死唔見你死 咁多人死唔见你死 [gan1 duo1 ren2 si3 n2 jian4 ni3 si3] {gam3 do1 jan4 sei2 m4 gin3 nei5 sei2} /il y a tellement de gens qui meurent, pourquoi ne meurs-tu pas?/
+咁多位 咁多位 [gan1 duo1 wei4] {gam2 do1 wai6} /expression pour s'addresser à tout le monde (dans les discours, etc.)/
+咁大個仔 咁大个仔 [gan1 da4 ge4 zi3] {gam3 daai6 go3 zai2} /adult (fam.)/
+咁大隻蛤乸隨街跳 咁大只蛤乸随街跳 [gan1 da4 zhi1 ge2 na2 sui2 jie1 tiao4] {gam3 daai6 zek3 gap3 naa2 ceoi4 gaai1 tiu3} /on n'a rien sans rien, ce n'est pas possible/(litt.) un crapaud tellement grand qui saute par la rue/
+咁滯 咁滞 [gan1 zhi4] {gam3 zai6} /environ, à peu près/
+咁諗 咁谂 [gan1 shen3] {gam1 sam2} /penser, penser à/
+咁高咁大 咁高咁大 [gan1 gao1 gan1 da4] {gam2 gou1 gam2 daai6} /au même niveau, de même rang/
+???? 咂嘴 咂嘴 [za1 zui3] {zaap3 zeoi2} /Lip smacking/
+咋 咋 [za3] {zaa3} /c'est tout/c'est juste que.../
+咋咋聲 咋咋声 [ze2 ze2 sheng1] {zaa4 zaa2 seng1} /rapidement/
+咋咋臨 咋咋临 [ze2 ze2 lin2] {zaa4 zaa4 lam4} /rapidement/
+和了 和了 [huo4 le5] {wu2 liu5} /faire match nul, finir à l'égalité/
+和事佬 和事佬 [he2 shi4 lao3] {wo6 si6 lou2} /pacificateur, médiateur, arbitre, conciliateur/
+和事老 和事老 [he2 shi4 lao3] {wo4 si6 lou5} /pacificateur, médiateur, arbitre, conciliateur/
+和事酒 和事酒 [he2 shi4 jiu3] {wo4 si6 zau2} /repas, verre pour régler une dispute/
+和勝和 和胜和 [he2 sheng4 he2] {wo4 sing3 wo2} /Wo Shing Wo, une triade à Hong Kong/
+和味 和味 [he2 wei4] {wo4 mei6} /délicieux/entente commerciale avec beaucoup de profits/
+和尚擔遮 和尚担遮 [he2 shang5 dan1 zhe1] {wo4 soeng2 daam1 ze1} /qui enfreint les règles/qui n'est pas sous contrôle/
+和平利用 和平利用 [he2 ping2 li4 yong4] {wo4 ping4 lei6 jung6} /utiliser pacifiquement/
+和平演變 和平演变 [he2 ping2 yan3 bian4] {wo4 ping4 jin2 bin3} /révolution pacifique/
+和平路 和平路 [he2 ping2 lu4] {wo4 ping4 lou6} /rue Heping, une rue à Shenzhen/
+???? 和薖 和薖 [he2 ke1] {wo6 gwo2} /no lose/
+和藹 和蔼 [he2 ai3] {wo4 oi2} /gentil/
+???? 和衷共濟 和衷共济 [he2 zhong1 gong4 ji4] {wo4 cung1 gung6 zai3} /soutenir l'un l'autre/
+和諧 和谐 [he2 xie2] {wo4 haai4} /paix/
+和諧式客機 和谐式客机 [he2 xie2 shi4 ke4 ji1] {wo4 haai4 sik1 haak3 gei1} /avion Concorde/
+和頭酒 和头酒 [he2 tou2 jiu3] {wo4 tau4 zau2} /festin pour régler une dispute (particulièrement des gangs)/
+和風細雨 和风细雨 [he2 feng1 xi4 yu3] {wo4 fung1 sai3 jyu5} /(expr. idiom.) conduite gentille, comportement doux/(litt.) une petite brise et une bruine/
+咎由自取 咎由自取 [jiu4 you2 zi4 qu3] {gau3 jau4 zi6 ceoi2} /(expr. idiom.) se créer des ennuis, ne pouvoir pas s'en prendre qu'à soi-même/(litt.) l'erreur est causé par soi-même/
+咔咔聲 咔咔声 [ka1 ka1 sheng1] {kaa4 kaa2 seng1} /onomatopée pour le son d'un rire/
+咕咕 咕咕 [gu1 gu1] {gu1 gu1} /inflexible/pénis d'un petit garçon/
+咕咕聲 咕咕声 [gu1 gu5 sheng1] {gu4 gu2 seng1} /gargouillement d'un estomac/
+咕咕雀 咕咕雀 [gu1 gu5 que4] {gu4 gu1 zoek2} /coucou (oiseau)/
+咕𠱸 咕𠱸 [Gu1 chen2] {ku1 seon2} /coussin/
+咕哩 咕哩 [gu1 li5] {gu1 lei5} /coolie, ouvrier non qualifié/
+咕喱 咕喱 [gu1 li2] {gu1 lei1} /coolie, ouvrier non qualifié/
+咖啡妹 咖啡妹 [ka1 fei1 mei4] {gaa3 fe1 mui6} /surnom pour les policières de circulation à Hong Kong/(litt.) femme de café/
+咖喱角 咖喱角 [ga1 li2 jiao3] {gaa3 lei1 gok3} /triangle de curry, une patisserie hongkongaise/
+咖央醬 咖央酱 [ka1 yang1 jiang4] {gaa3 jaang1 zoeng3} /kaya, confiture de noix de coco/
+咖椰醬 咖椰酱 [ka1 ye1 jiang4] {gaa3 je4 zoeng3} /kaya, confiture de noix de coco/
+咧啡 咧啡 [lie5 fei1] {le3 fe1} /désordonné, négligé, peu soigné, débraillé/
+咩 咩 [mie1] {me1} /quoi?/
+咩咋 咩咋 [mie1 za3] {mei1 zaa3} /seulement?/
+咩咩 咩咩 [mie1 mie1] {me1 me1} /onomatopée pour les moutons/
+咩嘢 咩嘢 [mie1 ye3] {me1 je5} /qu'est-ce que c'est?/qu'est-ce qu'il y a?/
+咩料 咩料 [mie1 liao4] {me1 liu2} /qu'est-ce qui se passe?/
+咩話 咩话 [mie1 hua4] {me1 waa2} /qu'as-tu dit?/
+咪 咪 [mi1] {miu1} /ne pas/n'est pas/ne doit pas/peu étudier/donc/peut-être/microphone/mile/
+咪仙 咪仙 [mi1 xian1] {mai1 sin1} /streptomycine, un antibiotique/
+咪住 咪住 [mi1 zhu4] {mai5 zyu6} /pas encore, attendez/
+咪係 咪系 [mi1 xi4] {mai6 hai6} /être/c'est ça/n'est-ce pas?/
+咪咪摸摸 咪咪摸摸 [mi1 mi1 mo1 mo5] {mi1 mi1 mo1 mo1} /lentement/
+咪喐 咪喐 [mi1 yu4] {mai5 juk1} /ne bougez pas/
+咪嘈 咪嘈 [mi1 cao2] {mai5 cou4} /tais-toi, arrête de parler/
+咪嘴 咪嘴 [mi1 zui3] {mai1 zeoi2} /chanter en play-back/
+???? 咪媽爛臭 咪妈烂臭 [mi1 ma1 lan4 chou4] {mi1 maa1 laan6 cau3} /qui pue, malodorant/
+咪家 咪家 [mi1 jia1] {mai1 gaa1} /qui étudie tout le temps/
+???? 咪拘 咪拘 [mi1 ju1] {mai5 keoi1} /don't hold yourself; or also an expression of rejection, don't think or don't dare/
+咪搞 咪搞 [mi1 gao3] {mai5 gaau2} /je ne veux pas me mêler de ça, ne m'embarque pas dans cette affaire/
+咪摸 咪摸 [mi1 mo1] {mai5 mo2} /traîner, lent/
+咪書 咪书 [mi1 shu1] {mai1 syu1} /travailler dur, étudier beaucoup/lire trop de livres/
+咪自 咪自 [mi1 zi4] {mai5 zi6} /(var.) 咪住, arrêtez, attendez une seconde/
+咪表 咪表 [mi1 biao3] {mai1 biu1} /parcomètre/
+咪話 咪话 [mi1 hua4] {mai5 waa6} /ne dites pas/
+咪郁 咪郁 [mi1 yu4] {mai5 juk1} /ne bougez pas/
+咪錶 咪表 [mi1 biao3] {mai1 biu1} /parcomètre/
 咪高峰 咪高峰 [mi1 gao1 feng1] {mai1 gou1 fung1} /microphone/
-咬 咬 [yao3] {ngaau5} /(verb) 1. accuse; 2. pronounce (on words); 3. to secretly ear whisper to others "咬耳仔"/
-咬一啖 咬一啖 [yao3 yi1 dan4] {ngaau5 jat1 daam6} /Have a bite/
-咬口 咬口 [yao3 kou3] {ngaau5 hau2} /bite the mouth; tender/
-咬口唇 咬口唇 [yao3 kou3 chun2] {ngaau5 hau2 seon4} /bite the lips/
-咬唔入 咬唔入 [yao3 n2 ru4] {ngaau5 m4 jap6} /having no chance of winning against someone, often used to describe a lawsuit/
-咬字 咬字 [yao3 zi4] {ngaau5 zi6} /enunciate/
+咬 咬 [yao3] {ngaau5} /accuser/prononcer/chuchoter, "咬耳仔"/
+咬一啖 咬一啖 [yao3 yi1 dan4] {ngaau5 jat1 daam6} /prendre une bouchée/
+咬口 咬口 [yao3 kou3] {ngaau5 hau2} /tendre (de nourriture)/mordre sa bouche/
+咬口唇 咬口唇 [yao3 kou3 chun2] {ngaau5 hau2 seon4} /mordre les lèvres/
+咬唔入 咬唔入 [yao3 n2 ru4] {ngaau5 m4 jap6} /(expr. idiom.) ne pas pouvoir gagner un procès/(litt.) ne pas pouvoir mordre dedans/
+咬字 咬字 [yao3 zi4] {ngaau5 zi6} /articuler/
 咬弦 咬弦 [yao3 xian2] {ngaau5 jin4} /to describe when two people or more hold different opinions or argue a lot/
 咬糧 咬粮 [yao3 liang2] {ngaau5 loeng4} /to live on a retirement service pension after retiring from a government position /
 咬耳仔 咬耳仔 [yao3 er3 zi3] {ngaau5 ji5 zai2} /the act of someone sharing a secret with another, with such a soft tone that they have to literally talk into each others' ears to be able to hear what it being said; literally 'biting ears'/
