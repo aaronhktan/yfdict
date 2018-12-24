@@ -819,7 +819,7 @@
 之不過 之不过 [zhi1 bu5 guo4] {zi1 bat1 gwo3} /mais, toutefois/
 之但係 之但系 [zhi1 dan4 xi4] {zi1 daan6 hai6} /mais, toutefois/
 之先 之先 [zhi1 xian1] {zi1 sin1} /il y a longtemps, jadis/droit devant/
-之嘛 之嘛 [zhi1 ma5] {zi1 maa3} /particule modale utilisé pour démontrer l'insignifiance de qqch dite, comme «c'est juste...», «ce n'est que», «..., c'est tout.»/
+之嘛 之嘛 [zhi1 ma5] {zi1 maa3} /particule modale utilisée pour démontrer l'insignifiance de qqch dite, comme «c'est juste...», «ce n'est que», «..., c'est tout.»/
 之字線 之字线 [zhi1 zi4 xian4] {zi1 zi6 sin3} /zigzag/
 之餘 之余 [zhi1 yu2] {zi1 jyu4} /sauf, mis à part (qqch)/
 尹光 尹光 [yin3 guang1] {wan5 gwong1} /Jackson Wan Kwong une chanteuse Hongkongaise/
@@ -2077,7 +2077,7 @@
 光明頂 光明顶 [guang1 ming2 ding3] {gwong1 ming4 deng2} /montagne de la Chine/une émission de radio du Hong Kong Commercial Radio Channel/
 光暈 光晕 [guang1 yun4] {gwong1 wan4} /halo/
 光暗掣 光暗掣 [guang1 an4 che4] {gwong1 ngam3 zai3} /variateur de lumière/
-???? 光棍佬教仔 光棍佬教仔 [guang1 gun5 lao3 jiao4 zi3] {gwong1 gwan3 lou2 gaau3 zai2} /one not to be greedy /
+???? 光棍佬教仔 光棍佬教仔 [guang1 gun5 lao3 jiao4 zi3] {gwong1 gwan3 lou2 gaau3 zai2} /(expr. idiom.) qui n'est pas avare/(litt.) un homme célibataire qui enseigne son fils/
 光棍遇着冇皮柴 光棍遇着冇皮柴 [guang1 gun5 yu4 zhao2 mao3 pi2 chai2] {gwong1 gwan3 jyu6 zoek6 mou5 pei4 caai4} /extorquer de l'argent aux pauvres/
 光油 光油 [guang1 you2] {gwong1 jau4} /vernis/
 光猛 光猛 [guang1 meng3] {gwong1 maang5} /lumineux, bien éclairé/
@@ -2107,7 +2107,7 @@
 免禮 免礼 [mian3 li3] {min5 lai5} /se dispenser de formalités/
 免稅店 免稅店 [mian3 shui4 dian4] {min5 seoi3 dim3} /boutique hors-taxe/
 免罪 免罪 [mian3 zui4] {min5 zeoi6} /acquitté/
-???? 免至 免至 [mian3 zhi4] {min5 zi3} /Free until/
+???? 免至 免至 [mian3 zhi4] {min5 zi3} /gratuit jusqu'à/
 免費 免费 [mian3 fei4] {min5 fai3} /gratuit/
 兒 儿 [r5] {ji4} /enfant/fils/
 兒嬉 儿嬉 [er2 xi1] {ji4 hei1} /téméraire/peu fiable/
@@ -2129,7 +2129,7 @@
 入伙紙 入伙纸 [ru4 huo3 zhi3] {jap6 fo2 zi2} /permis d'occupation/
 入來 入来 [ru4 lai2] {jap6 loi4} /(à l'oral) entrez/
 入侵 入侵 [ru4 qin1] {jap6 cam1} /entrer sans permission, perturber/
-入便 入便 [ru4 bian4] {jap6 bin6} /à l'intérieur/l'intérieur/
+入便 入便 [ru4 bian4] {jap6 bin6} /à l'intérieur, dedans/l'intérieur/
 入內 入内 [ru4 nei4] {jap6 noi6} /aller à l'intérieur/
 入冊 入册 [ru4 ce4] {jap6 caak3} /emprisonné/
 入到 入到 [ru4 dao4] {jap6 dou3} /entrer/aller à l'intérieur/
@@ -2261,7 +2261,7 @@
 公仔佬 公仔佬 [gong1 zai3 lao3] {gung1 zai2 lou2} /homme tatoué/peintre/
 公仔書 公仔书 [gong1 zai3 shu1] {gung1 zai2 syu1} /(vieilli) bande dessinée/
 公仔箱 公仔箱 [gong1 zai3 xiang1] {gung1 zai2 soeng1} /télévision/
-???? 公仔紙 公仔纸 [gong1 zai3 zhi3] {gung1 zai2 zi2} /Chinese pogs, which is a card game with illustrations printed/
+公仔紙 公仔纸 [gong1 zai3 zhi3] {gung1 zai2 zi2} /jeux de cartes pog chinois, des petites cartes rectangulaires avec des images imprimées dessus/
 公公婆婆 公公婆婆 [gong1 gong5 po2 po5] {gung1 gung1 po4 po4} /grand-père et grand-mère/manière de s'addresser aux personnes âgées/
 公共場所 公共场所 [gong1 gong4 chang3 suo3] {gung1 gung6 coeng4 so2} /espace publique/
 公共屋邨 公共屋村 [gong1 gong4 wu1 cun1] {gung1 gung6 uk1 cyun1} /quartier de logements sociaux/
@@ -2364,7 +2364,7 @@
 冇定性 冇定性 [mao3 ding4 xing4] {mou5 ding6 sing3} /(qqn qui) ne peut pas se calmer ou se concentrer/
 冇定準 冇定准 [mao3 ding4 zhun3] {mou5 ding6 zeon2} /pas forcément, pas sûr/
 冇家教 冇家教 [mao3 jia1 jiao4] {mou5 gaa1 gaau3} /impoli, grossier/
-???? 冇尾飛砣 冇尾飞砣 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /qqn ou qqch qui va et vient/qqn sur qui on ne peut pas compter ou qui ne tient pas ses promesses/
+???? 冇尾飛砣 冇尾飞砣 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /qqn ou qqch qui va et vient/qqn sur qui on ne peut pas compter ou qui ne tient pas ses promesses/(litt.) une lancée qu'on ne retrouve pas/
 冇尾飛陀 冇尾飞陀 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /qqn qui va et vient/qqn sur qui on ne peut pas compter ou qui ne tient pas ses promesses/
 冇幾何 冇几何 [mao3 ji3 he2] {mou5 gei2 ho2} /rarement/
 冇幾耐 冇几耐 [mao3 ji3 nai4] {mou5 gei2 noi6} /il n'y a pas longtemps, naguère/peu de temps/très vite/
@@ -2395,7 +2395,7 @@
 冇有 冇有 [mao3 you3] {mou5 jau5} /ne pas avoir/
 冇有怕 冇有怕 [mao3 you3 pa4] {mou5 jau5 paa3} /ne pas être inquiet/
 冇本心 冇本心 [mao3 ben3 xin1] {mou5 bun2 sam1} /sans-coeur/ingrat/déraisonnable/
-???? 冇根蔸 冇根蔸 [mao3 gen1 dou1] {mou5 gan1 dau1} /not proper /
+冇根蔸 冇根蔸 [mao3 gen1 dou1] {mou5 gan1 dau1} /indécent, de mauvais goût/
 冇死 冇死 [mao3 si3] {mou5 sei2} /ne pas être mort/
 冇水 冇水 [mao3 shui3] {mou5 seoi2} /ne pas avoir d'eau/ne pas avoir d'argent/
 冇牙老虎 冇牙老虎 [mao3 ya2 lao3 hu3] {mou5 ngaa4 lou5 fu2} /qqch qui a l'air effrayant mais qui ne peut pas agir/une loi qui n'est pas fait appliquée par la police/(litt.) tigre sans dents/
@@ -3499,255 +3499,255 @@
 口腹 口腹 [kou3 fu4] {hau2 fuk1} /estomac, appétit/
 口臭仔 口臭仔 [kou3 chou4 zi3] {hau2 cau3 zai2} /jeune homme avec la mauvaise haleine/jeune homme qui se cause des problèmes parce qu'il ne sait pas tenir sa langue/
 口花 口花 [kou3 hua1] {hau2 faa1} /flatter, être mielleux avec/
-口花花 口花花 [kou3 hua1 hua5] {hau2 faa1 faa1} /(adjective) smooth-tongued; glib-tongued; sweet-tongued/
-口苦 口苦 [kou3 ku3] {hau2 fu2} /bitter taste in one's mouth, the lack of appetite/
-口角 口角 [kou3 jiao3] {hau2 gok3} /(verb) 1. Argue; (noun)  Argument/
-口語化 口语化 [kou3 yu3 hua4] {hau2 jyu5 faa3} /colloquialization/
-口說無憑 口说无凭 [kou3 shuo1 wu2 ping2] {hau2 syut3 mou4 pang4} /verbal speech is not enough as proof/
-口輕 口轻 [kou3 qing1] {hau2 heng1} /make promise easily, or speak without thinking of consequence/
-口輕輕 口轻轻 [kou3 qing1 qing1] {hau2 heng1 heng1} /to describe when someone makes promises casually without considering it thoroughly/
-口部 口部 [kou3 bu4] {hau2 bou6} /oral; mouth /
-口震震 口震震 [kou3 zhen4 zhen4] {hau2 zan3 zan3} /to stutter/
-口面 口面 [kou3 mian4] {hau2 min6} /1. facial expression     2. mouth and face /
-口響 口响 [kou3 xiang3] {hau2 hoeng2} /1. promising easily     2. stating a fact without prove or thought /
-口頭 口头 [kou3 tou2] {hau2 tau4} /(adverb)  Verbally/
-口黑面黑 口黑面黑 [kou3 hei1 mian4 hei1] {hau2 hak1 min6 hak1} /looking displeased/
-口齒 口齿 [kou3 chi3] {hau2 ci2} /(noun) 1. ability of speaking; (slang)  promise/
-古 古 [gu3] {gu2} /heritage/
-古井無波 古井无波 [gu3 jing3 wu2 bo1] {gu2 zeng2 mou4 bo1} /feeling calm and peaceful, untouched by the external things/ outside world; impervious to desires and passions /
-古仔 古仔 [gu3 zi3] {gu2 zai2} /a story/
-古典 古典 [gu3 dian3] {gu2 din2} /vintage/
-古典主義 古典主义 [gu3 dian3 zhu3 yi4] {gu2 din2 zyu2 ji6} /classicalism/
-古天樂 古天乐 [gu3 tian1 le4] {gu2 tin1 lok6} /Louis Koo Tin Lok, name of an actor in Hong Kong/
-古巨基 古巨基 [gu3 ju4 ji1] {gu2 geoi6 gei1} /Leo Koo Ku Kei, name of a singer and actor in Hong Kong/
-古惑 古惑 [gu3 huo4] {gu2 waak6} /1. tricky     2. cunning /
-古文字 古文字 [gu3 wen2 zi4] {gu2 man4 zi6} /ancient and historical texts/
-古月粉 古月粉 [gu3 yue4 fen3] {gu2 jyut6 fan2} /white pepper (slang)/
-古玩鋪 古玩铺 [gu3 wan2 pu4] {gu2 wun2 pou2} /antique shops/
-古着 古着 [gu3 zhe5] {gu2 zoek6} /vintage clothing/
-古縮 古缩 [gu3 suo1] {gu2 suk1} /(adjective) old-fashioned; conservative; introverted; reticent/
-古老 古老 [gu3 lao3] {gu2 lou5} /(adjective)  Outdated/
-古老十八代 古老十八代 [gu3 lao3 shi2 ba1 dai4] {gu2 lou5 sap6 baat3 doi6} /very old; ancient/
-古老當時興 古老当时兴 [gu3 lao3 dang1 shi2 xing1] {gu2 lou5 dong3 si4 hing1} /when old-fashioned becomes trendy again /
-古老石山 古老石山 [gu3 lao3 shi2 shan1] {gu2 lou5 sek6 saan1} /an idiom to describe a person, who is very stubborn, very fixed in his or her own way to doing things and hardly listens to anyone else/
-古董 古董 [gu3 dong3] {gu2 dung2} /one who is old and fragile (slang)/
-古裝片 古装片 [gu3 zhuang1 pian4] {gu2 zong1 pin2} /traditional Chinese costume drama/
-古訓 古训 [gu3 xun4] {gu2 fan3} /motto; ancient maxim/
-古銅 古铜 [gu3 tong2] {gu2 tung4} /tanned; old copper; bronze/
-古雅 古雅 [gu3 ya3] {gu2 ngaa5} /classic and elegant/
-古體詩 古体诗 [gu3 ti3 shi1] {gu2 tai2 si1} /Old/ ancient poetry, Classical Chinese poetry/
-古龍水 古龙水 [Gu3 Long2 shui3] {gu2 lung4 seoi2} /cologne/
-句號 句号 [ju4 hao4] {geoi3 hou6} /full stop (punct.)/
-另一邊 另一边 [ling4 yi1 bian1] {ling6 jat1 bin1} /on the other side/
-另外 另外 [ling4 wai4] {ling6 ngoi6} /(pronoun)  another/
-另行安排 另行安排 [ling4 xing2 an1 pai2] {ling6 hang4 on1 paai4} /alternative arrangement/
-另行通知 另行通知 [ling4 xing2 tong1 zhi1] {ling6 hang4 tung1 zi1} /to be notified again or later /
-另議 另议 [ling4 yi4] {ling6 ji5} /to be discussed separately; alternative  negotiation/
-另起爐灶 另起炉灶 [ling4 qi3 lu2 zao4] {ling6 hei2 lou4 zou3} /(idiom)  To set up another business /
-叨光 叨光 [tao1 guang1] {tou1 gwong1} /be part of the glory /
-叨叨絮絮 叨叨絮絮 [dao1 dao5 xu4 xu4] {dou1 dou1 seo6 seoi6} /to nag; to talk on endlessly/
-叨擾 叨扰 [dao1 rao3] {tou1 jiu5} /to disturb/
-叩問 叩问 [kou4 wen4] {kau3 man6} /to ask humbly; to make inquiries/
-叩謝 叩谢 [kou4 xie4] {kau3 ze6} /to express one's sincere gratitude by kowtow/
-只係 只系 [zhi3 xi4] {zi2 hai6} /only (spoken)/
-只需 只需 [zhi3 xu1] {zi2 seoi1} /only need/
-叫價 叫价 [jiao4 jia4] {giu3 gaa3} /bid; asking price /
-叫喚 叫唤 [jiao4huan5] {giu3 wun6} /(verb) Call/
-叫好不叫座 叫好不叫座 [jiao4 hao3 bu4 jiao4 zuo4] {giu3 hou2 bat1 giu3 zo6} /Something that is of high quality, but it is not selling well./
-叫座 叫座 [jiao4 zuo4] {giu3 zo6} /selling well; successful hit with widespread popularity and sales 10/
-叫糊 叫糊 [jiao4 hu2] {giu3 wu2} /almost win in mahjong/
-叫罵 叫骂 [jiao4 ma4] {giu3 maa6} /yelling; to shout curses/
-叫起手 叫起手 [jiao4 qi3 shou3] {giu3 hei2 sau2} /when you want to use it; when needed/
-叫餸 叫餸 [jiao4 song4] {giu3 sung3} /to order food (eating out) /
-召之即來 召之即来 [zhao4 zhi1 ji2 lai2] {ziu6 zi1 zik1 loi4} /one who is obedient and respond upon being ordered or summoned /
-召妓 召妓 [zhao4 ji4] {ziu6 gei6} /to call/ book prostitutes/
-召開 召开 [zhao4 kai1] {ziu6 hoi1} /to host/
-召集 召集 [zhao4 ji2] {ziu6 zaap6} /to call together/
-叮叮糖 叮叮糖 [ding1 ding1 tang2] {ding1 ding1 tong2} /Deuk Deuk Tong, name of a traditional candy/
-叮囑 叮嘱 [ding1 zhu3] {ding1 zuk1} /(verb)  Din something into someone/
-可不是嗎 可不是吗 [ke3 bu5 shi4 ma5] {ho2 bat1 si6 maa1} /no? don't you think so?/
-可以 可以 [ke3 yi3] {ho2 ji5} /(adjective)  so so/
-可以避免 可以避免 [ke3 yi3 bi4 mian3] {ho2 ji5 bei6 min5} /avoidable /
-可可樹 可可树 [ke3 ke3 shu4] {ho2 ho2 syu6} /Cocoa trees/
-可可粉 可可粉 [ke3 ke3 fen3] {ho2 ho2 fan2} /Cocoa powder/
-可可豆 可可豆 [ke3 ke3 dou4] {ho2 ho2 dau2} /Cocoa beans/
-可唔可以 可唔可以 [ke3 m2 ke3 yi3] {ho2 m4 ho2 ji5} /Can or cannot..?/
-可嘉 可嘉 [ke3 jia1] {ho2 gaa1} /Praiseworthy/
-可大可小 可大可小 [ke3 da4 ke3 xiao3] {ho2 daai6 ho2 siu2} /can be serious or trivial /
-可怖 可怖 [ke3 bu4] {ho2 bou3} /Horrifying/
-可惱也 可恼也 [ke3 nao3 ye3] {ho2 nou5 jaa5} /an expression phrase from Cantonese opera, it indicates one is annoyed, irritated by another's absurd speech/
-可想然之 可想然之 [ke3 xiang3 ran2 zhi1] {ho2 soeng2 jin4 zi1} /you can imagine that/
-可比價格 可比价格 [ke3 bi3 jia4 ge2] {ho2 bei2 gaa3 gaak3} /comparable price; constant price/
-可用性 可用性 [ke3 yong4 xing4] {ho2 jung6 sing3} /usability/
-可能 可能 [ke3 neng2] {ho2 nang4} /(modal verb) can/
-可見度 可见度 [ke3 jian4 du4] {ho2 gin3 dou6} /visibility/
-台 台 [tai2] {toi4} /1. stage; platform 2. broadcasting station 3. abbr. for Taiwan/
-台型 台型 [tai2 xing2] {toi4 jing4} /charisma on stage /
-台山話 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /Taishan dialect; Taishanese, the language spoken in Taishan, China/
-台山话 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /Taishan dialect; Taishanese, the language spoken in Taishan, China/
-台灣問題 台湾问题 [tai2 wan1 wen4 ti2] {toi4 waan1 man6 tai4} /the 'Taiwan issue', the political issue between Taiwan and CHona/
-台灣牌 台湾牌 [tai2 wan1 pai2] {toi4 waan1 paai2} /Taiwanese mahjong/
-台灣高速鐵路 台湾高速铁路 [tai2 wan1 gao1 su4 tie3 lu4] {toi4 waan1 gou1 cuk1 tit3 lou6} /Taiwan high-speed rail/
-叱吒風雲 叱咤风云 [chi4 zha4 feng1 yun2] {cik1 zaa1 fung1 wan4} /powerful, masterful/
-史前時代 史前时代 [shi3 qian2 shi2 dai4] {si2 cin4 si4 doi6} /Prehistoric era/
-史跡 史迹 [shi3 ji4] {si2 zik1} /Historical sites/
-右便 右便 [you4 bian4] {jau6 bin6} /on the right; right-hand side/
-右手便 右手便 [you4 shou3 bian4] {jau6 sau2 bin6} /right hand side/
-右手邊 右手边 [you4 shou3 bian1] {jau6 sau2 bin1} /Right hand side/
-右眼 右眼 [you4 yan3] {jau6 ngaan5} /Right eye/
-右肴 右肴 [you4 yao2] {jau6 ngaau1} /Right-handed/
-右腦 右脑 [you4 nao3] {jau6 nou5} /Right brain; the right cerebral hemisphere/
-右軚 右軚 [you4 dai4] {jau6 taai5} /Right-hand drive/
-右軚車 右軚车 [you4 dai4 che1] {jau6 taai5 ce1} /Cars with right-hand drive/
-右面 右面 [you4 mian4] {jau6 min6} /right side/
-叵測 叵测 [po3 ce4] {po2 caak1} /one with unpredictable evil intention /
-叵耐 叵耐 [po3 nai4] {po2 noi6} /unendurable/
-司令 司令 [si1 ling4] {si1 ling6} /command/
-司儀 司仪 [si1 yi2] {si1 ji4} /(noun) a master of ceremonies (MC / Emcee); a compère / commère; an official host of an event; a toastmaster/
-司徒華 司徒华 [si1 tu2 hua2] {si1 tou4 waa4} /Szeto Wah, name of a Hong Kong politician/
-司法制度 司法制度 [si1 fa3 zhi4 du4] {si1 faat3 zai3 dou6} /judicial system/
-司法部長 司法部长 [si1 fa3 bu4 zhang3] {si1 faat3 bou6 zoeng2} /Minister of Justice; Attorney General/
-司空 司空 [si1 kong1] {si1 hung1} /the highest ranking official responsible for irrigation and construction works in ancient East Asia (China and Korea)/
-司馬昭之心 司马昭之心 [Si1 ma3 Zhao1 zhi1 xin1] {si1 maa5 ciu1 zi1 sam1 } /it means everyone can see and know when people have evil and bad intentions and they are trying to hide that/
-司馬秤 司马秤 [si1 ma3 cheng4] {si1 maa5 cing3} /Chinese measuring balance/
-叻 叻 [le4] {lik1} /(adjective) 1. smart and clever; 2. shrewd; 3. successful; 4. Astute; 5. Competent/
-叻仔 叻仔 [le4 zi3] {lek1 zai2 } /(n.) smart boy; smartass./
-叻唔切 叻唔切 [le4 n2 qie4] {lek1 m4 cit3} /describes a person who tries to acts smart in an attempt to show off (but in reality, he or she is not so smart); someone who thinks that he or she knows everything but in reality that is not the case/
-叻㗎 叻㗎 [le4 jia4] {lek1 gaa4} /lacquer; good in…/
-叻埠 叻埠 [li4 bu4] {lak6 fau6} /old name for Singapore/
-叻女 叻女 [le4 nü3] {lek1 neoi2} /(noun) smart-girl; a successful lady; a clever lady; a lesbian/
-叻幣 叻币 [li4 bi4] {lik1 bai6} /Straits Dollar/
-叻架 叻架 [le4 jia4] {lik1 gaa2} /lacquer/
-叻沙 叻沙 [le4 sha1] {lak6 saa1} /Laksa/
-吃不到的葡萄是酸的 吃不到的葡萄是酸的 [chi1 bu5 dao4 de5 pu2 tao5 shi4 suan1 de5] {hek3 bat1 dou3 dik1 pou4 tou4 si6 syun1 dik1} /lit. grapes that one had no chance to eat turns sour, meaning one becoming jealous of missing out on a chance/
-吃口 吃口 [chi1 kou3] {gat6 hau2} /Stammer/
-吃口吃舌 吃口吃舌 [chi1 kou3 chi1 she2] {hek3 hau2 hek3 sit6} /speaking not fluently; a speech disorder; stuttering/
-吃水線 吃水线 [chi1 shui3 xian4] {hek3 seoi2 sin3} /draft marks/
-吃煙 吃烟 [chi1 yan1] {hek3 jin1} /to smoke/
-吃老本 吃老本 [chi1 lao3 ben3] {hek3 lou5 bun2} /live off one's past success/
-吃裡扒外 吃里扒外 [chi1 li3 pa2 wai4] {hek3 leoi5 paa4 ngoi6} /one who betrays or turned against one's benefactor /
-吃香 吃香 [chi1 xiang1] {hek3 hoeng1} /(noun)  In high demand  /
-各位 各位 [ge4 wei4] {gok3 wai2} /(noun)  Everyone/
-各方面 各方面 [ge4 fang1 mian4] {gok3 fong1 min6} /Every aspect/
-各施各法 各施各法 [ge4 shi1 ge4 fa3] {gok3 si1 gok3 faat3} /people use their own methods/
-各有各 各有各 [ge4 you3 ge4] {gok3 jau5 gok3} /with their own/
-各自為政 各自为政 [ge4 zi4 wei2 zheng4] {gok3 zi6 wai4 zing3} /one inconsiderate of the situation, and administer things his/her own way/
-各花入各眼 各花入各眼 [ge4 hua1 ru4 ge4 yan3] {gok3 faa1 jap6 gok3 ngaan5} /'beauty is in the eye of the beholder'/
-各行各路 各行各路 [ge4 hang2 ge4 lu4] {gok3 haang4 gok3 lou6} /to go on with their own way/
-各適其適 各適其適 [ge4 di2 qi2 di2] {gok3 sik1 kei4 sik1} /each suits different needs; one does whatever he/she loves to do/
-各項 各项 [ge4 xiang4] {gok3 hong6} /Every kind/ type/ range/
-各顯神通 各显神通 [ge4 xian3 shen2 tong1] {gok3 hin2 san4 tung1} /each showing his special prowess/
-合乎 合乎 [he2 hu1] {hap6 fu4} /(verb) 1. Meet; 2. Match with/
-合乎邏輯 合乎逻辑 [he2 hu1 luo2 ji5] {hap6 fu4 lo4 cap1} /Logical/
-合份 合份 [he2 fen4] {gaap3 fan2} /to chip in/
-合作企業 合作企业 [he2 zuo4 qi3 ye4] {hap6 zok3 kei5 jip6} /Partnership corporation/
-合埋 合埋 [he2 mai2] {hap6 maai4} /1. combine together     2. to close; close off/
-合尺 合尺 [he2 chi3] {hap6 cek3} /scores of Cantonese opera/
-合心水 合心水 [he2 xin1 shui3] {hap6 sam1 seoi2} /to one's liking/
-合手合腳 合手合脚 [he2 shou3 he2 jiao3] {hap6 sau2 hap6 goek3} /co-operate or work together /
-合晒合尺 合晒合尺 [he2 shai4 he2 chi3] {hap6 saai3 ho4 ce2} /compatible /
-合格 合格 [he2 ge2] {hap6 gaak3} /(verb)  Pass a quiz or exam/
-合桃 合桃 [he2 tao2] {hap6 tou4} /(noun) a walnut/
-合桃酥 合桃酥 [he2 tao2 su1] {hap6 tou4 sou1} /walnut cookie/
-合檔 合档 [he2 dang4] {hap6 dong3} /partner/
-合浦 合浦 [he2 pu3] {hap6 pou2} /Hepu County/
-合理 合理 [he2 li3] {hap6 lei5} /justified/
-合眼緣 合眼缘 [he2 yan3 yuan2] {hap6 ngaan5 jyun4} /it describes when someone gives you a good impression, that you feel like you two are the same type of people, and you are fond of that person/
-合眾社 合众社 [He2 zhong4 she4] {hap6 zung3 se5} /United Press International/
-合襯 合衬 [he2 chen4] {hap6 can3} /matching; matching couple (spoken)/
-合資企業 合资企业 [he2 zi1 qi3 ye4] {hap6 zi1 kei5 jip6} /joint venture/
-合適 合适 [he2 shi4] {hap6 sik1} /(verb)  Suit/
-合金鋼 合金钢 [he2 jin1 gang1] {hap6 gam1 gong3} /alloy steel/
-合錢 合钱 [he2 qian2] {gaap3 cin2} /to chip in; to gather money/
-吉 吉 [ji2] {gat1} /(noun) 1. nothing; (adjective)  empty/
-吉列豬扒 吉列猪扒 [ji2 lie4 zhu1 pa2] {gat1 lit6 zyu1 paa2} /Tonkatsu, deep-fried pork cutlet/
-吉士 吉士 [ji2 shi4] {gat1 si6} /guts/
-吉澳 吉澳 [ji2 ao4] {gat1 ou3} /Crooked Island, a place in Hong Kong/
-吊吊扔 吊吊扔 [diao4 diao4 reng1] {diu3 diu3 fing4} /frivolous/
-吊吊揈 吊吊轰 [diao4 diao4 hong1] {diu3 diu3 fang4} /swinging in mid air (spoken)/
-吊味 吊味 [diao4 wei4] {diu3 mei6} /seasoning/
-吊命 吊命 [diao4 ming4] {diu3 meng6} /when one's life is hanging on a thread, relying on something like medicine to extend one's life; to be on the verge of just being able to survive with the help of something (such as money or medicine)/
-吊威也 吊威也 [diao4 wei1 ye3] {diu3 wai1 jaa2} /hanging from wire for performance in TV shows/ movies (stunt)/
-吊威吔 吊威吔 [diao4 wei1 ye5] {diu3 wai1 jaa2} /hanging from wire for performance in TV shows/ movies (stunt)/
-吊尾 吊尾 [diao4 wei3] {diu3 mei5} /to follow, to stalk/
-吊櫃 吊柜 [diao4 gui4] {diu3 gwai6} /wall cabinets/
-吊煲 吊煲 [diao4 bao1] {diu3 bou1} /cannot fend for oneself/
-吊癮 吊瘾 [diao4 yin3] {diu3 jan5} /to tantalize; to go cold turkey on an addiction /
-吊砂煲 吊砂煲 [diao4 sha1 bao1] {diu3 saa1 bou1} /meaning one is unemployed and has no income, no money, no food/
-吊臘鴨 吊腊鸭 [diao4 la4 ya1] {diu3 laap6 aap2} /to hang; to hang oneself/
-吊起來賣 吊起来卖 [diao4 qi3 lai2 mai4] {diu3 hei2 lai4 maai6} /seller setting a higher selling price when one shows interest /
-吊起嚟賣 吊起嚟卖 [diao4 qi3 li2 mai4] {diu3 hei2 lei4 maai6} /to hold out for the highest offer; hoarding a commodity; having a high opinion of oneself, e.g. someone acting arrogantly to gain favors from suitors/
-吊銷執照 吊销执照 [diao4 xiao1 zhi2 zhao4] {diu3 siu1 zap1 ziu3} /Revocation of license/
-吊銷牌照 吊销牌照 [diao4 xiao1 pai2 zhao4] {diu3 siu1 paai4 ziu3} /Revocation of license/
-吊鐘 吊钟 [diao4 zhong1] {diu3 zung1} /1. enkianthus (floral)     2. adam's apple/
-吊門桔 吊门桔 [diao4 men2 ju2] {diu3 mun4 gat1} /skinny; skinny monkeys/
-吊靴鬼 吊靴鬼 [diao4 xue1 gui3] {diu3 hoe1 gwai2} /someone who keeps on following another person; a cling-on (a person who acts like a stalker, the only difference being that they follow someone around openly instead of secretly)/
-吊頸 吊颈 [diao4 jing3] {diu3 geng2} /working hard and non stop (Cantonese slang)/
-吊骨 吊骨 [diao4 gu3] {diu3 gwat1} /hanger; it describes pants which are not long enough to cover the ankles, ankle pants; it describes locations which are remote, not easily accessible by public transportation/
-吊高嚟賣 吊高嚟卖 [diao4 gao1 li2 mai4] {diu3 gou1 lei4 maai6} /to sell/ promote something at a higher value than it is supposed to be; it describes people who become difficult/ picky, or want more benefits, because they suddenly become more popular/
-吊鹽水 吊盐水 [diao4 yan2 shui3] {diu3 jim4 seoi2} /to be on a drip/
-同一個鼻哥窿出氣 同一个鼻哥窿出气 [tong2 yi1 ge5 bi2 ge1 long2 chu1 qi4] {tung4 jat1 go3 bei6 go1 lung1 ceot1 hei3} /same tone, point of view, idea/
-同事 同事 [tong2 shi4] {tung4 si6} /(noun)  staff/
-同人唔同命，同遮唔同柄 同人唔同命，同遮唔同柄 [tong2 ren2 n2 tong2 ming4 , tong2 zhe1 n2 tong2 bing3] {tung4 jan4 m4 tung4 ming6 tung4 ze1 m4 tung4 beng3} /each person's fate and destiny vary from another/
-同仁 同仁 [tong2ren2] {tung4 jan4} /(noun) 1. Counterpart; 2. The people who share the same belief or situation /
-同位角 同位角 [tong2 wei4 jiao3] {tung4 wai6 gok3} /corresponding angles/
-同和站 同和站 [tong2 he2 zhan4] {tung4 wo2 zaam6} /Tonghe Station, metro station in Guangzhou/
-同埋 同埋 [tong2 mai2] {tung4 maai4} /and; together with/
-同姓 同姓 [tong2 xing4] {tung4 sing3} /same family name/
-同學會 同学会 [tong2 xue2 hui4] {tung4 hok6 wui5} /Student union, student association, student society; alumni association/
-同宗 同宗 [tong2 zong1] {tung4 zung1} /from the same ancestor/
-同屋主 同屋主 [tong2 wu1 zhu3] {tung4 uk1 zyu2} /roommates, flatmates, people who live together/
-同屋住 同屋住 [tong2 wu1 zhu4] {tung4 uk1 zyu6} /live under one roof; co-habit; house sharing /
-同庚 同庚 [tong2 geng1] {tung4 gang1} /born in same year/
-同心圓 同心圆 [tong2 xin1 yuan2] {tung4 sam1 jyun4} /concentric circle/
-同性婚姻 同性婚姻 [tong2 xing4 hun1 yin1] {tung4 sing3 fan1 jan1} /same-sex marriage/
-同情心 同情心 [tong2 qing2 xin1] {tung4 cing4 sam1} /Empathy/
-同撈同煲 同捞同煲 [tong2 lao1 tong2 bao1] {tung4 lou1 tung4 bou1} /to go through thick and thin together /
-同樂 同乐 [tong2 le4] {tung4 lok6} /Having fun together; being happy together/
-同樣 同样 [tong2 yang4] {tung4 joeng6} /similarly/
-同步 同步 [tong2bu4] {tung4 bou6} /(adverb phrase) At the same time/
-同盟 同盟 [tong2 meng2] {tung4 mang4} /ally/
-同盟軍 同盟军 [tong2 meng2 jun1] {tung4 mang4 gwan1} /Allies/
-同等學力 同等学力 [tong2 deng3 xue2 li4] {tung4 dang2 hok6 lik6} /Same educational qualification/
-同等學歷 同等学历 [tong2 deng3 xue2 li4] {tung4 dang2 hok6 lik6} /Same educational qualification/
-同聲 同声 [tong2 sheng1] {tung4 seng1} /Same tone, point of view, idea/
-同聲同氣 同声同气 [tong2 sheng1 tong2 qi4] {tung4 sing1 tung4 hei3} /1. support of each other 2. speaking the same dialect or tone/
-同舟共濟 同舟共济 [tong2 zhou1 gong4 ji4] {tung4 zau1 gung6 zai3} /(idiom) people need to work and help each other in order to overcome all difficulties /
-同花 同花 [tong2 hua1] {tung4 faa1} /flush, one of the sets in poker/
-同行 同行 [tong2 hang2] {tung4 hang4} /travel or go together/
-同行如敵國 同行如敌国 [tong2 hang2 ru2 di2 guo2] {tung4 hong4 jyu4 dik6 gwok3} /to describe two people in the same industry are always like two countries in rivalry/
-同謀 同谋 [tong2mou2] {tung4 mau4} /(verb) Be in cahoots/
-同門 同门 [tong2 men2] {tung4 mun4} /belong to the same clan/
-名副其實 名副其实 [ming2fu4qi2shi2] {ming4 fu3 kei4 sat6} /(adjective) Veritable/
-名古屋市 名古屋市 [Ming2 gu3 wu1 shi4] {ming4 gu2 uk1 si5} /Nagoya City/
-名媛望族 名媛望族 [ming2 yuan2 wang4 zu2] {ming4 wun4 mong6 zuk6} /Ladies that come from families of high social status/
-名成利就 名成利就 [ming2 cheng2 li4 jiu4] {ming4 sing4 lei6 zau6} /rich, successful with high social status/
-名校 名校 [ming2 xiao4] {ming4 haau6} /reputable school/
-名正言順 名正言顺 [ming2zheng4yan2shun4] {ming4 zing3 jin4 seon6} /(idiom) Get entitlement to/
-名牌 名牌 [ming2 pai2] {ming4 paai4} /prestige or luxury brand/
-名符其實 名符其实 [ming2 fu2 qi2 shi2] {ming4 fu4 kei4 sat6} /it is what it claims to be; live up to one's name/
-名貴 名贵 [ming2 gui4] {ming4 gwai3} /expensive/
-后海灣 后海湾 [hou4 hai3 wan1] {hau6 hoi2 waan1} /Deep Bay, a bay in Hong Kong/
-吐痰 吐痰 [tu3 tan2] {tou3 taam4} /to spit phlegm/
-吐血 吐血 [tu4 xie3] {tou3 hyut3} /vomiting blood /
-吐露港 吐露港 [tu3 lu4 gang3] {tou3 lou6 gong2} /Tolo Harbour, or Tai Po Hoi is a harbour in New Territories of Hong Kong/
-向前 向前 [xiang4qian2] {hoeng3 cin4} /(of direction) Forward the front of   /
-向右 向右 [xiang4 you4] {hoeng3 jau6} /Turn right/
-向左 向左 [xiang4 zuo3] {hoeng3 zo2} /Turn left/
-向著 向着 [xiang4 zhe5] {hoeng3 zoek6} /Towards/
-吔吔烏 吔吔乌 [ye5 ye5 wu1] {jaa4 jaa4 wu1} /not so good; the low-skilled people of a certain group; messy and not thinking through; frivolous/
-吔吔聲 吔吔声 [ye5 ye5 sheng1] {jaa1 jaa1 seng1} /sound people make to express surprise, disbelief, anger, pain/
-吔屎 吔屎 [ye5 shi3] {jaa1 si2} /eat shit, which is also similar to go fuck yourself/
-吔蕉 吔蕉 [ye5 jiao1] {jaa1 ziu1} /eat banana, which is also similar to go fuck yourself/
-吖嗎 吖吗 [a1 ma5] {aa1 maa3} /a way of expression, with surprised or doubtful feeling/
-吖嗱 吖嗱 [a1 na2] {aa1 naa4} /a way of expression, maybe to agree on something or to be attentive/
-吖嘛 吖嘛 [a1 ma5] {aa1 maa3} /isn't it; okay; right/
-君 君 [jun1] {gwan1} /(noun)  King/
-君主專制 君主专制 [jun1 zhu3 zhuan1 zhi4] {gwan1 zyu2 zyun1 zai3} /absolute monarchy/
-君之 君之 [jun1 zhi1] {gwan1 zi1} /the king's/
-君子協定 君子协定 [jun1 zi3 xie2 ding4] {gwan1 zi2 hip3 ding6} /Gentleman's agreement/
-君悅酒店 君悦酒店 [Jun1 yue4 jiu3 dian4] {gwan1 jyut6 zau2 dim3} /Grand Hyatt/
-君真 君真 [jun1 zhen1] {gwan1 zan1} /trustworthy; not be fake/
+口花花 口花花 [kou3 hua1 hua5] {hau2 faa1 faa1} /flatteur, mielleux/
+口苦 口苦 [kou3 ku3] {hau2 fu2} /goût amer dans la bouche/ne pas avoir d'appétit/
+口角 口角 [kou3 jiao3] {hau2 gok3} /disputer/dispute/
+口語化 口语化 [kou3 yu3 hua4] {hau2 jyu5 faa3} /(registre, langage) familier/
+口說無憑 口说无凭 [kou3 shuo1 wu2 ping2] {hau2 syut3 mou4 pang4} /la parole ne peut pas servir de preuve/
+口輕 口轻 [kou3 qing1] {hau2 heng1} /qui fait des promesses facilement, qui fait des promesses creuses/
+口輕輕 口轻轻 [kou3 qing1 qing1] {hau2 heng1 heng1} /qui fait des promesses facilement, qui fait des promesses creuses/
+口部 口部 [kou3 bu4] {hau2 bou6} /oral/la bouche/
+口震震 口震震 [kou3 zhen4 zhen4] {hau2 zan3 zan3} /bégayer, bredouiller/
+口面 口面 [kou3 mian4] {hau2 min6} /expression (de visage)/la bouche et le visage/
+口響 口响 [kou3 xiang3] {hau2 hoeng2} /qui fait des promesses facilement/énoncer un fait sans penser ou sans preuves/
+口頭 口头 [kou3 tou2] {hau2 tau4} /verbalement/
+口黑面黑 口黑面黑 [kou3 hei1 mian4 hei1] {hau2 hak1 min6 hak1} /avoir l'air mécontent/
+口齒 口齿 [kou3 chi3] {hau2 ci2} /articulation, capacité de parler/promesse/crédibilité, fiabilité/
+古 古 [gu3] {gu2} /patrimoine/
+古井無波 古井无波 [gu3 jing3 wu2 bo1] {gu2 zeng2 mou4 bo1} /(expr. idiom.) se sentir tranquille, serein, calme/(expr. idiom.) résistant aux tentations, désirs/(litt.) un vieux puits n'a pas de vagues/
+古仔 古仔 [gu3 zi3] {gu2 zai2} /histoire, récit/
+古典 古典 [gu3 dian3] {gu2 din2} /ancien/
+古典主義 古典主义 [gu3 dian3 zhu3 yi4] {gu2 din2 zyu2 ji6} /classicisme/
+古天樂 古天乐 [gu3 tian1 le4] {gu2 tin1 lok6} /Louis Koo Tin Lok, acteur hongkongais/
+古巨基 古巨基 [gu3 ju4 ji1] {gu2 geoi6 gei1} /Leo Koo Ku Kei, chanteur et acteur hongkongais/
+古惑 古惑 [gu3 huo4] {gu2 waak6} /malin, futé/
+古文字 古文字 [gu3 wen2 zi4] {gu2 man4 zi6} /textes historiques/
+古月粉 古月粉 [gu3 yue4 fen3] {gu2 jyut6 fan2} /poivre blanc/
+古玩鋪 古玩铺 [gu3 wan2 pu4] {gu2 wun2 pou2} /magasin d'antiquités/
+古着 古着 [gu3 zhe5] {gu2 zoek6} /vêtements rétro, vêtements d'époque/
+古縮 古缩 [gu3 suo1] {gu2 suk1} /démodé/conservateur/introverti/réticent/
+古老 古老 [gu3 lao3] {gu2 lou5} /démodé/
+古老十八代 古老十八代 [gu3 lao3 shi2 ba1 dai4] {gu2 lou5 sap6 baat3 doi6} /très vieux, ancien/
+古老當時興 古老当时兴 [gu3 lao3 dang1 shi2 xing1] {gu2 lou5 dong3 si4 hing1} /revenir au goût du jour/
+古老石山 古老石山 [gu3 lao3 shi2 shan1] {gu2 lou5 sek6 saan1} /(expr. idiom.) une personne obstinée/(litt.) une montagne ancienne/
+古董 古董 [gu3 dong3] {gu2 dung2} /qqn vieux et fragile/
+古裝片 古装片 [gu3 zhuang1 pian4] {gu2 zong1 pin2} /film de costumes chinois traditionnel/
+古訓 古训 [gu3 xun4] {gu2 fan3} /adage, maxime ancien/
+古銅 古铜 [gu3 tong2] {gu2 tung4} /bronzé/cuivre ancien/bronze/
+古雅 古雅 [gu3 ya3] {gu2 ngaa5} /classique et élégant/
+古體詩 古体诗 [gu3 ti3 shi1] {gu2 tai2 si1} /poésie ancienne/poésie chinoise ancienne/
+古龍水 古龙水 [Gu3 Long2 shui3] {gu2 lung4 seoi2} /eau de Cologne/
+句號 句号 [ju4 hao4] {geoi3 hou6} /point (ponctuation)/
+另一邊 另一边 [ling4 yi1 bian1] {ling6 jat1 bin1} /l'autre côté/
+另外 另外 [ling4 wai4] {ling6 ngoi6} /un autre/
+另行安排 另行安排 [ling4 xing2 an1 pai2] {ling6 hang4 on1 paai4} /dispositions alternatives/
+另行通知 另行通知 [ling4 xing2 tong1 zhi1] {ling6 hang4 tung1 zi1} /notifier plus tard/notifier une fois de plus/
+另議 另议 [ling4 yi4] {ling6 ji5} /à discuter à l'avenir/négotiation alternernative/
+另起爐灶 另起炉灶 [ling4 qi3 lu2 zao4] {ling6 hei2 lou4 zou3} /(expr. idiom.) ouvrir une autre entreprise/(litt.) créer une autre cuisinière/
+???? 叨光 叨光 [tao1 guang1] {tou1 gwong1} /be part of the glory /
+叨叨絮絮 叨叨絮絮 [dao1 dao5 xu4 xu4] {dou1 dou1 seo6 seoi6} /parler sans arrêt, harceler, embêter/
+叨擾 叨扰 [dao1 rao3] {tou1 jiu5} /déranger/
+叩問 叩问 [kou4 wen4] {kau3 man6} /demander humblement/se renseigner, demander/
+叩謝 叩谢 [kou4 xie4] {kau3 ze6} /exprimer sa gratitude/
+只係 只系 [zhi3 xi4] {zi2 hai6} /(être) seulement/
+只需 只需 [zhi3 xu1] {zi2 seoi1} /avoir seulement besoin de (qqch)/
+叫價 叫价 [jiao4 jia4] {giu3 gaa3} /(enchères) offre/prix de départ/
+叫喚 叫唤 [jiao4 huan5] {giu3 wun6} /crier/
+叫好不叫座 叫好不叫座 [jiao4 hao3 bu4 jiao4 zuo4] {giu3 hou2 bat1 giu3 zo6} /qui est de bonne qualité mais qui ne se vend pas bien/
+叫座 叫座 [jiao4 zuo4] {giu3 zo6} /qui se vend bien/
+叫糊 叫糊 [jiao4 hu2] {giu3 wu2} /presque gagner une partie de mah-jong/
+叫罵 叫骂 [jiao4 ma4] {giu3 maa6} /crier/crier des gros mots/
+叫起手 叫起手 [jiao4 qi3 shou3] {giu3 hei2 sau2} /au besoin/
+叫餸 叫餸 [jiao4 song4] {giu3 sung3} /commander des aliments/
+召之即來 召之即来 [zhao4 zhi1 ji2 lai2] {ziu6 zi1 zik1 loi4} /obéissant/
+召妓 召妓 [zhao4 ji4] {ziu6 gei6} /appeler des prostituées/
+召開 召开 [zhao4 kai1] {ziu6 hoi1} /hôte, hôtesse/
+召集 召集 [zhao4 ji2] {ziu6 zaap6} /convoquer, réunir des personnes/
+叮叮糖 叮叮糖 [ding1 ding1 tang2] {ding1 ding1 tong2} /Deuk Deuk Tong, un bonbon traditionnel/
+叮囑 叮嘱 [ding1 zhu3] {ding1 zuk1} /avertir plusieurs fois/
+可不是嗎 可不是吗 [ke3 bu5 shi4 ma5] {ho2 bat1 si6 maa1} /non?/ne pensez-vous pas que?/
+可以 可以 [ke3 yi3] {ho2 ji5} /comme ci, comme ça/
+可以避免 可以避免 [ke3 yi3 bi4 mian3] {ho2 ji5 bei6 min5} /évitable/
+可可樹 可可树 [ke3 ke3 shu4] {ho2 ho2 syu6} /cacaoyer/
+可可粉 可可粉 [ke3 ke3 fen3] {ho2 ho2 fan2} /poudre de cacao/
+可可豆 可可豆 [ke3 ke3 dou4] {ho2 ho2 dau2} /fève de cacao/
+可唔可以 可唔可以 [ke3 m2 ke3 yi3] {ho2 m4 ho2 ji5} /est-ce qu'il est possible de...?/est-ce qu'on a le droit de...?/
+可嘉 可嘉 [ke3 jia1] {ho2 gaa1} /digne de louange/
+可大可小 可大可小 [ke3 da4 ke3 xiao3] {ho2 daai6 ho2 siu2} /qui pourrait être sérieux ou sans importance/
+可怖 可怖 [ke3 bu4] {ho2 bou3} /terrifiant/
+可惱也 可恼也 [ke3 nao3 ye3] {ho2 nou5 jaa5} /(de l'opéra cantonais) être énervé par un discours absurde/
+???? 可想然之 可想然之 [ke3 xiang3 ran2 zhi1] {ho2 soeng2 jin4 zi1} /you can imagine that/
+可比價格 可比价格 [ke3 bi3 jia4 ge2] {ho2 bei2 gaa3 gaak3} /prix fixe/prix comparable/
+可用性 可用性 [ke3 yong4 xing4] {ho2 jung6 sing3} /maniabilité, facilité d'utilisation/
+可能 可能 [ke3 neng2] {ho2 nang4} /capable/
+可見度 可见度 [ke3 jian4 du4] {ho2 gin3 dou6} /visibilité/
+台 台 [tai2] {toi4} /scène/estrade, tribune/station de radio télévision/abbréviation de Taïwan/
+台型 台型 [tai2 xing2] {toi4 jing4} /charisme sur scène/
+台山話 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /(langue) taishanais/
+台山话 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /(langue) taishanais/
+台灣問題 台湾问题 [tai2 wan1 wen4 ti2] {toi4 waan1 man6 tai4} /«question de Taïwan», le sujet du statut de Taïwan vis-à-vis la Chine continentale/
+台灣牌 台湾牌 [tai2 wan1 pai2] {toi4 waan1 paai2} /mah-jong taïwanais/
+台灣高速鐵路 台湾高速铁路 [tai2 wan1 gao1 su4 tie3 lu4] {toi4 waan1 gou1 cuk1 tit3 lou6} /ligne à grande vitesse de Taïwan/
+叱吒風雲 叱咤风云 [chi4 zha4 feng1 yun2] {cik1 zaa1 fung1 wan4} /(expr. idiom.) puissant/(litt.) qui réprimande le vent et les nuages/
+史前時代 史前时代 [shi3 qian2 shi2 dai4] {si2 cin4 si4 doi6} /l'époque préhistorique/
+史跡 史迹 [shi3 ji4] {si2 zik1} /sites historiques/
+右便 右便 [you4 bian4] {jau6 bin6} /à droite/
+右手便 右手便 [you4 shou3 bian4] {jau6 sau2 bin6} /côté droit/
+右手邊 右手边 [you4 shou3 bian1] {jau6 sau2 bin1} /côté droit/
+右眼 右眼 [you4 yan3] {jau6 ngaan5} /oeil droit/
+右肴 右肴 [you4 yao2] {jau6 ngaau1} /droitier/
+右腦 右脑 [you4 nao3] {jau6 nou5} /l'hémisphère droit du cerveau/
+右軚 右軚 [you4 dai4] {jau6 taai5} /conduite à droite/
+右軚車 右軚车 [you4 dai4 che1] {jau6 taai5 ce1} /voitures conçus pour la conduite à droite/
+右面 右面 [you4 mian4] {jau6 min6} /côté droit/
+叵測 叵测 [po3 ce4] {po2 caak1} /une personne mauvaise imprévisible, «mauvais chaotique»/
+叵耐 叵耐 [po3 nai4] {po2 noi6} /insupportable/
+司令 司令 [si1 ling4] {si1 ling6} /commander/ordonner/
+司儀 司仪 [si1 yi2] {si1 ji4} /maître de céréomonie/
+司徒華 司徒华 [si1 tu2 hua2] {si1 tou4 waa4} /Szeto Wah, un homme politique hongkongais/
+司法制度 司法制度 [si1 fa3 zhi4 du4] {si1 faat3 zai3 dou6} /pouvoir judiciaire/
+司法部長 司法部长 [si1 fa3 bu4 zhang3] {si1 faat3 bou6 zoeng2} /ministre de la Justice/
+司空 司空 [si1 kong1] {si1 hung1} /le fonctionnaire ayant le rang le plus élevé responsable pour la construction et irrigation dans la Chine et Corée antique/
+司馬昭之心 司马昭之心 [si1 ma3 zhao1 zhi1 xin1] {si1 maa5 ciu1 zi1 sam1} /(expr. idiom.) une personne dont les mauvaises intentions qu'il essaie de dissimuler sont connues par tout le monde/(litt.) le coeur de 司馬昭 司马昭 est connu par tous/
+司馬秤 司马秤 [si1 ma3 cheng4] {si1 maa5 cing3} /balance (de pesage) chinoise/
+叻 叻 [le4] {lik1} /intelligent/futé, malin/accompli/astucieux/compétent/
+叻仔 叻仔 [le4 zi3] {lek1 zai2 } /garçon intelligent/Monsieur je-sais-tout/
+叻唔切 叻唔切 [le4 n2 qie4] {lek1 m4 cit3} /qqn qui essaie d'avoir l'air intelligent mais en réalité ne connaît pas grand-chose/
+叻㗎 叻㗎 [le4 jia4] {lek1 gaa4} /lacque/qui est bon à faire.../
+叻埠 叻埠 [li4 bu4] {lak6 fau6} /vieux nom pour Singapour/
+叻女 叻女 [le4 nü3] {lek1 neoi2} /fille intelligente/femme accomplie/lesbienne/
+叻幣 叻币 [li4 bi4] {lik1 bai6} /dollar des Établissements des détroits («Straits Settlements» en anglais)/
+叻架 叻架 [le4 jia4] {lik1 gaa2} /lacque/
+叻沙 叻沙 [le4 sha1] {lak6 saa1} /laksa, une soupe asiatique de nouilles épicées/
+吃不到的葡萄是酸的 吃不到的葡萄是酸的 [chi1 bu5 dao4 de5 pu2 tao5 shi4 suan1 de5] {hek3 bat1 dou3 dik1 pou4 tou4 si6 syun1 dik1} /(expr. idiom.) qui est jaloux après avoir manqué une occasion de gagner qqch/(litt.) les raisins qu'on ne peut pas manger sont tous aigres/
+吃口 吃口 [chi1 kou3] {gat6 hau2} /bégayer, balbutier/
+吃口吃舌 吃口吃舌 [chi1 kou3 chi1 she2] {hek3 hau2 hek3 sit6} /qui n'a pas maîtrisé une langue/trouble de la parole/bégaiement/
+吃水線 吃水线 [chi1 shui3 xian4] {hek3 seoi2 sin3} /graduation d'une échelle de tirant d'eau/
+吃煙 吃烟 [chi1 yan1] {hek3 jin1} /fumer/
+吃老本 吃老本 [chi1 lao3 ben3] {hek3 lou5 bun2} /vivre du succès passé/
+吃裡扒外 吃里扒外 [chi1 li3 pa2 wai4] {hek3 leoi5 paa4 ngoi6} /(expr. idiom.) qui trahit son bienfaiteur/(litt.) qui mange dedans et rampe dehors/
+吃香 吃香 [chi1 xiang1] {hek3 hoeng1} /à la mode, convoité/
+各位 各位 [ge4 wei4] {gok3 wai2} /tout le monde/
+各方面 各方面 [ge4 fang1 mian4] {gok3 fong1 min6} /tous les aspects, chaque aspect/
+各施各法 各施各法 [ge4 shi1 ge4 fa3] {gok3 si1 gok3 faat3} /chacun a ses propres méthodes/
+各有各 各有各 [ge4 you3 ge4] {gok3 jau5 gok3} /avec son propre (qqch)/
+各自為政 各自为政 [ge4 zi4 wei2 zheng4] {gok3 zi6 wai4 zing3} /qui administre une situation sans considérer le contexte/
+各花入各眼 各花入各眼 [ge4 hua1 ru4 ge4 yan3] {gok3 faa1 jap6 gok3 ngaan5} /(expr. idiom.) la beauté est dans les yeux de celui qui regarde/(litt.) chaque fleur entre différement dans chaque oeil/
+各行各路 各行各路 [ge4 hang2 ge4 lu4] {gok3 haang4 gok3 lou6} /chacun suit son propre chemin/
+各適其適 各適其適 [ge4 di2 qi2 di2] {gok3 sik1 kei4 sik1} /chacun fait ce qui leur plaît/
+各項 各项 [ge4 xiang4] {gok3 hong6} /chaque type/
+各顯神通 各显神通 [ge4 xian3 shen2 tong1] {gok3 hin2 san4 tung1} /chacun montre son propre aptitude unique/
+合乎 合乎 [he2 hu1] {hap6 fu4} /qui correspond, qui se conforme, qui va ensemble avec/
+合乎邏輯 合乎逻辑 [he2 hu1 luo2 ji5] {hap6 fu4 lo4 cap1} /logique/
+合份 合份 [he2 fen4] {gaap3 fan2} /donner de l'argent, se cotiser/
+合作企業 合作企业 [he2 zuo4 qi3 ye4] {hap6 zok3 kei5 jip6} /partenariat (entreprise)/
+合埋 合埋 [he2 mai2] {hap6 maai4} /combiner/fermer/
+合尺 合尺 [he2 chi3] {hap6 cek3} /partition d'opéra cantonais/
+合心水 合心水 [he2 xin1 shui3] {hap6 sam1 seoi2} /à sa guise/
+合手合腳 合手合脚 [he2 shou3 he2 jiao3] {hap6 sau2 hap6 goek3} /travailler ensemble, coopérer/
+合晒合尺 合晒合尺 [he2 shai4 he2 chi3] {hap6 saai3 ho4 ce2} /qui suit les règles/(deux personnes) compatibles/
+合格 合格 [he2 ge2] {hap6 gaak3} /réussir un quiz ou examen/
+合桃 合桃 [he2 tao2] {hap6 tou4} /noix, fruit du noyer/
+合桃酥 合桃酥 [he2 tao2 su1] {hap6 tou4 sou1} /biscuit aux noix (spécifiquement le fruit du noyer)/
+合檔 合档 [he2 dang4] {hap6 dong3} /partenaire/
+合浦 合浦 [he2 pu3] {hap6 pou2} /le xian de Hepu, district de Guangxi/
+合理 合理 [he2 li3] {hap6 lei5} /justifié/
+合眼緣 合眼缘 [he2 yan3 yuan2] {hap6 ngaan5 jyun4} /faire bonne impression sur qqn/
+合眾社 合众社 [he2 zhong4 she4] {hap6 zung3 se5} /United Press International, une agence de presse américaine/
+合襯 合衬 [he2 chen4] {hap6 can3} /assorti, coordonnée, qui va ensemble/
+合資企業 合资企业 [he2 zi1 qi3 ye4] {hap6 zi1 kei5 jip6} /joint-venture/
+合適 合适 [he2 shi4] {hap6 sik1} /costume (pantalon et veste assortis pour homme)/
+合金鋼 合金钢 [he2 jin1 gang1] {hap6 gam1 gong3} /acier allié/
+合錢 合钱 [he2 qian2] {gaap3 cin2} /donner de l'argent, se cotiser/
+吉 吉 [ji2] {gat1} /rien/vide/
+吉列豬扒 吉列猪扒 [ji2 lie4 zhu1 pa2] {gat1 lit6 zyu1 paa2} /tonkatsu, plat japonais à base de porc pané et frit/
+吉士 吉士 [ji2 shi4] {gat1 si6} /courage, cran (orig.) de l'anglais «guts», intestins/
+吉澳 吉澳 [ji2 ao4] {gat1 ou3} /Crooked Island, ou île Kat O, un endroit à Hong Kong/
+吊吊扔 吊吊扔 [diao4 diao4 reng1] {diu3 diu3 fing4} /frivole/
+吊吊揈 吊吊轰 [diao4 diao4 hong1] {diu3 diu3 fang4} /suspendu dans les airs/
+吊味 吊味 [diao4 wei4] {diu3 mei6} /assaisonnement/
+吊命 吊命 [diao4 ming4] {diu3 meng6} /une vie pendue par un fil/qui survit grâce à qqch, comme de l'argent ou des médicaments/
+吊威也 吊威也 [diao4 wei1 ye3] {diu3 wai1 jaa2} /suspendu dans les airs pour un film ou une émission de télé, une cascade/
+吊威吔 吊威吔 [diao4 wei1 ye5] {diu3 wai1 jaa2} /suspendu dans les airs pour un film ou une émission de télé, une cascade/
+吊尾 吊尾 [diao4 wei3] {diu3 mei5} /suivre/
+吊櫃 吊柜 [diao4 gui4] {diu3 gwai6} /armoire (murale)/
+吊煲 吊煲 [diao4 bao1] {diu3 bou1} /qui n'arrive pas à se débrouiller seul, sans défense/
+吊癮 吊瘾 [diao4 yin3] {diu3 jan5} /arrêt net, arrêt brutal/
+吊砂煲 吊砂煲 [diao4 sha1 bao1] {diu3 saa1 bou1} /qui est sans emploi, sans salaire, argent, ou nourriture/
+吊臘鴨 吊腊鸭 [diao4 la4 ya1] {diu3 laap6 aap2} /pendre, se pendre/(litt.) suspendre un canard au barbecue/
+吊起來賣 吊起来卖 [diao4 qi3 lai2 mai4] {diu3 hei2 lai4 maai6} /monter le prix quand qqn se montre interessé/attendre l'offre le plus haut/stocker un produit/arrogant/qqn qui demande plus après être devenu célèbre/
+吊起嚟賣 吊起嚟卖 [diao4 qi3 li2 mai4] {diu3 hei2 lei4 maai6} /monter le prix quand qqn se montre interessé/attendre l'offre le plus haut/stocker un produit/arrogant/qqn qui demande plus après être devenu célèbre/
+吊銷執照 吊销执照 [diao4 xiao1 zhi2 zhao4] {diu3 siu1 zap1 ziu3} /retirer la licence/
+吊銷牌照 吊销牌照 [diao4 xiao1 pai2 zhao4] {diu3 siu1 paai4 ziu3} /retirer la licence/
+吊鐘 吊钟 [diao4 zhong1] {diu3 zung1} /enkianthus, un genre d'arbres et arbustes/pomme d'Adam/
+???? 吊門桔 吊门桔 [diao4 men2 ju2] {diu3 mun4 gat1} /maigre/singes maigres/
+吊靴鬼 吊靴鬼 [diao4 xue1 gui3] {diu3 hoe1 gwai2} /qqn collant, harceleur, harceleuse/
+吊頸 吊颈 [diao4 jing3] {diu3 geng2} /qui travaille sans arrêt/(litt.) se pendre par le cou/
+???? 吊骨 吊骨 [diao4 gu3] {diu3 gwat1} /pantalons trop courts/endroits inaccessibles/
+吊高嚟賣 吊高嚟卖 [diao4 gao1 li2 mai4] {diu3 gou1 lei4 maai6} /monter le prix quand qqn se montre interessé/attendre l'offre le plus haut/stocker un produit/arrogant/qqn qui demande plus après être devenu célèbre/
+吊鹽水 吊盐水 [diao4 yan2 shui3] {diu3 jim4 seoi2} /sous perfusion/
+同一個鼻哥窿出氣 同一个鼻哥窿出气 [tong2 yi1 ge5 bi2 ge1 long2 chu1 qi4] {tung4 jat1 go3 bei6 go1 lung1 ceot1 hei3} /(expr. idiom.) du même point de vue, avoir la même idée/(litt.) souffler de la même narine/
+同事 同事 [tong2 shi4] {tung4 si6} /collègue/personnel/
+同人唔同命，同遮唔同柄 同人唔同命，同遮唔同柄 [tong2 ren2 n2 tong2 ming4 , tong2 zhe1 n2 tong2 bing3] {tung4 jan4 m4 tung4 ming6 tung4 ze1 m4 tung4 beng3} /chacun a son propre destin/(litt.) même personnes, différentes vies; même parapluie, différentes poignées/
+同仁 同仁 [tong2 ren2] {tung4 jan4} /camarades, collègues/
+同位角 同位角 [tong2 wei4 jiao3] {tung4 wai6 gok3} /angles correspondants/
+同和站 同和站 [tong2 he2 zhan4] {tung4 wo2 zaam6} /station Tonghe, une station de métro à Guangzhou/
+同埋 同埋 [tong2 mai2] {tung4 maai4} /et/avec/
+同姓 同姓 [tong2 xing4] {tung4 sing3} /même nom de famille/
+同學會 同学会 [tong2 xue2 hui4] {tung4 hok6 wui5} /bureau des étudiants, association des étudiants/
+同宗 同宗 [tong2 zong1] {tung4 zung1} /du même ancêtre/
+同屋主 同屋主 [tong2 wu1 zhu3] {tung4 uk1 zyu2} /colocataires/
+同屋住 同屋住 [tong2 wu1 zhu4] {tung4 uk1 zyu6} /cohabiter/
+同庚 同庚 [tong2 geng1] {tung4 gang1} /né la même année/
+同心圓 同心圆 [tong2 xin1 yuan2] {tung4 sam1 jyun4} /cercles concentriques/
+同性婚姻 同性婚姻 [tong2 xing4 hun1 yin1] {tung4 sing3 fan1 jan1} /mariage homosexuel/
+同情心 同情心 [tong2 qing2 xin1] {tung4 cing4 sam1} /empathie/
+同撈同煲 同捞同煲 [tong2 lao1 tong2 bao1] {tung4 lou1 tung4 bou1} /(expr. idiom.) contre vents et marées/(litt.) à travers mélanger et bouillir/
+同樂 同乐 [tong2 le4] {tung4 lok6} /s'amuser ensemble, être content ensemble/
+同樣 同样 [tong2 yang4] {tung4 joeng6} /de la même façon/
+同步 同步 [tong2bu4] {tung4 bou6} /au même temps/
+同盟 同盟 [tong2 meng2] {tung4 mang4} /allié/groupe d'alliés/
+同盟軍 同盟军 [tong2 meng2 jun1] {tung4 mang4 gwan1} /allié militaire/groupe d'alliés militaires/
+同等學力 同等学力 [tong2 deng3 xue2 li4] {tung4 dang2 hok6 lik6} /même niveau d'instruction/
+同等學歷 同等学历 [tong2 deng3 xue2 li4] {tung4 dang2 hok6 lik6} /même niveau d'instruction/
+同聲 同声 [tong2 sheng1] {tung4 seng1} /même ton/même point de vue, être d'accord/même idée/
+同聲同氣 同声同气 [tong2 sheng1 tong2 qi4] {tung4 sing1 tung4 hei3} /soutenir mutuellement/parler le même dialecte ou avec le même ton/
+同舟共濟 同舟共济 [tong2 zhou1 gong4 ji4] {tung4 zau1 gung6 zai3} /(expr. idiom.) il faut travailler ensemble pour résoudres les problèmes/(litt.) même bateau, travailler ensemble/
+同花 同花 [tong2 hua1] {tung4 faa1} /flush (poker)/
+同行 同行 [tong2 hang2] {tung4 hang4} /qqn qui travaille dans la même industrie/voyager ou aller ensemble/
+同行如敵國 同行如敌国 [tong2 hang2 ru2 di2 guo2] {tung4 hong4 jyu4 dik6 gwok3} /deux personnes travaillant dans la même industrie sont comme deux pays qui sont ennemis/
+同謀 同谋 [tong2 mou2] {tung4 mau4} /conspirer, comploter/
+同門 同门 [tong2 men2] {tung4 mun4} /faire partie du même clan/
+名副其實 名副其实 [ming2 fu4 qi2 shi2] {ming4 fu3 kei4 sat6} /être à la hauteur du nom/
+名古屋市 名古屋市 [Ming2 gu3 wu1 shi4] {ming4 gu2 uk1 si5} /ville de Nagoya, une ville au Japon/
+名媛望族 名媛望族 [ming2 yuan2 wang4 zu2] {ming4 wun4 mong6 zuk6} /femmes qui proviennent des familles de grand statut social/
+名成利就 名成利就 [ming2 cheng2 li4 jiu4] {ming4 sing4 lei6 zau6} /riche et accompli, avec grand statut socia/
+名校 名校 [ming2 xiao4] {ming4 haau6} /école réputée/
+???? 名正言順 名正言顺 [ming2 zheng4 yan2 shun4] {ming4 zing3 jin4 seon6} /(idiom) Get entitlement to/
+名牌 名牌 [ming2 pai2] {ming4 paai4} /produit réputé/nom de marque/marque de luxe/
+名符其實 名符其实 [ming2 fu2 qi2 shi2] {ming4 fu4 kei4 sat6} /être à la hauteur du nom/
+名貴 名贵 [ming2 gui4] {ming4 gwai3} /cher/
+后海灣 后海湾 [hou4 hai3 wan1] {hau6 hoi2 waan1} /Deep Bay, une baie à Hong Kong/
+吐痰 吐痰 [tu3 tan2] {tou3 taam4} /tousser du mucus/
+吐血 吐血 [tu4 xie3] {tou3 hyut3} /vomir du sang/
+吐露港 吐露港 [tu3 lu4 gang3] {tou3 lou6 gong2} /Port Tolo, aussi connu sous le nom de Tai Po Hoi est un port dans les Nouveaux Territoires de Hong Kong/
+向前 向前 [xiang4qian2] {hoeng3 cin4} /en avant/devant/
+向右 向右 [xiang4 you4] {hoeng3 jau6} /vers le droit/tourner vers le droit/
+向左 向左 [xiang4 zuo3] {hoeng3 zo2} /vers le gauche/tourner vers le gauche/
+向著 向着 [xiang4 zhe5] {hoeng3 zoek6} /vers, envers/
+吔吔烏 吔吔乌 [ye5 ye5 wu1] {jaa4 jaa4 wu1} /de mauvaise qualité/qui n'est pas bien/gens peu qualifiés/désorganisé et désordonné/frivole/
+吔吔聲 吔吔声 [ye5 ye5 sheng1] {jaa1 jaa1 seng1} /interjection pour exprimer la surprise, l'incrédulité, la colère, la douleur/
+吔屎 吔屎 [ye5 shi3] {jaa1 si2} /va te faire foutre, (Can.) mange d'la marde!/(litt.) mange de la merde/
+吔蕉 吔蕉 [ye5 jiao1] {jaa1 ziu1} /va te faire foutre, (Can.) mange d'la marde!/(litt.) mange une banane/
+吖嗎 吖吗 [a1 ma5] {aa1 maa3} /particule modale pour exprimer la surprise ou la doute/
+吖嗱 吖嗱 [a1 na2] {aa1 naa4} /particule modale pour exprimer son accord ou que l'on prête attention/
+吖嘛 吖嘛 [a1 ma5] {aa1 maa3} /particule modale similare à «...non?» dans les questions/particule modale pour dire d'accord/
+君 君 [jun1] {gwan1} /roi/
+君主專制 君主专制 [jun1 zhu3 zhuan1 zhi4] {gwan1 zyu2 zyun1 zai3} /monarchie absolue/
+君之 君之 [jun1 zhi1] {gwan1 zi1} /qui appartient au roi/
+君子協定 君子协定 [jun1 zi3 xie2 ding4] {gwan1 zi2 hip3 ding6} /accord informel/
+君悅酒店 君悦酒店 [jun1 yue4 jiu3 dian4] {gwan1 jyut6 zau2 dim3} /Grand Hyatt, une chaîne d'hôtels/
+君真 君真 [jun1 zhen1] {gwan1 zan1} /fiable, authentique/
 君臨天下 君临天下 [jun1 lin2 tian1 xia4] {gwan1 lam4 tin1 haa6} /The Harhourside, name of a real estate in Hong Kong; the king is superior and leads the world/
 吞 吞 [tun1] {tan1} /take possession/
 吞口水養命 吞口水养命 [tun1 kou3 shui3 yang3 ming4] {tan1 hau2 seoi2 joeng5 meng6} /lit. to survive on swallowing saliva, meaning one who is extremely poor/
