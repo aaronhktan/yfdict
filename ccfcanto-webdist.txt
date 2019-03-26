@@ -2,7 +2,7 @@
 # Le dictionnaire cantonais-français libre
 # Version 2018-11-29
 # 
-# Basé sur une la version originale en anglais, CC-Canto
+# Basé sur la version originale en anglais, CC-Canto
 # Copyright (c) 2015-16 Pleco Software Incorporated
 # Distributé sous license Creative Commons Attribution - Partage dans les Mêmes Conditions 3.0 non transposé (http://creativecommons.org/licenses/by-sa/3.0/)
 #
@@ -4255,7 +4255,7 @@
 唔見咗 唔见咗 [n2 jian4 zuo5] {m4 gin3 zo2} /perdu, disparu/
 唔見得人 唔见得人 [n2 jian4 de2 ren2] {m4 gin3 dak1 jan4} /qui ne peut pas être montré en public/
 唔見得光 唔见得光 [n2 jian4 de5 guang1] {m4 gin3 dak1 gwong1} /(expr. idiom.) qui ne doit pas voir le jour, qqch qui doit rester dissimulé ou caché du grand public/(litt.) ne peut pas voir la lumière/
-唔見棺材唔流眼淚 唔见棺材唔流眼泪 [n2 jian4 guan1 cai5 n2 liu2 yan3 lei4] {m4 gin3 gun1 coi4 m4 lau4 ngaan5 leoi6} /ne pas croire jusqu'à ce qu'on doit faire face à la réalité/(litt.) ne pas pleurer avant de voir le cercueil/
+唔見棺材唔流眼淚 唔见棺材唔流眼泪 [n2 jian4 guan1 cai5 n2 liu2 yan3 lei4] {m4 gin3 gun1 coi4 m4 lau4 ngaan5 leoi6} /ne pas croire qqch jusqu'à ce que l'on doit faire face à la réalité/(litt.) ne pas pleurer avant de voir le cercueil/
 唔覺意 唔觉意 [n2 jue2 yi4] {m4 gok3 ji3} /involontairement, inconsciemment/
 唔覺眼 唔觉眼 [n2 jue2 yan3] {m4 gok3 ngaan5} /passer inaperçu/ne pas remarquer/
 ???? 唔計帶 唔计带 [n2 ji4 dai4] {m4 gai3 daai3} /do not mind, do not care/
@@ -4299,72 +4299,71 @@
 ???? 唞涼 唞凉 [dou3 liang2] {tau2 loeng4} /refroidir/
 唥鐘 唥钟 [lang5 zhong1] {laang1 zung1} /réveil-matin/sonner une cloche/
 唧屐 唧屐 [ji1 ji1] {zek1 kek6} /veste/
-唧都唔笑 唧都唔笑 [ji1 dou1 n2 xiao4] {zek1 dou1 m4 siu3} /lit. no reaction to tickle, meaning one who is stern, serious, boring, not fun /
-唯一 唯一 [wei2yi1] {wai4 jat1} /(noun) Only one/
-唯心 唯心 [wei2 xin1] {wai4 sam1} /reality as we know it; idealism /
-唯物辯證法 唯物辩证法 [wei2 wu4 bian4 zheng4 fa3] {wai4 mat6 bin6 zing3 faat3} /materialist dialectics, a philosophical study of nature, society, history and thought/
-唱 唱 [chang4] {coeng3} /(slang) 1. unkindly gossip; 2. maliciously disperse or disseminate/
-唱作人 唱作人 [chang4 zuo4 ren2] {coeng3 zok3 jan4} /people who sing and write songs/
-唱口 唱口 [chang4 kou3] {coeng3 hau2} /voice (singing)/
-唱對台戲 唱对台戏 [chang4 dui4 tai2 xi4] {coeng3 deoi3 toi4 hei3} /singing something that is opposite from one's counterpart, it means to promote a different idea/
+唧都唔笑 唧都唔笑 [ji1 dou1 n2 xiao4] {zek1 dou1 m4 siu3} /qui est sérieux, sévère/(litt.) qui ne rit pas même en se faisant chatouiller/
+唯一 唯一 [wei2yi1] {wai4 jat1} /seul, unique/
+唯心 唯心 [wei2 xin1] {wai4 sam1} /idéalisme/
+唯物辯證法 唯物辩证法 [wei2 wu4 bian4 zheng4 fa3] {wai4 mat6 bin6 zing3 faat3} /matérialisme dialectique/
+唱 唱 [chang4] {coeng3} /commérages/répandre, propager de manière malveillante/
+唱作人 唱作人 [chang4 zuo4 ren2] {coeng3 zok3 jan4} /auteur compositeur interprète, auteur compositrice interprète/
+唱口 唱口 [chang4 kou3] {coeng3 hau2} /voix (chantée)/
+唱對台戲 唱对台戏 [chang4 dui4 tai2 xi4] {coeng3 deoi3 toi4 hei3} /(expr. fig.) promouvoir une idée différente/(litt.) chanter sur la scène opposée/
 唱片騎師 唱片骑师 [chang4 pian1 qi2 shi1] {coeng3 pin2 ke4 si1} /DJ/
-唱衰 唱衰 [chang4 shuai1] {coeng3 seoi1} /act of defaming/ruining the reputation of another/
-唱龍舟 唱龙舟 [chang4 long2 zhou1] {coeng3 lung4 zau1} /singing dragon boat folk songs/
-唸口簧 唸口簧 [nian4 kou3 huang2] {nim6 hau2 wong4} /to recite dully; to recite a text without understanding the meaning/
-唸口黃 唸口黄 [nian4 kou3 huang2] {nim6 hau2 wong4} /to recite dully; to recite a text without understanding the meaning/
-唸書 念书 [nian4 shu1] {nim6 syu1} /to study /
-啁哳 啁哳 [zhao1 zha1] {zaau1 zaat3} /many different messy, miscellaneous sound/
-啁啁 啁啁 [zhou1 zhou1] {zaau1 zaau1} /chirp/
-啄啄糖 啄啄糖 [zhuo2 zhuo2 tang2] {doeng1 doeng1 tong2} /Deuk Deuk Tong, traditional candy in Hong Kong/
-啄地 啄地 [zhuo2 di4] {doeng1 dei6} /pecking at the ground, which is a slang for female prostitute/
-商務午餐 商务午餐 [shang1 wu4 wu3 can1] {soeng1 mou6 ng5 caan1} /Business lunch/
-商品 商品 [shang1 pin3] {soeng1 ban2} /(noun)  Commercial goods/
-商品流通 商品流通 [shang1 pin3 liu2 tong1] {soeng1 ban2 lau4 tung1} /circulation of commodities/
-商天娥 商天娥 [shang1 tian1 e2] {soeng1 tin1 ngo4} /Kiki Sheung, name of an actress/
-商家佬 商家佬 [shang1 jia1 lao3] {soeng1 gaa1 lou2} /businessman/
-商業電台 商业电台 [shang1 ye4 dian4 tai2] {soeng1 jip6 din6 toi4} /Commercial Radio, a radio station in Hong Kong /
-啈 啈 [heng1] {hang1} /an expression indicating a sigh/
-啋過你 啋过你 [cai1 guo4 ni3] {coi1 gwo3 nei5} /a slang to say: "There is no way your negative prediction (normally) will happen, touch wood"; an exclamation to something inappropriate or negative/
-啋過你把口 啋过你把口 [cai1 guo4 ni3 ba3 kou3] {coi1 gwo3 nei5 baa2 hau2} /shut your bad mouth of unflattering, inappropriate or unlucky words/
-啋過你把衰口 啋过你把衰口 [cai1 guo4 ni3 ba3 shuai1 kou3] {coi1 gwo3 nei5 baa2 seoi1 hau2} /shut your bad mouth, which is an interjection to react against something bad that was spoken by another person/
-問 问 [wen4] {man6} /(verb)  to question/
-問候 问候 [wen4 hou4] {man6 hau6} /to greet/
-問卜 问卜 [wen4 bu3] {man6 buk1} /fortune telling/
-問及 问及 [wen4 ji2] {man6 kap6} /ask about/
-問吊 问吊 [wen4 diao4] {man6 diu3} /hanging, a method of capital punishment/
-問寒問暖 问寒问暖 [wen4 han2 wen4 nuan3] {man6 hon4 man6 nyun5} /inquire if it is cold or if it is warm, which refers to when somebody always sends his or her regards to another person, or shows a lot of care for other people/
-問寒問暖 问寒问暖 [wen4 han2 wen4 nuan3] {man6 hon4 man6 nyun5} /to express concerns and to give assiduous attention towards one's well-being when greeting someone/
-問斬 问斩 [wen4 zhan3] {man6 zaam2} /to behead/
-問柳尋花 问柳寻花 [wen4 liu3 xun2 hua1] {man6 lau5 cam4 faa1} /finding prostitutes; to appreciate the spring scenery/
-問起 问起 [wen4 qi3] {man6 hei2} /ask about/
-問長問短 问长问短 [wen4 chang2 wen4 duan3] {man6 coeng4 man6 dyun2} /ask too many things/
-問題少年 问题少年 [wen4 ti2 shao4 nian2] {man6 tai4 siu3 nin4} /teenagers with issues/
-啖 啖 [dan4] {daam6} /(adjective) (of taste) 1. light; 2. tasteless; (verb)  Feed; (noun) unit of bite (of eating food, meals, etc.)/
-啖啖肉 啖啖肉 [dan4 dan4 rou4] {daam6 daam6 juk6} /1. mouthful of meat; without bones     2. profitable /
-啜 啜 [chuo4] {zyut3} /(verb) 1. Kiss; 2. To suck/
-啜面珠 啜面珠 [chuo4 mian4 zhu1] {zyut3 min6 zyu1} /kiss on cheek/
-啞仔 哑仔 [ya3 zi3] {aa2 zai2} /speech-impaired boy/
-啞佬 哑佬 [ya3 lao3] {aa2 lou2} /speech-impaired man/
-啞光 哑光 [ya3 guang1] {aa2 gwong1} /Matte/
-啞女 哑女 [ya3 nü3] {aa2 neoi2} /girls who cannot talk/
-啞婆 哑婆 [ya3 po2] {aa2 po2} /women who cannot talk/
-啞色 哑色 [ya3 se4] {aa2 sik1} /Matte/
-啡 啡 [fei1] {fe1} /(noun) (of color) 1. brown; (beverage)  coffee/
-啡啡聲 啡啡声 [fei1 fei1 sheng1] {fe4 fe4 seng1} /onomatopoeia for a flushing fluid or a launching jet/
-啡色 啡色 [fei1 se4] {fe1 sik1} /brown/
-啤 啤 [pi2] {be1} /look; stare (Cantonese)/
-啤令 啤令 [pi2 ling4] {be1 ling2} /bearing/
-啤啤 啤啤 [pi2 pi2] {bi4 bi1} /Teddy bear; to drink beer with friends/
-啤啤仔 啤啤仔 [pi2 pi2 zai3] {be1 be1 zai2} /baby boy (spoken)/
-啤啤佢 啤啤渠 [pi2 pi2 qu2] {be1 be1 keoi5} /let's have some beer/
-啤啤女 啤啤女 [pi2 pi2 nü3] {bi4 bi1 neoi2} /baby girl/
-啤梨 啤梨 [pi2 li2] {be1 lei2} /(fruit) a pear/
-啤牌 啤牌 [pi2 pai2] {be1 paai4} /playing cards/
-啦啦亂 啦啦乱 [la2 la2 luan4] {laa4 laa2 lyun6} /messy/
-啦啦林 啦啦林 [la2 la2 lin2] {laa4 laa4 lam4} /faster/
-啦啦聲 啦啦声 [la2 la2 sheng1] {laa4 laa2 seng1} /quickly; hurriedly/
-啪丸 啪丸 [pa1 wan2] {paak1 jyun2} /to take pills (illicit drugs) /
-啪紐 啪纽 [pa1 niu3] {baak1 nau2} /to snap buttons/
+唱衰 唱衰 [chang4 shuai1] {coeng3 seoi1} /diffamation/
+唱龍舟 唱龙舟 [chang4 long2 zhou1] {coeng3 lung4 zau1} /chanter les chants folkloriques des bateaux-dragons/
+唸口簧 唸口簧 [nian4 kou3 huang2] {nim6 hau2 wong4} /réciter un texte sans comprendre son sens/
+唸口黃 唸口黄 [nian4 kou3 huang2] {nim6 hau2 wong4} /réciter un texte sans comprendre son sens/
+唸書 念书 [nian4 shu1] {nim6 syu1} /étudier/
+啁哳 啁哳 [zhao1 zha1] {zaau1 zaat3} /pépier/bruits divers/
+啁啁 啁啁 [zhou1 zhou1] {zaau1 zaau1} /pépiement/
+啄啄糖 啄啄糖 [zhuo2 zhuo2 tang2] {doeng1 doeng1 tong2} /Deuk Deuk Tong, un bonbon hongkongais/
+啄地 啄地 [zhuo2 di4] {doeng1 dei6} /(expr. fig.) prostituée/(litt.)picorer la terre/
+商務午餐 商务午餐 [shang1 wu4 wu3 can1] {soeng1 mou6 ng5 caan1} /déjeuner d'affaires/
+商品 商品 [shang1 pin3] {soeng1 ban2} /biens, marchandises commerciaux/
+商品流通 商品流通 [shang1 pin3 liu2 tong1] {soeng1 ban2 lau4 tung1} /flux de marchandises/
+商天娥 商天娥 [shang1 tian1 e2] {soeng1 tin1 ngo4} /Kiki Sheung, actrice hongkongaise/
+商家佬 商家佬 [shang1 jia1 lao3] {soeng1 gaa1 lou2} /homme d'affaires/
+商業電台 商业电台 [shang1 ye4 dian4 tai2] {soeng1 jip6 din6 toi4} /Commercial Radio, une station de radio hongkongaise/
+啈 啈 [heng1] {hang1} /expression qui signifie un soupir/
+???? 啋過你 啋过你 [cai1 guo4 ni3] {coi1 gwo3 nei5} /(fam.) (vulg.) cela n'est pas possible! (en réponse à une déclaration négative)/
+???? 啋過你把口 啋过你把口 [cai1 guo4 ni3 ba3 kou3] {coi1 gwo3 nei5 baa2 hau2} /(fam.) (vulg.) ne dis pas cela! (en réponse à une déclaration négative, impoli, ou infortuné)/
+???? 啋過你把衰口 啋过你把衰口 [cai1 guo4 ni3 ba3 shuai1 kou3] {coi1 gwo3 nei5 baa2 seoi1 hau2} /(fam.) (vulg.) ferme-la! (en réponse à une déclaration négative, impolie, ou infortuné)/
+問 问 [wen4] {man6} /demander, poser des questions/questionner/
+問候 问候 [wen4 hou4] {man6 hau6} /saluer/
+問卜 问卜 [wen4 bu3] {man6 buk1} /divination/
+問及 问及 [wen4 ji2] {man6 kap6} /poser des questions sur (qqn, qqch)/
+問吊 问吊 [wen4 diao4] {man6 diu3} /pendaison/
+問寒問暖 问寒问暖 [wen4 han2 wen4 nuan3] {man6 hon4 man6 nyun5} /(expr. fig.) qqn qui se préoccupe du bien-être de qqn quand ils se rencontrent/(expr. fig.) qqn qui s'inquiète d'autrui/(litt.) demander s'il fait froid ou s'il fait chaud/
+問斬 问斩 [wen4 zhan3] {man6 zaam2} /décapiter/
+問柳尋花 问柳寻花 [wen4 liu3 xun2 hua1] {man6 lau5 cam4 faa1} /(expr. fig.) aller au quartier des prostituées/(litt.) apprécier le paysage du printemps/
+問起 问起 [wen4 qi3] {man6 hei2} /poser des questions sur (qqch, qqn)/
+問長問短 问长问短 [wen4 chang2 wen4 duan3] {man6 coeng4 man6 dyun2} /poser trop de questions/
+問題少年 问题少年 [wen4 ti2 shao4 nian2] {man6 tai4 siu3 nin4} /jeune à problème/
+啖 啖 [dan4] {daam6} /(de nourriture) léger/sans goût/nourrir/(classificateur) bouchée (de nourriture)/
+啖啖肉 啖啖肉 [dan4 dan4 rou4] {daam6 daam6 juk6} /bouchée de viande, sans os/rentable/
+啜 啜 [chuo4] {zyut3} /embrasser, donner un baiser/suçer/
+啜面珠 啜面珠 [chuo4 mian4 zhu1] {zyut3 min6 zyu1} /faire une bise sur la joue/
+啞仔 哑仔 [ya3 zi3] {aa2 zai2} /(n.m.) muet/garçon souffrant de troubles de l'élocution/
+啞佬 哑佬 [ya3 lao3] {aa2 lou2} /(n.m.) muet/homme souffrant de troubles de l'élocution/
+啞光 哑光 [ya3 guang1] {aa2 gwong1} /mat/
+啞女 哑女 [ya3 nü3] {aa2 neoi2} /(n.f.) muette/fille souffrant de troubles de l'élocution/
+啞婆 哑婆 [ya3 po2] {aa2 po2} /(n.f.) muette/femme souffrant de troubles de l'élocution/
+啞色 哑色 [ya3 se4] {aa2 sik1} /mat/
+啡 啡 [fei1] {fe1} /marron, brun/café/
+???? 啡啡聲 啡啡声 [fei1 fei1 sheng1] {fe4 fe4 seng1} /onomatopée pour l'eau de rinçage/onomatopée pour les avions qui décollent/
+啡色 啡色 [fei1 se4] {fe1 sik1} /marron, brun/
+啤 啤 [pi2] {be1} /regarder, dévisager/
+啤令 啤令 [pi2 ling4] {be1 ling2} /roulement à billes/
+啤啤 啤啤 [pi2 pi2] {bi4 bi1} /bébé/ours en peluche/boire de la bière avec ses amis/
+啤啤仔 啤啤仔 [pi2 pi2 zai3] {bi4 bi1 zai2} /petit garçon/
+啤啤佢 啤啤渠 [pi2 pi2 qu2] {be1 be1 keoi5} /buvons de la bière!/
+啤啤女 啤啤女 [pi2 pi2 nü3] {bi4 bi1 neoi2} /petite fille/
+啤梨 啤梨 [pi2 li2] {be1 lei2} /poire/
+啤牌 啤牌 [pi2 pai2] {be1 paai4} /cartes à jouer/
+啦啦亂 啦啦乱 [la2 la2 luan4] {laa4 laa2 lyun6} /en désordre/
+啦啦林 啦啦林 [la2 la2 lin2] {laa4 laa4 lam4} /plus rapide/
+啦啦聲 啦啦声 [la2 la2 sheng1] {laa4 laa2 seng1} /rapidement/précipitamment/
+啪丸 啪丸 [pa1 wan2] {paak1 jyun2} /consommer des drogues sous forme de pilule/
+啪紐 啪纽 [pa1 niu3] {baak1 nau2} /boutonner des boutons pression/
 啱ｆｅｅｌ 啱ｆｅｅｌ [yan1 f e e l] {ngaam1ｆｅｅｌ} /to feel like someone is your type of person/
 啱ｋｅｙ 啱ｋｅｙ [yan1 k e y] {ngaam1 ki1} /to be on the same wavelength, describes the good compatibility of the two (or more) individuals; to get along well with/
 啱使 啱使 [yan1 shi3] {ngaam1 sai2} /useful/
