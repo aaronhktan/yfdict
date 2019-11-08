@@ -3277,7 +3277,7 @@
 卡迪夫 卡迪夫 [Ka3 di2 fu1] {kaa1 dik6 fu1} /Cardiff, une ville dans le Royaume-Uni/
 卡通片 卡通片 [ka3 tong1 pian4] {kaa1 tung1 pin2} /dessin animé/
 印傭 印佣 [yin4 yong1] {jan3 jung4} /domestique indonésien/
-???? 印印腳 印印脚 [yin4 yin4 jiao3] {ngan3 ngan3 goek3} /bouger les jambes lorsqu'on est assis/
+印印腳 印印脚 [yin4 yin4 jiao3] {ngan3 ngan3 goek3} /gigoter, faire bouger les jambes lorsqu'on est anxieux, impatient/
 印字格 印字格 [yin4 zi4 ge2] {jan3 zi6 gaak3} /grille pour écriture chinoise/
 印字機 印字机 [yin4 zi4 ji1] {jan3 zi6 gei1} /imprimante pour étiquettes/
 印尼人 印尼人 [yin4 ni2 ren2] {jan3 nei4 jan4} /Indonésien/
@@ -4532,7 +4532,7 @@
 嗒 嗒 [ta4] {taap3} /tomber amoureux/goûter/
 嗒嗒聲 嗒嗒声 [da1 da1 sheng1] {taap3 taap3 sing1} /onomatopée pour le son des horloges, le tic-tac des horloges/
 嗒糖 嗒糖 [da1 tang2] {dap1 tong4} /sentiment de bonheur lorsque qqn exprime de l'affection/(litt.) manger une friandise/
-嗒落有味 嗒落有味 [da1 luo4 you3 wei4] {taap3 lok6 jau5 mei6} /le sens devient clair après y avoir réfléchi pour un moment/(litt.) nourriture qui n'a pas l'air savoureux mais qui goute bien quand l'on la mange/
+嗒落有味 嗒落有味 [da1 luo4 you3 wei4] {taap3 lok6 jau5 mei6} /le sens devient clair après y avoir réfléchi pour un moment/(litt.) nourriture qui n'a pas l'air savoureux mais qui a bon goût quand l'on la mange/
 嗟怨 嗟怨 [jie1 yuan4] {ze1 jyun3} /pousser un soupir/
 嗢 嗢 [wa4] {wat1} /avaler/rire/vomir/
 嗦嗦聲 嗦嗦声 [suo1 suo1 sheng1] {sok3 sok3 seng1} /onomatopée pour la nourriture croustillant/
@@ -4627,7 +4627,7 @@
 嘮嘈 唠嘈 [lao2 cao2] {lou4 cou4} /être bruyant/
 嘰咕 叽咕 [ji1 gu1] {gei1 gu1} /parler doucement, murmurer/
 嘰哩咕嚕 叽哩咕噜 [ji1 li5 gu1 lu1] {gei1 li1 gu1 lou1} /décrit une personne qui n'articule pas clairement ses mots ou une personne qui est incompréhensible/
-???? 嘰嘰趷趷 叽叽趷趷 [ji1 ji1 he2 he2] {gei1 gei1 gat6 gat6} /bégayer, bredouiller/énervant, embêtant/qui pose un problème/
+嘰嘰趷趷 叽叽趷趷 [ji1 ji1 he2 he2] {gei1 gei1 gat6 gat6, gi1 gi1 gat6 gat6} /énervant, embêtant/faire obstacle, poser un problème/radoter, faire beaucoup de digressions/bégayer, bredouiller/
 嘰趷 叽趷 [ji1 he2] {gei1 gat6} /bégayer, bredouiller/empêcher les autres de passer/
 嘲笑 嘲笑 [chao2 xiao4] {zaau1 siu3} /se moquer de, ridiculiser/
 嘴 嘴 [zui3] {zeoi2} /embrasser/
@@ -4636,7 +4636,7 @@
 嘴喵喵 嘴喵喵 [zui3 miao1 miao1] {zeoi2 miu2 miu2} /dédaigner, être arrogant, irrespectueux/
 嘴滑 嘴滑 [zui3 hua2] {zeoi2 waat6} /bavard/
 嘴脣 嘴唇 [zui3 chun2] {zeoi2 seon4} /lèvres/
-???? 嘻嘻哈哈 嘻嘻哈哈 [xi1 xi5 ha1 ha1] {hei1 hei1 haa1 haa1} /être content/faire l'imbécile, faire l'idiot/
+嘻嘻哈哈 嘻嘻哈哈 [xi1 xi5 ha1 ha1] {hei1 hei1 haa1 haa1} /être content/faire l'imbécile, faire l'idiot/
 嘿嘿 嘿嘿 [hei1 hei1] {hei1 hei1} /onomatopée pour une gloussement/
 噆 噆 [zan3] {caam2} /tenir dans la bouche/piquer/
 噆 噆 [zan3] {cam3} /prolixe, interminable/
@@ -4698,107 +4698,107 @@
 𡃁妹 𡃁妹 [liang4 mei4] {leng1 mui1} /petite fille/
 𡃁模 𡃁模 [liang4 mo2] {leng1 mou4} /jeune mannequin/
 嚪 嚪 [dan4] {daam6} /bouchée/
-嚴令 严令 [yan2 ling4] {jim4 ling6} /strict order/
-嚴刑峻法 严刑峻法 [yan2 xing2 jun4 fa3] {jim4 jing4 zeon3 faat3} /Severe punishments/
-嚴刑拷打 严刑拷打 [yan2 xing2 kao3 da3] {jim4 jing4 haau1 daa2} /Severe punishments used when questioning suspects/
-嚴刑逼供 严刑逼供 [yan2 xing2 bi1 gong4] {jim4 jing4 bik1 gung1} /Severe punishments used to get testimony from suspects/
-嚴寒 严寒 [yan2han2] {jim4 hon4} /(adjective) Frigid /
-嚴師 严师 [yan2 shi1] {jim4 si1} /Strict, harsh teachers/
-嚴禁 严禁 [yan2jin4] {jim4 gam3} /(verb) Strictly forbid/
-嚴辦 严办 [yan2 ban4] {jim4 baan6} /punish severely, clamp down on/
-嚴陣以待 严阵以待 [yan2 zhen4 yi3 dai4] {jim4 zan6 ji5 doi6} /being ready for a battle in combat readiness/
+嚴令 严令 [yan2 ling4] {jim4 ling6} /consigne stricte/
+嚴刑峻法 严刑峻法 [yan2 xing2 jun4 fa3] {jim4 jing4 zeon3 faat3} /punition sévère/
+嚴刑拷打 严刑拷打 [yan2 xing2 kao3 da3] {jim4 jing4 haau1 daa2} /torture, punition sévère utilisée lors d'un interrogatoire/
+嚴刑逼供 严刑逼供 [yan2 xing2 bi1 gong4] {jim4 jing4 bik1 gung1} /torture, punition sévère utilisée pour extorquer des aveux/
+嚴寒 严寒 [yan2 han2] {jim4 hon4} /frigide/
+嚴師 严师 [yan2 shi1] {jim4 si1} /professeur strict/
+嚴禁 严禁 [yan2 jin4] {jim4 gam3} /interdire strictement/
+嚴辦 严办 [yan2 ban4] {jim4 baan6} /punir sévèrement/
+嚴陣以待 严阵以待 [yan2 zhen4 yi3 dai4] {jim4 zan6 ji5 doi6} /prêt au combat/
 囂屎 嚣屎 [xiao1 shi3] {hiu1 si2} /arrogant/
-囂張 嚣张 [xiao1 zhang1] {hiu1 zoeng1} /boastful/
-囉 啰 [luo1] {lo1} /it is/
-囉噃 罗噃 [luo2 bo5] {lo4 bo3} /alert (spoken)/
-囉囉攣 罗罗挛 [luo1 luo1 luan2] {lo1 lo1 lyun1} /(slang) (of feeling) disturbed; anxious; worried; annoyed; bothered/
-囉攣 罗挛 [luo2 luan2] {lo1 lyun1} /feeling uneasy and/or worried/
-囉柚 罗柚 [luo2 you4] {lo1 jau2} /backside; butt/
-囉氣 罗气 [luo2 qi4] {lo4 hei3} /to be trouble/
-囊中物 囊中物 [nang2 zhong1 wu4] {nong4 zung1 mat6} /something inside a bag, it means the attainment of something is very easy/
-囊空如洗 囊空如洗 [nang2 kong1 ru2 xi3] {nong4 hung1 jyu4 sai2} /pocket is as empty as if it has been washed, which means there is no money at all in the pocket/
-囚牢 囚牢 [qiu2 lao2] {cau4 lou4} /prison cell/
-囚籠 囚笼 [qiu2 long2] {cau4 lung4} /prison cage/
-囚衣 囚衣 [qiu2 yi1] {cau4 ji1} /prisoners' uniform/
-囚車 囚车 [qiu2 che1] {cau4 ce1} /prisoner transport vehicle/
-囚首垢面 囚首垢面 [qiu2 shou3 gou4 mian4] {cau4 sau2 gau3 min6} /it describes one's face is as dirty as a prisoner's due to not paying attention to hygiene and grooming/
-四 四 [si4] {sei3} /(slang)  labourer/
-四不像 四不像 [si4 bu4 xiang4] {sei3 bat1 zoeng6} /Elaphurus davidianus/
-四九仔 四九仔 [si4 jiu3 zi3] {sei3 gau2 zai2} /49er, which means an ordinary member in Triad/
-四五行動 四五行动 [si4 wu3 xing2 dong4] {sei3 ng5 hang4 dung6} /April 5th Action, a socialist political organisation in Hong Kong/
-四仔 四仔 [si4 zi3] {sei3 zai2} /adult's videos; pornography/
-四便 四便 [si4 bian4] {sei3 bin6} /surrounding/
-四個字 四个字 [si4 ge4 zi4] {sei3 go3 zi6} /1. four words or characters     2. twenty minutes /
-四出 四出 [si4 chu1] {sei3 ceot1} /going around; going out to everywhere/
-四分五散 四分五散 [si4 fen1 wu3 san4] {sei3 fan1 ng5 saan3} /dismantled; split into parts/
-四則 四则 [si4 ze2] {sei3 zak1} /four rules, 四則運算 is the elementary arithmetic/
-四十七 四十七 [si4 shi2 qi1] {sei3 sap6 cat1} /forty seven/
-四十四 四十四 [si4 shi2 si4] {sei3 sap6 sei3} /forty four/
-四十年代 四十年代 [si4 shi2 nian2 dai4] {sei3 sap6 nin4 doi6} /during the 40s (era)/
-四千 四千 [si4 qian1] {sei3 cin1} /four thousand/
-四周圍 四周围 [si4 zhou1 wei2] {sei3 zau1 wai4} /everywhere; all around; surrounding/
-四哥 四哥 [si4 ge1] {sei3 go1} /1. fourth elder brother     2. nickname for Patrick Tse, a Hong Kong actor /
-四四六六 四四六六 [si4 si4 liu4 liu4] {sei3 sei3 luk6 luk6} /appropriately, justly; a suitable consensus/
-四圍貢 四围贡 [si4 wei2 gong4] {sei3 wai4 gung3} /loiter aruond, hang around/
-四塊半 四块半 [si4 kuai4 ban4] {sei3 faai3 bun3} /a coffin/
-四季桔 四季桔 [si4 ji4 ju2] {sei3 gwai3 gat1} /clementine (fruit)/
-四季酒店 四季酒店 [si4 ji4 jiu3 dian4] {sei3 gwai3 zau2 dim3} /Four Seasons Hotel/
-四平八正 四平八正 [si4 ping2 ba1 zheng4] {sei3 ping4 baat3 zing3} /neat, tidy; proper/
-四年 四年 [si4 nian2] {sei3 nin4} /four years/
-四方八面 四方八面 [si4 fang1 ba1 mian4] {sei3 fong1 baat3 min6} /from all around, from all sides, from everywhere/
-四方𡃈 四方𡃈 [Si4 fang1 ke4] {sei3 fong1 kwaak1} /four-sided frame, square/
-四方形 四方形 [si4 fang1 xing2] {sei3 fong1 jing4} /square (shape)/
-四方木 四方木 [si4 fang1 mu4] {sei3 fong1 muk6} /a slacker; those who doesn't know how to adapt to changing circumstances and are set in their ways (literally: a squared wood); describes someone who is very passive/
-四方竹 四方竹 [si4 fang1 zhu2] {sei3 fong1 zuk1} /a kind of bamboo/
-四方緙 四方缂 [si4 fang1 ke4] {sei3 fong1 kwaak1} /four-sided frame, square/
-四方辮頂 四方辫顶 [si4 fang1 bian4 ding3] {sei3 fong1 bin1 deng2} /refers to a man who offers all his money to court a lady, but does not get any favor in return/
-四日 四日 [si4 ri4] {sei3 jat6} /four days; forth [date]/
-四星級 四星级 [si4 xing1 ji2] {sei3 sing1 kap1} /Four-stars/
-四暗刻 四暗刻 [si4 an4 ke4] {sei3 am3 kaan5} /Four concealed triplets/
-四書五經 四书五经 [Si4 shu1 Wu3 jing1] {sei3 syu1 ng5 ging1} /the Four books and Five classics/
-四月十七號 四月十七号 [Si4 yue4 shi2 qi1 hao4] {sei3 jyut6 sap6 cat1 hou6} /April 17th /
-四條 四条 [Si4 Tiao2 ] {sei3 tiu4} /four (amount); four poker cards of the same number but different suits/
-四正 四正 [si4 zheng4] {si3 zeng3} /tidy or neat (normally to describe a house that is neat or a person's hand-writing that is neat); upright and proper/
-四海 四海 [si4 hai5] {sei3 hoi2} /four seas/
-四海一家 四海一家 [si4 hai3 yi1 jia1] {sei3 hoi2 jat1 gaa1} /home everywhere, it means the world is united/
-四海流浪 四海流浪 [si4 hai5 liu2 lang4] {sei3 hoi2 lau4 long6} /Fourway Rangers; rove everywhere/
-四眼仔 四眼仔 [si4 yan3 zi3] {sei3 ngaan5 zai2} /male wearing glasses (slang)/
-四眼佬 四眼佬 [si4 yan3 lao3] {sei3 ngaan5 lou2} /(noun) a man who wears glasses/
-四眼妹 四眼妹 [si4 yan3 mei4] {sei3 ngaan5 mui1} /girl who wear glasses/
-四眼婆 四眼婆 [si4 yan3 po2] {sei3 ngaan5 po4} /old lady wearing glasses (slang)/
-四眼狗 四眼狗 [si4 yan3 gou3] {sei3 ngaan5 gau2} /an insulting phrase to address people who wear glasses; dogs, such as Rottweiler, Doberman/
-四肢無力 四肢无力 [si4 zhi1 wu2 li4] {sei3 zi1 mou4 lik6} /four limbs having no strength, it means the whole body is weak/
-四腳爬爬 四脚爬爬 [si4 jiao3 pa2 pa2] {sei3 goek3 paa4 paa4} /one who is crawling on the floor using both hands and feet /
-四週 四周 [si4 zhou1] {sei3 zau1} /around; surroundings/
-四邊四便 四边四便 [si4 bian1 si4 bian4] {sei3 bin1 sei3 bin6} /four sides/
-四邑 四邑 [si4 yi4] {sei3 jap1} /collective name for counties of Xinhui, Taishan, Kaiping, Enping and city of Jiangmen/
-四重唱 四重唱 [si4 chong2 chang4] {sei3 cung4 coeng3} /Vocal quartet/
-四野 四野 [si4 ye3] {sei3 je5} /around the proximity or visibility /
-四項 四项 [si4 xiang4] {sei3 hong6} /four items; four categories/
-回力球 回力球 [hui2 li4 qiu2] {wui4 lik6 kau4} /basque pelota/
-回南 回南 [hui2 nan2] {wui4 naam4} /to warm up again (weather)/
-回南天 回南天 [hui2 nan2 tian1] {wui4 naam4 tin1} /when weather turns warm and humid due to southerly airstream, affecting the southern provinces of China during Spring/
-回吐 回吐 [hui2 tu3] {wui4 tou3} /Profit Taking/
-回報率 回报率 [hui2 bao4 lü4] {wui4 bou3 leot6} /return on investment (ROI)/
-回家 回家 [hui2jia1] {wui4 gaa1} /(verb) Go home/
-回扣 回扣 [hui2 kou4] {wui4 kau3} /(noun)  Rebate/
-回收筒 回收筒 [hui2 shou1 tong3] {wui4 sau1 tung2} /recycle bin/
-回教徒 回教徒 [Hui2 jiao4 tu2] {wui4 gaau3 tou4} /Muslim/
-回望 回望 [hui2 wang4] {wui4 mong6} /review; to look back/
-回本 回本 [hui2 ben3] {wui4 bun2} /to gain back the cost/
-回樽 回樽 [hui2 zun1] {wui4 zeon1} /return the bottles to the stores to claim back the deposit/
-回歸 回归 [hui2 gui1] {wui4 gwai1} /(verb) 1. Revert back; for HongKongese, the word "回歸" always refers to Hong Kong回歸 reverts back to China in July 1, 1997. /
-回歸祖國 回归祖国 [hui2 gui1 zu3 guo2] {wui4 gwai1 zou2 gwok3} /Return to ancestors' country/
-回氣 回气 [hui2 qi4] {wui4 hei3} /to restore breath/
-回水 回水 [hui2 shui3] {wui4 seoi2} /(v.) to get a refund as you are not satisfied with what you get from your purchase, such as services, products or performances./
-回眸一笑 回眸一笑 [hui2 mou2 yi1 xiao4] {wui4 mau4 jat1 siu3} /turning back and a smile, which is used to describe a beautiful girl looking back and smiles/
-回穩 回稳 [hui2 wen3] {wui4 wan2} /return to being stable/
-回蕩 回荡 [hui2 dang4] {wui4 dong6} /reverberate/
-回軟 回软 [hui2 ruan3] {wui4 jyun5} /the financial pricing declines from a high level/
-回鄉證 回乡证 [hui2 xiang1 zheng4] {wui4 hoeng1 zing3} /travel permit to Mainland China for Hong Kong and Macau residents /
-回電話 回电话 [hui2 dian4 hua4] {wui4 din6 waa2} /to call back/
-回頭 回头 [hui2 tou2] {wui4 tau4} /(verb)  Go back (to a place e.g. workplace)/
-回頭是岸 回头是岸 [hui2 tou2 shi4 an4] {wui4 tau4 si6 ngon6} /in repentance, there is salvation, evaluating own behavior and admitting and regretting past wrongdoings, and asking for help/ to be saved/
+囂張 嚣张 [xiao1 zhang1] {hiu1 zoeng1} /vantard, fanfaron/
+囉 啰 [luo1] {lo1} /particule modale pour exprimer le caractère évident de qqch/
+囉噃 罗噃 [luo2 bo5] {lo4 bo3} /alerte, avis/
+囉囉攣 罗罗挛 [luo1 luo1 luan2] {lo1 lo1 lyun1} /mal à l'aise, anxieux, préoccupé, énervé/
+囉攣 罗挛 [luo2 luan2] {lo1 lyun1} /mal à l'aise, anxieux, préoccupé, énervé/
+囉柚 罗柚 [luo2 you4] {lo1 jau2} /derrière, fesses/
+囉氣 罗气 [luo2 qi4] {lo4 hei3} /avoir des problèmes, avoir des ennuis/
+囊中物 囊中物 [nang2 zhong1 wu4] {nong4 zung1 mat6} /(expr. idiom.) dans la poche, qqch qui est certaine ou facile/(litt.) une chose qui est dans le sac/
+囊空如洗 囊空如洗 [nang2 kong1 ru2 xi3] {nong4 hung1 jyu4 sai2} /(expr. idiom) ne pas avoir de l'argent, fauché, à sec/(litt.) poche vide comme si elle a été lavée/
+囚牢 囚牢 [qiu2 lao2] {cau4 lou4} /cellule de prison/
+囚籠 囚笼 [qiu2 long2] {cau4 lung4} /cellule de prison/
+囚衣 囚衣 [qiu2 yi1] {cau4 ji1} /uniform de prison/
+囚車 囚车 [qiu2 che1] {cau4 ce1} /véhicule pour le transport des prisonniers/
+囚首垢面 囚首垢面 [qiu2 shou3 gou4 mian4] {cau4 sau2 gau3 min6} /(expr. idiom.) (d'une personne) négligé, dépenaillé/(litt.) avoir un visage sal comme un prisonnier/
+四 四 [si4] {sei3} /(fam.) travailler/
+四不像 四不像 [si4 bu4 xiang4] {sei3 bat1 zoeng6} /cerf du père David, Elaphurus davidianus/
+四九仔 四九仔 [si4 jiu3 zi3] {sei3 gau2 zai2} /«49er», soldat ou membre d'une triade chinoise/
+四五行動 四五行动 [si4 wu3 xing2 dong4] {sei3 ng5 hang4 dung6} /«April 5th Action», un groupe politique socialiste de Hong Kong/
+四仔 四仔 [si4 zi3] {sei3 zai2} /pornographie/
+四便 四便 [si4 bian4] {sei3 bin6} /qui entoure/
+四個字 四个字 [si4 ge4 zi4] {sei3 go3 zi6} /vingt minutes/quatre mots ou caractères/
+???? 四出 四出 [si4 chu1] {sei3 ceot1} /going around; going out to everywhere/
+四分五散 四分五散 [si4 fen1 wu3 san4] {sei3 fan1 ng5 saan3} /démonté/
+四則 四则 [si4 ze2] {sei3 zak1} /quatre règles, utilisé dans l'expession «四則運算», qui signifie l'arithmétique élémentaire/
+四十七 四十七 [si4 shi2 qi1] {sei3 sap6 cat1} /quarante-sept/
+四十四 四十四 [si4 shi2 si4] {sei3 sap6 sei3} /quarante-quatre/
+四十年代 四十年代 [si4 shi2 nian2 dai4] {sei3 sap6 nin4 doi6} /les années 1940/
+四千 四千 [si4 qian1] {sei3 cin1} /quatre mille/
+四周圍 四周围 [si4 zhou1 wei2] {sei3 zau1 wai4} /tout autour/qui entoure/
+四哥 四哥 [si4 ge1] {sei3 go1} /quatrième frère aîné/surnom pour Patrick Tse, acteur hongkongais/
+四四六六 四四六六 [si4 si4 liu4 liu4] {sei3 sei3 luk6 luk6} /de façon approprié/
+四圍貢 四围贡 [si4 wei2 gong4] {sei3 wai4 gung3} /traîner/
+四塊半 四块半 [si4 kuai4 ban4] {sei3 faai3 bun3} /cercueil, bière/
+四季桔 四季桔 [si4 ji4 ju2] {sei3 gwai3 gat1} /clémentine/
+四季酒店 四季酒店 [si4 ji4 jiu3 dian4] {sei3 gwai3 zau2 dim3} /hôtel Four Seasons/
+四平八正 四平八正 [si4 ping2 ba1 zheng4] {sei3 ping4 baat3 zing3} /bien rangé, ordonné/
+四年 四年 [si4 nian2] {sei3 nin4} /quatre ans/
+四方八面 四方八面 [si4 fang1 ba1 mian4] {sei3 fong1 baat3 min6} /de tous les côtés/
+四方𡃈 四方𡃈 [Si4 fang1 ke4] {sei3 fong1 kwaak1} /cadre à quatre côtés/un carré/
+四方形 四方形 [si4 fang1 xing2] {sei3 fong1 jing4} /un carré/
+四方木 四方木 [si4 fang1 mu4] {sei3 fong1 muk6} /tire-au-flanc/étroit d'esprit/passive, soumise/(litt.) bois équarri/
+四方竹 四方竹 [si4 fang1 zhu2] {sei3 fong1 zuk1} /type de bambou/
+四方緙 四方缂 [si4 fang1 ke4] {sei3 fong1 kwaak1} /cadre à quatre côtés/un carré/
+四方辮頂 四方辫顶 [si4 fang1 bian4 ding3] {sei3 fong1 bin1 deng2} /(expr. idiom.) homme qui gaspille tout son argent courant après des femmes mais qui n'a pas de succès/
+四日 四日 [si4 ri4] {sei3 jat6} /quatre jours/le quatrième jour d'un mois/
+四星級 四星级 [si4 xing1 ji2] {sei3 sing1 kap1} /(un hôtel, service) quatre étoiles/
+四暗刻 四暗刻 [si4 an4 ke4] {sei3 am3 kaan5} /quatre «triplés cachés», quatre ensembles de trois tuiles portant le même chiffre de la même suite, ou trois tuiles d'honneur identiques dans le jeu de mah-jong/
+四書五經 四书五经 [Si4 shu1 Wu3 jing1] {sei3 syu1 ng5 ging1} /Quatre Livres et Cinq Classiques, textes importants du confucianisme/
+四月十七號 四月十七号 [Si4 yue4 shi2 qi1 hao4] {sei3 jyut6 sap6 cat1 hou6} /le 17 avril/
+四條 四条 [Si4 Tiao2 ] {sei3 tiu4} /quatre/carré (dans les jeux de cartes)/
+四正 四正 [si4 zheng4] {si3 zeng3} /bien rangé, ordonné/(écriture) soigné, propre/
+四海 四海 [si4 hai5] {sei3 hoi2} /Quatre Mers, limites de la Chine historique/
+四海一家 四海一家 [si4 hai3 yi1 jia1] {sei3 hoi2 jat1 gaa1} /le monde uni, le monde est une grande famille/
+???? 四海流浪 四海流浪 [si4 hai5 liu2 lang4] {sei3 hoi2 lau4 long6} /Fourway Rangers; rove everywhere/
+四眼仔 四眼仔 [si4 yan3 zi3] {sei3 ngaan5 zai2} /(homme) porteur de lunettes/
+四眼佬 四眼佬 [si4 yan3 lao3] {sei3 ngaan5 lou2} /(homme) porteur de lunettes/
+四眼妹 四眼妹 [si4 yan3 mei4] {sei3 ngaan5 mui1} /(femme) porteuse de lunettes/
+四眼婆 四眼婆 [si4 yan3 po2] {sei3 ngaan5 po4} /(vieille femme) porteuse de lunettes/
+四眼狗 四眼狗 [si4 yan3 gou3] {sei3 ngaan5 gau2} /(vulgaire) porteur de lunettes/espèces de chiens, en particulier les Rottweiler et les Doberman/
+四肢無力 四肢无力 [si4 zhi1 wu2 li4] {sei3 zi1 mou4 lik6} /corps faible/(litt.) quatre membres sans force/
+四腳爬爬 四脚爬爬 [si4 jiao3 pa2 pa2] {sei3 goek3 paa4 paa4} /marcher à quatre pattes/
+四週 四周 [si4 zhou1] {sei3 zau1} /tout autour/environs/
+四邊四便 四边四便 [si4 bian1 si4 bian4] {sei3 bin1 sei3 bin6} /quatre côtés/
+四邑 四邑 [si4 yi4] {sei3 jap1} /«Seiyap» ou «Sze Yup», littéralement les quatre comtés, région désignant Xinhui, Taishan, Kaiping, Enping, Jiangmen/
+四重唱 四重唱 [si4 chong2 chang4] {sei3 cung4 coeng3} /quatuor musical/
+四野 四野 [si4 ye3] {sei3 je5} /autour/
+四項 四项 [si4 xiang4] {sei3 hong6} /quatre objets/quatre catégories/
+回力球 回力球 [hui2 li4 qiu2] {wui4 lik6 kau4} /pelote basque, sports traditionnels basques/
+回南 回南 [hui2 nan2] {wui4 naam4} /(le temps) qui se réchauffe de nouveau, les températures qui remontent/
+回南天 回南天 [hui2 nan2 tian1] {wui4 naam4 tin1} /(le temps) qui se réchauffe de nouveau, les températures qui remontent/
+???? 回吐 回吐 [hui2 tu3] {wui4 tou3} /Profit Taking/
+回報率 回报率 [hui2 bao4 lü4] {wui4 bou3 leot6} /retour sur investissement/
+回家 回家 [hui2jia1] {wui4 gaa1} /rentrer (à la maison)/
+回扣 回扣 [hui2 kou4] {wui4 kau3} /rabais/
+回收筒 回收筒 [hui2 shou1 tong3] {wui4 sau1 tung2} /bac de recyclage/
+回教徒 回教徒 [Hui2 jiao4 tu2] {wui4 gaau3 tou4} /musulman/
+回望 回望 [hui2 wang4] {wui4 mong6} /regarder en arrière/
+回本 回本 [hui2 ben3] {wui4 bun2} /récupérer les coûts/
+回樽 回樽 [hui2 zun1] {wui4 zeon1} /recyclage de bouteille, récupération des bouteilles/
+回歸 回归 [hui2 gui1] {wui4 gwai1} /revenir à, retourner à/rétrocession de Hong Kong à la Chine/
+回歸祖國 回归祖国 [hui2 gui1 zu3 guo2] {wui4 gwai1 zou2 gwok3} /retourner à son pays d'origine/
+回氣 回气 [hui2 qi4] {wui4 hei3} /restaurer la santé/
+回水 回水 [hui2 shui3] {wui4 seoi2} /obtenir un remboursement parce que l'on n'a pas été satisfait/
+回眸一笑 回眸一笑 [hui2 mou2 yi1 xiao4] {wui4 mau4 jat1 siu3} /(une belle femme qui) se retourne et sourit/
+回穩 回稳 [hui2 wen3] {wui4 wan2} /redevenir stable/
+回蕩 回荡 [hui2 dang4] {wui4 dong6} /retentir, résonner/
+回軟 回软 [hui2 ruan3] {wui4 jyun5} /lâcher du lest/stocks diminuant après des hauts de marché/
+回鄉證 回乡证 [hui2 xiang1 zheng4] {wui4 hoeng1 zing3} /visa pour la Chine continentale pour les citoyens de Hong Kong et Macau/
+回電話 回电话 [hui2 dian4 hua4] {wui4 din6 waa2} /rappeler (au téléphone)/
+回頭 回头 [hui2 tou2] {wui4 tau4} /retourner (par exemple, à un lieu de travail)/
+回頭是岸 回头是岸 [hui2 tou2 shi4 an4] {wui4 tau4 si6 ngon6} /repentir est le salut/
 回魂 回魂 [hui2 hun2] {wui4 wan4} /the soul/ ghost goes back to the body after death/
 因住 因住 [yin1 zhu4] {jan1 zyu6} /(verb) watch out; look out; be careful; be cautious; beware of/
 因住嚟 因住嚟 [yin1 zhu4 li2] {jan1 zyu6 lei4} /be careful; it is a phrase to threaten people and tell them to wait and watch out in the future/
