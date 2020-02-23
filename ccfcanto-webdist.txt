@@ -1860,7 +1860,7 @@
 側便 侧便 [ce4 bian4] {zak1 bin6} /sur un côté/
 側側膊 侧侧膊 [ce4 ce4 bo2] {zak1 zak1 bok3} /éviter ses responsabilités/faire porter blâme à d'autres/
 側側膊唔多覺 侧侧膊唔多觉 [ce4 ce4 bo2 n2 duo1 jue2] {zak1 zak1 bok3 m4 do1 gok3} /faire qqch en secret, de manière que personne ne réalise/
-側向 侧向 [ce4 xiang4] {zak1 hoeng3} /direction d'un côté, direction qui n'est pas droit devant/
+側向 侧向 [ce4 xiang4] {zak1 hoeng3} /direction vers un côté, direction qui n'est pas droit devant/
 側擊 侧击 [ce4 ji1] {zak1 gik1} /flanquer, une attaque de flanque/
 側泳 侧泳 [ce4 yong3] {zak1 wing6} /nage indienne/
 側田 侧田 [ce4 tian2] {zak1 tin4} /Justin Lo, un chanteur hongkongais/
@@ -2140,7 +2140,7 @@
 入嚟啦 入嚟啦 [ru4 li2 la5] {jap6 lai4 laa1} /(à l'oral) entrez/
 入城 入城 [ru4 cheng2] {jap6 sing4} /entrer une ville/
 入境事務處 入境事务处 [ru4 jing4 shi4 wu4 chu4] {jap6 ging2 si6 mou6 cyu3} /département d'immigration de Hong Kong/
-入境問禁 入境问禁 [ru4 jing4 wen4 jin4] {jap6 ging2 man6 gam3} /à l'arrivée chez qqn, il faut demander ce qui est permis/
+入境問禁 入境问禁 [ru4 jing4 wen4 jin4] {jap6 ging2 man6 gam3} /dès l'arrivée chez qqn, il faut se reseigner sur ce qui est permis/
 入寇 入寇 [ru4 kou4] {jap6 kau3} /envahir/
 入席 入席 [ru4 xi2] {jap6 zik6} /s'asseoir (à un banquet, une cérémonie, etc)/
 入廠 入厂 [ru4 chang3] {jap6 cong2} /hospitalisé/
@@ -4499,7 +4499,7 @@
 喳喳聲 喳喳声 [zha1 zha1 sheng1] {zaa4 zaa2 seng1} /rapidement/
 喺口唇邊 喺口唇边 [bei2 kou3 chun2 bian1] {hai2 hau2 seon4 bin1} /constamment parler de qqch/(litt.) au bord des lèvres/
 喺嗰度 喺嗰度 [bei2 g5? du4] {hai2 go2 dou6} /là-bas/
-喺孔夫子面前賣文章 喺孔夫子面前卖文章 [bei2 Kong3 fu1 zi3 mian4 qian2 mai4 wen2 zhang1] {hai2 hung2 fu1 zi2 min6 cin4 maai6 man4 zoeng1} /qui est arrogant, se surestime/(litt.) lire un texte à Confucius/
+喺孔夫子面前賣文章 喺孔夫子面前卖文章 [bei2 Kong3 fu1 zi3 mian4 qian2 mai4 wen2 zhang1] {hai2 hung2 fu1 zi2 min6 cin4 maai6 man4 zoeng1} /arrogant, qui se surestime/(litt.) lire un texte à Confucius/
 喺度 喺度 [bei2 du4] {hai2 dou6} /ici/présent/
 喺處 喺处 [bei2 chu3] {hai2 syu3} /c'est ici/
 喺門角落頭燒炮仗 喺门角落头烧炮仗 [bei2 men2 jiao3 lao4 tou5 shao1 pao4 zhang5] {hai2 mun4 gok3 lok1 tau2 siu1 paau3 zoeng2} /entendre le bruit mais ne pas voir la personne/
@@ -4898,105 +4898,105 @@
 圖報 图报 [tu2 bao4] {tou4 bou3} /rembourser/
 圖形 图形 [tu2 xing2] {tou4 jing4} /figure (en géometrie)/
 圖文 图文 [tu2 wen2] {tou4 man4} /diagramme avec légende/
-圖文並茂 图文并茂 [tu2 wen2 bing4 mao4] {tou4 man4 bing3 mau6} /to describe the content of a book or magazine is vivid with the combination of texts and images /
-圖景 图景 [tu2 jing3] {tou4 ging2} /view, prospect/
-圖示 图示 [tu2 shi4] {tou4 si6} /icon/
-圖表 图表 [tu2biao3] {tou4 biu2} /(noun) Table/
-圖解 图解 [tu2 jie3] {tou4 gaai2} /graph illustration/
-圖謀 图谋 [tu2mou2] {tou4 mau4} /(verb) Plot/
-圖靈機 图灵机 [tu2 ling2 ji1] {tou4 ling4 gei1} /Turing machine/
-圖章 图章 [tu2 zhang1] {tou4 zoeng1} /(noun)  signature stamp (of senior)/
-團友 团友 [tuan2 you3] {tyun4 jau5} /tourmates/
-團圓飯 团圆饭 [tuan2 yuan2 fan4] {tyun4 jyun4 faan6} /family reunion dinner/
-團團 团团 [tuan2 tuan2] {tyun4 tyun4} /pile; a group of circular things/
-團年飯 团年饭 [tuan2 nian2 fan4] {tyun4 nin4 faan6} /Chinese New Year reunion dinner/
-團結一致 团结一致 [tuan2 jie2 yi1 zhi4] {tyun4 git3 jat1 zi3} /united/
-團費 团费 [tuan2 fei4] {tyun4 fai3} /tour fee/
-土 土 [tu3] {tou2} /lame; old fashioned/
-土佬 土佬 [tu3 lao3] {tou2 lou2} /a hillbilly/
-土共 土共 [tu3 gong4] {tou2 gung6} /Locals in Hong Kong who support the Chinese Communist Party/
-土匪 土匪 [tu3fei3] {tou2 fei2} /(noun) Theft/
-土地 土地 [tu3 di5] {tou2 dei6} /(noun)  land/
-土地稅 土地税 [tu3 di4 shui4] {tou2 dei6 seoi3} /Land tax/
-土專家 土专家 [tu3 zhuan1 jia1] {tou2 zyun1 gaa1} /Soil experts; self-taught experts/
-土方 土方 [tu3 fang1] {tou2 fong1} /Hijikata, a japanese surname/
-土氣 土气 [tu3qi4] {tou2 hei3} /(noun) Village-style; (adjective) 1. Outmoded/
-土炮 土炮 [tu3 pao2] {tou2 paau3} /homemade weapons; locally made/
-土瓜灣 土瓜湾 [tu3 gua1 wan1] {tou2 gwaa1 waan4} /To Kwa Wan, a district in central Kowloon, Hong Kong /
-土生葡人 土生葡人 [tu3 sheng1 Pu2 ren2] {tou2 sang1 pou4 jan4} /Portuguese who were born in Macau/
+圖文並茂 图文并茂 [tu2 wen2 bing4 mao4] {tou4 man4 bing3 mau6} /quand le texte et les images se complètent les uns les autres, quand ils se conviennent très bien/
+???? 圖景 图景 [tu2 jing3] {tou4 ging2} /view, prospect/
+圖示 图示 [tu2 shi4] {tou4 si6} /icône/
+圖表 图表 [tu2 biao3] {tou4 biu2} /tableau/
+圖解 图解 [tu2 jie3] {tou4 gaai2} /graphique, graphe/
+圖謀 图谋 [tu2 mou2] {tou4 mau4} /dessiner, tracer un graphique/
+圖靈機 图灵机 [tu2 ling2 ji1] {tou4 ling4 gei1} /machine de Turing/
+圖章 图章 [tu2 zhang1] {tou4 zoeng1} /sceau/
+???? 團友 团友 [tuan2 you3] {tyun4 jau5} /compagnons de route, compagnons de voyage/
+團圓飯 团圆饭 [tuan2 yuan2 fan4] {tyun4 jyun4 faan6} /(Can.) souper de réunion de famille/(Fr.)dîner de réunion de famille/
+團團 团团 [tuan2 tuan2] {tyun4 tyun4} /tas, pile, amas d'objets circulaires/
+團年飯 团年饭 [tuan2 nian2 fan4] {tyun4 nin4 faan6} /(Can.) souper de réunion de famille du réveillon/(Fr.) dîner de réunion de famille de réveillon/
+團結一致 团结一致 [tuan2 jie2 yi1 zhi4] {tyun4 git3 jat1 zi3} /uni/
+???? 團費 团费 [tuan2 fei4] {tyun4 fai3} /tour fee/
+土 土 [tu3] {tou2} /nul/démodé/
+土佬 土佬 [tu3 lao3] {tou2 lou2} /péquenaud, plouc/
+土共 土共 [tu3 gong4] {tou2 gung6} /hongkongais qui appuient le Parti communiste chinois/
+土匪 土匪 [tu3 fei3] {tou2 fei2} /vol/
+土地 土地 [tu3 di5] {tou2 dei6} /terre/
+土地稅 土地税 [tu3 di4 shui4] {tou2 dei6 seoi3} /impôt foncier/
+土專家 土专家 [tu3 zhuan1 jia1] {tou2 zyun1 gaa1} /autodidacte/(litt.) experts de la terre/
+土方 土方 [tu3 fang1] {tou2 fong1} /Hijikata, surnom japonais/
+土氣 土气 [tu3qi4] {tou2 hei3} /style de village/démodé/
+土炮 土炮 [tu3 pao2] {tou2 paau3} /armes de fabrication artisanale/
+土瓜灣 土瓜湾 [tu3 gua1 wan1] {tou2 gwaa1 waan4} /To Kwa Wan, quartier dans la ville de Hong Kong/
+土生葡人 土生葡人 [tu3 sheng1 Pu2 ren2] {tou2 sang1 pou4 jan4} /Portugais né à Macau/
 土耳其斯坦 土耳其斯坦 [tu3 er3 qi2 si1 tan3] {tou2 ji5 kei4 si1 taan2} /Turkestan/
-土霉素 土霉素 [tu3 mei2 su4] {tou2 mui4 sou3} /Oxytetracycline/
-土魷 土鱿 [tu3 you2] {tou2 jau4} /dried squid/
-在 在 [zai4] {zoi6} /(preposition) 1. On, in, at; (verb)  Be (alive) /
-在在 在在 [zai4 zai4] {zoi6 zoi6} /Here/
-在家 在家 [zai4 jia1] {zoi6 gaa1} /1. at home     2. home-based /
-在心 在心 [zai4 xin1] {zoi6 sam1} /in my heart/
-在意 在意 [zai4 yi4] {zoi6 ji3} /in one's mind/
-在所不惜 在所不惜 [zai4 suo3 bu4 xi1] {zoi6 so2 bat1 sik1} /determine to do something, regardless of the price for achieving the goal/
-在望 在望 [zai4 wang4] {zoi6 mong6} /visible in the horizon /
-在案 在案 [zai4 an4] {zoi6 on3} /Documented/
-在生 在生 [zai4 sheng1] {zoi6 saang1} /still alive/
-圭臬 圭臬 [gui1 nie4] {gwai1 jit6} /level of quality, regulations/
-地 地 [de5] {dei6} /(slang)  suffix of pronouns, same as "哋"/
-地下 地下 [di4 xia4] {dei6 haa6} /(noun) 1. ground floor; 2. Ground/
-地下情 地下情 [di4 xia4 qing2] {dei6 haa6 cing4} /secret relationship/
-地下莖 地下茎 [di4 xia4 jing1] {dei6 haa6 ging3} /Rhizome/
-地下鐵 地下铁 [di4 xia4 tie3] {dei6 haa6 tit3} /underground mass transit; subway; metro /
-地勤 地勤 [di4 qin2] {dei6 kan4} /aircraft ground handling/
-地埗 地埗 [di4 bu4] {dei6 bou4} /address; place/
-地對地 地对地 [di4 dui4 di4] {dei6 deoi3 dei6} /Ground to ground, surface to surface/
-地對空 地对空 [di4 dui4 kong1] {dei6 deoi3 hung1} /Ground to air; surface to air/
-地峽 地峡 [di4 xia2] {dei6 haap6} /isthmus/
-地布 地布 [di4 bu4] {dei6 bou3} /Floor cloth/
-地帶 地带 [di4dai4] {dei6 daai3} /(noun) Region /
-地底下 地底下 [di4 di3 xia4] {dei6 dai2 haa6} /Underground; subterranean/
-地庫 地库 [di4 ku4] {dei6 fu3} /an underground storage; the basement/
-地廬 地庐 [di4 lu2] {dei6 lou4} /Basement/
-地拖 地拖 [di4 tuo1] {dei6 to1} /a mop (for cleaning the floor)/
-地方國營 地方国营 [di4 fang1 guo2 ying2] {dei6 fong1 gwok3 jing4} /Locally administered state-run/
-地方戲 地方戏 [di4 fang1 xi4] {dei6 fong1 hei3} /Local opera/
-地方政府 地方政府 [di4 fang1 zheng4 fu3] {dei6 fong1 zing3 fu2} /local official administration, local government/
-地方稅 地方税 [di4 fang1 shui4] {dei6 fong1 seoi3} /Local taxes/
-地氈 地毡 [di4 zhan1] {dei6 zin1} /(noun) mat; rug; carpet/
-地水 地水 [di4 shui3] {dei6 seoi2} /a blind man; a visually impaired/
-地水先生 地水先生 [di4 shui3 xian1 sheng5] {dei6 seoi2 sin1 saang1} /a visually impaired man; Mr. Blind Man/
-地波 地波 [di4 bo1] {dei6 bo1} /surface wave [physics]/
-地牢 地牢 [di4 lao2] {dei6 lou4} /(noun)  basement/
-地牢商場 地牢商场 [di4 lao2 shang1 chang3] {dei6 lou4 soeng1 coeng4} /Mall in the basement/
-地球人 地球人 [di4 qiu2 ren2] {dei6 kau4 jan4} /a human being on earth; an earthling/
-地球日 地球日 [Di4 qiu2 ri4] {dei6 kau4 jat6} /Earth Day/
-地理環境 地理环境 [di4 li3 huan2 jing4] {dei6 lei5 waan4 ging2} /Geographical environment/
-地產霸權 地产霸权 [di4 chan3 ba4 quan2] {dei6 caan2 baa3 kyun4} /Property hegemony; developer hegemony/
-地盤工人 地盘工人 [di4 pan2 gong1 ren2] {dei6 pun4 gung1 jan4} /Construction workers/
-地磁 地磁 [di4 ci2] {dei6 ci4} /Geomagnetism/
-地糊 地糊 [di4 hu2] {dei6 wu4} /a terminology of mahjong, one of the kinds of scoring/
-地羊 地羊 [di4 yang2] {dei6 joeng4} /Dog meat/
-地膽 地胆 [di4 dan3] {dei6 daam2} /one who is extremely familiar with the surroundings; a local /
-地質 地质 [di4 zhi4] {dei6 zat1} /geological/
-地質力學 地质力学 [di4 zhi4 li4 xue2] {dei6 zat1 lik6 hok6} /Geomechanics/
-地踎 地踎 [di4 mou2] {dei6 mau1} /describes a person who is jobless and acts like a gangster who squats around certain places; lower class/
-地踎館 地踎馆 [di4 mou2 guan3] {dei6 mau1 gun2} /street restaurants; roadside stalls / eateries/
-地道 地道 [di4 dao5] {dei6 dou6} /local/
-地鐵 地铁 [di4 tie3] {dei6 tit3} /(noun)  MTR/
-地震預報 地震预报 [di4 zhen4 yu4 bao4] {dei6 zan3 jyu6 bou3} /Earthquake forecast/
-地面化 地面化 [di4 mian4 hua4] {dei6 min2 faa3} /coming to the surface, it means things are becoming obvious and in public; to publicize/
-地頭 地头 [di4 tou2] {dei6 tau4} /territory; turf/
-地頭蟲 地头虫 [di4 tou2 chong2] {dei6 tau4 cung4} /(n.) local people; to describe someone who knows an area particularly well/
-均真 均真 [jun1 zhen1] {gwan1 zan1} /fair and honest/
-坐一望二 坐一望二 [zuo4 yi2 wang4 er4] {zo6 jat1 mong6 ji6} /one not faraway from victory or reaching one's goal /
-坐不住 坐不住 [zuo4 bu5 zhu4] {co5 bat1 zyu6} /cannot sit still / properly/
-坐低 坐低 [zuo4 di1] {zo5 dai1} /(verb) to sit down/
-坐唔定 坐唔定 [zuo4 n2 ding4] {co5 m4 ding6} /cannot sit still/
-坐埋一條船 坐埋一条船 [zuo4 mai2 yi1 tiao2 chuan2] {co5 maai4 jat1 tiu4 syun4} /sitting on the same boat; to be on the same boat; to be in the same situation/
-坐夜 坐夜 [zuo4 ye4] {co5 je2} /to be a night watch/
-坐定定 坐定定 [zuo4 ding4 ding4] {co5 ding6 ding6} /sit tight/
-坐定粒六 坐定粒六 [zuo4 ding4 li4 liu4] {zo6 ding6 nap1 luk6} /an idiom to describe a person's feeling of confidence regarding the result or outcome of a matter/event/
-坐收漁人之利 坐收渔人之利 [zuo4 shou1 yu2 ren2 zhi1 li4] {zo6 sau1 jyu4 jan4 zi1 lei6} /to get benefits when others are fighting/
-坐梗 坐梗 [zuo4 geng3] {co5 gang2} /certainly to sit on… [a spot]; certainly to have… [a position]/
-坐正 坐正 [zuo4 zheng4] {co5 zeng3} /literal meaning or translation: to sit up straight; normally to describe a person who is dying to do something (usually to get promoted at work) and finally manages to get what they want; to be formally raised / promoted to a certain status/
-坐波監 坐波监 [zuo4 bo1 jian1] {co5 bo1 gaam1} /when a player is penalized, having to sit out on a yellow card and cannot play in ball games for a certain period of time/
-坐監 坐监 [zuo4 jian1] {co5 gaam1} /(verb) to be locked up in jail or prison/
-坐視 坐视 [zuo4 shi4] {zo6 si6} /to sit and observe without participating or helping /
+土霉素 土霉素 [tu3 mei2 su4] {tou2 mui4 sou3} /Oxytétracycline/
+土魷 土鱿 [tu3 you2] {tou2 jau4} /calmar séché/
+在 在 [zai4] {zoi6} /sur/dans/à/être (vivant)/
+在在 在在 [zai4 zai4] {zoi6 zoi6} /ici/
+在家 在家 [zai4 jia1] {zoi6 gaa1} /à la maison/
+在心 在心 [zai4 xin1] {zoi6 sam1} /dans son coeur/
+在意 在意 [zai4 yi4] {zoi6 ji3} /(garder) à l'esprit/
+在所不惜 在所不惜 [zai4 suo3 bu4 xi1] {zoi6 so2 bat1 sik1} /déterminé à faire qqch, quoi qu'il en soit/
+在望 在望 [zai4 wang4] {zoi6 mong6} /visible à l'horizon/
+在案 在案 [zai4 an4] {zoi6 on3} /documenté/
+在生 在生 [zai4 sheng1] {zoi6 saang1} /encore vivant/
+圭臬 圭臬 [gui1 nie4] {gwai1 jit6} /niveau de qualité/
+地 地 [de5] {dei6} /caractère utilisé pour pluraliser les pronoms en cantonais, utilisé de la même manière que "哋"/
+地下 地下 [di4 xia4] {dei6 haa6} /souterrain/
+地下情 地下情 [di4 xia4 qing2] {dei6 haa6 cing4} /relation secrète/
+地下莖 地下茎 [di4 xia4 jing1] {dei6 haa6 ging3} /rhizome/
+地下鐵 地下铁 [di4 xia4 tie3] {dei6 haa6 tit3} /métro/
+地勤 地勤 [di4 qin2] {dei6 kan4} /assistance en escale/
+地埗 地埗 [di4 bu4] {dei6 bou4} /addresse/endroit/
+地對地 地对地 [di4 dui4 di4] {dei6 deoi3 dei6} /(missile) sol-sol/
+地對空 地对空 [di4 dui4 kong1] {dei6 deoi3 hung1} /(missile) surface-air/
+地峽 地峡 [di4 xia2] {dei6 haap6} /isthme/
+地布 地布 [di4 bu4] {dei6 bou3} /tapis/
+地帶 地带 [di4dai4] {dei6 daai3} /région/
+地底下 地底下 [di4 di3 xia4] {dei6 dai2 haa6} /souterrain/
+地庫 地库 [di4 ku4] {dei6 fu3} /sous-sol, cave/
+地廬 地庐 [di4 lu2] {dei6 lou4} /sous-sol, cave/
+地拖 地拖 [di4 tuo1] {dei6 to1} /(Can.) vadrouille, (Fr.) serpillière/
+???? 地方國營 地方国营 [di4 fang1 guo2 ying2] {dei6 fong1 gwok3 jing4} /Locally administered state-run/
+地方戲 地方戏 [di4 fang1 xi4] {dei6 fong1 hei3} /opéra local/
+地方政府 地方政府 [di4 fang1 zheng4 fu3] {dei6 fong1 zing3 fu2} /gouvernement local/
+地方稅 地方税 [di4 fang1 shui4] {dei6 fong1 seoi3} /impôts locaux/
+地氈 地毡 [di4 zhan1] {dei6 zin1} /tapis/
+地水 地水 [di4 shui3] {dei6 seoi2} /homme aveugle/
+地水先生 地水先生 [di4 shui3 xian1 sheng5] {dei6 seoi2 sin1 saang1} /homme aveugle/
+地波 地波 [di4 bo1] {dei6 bo1} /(physique) onde de surface/
+地牢 地牢 [di4 lao2] {dei6 lou4} /sous-sol, cave/
+地牢商場 地牢商场 [di4 lao2 shang1 chang3] {dei6 lou4 soeng1 coeng4} /centre commercial souterrain/
+地球人 地球人 [di4 qiu2 ren2] {dei6 kau4 jan4} /Terrien/
+地球日 地球日 [Di4 qiu2 ri4] {dei6 kau4 jat6} /Jour de la Terre/
+地理環境 地理环境 [di4 li3 huan2 jing4] {dei6 lei5 waan4 ging2} /environnement géographique/
+地產霸權 地产霸权 [di4 chan3 ba4 quan2] {dei6 caan2 baa3 kyun4} /monopole de promoteur immobilier/
+地盤工人 地盘工人 [di4 pan2 gong1 ren2] {dei6 pun4 gung1 jan4} /ouvriers de bâtiment, travailleurs de construction/
+地磁 地磁 [di4 ci2] {dei6 ci4} /géomagnétisme/
+地糊 地糊 [di4 hu2] {dei6 wu4} /façon de gagner des points dans le jeu de Mah-jong/
+地羊 地羊 [di4 yang2] {dei6 joeng4} /viande de chien/
+地膽 地胆 [di4 dan3] {dei6 daam2} /(personne) du coin, de la région/
+地質 地质 [di4 zhi4] {dei6 zat1} /géologique/
+地質力學 地质力学 [di4 zhi4 li4 xue2] {dei6 zat1 lik6 hok6} /géomécanique/
+地踎 地踎 [di4 mou2] {dei6 mau1} /sans-emploi qui s'accroupit, imitant un gangster/de classe inférieure/
+地踎館 地踎馆 [di4 mou2 guan3] {dei6 mau1 gun2} /stalle de rue/
+地道 地道 [di4 dao5] {dei6 dou6} /(personne) du coin, de la région/
+地鐵 地铁 [di4 tie3] {dei6 tit3} /métro/MTR, métro de Hong Kong/
+地震預報 地震预报 [di4 zhen4 yu4 bao4] {dei6 zan3 jyu6 bou3} /prévision de séisme/
+地面化 地面化 [di4 mian4 hua4] {dei6 min2 faa3} /découvert, mis à jour, devenir publique/
+地頭 地头 [di4 tou2] {dei6 tau4} /territoire/
+地頭蟲 地头虫 [di4 tou2 chong2] {dei6 tau4 cung4} /(personne) du coin, de la région/
+均真 均真 [jun1 zhen1] {gwan1 zan1} /juste et honnête/
+坐一望二 坐一望二 [zuo4 yi2 wang4 er4] {zo6 jat1 mong6 ji6} /rapprocher son objectif/
+坐不住 坐不住 [zuo4 bu5 zhu4] {co5 bat1 zyu6} /ne pas tenir en place, ne pas pouvoir rester assis/
+坐低 坐低 [zuo4 di1] {zo5 dai1} /s'assoir, s'asseoir/
+坐唔定 坐唔定 [zuo4 n2 ding4] {co5 m4 ding6} /ne pas tenir en place, ne pas pouvoir rester assis/
+坐埋一條船 坐埋一条船 [zuo4 mai2 yi1 tiao2 chuan2] {co5 maai4 jat1 tiu4 syun4} /dans le même bateau/
+坐夜 坐夜 [zuo4 ye4] {co5 je2} /faire le quart de nuit, faire la ronde de nuit/
+坐定定 坐定定 [zuo4 ding4 ding4] {co5 ding6 ding6} /attendre patiemment, s'asseoir sans bouger/
+坐定粒六 坐定粒六 [zuo4 ding4 li4 liu4] {zo6 ding6 nap1 luk6} /avoir une confiance absolue/
+坐收漁人之利 坐收渔人之利 [zuo4 shou1 yu2 ren2 zhi1 li4] {zo6 sau1 jyu4 jan4 zi1 lei6} /profiter lorsque les autres se battent/
+???? 坐梗 坐梗 [zuo4 geng3] {co5 gang2} /certainly to sit on… [a spot]; certainly to have… [a position]/
+坐正 坐正 [zuo4 zheng4] {co5 zeng3} /achever finalement un objectif (d'habitude pour décrire qqn qui est promu)/(litt.) se tenir droit/
+坐波監 坐波监 [zuo4 bo1 jian1] {co5 bo1 gaam1} /exclusion temporaire lors d'un match de foot ou autre sport avec une balle à cause d'une pénalité/
+坐監 坐监 [zuo4 jian1] {co5 gaam1} /en prison/
+坐視 坐视 [zuo4 shi4] {zo6 si6} /regarder, observer sans aider/
 坐移民監 坐移民监 [zuo4 yi2 min2 jian1] {co5 ji4 man4 gaam1} /lit. serving a immigration jail sentence, meaning one has to stay in a country for a certain period of time being granted residency or citizenship/
 坐穩船 坐稳船 [zuo4 wen3 chuan2] {co5 wan2 syun4} /a good luck wish for those departing by sea/
 坐穩車 坐稳车 [zuo4 wen3 che1] {co5 wan2 ce1} /a good luck wish for those departing by car or bus (on land)/
