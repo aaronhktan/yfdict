@@ -606,7 +606,7 @@
 不曉 不晓 [bu4 xiao3] {bat1 hiu2} /ne pas savoir/
 不溜 不溜 [bu4 liu1] {bat1 lau4} /depuis le début/toujours/
 不濟事 不济事 [bu4 ji4 shi4] {bat1 zai3 si6} /ne pas marcher/inutil/
-不為五斗米折腰 不为五斗米折腰 [bu4 wei4 wu3 dou3 mi3 zhe2 yao1] {bat1 wai6 ng5 dau2 mai5 zit3 jiu1} /ne pas compromettre pour la survie/(litt.) ne pas plier son dos pour cinq grains de riz/
+不為五斗米折腰 不为五斗米折腰 [bu4 wei4 wu3 dou3 mi3 zhe2 yao1] {bat1 wai6 ng5 dau2 mai5 zit3 jiu1} /ne pas compromettre pour la survie/(litt.) ne pas se pencher pour cinq grains de riz/
 不無道理 不无道理 [bu4 wu2 dao4 li5] {bat1 mou4 dou6 lei5} /avoir du sens/raisonnable/
 不然的話 不然的话 [bu4 ran2 de5 hua4] {bat1 jin4 dik1 waa6} /autrement/
 不特只 不特只 [bu4 te4 zhi3] {bat1 dak6 zi2} /non seulement/
@@ -631,7 +631,7 @@
 不肯 不肯 [bu4 ken3] {bat1 hang2} /ne pas vouloir (faire qqch)/
 不能自拔 不能自拔 [bu4 neng2 zi4 ba2] {bat1 nang4 zi6 bat6} /ne pas pouvoir se contrôler/ne pas pouvoir se tirer d'une situation/
 不至於 不至于 [bu4 zhi4 yu2] {bat1 zi3 jyu1} /improbable/
-不舉 不举 [bu4 ju3] {bat1 geoi2} /impuissance (sexuel)/
+不舉 不举 [bu4 ju3] {bat1 geoi2} /impuissance (sexuelle)/
 不要面 不要面 [bu4 yao4 mian4] {bat1 jiu3 min6} /sans gêne/
 不見得 不见得 [bu4jian4de5] {bat1 gin3 dak1} /ne pas voir/
 不說不知 不说不知 [bu4 shuo1 bu4 zhi1] {bat1 syut3 bat1 zi1} /ne pas savoir qqch jusqu'à ce que quelqu'un le dise/
@@ -639,23 +639,23 @@
 不足為憑 不足为凭 [bu4 zu2 wei2 ping2] {bat1 zuk1 wai4 pang4} /ne pas avoir assez de preuves/
 不過不失 不过不失 [bu5 guo4 bu4 shi1] {bat1 gwo3 bat1 sat1} /médiocre/
 不過如此 不过如此 [bu5 guo4 ru2 ci3] {bat1 gwo3 jyu4 ci2} /c'est tout, c'est fini, pas plus que ça/
-丕烈 丕烈 [pi1 lie4] {pei1 lit6} /un grand exploit/
-丕績 丕绩 [pi1 ji4] {pei1 zek3} /un grand exploit/
+丕烈 丕烈 [pi1 lie4] {pei1 lit6} /grand exploit/
+丕績 丕绩 [pi1 ji4] {pei1 zek3} /grand exploit/
 世 世 [shi4] {sai3} /(classificateur pour une vie)/
 世侄 世侄 [shi4 zhi2] {sai3 zat6} /les fils des amis/
-世叔 世叔 [shi4 shu1] {sai3 suk1} /un ami de la famille/(litt.) oncle/
+世叔 世叔 [shi4 shu1] {sai3 suk1} /ami de la famille/(litt.) oncle/
 世姪 世侄 [shi4 zhi2] {sai3 zat6} /fils d'un ami de la famille/
-世態 世态 [shi4 tai4] {sai3 taai3} /l'état d'une société/
+世態 世态 [shi4 tai4] {sai3 taai3} /l'état d'une société, situation d'une société/
 世界上 世界上 [shi4 jie4 shang4] {sai3 gaai3 soeng6} /dans ce monde/autour du monde/
 世界之窗站 世界之窗站 [shi4 jie4 zhi1 chuang1 zhan4] {sai3 gaai3 zi1 coeng1 zaam6} /station «Window of the World» (Fenêtre du Monde), un endroit à Shenzhen/
-世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /homme sociable/homme sage, habituellement péjoratif./béni-oui-oui, paillason/(litt.) un enfant du monde/
-世界史 世界史 [shi4 jie4 shi3] {sai3 gaai3 si2} /l'histoire/
+世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /homme sociable/(péj.) homme sage/béni-oui-oui, paillason/(litt.) un enfant du monde/
+世界史 世界史 [shi4 jie4 shi3] {sai3 gaai3 si2} /l'histoire (dans le sens de la connaissance du passé)/
 世界女 世界女 [shi4 jie4 nü3] {sai3 gaai3 neoi5} /femme qui gère bien les personnes, particulièrement ses supérieurs/
-世界小姐 世界小姐 [Shi4 jie4 Xiao3 jie3] {sai3 gaai3 siu2 ze2} /Miss Monde, un concours de beauté international/
+世界小姐 世界小姐 [Shi4 jie4 Xiao3 jie3] {sai3 gaai3 siu2 ze2} /Miss Monde, concours de beauté international/
 世界市場 世界市场 [shi4 jie4 shi4 chang3] {sai3 gaai3 si5 coeng4} /marché mondial/
 世界性 世界性 [shi4 jie4 xing4] {sai3 gaai3 sing3} /mondial/
-世界歷史 世界历史 [shi4 jie4 li4 shi3] {sai3 gaai3 lik6 si2} /l'histoire/
-世界波 世界波 [shi4 jie4 bo1] {sai3 gaai3 bo1} /être extrêmement doué en soccer/(litt.) digne de la Coupe du monde/
+世界歷史 世界历史 [shi4 jie4 li4 shi3] {sai3 gaai3 lik6 si2} /l'histoire (dans le sens de la connaissance du passé)/
+世界波 世界波 [shi4 jie4 bo1] {sai3 gaai3 bo1} /extrêmement doué en soccer/(litt.) digne de la Coupe du monde/
 世界盃 世界杯 [Shi4 jie4 bei1] {sai3 gaai3 bui1} /coupe du monde, applicable à plusieurs sports/
 世界語言 世界语言 [shi4 jie4 yu3 yan2] {sai3 gaai3 jyu5 jin4} /langues étrangères/
 世界遺產 世界遗产 [shi4 jie4 yi2 chan3] {sai3 gaai3 wai4 caan2} /patrimoine mondial/
@@ -675,28 +675,28 @@
 丟那媽 丢那妈 [diu1 na4 ma1] {diu1 naa5 maa1} /(vulgaire) baiser sa mère, niquer sa mère/
 並未 并未 [bing4 wei4] {bing3 mei6} /pas encore/
 並肩作戰 并肩作战 [bing4 jian1 zuo4 zhan4] {bing6 gin1 zok3 zin3} /se battre avec qqn/
-並蒂 并蒂 [bing4 di4] {bing6 dai3} /deux fleurs qui fleurissent au même temps/
+並蒂 并蒂 [bing4 di4] {bing6 dai3} /deux fleurs qui s'épanouissent au même moment/
 丫 丫 [ya1] {aa1} /bébé/onomatopée pour les corbeaux/son d'un bébé qui pleure/
 中 中 [zhong1] {zung1} /frapper qqch précisément/gagner (un prix, la loterie)/
 中上層 中上层 [zhong1 shang4 ceng2] {zung1 soeng6 cang4} /classe moyenne supérieure/
-中上游 中上游 [zhong1 shang4 you2] {zung1 soeng6 jau4} /dans une chaîne logistique, l'amont/class moyenne supérieure/
+中上游 中上游 [zhong1 shang4 you2] {zung1 soeng6 jau4} /amont (dans une chaîne logistique) /classe moyenne supérieure/
 中下 中下 [zhong1 xia4] {zung1 haa6} /moyenne inférieure/
-中下游 中下游 [zhong1 xia4 you2] {zung1 haa6 jau4} /dans une chaîne logistique, l'aval/class moyenne inférieure/
+中下游 中下游 [zhong1 xia4 you2] {zung1 haa6 jau4} /aval (dans une chaîne logistique)/class moyenne inférieure/
 中中哋 中中哋 [zhong1 zhong1 di4] {zung1 zung1 dei2} /environ au milieu/quelqu'un qui ne marche pas en ligne droite/
 中位 中位 [zhong1 wei4] {zung1 wai6} /place du milieu/
 中停 中停 [zhong1 ting2] {zung1 ting4} /arrêter au milieu/dans la physiognomonie chinoise, la partie du visage entre les sourcils jusqu'au bas du nez/
 中共總書記 中共总书记 [zhong1 gong4 zong3 shu1 ji5] {zung1 gung6 zung2 syu1 gei3} /secrétaire général du Comité central du Parti communiste chinois/
 中古時代 中古时代 [zhong1 gu3 Shi2 dai4] {zung1 gu2 si4 doi6} /Moyen Âge/
-中史 中史 [zhong1 shi3] {zung1 si2} /l'histoire chinoise/
-中國人 中国人 [Zhong1guo2ren2] {zung1 gwok3 jan4} /les Chinois/
+中史 中史 [zhong1 shi3] {zung1 si2} /histoire chinoise/
+中國人 中国人 [Zhong1guo2ren2] {zung1 gwok3 jan4} /les Chinois/peuple chinois/
 中國人民 中国人民 [zhong1 guo2 ren2 min2] {zung1 gwok3 jan4 man4} /peuple de la république populaire de Chine/
 中國共產黨中央委員會總書記 中国共产党中央委员会总书记 [zhong1 guo2 gong4 chan3 dang3 zhong1 yang1 wei3 yuan2 hui4 zong3 shu1 ji5] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 wai2 jyun4 wui2 zung2 syu1 gei3} /secrétaire général du Comité central du Parti communiste chinois/
 中國共產黨中央政治局 中国共产党中央政治局 [zhong1 guo2 Gong4 chan3 dang3 zhong1 yang1 Zheng4 zhi4 ju2] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 zing3 zi6 guk6} /Bureau politique du Comité central du Parti communiste chinois/
 中國共產黨中央政治局常務委員會 中国共产党中央政治局常务委员会 [zhong1 guo2 gong4 chan3 dang3 Zzong1 yang1 Zheng4 zhi4 ju2 chang2 wu4 wei3 yuan2 hui4] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 zing3 zi6 guk6 soeng4 mou6 wai2 jyun4 wui2} /comité permanent du bureau politique du Parti communiste chinois/
 中國功夫 中国功夫 [zhong1 guo2 gong1 fu5] {zung1 gwok3 gung1 fu1} /Kung-fu chinois/
-中國南方航空公司 中国南方航空公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gung1 si1} /China Southern Airlines/
-中國南方航空股份有限公司 中国南方航空股份有限公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gu2 fan6 jau5 haan6 gung1 si1} /China Southern Airlines Company Limited/
-中國史 中国史 [zhong1 guo2 shi3] {zung1 gwok3 si2} /l'histoire chinoise/
+中國南方航空公司 中国南方航空公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gung1 si1} /China Southern Airlines, compagnie aérienne de Chine/
+中國南方航空股份有限公司 中国南方航空股份有限公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gu2 fan6 jau5 haan6 gung1 si1} /China Southern Airlines Company Limited, compagnie aérienne de Chine/
+中國史 中国史 [zhong1 guo2 shi3] {zung1 gwok3 si2} /histoire chinoise/
 中國四大發明 中国四大发明 [zhong1 guo2 si4 da4 fa1 ming2] {zung1 gwok3 sei3 daai6 faat3 ming4} /les quatre grandes inventions de la Chine antique/
 中國國家圖書館 中国国家图书馆 [zhong1 guo2 guo2 jia1 tu2 shu1 guan3] {zung1 gwok3 gwok3 gaa1 tou4 syu1 gun2} /Bibliothèque nationale de Chine/
 中國大陸 中国大陆 [zhong1 guo2 da4 lu4] {zung1 gwok3 daai6 luk6} /la Chine continentale/
@@ -1761,7 +1761,7 @@
 借歪 借歪 [jie4 wai1] {ze3 me2} /excusez-moi, pardon/s'écarter (du passage de qqch ou qqn), se pousser/
 借歪啲 借歪啲 [jie4 wai1 di1] {ze3 me2 di1} /excusez-moi, pardon/s'écarter (du passage de qqch ou qqn), se pousser/
 借殼 借壳 [jie4 ke2] {ze3 hok3} /prise de contrôle inversée/
-借水遁 借水遁 [jie4 shui3 dun4] {ze3 seoi2 deon6} /utiliser l'eau pour échapper, une expression utilisé dans la fiction des arts martiaux/
+借水遁 借水遁 [jie4 shui3 dun4] {ze3 seoi2 deon6} /utiliser l'eau pour échapper, une expression utilisée dans la fiction des arts martiaux/
 借花敬佛 借花敬佛 [jie4 hua1 jing4 fo2] {ze3 faa1 ging3 fat6} /(expr. idiom.) prendre qqch donné par qqn pour l'offir à qqn d'autre/(litt.) emprunter une fleur pour offrir à Bouddha/
 借鑑 借鉴 [jie4 jian4] {ze3 gaam3} /faire référence à, indiquer en référence/être porté par les épaules des géants, s'appuyer sur les travaux du passé/
 借開 借开 [jie4 kai1] {ze3 hoi1} /excusez-moi, pardon (impoli)/s'écarter (du passage de qqch ou qqn), se pousser/
@@ -5874,7 +5874,7 @@
 太空穿梭機 太空穿梭机 [tai4 kong1 chuan1 suo1 ji1] {taai3 hung1 cyun1 so1 gei1} /astronef, vaisseau spatial/
 太空衫 太空衫 [tai4 kong1 shan1] {taai3 hung1 saam1} /combinaison spatiale/
 太空褸 太空褛 [tai4 kong1 lü3] {taai3 hung1 lau1} /parka, doudoune/
-太老爺 太老爷 [tai4 lao3 ye2] {taai3 lou5 je4} /expression utilisé par un domestique pour désigner le père du maître/
+太老爺 太老爷 [tai4 lao3 ye2] {taai3 lou5 je4} /expression utilisée par un domestique pour désigner le père du maître/
 太長 太长 [tai4 zhang3] {taai3 coeng4} /trop long/
 太陰曆 太阴历 [tai4 yin1 li4] {taai3 jam1 lik6} /calendrier lunaire/
 太陽劇團 太阳剧团 [tai4 yang2 ju4 tuan2] {taai3 joeng4 kek6 tyun4} /Cirque du Soleil/
