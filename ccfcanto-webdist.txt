@@ -700,12 +700,12 @@
 中國四大發明 中国四大发明 [zhong1 guo2 si4 da4 fa1 ming2] {zung1 gwok3 sei3 daai6 faat3 ming4} /les quatre grandes inventions de la Chine antique/
 中國國家圖書館 中国国家图书馆 [zhong1 guo2 guo2 jia1 tu2 shu1 guan3] {zung1 gwok3 gwok3 gaa1 tou4 syu1 gun2} /Bibliothèque nationale de Chine/
 中國大陸 中国大陆 [zhong1 guo2 da4 lu4] {zung1 gwok3 daai6 luk6} /la Chine continentale/
-中國字 中国字 [zhong1 guo2 zi4] {zung1 gwok3 zi6} /caractères chinoises/
+中國字 中国字 [zhong1 guo2 zi4] {zung1 gwok3 zi6} /caractères chinois/
 中國政府 中国政府 [Zhong1 guo2 zheng4 fu3] {zung1 gwok3 zing3 fu2} /gouvernement de la Chine/
 中國文化 中国文化 [zhong1 guo2 wen2 hua4] {zung1 gwok3 man4 faa3} /culture chinoise/
 中國文學 中国文学 [Zhong1 guo2 wen2 xue2] {zung1 gwok3 man4 hok6} /littérature chinoise/
 中國歷史 中国历史 [Zhong1 guo2 li4 shi3] {zung1 gwok3 lik6 si2} /l'histoire chinoise/
-中國石油天然氣股份有限公司 中国石油天然气股份有限公司 [zhong1 guo2 Shi2 you2 tian1 ran2 qi4 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 sek6 jau4 tin1 jin4 hei3 gu2 fan6 jau5 haan6 gung1 si1} /PetroChina Company Limited/
+中國石油天然氣股份有限公司 中国石油天然气股份有限公司 [zhong1 guo2 Shi2 you2 tian1 ran2 qi4 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 sek6 jau4 tin1 jin4 hei3 gu2 fan6 jau5 haan6 gung1 si1} /PetroChina Company Limited, le plus gros groupe pétrolier de la Chine/
 中國網絡審查 中国网络审查 [zhong1 guo2 wang3 luo4 shen3 cha2] {zung1 gwok3 mong5 lok6 sam2 caa4} /censure d'Internet en république populaire de Chine/
 中國語 中国语 [Zhong1 guo2 yu3] {zung1 gwok3 jyu5} /langue chinoise/
 中國象棋 中国象棋 [Zhong1 guo2 xiang4 qi2] {zung1 gwok3 zoeng6 kei4} /échecs chinois/
@@ -714,11 +714,11 @@
 中坑 中坑 [zhong1 keng1] {zung1 haang1} /homme d'âge mûr/
 中堂 中堂 [zhong1 tang2] {zung1 tong4} /région dans la ville de Dongguan, en Guangdong, Chine/
 中場休息 中场休息 [zhong1 chang3 xiu1 xi5] {zung1 coeng4 jau1 sik1} /l'entracte/mi-temps/
-中大 中大 [Zhong1 Da4] {zung1 daai6} /l’université chinoise de Hong Kong/
+中大 中大 [zhong1 Da4] {zung1 daai6} /l’université chinoise de Hong Kong/
 中央圖書館 中央图书馆 [zhong1 yang1 tu2 shu1 guan3] {zung1 joeng1 tou4 syu1 gun2} /bibliothèque centrale de Hong Kong/
-中央處理器 中央处理器 [zhong1 yang1 chu3 li3 qi4] {zung1 joeng1 cyu2 lei5 hei3} /un processeur, ou une unité centrale de traitement/
+中央處理器 中央处理器 [zhong1 yang1 chu3 li3 qi4] {zung1 joeng1 cyu2 lei5 hei3} /processeur, ou unité centrale de traitement/
 中女 中女 [zhong1 nü3] {zung1 neoi5} /femme d'âge mûr/
-中學 中学 [zhong1 xue2] {zung1 hok6} /Canada: secondaire; France: collège, lycée/
+中學 中学 [zhong1 xue2] {zung1 hok6} /secondaire (Can.) collège, lycée (Fr.)/
 中學教師 中学教师 [zhong1 xue2 jiao4 shi1] {zung1 hok6 gaau3 si1} /enseignant(e) au secondaire, collège, lycée/
 中學會考 中学会考 [zhong1 xue2 hui4 kao3] {zung1 hok6 wui6 haau2} /Hong Kong Certificate of Education Examination (HKCEE), un examen à la fin du secondaire, remplacé en 2012 par le Hong Kong Diploma of Secondary Education (HKDSE)/
 中學雞 中学鸡 [zhong1 xue2 ji1] {zung1 hok6 gai1} /des étudiants de (secondaire, Can., lycée, collège, Fr.) qui sont immatures/qqn dont le niveau d'enseignement le plus élevé atteint est le (secondaire, Can., lycée, collège, Fr.)/
@@ -728,21 +728,21 @@
 中年人 中年人 [zhong1 nian2 ren2] {zung1 nin4 jan4} /gens d'âge mûr/
 中庸之道 中庸之道 [zhong1 yong1 zhi1 dao4] {zung1 jung4 zi1 dou3} /Zhong Yong, l'impartialité et l'invariabilité/
 中心 中心 [zhong1 xin1] {zung1 sam1} /centre commercial/place/
-中心內容 中心内容 [zhong1 xin1 nei4 rong2] {zung1 sam1 noi6 jung4} /l'idée principale (d'un livre, un article, un film, etc.)/
-中心思想 中心思想 [zhong1 xin1 si1 xiang3] {zung1 sam1 si1 soeng2} /l'idée principale (d'un livre, un article, un film, etc.)/
+中心內容 中心内容 [zhong1 xin1 nei4 rong2] {zung1 sam1 noi6 jung4} /idée principale (d'un livre, un article, un film, etc.)/
+中心思想 中心思想 [zhong1 xin1 si1 xiang3] {zung1 sam1 si1 soeng2} /idée principale (d'un livre, un article, un film, etc.)/
 中文大學 中文大学 [zhong1 wen2 da4 xue2] {zung1 man4 daai6 hok6} /université chinoise/
-中文字 中文字 [zhong1 wen2 zi4] {zung1 man4 zi6} /caractères chinoises/
+中文字 中文字 [zhong1 wen2 zi4] {zung1 man4 zi6} /caractères chinois/
 中文數字 中文数字 [zhong1 wen2 shu4 zi4] {zung1 man4 sou3 zi6} /chiffres chinois/
 中文系 中文系 [zhong1 wen2 xi4] {zung1 man4 hai6} /département de langue et littérature chinoise/
-中更 中更 [zhong1 geng1] {zung1 gang1} /poste du milieu de la journée de travail (plutôt que le poste de matin ou le poste de nuit)/un titre des seigneurs chinois/changement en plein milieu de qqch/
+中更 中更 [zhong1 geng1] {zung1 gang1} /poste du milieu de la journée de travail (plutôt que le poste de matin ou le poste de nuit)/titre des seigneurs chinois/changement en plein milieu de qqch/
 中樂 中乐 [zhong1 yue4] {zung1 ngok6} /musique chinoise/
 中檔 中档 [zhong1 dang4] {zung1 dong3} /milieu de gamme/
 中環中心 中环中心 [zhong1 huan2 zhong1 xin1] {zung1 waan4 zung1 sam1} /The Center, un gratte-ciel situé dans la ville de Hong Kong/
 中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /Central Plaza, un gratte-ciel situé dans la ville de Hong Kong/
 中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /Central Market, un site historique situé à Central, Hong Kong /
-中用 中用 [zhong1 yong4] {zung1 jung6} /utile/
+中用 中用 [zhong1 yong4] {zung1 jung6} /util/
 中碼 中码 [zhong1 ma3] {zung1 maa5} /taille moyen (pour vêtements)/
-中立國家 中立国家 [zhong1 li4 guo2 jia1] {zung1 laap6 gwok3 gaa1} /État neutre/
+中立國家 中立国家 [zhong1 li4 guo2 jia1] {zung1 laap6 gwok3 gaa1} /état neutre/
 中等 中等 [zhong1 deng3] {zung1 dang2} /normal, moyen/au milieu/
 中美關係 中美关系 [Zhong1 Mei3 guan1 xi5] {zung1 mei5 gwaan1 hai6} /relations sino-américaines/
 中美高 中美高 [zhong1 mei3 gao1] {zung1 mei5 gou1} /techniques de pointe aux États-Unis et la Chine/
@@ -754,16 +754,16 @@
 中華人民共和國主席 中华人民共和国主席 [zhong1 hua2 ren2 min2 gong4 he2 guo2 zhu3 xi2] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 zyu2 zik6} /président de la république populaire de Chine/
 中華人民共和國國務院 中华人民共和国国务院 [zhong1 hua2 zen2 min2 gong4 he2 guo2 guo2 wu4 yuan4] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 gwok3 mou6 jyun2} /Conseil des affaires de l’État de la république populaire de Chine/
 中華人民共和國國徽 中华人民共和国国徽 [zhong1 hua2 ren2 min2 gong4 he2 guo2 guo2 hui1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 gwok3 fai1} /l'emblème de la république populaire de Chine/
-中華人民共和國香港特別行政區 中华人民共和国香港特别行政区 [Zhong1 hua2 Ren2 min2 Gong4 he2 guo2 Xiang1 gang3 Te4 bie2 Xing2 zheng4 qu1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 hoeng1 gong2 dak6 bit6 hang4 zing3 keoi1} /région administrative spéciale de Hong Kong de la République populaire de Chine/
-中華巴士 中华巴士 [Zhong1 hua2 ba1 shi4] {zung1 waa4 baa1 si6} /China Motor Bus/
-中華民族 中华民族 [Zhong1hua2min2zu2] {zung1 waa4 man4 zuk6} /la nation chinoise/
+中華人民共和國香港特別行政區 中华人民共和国香港特别行政区 [zhong1 hua2 ren2 min2 gong4 he2 guo2 xiang1 gang3 te4 bie2 xing2 zheng4 qu1] {zung1 waa4 jan4 man4 gung6 wo4 gwok3 hoeng1 gong2 dak6 bit6 hang4 zing3 keoi1} /région administrative spéciale de Hong Kong de la République populaire de Chine/
+中華巴士 中华巴士 [zhong1 hua2 ba1 shi4] {zung1 waa4 baa1 si6} /China Motor Bus/
+中華民族 中华民族 [zhong1 hua2 min2 zu2] {zung1 waa4 man4 zuk6} /la nation chinoise/
 中華白海豚 中华白海豚 [Zhong1 hua2 bai2 hai3 tun2] {zung1 waa4 baak6 hoi2 tyun4} /dauphin à bosse du Pacifique/
 中華航空 中华航空 [Zhong1 hua2 Hang2 kong1] {zung1 waa4 hong4 hung1} /China Airlines/
 中華英雄 中华英雄 [Zhong1 hua2 ying1 xiong2] {zung1 waa4 jing1 hung4} /Chinese Hero: Tales of the Blood Sword, un manhua - bande dessinée en Chine - publié de 1980 à 1995/
 中蛇 中蛇 [zhong1 she2] {zung3 se4} /réussir un coup monté/(litt.) frapper un serpent/
 中褸 中褛 [zhong1 lü3] {zung1 lau1} /pardessus, manteau/
 中資集團 中资集团 [zhong1 zi1 ji2 tuan2] {zung1 zi1 zaap6 tyun4} /entreprises financées par la Chine/
-中途宿舍 中途宿舍 [zhong1 tu2 su4 she4] {zung1 tou4 suk1 se3} /Half-way house/
+中途宿舍 中途宿舍 [zhong1 tu2 su4 she4] {zung1 tou4 suk1 se3} /maison de transition/
 中部國際機場 中部国际机场 [zhong1 bu4 guo2 ji4 ji1 chang3] {zung1 bou6 gwok3 zai3 gei1 coeng4} /l'aéroport international du Chūbu, situé au Japon/
 中醫藥 中医药 [Zhong1 yi1 yao4] {zung1 ji1 joek6} /médecine traditionnelle chinoise/
 中銀大廈 中银大厦 [Zhong1 Yin2 da4 sha4] {zung1 ngan4 daai6 haa6} /tour de la Bank of China/
