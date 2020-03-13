@@ -6343,7 +6343,7 @@
 子虛 子虚 [zi3 xu1] {zi2 heoi1} /imaginaire, inexistant/
 子虛烏有 子虚乌有 [zi3 xu1 wu1 you3] {zi2 heoi1 wu1 jau5} /imaginaire, inexistant/
 孔 孔 [kong3] {hung2} /Confucius/confucianisme/
-孔明燈 孔明灯 [kong3 ming2 deng1] {hung2 ming4 dang1} /lanterne céleste, lanternes volantes/lanterne Kongming, premier ballon à air chaud/
+孔明燈 孔明灯 [kong3 ming2 deng1] {hung2 ming4 dang1} /lanterne céleste, lanterne volante/lanterne Kongming, premier ballon à air chaud/
 孔雀石 孔雀石 [kong3 que4 shi2] {hung2 zoek3 sek6} /malachite/
 孔雀石綠 孔雀石绿 [kong3 que4 shi2 lü4] {hung2 zoek3 sek6 luk6} /malachite verte/
 孔雀開屏 孔雀开屏 [kong3 que4 kai1 ping2] {hung2 zoek3 hoi1 ping4} /paon qui fait la roue, paon qui déploie sa queue en éventail/
@@ -6369,7 +6369,7 @@
 孖裝 孖装 [ma1 zhuang1] {maa1 zong1} /paquet de deux/
 孖辮 孖辫 [ma1 bian4] {maa1 bin1} /tresse double/
 孖鋪 孖铺 [ma1 pu4] {maa1 pou1} /soirée pyjama/
-???? 字 字 [zi4] {zi6} /(noun)  the number of floor/
+???? 字 字 [zi4] {zi6} /(noun)  the number of the floor (used in an elevator) (used in Hong Kong)/
 字一色 字一色 [zi4 yi1 se4] {zi6 jat1 sik1} /combinaison de tuiles dans le jeu de mah-jong/
 字匯 字汇 [zi4 hui4] {zi6 wui6} /glossaire/
 字字珠璣 字字珠玑 [zi4 zi4 zhu1 ji1] {zi6 zi6 zyu1 gei1} /langage élégant/
@@ -6482,7 +6482,7 @@
 安士 安士 [an1 shi4] {on1 si2} /once/(orig.) de l'anglais «ounce», once/
 安大略 安大略 [An1 da4 lüe4] {on1 daai6 loek6} /Ontario, province du Canada/
 安定 安定 [an1 ding4] {on1 ding6} /se stabiliser/se calmer/se poser, se caser/
-???? 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /compensation for one who has to leave family for work or any reasons/
+???? 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /(dated) compensation for one who has to leave family for work or any reasons/relocation bonus/
 安德尊 安德尊 [an1 de2 zun1] {on1 dak1 zyun1} /Junior Anderson, acteur et présenteur de télévision hongkongais/
 安樂茶飯 安乐茶饭 [an1 le4 cha2 fan4] {on1 lok6 caa4 faan6} /vivre une vie confortable/(litt.) thé et repas paisible/
 安歷卡 安历卡 [an1 li4 ka3] {on1 lik6 kaa1} /Nicolas Anelka, footballeur français/
@@ -6550,54 +6550,54 @@
 宣傳 宣传 [xuan1 chuan2] {syun1 cyun4} /promouvoir, faire la publicité/promotion/
 宣傳單張 宣传单张 [xuan1 chuan2 dan1 zhang1] {syun1 cyun4 daan1 zoeng1} /dépliant publicitaire/
 宣導 宣导 [xuan1 dao3] {syun1 dou6} /propagande/promotion, défense des intérêts, défense d'une cause/lobbysme, lobbyisme, lobbying/
-宣旨 宣旨 [xuan1 zhi3] {syun1 zi2} /announces the emperor's orders/
-宣萱 宣萱 [xuan1 xuan1] {syun1 hyun1} /Jessica Hester Hsuan / Suen Huen, an actress in Hong Kong/
-宣言 宣言 [xuan1yan2] {syun1 jin4} /(noun) 1. Statement; 2. Announcement; 3. Speech /
-室樂 室乐 [shi4 yue4] {sat1 lok6} /Chamber Music/
-宮保 宫保 [gong1 bao3] {gung1 bou2} /kung pao style of cooking; senior tutor of the crown prince during the Ming Dynasty; assistant to the senior tutor of the crown prince during the Qing Dynasty /
-宮燈 宫灯 [gong1 deng1] {gung1 dang1} /Lanterns used in palaces; Chinese lanterns/
-害 害 [hai4] {hoi6} /(adjective) 1. Damage; 2. Harmful/
-害人害物 害人害物 [hai4 ren2 hai4 wu4] {hoi6 jan4 hoi6 mat6} /causing serious harm to others with or without intent /
-害民 害民 [hai4 min2] {hoi6 man4} /harm citizens, harm the livelihood of citizens/
-害處 害处 [hai4 chu5] {hoi6 cyu3} /(noun)  Disadvantage/
-家下 家下 [jia1 xia5] {gaa1 haa5} /(adv.) now; at the moment./
-家俬 家俬 [jia1 si1] {gaa1 si1} /furniture/
-家傳户曉 家传户晓 [jia1 chuan2 hu4 xiao3] {gaa1 cyun4 wu6 hiu2} /Well known/
-家口 家口 [jia1 kou3] {gaa1 hau2} /number of members in a family/
-家喻户曉 家喻户晓 [jia1 yu4 hu4 xiao3] {gaa1 jyu6 wu6 hiu2} /Well known/
-家嘈屋閉 家嘈屋闭 [jia1 cao2 wu1 bi4] {gaa1 cou4 uk1 bai3} /describes a situation where the family members in the same house are constantly filled with noise of argument and shouting/
-家天下 家天下 [jia1 tian1 xia4] {gaa1 tin1 haa6} /the world is home, it means to rule the world/
-家學 家学 [jia1 xue2] {gaa1 hok6} /knowledge inherited from generations to generations within a family/
-家家有本難唸的經 家家有本难念的经 [jia1 jia1 you3 ben3 nan2 nian4 de5 jing1] {gaa1 gaa1 jau5 bun2 naan4 nim6 dik1 ging1} /Every family has their issues/
-家小 家小 [jia1 xiao3] {gaa1 siu2} /noun; my wife and children /
-家山 家山 [jia1 shan1] {gaa1 saan1} /hometown/
-家山有眼 家山有眼 [jia1 shan1 you3 yan3] {gaa1 saan1 jau5 ngaan5} /forefathers bless you/
-家山發 家山发 [jia1 shan1 fa1] {gaa1 saan1 faat3} /having good luck because of the good feng shui of the ancestor cemetery/
-家庭出身 家庭出身 [jia1 ting2 chu1 shen1] {gaa1 ting4 ceot1 san1} /Family background/
-家庭用品 家庭用品 [Jia1 ting2 Yong4 pin3 ] {gaa1 ting4 jung6 ban2} /Household goods/
-家庭計劃 家庭计划 [jia1 ting2 ji4 hua4] {gaa1 ting4 gai3 waak6} /Family Planning/
-家庭電器 家庭电器 [jia1 ting2 dian4 qi4] {gaa1 ting4 din6 hei3} /Home Appliances/
-家書 家书 [jia1 shu1] {gaa1 syu1} /a written letter address to one's home or family /
-家有一老，如有一寶 家有一老，如有一宝 [jia1 you3 yi1 lao3 , ru2 you3 yi4 bao3] {gaa1 jau5 jat1 lou5 jyu4 jau5 jat1 bou2} /It's good to have an elderly at home, because they are wise with a lot of life experiences/
-家欄雞 家栏鸡 [jia1 lan2 ji1] {gaa1 laan1 gai1} /Chickens which belong to one's own farm/
-家法 家法 [jia1 fa3] {gaa1 faat3} /rules of the house which applies within the family (can also refer to rules within certain community, such as a gang, a group etc.)/
-家爺仔乸 家爷仔乸 [jia1 ye2 zi3 na2] {gaa1 je4 zai2 naa2} /family members/
-家生 家生 [jia1 sheng1] {gaa1 saang1} /tools for work, for making a living/
-家維邨 家维村 [jia1 wei2 cun1] {gaa1 wai4 cyun1} /Ka Wai Chuen, a public housing estate in Hong Kong/
-家肥屋潤 家肥屋润 [jia1 fei2 wu1 run4] {gaa1 fei4 uk1 jeon6} /a prosperous family/
-家訪 家访 [jia1 fang3] {gaa1 fong2} /Home visits/
-家課 家课 [jia1 ke4] {gaa1 fo3} /homework/
-家貓 家猫 [jia1 mao1] {gaa1 maau1} /noun; house cat/
-家財 家财 [jia1 cai2] {gaa1 coi4} /a family's financial resources/
-家鄉 家乡 [jia1 xiang1] {gaa1 hoeng1} /ancestral home or town; origin of one's extended family/
-家醜不出外傳 家丑不出外传 [jia1 chou3 bu4 chu1 wai4 chuan2] {gaa1 cau2 bat1 ceot1 ngoi6 cyun4} /do not release the dirty secrets or bad things about the family to the public/
-家長日 家长日 [jia1 chang2 ri4] {gaa1 zoeng2 jat6} /Parents' Day at school/
-家陣 家阵 [jia1 zhen4] {gaa1 zan2} /(adverb / noun) now; nowadays; the present time; the present moment/
-家陣時 家阵时 [jia1 zhen4 shi2] {gaa1 zan6 si2} /Now; these days/
-家頭細務 家头细务 [jia1 tou2 xi4 wu4] {gaa1 tau4 sai3 mou6} /(noun) housework and chores/
-容乜易 容乜易 [rong2 mie1 yi4] {jung4 mat1 ji6} /very easy; a piece of cake; "so what if…" (implying that there is a certain risk of something happening)/
-容忍 容忍 [rong2 ren3] {jung4 jan2} /1. to bear or endure 2. tolerance/
-宾舟 宾舟 [bin1 zhou1] {ban1 zau1} /penis/
+宣旨 宣旨 [xuan1 zhi3] {syun1 zi2} /annoncer les ordres de l'empereur/
+宣萱 宣萱 [xuan1 xuan1] {syun1 hyun1} /Jessica Hester Hsuan, aussic connue sous le nom de Suen Huen, actrice hongkongaise/
+宣言 宣言 [xuan1 yan2] {syun1 jin4} /énoncé, déclaration, affirmation/annonce/discours/
+室樂 室乐 [shi4 yue4] {sat1 lok6} /musique de chambre/
+宮保 宫保 [gong1 bao3] {gung1 bou2} /mode de cuisson «kung pao»/titre d'un fonctionnaire impérial Qing/
+宮燈 宫灯 [gong1 deng1] {gung1 dang1} /lanterne céleste, lanterne volante/lanternes utilisées dans les palais/
+害 害 [hai4] {hoi6} /dommages/blessures/nocif, nocive/
+害人害物 害人害物 [hai4 ren2 hai4 wu4] {hoi6 jan4 hoi6 mat6} /blesser gravement/causer beaucoup de dégâts/
+害民 害民 [hai4 min2] {hoi6 man4} /nuire aux citoyens/
+害處 害处 [hai4 chu5] {hoi6 cyu3} /inconvénient, désavantage/
+家下 家下 [jia1 xia5] {gaa1 haa5} /maintenant, à cette heure, actuellement/
+家俬 家俬 [jia1 si1] {gaa1 si1} /meubles/
+家傳户曉 家传户晓 [jia1 chuan2 hu4 xiao3] {gaa1 cyun4 wu6 hiu2} /bien connue, populaire/
+家口 家口 [jia1 kou3] {gaa1 hau2} /nombre de membres de la famille/
+家喻户曉 家喻户晓 [jia1 yu4 hu4 xiao3] {gaa1 jyu6 wu6 hiu2} /bien connue/
+家嘈屋閉 家嘈屋闭 [jia1 cao2 wu1 bi4] {gaa1 cou4 uk1 bai3} /maison remplie du bruit des disputes, membres de la famille qui se disputent constamment/
+家天下 家天下 [jia1 tian1 xia4] {gaa1 tin1 haa6} /le monde t'appartient/régner sur le monde/
+家學 家学 [jia1 xue2] {gaa1 hok6} /connaissance transmise de génération en génération dans une famille/
+家家有本難唸的經 家家有本难念的经 [jia1 jia1 you3 ben3 nan2 nian4 de5 jing1] {gaa1 gaa1 jau5 bun2 naan4 nim6 dik1 ging1} /il y a des problèmes dans toutes les familles/
+家小 家小 [jia1 xiao3] {gaa1 siu2} /ma femme et mes enfants/
+家山 家山 [jia1 shan1] {gaa1 saan1} /ville natale/
+家山有眼 家山有眼 [jia1 shan1 you3 yan3] {gaa1 saan1 jau5 ngaan5} /vos ancêtres veillent sur vous/
+家山發 家山发 [jia1 shan1 fa1] {gaa1 saan1 faat3} /avoir de la chance à cause du bon feng shui des tombes de ses ancêtres/
+家庭出身 家庭出身 [jia1 ting2 chu1 shen1] {gaa1 ting4 ceot1 san1} /antécédents familiaux/
+家庭用品 家庭用品 [Jia1 ting2 Yong4 pin3 ] {gaa1 ting4 jung6 ban2} /articles ménagers/
+家庭計劃 家庭计划 [jia1 ting2 ji4 hua4] {gaa1 ting4 gai3 waak6} /planification familiale/
+家庭電器 家庭电器 [jia1 ting2 dian4 qi4] {gaa1 ting4 din6 hei3} /appareils électroménagers/
+家書 家书 [jia1 shu1] {gaa1 syu1} /lettre destinée à sa famille ou à chez soi/
+家有一老，如有一寶 家有一老，如有一宝 [jia1 you3 yi1 lao3 , ru2 you3 yi4 bao3] {gaa1 jau5 jat1 lou5 jyu4 jau5 jat1 bou2} /il est bon d'avoir une personne âgée à la maison, parce qu'ils ont beaucoup d'exprérience et sagesse/
+家欄雞 家栏鸡 [jia1 lan2 ji1] {gaa1 laan1 gai1} /poules appartenant à sa ferme/
+家法 家法 [jia1 fa3] {gaa1 faat3} /règles de la maison/(par extension) règles d'une communauté, d'un club, d'un groupe/
+家爺仔乸 家爷仔乸 [jia1 ye2 zi3 na2] {gaa1 je4 zai2 naa2} /membres de la famille/
+家生 家生 [jia1 sheng1] {gaa1 saang1} /outils de travail/
+家維邨 家维村 [jia1 wei2 cun1] {gaa1 wai4 cyun1} /Ka Wai Chuen, logement social à Hong Kong/
+家肥屋潤 家肥屋润 [jia1 fei2 wu1 run4] {gaa1 fei4 uk1 jeon6} /famille prospère/
+家訪 家访 [jia1 fang3] {gaa1 fong2} /visite à domicile/
+家課 家课 [jia1 ke4] {gaa1 fo3} /devoirs (scolaire)/
+家貓 家猫 [jia1 mao1] {gaa1 maau1} /chat domestique/
+家財 家财 [jia1 cai2] {gaa1 coi4} /ressources financières de sa famille/
+家鄉 家乡 [jia1 xiang1] {gaa1 hoeng1} /ville natale/ville d'où vient sa famille/
+家醜不出外傳 家丑不出外传 [jia1 chou3 bu4 chu1 wai4 chuan2] {gaa1 cau2 bat1 ceot1 ngoi6 cyun4} /ne pas laver le linge sale de sa famille en public, les affaires désagréables restent en famille/
+家長日 家长日 [jia1 chang2 ri4] {gaa1 zoeng2 jat6} /journée de rencontre entre parents et profs/
+家陣 家阵 [jia1 zhen4] {gaa1 zan2} /maintenant, à cette heure/de nos jours, actuellement/
+家陣時 家阵时 [jia1 zhen4 shi2] {gaa1 zan6 si2} /maintenant/de nos jours, actuellement/
+家頭細務 家头细务 [jia1 tou2 xi4 wu4] {gaa1 tau4 sai3 mou6} /devoirs et corvées/
+容乜易 容乜易 [rong2 mie1 yi4] {jung4 mat1 ji6} /très facile, c'est du gateau/et si... (conjecture sur si un évènement se produira ou non)/
+容忍 容忍 [rong2 ren3] {jung4 jan2} /supporter, tolérer/
+宾舟 宾舟 [bin1 zhou1] {ban1 zau1} /pénis/
 宿包 宿包 [su4 bao1] {suk1 baau1} /one with body odour caused by sweating/
 宿哼哼 宿哼哼 [su4 heng1 heng5] {suk1 hang1 hang1} /the rotten, sour, stinky smell of food or sweaty body/
 宿題 宿题 [su4 ti2] {suk1 tai4} /homework assignment/
