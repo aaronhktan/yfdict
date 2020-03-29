@@ -3526,7 +3526,7 @@
 古玩鋪 古玩铺 [gu3 wan2 pu4] {gu2 wun2 pou2} /magasin d'antiquités/
 古着 古着 [gu3 zhe5] {gu2 zoek6} /vêtements rétro, vêtements d'époque/
 古縮 古缩 [gu3 suo1] {gu2 suk1} /démodé/conservateur/introverti/réticent/
-古老 古老 [gu3 lao3] {gu2 lou5} /démodé/
+古老 古老 [gu3 lao3] {gu2 lou5} /démodé, quétaine/
 古老十八代 古老十八代 [gu3 lao3 shi2 ba1 dai4] {gu2 lou5 sap6 baat3 doi6} /très vieux, ancien/
 古老當時興 古老当时兴 [gu3 lao3 dang1 shi2 xing1] {gu2 lou5 dong3 si4 hing1} /revenir au goût du jour/
 古老石山 古老石山 [gu3 lao3 shi2 shan1] {gu2 lou5 sek6 saan1} /(expr. idiom.) une personne obstinée/(lit.) une montagne ancienne/
@@ -7023,7 +7023,7 @@
 山埃貼士 山埃贴士 [shan1 ai1 tie1 shi4] {saan1 aai1 tip1 si2} /(expr. idiom.) mauvais conseil/(lit.) conseil de cyanure/
 山墳 山坟 [shan1 fen2] {saan1 fan4} /tombe sur le flanc de coteau/
 山大斬埋有柴 山大斩埋有柴 [shan1 da4 zhan3 mai2 you3 chai2] {saan1 daai6 zaam2 maai4 jau5 caai4} /(expr. idiom.) petit à petit il est possible d'accumuler beaucoup/(lit.) en abattant tous les arbres d'une grande montagne on aura du bois à chauffage/
-山婆 山婆 [shan1 po2] {saan1 po4} /(péj.) femme des cavernes, femme démodée/
+山婆 山婆 [shan1 po2] {saan1 po4} /(péj.) femme des cavernes, femme démodée, quétaine/
 山寨廠 山寨厂 [shan1 zhai4 chang3] {saan1 zaai6 cong2} /usine de produits contrefaits/
 山峯 山峯 [shan1 feng1] {saan1 fung1} /pic montagneux/
 山崗 山岗 [shan1 gang1] {saan1 gong1} /petite colline/
@@ -8073,31 +8073,31 @@
 愁悶 愁闷 [chou2 men4] {sau4 mun6} /triste, découragé, démoralisé/sombre, lugubre/
 愁眉 愁眉 [chou2 mei2] {sau4 mei4} /triste, découragé, démoralisé/air triste, inquiet/froncer les sourcils/
 愁雲 愁云 [chou2 yun2] {sau4 wan4} /temps sombre, couvert, maussade, nuageux/
-愁雲慘霧 愁云惨雾 [chou2 yun2 can3 wu4] {sau4 wan4 caam2 mou6} /the atmosphere which makes people feel gloomy, depressed/
-愉園 愉园 [yu2 yuan2] {jyu4 jyun2} /noun; abbreviation of Happy Valley Athletic Association, a Hong Kong football club/
-愉景灣 愉景湾 [yu2 jing3 wan1] {jyu4 ging2 waan1} /the name of a place in Hong Kong: Discovery Bay/
-意國 意国 [Yi4 guo2] {ji3 gwok3} /Italy/
-意在言外 意在言外 [yi4 zai4 yan2 wai4] {ji3 zoi6 jin4 ngoi6} /meaning is behind the words, read between the lines/
-意大利粉 意大利粉 [Yi4 da4 li4 fen3] {ji3 daai6 lei6 fan2} /Spaghetti/
-意大利航空公司 意大利航空公司 [Yi4 da4 li4 hang2 kong1 gong1 si1] {ji3 daai6 lei6 hong4 hung1 gung1 si1} /Alitalia/
-意大利薄餅 意大利薄饼 [Yi4 da4 li4 bao2 bing3] {ji3 daai6 lei6 bok6 beng2} /Pizza/
-意大利雲吞 意大利云吞 [Yi4 da4 li4 yun2 tun1] {ji3 daai6 lei6 wan4 tan1} /Tortellini/
-意思 意思 [yi4 si5] {ji3 si1} /(noun) 1. like (someone); 2. intention/
-意想 意想 [yi4 xiang3] {ji3 soeng2} /imagine; expect/
-意文 意文 [yi4 wen2] {ji3 man2} /noun; written or spoken Italian language/
-意旨 意旨 [yi4 zhi3] {ji3 zi2} /Intention/
-意氣 意气 [yi4 qi4] {ji3 hei3} /noun; will and spirit/
-意粉 意粉 [yi4 fen3] {ji3 fan2} /pasta/
-意興闌珊 意兴阑珊 [yi4 xing4 lan2 shan1] {ji3 hing3 laan4 saan1} /to feel dispirited/
-意識到 意识到 [yi4 shi5 dao4] {ji3 sik1 dou2} /to be made aware or conscious of/
-意頭 意头 [yi4 tou2] {ji3 tau4} /(noun) portent; omen; sign; good omen/
-意願 意愿 [yi4yuan4] {ji3 jyun6} /(verb) Be willing to/
-愚弄 愚弄 [yu2nong4] {jyu4 lung6} /(verb) Mock /
-愚昧 愚昧 [yu2mei4] {jyu4 mui6} /(adjective) 1. Fatuous; 2. Benighted/
-愛 爱 [ai4] {oi3} /(slang)  want/
-愛之欲其生，惡之欲其死 爱之欲其生，恶之欲其死 [ai4 zhi1 yu4 qi2 sheng1 wu4 zhi1 yu4 qi2 si3] {oi3 zi1 juk6 kei4 sang1 wu3 zi1 juk6 kei4 sei2} /If you love anyone, you want him to live; if you dislike him, you desire his death; to treat someone accordingly depending on one's personal likes and dislikes /
-愛國人士 爱国人士 [ai4 guo2 ren2 shi4] {oi3 gwok3 jan4 si6} /Patriots; patriotic personages/
-愛國心 爱国心 [ai4 guo2 xin1] {oi3 gwok3 sam1} /noun; patriotism; amor patriae/
+愁雲慘霧 愁云惨雾 [chou2 yun2 can3 wu4] {sau4 wan4 caam2 mou6} /ambiance triste, sombre, lugubre/
+愉園 愉园 [yu2 yuan2] {jyu4 jyun2} /Happy Valley Athletic Association, club de foot hongkongais/
+愉景灣 愉景湾 [yu2 jing3 wan1] {jyu4 ging2 waan1} /Discovery Bay (baie de la découverte), zone résidentielle de Hong Kong/
+意國 意国 [yi4 guo2] {ji3 gwok3} /italie/
+意在言外 意在言外 [yi4 zai4 yan2 wai4] {ji3 zoi6 jin4 ngoi6} /lire entre les lignes/sens implicite/
+意大利粉 意大利粉 [yi4 da4 li4 fen3] {ji3 daai6 lei6 fan2} /spaghetti/
+意大利航空公司 意大利航空公司 [yi4 da4 li4 hang2 kong1 gong1 si1] {ji3 daai6 lei6 hong4 hung1 gung1 si1} /Alitalia, compagnie aérienne italienne/
+意大利薄餅 意大利薄饼 [yi4 da4 li4 bao2 bing3] {ji3 daai6 lei6 bok6 beng2} /pizza/(lit.) crêpes italiens/
+意大利雲吞 意大利云吞 [yi4 da4 li4 yun2 tun1] {ji3 daai6 lei6 wan4 tan1} /tortellini/(lit.) wontons italiens/
+意思 意思 [yi4 si5] {ji3 si1} /aimer (quelqu'un)/intention/
+意想 意想 [yi4 xiang3] {ji3 soeng2} /imaginer/s'attendre à/
+意文 意文 [yi4 wen2] {ji3 man2} /langue italienne écrite ou parlée/
+意旨 意旨 [yi4 zhi3] {ji3 zi2} /intention/
+意氣 意气 [yi4 qi4] {ji3 hei3} /volonté, détermination, courage, énergie/
+意粉 意粉 [yi4 fen3] {ji3 fan2} /pâtes alimentaires/
+意興闌珊 意兴阑珊 [yi4 xing4 lan2 shan1] {ji3 hing3 laan4 saan1} /se sentir découragé, démoralisé/
+意識到 意识到 [yi4 shi5 dao4] {ji3 sik1 dou2} /se rendre compte de, informé de, mis au courant de/
+意頭 意头 [yi4 tou2] {ji3 tau4} /bon augure, bon signe/
+意願 意愿 [yi4yuan4] {ji3 jyun6} /prêt, disposé (à faire quelque chose)/
+愚弄 愚弄 [yu2 nong4] {jyu4 lung6} /tromper, duper/
+愚昧 愚昧 [yu2 mei4] {jyu4 mui6} /stupide, idiot/
+愛 爱 [ai4] {oi3} /vouloir/
+愛之欲其生，惡之欲其死 爱之欲其生，恶之欲其死 [ai4 zhi1 yu4 qi2 sheng1 wu4 zhi1 yu4 qi2 si3] {oi3 zi1 juk6 kei4 sang1 wu3 zi1 juk6 kei4 sei2} /(expr. idiom.) traiter quelqu'un selon ce que l'on pense d'eux/(lit.) si tu l'aimes tu aimerais qu'il vive, si tu le hais, tu aimerais qu'il meure/
+愛國人士 爱国人士 [ai4 guo2 ren2 shi4] {oi3 gwok3 jan4 si6} /un patriote, une patriote/
+愛國心 爱国心 [ai4 guo2 xin1] {oi3 gwok3 sam1} /patriotisme/
 愛妻 爱妻 [ai4 qi1] {oi3 cai1} /loving wife/
 愛巢 爱巢 [ai4 chao2] {oi3 caau4} /noun; love nest; home for the newly-weds/
 愛情故事 爱情故事 [ai4 qing2 gu4 shi5] {oi3 cing4 gu3 si6} /noun; love story/
