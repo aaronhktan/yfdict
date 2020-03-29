@@ -2665,7 +2665,7 @@
 出銃 出铳 [chu1 chong4] {ceot1 cung3} /jeter une tuile qui laisse un adversaire gagner un jeu de mah-jong/montrer ses faiblesses à un ennemi/
 出雙入對 出双入对 [chu1 shuang1 ru4 dui4] {ceot1 soeng1 jap6 deoi3} /deux personnes qui sont toujours ensemble en publique/
 出面 出面 [chu1 mian4] {ceot1 min2} /dehors/
-出頭 出头 [chu1 tou2] {ceot1 tau4} /avoir du succès, achever/prendre la défense de qqn d'autre/
+出頭 出头 [chu1 tou2] {ceot1 tau4} /avoir du succès, réussir, atteindre un but/prendre la défense de qqn d'autre/
 出頭露面 出头露面 [chu1 tou2 lu4 mian4] {ceot1 tau4 lou6 min6} /être examiné à la loupe/
 出風頭 出风头 [chu1 feng1 tou5] {ceot1 fung1 tau4} /frimer/
 出馬 出马 [chu1 ma3] {ceot1 maa5} /participer/
@@ -5060,7 +5060,7 @@
 埋數 埋数 [mai2 shu4] {maai4 sou3} /payer ou régler une compte/(pour comptables) enregistrer les transactions/
 埋棧 埋栈 [mai2 zhan4] {maai4 zaan2} /séjourner dans un hôtel/
 埋櫃 埋柜 [mai2 gui4] {maai4 gwai6} /régler les comptes à la fin de journée/
-埋欄 埋栏 [mai2 lan2] {maai4 laan1} /échanger/sejoindre à une conversation ou un groupe/avoir du succès avec qqch/
+埋欄 埋栏 [mai2 lan2] {maai4 laan1} /échanger/sejoindre à une conversation ou un groupe/avoir du succès avec quelque chose, réussir quelque chose/
 ???? 埋牙 埋牙 [mai2 ya2] {maai4 ngaa4} /deux personnes ou groupes qui s'apprêtent à s'affronter/ when success is in sight for matters relating to arranging contacts/
 埋站 埋站 [mai2 zhan4] {maai4 zaam6} /s'approcher du prochain arrêt (train, bus, etc.)/
 埋籠 埋笼 [mai2 long2] {maai4 lung4} /entrée du bétail dans une cage/
@@ -7703,15 +7703,15 @@
 得敕 得敕 [de5 chi4] {dak1 cik1} /moralisateur/content de soi, qui fait le fiérot/hautain, dédaigneux, méprisant/
 得棚牙 得棚牙 [de5 peng2 ya2] {dak1 paang4 ngaa4} /(expr. idiom.) qui promet beaucoup mais ne fait jamais rien/(expr. idiom.) qui aboie mais ne mord pas/(expr. idiom.) colosse aux pieds d'argile, tigre de papier/(lit.) n'avoir que ses dents/
 得滯 得滞 [de5 zhi4] {dak1 zai6} /trop, extrêmement, excessivement/très/
-得米 得米 [de5 mi3] {dak1 mai5} /obtenir ce que l'on souhaite, avoir du succès/
-得記 得记 [de5 ji4] {dak1 gei3} /avoir du succès/
+得米 得米 [de5 mi3] {dak1 mai5} /obtenir ce que l'on souhaite, avoir du succès, réussir/
+得記 得记 [de5 ji4] {dak1 gei3} /avoir du succès, réussir/
 得過 得过 [de2 guo4] {dak1 gwo3} /plus que.../qui vaut la peine/
 得閑 得闲 [de2 xian2] {dak1 haan4} /libre, disponible, pas occupé/
 得閒 得闲 [de2 xian2] {dak1 haan4} /libre, disponible, pas occupé/
 得閒冇屎屙 得闲冇屎屙 [de2 jian1 mao3 shi3 e1] {dak1 haan4 mou5 si2 o1} /(expr. idiom.) avoir trop de temps libre/(lit.) avoir du temps libre mais aucune envie de chier/
 得閒死唔得閒病 得闲死唔得闲病 [de2 jian1 si3 n2 de2 jian1 bing4] {dak1 haan4 sei2 m4 dak1 haan4 beng6} /(expr. idiom.) très occupé/(lit.) tellement occupé que l'on a le temps pour mourir mais pas pour tomber malade/
 得閒飲茶 得闲饮茶 [de2 jian1 yin3 cha2] {dak1 haan4 jam2 caa4} /(expr. idiom.) on se revoit plus tard? on se revoit un de ces jours!/(lit.) disponible pour un repas de dim sum/
-得食 得食 [de5 shi2] {dak1 sik6} /avoir du succès/bien se passer/trouver de quoi manger/
+得食 得食 [de5 shi2] {dak1 sik6} /avoir du succès, réussir/bien se passer/trouver de quoi manger/
 從 从 [cong2] {cung4} /depuis/
 從中作梗 从中作梗 [cong2 zhong1 zuo4 geng3] {cung4 zung1 zok3 gang2} /faire obstacle à/contrecarrer, contrarier/
 從事 从事 [cong2 shi4] {cung4 si6} /travailler comme (une profession quelconque)/
