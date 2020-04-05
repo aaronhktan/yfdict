@@ -1505,7 +1505,7 @@
 你嘅 你嘅 [ni3 ge2] {nei5 ge3} /ton/le tien ou la tienne/
 你地 你地 [ni3 di4] {nei5 dei6} /vous/
 你好嗎 你好吗 [ni3 hao3 ma5] {nei5 hou2 maa1} /comment ça va?/
-你好嘢 你好嘢 [ni3 hao3 ye3] {nei5 hou2 je5} /bien fait!/tu as du courage!/
+你好嘢 你好嘢 [ni3 hao3 ye3] {nei5 hou2 je5} /bravo! félicitations! bien joué!/tu as du courage!/
 你就想 你就想 [ni3 jiu4 xiang3] {nei5 zau6 soeng2} /dans tes rêves!/
 你有張良計，我有過牆梯 你有张良计，我有过墙梯 [ni3 you3 zhang1 liang2 ji4 , wo3 you3 guo5 qiang2 ti1] {nei5 jau5 zoeng1 loeng4 gai3 ，ngo5 jau5 gwo3 coeng4 tai1} /(expr. idiom.) il existe toujours une stratégie pour battre une autre/(lit.) vous avez une bonne stratégie, j'ai une échelle qui franchit le mur/
 你東我西 你东我西 [ni3 dong1 wo3 xi1] {nei5 dung1 ngo5 sai1} /nous nous séparons/(lit.) tu vas à l'est, je vais à l'ouest/
@@ -6063,7 +6063,7 @@
 好天搵埋落雨米 好天揾埋落雨米 [hao3 tian1 wen3 mai2 luo4 yu3 mi3] {hou2 tin1 wan2 maai4 lok6 jyu5 mai5} /(expr. idiom.) bien préparé pour un avenir incertain/(lit.) avoir trouvé du riz lors des beaux jours pour les jours de pluie/
 好好地 好好地 [hao3 hao3 de5] {hou2 hou2 dei2} /bien/
 好好的 好好的 [hao3 hao3 de5] {hou2 hou2 dik1} /très bien/
-好好睇睇 好好睇睇 [hao3 hao3 di4 di4] {hou2 hou2 tai2 tai2} /bien fait/
+好好睇睇 好好睇睇 [hao3 hao3 di4 di4] {hou2 hou2 tai2 tai2} /qui est bien fait/
 好孩子 好孩子 [hao3 hai2 zi5] {hou2 haai4 zi2} /enfants sages/
 好少 好少 [hao3 shao3] {hou2 siu2} /très peu/
 好少何 好少何 [hao3 shao3 he2] {hou2 siu2 ho2} /qui ne se passe pas très souvent/situation rare/
@@ -8525,7 +8525,7 @@
 打掣 打掣 [da3 che4] {daa2 zai3} /fermer le commutateur, mettre l'interrupteur en position marche/
 打救 打救 [da3 jiu4] {daa2 gau3} /sauver, secourir/venir au secours d'une personne/
 打敗仗 打败仗 [da3 bai4 zhang4] {daa2 baai6 zoeng3} /tomber malade/être vaincu/
-打斧頭 打斧头 [da3 fu3 tou5] {daa2 fu2 tau4} /garder une partie de l'argent que l'on est confié avec qui était censé être utilisé pour acheter quelque chose pour quelqu'un d'autre ou qui devait être partagé avec quelqu'un d'autre/
+打斧頭 打斧头 [da3 fu3 tou5] {daa2 fu2 tau4} /détourner (les fonds de quelque chose), escroquer, garder une partie de l'argent que l'on est confié avec qui était censé être utilisé pour acheter quelque chose pour quelqu'un d'autre ou qui devait être partagé avec quelqu'un d'autre/
 打昂瞓 打昂瞓 [da3 ang2 fen4] {daa2 ngong5 fan3} /dormir sur le dos/
 打晒色 打晒色 [da3 shai4 se4] {daa2 saai3 sik1} /devenir chef, devenir leader/
 打格仔 打格仔 [da3 ge2 zi3] {daa2 gaak3 zai2} /pixéliser (une partie d'une image afin de rendre quelque chose méconnaissable/
@@ -8623,31 +8623,31 @@
 打預 打预 [da3 yu4] {daa2 jyu6} /planifier, prévoir (une situation)/
 打領帶 打领带 [da3 ling3 dai4] {daa2 leng5 daai2} /nouer une cravate/
 打頭炮 打头炮 [da3 tou2 pao4] {daa2 tau4 paau3} /(expr. idiom.) prendre un départ impressionant, réussir du premier coup/(expr. idiom.) aller en premier/(lit.) tirer le premier canon/
-打頭鑼 打头锣 [da3 tou2 luo2] {daa2 tau4 lo4} /being the leader; to take the lead/
-打頭陣 打头阵 [da3 tou2 zhen4] {daa2 tau4 zan6} /(slang) to take the lead; to be the first;/
-打風 打风 [da3 feng1] {daa2 fung1} /(verb) to be hit by a typhoon;/
-打風打唔甩 打风打唔甩 [da3 feng1 da3 n2 shuai3] {daa2 fung1 daa2 m4 lat1} /so attached that even a typhoon cannot separate; very stable/
-打飯 打饭 [da3 fan4] {daa2 faan6} /verb; to get the rice, meal/
-打骰 打骰 [da3 tou2] {daa2 sik1} /in-charge (slang)/
-打魚佬 打鱼佬 [da3 yu2 lao3] {daa2 jyu4 lou2} /fishermen/
-打麻將 打麻将 [da3 ma2 jiang4] {daa2 maa4 zoeng3} /playing mahjong/
-打麻雀 打麻雀 [da3 ma2 que4] {daa2 maa4 zoek2} /(verb) to play mah-jong/
-打點滴 打点滴 [da3 dian3 di1] {daa2 dim2 dik1} /to have intravenous drip therapy/
-打鼓趁興 打鼓趁兴 [da3 gu3 chen4 xing1] {daa2 gu2 can3 hing3} /to do things together out of convenience; to do something whilst the timing is good; to act quickly while the opportunity is still available; to strike while the iron is hot/
-打鼻鼾 打鼻鼾 [da3 bi2 han1] {daa2 bei6 hon4} /snoring/
-打齋鶴 打斋鹤 [da3 zhai1 he4] {daa2 zaai1 hok2} /bad friends who talk others into bad addiction (drug, gambling, prostitution)/
-托 托 [tuo1] {tok3} /to hold up/
-托兒所 托儿所 [tuo1er2suo3] {tok3 ji4 so2} /(noun) Day-care or day-care centre/
-托塔都應承 托塔都应承 [tuo1 ta3 dou1 ying4 cheng2] {tok3 taap3 dou1 jing1 sing4} /an expression which means 'to agree with anything asked by another, regardless of what is being asked (favour or etc.)'/
-托大腳 托大脚 [tuo1 da4 jiao3] {tok3 daai6 goek3} /(verb) to butter up; to flatter (usually one's boss)/
-托手踭 托手踭 [tuo1 shou3 zheng1] {tok3 sau2 zaang1} /to reject; to turn down a request/
-托故 托故 [tuo1 gu4] {tok3 gu3} /to make up excuses to do something; to find an excuse to do something/
-托水龍 托水龙 [tuo1 shui3 long2] {tok3 seoi2 lung4} /to embezzle; to pocket the client's money/
-托賴 托赖 [tuo1 lai4] {tok3 laai6} / rely on one's elder or an influential person for protection, it is an expression used when people are being asked how they have been to show that they appreciate others' concern/
-扚 扚 [di2] {dik1 / lik6 / diu2 / joek6} /to hook the collar with fingers/
-扛槍 扛枪 [kang2 qiang1] {kong1 coeng1} /to carry a gun on one's shoulder/
-扠𢰸 扠𢰸 [Cha1 wo1] {caa5 wo5} /to destroy others' things/ events; to ruin; to spoil/
-扣喉 扣喉 [kou4 hou2] {kau3 hau4} /verb; purge; To retch, / Stick your finger in your throat to make yourself vomit/
+打頭鑼 打头锣 [da3 tou2 luo2] {daa2 tau4 lo4} /en première place/prendre la tête/
+打頭陣 打头阵 [da3 tou2 zhen4] {daa2 tau4 zan6} /en première place/prendre la tête/
+打風 打风 [da3 feng1] {daa2 fung1} /le typhon frappe, le typhon est arrivé/être touché, impacté par un typhon/
+打風打唔甩 打风打唔甩 [da3 feng1 da3 n2 shuai3] {daa2 fung1 daa2 m4 lat1} /(expr. idiom.) très stable, très bien attaché/(lit.) qui ne relâche pas même quand un typhon frappe/
+打飯 打饭 [da3 fan4] {daa2 faan6} /obtenir de la nourriture à la cafétéria/
+打骰 打骰 [da3 tou2] {daa2 sik1} /le responsable, le chef/
+打魚佬 打鱼佬 [da3 yu2 lao3] {daa2 jyu4 lou2} /(fam.) pêcheur/
+打麻將 打麻将 [da3 ma2 jiang4] {daa2 maa4 zoeng3} /jouer au mah-jong/
+打麻雀 打麻雀 [da3 ma2 que4] {daa2 maa4 zoek2} /jouer au mah-jong/
+???? 打點滴 打点滴 [da3 dian3 di1] {daa2 dim2 dik1} /administré par un goutte-à-goutte intraveineux/faire une perfusion/
+打鼓趁興 打鼓趁兴 [da3 gu3 chen4 xing1] {daa2 gu2 can3 hing3} /(expr. idiom.) faire d'une pierre deux coups, accomplir plusieurs choses à la fois/(expr. idiom.) faire quelque chose au bon moment/(expr. idiom.) battre le fer pendant qu'il est chaud/(lit.) jouer au tambour quand on est content/
+打鼻鼾 打鼻鼾 [da3 bi2 han1] {daa2 bei6 hon4} /ronfler/ronflements/
+打齋鶴 打斋鹤 [da3 zhai1 he4] {daa2 zaai1 hok2} /complice, acolyte, personne qui incite les autres à commencer des mauvaises habitudes ou à avoir une dépendance (sur la drogue, l'alcool, le jeu, la prostitution, etc.)/
+托 托 [tuo1] {tok3} /tenir en l'air/
+托兒所 托儿所 [tuo1 er2 suo3] {tok3 ji4 so2} /garderie, crèche/
+托塔都應承 托塔都应承 [tuo1 ta3 dou1 ying4 cheng2] {tok3 taap3 dou1 jing1 sing4} /(expr. idiom.) qui fait des promesses facilement mais ne les tient pas/(lit.) promettre même de tenir un pagode au-dessus sa tête/
+托大腳 托大脚 [tuo1 da4 jiao3] {tok3 daai6 goek3} /(expr. idiom.) flatter, flagorner (son patron)/(lit.) tenir le grand pied/
+托手踭 托手踭 [tuo1 shou3 zheng1] {tok3 sau2 zaang1} /refuser, rejeter/
+托故 托故 [tuo1 gu4] {tok3 gu3} /trouver une excuse pour faire quelque chose/
+托水龍 托水龙 [tuo1 shui3 long2] {tok3 seoi2 lung4} /détourner (les fonds de quelque chose), escroquer/(lit.) voler le dragon-bateau/
+托賴 托赖 [tuo1 lai4] {tok3 laai6} /(formule de politesse) merci (utilisé pour remercier quelqu'un quand ils te rendent service/(expr. phatique) ça va, comme çi comme ça, pas mal (utilisé pour répondre à une question, «comment ça va»)/pas mauvais, pas mal, adéquat/
+???? 扚 扚 [di2] {dik1 / lik6 / diu2 / joek6} /to hook the collar with fingers/
+扛槍 扛枪 [kang2 qiang1] {kong1 coeng1} /porter son arme à feu à bandoulière/
+扠𢰸 扠𢰸 [cha1 wo1] {caa5 wo5} /détruire les choses des autres/gâcher la fête, ruiner un évènement/
+扣喉 扣喉 [kou4 hou2] {kau3 hau4} /provoquer le vomissement en mettant un doigt dans la gorge/
 扣數 扣数 [kou4 shu4] {kau3 sou3} /to debit/
 扣盅 扣盅 [kou4 zhong1] {kau3 zung1} /a drain device cup/
 扣針 扣针 [kou4 zhen1] {kau3 zam1} /a safety pin/
