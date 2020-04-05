@@ -5101,7 +5101,7 @@
 執政 执政 [zhi2 zheng4] {zap1 zing3} /contrôler le gouvernement/
 執正 执正 [zhi2 zheng4] {zap1 zeng3} /se comporter selon des normes ou règles/
 執死雞 执死鸡 [zhi2 si3 ji1] {zap1 sei2 gai1} /(expr. idiom.) faire bonne affaire, de manière imprévue/(expr. idiom.) recevoir une manne/(expr. idiom.) cherry picking (lexique de sport)/(expr. idiom.) profiter d'une situation/(lit.) ramasser une poule morte/
-執死雞仔 执死鸡仔 [zhi2 si3 ji1 zai3] {zap1 sei2 gai1 zai2} /(expr. idiom.) faire bonne affaire, de manière imprévue/(expr. idiom.) recevoir une manne/(expr. idiom.) cherry picking (lexique de sport)/(expr. idiom.) profiter d'une situation/(lit.) ramasser une poule morte/
+執死雞仔 执死鸡仔 [zhi2 si3 ji1 zai3] {zap1 sei2 gai1 zai2} /(expr. idiom.) faire bonne affaire, de manière imprévue/(expr. idiom.) recevoir une manne/(expr. idiom.) cherry picking (lexique de sport)/(expr. idiom.) profiter d'une situation/(lit.) ramasser un poulet mort/
 執滯 执滞 [zhi2 zhi4] {zap1 zai6} /obstiné/
 執漏 执漏 [zhi2 lou4] {zap1 lau6} /oublier d'apporter qqch/
 執生 执生 [zhi2 sheng1] {zap1 saang1} /capacité de réagir rapidement/improviser, prendre les choses commes elles viennent/
@@ -6579,7 +6579,7 @@
 家庭電器 家庭电器 [jia1 ting2 dian4 qi4] {gaa1 ting4 din6 hei3} /appareils électroménagers/
 家書 家书 [jia1 shu1] {gaa1 syu1} /lettre destinée à sa famille ou à chez soi/
 家有一老，如有一寶 家有一老，如有一宝 [jia1 you3 yi1 lao3 , ru2 you3 yi4 bao3] {gaa1 jau5 jat1 lou5 jyu4 jau5 jat1 bou2} /il est bon d'avoir une personne âgée à la maison, parce qu'ils ont beaucoup d'exprérience et sagesse/
-家欄雞 家栏鸡 [jia1 lan2 ji1] {gaa1 laan1 gai1} /poules appartenant à sa ferme/
+家欄雞 家栏鸡 [jia1 lan2 ji1] {gaa1 laan1 gai1} /poulets appartenant à sa ferme/
 家法 家法 [jia1 fa3] {gaa1 faat3} /règles de la maison/(par extension) règles d'une communauté, d'un club, d'un groupe/
 家爺仔乸 家爷仔乸 [jia1 ye2 zi3 na2] {gaa1 je4 zai2 naa2} /membres de la famille/
 家生 家生 [jia1 sheng1] {gaa1 saang1} /outils de travail/
@@ -7528,7 +7528,7 @@
 弔橋 吊桥 [diao4 qiao2] {diu3 kiu4} /pont-levis/
 引 引 [yin3] {jan5} /séduire, enchanter, tenter/
 引以為戒 引以为戒 [yin3 yi3 wei2 jie4] {jan5 ji5 wai4 gaai3} /apprendre des erreurs du passé/considérer comme avertissement/
-???? 引狼入屋拉雞仔 引狼入屋拉鸡仔 [yin3 lang2 ru4 wu1 la1 ji1 zai3] {jan5 long4 jap6 uk1 laai1 gai1 zai2} /(expr. idiom.) devenir ami avec un méchant et par conséquent, souffrir/(lit.) attirer un loup à la maison pour ses poules/
+???? 引狼入屋拉雞仔 引狼入屋拉鸡仔 [yin3 lang2 ru4 wu1 la1 ji1 zai3] {jan5 long4 jap6 uk1 laai1 gai1 zai2} /(expr. idiom.) devenir ami avec un méchant et par conséquent, souffrir/(lit.) attirer un loup à la maison pour ses poulets/
 引致 引致 [yin3 zhi4] {jan5 zi3} /causer, provoquer/
 引見 引见 [yin3 jian4] {jan5 gin3} /présenter quelqu'un à quelqu'un de supérieur/
 引誘 引诱 [yin3 you4] {jan5 jau5} /attirer/
@@ -8599,30 +8599,30 @@
 打醒十二個精神 打醒十二个精神 [da3 xing3 shi2 er4 ge4 jing1 shen5] {daa2 sing2 sap6 ji6 go3 zing1 san4} /(expr. idiom.) être très attentif, être très concentré/(lit.) être réveillé à 112 pourcent/
 打醒十二分精神 打醒十二分精神 [da3 xing3 shi2 er4 fen1 jing1 shen5] {daa2 seng2 sap6 ji6 fan1 zing1 san4} /(expr. idiom.) être très attentif, être très concentré/(lit.) être reveillé à 112 pourcent/
 打醒精神 打醒精神 [da3 xing3 jing1 shen5] {daa2 sing2 zing1 san4} /être attentif, concentré/
-打醮 打醮 [da3 jiao4] {daa2 ziu3} /Tai ping qing jiao, perform a Taoist ritual/
-打針紙 打针纸 [da3 zhen1 zhi3] {daa2 zam1 zi2} /Vaccination Certificate/
-打針雞 打针鸡 [da3 zhen1 ji1] {daa2 zam1 gai1} /chicken with hormone injection/
-打鐘 打钟 [da3 zhong1] {daa2 zung1} /verb; ring the bell, chiming/
-打鐵佬 打铁佬 [da3 tie3 lao3] {daa2 tit3 lou2} /noun; blacksmith/
-打鐵趁熱 打铁趁热 [da3 tie3 chen4 re4] {daa2 tit3 can3 jit6} /lit. to strike while the iron is hot, meaning to get things done without delay /
-打鑊 打镬 [da3 huo4] {daa2 wok6} /verb; beat up/
-打鑊金 打镬金 [da3 huo4 jin1] {daa2 wok6 gam1} /to beat someone up; to beat the shit out of someone/
-打鑼 打锣 [da3 luo2] {daa2 lo2} /verb; to bang on the gong; to hurry frantically/
-打鑼都搵唔到 打锣都揾唔到 [da3 luo2 dou1 wen3 n2 dao4] {daa2 lo2 dou1 wan2 m4 dou2} /to be unable to find something even beat the gong; search everywhere but find nothing/
-打關斗 打关斗 [da3 guan1 dou4] {daa2 gwaan1 dau2} /front rollover (slang)/
-打雀噉眼 打雀啖眼 [da3 que4 dan4 yan3] {daa2 zoek3 daam6 ngaan5} /to look down on someone; to look attentively; to stare openly and stupidly; to gaze/
-打電報 打电报 [da3 dian4 bao4] {daa2 din6 bou3} /to make a telegraph/
-打電腦遊戲 打电脑游戏 [da3 dian4 nao3 you2 xi4] {daa2 din6 nou5 jau4 hei3} /Playing computer games/
-打震 打震 [da3 zhen4] {daa2 zan3} /to tremble/
-打霧 打雾 [da3 wu4] {daa2 mou6} /to create shading for graphics in tattoo, to make the tattoo look lively/
-打靶 打靶 [da3 ba3] {daa2 baa2} /(coarse language) 1. sucker; 2. useless slacker/
-打靶仔 打靶仔 [da3 ba3 zi3] {daa2 baa2 zai2} /noun; commonly used by parents to scold their son as useless/
-打靶鬼 打靶鬼 [da3 ba3 gui3] {daa2 baa2 gwai2} /(scolding) "useless person"; "bastard"/
-打韆鞦 打千秋 [da3 qian1 qiu1] {daa2 cin1 cau1} /playing swing/
-打響頭炮 打响头炮 [da3 xiang3 tou2 pao4] {daa2 hoeng2 tau4 paau3} /to succeed upon launching (spoken)/
-打預 打预 [da3 yu4] {daa2 jyu6} /verb; make prevention of something; to plan or predict/
-打領帶 打领带 [da3 ling3 dai4] {daa2 leng5 daai2} /to tie a tie/
-打頭炮 打头炮 [da3 tou2 pao4] {daa2 tau4 paau3} /verb; fire the first shot; fire the first round; the first or leading launch of something/
+打醮 打醮 [da3 jiao4] {daa2 ziu3} /faire un rituel de taoïsme/festival Taiping Qingjiao, qui demande la paix aux dieux de Taoïsme/
+打針紙 打针纸 [da3 zhen1 zhi3] {daa2 zam1 zi2} /certificat de vaccination/
+打針雞 打针鸡 [da3 zhen1 ji1] {daa2 zam1 gai1} /poulets injectés d'hormones/
+打鐘 打钟 [da3 zhong1] {daa2 zung1} /sonner une cloche/
+打鐵佬 打铁佬 [da3 tie3 lao3] {daa2 tit3 lou2} /forgeron/
+打鐵趁熱 打铁趁热 [da3 tie3 chen4 re4] {daa2 tit3 can3 jit6} /(expr. idiom.) (lit.) il faut battre le fer pendant qu'il est chaud/
+打鑊 打镬 [da3 huo4] {daa2 wok6} /(expr. idiom.) tabasser, battre/(lit.) battre le wok/
+打鑊金 打镬金 [da3 huo4 jin1] {daa2 wok6 gam1} /(expr. idiom.) tabasser, battre/(lit.) battre le wok/
+打鑼 打锣 [da3 luo2] {daa2 lo2} /(expr. idiom.) se dépêcher/faire retentir le gong/
+打鑼都搵唔到 打锣都揾唔到 [da3 luo2 dou1 wen3 n2 dao4] {daa2 lo2 dou1 wan2 m4 dou2} /(expr. idiom.) chercher partout mais ne pas arriver à trouver ce que l'on cherche/(lit.) neto be unable to find something even beat the gong; search everywhere but find nothing/ pas arriver à trouver même en faisant retentir le gong/
+打關斗 打关斗 [da3 guan1 dou4] {daa2 gwaan1 dau2} /faire une roulade/
+打雀噉眼 打雀啖眼 [da3 que4 dan4 yan3] {daa2 zoek3 daam6 ngaan5} /(expr. idiom.) regarder attentivement/(expr. idiom.) regarder quelqu'un bouche bée, regarder quelqu'un bêtement/(expr. idiom.) fixer d'un regard bête/(lit.) regarder comme un oiseau/
+打電報 打电报 [da3 dian4 bao4] {daa2 din6 bou3} /envoyer un télégramme/
+打電腦遊戲 打电脑游戏 [da3 dian4 nao3 you2 xi4] {daa2 din6 nou5 jau4 hei3} /jouer des jeux vidéos sur PC/
+打震 打震 [da3 zhen4] {daa2 zan3} /trembler, frémir/
+打霧 打雾 [da3 wu4] {daa2 mou6} /ombrer un tatouage, rendre un tatouage plus vif/
+打靶 打靶 [da3 ba3] {daa2 baa2} /(péj.) bonne poire, pigeon, gogo/(péj.) lâche, fainéant, tire-au-flanc/(péj.) petit con, petit morveux/
+打靶仔 打靶仔 [da3 ba3 zi3] {daa2 baa2 zai2} /(péj.) bonne poire, pigeon, gogo/(péj.) lâche, fainéant, tire-au-flanc/(péj.) petit con, petit morveux/
+打靶鬼 打靶鬼 [da3 ba3 gui3] {daa2 baa2 gwai2} /noun; commonly used by parents to scold their son as useless/
+打韆鞦 打千秋 [da3 qian1 qiu1] {daa2 cin1 cau1} /jouer à la balançoire/
+打響頭炮 打响头炮 [da3 xiang3 tou2 pao4] {daa2 hoeng2 tau4 paau3} /(expr. idiom.) prendre un départ impressionant, réussir du premier coup/(expr. idiom.) aller en premier/(lit.) tirer le premier canon/
+打預 打预 [da3 yu4] {daa2 jyu6} /planifier, prévoir (une situation)/
+打領帶 打领带 [da3 ling3 dai4] {daa2 leng5 daai2} /nouer une cravate/
+打頭炮 打头炮 [da3 tou2 pao4] {daa2 tau4 paau3} /(expr. idiom.) prendre un départ impressionant, réussir du premier coup/(expr. idiom.) aller en premier/(lit.) tirer le premier canon/
 打頭鑼 打头锣 [da3 tou2 luo2] {daa2 tau4 lo4} /being the leader; to take the lead/
 打頭陣 打头阵 [da3 tou2 zhen4] {daa2 tau4 zan6} /(slang) to take the lead; to be the first;/
 打風 打风 [da3 feng1] {daa2 fung1} /(verb) to be hit by a typhoon;/
