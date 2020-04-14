@@ -8822,8 +8822,12 @@
 押後 押后 [ya1 hou4] {aat3 hau6} /remettre à plus tard, reporter/
 押櫃 押柜 [ya1 gui4] {aat3 gwai6} /acompte, arrhes/
 押當 押当 [ya1 dang4] {aat3 dong3} /mettre en gage, mettre au clou/petit bureau de prêteur sur gages/
-???? 押高褲腳 押高裤脚 [ya1 gao1 ku4 jiao3] {jaap3 gou1 fu3 goek3} /faire un ourlet sur ses pantalons, replier l'ouverture à la cheville/
+押高褲腳 押高裤脚 [ya1 gao1 ku4 jiao3] {jaap3 gou1 fu3 goek3} /retrousser son pantalon, plier l'ourlet de pantalon sur lui-même, rouler le bas du pantalon/
+拞褲 拞裤 [di3 ku4] {jau1 fu3} /retrousser son pantalon, plier l'ourlet de pantalon sur lui-même, rouler le bas du pantalon/
+揄褲 揄褲 [yu2 ku4] {jau1 fu3} /retrousser son pantalon, plier l'ourlet de pantalon sur lui-même, rouler le bas du pantalon/ 
+摳褲 摳褲 [kou1 ku4] {jau1 fu3} /retrousser son pantalon, plier l'ourlet de pantalon sur lui-même, rouler le bas du pantalon/ 
 ???? 抽 抽 [chou1] {cau1} /(Cantonese) 1. to take advantage 2. to mock/
+抽褲 抽裤 [chou1 ku4] {jau1 fu3} /retrousser son pantalon, plier l'ourlet de pantalon sur lui-même, rouler le bas du pantalon/
 抽佣 抽佣 [chou1 yong1] {cau1 jung2} /prendre une commission/
 抽射 抽射 [chou1 she4] {cau1 se6} /frapper le ballon de football lorsqu'il est en air, effectuer une prise de volée/
 抽後腳 抽后脚 [chou1 hou4 jiao3] {cau1 hau6 goek3} /exploiter les faiblesses de quelqu'un/(expr. idiom.) retourner les mots de quelqu'un contre lui/(lit.) tirer sur l'arrière de ses jambes/
@@ -9463,7 +9467,7 @@
 摺床 折床 [zhe2 chuang2] {zip3 cong4} /lit pliant, lit escamotable/
 摺手工 折手工 [zhe2 shou3 gong1] {zip3 sau2 gung1} /origami, art du pliage du papier japonais/
 摺檯 折台 [zhe2 tai2] {zip3 toi2} /table pliante, table rabattable/
-???? 摺高褲腳 折高裤脚 [zhe2 gao1 ku4 jiao3] {zit3 gou1 fu3 goek3} /faire un ourlet sur ses pantalons, replier l'ouverture à la cheville/
+摺高褲腳 折高裤脚 [zhe2 gao1 ku4 jiao3] {zit3 gou1 fu3 goek3} /retrousser son pantalon, plier l'ourlet de pantalon sur lui-même, rouler le bas du pantalon/
 撇 撇 [pie1] {pit3} /trait de caractère chinois, descendant de droit à gauche (pie)/s'en aller, partir/s'enfuir, fuir, s'échapper/abandonner, laisser/
 撇低 撇低 [pie1 di1] {pit3 dai1} /abandonner, laisser/
 撇檔 撇档 [pie1 dang4] {pit3 dong3} /(expr. idiom.) (criminels) se disperser rapidement (à cause d'un policier, à cause d'un vol qui a mal tourné, etc.)/(expr. idiom.) mettre fin à un partenariat/(lit.) abandonner l'étal/
@@ -9551,46 +9555,49 @@
 撫躬自問 抚躬自问 [fu3 gong1 zi4 wen4] {fu2 gung1 zi6 man6} /interogger sa conscience, examiner sa conscience/
 撬 撬 [qiao4] {giu6} /chercher à recruter, (chasseur de tête) recruter, persuader quelqu'un à changer d'emploi/
 撬墻腳 撬墙脚 [qiao4 qiang2 jiao3] {giu6 coeng4 goek3} /(expr. idiom.) piquer son petit ami, piquer sa petite amie/(lit.) voler le grand pied/
-撬牆腳 撬墙脚 [qiao4 qiang2 jiao3] {giu6 coeng4 goek3} /(slang) to steal someone's girlfriend or boyfriend; bird-dogging/
-播放 播放 [bo1 fang4] {bo3 fong3} /to play/
-播越 播越 [bo1 yue4] {bo3 jyut6} /exile/
-撮寫 撮写 [cuo1 xie3] {cyut3 se2} /an abbreviation/
-撮要 撮要 [cuo1 yao4] {cyut3 jiu3} /highlights; summary; abstract; synopsis; extract/
-撰述 撰述 [zhuan4 shu4] {zaan6 seot6} /compilation/
-撲 扑 [pu1] {pok3} /(verb)  Put on (make-up powder)/
-撲心撲命 扑心扑命 [pu1 xin1 pu1 ming4] {pok3 sam1 pok3 meng6} /put all of one's heart and effort into doing something/
-撲料 撲料 [bu3 liao4] {pok3 liu2} /to search everywhere for news / information/
-撲水 扑水 [pu1 shui3] {pok3 seoi2} /to raise money urgently; to run around gathering funds due to an emergency/
-撲波 撲波 [bu3 bo1] {pok3 bo1} /to describe the hand motion of the goalie when blocking the ball from the goal/
-撲熄 撲熄 [bu3 xi1] {pok3 sik1} /to put out; exterminate; stamp out a fire/
-撲飛 扑飞 [pu1 fei1] {pok3 fei1} /the act of running here and there to buy ticket(s) (normally for concert) 2/
-撳 揿 [qin4] {gam6} /(verb) 1. to ring (a doorbell) 2. press with hands/
-撳地游水 揿地游水 [qin4 di4 you2 shui3] {gam6 dei6 jau4 seoi2} /being extra cautious and playing it safe/
-撳掣 揿掣 [qin4 che4] {gam6 zai3} /verb; to push a button/
-撳機 揿机 [qin4 ji1] {gam6 gei1} /cash withdrawal at ATM (spoken)/
-撳釘 揿钉 [qin4 ding1] {gam6 deng1} /a thumbtack; a drawing pin/
-撳錢 揿钱 [qin4 qian2] {gam6 cin2} /withdrawing money from a cash machine / ATM/
-撳鐘 揿钟 [qin4 zhong1] {gam6 zung1} /verb; to push the door bell/
-撳鷓鴣 揿鹧鸪 [qin4 zhe4 gu1] {gam6 ze3 gu1} /verb; to fool someone / foolish; to take advantage of a victim/
-撶 撶 [hua2] {waa1} /to row a boat/
-撻 挞 [ta4] {taat3} /(food) 1. tart; (verb) 1. steal (money); (verb) 1. fail; 2. screw up; (verb) 1. wear (sandals or Flip Flops); (verb)  start (a vehicle)/
-撻Ｑ 挞Ｑ [ta4 Q] {taat3 kiu1} /to miss a golden opportunity/
-撻伐 挞伐 [ta4 fa2] {taat3 fat6} /1 to condemn 2 to invade; crusade/
-撻嘢 挞嘢 [ta4 ye3] {taat1 je5} /to steal something/
-撻定 挞定 [ta4 ding4] {taat3 ding6} /forfeiting of deposit or downpayment/
-撻數 挞数 [ta4 shu4] {taat3 sou3} /to not admit something one said or promised, because the person does not want to be responsible for the consequence/
-撻朵 挞朵 [ta4 duo3] {daat3 do2} /Some people take the initiative to announce their identity or status to the others, to make himself respected and take benefit/
-撻沙 挞沙 [ta4 sha1] {taat3 saa1} /a flounder; a flatfish/
-撻沙魚 挞沙鱼 [ta4 sha1 yu2] {taat3 saa1 jyu2} /flatfish, Macao sole/
-撻着 挞着 [ta4 zhe5] {taat1 zoek6} /to start a car; to hit it off with someone/
-撻頭 挞头 [ta4 tou2] {taat3 tau4} /adj; bald/
-撼動 撼动 [han4 dong4] {ham6 dung6} /to shake/
-撽 撽 [qiao4] {gik1} /to beat something from the side/
-擁 拥 [yong1] {jung2} /1. push away (Cantonese) 2. to own/
-擁吻 拥吻 [yong1 wen3] {jung2 man5} /verb; embrace and kiss/
-擁墩 拥墩 [yong1 dun1] {jung2 dan2} /fans; admirers/
-擁抱 拥抱 [yong1bao4] {jung2 pou5} /(verb) Cuddle /
-擁擠 拥挤 [yong1ji3] {jung2 zai1} /(adjective) Packed (with people)/
+撬牆腳 撬墙脚 [qiao4 qiang2 jiao3] {giu6 coeng4 goek3} /(expr. idiom.) piquer son petit ami, piquer sa petite amie/(lit.) voler le grand pied/
+播放 播放 [bo1 fang4] {bo3 fong3} /(d'un dispositif électronique) jouer de la musique, lire un morceau de musique/
+播越 播越 [bo1 yue4] {bo3 jyut6} /être exilé, banni/
+撮寫 撮写 [cuo1 xie3] {cyut3 se2} /abbréviation/
+撮要 撮要 [cuo1 yao4] {cyut3 jiu3} /faits marquants, résumé/
+撰述 撰述 [zhuan4 shu4] {zaan6 seot6} /(litt.) (formel) compiler, écrire, mattre par écrit/
+撲 扑 [pu1] {pok3} /se poudrer/
+撲心撲命 扑心扑命 [pu1 xin1 pu1 ming4] {pok3 sam1 pok3 meng6} /(expr. idiom.) se donner corps et âme à quelque chose (un projet, etc.)/(lit.) mettre son coeur et vie/
+撲料 撲料 [bu3 liao4] {pok3 liu2} /enquêter, fouiller pour des informations ou nouvelles/
+撲水 扑水 [pu1 shui3] {pok3 seoi2} /réunir de toute urgence des fonds, gratter les fonds de tiroir et parvenir à collectionner juste assez d'argent/
+撲波 撲波 [bu3 bo1] {pok3 bo1} /(d'un gardien de but) bloquer la balle/
+撲熄 撲熄 [bu3 xi1] {pok3 sik1} /éteindre le feu/
+撲飛 扑飞 [pu1 fei1] {pok3 fei1} /chercher partout pour un billet/
+撳 揿 [qin4] {gam6} /sonner à la porte/appuyer (avec un doigt ou ses mains)/
+撳地游水 揿地游水 [qin4 di4 you2 shui3] {gam6 dei6 jau4 seoi2} /(expr. idiom.) être très prudent, ne prendre aucun risque/(lit.) toucher à la terre en nageant/
+撳掣 揿掣 [qin4 che4] {gam6 zai3} /appuyer sur un bouton/
+撳機 揿机 [qin4 ji1] {gam6 gei1} /(fig.) retirer de l'argent d'un guichet automatique/(lit.) appuyer des boutons sur la machine/
+撳釘 揿钉 [qin4 ding1] {gam6 deng1} /punaise, petit clou à tête plat/
+撳錢 揿钱 [qin4 qian2] {gam6 cin2} /(fig.) retirer de l'argent d'un guichet automatique/(lit.) appuyer sur de l'argent/
+撳鐘 揿钟 [qin4 zhong1] {gam6 zung1} /sonner à la porte/
+撳鷓鴣 揿鹧鸪 [qin4 zhe4 gu1] {gam6 ze3 gu1} /(expr. idiom.) arnaquer, escroquer quelqu'un/(expr. idiom.) faire chanter quelqu'un, extorquer, faire du chantage à quelqu'un/(lit.) appuyer sur la perdrix/
+撶 撶 [hua2] {waa1} /ramer, propulser (un bateau, une chaloupe, etc.)/
+撻 挞 [ta4] {taat3} /tarte/tartelette/voler (de l'argent)/échouer, gâcher, foutre en l'air/porter (des sandales ou flip-flops)/démarrer (une véhicule)/
+撻Ｑ 挞Ｑ [ta4 Q] {taat3 kiu1} /(vocabulaire de football) louper la balle/(fig.) rater une occasion en or/(fig.) faire un erreure/
+撻伐 挞伐 [ta4 fa2] {taat3 fat6} /lancer une croisade contre/
+撻嘢 挞嘢 [ta4 ye3] {taat1 je5} /voler, cambrioler/
+撻定 挞定 [ta4 ding4] {taat3 ding6} /perdre l'acompte (après avoir décidé d'annuler quelque chose)/
+撻數 挞数 [ta4 shu4] {taat3 sou3} /reporter le rembousement d'une dette/ne pas payer une dette, ne pas rembourser une dette/(fig.) ne pas admettre que l'on ait dit quelque chose ou que l'on ait promis quelque chose parce que l'on ne veut pas faire face aux conséquences de cela/
+撻朵 挞朵 [ta4 duo3] {daat3 do2 / daat3 doi2 } /(expr. idiom.) se vanter de ses réussites, de ses qualifications, de son status social/
+ｓｈｏｗ　ｑｕａｌｉ ｓｈｏｗ　ｑｕａｌｉ [shou1 kuo1 li2] {sou1 ko1 li2, sou1 kwo1 li2} /(expr. idiom.) se vanter de ses réussites, de ses qualifications, de son status social/
+騷ｑｕａｌｉ 骚ｑｕａｌｉ [sao1 kuo1 li2] {sou1 ko1 li2, sou1 kwo1 li2} /(expr. idiom.) se vanter de ses réussites, de ses qualifications, de son status social/
+撻沙 挞沙 [ta4 sha1] {taat3 saa1} /poisson plat, flet/
+撻沙魚 挞沙鱼 [ta4 sha1 yu2] {taat3 saa1 jyu2} /poisson plat, flet/
+撻着 挞着 [ta4 zhe5] {taat1 zoek6} /démarrer un véhicule/bien s'entendre avec quelqu'un/provoquer, énerver quelqu'un/
+撻頭 挞头 [ta4 tou2] {taat3 tau4} /chauve, ne pas avoir de cheveux sur la tête/
+撼動 撼动 [han4 dong4] {ham6 dung6} /trembler, vibrer, osciller/
+撽 撽 [qiao4] {gik1} /frapper d'un côté/
+擁 拥 [yong1] {jung2} /repousser, écarter de soi/posséder/
+擁吻 拥吻 [yong1 wen3] {jung2 man5} /serrer dans ses bras et embrasser/
+擁墩 拥墩 [yong1 dun1] {jung2 dan2} /fan, admirateur, adhérent, partisan/
+擁躉 拥趸 [yong1 dun3] {jun2 dan2} /fan, admirateur, adhérent, partisan/
+擁抱 拥抱 [yong1 bao4] {jung2 pou5} /faire un câlin, serrer dans les bras/
+擁擠 拥挤 [yong1 ji3] {jung2 zai1} /bondé, plein à craquer, comble/
 擁有 拥有 [yong1 you3] {jung2 jau5} /to own/
 擁軍 拥军 [yong1 jun1] {jung2 gwan1} /to support troops/
 擂鼓 擂鼓 [lei2 gu3] {leoi4 gu2} /drum beating/
