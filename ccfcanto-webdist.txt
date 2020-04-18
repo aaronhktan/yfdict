@@ -9823,7 +9823,7 @@
 收信 收信 [shou1 xin4] {sau1 seon3} /recevoir une lettre/
 收信人 收信人 [shou1 xin4 ren2] {sau1 seon3 jan4} /destinataire (d'une lettre)/
 收到 收到 [shou1 dao4] {sau1 dou3} /reçu, avoir reçu quelque chose/
-收到風 收到风 [shou1 dao4 feng1] {sau1 dou3 fung1} /(expr. idiom.) apprendre, s'informer, avoir vent de/(lit.) recevoir du vent/
+收到風 收到风 [shou1 dao4 feng1] {sau1 dou3 fung1} /(expr. idiom.) apprendre, s'informer, avoir vent de/(expr. idiom.) découvrir quelque chose grâce à un informateur ou une informatrice/(lit.) recevoir du vent/
 收割機 收割机 [shou1 ge1 ji1] {sau1 got3 gei1} /moissonneuse, machine qui sert à récolter/
 收口 收口 [shou1 kou3] {sau1 hau2} /(fam.) se taire, fermer la gueule/
 收嗲 收嗲 [shou1 dia3] {sau1 de1} /(fam.) se taire, fermer la gueule/
@@ -9848,31 +9848,31 @@
 收片 收片 [shou1 pian4] {sau1 pin2} /paiement de pizzo, taxe de protection/
 收皮 收皮 [shou1 pi2] {sau1 pei4} /(fig.) foutez le camp! va te faire foutre!/(lit.) emballer sa peau/(orig.) du jeu d'argent fan-tan, qui se termine en enroulant une natte de bambou. les pauvres utilisaient cette natte pour recouvrir les cadavres, d'où le sens de «mourir comme une personne pauvre», et donc «va te faire foutre»/
 收益 收益 [shou1 yi4] {sau1 jik1} /revenu/
-收視 收视 [shou1 shi4] {sau1 si6} /the viewership ratings/
-收科 收科 [shou1 ke1] {sau1 fo1} /(verb) to finish off; to wrap up; to end; to call a halt/
-收租 收租 [shou1 zu1] {sau1 zou1} /verb; collect rents/
-收穫 收获 [shou1 huo4] {sau1 wok6} /reap/
-收線 收线 [shou1xian4] {sau1 sin3} /(verb) Stop a conversation/
-收聲 收声 [shou1 sheng1] {sau1 seng1} /(verb) to fall silent; to shut up/
-收藏 收藏 [shou1 cang2] {sau1 cong4} /(verb)  Hide /
-收行水 收行水 [shou1 xing2 shui3] {sau1 haang4 seoi2} /the collection of toll money at check points in river passageways/
-收話器 收话器 [shou1 hua4 qi4] {sau1 waa6 hei3} /a telephone receiver/
-收貨 收货 [shou1 huo4] {sau1 fo3} /noun; receiving, take delivery of goods; take over (goods); to accept quality of goods after quality control after checking/
-收買人命 收买人命 [shou1 mai3 ren2 ming4] {sau1 maai5 jan4 meng6} /an intentional act to cause death to others/
-收買人心 收买人心 [shou1 mai3 ren2 xin1] {sau1 maai5 jan4 sam1} /verb; buy popularity; try to win popular support/
-收買佬 收买佬 [shou1 mai3 lao3] {sau1 maai5 lou2} /(noun) a scrap buyer/
-收費 收费 [shou1 fei4] {sau1 fai3} /(noun)  Fee/
-收起 收起 [shou1 qi3] {sau1 hei2} /verb; pack up something; cut out; retracted/
-收銀員 收银员 [shou1 yin2 yuan2] {sau1 ngan2 jyun4} /the cashier/
-收銀處 收银处 [shou1 yin2 chu3] {sau1 ngan2 cyu5} /noun; cashier/
-收錢 收钱 [shou1 qian2] {sau1 cin4} /to receive money; to collect money/
-收陀地 收陀地 [shou1 tuo2 di4] {sau1 to4 dei2} /verb; Triad extorts money from someone/shop/event/
-收風 收风 [shou1 feng1] {sau1 fung1} /to receive secret information, often used when police receive some secret information from the informers/
-改天換地 改天换地 [gai3 tian1 huan4 di4] {goi2 tin1 wun6 dei6} /to transform heaven and earth; to change the world; to remake nature/
-改弦更張 改弦更张 [gai3 xian2 geng1 zhang1] {goi2 jin4 gang1 zoeng1} /to make a fresh start; to start a total reform; to change policy/
-改換 改换 [gai3 huan4] {goi2 wun6} /to change; to swap; to exchange/
-改簿 改簿 [gai3 bu4] {goi2 bou2} /to mark homework/
-改良品種 改良品种 [gai3 liang2 pin3 zhong3] {goi2 loeng4 ban2 zung2} /the improved variety; the improved cultivars/
+收視 收视 [shou1 shi4] {sau1 si6} /cotes d'écoute/
+收科 收科 [shou1 ke1] {sau1 fo1} /terminer, finir/résoudre, régler un problème/
+收租 收租 [shou1 zu1] {sau1 zou1} /percevoir le loyer/
+收穫 收获 [shou1 huo4] {sau1 wok6} /récolter, moissonner/(fig.) récompense, rix, compensation/
+收線 收线 [shou1 xian4] {sau1 sin3} /raccrocher (le téléphone)/terminer une conversation/
+收聲 收声 [shou1 sheng1] {sau1 seng1} /laissé sans voix, n'avoir rien à répondre/(fam.) se taire, fermer la gueule/rester silencieux/
+收藏 收藏 [shou1 cang2] {sau1 cong4} /cacher, dissimuler/entreposer/collectionner, faire la collection (passe-temps)/créer un marque-page/
+收行水 收行水 [shou1 xing2 shui3] {sau1 haang4 seoi2} /perception de péage d'un voie navigable/
+收話器 收话器 [shou1 hua4 qi4] {sau1 waa6 hei3} /récepteur téléphonique/
+收貨 收货 [shou1 huo4] {sau1 fo3} /réception de marchandise, réception des biens/se sentir heureux, content, satisfait/
+收買人命 收买人命 [shou1 mai3 ren2 ming4] {sau1 maai5 jan4 meng6} /(expr. idiom.) tuer quelqu'un, assassiner quelqu'un/(lit.) acheter la vie d'une personne/
+收買人心 收买人心 [shou1 mai3 ren2 xin1] {sau1 maai5 jan4 sam1} /(expr. idiom.) acheter l'appui populaire/(lit.) acheter les coeurs des gens/
+收買佬 收买佬 [shou1 mai3 lao3] {sau1 maai5 lou2} /personne qui gagne sa vie en achetant de vieux appareils électroniques, les réparant, et les revendant/acheteur de ferraille/
+收費 收费 [shou1 fei4] {sau1 fai3} /frais, prix/
+收起 收起 [shou1 qi3] {sau1 hei2} /ranger, emballer (mettre de côté quelque chose, l'entroposer)/arrêter (de faire quelque chose), ça suffit/retirer (quelque chose que l'on a dit)/
+收銀員 收银员 [shou1 yin2 yuan2] {sau1 ngan2 jyun4} /caissier, caissière/
+收銀處 收银处 [shou1 yin2 chu3] {sau1 ngan2 cyu5} /caissier, caissière/
+收錢 收钱 [shou1 qian2] {sau1 cin4} /recevoir un paiement/percevoir un paiement, encaisser un paiement/
+收陀地 收陀地 [shou1 tuo2 di4] {sau1 to4 dei2} /(fig.) extorquer une taxe de protection ou paiement de pizzo/
+收風 收风 [shou1 feng1] {sau1 fung1} /(expr. idiom.) apprendre, s'informer, avoir vent de/(expr. idiom.) découvrir quelque chose grâce à un informateur ou une informatrice/(lit.) recevoir du vent/
+改天換地 改天换地 [gai3 tian1 huan4 di4] {goi2 tin1 wun6 dei6} /(expr. idiom.) changer le monde/(fig.) révolution, rébellion/(fig.) grand changement, changement brusque/(fig.) refaire la nature/(lit.) réviser ciel et changer terre/
+改弦更張 改弦更张 [gai3 xian2 geng1 zhang1] {goi2 jin4 gang1 zoeng1} /(expr. idiom.) prendre un nouveau départ, recommencer/(expr. idiom.) réformer, changer de politique/
+改換 改换 [gai3 huan4] {goi2 wun6} /échanger, troquer, substituer/
+改簿 改簿 [gai3 bu4] {goi2 bou2} /noter les devoirs/
+改良品種 改良品种 [gai3 liang2 pin3 zhong3] {goi2 loeng4 ban2 zung2} /cultivar amélioré, cultivar plus performant/
 改變主意 改变主意 [gai3 bian4 zhu3 yi5] {goi2 bin3 zyu2 ji3} /to change one's mind/
 改轉 改转 [gai3 zhuan3] {goi2 zyun3} /to change into/
 改錯帶 改错带 [gai3 cuo4 dai4] {goi2 co3 daai2} /correction tape/
