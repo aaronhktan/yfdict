@@ -2303,7 +2303,7 @@
 六國大封相 六国大封相 [Liu4 guo2 da4 feng1 xiang1] {luk6 gwok3 daai6 fung1 soeng1} /dispute, querelle/
 六式碼 六式码 [liu4 shi4 ma3] {luk6 sik1 maa5} /Institut Six Sigma/
 六日 六日 [liu4 ri4] {luk6 jat6} /six jours/le sixième jour d'un mois/
-六環彩 六环彩 [liu4 huan2 cai3] {luk6 waan4 coi2} /(dans le lexique du sport hippique) Six-up, choisir un cheval qui finit premier ou deuxième en chacun de six courses/
+六環彩 六环彩 [liu4 huan2 cai3] {luk6 waan4 coi2} /(dans le lexique du sport hippique) Six-up, choisir un cheval qui finit en première ou deuxième place en chacun de six courses/
 六耳不同謀 六耳不同谋 [liu4 er3 bu4 tong2 mou2] {luk6 ji5 bat1 tung4 mau4} /(expr. idiom.) un secret ne restera plus secret pour longtemps si trois personnes sont au courant/(expr. idiom.) les rumeurs sont peu fiables/(lit.) six oreilles avec leurs propres opinions/
 六號 六号 [liu4 hao4] {luk6 hou6} /numéro six (d'une rue, d'un ligne de transport, etc.)/
 六部 六部 [Liu4 bu4] {luk6 bou6} /département d'administration central de la Chine antique/
@@ -7959,9 +7959,9 @@
 怪雞 怪鸡 [guai4 ji1] {gwaai3 gai1} /(fam.) bizarre, étrange, curieux/
 怯頭怯腦 怯头怯脑 [qie4 tou2 qie4 nao3] {hip3 tau4 hip3 nou5} /nerveux, anxieux, peureux, timide/lâche, qui manque de courage/
 恃 恃 [shi4] {ci5} /agir sur/
-恃勢欺人 恃势欺人 [shi4 shi4 qi1 ren2] {ci5 sai3 hei1 jan4} /profiter de la situation, tirer avantage de sa position pour tyrainniser les autres/
+恃勢欺人 恃势欺人 [shi4 shi4 qi1 ren2] {ci5 sai3 hei1 jan4} /profiter de la situation, abuser de sa position pour tyranniser les autres/
 恃強凌弱 恃强凌弱 [shi4 qiang2 ling2 ruo4] {ci5 koeng4 ling4 joek6} /les plus forts tyrannisent les plus faibles/
-恃熟賣熟 恃熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /profiter de ses amis, exploiter ses proches/
+恃熟賣熟 恃熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /profiter de ses amis, exploiter sa famille ou ses proches/
 恃老賣老 恃老卖老 [shi4 lao3 mai4 lao3] {ci5 lou5 maai6 lou5} /personnes âgées qui méprisent les autres/
 恆安 恒安 [Heng2 An1] {hang4 on1} /Heng On, endroit à Hong Kong/
 恆河沙 恒河沙 [heng2 he2 sha1] {hang4 ho4 saa1} /beaucoup, 10^52/
@@ -8541,7 +8541,7 @@
 打橫行 打横行 [da3 heng2 hang2] {daa2 waang4 hang4} /irraisonable, irrationel/(lit.) marcher horizontalement/
 打櫼 打櫼 [da3 jian1] {daa2 zim1} /couper la file, couper la queue/
 打死不離親兄弟 打死不离亲兄弟 [da3 si3 bu4 li2 qin1 xiong1 di4] {daa2 sei2 bat1 lei4 can1 hing1 dai6} /(expr. idiom.) bon sang ne peut mentir, la voix du sang est plus forte/(lit.) ne pas abandonner ses frères même en mourant/
-打死狗講價 打死狗讲价 [da3 si3 gou3 jiang3 jia4] {daa2 sei2 gau2 gong2 gaa3} /(expr. idiom.) exploiter une erreur commise par autrui/(expr. idiom.) tactique commercial où un vendeur force un client à payer un prix plus haut quand il ne peut plus annuler le contrat/(lit.) discuter du prix après avoir tué le chien/
+打死狗講價 打死狗讲价 [da3 si3 gou3 jiang3 jia4] {daa2 sei2 gau2 gong2 gaa3} /(expr. idiom.) exploiter une erreur commise par quelqu'un d'autre/(expr. idiom.) tactique commercial où un vendeur force un client à payer un prix plus haut quand il ne peut plus annuler le contrat/(lit.) discuter du prix après avoir tué le chien/
 打死纈 打死缬 [da3 si3 xie2] {daa2 sei2 lit3} /nouer un noeud mort/
 打比 打比 [da3 bi3] {daa2 bei2} /derby/Hong Kong Derby/
 打比郡 打比郡 [da3 bi3 jun4] {daa2 bei2 gwan6} /Derbyshire, comté en Angleterre/
@@ -8585,7 +8585,7 @@
 打茅波 打茅波 [da3 mao2 bo1] {daa2 maau4 bo1} /acte suspect/
 打荷 打荷 [da3 he2] {daa2 ho4} /sous-chef, second de cuisine/
 打荷包 打荷包 [da3 he2 bao1] {daa2 ho4 baau1} /faire les poches de quelqu'un/voler le portefeuille de quelqu'un/
-打蛇隨棍上 打蛇随棍上 [da3 she2 sui2 gun4 shang4] {daa2 se4 ceoi4 gwan3 soeng5} /(expr. idiom.) exploiter son avantage dans une situation/(expr. idiom.) saisir l'occasion, profiter de l'occasion/(lit.) frapper un serpent qui grimpe ensuite sur une branche/
+打蛇隨棍 上打蛇随棍上 [da3 she2 sui2 gun4 shang4] {daa2 se4 ceoi4 gwan3 soeng5} /(expr. idiom.) abuser de son avantage/(expr. idiom.) saisir l'occasion, profiter de l'occasion/(lit.) frapper un serpent qui grimpe ensuite sur une branche/
 打蛇餅 打蛇饼 [da3 she2 bing3] {daa2 se4 beng2} /(fam.) longue file d'attente/
 打褶 打褶 [da3 zhe3] {daa2 zaap3} /plissé/plissage/
 打賞 打赏 [da3 shang3] {daa2 soeng2} /pourboire, service/
@@ -9729,8 +9729,8 @@
 卜卜齋 卜卜斋 [bo2 bo2 zhai1] {bok1 bok1 zaai1} /(fam.) école privée/
 㩧濕 㩧濕 [bo2 chi4] {pok3 sap1} /(fig.) frapper à la tête (jusqu'au sang)/(fig.) avoir des relations sexuelles, faire l'amour/
 攋低 攋低 [la4 di1] {laai6 dai1} /oublier, laisser (par accident)/
-攋尿蝦 攋尿虾 [la4 niao4 xia1] {niu6 haa1} /squille, crevette-mante/
-攎 攎 [lu2] {lo4} /choix, sélection, acte de choisir/
+攋尿蝦 攋尿虾 [la4 niao4 xia1] {laa2 niu6 haa1} /squille, crevette-mante/
+攎 攎 [lu2] {lo4} /choix, sélection, tir, acte de choisir/
 攎 攎 [lu2] {lou4} /to take hold; to curb; to exercise restraint/
 攔河 拦河 [lan2 he2] {laan4 ho4} /construire un barrage sur une rivière/
 攝 摄 [she4] {sip3} /fasciner/attirer/enfoncer, caler, coincer/glisser (quelque chose) dans une espace étroite/magnétique/
@@ -9748,31 +9748,31 @@
 攞命 攞命 [luo1 ming4] {lo2 meng6} /épouvantable, affreux, terrible/tuer quelqu'un, assassiner/pousser quelqu'un au suicide/affreusement, terriblement, épouvantablement/
 攞嚟搞 攞嚟搞 [luo1 li2 gao3] {lo2 lei4 gaau2} /(fig.) chercher des ennuis/(fig.) rendre quelque chose plus difficile que nécessaire/(lit.) apporter pour s'en mêler/
 攞嚟衰 攞嚟衰 [luo1 li2 shuai1] {lo2 lei4 seoi1} /(fig.) chercher des ennuis/(fig.) rendre quelque chose plus difficile que nécessaire/(lit.) apporter pour se faire du mal/
-攞嚟講 攞嚟讲 [luo1 li2 jiang3] {lo2 lei4 gong2} /to bring up unnecessary or trivial topics/
-攞嚟賤 攞嚟贱 [luo1 li2 jian4] {lo2 lei4 zin6} /describes a person who willingly causes a problem / issue to himself/herself; deserved./
-攞嚟辛苦 攞嚟辛苦 [luo1 li2 xin1 ku3] {lo2 lei4 san1 fu2} /asking for trouble; creating unnecessary work for oneself/
-攞彩 攞彩 [luo1 cai3] {lo2 coi2} /to describe the act of showing off despite it being unwelcomed/
-攞意頭 攞意头 [luo1 yi4 tou2] {lo1 ji3 tau4} /to get a symbolic and lucky meaning/
-攞景 攞景 [luo1 jing3] {lo2 ging2} /to speak sarcastically; to take advantage of; to mock somebody when they're having a tough time; literal meaning: to set up a photographic scene/
-攞獎 攞奖 [luo1 jiang3] {lo2 zoeng2} /to be awarded a prize/
-攞着數 攞着数 [luo1 zhao1 shu4] {lo2 zoek6 sou3} /to take advantage of someone; to gain benefits from a situation/
-攞籌 攞筹 [luo1 chou2] {lo2 cau4} /to get a queue ticket/
-攞膽 攞胆 [luo1 dan3] {lo1 daam2} /scary/
-攞苦嚟辛 攞苦嚟辛 [luo1 ku3 li2 xin1] {lo2 fu2 lei4 san1} /asking for trouble, get some unnecessary work for themselves/
-攞走 攞走 [luo1 zou3] {lo2 zau2} /to seize something; to take something away/
-攞錢 攞钱 [luo1 qian2] {lo2 cin2} /verb; take / get the money; ask for money/
-攣 挛 [luan2] {lyun4} /homosexual/
-攣弓 挛弓 [luan2 gong1] {lyun1 gung1} /adj; crooked;curving;curly;tortuous/
-攣弓蝦米 挛弓虾米 [luan2 gong1 xia1 mi5] {lyun1 gung1 haa1 mai5} /describes the curved shape of something (like a prawn)/
-攣捐 挛捐 [luan2 juan1] {lyun1 gyun1} /adj; bend/
-攣毛 挛毛 [luan2 mao2] {lyun1 mou1} /(noun) curly hair/
-攤 摊 [tan1] {taan1} /(verb) 1. lay back; 2. take (a break); 3. lie on (bed); 2. share (with cost); (noun) unit of puddle/
-攤凍 摊冻 [tan1 dong4] {taan1 dung3} /let something hot cool down (spoken)/
-攤屍 摊尸 [tan1 shi1] {taan1 si1} /noun; corpse pose, flat on the back, Savasana(yoga)/
-攤攤腰 摊摊腰 [tan1 tan1 yao1] {taan1 taan1 jiu1} /falling flat to the floor; painful/
-攤牌 摊牌 [tan1pai2] {taan1 paai2} /(verb) To show; (of mahjong game) to reveal tiles (of a winning hand); (noun) 1. Showdown/
-攤直 摊直 [tan1 zhi2] {taan1 zik6} /dead (literally 'to lie down flat')/
-攪 搅 [jiao3] {gaau2} /stir up unnecessary issues (Cantonese)/
+攞嚟講 攞嚟讲 [luo1 li2 jiang3] {lo2 lei4 gong2} /entamer une discussion inutile, parler de choses inutiles/
+攞嚟賤 攞嚟贱 [luo1 li2 jian4] {lo2 lei4 zin6} /qui se crée des ennuis, qui se crée des problèmes/
+攞嚟辛苦 攞嚟辛苦 [luo1 li2 xin1 ku3] {lo2 lei4 san1 fu2} /chercher des ennuis, se créer des problèmes/
+攞彩 攞彩 [luo1 cai3] {lo2 coi2} /exhiber, crâner, frimer/
+攞意頭 攞意头 [luo1 yi4 tou2] {lo1 ji3 tau4} /obtenir un résultat propice, favorable, qui apporte de la chance/
+攞景 攞景 [luo1 jing3] {lo2 ging2} /(fig.) sarcasme/(fig.) parler avec sarcasme/(fig.) exploiter, profiter de quelque chose/(fig.) frapper un ennemi à terre/(lit.) composer une photo/
+攞獎 攞奖 [luo1 jiang3] {lo2 zoeng2} /recevoir un prix, être accordé un prix/
+攞着數 攞着数 [luo1 zhao1 shu4] {lo2 zoek6 sou3} /profiter de quelqu'un/profiter d'une situation/
+攞籌 攞筹 [luo1 chou2] {lo2 cau4} /prendre un ticket ou numéro pour faire la queue/
+攞膽 攞胆 [luo1 dan3] {lo1 daam2} /effrayant, qui fait peur/
+攞苦嚟辛 攞苦嚟辛 [luo1 ku3 li2 xin1] {lo2 fu2 lei4 san1} /chercher des ennuis, se créer des problèmes/
+攞走 攞走 [luo1 zou3] {lo2 zau2} /saisir, s'emparer de, empoigner/emporter, porter hors d'un lieu/à emporter (nourriture, boisson, etc.)/
+攞錢 攞钱 [luo1 qian2] {lo2 cin2} /retirer de l'argent d'un guichet automatique/demander de l'argent/
+攣 挛 [luan2] {lyun4} /courbé, tortueux/(péj.) homosexuel/
+攣弓 挛弓 [luan2 gong1] {lyun1 gung1} /courbé, tortueux/difforme/crochu/
+攣弓蝦米 挛弓虾米 [luan2 gong1 xia1 mi5] {lyun1 gung1 haa1 mai5} /(expr. idiom.) courbé, tortueux/(lit.) courbé comme une crevette/
+攣捐 挛捐 [luan2 juan1] {lyun1 gyun1} /courbé, tortueux/
+攣毛 挛毛 [luan2 mao2] {lyun1 mou1} /cheveux bouclés/
+攤 摊 [tan1] {taan1} /s'allonger/faire une pause/s'allonger sur le lit/partager (le coût de quelque chose)/laisser refroidir/(classificateur pour les flaques d'eau)/
+攤凍 摊冻 [tan1 dong4] {taan1 dung3} /laisser refroidir quelque chose de chaud (comme un bol de soupe)/
+攤屍 摊尸 [tan1 shi1] {taan1 si1} /s'allonger sur le dos/savasana, posture du cadavre, posture de relaxation dans le yoga/
+攤攤腰 摊摊腰 [tan1 tan1 yao1] {taan1 taan1 jiu1} /tomber à plat sur terre, tomber de tout son long/douloureux/épuisé, fatigué/s'allonger, se reposer, faire une pause/
+攤牌 摊牌 [tan1 pai2] {taan1 paai2} /montrer, démontrer/révéler les tuiles d'une main gagnante (mah-jong)/confrontation, épreuve de force/
+攤直 摊直 [tan1 zhi2] {taan1 zik6} /(fig.) mort/(lit.) s'allonger à plat/
+攪 搅 [jiao3] {gaau2} /attiser, susciter une dispute inutile/
 攪三攪四 搅三搅四 [gao3 san1 gao3 si4] {gaau2 saam1 gaau2 sei3} /describes a person's act of intentionally stirring up trouble between people by doing things such as spreading rumors; meddling around; fooling around/
 攪事 搅事 [jiao3 shi4] {gaau2 si6} /noun; seditious language or behavior, which is generally not accepted by others; stir up or create trouble/
 攪到咁大鑊 搅到咁大镬 [jiao3 dao4 gan1 da4 huo4] {gaau2 dou3 gam2 daai6 wok6} /to describe a situation which has gone out of hand/
