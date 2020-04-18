@@ -1647,7 +1647,7 @@
 保衞 保卫 [bao3 wei4] {bou2 wai6} /défendre/
 保證書 保证书 [bao3 zheng4 shu1] {bou2 zing3 syu1} /lettre de garantie/
 保護裝置 保护装置 [bao3 hu4 zhuang1 zhi4] {bou2 wu6 zong1 zi3} /équipement de protection/
-保護費 保护费 [bao3 hu4 fei4] {bou2 wu6 fai3} /paiement de protection/
+保護費 保护费 [bao3 hu4 fei4] {bou2 wu6 fai3} /taxe de protection, pizzo, racket de protection/
 保障 保障 [bao3 zhang4] {bou2 zoeng3} /protéction/protéger/
 保險公司 保险公司 [bao3 xian3 gong1 si1] {bou2 him2 gung1 si1} /compagnie d'assurance/
 保險業 保险业 [bao3 xian3 ye4] {bou2 him2 jip6} /secteur des assurances/
@@ -9798,31 +9798,31 @@
 攬 揽 [lan3] {laam5} /embrasser, faire un câlin/
 攬上身 揽上身 [lan3 shang4 shen1] {laam2 soeng5 san1} /(fig.) se charger de/(lit.) se coller à son corps/
 攬住 揽住 [lan3 zhu4] {laam2 zyu6} /prendre dans ses bras, s'étreindre/mouler/s'agripper/
-攬住一齊死 揽住一齐死 [lan3 zhu4 yi1 ji4 si3] {laam5 zyu6 jat1 cai4 sei2} /to get killed together; to be doomed to the same fate together/
-攬實 揽实 [lan3 shi2] {laam5 sat6} /to hug, to cuddle; to hold onto/
-攬枕 揽枕 [lan3 zhen3] {laam2 zam2} /a bolster pillow/
-攬身攬勢 揽身揽势 [lan3 shen1 lan3 shi4] {laam2 san1 laam2 sai3} /embracing and cuddling intimately /
-攬頭 揽头 [lan3 tou2] {laam5 tau2} /a contractor (shipping company terminology)/
-攬頸巾 揽颈巾 [lan3 jing3 jin1] {laam6 geng2 gan1} /to wear a scarf/
-𢺳唔番 𪮳唔番 [man2 wu2 fan1] {maan1 m4 faan1} /cannot be fixed; irremediable; beyond repair/
-𢺳𢺳緊 𢺳𢺳紧 [] {maan1 maan1 gan2} /barely enough; marginally making it; just about getting by/
-𢺳車邊 𢺳车边 [] {maan1 ce1 bin1} /to benefit from being associated with someone/
-支 支 [zhi1] {zi1} /(noun)  bottle; (verb) to pay/
-支使 支使 [zhi1 shi3] {zi1 sai2} /order someone to do something/
-支援 支援 [zhi1 yuan2] {zi1 wun4} /to assist/
-支支整整 支支整整 [zhi1 zhi1 zheng3 zheng3] {zi1 zi1 zing2 zing2} /describe dilatory behavior in doing things, spend too much time for preparation, i.e pay too much attention to dress; pretentiousness./
-支整 支整 [zhi1 zheng3] {zi1 zing2} /to spend a lot of time in preparation, especially in dressing-up or making one look good /
-支氣管 支气管 [zhi1 qi4 guan3] {zi1 hei3 gun2} /bronchus/
-支派 支派 [zhi1 pai5] {zi1 paai3} /to send; to order; to dispatch; group; tribe/
-支脈 支脉 [zhi1 mai4] {zi1 mak6} /a branch; a spur; an offshoot/
-支質 支质 [zhi1 zhi4] {zi1 zat1} /miscellany/
-支路 支路 [zhi1 lu4] {zi1 lou6} /a by-pass; a minor road; a turn-off/
-支離破碎 支离破碎 [zhi1li2po4sui4] {zi1 lei4 po3 seoi3} /(adjective phrase) 1. Tear apart; 2. Fragmented/
-收 收 [shou1] {sau1} /(verb) 1. to store; 2. to keep/
-收保護費 收保护费 [shou1 bao3 hu4 fei4] {sau1 bou2 wu6 fai3} /to take protection fees/
-收信 收信 [shou1 xin4] {sau1 seon3} /to receive a letter/
-收信人 收信人 [shou1 xin4 ren2] {sau1 seon3 jan4} /the recipient / addressee/
-收到 收到 [shou1 dao4] {sau1 dou3} /received/
+攬住一齊死 揽住一齐死 [lan3 zhu4 yi1 ji4 si3] {laam5 zyu6 jat1 cai4 sei2} /(expr. idiom.) condamnés à connaître le même triste sort, condamnés à mourir ensemble/(fig.) mourir en s'étreignant/
+攬實 揽实 [lan3 shi2] {laam5 sat6} /s'étreindre, prendre dans ses bras/tenir fermement/
+攬枕 揽枕 [lan3 zhen3] {laam2 zam2} /traversin, polochon/
+攬身攬勢 揽身揽势 [lan3 shen1 lan3 shi4] {laam2 san1 laam2 sai3} /s'étreindre et faire des câlins/
+攬頭 揽头 [lan3 tou2] {laam5 tau2} /agence maritime/contractuel, contractuelle/
+攬頸巾 揽颈巾 [lan3 jing3 jin1] {laam6 geng2 gan1} /porter une écharpe/
+𢺳唔番 𪮳唔番 [man2 wu2 fan1] {maan1 m4 faan1} /irréparable, qui ne peut pas être réparé/
+𢺳𢺳緊 𢺳𢺳紧 [man2 man2 jin3] {maan1 maan1 gan2} /juste assez, tout juste/arriver tout juste à joindre les deux bouts/
+𢺳車邊 𢺳车边 [man2 che1 bian1] {maan1 ce1 bin1} /(expr. idiom.) suivre, coller aux basques de quelqu'un et en tirer profit, bénéficier d'une autre personne/(expr. idiom.) réussir à peine/(lit.) obtenir un voyage gratuit en s'accrochant au bord de l'autobus/ 
+支 支 [zhi1] {zi1} /(classificateur pour les bouteilles)/bouteille/payer/
+支使 支使 [zhi1 shi3] {zi1 sai2} /ordonner quelqu'un à faire quelque chose/
+支援 支援 [zhi1 yuan2] {zi1 wun4} /aider, assister/
+支支整整 支支整整 [zhi1 zhi1 zheng3 zheng3] {zi1 zi1 zing2 zing2} /prendre trop de temps pour se maquiller, s'habiller, etc., qui se soucie trop de son apparence/
+支整 支整 [zhi1 zheng3] {zi1 zing2} /prendre trop de temps pour se maquiller, s'habiller, etc., qui se soucie trop de son apparence/
+支氣管 支气管 [zhi1 qi4 guan3] {zi1 hei3 gun2} /bronche, conduits cartilagineux qui mènent aux poumons/
+支派 支派 [zhi1 pai5] {zi1 paai3} /envoyer/groupe, tribu, secte/
+支脈 支脉 [zhi1 mai4] {zi1 mak6} /succursale, filiale/contreforts (d'une chaîne de montagnes)/
+???? 支質 支质 [zhi1 zhi4] {zi1 zat1} /miscellany/
+支路 支路 [zhi1 lu4] {zi1 lou6} /route secondaire/rocade, embranchement (chemin ou rue)/
+支離破碎 支离破碎 [zhi1li2po4sui4] {zi1 lei4 po3 seoi3} /fragmenté/déchiqueté/désagrégé/
+收 收 [shou1] {sau1} /entreposer/garder/
+收保護費 收保护费 [shou1 bao3 hu4 fei4] {sau1 bou2 wu6 fai3} /demander un paiement de pizzo, demander la taxe de protection, extorquer de l'argent aux commerçants ou entreprises/ 
+收信 收信 [shou1 xin4] {sau1 seon3} /recevoir une lettre/
+收信人 收信人 [shou1 xin4 ren2] {sau1 seon3 jan4} /destinataire (d'une lettre)/
+收到 收到 [shou1 dao4] {sau1 dou3} /reçu, avoir reçu quelque chose/
 收到風 收到风 [shou1 dao4 feng1] {sau1 dou3 fung1} /to get wind of something; to hear some secret information/
 收割機 收割机 [shou1 ge1 ji1] {sau1 got3 gei1} /a harvester/
 收口 收口 [shou1 kou3] {sau1 hau2} /to shut up (Cantonese)/
