@@ -4092,11 +4092,11 @@
 唔使客氣 唔使客气 [m2 shi3 ke4 qi5] {m4 sai2 haak3 hei3} /pas besoin de dire merci/pas besoin d'être courtois/servez-vous!/
 唔使審 唔使审 [m2 shi3 shen3] {m4 si2 sam2} /certainement, évidemment/
 ???? 唔使恨 唔使恨 [m2 shi3 hen4] {m4 sai2 han6} /(slang) don't wish for; no need to be jealous of; don't count on; don't even think about/
-唔使慌 唔使慌 [m2 shi3 huang1] {m4 sai2 fong1} /n'y compte pas/
+唔使慌 唔使慌 [m2 shi3 huang1] {m4 sai2 fong1} /ne comptez pas sur..., n'y compte pas/
 唔使拘 唔使拘 [m2 shi3 ju1] {m4 sai2 keoi1} /faites comme chez vous/
 唔使指擬 唔使指拟 [m2 shi3 zhi3 ni3] {m4 sai2 zi2 ji2} /ne vous attendez pas à des grandes choses/
 ???? 唔使擇日 唔使择日 [m2 shi3 ze2 ri4] {m4 sai2 zaak6 jat6} /don't have to pick a good date /
-唔使旨意 唔使旨意 [m2 shi3 zhi3 yi4] {m4 sai2 zi2 ji3} /ne vous avisez pas de.../n'y pensez même pas!/
+唔使旨意 唔使旨意 [m2 shi3 zhi3 yi4] {m4 sai2 zi2 ji3} /ne vous avisez pas de..., je t'inderdis de.../n'y pensez même pas!/
 唔使計 唔使计 [m2 shi3 ji4] {m4 si2 gai3} /pas besoin de prendre en compte/
 唔使驚 唔使惊 [m2 shi3 jing1] {m4 sai2 geng1} /n'ayez pas peur/
 唔係 唔系 [wu2 xi4] {m4 hai6} /non/pas/ne pas être/
@@ -6140,7 +6140,7 @@
 好鍾意 好钟意 [hao3 zhong1 yi4] {hou2 zung1 ji3} /aimer beaucoup/
 好閑 好闲 [hao4 xian2] {hou2 haan4} /banal, trivial/trop facile, qui ne vaut pas la peine de s'en soucier/
 好頭好尾 好头好尾 [hao3 tou2 hao3 wei3] {hou2 tau4 hou2 mei5} /bon début et bonne fin/
-好頸 好颈 [hao3 jing3] {hou2 geng2} /avoir bon caractère/
+好頸 好颈 [hao3 jing3] {hou2 geng2} /avoir bon caractère, être d'humeur égale, affable, akmable/
 好食 好食 [hao3 shi2] {hou2 sik6} /goûteux, délicieux/
 好食好住 好食好住 [hao3 shi2 hao3 zhu4] {hou2 sik6 hou2 zyu6} /(expr. idiom.) vie confortable/(lit.) goûteux et vivre confortablement/
 好食懶飛 好食懒飞 [hao3 shi2 lan3 fei1] {hou3 sik6 laan5 fei1} /qui veut récolter les avantages sans travailler/(lit.) qui mange bien mais ne veut pas voler/
@@ -6743,7 +6743,7 @@
 專用 专用 [zhuan1yong4] {zyun1 jung6} /privé/réservé à l'usage de/
 專登 专登 [zhuan1 deng1] {zyun1 dang1} /par exprès/
 專科醫生 专科医生 [zhuan1 ke1 yi1 sheng1] {zyun1 fo1 ji1 sang1} /spécialiste (médecin)/
-專線 专线 [zhuan1 xian4] {zyun1 sin3} /route spécial/
+專線 专线 [zhuan1 xian4] {zyun1 sin3} /route spéciale/
 專線小巴 专线小巴 [zhuan1 xian4 xiao3 ba1] {zyun1 sin3 siu2 baa1} /minibus avec itinéraire prédéterminé/
 專訊 专讯 [zhuan1 xun4] {zyun1 seon3} /bulletin d'information, lettre d'information, newsletter/
 專長 专长 [zhuan1 chang2] {zyun1 coeng4} /compétence, expertise, savoir-faire/
@@ -6934,7 +6934,7 @@
 屈臣氏 屈臣氏 [Qu1 chen2 Shi4] {wat1 san4 si2} /Watsons, magasin de produits de santé beauté en Asie/
 屈蛇 屈蛇 [qu1 she2] {wat1 se4} /immigrants illégaux clandestins/
 屈親 屈亲 [qu1 qin1] {wat1 can1} /se fouler, se faire une entorse à/se tordre/
-屈質 屈质 [qu1 zhi4] {wat1 zat1} /petite pièce étouffante/
+屈質 屈质 [qu1 zhi4] {wat1 zat1} /petite pièce étouffante, mal aérée/
 屈頭雞 屈头鸡 [qu1 tou2 ji1] {wat1 tau4 gai1} /Capparis versicolor, plante chinoise/
 屈餐懵 屈餐懵 [qu1 can1 meng3] {wat1 caan1 mung2} /être piégé/
 ???? 屈駕 屈驾 [qu1 jia4] {wat1 gaa3} /condescend/
@@ -9669,9 +9669,9 @@
 擠擁 挤拥 [ji3 yong3] {zai1 jung2} /bondé, plein à craquer, comble/
 擠迫 挤迫 [ji3 po4] {zai1 bik1} /bondé, plein à craquer, comble/
 擠逼 挤逼 [ji3 bi1] {zai1 bik1} /bondé, plein à craquer, comble/
-擢樣 擢样 [zhuo2 yang4] {cok3 joeng2} /poser pour paraître plus beau ou belle, poser de manière photogénique/
-剒樣 剒样 [zhuo2 yang4] {cok3 joeng2} /poser pour paraître plus beau ou belle, poser de manière photogénique/
-戳樣 戳样 [zhuo2 yang4] {cok3 joeng2} /poser pour paraître plus beau ou belle, poser de manière photogénique/
+擢樣 擢样 [zhuo2 yang4] {cok3 joeng2} /poser pour être plus beau ou belle en photo, poser de manière photogénique/
+剒樣 剒样 [zhuo2 yang4] {cok3 joeng2} /poser pour être plus beau ou belle en photo, poser de manière photogénique/
+戳樣 戳样 [zhuo2 yang4] {cok3 joeng2} /poser pour être plus beau ou belle en photo, poser de manière photogénique/
 擦字膠 擦字胶 [ca1 zi4 jiao1] {caat3 zi6 gaau1} /gomme à effacer, gomme/
 擦牙 擦牙 [ca1 ya2] {caat3 ngaa4} /brosser les dents/
 擦紙膠 擦纸膠 [ca1 zhi3 hao2] {caat3 zi2 gaau1} /gomme à effacer, gomme/
@@ -9812,7 +9812,7 @@
 支援 支援 [zhi1 yuan2] {zi1 wun4} /aider, assister/
 支支整整 支支整整 [zhi1 zhi1 zheng3 zheng3] {zi1 zi1 zing2 zing2} /prendre trop de temps pour se maquiller, s'habiller, etc., qui se soucie trop de son apparence/
 支整 支整 [zhi1 zheng3] {zi1 zing2} /prendre trop de temps pour se maquiller, s'habiller, etc., qui se soucie trop de son apparence/
-支氣管 支气管 [zhi1 qi4 guan3] {zi1 hei3 gun2} /bronche, conduits cartilagineux qui mènent aux poumons/
+支氣管 支气管 [zhi1 qi4 guan3] {zi1 hei3 gun2} /bronches, conduits cartilagineux qui mènent aux poumons/
 支派 支派 [zhi1 pai5] {zi1 paai3} /envoyer/groupe, tribu, secte/
 支脈 支脉 [zhi1 mai4] {zi1 mak6} /succursale, filiale/contreforts (d'une chaîne de montagnes)/
 ???? 支質 支质 [zhi1 zhi4] {zi1 zat1} /miscellany/
@@ -9987,7 +9987,7 @@
 教育局 教育局 [jiao4 yu4 ju2] {gaau3 juk6 guk6} /Bureau de l'éducation/
 教育改革 教育改革 [jiao4 yu4 gai3 ge2] {gaau3 juk6 goi2 gaak3} /réforme de l'éducation/
 教育方針 教育方针 [jiao4 yu4 fang1 zhen1] {gaau3 juk6 fong1 zam1} /principe directeur de l'enseignement/
-教育統籌委員會 教育统筹委员会 [jiao4 yu4 tong3 chou2 wei3 yuan2 hui4] {gaau3 juk6 tung2 cau4 wai2 jyun4 wui2} /Education Commission of Hong Kong, commission établie pour consiller le gouvernement sur les questions d'enseignement/
+教育統籌委員會 教育统筹委员会 [jiao4 yu4 tong3 chou2 wei3 yuan2 hui4] {gaau3 juk6 tung2 cau4 wai2 jyun4 wui2} /Education Commission of Hong Kong, commission établie pour conseiller le gouvernement sur les questions d'enseignement/
 教育質量 教育质量 [jiao4 yu4 zhi4 liang4] {gaau3 juk6 zat1 loeng6} /qualité de l'enseignement, qualité de l'éducation/
 教育體制 教育体制 [jiao4 yu4 ti3 zhi4] {gaau3 juk6 tai2 zai3} /système scolaire/
 教誨 教诲 [jiao4 hui4] {gaau3 fui3} /doctrine/édifier, enseigner/
@@ -10012,7 +10012,7 @@
 散銀 散银 [san4 yin2] {saan2 ngan2} /petite coupure, billets de banque et monnaie de faible valeur nominale/
 敦款 敦款 [dun1 kuan3] {deon1 fun2} /se donner des airs, prendre des airs/être arrogant, prétentieux/ 
 敨 敨 [tou3] {tau2} /déplier, ouvrir quelque chose/faire une pause, se response, s'arrêter pour un moment/
-敬酒 敬酒 [jing4jiu3] {ging3 zau2} /porter un toast, porter une santé, lever son verre à/
+敬酒 敬酒 [jing4 jiu3] {ging3 zau2} /porter un toast, porter une santé, lever son verre à/
 敲擊樂器 敲击乐器 [qiao1 ji1 yue4 qi4] {haau1 gik1 ngok6 hei3} /instruments de percussion/
 敲骨吸髓 敲骨吸髓 [qiao1 gu3 xi1 sui3] {haau1 gwat1 kap1 seoi5} /(expr. idiom.) saigner quelqu'un à blanc, épuiser les ressources de quelqu'un/(lit.) casser les os et aspirer la moelle/
 ???? 敲鼓邊 敲鼓边 [qiao1 gu3 bian1] {haau1 gu2 bin1} /noun; side stick/
@@ -10165,11 +10165,11 @@
 新紮 新紮 [xin1 za1] {san1 zaat3} /nouvelle recrue, blanc-bec, débutant, néophyte, novice/récemment promu/ 
 新絲蘿蔔皮 新丝萝卜皮 [xin1 si1 luo2 bo5 pi2] {san1 si1 lo4 baak6 pei4} /(expr. idiom.) prétentieux, moralisateur, pour qui tu te prends?/(lit.) pelure de navet récemment épluché/
 新編 新编 [xin1 bian1] {san1 pin1} /nouvelle édition, édition révisée, nouvelle version/
-新義安 新义安 [xin1 yi4 an1] {san1 ji6 on1} /Sun Yee On, la plus importante des triades/
+新義安 新义安 [xin1 yi4 an1] {san1 ji6 on1} /Sun Yee On, la plus importante des triades chinoises/
 新老爺 新老爷 [xin1 lao3 ye5] {san1 lou5 je4} /père du nouveau-marié/
 新聞人物 新闻人物 [xin1 wen2 ren2 wu4] {san1 man4 jan4 mat6} /personne qui apparaît dans les nouvelles, personnage de l'actualité/
 新聞報告 新闻报告 [xin1 wen2 bao4 gao4] {san1 man4 bou3 gou3} /reportage/
-新聞多多 新闻多多 [xin1 wen2 duo1 duo1] {san1 man4 do1 do1} /toujours être dans les nouvelles, être toujours covert par les médias/(fig.) avoir des choses qui se passent dans sa vie (trouver une nouvelle copine ou nouveau copain, se marier, terminer ses études, trouver un emploi, etc.)/
+新聞多多 新闻多多 [xin1 wen2 duo1 duo1] {san1 man4 do1 do1} /toujours être dans les nouvelles, être toujours couvert par les médias/(fig.) vivre quelque chose d'unique ou importante (trouver une nouvelle copine ou nouveau copain, se marier, terminer ses études, trouver un emploi, etc.)/
 新聞簡報 新闻简报 [xin1 wen2 jian3 bao4] {san1 man4 gaan2 bou3} /actualités en bref, résumé des nouvelles, synthèse de presse/
 新聞紙 新闻纸 [xin1 wen2 zhi3] {san1 man4 zi2} /journal (actualité)/
 新股 新股 [xin1 gu3] {san1 gu2} /(finances) nouvelles actions/
