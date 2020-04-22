@@ -1508,7 +1508,7 @@
 你好嘢 你好嘢 [ni3 hao3 ye3] {nei5 hou2 je5} /bravo! félicitations! bien joué!/tu as du courage!/
 你就想 你就想 [ni3 jiu4 xiang3] {nei5 zau6 soeng2} /dans tes rêves!/
 你有張良計，我有過牆梯 你有张良计，我有过墙梯 [ni3 you3 zhang1 liang2 ji4 , wo3 you3 guo5 qiang2 ti1] {nei5 jau5 zoeng1 loeng4 gai3 ，ngo5 jau5 gwo3 coeng4 tai1} /(expr. idiom.) il existe toujours une stratégie pour battre une autre/(lit.) vous avez une bonne stratégie, j'ai une échelle qui franchit le mur/
-你東我西 你东我西 [ni3 dong1 wo3 xi1] {nei5 dung1 ngo5 sai1} /nous nous séparons/(lit.) tu vas à l'est, je vais à l'ouest/
+你東我西 你东我西 [ni3 dong1 wo3 xi1] {nei5 dung1 ngo5 sai1} /(fig.) nous nous séparons/(lit.) tu vas à l'est, je vais à l'ouest/
 你的 你的 [ni3 de5] {nei5 dik1} /ton/le tien, la tienne/
 你自己 你自己 [ni3 zi4 ji3] {nei5 zi6 gei2} /toi/toi-même/
 你諗你 你谂你 [ni3 shen3 ni3] {nei5 nam2 nei5} /résous-le toi même/
@@ -1525,28 +1525,28 @@
 佳音 佳音 [jia1 yin1] {gaai1 jam1} /bonne nouvelle/
 併存 并存 [bing4 cun2] {bing3 cyun4} /coexistence/
 佼佼 佼佼 [jiao3 jiao3] {gaau2 gaau2} /exceptionnel, extraordinaire/
-使 使 [shi3] {sai2} /(arch.) particule finale pour des émissaires/
-使乜 使乜 [shi3 mie1] {sai2 mat1} /expression pour exprimer l'inutilité de quelque chose, semblable à «à quoi sert...» ou «pourquoi»/
+使 使 [shi3] {sai2} /(arch.) (particule finale pour des émissaires)/
+使乜 使乜 [shi3 mie1] {sai2 mat1} /expression pour exprimer l'inutilité d'une action, semblable à «à quoi sert...» ou «pourquoi»/
 使乜講 使乜讲 [shi3 mie1 jiang3] {sai2 mat1 gong2} /certainement, bien sûr/
 使到 使到 [shi3 dao4] {sai2 dou3} /causer/
 使命感 使命感 [shi3 ming4 gan3] {si3 ming6 gam2} /vocation/
 使唔使 使唔使 [shi3 m2 shi3] {sai2 m4 sai2} /est-ce qu'on a besoin de, est-ce qu'il est nécessaire de.../
 使女 使女 [shi3 nü3] {si2 neoi5} /servante/
 使婆 使婆 [shi3 po2] {si3 po4} /nourrice/
-使媽 使妈 [shi3 ma1] {si2 maa1} /nourrice (familier)/
+使媽 使妈 [shi3 ma1] {si2 maa1} /(fam.) nourrice/
 使𢃇 使𢃇 [shi3] {sai2 lei2} /faire de la voile/
 使橫手 使橫手 [shi3 guang1 shou3] {sai2 waang4 sau2} /utiliser des tactiques sournoises/
 使牛 使牛 [shi3 niu2] {si2 ngau4} /élevage de vaches/
 使用手冊 使用手册 [shi3 yong4 shou3 ce4] {si2 jung6 sau2 caak3} /manuel, le mode d'emploi/
 使脾氣 使脾气 [shi3 pi2 qi5] {sai2 pei4 hei3} /irascible, coléreux, coléreuse/
 使費 使费 [shi3 fei4] {sai2 fai3} /dépenser (de l'argent)/
-使銅銀夾大聲 使铜银夹大声 [shi3 tong2 yin2 jia1 da4 sheng1] {sai2 tung4 ngan4 gaap3 daai6 seng1} /(expr. idiom.) dissimuler sa culpabilité en étant hostile aux autres/(expr. idiom.) avoir tort mais rester fâché contre les autres, impénitant/(lit.) parler plus fort en utilisant de la monnaie de cuivre (i.e. de la monnaie contrefaite)/
+使銅銀夾大聲 使铜银夹大声 [shi3 tong2 yin2 jia1 da4 sheng1] {sai2 tung4 ngan4 gaap3 daai6 seng1} /(expr. idiom.) dissimuler sa culpabilité avec son hostilité/(expr. idiom.) avoir tort mais rester fâché contre les autres, impénitant/(lit.) parler plus fort en utilisant de la monnaie de cuivre (i.e. de la monnaie contrefaite)/
 使錢 使钱 [shi3 qian2] {sai2 cin2} /dépenser de l'argent/
-使頸 使颈 [shi3 jing3] {sai2 geng2} /se mettre en colère/
+使頸 使颈 [shi3 jing3] {sai2 geng2} /se mettre en colère, se fâcher/
 侄仔 侄仔 [zhi2 zi3] {zat6 zai2} /neveu/
 侄婦 侄妇 [zhi2 fu4] {zat6 fu5} /femme d'un neveu, belle-fille/
 侄心抱 侄心抱 [zhi2 xin1 bao4] {zat6 sam1 pou5} /femme d'un neveu, belle-fillle/
-來 来 [lai2] {loi4} /qui vient/le futur/
+來 来 [lai2] {loi4} /qui vient/l'avenir/
 來世 来世 [lai2 shi4] {loi4 sai3} /vie après la mort/
 來之不易 来之不易 [lai2 zhi1 bu4 yi4] {loi4 zi1 bat1 ji6} /(quelque chose qui) ne vient pas facilement, qui est difficile/
 來人 来人 [lai2 ren2] {loi4 jan4} /expression pour appeler un(e) domestique/
