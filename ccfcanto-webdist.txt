@@ -1350,10 +1350,10 @@
 伊波拉病毒 伊波拉病毒 [yi1 bo1 la1 bing4 du2] {ji1 bo1 laai1 beng6 duk6} /virus Ebola/
 伊麪 伊面 [yi1 mian4] {ji1 min6} /nouilles yi mein/
 伊麵 伊面 [yi1 mian4] {ji1 min6} /nouilles yi mein/
-伏低 伏低 [fu2 di1] {buk6 dai1} /s'étendre/
+伏低 伏低 [fu2 di1] {buk6 dai1} /s'étendre, s'allonger à terre/
 伏兒人 伏儿人 [fu2 r5 ren2] {fuk6 ji4 jan4} /cache-cache/
 伏匿匿 伏匿匿 [fu2 ni4 ni4] {buk6 nei1 nei1} /cache-cache/jouer à cache-cache/
-休养所 休养所 [xiu1 yang3 suo3] {jau1 joeng5 so2} /un sanatorium/
+休养所 休养所 [xiu1 yang3 suo3] {jau1 joeng5 so2} /sanatorium/
 休息 休息 [xiu1 xi5] {jau1 sik1} /faire une pause/se coucher, dormir/
 休息時間 休息时间 [xiu1 xi2 shi2 jian1] {jau1 sik1 si4 gaan3} /pause/
 休憩 休憩 [xiu1 qi4] {jau1 hei3} /prendre une pause/loisir/
@@ -1364,10 +1364,10 @@
 伙 伙 [huo3] {fo2} /(classificateur pour les personnes)/équipe/maison/
 伙房 伙房 [huo3 fang2] {fo2 fong4} /cuisine/
 伙記 伙记 [huo3 ji4] {fo2 gei3} /employé/serveur, serveuse/policière/
-伙頭 伙头 [huo3 tou2] {fo2 tau2} /un cuisinier (familier)/
-伙頭君 伙头君 [huo3 tou2 jun1] {fo2 tau4 gwan1} /un cuisinier dans l'armée/
+伙頭 伙头 [huo3 tou2] {fo2 tau2} /(fam.) cuisinier/
+伙頭君 伙头君 [huo3 tou2 jun1] {fo2 tau4 gwan1} /cuisinier dans l'armée/
 伙頭墳洲 伙头坟洲 [huo3 tou2 fen2 zhou1] {fo2 tau4 fan4 zau1} /Town Island, une île dans les Nouveaux Territoires, Hong Kong/
-伙頭軍 伙头军 [huo3 tou2 jun1] {fo2 tau4 gwan1} /un cuisinier dans l'armée/
+伙頭軍 伙头军 [huo3 tou2 jun1] {fo2 tau4 gwan1} /cuisinier dans l'armée/
 伢伢仔 伢伢仔 [ya2 ya2 zi3] {ngaa4 ngaa4 zai2} /bébé/
 伯公 伯公 [bo2 gong1] {baak3 gung1} /frère aîné d'un grand-père/
 伯娘 伯娘 [bo2 niang2] {baak3 noeng4} /femme d'un frère aîné d'un père/
@@ -1380,9 +1380,9 @@
 ???? 伯牙 伯牙 [bo2 ya2] {baak3 ngaa4} /Bo Ya, un ministre de l'État de Jin pendant la période des Printemps et Automnes/
 估 估 [gu1] {gu2} /deviner/
 估吓 估吓 [gu1 xia4] {gu2 haa5} /devinez!/
-估唔到 估唔到 [gu1 n2 dao4] {gu2 m4 dou2} /ne pas deviner correctement/qqn imprévisible/qui aurait cru/
+估唔到 估唔到 [gu1 n2 dao4] {gu2 m4 dou2} /ne pas deviner correctement/(personne) imprévisible/qui aurait cru/
 估計 估计 [gu1 ji4] {gu2 gai3} /estimer, deviner/
-伴 伴 [ban4] {bun6} /accompagner (qqn)/
+伴 伴 [ban4] {bun6} /accompagner (quelqu'un)/
 伴儅 伴儅 [ban4 dang1] {bun6 dong3} /domestique/
 伸展 伸展 [shen1 zhan3] {san1 zin2} /s'étirer/prolongation/
 伸張正義 伸张正义 [shen1 zhang1 zheng4 yi4] {san1 zoeng1 zing3 ji6} /soutenir, rendre la justice/
