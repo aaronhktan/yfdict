@@ -1001,11 +1001,11 @@
 二十四日 二十四日 [er4 shi2 si4 ri4] {ji6 sap6 sei3 jat6} /vingt-quatre jours/le vingt-quatrième jour d'un mois/
 二十日 二十日 [er4 shi2 ri4] {ji6 sap6 jat6} /vingt jours/le vingtième jour d'un mois/
 二千 二千 [er4 qian1] {ji6 cin1} /deux mille/
-二叔 二叔 [er4 shu2] {ji6 suk1} /deuxième oncle, qui est plus âgé que le père/
-二叔公 二叔公 [er4 shu1 gong1] {ji6 suk1 gung1} /grand-oncle, qui est plus jeune que le grand-père/prêteur sur gages (pej.)/
+二叔 二叔 [er4 shu2] {ji6 suk1} /deuxième oncle (qui est plus âgé que le père mais qui n'est pas le fils aîné)/
+二叔公 二叔公 [er4 shu1 gong1] {ji6 suk1 gung1} /grand-oncle, qui est plus jeune que le grand-père/(péj.) prêteur sur gages/ 
 二叔婆 二叔婆 [er4 shu1 po2] {ji6 suk1 po4} /femme d'un grand-oncle qui est plus jeune que le grand-père/
 二奶仔 二奶仔 [er4 nai3 zi3] {ji6 naai zai2} /maîtresse/quelqu'un qui est victime de discrimination/enfant illégitime/(lit.) enfant d'une maîtresse/
-二奶命 二奶命 [er4 nai3 ming4] {ji6 naai1 meng6} /destiné à être traîté de seconde zone/(lit.) la vie d'une maîtresse/
+二奶命 二奶命 [er4 nai3 ming4] {ji6 naai1 meng6} /destiné à être traîté de seconde zone, se contenter de toujours être le deuxième choix/(lit.) la vie d'une maîtresse/
 二手市場 二手市场 [er4 shou3 shi4 chang3] {ji6 sau2 si5 coeng4} /marché d'occasion, marché de seconde/
 二打六 二打六 [er4 da3 liu4] {ji6 daa2 luk6} /personne de statut inférieur/personne incompétente/subalterne/figurant (dans un film)/(orig. huit taels font un demi Catty, qui n'est pas assez de poids)/(lit.) deux et six taels font huit taels/
 二撇雞 二撇鸡 [er4 pie1 ji1] {ji6 pit3 gai1} /moustache séparée au centre, comme le caractère 八 (voir 八字鬍子, 八字胡子)/(lit.) deux traits de poulet/
@@ -1013,7 +1013,7 @@
 二毫 二毫 [er4 hao2] {ji6 hou4} /vingt centimes/
 二百 二百 [er4 bai3] {ji6 baak3} /deux cents/
 二花面 二花面 [er4 hua1 mian4] {ji6 faa1 min6} /un type de personnage dans l'opéra chinois/
-二進位 二进位 [er4 jin4 wei4] {ji6 zeon3 wai2} /binaire/
+二進位 二进位 [er4 jin4 wei4] {ji6 zeon3 wai2} /binaire, nombre de la base de numération 2/
 二進位制 二进位制 [er4 jin4 wei4 zhi4] {ji6 zeon3 wai2 zai3} /système binaire/
 二點鐘 二点钟 [er4 dian3 zhong1] {ji6 dim2 zung1} /deux heures (e.g. du matin)/
 于思 于思 [yu2 sai1] {jyu1 si1} /moustache épaisse/
@@ -1026,7 +1026,7 @@
 五內 五内 [wu3 nei4] {ng5 noi6} /les cinq organes internes (le coeur, la foie, la rate, les poumouns, les reins)/
 五十五 五十五 [wu3 shi2 wu3] {ng5 sap6 ng5} /cinquant-cinq/
 五千 五千 [wu3 qian1] {ng5 cin1} /cinq mille/
-五味架 五味架 [wu3 wei4 jia4] {ng5 mei6 gaa2} /ménagère de table, un ensemble de petits récipients/(lit.) étagère à cinq saveurs/
+五味架 五味架 [wu3 wei4 jia4] {ng5 mei6 gaa2} /ménagère de table, un ensemble de petits récipients contenant des épices/(lit.) étagère à cinq saveurs/
 五山 五山 [Wu3 Shan1] {ng5 saan1} /Wushan, un endroit situé à Guangzhou, Chine/
 五山站 五山站 [wu3 shan1 zhan4] {ng5 saan1 zaam6} /station Wushan, une station de métro située à Guangzhou, Chine/
 五年 五年 [wu3 nian2] {ng5 nin4} /cinq ans/
@@ -5568,7 +5568,7 @@
 大日子 大日子 [da4 ri4 zi5] {daai6 jat6 zi2} /grand jour/grand évènement/
 大日本帝國 大日本帝国 [da4 Ri4 ben3 di4 guo2] {daai6 jat6 bun2 dai3 gwok3} /Empire du Japon/
 大早 大早 [da4 zao3] {daai6 zou2} /tôt le matin/
-大時代 大时代 [da4 shi2 dai4] {daai6 si4 doi6} /grande ère/«The Greed of Man», série de télévision reconnue à Hong Kong/
+大時代 大时代 [da4 shi2 dai4] {daai6 si4 doi6} /grande ère/«The Greed of Man», série télévisée reconnue à Hong Kong/
 大晒 大晒 [da4 shai4] {daai6 saai3} /supériorité totale/
 大會堂 大会堂 [da4 hui4 tang2] {daai6 wui2 tong4} /hôtel de ville/
 大有斬獲 大有斩获 [da4 you3 zhan3 huo4] {daai6 jau5 zaam2 wok6} /grands profits/
@@ -5839,7 +5839,7 @@
 天生麗質 天生丽质 [tian1 sheng1 li4 zhi4] {tin1 saang1 lai6 zat1} /beauté naturelle/
 天皇巨星 天皇巨星 [tian1 huang2 ju4 xing1] {tin1 wong4 geoi6 sing1} /superstar/
 天真無邪 天真无邪 [tian1 zhen1 wu2 xie2] {tin1 zan1 mou4 ce4} /innocent/
-天眼 天眼 [tian1 yan3] {tin1 ngaan5} /«Eye in the sky», série de télévision/caméra de surveillance/
+天眼 天眼 [tian1 yan3] {tin1 ngaan5} /«Eye in the sky», série télévisée de Hong Kong/caméra de surveillance/
 天糊 天糊 [tian1 hu2] {tin1 wu2} /gagner un jeu de mah-jong/
 天腳底 天脚底 [tian1 jiao3 di3] {tin1 goek3 dai2} /jusqu'à la fin/poursuivre/
 天臺 天台 [tian1 tai2] {tin1 toi2} /toit/
@@ -6435,7 +6435,7 @@
 學師仔 学师仔 [xue2 shi1 zi3] {hok6 si1 zai2} /apprenti, élève, stagiaire/
 學府 学府 [xue2 fu3] {hok6 fu2} /établissement d'enseignement supérieur/
 學徒制 学徒制 [xue2 tu2 zhi4] {hok6 tou4 zai3} /apprentissage, stage/
-學是學非 学是学非 [xue2 shi4 xue2 fei1] {hok6 si6 hok6 fei1} /ragots, comérages/«Sidewalk Scientist» (scientifique de trottoir), série de télévision primée de Hong Kong/
+學是學非 学是学非 [xue2 shi4 xue2 fei1] {hok6 si6 hok6 fei1} /ragots, comérages/«Sidewalk Scientist» (scientifique de trottoir), série télévisée primée de Hong Kong/
 學是非 学是非 [xue2 shi4 fei1] {hok6 si6 fei1} /commérer, cancaner, jaser/
 學會 学会 [xue2 hui4] {hok6 wui2} /apprendre/
 學業 学业 [xue2ye4] {hok6 jip6} /éducation/
@@ -6834,7 +6834,7 @@
 小部 小部 [xiao3 bu4] {siu2 bou6} /radical Kangxi 42, 小/Khuddaka Nikāya, dernière partie du Sutta Piṭaka, un texte canonique du bouddhisme/
 小隊 小队 [xiao3 dui4] {siu2 deoi2} /équipe/
 小電影 小电影 [xiao3 dian4 ying3] {siu2 din6 jing2} /court-métrage/
-小露寶 小露宝 [xiao3 lu4 bao3] {siu2 lou6 bou2} /Ganbare!! Robocon, série de télévision japonaise/
+小露寶 小露宝 [xiao3 lu4 bao3] {siu2 lou6 bou2} /Ganbare!! Robocon, série télévisée japonaise/
 小飛象 小飞象 [xiao3 fei1 xiang4] {siu2 fei1 zoeng6} /Dumbo, éléphant volant/
 小食 小食 [xiao3 shi2] {siu2 sik6} /collation, casse-croûte/
 小食店 小食店 [xiao3 shi2 dian4] {siu2 sik6 dim3} /magasin de friandises/
@@ -8278,7 +8278,7 @@
 成身 成身 [cheng2 shen1] {seng4 san1} /tout le corps, le corps entier/
 成長 成长 [cheng2 zhang3] {sing4 zoeng2} /grandir (dans un endroit, dans un environnement quelconque)/
 成龍配套 成龙配套 [cheng2 long2 pei4 tao4] {sing4 lung4 pui3 tou3} /remplir les trous pour créer un système complet/
-我來自潮州 我来自潮州 [wo3 lai2 zi4 chao2 zhou1] {ngo5 loi4 zi6 ciu4 zau1} /«I come from Chaozhou», série télévisée à Hong Kong/
+我來自潮州 我来自潮州 [wo3 lai2 zi4 chao2 zhou1] {ngo5 loi4 zi6 ciu4 zau1} /«I come from Chaozhou», série télévisée de Hong Kong/
 我哋 我哋 [wo3 di4] {ngo5 dei6} /nous, nous autres/
 我哋嘅 我哋嘅 [wo3 di4 ge2] {ngo5 dei6 ge3} /notre/à nous/
 我哋自己 我哋自己 [wo3 di4 zi4 ji5] {ngo5 dei6 zi6 gei2} /nous-mêmes/
@@ -9341,7 +9341,7 @@
 搓 搓 [cuo1] {co1} /frapper la balle, retourner la balle/
 搓圓撳扁 搓圆揿扁 [cuo1 yuan2 qin4 bian3] {co1 jyun4 gam6 bin2} /(expr. idiom.) (péj.) chiffe molle, carpette, personne qui ne sait pas affirmer sa propre volonté ou exprimer ses propres opinions/(expr. idiom.) facile à vivre, avenant, sociable/(lit.) que l'on peut rouler en boule et puis aplatir/
 搓圓㩒扁 搓圆㩒扁 [cuo1 yuan2 qin2 bian3] {co1 jyun4 gam6 bin2} /(expr. idiom.) (péj.) chiffe molle, carpette, personne qui ne sait pas affirmer sa propre volonté ou exprimer ses propres opinions/(expr. idiom.) facile à vivre, avenant, sociable/(lit.) que l'on peut rouler en boule et puis aplatir/
-???? 搓波 搓波 [cuo1 bo1] {caai1 bo1} /frapper un ballon ou renvoyer un ballon pour se réchauffer (en faisant du sport)/
+???? 搓波 搓波 [cuo1 bo1] {caai1 bo1} /frapper un ballon ou renvoyer un ballon pour s'échauffer (en faisant du sport), envoyer la balle à quelqu'un d'autre en s'attendant à ce que l'autre personne puisse la renvoyer, plutôt que dans le but de marquer un point contre lui/
 搔首 搔首 [sao1 shou3] {sou1 sau2} /gratter la tête/flirter, séduire, draguer/
 搖尾乞憐 摇尾乞怜 [yao2 wei3 qi3 lian2] {jiu4 mei5 hat1 lin4} /(expr. idiom.) être obséquieux, flatter, lécher les bottes de quelqu'un/(lit.) remuer la queue et implorer la pitié/
 搖搖 摇摇 [yao2 yao2] {jiu4 jiu2} /yo-yo/(orig.) de l'anglais «yo-yo»/
@@ -10198,106 +10198,106 @@
 斷片 断片 [duan4 pian4] {tyun5 pin2} /fragment, passage/morceau/pause pendant le visionnement d'un film à cause de difficultés techniques/(fig.) trou noir, trou de mémoire (dû à la drogue ou l'alcool)/
 斷癮 断瘾 [duan4 yin3] {tyun5 jan5} /qutter une dépendance/
 斷碼 断码 [duan4 ma3] {tyun5 maa5} /(vêtements) qui n'est pas offerte dans toutes les tailles/(vêtements) qui n'est plus disponible qu'en certaines tailles/
-斷窮根 断穷根 [duan4 qiong2 gen1] {dyun6 kung4 gan1} /to escape poverty/
-斷米路 断米路 [duan4 mi3 lu4] {tyun5 mai5 lou6} /to ruin one's future / to ruin one's career/
-斷頭臺 断头台 [duan4 tou2 tai2] {dyun6 tau4 toi4} /noun; guillotine; scaffold/
-斷魂 断魂 [duan4 hun2] {tyun5 wan4} /to feel like a lost soul from deep sorrow/
-方 方 [fang1] {fong1} /(noun)  Chinese surname/
-方剛 方刚 [fang1 gang1] {fong1 gong1} /Fong Gong, a Hong Kong actor/
-方力申 方力申 [fang1 li4 shen1] {fong1 lik6 san1} /Alex Fong, a Hong Kong actor/singer/
-方包 方包 [fang1 bao1] {fong1 baau1} /loaf of white sliced bread /
-方呎 方尺 [fang1 chi3] {fong1 cek3} /square foot/
-方案 方案 [fang1 an4] {fong1 on3} /(noun) 1. Method; 2. Scheme/
-方略 方略 [fang1 lüe4] {fong1 loek6} /a strategy; the general plan/
-方針 方针 [fang1 zhen1] {fong1 zam1} /(noun)  Direction and focus/
-方面 方面 [fang1 mian4] {fong1 min6} /1. sector 2. angle; perspective/
-於 於 [wu1] {jyu1} /(preposition) 1. On (a particular day/date); 2. In or at (place and time); (verb suffix)  With regarding to/
-於是 于是 [yu2 shi4] {jyu1  si6} /(adverb) therefore/
-施 施 [shi1] {si1} /(noun)  Chinese surname/
-施恩莫望報 施恩莫望报 [shi1 en1 mo4 wang4 bao4] {si1 jan1 mok6 mong6 bou3} /'virtue is its own reward'/
-施施然 施施然 [shi1 shi1 ran2] {si1 si1 jin4} /to do things slowly/
-施暴 施暴 [shi1 bao4] {si1 bou6} /verb; exert violence/
-旁述 旁述 [pang2 shu4] {pong4 seot6} /the narrations; a narrator/
-旅遊事業 旅游事业 [lü3 you2 shi4 ye4] {leoi5 jau4 si6 jip6} /tourism/
-旅遊巴 旅游巴 [lü3 you2 ba1] {leoi5 jau4 baa1} /touring coach/
-旅遊巴士 旅游巴士 [lü3 you2 ba1 shi4] {leoi5 jau4 baa1 si2} /tourism coach, a type of bus for tourists/
-旅遊點 旅游点 [lü3 you2 dian3] {leoi5 jau4 dim2} /the tourist attractions/
-旅長 旅长 [lü3 zhang3] {leoi5 zoeng2} /a brigade commander; a brigade major/
-旋轉乾坤 旋转乾坤 [xuan2 zhuan3 qian2 kun1] {syun4 zyun2 kin4 kwan1} /verb; able to reverse the position of heaven and earth/
-旌表 旌表 [jing1 biao3] {zing1 biu2} /a commendation; to confer honours/
-族權 族权 [zu2 quan2] {zuk6 kyun4} /clan authority/
-族長 族长 [zu2 zhang3] {zuk6 zoeng2} /the head of a clan; a patriarch/
-旗竿 旗竿 [qi2 gan1] {kei4 gon1} /a flagpole; a flagstaff/
-旗魚 旗鱼 [qi2 yu2] {kei4 jyu2} /marlin fish; flagfish; swordfish; sailfish; spearfish/
-日上三竿 日上三竿 [ri4 shang4 san1 gan1] {jat6 soeng5 saam1 gon1} /the sun is already high in the sky, sarcastically hinting it is not early any more/
-日不暇給 日不暇给 [ri4 bu4 xia2 ji3] {jat6 bat1 haa6 kap1} /too busy with no spare time/
-日久見人心 日久见人心 [ri4 jiu3 jian4 ren2 xin1] {jat6 gau2 gin3 jan4 sam1} /time will tell; 'a man knows his companion in a long journey and a little inn'/
-日以繼夜 日以继夜 [ri4 yi3 ji4 ye4] {jat6 ji5 gai3 je6} /noun; day in and day out; round the clock; stay up till dawn/
-日光 日光 [ri4guang1] {jat6 gwong1} /(noun) Daylight/
-日光日白 日光日白 [ri4 guang1 ri4 bai2] {jat6 gwong1 jat6 baak6} /in broad daylight /
-日內瓦公約 日內瓦公约 [ri4 nei4 wa3 gong1 yue1] {jat6 noi6 ngaa5 gung1 joek3} /the Geneva Conventions/
-日出康城 日出康城 [ri4 chu1 kang1 cheng2] {jat6 ceot1 hong1 sing4} /LOHAS Park, a residential development in Hong Kong/
-日劇 日剧 [ri4 ju4] {jat6 kek6} /Japanese drama/
-日哦夜哦 日哦夜哦 [ri4 o2 ye4 o2] {jat6 ngo4 je6 ngo4} /to nag constantly non-stop day-to-night/
-日常生活 日常生活 [ri4 chang2 sheng1 huo2] {jat6 soeng4 sang1 wut6} /noun; daily life, day to day/
-日常用品 日常用品 [ri4 chang2 yong4 pin3] {jat6 soeng4 jung6 ban2} /the daily necessities/
-日捱夜捱 日挨夜挨 [ri4 ai1 ye4 ai1] {jat6 ngaai4 je6 ngaai4} /work in tough conditions for day and night /
-日日如是 日日如是 [ri4 ri4 ru2 shi4] {jat6 jat6 jyu4 si6} /to describe something that is the same day in day out/
-日暈 日晕 [ri4 yun4] {jat6 wan6} /a Halo (optical phenomenon)/
-日曆 日历 [ri4 li4] {jat6 lik6} /(noun)  solar calendar/
-日更 日更 [ri4 geng4] {jat6 gang1} /day shift/
-日月星辰 日月星辰 [ri4 yue4 xing1 chen2] {jat6 jyut6 sing1 san4} /host of heavens; heavenly bodies; the sun, the moon and the starts/
-日本仔 日本仔 [Ri4 ben3 zi3] {jat6 bun2 zi2} /Japanese men/
-日本動畫 日本动画 [Ri4 ben3 dong4 hua4] {jat6 bun2 dung6 waa2} /Japanese anime/
-日本國 日本国 [Ri4 ben3 guo2] {jat6 bun2 gwok3} /Japan/
-日本民主黨 日本民主党 [Ri4 ben3 Min2 zhu3 dang3] {jat6 bun2 man4 zyu2 dong2} /the Japan Democratic Party/
-日本航空公司 日本航空公司 [Ri4 ben3 Hang2 kong1 Gong1 si1] {jat6 bun2 hong4 hung1 gung1 si1} /Japan Airlines Company/
-日本語 日本语 [Ri4 ben3 yu3] {jat6 bun2 jyu5} /Japanese (language)/
-日本酒 日本酒 [Ri4 ben3 jiu3] {jat6 bun2 zau2} /Japanese Sake; Japanese rice wine/
-日落大道 日落大道 [ri4 luo4 da4 dao4] {jat6 lok6 daai6 dou6} /Sunset Boulevard, a film/
-日薄西山 日薄西山 [ri4 bo2 xi1 shan1] {jat6 bok6 sai1 saan1} /the setting sun/
-日見 日见 [ri4 jian4] {jat6 gin3} /Himi-shuku, a Nagasaki Prefecture in Japan/
-日記簿 日记簿 [ri4 ji4 bu4] {jat6 gei3 bou2} /noun; daybook; journal;diary/
-日防夜防，家賊難防 日防夜防，家贼难防 [ri4 fang2 ye4 fang2 , jia1 zei2 nan2 fang2] {jat6 fong4 je6 fong4 gaa1 caak6 naan4 fong4} /, A thief in the family is difficult to detect; the betrayer can be the one you trust/
-旦夕 旦夕 [dan4 xi1] {daan3 zik6} /in a very short time/
-早一排 早一排 [zao3 yi4 pai2] {zou2 jat1 paai4} /noun; recently, not long ago/
-早上 早上 [zao3shang5] {zou2 soeng6} /(noun) Morning/
-早唞 早唞 [zao3 dou3] {zou2 tau2} /(phrase) "good night!"; to tell someone piss off as they have annoyed you very much./
-早排 早排 [zao3 pai2] {zou2 paai4} /earlier; a while ago/
-早日 早日 [zao3ri4] {zou2 jat6} /(adverb) As soon as /
-早更 早更 [zao3 geng4] {zou2 gaang1} /the early shift; morning shift/
-早走早著 早走早着 [zao3 zou3 zao3 zhe5] {zou2 zau2 zou2 zoek6} /to hurry someone to leave, similar to saying 'go go go'; best to retreat / get away / escape early to avoid being dragged down by something not beneficial/
-早響 早响 [zao3 xiang3] {zou2 hoeng2} /you should have mentioned or voiced out earlier/
-旬刊 旬刊 [xun2 kan1] {ceon4 hon2} /a magazine that is published every 10 days/
-旱地 旱地 [han4 di4] {hon5 dei6} /dry land/
-旱天 旱天 [han4 tian1] {hon5 tin1} /dry weather; dry day; days of drought/
-旱季 旱季 [han4 ji4] {hon5 gwai3} /the dry season/
-旱橋 旱桥 [han4 qiao2] {hon5 kiu4} /a flyover; an overpass; an overbridge; a land bridge; a viaduct/
-旺 旺 [wang4] {wong6} /(adjective)  popular and busy (with a lot of customers/business)/
-旺丁唔旺財 旺丁唔旺财 [wang4 ding1 n2 wang4 cai2] {wong6 ding1 m4 wong6 coi4} /describe something that will bring about the chance of having sons (seen as good traditionally) but not prosperity/
-旺區 旺区 [wang4 qu1] {wong6 keoi1} /popular area, popular districts, places where there are a lot of visitors and pedestrians/
-旺場 旺场 [wang4 chang3] {wong6 coeng4} /a busy venue or place/
-旺季 旺季 [wang4ji4] {wong6 gwai3} /(noun) Peak season/
-旺市 旺市 [wang4 shi4] {wong6 si5} /to bring about a lot of business; to sell well/
-旺舖 旺铺 [wang4 pu4] {wong6 pou3} /a popular shop; a shop in a bustling location with a busy flow of people/
-旺菜 旺菜 [wang4 cai4] {wong6 coi3} /Napa cabbage/
-旻寧 旻宁 [min2 ning2] {man4 ning4} /the Daoguang Emperor/
-昂坪 昂坪 [ang2 ping2] {ngong4 ping4} /Ngong Ping, a highland in Hong Kong/
-昂坪３６０ 昂坪３６０ [ang2 ping2 san1 liu4 ling2] {ngong5 ping4３６０} /Ngong Ping 360, a cable car system that connects Tung Chung and Ngong Ping on Launtau Island, Hong Kong/
-昆侖 昆仑 [Kun1 lun2] {kwan1 leon4} /the Kunlun Mountains in Asia/
-昆市 昆市 [kun1 shi4] {kwan1 si5} /Quincy (Massachusetts, United States)/
-昆布 昆布 [kun1 bu4] {kwan1 bou3} /kelp/
-昇降機 升降机 [sheng1 jiang4 ji1] {sing1 gong3 gei1} /the elevator; the lift/
-昌崗站 昌岗站 [chang1 gang3 zhan4] {coeng1 gong1 zaam6} /Changgang Station, a metro station in Guangzhou/
-昌隆 昌隆 [chang1 long2] {coeng1 lung4} /prosperous/
-明 明 [ming2] {ming4} /(adjective) 1. obvious; (noun) 1. eyesight (noun)  the Ming dynasty/
-明人不說暗話 明人不说暗话 [ming2 ren2 bu4 shuo1 an4 hua4] {ming4 jan4 bat1 syut3 am3 waa6} /a straight talker does not resort to insinuations/
-明凈 明净 [ming2 jing4] {ming4 zing6} /bright and clean/
-明刀明槍 明刀明枪 [ming2 dao1 ming2 qiang1] {ming4 dou1 ming4 coeng1} /verb; when an attacker openly declares his intent to attack; it refers to a person who is very straightforward, who makes his intentions clear./
-明媚 明媚 [ming2 mei4] {ming4 mei4} /(adjective)  Delightful and enchanting/
-明屈 明屈 [ming2 qu1] {ming4 wat1} /force one to take the blame or responsibility/
-明快 明快 [ming2 kuai4] {ming4 faai3} /adj; lucid and lively; sprightly; also it mean straightforward or forthright (personality)/
-明愛醫院 明爱医院 [ming2 ai4 yi1 yuan4] {ming4 oi3 ji1 jyun2} /the Caritas Medical Centre. A hospital in Hong Kong/
+斷窮根 断穷根 [duan4 qiong2 gen1] {dyun6 kung4 gan1} /échapper à la pauvreté/
+斷米路 断米路 [duan4 mi3 lu4] {tyun5 mai5 lou6} /ruiner sa carrière, ruiner sa vie, gâcher son avenir/
+斷頭臺 断头台 [duan4 tou2 tai2] {dyun6 tau4 toi4} /guillotine/
+斷魂 断魂 [duan4 hun2] {tyun5 wan4} /se sentir comme une âme perdue à cause d'un chagrin accablant/
+方 方 [fang1] {fong1} /(nom de famille chinois)/
+方剛 方刚 [fang1 gang1] {fong1 gong1} /Fong Gong, acteur hongkongais/
+方力申 方力申 [fang1 li4 shen1] {fong1 lik6 san1} /Alex Fong, acteur et chanteur hongkongais/
+方包 方包 [fang1 bao1] {fong1 baau1} /pain de mie, pain blanc/(lit.) pain carré/
+方呎 方尺 [fang1 chi3] {fong1 cek3} /pied carré/
+方案 方案 [fang1 an4] {fong1 on3} /méthode, plan, solution/projet, programme/proposition/
+方略 方略 [fang1 lu:e4] {fong1 loek6} /stratégie, plan général/
+方針 方针 [fang1 zhen1] {fong1 zam1} /politique, principe directeur/
+方面 方面 [fang1 mian4] {fong1 min6} /facette, face, côté/angle, perspective/
+於 於 [wu1] {jyu1} /(préposition pour une date; n'existe pas en français mais comme «le» dans «le mercredi prochain»)/à, au (un endroit)/au sujet de, concernant, à propos de/
+於是 于是 [yu2 shi4] {jyu1 si6} /donc, par conséquent, ainsi/
+施 施 [shi1] {si1} /(nom de famille chinois)/
+施恩莫望報 施恩莫望报 [shi1 en1 mo4 wang4 bao4] {si1 jan1 mok6 mong6 bou3} /la vertue est sa propre récompense/
+???? 施施然 施施然 [shi1 shi1 ran2] {si1 si1 jin4} /prendre son temps à faire les choses, faire les choses très lentement/
+施暴 施暴 [shi1 bao4] {si1 bou6} /recourir à la violence/violer, avoir un rapport sexuel avec quelqu'un sans son consentement/
+旁述 旁述 [pang2 shu4] {pong4 seot6} /narration/narrateur/
+旅遊事業 旅游事业 [lü3 you2 shi4 ye4] {leoi5 jau4 si6 jip6} /tourisme/
+旅遊巴 旅游巴 [lu:3 you2 ba1] {leoi5 jau4 baa1} /bus de tournée/
+旅遊巴士 旅游巴士 [lu:3 you2 ba1 shi4] {leoi5 jau4 baa1 si2} /bus de tournée/
+旅遊點 旅游点 [lu:3 you2 dian3] {leoi5 jau4 dim2} /sites touristiques, attractions touristiques/
+旅長 旅长 [lu:3 zhang3] {leoi5 zoeng2} /commandant de brigade, brigadier général/
+旋轉乾坤 旋转乾坤 [xuan2 zhuan3 qian2 kun1] {syun4 zyun2 kin4 kwan1} /(expr. idiom.) stupéfiant, révolutionnaire, bouleversant, avoir un grand impact/(lit.) capable de retourner ciel et terre/
+旌表 旌表 [jing1 biao3] {zing1 biu2} /distinction impériale, décoration officielle/conférer un honneur, octoyer une distction (à quelqu'un)/
+族權 族权 [zu2 quan2] {zuk6 kyun4} /autorité clanique, pouvoir patriarcal au sein d'une famille ou un clan/
+族長 族长 [zu2 zhang3] {zuk6 zoeng2} /chef de clan, patriarche/
+旗竿 旗竿 [qi2 gan1] {kei4 gon1} /mât, hampe (de drapeau)/
+旗魚 旗鱼 [qi2 yu2] {kei4 jyu2} /(poisson) voilier, marlin/
+日上三竿 日上三竿 [ri4 shang4 san1 gan1] {jat6 soeng5 saam1 gon1} /fin de la matinée/(utilisé de manière sarcastique que le temps a passé)/
+日不暇給 日不暇给 [ri4 bu4 xia2 ji3] {jat6 bat1 haa6 kap1} /très occupé, ne pas avoir de temps libre/les journées sont trop courtes, on n'a pas assez de temps dans la journée/
+日久見人心 日久见人心 [ri4 jiu3 jian4 ren2 xin1] {jat6 gau2 gin3 jan4 sam1} /(expr. idiom.) le temps nous dira ceux qui sont nos véritables amis/(lit.) le temps révèle le coeur des personnes/
+日以繼夜 日以继夜 [ri4 yi3 ji4 ye4] {jat6 ji5 gai3 je6} /jour et nuit, 24 heures sur 24/
+日光 日光 [ri4 guang1] {jat6 gwong1} /lumière du jour/
+日光日白 日光日白 [ri4 guang1 ri4 bai2] {jat6 gwong1 jat6 baak6} /en plein jour/
+日內瓦公約 日內瓦公约 [ri4 nei4 wa3 gong1 yue1] {jat6 noi6 ngaa5 gung1 joek3} /conventions de Genève, traités internationaux dans le domaine du droit international humanitaire/
+日出康城 日出康城 [ri4 chu1 kang1 cheng2] {jat6 ceot1 hong1 sing4} /LOHAS Park, ensemble de gratte-ciels résidentiels situé à Hong Kong/
+日劇 日剧 [ri4 ju4] {jat6 kek6} /drama japonais, série télévisée de plusieurs épisodes du Japon/
+日哦夜哦 日哦夜哦 [ri4 o2 ye4 o2] {jat6 ngo4 je6 ngo4} /harceler, importuner continuellement, 24 heures sur 24/
+日常生活 日常生活 [ri4 chang2 sheng1 huo2] {jat6 soeng4 sang1 wut6} /vie quotidienne, le quotidien/
+日常用品 日常用品 [ri4 chang2 yong4 pin3] {jat6 soeng4 jung6 ban2} /nécessités quotidiennes/
+日捱夜捱 日挨夜挨 [ri4 ai1 ye4 ai1] {jat6 ngaai4 je6 ngaai4} /travailler jour et nuit/
+日日如是 日日如是 [ri4 ri4 ru2 shi4] {jat6 jat6 jyu4 si6} /qui ne change jamais, qui rest le même jour après jour/
+日暈 日晕 [ri4 yun4] {jat6 wan6} /petit halo ou grand halo, cercle lumineux autour du Soleil/
+日曆 日历 [ri4 li4] {jat6 lik6} /calendrier/calendrier solaire/
+日更 日更 [ri4 geng4] {jat6 gang1} /quart de jour, quart du matin, poste du jour (période de travail)/
+日月星辰 日月星辰 [ri4 yue4 xing1 chen2] {jat6 jyut6 sing1 san4} /corps célestes, le Soleil, la Lune, les étoiles/
+日本仔 日本仔 [ri4 ben3 zi3] {jat6 bun2 zi2} /(péj.) hommes japonais, Japonais/
+日本動畫 日本动画 [ri4 ben3 dong4 hua4] {jat6 bun2 dung6 waa2} /anime, série d'animation en provenance du Japon/
+日本國 日本国 [ri4 ben3 guo2] {jat6 bun2 gwok3} /le Japon/
+日本民主黨 日本民主党 [ri4 ben3 min2 zhu3 dang3] {jat6 bun2 man4 zyu2 dong2} /Partie démocrate du Japon/
+日本航空公司 日本航空公司 [ri4 ben3 hang2 kong1 gong1 si1] {jat6 bun2 hong4 hung1 gung1 si1} /Japan Airlines, compagnie aérienne japonaise/
+日本語 日本语 [Ri4 ben3 yu3] {jat6 bun2 jyu5} /langue japonaise, le japonais/
+日本酒 日本酒 [Ri4 ben3 jiu3] {jat6 bun2 zau2} /saké, boisson alcoolisée japonaise/
+日落大道 日落大道 [ri4 luo4 da4 dao4] {jat6 lok6 daai6 dou6} /Sunset Boulevard, rue à Los Angeles/Sunset Boulevard, film sorti en 1950/
+日薄西山 日薄西山 [ri4 bo2 xi1 shan1] {jat6 bok6 sai1 saan1} /coucher du soleil/(fig.) proche de la mort/(fig.) en déclin, moribonde/
+???? 日見 日见 [ri4 jian4] {jat6 gin3} /Himi-shuku, a Nagasaki Prefecture in Japan/
+日記簿 日记簿 [ri4 ji4 bu4] {jat6 gei3 bou2} /journal intime/
+日防夜防，家賊難防 日防夜防，家贼难防 [ri4 fang2 ye4 fang2 , jia1 zei2 nan2 fang2] {jat6 fong4 je6 fong4 gaa1 caak6 naan4 fong4} /(expr. idiom.) le traître pourrait être quelqu'un à qui tu fais confiance/(lit.) protéger jour et nuit, mais il est difficile to se protéger contre un voleur dans sa propre famille/
+旦夕 旦夕 [dan4 xi1] {daan3 zik6} /le matin et le soir/en très peu de temps/
+早一排 早一排 [zao3 yi4 pai2] {zou2 jat1 paai4} /récemment, il y a peu/
+早上 早上 [zao3 shang5] {zou2 soeng6} /matin/
+早唞 早唞 [zao3 dou3] {zou2 tau2} /bonne nuit/(vulg.) va te faire foutre, va te faire voir/
+早排 早排 [zao3 pai2] {zou2 paai4} /récemment, il y a peu/
+早日 早日 [zao3ri4] {zou2 jat6} /bientôt, rapidement, promptement/dès que possible, dans les plus brefs délais, au plus tôt/
+早更 早更 [zao3 geng4] {zou2 gaang1} /quart du matin, poste du matin, quart du jour (période de travail)/
+???? 早走早著 早走早着 [zao3 zou3 zao3 zhe5] {zou2 zau2 zou2 zoek6} /to hurry someone to leave, similar to saying 'go go go'; best to retreat / get away / escape early to avoid being dragged down by something not beneficial/
+早響 早响 [zao3 xiang3] {zou2 hoeng2} /tu aurais dû le dire plus tôt/
+旬刊 旬刊 [xun2 kan1] {ceon4 hon2} /magazine publié tous les dix jours/
+旱地 旱地 [han4 di4] {hon5 dei6} /terre ferme/
+旱天 旱天 [han4 tian1] {hon5 tin1} /temps sec, sécheresse/
+旱季 旱季 [han4 ji4] {hon5 gwai3} /saison sèche/
+旱橋 旱桥 [han4 qiao2] {hon5 kiu4} /autopont, viaduc, pont routier/
+旺 旺 [wang4] {wong6} /restaurant populaire, restaurant prisé/
+???? 旺丁唔旺財 旺丁唔旺财 [wang4 ding1 n2 wang4 cai2] {wong6 ding1 m4 wong6 coi4} /describe something that will bring about the chance of having sons (seen as good traditionally) but not prosperity/
+旺區 旺区 [wang4 qu1] {wong6 keoi1} /quartier populaire, quartier prisé/
+旺場 旺场 [wang4 chang3] {wong6 coeng4} /lieu populaire, lieu prisé/
+旺季 旺季 [wang4 ji4] {wong6 gwai3} /haute saison, pleine saison/
+旺市 旺市 [wang4 shi4] {wong6 si5} /marché animé, marché florissant/qui se vend bien/
+旺舖 旺铺 [wang4 pu4] {wong6 pou3} /magasin populaire, magasin prisé/
+旺菜 旺菜 [wang4 cai4] {wong6 coi3} /pe-tsaï, chou chinois, chou de Pékin, chou napa, chou nappa/
+旻寧 旻宁 [min2 ning2] {man4 ning4} /Dauguang, Empereur de Chine/
+昂坪 昂坪 [ang2 ping2] {ngong4 ping4} /Ngong Ping, plateau de Hong Kong/
+昂坪３６０ 昂坪３６０ [ang2 ping2 san1 liu4 ling2] {ngong5 ping4３６０} /Ngong Ping 360, remontée mécanique permettant de monter sur le plateau de Ngong Ping/
+昆侖 昆仑 [Kun1 lun2] {kwan1 leon4} /cordillère du Kunlun, chaîne de montagnes en Asie/
+昆市 昆市 [kun1 shi4] {kwan1 si5} /Quincy, une ville de Massachusetts/ 
+昆布 昆布 [kun1 bu4] {kwan1 bou3} /kelp, espèce d'algue (s'emploie généralement dans le lexique de la médecine traditionelle chinoise)/
+昇降機 升降机 [sheng1 jiang4 ji1] {sing1 gong3 gei1} /ascenseur/
+昌崗站 昌岗站 [chang1 gang3 zhan4] {coeng1 gong1 zaam6} /Changgang Station, station de métro à Canton/
+昌隆 昌隆 [chang1 long2] {coeng1 lung4} /prospère/
+明 明 [ming2] {ming4} /évident, clair, indéniable/vue, faculté de voir/dynastie Ming/
+明人不說暗話 明人不说暗话 [ming2 ren2 bu4 shuo1 an4 hua4] {ming4 jan4 bat1 syut3 am3 waa6} /une personne honnête ne parle pas dans le dos des autres/
+明凈 明净 [ming2 jing4] {ming4 zing6} /propre et lumineux, propre et brillant/
+明刀明槍 明刀明枪 [ming2 dao1 ming2 qiang1] {ming4 dou1 ming4 coeng1} /(d'un agresseur) qui déclare son intention d'attaquer, qui montre ses armes, qui n'essaie pas de cacher ses intentions/
+???? 明媚 明媚 [ming2 mei4] {ming4 mei4} /belle et lumineuse, brillante et belle/
+明屈 明屈 [ming2 qu1] {ming4 wat1} /prendre quelqu'un comme bouc émissaire, faire porter le chapeau à quelqu'un d'autre, faire endosser la responsabilité à quelqu'un d'autre/
+明快 明快 [ming2 kuai4] {ming4 faai3} /sémillant, vif, alerte, lucide/(d'une personne) franc, franche, direct/
+明愛醫院 明爱医院 [ming2 ai4 yi1 yuan4] {ming4 oi3 ji1 jyun2} /Caritas Medical Centre, hôpital à Hong Kong/
 明斷 明断 [ming2 duan4] {ming4 dyun6} /clear judgement; to be clear and firm/
 明晚 明晚 [ming2 wan3] {ming4 maan5} /noun; tomorrow night/
 明智 明智 [ming2zhi4] {ming4 zi3} /(adjective) Wise/
