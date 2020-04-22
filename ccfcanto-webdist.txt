@@ -9142,7 +9142,7 @@
 掙 挣 [zheng1] {zang1} /se débarasser de, enlever/se libérer de/se battre pour, lutter pour/se démener/coude, partie du bras qui se plie/
 掙揣 挣揣 [zheng4 chuai4] {zang1 cyun2} /lutter pour, s'efforcer de faire quelque chose/
 掛 挂 [gua4] {gwaa3} /manquer à (une personne; dans le sens «tu me manques»/accroché (au mur)/(particule modale pour exprimer une situation qui est probable mais pas certaine)/
-掛住 挂住 [gua4 zhu4] {gwaa3 zyu6} /manquer à (une personne; dans le sens «tu me manques»)/repenser à quelque chose sans cesse/qui est accroché (au mur)/
+掛住 挂住 [gua4 zhu4] {gwaa3 zyu6} /manquer à (une personne; dans le sens «tu me manques»)/repenser à quelque chose sans cesse/occupé par quelque chose, être obsédé avec quelque chose/qui est accroché (au mur)/
 掛勾 挂勾 [gua4 gou1] {gwaa3 ngau1} /patère, porte-manteau, crochet/(fig.) fixer, régler, ancrer (un taux de change de devises, un prix, etc.)/
 掛名 挂名 [gua4 ming2] {gwaa3 meng2} /nominal, (quelque chose ou quelqu'un) exister seulement de nom/
 掛單 挂单 [gua4 dan1] {gwaa3 daan1} /faire un court séjour à un temple bouddhiste ou taoïste/acheter avec une carte de crédit/être célibataire/
@@ -11551,6 +11551,7 @@
 殞滅 殒灭 [yun3 mie4] {wan5 mit6} /to perish/
 殞身 殒身 [yun3 shen1] {wan5 san1} /to lose one's life/
 殭屍茶包 僵尸茶包 [jiang1 shi1 cha2 bao1] {goeng1 si1 caa4 baau1} /(noun) menstrual pad; maxi pad (lit. "vampire teabag")/
+僵尸網絡 僵尸网络 [jiang1 shi1 wang3 luo4] {goeng1 si1 mong5 lok6} /réseau de zombies, botnet/
 殮房 殓房 [lian4 fang2] {lim6 fong4} /a mortuary/
 殯殮 殡殓 [bin4 lian4] {ban3 lim6} /a funeral/
 殳書 殳书 [shu1 shu1] {syu4 syu1} /an ancient type of handwriting used for inscriptions on weapons/
@@ -15832,6 +15833,8 @@
 維持秩序 维持秩序 [wei2 chi2 zhi4 xu4] {wai4 ci4 dit6 zeoi6} /To maintain order/
 維港渡海泳 维港渡海泳 [Wei2 Gang3 du4 hai3 yong3] {wai4 gong2 dou6 hoi2 wing6} /Cross-harbor swimming/
 網 网 [wang3] {mong5} /(noun)  The Internet/
+網絡水軍 网络水军 [wang3 luo4 shui3 jun1] {mong5 lok6 seoi2 gwan1} /astroturfer, commentateur en ligne qui est payé pour simuler un mouvement populaire/
+網絡打手 网络打手 [wang3 luo4 da2 shou3] {mong5 lok6 daa2 sau2} /astroturfer, commentateur en ligne qui est payé pour simuler un mouvement populaire/
 綵排 彩排 [cai3 pai2] {coi2 paai4} /rehearsal/
 綵燈 彩灯 [cai3 deng1] {coi2 dang1} /Festive lantern/
 綽頭 绰头 [chuo4 tou2] {coek3 tau4} /a gimmick/
