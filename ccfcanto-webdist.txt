@@ -9341,7 +9341,7 @@
 搓 搓 [cuo1] {co1} /frapper la balle, retourner la balle/
 搓圓撳扁 搓圆揿扁 [cuo1 yuan2 qin4 bian3] {co1 jyun4 gam6 bin2} /(expr. idiom.) (péj.) chiffe molle, carpette, personne qui ne sait pas affirmer sa propre volonté ou exprimer ses propres opinions/(expr. idiom.) facile à vivre, avenant, sociable/(lit.) que l'on peut rouler en boule et puis aplatir/
 搓圓㩒扁 搓圆㩒扁 [cuo1 yuan2 qin2 bian3] {co1 jyun4 gam6 bin2} /(expr. idiom.) (péj.) chiffe molle, carpette, personne qui ne sait pas affirmer sa propre volonté ou exprimer ses propres opinions/(expr. idiom.) facile à vivre, avenant, sociable/(lit.) que l'on peut rouler en boule et puis aplatir/
-???? 搓波 搓波 [cuo1 bo1] {caai1 bo1} /frapper un ballon ou renvoyer un ballon pour s'échauffer (en faisant du sport), envoyer la balle à quelqu'un d'autre en s'attendant à ce que l'autre personne puisse la renvoyer, plutôt que dans le but de marquer un point contre lui/
+???? 搓波 搓波 [cuo1 bo1] {caai1 bo1} /jouer une partie sans compter les points, frapper un ballon ou renvoyer un ballon pour s'échauffer (en faisant du sport), envoyer la balle à quelqu'un d'autre en s'attendant à ce que l'autre personne puisse la renvoyer, plutôt que dans le but de marquer un point contre lui/
 搔首 搔首 [sao1 shou3] {sou1 sau2} /gratter la tête/flirter, séduire, draguer/
 搖尾乞憐 摇尾乞怜 [yao2 wei3 qi3 lian2] {jiu4 mei5 hat1 lin4} /(expr. idiom.) être obséquieux, flatter, lécher les bottes de quelqu'un/(lit.) remuer la queue et implorer la pitié/
 搖搖 摇摇 [yao2 yao2] {jiu4 jiu2} /yo-yo/(orig.) de l'anglais «yo-yo»/
@@ -10298,26 +10298,26 @@
 明屈 明屈 [ming2 qu1] {ming4 wat1} /prendre quelqu'un comme bouc émissaire, faire porter le chapeau à quelqu'un d'autre, faire endosser la responsabilité à quelqu'un d'autre/
 明快 明快 [ming2 kuai4] {ming4 faai3} /sémillant, vif, alerte, lucide/(d'une personne) franc, franche, direct/
 明愛醫院 明爱医院 [ming2 ai4 yi1 yuan4] {ming4 oi3 ji1 jyun2} /Caritas Medical Centre, hôpital à Hong Kong/
-明斷 明断 [ming2 duan4] {ming4 dyun6} /clear judgement; to be clear and firm/
-明晚 明晚 [ming2 wan3] {ming4 maan5} /noun; tomorrow night/
-明智 明智 [ming2zhi4] {ming4 zi3} /(adjective) Wise/
-明暗 明暗 [ming2 an4] {ming4 am3} /light and darkness/
-明槍暗箭 明枪暗箭 [ming2 qiang1 an4 jian4] {ming4 coeng1 am3 zin3} /verb; "a frontal spear thrust and an arrow in the dark"; Metaphor: various open and hidden attacks./
-明渠 明渠 [ming2 qu2] {ming4 keoi4} /open drain/
-明火 明火 [ming2 huo3] {ming4 fo2} /(noun)  Fire/
-明火執仗 明火执仗 [ming2 huo3 zhi2 zhang4] {ming4 fo2 zap1 zoeng3} /to commit armed robbery openly or do wrong recklessly/
-明火打劫 明火打劫 [ming2 huo3 da3 jie2] {ming4 fo2 daa2 gip3} /verb; rob with torches and weapons; open robbery act recklessly and care for nobody; doing bad thing/
-明燈 明灯 [ming2 deng1] {ming4 dang1} /beacon; a bright light; to describe someone who give tips for gambling/shares/matches but the results are often opposite to their forecast/
-明爐 明炉 [ming2 lu2] {ming4 lou4} /to grill / barbecue using charcoal fire/
-明珠台 明珠台 [ming2 zhu1 tai2] {ming4 zyu1 toi4} /Pearl channel, the English channel of TVB  /
-明瓦 明瓦 [ming2 wa3] {ming4 ngaa5} /1. a type of roof tiles made from clamshell polished into squared shapes with four rounded corners     2. name of a fiction book in China/
-明目張膽 明目张胆 [ming2mu4zhang1dan3] {ming4 muk6 zoeng1 daam2} /(idiom) 1. Blatant; 2. Blatantly/
-明知故犯 明知故犯 [ming2zhi1gu4fan4] {ming4 zi1 gu3 faan6} /(verb phrase) Violate or make problems purposely/
-明確 明确 [ming2 que4] {ming4 kok3} /precise/
-明碼 明码 [ming2 ma3] {ming4 maa5} /noun; plain code; with the price clearly marked/
-明碼實價 明码实价 [ming2 ma3 shi2 jia4] {ming4 maa5 sat6 gaa3} /clearly marked fixed price/
-明解 明解 [ming2 jie3] {ming4 gaai2} /noun; clear explanation, understand/
-明鑒 明鉴 [ming2 jian4] {ming4 gaam3} /to clearly distinguish/
+明斷 明断 [ming2 duan4] {ming4 dyun6} /jugement équitable, jugement impartial/
+明晚 明晚 [ming2 wan3] {ming4 maan5} /demain soir/
+明智 明智 [ming2 zhi4] {ming4 zi3} /sage, judicieux/
+明暗 明暗 [ming2 an4] {ming4 am3} /la lumière et les ténèbres/
+明槍暗箭 明枪暗箭 [ming2 qiang1 an4 jian4] {ming4 coeng1 am3 zin3} /(fig.) attaques ouvertes et attaques clandestines/(fig.) une lance en pleine journée, des flèches en pleine nuit/
+明渠 明渠 [ming2 qu2] {ming4 keoi4} /drain découvert, fossé ouvert/
+明火 明火 [ming2 huo3] {ming4 fo2} /flamme ouverte/
+明火執仗 明火执仗 [ming2 huo3 zhi2 zhang4] {ming4 fo2 zap1 zoeng3} /(fig.) voler de façon éhonté, impudent/(fig.) faire de mauvaises choses effrontément/(lit.) prendre ses armes à flamme ouverte/
+明火打劫 明火打劫 [ming2 huo3 da3 jie2] {ming4 fo2 daa2 gip3} /(fig.) vol éhonté/(lit.) voler avec des torches et arms/
+明燈 明灯 [ming2 deng1] {ming4 dang1} /signal lumineux, balise, gyrophare/flambeau, phare, source d'inspiration/(fig.) une personne qui prédit l'avenir, voyant, diseur de bonne aventure/(fig.) une personne qui a toujours tort quand elle donne des conseils pour parier ou quand elle donne des astuces de jeu/
+???? 明爐 明炉 [ming2 lu2] {ming4 lou4} /faire cuire au barbecue/
+明珠台 明珠台 [ming2 zhu1 tai2] {ming4 zyu1 toi4} /TVB Pearl, chaîne de télévision à Hong Kong/
+???? 明瓦 明瓦 [ming2 wa3] {ming4 ngaa5} /tuile ou bardeau fait de nacre/(nom de livre)/
+明目張膽 明目张胆 [ming2 mu4 zhang1 dan3] {ming4 muk6 zoeng1 daam2} /(expr. idiom.) éhonté, effronté, hardi/(expr. idiom.) de façon éhontée, hardie, impudente/(lit.) avec la vésicule biliaire en pleine vue/
+明知故犯 明知故犯 [ming2 zhi1 gu4 fan4] {ming4 zi1 gu3 faan6} /commettre un crime par exprès/se créer des ennuis par exprès/faire une faute par exprès/
+明確 明确 [ming2 que4] {ming4 kok3} /clair, évident, direct, précis/
+明碼 明码 [ming2 ma3] {ming4 maa5} /qui a le prix clairement indiqué/
+明碼實價 明码实价 [ming2 ma3 shi2 jia4] {ming4 maa5 sat6 gaa3} /qui a le prix clairement indiqué/
+明解 明解 [ming2 jie3] {ming4 gaai2} /comprendre/explication claire/
+???? 明鑒 明鉴 [ming2 jian4] {ming4 gaam3} /to clearly distinguish/
 昏頭轉向 昏头转向 [hun1 tou2 zhuan3 xiang4] {fan1 tau4 zyun2 hoeng3} /head spinning causing one to be dizzy and disorientated/
 易手 易手 [yi4 shou3] {jik6 sau2} /to change hands (as in transactions)/
 易拉架 易拉架 [yi4 la1 jia4] {ji6 laai1 gaa3} /a pull-up banner; a roll-up banner/
