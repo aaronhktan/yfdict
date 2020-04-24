@@ -1709,8 +1709,8 @@
 倒垃圾 倒垃圾 [dao4 la1 ji1] {dou3 laap6 saap3} /sortir la poubelle/
 倒塔咁早 倒塔咁早 [dao4 ta3 gan1 zao3] {dou2 taap3 gam3 zou2} /(expr. idiom.) très tôt le matin/(lit.) tôt comme les personnes qui vident les pots de chambre/
 倒夜香 倒夜香 [dao4 ye4 xiang1] {dou2 je6 hoeng1} /matières de vidange/
-倒屎 倒屎 [dao4 shi3] {dou2 si2} /évacuer les matières (fécales)/
-倒屎咁早 倒屎咁早 [dao4 shi3 gan1 zao3] {dou2 si2 gam3 zou2} /très tôt le matin/(lit.) tôt comme les personnes qui vident les pots de chambre/
+倒屎 倒屎 [dao4 shi3] {dou2 si2} /évacuer les matières (fécales), défequer/
+倒屎咁早 倒屎咁早 [dao4 shi3 gan1 zao3] {dou2 si2 gam3 zou2} /(fam.) (vulg.) très tôt le matin/(lit.) tôt comme les personnes qui vident les pots de chambre/
 倒後鏡 倒后镜 [dao4 hou4 jing4] {dou3 hau6 geng3} /rétroviseur/
 倒掟 倒掟 [dao4 ding4] {dou3 deng3} /être suspendu à l'envers, la tête en bas/
 倒掟頭 倒掟头 [dao4 ding4 tou2] {dou3 deng3 tau4} /avoir la tête en bas/
@@ -1721,7 +1721,7 @@
 倒瀉籮蟹 倒泻箩蟹 [dao4 xie4 luo2 xie4] {dou2 se2 lo4 haai5} /en désordre/
 倒牙 倒牙 [dao3 ya2] {dou2 ngaa4} /dents sensibles/
 倒瓤 倒瓤 [dao4 rang2] {dou2 nong4} /(des melons) trop mûrs, blets/
-倒瓤冬瓜 倒瓤冬瓜 [dao4 rang2 dong1 gua1] {dou2 nong4 dung1 gwaa1} /(expr. idiom.) quelqu'un qui donne l'impression de savoir beaucoup mais qui en fait ne sait rien/(lit.) une courge cireuse blette/
+倒瓤冬瓜 倒瓤冬瓜 [dao4 rang2 dong1 gua1] {dou2 nong4 dung1 gwaa1} /(expr. idiom.) quelqu'un qui donne l'impression de savoir beaucoup mais qui ne sait rien/(lit.) une courge cireuse blette/
 倒眼 倒眼 [dao4 yan3] {dou3 ngaan5} /strabisme, un défaut de parallélisme des axes visuels/
 倒竈 倒灶 [dao3 zao4] {dou2 zou3} /être davantage un obstacle qu'une aide/(lit.) renverser le poêle de nourriture/
 倒米 倒米 [dao4 mi3] {dou2 mai5} /(expr. idiom.) détruire une entreprise/(lit.) jeter du riz/
@@ -1731,7 +1731,7 @@
 倒褪 倒褪 [dao4 tun4] {dou3 tan3} /reculer/empirer/ne pas faire des choses en ordre/
 倒轉頭 倒转头 [dao4 zhuan3 tou2] {dou3 zyun2 tau4} /se retourner/inverser/à l'envers/au contraire/
 倔 倔 [jue2] {gwat6} /obstiné, entêté/bourru/direct, brusque/
-倔尾龍 倔尾龙 [jue2 wei3 long2] {gwat6 mei5 lung4} /perturbateur/quelqu'un qui est difficile de communiquer avec/
+倔尾龍 倔尾龙 [jue2 wei3 long2] {gwat6 mei5 lung4} /perturbateur/quelqu'un avec qui est difficile de communiquer/
 倔強 倔强 [jue2 jiang4] {gwat6 koeng5} /rigide/
 倔情 倔情 [jue2 qing2] {gwat6 cing4} /(une personne) déraisonnable, insensé/(d'une personne) froid/
 倔擂槌 倔擂槌 [jue2 lei2 chui2] {gwat6 leoi4 ceoi4} /obstiné, entêté/bourru/direct, brusque/
@@ -1740,32 +1740,32 @@
 倔頭 倔头 [jue4 tou2] {gwat6 tau4} /émoussé/chauve/cul-de-sac, impasse/
 倔頭巷 倔头巷 [jue2 tou2 xiang4] {gwat6 tau4 hong6} /cul-de-sac, impasse/
 倔頭路 倔头路 [jue2 tou2 lu4] {gwat6 tau4 lou6} /cul-de-sac, impasse/
-倖免 幸免 [xing4 mian3] {hang6 min5} /échapper par hasard/
+倖免 幸免 [xing4 mian3] {hang6 min5} /éviter par chance/
 候命 候命 [hou4 ming4] {hau6 ming6} /en état d'alerte, de garde, en attente/
 候教 候教 [hou4 jiao4] {hau6 gaau3} /en attente d'instructions/
 候機室 候机室 [hou4 ji1 shi4] {hau6 gei1 sat1} /salle d'attente dans un aéroport/
-候鑊 候镬 [hou4 huo4] {hau6 wok6} /cuisinier/être chargé de cuisiner/
-倚傍 倚傍 [yi3 bang4] {ji2 bong6} /compter sur quelque chose/
-倚憑 倚凭 [yi3 ping2] {ji2 pang4} /compter sur quelque chose/
-倚老賣老 倚老卖老 [yi3 lao3 mai4 lao3] {ji2 lou5 maai6 lou5} /quelqu'un avec plus d'expérience qui regarde de haut ceux qui en ont moins/
+候鑊 候镬 [hou4 huo4] {hau6 wok6} /cuisinier/être chargé de cuisiner, s'occuper de la cuisine/
+倚傍 倚傍 [yi3 bang4] {ji2 bong6} /compter sur (quelque chose)/
+倚憑 倚凭 [yi3 ping2] {ji2 pang4} /compter sur (quelque chose)/
+倚老賣老 倚老卖老 [yi3 lao3 mai4 lao3] {ji2 lou5 maai6 lou5} /quelqu'un avec plus d'expérience qui méprise ceux qui en ont moins/
 借 借 [jie4] {ze3} /excusez-moi, pardon/
 借一借 借一借 [jie4 yi1 jie4] {ze3 jat1 ze3} /excusez-moi, pardon/emprunter/
 借借 借借 [jie4 jie4] {ze3 ze3} /excusez-moi, pardon/
 借咗聾耳陳隻耳 借咗聋耳陈只耳 [jie4 zuo5 long2 er3 chen2 zhi1 er3] {ze3 zo2 lung4 ji5 can4 zek3 ji5} /(expr. idiom.) faire la sourde oreille/(lit.) emprunter la sourde oreille de Chen/
 借問聲 借问声 [jie4 wen4 sheng1] {ze3 man6 seng1} /excusez-moi, on voudrait demander.../
 借啲意 借啲意 [jie4 di1 yi4] {ze3 di1 ji2} /profiter d'une situation/trouver des prétextes (pour justifier quelque chose)/
-借尿遁 借尿遁 [jie4 niao4 dun4] {ze3 niu6 deon6} /éviter quelque chose en faisant semblant d'avoir besoin de faire pipi/
-借屎遁 借屎遁 [jie4 shi3 dun4] {ze3 si2 deon6} /éviter quelque chose en faisant semblant d'avoir besoin de faire caca/
+借尿遁 借尿遁 [jie4 niao4 dun4] {ze3 niu6 deon6} /éviter quelque chose en faisant semblant d'avoir besoin d'uriner/
+借屎遁 借屎遁 [jie4 shi3 dun4] {ze3 si2 deon6} /éviter quelque chose en faisant semblant d'avoir besoin de défequer/
 借意 借意 [jie4 yi4] {ze3 ji3} /trouver des excuses/
 借書 借书 [jie4 shu1] {ze3 syu1} /emprunter un livre/
 借歪 借歪 [jie4 wai1] {ze3 me2} /excusez-moi, pardon/s'écarter (du passage de quelque chose ou quelqu'un), se pousser/
 借歪啲 借歪啲 [jie4 wai1 di1] {ze3 me2 di1} /excusez-moi, pardon/s'écarter (du passage de quelque chose ou quelqu'un), se pousser/
-借殼 借壳 [jie4 ke2] {ze3 hok3} /prise de contrôle inversée/
-借水遁 借水遁 [jie4 shui3 dun4] {ze3 seoi2 deon6} /utiliser l'eau pour échapper, une expression utilisée dans la fiction des arts martiaux/
-借花敬佛 借花敬佛 [jie4 hua1 jing4 fo2] {ze3 faa1 ging3 fat6} /(expr. idiom.) prendre quelque chose donné par quelqu'un pour l'offir à qqn d'autre/(lit.) emprunter une fleur pour offrir à Bouddha/
+借殼 借壳 [jie4 ke2] {ze3 hok3} /(affaires) prise de contrôle inversée/
+借水遁 借水遁 [jie4 shui3 dun4] {ze3 seoi2 deon6} /éviter quelque chose en faisant semblant d'avoir besoin d'aller aux toilettes/
+借花敬佛 借花敬佛 [jie4 hua1 jing4 fo2] {ze3 faa1 ging3 fat6} /(expr. idiom.) prendre quelque chose donné par quelqu'un pour l'offir à quelqu'un d'autre/(lit.) emprunter une fleur pour offrir à Bouddha/
 借鑑 借鉴 [jie4 jian4] {ze3 gaam3} /faire référence à, indiquer en référence/être porté par les épaules des géants, s'appuyer sur les travaux du passé/
 借開 借开 [jie4 kai1] {ze3 hoi1} /excusez-moi, pardon (impoli)/s'écarter (du passage de quelque chose ou quelqu'un), se pousser/
-借頭借路 借头借路 [jie4 tou2 jie4 lu4] {ze3 tau4 ze3 lou6} /trouvant des excuses/tournant autour du pot/
+借頭借路 借头借路 [jie4 tou2 jie4 lu4] {ze3 tau4 ze3 lou6} /trouvant des excuses, tournant autour du pot/
 倦容 倦容 [juan4 rong2] {gyun6 jung4} /l'air fatigué/
 倫敦金屬交易所 伦敦金属交易所 [lun2 dun1 jin1 shu3 jiao1 yi4 suo3] {leon4 deon1 gam1 suk6 gaau1 jik6 so2} /London Metal Exchange (Marché des métaux de Londres)/
 倫比 伦比 [lun2 bi3] {leon4 bei2} /être égal à (quelque chose d'autre)/comparer/
@@ -1776,23 +1776,23 @@
 假 假 [jia3] {gaa2} /vacances, congés/jour férié/
 假使間 假使间 [jia3 shi3 jian1] {gaa2 si2 gaan1} /si/peut-être/
 假假哋 假假哋 [jia3 jia3 di4] {gaa2 gaa2 dei2} /au moins/
-假假地 假假地 [jia3 jia3 di4] {gaa2 gaa2 dei6} /avoir l'air un peu faux/
+假假地 假假地 [jia3 jia3 di4] {gaa2 gaa2 dei6} /avoir l'air un peu faux, sembler un peu faux/
 假單 假单 [jia3 dan1] {gaa3 daan1} /demande de congé/
-假期 假期 [jia4 qi1] {gaa3 kei4} /vanaces, congé/
-假膊 假膊 [jia3 bo2] {gaa2 bok3} /des épaulettes/des épaulières/
+假期 假期 [jia4 qi1] {gaa3 kei4} /vacances, congé/
+假膊 假膊 [jia3 bo2] {gaa2 bok3} /épaulettes/épaulières/
 偈 偈 [ji4] {gai6} /discussion, conversation/
 偈油 偈油 [ji4 you2] {gai2 jau2} /huile de graissage/
-偉大 伟大 [wei3 da4] {wai5 daai6} /magnifique/(des seins) grands/
+偉大 伟大 [wei3 da4] {wai5 daai6} /magnifique/(fam.) (vulg.) gros (seins)/
 偏幫 偏帮 [pian1 bang1] {pin1 bong1} /favoriser quelqu'un/
 偏門 偏门 [pian1 men2] {pin1 mun4} /porte latérale/activités illégales des triades chinoises/
 做 做 [zuo4] {zou6} /cuisiner/travailler/
-做七 做七 [zuo4 qi1] {zou6 cat1} /rendre hommage à un décédé une semaine après son mort/
-做世界 做世界 [zuo4 shi4 jie5] {zou6 sai3 gaai3} /voler (quelque chose de quelqu'un)/gagner sa vie/
+做七 做七 [zuo4 qi1] {zou6 cat1} /rendre hommage à un décédé une semaine après sa mort/
+做世界 做世界 [zuo4 shi4 jie5] {zou6 sai3 gaai3} /voler, cambrioler, faucher/gagner sa vie/
 做乜 做乜 [zuo4 mie1] {zou6 mat1} /que fais-tu?/pourquoi?/
 做乜嘢 做乜嘢 [zuo4 mie1 ye3] {zou6 mat1 je5} /que fais-tu?/
-做人 做人 [zuo4 ren2] {zou6 jan4} /avoir des enfants (familier)/
+做人 做人 [zuo4 ren2] {zou6 jan4} /(fam.) avoir des enfants, faire des enfants/
 做人世 做人世 [zuo4 ren2 shi4] {zou6 jan4 sai3} /être avec quelqu'un pour la vie/
-做低 做低 [zuo4 di1] {zou6 dai1} /tuer, assassiner (quelqu'un)/
+做低 做低 [zuo4 di1] {zou6 dai1} /tuer, assassiner/
 做冬 做冬 [zuo4 dong1] {zou6 dung1} /souper (Can.), dîner (Fr.) du solstice d'hiver/
 做到氣咳 做到气咳 [zuo4 dao4 qi4 ke2] {zou6 dou3 hei3 kat1} /(expr. idiom.) être très occupé, avoir trop à faire/(lit.) travailler jusqu'au bout du souffle/
 做功課 做功课 [zuo4 gong1 ke4] {zou6 gung1 fo3} /faire ses devoirs/préparer/
