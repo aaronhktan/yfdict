@@ -472,13 +472,13 @@
 上契 上契 [shang4 qi4] {soeng5 kai3} /l'établissement de la relation entre un/des parrains et son filleul(e) dans la coutume chinoise/
 上山 上山 [shang4shan1] {soeng5 saan1} /(fig.) cortège funèbre/(lit.) monter sur une montagne/
 上岸 上岸 [shang4 an4] {soeng5 ngon6} /devenir riche/
-上市 上市 [shang4 shi4] {soeng5 si5} /coté en bourse/
+上市 上市 [shang4 shi4] {soeng5 si5} /coté en bourse, figurer sur la cote de la bourse/
 上得山多終遇虎 上得山多终遇虎 [shang4 de5 shan1 duo1 zhong1 yu4 hu3] {soeng5 dak1 saan1 do1 zung1 jyu6 fu2} /(expr. idiom.) quelqu'un qui tente leur chances plusieurs fois finira mal/(lit.) une rencontre avec un tigre est inévitable si on monte souvent une montagne/
 上情下達 上情下达 [shang4 qing2 xia4 da2] {soeng6 cing4 haa6 daat6} /transmettre un ordre des supérieurs aux subordonés/
 上數 上数 [shang4 shu4] {soeng6 sou3} /selon la prononciation, peut signifier 上訴, allure/(lit.) chiffre supérieur/
 上斜 上斜 [shang4 xie2] {soeng5 ce4} /remonter une pente/
 上晝 上昼 [shang4 zhou4] {soeng6 zau3} /matin/
-上朝 上朝 [shang4 chao2] {soeng5 ciu4} /(arch.) assemblée matinale tenue par l'empereur et ses ministres, pour discuter des problèmes qui se survenaient dans leur térritoire/
+上朝 上朝 [shang4 chao2] {soeng5 ciu4} /(arch.) (litt.) assemblée matinale tenue par l'empereur et ses ministres, pour discuter des problèmes dans leur région/
 上架 上架 [shang4 jia4] {soeng5 gaa2} /mettre un nouveau produit sur les tablettes/
 上機 上机 [shang4 ji1] {soeng5 gei1} /embarquer (dans un avion)/
 上氣唔接下氣 上气唔接下气 [shang4 qi4 n2 jie1 xia4 qi4] {soeng6 hei3 m4 zip3 haa6 hei3} /essouflé/
@@ -1209,7 +1209,7 @@
 人道 人道 [ren2 dao4] {jan4 dou6} /humanitarianisme/action humaine, bonne action/
 人際關係 人际关系 [ren2 ji4 guan1 xi5] {jan4 zai3 gwaan1 hai6} /relations interpersonnelles/
 人面 人面 [ren2 mian4] {jan4 min6} /visage humain/
-人面桃花 人面桃花 [ren2 mian4 tao2 hua1] {jan4 min6 tou4 faa1} /ce qu'un homme ressent après que son partenaire le quitte/(orig. un histoire où un homme voit une femme très belle en voyageant, mais quand il revient l'année suivante, ne voit que des fleurs de pêche)/
+人面桃花 人面桃花 [ren2 mian4 tao2 hua1] {jan4 min6 tou4 faa1} /ce qu'un homme ressent après que son partenaire le quitte/(orig. une histoire où un homme voit une femme très belle lors d'un voyage, mais quand il revient au même endroit l'année suivante, ne voit que des fleurs de pêche)/
 人頭 人头 [ren2 tou2] {jan4 tau4} /tête humaine/
 人頭涌涌 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /(un endroit) bondé, plein à craquer/
 人頭湧湧 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /(un endroit) bondé, plein à craquer (voir aussi 人頭涌涌 人头涌涌)/
@@ -2591,7 +2591,7 @@
 凸字 凸字 [tu2 zi4] {dat6 zi6} /braille/
 凸眼 凸眼 [tu2 yan3] {dat6 ngaan5} /exophtalmie, une extrusion antérieure de l'œil hors de l'orbite/yeux grands ouverts, aux yeux écarquillés (de surprise)/
 凹位 凹位 [ao1 wei4] {nap1 wai2} /sillon/
-凹凸印 凹凸印 [ao1 tu1 yin4] {nap1 dat6 jan3} /embossage/
+凹凸印 凹凸印 [ao1 tu1 yin4] {nap1 dat6 jan3} /embossage, emboutissage avec outils/
 凹凹凸凸 凹凹凸凸 [ao1 ao1 tu1 tu1] {nap1 nap1 dat6 dat6} /bosselé, irregulier, accidenté/
 凹處 凹处 [ao1 chu4] {nap1 cyu3} /alcôve/
 出 出 [chu1] {ceot1} /dehors/payer (un salaire)/
