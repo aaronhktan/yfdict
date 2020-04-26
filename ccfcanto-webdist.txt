@@ -10548,30 +10548,31 @@
 月字邊 月字边 [yue4 zi4 bian1] {jyut6 zi6 bin1} /(clé de sinogrammes «月»)/
 月小 月小 [yue4 xiao3] {jyut6 siu2} /mois comptant moins de 31 jours/
 月白 月白 [yue4 bai2] {jyut6 baak6} /lunule, tache claire circulaire située sur la base de chaque ongle/
-月白風清 月白风清 [yue4 bai2 feng1 qing1] {jyut6 baak6 fung1 cing1} /a pleasant evening with a bright moon and gentle breeze/
-月結單 月结单 [yue4 jie2 dan1] {jyut6 git3 daan1} /noun; monthly statement/
-月經週期 月经周期 [yue4 jing1 zhou1 qi1] {jyut6 ging1 zau1 kei4} /the menstrual cycle/
-月薪 月薪 [yue4xin1] {jyut6 san1} /(noun) Monthly salary/
-月長石 月长石 [yue4 chang2 shi2] {jyut6 coeng4 sek6} /a moonstone/
-月頭 月头 [yue4 tou2] {jyut6 tau4} /at the beginning; start of the month/
-有 有 [you3] {jau5} /has or have/
-有一日 有一日 [you3 yi2 ri4] {jau5 jat1 jat6} /one day/
-有之 有之 [you3 zhi1] {jau5 zi1} /possible/
-有乜冬瓜豆腐 有乜冬瓜豆腐 [you3 mie1 dong1 gua1 dou4 fu5] {jau5 me1 dung1 gwaa1 dau6 fu6} /if anything unfortunate happens/
-有事慢慢講 有事慢慢讲 [you3 shi4 man4 man4 jiang3] {jau5 si6 maan4 maan5 gong2} /used when try to calm one down from anger, meaning differences or issues can be solved by a chat or conversation/
-有交易 有交易 [you3 jiao1 yi4] {jau5 gaau1 jik6} /there is a deal to be made; a doable business; to be able to agree on a deal/
-有仇不報非君子 有仇不报非君子 [you3 chou2 bu4 bao4 fei1 jun1 zi3] {jau5 sau4 bat1 bou3 fei1 gwan1 zi2} /'vengeance will be mine'; it is only righteous to seek an eye for eye/
-有便宜唔使頸 有便宜唔使颈 [you3 bian4 yi2 m2 shi3 jing3] {jau5 pin4 ji4 m4 sai2 geng2} /due to favorable situation, the original unhappy things are no longer a concern/
-有信心 有信心 [you3 xin4 xin1] {jau5 seon3 sam1} /to have confidence/
-有傷風化 有伤风化 [you3 shang1 feng1 hua4] {jau5 soeng1 fung1 faa3} /outrage public decency; detrimental to society's morals/
-有傾有講 有倾有讲 [you3 qing1 you3 jiang3] {jau5 king1 jau5 gong2} /a flowing conversation/
-有兩度 有两度 [you3 liang3 du4] {jau5 loeng5 dou6} /has the abilities or skill/
-有兩手 有两手 [you3 liang3 shou3] {jau5 loeng5 sau2} /to know a thing or two; to have some skills/
-有冇 有冇 [you3 mao3] {jau5 mou5} /often used when asking questions, such as "yes or no?" or "really or not?"; 'is there?'; 'are there?'/
-有冇搞錯 有冇搞错 [you3 mao3 gao3 cuo4] {jau5 mou5 gaau2 co3} /what's wrong?/
-有冇攪錯 有冇搅错 [you3 mao3 jiao3 cuo4] {jau5 mou5 gaau2 cok3} /'How could this be?'; 'Are you kidding?'/
-有凸 有凸 [you3 tu1] {jau5 dat6} /enough with a surplus; having leftovers/
-有分數 有分数 [you3 fen1 shu4] {jau5 fan1 sou3} /(slang) to know what to do; to know how to handle a situation;/
+月白風清 月白风清 [yue4 bai2 feng1 qing1] {jyut6 baak6 fung1 cing1} /soirée agréable, avec une pleine lune et une douce brise/
+月結單 月结单 [yue4 jie2 dan1] {jyut6 git3 daan1} /relevé mensuel/
+月經週期 月经周期 [yue4 jing1 zhou1 qi1] {jyut6 ging1 zau1 kei4} /cycle menstruel/
+月薪 月薪 [yue4 xin1] {jyut6 san1} /salaire mensuel/
+月長石 月长石 [yue4 chang2 shi2] {jyut6 coeng4 sek6} /pierre de lune/
+月頭 月头 [yue4 tou2] {jyut6 tau4} /début du mois/
+有 有 [you3] {jau5} /avoir, posséder/
+有一日 有一日 [you3 yi2 ri4] {jau5 jat1 jat6} /un de ces jours/
+有之 有之 [you3 zhi1] {jau5 zi1} /possible, faisable, réalisable/
+有乜冬瓜豆腐 有乜冬瓜豆腐 [you3 mie1 dong1 gua1 dou4 fu5] {jau5 me1 dung1 gwaa1 dau6 fu6} /(fig.) qu'un malheur arrive, qu'un accident terrible se produit/(lit.) avoir quelque chose de courge cireuse et tofu/ 
+有事慢慢講 有事慢慢讲 [you3 shi4 man4 man4 jiang3] {jau5 si6 maan4 maan5 gong2} /(s'emploie pour désamorcer une situation) on va tous se calmer un peu/(lit.) s'il y a un problème, parlons-en lentement/
+有交易 有交易 [you3 jiao1 yi4] {jau5 gaau1 jik6} /on peut parvenir à un accord, il y un marché à conclure/
+有仇不報非君子 有仇不报非君子 [you3 chou2 bu4 bao4 fei1 jun1 zi3] {jau5 sau4 bat1 bou3 fei1 gwan1 zi2} /(expr.) celui qui ne cherche pas à se venger après une agression n'est pas un homme intègre/
+有仇不報非君子，有冤不伸枉報人 有仇不报非君子，有冤不伸枉为人 [you3 chou2 bu4 bao4 fei1 jun1 zi3, you3 yuan1 bu4 shen1 wang3 wei2 ren2] {jau5 sau4 bat1 bou3 fei1 gwan1 zi2, jau5 jyun1 bat1 san1 wong2 wai6 jan4} /(expr.) celui qui ne cherche pas à se venger après une agression n'est pas un homme intègre, celui qui ne cherche pas à réparer une injustice n'est pas un homme/ 
+有便宜唔使頸 有便宜唔使颈 [you3 bian4 yi2 m2 shi3 jing3] {jau5 pin4 ji4 m4 sai2 geng2} /(expr. idiom.) quand l'on a de la chance, ce qui était originalement attristant ne l'est plus/(lit.) quand l'on trouve quelque chose bon marché, on n'a plus besoin du cou/
+有信心 有信心 [you3 xin4 xin1] {jau5 seon3 sam1} /(fig.) avoir confiance/(lit.) croire en son coeur/ 
+有傷風化 有伤风化 [you3 shang1 feng1 hua4] {jau5 soeng1 fung1 faa3} /atteinte aux bonnes moeurs, acte contraire à la décence publique/
+有傾有講 有倾有讲 [you3 qing1 you3 jiang3] {jau5 king1 jau5 gong2} /(fig.) très bonne conversation/(lit.) avoir de bavardage, avoir de quoi parler/
+有兩度 有两度 [you3 liang3 du4] {jau5 loeng5 dou6} /habile, capable, doué/
+有兩手 有两手 [you3 liang3 shou3] {jau5 loeng5 sau2} /(fig.) habile, qualifié, expert/(lit.) avoir les deux mains/
+有冇 有冇 [you3 mao3] {jau5 mou5} /est-ce qu'il y a.../(s'emploie dans les questions) ...non?/(s'emploi dans les questions) vraiment?/
+有冇搞錯 有冇搞错 [you3 mao3 gao3 cuo4] {jau5 mou5 gaau2 co3} /(exprime de l'incrédulité) vraiment? vous êtes sérieux?/
+有冇攪錯 有冇搅错 [you3 mao3 jiao3 cuo4] {jau5 mou5 gaau2 cok3} /(exprime de l'incrédulité) vraiment? vous êtes sérieux?/
+有凸 有凸 [you3 tu1] {jau5 dat6} /avoir un surplus/
+有分數 有分数 [you3 fen1 shu4] {jau5 fan1 sou3} /(fam.) savoir quoi faire, savoir comment gérer la situation/
 有利 有利 [you3li4] {jau5 lei6} /(adjective) Good for/
 有前冇後 有前冇后 [you3 qian2 mao3 hou4] {jau5 cin4 mou5 hau6} /when we say "有前冇後, 打死罷就" it describes peope doing something and just looking ahead, don't consider the result, finally to fail utterly/
 有前有後 有前有后 [you3 qian2 you3 hou4] {jau5 cin4 jau5 hau6} /describe a woman who has great body shape; literally, she has front and back./
