@@ -2779,7 +2779,7 @@
 到埗 到埗 [dao4 bu4] {dou3 bou6} /arriver, parvenir à sa destination/
 到埠 到埠 [dao4 bu4] {dou3 fau6} /arriver, parvenir à sa destination/
 到時 到时 [dao4shi2] {dou3 si4} /quand viendra le temps/
-到時到候 到时到候 [dao4 shi2 dao4 hou4] {dou3 si4 dou3 hau6} /quand viendra le bon moment/
+到時到候 到时到候 [dao4 shi2 dao4 hou4] {dou3 si4 dou3 hau6} /quand le moment sera venu, quand viendra le bon moment/
 到會 到会 [dao4 hui4] {dou3 wui6} /restauration, service traiteur/
 到死 到死 [dao4 si3] {dou3 sei2} /jusqu'à la mort/à un degré extrême/
 制 制 [zhi4] {zai3} /limiter/
@@ -15344,6 +15344,7 @@
 等到頸都長 等到颈都长 [deng3 dao4 jing3 du1 chang2] {dang2 dou3 geng2 dou1 coeng4} /a long wait (slang)/
 等唔切 等唔切 [deng3 m2 qie4] {dang2 m4 cit3} /can't wait/
 等埋 等埋 [deng3 mai2] {dang2 maai4} /wait for; wait for me/
+等埋我 等埋我 [deng3 mai2 wo3] {dang2 maai4 ngo5} /attends-moi!/
 等於零 等于零 [deng3 yu2 ling2] {dang2 jyu1 ling4} /to be of no use/
 等比定理 等比定理 [deng3 bi3 ding4 li3] {dang2 bei2 ding6 lei5} /equal ratios theorems/
 等距離 等距离 [deng3 ju4 li2] {dang2 keoi5 lei4} /Equidistant/
@@ -17891,6 +17892,8 @@
 託兒所 托儿所 [tuo1 er2 suo3] {tok3 ji4 so2} /Nursery; child-care center/
 託福 托福 [tuo1 fu2] {tok3 fuk1} /TOEFL (test of English as a foreign language)/
 託管 托管 [tuo1 guan3] {tok3 gun2} /Trusteeship; to entrust/
+託運 托运 [tuo1 yun4] {tok3 wan6} /enregistrer (ses bagages)/
+託運行李 托运行李 [tuo1 yun4 xing2 li3] {tok3 wan6 hang4 lei5} /bagage enregistré/
 記 记 [ji4] {gei3} /1. address after one's name who is very close 2. a commonly used last character of a shop name/
 記分員 记分员 [ji4 fen1 yuan2] {gei3 fan1 jyun4} /Scorekeeper/
 記掛 记挂 [ji4 gua4] {gei3 gwaa3} /thinking of; missing (spoken)/
