@@ -2797,7 +2797,7 @@
 刻字 刻字 [ke4 zi4] {hak1 zi6} /graver des caractères ou des mots/
 刻苦 刻苦 [ke4 ku3] {hak1 fu2} /ardu, difficile/
 刻薄 刻薄 [ke4 bo2] {hak1 bok6} /sévère, dur/
-剃刀門楣 剃刀门楣 [ti4 dao1 men2 mei2] {tai3 dou1 mun4 mei4} /(expr. idiom.) imposer trop de frais, trop de taxes/(lit.) se raser plus qu'une fois/
+剃刀門楣 剃刀门楣 [ti4 dao1 men2 mei2] {tai3 dou1 mun4 mei4} /(expr. idiom.) imposer trop de frais, imposer trop de taxes/(expr. idiom.) être exploité (par un magasin, une entreprise)/(lit.) se raser plus qu'une fois/
 剃眼眉 剃眼眉 [ti4 yan3 mei2] {tai3 ngaan5 mei4} /insulter ou embarasser quelqu'un en public/
 剃面 剃面 [ti4 mian4] {tai3 min6} /se raser la moustache et la barbe/
 剃鬚 剃须 [ti4 xu1] {tai3 sou1} /se raser la barbe/
@@ -2807,10 +2807,10 @@
 削仔 削仔 [xue1 zi3] {soek3 zai2} /homme faible/
 削地 削地 [xue1 di4] {soek3 dei6} /(d'un seigneur, roi) réduire l'influence d'un vassal/
 削坺坺 削坺坺 [xue1 bo4 bo4] {soek3 paat6 paat6} /(nourriture) mou, très liquide, et plein de grumeaux/
-削平 削平 [xue1 ping2] {soek3 ping4} /aplanir/
+削平 削平 [xue1 ping2] {soek3 ping4} /réprimer, assujettir/lisser une surface (avec un couteau)/
 前世唔修 前世唔修 [qian2 shi4 wu2 xiu1] {cin4 sai3 m4 sau1} /(expr. idiom.) être malchanceux/(lit.) avoir fait du mal dans sa vie antérieure/
 前世撈亂骨頭 前世捞乱骨头 [qian2 shi4 lao1 luan4 gu3 tou5] {cin4 sai3 lou1 lyun6 gwat1 tau4} /(expr. idiom.) haine mutuelle qui persiste pour longtemps/(lit.) dans une vie antérieure, leurs os se sont mélangés/
-前仆后繼 前仆后继 [qian2 pu1 hou4 ji4] {cin4 puk1 hau6 gai3} /(armée) déflier avec courage/
+前仆后繼 前仆后继 [qian2 pu1 hou4 ji4] {cin4 puk1 hau6 gai3} /(fig.) (militaire) se battre avec courage/(lit.) ceux en avant tombent à terre, mais ceux en arrière continue à avancer/
 前便 前便 [qian2 bian4] {cin4 bin6} /à l'avant/devant/
 前個排 前个排 [qian2 ge4 pai2] {cin4 go3 paai4} /avant/auparavant/il y a peu de temps/
 前列腺癌 前列腺癌 [qian2 lie4 xian4 ai2] {cin4 lit6 sin3 ngaam4} /cancer de la prostate/
@@ -2819,42 +2819,42 @@
 前嗰排 前嗰排 [qian2 g5 pai2] {cin4 go2 paai4} /avant/auparavant/il y a peu de temps/premier rang/
 前嗰牌 前嗰牌 [qian2 g5 pai2] {cin4 go2 paai4} /premier rang/
 前嗰輪 前嗰轮 [qian2 g5 lun2] {cin4 go3 leon4} /avant/auparavant/il y a peu de temps/
-前園 前园 [qian2 yuan2] {cin4 jyun4} /cour d'entrée/
-前塵往事 前尘往事 [qian2 chen2 wang3 shi4] {cin4 can4 wong5 si6} /mémoires du passée, choses qui se sont produites il y a longtemps/
+前園 前园 [qian2 yuan2] {cin4 jyun4} /cour d'entrée, jardin/
+前塵往事 前尘往事 [qian2 chen2 wang3 shi4] {cin4 can4 wong5 si6} /(fig.) souvenir du passé, choses qui se sont produites il y a longtemps/(lit.) poussière du passé/
 前山 前山 [qian2 shan1] {cin4 saan1} /Qianshan, une région de Zhuhai, Chine/
 前度 前度 [qian2 du4] {cin4 dou6} /ex- (pour parler d'un ex-mari, ex-femme, ex-copain, ex-copine, etc.) /
-前座 前座 [qian2 zuo4] {cin4 zo6} /siège avant/
+前座 前座 [qian2 zuo4] {cin4 zo6} /siège avant, banquette avant/
 前後 前后 [qian2 hou4] {cin4 hau6} /avant et arrière/un après l'autre/
 前後左右 前后左右 [qian2 hou4 zuo3 you4] {cin4 hau6 zo2 jau6} /environs/
 前後腳 前后脚 [qian2 hou4 jiao3] {cin4 hau6 goek3} /arriver un après l'autre pour éviter d'attirer l'attention/
 前思后想 前思后想 [qian2 si1 hou4 xiang3] {cin4 si1 hau6 soeng2} /bien réfléchir/
 前排 前排 [qian2 pai2] {cin4 paai4} /avant/auparavant/ces derniers temps/première rangée/
-前提 前提 [qian2 ti2] {cin4 tai4} /précondition préalable/
+前提 前提 [qian2 ti2] {cin4 tai4} /condition préalable/
 前晚 前晚 [qian2 wan3] {cin4 maan5} /nuit d'avant-hier/
-前海灣站 前海湾站 [qian2 hai3 wan1 zhan4] {cin4 hoi2 waan1 zaam6} /station Qianhaiwan, une station de métro à Shenzhen, Chine/
+前海灣站 前海湾站 [qian2 hai3 wan1 zhan4] {cin4 hoi2 waan1 zaam6} /station Qianhaiwan, une station de métro de Shenzhen, Chine/
 前無古人 前无古人 [qian2 wu2 gu3 ren2] {cin4 mou4 gu2 jan4} /sans précédent/
 前線 前线 [qian2 xian4] {cin4 sin3} /chef, dirigeant/
-前菜 前菜 [qian2 cai4] {cin4 coi3} /entrée, premier plat du repas/
+前菜 前菜 [qian2 cai4] {cin4 coi3} /entrée, premier plat d'un repas/
 前言不對後語 前言不对后语 [qian2 yan2 bu4 dui4 hou4 yu3] {cin4 jin4 bat1 deoi3 hau6 jyu5} /quelqu'un dont l'opinion change à deux occasions différentes/
-前途 前途 [qian2 tu2] {cin4 tou4} /trajectoire future/
+前途 前途 [qian2 tu2] {cin4 tou4} /trajectoire future, prospective/
 前驅 前驱 [qian2 qu1] {cin4 keoi1} /guide/précurseur/transmission de type traction/
 剎掣 刹掣 [cha4 che4] {saat3 zai3} /freiner/
 剎那 刹那 [cha4 na4] {saat3 naa5} /tout à coup, soudain/
-剒 剒 [cuo4] {cok3} /tirer, exercer une force sur quelque chose/amener quelqu'un à révéler qqch par la ruse/
-剒住度氣 剒住度气 [cuo4 zhu4 du4 qi4] {co4 zyu6 dou6 hei3} /devoir supporter quelque chose de désagréable/
-剔 剔 [ti1] {tik1} /coche, √/trait relevé ou remontant de la calligraphie chinoise, ㇀/
+剒 剒 [cuo4] {cok3} /tirer, exercer une force sur quelque chose/amener quelqu'un à révéler quelque chose par la ruse/
+剒住度氣 剒住度气 [cuo4 zhu4 du4 qi4] {co4 zyu6 dou6 hei3} /devoir supporter quelque chose de désagréable/refouler sa colère/
+剔 剔 [ti1] {tik1} /coche, √ (orig. de l'anglais «tick», coche)/trait relevé ou remontant de la calligraphie chinoise, «㇀»/
 剔手邊 剔手边 [ti1 shou3 bian1] {tik1 sau2 bin1} /radical Kangxi 64, la main 扌/
-剖心 剖心 [pou1 xin1] {pau2 sam1} /parler de son coeur/
+剖心 剖心 [pou1 xin1] {pau2 sam1} /ouvrir son coeur, parler avec son coeur/
 剖面圖 剖面图 [pou1 mian4 tu2] {pau2 min6 tou4} /image d'une coupe transversale (de quelque chose)/
 剛啱 刚啱 [gang1 yan1] {gong1 ngaam1} /justement, à ce moment/
-剛果共和國 刚果共和国 [Gang1 guo3 Gong4 he2 guo2] {gong1 gwo2 gung6 wo4 gwok3} /la République de Congo/
-剛柔相濟 刚柔相济 [gang1 rou2 xiang1 ji4] {gong1 jau4 soeng1 zai3} /balancer la sévérité et la douceur en s'occupant des gens/
+剛果共和國 刚果共和国 [gang1 guo3 gong4 he2 guo2] {gong1 gwo2 gung6 wo4 gwok3} /la République de Congo/
+剛柔相濟 刚柔相济 [gang1 rou2 xiang1 ji4] {gong1 jau4 soeng1 zai3} /trouver un équilibre entre la sévérité et la douceur dans ses relations interpersonelles/
 剝 剥 [bo1] {mok1} /écorcher, décortiquer/exploiter/
 剝光豬 剥光猪 [bao1 guang1 zhu1] {mok1 gwong1 zyu1} /nu/déshabiller/ne plus rien avoir (dans les jeux d'argent ou les jeux d'échecs)/
 剝殼 剥壳 [bo1 ke2] {mok1 hok3} /décortiquer/
 剝牙 剥牙 [bo1 ya2] {mok1 ngaa4} /extraction d'un dent/extraire un dent/
-剝皮牛 剥皮牛 [bao1 pi2 niu2] {mok1 pei4 ngau4} /Thamnaconus, un genre de poissons/
-剝花生 剥花生 [bao1 hua1 sheng1] {mok1 faa1 sang1} /tenir la chandelle/être spectateur/
+剝皮牛 剥皮牛 [bao1 pi2 niu2] {mok1 pei4 ngau4} /Thamnaconus, un type de poissons/
+剝花生 剥花生 [bao1 hua1 sheng1] {mok1 faa1 sang1} /(fig.) tenir la chandelle, servir de tiers dans une relation amoureuse/(fig.) être spectateur/(lit.) décortiquer les arachides/ 
 剝衫 剥衫 [bo1 shan1] {mok1 saam1} /se déshabiller/
 剪草 剪草 [jian3 cao3] {zin2 cou2} /tondre le gazon/
 剪髮 剪发 [jian3 fa4] {zin2 faat3} /se faire couper les cheveux/
@@ -2873,9 +2873,9 @@
 剩番 剩番 [sheng4 fan1] {zing6 faan1} /qui reste, restant/
 剩翻 剩翻 [sheng4 fan1] {zing6 faan1} /qui reste, restant/
 剩落 剩落 [sheng4 luo4] {zing6 lok6} /qui reste, restant/
-割 割 [ge1] {got3} /être opéré (par quelqu'un)/tuer/
-割價 割价 [ge1 jia4] {got3 gaa3} /solder/
-割愛 割爱 [ge1 ai4] {got3 ngoi3} /abandonner quelque chose précieuse/
+割 割 [ge1] {got3} /être opéré (par quelqu'un)/tuer, assassiner/
+割價 割价 [ge1 jia4] {got3 gaa3} /solder, vendre en solde, réduire les prix/
+割愛 割爱 [ge1 ai4] {got3 ngoi3} /abandonner quelque chose de chéri/
 割禾 割禾 [ge1 he2] {got3 wo4} /récolte de rizière/
 割禾青 割禾青 [ge1 he2 qing1] {got3 wo4 cing1} /(expr. idiom.) on devrait partir après avoir gagné de l'argent au lieu de risquer de tout perdre/(lit.) récolter le riz avant qu'il arrive à maturité/
 割脈 割脉 [ge1 mai4] {got3 mak6} /s'entailler les veines du poignet/
@@ -2883,13 +2883,13 @@
 割席 割席 [ge2 xi2] {got3 zek6} /couper les ponts, se séparer, rompre les relations avec quelqu'un/
 割蓆 割蓆 [ge2 xi2] {got3 zek6} /couper les ponts, se séparer, rompre les relations avec quelqu'un/
 割𥱊 割𥱊 [ge2 xi2] {got3 zek6} /couper les ponts, se séparer, rompre les relations avec quelqu'un/
-創 创 [chuang4] {cong3} /innover/établir/(blessure) traumatique/
+創 创 [chuang4] {cong3} /innover, créer/établir, créer une entreprise/(blessure) traumatique/
 創意產業 创意产业 [chuang4 yi4 chan3 ye4] {cong3 ji3 caan2 jip6} /économie créative/
 剷泥車 铲泥车 [chan3 ni2 che1] {caan2 nai4 ce1} /excavateur/
 剷青 铲青 [chan3 qing1] {caan2 ceng1} /couper les cheveux ras/
-剽掠 剽掠 [piao1 lüe4] {piu5 loek6} /piller, voler/
+剽掠 剽掠 [piao1 lu:e4] {piu5 loek6} /piller, voler/
 劃 划 [hua2] {waak6} /trait d'un sinogramme/
-劃花口面 划花口面 [hua4 hua1 kou3 mian4] {waak6 faa1 hau2 min6} /(expr. idiom.) qui n'est pas dans l'ensemble/(lit.) dessiner, égratigner un signe sur son propre visage (?)/
+劃花口面 划花口面 [hua4 hua1 kou3 mian4] {waak6 faa1 hau2 min6} /dessiner sur son propre visage/
 劄記 劄记 [zha2 ji4] {zaap3 gei3} /prise de notes pendant la lecture/
 劇中人 剧中人 [ju4 zhong1 ren2] {kek6 zung1 jan4} /personnages d'un drame/
 劇情片 剧情片 [ju4 qing2 pian4] {kek6 cing4 pin3} /film, long-métrage/
@@ -2897,22 +2897,22 @@
 劈友 劈友 [pi1 you3] {pek3 jau2} /combat au couteau rapproché/combat de gangs/décapitation/
 劈波斬浪 劈波斩浪 [pi1 bo1 zhan3 lang4] {pek3 bo1 zaam2 long6} /(expr. idiom.) enlever les obstacles au progrès/(lit.) couper les vagues d'eau/
 劈炮 劈炮 [pi1 pao4] {pek3 paau3} /démissionner/
-???? 劈炮唔撈 劈炮唔捞 [pi1 pao4 n2 lao1] {pek3 paau3 m4 laau4} /resigning with anger and dignity/
+劈炮唔撈 劈炮唔捞 [pi1 pao4 n2 lao1] {pek3 paau3 m4 laau4} /démissionner/
 劈酒 劈酒 [pi1 jiu3] {pek3 zau2} /consommation excessive d'alcool/binge drinking, biture express/
-劈頭 劈头 [pi1 tou2] {pek3 tau4} /en plein visage, directement/
-劉以達 刘以达 [liu2 yi3 da2] {lau4 ji5 daat6} /Tats Lau, une chanteuse et actrice hongkongaise/
-劉備借荊州 刘备借荆州 [liu2 bei4 jie4 jing1 zhou1] {lau4 bei6 ze3 ging1 zau1} /refuser de retourner quelque chose emprunté/
-劉嘉玲 刘嘉玲 [liu2 jia1 ling2] {lau4 gaa1 ling4} /Carina Lau, une actrice hongkongaise/
-劉夢熊 刘梦熊 [liu2 meng4 xiong2] {lau4 mung6 hung4} /Lew Mon-Hung, un homme d'affaires et homme politique hongkongais, surnommé «Dream Bear», ours des rêves/
-劉家良 刘家良 [liu2 jia1 liang2] {lau4 gaa1 loeng4} /Lau Kar-Leung, acteur, réalisateur, choréographe, et artiste martial honkongais/
-劉小慧 刘小慧 [liu2 xiao3 hui4] {lau4 siu2 wai6} /Winnie Lau, une chanteuse hongkongaise/
-劉慧卿 刘慧卿 [liu2 hui4 qing1] {lau4 wai6 hing1} /Emily Lau, une femme politique hongkongaise/
-劉江華 刘江华 [liu2 jiang1 hua2] {lau4 gong1 waa4} /Lau Kong-Wah, ministre de l'Intérieur de Hong Kong/
-劉美君 刘美君 [liu2 mei3 jun1] {lau4 mei5 gwan1} /Prudence Liew, une chanteuse et actrice hongkongaise/
-劉錫明 刘锡明 [liu2 xi1 ming2] {lau4 sek3 ming4} /Canti Lau, un chanteur et acteur hongkongais/
+劈頭 劈头 [pi1 tou2] {pek3 tau4} /en plein visage, directement/au début, dès le départ/
+劉以達 刘以达 [liu2 yi3 da2] {lau4 ji5 daat6} /Tats Lau, chanteuse et actrice hongkongaise/
+劉備借荊州 刘备借荆州 [liu2 bei4 jie4 jing1 zhou1] {lau4 bei6 ze3 ging1 zau1} /refuser de retourner un article prêté/
+劉嘉玲 刘嘉玲 [liu2 jia1 ling2] {lau4 gaa1 ling4} /Carina Lau, actrice hongkongaise/
+劉夢熊 刘梦熊 [liu2 meng4 xiong2] {lau4 mung6 hung4} /Lew Mon-Hung, homme d'affaires et homme politique hongkongais, surnommé «Dream Bear», ours des rêves/
+劉家良 刘家良 [liu2 jia1 liang2] {lau4 gaa1 loeng4} /Lau Kar-Leung, acteur, réalisateur, choréographe et artiste martial honkongais/
+劉小慧 刘小慧 [liu2 xiao3 hui4] {lau4 siu2 wai6} /Winnie Lau, chanteuse hongkongaise/
+劉慧卿 刘慧卿 [liu2 hui4 qing1] {lau4 wai6 hing1} /Emily Lau, femme politique hongkongaise/
+劉江華 刘江华 [liu2 jiang1 hua2] {lau4 gong1 waa4} /Lau Kong-Wah, ancien ministre de l'Intérieur de Hong Kong/
+劉美君 刘美君 [liu2 mei3 jun1] {lau4 mei5 gwan1} /Prudence Liew, chanteuse et actrice hongkongaise/
+劉錫明 刘锡明 [liu2 xi1 ming2] {lau4 sek3 ming4} /Canti Lau, chanteur et acteur hongkongais/
 劉霞 刘霞 [liu2 xia2] {lau4 haa4} /Liu Xia, femme de Liu Xiao-Bo/
-劍俠 剑侠 [jian4 xia2] {gim3 hap6} /«A Legend of Chinese Immortal», une série télévisée/
-劍擊 剑击 [jian4 ji1] {gim3 gik1} /escrime/
+劍俠 剑侠 [jian4 xia2] {gim3 hap6} /«A Legend of Chinese Immortal», la Légende d'un Chinois immortel, une série télévisée/
+劍擊 剑击 [jian4 ji1] {gim3 gik1} /escrime, sport/
 劍花 剑花 [jian4 hua1] {gim3 faa1} /fleur du hylocereus undatus, dont le fruit est le pitaya, ou fruit de dragon/
 劍蘭 剑兰 [jian4 lan2] {gim3 laan4} /glaïeul/
 劍鞘 剑鞘 [jian4 qiao4] {gim3 ciu3} /fourreau/
@@ -2920,42 +2920,42 @@
 劏客 劏客 [dang1 ke4] {tong1 haak3} /arnaquer les clients/
 劏房 劏房 [dang1 fang2] {tong1 fong4} /appartement en colocation/
 劏死牛 劏死牛 [dang1 si3 niu2] {tong1 sei2 ngau4} /(expr. idiom.) aggression, vol à main armée/(lit.) abattre une vache à mort/
-劏白鶴 劏白鹤 [dang1 bai2 he4] {tong1 baak6 hok6} /(expr. idioml.) saoul, ivre/(expr. idiom.) qui a la guele de bois/(lit.) abattre la grue blanche/
+劏白鶴 劏白鹤 [dang1 bai2 he4] {tong1 baak6 hok6} /(expr. idioml.) saoul, ivre/(expr. idiom.) qui a la gueule de bois/(lit.) abattre la grue blanche/
 劏豬 劏猪 [dang1 zhu1] {tong1 zyu1} /abattre un cochon/
 劏車 劏车 [dang1 che1] {tong1 ce1} /mettre (une voiture) à la casse/
 劏開 劏开 [dang1 kai1] {tong1 hoi1} /ouvrir (un animal)/
 劏雞 劏鸡 [dang1 ji1] {tong1 gai1} /abattre un poulet/
 劗 劗 [zuan1] {zin2} /couper (avec des ciseaux)/
 力架 力架 [li4 jia4] {lik6 gaa2} /lacque/
-力氣 力气 [li4 qi5] {lik6 hei3} /effort/
-力水 力水 [li4 shui3] {lik6 seoi2} /force/
+力氣 力气 [li4 qi5] {lik6 hei3} /effort, force physique/
+力水 力水 [li4 shui3] {lik6 seoi2} /force physique/
 力行雞 力行鸡 [li4 xing2 ji1] {lik6 hong4 gai1} /leghorn, une espèce de poulet/
-力透紙背 力透纸背 [li4 tou4 zhi3 bei4] {lik6 tau3 zi2 bui3} /la beauté de la composition et les thèmes d'un oeuvre littéraire ou poème/
+力透紙背 力透纸背 [li4 tou4 zhi3 bei4] {lik6 tau3 zi2 bui3} /(un oeuvre littéraire ou poème) profond, puissant, puissant/
 功 功 [gong1] {gung1} /effort/
 功勞 功劳 [gong1 lao2] {gung1 lou4} /contribution, effort/
-功夫片 功夫片 [gong1 fu5 pian4] {gung1 fu1 pin3} /émissions de télé et films d'arts martiaux chinois/
+功夫片 功夫片 [gong1 fu5 pian4] {gung1 fu1 pin3} /séries télévisées et films chinois d'arts martiaux/
 加人工 加人工 [jia1 ren2 gong1] {gaa1 jan4 gung1} /hausse de salaire/
 加以 加以 [jia1 yi3] {gaa1 ji5} /additionner, plus (mathématiques)/
-加侖 加仑 [jia1 lun2] {gaa1 leon2} /gallon/
+加侖 加仑 [jia1 lun2] {gaa1 leon2} /gallon/(orig.) de l'anglais «gallon»/
 加元 加元 [Jia1 yuan2] {gaa1 jyun4} /dollar canadien/
 加加埋埋 加加埋埋 [jia1 jia1 mai2 mai2] {gaa1 gaa1 maai4 maai4} /tout ajouter/
 加埋 加埋 [jia1 mai2] {gaa1 maai4} /ajouter ensemble/égaler/
 加大碼 加大码 [jia1 da4 ma3] {gaa1 daai6 maa5} /taille extra-grand/
-加害於 加害于 [jia1 hai4 wu1] {gaa1 hoi6 jyu1} /monter un coup contre/
+加害於 加害于 [jia1 hai4 wu1] {gaa1 hoi6 jyu1} /monter un coup contre, piéger/
 加幣 加币 [jia1 bi4] {gaa1 bai6} /monnaie canadienne/
 加底 加底 [jia1 di3] {gaa1 dai2} /ajouter un aliment de base à un repas/ajouter de base de soupe/
 加把口 加把口 [jia1 ba3 kou3] {gaa1 baa2 hau2} /interrompre une conversation/
-加拿大人 加拿大人 [Jia1 na2 da4 ren2] {gaa1 naa4 daai6 jan4} /Canadien(ne)/
+加拿大人 加拿大人 [jia1 na2 da4 ren2] {gaa1 naa4 daai6 jan4} /Canadien, Canadienne/
 加拿大元 加拿大元 [jia1 na2 da4 yuan2] {gaa1 naa4 daai6 jyun4} /dollar canadien/
 加拿大最高法院 加拿大最高法院 [jia1 na2 da4 zui4 gao1 fa3 yuan4] {gaa1 naa4 daai6 zeoi3 gou1 faat3 jyun2} /Cour suprême du Canada/
-加拿大廣播公司 加拿大广播公司 [jia1 na2 da4 guang3 bo1 gong1 si1] {gaa1 naa4 daai6 gwong2 bo3 gung1 si1} /Société Radio-Canada/
-加拿大航空 加拿大航空 [jia1 na2 da4 hang2 kong1] {gaa1 naa4 daai6 hong4 hung1} /Air Canada/
+加拿大廣播公司 加拿大广播公司 [jia1 na2 da4 guang3 bo1 gong1 si1] {gaa1 naa4 daai6 gwong2 bo3 gung1 si1} /Société Radio-Canada, société de diffusion du Canada/
+加拿大航空 加拿大航空 [jia1 na2 da4 hang2 kong1] {gaa1 naa4 daai6 hong4 hung1} /Air Canada, compagnie aérienne du Canada/
 加插 加插 [jia1 cha1] {gaa1 caap3} /insérer/ajouter un extra/
 加數 加数 [jia1 shu4] {gaa1 sou3} /addition (mathématiques) /
 加油 加油 [jia1 you2] {gaa1 jau4} /encourager/
 加深 加深 [jia1shen1] {gaa1 sam1} /approfondir ses connaissances, mieux comprendre quelque chose/agrandir/
 加熱器 加热器 [jia1 re4 qi4] {gaa1 jit6 hei3} /radiateur/
-加班費 加班费 [jia1 ban1 fei4] {gaa1 baan1 fai3} /rénumération des heures supplémentaires/
+加班費 加班费 [jia1 ban1 fei4] {gaa1 baan1 fai3} /rénumération ou indemnité des heures supplémentaires/
 加稅 加税 [jia1 shui4] {gaa1 seoi3} /hausse de taxes/
 加紙 加纸 [jia1 zhi3] {gaa1 zi2} /dollar canadien/
 加菜 加菜 [jia1 cai4] {gaa1 coi3} /commander, manger un (ou plusieurs) plat(s) de plus dans un repas/
@@ -2970,29 +2970,29 @@
 助養 助养 [zhu4 yang3] {zo6 joeng5} /soutenir les soins de quelque chose/
 努力 努力 [nu3 li4] {nou5 lik6} /appliqué, assidu/
 努力奮鬥 努力奋斗 [nu3 li4 fen4 dou4] {nou5 lik6 fan5 dau3} /travailler fort sur (quelque chose)/
-劫案 劫案 [jie2 an4] {gip3 on3} /vol (crime)/
-劬勞 劬劳 [qu2 lao2] {keoi4 lou4} /épreuves d'être parent/
+劫案 劫案 [jie2 an4] {gip3 on3} /vol, cambriolage/
+劬勞 劬劳 [qu2 lao2] {keoi4 lou4} /défis des parents/
 効力 效力 [xiao4 li4] {haau6 lik6} /travailler pour, servir/
 勁 劲 [jin4] {ging3} /impressionant/de manière impressionante/cool/puissant/
 勁悶 劲闷 [jin4 men4] {ging6 mun6} /très ennuyant/
-勁抽 劲抽 [jin4 chou1] {ging6 cau1} /grand, extraordinaire, puissant (d'une personne)/
-勁歌 劲歌 [jing4 ge1] {ging6 go1} /chanson forte/
+勁抽 劲抽 [jin4 chou1] {ging6 cau1} /(personne) grand/extraordinaire/puissant/capable, compétent, bon à (quelque chose)/
+勁歌 劲歌 [jing4 ge1] {ging6 go1} /chanson bien rythmée/
 勃然大怒 勃然大怒 [bo2 ran2 da4 nu4] {but6 jin4 daai6 nou6} /s'enrager, devenir très fâché/
 勇冠三軍 勇冠三军 [yong3 guan4 san1 jun1] {jung5 gun3 saam1 gwan1} /(expr. idiom.) courage sans égal/(lit.) le plus brave dans toute l'armée/
-勇敢善戰 勇敢善战 [yong3 gan3 shan4 zhan4] {jung5 gam2 sin6 zin3} /être courageux au combat/
-勇者不懼 勇者不惧 [yong3 zhe3 bu4 ju4] {jung5 ze2 bat1 geoi6} /un esprit courageux n'a pas peur/
+勇敢善戰 勇敢善战 [yong3 gan3 shan4 zhan4] {jung5 gam2 sin6 zin3} /(militaire) se battre avec courage/
+勇者不懼 勇者不惧 [yong3 zhe3 bu4 ju4] {jung5 ze2 bat1 geoi6} /une personne courageuse n'a pas peur/
 勒 勒 [lei1] {lak6} /faire chanter, extorquer/pauvre, indigent/
-勒住 勒住 [le4 zhu5] {lak6 zyu6} /étranglé/manquer d'argent/
+勒住 勒住 [le4 zhu5] {lak6 zyu6} /étranglé/(fig.) manquer d'argent/
 勒實褲頭帶 勒实裤头带 [le4 shi2 ku4 tou2 dai4] {lak6 sat6 fu3 tau4 daai2} /(expr. idiom.) économiser de l'argent pour les dépenses quotidiennes/(lit.) resserrer sa ceinture/
 勒緊褲頭 勒紧裤头 [lei1 jin3 ku4 tou2] {lak6 gan2 fu3 tau4} /(expr. idiom.) économiser de l'argent pour les dépenses quotidiennes/(lit.) resserrer sa ceinture/
 動 动 [dong4] {dung6} /manger/boire/
 動之以情 动之以情 [dong4 zhi1 yi3 qing2] {dung6 zi1 ji5 cing4} /émouvoir/
 動人心弦 动人心弦 [dong4 ren2 xin1 xian2] {dung6 jan4 sam1 jyun4} /émouvant/
-動力 动力 [dong4 li4] {dung6 lik6} /motivation/
+動力 动力 [dong4 li4] {dung6 lik6} /motivation, impulsion, élan/
 動力機 动力机 [dong4 li4 ji1] {dung6 lik6 gei1} /moulin à vent/
 動力火車 动力火车 [dong4 li4 huo3 che1] {dung6 lik6 fo2 ce1} /Power Station, un groupe de rock Taïwanais/
 動態平衡 动态平衡 [dong4 tai4 ping2 heng2] {dung6 taai3 ping4 hang4} /équilibre dynamique/
-動手 动手 [dong4 shou3] {dung6 sau2} /commencer à travailler (sur quelque chose)/frapper avec la main/
+動手 动手 [dong4 shou3] {dung6 sau2} /(fig.) commencer à travailler (sur quelque chose)/frapper avec la main/
 動手術 动手术 [dong4 shou3 shu4] {dung6 sau2 seot6} /être opéré (chirurgie)/
 動物學家 动物学家 [dong4 wu4 xue2 jia1] {dung6 mat6 hok6 gaa1} /zoologiste/
 動畫 动画 [dong4 hua4] {dung6 waa2} /dessin animé/
