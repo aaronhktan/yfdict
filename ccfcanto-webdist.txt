@@ -370,7 +370,7 @@
 三個字 三个字 [san1 ge4 zi4] {saam1 go3 zi6} /trois caractères/quinze minutes (voir 一個字 ou 一个字 pour origine)/
 三個骨 三个骨 [san1 ge4 gu3] {saam1 go3 gwat1} /trois quarts/quarante-cinq minutes/
 三元里 三元里 [san1 yuan2 li3] {saam1 jyun4 lei5} /Sanyuanli, un endroit de Canton/
-三元里站 三元里站 [san1 yuan2 li3 zhan4] {saam1 jyun4 lei5 zaam6} /Station Sanyuanli, une station de métro de Canton/
+三元里站 三元里站 [san1 yuan2 li3 zhan4] {saam1 jyun4 lei5 zaam6} /Station Sanyuanli, une station du métro de Canton/
 三兩下手勢 三两下手势 [san1 liang3 xia4 shou3 shi4] {saam1 loeng5 haa5 sau2 sai3} /(fig.) une chose urgente, quelque chose qui doit être faite rapidement/(lit.) deux ou trois gestes/
 三八婦女節 三八妇女节 [San1 Ba1 Fu4 nü3 jie2] {saam1 baat3 fu5 neoi5 zit3} /le huit mars, la Journée internationale des femmes/
 三六 三六 [san1 liu4] {saam1 luk6} /chien/
@@ -415,7 +415,7 @@
 三枝桅 三枝桅 [san1 zhi1 wei2] {saam1 zi1 ngai4} /trois-mâts/
 三柴 三柴 [san1 chai2] {saam1 caai4} /sergeant (orig. les insignes des sergeants ont trois chevrons)/
 三條 三条 [san1 tiao2] {saam1 tiu4} /trois bâtonnets (de quelque chose)/trois bandes (de quelque chose)/
-三棟屋博物館 三栋屋博物馆 [san1 dong4 wu1 bo2 wu4 guan3] {saam1 dung6 uk1 bok3 mat6 gun2} /Musée Sam Tung Uk, situé dans la ville de Hong Kong/(lit.) musée de la maison à trois poutres/
+三棟屋博物館 三栋屋博物馆 [san1 dong4 wu1 bo2 wu4 guan3] {saam1 dung6 uk1 bok3 mat6 gun2} /Musée Sam Tung Uk, situé à Hong Kong/(lit.) musée de la maison à trois poutres/
 三步揦埋兩步 三步揦埋两步 [san1 bu4 la2 mai2 liang3 bu4] {saam1 bou6 laa3 maai4 loeng5 bou6} /(fig.) marcher à grands pas/(lit.) couvrir une distance de trois pas avec deux/
 三歲定八十 三岁定八十 [san1 sui4 ding4 ba1 shi2] {saam1 seoi3 ding6 baat3 sap6} /(fig.) le comportement d'un enfant à trois ans déterminera on comportement comme adulte/(lit.) trois ans détermine quatre-vingts/
 三江 三江 [san1 jiang1] {saam1 gong1} /les trois rivières: le Heilongjiang, l'Oussouri and la rivière Songhua/
@@ -647,7 +647,7 @@
 世姪 世侄 [shi4 zhi2] {sai3 zat6} /fils d'un ami de la famille/
 世態 世态 [shi4 tai4] {sai3 taai3} /l'état d'une société, situation d'une société/
 世界上 世界上 [shi4 jie4 shang4] {sai3 gaai3 soeng6} /dans ce monde/autour du monde/
-世界之窗站 世界之窗站 [shi4 jie4 zhi1 chuang1 zhan4] {sai3 gaai3 zi1 coeng1 zaam6} /station «Window of the World» (Fenêtre du Monde), station de métro de Shenzhen/
+世界之窗站 世界之窗站 [shi4 jie4 zhi1 chuang1 zhan4] {sai3 gaai3 zi1 coeng1 zaam6} /station «Window of the World» (Fenêtre du Monde), station du métro de Shenzhen/
 世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /homme sociable/(péj.) homme sage/béni-oui-oui, paillason/(lit.) un enfant du monde/
 世界史 世界史 [shi4 jie4 shi3] {sai3 gaai3 si2} /l'histoire (dans le sens de la connaissance du passé)/
 世界女 世界女 [shi4 jie4 nü3] {sai3 gaai3 neoi5} /femme qui gère bien les personnes, particulièrement ses supérieurs/
@@ -737,8 +737,8 @@
 中更 中更 [zhong1 geng1] {zung1 gang1} /poste du milieu de la journée de travail (plutôt que le poste de matin ou le poste de nuit)/titre des seigneurs chinois/changement en plein milieu de quelque chose/
 中樂 中乐 [zhong1 yue4] {zung1 ngok6} /musique chinoise/
 中檔 中档 [zhong1 dang4] {zung1 dong3} /milieu de gamme/
-中環中心 中环中心 [zhong1 huan2 zhong1 xin1] {zung1 waan4 zung1 sam1} /The Center, un gratte-ciel situé dans la ville de Hong Kong/
-中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /Central Plaza, un gratte-ciel situé dans la ville de Hong Kong/
+中環中心 中环中心 [zhong1 huan2 zhong1 xin1] {zung1 waan4 zung1 sam1} /The Center, un gratte-ciel situé à Hong Kong/
+中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /Central Plaza, un gratte-ciel situé à Hong Kong/
 中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /Central Market, un site historique situé à Central, Hong Kong /
 中用 中用 [zhong1 yong4] {zung1 jung6} /util/
 中碼 中码 [zhong1 ma3] {zung1 maa5} /taille moyen (pour vêtements)/
@@ -883,7 +883,7 @@
 九曲十三彎 九曲十三弯 [jiu3 qu1 shi2 san1 wan1] {gau2 kuk1 sap6 saam1 waan1} /(fig.) voie très sinueuse/(lit.) neuf coudes, treize courbes/
 九江煎堆 九江煎堆 [jiu3 jiang1 jian1 dui1] {gau2 gong1 zin1 deoi1} /Jiujiang jian dui, patisserie chinoise frite/
 九肚魚 九肚鱼 [jiu3 du4 yu2] {gau2 tou5 jyu4} /espèce de poisson-lézard, Harpadon nehereus/
-九針群島 九针群岛 [jiu3 zhen1 qun2 dao3] {gau2 zam1 kwan4 dou2} /îles Ninepin, situées dans la ville de Hong Kong/
+九針群島 九针群岛 [jiu3 zhen1 qun2 dao3] {gau2 zam1 kwan4 dou2} /îles Ninepin, situées à Hong Kong/
 九鐵 九铁 [jiu3 tie3] {gau2 tit3} /Kowloon-Canton Railway/
 九點鐘 九点钟 [jiu3 dian3 zhong1] {gau2 dim2 zung1} /neuf heures (e.g. du matin)/
 九龍公園 九龙公园 [Jiu3 long2 gong1 yuan2] {gau2 lung4 gung1 jyun4} /Parc Kowloon/
@@ -1028,7 +1028,7 @@
 五千 五千 [wu3 qian1] {ng5 cin1} /cinq mille/
 五味架 五味架 [wu3 wei4 jia4] {ng5 mei6 gaa2} /ménagère de table, un ensemble de petits récipients contenant des épices/(lit.) étagère à cinq saveurs/
 五山 五山 [Wu3 Shan1] {ng5 saan1} /Wushan, un endroit situé à Canton, Chine/
-五山站 五山站 [wu3 shan1 zhan4] {ng5 saan1 zaam6} /station Wushan, une station de métro située à Canton, Chine/
+五山站 五山站 [wu3 shan1 zhan4] {ng5 saan1 zaam6} /station Wushan, une station du métro de Canton, Chine/
 五年 五年 [wu3 nian2] {ng5 nin4} /cinq ans/
 五指 五指 [wu3 zhi3] {ng5 zi2} /cinq doigts/
 五日 五日 [wu3 ri4] {ng5 jat6} /cinq jours/le cinquième jour d'un mois/
@@ -1135,7 +1135,7 @@
 亦都 亦都 [yi1 du1] {jik6 dou1} /aussi, également/
 享有 享有 [xiang3 you3] {hoeng2 jau5} /bénificier de quelque chose, jouir de quelque chose/
 享福 享福 [xiang3 fu2] {hoeng2 fuk1} /se profiter pleinement de sa vie/vivre confortablement/
-京溪南方醫院站 京溪南方医院站 [jing1 xi1 nan2 fang1 yi1 yuan4 zhan4] {ging1 kai1 naam4 fong1 ji1 jyun2 zaam6} /station Jingxi Southern Hospital, une station de métro située à Canton/
+京溪南方醫院站 京溪南方医院站 [jing1 xi1 nan2 fang1 yi1 yuan4 zhan4] {ging1 kai1 naam4 fong1 ji1 jyun2 zaam6} /station Jingxi Southern Hospital, une station du métro de Canton/
 京都市 京都市 [jing1 du1 shi4] {ging1 dou1 si5} /Kyoto, une ville au Japon/
 京都議定書 京都议定书 [jing1 du1 yi4 ding4 shu1] {ging1 dou1 ji5 ding6 syu1} /Protocole de Kyoto/
 亭亭 亭亭 [ting2 ting2] {ting4 ting4} /élégant (pour parler de femmes)/
@@ -1151,7 +1151,7 @@
 人倫 人伦 [ren2 lun2] {jan4 leon4} /relations interpersonelles (dans le contexte de la pensée de Confucius)/
 人像 人像 [ren2 xiang4] {jan4 zoeng6} /portrait, image d'une personne/
 人和 人和 [ren2 he2] {jan4 wo4} /obtenir le soutien du public/
-人和站 人和站 [ren2 he2 zhan4] {jan4 wo4 zaam6} /station Renhe, une station de métro située à Canton/
+人和站 人和站 [ren2 he2 zhan4] {jan4 wo4 zaam6} /station Renhe, une station du métro de Canton/
 人哋 人哋 [ren2 di4] {jan4 dei6} /autrui, les autres/quelqu'un, quelqu'un d'autre/il ou elle/je/voir aussi 人地/
 人嚟 人嚟 [ren2 li2] {jan4 lai4} /expression pour appeler quelqu'un/
 人地 人地 [ren2 di4] {jan4 dei6} /autrui, les autres/quelqu'un, quelqu'un d'autre/il ou elle/je/voir aussi 人哋/
@@ -2275,7 +2275,7 @@
 公告 公告 [gong1 gao4] {gung1 gou3} /annonce publique/
 公告欄 公告栏 [gong1 gao4 lan2] {gung1 gou3 laan4} /panneau d'affichage communautaire, babillard/
 公因數 公因数 [gong1 yin1 shu4] {gung1 jan1 sou3} /plus grand commun diviseur/
-公園前站 公园前站 [gong1 yuan2 qian2 zhan4] {gung1 jyun4 cin4 zaam6} /station Gongyuanqian, une station de métro de Canton, Chine/
+公園前站 公园前站 [gong1 yuan2 qian2 zhan4] {gung1 jyun4 cin4 zaam6} /station Gongyuanqian, une station du métro de Canton, Chine/
 公契 公契 [gong1 qi4] {gung1 kai3} /«deed of mutual covenant», acte de proprieté mutuelle/
 公娼 公娼 [gong1 chang1] {gung1 coeng1} /prostituée légale/
 公安人員 公安人员 [gong1 an1 ren2 yuan2] {gung1 on1 jan4 jyun4} /agent de sécurité publique en Chine/
@@ -2831,7 +2831,7 @@
 前排 前排 [qian2 pai2] {cin4 paai4} /avant/auparavant/ces derniers temps/première rangée/
 前提 前提 [qian2 ti2] {cin4 tai4} /condition préalable/
 前晚 前晚 [qian2 wan3] {cin4 maan5} /nuit d'avant-hier/
-前海灣站 前海湾站 [qian2 hai3 wan1 zhan4] {cin4 hoi2 waan1 zaam6} /station Qianhaiwan, une station de métro de Shenzhen, Chine/
+前海灣站 前海湾站 [qian2 hai3 wan1 zhan4] {cin4 hoi2 waan1 zaam6} /station Qianhaiwan, une station du métro de Shenzhen, Chine/
 前無古人 前无古人 [qian2 wu2 gu3 ren2] {cin4 mou4 gu2 jan4} /sans précédent/
 前線 前线 [qian2 xian4] {cin4 sin3} /chef, dirigeant/
 前菜 前菜 [qian2 cai4] {cin4 coi3} /entrée, premier plat d'un repas/
@@ -3247,7 +3247,7 @@
 南橋 南桥 [nan2 qiao2] {naam4 kiu4} /southbridge, une des deux puces du chipset d'une carte mère/
 南洋伯 南洋伯 [nan2 yang2 bo2] {naam4 joeng2 baak3} /hommes chinois qui sont nés et ont grandi dans les pays de l'Asie du Sud-Ouest/
 南洋客 南洋客 [nan2 yang2 ke4] {naam4 joeng4 haak3} /hommes chinois qui sont revenus à Chine venant de l'Asie du Sud-Ouest/
-南洲站 南洲站 [nan2 zhou1 zhan4] {naam4 zau1 zaam6} /station Nanzhou, une station de métro à Guangzhou, Chine/
+南洲站 南洲站 [nan2 zhou1 zhan4] {naam4 zau1 zaam6} /station Nanzhou, une station du métro de Canton, Chine/
 南浦 南浦 [nan2 pu3] {naam4 pou2} /Nanpu, un nom ancien de Wanzhou en Chine/Nampo, une ville de la Corée du Sud/
 南海十三郎 南海十三郎 [Nan2 Hai3 shi2 san1 lang2] {naam4 hoi2 sap6 saam1 long4} /«Nam Hoi 13th Man», le treizième homme de Nam Hoi, un surnom pour Kong Yu-Miu, scénariste de l'opéra cantonais/
 南溫帶 南温带 [nan2 wen1 dai4] {naam4 wan1 daai3} /«South Temperate Zone», zone tempérée du sud, la partie de la Terre entre le tropique du Capricorne et le cercle antarctique/
@@ -3694,7 +3694,7 @@
 同人唔同命，同遮唔同柄 同人唔同命，同遮唔同柄 [tong2 ren2 n2 tong2 ming4 , tong2 zhe1 n2 tong2 bing3] {tung4 jan4 m4 tung4 ming6 tung4 ze1 m4 tung4 beng3} /chacun a son propre destin/(lit.) même personnes, différentes vies; même parapluie, différentes poignées/
 同仁 同仁 [tong2 ren2] {tung4 jan4} /camarades, collègues/
 同位角 同位角 [tong2 wei4 jiao3] {tung4 wai6 gok3} /angles correspondants/
-同和站 同和站 [tong2 he2 zhan4] {tung4 wo2 zaam6} /station Tonghe, une station de métro à Guangzhou/
+同和站 同和站 [tong2 he2 zhan4] {tung4 wo2 zaam6} /station Tonghe, une station du métro de Canton/
 同埋 同埋 [tong2 mai2] {tung4 maai4} /et/avec/
 同姓 同姓 [tong2 xing4] {tung4 sing3} /même nom de famille/
 同學會 同学会 [tong2 xue2 hui4] {tung4 hok6 wui5} /bureau des étudiants, association des étudiants/
@@ -4593,7 +4593,7 @@
 嘈生曬 嘈生晒 [cao2 sheng1 shai4] {cou4 saang1 saai3} /qui fait du vacarme/
 嘈耳 嘈耳 [cao2 er3] {cou4 ji5} /bruyant/
 嘈醒 嘈醒 [cao2 xing3] {cou4 seng2} /être réveillé par du bruit/
-嘉禾望崗站 嘉禾望岗站 [jia1 he2 wang4 gang3 zhan4] {gaa1 wo4 mong6 gong1 zaam6} /Jiahewanggang Station, une station de métro à Guangzhou/
+嘉禾望崗站 嘉禾望岗站 [jia1 he2 wang4 gang3 zhan4] {gaa1 wo4 mong6 gong1 zaam6} /Jiahewanggang Station, une station du métro de Canton/
 嘉道理農場 嘉道理农场 [jia1 dao4 li5 nong2 chang3] {gaa1 dou6 lei5 nung4 coeng4} /Kadoorie Farm & Botanic Garden, un endroit situé dans la ville de Hong Kong/
 嘍口 喽口 [lou5 kou3] {lau3 hau2} /bégayant/
 嘍打 喽打 [lou5 da3] {lau3 daa2} /chercher la bagarre/
@@ -5459,7 +5459,7 @@
 大冬瓜 大冬瓜 [da4 dong1 gua1] {daai6 dung1 gwaa1} /balourd, maladroit/(lit.) grande courge cireuse/
 大出血 大出血 [da4 chu1 xie3] {daai6 ceot1 hyut3} /dépenser beaucoup d'argent sur de produits en solde/(lit.) grande hémorrage/
 大前日 大前日 [da4 qian2 ri4] {daai6 cin4 jat6} /il y a trois jours/
-大劇院站 大剧院站 [da4 ju4 yuan4 zhan4] {daai6 kek6 jyun2 zaam6} /Grand Theatre Station, une station de métro à Guangzhou, Chine/
+大劇院站 大剧院站 [da4 ju4 yuan4 zhan4] {daai6 kek6 jyun2 zaam6} /Grand Theatre Station, une station du métro de Canton, Chine/
 大劑 大剂 [da4 ji4] {daai6 zai1} /dans de beaux draps/
 大力 大力 [da4 li4] {daai6 lik6} /puissant/
 大勢 大势 [da4 shi4] {daai6 sai3} /tendance générale/
@@ -5495,7 +5495,7 @@
 大埠 大埠 [da4 bu4] {daai6 fau6} /San Francisco/
 ???? 大堆頭 大堆头 [da4 dui1 tou2] {daai6 deoi1 tau4} /grouping popular celebrities together for a big celebratory movie; a gathering of all the bigshots; a large group of people/(lit.) un grand amas de têtes/
 大場 大场 [da4 chang3] {daai6 coeng4} /grande scène/
-大塘站 大塘站 [da4 tang2 zhan4] {daai6 tong2 zaam6} /Datang Station, station de métro en Guangzhou, Chine/
+大塘站 大塘站 [da4 tang2 zhan4] {daai6 tong2 zaam6} /Datang Station, station du métro du Canton, Chine/
 大壽 大寿 [da4 shou4] {daai6 sau6} /«grand» anniversaire, soit chaque décennie après le cinquantième anniversaire/
 大夥兒 大伙儿 [da4 huo3 r5] {daai6 fo2 ji4} /tout le monde/grand groupe/
 大大啖 大大啖 [da4 da5 dan4] {daai6 daai6 daam6} /grande bouchée/
@@ -5513,9 +5513,9 @@
 大嬸 大婶 [da4 shen3] {daai6 sam2} /madame/
 大孖 大孖 [da4 ma1] {daai6 maa1} /le plus âgé(e) des jumeaux(elles)/
 大字 大字 [da4 zi4] {daai6 zi6} /calligraphie chinoise/
-大學城北站 大学城北站 [da4 xue2 cheng2 bei3 zhan4] {daai6 hok6 sing4 bak1 zaam6} /station Higher Education Mega Center North, station de métro en Guangzhou, Chine/
-大學城南站 大学城南站 [da4 xue2 cheng2 nan2 zhan4] {daai6 hok6 sing4 naam4 zaam6} /station Higher Education Mega Center South, station de métro en Guangzhou, Chine/
-大學城站 大学城站 [da4 xue2 cheng2 zhan4] {daai6 hok6 sing4 zaam6} /station University Town, station de métro en Guangzhou, Chine/
+大學城北站 大学城北站 [da4 xue2 cheng2 bei3 zhan4] {daai6 hok6 sing4 bak1 zaam6} /station Higher Education Mega Center North, station du métro du Canton, Chine/
+大學城南站 大学城南站 [da4 xue2 cheng2 nan2 zhan4] {daai6 hok6 sing4 naam4 zaam6} /station Higher Education Mega Center South, station du métro de Canton, Chine/
+大學城站 大学城站 [da4 xue2 cheng2 zhan4] {daai6 hok6 sing4 zaam6} /station University Town, station du métro de Canton, Chine/
 大安主義 大安主义 [da4 an1 zhu3 yi4] {daai6 on1 zyu2 ji6} /suivre le courant, laisser aller, prendre les choses comme elles viennent/
 大安旨意 大安旨意 [da4 an1 zhi3 yi4] {daai6 on1 zi2 ji3} /être trop sûr, être trop confiant, avoir un faux sentiment de sécurité/
 大家噉話 大家啖话 [da4 gu1 dan4 hua4] {daai6 gaa1 gam2 waa6} /je suis d'accord avec toi/
@@ -5630,7 +5630,7 @@
 大眾書局 大众书局 [da4 zhong4 shu1 ju2] {daai6 zung3 syu1 guk2} /Popular, chaîne de libraries singapourienne/
 大石 大石 [da4 shi2] {daai6 sek6} /bagages/personnes puissantes, influentes/
 大石砸死蟹 大石砸死蟹 [da4 shi2 za2 si3 xie4] {daai6 sek6 zaak3 sei2 haai5} /(expr. idiom.) lutte inégale/(expr. idiom.) dynamique de pouvoir inégale/(lit.) grande roche qui écrase une crabe/
-大石站 大石站 [da4 shi2 zhan4] {daai6 sek6 zaam6} /Station Dashi, une station de métro à Guangzhou, en Chine/
+大石站 大石站 [da4 shi2 zhan4] {daai6 sek6 zaam6} /Station Dashi, une station du métro de Canton, en Chine/
 大石笮死蟹 大石笮死蟹 [da4 shi2 ze2 si3 xie4] {daai6 sek6 zaak3 sei2 haai5} /(expr. idiom.) lutte inégale/(expr. idiom.) dynamique de pouvoir inégale/(lit.) grande roche qui écrase une crabe/
 大石責死蟹 大石责死蟹 [da4 shi2 ze2 si3 xie4] {daai6 sek6 zaak3 sei2 haai5} /(expr. idiom.) lutte inégale/(expr. idiom.) dynamique de pouvoir inégale/(lit.) grande roche qui écrase une crabe/
 大破慳囊 大破悭囊 [da4 po4 qian1 nang2] {daai6 po3 haan1 nong4} /donner généreusement quand on est d'habitude avare/
@@ -5825,7 +5825,7 @@
 天水圍 天水围 [tian1 shui3 wei2] {tin1 seoi2 wai4} /Tin Shui Wai, endroit à Hong Kong/
 天水圍飛馬 天水围飞马 [tian1 shui3 wei2 fei1 ma3] {tin1 seoi2 wai4 fei1 maa5} /TSW Pegasus, club de football de Hong Kong/
 天河公園 天河公园 [tian1 he2 gong1 yuan2] {tin1 ho4 gung1 jyun2} /parque Tianhe Park, à Guangzhou, Chine/
-天河客運站 天河客运站 [Tian1 he2 ke4 yun4 zhan4] {tin1 ho4 haak3 wan6 zaam6} /station Tianhe Coach Terminal, station de métro à Guangzhou, Chine/
+天河客運站 天河客运站 [Tian1 he2 ke4 yun4 zhan4] {tin1 ho4 haak3 wan6 zaam6} /station Tianhe Coach Terminal, station du métro de Guangzhou, Chine/
 天無絕人之路 天无绝人之路 [tian1 wu2 jue2 ren2 zhi1 lu4] {tin1 mou4 zyut6 jan4 zi1 lou6} /(expr. idiom.) les cieux ne bloquent jamais son progrès/
 天然白虎湯 天然白虎汤 [tian1 ran2 bai2 hu3 tang1] {tin1 jin4 baak6 fu2 tong1} /pastèque, melon d'eau/
 天然絲 天然丝 [tian1 ran2 si1] {tin1 jin4 si1} /soie naturelle/
@@ -6518,7 +6518,7 @@
 官恩娜 官恩娜 [guan1 en1 nuo2] {gun1 jan1 naa4} /Ella Koon Yun-na, chanteuse et actrice hongkongaise/
 官校 官校 [guan1 xiao4] {gun1 haau6} /instruction publique/
 官洲 官洲 [guan1 zhou1] {gun1 zau1} /Guanzhou, région dans la ville de Guangzhou, Chine/
-官洲站 官洲站 [guan1 zhou1 zhan4] {gun1 zau1 zaam6} /station Guanzhou, station de métro à Guangzhou, Chine/
+官洲站 官洲站 [guan1 zhou1 zhan4] {gun1 zau1 zaam6} /station Guanzhou, station du métro de Canton, Chine/
 官立 官立 [guan1 li4] {gun1 laap6} /gouvernement/
 官立學校 官立学校 [guan1 li4 xue2 xiao4] {gun1 laap6 hok6 haau6} /instruction publique/
 官腔 官腔 [guan1 qiang1] {gun1 hong1} /jargon bureaucratique/
@@ -6543,7 +6543,7 @@
 客仔 客仔 [ke4 zi3] {haak3 zai2} /client/
 客商 客商 [ke4 shang1] {haak3 soeng1} /marchand/
 ???? 客家佔地主 客家占地主 [ke4 jia1 zhan4 di4 zhu3] {haak3 gaa1 zim3 dei6 zyu2} /(expr. idiom.) act as if you own the place, the guest acts as host (idiom); to turn from passive to active behavior/(lit.) les Hakka viennent occuper de l'espace pour vivre/
-客村站 客村站 [ke4 cun1 zhan4] {haak3 cyun1 zaam6} /station Kecun, station de métro à Guangzhou, Chine/
+客村站 客村站 [ke4 cun1 zhan4] {haak3 cyun1 zaam6} /station Kecun, station du métro de Canton, Chine/
 客歲 客岁 [ke4 sui4] {haak3 seoi3} /l'année passée, l'année dernière/
 客觀 客观 [ke4 guan1] {haak3 gun1} /point de vue objectif/
 客觀真理 客观真理 [ke4 guan1 zhen1 li3] {haak3 gun1 zan1 lei5} /vérité objective/
@@ -6694,11 +6694,11 @@
 寶刀 宝刀 [bao3 dao1] {bou2 dou1} /ancienne épée précieuse/
 ???? 寶剎 宝刹 [bao3 cha4] {bou2 saat3} /Pagoda in a temple/
 寶地 宝地 [bao3 di4] {bou2 dei6} /terre aux trésors/
-寶安中心站 宝安中心站 [bao3 an1 zhong1 xin1 zhan4] {bou2 on1 zung1 sam1 zaam6} /station Bao'an Central, station de métro à Guangzhou, Chine/
+寶安中心站 宝安中心站 [bao3 an1 zhong1 xin1 zhan4] {bou2 on1 zung1 sam1 zaam6} /station Bao'an Central, station du métro de Canton, Chine/
 寶崗大道 宝岗大道 [bao3 gang3 da4 dao4] {bou2 gong1 daai6 dou6} /Avenue Baogang, rue à Guangzhou, Chine/
 寶物沉歸底 宝物沉归底 [bao3 wu4 chen2 gui1 di3] {bou2 mat6 cam4 gwai1 dai2} /le meilleur arrive à la fin/
 寶琳 宝琳 [bao3 lin2] {bou2 lam4} /Po Lam, endroit à Hong Kong:/
-寶琳站 宝琳站 [bao3 lin2 zhan4] {bou2 lam4 zaam6} /station Po Lam, station de métro à Hong Kong/
+寶琳站 宝琳站 [bao3 lin2 zhan4] {bou2 lam4 zaam6} /station Po Lam, station du métro de Hong Kong/
 寶眷 宝眷 [bao3 juan4] {bou2 gyun3} /votre famille, votre famille estimée/
 寶石 宝石 [bao3 shi2] {bou2 sek6} /pierre précieuse/
 寶蓮寺 宝莲寺 [bao3 lian2 si4] {bou2 lin4 zi2} /Monastère Po Lin, monastère bouddhiste à Hong Kong/
@@ -6856,7 +6856,7 @@
 少女時代 少女时代 [shao4 nü3 shi2 dai4] {siu3 neoi5 si4 doi6} /enfance, jeunesse (d'une fille)/
 少奶 少奶 [shao4 nai3] {siu3 naai1} /femme avec un conjoint riche/
 少少 少少 [shao3 shao3] {siu2 siu2} /un peu, un petit peu/
-少年宮站 少年宫站 [shao4 nian2 gong1 zhan4] {siu3 nin4 gung1 zaam6} /station Children's Palace, station de métro à Shenzhen, Chine/
+少年宮站 少年宫站 [shao4 nian2 gong1 zhan4] {siu3 nin4 gung1 zaam6} /station Children's Palace, station du métro de Shenzhen, Chine/
 少數怕長計 少数怕长计 [shao3 shu4 pa4 chang2 ji4] {siu2 sou3 paa3 coeng4 gai3} /chaque centime compte, il est possible d'économiser beaucoup d'argent petit à petit/chaque petit geste compte/les petites choses s'accumulent/
 少林拳 少林拳 [shao4 lin2 quan2] {siu3 lam4 kyun4} /kung-fu shaolin/
 少爺占 少爷占 [shao4 ye5 zhan4] {siu3 je4 zim1} /Jim Yan Chi Hong, DJ hongkongais/
@@ -7087,7 +7087,7 @@
 崖广 崖广 [ya2 yan3] {ngaai4 jin1} /maison construite sur une falaise/(fig.) très dangereux/
 崖鷹 崖鹰 [ya2 ying1] {ngaai4 jing1} /rapace/épervier/milan noir/
 崗位培訓 岗位培训 [gang3 wei4 pei2 xun4] {gong1 wai2 pui4 fan3} /formation en cours d'emploi/
-崗頂站 岗顶站 [gang3 ding3 zhan4] {gong1 deng2 zaam6} /station Gangding station de métro située à Guangzhou en Chine/
+崗頂站 岗顶站 [gang3 ding3 zhan4] {gong1 deng2 zaam6} /station Gangding, station du métro de Canton en Chine/
 崢嶸歲月 峥嵘岁月 [zheng1 rong2 sui4 yue4] {zaang1 wing4 seoi3 jyut6} /années et mois spéciaux de la vie/années mouvementés/
 崩 崩 [beng1] {bang1} /ébréchure, écornure/ébrecher/fente, fissure/craquer/fendre/
 崩仔 崩仔 [beng1 zi3] {bang1 zai2} /voyou/
@@ -7217,12 +7217,12 @@
 巷篤 巷笃 [xiang4 du3] {hong6 duk1} /au bout de la ruelle, au bout de la rue/
 巷道 巷道 [hang4 dao4] {hong6 dou6} /tunnel de mine/
 巾幗英雄 巾帼英雄 [jin1 guo2 ying1 xiong2] {gan1 gwok3 jing1 hung4} /héroïne/
-市二宮站 市二宫站 [shi4 er4 gong1 zhan4] {si5 ji6 gung1 zaam6} /station 2nd. Workers Cultural Palace, station de métro située à Canton, Chine/
+市二宮站 市二宫站 [shi4 er4 gong1 zhan4] {si5 ji6 gung1 zaam6} /station 2nd. Workers Cultural Palace, station du métro de Canton, Chine/
 市值 市值 [shi4 zhi2] {si5 zik6} /valeur marchande/
 市區 市区 [shi4 qu1] {si5 keoi1} /zone urbaine/
 市場 市场 [shi4 chang3] {si5 coeng4} /supermarché/
 市場部 市场部 [shi4 chang3 bu4] {si5 coeng4 bou6} /service de marketing, service de commercialisation/
-市橋站 市桥站 [shi4 qiao2 zhan4] {si5 kiu4 zaam6} /station Shiqiao, station de métro située à Canton, Chine/
+市橋站 市桥站 [shi4 qiao2 zhan4] {si5 kiu4 zaam6} /station Shiqiao, station du métro de Canton, Chine/
 市民 市民 [shi4 min2] {si5 man4} /citoyen/
 市秤 市秤 [shi4 cheng4] {si5 cing3} /balance dans une épicerie/
 市花 市花 [shi4 hua1] {si5 faa1} /fleur de la ville/
@@ -7469,7 +7469,7 @@
 庸中佼佼 庸中佼佼 [yong1 zhong1 jiao3 jiao3] {jung4 zung1 gaau2 gaau2} /personne extraordinaire parmi les gens ordinaires/
 庾澄慶 庾澄慶 [yu2 cheng2 qiang1] {jyu5 cing4 hing3} /Harlem Yu, auteur-compositeur taïwanais/
 廇 廇 [liu4] {lau6} /tumeur/
-廈滘站 厦滘站 [sha4 jiao4 zhan4] {haa6 gaau3 zaam6} /station Xiajiao, station de métro située à Canton, en Chine/
+廈滘站 厦滘站 [sha4 jiao4 zhan4] {haa6 gaau3 zaam6} /station Xiajiao, station du métro de Canton, en Chine/
 廉正 廉正 [lian2 zheng4] {lim4 zing3} /integrité, honnêteté/
 廉記 廉记 [Lian2 Ji4] {lim4 gei3} /«Independent Commission Against Corruption», Commision indépendante contre la corruption, organisme chargée de l'application de loi contre la corruption à Hong Kong/
 廖碧兒 廖碧儿 [liao4 bi4 r5] {liu6 bik1 ji4} /Bernice Jan Liu, chanteuse et actrice hongkongaise/
@@ -9928,7 +9928,7 @@
 放鬆 放松 [fang4 song1] {fong3 sung1} /se détendre, se la faire couler douce/s'assouplir (les règles, les standards)/
 政制 政制 [zheng4 zhi4] {zing3 zai3} /système politique/institutions politiques/
 政務司司長 政务司司长 [zheng4 wu4 si1 si1 zhang3] {zing3 mou6 si1 si1 zoeng2} /Premier Secrétaire de l'Administration, ou Premier Secrétaire, numéro deux du Gouvernement de Hong Kong/
-政府大球場 政府大球场 [zheng4 fu3 da4 qiu2 chang3] {zing3 fu2 daai6 kau4 coeng4} /Government Stadium, maintenant connu sous le nom de Hong Kong Stadium, stade de sport de Hong Kong/
+政府大球場 政府大球场 [zheng4 fu3 da4 qiu2 chang3] {zing3 fu2 daai6 kau4 coeng4} /Government Stadium, maintenant connu sous le nom de Hong Kong Stadium, stade sport situé à Hong Kong/
 政府醫生 政府医生 [zheng4 fu3 yi1 sheng1] {zing3 fu2 ji1 sang1} /médecin financé publiquement, médecin financé par le gouvernement/
 政府醫院 政府医院 [zheng4 fu3 yi1 yuan4] {zing3 fu2 ji1 jyun2} /hôpital financé publiquement, hôpital financé par le gouvernement/
 政治危機 政治危机 [zheng4 zhi4 wei1 ji1] {zing3 zi6 ngai4 gei1} /crise politique/
@@ -10178,7 +10178,7 @@
 新藥 新药 [xin1 yao4] {san1 joek6} /nouveaux médicaments/médecine occidentale/
 新血 新血 [xin1 xue4] {san1 hyut3} /(fig.) nouveau employé, débutant, novice/(lit.) sang frais/
 新詩 新诗 [xin1 shi1] {san1 si1} /poème écrit dans la langue vernaculaire (et non le chinois classique)/nouveau poème/
-新造站 新造站 [xin1 zao4 zhan4] {san1 cou5 zaam6} /Xinzao Station, station de métro de Canton/
+新造站 新造站 [xin1 zao4 zhan4] {san1 cou5 zaam6} /Xinzao Station, station du métro de Canton/
 新郎哥 新郎哥 [xin1 lang2 ge1] {san1 long4 go1} /marié, jeune marié (durant la journée de la cérémonie du mariage)/
 新金山 新金山 [xin1 jin1 shan1] {san1 gam1 saan1} /Melbourne, ville majeure de l'Australie/
 新高 新高 [xin1 gao1] {san1 gou1} /nouveau record, niveau record, sommet/
@@ -10282,13 +10282,13 @@
 旺舖 旺铺 [wang4 pu4] {wong6 pou3} /magasin populaire, magasin prisé/
 旺菜 旺菜 [wang4 cai4] {wong6 coi3} /pe-tsaï, chou chinois, chou de Pékin, chou napa, chou nappa/
 旻寧 旻宁 [min2 ning2] {man4 ning4} /Dauguang, Empereur de Chine/
-昂坪 昂坪 [ang2 ping2] {ngong4 ping4} /Ngong Ping, plateau de Hong Kong/
+昂坪 昂坪 [ang2 ping2] {ngong4 ping4} /Ngong Ping, plateau situé à Hong Kong/
 昂坪３６０ 昂坪３６０ [ang2 ping2 san1 liu4 ling2] {ngong5 ping4３６０} /Ngong Ping 360, remontée mécanique permettant de monter sur le plateau de Ngong Ping/
 昆侖 昆仑 [Kun1 lun2] {kwan1 leon4} /cordillère du Kunlun, chaîne de montagnes en Asie/
 昆市 昆市 [kun1 shi4] {kwan1 si5} /Quincy, une ville de Massachusetts/ 
 昆布 昆布 [kun1 bu4] {kwan1 bou3} /kelp, espèce d'algue (s'emploie généralement dans le lexique de la médecine traditionelle chinoise)/
 昇降機 升降机 [sheng1 jiang4 ji1] {sing1 gong3 gei1} /ascenseur/
-昌崗站 昌岗站 [chang1 gang3 zhan4] {coeng1 gong1 zaam6} /Changgang Station, station de métro à Canton/
+昌崗站 昌岗站 [chang1 gang3 zhan4] {coeng1 gong1 zaam6} /Changgang Station, station du métro de Canton/
 昌隆 昌隆 [chang1 long2] {coeng1 lung4} /prospère/
 明 明 [ming2] {ming4} /évident, clair, indéniable/vue, faculté de voir/dynastie Ming/
 明人不說暗話 明人不说暗话 [ming2 ren2 bu4 shuo1 an4 hua4] {ming4 jan4 bat1 syut3 am3 waa6} /une personne honnête ne parle pas dans le dos des autres/
@@ -10534,9 +10534,9 @@
 替槍 替枪 [ti4 qiang1] {tai3 coeng1} /personne qui passe un examen à la place de quelqu'un d'autre/
 會 会 [hui4] {wui2} /séminaire/réunion/fête/club/adhésion (à un club)/
 會仔 会仔 [hui4 zi3] {wui2 zai2} /membre d'une tontine, association de financement informelle d'une communauté, composée de plusieurs familles/ 
-會展中心站 会展中心站 [hui4 zhan3 zhong1 xin1 zhan4] {wui6 zin2 zung1 sam1 zaam6} /Convention & Exhibition Center Station, station de métro de Canton/
+會展中心站 会展中心站 [hui4 zhan3 zhong1 xin1 zhan4] {wui6 zin2 zung1 sam1 zaam6} /Convention & Exhibition Center Station, station du métro de Canton/
 會彈唔會唱 会弹唔会唱 [hui4 dan4 wu2 hui4 chang4] {wui3 taan4 m4 wui3 coeng3} /(expr. idiom.) proposer quelque chose sans savoir comment le faire/(expr. idiom.) critiquer les autres sans savoir comment le faire soi-même/(lit.) savoir jouer (l'instrument) mais ne pas savoir chanter/
-會江站 会江站 [hui4 jiang1 zhan4] {wui6 gong1 zaam6} /Huijiang Station, station de métro de Canton/
+會江站 会江站 [hui4 jiang1 zhan4] {wui6 gong1 zaam6} /Huijiang Station, station du métro de Canton/
 會稽 会稽 [gui4 ji1] {kui2 kai1} /Kuaiji, ancienne commanderie (région administrative) de Chine/
 會錯意 会错意 [hui4 cuo4 yi4] {wui6 co3 ji3} /mal comprendre, mal interpréter/
 月光 月光 [yue4 guang1] {jyut6 gwong1} /la Lune/
@@ -10699,12 +10699,12 @@
 服務行業 服务行业 [fu2 wu4 hang2 ye4] {fuk6 mou6 hong4 jip6} /secteur des services/
 服裝 服装 [fu2 zhuang1] {fuk6 zong1} /tenue, habit/
 朗尼 朗尼 [lang3 ni2] {long5 nei4} /Wayne Rooney, footballeur anglais/
-朗屏 朗屏 [lang3 ping2] {long5 ping4} /Long Ping, station de métro de Hong Kong/
+朗屏 朗屏 [lang3 ping2] {long5 ping4} /Long Ping, station du métro de Hong Kong/
 朗拿度 朗拿度 [lang3 na2 du4] {long5 naa4 dou6} /Ronaldo Luís Nazário de Lima, footballeur brésilien/
 朗拿甸奴 朗拿甸奴 [lang3 na2 dian4 nu2] {long5 naa4 din6 nou4} /Ronaldo de Assis Moreira ou Ronaldinho, footballeur brésilien/
 朗讀 朗读 [lang3 du2] {long5 duk6} /réciter, narrer/
-朗豪坊 朗豪坊 [lang3 hao2 fang1] {long3 hou4 fong1} /Langham Place, centre d'achats de Hong Kong/
-朗豪酒店 朗豪酒店 [lang3 hao2 jiu3 dian4] {long5 hou4 zau2 dim3} /Langham Place Hotel, hôtel de Hong Kong/
+朗豪坊 朗豪坊 [lang3 hao2 fang1] {long3 hou4 fong1} /Langham Place, centre d'achats situé à Hong Kong/
+朗豪酒店 朗豪酒店 [lang3 hao2 jiu3 dian4] {long5 hou4 zau2 dim3} /Langham Place Hotel, hôtel situé à Hong Kong/
 朘朘 朘朘 [juan1 juan1] {zoe1 zoe1} /(enfantin) pénis, zizi, quéquette/
 望住 望住 [wang4 zhu4] {mong6 zyu6} /regarder, fixer du regard/protéger, surveiller/
 望到頸都長 望到颈都长 [wang4 dao4 jing3 du1 chang2] {mong6 dou3 geng2 dou1 zoeng2} /(expr. idiom.) attendre depuis longtemps, avoir hâte de quelque chose mais devoir attendre très longtemps/(lit.) espérer jusqu'à ce que le cou s'allonge/
@@ -10814,7 +10814,7 @@
 杏桃 杏桃 [xing4 tao2] {hang6 tou2} /abricot/
 杏紅 杏红 [xing4 hong2] {hang6 hung4} /(couleur) rose abricot/
 杏花 杏花 [xing4 hua1] {hang6 faa1} /fleur d'abricot/
-杏花邨 杏花村 [xing4 hua1 cun1] {hang6 faa1 cyun1} /Heng Fa Chuen, lotissement de Hong Kong/
+杏花邨 杏花村 [xing4 hua1 cun1] {hang6 faa1 cyun1} /Heng Fa Chuen, lotissement situé à Hong Kong/
 杏黃 杏黄 [xing4 huang2] {hang6 wong4} /jaune abricot/
 村夫 村夫 [cun1 fu1] {cyun1 fu1} /(litt.) péquenaud, plouc/
 村屋 村屋 [cun1 wu1] {cyun1 uk1} /«maison de village», maison de deux ou trois étages/
@@ -10839,7 +10839,7 @@
 東北三省 东北三省 [Dong1 bei3 San1 sheng3] {dung1 bak1 saam1 saang2} /les trois provinces du nord-est de la Chine - Liaoning, Jilin, et Heilongjiang/
 東北部 东北部 [dong1 bei3 bu4] {dung1 bak1 bou6} /(région, partie) nord-est/ 
 東北風 东北风 [dong1 bei3 feng1] {dung1 bak1 fung1} /vent de nord-est/
-東區海底隧道 东区海底隧道 [dong1 qu1 hai3 di3 sui4 dao4] {dung1 keoi1 hoi2 dai2 seoi6 dou6} /Eastern Harbour Crossing, tunnel de Hong Kong/
+東區海底隧道 东区海底隧道 [dong1 qu1 hai3 di3 sui4 dao4] {dung1 keoi1 hoi2 dai2 seoi6 dou6} /Eastern Harbour Crossing, tunnel situé à Hong Kong/
 東區走廊 东区走廊 [dong1 qu1 zou3 lang2] {dung1 keoi1 zau2 long2} /Island Eastern Corridor, autoroute de Hong Kong/
 東南方 东南方 [dong1 nan2 fang1] {dung1 naam4 fong1} /sud-est/
 東家唔打打西家 东家唔打打西家 [dong1 jia5 n2 da3 da3 xi1 jia1] {dung1 gaa1 m4 daa2 daa2 sai1 gaa1} /(expr. idiom.) démissionner, trouver du travail ailleurs/(lit.) si l'est ne fonctionne pas, on peut travailler pour l'ouest/
