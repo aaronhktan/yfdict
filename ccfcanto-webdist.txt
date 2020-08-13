@@ -1720,20 +1720,20 @@
 倒瀉 倒泻 [dao4 xie4] {dou3 se3} /renverser (un liquide)/
 倒瀉籮蟹 倒泻箩蟹 [dao4 xie4 luo2 xie4] {dou2 se2 lo4 haai5} /en désordre/
 倒牙 倒牙 [dao3 ya2] {dou2 ngaa4} /dents sensibles/
-倒瓤 倒瓤 [dao4 rang2] {dou2 nong4} /(des melons) trop mûrs, blets/
+倒瓤 倒瓤 [dao4 rang2] {dou2 nong4} /(melons) trop mûrs, blets/
 倒瓤冬瓜 倒瓤冬瓜 [dao4 rang2 dong1 gua1] {dou2 nong4 dung1 gwaa1} /(expr. idiom.) quelqu'un qui donne l'impression de savoir beaucoup mais qui ne sait rien/(lit.) une courge cireuse blette/
 倒眼 倒眼 [dao4 yan3] {dou3 ngaan5} /strabisme, un défaut de parallélisme des axes visuels/
-倒竈 倒灶 [dao3 zao4] {dou2 zou3} /être davantage un obstacle qu'une aide/(lit.) renverser le poêle de nourriture/
+倒竈 倒灶 [dao3 zao4] {dou2 zou3} /être plus un obstacle qu'une aide/(lit.) renverser le poêle de nourriture/
 倒米 倒米 [dao4 mi3] {dou2 mai5} /(expr. idiom.) détruire une entreprise/(lit.) jeter du riz/
 倒米壽星 倒米寿星 [dao4 mi3 shou4 xing5] {dou2 mai5 sau6 sing1} /(expr. idiom.) quelqu'un qui essaie d'aider mais qui finit par nuire à l'effort/(lit.) une personne qui dépense de l'argent/
 倒翻轉 倒翻转 [dao4 fan1 zhuan3] {dou3 faan1 zyun3} /à l'envers/
-倒茶 倒茶 [dao4 cha2] {dou2 caa4} /servir le thé/
+倒茶 倒茶 [dao4 cha2] {dou2 caa4} /servir du thé/
 倒褪 倒褪 [dao4 tun4] {dou3 tan3} /reculer/empirer/ne pas faire des choses en ordre/
 倒轉頭 倒转头 [dao4 zhuan3 tou2] {dou3 zyun2 tau4} /se retourner/inverser/à l'envers/au contraire/
 倔 倔 [jue2] {gwat6} /obstiné, entêté/bourru/direct, brusque/
 倔尾龍 倔尾龙 [jue2 wei3 long2] {gwat6 mei5 lung4} /perturbateur/quelqu'un avec qui est difficile de communiquer/
 倔強 倔强 [jue2 jiang4] {gwat6 koeng5} /rigide/
-倔情 倔情 [jue2 qing2] {gwat6 cing4} /(une personne) déraisonnable, insensé/(d'une personne) froid/
+倔情 倔情 [jue2 qing2] {gwat6 cing4} /(une personne) déraisonnable, insensé/(d'une personne) froid, flegmatique, indifférent/
 倔擂槌 倔擂槌 [jue2 lei2 chui2] {gwat6 leoi4 ceoi4} /obstiné, entêté/bourru/direct, brusque/
 倔檑槌 倔檑槌 [jue2 lei2 chui2] {gwat6 leoi4 ceoi4} /obstiné, entêté/bourru/direct, brusque/
 倔篤 倔笃 [jue2 du3] {gwat6 duk1} /(expr. idiom.) pas question, aucune chance (de succès), impossible de continuer/(lit.) cul-de-sac/
@@ -3000,12 +3000,12 @@
 動靜 动静 [dong4 jing4] {dung6 zing6} /mouvement, activité/
 務使 务使 [wu4 shi3] {mou6 sai2} /assurer, garantir/devoir/
 務求 务求 [wu4 qiu2] {mou6 kau4} /assurer, garantir/devoir/
-務須 务须 [wu4 xu1] {mou6 seoi1} /l'on doit.../
+務須 务须 [wu4 xu1] {mou6 seoi1} /obligatoire, nécessaire, devoir.../
 勛績 勋绩 [xun1 ji4] {fan1 zek3} /réussite extraordinaire/
 勝出 胜出 [sheng4 chu1] {sing3 ceot1} /gagner/
 勝券 胜券 [sheng4 quan4] {sing3 hyun3} /chemin de la victoire/
-勝在 胜在 [sheng4 zai4] {sing3 zoi6} /l'avantage, c'est...d/
-勝敗乃兵家常事 胜败乃兵家常事 [sheng4 bai4 nai3 bing1 jia1 chang2 shi4] {sing3 baai6 naai5 bing1 gaa1 soeng4 si6} /sur les champs de bataille, la victoire ou la défaite est tout aussi possible/
+勝在 胜在 [sheng4 zai4] {sing3 zoi6} /l'avantage, c'est.../
+勝敗乃兵家常事 胜败乃兵家常事 [sheng4 bai4 nai3 bing1 jia1 chang2 shi4] {sing3 baai6 naai5 bing1 gaa1 soeng4 si6} /sur les champs de bataille, la victoire et la défaite sont tout aussi probables/
 勝瓜 胜瓜 [sheng4 gua1] {sing3 gwaa1} /loofah, courge éponge/
 勞動保護 劳动保护 [lao2 dong4 bao3 hu4] {lou4 dung6 bou2 wu6} /protection du travail/
 勞動強度 劳动强度 [lao2 dong4 qiang2 du4] {lou4 dung6 koeng4 dou6} /intensité de travail/
@@ -3014,7 +3014,7 @@
 勞動產品 劳动产品 [lao2 dong4 chan3 pin3] {lou4 dung6 caan2 ban2} /produits de travail, produits de dur labeur/
 勞嘈 劳嘈 [lao2 cao2] {lou4 cou4} /bruyant, énervant/
 勞工處 劳工处 [lao2 gong1 chu3] {lou4 gung1 cyu3} /ministère du travail/
-勞師動眾 劳师动众 [lao2 shi1 dong4 zhong4] {lou4 si1 dung6 zung3} /mêler quelqu'un à quelque chose/
+勞師動眾 劳师动众 [lao2 shi1 dong4 zhong4] {lou4 si1 dung6 zung3} /mobiliser un grand nombre de personnes/
 勞氣 劳气 [lao2 qi4] {lou4 hei3} /fâché/énervé/(quelque chose) qui est difficile à accomplir et qui est mentalement épuisant/
 勞軍 劳军 [lao2 jun1] {lou4 gwan1} /récompenser ses troupes (dans l'armée)/
 勢不可擋 势不可挡 [shi4 bu4 ke3 dang3] {sai3 bat1 ho2 dong2} /irréstible, qui ne peut pas être arrêté/
@@ -3025,18 +3025,18 @@
 勢利 势利 [shi4 li4] {sai3 lei6} /avide, matérialiste/
 勢力範圍 势力范围 [shi4 li5 fan4 wei2] {sai3 lik6 faan6 wai4} /sphère d'influence/
 勢色 势色 [shi4 se4] {sai3 sik1} /faire face à/
-勤工獎 勤工奖 [qin2 gong1 jiang3] {kan4 gung1 zoeng2} /prime de présence/
+勤工獎 勤工奖 [qin2 gong1 jiang3] {kan4 gung1 zoeng2} /prime d'assiduité/
 勤能補拙 勤能补拙 [qin2 neng2 bu3 zhuo1] {kan4 nang4 bou2 zyut6} /(expr. idiom.) c'est en forgeant qu'on devient forgeron, la maîtrise s'acquiert avec la pratique/
-勵精圖治 励精图治 [li4 jing1 tu2 zhi4] {lai6 zing1 tou4 zi6} /dépenser des grands effort pour enrichir un pays/
+勵精圖治 励精图治 [li4 jing1 tu2 zhi4] {lai6 zing1 tou4 zi6} /faire un grand effort pour édifier son pays/
 勸交 劝交 [quan4 jiao1] {hyun3 gaau1} /arbitrer, servir de médiateur (entre deux parties)/
-???? 勸諭 劝谕 [quan4 yu4] {hyun3 jyu6} /to persuade or advice with reasons /
+勸諭 劝谕 [quan4 yu4] {hyun3 jyu6} /persuader/
 勻 匀 [yun2] {wan4} /(classificateur pour l'heure)/
 勻循 匀循 [yun2 xun2] {wan4 ceon4} /uniformément/
 勻巡 匀巡 [yun2 xun2] {wan4 ceon4} /égal/répartir en parts égales/bien se conduire/
 勻速運動 匀速运动 [yun2 su4 yun4 dong4] {wan4 cuk1 wan6 dung6} /mouvement rectiligne uniforme/
-勼 勼 [jiu1] {gau1, kau1} /pénis (vulgaire)/
+勼 勼 [jiu1] {gau1, kau1} /(vulg.) pénis/
 勾佬 勾佬 [gou1 lao3] {ngau1 lou2} /(d'une femme) qui a un liaison avec un autre homme/
-勾手指 勾手指 [gou1 shou3 zhi3] {au1 sau2 zi2} /promesse du petit doigt/
+勾手指 勾手指 [gou1 shou3 zhi3] {au1 sau2 zi2} /promis juré/
 勾搭 勾搭 [gou1 da5] {ngau1 daap3} /séduire/
 勾通 勾通 [gou1 tong1] {gau1 tung1} /conspirer, infiltrer/
 勿歇 勿歇 [wu4 xie1] {mat6 hit3} /sans interruption/
@@ -3054,50 +3054,50 @@
 包裝 包装 [bao1 zhuang1] {baau1 zong1} /emballage/
 包起 包起 [bao1 qi3] {baau1 hei2} /accepter toute responsabilité/achat de tout qui est disponible/
 包頂頸 包顶颈 [bao1 ding3 jing3] {baau1 ding2 geng2} /ergoteur, chicaneur/
-包骨 包骨 [bao1 gu3] {baau1 gwat1} /couture chevauchée, où l'envers d'un pièce tissu est au dessus de l'endroit de l'autre/
-匏瓜 匏瓜 [pao2 gua1] {paau4 gwaa1} /calebasse/quelqu'un qui est talentueux/
+???? 包骨 包骨 [bao1 gu3] {baau1 gwat1} /couture rabattue/
+匏瓜 匏瓜 [pao2 gua1] {paau4 gwaa1} /calebasse/(fam.) quelqu'un qui est talentueux/
 化 化 [hua4] {faa3} /en finir avec quelque chose/accepter la vérité, réalité/fondre/mendier/
-化化聲 化化声 [hua4 hua4 sheng1] {faa3 faa3 seng1} /onomatopée pour le vent/
+化化聲 化化声 [hua4 hua4 sheng1] {faa3 faa3 seng1} /(onomatopée pour le vent)/
 化合物 化合物 [hua4he2wu4] {faa3 hap6 mat6} /(chimie) composé de/
-化學 化学 [hua4 xue2] {faa3 hok6} /(quelque chose) de mauvais qualité/
+化學 化学 [hua4 xue2] {faa3 hok6} /(quelque chose) de mauvaise qualité/
 化學作用 化学作用 [hua4 xue2 zuo4 yong4] {faa3 hok6 zok3 jung6} /réaction chimique/
 化學平衡 化学平衡 [hua4 xue2 ping2 heng2] {faa3 hok6 ping4 hang4} /équilibre chimique/
 化學的 化学的 [hua4 xue2 de5] {faa3 hok6 dik1} /chimique/
 化學肥料 化学肥料 [hua4 xue2 fei2 liao4] {faa3 hok6 fei4 liu2} /engrais chimique/
-化水 化水 [hua4 shui3] {faa3 seoi2} /(expr. idiom.) perdre un possession/(lit.) de l'encre qui se répand sur le papier/
+化水 化水 [hua4 shui3] {faa3 seoi2} /(expr. idiom.) perdre un possession/(lit.) de l'encre qui se répand (sur une feuille de papier)/
 化石 化石 [hua4 shi2] {faa3 sek6} /qui ne bouge pas/
 化算 化算 [hua4 suan4] {faa3 syun3} /qui vaut (le prix, etc.)/rentable/
 化粧 化粧 [hua4 zhuang1] {faa3 zong1} /maquillage/
 化粧品 化粧品 [hua4 zhuang1 pin3] {faa3 zong1 ban2} /produits de beauté/
 化肥廠 化肥厂 [hua4 fei2 chang3] {faa3 fei4 cong2} /producteur d'engrais/usine d'engrais/
-化險為夷 化险为夷 [hua4xian3wei2yi2 ] {faa3 him2 wai4 ji4} /(expr. idiom.) éviter tout risque, rester sécuritaire/
+化險為夷 化险为夷 [hua4 xian3 wei2 yi2] {faa3 him2 wai4 ji4} /(expr. idiom.) éviter tout risque, rester en sécurité/
 化驗室 化验室 [hua4 yan4 shi4] {faa3 jim6 sat1} /laboratoire/
 化驗師 化验师 [hua4 yan4 shi1] {faa3 jim6 si1} /analyste du laboratoire/
-化骨龍 化骨龙 [hua4 gu3 long2] {faa3 gwat1 lung4} /dépendant, quelqu'un qui dépend sur l'argent et ressources des parents/(lit.) un poisson mythique qui fait disparaître qqn qui le mange/
-???? 化鴟為鳳 化鸱为凤 [hua4 chi1 wei2 feng4] {faa3 ci1 wai4 fung6} /(expr. idiom.) bien gouverner une société/(lit.) transformer le mal en bien/
+化骨龍 化骨龙 [hua4 gu3 long2] {faa3 gwat1 lung4} /personne dépendante, une personne qui dépend de l'argent et ressources des parents/(lit.) un poisson mythique qui fait disparaître la personne qui le mange/
+???? 化鴟為鳳 化鸱为凤 [hua4 chi1 wei2 feng4] {faa3 ci1 wai4 fung6} /(expr. idiom.) bien gouverner une société/(lit.) transformer du mal en bien/
 北九州 北九州 [bei3 jiu3 zhou1] {bak1 gau2 zau1} /Kitakyūshū, une ville au Japon/
 北京填鴨 北京填鸭 [bei3 jing1 tian2 ya1] {bak1 ging1 tin4 aap3} /canard laqué/
-北京奧運 北京奥运 [bei3 jing1 Ao4 Yun4] {bak1 ging1 ou3 wan6} /Jeux Olympiques à Beijing/
-北京西站 北京西站 [bei3 jing1 Xi1 Zhan4] {bak1 ging1 sai1 zaam6} /Beijing West Railway Station, une gare à Beijing/
-北京路 北京路 [bei3 jing1 lu4] {bak1 ging1 lou6} /Beijing Lu, un nom fréquent des rues en Chine/
+北京奧運 北京奥运 [bei3 jing1 ao4 yun4] {bak1 ging1 ou3 wan6} /Jeux Olympiques à Beijing/
+北京西站 北京西站 [bei3 jing1 xi1 zhan4] {bak1 ging1 sai1 zaam6} /Beijing West Railway Station, une gare à Beijing/
+北京路 北京路 [bei3 jing1 lu4] {bak1 ging1 lou6} /Beijing Lu, nom très répandu des rues en Chine/
 北京軍區 北京军区 [nei3 jing1 jun1 qu1] {bak1 ging1 gwan1 keoi1} /Beijing Military Region, une des sept régions militaires de l'Armée populaire de libération/
 北京鴨 北京鸭 [bei3 jing1 ya1] {bak1 ging1 aap3} /canard laqué/
 北便 北便 [bei3 bian4] {bak1 bin6} /vers le nord/
 北卡羅萊納 北卡罗莱纳 [bei3 ka3 luo2 lai2 na4] {bak1 kaa1 lo4 loi4 naap6} /Caroline du Nord, un état des États-Unis/
 北妹 北妹 [bei3 mei4] {bak1 mui6} /jeune femme de la Chine continentale/
-北姑 北姑 [bei3 gu1] {bak1 gu1} /femmes qui sont venues à Guangdong du nord de la Chine pour se prostituer/
-北姑雞 北姑鸡 [bei3 gu1 ji1] {bak1 gu1 gai1} /prostituée originant de la Chine continentale/
+北姑 北姑 [bei3 gu1] {bak1 gu1} /femmes du nord de la Chine venues à Guangdong pour se prostituer/
+北姑雞 北姑鸡 [bei3 gu1 ji1] {bak1 gu1 gai1} /prostituée venue de la Chine continentale/
 北嫂 北嫂 [bei3 sao3] {bak1 sou2} /femme de la Chine continentale/
-北帝 北帝 [bei3 di4] {bak1 dai3} /empereur du Nord, un des Cinq empereurs associés avec chaque orient/
+北帝 北帝 [bei3 di4] {bak1 dai3} /empereur du Nord, un des cinq empereurs associés avec chaque orient/
 北方話 北方话 [bei3 fang1 hua4] {bak1 fong1 waa2} /langues chinoises nordiques, comme le mandarin/
 北極洋 北极洋 [bei3 ji2 yang2] {bak1 gik6 joeng4} /Océan Arctique/
 北漏洞拉 北漏洞拉 [bei3 lou4 dong4 la1] {bak1 lau6 dung6 laai1} /dès maintenant, dorénavant (orig. de vietnamien)/
 北芪 北芪 [bei3 qi2] {bak1 kei4} /astragale/
-北菇 北菇 [bei3 gu1] {bak1 gu1} /Lentin du Chêne, lentin comestible, shiitake/prostituées de la Chine continentale qui sont venues à Hong Kong/
+北菇 北菇 [bei3 gu1] {bak1 gu1} /Lentin du Chêne, lentin comestible, shiitake/(fam.) prostituées de la Chine continentale qui sont venues à Hong Kong/
 北角碼頭 北角码头 [bei2 jiao3 ma3 tou5] {bak1 gok3 maa5 tau4} /North Point Ferry Pier, une gare maritime de Hong Kong/
 匙扣 匙扣 [chi2 kou4] {si4 kau3} /porte-clés/
 匙羹 匙羹 [chi2 geng1] {ci4 gang1} /cuillère/
-匙羹白 匙羹白 [chi2 geng1 bai2] {ci4 gang1 baak6} /couleur comme le blanc d'une cuillère/
+匙羹白 匙羹白 [chi2 geng1 bai2] {ci4 gang1 baak6} /couleur comme le blanc d'une cuillère en céramique/
 匡復 匡复 [kuang1 fu4] {hong1 fuk6} /sauver ou raviver une régime politique/
 匡扶 匡扶 [kuang1 fu2] {hong1 fu4} /assister/
 匡救 匡救 [kuang1 jiu4] {hong1 gau3} /sauver, porter secours à/
