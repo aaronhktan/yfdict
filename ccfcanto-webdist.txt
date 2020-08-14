@@ -739,9 +739,9 @@
 中檔 中档 [zhong1 dang4] {zung1 dong3} /milieu de gamme/
 中環中心 中环中心 [zhong1 huan2 zhong1 xin1] {zung1 waan4 zung1 sam1} /The Center, un gratte-ciel situé à Hong Kong/
 中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /Central Plaza, un gratte-ciel situé à Hong Kong/
-中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /Central Market, un site historique situé à Central, Hong Kong /
+中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /Central Market, un site historique situé à Central, Hong Kong/
 中用 中用 [zhong1 yong4] {zung1 jung6} /util/
-中碼 中码 [zhong1 ma3] {zung1 maa5} /taille moyen (pour vêtements)/
+中碼 中码 [zhong1 ma3] {zung1 maa5} /taille moyenne (pour vêtements)/
 中立國家 中立国家 [zhong1 li4 guo2 jia1] {zung1 laap6 gwok3 gaa1} /état neutre/
 中等 中等 [zhong1 deng3] {zung1 dang2} /normal, moyen/au milieu/
 中美關係 中美关系 [Zhong1 Mei3 guan1 xi5] {zung1 mei5 gwaan1 hai6} /relations sino-américaines/
@@ -761,7 +761,7 @@
 中華航空 中华航空 [zhong1 hua2 Hang2 kong1] {zung1 waa4 hong4 hung1} /China Airlines/
 中華英雄 中华英雄 [zhong1 hua2 ying1 xiong2] {zung1 waa4 jing1 hung4} /Chinese Hero: Tales of the Blood Sword, un manhua - bande dessinée en Chine - publié de 1980 à 1995/
 中蛇 中蛇 [zhong1 she2] {zung3 se4} /réussir un coup monté/(lit.) frapper un serpent/
-中褸 中褛 [zhong1 lü3] {zung1 lau1} /pardessus, manteau/
+中褸 中褛 [zhong1 lu:3] {zung1 lau1} /pardessus, manteau/
 中資集團 中资集团 [zhong1 zi1 ji2 tuan2] {zung1 zi1 zaap6 tyun4} /entreprises financées par la Chine/
 中途宿舍 中途宿舍 [zhong1 tu2 su4 she4] {zung1 tou4 suk1 se3} /maison de transition/
 中部國際機場 中部国际机场 [zhong1 bu4 guo2 ji4 ji1 chang3] {zung1 bou6 gwok3 zai3 gei1 coeng4} /l'aéroport international du Chūbu, situé au Japon/
@@ -769,12 +769,12 @@
 中銀大廈 中银大厦 [Zhong1 Yin2 da4 sha4] {zung1 ngan4 daai6 haa6} /tour de la Bank of China/
 中間人 中间人 [zhong1 jian1 ren2] {zung1 gaan1 jan4} /intermédiaire (une personne, e.g quelqu'un qui sert d'intermédiaire)/
 中間界 中间界 [zhong1 jian1 jie4] {zung1 gaan1 gaai3} /raie au milieu/
-中電 中电 [zhong4 dian4] {zung1 din6} /CLP Power Hong Kong Limited/
+中電 中电 [zhong4 dian4] {zung1 din6} /CLP Power Hong Kong Limited, entreprise du secteur de l'électricité hongkongaise/
 中頻 中频 [zhong1 pin2] {zung1 pan4} /(onde de) fréquence moyenne/canal de transmission moyenne/
 中飛 中飞 [zhong1 fei1] {zung3 fei1} /hors-bord de puissance moyenne/
 串 串 [chuan4] {cyun3} /prétentieux, arrogant/prendre quelqu'un de haut/se moquer de quelqu'un, taquiner/épeler, écrire (un mot)/
 串仔 串仔 [chuan4 zi3] {cyun3 zi2} /des gangsters (de sexe masculin) qui rôdent les rues/
-串埋 串埋 [chuan4 mai2] {cyun3 maai4} /faire (quelque chose) avec (quelqu'un)/
+串埋 串埋 [chuan4 mai2] {cyun3 maai4} /faire (quelque chose) avec (quelqu'un)/être de mèche (avec quelqu'un)/former un partenariat (avec quelqu'un)/
 串女 串女 [chuan4 nu:3] {cyun3 neoi5} /des gangsters (de sexe féminin) qui rôdent les rues/
 串字 串字 [chuan4 zi4] {cyun3 zi6} /épeler un mot/
 串講 串讲 [chuan4 jiang3] {cyun3 gong2} /éxpliquer, résumer/
@@ -786,8 +786,8 @@
 主使 主使 [zhu3 shi3] {zyu2 si2} /inciter, ordonner/
 主修科目 主修科目 [zhu3 xiu1 ke1 mu4] {zyu2 sau1 fo1 muk6} /matière principale (éducation)/
 主力牆 主力墙 [zhu3 li4 qiang2] {zyu2 lik6 coeng4} /mur porteur/
-主力軍 主力军 [zhu3 li4 jun1] {zyu2 lik6 gwan1} /ceux qui contribuent le plus dans un group, ceux qui sont importants/
-主動 主动 [zhu3 dong4] {zyu2 dung6} /(quelqu'un de) dynamique, proactif/
+主力軍 主力军 [zhu3 li4 jun1] {zyu2 lik6 gwan1} /personnes qui contribuent le plus au succès d'un group, ceux qui sont les plus importants/
+主動 主动 [zhu3 dong4] {zyu2 dung6} /(quelqu'un qui est) dynamique, proactif/
 主動權 主动权 [zhu3 dong4 quan2] {zyu2 dung6 kyun4} /(avoir de) l'initiative/
 主唱 主唱 [zhu3 chang4] {zyu2 coeng3} /chanteur, chanteuse principal(e)/
 主婚 主婚 [zhu3 hun1] {zyu2 fan1} /célébrant (d'un mariage)/
@@ -795,7 +795,7 @@
 主將 主将 [zhu3 jiang4] {zyu2 zoeng3} /capitaine, dirigeant/
 主帥 主帅 [zhu3 shuai4] {zyu2 seoi3} /chef, capitaine, dirigeant/
 主持正義 主持正义 [zhu3 chi2 zheng4 yi4] {zyu2 ci4 zing3 ji6} /soutenir, rendre la justice/
-主教山 主教山 [zhu3 jiao4 shan1] {zyu2 gaau3 saan1} /Penha Hill, un colline située à Macau/
+主教山 主教山 [zhu3 jiao4 shan1] {zyu2 gaau3 saan1} /Penha Hill, une colline située à Macau/
 主旨 主旨 [zhu3 zhi3] {zyu2 zi2} /sujet/thème/
 主根 主根 [zhu3 gen1] {zyu2 gan1} /racine principale/
 主次 主次 [zhu3 ci4] {zyu2 ci3} /le plus important et les autres/(lit.) primaire et secondaire/
@@ -811,8 +811,8 @@
 主辦單位 主办单位 [zhu3 ban4 dan1 wei4] {zyu2 baan6 daan1 wai2} /hôte/
 主題公園 主题公园 [zhu3 ti2 gong1 yuan2] {zyu2 tai4 gung1 jyun4} /parque d'attractions/
 主題樂園 主题乐园 [zhu3 ti2 le4 yuan2] {zyu2 tai4 lok6 jyun4} /parque d'attractions/
-乃念 乃念 [nai3 nian4] {naai5 nim6} /penser (de quelque chose)/se rappeler du passé, prendre en compte le passé/
-久一…久二… 久一…久二… [jiu3 yi1… jiu3 er4 …] {gau2 jat1 …gau2 ji6…} /faire quelque chose de façon sporadique/
+乃念 乃念 [nai3 nian4] {naai5 nim6} /considérer (une autre façon de voir la situation)/penser (à quelque chose)/se rappeler du passé, tenir compte du passé/
+久一…久二… 久一…久二… [jiu3 yi1… jiu3 er4 …] {gau2 jat1 …gau2 ji6…} /faire quelque chose sporadiquement/
 久不久 久不久 [jiu3 bu4 jiu3] {gau2 bat1 gau2} /de temps en temps/
 久唔久 久唔久 [jiu3 n2 jiu3] {gau2 m4 gau2} /de temps en temps/
 之 之 [zhi1] {zi1} /ceci, cela/embranchement (d'une route)/
@@ -825,14 +825,14 @@
 尹光 尹光 [yin3 guang1] {wan5 gwong1} /Jackson Wan Kwong, une chanteuse hongkongaise/
 尹天照 尹天照 [yin3 tian1 zhao4] {wan5 tin1 ziu3} /Eric Wan Tin-Chiu, un acteur hongkongais/
 尹揚明 尹扬明 [yin3 yang2 ming2] {wan5 joeng4 ming4} /Vincent Wan Yeung-Ming, un acteur hongkongais/
-乍到 乍到 [zha4 dao4] {zaa3 dou3} /récemment arrivé/
-乍暖還寒 乍暖还寒 [zha4 nuan3 huan2 han2] {zaa3 nyun5 waan4 hon4} /variation de température soudaine dans la période entre l'hiver et le printemps/
+乍到 乍到 [zha4 dao4] {zaa3 dou3} /qui vient d'arriver/
+乍暖還寒 乍暖还寒 [zha4 nuan3 huan2 han2] {zaa3 nyun5 waan4 hon4} /variation de température soudaine lors de la période entre l'hiver et le printemps/
 乏人問津 乏人问津 [fa2 ren2 wen4 jin1] {fat6 jan4 man6 zeon1} /(fig.) ne suscite pas d'intérêt/(lit.) peu de personnes posent des questions (sur un sujet quelconque)/
-乏善足陳 乏善足陈 [fa2 shan4 zu2 chen2] {fat6 sin6 zuk1 can4} /n'avoir que de critiques à offrir/rien de bon/
-乒乒乓乓 乒乒乓乓 [ping1 ping5 pang1 pang1] {ping1 ping1 pong1 pong1} /onomatopée pour quelque chose rebondit/
+乏善足陳 乏善足陈 [fa2 shan4 zu2 chen2] {fat6 sin6 zuk1 can4} /n'avoir que de critiques à offrir/n'avoir rien de bon à dire/
+乒乒乓乓 乒乒乓乓 [ping1 ping5 pang1 pang1] {ping1 ping1 pong1 pong1} /(onomatopée pour quelque chose rebondit)/
 乒乓波 乒乓波 [ping1 pang1 bo1] {bing1 bam1 bo1} /balle de ping-pong/
-乒鈴𠾴唥 乒鈴𠾴唥 [] {ping1 ling1 baang4 laang4} /onomatopée pour quelque chose qui tombe/
-乖乖 乖乖 [guai1 guai5] {gwaai1 gwaai1} /sage, bien-élevé (pour parler d'enfants)/
+乒鈴𠾴唥 乒鈴𠾴唥 [] {ping1 ling1 baang4 laang4} /(onomatopée pour quelque chose qui tombe)/
+乖乖 乖乖 [guai1 guai5] {gwaai1 gwaai1} /(enfant) sage, bien-élevé/
 乖乖仔 乖乖仔 [guai1 guai5 zi3] {gwaai1 gwaai1 zai2} /fils sage/
 乖乖女 乖乖女 [guai1 guai5 nü3] {gwaai1 gwaai1 neoi5} /fille sage/
 乖仔 乖仔 [guai1 zi3] {gwaai1 zai2} /fils sage, fils bien-élevé/
@@ -844,7 +844,7 @@
 乜 乜 [mie1] {me1} /toutes sortes (de choses)/quel, quoi (utilisé dans les questions)/
 乜乜物物 乜乜物物 [mie1 mie1 wu4 wu4] {mat1 mat1 mat6 mat6} /n'importe quoi/du bla-bla, tout le reste/tel ou tel/
 乜事 乜事 [mie1 shi4] {mat1 si6} /qu'est-ce qu'il y a?/qu'est-ce qui se passe?/
-乜人 乜人 [mie1 ren2] {me1 jan4} /what kind of person, every kind of person/(lit.) quel type de personne/
+乜人 乜人 [mie1 ren2] {me1 jan4} /n'importe qui/tout le monde/(lit.) quel type de personne/
 乜嘢話 乜嘢话 [mie1 ye3 hua4] {mat1 je5 waa2} /qu'as-tu dit?/
 乜春 乜春 [mie1 chun1] {mat1 ceon1} /quoi?/qu'est-ce que tu racontes?/
 乜東東 乜东东 [mie1 dong1 dong1] {mat1 dung1 dung1} /qu'est-ce que c'est?, c'est quoi ça?/
@@ -855,7 +855,7 @@
 乜誰 乜谁 [mie1 shui2] {mat1 seoi2} /qui/machin, bidule (quelqu'un dont le nom on a oublié)/untel, unetelle/
 乜都 乜都 [mie1 dou1] {me1 dou1} /tout est (e.g. 乜都可以, tout est possible)/
 乜都假 乜都假 [mie1 dou1 jia3] {mat1 dou1 gaa2} /inévitable, n'y pouvoir rien faire/c'est tout faux! c'est tout une imitation! (en parlant d'objets)/ne pas abandonner, ne pas perdre l'espoir/mais ce n'est pas possible!/
-乜都得 乜都得 [mie1 dou1 de5] {mat1 dou1 dak1} /tout est possible/n'importe lequel/
+乜都得 乜都得 [mie1 dou1 de5] {mat1 dou1 dak1} /tout est possible/c'est comme tu veux/
 乜野 乜野 [mie1 ye3] {me1 je5} /quoi?/hein?/tous (en parlant d'une catégorie de choses)/
 乜頭乜路 乜头乜路 [mie1 tou2 mie1 lu4] {mat1 tau4 mat1 lou6} /personne ou groupe inconnu/
 乜鬼 乜鬼 [mie1 gui3] {mat1 gwai2} /(pour exprimer exaspération) mais qu'est-ce que.../
@@ -863,11 +863,11 @@
 九七年 九七年 [jiu3 qi1 nian2] {gau2 cat1 nin4} /l'année 1997/
 九九金 九九金 [jiu3 jiu3 jin1] {gau2 gau2 gam1} /or fin, or 999, or de 24 carats/
 九個字 九个字 [jiu3 ge4 zi4] {gau2 go3 zi6} /neuf caractères ou mots/quarante-cinq minutes/
-九出十三歸 九出十三归 [jiu3 chu1 shi2 san1 gui1] {gau2 ceot1 sap6 saam1 gwai1} /(pour parler des usuriers) emprunter dix dollars, recevoir seulement neuf dollars, mais devoir rembourser treize dollars/
+九出十三歸 九出十三归 [jiu3 chu1 shi2 san1 gui1] {gau2 ceot1 sap6 saam1 gwai1} /(pour parler des usuriers) emprunter dix dollars, recevoir seulement neuf dollars, mais devoir rembourser treize dollars/(fig.) tirer de gros profits/
 九十九 九十九 [jiu3 shi2 jiu3] {gau2 sap6 gau2} /quatre-vingt-dix-neuf/
 九十年代 九十年代 [jiu3 shi2 nian2 dai4] {gau2 sap6 nin4 doi6} /pendant les années 1990/
 九千 九千 [jiu3 qian1] {gau2 cin1} /neuf mille/
-九唔搭八 九唔搭八 [jiu3 n2 da1 ba1] {gau2 m4 daap3 baat3} /quelqu'un incompréhensible, fou, absurde/
+九唔搭八 九唔搭八 [jiu3 n2 da1 ba1] {gau2 m4 daap3 baat3} /(expr. idiom.) quelqu'un incompréhensible, fou, absurde/(lit.) neuf qui ne suit pas huit/
 九因歌 九因歌 [jiu3 yin1 ge1] {gau2 jan1 go1} /poème de table de multiplication chinoise, un moyen mnémotechnique/
 九大簋 九大簋 [Jiu3 da4 gui3] {gau2 daai6 gwai2} /festin, repas de neuf plats/
 九子連環 九子连环 [jiu3 zi3 lian2 huan2] {gau2 zi2 lin4 waan4} /type de main gagnante dans le jeu de mah-jong/
@@ -886,16 +886,16 @@
 九針群島 九针群岛 [jiu3 zhen1 qun2 dao3] {gau2 zam1 kwan4 dou2} /îles Ninepin, situées à Hong Kong/
 九鐵 九铁 [jiu3 tie3] {gau2 tit3} /Kowloon-Canton Railway/
 九點鐘 九点钟 [jiu3 dian3 zhong1] {gau2 dim2 zung1} /neuf heures (e.g. du matin)/
-九龍公園 九龙公园 [Jiu3 long2 gong1 yuan2] {gau2 lung4 gung1 jyun4} /Parc Kowloon/
-九龍城區 九龙城区 [Jiu3 long2 cheng2 qu1] {gau2 lung4 sing4 keoi1} /district de Kowloon City/
-九龍城寨公園 九龙城寨公园 [Jiu3 long2 Cheng2 zhai4 gong1 yuan2] {gau2 lung4 sing4 zaai6 gung1 jyun4} /Parc de la Ville fortifiée de Kowloon/
-九龍塘 九龙塘 [Jiu3 long2 tang2] {gau2 lung4 tong4} /Kowloon Tong, une région de Kowloon, Hong Kong/
+九龍公園 九龙公园 [jiu3 long2 gong1 yuan2] {gau2 lung4 gung1 jyun4} /Parc Kowloon/
+九龍城區 九龙城区 [jiu3 long2 cheng2 qu1] {gau2 lung4 sing4 keoi1} /district de Kowloon City/
+九龍城寨公園 九龙城寨公园 [jiu3 long2 Cheng2 zhai4 gong1 yuan2] {gau2 lung4 sing4 zaai6 gung1 jyun4} /Parc de la Ville fortifiée de Kowloon/
+九龍塘 九龙塘 [jiu3 long2 tang2] {gau2 lung4 tong4} /Kowloon Tong, une région de Kowloon, Hong Kong/
 九龍山 九龙山 [jiu3 long2 shan1] {gau2 lung4 saan1} /montagne Kowloon, montagne qui n'existe plus/
-九龍巴士 九龙巴士 [Jiu3 long2 ba1 shi4] {gau2 lung4 baa1 si6} /The Kowloon Motor Bus Company (1933) Limited, compagnie de bus de Hong Kong/
-九龍水塘 九龙水塘 [Jiu3 long2 shui3 tang2] {gau2 lung4 seoi2 tong4} /lac de barrage de Kowloon/
-九龍清真寺 九龙清真寺 [Jiu3 long2 Qing1 zhen1 si4] {gau2 lung4 cing1 zan1 zi6} /Kowloon Masjid and Islamic Centre, une des cinq mosqués principales en Hong Kong/
+九龍巴士 九龙巴士 [jiu3 long2 ba1 shi4] {gau2 lung4 baa1 si6} /The Kowloon Motor Bus Company (1933) Limited, compagnie de bus de Hong Kong/
+九龍水塘 九龙水塘 [jiu3 long2 shui3 tang2] {gau2 lung4 seoi2 tong4} /lac de barrage de Kowloon/
+九龍清真寺 九龙清真寺 [jiu3 long2 Qing1 zhen1 si4] {gau2 lung4 cing1 zan1 zi6} /Kowloon Masjid and Islamic Centre, une des cinq mosqués principales en Hong Kong/
 九龍灣 九龙湾 [jiu3 long2 wan1] {gau2 lung4 waan1} /Baie de Kowloon/
-九龍醫院 九龙医院 [Jiu3 long2 yi1 yuan4] {gau2 lung4 ji1 jyun2} /Kowloon Hospital, hôpital de Hong Kong/
+九龍醫院 九龙医院 [jiu3 long2 yi1 yuan4] {gau2 lung4 ji1 jyun2} /Kowloon Hospital, hôpital de Hong Kong/
 乞人憎 乞人憎 [qi3 ren2 zeng1] {hat1 jan4 zang1} /méprisable, dégoûtant/(lit.) agir comme s'il un mendiant, demandait qu'on le déteste/
 乞兒相 乞儿相 [qi3 er2 xiang4] {hat1 ji4 soeng3} /avoir l'air d'un mendiant/
 乞嗤 乞嗤 [qi3 chi1] {hat1 ci1} /éternuer/
@@ -905,7 +905,7 @@
 乞靈 乞灵 [qi3 ling2] {hat1 ling4} /demander l'aide des dieux ou des esprits/
 也不 也不 [ye3 bu2] {jaa5 bat1} /non plus/ni/
 也好 也好 [ye3 hao3] {jaa5 hou2} /aussi bon, également bon/
-也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /frimer, exhiber/
+也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /faire l'important, crâner, frimer, exhiber le meilleur/
 也是 也是 [ye3 shi4] {jaa5 si6} /aussi, également/
 也與 也与 [ye3 yu3] {jaa5 jyu5} /expression qui exprime de doute, discutable/
 乳名 乳名 [ru3 ming2] {jyu5 meng2} /surnom, sobriquet/
@@ -922,12 +922,12 @@
 乾包 干包 [gan1 bao1] {gon1 baau1} /jaque seché/
 乾噌噌 干噌噌 [gan1 ceng1 ceng1] {gon1 zang1 zang1} /sec et fade/
 乾塘 干塘 [gan1 tang2] {gon1 tong4} /épuisé (argent, énergie)/
-乾工 干工 [gan1 gong1] {gon1 gung1} /être payé sans travailler/
+乾工 干工 [gan1 gong1] {gon1 gung1} /être rénuméré sans travailler/
 乾巴 干巴 [gan1 ba5] {gon1 baa1} /sec/
-乾手淨腳 干手淨脚 [gan1 shou3 cheng2 jiao3] {gon1 sau2 zeng6 goek3} /(fig.) sans soucis, le sentiment de savoir que tout est réglé/(lit.) mains propres, pieds propres/
+乾手淨腳 干手淨脚 [gan1 shou3 cheng2 jiao3] {gon1 sau2 zeng6 goek3} /(fig.) vivre sans soucis, libre de ses fardeaux, savoir que tout est réglé/(fig.) propre et bien rangé, efficace/(lit.) mains propres, pieds propres/
 乾時緊月 干时紧月 [gan1 shi2 jin3 yue4] {gon1 si4 gan2 jyut6} /nerveux(euse)/
-乾柴烈火 干柴烈火 [gan1 chai2 lie4 huo3] {gon1 caai4 lit6 fo2} /couple en chaleur, qui veut coucher ensemble/(lit.) bois sec, feu vif/
-乾水 干水 [gan1 shui3] {gon1 seoi2} /jeu de mah-jong/soupe bouillie tellement longtemps que peu de liquide reste/
+乾柴烈火 干柴烈火 [gan1 chai2 lie4 huo3] {gon1 caai4 lit6 fo2} /(expr. idiom.) couple en chaleur, qui veut coucher ensemble/(expr. idiom.) situation explosive)/(lit.) bois sec, feu vif/
+乾水 干水 [gan1 shui3] {gon1 seoi2} /jeu de mah-jong/soupe bouillie tellement longtemps qu'il ne rest plus de liquide/
 乾洗店 干洗店 [gan1 xi3 dian4] {gon1 sai2 dim3} /pressing/
 乾淨企理 干净企理 [gan1 jing4 qi3 li3] {gon1 zeng6 kei5 lei5} /propre et rangé/
 乾濕褸 干湿褛 [gan1 shi1 lü3] {gon1 sap1 lau1} /trench-coat/
@@ -941,20 +941,20 @@
 乾電 干电 [gan1 dian4] {gon1 din6} /courant continu/
 乾電池 干电池 [gan1 dian4 chi2] {gon1 din6 ci4} /pile sèche/
 乾骾骾 干鲠鲠 [gan1 geng3 geng3] {gon1 gang2 gang2} /(aliment) sec et difficil à avaler/
-乾鯁 干鲠 [gan1 geng3] {gon1 gang2} /avaler quelque chose sans boire de liquide avec/
-乾鯁鯁 干鲠鲠 [gan1 geng3 geng3] {gon1 gang2 gang2} /avaler quelque chose sans boire de liquide avec/
+乾鯁 干鲠 [gan1 geng3] {gon1 gang2} /avaler quelque chose sans boire de liquide/
+乾鯁鯁 干鲠鲠 [gan1 geng3 geng3] {gon1 gang2 gang2} /avaler quelque chose sans boire de liquide/
 亂 乱 [luan4] {lyun6} /désordre/
 亂七八糟 乱七八糟 [luan4 qi1 ba1 zao1] {lyun6 cat1 baat3 zou1} /désordre total/(lit.) désordre à sept huit pourri/
-亂作一團 乱作一团 [luan4 zuo4 yi1 tuan2] {lyun6 zok3 jat1 tyun4} /créer un désordre/
+亂作一團 乱作一团 [luan4 zuo4 yi1 tuan2] {lyun6 zok3 jat1 tyun4} /faire un gâchis/
 亂來 乱来 [luan4 lai2] {lyun6 lai4} /(faire quelque chose) imprudemment, sans y réféchir/(faire quelque chose) d'une manière désorganisée/
 亂咁 乱咁 [luan4 gan1] {lyun6 gam3} /par hasard/
-亂咁舂 乱咁舂 [luan4 gan1 chong1] {lyun6 gam3 zung1} /faire quelque chose sans préparation/faire quelque chose inutile/
-亂噏 乱噏 [luan4 xi1] {lyun2 ngap1} /dire des bêtises, bredouiller n'importe quoi/
-亂噏廿四 乱噏廿四 [luan4 xi1 nian4 si4] {lyun6 ngap1 jaa6 sei3} /dire des bêtises, bredouiller n'importe quoi/
+亂咁舂 乱咁舂 [luan4 gan1 chong1] {lyun6 gam3 zung1} /faire quelque chose avant d'être prêt/faire quelque chose d'inutile/
+亂噏 乱噏 [luan4 xi1] {lyun2 ngap1} /dire des bêtises, dire n'importe quoi/
+亂噏廿四 乱噏廿四 [luan4 xi1 nian4 si4] {lyun6 ngap1 jaa6 sei3} /dire des bêtises, dire n'importe quoi/
 亂嚟 乱嚟 [luan4 li2] {lyun2 lei4} /(faire quelque chose) imprudemment, sans y réféchir/(faire quelque chose) d'une manière désorganisée/
 亂子 乱子 [luan4 zi5] {lyun6 zi2} /dispute, difficultés/
 亂揈 乱轰 [luan4 hong1] {lyun6 gwang1} /dépenser trop d'argent/
-亂晒坑 乱晒坑 [luan4 shai4 keng1] {lyun6 saai3 haang1} /mettre (quelque chose) en désordre/en désordre, désorganisé/chaotique
+亂晒坑 乱晒坑 [luan4 shai4 keng1] {lyun6 saai3 haang1} /gâcher (quelque chose)/en désordre, désorganisé/chaotique
 亂晒籠 乱晒笼 [luan4 shai4 long2] {lyun6 saai3 lung4} /en désordre, désorganisé/chaotique/
 亂用 乱用 [luan4 yong4] {lyun6 jung6} /utiliser quelque chose sans lire les instructions ou sans savoir comment l'utiliser/
 亂立立 乱立立 [luan4 li4 li4] {lyun6 lap6 lap2} /en désordre/
@@ -965,11 +965,11 @@
 亂車廿四 乱车廿四 [luan4 che1 nian4 si4] {lyun6 ce1 jaa6 sei3} /dire des bêtises, dire n'importe quoi/
 亂逛 乱逛 [luan4 guang4] {lyun6 gwaang6} /flâner, errer/
 亂過亂世佳人 乱过乱世佳人 [luan4 guo4 luan4 shi4 jia1 ren2] {lyun6 gwo3 lyun6 sai3 gaai1 jan4} /(fig.) très désorganisé/(lit.) plus désorganisé qu'un couple en temps de guerre/
-亂離 乱离 [luan4 li2] {lyun6 lei4} /l'adversité dans un pays causé par l'instabilité politique/
+亂離 乱离 [luan4 li2] {lyun6 lei4} /devenir sans-abri en raison d'une guerre/adversité causé par l'instabilité politique/
 亂龍 乱龙 [luan4 long2] {lyun2 lung4} /désorganisé, chaotique (voir aussi 亂籠, 乱笼)/
 了不得 了不得 [liao3 bu5 de5] {liu5 bat1 dak1} /fantastique, extraordinaire/
 了哥 了哥 [liao3 ge1] {liu1 go1} /maintes, type d'oiseau/
-了望 了望 [liao4 wang4] {liu5 mong6} /regarder d'en haut/
+了望 了望 [liao4 wang4] {liu5 mong6} /regarder d'une position élevée, regarder du haut, regarder en bas/
 事 事 [shi4] {si6} /affaire/problème/
 事不關己，己不勞心 事不关己，己不劳心 [shi4 bu4 guan1 ji3, ji3 bu4 lao2 xin1] {si6 bat1 gwaan1 gei2, gei2 bat1 lou4 sam1} /(fig.) ne pas se soucier des affaires des autres/(lit.) si cela ne me regarde pas, je ne devrais pas m'inquiéter/
 事主 事主 [shi4 zhu3] {si6 zyu2} /victime (de crime, d'un accident)/
@@ -22405,4 +22405,5 @@
 槍替 枪替 [qiang1 ti4] {coeng1 tai3} /passer un examen à la place de quelqu'un d'autre/
 槍手 枪手 [qiang1 shou3] {coeng1 sau2} /tireur, homme armé/passer un examen à la place de quelqu'un d'autre/
 免息 免息 [mian3 xi1] {min5 sik} /(finance) sans intérêt/
+想著 想着 [xiang3 zhe] {soeng2 zoek6} /garder à l'esprit, tenir compte de/n'oubliez pas de.../
 
