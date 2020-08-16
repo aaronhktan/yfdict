@@ -18,8 +18,8 @@
 # - Pour les traductions avec une version littérale, mets-la après les autres définitions et ajoute un (lit.) devant la traduction
 # - En parenthèses: (expr. idiom.), (arch.), (vieilli), (n.m.), (n.f), (classificateur), (orig.), (nom de famille), (litt.), (fam.)
 
-一不小心 一不小心 [yi1 bu5 xiao3 xin1] {jat1 bat1 siu2 sam1} /par accident/
-一世人 一世人 [yi1 shi4 ren2] {jat1 sai3 jan4} /toute la vie (de quelqu'un), la vie entière, pour toute une vie/
+一不小心 一不小心 [yi1 bu5 xiao3 xin1] {jat1 bat1 siu2 sam1} /par accident, dans un moment d'inattention/
+一世人 一世人 [yi1 shi4 ren2] {jat1 sai3 jan4} /toute la vie (de quelqu'un), la vie entière, pour toute une vie/(syn.) 一輩子|一輩子[yi1 bei4 zi5]/
 一世英名 一世英名 [yi1 shi4 ying1 ming2] {jat1 sai3 jing1 ming4} /grande réputation et renommée de quelqu'un/
 一个 一个 [yi1 ge5] {jat1 go3} /un, une/
 一串 一串 [yi1 chuan4] {jat1 cyun3} /une série (de quelque chose)/
@@ -28,76 +28,76 @@
 一事 一事 [yi1 shi4] {jat1 si6} /affaire, sujet/
 一二 一二 [yi1 er4] {jat1 ji6} /un ou deux/un peu/quelques-uns/un par un/
 一些些 一些些 [yix1 xie1 xie1] {jat1 se1 se1} /un petit peu/
-一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /(expr. idiom.) on doit faire face aux conséquences de nos actions/
-一人計短，二人計長 一人计短，二人计长 [yi1 ren2 ji4 duan3 , er4 ren2 ji4 zhang3] {jat1 jan4 gai3 dyun2 ji6 jan4 gai3 zoeng2} /(expr. idiom.) mieux voient quatre yeux que deux/(lit.) une personne possède peu de sagesse, deux personnes en possèdent plus/
-一仆一碌 一仆一碌 [yi1 pu2 yi1 lu4] {jat1 puk1 jat1 luk1} /trébucher, tomber sur la terre en roulant ou en rampant/fuir très vite, manquant de tomber/(lit.) un trébuchement, un roulement/
+一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /(expr. idiom.) chacun doit faire face aux conséquences de ses actions/
+一人計短，二人計長 一人计短，二人计长 [yi1 ren2 ji4 duan3 , er4 ren2 ji4 zhang3] {jat1 jan4 gai3 dyun2 ji6 jan4 gai3 zoeng2} /(expr. idiom.) mieux voient quatre yeux que deux/(lit.) une personne a un plan trop court, l'autre a un plan trop long/
+一仆一碌 一仆一碌 [yi1 pu2 yi1 lu4] {jat1 puk1 jat1 luk1} /(expr. idiom.) trébucher, tomber sur la terre en roulant ou en rampant/(expr. idiom.) fuir très vite, manquant de tomber/(lit.) un trébuchement, un roulement/
 一介 一介 [yi1 jie4] {jat1 gaai3} /un type (de personne)/
-一代英豪 一代英豪 [yi1 dai4 ying1 hao2] {jat1 doi6 jing1 hou4} /héros d'une ère/
-一代豪傑 一代豪杰 [yi1 dai4 hao2 jie2] {jat1 doi6 hou4 git6} /héros d'une ère/
-一件還一件 一件还一件 [yi1 jian4 hai2 yi2 jian4] {jat1 gin6 waan4 jat1 gin6} /une affaire à la fois, n'emmêle pas une autre affaire avec celle-ci/
+一代英豪 一代英豪 [yi1 dai4 ying1 hao2] {jat1 doi6 jing1 hou4} /héros de notre temps/
+???? 一代豪傑 一代豪杰 [yi1 dai4 hao2 jie2] {jat1 doi6 hou4 git6} /héros d'une ère/
+一件還一件 一件还一件 [yi1 jian4 hai2 yi2 jian4] {jat1 gin6 waan4 jat1 gin6} /une chose à la fois, ne mêle pas (une autre affaire) à ça/
 一件頭 一件头 [yi1 jian4 tou2] {jat1 gin6 tau4} /maillot de bain une-pièce/
-一任 一任 [yi1 ren4] {jat1 jam6} /permettre/laisser quelqu'un faire comme il veut/une période, un mandat/
+一任 一任 [yi1 ren4] {jat1 jam6} /(litt.) permettre/(litt.) laisser quelqu'un faire comme il veut/
 一份 一份 [yi1 fen4] {jat1 fan6} /(classificateur) une portion/
 一住 一住 [yi1 zhu4] {jat1 zyu6} /vivre dans/
-一來到 一来到 [yi1 lai2 dao4] {jat1 lai4 dou3} /dès l'arrivée de quelqu'un/
+一來到 一来到 [yi1 lai2 dao4] {jat1 lei4 dou3} /dès l'arrivée (de quelqu'un)/
 一便 一便 [yi1 bian4] {jat1 bin6} /à part/lorsque/
 一係 一系 [yi1 xi4] {jat1 hai6} /ni l'un ni l'autre/l'un ou l'autre, aussi/(pour faire une suggestion) «qu'en est-il de...» ou «pourquoi pas…»/
 一個 一个 [yi1 ge5] {jat1 go3} /un, une/
 一個一個 一个一个 [yi1 ge5 yi1 ge5] {jat1 go3 jat1 go3} /un par un/
-一個中國 一个中国 [yi1 ge4 Zhong1 guo2] {jat1 go3 zung1 gwok3} /politique d'une seule Chine/
+一個中國 一个中国 [yi1 ge4 zhong1 guo2] {jat1 go3 zung1 gwok3} /politique d'une seule Chine/
 一個二個 一个二个 [yi1 ge5 er4 ge4] {jat1 go3 ji6 go3} /un et deux/tout, chaque/
-一個做好，一個做醜 一个做好，一个做丑 [yi2 ge5 zuo4 hao3 , yi2 ge5 zuo4 chou3] {jat1 go3 zou6 hou2 ，jat1 go3 zou6 cau2} /(expr. idiom.) jouer au «gentil flic, mauvais flic»/
+???? 一個做好，一個做醜 一个做好，一个做丑 [yi2 ge5 zuo4 hao3 , yi2 ge5 zuo4 chou3] {jat1 go3 zou6 hou2 ，jat1 go3 zou6 cau2} /(expr. idiom.) jouer au «gentil flic, mauvais flic»/
 一個字 一个字 [yi1 ge5 zi4] {jat1 go3 zi6} /un caractère/cinq minutes (orig. les caractères sur une horloge analogique représentent chacun cinq minutes)/
-一個對 一个对 [yi1 ge5 dui4] {jat1 go3 deoi3} /une chose, ou une personne qui.../
+一個對 一个对 [yi1 ge5 dui4] {jat1 go3 deoi3} /une chose, ou une personne qui.../vingt-quatre heures/
 一個崩 一个崩 [yi1 ge5 beng1] {jat1 go3 bang1} /une pièce de monnaie (un dollar, un centime)/
-一個巴仙 一个巴仙 [yi1 ge5 ba1 xian1] {jat1 go3 baa1 sin1} /un pourcent/
+一個巴仙 一个巴仙 [yi1 ge5 ba1 xian1] {jat1 go3 baa1 sin1} /un pourcent (orig. de l'anglais «percent», «pourcent»)/
 一個鐘 一个钟 [yi1 ge5 zhong1] {jat1 go3 zung1} /une heure/
-一個餅印 一个饼印 [yi1 ge5 bing3 yin4] {jat1 go3 beng2 jan3} deux personnes qui se ressemblent (habituellement utilisé pour parler de membres de la même famille)/(lit.) une empreinte de biscuit/
-一個餅印噉 一个饼印啖 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (généralement utilisé pour parler de membres de la même famille)/(lit.) comme une empreinte de biscuit/
-一個骨 一个骨 [yi1 ge5 gu3] {jat1 go3 gwat1} /quinze minutes, un quart d'heure (orig. argot cantonais, de l'anglais 'quarter' (un quart), la prononciation du mot 'quart' en anglais est similaire à la prononciation cantonaise du mot '骨' (gwat1))/(lit.) un os/
+一個餅印 一个饼印 [yi1 ge5 bing3 yin4] {jat1 go3 beng2 jan3} /deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille)/(lit.) une empreinte de biscuit/
+一個餅印噉 一个饼印啖 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille)/(lit.) comme une empreinte de biscuit/
+一個骨 一个骨 [yi1 ge5 gu3] {jat1 go3 gwat1} /quinze minutes, un quart d'heure (orig. argot cantonais, de l'anglais «quarter» (un quart), la prononciation du mot 'quart' en anglais est similaire à la prononciation cantonaise du mot «骨» (gwat1))/(lit.) un os/
 一倍 一倍 [yi1 bei4] {jat1 pui5} /100% plus, double, deux fois/
 一億 一亿 [yi1 yi4] {jat1 jik1} /cent millions/
 一元化 一元化 [yi1 yuan2 hua4] {jat1 jyun4 faa3} /unifié/
-一元復始 一元复始 [yi1 yuan2 fu4 shi3] {jat1 jyun4 fuk6 ci2} /nouvelle année, nouveau départ/
-一元方程 一元方程 [yi1 yuan2 fang1 cheng2] {jat1 jyun4 fong1 cing4} /équation du second degré/
+一元復始 一元复始 [yi1 yuan2 fu4 shi3] {jat1 jyun4 fuk6 ci2} /une nouvelle année, un nouveau départ/
+一元方程 一元方程 [yi1 yuan2 fang1 cheng2] {jat1 jyun4 fong1 cing4} /équation à une inconnue/équation du second degré/
 一兆 一兆 [yi1 zhao4] {jat1 siu6} /échelle longue: billion, échelle courte: trillion, 1 000 000 000/
 一共 一共 [yi1 gong4] {jat1 gung6} /somme/en total/
-一凹一凸 一凹一凸 [yi1 ao1 yi1 tu1] {jat1 nap1 jat1 dat6} /compatible/(lit.) un qui a creux, un qui saillit/
+一凹一凸 一凹一凸 [yi1 ao1 yi1 tu1] {jat1 nap1 jat1 dat6} /(personnes) compatibles/rugueux, bosselé/(lit.) un qui a creux, un qui saillit/
 一分 一分 [yi1 fen4] {jat1 fan1} /une minute/un point/un centime/
 一分一秒 一分一秒 [yi1 fen1 yi1 miao3] {jat1 fan1 jat1 miu5} /au fil des temps, au fil du temps/
-一分錢一分貨 一分钱一分货 [yi1 fen1 qian2 yi1 fen1 huo4] {jat1 fan1 cin4 jat1 fan1 fo3} /obtenir ce que l'on paie/en avoir pour son argent/
+一分錢一分貨 一分钱一分货 [yi1 fen1 qian2 yi1 fen1 huo4] {jat1 fan1 cin4 jat1 fan1 fo3} /obtenir ce que l'on paie/
 一刻 一刻 [yi1 ke4] {jat1 haak1} /un moment/quinze minutes/
-一動不如一靜 一动不如一静 [yi1 dong4 bu4 ru2 yi1 jing4] {jat1 dung6 bat1 jyu4 jat1 zing6} /ne pas agir avant de savoir qu'une action vaille la peine/(lit.) une action est pire que rester immobile/
-一十 一十 [yi1 shi2] {jat1 sap6} /le tout/
+一動不如一靜 一动不如一静 [yi1 dong4 bu4 ru2 yi1 jing4] {jat1 dung6 bat1 jyu4 jat1 zing6} /(expr. idiom.) ne pas agir avant de savoir qu'une action vaille la peine/(lit.) mieux vaut rester immobile que d'agir/
+一十 一十 [yi1 shi2] {jat1 sap6} /intégralité, totalité, tout/
 一千 一千 [yi1 qian1] {jat1 cin1} /mille/
-一去不返 一去不返 [yi1 qu4 bu4 fan3] {jat1 heoi3 bat1 faan2} /ne pas revenir après être parti(e)/
-一口價 一口价 [yi1 kou3 jia4] {jat1 hau2 gaa3} /dernière offre (pour négocier un prix d'achat)/
+一去不返 一去不返 [yi1 qu4 bu4 fan3] {jat1 heoi3 bat1 faan2} /parti pour ne plus revenir/
+一口價 一口价 [yi1 kou3 jia4] {jat1 hau2 gaa3} /dernière offre, offre finale (pour négocier un prix d'achat)/
 一口煙 一口烟 [yi1 kou3 yan1] {jat1 hau2 jin1} /une bouffée de fumée/
 一句講晒 一句讲晒 [yi1 ju4 jiang3 shai4] {jat1 geoi3 gong2 saai3} /tout dire avec une phrase/
 一句鐘 一句钟 [yi1 ju4 zhong1] {jat1 geoi3 zung1} /une heure/
 一向 一向 [yi1 xiang4] {jat1 hoeng3} /avoir toujours été/
 一向都 一向都 [yi1 xiang4 du1] {jat1 hoeng3 dou1} /avoir toujours été/
 一味 一味 [yi1 wei4] {jat1 mei6} /un plat/interêt unique/
-一哥 一哥 [yi1 ge1] {jat1 go1} /(fam.) le leader ou le chef d'un group; souvent une référence spécifique au Commissaire de Police de Hong Kong, chef du Hong Kong Police Force/quelqu'un qui est particulièrement doué en une domaine en particulier/
-一唔係 一唔系 [yi1 n2 xi4] {jat1 m4 hai6} /autrement/
-一啖砂糖一啖屎 一啖砂糖一啖屎 [yi1 dan4 sha1 tang2 yi1 dan4 shi3] {jat1 daam6 saa1 tong4 jat1 daam6 si2} /(expr. idiom.) les bons moments s'alternent avec les moments difficiles/(lit.) une bouchée de sucre suivie d'une bouchée de merde/
+一哥 一哥 [yi1 ge1] {jat1 go1} /(fam.) le leader ou le chef d'un group; souvent une référence spécifique au Commissaire de Police de Hong Kong, chef du Hong Kong Police Force/la personne la plus douée ou celle qui possède le plus de connaissances/
+一唔係 一唔系 [yi1 n2 xi4] {jat1 m4 hai6} /soit... soit... (pour donner deux options)/pourquoi pas... (pour suggérer un alternatif)/
+一啖砂糖一啖屎 一啖砂糖一啖屎 [yi1 dan4 sha1 tang2 yi1 dan4 shi3] {jat1 daam6 saa1 tong4 jat1 daam6 si2} /(expr. idiom.) dans la vie, on alterne les bons moments avec les mauvais/(expr. idiom.) (une personne) qui alterne entre la gentillesse et la méchanceté/(lit.) une bouchée de sucre suivie d'une bouchée de merde/
 一啲 一啲 [yi1 di1] {jat1 di1} /un peu/
 一啲啲 一啲啲 [yi1 di1 di1] {jat1 di1 di1} /un peu/
-一嘢 一嘢 [yi1 ye3] {jat1 je5} /un coup, une frappe/
+一嘢 一嘢 [yi1 ye3] {jat1 je5} /un moment/une fois/d'un coup/tout à coup/
 一嚿嘢 一嚿嘢 [yi1 huo4 ye3] {jat1 gau6 je5} /une masse informe, une pâte/
 一嚿水 一嚿水 [yi1 huo4 shui3] {jat1 gau6 seoi2} /cent dollars/
 一嚿溜 一嚿溜 [yi1 huo4 liu1] {jat1 gau6 liu1} /une boule de quelque chose/
-一嚿雲 一嚿云 [yi1 huo4 yun2] {jat1 gau6 wan4} /être confus, perdu dans ses pensées/(lit.) un morceau de nuage/
-一嚿飯 一嚿饭 [yi1 huo4 fan4] {jat1 gau6 faan6} /idiot, bête, sot/lent/(lit.) une masse de riz/
-一嚿飯噉 一嚿饭啖 [yi1 huo4 fan4 dan4] {jat1 gau6 faan6 gam2} /idiot, bête, sot/lent/(lit.) une masse de riz/
+一嚿雲 一嚿云 [yi1 huo4 yun2] {jat1 gau6 wan4} /(fig.) être confus, perdu dans ses pensées/(fig.) stupide, idiot, bête/(lit.) un morceau de nuage/
+一嚿飯 一嚿饭 [yi1 huo4 fan4] {jat1 gau6 faan6} /(fig.) idiot, bête, sot/(fig.) avoir l'esprit lent/(lit.) une masse de riz/
+一嚿飯噉 一嚿饭啖 [yi1 huo4 fan4 dan4] {jat1 gau6 faan6 gam2} /(fig.) idiot, bête, sot/(fig.) avoir l'esprit lent/(lit.) une masse de riz/
 一回 一回 [yi1 hui2] {jat1 wui4} /un round, un tour, une fois/
-一國三公 一国三公 [yi1 guo2 san1 gong1] {jat1 gwok3 saam1 gung1} /direction ou leadership désuni/(lit.) un état avec trois dirigeants
+一國三公 一国三公 [yi1 guo2 san1 gong1] {jat1 gwok3 saam1 gung1} /(fig.) direction ou leadership désuni/(lit.) un état avec trois dirigeants/
 一國之君 一国之君 [yi1 guo2 zhi1 jun1] {jat1 gwok3 zi1 gwan1} /roi/président/premier ministre/chef d'État/
 一團 一团 [yi1 tuan2] {jat1 tyun4} /un groupe/
 一坺 一坺 [yi1 bo4] {jat1 pet6} /une mass collante, molle/
-一坺迾 一坺迾 [yi1 bo4 lie4] {jat1 paat6 laat6} /quelqu'un qui refuse de gagner sa vie, qui refuse d'agir afin de gagner sa vie/(lit.) un amas de boue/ 
+???? 一坺迾 一坺迾 [yi1 bo4 lie4] {jat1 paat6 laat6} /(fig.) quelqu'un qui refuse de gagner sa vie, qui refuse d'agir afin de gagner sa vie/(lit.) un amas de boue/ 
 一場 一场 [yi1 chang2] {jat1 coeng4} /un round, un tour/
-一場歡喜一場空 一场欢喜一场空 [yi1 chang2 huan1 xi3 yi1 chang3 kong1] {jat1 coeng4 fun1 hei2 jat1 coeng4 hung1} /déception après de grands espoirs/
+一場歡喜一場空 一场欢喜一场空 [yi1 chang2 huan1 xi3 yi1 chang3 kong1] {jat1 coeng4 fun1 hei2 jat1 coeng4 hung1} /grands espoirs suivis d'une grande déception/
 一夕之間 一夕之间 [yi1 xi1 zhi1 jian1] {jat1 zik6 zi1 gaan1} /de nuit, pendant la nuit/
 一夜夫妻百日恩 一夜夫妻百日恩 [yi1 ye4 fu1 qi1 bai3 ri4 en1] {jat1 je6 fu1 cai1 baak3 jat6 jan1} /(expr. idiom.) chacun devrait chérir son époux/(lit.) après la nuit de mariage, cent journées de gratitude/
 一夜風流 一夜风流 [yi1 ye4 feng1 liu2] {jat1 je6 fung1 lau4} /aventure d'un soir/
