@@ -11493,7 +11493,7 @@
 死心不息 死心不息 [si3 xin1 bu4 xi1] {sei2 sam1 bat1 sik1} /ne jamais abandonner, refuser de renoncer, refuser d'abandonner/
 死性不改 死性不改 [si3 xing4 bu4 gai3] {sei2 sing3 bat1 goi2} /(expr. idiom.) obstiné, entêté, qui refuse de changer pour le mieux/(expr. idiom.) les mauvaises habitudes sont difficiles à changer, les vieilles habitudes ont la vie dure/
 死慳死抵 死悭死抵 [si3 qian1 si3 di3] {sei2 haan1 sei2 dai2} /(expr. idiom.) se serrer la ceinture, réduire ses dépenses de façon significative/
-死撐 死撑 [si3 cheng1] {sei2 caang1} /(fig.) persister même en sachant que l'on a tort/(fig.) refuser d'admettre ses erreurs/(fig.) tolérer, souffrir, supporter/ 
+死撐 死撑 [si3 cheng1] {sei2 caang1} /(fig.) persister même en sachant que l'on a tort/(fig.) refuser d'admettre ses erreurs/(fig.) tolérer, souffrir, supporter (une douleur au-delà de ses limites)/(fig.) ne pas abandonner lorsqu'on est poussé au-delà de ses limites/
 ???? 死擂 死擂 [si3 lei2] {sei2 leoi4} /faire du surmenage/travailler sans cesse, se tuer au travail/
 死於 死于 [si3 yu2] {sei2 jyu1} /mourir de... (cause)/ 
 ???? 死橋 死桥 [si3 qiao2] {si2 kiu4} /(fam.) mauvaise idée/
@@ -11522,47 +11522,47 @@
 死蛇爛蟮 死蛇烂蟮 [si3 she2 lan4 shan4] {sei2 se4 laan6 sin5} /(fig.) paresseux, fainéant, feignasse/(lit.) serpent mort et ver pourri/
 死蛇爛鱔 死蛇烂鳝 [si3 she2 lan4 shan4] {sei2 se4 laan6 sin5} /(fig.) paresseux, fainéant, feignasse/(lit.) serpent mort et ver pourri/
 死蠢 死蠢 [si3 chun3] {sei2 ceon2} /(fam.) extrêmement stupide, incroyablement bête/
-死角 死角 [si3 jiao3] {sei2 gok3} /angle mort, zone qui ne peut pas être défendue/
-死貓彈 死猫弹 [si3 mao1 dan4] {sei2 maau1 daan6} /(financial term of Wall Street) dead cat bounce/
-死跟 死跟 [si3 gen1] {sei2 gan1} /to blindly follow/
-死路一條 死路一条 [si3 lu4 yi1 tiao2] {sei2 lou6 jat1 tiu4} /road to dead end/
-死過翻生 死过翻生 [si3 guo4 fan1 sheng1] {sei2 gwo3 faan1 sang1} /reborn (spoken)/
-死雞撐硬腳 死鸡撑硬脚 [si3 ji1 cheng1 ying4 jiao3] {sei2 gai1 caang3 ngaang6 goek3} /(proverb) saying someone is too egotistical or arrogant, and don't admit to make mistakes./
-死雞撐飯蓋 死鸡撑饭盖 [si3 ji1 cheng1 fan4 gai4] {sei2 gai1 caang3 faan6 goi3} /(slang) describes someone who refuses to admit their mistakes despite being blatantly wrong and continues defending themselves/
-死頂 死顶 [si3 ding3] {sei2 ding2} /(verb) try to bear; hardly stand for something; withstand/
-死飛 死飞 [si3 fei1] {sei2 fei1} /fixed gear/
-死鬼佬 死鬼佬 [si3 gui3 lao3] {sei2 gwai2 lou2} /(noun) an damn Western person/
-殃及池魚 殃及池鱼 [yang1 ji2 chi2 yu2] {joeng1 kap6 ci4 jyu4} /(idiom) innocent/ bystander get into a trouble or get involved in an situation or affair of others/
-殃禍 殃祸 [yang1 huo4] {joeng1 wo6} /to bring on disasters/
-殄滅 殄灭 [tian3 mie4] {tin5 mit6} /to wipe out; to exterminate/
-殉難者 殉难者 [xun4 nan4 zhe3] {seon1 naan6 ze2} /a martyr/
-殊遇 殊遇 [shu1 yu4] {syu4 jyu6} /special treatment/
-殘 残 [can2] {caan4} /remaining/
-殘年 残年 [can2 nian2] {caan4 nin4} /(noun) senectitude/
-殘廢軍人 残废军人 [can2 fei4 jun1 ren2] {caan4 fai3 gwan1 jan4} /a disabled soldiers; a disabled veteran/
-殘暴不仁 残暴不仁 [can2 bao4 bu4 ren2] {caan4 bou6 bat1 jan4} /brutal; heartless; merciless; inhumane; cruel/
-殘照 残照 [can2 zhao4] {caan4 ziu3} /the glow from a sunset/
-殘生 残生 [can2 sheng1] {caan4 sang1} /(noun) someone's wretched life/
-殘缺不全 残缺不全 [can2 que1 bu4 quan2] {caan4 kyut3 bat1 cyun4} /incomplete; fragmentary/
-殘舊 残旧 [can2 jiu4] {caan4 gau6} /worn out; ragged; tattered/
-殘陽 残阳 [can2 yang2] {caan4 joeng4} /the setting sun/
-殘骸 残骸 [can2 hai2] {caan4 haai4} /(noun)  Debris/
-殘體字 残体字 [can2 ti3 zi4] {caan4 tai2 zi6} /"invalid Chinese characters" - a derogatory term for simplified Chinese characters/
-殞滅 殒灭 [yun3 mie4] {wan5 mit6} /to perish/
-殞身 殒身 [yun3 shen1] {wan5 san1} /to lose one's life/
-殭屍茶包 僵尸茶包 [jiang1 shi1 cha2 bao1] {goeng1 si1 caa4 baau1} /(noun) menstrual pad; maxi pad (lit. "vampire teabag")/
+死角 死角 [si3 jiao3] {sei2 gok3} /(militaire) angle mort, zone qui ne peut pas être défendue/
+死貓彈 死猫弹 [si3 mao1 dan4] {sei2 maau1 daan6} /(finance) dead cat bounce, petite reprise de courte durée dans le prix d'une action/
+死跟 死跟 [si3 gen1] {sei2 gan1} /suivre aveuglément/(fig.) harceler/
+死路一條 死路一条 [si3 lu4 yi1 tiao2] {sei2 lou6 jat1 tiu4} /stratégie vouée à l'échec/
+死過翻生 死过翻生 [si3 guo4 fan1 sheng1] {sei2 gwo3 faan1 sang1} /(fam.) réincarner, renaître/
+死雞撐硬腳 死鸡撑硬脚 [si3 ji1 cheng1 ying4 jiao3] {sei2 gai1 caang3 ngaang6 goek3} /(expr. idiom.) qui refuse d'admettre ses erreurs/(expr. idiom.) qui refuse de changer d'avis même en sachant qu'il a tort/(lit.) poule morte qui tient le pied solide/
+死雞撐飯蓋 死鸡撑饭盖 [si3 ji1 cheng1 fan4 gai4] {sei2 gai1 caang3 faan6 goi3} /(expr. idiom.) qui refuse d'admettre ses erreurs/(expr. idiom.) qui refuse de changer d'avis même en sachant qu'il a tort/(lit.) poule morte qui tient ouvert le couvercle du cuiseur de riz/ 
+死頂 死顶 [si3 ding3] {sei2 ding2} /(fig.) tolérer, souffrir, supporter (une douleur au-delà de ses limites)/(fig.) ne pas abandonner losqu'on est poussé au-delà de ses limites/
+死飛 死飞 [si3 fei1] {sei2 fei1} /bicyclette à pignon fixe, vélo à pignon fixe/
+死鬼佬 死鬼佬 [si3 gui3 lao3] {sei2 gwai2 lou2} /(fam.) (vulg.) ces fichus occidentaux/
+殃及池魚 殃及池鱼 [yang1 ji2 chi2 yu2] {joeng1 kap6 ci4 jyu4} /(expr. idiom.) dommage collatéral, infliger des dommages aux ou blesser les personnes qui ne sont pas impliquées dans une affaire/(lit.) apporter le malheur aux poissons dans un lac/
+殃禍 殃祸 [yang1 huo4] {joeng1 wo6} /apporter le malheur, amener le désastre/
+殄滅 殄灭 [tian3 mie4] {tin5 mit6} /(litt.) anéantir, annihiler, exterminer/
+殉難者 殉难者 [xun4 nan4 zhe3] {seon1 naan6 ze2} /martyre/
+殊遇 殊遇 [shu1 yu4] {syu4 jyu6} /traitement de faveur/
+殘 残 [can2] {caan4} /le(s) dernier(s), restant, qui reste/désuet/délabré/
+殘年 残年 [can2 nian2] {caan4 nin4} /soir de la vie, les dernières années (d'une vie)/dernières journées de l'année/
+殘廢軍人 残废军人 [can2 fei4 jun1 ren2] {caan4 fai3 gwan1 jan4} /ancien combattant handicapé, invalide de guerre/
+殘暴不仁 残暴不仁 [can2 bao4 bu4 ren2] {caan4 bou6 bat1 jan4} /cruel, sans pitié, inhumaine/
+殘照 残照 [can2 zhao4] {caan4 ziu3} /lueur du soleil couchant, lumière du crépuscule/
+殘生 残生 [can2 sheng1] {caan4 sang1} /le restant de ses jours, la reste de sa vie/vie misérable/
+殘缺不全 残缺不全 [can2 que1 bu4 quan2] {caan4 kyut3 bat1 cyun4} /(ensemble) incomplet/
+殘舊 残旧 [can2 jiu4] {caan4 gau6} /désuet, vétuste, délabré/
+殘陽 残阳 [can2 yang2] {caan4 joeng4} /(litt.) soleil couchant/
+殘骸 残骸 [can2 hai2] {caan4 haai4} /débris, épave/
+殘體字 残体字 [can2 ti3 zi4] {caan4 tai2 zi6} /(fig.) (péj.) caractères chinois simplifiés/(lit.) caractères style brisé/
+殞滅 殒灭 [yun3 mie4] {wan5 mit6} /(litt.) mourir/
+殞身 殒身 [yun3 shen1] {wan5 san1} /(litt.) mourir/
+殭屍茶包 僵尸茶包 [jiang1 shi1 cha2 bao1] {goeng1 si1 caa4 baau1} /(fam.) serviette hygiénique/(lit.) sachet de thé de vampires/
 僵尸網絡 僵尸网络 [jiang1 shi1 wang3 luo4] {goeng1 si1 mong5 lok6} /réseau de zombies, botnet/
-殮房 殓房 [lian4 fang2] {lim6 fong4} /a mortuary/
-殯殮 殡殓 [bin4 lian4] {ban3 lim6} /a funeral/
+殮房 殓房 [lian4 fang2] {lim6 fong4} /morgue/
+殯殮 殡殓 [bin4 lian4] {ban3 lim6} /funérailles et enterrement/
 殳書 殳书 [shu1 shu1] {syu4 syu1} /an ancient type of handwriting used for inscriptions on weapons/
 殷鑒不遠 殷鉴不远 [yin1 jian4 bu4 yuan3] {jan1 gaam3 bat1 jyun5} /(idiom) the pernicious moral of predecessors is right here; the pernicious history is repeating/
-殺人不見血 杀人不见血 [sha1 ren2 bu4 jian4 xie3] {saat3 jan4 bat1 gin3 hyut3} /to kill without shedding blood/
-殺人王 杀人王 [sha5 ren2 wang2] {saat3 jan4 wong4} /a mass murder; a serial killer/
+殺人不見血 杀人不见血 [sha1 ren2 bu4 jian4 xie3] {saat3 jan4 bat1 gin3 hyut3} /(fig.) meurtre par moyen subtil/(lit.) tueur sans verser le sang/
+殺人王 杀人王 [sha5 ren2 wang2] {saat3 jan4 wong4} /tueur en masse, tueur en série/
 殺戒 杀戒 [sha1 jie4] {saat3 gaai3} /prohibition against taking life/
-殺手鐧 杀手锏 [sha1 shou3 jian3] {saat3 sau2 gaan2 } /the trump card; the finishing move; the winning tactic/
+殺手鐧 杀手锏 [sha1 shou3 jian3] {saat3 sau2 gaan2} /the trump card; the finishing move; the winning tactic/
 殺攤 杀摊 [sha1 tan1] {saat3 taan1} /finished; ended (spoken)/
 殺機 杀机 [sha1 ji1] {saat3 gei1} /(noun) the motivation of killing/
-殺蟲水 杀虫水 [sha1 chong2 shui3] {saat3 cung4 seoi2} /insecticide; pesticide/
+殺蟲水 杀虫水 [sha1 chong2 shui3] {saat3 cung4 seoi2} /insecticide, pesticide/
 殺起 杀起 [sha1 qi3] {saat3 hei2} /to finish; to put one's mind to finishing something; to be determined in doing something/
 殺身之禍 杀身之祸 [sha1 shen1 zhi1 huo4] {saat3 san1 zi1 wo6} /a fatal disaster; an impending massacre/
 殺身成仁 杀身成仁 [sha1 shen1 cheng2 ren2] {saat3 san1 sing4 jan4} /sacrificing one's life for justice (slang)/
@@ -11572,8 +11572,8 @@
 殿後 殿后 [dian4 hou4] {din6 hau6} /to guard from behind/
 毆打 殴打 [ou1 da3] {au2 daa2} /to bash/
 毋庸置疑 毋庸置疑 [wu2 yong1 zhi4 yi2] {mou4 jung4 zi3 ji4} /there is no doubt; needless to say; undoubtedly/
-毋須 毋须 [wu2 xu1] {mou4 seoi1} /unnecessary/
-母國 母国 [mu3 guo2] {mou5 gwok3} /the home country; the motherland/
+毋須 毋须 [wu2 xu1] {mou4 seoi1} /superflu, pas nécessaire/
+母國 母国 [mu3 guo2] {mou5 gwok3} /pays natal, mère patrie/
 母嬰健康院 母婴健康院 [mu3 ying1 jian4 kang1 yuan4] {mou5 jing1 gin6 hong1 jyun2} /Maternal and Child Health Centre/
 母帶 母带 [mu3 dai4] {mou5 daai2} /(noun) master tape (in audio recording)/
 母性 母性 [mu3 xing4] {mou5 sing3} /(noun) The maternal bond that forms between a mother and her child/
