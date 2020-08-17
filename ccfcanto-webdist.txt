@@ -11551,52 +11551,50 @@
 殞滅 殒灭 [yun3 mie4] {wan5 mit6} /(litt.) mourir/
 殞身 殒身 [yun3 shen1] {wan5 san1} /(litt.) mourir/
 殭屍茶包 僵尸茶包 [jiang1 shi1 cha2 bao1] {goeng1 si1 caa4 baau1} /(fam.) serviette hygiénique/(lit.) sachet de thé de vampires/
-僵尸網絡 僵尸网络 [jiang1 shi1 wang3 luo4] {goeng1 si1 mong5 lok6} /réseau de zombies, botnet/
+僵尸網絡 僵尸网络 [jiang1 shi1 wang3 luo4] {goeng1 si1 mong5 lok6} /réseau de zombies; botnet/
 殮房 殓房 [lian4 fang2] {lim6 fong4} /morgue/
 殯殮 殡殓 [bin4 lian4] {ban3 lim6} /funérailles et enterrement/
-殳書 殳书 [shu1 shu1] {syu4 syu1} /an ancient type of handwriting used for inscriptions on weapons/
-殷鑒不遠 殷鉴不远 [yin1 jian4 bu4 yuan3] {jan1 gaam3 bat1 jyun5} /(idiom) the pernicious moral of predecessors is right here; the pernicious history is repeating/
+殳書 殳书 [shu1 shu1] {syu4 syu1} /écriture chinoise utilisée pendant la dynastie Qin sur les armes/
+殷鑒不遠 殷鉴不远 [yin1 jian4 bu4 yuan3] {jan1 gaam3 bat1 jyun5} /(expr. idiom.) on doit apprendre des erreurs du passé; les leçons de l'histoire sont à portée de main/(lit.) la chute de la dynastie Shang n'est pas si loin dans le temps/
 殺人不見血 杀人不见血 [sha1 ren2 bu4 jian4 xie3] {saat3 jan4 bat1 gin3 hyut3} /(fig.) meurtre par moyen subtil/(lit.) tueur sans verser le sang/
-殺人王 杀人王 [sha5 ren2 wang2] {saat3 jan4 wong4} /tueur en masse, tueur en série/
-殺戒 杀戒 [sha1 jie4] {saat3 gaai3} /prohibition against taking life/
-殺手鐧 杀手锏 [sha1 shou3 jian3] {saat3 sau2 gaan2} /the trump card; the finishing move; the winning tactic/
-殺攤 杀摊 [sha1 tan1] {saat3 taan1} /finished; ended (spoken)/
-殺機 杀机 [sha1 ji1] {saat3 gei1} /(noun) the motivation of killing/
+殺人王 杀人王 [sha5 ren2 wang2] {saat3 jan4 wong4} /tueur en masse; tueur en série/
+殺戒 杀戒 [sha1 jie4] {saat3 gaai3} /ne pas tuer, une des cinq préceptes du Bouddhisme/
+殺手鐧 杀手锏 [sha1 shou3 jian3] {saat3 sau2 gaan2} /atout; carte maîtresse/
+殺攤 杀摊 [sha1 tan1] {saat3 taan1} /terminer; conclure; finir/
 殺蟲水 杀虫水 [sha1 chong2 shui3] {saat3 cung4 seoi2} /insecticide, pesticide/
-殺起 杀起 [sha1 qi3] {saat3 hei2} /to finish; to put one's mind to finishing something; to be determined in doing something/
-殺身之禍 杀身之祸 [sha1 shen1 zhi1 huo4] {saat3 san1 zi1 wo6} /a fatal disaster; an impending massacre/
-殺身成仁 杀身成仁 [sha1 shen1 cheng2 ren2] {saat3 san1 sing4 jan4} /sacrificing one's life for justice (slang)/
-殺食 杀食 [shai4 shi2] {saat3 sik6} /effective; to serve the purpose; works well against something/
-殼 壳 [qiao4] {hok3} /(Cantonese) 1. weak; thin 2. incapable 3. ladle/
-殽晒框 淆晒框 [xiao2 shai4 kuang4] {ngaau4 saai3 kwaang1} /to describe something that has gone so bad that it is irreversible/
-殿後 殿后 [dian4 hou4] {din6 hau6} /to guard from behind/
-毆打 殴打 [ou1 da3] {au2 daa2} /to bash/
-毋庸置疑 毋庸置疑 [wu2 yong1 zhi4 yi2] {mou4 jung4 zi3 ji4} /there is no doubt; needless to say; undoubtedly/
+殺起 杀起 [sha1 qi3] {saat3 hei2} /terminer; conclure; finir/être déterminé à finir ce que l'on a commencé/ 
+殺身之禍 杀身之祸 [sha1 shen1 zhi1 huo4] {saat3 san1 zi1 wo6} /accident fatal/catastrophe fatale/
+殺身成仁 杀身成仁 [sha1 shen1 cheng2 ren2] {saat3 san1 sing4 jan4} /(expr. idiom.) mourir pour une juste cause/
+殺食 杀食 [shai4 shi2] {saat3 sik6} /efficace (contre quelque chose)/
+殼 壳 [qiao4] {hok3} /(cuisine) louche/société écran; société fictive/
+殽晒框 淆晒框 [xiao2 shai4 kuang4] {ngaau4 saai3 kwaang1} /tout un pétrin; situation irréversible/
+毆打 殴打 [ou1 da3] {au2 daa2} /frapper/(loi) batterie; acte de violence/
+毋庸置疑 毋庸置疑 [wu2 yong1 zhi4 yi2] {mou4 jung4 zi3 ji4} /(expr. idiom.) sans l'ombre d'un doute; sans aucune doute; indubitablement/
 毋須 毋须 [wu2 xu1] {mou4 seoi1} /superflu, pas nécessaire/
 母國 母国 [mu3 guo2] {mou5 gwok3} /pays natal, mère patrie/
-母嬰健康院 母婴健康院 [mu3 ying1 jian4 kang1 yuan4] {mou5 jing1 gin6 hong1 jyun2} /Maternal and Child Health Centre/
-母帶 母带 [mu3 dai4] {mou5 daai2} /(noun) master tape (in audio recording)/
-母性 母性 [mu3 xing4] {mou5 sing3} /(noun) The maternal bond that forms between a mother and her child/
-母本 母本 [mu3 ben3] {mou5 bun2} /the female botanic species/
-母牛 母牛 [mu3 niu2] {mou5 ngau4} /(noun) cow/
-母狗 母狗 [mu3 gou3] {mou5 gau2} /(noun) female dog/
-母語教學 母语教学 [mu3 yu3 jiao1 xue2] {mou5 jyu5 gaau3 hok6} /teaching using the mother tongue; teaching using the native language/
-每晚 每晚 [mei3 wan3] {mui5 maan5} /(noun) each night/
+母嬰健康院 母婴健康院 [mu3 ying1 jian4 kang1 yuan4] {mou5 jing1 gin6 hong1 jyun2} /centre de soins de santé maternelle et infantile/
+母帶 母带 [mu3 dai4] {mou5 daai2} /bande mère, bande originale/
+母性 母性 [mu3 xing4] {mou5 sing3} /instinct maternel/lien maternel/
+母本 母本 [mu3 ben3] {mou5 bun2} /(biologie; hybridation) parent femelle/
+母牛 母牛 [mu3 niu2] {mou5 ngau4} /vache/
+母狗 母狗 [mu3 gou3] {mou5 gau2} /chienne/
+母語教學 母语教学 [mu3 yu3 jiao1 xue2] {mou5 jyu5 gaau3 hok6} /enseigner avec la langue maternelle/
+每晚 每晚 [mei3 wan3] {mui5 maan5} /tous les soirs; chaque nuit/
 每每 每每 [mei3 mei3] {mui5 mui5} /consistently/
-每隻 每只 [mei3 zhi1] {mui5 zek3} /every/
-毒 毒 [du2] {duk6} /geekish (Cantonese)/
-毒死 毒死 [du2 si3] {duk6 sei2} /to kill with poison/
-毒男 毒男 [du2 nan2] {duk6 naam4} /a nerd; a geek/
+每隻 每只 [mei3 zhi1] {mui5 zek3} /chaque, tous/
+毒 毒 [du2] {duk6} /nerd; geek/ringard/
+毒死 毒死 [du2 si3] {duk6 sei2} /empoisonner; tuer avec du poison/
+毒男 毒男 [du2 nan2] {duk6 naam4} /(fig.) (homme ou garçon) nerd; handicapé socialement; qui n'a pas d'amies/(lit.) garçon empoisonné/
 毒舌 毒舌 [du2 she2] {duk6 sit6} /sharp- tongued; impertinent; invective/
-毒蟲 毒虫 [du2 chong2] {duk6 cung4} /a poisonous insect; a drug addict/
+毒蟲 毒虫 [du2 chong2] {duk6 cung4} /insecte venimeux/(fig.) toxicomane; drogué/
 毒計 毒计 [du2 ji4] {duk6 gai3} /a deadly trap; a venomous scheme/
 比例 比例 [bi3 li4] {bei2 lai6} /(noun)  Ratio/
 比例中項 比例中项 [bi3 li4 zhong1 xiang4] {bei2 lai6 zung1 hong6} /the average proportion; the average of ratio/
-比卡超 比卡超 [bi3 ka3 chao1] {bei2 kaa1 ciu1} /(the character in a Japanese cartoon, Pokemon) Pikachu/
-比唔上 比唔上 [bi3 n2 shang4] {bei2 m4 soeng2} /cannot be compared with; not as good as/
-比得上 比得上 [bi3 de5 shang4] {bei2 dak1 soeng5} /(verb) be better than; be comparable with/
-比數 比数 [bi3 shu4] {bei2 sou3} /score (of a sports match)/
-比高 比高 [bi3 gao1] {bei2 gou1} /(noun) bagel  (verb) to compare someone is taller/
+比卡超 比卡超 [bi3 ka3 chao1] {bei2 kaa1 ciu1} /(Pokémon) Pikachu/
+比唔上 比唔上 [bi3 n2 shang4] {bei2 m4 soeng2} /pas aussi bon (que quelque chose d'autre)/
+比得上 比得上 [bi3 de5 shang4] {bei2 dak1 soeng5} /(être) mieux (que quelque chose d'autre)/comparable/
+比數 比数 [bi3 shu4] {bei2 sou3} /(sport) score; pointage/
+比高 比高 [bi3 gao1] {bei2 gou1} /bagel/comparer la taille de deux personnes; voir qui est le plus grand/
 毛 毛 [mao2] {mou4} /(noun) 1. gross; 2. Chinese surname/
 毛主席萬歲 毛主席万岁 [Mao2 Zhu3 xi2 wan4 sui4] {mou4 zyu2 zik6 maan6 seoi3} /"Long live Chairman Mao"/
 毛公仔 毛公仔 [mao2 gong1 zai3] {mou4 gung1 zai2} /a stuffed toy/
@@ -22406,4 +22404,5 @@
 免息 免息 [mian3 xi1] {min5 sik} /(finance) sans intérêt/
 想著 想着 [xiang3 zhe] {soeng2 zoek6} /garder à l'esprit, tenir compte de/n'oubliez pas de.../
 累死累活 累死累活 [lei4 si3 lei4 huo2] {leoi6 sei2 leoi6 wut6} /travailler jusqu'à l'épuisement, se tuer au travail/faire du surmenage/
+鶴 鹤 [he4] {hok2} /(fig.) maigrichon, tout maigre/(lit.) grue/
 
