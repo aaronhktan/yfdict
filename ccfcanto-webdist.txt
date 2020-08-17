@@ -301,7 +301,7 @@
 一雞死，一雞鳴 一鸡死，一鸡鸣 [yi1 ji1 si3 , yi1 ji1 ming2] {jat1 gai1 sei2 ，jat1 gai1 ming4} /(expr. idiom.) lorsqu'une porte ferme, une autre s'ouvre/(expr. idiom.) rien ne termine s'il est censé continuer/(lit.) un coq meurt, un autre chante/
 一雞死一雞鳴 一鸡死一鸡鸣 [yi1 ji1 si3 yi1 ji1 ming2] {jat1 gai1 sei2 jat1 gai1 ming4} /(expr. idiom.) lorsqu'une porte ferme, une autre s'ouvre/(expr. idiom.) rien ne termine s'il est censé continuer/(lit.) un coq meurt, une autre chante/
 一面 一面 [yi1 mian4] {jat1 min6} /un côté, une face/
-一面屁 一面屁 [yi1 mian4 pi4] {jat1 min6 pei3} /(fig.) être humilié/(fig.) être insulté/(lit.) un visage assommé par des pets/
+一面屁 一面屁 [yi1 mian4 pi4] {jat1 min6 pei3} /(fig.) être humilié/(fig.) être insulté/(lit.) un visage assommé par de pets/
 一項 一项 [yi1 xiang4] {jat1 hong6} /(classificateur pour sports et missions)/
 一頭…一頭… 一头…一头… [yi1 tou2… yi4 tou2 …] {jat1 tau4 …jat1 tau4…} /un... (animal) un... (animal)/
 一頭半個月 一头半个月 [yi1 tou2 ban4 ge4 yue4] {jat1 tau4 bun3 go3 jyut6} /une période d'environ un demi-mois à un mois/
@@ -313,7 +313,7 @@
 一飛沖天 一飞冲天 [yi1 fei1 chong1 tian1] {jat1 fei1 cung1 tin1} /s'envoler dans le ciel/
 一餐 一餐 [yi1 can1] {jat1 caan1} /(classificateur pour les repas)/
 一餐飯 一餐饭 [yi1 can1 fan4] {jat1 caan1 faan6} /un repas (surtout pour désigner les déjeuners, soupers ou dîners)/
-一髮千鈞 一发千钧 [yi1 fa4 qian1 jun1] {jat1 faat3 cin1 gwan1} /situation dangereuse/(lit.) mille (quantité de poids) suspendu par un cheveu/
+一髮千鈞 一发千钧 [yi1 fa4 qian1 jun1] {jat1 faat3 cin1 gwan1} /(expr. idiom.) situation dangereuse/(lit.) mille (quantité de poids) suspendu par un cheveu/
 一鳴驚人 一鸣惊人 [yi1 ming2 jing1 ren2] {jat1 ming4 ging1 jan4} /(expr. idiom.) devenir tout à coup célèbre/(lit.) réveiller du monde avec un cocorico/
 一點鐘 一点钟 [yi1 dian3 zhong1] {jat1 dim2 zung1} /une heure (du matin, de l'après-midi)/
 一齊 一齐 [yi1 qi2] {jat1 cai4} /tous ensemble/
@@ -326,10 +326,10 @@
 七個字 七个字 [qi1 ge4 zi4] {cat1 go3 zi6} /sept caractères/trente-cinq minutes (voir 一個字 ou 一个字 pour origine)/
 七出 七出 [qi1 chu1] {cat1 ceot1} /les sept raisons pour se divorcer dans la Chine ou l'Asie du Sud-Est pré-moderne/
 七十七 七十七 [qi1 shi2 qi1] {cat1 sap6 cat1} /soixante-dix-sept/
-七十二行 七十二行 [qi1 shi2 er4 hang2] {cat1 sap6 ji6 hong4} /soixante-deux types d'emplois/
+七十二行 七十二行 [qi1 shi2 er4 hang2] {cat1 sap6 ji6 hong4} /soixante-douze types d'emplois/(expr. idiom.) toutes sortes d'emplois/
 七千 七千 [qi1 qian1] {cat1 cin1} /sept mille/
 七名 七名 [qi1 ming2] {cat1 ming4} /sept personnes/
-七嘴八舌 七嘴八舌 [qi1 zui3 ba1 she2] {cat1 zeoi2 baat3 sit3} /(fig.) répandre des rumeurs/(lit.) sept bouches huit langues/
+七嘴八舌 七嘴八舌 [qi1 zui3 ba1 she2] {cat1 zeoi2 baat3 sit3} /(expr. idiom.) répandre des rumeurs/(expr. idiom.) parler en même temps/(lit.) sept bouches huit langues/
 七國咁亂 七国咁乱 [qi1 guo2 gan1 luan4] {cat1 gwok3 gam3 lyun6} /(fig.) désordonné, anarchique/(lit.) être aussi désordonée que la période des Royaumes combattants/
 七大洲 七大洲 [qi1 da4 zhou1] {cat1 daai6 zau1} /les sept continents/
 七姊妹 七姊妹 [qi1 zi3 mei5] {cat1 zi2 mui6} /Tsat Tsz Mui, une région située dans le quartier North Point, à Hong Kong/(lit.) sept soeurs/
@@ -337,65 +337,65 @@
 七姐 七姐 [qi1 jie3] {cat1 ze2} /aussi connu sous le nom de Zhinu, la Tisserande dans la légende «Le Bouvier et la Tisserande»/
 七孔生煙 七孔生烟 [qi1 kong3 sheng1 yan1] {cat1 hung2 sang1 jin1} /(expr. idiom.) furieux, enragé/(lit.) la fumée qui jaillit par sept trous/
 七彩 七彩 [qi1 cai3] {cat1 coi2} /coloré/grande variété/
-七情上面 七情上面 [qi1 qing2 shang4 mian5] {cat1 cing4 soeng5 min6} /(expr. idiom.) qui exprime fortement ses expressions/(lit.) sept émotions sur le visage/
+七情上面 七情上面 [qi1 qing2 shang4 mian5] {cat1 cing4 soeng5 min6} /(expr. idiom.) avoir un visage expressif, montrer ses émotions/(lit.) sept émotions (de la médecine traditionnelle chinoise) sur le visage/
 七情六慾 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /nature humaine/les sept émotions de base universelles: la joie, la colère, le chagrin, la surprise, l'inquiétude, le peur, la pensée; les six désirs: le désir sexuel, l'orgueil, la dignité, les sons harmonieux, une bonne vie et un bon mort, les plaisirs sensuels/(lit.) sept émotions et six désirs/
 七情六欲 七情六欲 [qi1 qing2 liu4 yu4] {cat1 cing4 luk6 juk6} /nature humaine/les sept émotions de base universelles: la joie, la colère, le chagrin, la surprise, l'inquiétude, le peur, la pensée; les six désirs: le désir sexuel, l'orgueil, la dignité, les sons harmonieux, une bonne vie et un bon mort, les plaisirs sensuels/(lit.) sept émotions et six désirs/
-七手八腳 七手八脚 [qi1 shou3 ba1 jiao3] {cat1 sau2 baat3 goek3} /(expr. idiom.) beaucoup de personnes qui se mêlent dans une affaire, une situation chaotique/(lit.) sept mains huit pieds/
+七手八腳 七手八脚 [qi1 shou3 ba1 jiao3] {cat1 sau2 baat3 goek3} /(expr. idiom.) plusieurs personnes donnant un coup de main/(expr. idiom.) une situation chaotique/(lit.) sept mains huit pieds/
 七扶八插 七扶八插 [qi1 fu2 ba1 cha1] {cat1 fu4 baat3 caap3} /(expr. idiom.) un effort collectif pour aider quelqu'un/(lit.) sept (mains) qui supportent, huit qui insèrent/
 七折八扣 七折八扣 [qi1 zhe2 ba1 kou4] {cat1 zit3 baat3 kau3} /grande réduction (de prix)/(lit.) un prix réduit sept ou huit fois/
 七擒七縱 七擒七纵 [qi1 qin2 qi1 zong4] {cat1 kam4 cat1 zung3} /stratégie qui oblige un ennemi à se rendre/(lit.) attraper sept fois et relâcher sept fois/
-七支八離 七支八离 [qi1 zhi1 ba1 li2] {cat1 zi1 baat3 lei4} /cassé, fragmenté (voir aussi 支離破碎 ou 支离破碎)/
+七支八離 七支八离 [qi1 zhi1 ba1 li2] {cat1 zi1 baat3 lei4} /cassé, fragmenté (voir aussi 支離破碎|支离破碎)/
 七日 七日 [qi1 ri4] {cat1 jat6} /sept jours/le septième jour d'un mois/
 七星岩 七星岩 [qi1 xing1 yan2] {cat1 sing1 ngaam4} /grotte à sept étoiles, à Guilin, dans la province de Guangxi/parc de sept roches, dans le sud-ouest de la province de Guangdong/Qixingyan, ou Chihsingyen, un group d'îles de corail dans le sud de Taïwan/
-七星茶 七星茶 [Qi1 xing1 cha2] {cat1 sing1 caa4} /marque de tisanes chinoises pour enfants/(lit.) thé de sept étoiles/
-七月一號 七月一号 [Qi1 yue4 yi1 hao2] {cat1 jyut6 jat1 hou6} /le premier juillet/
-七月三十號 七月三十号 [Qi1 yue4 san1 shi2 hao4] {cat1 jyut6 saam1 sap6 hou6} /le trente juillet/
+七星茶 七星茶 [qi1 xing1 cha2] {cat1 sing1 caa4} /marque de tisanes chinoises pour enfants/(lit.) thé de sept étoiles/
+七月一號 七月一号 [qi1 yue4 yi1 hao2] {cat1 jyut6 jat1 hou6} /le premier juillet, date de la rétrocession de Hong Kong à la Chine/
+七月三十號 七月三十号 [qi1 yue4 san1 shi2 hao4] {cat1 jyut6 saam1 sap6 hou6} /le trente juillet/
 七步成詩 七步成诗 [qi1 bu4 cheng2 shi1] {cat1 bou6 sing4 si1} /quelqu'un qui écrit un poème dans le temps qu'il faut pour marcher sept pas/
 七百 七百 [qi1 bai3] {cat1 baak3} /sept cents/
-七窮六絕 七穷六绝 [qi1 qiong2 liu4 jue2] {cat1 kung4 luk6 zyut6} /(fig.) désespéré/(lit.) sept pauvres, six désespérés/
+七窮六絕 七穷六绝 [qi1 qiong2 liu4 jue2] {cat1 kung4 luk6 zyut6} /(fig.) désespéré/(fig.) pauvre/(fig.) découragé, triste/(lit.) sept pauvres, six désespérés/
 七絃琴 七弦琴 [qi1 xian2 qin2] {cat1 jin4 kam4} /guqin, un instrument à cordes pincées de la famille de cithares/
 七行詩 七行诗 [qi1 hang2 shi1] {cat1 hong4 si1} /septain/
 七言詩 七言诗 [qi1 yan2 shi1] {cat1 jin4 si1} /poème chinois dont les vers consistent de sept mots/
-七除八扣 七除八扣 [qi1 chu2 ba1 kou4] {cat1 ceoi4 baat3 kau3} /rabais en plus d'un autre rabais/(lit.) sept enlevé, huit réductions/
-七零八落 七零八落 [qi1 ling2 ba1 luo4] {cat1 ling4 baat3 lok6} /des choses éparpillées partout, en désordre/(lit.) sept bouts, huit qui chutent/
-七顛八倒 七颠八倒 [qi1 dian1 ba1 dao3] {cat1 din1 baat3 dou2} /(fig.) gâcher quelque chose/(lit.) verser sept ou huit fois/
+七除八扣 七除八扣 [qi1 chu2 ba1 kou4] {cat1 ceoi4 baat3 kau3} /(expr. idiom.) rabais en plus d'un autre rabais/(lit.) sept enlevé, huit réductions/
+七零八落 七零八落 [qi1 ling2 ba1 luo4] {cat1 ling4 baat3 lok6} /des choses éparpillées ici et là, en désordre/(lit.) sept bouts, huit qui chutent/
+七顛八倒 七颠八倒 [qi1 dian1 ba1 dao3] {cat1 din1 baat3 dou2} /(fig.) gâcher, ruiner quelque chose/(fig.) en désordre/(lit.) verser sept ou huit fois/
 七點鐘 七点钟 [qi1 dian3 zhong1] {cat1 dim2 zung1} /sept heures (du matin, de l'après-midi)/
 三 三 [san1] {saam1} /liaison, relation amoureuse (généralement utilisé pour désigner celles des femmes)/
-三Ｔ 三T [san1 T] {saam1 Ｔ} /«triple trio»; dans le lexique du sport hippique, prédire les trois premiers au classement en n'importe quel ordre/
+三Ｔ 三T [san1 T] {saam1 Ｔ} /(sport hippique) «triple trio»; prédire les trois premiers au classement en n'importe quel ordre/
 三九兩丁七 三九两丁七 [san1 jiu3 liang3 ding1 qi1] {saam1 gau2 loeng5 ding1 cat1} /peu de personnes/
-三九唔識七 三九唔识七 [san1 jiu3 n2 shi2 qi1] {saam1 gau2 m4 sik1 cat1} /situation dans laquelle personne ne connaît personne d'autre/
-三九四零五二 三九四零五二 [san1 jiu3 si4 ling2 wu3 er4] {saam1 gau2 sei3 ling4 ng5 ji6} /six numéros, qui se prononcent avec les six tons de cantonais en ordre: 3 (ton 1), 9 (ton 2), 4 (ton 3), 0 (ton 4), 5 (ton 5), 2 (ton 6)/
+三九唔識七 三九唔识七 [san1 jiu3 n2 shi2 qi1] {saam1 gau2 m4 sik1 cat1} /situation où personne ne connaît personne/
+三九四零五二 三九四零五二 [san1 jiu3 si4 ling2 wu3 er4] {saam1 gau2 sei3 ling4 ng5 ji6} /six chiffres, qui se prononcent avec les six tons de cantonais en ordre: 3 (ton 1), 9 (ton 2), 4 (ton 3), 0 (ton 4), 5 (ton 5), 2 (ton 6)/
 三五知己 三五知己 [san1 wu3 zhi1 ji3] {saam1 ng5 zi1 gei2} /quelques amis proches/
 三人性交 三人性交 [san1 ren2 xing4 jiao1] {saam1 jan4 sing3 gaau1} /(sexualité) triolisme, plan à trois/
 三仔 三仔 [san1 zi3] {saam1 zai2} /film classifié III, équivalent français - classement X, équivalent canadien -  18 ans ou plus/les trois objectifs des adolescents des années 1970 à 1990 - s'acheter une voiture, s'acheter une maison, se marier/paquet de cartes/
-三個字 三个字 [san1 ge4 zi4] {saam1 go3 zi6} /trois caractères/quinze minutes (voir 一個字 ou 一个字 pour origine)/
-三個骨 三个骨 [san1 ge4 gu3] {saam1 go3 gwat1} /trois quarts/quarante-cinq minutes/
+三個字 三个字 [san1 ge4 zi4] {saam1 go3 zi6} /trois caractères/quinze minutes (voir 一個字|一个字 pour l'origine de ce mot)/
+三個骨 三个骨 [san1 ge4 gu3] {saam1 go3 gwat1} /trois quarts (orig. emprunt de l'anglais «quarter»)/quarante-cinq minutes/
 三元里 三元里 [san1 yuan2 li3] {saam1 jyun4 lei5} /Sanyuanli, un endroit de Canton/
 三元里站 三元里站 [san1 yuan2 li3 zhan4] {saam1 jyun4 lei5 zaam6} /Station Sanyuanli, une station du métro de Canton/
-三兩下手勢 三两下手势 [san1 liang3 xia4 shou3 shi4] {saam1 loeng5 haa5 sau2 sai3} /(fig.) une chose urgente, quelque chose qui doit être faite rapidement/(lit.) deux ou trois gestes/
+三兩下手勢 三两下手势 [san1 liang3 xia4 shou3 shi4] {saam1 loeng5 haa5 sau2 sai3} /(fig.) rapidement, en un rien de temps/(lit.) en deux ou trois gestes/
 三八婦女節 三八妇女节 [san1 ba1 fu4 nu:3 jie2] {saam1 baat3 fu5 neoi5 zit3} /le huit mars, la Journée internationale des femmes/
 三六 三六 [san1 liu4] {saam1 luk6} /chien/
 三六香肉 三六香肉 [san1 liu4 xiang1 rou4] {saam1 luk6 hoeng1 juk6} /(fig.) viande de chien/(lit.) viande salée de trois-six/
-三分顏色上大紅 三分颜色上大红 [san1 fen1 yan2 se5 shang4 da4 gong1] {saam1 fan1 ngaan4 sik1 soeng5 daai6 hung4} /(expr. idiom.) quelqu'un qui se croit mieux que les autres après avoir été félicité/(expr. idiom.) qui se surestime, qui est trop sûr de soi/(lit.) trois gouttes de couleur deviennent un rouge vif/
+三分顏色上大紅 三分颜色上大红 [san1 fen1 yan2 se5 shang4 da4 gong1] {saam1 fan1 ngaan4 sik1 soeng5 daai6 hung4} /(expr. idiom.) qui se surestime, qui est trop sûr de soi/(expr. idiom.) on lui donne le doigt et il vous prend le bras/(lit.) trois gouttes de couleur deviennent un rouge vif/
 三十一日 三十一日 [san1 shi2 yi1 ri4] {saam1 sap6 jat1 jat6} /trente-et-un jours/le trente-et-unième jour d'un mois/
 三十一號 三十一号 [san1 shi5 yi1 hao2] {saam1 sap6 jat1 hou6} /trente-et-unième jour d'un mois/
 三十三 三十三 [san1 shi2 san1] {saam1 sap6 saam1} /trente-trois/
 三十日 三十日 [san1 shi2 ri4] {saam1 sap6 jat6} /trente jours/le trentième jour d'un mois/
 三千 三千 [san1 qian1] {saam1 cin1} /trois mille/
 三及第 三及第 [san1 ji2 di4] {saam1 kap6 dai6} /(fig.) incomplet et désordonné/(fig.) style d'écriture qui combine le chinois classique, la langue chinoise écrite formelle, et le cantonais écrit/(lit.) un type de congee au porc/
-三口兩脷 三口两脷 [san1 kou3 liang3 li4] {saam1 hau2 loeng5 lei6} /(fig.) manque de crédibilité/(lit.) trois bouches et deux langues/
-三口六面 三口六面 [san1 kou3 liu4 mian4] {saam1 hau2 luk6 min6} /(fig.) expliquer clairement/(lit.) trois bouches et six côtés du visage/
-三句不離本行 三句不离本行 [san1 ju4 bu4 li2 ben3 hang2] {saam1 geoi3 bat1 lei4 bun2 hong4} /personne qui parle constamment de son métier ou sa profession, qui utilise toujours le langage spécialisé de son emploi/(lit.) parler de son métier à tous les trois phrases/
-三合板 三合板 [san1 he2 ban3] {saam1 gap3 baan2} /contreplaqué/
-三唔識七 三唔识七 [san1 n2 shi2 qi1] {saam1 m4 sik1 cat1} /(fig.) ne pas connaître quelqu'un/(lit.) le trois ne connaît pas le sept/
+三口兩脷 三口两脷 [san1 kou3 liang3 li4] {saam1 hau2 loeng5 lei6} /(fig.) qui manque de crédibilité, malhonnête, qui ment toujours/(lit.) trois bouches et deux langues/
+三口六面 三口六面 [san1 kou3 liu4 mian4] {saam1 hau2 luk6 min6} /(fig.) expliquer quelque chose clairement, mettre les choses au point/(lit.) trois bouches et six côtés du visage/
+三句不離本行 三句不离本行 [san1 ju4 bu4 li2 ben3 hang2] {saam1 geoi3 bat1 lei4 bun2 hong4} /(fig.) personne qui parle constamment de son métier ou sa profession, qui utilise toujours le langage spécialisé de son emploi/(lit.) parler de son métier à tous les trois phrases/
+三合板 三合板 [san1 he2 ban3] {saam1 gap3 baan2} /contreplaqué trois couches/
+三唔識七 三唔识七 [san1 n2 shi2 qi1] {saam1 m4 sik1 cat1} /(expr. idiom.) ne pas connaître quelqu'un/(lit.) le trois ne connaît pas le sept/
 三國 三国 [san1 guo2] {saam1 gwok3} /trois pays/
 三國時代 三国时代 [San1 guo2 shi2 dai4] {saam1 gwok3 si4 doi6} /période des «Trois Royaumes»/
-三姑六婆 三姑六婆 [san1 gu1 liu4 po2] {saam1 gu1 luk6 po4} /(fig.) femmes cacanières et jaseuses/(lit.) trois tantes six femmes/
+三姑六婆 三姑六婆 [san1 gu1 liu4 po2] {saam1 gu1 luk6 po4} /(fig.) femmes cacanières et jaseuses/(fig.) femmes dont les emplois sont illégales ou malhonnêtes/(lit.) trois tantes six femmes/
 三寸金蓮 三寸金莲 [san1 cun4 jin1 lian2] {saam1 cyun3 gam1 lin4} /coutume des pieds bandés/
 三寸釘 三寸钉 [san1 cun4 ding1] {saam1 cyun3 deng1} /petites personnes/
 三尖八角 三尖八角 [san1 jian1 ba1 jiao3] {saam1 zim1 baat3 gok3} /(fig.) formes irréguliers/(fig.) inutile, incompatible/(lit.) trois points, huit angles/
 三岔路口 三岔路口 [san1 cha4 lu4 kou3] {saam1 caa3 lou6 hau2} /croisement, carrefour, croisée/
-三幅被 三幅被 [san1 fu2 bei4] {saam1 fuk1 pei5} /qui parle toujours de la même chose/
+三幅被 三幅被 [san1 fu2 bei4] {saam1 fuk1 pei5} /(fig.) qui parle toujours de la même chose/(lit.) trois couettes/
 三年 三年 [san1 nian2] {saam1 nin4} /trois ans, trois années/
 三幾 三几 [san1 ji3] {saam1 gei2} /environ trois/
 三度空間 三度空间 [san1 du4 kong1 jian1] {saam1 dou6 hung1 gaan1} /trois dimensions/
