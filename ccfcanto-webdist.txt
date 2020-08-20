@@ -11685,7 +11685,7 @@
 水嘢 水嘢 [shui3 ye3] {seoi2 je5} /produit de mauvaise qualité/
 水土流失 水土流失 [shui3 tu3 liu2 shi1] {seoi2 tou2 lau4 sat1} /érosion du sol/
 水圳 水圳 [shui3 zhen4] {seoi2 zan3} /canal d'irrigation/nulla/
-???? 水垽 水垽 [shui3 yin4] {seoi2 ngan6} /dépôt calcaire/sédiment/
+???? 水垽 水垽 [shui3 yin4] {seoi2 ngan6} /dépôt calcaire; tartre/sédiment/
 水塘 水塘 [shui3 tang2] {seoi2 tong4} /réservoir; bassin de retenue/
 ???? 水尾 水尾 [shui3 wei3] {seoi2 mei5} /le restant (en particulier les produits qui n'ont pas été vendus)/occasion manquée (pour faire de l'argent)/
 水平線 水平线 [shui3 ping2 xian4] {seoi2 ping4 sin3} /ligne horizontale/
@@ -11723,35 +11723,34 @@
 水瓜打狗，唔見一橛 水瓜打狗，唔见一橛 [shui3 gua1 da3 gou3，wu2 jian4 yi1 jue2] {seoi2 gwaa1 daa2 gau2，m4 gin3 jat1 gyut6} /(expr. idiom.) perdre une moitié ou une grande partie de quelque chose/(lit.) utiliser une courge éponge pour frapper un chien et en perdre une partie/
 水產 水产 [shui3 chan3] {seoi2 caan2} /fruits de mer/
 水甴曱 水甴曱 [shui3 ge2 zha4] {seoi2 gaat6 zaat6} /dytiques, famille de coléoptères/
-水皮 水皮 [shui3 pi2] {seoi2 pei4} /(slang) referring to someone's skills and quality is poor, bad, inferior or deficient/
-水磨磚 水磨砖 [shui3 mo2 zhuan1] {seoi2 mo4 zyun1} /(noun) bath brick/
-水積 水积 [shui3 ji1] {seoi2 zik1} /water stains/
-水筆 水笔 [shui3 bi3] {seoi2 bat1} /a fountain pen/
-水緊 水紧 [shui3 jin3] {seoi2 gan2} /1. water shortage 2. cash shortage (spoken)/
-水線 水线 [shui3 xian4] {seoi2 sin3} /earthing (electricity)/
-水翁 水翁 [shui3 weng1] {seoi2 jung1} /Cleistocalyx operculatus (plant)/
-水腳 水脚 [shui3 jiao3] {seoi2 goek3} /(noun) travel expenses; the money that is spent for a trip; shipping cost/
-水藻 水藻 [shui3 zao3] {seoi2 zou2} /(plant) Algae/
-水蛇春咁長 水蛇春咁长 [shui3 she2 chun1 gan1 zhang3] {seoi2 se4 ceon1 gam3 coeng4} /an excessive long speech (slang)/
-水蛋 水蛋 [shui3 dan4] {seoi2 daan2} /(noun) water balloons; or (a dish) steam eggs/
-水螆 水螆 [shui3 ci4] {seoi2 zi1} /water fleas/
+水皮 水皮 [shui3 pi2] {seoi2 pei4} /mauvais en (quelque chose)/
+???? 水磨磚 水磨砖 [shui3 mo2 zhuan1] {seoi2 mo4 zyun1} /brique de Bath; brique Flanders; Patent Scouring; éponge à récurer britannique/
+???? 水積 水积 [shui3 ji1] {seoi2 zik1} /tâche d'eau/dépôt calcaire; tartre/
+水筆 水笔 [shui3 bi3] {seoi2 bat1} /stylo plume/
+水緊 水紧 [shui3 jin3] {seoi2 gan2} /à court d'argent/
+水線 水线 [shui3 xian4] {seoi2 sin3} /(électricié) terre/niveau de l'eau/
+水翁 水翁 [shui3 weng1] {seoi2 jung1} /Syzygium nervosum, espèce d'arbre de l'Asie/
+水腳 水脚 [shui3 jiao3] {seoi2 goek3} /frais de livraison/frais de transport/frais de voyage/
+水蛇春咁長 水蛇春咁长 [shui3 she2 chun1 gan1 zhang3] {seoi2 se4 ceon1 gam3 coeng4} /(expr. idiom.) extrêmement long/(lit.) aussi long qu'un serpent d'eau/
+水蛋 水蛋 [shui3 dan4] {seoi2 daan2} /œufs cuits à la vapeur chinois; œufs d'eau/ballons d'eau/
+水螆 水螆 [shui3 ci4] {seoi2 zi1} /puce d'eau; daphnie/
 水蟹 水蟹 [shui3 xie4] {seoi2 haai5} /(food) crabs/
-水警 水警 [shui3 jing3] {seoi2 ging2} /the marine police/
-水豆腐 水豆腐 [shui3 dou4 fu5] {seoi2 dau6 fu6} /soft beancurd; tofu/
-水貨客 水货客 [shui3 huo4 ke4] {seoi2 fo3 haak3} /grey market traders/
-水路 水路 [shui3lu4] {seoi2 lou6} /(noun) Sea/ocean transportation/
-水車 水车 [shui3 che1] {seoi2 ce1} /the slang for the vehicle used by the fire brigade, i.e. a fire engine; a waterwheel/
-水退 水退 [shui3 tui4] {seoi2 teoi3} /low tide; receding tide/
-水過鴨背 水过鸭背 [shui3 guo4 ya1 bei4] {seoi2 gwo3 aap3 bui3} /describes a situation where someone has not paid any serious attention in learning or studying or in what he/she is saying and eventually cannot recall anything afterwards; to be forgetful/
-水酒 水酒 [shui3 jiu3] {seoi2 zau2} /watery wine (usually only said out of a modest gesture by the host rather than the wine being actually watery in reality)/
-水門 水门 [shui3 men2] {seoi2 mun4} /a floodgate; a sluice gate/
-水險 水险 [shui3 xian3] {seoi2 him2} /marine insurance/
+水警 水警 [shui3 jing3] {seoi2 ging2} /Marine Region de la police de Hong Kong, police portuaire et garde côtes/
+水豆腐 水豆腐 [shui3 dou4 fu5] {seoi2 dau6 fu6} /tofu soyeux/
+???? 水貨客 水货客 [shui3 huo4 ke4] {seoi2 fo3 haak3} /exportateur parallèle; personne qui achète des produits de plus haute qualité ou qui sont moins chers à Hoing Kong qu'en Chine pour les revendre en Chine continentale/
+水路 水路 [shui3 lu4] {seoi2 lou6} /route maritime; voie maritime/
+水車 水车 [shui3 che1] {seoi2 ce1} /roue à eau/camion de pompier/
+水退 水退 [shui3 tui4] {seoi2 teoi3} /marée basse/
+水過鴨背 水过鸭背 [shui3 guo4 ya1 bei4] {seoi2 gwo3 aap3 bui3} /(expr. idiom.)qui n'écoute pas en classe et ne rappelle rien de ce qui est enseigné/
+水酒 水酒 [shui3 jiu3] {seoi2 zau2} /(formule de politesse; s'emploie d'un hôte en parlant de son propre vin) vin aqueux/
+水門 水门 [shui3 men2] {seoi2 mun4} /vanne; porte d'écluse/
+水險 水险 [shui3 xian3] {seoi2 him2} /assurance maritime/
 水電費 水电费 [shui3 dian4 fei4] {seoi2 din6 fai3} /facture d'électricité et d'eau/
-水靜河飛 水静河飞 [shui3 jing4 he2 fei1] {seoi2 zing6 ho4 fei1} /quiet like still water (slang)/
-水靜鵝飛 水静鹅飞 [shui3 jing4 e2 fei1] {seoi2 zing6 ngo4 fei1} /(idiom) business is slow or very quiet/
-水靴 水靴 [shui3 xue1] {seoi2 hoe1} /wellies; wellington boots/
-水鞋 水鞋 [shui3 xie2] {seoi2 haai4} /rain boots/
-水頭 水头 [shui3 tou2] {seoi2 tau4} /money/
+水靜河飛 水静河飞 [shui3 jing4 he2 fei1] {seoi2 zing6 ho4 fei1} /(expr. idiom.) déserté; abandonné; peu fréquenté; (affaires) qui se tournent au ralenti/
+水靜鵝飛 水静鹅飞 [shui3 jing4 e2 fei1] {seoi2 zing6 ngo4 fei1} /(expr. idiom.) déserté; abandonné; peu fréquenté; (affaires) qui se tournent au ralenti/
+水靴 水靴 [shui3 xue1] {seoi2 hoe1} /botte en caoutchouc; botte de pluie/
+水鞋 水鞋 [shui3 xie2] {seoi2 haai4} /botte en caoutchouc; botte de pluie/
+水頭 水头 [shui3 tou2] {seoi2 tau4} /argent; ressources financières/
 水鬼升城隍 水鬼升城隍 [shui3 gui3 sheng1 cheng2 huang5] {seoi2 gwai2 sing1 sing4 wong4} /describes a person who was in a low ranking position (in work or life) who is now intoxicated with success; a small man having greatness thrust upon him/
 水鬼隊 水鬼队 [shui3 gui3 dui4] {seoi2 gwai2 deoi2} /(noun) Water Assault Team/
 水魚 水鱼 [shui3 yu2] {seoi2 jyu2} /(noun) (animal) Trionychidae (soft-shelled turtle); (slang) a dupe / a patsy / an easy mark / a chump (a wealthy person who can be  tricked by others easily)/
@@ -11760,7 +11759,7 @@
 水龍捲 水龙卷 [shui3 long2 juan3] {seoi2 lung4 gyun2} /a waterspout/
 永字八法 永字八法 [yong3 zi4 ba1 fa3] {wing5 zi6 baat3 faat3} /the Eight Principles of Yong (永 wing5), used for teaching the eight common Chinese writing strokes as it is all found in the 永 (wing5) character/
 永恆 永恒 [yong3 heng2] {wing5 hang4} /forever/
-永泰站 永泰站 [yong3 tai4 zhan4] {wing5 taai3 zaam6} /Yongtai Station, a metro station in Guangzhou, China/
+永泰站 永泰站 [yong3 tai4 zhan4] {wing5 taai3 zaam6} /Yongtai Station, station du métro de Canton/
 永誌不忘 永志不忘 [yong3 zhi4 bu2 wang4] {wing5 zi3 bat1 mong4} /unforgettable; will never forget/
 氹 氹 [dang4] {tam5} /make one happy (Cantonese)/
 氹氹轉 凼凼转 [dang4 dang4 zhuan3] {tam5 tam5 zyun3} /describes a situation where someone is extremely busy; literal meaning: turning around and around/
@@ -11768,10 +11767,10 @@
 汀九 汀九 [ting1 jiu3] {ting1 gau2} /(noun) Ting Kau, which is a place in Tsuen Wan, Hong Kong/
 汁 汁 [zhi1] {zap1} /sauce/
 汁都撈埋 汁都捞埋 [zhi1 dou1 lao1 mai2] {zap1 dou1 lou1 maai4} /to keep all the benefits to oneself; to not miss out on even the tiniest of any advantages; the act of mixing the sauce of the dish with the rice (Chinese way of eating rice with a dish); describes a very tasty dish/
-求 求 [qiu2] {kau4} /to beg/
+求 求 [qiu2] {kau4} /supplier; implorer/
 求仁得仁 求仁得仁 [qiu2 ren2 de2 ren2] {kau4 jan4 dak1 jan4} /a dream come true; wish granted/
 求偶 求偶 [qiu2 ou3] {kau4 ngau5} /courtship/
-求先 求先 [qiu2 xian1] {kau4 sin1} /just now/
+求先 求先 [qiu2 xian1] {kau4 sin1} /tout à l'heure; à l'instant/
 求全 求全 [qiu2 quan2] {kau4 cyun4} /(verb) to demand/seek for a perfection;/
 求其 求其 [qiu2 qi2] {kau4 kei4} /(adverb) sloppily; shoddily; slackly; randomly; casually; anyhow; haphazardly (describes the unmindfulness in doing something, i.e. without putting much effort or thoughts into it); (expression) "whatever"; "anything goes"; (adjective of an action) perfunctory; slipshod/
 求實 求实 [qiu2 shi2] {kau4 sat6} /to be practical-minded; to be realistic; to have a matter-of-fact attitude/
