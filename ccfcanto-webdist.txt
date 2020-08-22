@@ -7411,7 +7411,7 @@
 幾遠 几远 [ji3 yuan3] {gei2 jyun2} /à quelle distance?/assez loin/
 幾錢 几钱 [ji3 qian2] {gei2 cin4} /combien d'argent/
 幾難先至 几难先至 [ji3 nan2 xian1 zhi4] {gei2 naan4 sin1 zi3} /qui est difficile à atteindre/ 
-幾點鐘 几点钟 [ji3 dian3 zhong1] {gei2 dim2 zung1} /à quelle heure/(N.B. cette expression s'utilise principalement pour demander une heure sans les minutes; par exemple, on répondrait «à 3h» au lieu de «à 3h25», mais les deux sont acceptables)/
+???? 幾點鐘 几点钟 [ji3 dian3 zhong1] {gei2 dim2 zung1} /à quelle heure/(note d'usage: cette expression s'emploie généralement pour demander l'heure sans préciser les minutes; par exemple, on répondrait habituellement « à 3h » au lieu de « à 3h25 », mais les deux sont acceptables)/
 庇護 庇护 [bi4 hu4] {bei3 wu6} /à l'abri/
 庇護工場 庇护工场 [bi4 hu4 gong1 chang3] {bei3 wu6 gung1 coeng4} /entreprise de travail adapté, entreprise adaptée; programme du gouvernement de Hong Kong qui vise à former des étudiants handicapés/
 庇護所 庇护所 [bi4 hu4 suo3] {bei3 wu6 so2} /abri, sanctuaire/
@@ -11823,41 +11823,40 @@
 沒 没 [mei2] {mut6} /pas/sans/couler; immerger/
 沒多久 没多久 [mei2 duo1 jiu3] {mut6 do1 gau2} /bientôt; tout à l'heure/
 沒有什麼 没有什么 [mei2 you3 shen2 me5] {mut6 jau5 sam6 mo1} /(formule de politesse) ce n'est rien/
-沒有必要 没有必要 [mei2 you3 bi4 yao4] {mut6 jau5 bit1 jiu3} /there is no need; it is not necessary/
-沒水 没水 [mei2 shui3] {mei6 seoi2} /plonger/
-沒法子 没法子 [mei2 fa3 zi5] {mut6 faat3 zi2} /cannot do anything about it; cannot be helped/
+沒水 没水 [mei2 shui3] {mei6 seoi2} /plonger/immerger dans l'eau/
+沒法子 没法子 [mei2 fa3 zi5] {mut6 faat3 zi2} /ne pouvoir rien y faire/
 沒關係 没关系 [mei2 guan1 xi5] {mut6 gwaan1 hai6} /sans rapport (avec)/(formule de politesse) ce n'est pas grave! ne t'inquiète pas!/
-沓 沓 [da2] {daap6} /indicating the long hand in a clock or watch points at any number (every five minutes) (Cantonese)/
-沓正 沓正 [da2 zheng4] {daap6 zeng3} /(adverb) right on something/
+沓 沓 [da2] {daap6} /(s'emploie pour dire que la grande aiguille d'une horloge pointe sur un nombre; ex. 沓三 « pointer sur le trois» signifie « ...h15 » 沓三过半子 « pointer sur le trois et demi » signifie « ...h17 » ou « ...h18 »)/
+沓正 沓正 [da2 zheng4] {daap6 zeng3} /précisément; exactement/heure pile; précisément à telle ou telle heure/heure pile; « ...h00 »/
 沖廁 冲厕 [chong1 ce4] {cung1 ci3} /(toilette) tirer la chasse d'eau/
-沖曬 冲晒 [chong1 shai4] {cung1 saai3} /to develop photographs/
+沖曬 冲晒 [chong1 shai4] {cung1 saai3} /(photographie) développer et imprimer/
 沖涼 冲凉 [chong1 liang2] {cung1 loeng4} /se doucher/se baigner/
 沖涼房 冲凉房 [chong1 liang2 fang2] {cung1 loeng4 fong2} /salle de bain/toilettes/
-沖涼缸 冲凉缸 [chong1 liang2 gang1] {cung1 loeng4 gong1} /(noun) bath tub/
-沖淡水 冲淡水 [chong1 dan4 shui3] {cung1 taam5 seoi2} /to be a 'wet blanket'/
+沖涼缸 冲凉缸 [chong1 liang2 gang1] {cung1 loeng4 gong1} /baignoire/
+???? 沖淡水 冲淡水 [chong1 dan4 shui3] {cung1 taam5 seoi2} /to be a 'wet blanket'/
 沖滾水 冲滚水 [chong1 gun3 shui3] {cung1 gwan2 seoi2} /ajouter de l'eau bouillante/
-沖破 冲破 [chong1 po4] {cung1 po3} /(verb) Break through; surmount/
+沖破 冲破 [chong1 po4] {cung1 po3} /franchir, percer (les défenses d'un ennemi)/surmonter (des obstacles)/briser, rompre avec la tradition/
 沖茶 冲茶 [chong1 cha2] {cung1 caa4} /faire du thé/
-沖菜 冲菜 [chong1 cai4] {cung1 coi3} /preserved kale head; preserved turnip; preserved vegetable/
+???? 沖菜 冲菜 [chong1 cai4] {cung1 coi3} /preserved kale head; preserved turnip; preserved vegetable/
 沙井蓋 沙井盖 [sha1 jing3 gai4] {saa1 zeng2 goi3} /plaque d'égout/
-沙冚 沙冚 [sha1 ka4] {saa1 kam2} /(noun) mudguard; fender; dust guard/
+沙冚 沙冚 [sha1 ka4] {saa1 kam2} /garde-boue (de vélo)/
 沙包 沙包 [sha1 bao1] {saa1 baau1} /punching-ball; sac de frappe/
 沙化 沙化 [sha1 hua4] {saa1 faa3} /sofa; canapé/
-沙哩弄銃 沙哩弄铳 [sha1 li5 nong4 chong4] {saa4 li1 lung6 cung3} /to mess around; to act recklessly and rashly; to mess up something/
-沙嗲 沙嗲 [sha1 die1] {saa1 de1} /(noun) satay/
-沙嗲醬 沙嗲酱 [sha1 die1 jiang4] {saa1 de1 zoeng3} /satay sauce/
+沙哩弄銃 沙哩弄铳 [sha1 li5 nong4 chong4] {saa4 li1 lung6 cung3} /(expr.) gâcher; bousiller/
+沙嗲 沙嗲 [sha1 die1] {saa1 de1} /saté/
+沙嗲醬 沙嗲酱 [sha1 die1 jiang4] {saa1 de1 zoeng3} /saté; sauce saté/
 沙地阿拉伯 沙地阿拉伯 [sha1 di4 A1 la1 bo2] {saa1 dei6 aa3 laai1 baak3} /Arabie Saoudite/
 沙埔 沙埔 [sha1 bu4] {saa1 bou3} /Sha Po, localité de Hong Kong/
-沙塘口山 沙塘口山 [sha1 tang2 kou3 shan1] {saa1 tong4 hau2 saan1} /Bluff Island in Hong Kong/
+沙塘口山 沙塘口山 [sha1 tang2 kou3 shan1] {saa1 tong4 hau2 saan1} /Bluff Island, île de Hong Kong/ 
 沙塵白攉 沙尘白攉 [sha1 chen2 bai2 huo1] {saa1 can4 baak6 fok3} /to describe someone who is arrogant / pompous / grandiose / cocky; smug; a show-off/
 沙塵白霍 沙尘白霍 [sha1 chen2 bai2 huo4] {saa1 can4 baak6 fok3} /boastful; exaggerate; limelight (slang)/
-沙展 沙展 [sha1 zhan3] {saa1 zin2} /sergeant (spoken)/
+沙展 沙展 [sha1 zhan3] {saa1 zin2} /sergeant (orig. de l'anglais « sergeant », avec le même sens)/
 沙梨 沙梨 [sha1 li2] {saa1 lei4} /sand pear/
 沙沙滾 沙沙滚 [sha1 sha1 gun3] {saa4 saa4 gwan2} /(slang) to go out to fool around (usually referring to a man who is playing around with other women behind his wife/girlfriend's back); (adjective) unreliable; slapdash; all show and no substance (to describe someone who just a snow job)/
 沙沙聲 沙沙声 [sha1 sha1 sheng1] {saa4 saa2 seng1} /(of voice/sound) froufrou; susurrus/
-沙河粉 沙河粉 [sha1 he2 fen3] {saa1 ho4 fan2} /flat rice noddles/
+沙河粉 沙河粉 [sha1 he2 fen3] {saa1 ho4 fan2} /shahe fen; he fen; nouilles plates à base de riz/
 沙漠之舟 沙漠之舟 [sha1 mo4 zhi1 zhou1] {saa1 mok6 zi1 zau1} /camel in the desert/
-沙灘波 沙滩波 [sha1 tan1 bo1] {saa1 taan1 bo1} /a beach ball/
+沙灘波 沙滩波 [sha1 tan1 bo1] {saa1 taan1 bo1} /ballon de plage/
 沙灘老鼠 沙滩老鼠 [sha1 tan1 lao3 shu3] {saa1 taan1 lou5 syu2} /a beach thief/
 沙煲 沙煲 [sha1 bao1] {saa1 bou1} /(noun) a clay pot/
 沙煲兄弟 沙煲兄弟 [sha1 bao1 xiong1 di5] {saa1 bou1 hing1 dai6} /(slang) saying two people's friendship as good as brothers/
@@ -11867,12 +11866,12 @@
 沙田海 沙田海 [sha1 tian2 hai3] {saa1 tin4 hoi2} /Sha Tin Hoi / Tide Cove in Hong Kong/
 沙田路 沙田路 [sha1 tian2 lu4] {saa1 tin4 lou6} /Sha Tin Road in Hong Kong/
 沙田馬場 沙田马场 [sha1 tian2 ma3 chang3] {saa1 tin4 maa5 coeng4} /(noun) Sha Tin Racecourse/
-沙甸 沙甸 [sha1 dian4] {saa1 din1} /(noun) Sardines/
-沙甸魚 沙甸鱼 [sha1 dian4 yu2] {saa1 din1 jyu2} /sardines/
+沙甸 沙甸 [sha1 dian4] {saa1 din1} /(poisson) sardine/
+沙甸魚 沙甸鱼 [sha1 dian4 yu2] {saa1 din1 jyu2} /(poisson) sardine/
 沙盤 沙盘 [sha1 pan2] {saa1 pun4} /a sandbox/
-沙示 沙示 [sha1 shi4] {saa1 si6} /Sarsaparilla / Sarsi / Sarsae (a type of soft drink)/
+沙示 沙示 [sha1 shi4] {saa1 si6} /(boisson) salsepareille, boisson non alcoolisé semblable à la racinette/ 
 沙粉 沙粉 [sha1 fen3] {saa1 fan2} /emery powder (abrasive)/
-沙糖 沙糖 [sha1 tang2] {saa1 tong4} /granulated sugar/
+沙糖 沙糖 [sha1 tang2] {saa1 tong4} /sucre granulé/
 沙紙 沙纸 [sha1 zhi3] {saa1 zi2} /(noun) sand paper; a degree / graduation certificate; a university diploma; an accreditation certificate/
 沙翁 沙翁 [sha1 weng1] {saa1 jung1} /Sata andagi, Japanese style deep fried buns made of dough/
 沙膠 沙膠 [sha1 hao2] {saa1 gaau1} /an ink eraser/
