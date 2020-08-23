@@ -11873,26 +11873,28 @@
 沙粉 沙粉 [sha1 fen3] {saa1 fan2} /poudre d'émeri/
 沙糖 沙糖 [sha1 tang2] {saa1 tong4} /sucre granulé/
 沙紙 沙纸 [sha1 zhi3] {saa1 zi2} /papier abrasif/(fig.) diplôme; certificat d'achèvement/
-沙翁 沙翁 [sha1 weng1] {saa1 jung1} /Sata andagi, Japanese style deep fried buns made of dough/
-沙膠 沙膠 [sha1 hao2] {saa1 gaau1} /an ink eraser/
-沙膽 沙胆 [sha1 dan3] {saa1 daam2} /describes a person who is very daring in doing something/
-沙茶醬 沙茶酱 [sha1 cha2 jiang4] {saa1 caa4 zoeng3} /Chinese barbeque or satay sauce/
-沙葛 沙葛 [sha1 ge2] {saa1 got3} /jicama; Mexican turnip; Mexican yam bean/
+沙翁 沙翁 [sha1 weng1] {saa1 jung1} /beignets frits chinois/
+沙膠 沙膠 [sha1 hao2] {saa1 gaau1} /effaceur; efface-encre; stylo permettant d'effacer une encre/
+沙膽 沙胆 [sha1 dan3] {saa1 daam2} /(fig.) courageux; audacieux; hardi/(lit.) tripes de sable/
+沙煲咁大個膽 沙煲咁大个胆 [sha1 bao1 gan1 da4 ge4 dan3] {saa1 bou1 gam3 daai6 go3 daam2} /(expr.) courageux; audacieux; hardi/(lit.) tripes aussi grands qu'une marmite de grès/
+沙茶醬 沙茶酱 [sha1 cha2 jiang4] {saa1 caa4 zoeng3} /saté; sauce saté/sauce barbecue/
+沙葛 沙葛 [sha1 ge2] {saa1 got3} /Pachyrhizus erosus; jicama; pois-patate/
 沙虱 沙虱 [sha1 shi1] {saa1 sat1} /aoûtat/
 沙蟬 沙蝉 [sha1 chan2] {saa1 sim4} /cigale/
-沙蟹桌 沙蟹桌 [sha1 xie4 zhuo1] {saa1 haai5 coek3} /blackjack table/
-沙面 沙面 [sha1 mian4] {saa1 min6} /Shameen / Shamin / Shamian, an island in China/
-沙頭角海 沙头角海 [Sha1 Tou2 Jiao3 hai3] {saa1 tau4 gok3 hoi2} /Sha Tau Kok Hoi / Starling Inlet, a harbour in Hong Kong/
+沙蟹 沙蟹 [sha1 xie4] {saa1 haai5} /Stud à cinq cartes, variante du poker/
+沙蟹桌 沙蟹桌 [sha1 xie4 zhuo1] {saa1 haai5 coek3} /table de blackjack; table de poker/
+沙面 沙面 [sha1 mian4] {saa1 min6} /Île Shamian, île dans le centre-ouest de Canton, concession franco-britannique entre le dix-neuvième et vingtième siècle/
+沙頭角海 沙头角海 [sha1 tou2 jiao3 hai3] {saa1 tau4 gok3 hoi2} /Sha Tau Kok Hoi ou Starling Inlet (lit. « crique des étourneaux »), crique à Hong Kong/
 河 河 [he2] {ho4} /canal/ruisseau/fleuve/rivière/
-河堤 河堤 [he2 di1] {ho4 tai4} /the embankment/
+河堤 河堤 [he2 di1] {ho4 tai4} /(d'une rivière) berge/
 河山 河山 [he2 shan1] {ho4 saan1} /paysage/territoire/(lit.) montagnes et rivières/
 河沙 河沙 [he2 sha1] {ho4 saa1} /sable de rivière/
 河涌 河涌 [he2 yong3] {ho4 cung1} /ruisseau/
 河牀 河床 [he2 chuang2] {ho4 cong4} /lit (d'une rivière ou fleuve)/
-河間 河间 [he2 jian1] {ho4 gaan1} /(noun) stream/
-河鮮 河鲜 [he2 xian1] {ho4 sin1} /(noun) white water fish/
-油光帽 油光帽 [you2 guang1 mao4] {jau4 gwong1 mou2} /a bamboo hat varnished with tung oil/
-油占米 油占米 [you2 zhan4 mi3] {jau4 zim1 mai5} /a top quality type of polished rice/
+河間 河间 [he2 jian1] {ho4 gaan1} /Hejian, ville de la province de Hebei en Chine/
+河鮮 河鲜 [he2 xian1] {ho4 sin1} /poissons d'eau douce/
+油光帽 油光帽 [you2 guang1 mao4] {jau4 gwong1 mou2} /chapeau en bambou verni d'huile d'abrasin/
+油占米 油占米 [you2 zhan4 mi3] {jau4 zim1 mai5} /un type de riz de très haute qualité/
 油器 油器 [you2 qi4] {jau4 hei3} /aliments frits (particulièrement les aliment qui se mangent avec du congee)/
 油塘 油塘 [you2 tang2] {jau4 tong4} /Yau Tong, station du métro de Hong Kong/
 油多 油多 [you2 duo1] {jau4 do1} /toast beurré (orig. 牛油多士)/trop grasse/
@@ -11903,19 +11905,20 @@
 油氈 油毡 [you2 zhan1] {jau4 zin1} /linoleum; asphalt felt/
 油淋淋 油淋淋 [you2 lin2 lin2] {jau4 lam6 lam6} /(adjective) greasy; fatty/
 油淰淰 油淰淰 [you2 nian3 nian3] {jau4 naam5 naam5} /oily/
-油渣 油渣 [you2 zha1] {jau4 zaa1} /1. diesel 2. lard/
-油渣車 油渣车 [you2 zha1 che1] {jau4 zaa1 ce1} /a diesel car/
+油渣 油渣 [you2 zha1] {jau4 zaa1} /gazole; diesel/saindoux/
+油渣車 油渣车 [you2 zha1 che1] {jau4 zaa1 ce1} /voiture diesel/
 油漬 油渍 [you2 zi4] {jau4 zi3} /grease stains/
 油潤 油润 [you2 run4] {jau4 jeon6} /(adjective) moistened; or (noun) lubrication/
 油灰 油灰 [you2 hui1] {jau4 fui1} /(noun) putty/
 油炸蟹 油炸蟹 [you2 zha2 xie4] {jau4 zaa3 haai5} /(noun) deep fried crabs/
-油炸鬼 油炸鬼 [you2 zha2 gui3] {jau4 zaa3 gwai2} /(noun) (food) Chinese deep fried Youtiao; Chinese cruller; Chinese doughnut; Chinese fried oil stick/
+油炸鬼 油炸鬼 [you2 zha2 gui3] {jau4 zaa3 gwai2} /you tiao, long beignet cuit à l'huile qui se mange avec du congee/
 油然 油然 [you2 ran2] {jau4 jin4} /(adjective) contented; cheerful/
-油瓶 油瓶 [you2 ping2] {jau4 ping4} /oil bottle; if pronounced as jau4 peng2, it is used to describe step children/
-油瓶仔 油瓶仔 [you2 ping2 zi3] {jau4 ping4 zi2} /children of a woman who enters another marriage and bring them along with her (slang)/
-油瓶女 油瓶女 [you2 ping2 nü3] {jau4 peng4 neoi2} /(noun) illegitimate daughter/
-油站 油站 [you2 zhan4] {jau4 zaam6} /a petrol station/
-油管 油管 [you2 guan3] {jau4 gun2} /oil pipe/
+油瓶 油瓶 [you2 ping2] {jau4 ping4} /bouteille d'huile/
+油瓶 油瓶 [you2 ping2] {jau4 peng5} /(fig.) (péj.) beaux-enfants/
+油瓶仔 油瓶仔 [you2 ping2 zi3] {jau4 ping4 zi2} /(fig.) (péj.) beaux-enfants/
+油瓶女 油瓶女 [you2 ping2 nu:3] {jau4 peng4 neoi2} /(fig.) (péj.) belle-fille/
+油站 油站 [you2 zhan4] {jau4 zaam6} /station service; station d'essence/
+油管 油管 [you2 guan3] {jau4 gun2} /tube à huile/YouTube; site web d'hébergement de vidéos/
 油紙遮 油纸遮 [you2 zhi3 zhe1] {jau4 zi2 ze1} /(noun) greaseproof paper umbrellas/
 油耳 油耳 [you2 er3] {jau4 ji5} /waxy ear/
 油脂仔 油脂仔 [you2 zhi1 zai3] {jau4 zi1 zai2} /young adult male who dresses up oddly or dresses up like Grease/
