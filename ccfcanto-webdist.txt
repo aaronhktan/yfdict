@@ -11274,6 +11274,7 @@
 機鋪 机铺 [ji1 pu4] {gei1 pou1} /arcade, salle de jeux vidéo/
 機鐵 机铁 [ji1 tie3] {gei1 tit3} /Airport Express, ligne du métro de Hong Kong/
 橡皮圈 橡皮圈 [xiang4 pi2 quan1] {zoeng6 pei4 hyun1} /élastique, bande circulaire en caoutchouc/
+橡皮泥 橡皮泥 [xiang4 pi2 ni2] {zoeng6 pei4 nai4} /plasticine; pâte à modeler/
 橡皮圖章 橡皮图章 [xiang4 pi2 tu2 zhang1] {zoeng6 pei4 tou4 zoeng1} /tampon en caoutchouc/(expr. idiom.) homme de paille, fantoche, marionnette/
 橡筋 橡筋 [xiang4 jin1] {zoeng6 gan1} /élastique, bande circulaire en caoutchouc/
 橡筋箍 橡筋箍 [xiang4 jin1 gu1] {zoeng6 gan1 ku1} /élastique, bande circulaire en caoutchouc/
@@ -11686,7 +11687,7 @@
 水土流失 水土流失 [shui3 tu3 liu2 shi1] {seoi2 tou2 lau4 sat1} /érosion du sol/
 水圳 水圳 [shui3 zhen4] {seoi2 zan3} /canal d'irrigation/nulla/
 ???? 水垽 水垽 [shui3 yin4] {seoi2 ngan6} /dépôt calcaire; tartre/sédiment/
-水塘 水塘 [shui3 tang2] {seoi2 tong4} /réservoir; bassin de retenue/
+水塘 水塘 [shui3 tang2] {seoi2 tong4} /réservoir; bassin de retenue; lac de barrage/
 ???? 水尾 水尾 [shui3 wei3] {seoi2 mei5} /le restant (en particulier les produits qui n'ont pas été vendus)/occasion manquée (pour faire de l'argent)/
 水平線 水平线 [shui3 ping2 xian4] {seoi2 ping4 sin3} /ligne horizontale/
 水廁 水厕 [shui3 ce4] {seoi2 ci3} /toilette à chasse d'eau/
@@ -11898,16 +11899,15 @@
 油器 油器 [you2 qi4] {jau4 hei3} /aliments frits (particulièrement les aliment qui se mangent avec du congee)/
 油塘 油塘 [you2 tang2] {jau4 tong4} /Yau Tong, station du métro de Hong Kong/
 油多 油多 [you2 duo1] {jau4 do1} /toast beurré (orig. 牛油多士)/trop grasse/
-油尖旺區 油尖旺区 [You2 jian1 wang4 qu1] {jau4 zim1 wong6 keoi1} /(noun) Yau Tsim Mong Distract in Hong Kong/
+油尖旺區 油尖旺区 [you2 jian1 wang4 qu1] {jau4 zim1 wong6 keoi1} /(noun) Yau Tsim Mong, une des dix-huit districts de Hong Kong/ 
 油層 油层 [you2 ceng2] {jau4 cang4} /oil reservoir/
 油彩 油彩 [you2 cai3] {jau4 coi2} /peinture à l'huile/
 油榨 油榨 [you2 zha4] {jau4 zaa3} /an oil press/
-油氈 油毡 [you2 zhan1] {jau4 zin1} /linoleum; asphalt felt/
-油淋淋 油淋淋 [you2 lin2 lin2] {jau4 lam6 lam6} /(adjective) greasy; fatty/
-油淰淰 油淰淰 [you2 nian3 nian3] {jau4 naam5 naam5} /oily/
+油淋淋 油淋淋 [you2 lin2 lin2] {jau4 lam6 lam6} /(aliment) gras; grasse/
+油淰淰 油淰淰 [you2 nian3 nian3] {jau4 naam5 naam5} /(aliment) gras; grasse/
 油渣 油渣 [you2 zha1] {jau4 zaa1} /gazole; diesel/saindoux/
 油渣車 油渣车 [you2 zha1 che1] {jau4 zaa1 ce1} /voiture diesel/
-油漬 油渍 [you2 zi4] {jau4 zi3} /grease stains/
+油漬 油渍 [you2 zi4] {jau4 zik1} /tache d'huile/
 油潤 油润 [you2 run4] {jau4 jeon6} /(adjective) moistened; or (noun) lubrication/
 油灰 油灰 [you2 hui1] {jau4 fui1} /(noun) putty/
 油炸蟹 油炸蟹 [you2 zha2 xie4] {jau4 zaa3 haai5} /(noun) deep fried crabs/
@@ -11967,42 +11967,41 @@
 法庭 法庭 [fa3 ting2] {faat3 ting4} /tribunal/
 法書 法书 [fa3 shu1] {faat3 syu1} /legal books/
 法蘭西共和國 法兰西共和国 [Fa3 lan2 xi1 Gong4 he2 guo2] {faat3 laan4 sai1 gung6 wo4 gwok3} /the French Republic/
-法蘭西多士 法兰西多士 [Fa3 lan2 xi1 duo1 shi4] {faat3 laan4 sai1 do1 si2} /French toast/
-法輪佛法 法轮佛法 [fa3 lun2 Fo2 fa3] {faat3 leon4 fat6 faat3} /Falun Gong / Falun Dafa, a Chinese spiritual practice/
+法蘭西多士 法兰西多士 [Fa3 lan2 xi1 duo1 shi4] {faat3 laan4 sai1 do1 si2} /pain doré; pain perdu/
+法輪佛法 法轮佛法 [fa3 lun2 Fo2 fa3] {faat3 leon4 fat6 faat3} /Falun Gong ou Falun Dafa, mouvement spirituel chinois/
 泛民 泛民 [fan4 min2] {faan3 man4} /pro-democracy/
 泛泛 泛泛 [fan4 fan4] {faan3 faan3} /general; superficial; no depth/
 泡哥 泡哥 [pao4 ge1] {paau1 go1} /a pickpocket/
-泡水館 泡水馆 [pao4 shui3 guan3] {paau3 seoi2 gun2} /a bathhouse; a hot water store/
-泡沫塑料 泡沫塑料 [pao4 mo4 su4 liao4] {pou5 mut6 sou3 liu2} /styrofoam/
-波 波 [bo1] {bo1} /(ball game) 1. ball; (slang) 1. boobs; 2. (Precautionary measures)  the signals of typhoon in force/
-波友 波友 [bo1 you3] {bo1 jau5} /a fellow football team mate/
-波地 波地 [bo1 di4] {bo1 dei6} /football pitch; football playground/
-波場 波场 [bo1 chang3] {bo1 coeng4} /(noun) a soccer field; or (noun) events of parties or balls/
-波士 波士 [bo1 shi4] {bo1 si2} /the boss/
-波子 波子 [bo1 zi3] {bo1 zi2} /(noun) marbles; or (noun) Porsche/
-波子棋 波子棋 [bo1 zi5 qi2] {bo1 zi2 kei2} /Chinese checkers (a broad game)/
-波鞋 波鞋 [bo1 xie2] {bo1 haai4} /(noun) running shoes/
-泣不成聲 泣不成声 [qi4 bu4 cheng2 sheng1] {jap1 bat1 sing4 sing1} /to break down in tears; to sob/
-泥塵 泥尘 [ni2 chen2] {nai4 can4} /dust/
-泥屋 泥屋 [ni2 wu1] {nai4 uk1} /a mud hut/
-泥水 泥水 [ni2 shui3] {nai4 seoi2} /(noun) muddy water/
-泥水佬 泥水佬 [ni2 shui3 lao3] {nai4 seoi2 lou2} /bricklayer; tiler; plasterer; mason (spoken)/
-泥氹 泥凼 [ni2 dang4] {nai4 tam5} /a mud pit/
-泥湴 泥湴 [ni2 ban4] {nai4 baan6} /muddy/
-泥磚 泥砖 [ni2 zhuan1] {nai4 zyun1} /(noun) clay bricks/
-泥肉 泥肉 [ni2 rou4] {nai4 juk6} /the layer of arable soil/
-泥膠 泥膠 [ni2 hao2] {nai4 gaau1} /play dough/
-泥菩薩過江 泥菩萨过江 [ni2 pu2 sa4 guo4 jiang1] {nai4 pou4 saat3 gwo3 gong1} /(idiom) someone is hardly able to save herself/himself in a plight/
-泥蚶 泥蚶 [ni2 han1] {nai4 ham1} /clams; blood cockles/
-泥蝦 泥虾 [ni2 xia1] {nai4 haa1} /Metapenaeus ensis / greasyback shrimp / sand shrimp/
-泥路 泥路 [ni2 lu4] {nai4 lou6} /a dirt road/
-泥頭 泥头 [ni2 tou2] {nai4 tau4} /a dumper/
-泥頭車 泥头车 [ni2 tou2 che1] {nai4 tau4 ce1} /cement truck/
+泡水館 泡水馆 [pao4 shui3 guan3] {paau3 seoi2 gun2} /bains publiques/
+泡沫塑料 泡沫塑料 [pao4 mo4 su4 liao4] {pou5 mut6 sou3 liu2} /polystyrène/
+波 波 [bo1] {bo1} /ballon/(fam.) seins; mamelles; nichons/niveau de menace cyclonique (orig. des ballons noirs utilisés à Hong Kong pour avertir les navires d'une menace cyclonique)/
+波友 波友 [bo1 you3] {bo1 jau5} /coéquipier de soccer; coéquipier de foot/
+波地 波地 [bo1 di4] {bo1 dei6} /terrain de soccer; terrain de foot/
+波場 波场 [bo1 chang3] {bo1 coeng4} /terrain de soccer; terrain de foot/salon de bal (orig. de l'anglais « ballroom », où « ball », « bal » devient « 波 »)/
+波士 波士 [bo1 shi4] {bo1 si2} /patron (orig. de l'anglais « boss », « patron »)/
+波子 波子 [bo1 zi3] {bo1 zi2} /billes/(fam.) voiture Porsche/
+波子棋 波子棋 [bo1 zi5 qi2] {bo1 zi2 kei2} /jeu de dames chinoises/
+波鞋 波鞋 [bo1 xie2] {bo1 haai4} /(chaussure) espadrilles; basket; tennis/
+泣不成聲 泣不成声 [qi4 bu4 cheng2 sheng1] {jap1 bat1 sing4 sing1} /(expr.) fondre en larmes; sangloter/
+泥塵 泥尘 [ni2 chen2] {nai4 can4} /poussière/
+泥屋 泥屋 [ni2 wu1] {nai4 uk1} /hutte de terre/
+泥水 泥水 [ni2 shui3] {nai4 seoi2} /eau boueuse/
+泥水佬 泥水佬 [ni2 shui3 lao3] {nai4 seoi2 lou2} /maçon/
+???? 泥氹 泥凼 [ni2 dang4] {nai4 tam5} /a mud pit/mud puddle/
+泥湴 泥湴 [ni2 ban4] {nai4 baan6} /boue/
+泥磚 泥砖 [ni2 zhuan1] {nai4 zyun1} /(brique) adobe/
+???? 泥肉 泥肉 [ni2 rou4] {nai4 juk6} /the layer of arable soil/
+泥膠 泥膠 [ni2 hao2] {nai4 gaau1} /pâte à modeler/
+泥蚶 泥蚶 [ni2 han1] {nai4 ham1} /Tegillarca granosa, espèce de mollusques bivalves/
+泥蝦 泥虾 [ni2 xia1] {nai4 haa1} /Metapenaeus ensis, espèce de crevettes/
+泥路 泥路 [ni2 lu4] {nai4 lou6} /chemin de terre/
+???? 泥頭 泥头 [ni2 tou2] {nai4 tau4} /a dumper/
+泥頭車 泥头车 [ni2 tou2 che1] {nai4 tau4 ce1} /camion benne/
 泥鯭 泥鯭 [ni2 meng3] {nai4 maang1} /rabbitfish/
 泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /unregulated taxi / unmetered taxi, where random passengers share a taxi ride and pay a fixed rate instead of a metered rate./
 泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(metaphor) saying someone is very dirty/
 注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /precautions; notes/
-注視 注视 [zhu4shi4] {zyu3 si6} /(verb) 1. Pay attention on; 2. Stare at /
+注視 注视 [zhu4 shi4] {zyu3 si6} /(verb) 1. Pay attention on; 2. Stare at /
 泮塘 泮塘 [pan4 tang2] {pun3 tong6} /Pun Tong, a region in Guangzhou, China/
 泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, a region in Guangzhou, China; Panshui, a village in Guangxi, China; an outdated term for the pond in front of a school house/
 泮溪 泮溪 [pan4 xi1] {pun3 kai1} /Panxi, a stream in Guangzhou, China/
