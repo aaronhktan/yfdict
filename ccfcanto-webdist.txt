@@ -11948,29 +11948,27 @@
 沾污 沾污 [zhan1 wu1] {zim1 wu1} /tacher; souillir; salir/
 沿海 沿海 [yan2 hai3] {jyun4 hoi2} /côtier, côtière; le long de la côte/
 沿街 沿街 [yan2 jie1] {jyun4 gaai1} /le long de la rue/dans la rue/
-泄漏 泄漏 [xie4 lou4] {sit3 lau6} /(verb) 1. Blow the gaff; 2. Let something slip (out)/
-泉 泉 [quan2] {cyun4} /(noun) 1. Fountain; 2. The Underworld/
+泄漏 泄漏 [xie4 lou4] {sit3 lau6} /(liquide) fuir/ 
+泉 泉 [quan2] {cyun4} /fontaine/Enfers/(arch.) pièce; pièce de monnaie/
 泊 泊 [po1] {bok6} /stationner; garer (une voiture)/
-泊車仔 泊车仔 [bo2 che1 zi3] {paak3 ce1 zai2} /a valet boy/
+泊車仔 泊车仔 [bo2 che1 zi3] {paak3 ce1 zai2} /voiturier/
 泊車位 泊车位 [bo2 che1 wei4] {paak3 ce1 wai2} /place de stationnement; espace de stationnement; place de parking/
 泊車咪錶 泊车咪表 [bo2 che1 mi1 biao3] {paak3 ce1 mai1 biu1} /parcmètre/
 法 法 [fa3] {faat3} /abbréviation pour la France/législatif; relatif aux lois/
-法人代表 法人代表 [fa3 ren2 dai4 biao3] {faat3 jan4 doi6 biu2} /a legal representative/
-法例 法例 [fa3 li4] {faat3 lai6} /regulation; law/
+法例 法例 [fa3 li4] {faat3 lai6} /loi; règle; ordonnance/
 法包 法包 [fa3 bao1] {faat3 baau1} /baguette/(lit.) pain français/
 法國嘢 法国嘢 [fa3 guo2 ye3] {faat3 gwok3 je5} /(fam.) (fig.) cuisine française/(lit.) chose française/
-法國國家巴黎銀行 法国国家巴黎银行 [fa3 guo2 guo2 jia1 Ba1 li2 yin2 hang2] {faat3 gwok3 gwok3 gaa1 baa1 lai4 ngan4 hong4} /BNP Paribas, banque française/
+法國國家巴黎銀行 法国国家巴黎银行 [fa3 guo2 guo2 jia1 ba1 li2 yin2 hang2] {faat3 gwok3 gwok3 gaa1 baa1 lai4 ngan4 hong4} /BNP Paribas, banque française/
 法國國際廣播電台 法国国际广播电台 [fa3 guo2 guo2 ji4 guang3 bo4 dian4 tai2] {faat3 gwok3 gwok3 zai3 gwong2 bo3 din6 toi4} /Radio France internationale; RFI/
 法國文化協會 法国文化协会 [fa3 guo2 wen2 hua4 xie2 hui4] {faat3 gwok3 man4 faa3 hip3 wui2} /Alliance française, organisation dont l'objectif est de faire rayonner la langue française et la culture française à l'extérieur de la France/
 法國菜 法国菜 [fa3 guo2 cai4] {faat3 gwok3 coi3} /cuisine française/
-法庭 法庭 [fa3 ting2] {faat3 ting4} /tribunal/
-法書 法书 [fa3 shu1] {faat3 syu1} /legal books/
+法庭 法庭 [fa3 ting2] {faat3 ting4} /tribunal; cour de justice/
+法書 法书 [fa3 shu1] {faat3 syu1} /belle calligraphie; calligraphie tellement belle qu'elle pourrait servir d'exemple/(formule de politesse) votre calligraphie/ouvrages juridiques/ 
 法蘭西共和國 法兰西共和国 [fa3 lan2 xi1 gong4 he2 guo2] {faat3 laan4 sai1 gung6 wo4 gwok3} /la République française/
-法蘭西多士 法兰西多士 [Fa3 lan2 xi1 duo1 shi4] {faat3 laan4 sai1 do1 si2} /pain doré; pain perdu/
-法輪佛法 法轮佛法 [fa3 lun2 Fo2 fa3] {faat3 leon4 fat6 faat3} /Falun Gong ou Falun Dafa, mouvement spirituel chinois/
-泛民 泛民 [fan4 min2] {faan3 man4} /pro-democracy/
-泛泛 泛泛 [fan4 fan4] {faan3 faan3} /general; superficial; no depth/
-泡哥 泡哥 [pao4 ge1] {paau1 go1} /a pickpocket/
+法蘭西多士 法兰西多士 [fa3 lan2 xi1 duo1 shi4] {faat3 laan4 sai1 do1 si2} /pain doré; pain perdu/
+法輪佛法 法轮佛法 [fa3 lun2 fo2 fa3] {faat3 leon4 fat6 faat3} /Falun Gong ou Falun Dafa, mouvement spirituel chinois/
+泛民 泛民 [fan4 min2] {faan3 man4} /camp pro-démocratie (du Conseil législatif de Hong Kong)/
+泡哥 泡哥 [pao4 ge1] {paau1 go1} /pickpocket; voleure à la tire/
 泡水館 泡水馆 [pao4 shui3 guan3] {paau3 seoi2 gun2} /bains publiques/
 泡沫塑料 泡沫塑料 [pao4 mo4 su4 liao4] {pou5 mut6 sou3 liu2} /polystyrène/
 波 波 [bo1] {bo1} /ballon/(fam.) seins; mamelles; nichons/niveau de menace cyclonique (orig. des ballons noirs utilisés à Hong Kong pour avertir les navires d'une menace cyclonique)/
@@ -11997,28 +11995,28 @@
 ???? 泥頭 泥头 [ni2 tou2] {nai4 tau4} /a dumper/
 泥頭車 泥头车 [ni2 tou2 che1] {nai4 tau4 ce1} /camion benne/
 泥鯭 泥鯭 [ni2 meng3] {nai4 maang1} /rabbitfish/
-泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /unregulated taxi / unmetered taxi, where random passengers share a taxi ride and pay a fixed rate instead of a metered rate./
-泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(metaphor) saying someone is very dirty/
-注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /precautions; notes/
+???? 泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /taxi illégal; le chauffeur de taxi attend plusieurs personnes (qui ne se connaissent pas) ayant la même destination, ce qui lui permet de réduire les prix qu'il demande des passagers/
+???? 泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(espèce de canard élevée sur la terre ferme, sans accès à l'eau)/(fig.) (personne) sale/(dirty car?) (mixed race?)/
+???? 注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /précautions/question nécessitant une attention particulière/
 注視 注视 [zhu4 shi4] {zyu3 si6} /(verb) 1. Pay attention on; 2. Stare at /
 泮塘 泮塘 [pan4 tang2] {pun3 tong6} /Pun Tong, a region in Guangzhou, China/
 泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, a region in Guangzhou, China; Panshui, a village in Guangxi, China; an outdated term for the pond in front of a school house/
 泮溪 泮溪 [pan4 xi1] {pun3 kai1} /Panxi, a stream in Guangzhou, China/
-泰國國際航空公司 泰国国际航空公司 [Tai4 guo2 guo2 ji4 hang2 kong1 gong1 si1] {taai3 gwok3 gwok3 zai3 hong4 hung1 gung1 si1} /(Airline) Thai Airways International Public Company Limited/
-泰山 泰山 [Tai4 Shan1] {taai3 saan1} /Tarzan's Chinese translation/
+泰國國際航空公司 泰国国际航空公司 [tai4 guo2 guo2 ji4 hang2 kong1 gong1 si1] {taai3 gwok3 gwok3 zai3 hong4 hung1 gung1 si1} /Thai Airways International, compagnie aérienne nationale de Thaïlande/
+泰山 泰山 [Tai4 Shan1] {taai3 saan1} /Tarzan/
 泰山壓卵 泰山压卵 [tai4 shan1 ya1 luan3] {taai3 saan1 aat3 leon5} /when competing against a much stronger opponent, the weaker side is bound to lose/
 泰然處之 泰然处之 [tai4 ran2 chu3 zhi1] {taai3 jin4 cyu2 zi1} /to take things as they come in a calm manner/
-泰王國 泰王国 [Tai4 Wang2 guo2] {taai3 wong4 gwok3} /Kingdom of Thailand/
-泳池 泳池 [yong3 chi2] {wing6 ci4} /swimming pool/
-泳灘 泳滩 [yong3 tan1] {wing6 taan1} /beach for swimming/
+泰王國 泰王国 [tai4 wang2 guo2] {taai3 wong4 gwok3} /royaume de Thaïlande/
+泳池 泳池 [yong3 chi2] {wing6 ci4} /piscine/
+泳灘 泳滩 [yong3 tan1] {wing6 taan1} /plage de baignade/
 𣲷懦 𣲷懦 [Ni4 nuo4] {nap6 no6} /slow; sluggish; procrastinate (slang)/
-𣲷黐黐 𣲷黐黐 [Ni4 li2 li2] {nap6 ci1 ci1} /(adj.) sticky/
+𣲷黐黐 𣲷黐黐 [Ni4 li2 li2] {nap6 ci1 ci1} /collant; gluant/
 洋剪 洋剪 [yang2 jian3] {joeng4 zin2} /tailoring scissors; tailoring shears/
 洋奴哲學 洋奴哲学 [yang2 nu2 zhe2 xue2] {joeng4 nou4 zit3 hok6} /the blind worship of everything that is foreign/
-洋桃 洋桃 [yang2 tao2] {joeng4 tou2} /(fruit) star fruit/
-洋樓 洋楼 [yang2 lou2] {joeng4 lau2} /(n.) (a dated term) an apartment house or a building with a western style design./
+洋桃 洋桃 [yang2 tao2] {joeng4 tou2} /carambole/
+洋樓 洋楼 [yang2 lou2] {joeng4 lau2} /(vieilli) édifice de style occidental/
 洋為中用 洋为中用 [yang2 wei2 zhong1 yong4] {joeng4 wai4 zung1 jung6} /(idiom) to learn the advantages of Western as good use/
-洋燭 洋烛 [yang2 zhu2] {joeng4 zuk1} /candle/
+洋燭 洋烛 [yang2 zhu2] {joeng4 zuk1} /bougie/
 洋行 洋行 [yang2 hang2] {joeng4 hong2} /(noun) a trading company/
 洋財 洋财 [yang2 cai2] {joeng4 coi4} /ill-gotten wealth/
 洋酒 洋酒 [yang2 jiu3] {joeng4 zau2} /(noun) Western liquor/
