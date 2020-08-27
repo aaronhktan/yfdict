@@ -12050,27 +12050,26 @@
 洗髮香波 洗发香波 [xi3 fa4 xiang1 bo1] {sai2 faat3 hoeng1 bo1} /shampooing/
 洛克 洛克 [luo4 ke4] {lok3 hak1} /John Locke, philosophe anglais/
 洛溪站 洛溪站 [luo4 xi1 zhan4] {lok3 kai1 zaam6} /Luoxi Station, station du métro de Canton/
-洞徹 洞彻 [dong4 che4] {dung6 cit3} /to have a deep insight into something/
-津校 津校 [jin1 xiao4] {zeon1 haau6} /a subsidized school/
-津津有味 津津有味 [jin1jin1you3wei4] {zeon1 zeon1 jau5 mei6} /(adjective) Great enjoyable in something/
-津貼學校 津贴学校 [jin1 tie1 xue2 xiao4] {zeon1 tip3 hok6 haau6} /a subsidized school/
-洩漏 泄漏 [xie4 lou4] {sit3 lau6} /to leak/
-洩露 泄露 [xie4 lou4] {sit3 lou6} /(verb) leak out/
+洞徹 洞彻 [dong4 che4] {dung6 cit3} /avoir un connaissance approfondie/
+津校 津校 [jin1 xiao4] {zeon1 haau6} /école subventionnée/
+津貼學校 津贴学校 [jin1 tie1 xue2 xiao4] {zeon1 tip3 hok6 haau6} /école subventionnée/
+洩漏 泄漏 [xie4 lou4] {sit3 lau6} /(liquide) fuir/(information) fuiter/
+洩露 泄露 [xie4 lou4] {sit3 lou6} /révéler ou dévoiler (un secret)/(information) fuiter/
 洪 洪 [hong2] {hung4} /(nom de famille chinoi)/
-洪金寶 洪金宝 [hong2 jin1 bao3] {hung4 gam1 bou2} /(celebrity) Sammo Hung Kam-bo who is a Hong Kong actor, martial artist, film producer and director./
-洭 洭 [kuang1] {hong1} /Kuang, the name of a river in Guangdong, China/
-洲頭咀 洲头咀 [zhou1 tou2 ju3] {zau1 tau4 zeoi2} /Zhoutouzui / Store Houses, the name of a place in Guangdong, China/
-洶洶 汹汹 [xiong1 xiong1] {hung1 hung1} /viciously/
-洶涌澎湃 汹涌澎湃 [xiong1 yong3 peng2 pai4] {hung1 jung2 paang4 baai3} /surging/
-洶湧澎湃 汹涌澎湃 [xiong1 yong3 peng2 pai4] {hung1 jung2 paang4 baai3} /surging/
+洪金寶 洪金宝 [hong2 jin1 bao3] {hung4 gam1 bou2} /Sammo Hung, artiste martial, acteur, réalisateur, chorégraphe et producteur hongkongais/
+???? 洭 洭 [kuang1] {hong1} /Kuang, the name of a river in Guangdong, China/
+洲頭咀 洲头咀 [zhou1 tou2 ju3] {zau1 tau4 zeoi2} /Zhoutouzui, tunnel routier de Canton/
+洶洶 汹汹 [xiong1 xiong1] {hung1 hung1} /violemment; brutalement/tumultueux; troublé; agité/
+洶涌澎湃 汹涌澎湃 [xiong1 yong3 peng2 pai4] {hung1 jung2 paang4 baai3} /déferlement (des vagues)/(lit.) s'élancer (vers quelque chose)/
+洶湧澎湃 汹涌澎湃 [xiong1 yong3 peng2 pai4] {hung1 jung2 paang4 baai3} /déferlement (des vagues)/(lit.) s'élancer (vers quelque chose)/
 洹水 洹水 [huan2 Shui3] {wun4 seoi2} /Huan He; Rivière Huan; rivière d'Anyang; rivière en Chine/
 活動 活动 [huo2 dong4] {wut6 dung6} /évènement/faire de l'exercice/
-活受罪 活受罪 [huo2 shou4 zui4] {wut6 sau6 zeoi6} /live like hell for sins committed (spoken)/
-活口 活口 [huo2 kou3] {wut6 hau2} /a survivor; a prisoner kept alive to ectract information from/
+???? 活受罪 活受罪 [huo2 shou4 zui4] {wut6 sau6 zeoi6} /(idiom.) extrêmement ennuyeux; torture; extrêmement pénible/
+活口 活口 [huo2 kou3] {wut6 hau2} /survivant d'une tentative de meurtre/prisionnier qui peut fournir des informations/
 活水 活水 [huo2 shui3] {wut6 seoi2} /eau vive/
-活見鬼 活见鬼 [huo2 jian4 gui3] {wut6 gin3 gwai2} /complain of seeing or encountering undesired things (spoken)/
-派 派 [pai4] {paai3} /(noun)  style/
-派位 派位 [pai4 wei4] {paai3 wai6} /allocation (of places) (in university, school, etc.)/
+活見鬼 活见鬼 [huo2 jian4 gui3] {wut6 gin3 gwai2} /(idiom.) totalement absurde/
+派 派 [pai4] {paai3} /attitude; air/
+派位 派位 [pai4 wei4] {paai3 wai6} /(université, école) choisir qui admettre/
 派信 派信 [pai4 xin4] {paai3 seon3} /livrer le courier/
 派司 派司 [pa1 si5] {paai3 si1} /laissez-passer; document ou carte donnant accès à quelque chose/réussir (un examen, une épreuve, etc.)/
 派報紙 派报纸 [pai4 bao4 zhi3] {paai3 bou3 zi2} /livrer les journaux/
@@ -12081,11 +12080,10 @@
 派糖 派糖 [pai4 tang2] {paai3 tong2} /(verb) giveaway or contribute candies  (noun) the Relief Measures of Hong Kong Budget Report/
 派街坊 派街坊 [pai4 jie1 fang5] {paai3 gaai1 fong1} /to give generously/
 派遣 派遣 [pai4 qian3] {paai3 hin2} /to assign/
-派頭 派头 [pai4 tou2] {paai1 tau4} /appearance/
-流 流 [liu2] {lau4} /(slang) 1. fake; 2. inferior 3. Phoney/
-流動電話 流动电话 [liu2 dong4 dian4 hua4] {lau4 dung6 din6 waa2} /a mobile phone/
+流 流 [liu2] {lau4} /contrefaçon; faux/inférieur; de mauvaise qualité/
+流動電話 流动电话 [liu2 dong4 dian4 hua4] {lau4 dung6 din6 waa2} /téléphone mobile; céllulaire; téléphone portable/
 流口水 流口水 [liu2 kou3 shui3] {lau4 hau2 seoi2} /(verb) drooling; slobbering (figurative meaning); tasty; yummy; inferior (quality); poor results (usually referring to academic performance)/
-流嘢 流嘢 [liu2 ye3] {lau4 je5} /counterfeit / fake stuff; poor quality goods/
+流嘢 流嘢 [liu2 ye3] {lau4 je5} /contrefaçon; faux/produit de mauvaise qualité/
 流料 流料 [liu2 liao4] {lau4 liu2} /an unreliable or fake source(s) [normally internal/secretive information]/
 流水線 流水线 [liu2 shui3 xian4] {lau4 seoi2 sin3} /an assembly line; a pipeline/
 流沙包 流沙包 [liu2 sha1 bao1] {lau4 saa1 baau1} /an egg custard bun with a runny centre/
@@ -12093,11 +12091,11 @@
 流浪 流浪 [liu2lang4] {lau4 long6} /(adjective) (of animal) Stray /
 流浮山 流浮山 [liu2 fu2 shan1] {lau4 fau4 saan1} /Lau Fau Shan, a region in Hong Kong/
 流花路 流花路 [liu2 hua1 lu4] {lau4 faa3 lou6} /Liuhua Lu, the name of a road in Guangdong, China/
-流血 流血 [liu2 xue4] {lau4 hyut3} /to spend a lot of money/
-流行 流行 [liu2 xing2] {lau4 hang4} /(noun) 1. trend; (adjective)  trendy/
-流行曲 流行曲 [liu2 xing2 qu3] {lau4 hang4 kuk1} /pop music/
+???? 流血 流血 [liu2 xue4] {lau4 hyut3} /dépenser beaucoup d'argent/
+流行 流行 [liu2 xing2] {lau4 hang4} /à la mode; tendance/(nom commun) tendance/
+流行曲 流行曲 [liu2 xing2 qu3] {lau4 hang4 kuk1} /musique pop/
 流行榜 流行榜 [liu2 xing2 bang3] {lau4 hang4 bong2} /the charts/
-流野 流野 [liu2 ye3] {lau4 je5} /poor quality products/
+流野 流野 [liu2 ye3] {lau4 je5} /contrefaçon; faux/produit de mauvaise qualité/
 流離朗蕩 流离朗荡 [liu2 li2 lang3 dang4] {lau4 lei4 long5 dong6} /to wander around aimlessly; to be displaced; destitiute and homeless/
 流馬尿 流马尿 [liu2 ma3 niao4] {lau4 maa5 niu6} /crying/
 流鼻水 流鼻水 [liu2 bi2 shui3] {lau4 bei6 seoi2} /nose watering/
