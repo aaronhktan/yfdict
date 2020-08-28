@@ -5394,6 +5394,7 @@
 夜戰 夜战 [ye4 zhan4] {je6 zin3} /sortir la nuit/aller en boîte la nuit/
 夜明珠 夜明珠 [ye4 ming2 zhu1] {je6 ming4 zyu1} /perles luminescentes/
 夜晚黑 夜晚黑 [ye4 wan3 hei1] {je6 maan5 haak1} /la nuit/
+夜晚流流長 夜晚流流长 [ye4 wan3 liu2 liu2 chang2] {je6 maan5 lau4 lau4 coeng} /très longue nuit/
 夜更 夜更 [ye4 geng1] {je6 gang1} /poste de nuit/
 夜游神 夜游神 [ye4 you2 shen2] {je6 jau4 san4} /(expr. idiom.) gens qui traînent dehors la nuit/(lit.) dieu de la patrouille de la nuit/
 夜盜蟲 夜盗虫 [ye4 dao4 chong2] {je6 dou6 cung4} /vers gris/
@@ -12074,49 +12075,50 @@
 派司 派司 [pa1 si5] {paai3 si1} /laissez-passer; document ou carte donnant accès à quelque chose/réussir (un examen, une épreuve, etc.)/
 派報紙 派报纸 [pai4 bao4 zhi3] {paai3 bou3 zi2} /livrer les journaux/
 派士砵 派士砵 [pai4 shi4 bo1] {paa1 si2 but3} /passport (orig. de l'anglais « passport », avec le même sens)/
-派彩 派彩 [pai4 cai3] {paai3 coi2} /dividends/
-派籌 派筹 [pai4 chou2] {paai3 cau2} /to hand out queue tickets; quota allocation, especially for assigning a pupil a place in a school/
-派米 派米 [pai4 mi3] {paai3 mai5} /to give out rice for free/
-派糖 派糖 [pai4 tang2] {paai3 tong2} /(verb) giveaway or contribute candies  (noun) the Relief Measures of Hong Kong Budget Report/
-派街坊 派街坊 [pai4 jie1 fang5] {paai3 gaai1 fong1} /to give generously/
-派遣 派遣 [pai4 qian3] {paai3 hin2} /to assign/
+派彩 派彩 [pai4 cai3] {paai3 coi2} /distribuer les gains d'un billet de loterie gagnant ou d'une mise gagnante/
+???? 派籌 派筹 [pai4 chou2] {paai3 cau2} /to hand out queue tickets; quota allocation, especially for assigning a pupil a place in a school/
+派米 派米 [pai4 mi3] {paai3 mai5} /distribuer du riz/
+派糖 派糖 [pai4 tang2] {paai3 tong2} /donner des bonbons/(fig.) mesures d'allégement budgétaires/(fig.) donner de l'aide sociale/
+派街坊 派街坊 [pai4 jie1 fang5] {paai3 gaai1 fong1} /donner généreusement/faire un don d'un article d'occasion/
+派遣 派遣 [pai4 qian3] {paai3 hin2} /envoyer, dépêcher (une équipe)/
 流 流 [liu2] {lau4} /contrefaçon; faux/inférieur; de mauvaise qualité/
 流動電話 流动电话 [liu2 dong4 dian4 hua4] {lau4 dung6 din6 waa2} /téléphone mobile; céllulaire; téléphone portable/
-流口水 流口水 [liu2 kou3 shui3] {lau4 hau2 seoi2} /(verb) drooling; slobbering (figurative meaning); tasty; yummy; inferior (quality); poor results (usually referring to academic performance)/
+流口水 流口水 [liu2 kou3 shui3] {lau4 hau2 seoi2} /bavant/(fig.) de mauvaise qualité/délicieux/(fig.) avoir de mauvaises notes/
 流嘢 流嘢 [liu2 ye3] {lau4 je5} /contrefaçon; faux/produit de mauvaise qualité/
-流料 流料 [liu2 liao4] {lau4 liu2} /an unreliable or fake source(s) [normally internal/secretive information]/
-流水線 流水线 [liu2 shui3 xian4] {lau4 seoi2 sin3} /an assembly line; a pipeline/
-流沙包 流沙包 [liu2 sha1 bao1] {lau4 saa1 baau1} /an egg custard bun with a runny centre/
-流流 流流 [liu2 liu2] {lau4 lau4} /during (spoken)/
-流浪 流浪 [liu2lang4] {lau4 long6} /(adjective) (of animal) Stray /
-流浮山 流浮山 [liu2 fu2 shan1] {lau4 fau4 saan1} /Lau Fau Shan, a region in Hong Kong/
-流花路 流花路 [liu2 hua1 lu4] {lau4 faa3 lou6} /Liuhua Lu, the name of a road in Guangdong, China/
+流料 流料 [liu2 liao4] {lau4 liu2} /fausse information/
+流水線 流水线 [liu2 shui3 xian4] {lau4 seoi2 sin3} /chaîne de montage/(informatique) pipeline, chaîne de traitement/
+流沙包 流沙包 [liu2 sha1 bao1] {lau4 saa1 baau1} /pain farci d'une crème sucrée à base d’œuf et de beurre/
+流流 流流 [liu2 liu2] {lau4 lau4} /pendant; lors de/
+流流長  流流长 [liu2 liu2 chang2] {lau4 lau4 coeng4} /très longtemps/
+流浪 流浪 [liu2 lang4] {lau4 long6} /(animal) errant; perdu/
+流浮山 流浮山 [liu2 fu2 shan1] {lau4 fau4 saan1} /Lau Fau Shan, région de Hong Kong/
+流花路 流花路 [liu2 hua1 lu4] {lau4 faa3 lou6} /Liuhua Lu, rue de Canton en Chine/
 ???? 流血 流血 [liu2 xue4] {lau4 hyut3} /dépenser beaucoup d'argent/
 流行 流行 [liu2 xing2] {lau4 hang4} /à la mode; tendance/(nom commun) tendance/
 流行曲 流行曲 [liu2 xing2 qu3] {lau4 hang4 kuk1} /musique pop/
-流行榜 流行榜 [liu2 xing2 bang3] {lau4 hang4 bong2} /the charts/
+流行榜 流行榜 [liu2 xing2 bang3] {lau4 hang4 bong2} /classement musical; classement de chansons populaires (ex. Billboard Top 100 (É.U.), Top 50 (France))/
 流野 流野 [liu2 ye3] {lau4 je5} /contrefaçon; faux/produit de mauvaise qualité/
 流離朗蕩 流离朗荡 [liu2 li2 lang3 dang4] {lau4 lei4 long5 dong6} /to wander around aimlessly; to be displaced; destitiute and homeless/
 流馬尿 流马尿 [liu2 ma3 niao4] {lau4 maa5 niu6} /crying/
-流鼻水 流鼻水 [liu2 bi2 shui3] {lau4 bei6 seoi2} /nose watering/
+流鼻水 流鼻水 [liu2 bi2 shui3] {lau4 bei6 seoi2} /(nez) couler/avoir un nez qui coule/
 浙醋 浙醋 [zhe4 cu4] {zit3 cou3} /red vinegar/
 浩園 浩园 [hao4 yuan2] {hou6 jyun4} /Gallant Garden, a public cemetery in Hong Kong/
 浪漫 浪漫 [lang4 man4] {long6 maan6} /romance/
-浮光掠影 浮光掠影 [fu2 guang1 lüe4 ying3] {fau4 gwong1 loek6 jing2} /skimming over the surface; evanescent; cursory; superficial/
-浮動匯率 浮动汇率 [fu2 dong4 hui4 lü4] {fau4 dung6 wui6 leot2} /(Financial term) Floating exchange rate/
+浮光掠影 浮光掠影 [fu2 guang1 lu:e4 ying3] {fau4 gwong1 loek6 jing2} /skimming over the surface; evanescent; cursory; superficial/
+浮動匯率 浮动汇率 [fu2 dong4 hui4 lü4] {fau4 dung6 wui6 leot2} /(finance) taux de change flottant)/
 浮動工資 浮动工资 [fu2 dong4 gong1 zi1] {fau4 dung6 gung1 zi1} /floating wages; fluctuating wages/
-浮板 浮板 [fu2 ban3] {fau4 baan2} /a swimming float/
+浮板 浮板 [fu2 ban3] {fau4 baan2} /planche de natation/
 浮生 浮生 [fu2 sheng1] {fau4 sang1} /a 'floating' life (in passing – a temporary transient state)/
 浮蕩 浮荡 [fu2 dang4] {fau4 dong6} /drift; float; wander/
 浮薸 浮薸 [fu2 piao1] {fau4 piu1} /duckweed/
 海上無魚蝦自大 海上无鱼虾自大 [hai3 shang4 wu2 yu2 xia1 zi4 da4] {hoi2 soeng6 mou4 jyu4 haa1 zi6 daai6} /'in the kingdom of the blind, the one-eyed man is king'/
 海下 海下 [hai3 xia4] {hoi2 haa6} /(noun) Hoi Ha, a place in Sai Kung, Hong Kong/
 海下灣 海下湾 [hai3 xia4 wan1] {hoi2 haa6 waan1} /Hoi Ha Wan / Jone's Cove, located in Hong Kong/
-海傍 海傍 [hai3 bang4] {hoi2 bong6} /waterfront/
-海傍站 海傍站 [hai3 bang4 zhan4] {hoi2 bong6 zaam6} /Haibang Station, a metro station in Guangzhou, China/
-海南航空 海南航空 [Hai3 nan2 hang2 kong1] {hoi2 naam4 hong4 hung1} /Hainan Airlines/
+海傍 海傍 [hai3 bang4] {hoi2 bong6} /berge; rive/
+海傍站 海傍站 [hai3 bang4 zhan4] {hoi2 bong6 zaam6} /Haibang Station, station du métro de Canton/
+海南航空 海南航空 [Hai3 nan2 hang2 kong1] {hoi2 naam4 hong4 hung1} /Hainan Airlines, compagnie aérienne de la province de Hainan en Chine/
 海南雞飯 海南鸡饭 [Hai3 nan2 ji1 fan4] {hoi2 naam4 gai1 faan6} /Hainanese chicken rice/
-海口 海口 [hai3 kou3] {hoi2 hau2} /(noun)  Usually refers to the Haikou city in Hainan Island/
+海口 海口 [hai3 kou3] {hoi2 hau2} /Haikou, capitale de la province chinoise de Hainan/
 海味 海味 [hai3 wei4] {hoi2 mei2} /(n.) dried seafood./
 海外僑胞 海外侨胞 [hai3 wai4 qiao2 bao1] {hoi2 ngoi6 kiu4 baau1} /Overseas Chinese/
 海富中心 海富中心 [hai3 fu4 zhong1 xin1] {hoi2 fu3 zung1 sam1} /Admiralty Centre, a building in Hong Kong/
