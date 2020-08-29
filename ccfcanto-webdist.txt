@@ -859,7 +859,7 @@
 乜都得 乜都得 [mie1 dou1 de5] {mat1 dou1 dak1} /tout est possible/c'est comme tu veux/
 乜野 乜野 [mie1 ye3] {me1 je5} /quoi?/hein?/tous (en parlant d'une catégorie de choses)/
 ???? 乜頭乜路 乜头乜路 [mie1 tou2 mie1 lu4] {mat1 tau4 mat1 lou6} /origines/situation/personne ou groupe inconnu/
-乜鬼 乜鬼 [mie1 gui3] {mat1 gwai2} /(pour exprimer exaspération) mais qu'est-ce que.../
+乜鬼 乜鬼 [mie1 gui3] {mat1 gwai2} /(pour exprimer son exaspération) mais qu'est-ce que.../
 九 九 [jiu3] {gau2} /(vulg.) connard; salaud/
 九七年 九七年 [jiu3 qi1 nian2] {gau2 cat1 nin4} /l'année 1997, l'année de la rétrocession de Hong Kong à la Chine/
 九九金 九九金 [jiu3 jiu3 jin1] {gau2 gau2 gam1} /or fin; or 999; or de 24 carats/
@@ -3879,14 +3879,14 @@
 呢駁 呢驳 [ne5 bo2] {ni1 bok3} /récemment/
 周不時 周不时 [zhou1 bu4 shi2] {zau1 bat1 si4} /de temps en temps/
 ???? 周匝 周匝 [zhou1 za1] {zau1 zaap3} /surround; considerate/
-周年旺相 周年旺相 [zhou1 nian2 wang4 xiang4] {zau1 nin4 wong6 soeng3} /expression pour souhaiter la chance pour toute l'année/
+周年旺相 周年旺相 [zhou1 nian2 wang4 xiang4] {zau1 nin4 wong6 soeng3} /(expression utilisée pour exprimer des souhaits de bonheur pour toute l'année)/
 周慧敏 周慧敏 [zhou1 hui4 min3] {zau1 wai6 man5} /Vivian chow, chanteuse hongkongaise/
 周打 周打 [zhou1 da3] {zau1 daa2} /soupe épaisse, chaudrée/
 周打蜆湯 周打蚬汤 [zhou1 da3 xian3 tang1] {zau1 daa2 hin2 tong1} /soupe de clams/
 周打魚湯 周打鱼汤 [zhou1 da3 yu2 tang1] {zau1 daa2 jyu4 tong1} /chaudrée au poisson/
 周時 周时 [zhou1 shi2] {zau1 si4} /toujours, souvent/
 周時無日 周时无日 [zhou1 shi2 wu2 ri4] {zau1 si4 mou4 jat6} /souvent, habituellement (de sense négatif)/
-周期律 周期律 [zhou1 qi1 lü4] {zau1 kei4 leot6} /période, cycle/
+周期律 周期律 [zhou1 qi1 lu:4] {zau1 kei4 leot6} /période, cycle/
 周海媚 周海媚 [zhou1 hai3 mei4] {zau1 hoi2 mei4} /Kathy Chau, actrice hongkongaise/
 周率 周率 [zhou1 lü4] {zau1 leot2} /pi/
 周界 周界 [zhou1 jie4] {zau1 gaai3} /périmètre/
@@ -11689,7 +11689,7 @@
 水圳 水圳 [shui3 zhen4] {seoi2 zan3} /canal d'irrigation/nulla/
 ???? 水垽 水垽 [shui3 yin4] {seoi2 ngan6} /dépôt calcaire; tartre/sédiment/
 水塘 水塘 [shui3 tang2] {seoi2 tong4} /réservoir; bassin de retenue; lac de barrage/
-???? 水尾 水尾 [shui3 wei3] {seoi2 mei5} /le restant (en particulier les produits qui n'ont pas été vendus)/occasion manquée (pour faire de l'argent)/
+水尾 水尾 [shui3 wei3] {seoi2 mei5} /le restant (en particulier les produits qui n'ont pas été vendus)/rater une occasion de faire un profit/
 水平線 水平线 [shui3 ping2 xian4] {seoi2 ping4 sin3} /ligne horizontale/
 水廁 水厕 [shui3 ce4] {seoi2 ci3} /toilette à chasse d'eau/
 水彩顏料 水彩颜料 [shui3 cai3 yan2 liao4] {seoi2 coi2 ngaan4 liu2} /pigments d'aquarelle/
@@ -11801,6 +11801,7 @@
 江西話 江西话 [jiang1 xi1 hua4] {gong1 sai1 waa2} /(langue chinoise) gan/
 池座 池座 [chi2 zuo4] {ci4 zo6} /(partie d'une salle de spectacle) l'orchestre; parterre/
 池魚 池鱼 [chi2 yu2] {ci4 jyu4} /(espèce de poissons) Trachurus japonicus/
+???? 池中無魚蝦自大 池中無魚蝦自大 [chi2 zhong1 wu2 yu2 xia1 zi4 da4] {ci4 zung1 mou5 jyu2 haa1 zi6 daai6} //
 污哩馬查 污哩马查 [wu1 li5 ma3 cha2] {wu1 li1 maa5 caa5} /chaotique; en désordre/
 污染 污染 [wu1 ran3] {wu1 jim5} /polluer; contaminer/
 污泥濁水 污泥浊水 [wu1 ni2 zhuo2 shui3] {wu1 nai4 zuk6 seoi2} /(expr. idiom.) gâchis; dégâts (s'emploie au sens figuré; ex. un gâchis laissé par un gouvernemen précédent)/(lit.) saleté et bourbier/
@@ -12098,30 +12099,30 @@
 流行曲 流行曲 [liu2 xing2 qu3] {lau4 hang4 kuk1} /musique pop/
 流行榜 流行榜 [liu2 xing2 bang3] {lau4 hang4 bong2} /classement musical; classement de chansons populaires (ex. Billboard Top 100 (É.U.), Top 50 (France))/
 流野 流野 [liu2 ye3] {lau4 je5} /contrefaçon; faux/produit de mauvaise qualité/
-流離朗蕩 流离朗荡 [liu2 li2 lang3 dang4] {lau4 lei4 long5 dong6} /to wander around aimlessly; to be displaced; destitiute and homeless/
-流馬尿 流马尿 [liu2 ma3 niao4] {lau4 maa5 niu6} /crying/
+流離朗蕩 流离朗荡 [liu2 li2 lang3 dang4] {lau4 lei4 long5 dong6} /(expr.) flâner, errer/être sans abri/
+流馬尿 流马尿 [liu2 ma3 niao4] {lau4 maa5 niu6} /(fig.) pleurer/(lit.) un cheval qui urine/
 流鼻水 流鼻水 [liu2 bi2 shui3] {lau4 bei6 seoi2} /(nez) couler/avoir un nez qui coule/
-浙醋 浙醋 [zhe4 cu4] {zit3 cou3} /red vinegar/
-浩園 浩园 [hao4 yuan2] {hou6 jyun4} /Gallant Garden, a public cemetery in Hong Kong/
-浪漫 浪漫 [lang4 man4] {long6 maan6} /romance/
-浮光掠影 浮光掠影 [fu2 guang1 lu:e4 ying3] {fau4 gwong1 loek6 jing2} /skimming over the surface; evanescent; cursory; superficial/
+???? 浙醋 浙醋 [zhe4 cu4] {zit3 cou3} /vinaigre de Zhejiang; vinaigre Chinkiang/
+浩園 浩园 [hao4 yuan2] {hou6 jyun4} /Gallant Garden, cimetière publique de Hong Kong/
+浪漫 浪漫 [lang4 man4] {long6 maan6} /amour/romantique/
+浮光掠影 浮光掠影 [fu2 guang1 lu:e4 ying3] {fau4 gwong1 loek6 jing2} /(fig.) rapide; hâtif, hâtive/(fig.) superficiel, superficielle/(lit.) lumière vacillante et seulement un aperçu/
 浮動匯率 浮动汇率 [fu2 dong4 hui4 lü4] {fau4 dung6 wui6 leot2} /(finance) taux de change flottant)/
-浮動工資 浮动工资 [fu2 dong4 gong1 zi1] {fau4 dung6 gung1 zi1} /floating wages; fluctuating wages/
+???? 浮動工資 浮动工资 [fu2 dong4 gong1 zi1] {fau4 dung6 gung1 zi1} /rénumération fluctuante/
 浮板 浮板 [fu2 ban3] {fau4 baan2} /planche de natation/
-浮生 浮生 [fu2 sheng1] {fau4 sang1} /a 'floating' life (in passing – a temporary transient state)/
-浮蕩 浮荡 [fu2 dang4] {fau4 dong6} /drift; float; wander/
-浮薸 浮薸 [fu2 piao1] {fau4 piu1} /duckweed/
-海上無魚蝦自大 海上无鱼虾自大 [hai3 shang4 wu2 yu2 xia1 zi4 da4] {hoi2 soeng6 mou4 jyu4 haa1 zi6 daai6} /'in the kingdom of the blind, the one-eyed man is king'/
-海下 海下 [hai3 xia4] {hoi2 haa6} /(noun) Hoi Ha, a place in Sai Kung, Hong Kong/
-海下灣 海下湾 [hai3 xia4 wan1] {hoi2 haa6 waan1} /Hoi Ha Wan / Jone's Cove, located in Hong Kong/
+浮生 浮生 [fu2 sheng1] {fau4 sang1} /(plantes) pousser dans l'eau; flotter sur l'eau/(fig.) vie éphémère; vie passagère/ 
+浮蕩 浮荡 [fu2 dang4] {fau4 dong6} /flotter au vent/flotter sur l'eau/
+浮薸 浮薸 [fu2 piao1] {fau4 piu1} /lentille d'eau; lentille-d'eau; lenticule/
+???? 海上無魚蝦自大 海上无鱼虾自大 [hai3 shang4 wu2 yu2 xia1 zi4 da4] {hoi2 soeng6 mou4 jyu4 haa1 zi6 daai6} /'in the kingdom of the blind, the one-eyed man is king'/a person who does thinks they are better than they actually are/
+海下 海下 [hai3 xia4] {hoi2 haa6} /Hoi Ha, village de Hong Kong/
+海下灣 海下湾 [hai3 xia4 wan1] {hoi2 haa6 waan1} /Hoi Ha Wan ou « Jone's Cove » (« Anse de Jone »), une baie de Hong Kong/
 海傍 海傍 [hai3 bang4] {hoi2 bong6} /berge; rive/
 海傍站 海傍站 [hai3 bang4 zhan4] {hoi2 bong6 zaam6} /Haibang Station, station du métro de Canton/
 海南航空 海南航空 [Hai3 nan2 hang2 kong1] {hoi2 naam4 hong4 hung1} /Hainan Airlines, compagnie aérienne de la province de Hainan en Chine/
-海南雞飯 海南鸡饭 [Hai3 nan2 ji1 fan4] {hoi2 naam4 gai1 faan6} /Hainanese chicken rice/
+海南雞飯 海南鸡饭 [Hai3 nan2 ji1 fan4] {hoi2 naam4 gai1 faan6} /riz au poulet hainanais/
 海口 海口 [hai3 kou3] {hoi2 hau2} /Haikou, capitale de la province chinoise de Hainan/
-海味 海味 [hai3 wei4] {hoi2 mei2} /(n.) dried seafood./
-海外僑胞 海外侨胞 [hai3 wai4 qiao2 bao1] {hoi2 ngoi6 kiu4 baau1} /Overseas Chinese/
-海富中心 海富中心 [hai3 fu4 zhong1 xin1] {hoi2 fu3 zung1 sam1} /Admiralty Centre, a building in Hong Kong/
+海味 海味 [hai3 wei4] {hoi2 mei2} /fruits de mer séchés/
+海外僑胞 海外侨胞 [hai3 wai4 qiao2 bao1] {hoi2 ngoi6 kiu4 baau1} /Chinois d'outre-mer; Chinois expatriés/
+海富中心 海富中心 [hai3 fu4 zhong1 xin1] {hoi2 fu3 zung1 sam1} /Admiralty Centre, immeuble de bureaux à Hong Kong/
 海峽兩岸 海峡两岸 [Hai3 xia2 liang3 an4] {hoi2 haap6 loeng5 ngon6} /Cross-Strait; China-Taiwan, the two political entities separated by the ocean/
 海幢寺 海幢寺 [hai3 chuang2 si4] {hoi2 tong4 zi6} /Hai Tong Monastery, located in Guangdong, China/
 海底隧道 海底隧道 [hai3 di3 sui4 dao4] {hoi2 dai2 seoi6 dou6} /(noun) Cross Harbour Tunnel/
