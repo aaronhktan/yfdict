@@ -1183,7 +1183,7 @@
 人比人，比死人 人比人，比死人 [ren2 bi3 ren2 , bi3 si3 ren2] {jan4 bei2 jan4 bei2 sei2 jan4} /(expr. idiom.) tout le monde est unique, donc ça ne sert à rien de se comparer aux autres/(lit.) si tu te compares avec les autres, tu vas te comparer jusqu'à la mort/
 人民力量 人民力量 [ren2 min2 li4 liang5] {jan4 man4 lik6 loeng6} /People Power, un parti politique de Hong Kong/
 人民英雄 人民英雄 [ren2 min2 ying1 xiong2] {jan4 man4 jing1 hung4} /héros du peuple; héros populaire/
-人氣急升 人气急升 [ren2 qi4 ji2 sheng1] {jan4 hei3 gap1 sing1} /(expr.) connaître une ascension fulguante; devenir tout à coup populaire/
+人氣急升 人气急升 [ren2 qi4 ji2 sheng1] {jan4 hei3 gap1 sing1} /(expr.) connaître une ascension fulgurante; devenir tout à coup populaire/
 人滿之患 人满之患 [ren2 man3 zhi1 huan4] {jan4 mun5 zi1 waan6} /problèmes dûs au surpeuplement/
 人無千日好 人无千日好 [ren2 wu2 qian1 ri4 hao3] {jan4 mou4 cin1 jat6 hou2} /(expr. idiom.) les amitiés se terminent forcément un jour/(expr. idiom.) les choses ne déroulent pas toujours comme prévu/voir aussi 人無千日好，花無百日紅 人无千日好，花无百日红/(lit.) on n'a pas mille bonnes journées/
 人無千日好，花無百日紅 人无千日好，花无百日红 [ren2 wu2 qian1 ri4 hao3 , hua1 wu2 bai3 ri4 hong2] {jan4 mou4 cin1 jat6 hou2 ，faa1 mou4 baak3 jat6 hung4} /(expr. idiom.) les amitiés se terminent forcément un jour/(expr. idiom.) les choses ne déroulent pas toujours comme prévu/voir aussi 人無千日好 人无千日好/(lit.) on n'a pas mille bonnes journées, et les fleurs ne restent pas rouge cent jours/
@@ -11712,7 +11712,9 @@
 水洗都唔清 水洗都唔清 [shui3 xi3 dou1 n2 qing1] {seoi2 sai2 dou1 m4 cing1} /(expr. idiom.) ne pas parvenir à prouver son innocence/(lit.) ne pas pouvoir nettoyer avec de l'eau/
 水浸 水浸 [shui3 jin4] {seoi2 zam3} /inondation/inonder/
 水浸眼眉 水浸眼眉 [shui3 jin4 yan3 mei2] {seoi2 zam3 ngaan5 mei4} /(expr. idiom.) face à une situation critique; urgence; manquer de temps pour résoudre un problème/(lit.) l'eau jusqu'aux cils/
+水渠 水渠 [shui3 qu2] {seoi2 keoi4} /égout/
 水溝油 水沟油 [shui3 gou1 you2] {seoi2 kau1 jau4} /(expr. idiom.) ne pas s'entendre (avec quelqu'un); s'entendre comme chien et chat/(lit.) mélanger de l'eau et de l'huile/
+水溶液 水溶液 [shui3 rong2 ye4] {seoi2 jung4 jik6} /solution; solution aqueuse/
 水滾 水滚 [shui3 gun3] {seoi2 gwan2} /eau bouillante/
 水火不相容 水火不相容 [shui3 huo3 bu4 xiang1 rong2] {seoi2 fo2 bat1 soeng1 jung4} /(expr. idiom.) être aussi incompatible que l'eau et le feu/(lit.) l'eau et le feu ne mélangent pas/
 水災 水灾 [shui3 zai1] {seoi2 zoi1} /inondation/
@@ -11734,6 +11736,7 @@
 水線 水线 [shui3 xian4] {seoi2 sin3} /(électricié) terre/niveau de l'eau/
 水翁 水翁 [shui3 weng1] {seoi2 jung1} /Syzygium nervosum, espèce d'arbre de l'Asie/
 水腳 水脚 [shui3 jiao3] {seoi2 goek3} /frais de livraison/frais de transport/frais de voyage/
+水藻 水藻 [shui3 zao3] {seoi2 zou2} /algues/
 水蛇春咁長 水蛇春咁长 [shui3 she2 chun1 gan1 zhang3] {seoi2 se4 ceon1 gam3 coeng4} /(expr. idiom.) extrêmement long/(lit.) aussi long qu'un serpent d'eau/
 水蛋 水蛋 [shui3 dan4] {seoi2 daan2} /œufs cuits à la vapeur chinois; œufs d'eau/ballons d'eau/
 水螆 水螆 [shui3 ci4] {seoi2 zi1} /puce d'eau; daphnie/
@@ -11775,6 +11778,7 @@
 求仁得仁 求仁得仁 [qiu2 ren2 de2 ren2] {kau4 jan4 dak1 jan4} /rêve devenu réalité/
 求偶 求偶 [qiu2 ou3] {kau4 ngau5} /faire la cour à quelqu'un; courtiser/
 求先 求先 [qiu2 xian1] {kau4 sin1} /tout à l'heure; à l'instant/
+求全 求全 [qiu2 quan2] {kau4 cyun4} /exiger la perfection/
 求其 求其 [qiu2 qi2] {kau4 kei4} /sans soin; avec négligence; aveuglément; n'importe comment/(indifférence) ça m'est égal; c'est comme tu veux/
 求實 求实 [qiu2 shi2] {kau4 sat6} /faire preuve de pragmatisme; chercher des résultats réalistes/
 求求其其 求求其其 [qiu2 qiu5 qi2 qi2] {kau4 kau4 kei4 kei4} /sans soin; avec négligence; aveuglément; n'importe comment/
@@ -11937,6 +11941,7 @@
 油酸 油酸 [you2 suan1] {jau4 syun1} /acide oléique/
 ???? 油鋪 油铺 [you2 pu4] {jau4 pou3} /grocery store selling sundries/
 油鋸 油锯 [you2 ju4] {jau4 geoi3} /tronçonneuse thermique; tronçonneuse qui consomme du carburant/ 
+油頭粉面 油头粉面 [you2 tou2 fen3 mian4] {jau4 tau4 fan2 min6} /(fig.) habillé; qui porte beaucoup de maquillage/
 油香餅 油香饼 [you2 xiang1 bing3] {jau4 hoeng1 beng2} /pancake chinois frit à l'huile/
 油𩺬 油𩺬 [you2 zhui1] {jau4 zeoi1} /murène/
 油麥菜 油麦菜 [you2 mai4 cai4] {jau4 mak6 coi3} /A Choy; A Cai; You Mai Cai; type de laitue taïwanaise/
@@ -11971,6 +11976,7 @@
 法蘭西多士 法兰西多士 [fa3 lan2 xi1 duo1 shi4] {faat3 laan4 sai1 do1 si2} /pain doré; pain perdu/
 法輪佛法 法轮佛法 [fa3 lun2 fo2 fa3] {faat3 leon4 fat6 faat3} /Falun Gong ou Falun Dafa, mouvement spirituel chinois/
 泛民 泛民 [fan4 min2] {faan3 man4} /camp pro-démocratie (du Conseil législatif de Hong Kong)/
+泛泛 泛泛 [fan4 fan4] {faan3 faan3} /superficiel; peu profond; en général; ne pas entrer en détail/
 泡哥 泡哥 [pao4 ge1] {paau1 go1} /pickpocket; voleure à la tire/
 泡水館 泡水馆 [pao4 shui3 guan3] {paau3 seoi2 gun2} /bains publiques/
 泡沫塑料 泡沫塑料 [pao4 mo4 su4 liao4] {pou5 mut6 sou3 liu2} /polystyrène/
@@ -11992,6 +11998,7 @@
 泥磚 泥砖 [ni2 zhuan1] {nai4 zyun1} /(brique) adobe/
 ???? 泥肉 泥肉 [ni2 rou4] {nai4 juk6} /the layer of arable soil/
 泥膠 泥膠 [ni2 hao2] {nai4 gaau1} /pâte à modeler/
+泥菩薩過江 泥菩萨过江 [ni2 pu2 sa4 guo4 jiang1] {nai4 pou4 saat3 gwo3 gong1} /(expr. idiom.) incapable de sauver soi-même et encore même les autres/(lit.) Bouddha en argile traversant la rivière/
 泥蚶 泥蚶 [ni2 han1] {nai4 ham1} /Tegillarca granosa, espèce de mollusques bivalves/
 泥蝦 泥虾 [ni2 xia1] {nai4 haa1} /Metapenaeus ensis, espèce de crevettes/
 泥路 泥路 [ni2 lu4] {nai4 lou6} /chemin de terre/
@@ -12001,6 +12008,7 @@
 ???? 泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /taxi illégal où le chauffeur de taxi attend plusieurs personnes (qui ne se connaissent pas) ayant la même destination, ce qui lui permet de réduire les prix qu'il demande des passagers/
 ???? 泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(espèce de canard élevée sur la terre ferme, sans accès à l'eau)/(fig.) (personne) sale/(dirty car?) (mixed race?)/
 ???? 注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /précautions/question nécessitant une attention particulière/
+注視 注视 [zhu4 shi4] {zyu3 si6} /faire attention à/fixer d'un regard/
 泮塘 泮塘 [pan4 tang2] {pun3 tong6} /Pun Tong, localité de Canton en Chine/
 泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, localité de Canton en Chine/Panshui, village de Guangxi/(vieilli) étang situé devant une école/
 泮溪 泮溪 [pan4 xi1] {pun3 kai1} /Panxi, ruisseau de Canton en Chine/
@@ -12048,6 +12056,7 @@
 洗身房 洗身房 [xi3 shen1 fang2] {sai2 san1 fong4} /salle de bain/
 洗錢 洗钱 [xi3 qian2] {sai2 cin2} /dépenser de l'argent/dépenser trop d'argent; dépenser tout son argent/
 洗面梘 洗面枧 [xi3 mian4 jian3] {sai2 min6 gaan2} /savon visage; nettoyant pour le visage/
+洗頭 洗头 [xi3 tou2] {sai2 tau4} /se laver les cheveux/
 洗頭水 洗头水 [xi3 tou2 shui3] {sai2 tau4 seoi2} /shampooing/
 洗髮 洗发 [xi3 fa4] {sai2 faat3} /se laver les cheveux/
 洗髮香波 洗发香波 [xi3 fa4 xiang1 bo1] {sai2 faat3 hoeng1 bo1} /shampooing/
@@ -12055,6 +12064,7 @@
 洛溪站 洛溪站 [luo4 xi1 zhan4] {lok3 kai1 zaam6} /Luoxi Station, station du métro de Canton/
 洞徹 洞彻 [dong4 che4] {dung6 cit3} /avoir un connaissance approfondie/
 津校 津校 [jin1 xiao4] {zeon1 haau6} /école subventionnée/
+津津有味 津津有味 [jin1 jin1 you3 wei4] {zeon1 zeon1 jau5 mei6} /avec plaisir/
 津貼學校 津贴学校 [jin1 tie1 xue2 xiao4] {zeon1 tip3 hok6 haau6} /école subventionnée/
 洩漏 泄漏 [xie4 lou4] {sit3 lau6} /(liquide) fuir/(information) fuiter/
 洩露 泄露 [xie4 lou4] {sit3 lou6} /révéler ou dévoiler (un secret)/(information) fuiter/
@@ -12083,6 +12093,7 @@
 派糖 派糖 [pai4 tang2] {paai3 tong2} /donner des bonbons/(fig.) mesures d'allégement budgétaires/(fig.) donner de l'aide sociale/
 派街坊 派街坊 [pai4 jie1 fang5] {paai3 gaai1 fong1} /donner généreusement/faire un don d'un article d'occasion/
 派遣 派遣 [pai4 qian3] {paai3 hin2} /envoyer, dépêcher (une équipe)/
+派頭 派头 [pai4 tou2] {paai1 tau4} /apparence; style; manières/
 流 流 [liu2] {lau4} /contrefaçon; faux/inférieur; de mauvaise qualité/
 流動電話 流动电话 [liu2 dong4 dian4 hua4] {lau4 dung6 din6 waa2} /téléphone mobile; céllulaire; téléphone portable/
 流口水 流口水 [liu2 kou3 shui3] {lau4 hau2 seoi2} /bavant/(fig.) de mauvaise qualité/délicieux/(fig.) avoir de mauvaises notes/
@@ -12131,6 +12142,7 @@
 海怡半島 海怡半岛 [hai3 yi2 ban4 dao3] {hoi2 ji4 bun3 dou2} /South Horizons, HLM à Hong Kong/
 海怪 海怪 [hai3 guai4] {hoi2 gwaai3} /monstre des mers; monstre marin/
 海旁 海旁 [hai3 pang2] {hoi2 pong4} /au bord de l'eau; sur les quais/
+海棠 海棠 [hai3 tang2] {hoi2 tong4} /cognassier du Japon/
 海水魚 海水鱼 [hai3 shui3 yu2] {hoi2 seoi2 jyu4} /poisson de mer/
 海洋公園 海洋公园 [Hai3 yang2 Gong1 yuan2] {hoi2 joeng4 gung1 jyun4} /Ocean Park Hong Kong, parc de loisirs situé à Hong Kong/
 海涵 海涵 [hai3 han2] {hoi2 haam4} /(formule de politesse) pardonnez nos défauts/
