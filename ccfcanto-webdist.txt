@@ -12648,35 +12648,36 @@
 火急 火急 [huo3 ji2] {fo2 gap1} /urgent; pressant/
 火拼 火拼 [huo3 pin1] {fo2 ping3} /lutter ouvertement (entre deux factions criminelles ou seigneurs de la guerre)/
 火星 火星 [huo3 xing1] {fo2 sing1} /Mars/
-火柴盒 火柴盒 [huo3 chai2 he2] {fo2 caai4 hap2} /matchbox/
-火棒 火棒 [huo3 bang4] {fo2 paang5} /a lighted torch/
-火氣 火气 [huo3 qi4] {fo2 hei3} /bad temper/
-火水 火水 [huo3 shui3] {fo2 seoi2} /(noun) kerosene; paraffin oil/
-火水燈 火水灯 [huo3 shui3 deng1] {fo2 seoi2 dang1} /oil lamp/
-火水爐 火水炉 [huo3 shui3 lu2] {fo2 seoi2 lou4} /kerosene cooking stove/
-火海 火海 [huo3 hai3] {fo2 hoi2} /(noun - figurative meaning) extreme danger/
-火滾 火滚 [huo3 gun3] {fo2 gwan2} /(adjective) infuriating; maddening; angry; pissed off; irate/
-火炬計劃 火炬计划 [Huo3 ju4 ji4 hua4] {fo2 geoi6 gai3 waak6} /the China Torch Program (a plan to develop new and advanced technology)/
-火炭 火炭 [huo3tan4] {fo2 taan3} /(noun) 1. Fo Tan, which is an industry area in Shatin, Hong Kong; 2.  Fo Tan, which is a MTR station of East Rail Line/
-火焰木 火焰木 [huo3 yan4 mu4] {fo2 jim6 muk6} /African tulip tree / fountain tree / pichkari / Nandi flame (Spathodea campanulata)/
-火燄 火焰 [huo3 yan4] {fo2 jim6} /flame; blaze/
-火燒眼眉 火烧眼眉 [huo3 shao5 yan3 mei2] {fo2 siu1 ngaan5 mei4} /(Cantonese analogy - figurative meaning) danger is right in front of someone/
+火柴盒 火柴盒 [huo3 chai2 he2] {fo2 caai4 hap2} /boîte d'allumettes/
+???? 火棒 火棒 [huo3 bang4] {fo2 paang5} /(acrobatics) a lighted torch/
+火氣 火气 [huo3 qi4] {fo2 hei3} /(médecine traditionelle chinoise) chaleur interne/mauvais caractère/
+火水 火水 [huo3 shui3] {fo2 seoi2} /(lampes) kérosène; pétrole/
+火水燈 火水灯 [huo3 shui3 deng1] {fo2 seoi2 dang1} /lampe au pétrole; lampe au kérosène/
+火水爐 火水炉 [huo3 shui3 lu2] {fo2 seoi2 lou4} /réchaud à pétrole/
+???? 火海 火海 [huo3 hai3] {fo2 hoi2} /brasier/(noun - figurative meaning) extreme danger/
+火滾 火滚 [huo3 gun3] {fo2 gwan2} /furieux; enragé; déchaîné/
+火炬計劃 火炬计划 [huo3 ju4 ji4 hua4] {fo2 geoi6 gai3 waak6} /programme Torch de la Chine; programme de la République populaire de la Chine visant à promouvoir le développement en technolgie/
+火炭 火炭 [huo3 tan4] {fo2 taan3} /Fo Tan, région dans le district de Sha Tin à Hong Kong/Fo Tan, ligne du métro de Hong Kong/
+火焰木 火焰木 [huo3 yan4 mu4] {fo2 jim6 muk6} /tulipier du Gabon, espèce d'arbres originaire d'Afrique/
+火燄 火焰 [huo3 yan4] {fo2 jim6} /flamme/feu/
+火燒眼眉 火烧眼眉 [huo3 shao5 yan3 mei2] {fo2 siu1 ngaan5 mei4} /(fig.) situation dangereuse; situation urgente; situation critique/(lit.) feu brûle les sourcils/
 火燭 火烛 [huo3 zhu2] {fo2 zuk1} /incendie/prendre feu/risque d'incendie/
 火燭車 火烛车 [huo3 zhu2 che1] {fo2 zuk1 ce1} /camion de pompier/
 火燭鬼 火烛鬼 [huo3 zhu2 gui3] {fo2 zuk1 gwai2} /(fam.) pompier/
 火爐 火炉 [huo3 lu2] {fo2 lou4} /cuisinière; réchaud/cheminée; âtre/
-火牛 火牛 [huo3 niu2] {fo2 ngau4} /(noun) an AC adaptor; an electric transformer; an electrical ballast/
-火石洲 火石洲 [huo3 shi2 zhou1] {fo2 sek6 zau1} /Basalt Island, in Hong Kong/
-火紅火綠 火红火绿 [huo3 hong2 huo5 lü4] {fo2 hung4 fo2 luk6} /blazing with anger/
-火罐 火罐 [huo3 guan4] {fo2 gun3} /fire cupping/
-火船 火船 [huo3 chuan2] {fo2 syun4} /fire ship/
+火牛 火牛 [huo3 niu2] {fo2 ngau4} /transformateur électrique/adaptateur secteur; adaptateur CA/chargeur (de téléphone, d'ordinateur portable)/(électricité) ballast/(ordinateur) bloc d'alimentation; PSU/
+火石洲 火石洲 [huo3 shi2 zhou1] {fo2 sek6 zau1} /Basalt Island (« île de basalte »), île de Hong Kong/
+火紅火綠 火红火绿 [huo3 hong2 huo5 lu:4] {fo2 hung4 fo2 luk6} /(expr. idiom.) rouge de colère/(lit.) feu rouge feu vert/
+火罐 火罐 [huo3 guan4] {fo2 gun3} /(médecine traditionelle chinoise) ventouse/
+火罐兒 火罐儿 [huo3 guan4 er5] {fo2 gun3 ji4} /(médecine traditionelle chinoie) ventouse/
+火船 火船 [huo3 chuan2] {fo2 syun4} /brûlot/bateau à vapeur/
 火葬 火葬 [huo3 zang4] {fo2 zong3} /crémation/
-火藥味 火药味 [huo3 yao4 wei4] {fo2 joek6 mei6} /the smell of gunpowder; a sense of tension during a heated argument/
+火藥味 火药味 [huo3 yao4 wei4] {fo2 joek6 mei6} /l'odeur de la poudre à canon/(fig.) aggressif; chercher la confrontation; belliqueux/
 火起 火起 [huo3 qi3] {fo2 hei2} /(verb / adjective) to get angry; to get pissed off; to get irritated; to be annoyed/
 火路 火路 [huo3 lu4] {fo2 lou6} /(noun) fire shaft/
-火車未到站 火车未到站 [huo3 che1 wei4 dao4 zhan4] {fo2 ce1 mei6 dou3 zaam6} /(noun) Train not yet arrives the station/
-火車站 火车站 [huo3 che1 zhan4] {fo2 ce1 zaam6} /railway station/
-火車軌 火车轨 [huo3 che1 gui3] {fo2 ce1 gwai2} /train track; railway track/
+火車未到站 火车未到站 [huo3 che1 wei4 dao4 zhan4] {fo2 ce1 mei6 dou3 zaam6} /(fig.) avoir la braguette ouverte/(lit.) «le train n'est pas encore arrivé à la station »/
+火車站 火车站 [huo3 che1 zhan4] {fo2 ce1 zaam6} /gare; station de train/
+火車軌 火车轨 [huo3 che1 gui3] {fo2 ce1 gwai2} /voie ferrée/
 火遮眼 火遮眼 [huo3 zhe1 yan3] {fo2 ze1 ngaan5} /describes a person who is blinded by their emotions (especially when angry or agitated) and as a result has done something (such as acted aggressively or said something which is hurtful to others) which he/she didn't mean to do; to be in a moment of anger; to get into a sudden fit of anger/
 火酒 火酒 [huo3 jiu3] {fo2 zau2} /isoproyl alcohol/
 火鉤子 火钩子 [huo3 gou1 zi5] {fo2 ngau1 zi2} /fire stick; fire poker/
@@ -12684,16 +12685,16 @@
 火鑽 火钻 [huo3 zuan4 ] {fo2 zyun3} /(noun) a diamond/
 火頭 火头 [huo3 tou2] {fo2 tau4} /(noun) a chef/
 火頭軍 火头军 [huo3 tou2 jun1] {fo2 tau4 gwan1} /an army cook/
-火頸 火颈 [huo3 jing3] {fo2 geng2} /(adjective) prone to anger; easily angered; hot-tempered/
+火頸 火颈 [huo3 jing3] {fo2 geng2} /irasible; coléreux/
 火麒麟 火麒麟 [huo3 qi2 lin2] {fo2 kei4 leon4} /Sensual Unicorn Magazine, a Hong Kong adult magazine/
 火麻仁 火麻仁 [huo3 ma2 ren2] {fo2 maa4 jan4} /(food) Cannabis seed herbal tea/
-灰 灰 [hui1] {fui1} /sad; feeling down; hopeless/
+灰 灰 [hui1] {fui1} /triste; découragé; démoralisé/
 灰匙 灰匙 [hui1 chi2] {fui1 ci4} /a trowel for plastering/
-灰士 灰士 [hui1 shi4] {fiu1 si2} /(noun) fuse/
+灰士 灰士 [hui1 shi4] {fiu1 si2} /(électrique) fusible/(orig.) de l'anglais « fuse » (« fusible »)/
 灰心 灰心 [hui1 xin1] {fui1 sam1} /(adjective)  Disheartened/
 灰斗 灰斗 [hui1 dou3] {fui1 dau3} /an ash bucket; an ash hopper; an ashtray/
-灰水 灰水 [hui1 shui3] {fui1 seoi2} /grey paint/
-灰鼠 灰鼠 [hui1 shu3] {fui1 syu2} /a squirrel/
+灰水 灰水 [hui1 shui3] {fui1 seoi2} /soude; soude caustique/eau grise/peinture grise/
+灰鼠 灰鼠 [hui1 shu3] {fui1 syu2} /écureil (gris)/
 灶窟 灶窟 [zao4 ku1] {zou3 fat1} /stovetop burner/
 灶蝦 灶虾 [zao4 xia1] {cou3 haa1} /(insect) a kind of crickets/
 灶頭 灶头 [zao4 tou5] {zou3 tau4} /(noun) Stoves; kitchen ranges/
