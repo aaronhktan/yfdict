@@ -12664,7 +12664,7 @@
 火燭 火烛 [huo3 zhu2] {fo2 zuk1} /incendie/prendre feu/risque d'incendie/
 火燭車 火烛车 [huo3 zhu2 che1] {fo2 zuk1 ce1} /camion de pompier/
 火燭鬼 火烛鬼 [huo3 zhu2 gui3] {fo2 zuk1 gwai2} /(fam.) pompier/
-火爐 火炉 [huo3 lu2] {fo2 lou4} /cuisinière; réchaud/cheminée; âtre/
+火爐 火炉 [huo3 lu2] {fo2 lou4} /cuisinière; fourneau de cuisine/réchaud/cheminée; âtre/
 火牛 火牛 [huo3 niu2] {fo2 ngau4} /transformateur électrique/adaptateur secteur; adaptateur CA/chargeur (de téléphone, d'ordinateur portable)/(électricité) ballast/(ordinateur) bloc d'alimentation; PSU/
 火石洲 火石洲 [huo3 shi2 zhou1] {fo2 sek6 zau1} /Basalt Island (« île de basalte »), île de Hong Kong/
 火紅火綠 火红火绿 [huo3 hong2 huo5 lu:4] {fo2 hung4 fo2 luk6} /(expr. idiom.) rouge de colère/(lit.) feu rouge feu vert/
@@ -12673,32 +12673,32 @@
 火船 火船 [huo3 chuan2] {fo2 syun4} /brûlot/bateau à vapeur/
 火葬 火葬 [huo3 zang4] {fo2 zong3} /crémation/
 火藥味 火药味 [huo3 yao4 wei4] {fo2 joek6 mei6} /l'odeur de la poudre à canon/(fig.) aggressif; chercher la confrontation; belliqueux/
-火起 火起 [huo3 qi3] {fo2 hei2} /(verb / adjective) to get angry; to get pissed off; to get irritated; to be annoyed/
-火路 火路 [huo3 lu4] {fo2 lou6} /(noun) fire shaft/
+火起 火起 [huo3 qi3] {fo2 hei2} /se mettre en colère; se fâcher/
+???? 火路 火路 [huo3 lu4] {fo2 lou6} /(noun) fire shaft/
 火車未到站 火车未到站 [huo3 che1 wei4 dao4 zhan4] {fo2 ce1 mei6 dou3 zaam6} /(fig.) avoir la braguette ouverte/(lit.) «le train n'est pas encore arrivé à la station »/
 火車站 火车站 [huo3 che1 zhan4] {fo2 ce1 zaam6} /gare; station de train/
 火車軌 火车轨 [huo3 che1 gui3] {fo2 ce1 gwai2} /voie ferrée/
-火遮眼 火遮眼 [huo3 zhe1 yan3] {fo2 ze1 ngaan5} /describes a person who is blinded by their emotions (especially when angry or agitated) and as a result has done something (such as acted aggressively or said something which is hurtful to others) which he/she didn't mean to do; to be in a moment of anger; to get into a sudden fit of anger/
-火酒 火酒 [huo3 jiu3] {fo2 zau2} /isoproyl alcohol/
-火鉤子 火钩子 [huo3 gou1 zi5] {fo2 ngau1 zi2} /fire stick; fire poker/
-火鐮 火镰 [huo3 lian2] {fo2 lim4} /a flint cutter for creating sparks/
-火鑽 火钻 [huo3 zuan4 ] {fo2 zyun3} /(noun) a diamond/
-火頭 火头 [huo3 tou2] {fo2 tau4} /(noun) a chef/
-火頭軍 火头军 [huo3 tou2 jun1] {fo2 tau4 gwan1} /an army cook/
+火遮眼 火遮眼 [huo3 zhe1 yan3] {fo2 ze1 ngaan5} /(expr. idiom.) voir rouge; colère aveugle; fureur/(lit.) feu couvrant les yeux/
+火酒 火酒 [huo3 jiu3] {fo2 zau2} /alcool (isopropylique)/
+火鉤子 火钩子 [huo3 gou1 zi5] {fo2 ngau1 zi2} /tisonnier/
+火鐮 火镰 [huo3 lian2] {fo2 lim4} /morceau d'acier (pour frapper contre le silex pour produire du feu)/
+???? 火鑽 火钻 [huo3 zuan4] {fo2 zyun3} /(noun) a diamond/ruby/
+火頭 火头 [huo3 tou2] {fo2 tau4} /(personne) perturbateur; cause de problèmes/flamme/contrôle de la température (cuisinière, fourneau, chaudière, etc.)/colère/cuisinier; chef cuisinier/incendiaire; personne qui cause une incendie/propriétaire d'une maison qui a pris feu/
+火頭軍 火头军 [huo3 tou2 jun1] {fo2 tau4 gwan1} /cuisinier de l'armée/cuisinier; chef cuisinier/
 火頸 火颈 [huo3 jing3] {fo2 geng2} /irasible; coléreux/
-火麒麟 火麒麟 [huo3 qi2 lin2] {fo2 kei4 leon4} /Sensual Unicorn Magazine, a Hong Kong adult magazine/
-火麻仁 火麻仁 [huo3 ma2 ren2] {fo2 maa4 jan4} /(food) Cannabis seed herbal tea/
+火麒麟 火麒麟 [huo3 qi2 lin2] {fo2 kei4 leon4} /Sensual Unicorn Magazine, magazine hongkongais de fiction érotique/
+火麻仁 火麻仁 [huo3 ma2 ren2] {fo2 maa4 jan4} /graine de chanvre; chènevis/
 灰 灰 [hui1] {fui1} /triste; découragé; démoralisé/
-灰匙 灰匙 [hui1 chi2] {fui1 ci4} /a trowel for plastering/
+灰匙 灰匙 [hui1 chi2] {fui1 ci4} /(outil) truelle/
 灰士 灰士 [hui1 shi4] {fiu1 si2} /(électrique) fusible/(orig.) de l'anglais « fuse » (« fusible »)/
-灰心 灰心 [hui1 xin1] {fui1 sam1} /(adjective)  Disheartened/
-灰斗 灰斗 [hui1 dou3] {fui1 dau3} /an ash bucket; an ash hopper; an ashtray/
+灰心 灰心 [hui1 xin1] {fui1 sam1} /découragé; démoralisé/
+灰斗 灰斗 [hui1 dou3] {fui1 dau3} /(outil) trémie à cendre/
 灰水 灰水 [hui1 shui3] {fui1 seoi2} /soude; soude caustique/eau grise/peinture grise/
 灰鼠 灰鼠 [hui1 shu3] {fui1 syu2} /écureil (gris)/
-灶窟 灶窟 [zao4 ku1] {zou3 fat1} /stovetop burner/
-灶蝦 灶虾 [zao4 xia1] {cou3 haa1} /(insect) a kind of crickets/
-灶頭 灶头 [zao4 tou5] {zou3 tau4} /(noun) Stoves; kitchen ranges/
-灼 灼 [zhuo2] {zoek3} /to boil/
+???? 灶窟 灶窟 [zao4 ku1] {zou3 fat1} /stovetop burner/
+灶蝦 灶虾 [zao4 xia1] {cou3 haa1} /Rhaphidophoridae; sauterelles cavernicoles/ 
+灶頭 灶头 [zao4 tou5] {zou3 tau4} /cuisinière; fourneau de cuisine/
+灼 灼 [zhuo2] {zoek3} /bouillir/faire cuire à l'eau; faire bouillir/
 灼低 灼低 [zhuo2 di1] {coek3 dai1} /(verb) shoot down; bring down/
 灼傷 灼伤 [zhuo2 shang1] {coek3 soeng1} /injuries from burn; scorch/
 災瘟 灾瘟 [zai1 wen1] {zoi1 wan1} /a plague; a pestilent/
@@ -12709,15 +12709,15 @@
 炒友 炒友 [chao3 you3] {caau2 jau5} /speculator in stock market or any investments/
 炒埋一碟 炒埋一碟 [chao3 mai2 yi4 die2] {caau2 maai4 jat1 dip6} /gather; combine (spoken)/
 炒樓 炒楼 [chao3 lou2] {caau2 lau4} /property speculation/
-炒河 炒河 [chao3 he2] {caau2 ho2} /(food) stir-fried rice noodles/
+炒河 炒河 [chao3 he2] {caau2 ho2} /shahe fen; nouilles à base de riz chinoises/
 炒燶 炒㶶 [chao3 nong2] {caau2 nung1} /making a loss in the stock market or any investments/
-炒米粉 炒米粉 [chao3 mi3 fen3] {caau2 mai5 fan2} /fried rice noodles/
+炒米粉 炒米粉 [chao3 mi3 fen3] {caau2 mai5 fan2} /shahe fen; nouilles à base de riz chinoises/
 炒米餅 炒米饼 [chao3 mi3 bing3] {caau2 mai5 beng2} /(food) stir-fried rice crackers; stir-fried rice cookies/
-炒粉 炒粉 [chao3 fen3] {caau2 fan2} /(food) stir-fried rice noodles/
+炒粉 炒粉 [chao3 fen3] {caau2 fan2} /shahe fen; nouilles à base de riz chinoises/
 炒粿條 炒粿条 [chao3 guo3 tiao2] {caau2 gwo2 tiu4} /char kway teow, a noodle dish from Malaysia/
 炒老板魷魚 炒老板鱿鱼 [chao3 lao3 ban3 you2 yu2] {caau2 lou5 baan2 jau4 jyu2} /to quit a job/
 炒老細魷魚 炒老细鱿鱼 [chao3 lao3 xi4 you2 yu2] {caau2 lou5 sai3 jau4 jyu2} /quit from a job (slang)/
-炒菜鏟 炒菜铲 [chao3 cai5 chan3] {caau2 coi3 caan2} /a cooking spatula/
+炒菜鏟 炒菜铲 [chao3 cai5 chan3] {caau2 coi3 caan2} /spatule de cuisine/
 炒蝦拆蟹 炒虾拆蟹 [chao3 xia1 chai1 xie4] {caau2 haa1 caak3 haai5} /to swear; foul-mouthed/
 炒貴刁 炒贵刁 [chao3 gui4 diao1] {caau2 gwai3 diu1} /char kway teow, type of stir-fried rice noodle/
 炒買炒賣 炒买炒卖 [chao3 mai3 chao3 mai4] {caau2 maai5 caau2 maai6} /speculation/
