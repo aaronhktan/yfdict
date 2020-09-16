@@ -10602,6 +10602,7 @@
 有得 有得 [you3 de2] {jau5 dak1} /avoir/pouvoir (faire quelque chose), avoir l'occasion (de faire quelque chose)/
 有心唔怕遲 有心唔怕迟 [you3 xin1 m2 pa4 chi2] {jau5 sam1 m4 paa3 ci4} /(expr. idiom.) il n'est jamais trop tard pour essayer/(lit.) si tu as la volonté, n'aies pas peur d'être en retard/
 有心無力 有心无力 [you3 xin1 wu2 li4] {jau5 sam1 mou4 lik6} /(expr. idiom.) avoir la volonté mais pas les moyens de faire quelque chose/(lit.) avoir le coeur mais pas la force/
+有心栽花花不開 有心栽花花不开 [you3 xin1 zai1 hua1 hua1 bu4 kai1] {jau5 sam1 zoi1 faa1 faa1 bat1 hoi1} /(expr. idiom.) quelque chose que l'on dépense beaucoup d'énergie ou temps à faire ne donne pas toujours les résultats escomptés/(lit.) passer son temps à faire pousser des fleurs, mais les fleurs ne s'épanouissent pas/
 有怪莫怪 有怪莫怪 [you3 guai4 mo4 guai4] {jau5 gwaai3 mok6 gwaai3} /excusez-le/ne le prenez pas mal, mais... ne soyez pas offensé.../
 有意栽花花不發，無心插柳柳成蔭 有意栽花花不发，无心插柳柳成荫 [you3 yi4 zai1 hua1 hua1 bu4 fa1 , wu2 xin1 cha1 liu3 liu3 cheng2 yin4] {jau5 ji3 zoi1 faa1 faa1 bat1 faat3 mou4 sam1 caap3 lau5 lau5 sing4 jam3} /(expr. idiom.) tout déroule pas toujours comme prévu/(lit.) planter une fleur avec soin qui ne s'épanouit pas, planter un saule avec négligence qui fera de l'ombre/
 有慢 有慢 [you3 man4] {jau5 maan6} /(utilisé dans les formules de politesse, à la fin d'une soirée, dit par un hôte à un invité) (désolé si nous ne vous avions pas) servi dans le temps prévu/ 
@@ -12849,52 +12850,52 @@
 無孔不入 无孔不入 [wu2 kong3 bu4 ru4] {mou4 hung2 bat1 jap6} /(expr. idiom.) omniprésent/(lit.) n'y avoir aucun trou qu'il ne rentre pas dedans/
 無家教 无家教 [wu2 jia1 jiao4] {mou5 gaa1 gaau3} /(personne) mal élevé; malappris/
 無得彈 无得弹 [wu2 dei3 dan4] {mou5 dak1 daan2} /parfait; impeccable/
-無心插柳柳成蔭 无心插柳柳成荫 [wu2 xin1 cha1 liu3 liu3 cheng2 yin4] {mou4 sam1 caap3 lau5 lau5 sing4 jam3} /to reap unexpected rewards from an one's unintentional actions/
-無心裝載 无心装载 [wu2 xin1 zhuang1 zai4] {mou4 sam1 zong1 zoi3} /unintentionally/
+無心插柳柳成蔭 无心插柳柳成荫 [wu2 xin1 cha1 liu3 liu3 cheng2 yin4] {mou4 sam1 caap3 lau5 lau5 sing4 jam3} /(expr. idiom.) bénéficier de ses actions d'une manière inattendue; obtenir de résultats inattendus/(lit.) planter un saule sans soin, le saule fournit de l'ombre/(voir aussi 有心栽花花不開|有心栽花花不开)/
+無心裝載 无心装载 [wu2 xin1 zhuang1 zai4] {mou4 sam1 zong1 zoi3} /distrait; inattentif; étourdi/
 無情白事 无情白事 [wu2 qing2 bai2 shi4] {mou4 cing4 baak6 si6} /sans raison; sans aucune raison/
-無情雞 无情鸡 [wu2 qing2 ji1] {mou4 cing4 gai1} /a pink slip (historically, at the last official dinner banquet before Chinese New Year, if the boss gives an employee a piece of chicken it is a hint that he / she will soon receive a letter of dismissal)/
-無意 无意 [wu2yi4] {mou4 ji3} /(verb) Not mean to; (adverb) 1. Unintentionally /
-無憑無據 无凭无据 [wu2 ping2 wu2 ju4] {mou4 pang4 mou4 geoi3} /groundless; unsupported by evidence/
+無情雞 无情鸡 [wu2 qing2 ji1] {mou4 cing4 gai1} /(fig.) lettre de licenciement/(fig.) être licencié; renvoyé; viré/(lit.) poulet impitoyable/(orig.) lors d'un banquet du Nouvel An, si le patron donne un morceau de poulet à un employé, ou il oriente le bec du poulet vers un employé, cela signifie que cet employé-là sera bientôt licencié/
+無意 无意 [wu2 yi4] {mou4 ji3} /involontairement; sans le faire exprès/
+無憑無據 无凭无据 [wu2 ping2 wu2 ju4] {mou4 pang4 mou4 geoi3} /infondé; pas étayé par les faits/
 無所畏懼 无所畏惧 [wu2 suo3 wei4 ju4] {mou4 so2 wai3 geoi6} /brave; courageux; intrépide/
-無所遁形 无所遁形 [wu2 suo3 dun4 xing2] {mou4 so2 deon6 jing4} /(verb) have no way to flee away or no place to hide/
-無拘束 无拘束 [wu2 ju1 shu4] {mou4 keoi1 cuk1} /unconstrained; unrestrained; unfettered/
-無損 无损 [wu2 sun3] {mou4 syun2} /no harm done; no damage; no loss/
-無政府狀態 无政府状态 [wu2 zheng4 fu3 zhuang4 tai4] {mou4 zing3 fu2 zong6 taai3} /anarchy/
-無方 无方 [wu2 fang1] {mou4 fong1} /not having an effective way of doing something; not knowing how to do something/
-無機化合物 无机化合物 [wu2 ji1 hua4 he2 wu4] {mou4 gei1 faa3 hap6 mat6} /an inorganic compound/
-無止境 无止境 [wu2 zhi3 jing4] {mou4 zi2 ging2} /(verb) something is unlimited, have no limits; never end; indefinite/
-無比 无比 [wu2 bi3] {mou4 bei2} /1. very 2. extremely/
-無涯 无涯 [wu2 ya2] {mou4 ngaai4} /without limits; no bounds/
-無濟於事 无济于事 [wu2ji4yu2shi4] {mou4 zai3 jyu1 si6} /(adjective) 1. Useless; 2. Unhelpful/
-無無端端 无无端端 [wu2 wu2 duan1 duan1] {mou4 mou4 dyun1 dyun1} /(adverb) unreasonably; suddenly; unexpectedly/
-無無聊聊 无无聊聊 [wu2 wu2 liao2 liao5] {mou4 mou4 liu4 liu4} /(adjective) idle; bored; fed up; sluggish/
+???? 無所遁形 无所遁形 [wu2 suo3 dun4 xing2] {mou4 so2 deon6 jing4} /n'avoir aucun endroit où se cacher/
+無拘束 无拘束 [wu2 ju1 shu4] {mou4 keoi1 cuk1} /libre; non contraint/
+無損 无损 [wu2 sun3] {mou4 syun2} /indemne; sain et sauf/inoffensif; qui ne fait pas de mal/intact; non endommagé/
+無政府狀態 无政府状态 [wu2 zheng4 fu3 zhuang4 tai4] {mou4 zing3 fu2 zong6 taai3} /anarchie/
+無方 无方 [wu2 fang1] {mou4 fong1} /inapproprié; inadéquat; mauvaise façon (de faire quelque chose)/
+無機化合物 无机化合物 [wu2 ji1 hua4 he2 wu4] {mou4 gei1 faa3 hap6 mat6} /composé inorganique/
+無止境 无止境 [wu2 zhi3 jing4] {mou4 zi2 ging2} /illimité; sans limites/
+無比 无比 [wu2 bi3] {mou4 bei2} /très; extrêmement/sans pareil; sans égal/
+無涯 无涯 [wu2 ya2] {mou4 ngaai4} /sans limites/
+無濟於事 无济于事 [wu2 ji4 yu2 shi4] {mou4 zai3 jyu1 si6} /inutil/d'aucune aide; d'aucun secours/
+無無端端 无无端端 [wu2 wu2 duan1 duan1] {mou4 mou4 dyun1 dyun1} /sans raison; sans aucune raison/tout d'un coup; tout à coup; soudainement; soudain/de manière inattendue/
+???? 無無聊聊 无无聊聊 [wu2 wu2 liao2 liao5] {mou4 mou4 liu4 liu4} /(adjective) idle; bored; fed up; sluggish/
 無理由 无理由 [wu2 li3 you2] {mou5 lei5 jau4} /sans raison/insensé; illogique/comment est-ce possible? comment se peut-il? comment ça se fait?/(fig.) impossible/
 無畏 无畏 [wu2 wei4] {mou4 wai3} /courageux; audacieux/
 無畏號 无畏号 [wu2 wei4 hao4] {mou4 wai3 hou6} /USS Intrepid, porte-avions de l'United States Navy/
-無癮 无瘾 [wu2 yin3] {mou5 jan5} /killjoy; bummed/
+???? 無癮 无瘾 [wu2 yin3] {mou5 jan5} /killjoy; bummed/pointless; boring; uninteresting/
 無知 无知 [wu2 zhi1] {mou4 zi1} /ignorant/crédule/(personne) simple/
 無神神 无神神 [wu2 shen2 shen2] {mou4 san4 san4} /(adjective) silly; unprovoked; surprise with no reason/
 無私顯見私 无私显见私 [wu2 si1 xian3 jian4 si1] {mou4 si1 hin2 gin3 si1} /(Cantonese analogy - figurative meaning) to show/unveil someone hiding intentions/
 無端白事 无端白事 [wu2 duan1 bai2 shi4] {mou4 dyun1 baak6 si6} /(slang) for nothing; for no reason at all; totally uncalled-for/
 無米之炊 无米之炊 [wu2 mi3 zhi1 chui1] {mou4 mai5 zi1 ceoi1} /(idiom) saying someone must have some essentials to complete a task such as a sophisticated housewife is unable to cook rice without rice-ingredient/
-無綫 无綫 [wu2 xian4] {mou4 sin3} /wireless/
-無線上網 无线上网 [wu2 xian4 shang4 wang3] {mou4 sin3 soeng5 mong5} /wireless internet/
-無線電 无线电 [wu2 xian4 dian4] {mou4 sin3 din6} /radio (as in transmission)/
+無綫 无綫 [wu2 xian4] {mou4 sin3} /sans fil/
+無線上網 无线上网 [wu2 xian4 shang4 wang3] {mou4 sin3 soeng5 mong5} /wi-fi; wifi/
+無線電 无线电 [wu2 xian4 dian4] {mou4 sin3 din6} /(technologie) sans fil; sans cordon/
 無線電傳呼機 无线电传呼机 [wu2 xian4 dian4 chuan2 hu1 ji1] {mou4 sin3 din6 cyun4 fu1 gei1} /a radio pager; a bleeper/
-無線電台 无线电台 [wu2 xian4 dian4 tai2] {mou4 sin3 din6 toi4} /a radio station/
-無線電報 无线电报 [wu2 xian4 dian4 bao4] {mou4 sin3 din6 bou3} /radiotelegraph; radiotelegram/
+無線電台 无线电台 [wu2 xian4 dian4 tai2] {mou4 sin3 din6 toi4} /station de radio/
+無線電報 无线电报 [wu2 xian4 dian4 bao4] {mou4 sin3 din6 bou3} /radiotélégraphe; radiotélégramme/
 無線電視 无线电视 [wu2 xian4 dian4 shi4] {mou4 sin3 din6 si6} /(TV Channel) Television Broadcasts Limited, commonly known as TVB/
 無線電視翡翠台 无线电视翡翠台 [wu2 xian4 dian4 shi4 fei3 cui4 tai2] {mou4 sin3 din6 si6 fei2 ceoi3 toi4} /TVB Jade, a television channel in Hong Kong/
-無聊 无聊 [wu2 liao2] {mou4 liu4} /(noun)  nonsense/
+無聊 无聊 [wu2 liao2] {mou4 liu4} /bêtises; du n'importe quoi/
 無聊賴 无聊赖 [wu2 liao2 lai4] {mou4 liu4 laai6} /to be utterly bored; to not have any sustenance; spiritual void/
 無聲狗 无声狗 [wu2 sheng1 gou3] {mou4 seng1 gau2} /(noun) soundless, quiet or silent dogs/
 無聲狗咬死人 无声狗咬死人 [wu2 sheng1 gou3 yao3 si3 ren2] {mou4 seng1 gau2 ngaau5 sei2 jan4} /(Cantonese analogy- figurative meaning) a soundless dog will bite someone to death/
 無胃口 无胃口 [wu2 wei4 kou3] {mou4 wai6 hau2} /(adjective) no appetite/
-無腰骨 无腰骨 [wu2 yao1 gu3] {mou4 jiu1 gwat1} /to describe someone as spineless/
+無腰骨 无腰骨 [wu2 yao1 gu3] {mou4 jiu1 gwat1} /lâche; couard/
 無膽匪類 无胆匪类 [wu2 dan3 fei3 lei4] {mou4 daam2 fei2 leoi6} /gutless; a coward/
-無花植物 无花植物 [wu2 hua1 zhi2 wu4] {mou4 faa1 zik6 mat6} /non-flowering plant/
+無花植物 无花植物 [wu2 hua1 zhi2 wu4] {mou4 faa1 zik6 mat6} /plante non-florifère/
 無補於事 无补于事 [wu2 bu3 yu2 shi4] {mou4 bou2 jyu1 si6} /to no avail/
-無論如何 无论如何 [wu2lun4ru2he2] {mou4 leon6 jyu4 ho4} /(adverb phrase) No matter what/
+無論如何 无论如何 [wu2 lun4 ru2 he2] {mou4 leon6 jyu4 ho4} /(adverb phrase) No matter what/
 無賴 无赖 [wu2 lai4] {mou4 laai2} /unreasonable (Cantonese)/
 無釐頭 无釐头 [wu2 lai4 tou2] {mou4 lei4 tau4} /(adjective) nonsensical; illogical/
 無間道 无间道 [wu2 jian4 dao4] {mou4 gaan3 dou6} /(Movie) Infernal Affairs; or (noun) undercover cops/
