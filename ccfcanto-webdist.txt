@@ -40,7 +40,7 @@
 一份 一份 [yi1 fen4] {jat1 fan6} /(classificateur) une portion/
 一住 一住 [yi1 zhu4] {jat1 zyu6} /vivre dans/
 一來到 一来到 [yi1 lai2 dao4] {jat1 lei4 dou3} /dès l'arrivée (de quelqu'un)/
-一便 一便 [yi1 bian4] {jat1 bin6} /à part/lorsque/
+一便 一便 [yi1 bian4] {jat1 bin6} /à part; séparément/lorsque/
 一係 一系 [yi1 xi4] {jat1 hai6} /ni l'un ni l'autre/l'un ou l'autre, aussi/(pour faire une suggestion) « qu'en est-il de... » ou « pourquoi pas… »/
 一個 一个 [yi1 ge5] {jat1 go3} /un, une/
 一個一個 一个一个 [yi1 ge5 yi1 ge5] {jat1 go3 jat1 go3} /un par un/
@@ -822,7 +822,7 @@
 之先 之先 [zhi1 xian1] {zi1 sin1} /il y a longtemps; jadis/droit devant/
 之嘛 之嘛 [zhi1 ma5] {zi1 maa3} /(particule modale utilisée pour démontrer l'insignifiance de quelque chose dit, comme « c'est juste... », « ce n'est que », « ..., c'est tout. »)/
 之字線 之字线 [zhi1 zi4 xian4] {zi1 zi6 sin3} /zigzag/
-之餘 之余 [zhi1 yu2] {zi1 jyu4} /sauf... (quelque chose); à part... (quelque chose)/
+之餘 之余 [zhi1 yu2] {zi1 jyu4} /sauf...; à part...; hormis (quelque chose)/
 尹光 尹光 [yin3 guang1] {wan5 gwong1} /Jackson Wan Kwong, une chanteuse hongkongaise/
 尹天照 尹天照 [yin3 tian1 zhao4] {wan5 tin1 ziu3} /Eric Wan Tin-Chiu, un acteur hongkongais/
 尹揚明 尹扬明 [yin3 yang2 ming2] {wan5 joeng4 ming4} /Vincent Wan Yeung-Ming, un acteur hongkongais/
@@ -12898,53 +12898,53 @@
 無論如何 无论如何 [wu2 lun4 ru2 he2] {mou4 leon6 jyu4 ho4} /quoi qu'il arrive/
 無賴 无赖 [wu2 lai4] {mou4 laai2} /voyou; canaille; fripouille/peu fiable; peu digne de confiance/
 無釐頭 无釐头 [wu2 lai4 tou2] {mou4 lei4 tau4} /illogique; incohérent/
-無間道 无间道 [wu2 jian4 dao4] {mou4 gaan3 dou6} /(Movie) Infernal Affairs; or (noun) undercover cops/
-無關大局 无关大局 [wu2 guan1 da4 ju2] {mou4 gwaan1 daai6 guk6} /have no bearing on the overall situation; of little account/
-無關大體 无关大体 [wu2 guan1 da4 ti3] {mou4 gwaan1 daai6 tai2} /have no bearing on the overall situation; of little account/
+無間道 无间道 [wu2 jian4 dao4] {mou4 gaan3 dou6} /Affaires privées, film américain/policier en civil; policier infiltré/
+無關大局 无关大局 [wu2 guan1 da4 ju2] {mou4 gwaan1 daai6 guk6} /être insignifiant; ne pas avoir beaucoup d'importance/
+無關大體 无关大体 [wu2 guan1 da4 ti3] {mou4 gwaan1 daai6 tai2} /être insignifiant; ne pas avoir beaucoup d'importance/
 無限 无限 [wu2 xian4] {mou4 haan6} /infini/illimité; sans limites/
-無限大 无限大 [wu2 xian4 da4] {mou4 haan6 daai6} /infinitely large/
-無隙可乘 无隙可乘 [wu2 xi4 ke3 cheng2] {mou4 gwik1 ho2 sing4} /(noun) no chance or no loophole to exploit from/
-無頭東宮 无头东宫 [wu2 tou2 dong1 gong1] {mou4 tau4 dung1 gung1} /'Love is Beautiful', a Hong Kong TVB drama/
-無風三尺浪 无风三尺浪 [wu2 feng1 san1 chi3 lang4] {mou4 fung1 saam1 cek3 long6} /(Cantonese analogy - figurative meaning) something happen suddenly without any forewarning/
+無限大 无限大 [wu2 xian4 da4] {mou4 haan6 daai6} /l'infini/infiniment grand/
+無隙可乘 无隙可乘 [wu2 xi4 ke3 cheng2] {mou4 gwik1 ho2 sing4} /aucune faille à exploiter/
+無頭東宮 无头东宫 [wu2 tou2 dong1 gong1] {mou4 tau4 dung1 gung1} /« Love is Beautiful » (« L'amour est beau »), drama historique hongkongais/
+無風三尺浪 无风三尺浪 [wu2 feng1 san1 chi3 lang4] {mou4 fung1 saam1 cek3 long6} /(expr. idiom.) troubles inattendus/(lit.) vagues d'un mètre de haut sans vent/
 焦心 焦心 [jiao1 xin1] {ziu1 sam1} /anxieux; inquiet/
 焫傷 焫伤 [ruo4 shang1] {naat3 soeng1} /être brûlé/être ébouillanté/
 焫嚫 焫嚫 [ruo4 chen4] {naat3 can3} /être brûlé/être ébouillanté/
 焫親 焫亲 [ruo4 qin1] {naat3 can1} /être brûlé/être ébouillanté/
 焫雞 焫鸡 [ruo4 ji1] {naat3 gai1} /fer à souder/
 然之後 然之后 [ran2 zhi1 hou4] {jin4 zi1 hau6} /puis; ensuite; par la suite/
-煮 煮 [zhu3] {zyu2} /(slang)  to maliciously talk/gossip somebody in the back/
-煮到嚟就食 煮到嚟就食 [zhu3 dao4 li2 jiu4 shi2] {zyu2 dou3 lai2 zau6 zi6} /accept whatever's available or given (spoken)/
-煮死 煮死 [zhu3 si3] {zyu2 sei2} /(verb) to accuse someone/
+煮 煮 [zhu3] {zyu2} /cuisiner; faire la cuisine/(fig.) parler dans son dos/(fig.) bizuter/(fig.) donner à quelqu'un du fil à retordre/
+???? 煮到嚟就食 煮到嚟就食 [zhu3 dao4 li2 jiu4 shi2] {zyu2 dou3 lai2 zau6 zi6} /accept whatever's available or given (spoken)/take things as they come; go with the flow/
+煮死 煮死 [zhu3 si3] {zyu2 sei2} /(fig.) piéger quelqu'un/(fig.) accuser quelqu'un/(fig.) attraper un criminel/(lit.) cuire à mort/
 煮菜 煮菜 [zhu3 cai4] {zyu2 coi3} /faire la cuisine; cuisiner/préparer des plats; cuisiner des plats (en général, cette expression s'utilise pour les plats secondaires, par opposition à 煮飯|煮饭, qui s'utilise pour le plat principal - du riz - ainsi que pour les repas en général)/
-煮重米 煮重米 [zhu3 zhong4 mi3] {zyu2 cung5 mai5} /(verb) prepare great meal for guests; or (verb with figurative meaning) to blame; to attack/
+煮重米 煮重米 [zhu3 zhong4 mi3] {zyu2 cung5 mai5} /préparer un grand repas/(fig.) reprocher; accuser; blâmer quelqu'un/(fig.) parler dans son dos/
 煮食 煮食 [zhu3 shi2] {zyu2 sik6} /faire cuire/
 煮食爐 煮食炉 [zhu3 shi2 lu2] {zyu2 sik6 lou4} /cuisinière; fourneau de cuisine/
 煮飯 煮饭 [zhu3 fan4] {zyu2 faan6} /cuisiner; faire la cuisine/faire du riz/
 煮飯仔 煮饭仔 [zhu3 fan4 zi3] {zyu2 faan6 zai2} /cuisiner; faire la cuisine/jouer à la dînette/
 煮飯婆 煮饭婆 [zhu3 fan4 po2] {zyu2 faan6 po4} /femme au foyer; mère au foyer/
 煮餸 煮餸 [zhu3 song4] {zyu2 sung3} /faire la cuisine; cuisiner/
-煮鬼 煮鬼 [zhu3 gui3] {zyu2 gwai2} /(verb) slander someone behind their back/
+煮鬼 煮鬼 [zhu3 gui3] {zyu2 gwai2} /(fig.) parler dans son dos; calomnier/(lit.) cuire un fantôme/
 煮鶴焚琴 煮鹤焚琴 [zhu3 he4 fen2 qin2] {zyu2 hok6 fan4 kam4} /to waste valuable resources; to destroy beautiful things/
 煎堆 煎堆 [jian1 dui1] {zin1 deoi1} /(n.) Jin deui, a deep-fried Chinese pastry - glutinous rice ball coated with white sesame/
 煎釀三寶 煎酿三宝 [jian1 niang4 san1 bao3] {zin1 joeng6 saam1 bou2} /the 'three stuffed treasures', refers to stuffed eggplant, stuffed bell pepper, stuffed bean curd/
-煙 烟 [yan1] {jin1} /(noun)  ace (of cards)/
-煙三文魚 烟三文鱼 [yan1 san1 wen2 yu2] {jin1 saam1 man4 jyu2} /smoked salmon/
-煙仔 烟仔 [yan1 zai3] {jin1 zai2} /(noun) cigarette/
+煙 烟 [yan1] {jin1} /(cartes) as/
+煙三文魚 烟三文鱼 [yan1 san1 wen2 yu2] {jin1 saam1 man4 jyu2} /saumon fumé/
+煙仔 烟仔 [yan1 zai3] {jin1 zai2} /cigarette/
 煙友 烟友 [yan1 you3] {jin1 jau5} /smoking companion; mate (spoken)/
-煙士 烟士 [yan1 shi4] {jin1 si6} /ace of playing cards (spoken)/
-煙子 烟子 [yan1 zi5] {jin1 zai2} /cigarette (spoken)/
-煙屎 烟屎 [yan1 shi3] {jin1 si2} /smokers stain (spoken)/
+煙士 烟士 [yan1 shi4] {jin1 si6} /(cartes) as/
+煙子 烟子 [yan1 zi5] {jin1 zai2} /cigarette/
+煙屎 烟屎 [yan1 shi3] {jin1 si2} /(fig.) taches sur les dents des fumeurs/(cartes) as/(lit.) merde de fumée/
 煙格 烟格 [yan1 ge2] {jin1 gaak3} /a secret place to sell opium / drugs; a designated smoking area/
-煙灰盅 烟灰盅 [yan1 hui1 zhong1] {jin1 fui1 zung1} /an ashtray/
-煙灰碟 烟灰碟 [yan1 hui1 die2] {jin1 fui1 dip2} /an ashtray/
-煙灰罌 烟灰罂 [yan1 hui1 ying1] {jin1 fui1 aang1} /(noun) an ashtray/
-煙絲 烟丝 [yan1 si1] {jin1 si1} /cut tobacco; pipe tobacco; shredded tobacco/
-煙通 烟通 [yan1 tong1] {jin1 tung1} /chimney/
+煙灰盅 烟灰盅 [yan1 hui1 zhong1] {jin1 fui1 zung1} /cendrier/
+煙灰碟 烟灰碟 [yan1 hui1 die2] {jin1 fui1 dip2} /cendrier/
+煙灰罌 烟灰罂 [yan1 hui1 ying1] {jin1 fui1 aang1} /cendrier/
+煙絲 烟丝 [yan1 si1] {jin1 si1} /tabac haché; tabac coupé; tabac à pipe/
+煙通 烟通 [yan1 tong1] {jin1 tung1} /cheminée/
 煙鏟 烟铲 [yan1 chan3] {jin1 caan2} /a heavy smoker; a chain smoker/
 煙韌 烟韧 [yan1 ren4] {jin1 ngan6} /intimate behavior/
 煙骨 烟骨 [yan1 gu3] {jin1 gwat1} /the tobacco leaf stem/
 煞尾科 煞尾科 [sha1 wei3 ke1] {saat3 mei5 fo2} /the end; the epilogue/
-煞掣 煞掣 [sha1 che4] {saat3 zai3} /to use the brakes; brakes (of a car)/
+煞掣 煞掣 [sha1 che4] {saat3 zai3} /freiner/(voiture) freins/
 煞攤 煞摊 [sha1 tan1] {saat3 taan1} /to finish; to end; to conclude; termination; closure/
 煞科 煞科 [sha1 ke1] {saat3 fo1} /finale/
 煞食 煞食 [sha1 shi2] {saat3 sik6} /effective; killer move (spoken)/
