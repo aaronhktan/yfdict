@@ -2263,7 +2263,8 @@
 公仔書 公仔书 [gong1 zai3 shu1] {gung1 zai2 syu1} /(vieilli) bande dessinée/
 公仔箱 公仔箱 [gong1 zai3 xiang1] {gung1 zai2 soeng1} /télévision/
 公仔紙 公仔纸 [gong1 zai3 zhi3] {gung1 zai2 zi2} /jeux de cartes pog chinois, des petites cartes rectangulaires avec des images imprimées dessus/
-公公婆婆 公公婆婆 [gong1 gong5 po2 po5] {gung1 gung1 po4 po4} /grand-père et grand-mère/manière de s'addresser aux personnes âgées/
+公公 公公 [gong1 gong5] {gung4 gung1} /papi; grand-père (en cantonais, ce mot s'emploie uniquement pour le grand-père maternel; voir aussi 爺爺|爷爷)/
+公公婆婆 公公婆婆 [gong1 gong5 po2 po5] {gung1 gung1 po4 po4} /grand-père et grand-mère/employé pour désigner ou s'addresser aux personnes âgées/
 公共場所 公共场所 [gong1 gong4 chang3 suo3] {gung1 gung6 coeng4 so2} /espace publique/
 公共屋邨 公共屋村 [gong1 gong4 wu1 cun1] {gung1 gung6 uk1 cyun1} /quartier de logements sociaux/
 公共廁所 公共厕所 [gong1 gong4 ce4 suo3] {gung1 gung6 ci3 so2} /toilettes publiques/
@@ -13201,51 +13202,51 @@
 爛酒 烂酒 [lan4 jiu3] {laan6 zau2} /alcoolisme; dépendance à l'alcool/
 爛酒佬 烂酒佬 [lan4 jiu3 lao3] {laan6 zau2 lou2} /homme alcoolique/
 爛銅爛鐵 烂铜烂铁 [lan4 tong2 lan4 tie3] {laan6 tung4 laan6 tit3} /ferraille/(lit.) cuivre brisé fer brisé/
-爛頭蟀 烂头蟀 [lan4 tou2 shuai4] {laan6 tau4 seot1} /someone who fights ferociously, especially a gangster; someone who is willing to risk it all despite being in a disadvantaged position/
+爛頭蟀 烂头蟀 [lan4 tou2 shuai4] {laan6 tau4 seot1; laan6 tau4 zeot1} /(fig.) personne qui est difficile à tuer; personne robuste ou résistante/(fig.) une personne qui est prêt à tout risquer/(lit.) criquet sans tête (qui a perdu sa tête dans un combat mais continue à se battre)/
 爛食 烂食 [lan4 shi2] {laan6 sik6} /glouton, gloutonne; gourmand/
 爛飯 烂饭 [lan4 fan4] {laan6 faan6} /riz moelleux; riz tendre/
-爛鬥爛 烂斗烂 [lan4 dou4 lan4] {laan6 dau3 laan6} /cannot be worse than the way it is now; the worst of the worst/
-爛鬼 烂鬼 [lan4 gui3] {laan6 gwai2} /broken; worthless; a hoodlum; a thug/
-𤓓味 𤓓味 [luo2 wei4] {lo3 mei6} /a burnt smell/
-爪 爪 [zhua3] {zaau2} /(d'un animal) serre; patte/
+????c 爛鬥爛 烂斗烂 [lan4 dou4 lan4] {laan6 dau3 laan6} /cannot be worse than the way it is now; the worst of the worst/
+爛鬼 烂鬼 [lan4 gui3] {laan6 gwai2} /brisé; cassé/inutilisable/de mauvaise qualité/
+𤓓味 𤓓味 [luo2 wei4] {lo3 mei6} /odeur du feu; odeur de brûlé/
+爪 爪 [zhua3] {zaau2} /(d'un animal) serre; patte; griffe/
 爪哇語 爪哇语 [zhao3 wa1 yu3] {zaau2 waa1 jyu5} /(langue) javanais/
-爪部 爪部 [zhao3 bu4] {zaau2 bou6} /refers to the Kangxi (radical 87) 爪 part of a Chinese character/
+爪部 爪部 [zhao3 bu4] {zaau2 bou6} /radical Kangxi 87; «爪»/
 爬山单车 爬山单车 [pa2 shan1 dan1 che1] {paa4 saan1 daan1 ce1} /vélo tout terrain; vélo de montagne; vélo de randonnée/
 爬山單車 爬山单车 [pa2 shan1 dan1 che1] {paa4 saan1 daan1 ce1} /vélo tout terrain; vélo de montagne; vélo de randonnée/
 爬格仔 爬格仔 [pa2 ge2 zi3] {paa4 gaak3 zai2} /(fig.) vivre d'écriture; gagner sa vie en écrivant/(fig.) contribuer à un magazine, un journal/(fig.) exercises des doigts à la guitare/(lit.) grimper les boîtes/
-爬頭 爬头 [pa2 tou2] {paa4 tau4} /to overtake/
+爬頭 爬头 [pa2 tou2] {paa4 tau4} /(voiture) dépasser; doubler/passer devant; resquiller/
 爭交 争交 [zheng1 jiao1] {zang1 gaau1} /se disputer; quereller/
 爭住 争住 [zheng1 zhu4] {zang1 zyu6} /se ruer; se précipiter (pour acheter quelque chose disponible en quantité limitée, pour s'inscire à une activité avec un nombre de places limité, etc. en compétition avec des autres personnes)/lutter contre; faire compétition avec/
 爭吵 争吵 [zheng1 chao3] {zang1 caau2} /dispute; querelle/
 爭啲 争啲 [zheng1 di1] {zaang1 di1} /presque; (j'ai, tu as...) failli (faire quelque chose)/
-爭在 争在 [zheng1 zai4] {zaang1 zoi6} /only when; it depends on/
-爭天共地 争天共地 [zheng1 tian1 gong4 di4] {zaang1 tin1 gung6 dei6} /(adjective) completely dissimilar or different; two different things or worlds/
-爭奇鬥艷 争奇斗艳 [zheng1 qi2 dou4 yan4] {zaang1 kei4 dau3 jim6} /to compete with each other in terms of beauty and glamour/
-爭奪 争夺 [zheng1 duo2] {zang1 dyut6} /to take over; to compete/
+爭在 争在 [zheng1 zai4] {zaang1 zoi6} /ça dépend de; ça repose sur/selon; en fonction de/
+爭天共地 争天共地 [zheng1 tian1 gong4 di4] {zaang1 tin1 gung6 dei6} /(expr. idiom.) comme le jour et la nuit; complètement différent/(lit.) comme le ciel et la terre/
+爭奇鬥艷 争奇斗艳 [zheng1 qi2 dou4 yan4] {zaang1 kei4 dau3 jim6} /(fleurs, animaux, etc.) rivaliser de beauté/
+爭奪 争夺 [zheng1 duo2] {zang1 dyut6} /rivaliser; faire compétition/
 爭崩頭 争崩头 [zheng1 beng1 tou2] {zaang1 bang1 tau4} /(noun) a severe completion; in a fight for something/
-爭拗 争拗 [zheng1 niu4] {zang1 aau2} /argue; argument/
-父母官 父母官 [fu4 mu3 guan1] {fu6 mou5 gun1} /a high ranking official/
-爹哋 爹哋 [die1 di4] {de1 di6} /daddy/
-爹娘 爹娘 [die1 niang2] {de1 noeng4} /(noun) patents; Dad and Mom/
-爺 爷 [ye2] {je4} /grandfather (only for father's father)/
-爺娘 爷娘 [ye2 niang2] {je4 noeng4} /parents/
-爺爺 爷爷 [ye2 ye5] {je4 je2} /(noun)  grandfather/
+爭拗 争拗 [zheng1 niu4] {zang1 ngaau3} /dispute/se disputer/
+父母官 父母官 [fu4 mu3 guan1] {fu6 mou5 gun1} /haut fonctionnaire/(lit.) fonctionnaire père-mère/
+爹哋 爹哋 [die1 di4] {de1 di6} /papa/(orig.) de l'anglais « daddy »/
+爹娘 爹娘 [die1 niang2] {de1 noeng4} /parents; père et mère/
+爺 爷 [ye2] {je4} /grand-père paternel/
+爺娘 爷娘 [ye2 niang2] {je4 noeng4} /parents; père et mère/
+爺爺 爷爷 [ye2 ye5] {je4 je2} /papi; grand-père (en cantonais, ce mot s'emploie uniquement pour le grand-père paternel; en mandarin, ce mot s'emploie pour le grand-père paternel et le grand-père maternel; voir aussi 公公|公公)/
 爽 爽 [shuang3] {song2} /(Cantonese) 1. frank and open 2. brittle/
-爽利 爽利 [shuang3 li4] {song2 lei6} /(Cantonese) 1. excitement 2. cheer up 3. high spirits/
-爽口 爽口 [shuang3 kou3] {song2 hau2} /crisp/
+爽利 爽利 [shuang3 li4] {song2 lei6} /enthousiasme; excitation/bonne humeur/
+爽口 爽口 [shuang3 kou3] {song2 hau2} /(aliment) croustillant; croquant/
 爽快 爽快 [shuang3 kuai5] {song2 faai3} /one quick with making decisions/
-爽手 爽手 [shuang3 shou3] {song2 sau2} /(adjective) fast; quick; agile; ; to describe something that feels good to the touch or has a nice texture; to describe someone who is a generous giver; describes one who handles matters with alacrity or briskness/
+爽手 爽手 [shuang3 shou3] {song2 sau2} /rapide; vite/agréable au toucher/qui règle les choses rapidement; qui atteint les objectifs rapidement/
 爽神 爽神 [shuang3 shen2] {song2 san4} /(adjective) very refreshing; consciously pleasant; great spirit/
 爽身 爽身 [shuang3 shen1] {song2 san1} /to refresh one's body/
-爾曹 尔曹 [er3 cao2] {ji5 cou4} /you (plural)/
-牀下底 床下底 [chuang2 xia4 di3] {cong4 haa6 dai2} /(noun) under the bed/
+????f 爾曹 尔曹 [er3 cao2] {ji5 cou4} /(litt.) vous/you and your kind/
+牀下底 床下底 [chuang2 xia4 di3] {cong4 haa6 dai2} /sous le lit/
 牀位 牀位 [chuang2 wei4] {cong4 wai2} /a bed space/
-牀褥 牀褥 [chuang2 ru4] {cong4 juk2} /a mattress/
+牀褥 牀褥 [chuang2 ru4] {cong4 juk2} /matelas/
 牀鋪被蓆 床铺被席 [chuang2 pu4 bei4 xi2] {cong4 pou1 pei5 zek6} /bedding sets/
 片 片 [pian4] {pin3} /(noun) 1.diaper; (of gangster activity)  Battle/
-片場 片场 [pian4 chang3] {pin2 coeng4} /(noun) a movie studio/
+片場 片场 [pian4 chang3] {pin2 coeng4} /studio de cinéma/
 片甲不存 片甲不存 [pian4 jia3 bu4 cun2] {pin3 gaap3 bat1 cyun4} /a total wipe out/
-片糖 片糖 [pian4 tang2] {pin3 tong4} /slab sugar/
+片糖 片糖 [pian4 tang2] {pin3 tong4} /cassonade ou vergeoise en forme de bloc/
 片言隻語 片言只语 [pian4 yan2 zhi1 yu3] {pin3 jin4 zek3 jyu5} /a few words/
 片酬 片酬 [pian4 chou2] {pin3 cau4} /remuneration for a film actor / actress/
 片面之詞 片面之词 [pian4 mian4 zhi1 ci2] {pin3 min6 zi1 ci4} /a one sided version of something/
