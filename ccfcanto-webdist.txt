@@ -6798,10 +6798,10 @@
 小字 小字 [xiao3 zi4] {siu2 zi6} /text en petits caractères/
 小孩 小孩 [xiao3 hai2] {siu2 haai4} /enfants/
 小學雞 小学鸡 [xiao3 xue2 ji1] {siu2 hok6 gai1} /enfants à l'école primaire/naïf/enfantin/
-小家 小家 [xiao3 jia1] {siu2 gaa1} /avare/méchant/antipathique/
+小家 小家 [xiao3 jia1] {siu2 gaa1} /avare; pingre/méchant/antipathique/
 小家器 小家器 [xiao3 jia1 qi4] {siu2 gaa1 hei3} /petit appareil électroménager/
-小家子 小家子 [xiao3 jia1 zi5] {siu2 gaa1 zi2} /avare/
-小家種 小家种 [xiao3 jia1 zhong4] {siu2 gaa1 zung2} /avare/méchant/antipathique/
+小家子 小家子 [xiao3 jia1 zi5] {siu2 gaa1 zi2} /avare; pingre/
+小家種 小家种 [xiao3 jia1 zhong4] {siu2 gaa1 zung2} /avare; pingre/méchant/antipathique/
 小小的 小小的 [xiao3 xiao3 de5] {siu2 siu2 dik1} /petit/minuscule/trivial/
 小小超 小小超 [xiao3 xiao3 chao1] {siu2 siu2 ciu1} /surnom de Richard Li Tzar-Kai, homme d'affaires et philanthrope hongkongais, fils de Li Ka-Shing/
 小山 小山 [xiao3 shan1] {siu2 saan1} /colline/
@@ -6846,7 +6846,7 @@
 小食部 小食部 [xiao3 shi2 bu4] {siu2 sik6 bou6} /magasin de friandises/
 小鬼 小鬼 [xiao3 gui3] {siu2 gwai2} /galopin, sale gosse, môme, vilain enfant, méchant enfant/
 小鬼升城隍 小鬼升城隍 [xiao3 gui3 sheng1 cheng2 huang5] {siu2 gwai2 sing1 sing4 wong4} /(expr. idiom.) personne immorale qui a du succès/(lit.) chenapan qui devient «Chenghuang», dieu de la ville/
-小鬼唔見得大神 小鬼唔见得大神 [xiao3 gui3 n2 jian4 de5 da4 shen2] {siu2 gwai2 m4 gin3 dak1 daai6 san4} /(expr. idiom.) avare/(lit.) petit esprit ne voit pas les grands dieux/
+小鬼唔見得大神 小鬼唔见得大神 [xiao3 gui3 n2 jian4 de5 da4 shen2] {siu2 gwai2 m4 gin3 dak1 daai6 san4} /(expr. idiom.) avare; pingre/(lit.) petit esprit ne voit pas les grands dieux/
 小鬼頭 小鬼头 [xiao3 gui3 tou2] {siu2 gwai2 tau4} /galopin, sale gosse, môme, vilain enfant, méchant enfant/
 少 少 [shao3] {siu3} /jeune/
 少一點 少一点 [shao3 yi1 dian3] {siu2 jat1 dim2} /un peu moins/
@@ -8172,7 +8172,7 @@
 慳啲啦 悭啲啦 [qian1 di1 la5] {haan1 di1 laa1} /(expr. idiom.) calme-toi!/(lit.) économiser pour soi-même/
 慳家 悭家 [qian1 jia1] {haan1 gaa1} /économe, frugal afin de subvenir aux besoins de sa famille/
 慳水慳力 悭水悭力 [qian1 shui3 qian1 li4] {haan1 seoi2 haan1 lik6} /qui demande moins d'effort/(lit.) qui nécessite moins d'eau et exige moins d'énergie/
-慳濕 悭濕 [qian1 chi4] {haan1 sap1} /méchant/avare, cupide/
+慳濕 悭濕 [qian1 chi4] {haan1 sap1} /méchant/avare, cupide; pingre/
 慳番啖氣 悭番啖气 [qian1 fan1 dan4 qi4] {haan1 faan1 daam6 hei3} /(expression pour dire à quelqu'un que personne ne l'écoute ou que son opinion n'a aucune importance)/(lit.) économise ta bouchée d'air/
 慳皮 悭皮 [qian1 pi2] {haan1 pei2} /doué avec l'argent/
 慳返 悭返 [qian1 fan3] {haan1 faan1} /faire gagner du temps/exiger moins d'effort/nécessiter moins (d'une ressource, de matériau)/
@@ -11670,7 +11670,7 @@
 氧化銅 氧化铜 [yang3 hua4 tong2] {joeng5 faa3 tung4} /chlorure de cuivre/
 氧化鐵 氧化铁 [yang3 hua4 tie3] {joeng5 faa3 tit3} /oxide de fer/
 氨水 氨水 [an1 shui3] {on1 seoi2} /ammoniaque/
-水 水 [shui3] {seoi2} /argent/qui/quelqu'un/(classificateur pour une cargaison)/
+水 水 [shui3] {seoi2} /(fam.) pognon; fric; argent/qui/quelqu'un/(classificateur pour une cargaison)/
 水上人 水上人 [shui3 shang4 ren2] {seoi2 soeng6 jan4} /boat-people/pêcheurs/
 水上單車 水上单车 [shui3 shang4 dan1 che1] {seoi2 soeng6 daan1 ce1} /pédalo/
 水上新娘 水上新娘 [shui3 shang4 xin1 niang2] {seoi2 soeng6 san1 noeng4} /femme de la Chine continentale qui s'est mariée avec un pêcheur hongkongais (orig. elles n'avaient pas le droit de résider à Hong Kong; en raison de cela, elles vivaient sur les bateaux des pêcheurs, d'où le nom «jeune mariée sur l'eau»)/
@@ -12598,7 +12598,7 @@
 濕星 濕星 [chi4 xing1] {sap1 sing1} /triviale; insignifiante/
 濕星嘢 濕星嘢 [chi4 xing1 ye3] {sap1 sing1 je5} /chose triviale; chose insignifiante/
 濕柴 湿柴 [shi1 chai2] {sap1 caai4} /(fig.) fainéant; vaurien; paresseux/(fig.) (vielli) petite monnaie; monnaie ou billets qui ne valent presque rien/(fig.) produit invendable; produit qui se vend difficilement/(lit.) bois de chauffage mouillé/
-濕水 湿水 [shi1 shui3] {sap1 seoi2} /submerger dans l'eau/(fig.) avare; radin/
+濕水 湿水 [shi1 shui3] {sap1 seoi2} /submerger dans l'eau/(fig.) avare; radin; pingre/
 濕水欖核 濕水榄核 [chi4 shui3 lan3 he2] {sap1 seoi2 laam5 wat6} /(expr. idiom.) vilains enfants; enfants déosbéissants; enfants espiègles/(lit.) noyaux d'olive dans l'eau/
 濕水炮仗 濕水炮仗 [chi4 shui3 pao4 zhang5] {sap1 seoi2 paau3 zoeng2} /(expr. en suspens) personne qui ne se fâche jamais; qui ne perd jamais son sang froid/(lit.) pétard mouillé (deuxième partie 冇個響 « ne fait aucun bruit »)/ 
 濕水狗上岸 濕水狗上岸 [chi4 shui3 gou3 shang4 an4] {sap1 seoi2 gau2 soeng5 ngon6} /(expr. en suspens) personne dépensière; personne qui dépense tout son argent/(lit.) chien mouillé arrive sur le rivage (deuxième partie 亂揈 « se secouer de manière chaotique »)/
