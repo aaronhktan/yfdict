@@ -6284,7 +6284,7 @@
 婄腩 婄腩 [bu4 nan3] {pau3 naam5} /bedaine, brioche, panse de bière/
 婆乸 婆乸 [po2 na2] {po4 naa2} /(péj.) (expression pour désigner une femme qui n'est plus jeune)/
 婆仔髻 婆仔髻 [po2 zi3 ji4] {po4 zai2 gai3} /chignon d'une vieille femme/
-婆婆 婆婆 [po2 po5] {po4 po2} /(expression pour s'addresser à une femme âgée)/
+婆婆 婆婆 [po2 po5] {po4 po2} /grand-mère maternelle/(employé pour désigner ou s'addresser à une femme âgée)/
 婆媽 婆妈 [po2 ma1] {po4 maa1} /indécis, pas capable de prendre une décision/servante/
 婆媽數 婆妈数 [po2 ma1 shu4] {po4 maa1 sou3} /dette négligeable/
 婆髻山 婆髻山 [po2 ji4 shan1] {po4 gai3 saan1} /Por Kai Shan, endroit à Hong Kong/
@@ -6327,7 +6327,7 @@
 嫩滑 嫩滑 [nen4 hua2] {nyun6 waat6} /peau lisse, peau douce/
 嫩粒粒 嫩粒粒 [nen4 li4 li4] {nyun6 nap1 nap1} /tendre et jeune/
 嫩雀 嫩雀 [nen4 que4] {nyun6 zoek2} /novice, débutant, bleu/
-嫲嫲 嫲嫲 [ma2 ma2] {maa4 maa4} /grand-mère paternel/
+嫲嫲 嫲嫲 [ma2 ma2] {maa4 maa4} /grand-mère paternelle/
 嫳 嫳 [pie4] {pit3} /qui se fâche facilement, qui se met en colère facilement/
 嬲 嬲 [niao3] {nau1} /se fâcher, se mettre en colère/
 嬲到彈起 嬲到弹起 [niao3 dao4 dan4 qi3] {nau1 dou3 daan6 hei2} /tellement fâché qu'on se lève debout/
@@ -13223,7 +13223,7 @@
 爭天共地 争天共地 [zheng1 tian1 gong4 di4] {zaang1 tin1 gung6 dei6} /(expr. idiom.) comme le jour et la nuit; complètement différent/(lit.) comme le ciel et la terre/
 爭奇鬥艷 争奇斗艳 [zheng1 qi2 dou4 yan4] {zaang1 kei4 dau3 jim6} /(fleurs, animaux, etc.) rivaliser de beauté/
 爭奪 争夺 [zheng1 duo2] {zang1 dyut6} /rivaliser; faire compétition/
-爭崩頭 争崩头 [zheng1 beng1 tou2] {zaang1 bang1 tau4} /(noun) a severe completion; in a fight for something/
+爭崩頭 争崩头 [zheng1 beng1 tou2] {zaang1 bang1 tau4} /concurrence féroce/
 爭拗 争拗 [zheng1 niu4] {zang1 ngaau3} /dispute/se disputer/
 父母官 父母官 [fu4 mu3 guan1] {fu6 mou5 gun1} /haut fonctionnaire/(lit.) fonctionnaire père-mère/
 爹哋 爹哋 [die1 di4] {de1 di6} /papa/(orig.) de l'anglais « daddy »/
@@ -13231,47 +13231,47 @@
 爺 爷 [ye2] {je4} /grand-père paternel/
 爺娘 爷娘 [ye2 niang2] {je4 noeng4} /parents; père et mère/
 爺爺 爷爷 [ye2 ye5] {je4 je2} /papi; grand-père (en cantonais, ce mot s'emploie uniquement pour le grand-père paternel; en mandarin, ce mot s'emploie pour le grand-père paternel et le grand-père maternel; voir aussi 公公|公公)/
-爽 爽 [shuang3] {song2} /(Cantonese) 1. frank and open 2. brittle/
+爽 爽 [shuang3] {song2} /direct; franc, franche; ouvert/(aliment) croustillant; croquant/rafraîchissant/de bonne humeur/
 爽利 爽利 [shuang3 li4] {song2 lei6} /enthousiasme; excitation/bonne humeur/
 爽口 爽口 [shuang3 kou3] {song2 hau2} /(aliment) croustillant; croquant/
-爽快 爽快 [shuang3 kuai5] {song2 faai3} /one quick with making decisions/
+爽快 爽快 [shuang3 kuai5] {song2 faai3} /décisif; déterminé; résolu/
 爽手 爽手 [shuang3 shou3] {song2 sau2} /rapide; vite/agréable au toucher/qui règle les choses rapidement; qui atteint les objectifs rapidement/
-爽神 爽神 [shuang3 shen2] {song2 san4} /(adjective) very refreshing; consciously pleasant; great spirit/
-爽身 爽身 [shuang3 shen1] {song2 san1} /to refresh one's body/
+爽神 爽神 [shuang3 shen2] {song2 san4} /rafraîchissant; revigorant/
+爽身 爽身 [shuang3 shen1] {song2 san1} /(qui sert à) se sentir revigoré/
 ????f 爾曹 尔曹 [er3 cao2] {ji5 cou4} /(litt.) vous/you and your kind/
 牀下底 床下底 [chuang2 xia4 di3] {cong4 haa6 dai2} /sous le lit/
-牀位 牀位 [chuang2 wei4] {cong4 wai2} /a bed space/
+牀位 牀位 [chuang2 wei4] {cong4 wai2} /maison cercueil; « espace de lit »; minuscules appartements de six pieds par quatre pieds avec juste assez de place pour un lit/
 牀褥 牀褥 [chuang2 ru4] {cong4 juk2} /matelas/
-牀鋪被蓆 床铺被席 [chuang2 pu4 bei4 xi2] {cong4 pou1 pei5 zek6} /bedding sets/
-片 片 [pian4] {pin3} /(noun) 1.diaper; (of gangster activity)  Battle/
+???? 牀鋪被蓆 床铺被席 [chuang2 pu4 bei4 xi2] {cong4 pou1 pei5 zek6} /bedding sets/
+片 片 [pian4] {pin3} /tranche/couche pour bébé/film; vidéo/conflit entre les membres d'un gang/
 片場 片场 [pian4 chang3] {pin2 coeng4} /studio de cinéma/
-片甲不存 片甲不存 [pian4 jia3 bu4 cun2] {pin3 gaap3 bat1 cyun4} /a total wipe out/
+片甲不存 片甲不存 [pian4 jia3 bu4 cun2] {pin3 gaap3 bat1 cyun4} /(expr. idiom.) défaite totale; être complètement annihilé/(lit.) même pas une bande de blindage qui reste/
 片糖 片糖 [pian4 tang2] {pin3 tong4} /cassonade ou vergeoise en forme de bloc/
-片言隻語 片言只语 [pian4 yan2 zhi1 yu3] {pin3 jin4 zek3 jyu5} /a few words/
-片酬 片酬 [pian4 chou2] {pin3 cau4} /remuneration for a film actor / actress/
+片言隻語 片言只语 [pian4 yan2 zhi1 yu3] {pin3 jin4 zek3 jyu5} /(expr.) en quelques mots; n'avoir que quelques mots; bref; court/
+片酬 片酬 [pian4 chou2] {pin3 cau4} /salaire d'un acteur; rémunération d'un acteur/
 片面之詞 片面之词 [pian4 mian4 zhi1 ci2] {pin3 min6 zi1 ci4} /a one sided version of something/
-牌 牌 [pai2] {paai4} /(noun) 1. brand;  trademark/
-牌館 牌馆 [pai2 guan3] {paai4 gun2} /a Mahjong parlor/
-𤗈牙罅 𤗈牙罅 [Xie4 ya2 xia4] {sip3 ngaa4 laa3} /literally: 'to fill the gap in between the teeth, used as a metaphor to emphazise the smallness or the insignificance of something, that it is virtually of little use or value (so small that it cannot even fill one's gap in their teeth)/
-牙力 牙力 [ya2 li4] {ngaa4 lik6} /physical strength of teeth; ability to debate (spoken)/
-牙呀仔 牙呀仔 [ya2 ya5 zi3] {ngaa4 aa1 zai2} /infant (old slang)/
+牌 牌 [pai2] {paai4} /marque; marque commerciale (logotype, slogan, etc.)/permis/médaille (d'or, d'argent, etc.)/tuile de mah-jong/(par extension) jeu de mah-jong/cartes à jouer/
+牌館 牌馆 [pai2 guan3] {paai4 gun2} /salon de mah-jong/
+????c 𤗈牙罅 𤗈牙罅 [Xie4 ya2 xia4] {sip3 ngaa4 laa3} /literally: 'to fill the gap in between the teeth, used as a metaphor to emphazise the smallness or the insignificance of something, that it is virtually of little use or value (so small that it cannot even fill one's gap in their teeth)/
+牙力 牙力 [ya2 li4] {ngaa4 lik6} /pouvoir; autorité/éloquence; compétence dans les débats/dent/(lit.) force de dents/
+牙呀仔 牙呀仔 [ya2 ya5 zi3] {ngaa4 aa1 zai2} /(vieilli) bébé/
 牙尖嘴利 牙尖嘴利 [ya2 jian1 zui3 li4] {ngaa4 zim1 zeoi2 lei6} /(slang) (for ability to speak, with a negative connotation) articulate; eloquent; persuasive; sharp-tongued; given to using caustic and trenchant language./
-牙屎 牙屎 [ya2 shi3] {ngaa4 si2} /plaque on teeth; arrogant; likes to show off/
-牙屎屎 牙屎屎 [ya2 shi3 shi3] {ngaa4 si2 si2} /(verb) to boast; to swank; to talk big; to brag/
+牙屎 牙屎 [ya2 shi3] {ngaa4 si2} /plaque dentaire; tartre dentaire/(fig.) arrogant; prétentieux; vantard/
+牙屎屎 牙屎屎 [ya2 shi3 shi3] {ngaa4 si2 si2} /(fig.) arrogant; prétentieux; vantard/(lit.) plaque dentaire/
 牙帶 牙带 [ya2 dai4] {ngaa4 daai3} /(fish) Trichiuridae/
 牙帶魚 牙带鱼 [ya2 dai4 yu2] {ngaa4 daai3 jyu2} /hairtail fish / belt fish/
-牙擦 牙擦 [ya2 ca1] {ngaa4 caat3} /(adjective) (of a person) cocky; arrogant; cheeky; brash; conceited; smug/
-牙擦擦 牙擦擦 [ya2 ca1 ca1] {ngaa4 caat3 caat3} /someone who likes to brag; cocky/
+牙擦 牙擦 [ya2 ca1] {ngaa4 caat3} /arrogant; prétentieux; vantard; trop sûr de soi; fier comme un coq/
+牙擦擦 牙擦擦 [ya2 ca1 ca1] {ngaa4 caat3 caat3} /arrogant; prétentieux; vantard; trop sûr de soi; fier comme un coq/
 牙斬斬 牙斩斩 [ya2 zhan3 zhan3] {ngaa4 zaam2 zaam2} /(slang) (for ability to speak, with a negative connotation) boastful; eloquent; persuasive; sharp-tongued/
-牙煙 牙烟 [ya2 yan1] {ngaa4 jin1} /(adjective) risky; dangerous; unsafe; hazardous/
-牙牙學語 牙牙学语 [ya2 ya2 xue2 yu3] {ngaa4 ngaa4 hok6 jyu5} /baby babble/
-牙痕 牙痕 [ya2 hen2] {ngaa4 han4} /to have an appetite for something; chatty; rambling/
-牙痛咁聲 牙痛咁声 [ya2 tong4 gan1 sheng1] {ngaa4 tung3 gam2 seng1} /(slang) someone is moaning like having tooth pain; to complain/
-牙痛噉聲 牙痛啖声 [ya2 tong4 dan4 sheng1] {ngaa4 tung3 gam2 seng1} / to be unwilling to do something when asked; to whine and moan/
-牙簽 牙签 [ya2 qian1] {ngaa4 cim1} /(noun) a toothpick/
+牙煙 牙烟 [ya2 yan1] {ngaa4 jin1} /(fig.) risqué; dangereux/(lit.) fumée de dent/
+牙牙學語 牙牙学语 [ya2 ya2 xue2 yu3] {ngaa4 ngaa4 hok6 jyu5} /(bébé) babiller; gazouiller/
+牙痕 牙痕 [ya2 hen2] {ngaa4 han4} /(fig.) parler à tort et à travers; parler sans fin; babiller; jacasser/(lit.) avoir les dents qui démangent/
+牙痛咁聲 牙痛咁声 [ya2 tong4 gan1 sheng1] {ngaa4 tung3 gam2 seng1} /(expr. idiom.) ne pas vouloir faire quelque chose; se plaindre/(lit.) crier comme si l'on avait mal aux dents/
+牙痛噉聲 牙痛啖声 [ya2 tong4 dan4 sheng1] {ngaa4 tung3 gam2 seng1} /(expr. idiom.) ne pas vouloir faire quelque chose; se plaindre/(lit.) crier comme si l'on avait mal aux dents/
+牙簽 牙签 [ya2 qian1] {ngaa4 cim1} /cure-dents/
 牙縫刷 牙缝刷 [ya2 feng4 shua1] {ngaa4 fung4 saat3} /an inter-dental brush/
-牙罅 牙罅 [ya2 xia4] {ngaa4 laa3} /gap between the teeth/
-牙肉 牙肉 [ya2 rou4] {ngaa4 juk6} /gum (in the mouth)/
+牙罅 牙罅 [ya2 xia4] {ngaa4 laa3} /espaces entre les dents/
+牙肉 牙肉 [ya2 rou4] {ngaa4 juk6} /gencives/
 牙軟 牙软 [ya2 ruan3] {ngaa4 jyun5} /weak teeth/
 牙鉸 牙铰 [ya2 jiao3] {ngaa4 gaau2} /1. lower jaw 2. chatting/
 牙骹 牙骹 [ya2 qiao1] {ngaa4 gaau3} /1. lower jaw 2. chatting/
