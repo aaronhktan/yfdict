@@ -1808,11 +1808,11 @@
 做妥 做妥 [zuo4 tuo3] {zou6 to5} /terminer; compléter/
 ???? 做媒 做媒 [zuo4 mei2] {zou6 mui4} /être un intermédiaire/être un entremetteur/servir de leurre pour un magasin en faisant semblant d'être un client, pour encourager les autres à acheter/
 做得 做得 [zuo4 de2] {zou6 dak1} /pouvoir faire (quelque chose)/travailler/util/(être) prêt (à faire quelque chose)/
-做忌 做忌 [zuo4 ji4] {zou6 gei6} /célébrer un service commémoratif/tuer quelqu'un/tabasser; rouer de coups; battre/
+做忌 做忌 [zuo4 ji4] {zou6 gei6} /célébrer un service commémoratif pour les morts/(fig.) tuer quelqu'un/(fig.) tabasser; rouer de coups; péter la gueule à quelqu'un/
 做慣乞兒懶做官 做惯乞儿懒做官 [zuo4 guan4 qi3 er2 lan3 zuo4 guan1] {zou6 gwaan3 hat1 ji4 laan5 zou6 gun1} /(expr. idiom.) vouloir une vie ordinaire plutôt qu'une meilleure vie/(lit.) habitué à être mendiant, ne pas vouloir être un officier/
 做成 做成 [zuo4 cheng2] {zou6 sing4} /causer/
 做手信 做手信 [zuo4 shou3 xin4] {zou6 sau2 seon3} /fabriquer un (objet) souvenir/
-做手腳 做手脚 [zuo4 shou3 jiao3] {zou6 sau2 goek3} /interférer dans un projet pour le saboter/truquer une élection/passer un accord secret/
+做手腳 做手脚 [zuo4 shou3 jiao3] {zou6 sau2 goek3} /interférer avec le déroulement d'un projet pour le saboter/truquer une élection/passer un accord secret/
 做把戲 做把戏 [zuo4 ba3 xi4] {zou6 baa2 hei3} /faire des tours de magie/manigancer quelque chose/
 做收錢 做收钱 [zuo4 shou1 qian2] {zou6 sau1 cin2} /travailler en tant que caissier ou caissière/
 做數 做数 [zuo4 shu4] {zou6 sou3} /maquiller les chiffres/faire des calculs/tenir les comptes/
@@ -8616,8 +8616,8 @@
 打鐘 打钟 [da3 zhong1] {daa2 zung1} /sonner une cloche/
 打鐵佬 打铁佬 [da3 tie3 lao3] {daa2 tit3 lou2} /forgeron/
 打鐵趁熱 打铁趁热 [da3 tie3 chen4 re4] {daa2 tit3 can3 jit6} /(expr. idiom.) (lit.) il faut battre le fer pendant qu'il est chaud/
-打鑊 打镬 [da3 huo4] {daa2 wok6} /(expr. idiom.) tabasser, battre, rouer de coups/(lit.) battre le wok/
-打鑊金 打镬金 [da3 huo4 jin1] {daa2 wok6 gam1} /(expr. idiom.) tabasser, battre, rouer de coups/(lit.) battre le wok/
+打鑊 打镬 [da3 huo4] {daa2 wok6} /(expr. idiom.) tabasser, battre, rouer de coups; péter la gueule à quelqu'un/(lit.) battre le wok/
+打鑊金 打镬金 [da3 huo4 jin1] {daa2 wok6 gam1} /(expr. idiom.) tabasser, battre, rouer de coups; péter la gueule à quelqu'un/(lit.) battre le wok/
 打鑼 打锣 [da3 luo2] {daa2 lo2} /(expr. idiom.) se dépêcher/faire retentir le gong/
 打鑼都搵唔到 打锣都揾唔到 [da3 luo2 dou1 wen3 n2 dao4] {daa2 lo2 dou1 wan2 m4 dou2} /(expr. idiom.) chercher partout mais ne pas arriver à trouver ce que l'on cherche/(lit.) neto be unable to find something even beat the gong; search everywhere but find nothing/ pas arriver à trouver même en faisant retentir le gong/
 打關斗 打关斗 [da3 guan1 dou4] {daa2 gwaan1 dau2} /faire une roulade/
@@ -12591,7 +12591,7 @@
 濁 浊 [zhuo2] {zuk6} /s'étouffer/(voix) rauque/(liquide) boueux; trouble/(fig.) confus; embrouillé/
 濁親 浊亲 [zhuo2 qin1] {zuk6 can1} /s'étouffer/
 澀滯 涩滞 [se4 zhi4] {sap1 zai6} /(écriture) ne pas être fluide; ne pas couler; difficile à comprendre ou à lire/(personne) méchant; difficile; énervant/
-濕 湿 [shi1] {sap1} /(fam.) facile; insignifiant/(fam.) excité sexuellement; lascif/(fam.) passer à tabac; tabasser; rouer de coups/
+濕 湿 [shi1] {sap1} /(fam.) facile; insignifiant/(fam.) excité sexuellement; lascif/(fam.) passer à tabac; tabasser; rouer de coups; péter la gueule à quelqu'un/
 濕地公園 湿地公园 [shi1 di4 gong1 yuan2] {sap1 dei6 gung1 jyun2} /Hong Kong Wetland Park, un parc zoologique de Hong Kong/
 濕坺坺 濕坺坺 [chi4 bo4 bo4] {sap1 pet6 pet6} /humide/mouillé; trempé/
 濕度 湿度 [shi1 du4] {sap1 dou6} /humidité/
@@ -13243,7 +13243,7 @@
 牀位 牀位 [chuang2 wei4] {cong4 wai2} /maison cercueil; « espace de lit »; minuscules appartements de six pieds par quatre pieds avec juste assez de place pour un lit/
 牀褥 牀褥 [chuang2 ru4] {cong4 juk2} /matelas/
 ???? 牀鋪被蓆 床铺被席 [chuang2 pu4 bei4 xi2] {cong4 pou1 pei5 zek6} /bedding sets/
-片 片 [pian4] {pin3} /tranche/couche pour bébé/film; vidéo/conflit entre les membres d'un gang/
+片 片 [pian4] {pin3} /tranche/couche pour bébé/film; vidéo/conflit entre les gangs/
 片場 片场 [pian4 chang3] {pin2 coeng4} /studio de cinéma/
 片甲不存 片甲不存 [pian4 jia3 bu4 cun2] {pin3 gaap3 bat1 cyun4} /(expr. idiom.) défaite totale; être complètement annihilé/(lit.) même pas une bande de blindage qui reste/
 片糖 片糖 [pian4 tang2] {pin3 tong4} /cassonade ou vergeoise en forme de bloc/
@@ -13252,7 +13252,7 @@
 片面之詞 片面之词 [pian4 mian4 zhi1 ci2] {pin3 min6 zi1 ci4} /a one sided version of something/
 牌 牌 [pai2] {paai4} /marque; marque commerciale (logotype, slogan, etc.)/permis/médaille (d'or, d'argent, etc.)/tuile de mah-jong/(par extension) jeu de mah-jong/cartes à jouer/
 牌館 牌馆 [pai2 guan3] {paai4 gun2} /salon de mah-jong/
-????c 𤗈牙罅 𤗈牙罅 [Xie4 ya2 xia4] {sip3 ngaa4 laa3} /literally: 'to fill the gap in between the teeth, used as a metaphor to emphazise the smallness or the insignificance of something, that it is virtually of little use or value (so small that it cannot even fill one's gap in their teeth)/
+????c 𤗈牙罅 𤗈牙罅 [xie4 ya2 xia4] {sip3 ngaa4 laa3} /literally: 'to fill the gap in between the teeth, used as a metaphor to emphazise the smallness or the insignificance of something, that it is virtually of little use or value (so small that it cannot even fill one's gap in their teeth)/
 牙力 牙力 [ya2 li4] {ngaa4 lik6} /pouvoir; autorité/éloquence; compétence dans les débats/dent/(lit.) force de dents/
 牙呀仔 牙呀仔 [ya2 ya5 zi3] {ngaa4 aa1 zai2} /(vieilli) bébé/
 牙尖嘴利 牙尖嘴利 [ya2 jian1 zui3 li4] {ngaa4 zim1 zeoi2 lei6} /(slang) (for ability to speak, with a negative connotation) articulate; eloquent; persuasive; sharp-tongued; given to using caustic and trenchant language./
