@@ -13273,8 +13273,8 @@
 牙罅 牙罅 [ya2 xia4] {ngaa4 laa3} /espaces entre les dents/
 牙肉 牙肉 [ya2 rou4] {ngaa4 juk6} /gencives/
 牙軟 牙软 [ya2 ruan3] {ngaa4 jyun5} /dents sensibles (après la consommation des aliments acides)/
-牙鉸 牙铰 [ya2 jiao3] {ngaa4 gaau2} /1. lower jaw 2. chatting/
-牙骹 牙骹 [ya2 qiao1] {ngaa4 gaau3} /1. lower jaw 2. chatting/
+牙鉸 牙铰 [ya2 jiao3] {ngaa4 gaau3} /articulation temporo-mandibulaire/(fig.) bavarder; placoter/
+牙骹 牙骹 [ya2 qiao1] {ngaa4 gaau3} /articulation temporo-mandibulaire/(fig.) bavarder; placoter/
 牙齒印 牙齿印 [ya2 chi3 yin4] {ngaa4 ci2 jan3} /(fig.) rancunes; vieux comptes/(lit.) empreinte dentaire/
 牙齒當金使 牙齿当金使 [ya2 chi3 dang1 jin1 shi3] {ngaa4 ci2 dong3 gam1 sai2} /(expr. idiom.) fiable; digne de confiance/(lit.) utiliser ses dents (= paroles) comme de l'or/
 牙齒痕 牙齿痕 [ya2 chi3 hen2] {ngaa4 ci2 han4} /(fig.) parler sans fin; babiller; jacasser/(lit.) avoir des dents qui démangent/
@@ -13290,49 +13290,50 @@
 牛仔骨 牛仔骨 [niu2 zai3 gu3] {ngau4 zai2 gwat1} /bouts de côte de bœuf/
 牛公 牛公 [niu2 gong1] {ngau4 gung1} /taureau; bœuf/
 牛刀 牛刀 [niu2 dao1] {ngau4 dou1} /couteau de boucher/
-牛刀小試 牛刀小试 [niu2 dao1 xiao3 shi4] {ngau4 dou1 siu2 si3} /(idiom) a master just shows off a little bit his/her great talent or skill/
+牛刀小試 牛刀小试 [niu2 dao1 xiao3 shi4] {ngau4 dou1 siu2 si3} /(expr. idiom.) ne montrer qu'un peu de ses compétences en quelque chose/
 牛力 牛力 [niu2 li4] {ngau4 lik6} /(fig.) une grande force/(lit.) force d'un boeuf/
 牛唔飲水唔撳得牛頭低 牛唔饮水唔揿得牛头低 [niu2 n2 yin3 shui3 n2 qin4 de5 niu2 tou2 di1] {ngau4 m4 jam2 seoi2 m4 gam6 dak1 ngau4 tau4 dai1} /(expr. idiom.) une personne ne peut pas être contrainte de faire quelque chose qu'il ou elle ne veut pas/(lit.) si un bœuf ne veut pas boire de l'eau, one ne peut pas faire abaisser sa tête/
 牛唔飲水點撳得牛頭低 牛唔饮水点揿得牛头低 [niu2 n2 yin3 shui3 dian3 qin4 de5 niu2 tou2 di1] {ngau4 m4 jam2 seoi2 dim2 gam6 dak1 ngau4 tau4 dai1} /(expr. idiom.) une personne ne peut pas être contrainte de faire quelque chose qu'il ou elle ne veut pas/(lit.) si un bœuf ne veut pas boire de l'eau, comment peut-on faire abaisser sa tête?/
 牛噍牡丹 牛噍牡丹 [niu2 jiao4 mu3 dan5] {ngau4 ziu6 maau5 daan1}  /(expr. en suspens) comme donner de la confiture aux cochons/(lit.) comme une vache mastiquant une pivoine (deuxième partie 唔知花定草|唔知花定草 « ne sachant pas faire la différence entre une fleur ou de l'herbe »)/
 牛嚼牡丹 牛嚼牡丹 [niu2 jue2 mu3 dan5] {ngau4 ziu6 maau5 daan1} /(expr. en suspens) comme donner de la confiture aux cochons/(lit.) comme une vache mastiquant une pivoine (deuxième partie 唔知花定草|唔知花定草 « ne sachant pas faire la différence entre une fleur ou de l'herbe »)/
 牛奶糖 牛奶糖 [niu2 nai3 tang2] {ngau4 naai5 tong2} /bonbon au lait (ex. 大白兔奶糖|大白兔奶糖 « bonbons au lait du grand lapin blanc », « White Rabbit » en anglais)/
-牛尾 牛尾 [niu2 wei3] {ngau4 mei5} /an oxtail/
+牛尾 牛尾 [niu2 wei3] {ngau4 mei5} /queue de bœuf/
 牛屎 牛屎 [niu2 shi3] {ngau4 si2} /bouse de vache/(fig.) voyou; homme mal élevé/
 牛扒 牛扒 [niu2 pa2] {ngau4 paa2} /biftek; steak/
-牛柏葉 牛柏叶 [niu2 bai3 ye4] {ngau4 paak3 jip6} /(food) ox tripe/
+牛柏葉 牛柏叶 [niu2 bai3 ye4] {ngau4 baak3 jip6} /(plat) tripes/
 牛毛 牛毛 [niu2 mao2] {ngau4 mou4} /tiny; minute (dialect)/
-牛池灣 牛池湾 [niu2 chi2 wan1] {ngau4 ci4 waan1} /Ngau Chi Wan, a bay in Hong Kong/
-牛河 牛河 [niu2 he2] {ngau4 ho4} /stir-fried beef rice noodle/
-牛治 牛治 [niu2 zhi4] {ngau4 zi6} /a corned beef sandwich/
-牛潭尾 牛潭尾 [niu2 tan2 wei3] {ngau4 taam4 mei5} /Ngau Tam Mei / Yau Tam Mei, a location in Hong Kong/
-牛牯 牛牯 [niu2 gu3] {ngau4 gu2} /male bull or cow/
-牛王 牛王 [niu2 wang2] {ngau4 wong4} /rude and unreasonable; acting in a tyrannous manner; a bully/
-牛王妹 牛王妹 [niu2 wang2 mei4] {ngau4 wong4 mui1} /(noun) a naughty little girl/
-牛王頭 牛王头 [niu2 wang2 tou2] {ngau4 wong4 tau4} /describes an unreasonable and/or arrogant and domineering person; someone who acts in a tyrannous manner/
-牛白腩 牛白腩 [niu2 bai2 nan3] {ngau4 baak6 naam5} /(food) beef brisket/
-牛皋 牛皋 [niu2 gao1] {ngau4 gou1} /rough/
-牛皮 牛皮 [niu2 pi2] {ngau4 pei4} /(slang) 1. Stubborn (when using in "牛皮燈籠"); (of paper) 1. Kraft; (of skin disease)  Psoriasis/
-牛皮燈籠 牛皮灯笼 [niu2 pi2 deng1 long2] {ngau4 pei4 dang1 lung4} /(proverb) someone is very stubborn; Someone is unteachable/
-牛皮膠 牛皮胶 [niu2 pi2 jiao1] {ngau4 pei4 gaau1} /(noun) superglue/
-牛精 牛精 [niu2 jing1] {ngau4 zing1} /(adjective) mean and unreasonable; rude and bad-tempered; stubborn/
-牛肉乾 牛肉干 [niu2 rou4 gan1] {ngau4 juk6 gon1} /a parking fine (slang)/
-牛肉湯麵 牛肉汤面 [niu2 rou4 tang1 mian4] {ngau4 juk6 tong1 min6} /beef noodle soup/
-牛肉炒河 牛肉炒河 [niu2 rou4 chao3 he2] {ngau4 juk6 caau2 ho4} /beef kway teow; stir-fried ho-fun (rice noodles) with beef/
-牛肉腸 牛肉肠 [niu2 rou4 chang2] {ngau4 juk6 coeng2} /rice noodle roll with beef filling/
-牛肚 牛肚 [niu2 du3] {ngau4 tou5} /ox tripe; cow stomach/
-牛脷 牛脷 [niu2 li4] {ngau4 lei6} /(noun) xo's tongue; Or (food) bovine tongue/
-牛腱 牛腱 [niu2 jian4] {ngau4 gin3} /(noun) xo's shank; Or (food) beef shank/
-牛腸 牛肠 [niu2 chang2] {ngau4 coeng2} /(noun) xo's intestines; Or (food) bovine intestines or (dim sum) rice rolls with minced beef/
-牛𦟌 牛𦟌 [Niu2 jian3] {ngau4 zin2} /(noun) xo's shank; Or (food) beef shank/
-牛草肚 牛草肚 [niu2 cao3 du4] {ngau4 cou2 tou5} /ox tripe; cow stomach/
-牛蠅 牛蝇 [niu2 ying2] {ngau4 jing4} /horsefly; cleg/
+牛池灣 牛池湾 [niu2 chi2 wan1] {ngau4 ci4 waan1} /Ngau Chi Wan, anciennement une baie à Hong Kong, maintenant un HLM/
+牛河 牛河 [niu2 he2] {ngau4 ho4} /nouilles à base de riz (shahe fen) frites au bœuf/
+牛治 牛治 [niu2 zhi4] {ngau4 zi6} /sandwich au corned-beef/
+牛潭尾 牛潭尾 [niu2 tan2 wei3] {ngau4 taam4 mei5} /Ngau Tam Mei ou Yau Tam Mei, banlieue de Hong Kong/
+牛牯 牛牯 [niu2 gu3] {ngau4 gu2} /bœuf; taureau/
+牛王 牛王 [niu2 wang2] {ngau4 wong4} /(fig.) impoli et déraisonnable/(fig.) irascible; colérique/(fig.) vilain garçon; garçon mal élevé/
+牛王妹 牛王妹 [niu2 wang2 mei4] {ngau4 wong4 mui1} /vilaine fille; fille mal élevée/garçon manqué/
+牛王頭 牛王头 [niu2 wang2 tou2] {ngau4 wong4 tau4} /(fig.) impoli et déraisonnable/(fig.) irascible; colérique/(fig.) vilain garçon; garçon mal élevé/
+牛白腩 牛白腩 [niu2 bai2 nan3] {ngau4 baak6 naam5} /poitrine de bœuf/
+牛皋 牛皋 [niu2 gao1] {ngau4 gou1} /grossier; sauvage; inculte/
+牛皮 牛皮 [niu2 pi2] {ngau4 pei4} /(fig.) obstiné; têtu/(fig.) psoriasis; maladie inflammatoire de la peau/(lit.) peau de vache/
+牛皮燈籠 牛皮灯笼 [niu2 pi2 deng1 long2] {ngau4 pei4 dang1 lung4} /(expr. en suspens) obstiné; têtu/(expr. en suspens) lent d'esprit/(lit.) lanterne céleste faite de peau de vache (deuxième partie 點極都唔明|点极都唔明 « ne brille pas même si on a beau essayé de l'allumer »)/
+牛皮膠 牛皮胶 [niu2 pi2 jiao1] {ngau4 pei4 gaau1} /super-colle; colle faite à partir de la peau de vache/
+牛皮膠帶 牛皮胶帶 [niu2 pi2 jiao1 dai4] {ngau4 pei4 gaau1 daai2} /duck tape; duct tape; ruban adhésif toilé/
+牛精 牛精 [niu2 jing1] {ngau4 zing1} /impoli et déraisonnable; irascible; colérique/obstiné; têtu/
+牛肉乾 牛肉干 [niu2 rou4 gan1] {ngau4 juk6 gon1} /bœuf séché/(fig.) amende de stationnement; ticket de stationnement/
+牛肉湯麵 牛肉汤面 [niu2 rou4 tang1 mian4] {ngau4 juk6 tong1 min6} /soupe au bœuf et aux nouilles/
+牛肉炒河 牛肉炒河 [niu2 rou4 chao3 he2] {ngau4 juk6 caau2 ho4} /ngau ho; nouilles shahe frites au bœuf/
+牛肉腸 牛肉肠 [niu2 rou4 chang2] {ngau4 juk6 coeng2} /rouleau de nouilles de riz au bœuf/
+牛肚 牛肚 [niu2 du3] {ngau4 tou5} /(plat) tripes/
+牛脷 牛脷 [niu2 li4] {ngau4 lei6} /langue de bœuf/
+牛腱 牛腱 [niu2 jian4] {ngau4 gin3} /jarret de bœuf/
+牛腸 牛肠 [niu2 chang2] {ngau4 coeng2} /(plat) tripes/(dim sum) rouleau de nouilles de riz au bœuf/
+牛𦟌 牛𦟌 [niu2 jian3] {ngau4 zin2} /jarret de bœuf/
+牛草肚 牛草肚 [niu2 cao3 du4] {ngau4 cou2 tou5} /(plat) tripes/
+牛蠅 牛蝇 [niu2 ying2] {ngau4 jing4} /taon/
 牛角尖 牛角尖 [niu2 jiao3 jian1] {ngau4 gok3 zim1} /a dead end; a blind alley/
 牛記 牛记 [niu2 ji4] {ngau4 gei3} /no-frills (slang)/
 牛軋糖 牛轧糖 [niu2 ga2 tang2] {ngau4 zaat3 tong2} /nougat/
 牛雜 牛杂 [niu2 za2] {ngau4 zaap6} /(food) stewed mixed beef organs; stewed bovine offal; stewed beef offal/
 牛頭唔搭馬嘴 牛头唔搭马嘴 [niu2 tou2 m2 da1 ma3 zui3] {ngau4 tau4 m4 daap3 maa5 zeoi2} /(Metaphor) in a situation when people are talking, someone speaks/replies with irrelevant speeches. It implies that someone speaks with nonsense./
-牛頭褲 牛头裤 [niu2 tou2 ku4] {ngau4 tau4 fu3} /shorts/
+牛頭褲 牛头裤 [niu2 tou2 ku4] {ngau4 tau4 fu3} /(un peu vieilli) (vêtement) short/
 牛頭角 牛头角 [niu2 tou2 jiao3] {ngau4 tau4 gok3} /Ngau Tau Kok, a town situated in eastern Kowloon in Hong Kong/
 牛頸 牛颈 [niu2 jing3] {ngau4 geng2} /(noun) xo's neck; Or (food) bovine chuck; or (Metaphor) someone is very stubborn/
 牛骨 牛骨 [niu2 gu3] {ngau4 gwat1} /bovine bones/
@@ -13340,12 +13341,12 @@
 牛鬼蛇神 牛鬼蛇神 [niu2 gui3 she2 shen2] {ngau4 gwai2 se4 san4} /villians; freaks; rabbles; political heretics, especially refering to anti-Maoists during the Cultual Revolution/
 牠們 它们 [ta1 men5] {taa1 mun4} /(pronoun of animal) they; them/
 牢不可破 牢不可破 [lao2 bu4 ke3 po4] {lou4 bat1 ho2 po3} /(proverb) something is very strong and unbreakable indissoluble; Or someone's belief is adamant./
-牧場 牧场 [mu4 chang3] {muk6 coeng4} /(noun)  Farm/
+牧場 牧场 [mu4 chang3] {muk6 coeng4} /pâture; pâturage/ferme/
 牧放 牧放 [mu4 fang4] {muk6 fong3} /to herd/
-牧童笛 牧童笛 [mu4 tong2 di2] {muk6 tung4 dek2} /(musical instrument) a Recorder/
-牧羊狗 牧羊狗 [mu4 yang2 gou3] {muk6 joeng4 gau2} /a shepherd dog/
+牧童笛 牧童笛 [mu4 tong2 di2] {muk6 tung4 dek2} /flûte à bec/
+牧羊狗 牧羊狗 [mu4 yang2 gou3] {muk6 joeng4 gau2} /(chien) berger/
 物以罕為貴 物以罕为贵 [wu4 yi3 han3 wei2 gui4] {mat6 ji5 hon2 wai4 gwai3} /(adjective) something is limited, is expensive/
-物件 物件 [wu4 jian4] {mat6 gin2} /item/
+物件 物件 [wu4 jian4] {mat6 gin2} /objet; chose/
 物似主人形 物似主人形 [wu4 shi4 zhu3 ren2 xing2] {mat6 ci5 zyu2 jan4 jing4} /(proverb) something is similar to its master/
 物態 物态 [wu4 tai4] {mat6 taai3} /states of matter/
 物換星移 物换星移 [wu4 huan4 xing1 yi2] {mat6 wun6 sing1 ji4} /things can change as stars move (idiom)/
