@@ -13363,7 +13363,7 @@
 特區護照 特区护照 [te4 qu1 hu4 zhao4] {dak6 keoi1 wu6 ziu3} /passeport de Hong Kong/
 特大 特大 [te4 da4] {dak6 daai6} /très grand; extra-large/
 特效藥 特效药 [te4 xiao4 yao4] {dak6 haau6 joek6} /remède efficace/remède miracle/
-???? 特此通知 特此通知 [te4 ci3 tong1 zhi1] {dak6 ci2 tung1 zi1} /it is hereby notified that; it is hereby announced that/
+????c 特此通知 特此通知 [te4 ci3 tong1 zhi1] {dak6 ci2 tung1 zi1} /it is hereby notified that; it is hereby announced that/
 ????f 特殊化 特殊化 [te4 shu1 hua4] {dak6 syu4 faa3} /devenir privilégié; obtenir davantage de privilèges/
 特殊性 特殊性 [te4 shu1 xing4] {dak6 syu4 sing3} /particularité/
 特獎 特奖 [te4 jiang3] {dak6 zoeng2} /prix spécial/
@@ -13380,23 +13380,24 @@
 犛牛 犛牛 [li2 niu2] {lei4 ngau4} /yak; yack/
 犬 犬 [quan3] {hyun2} /canin/canidé/
 犬子 犬子 [quan3 zi3] {hyun2 zi2} /(litt.) chiot/(litt., humble) mon fils/
-犬牙交錯 犬牙交错 [quan3 ya2 jiao1 cuo4] {hyun2 ngaa4 gaau1 co3} /(idiom) something is intricate and complicated/
+犬牙交錯 犬牙交错 [quan3 ya2 jiao1 cuo4] {hyun2 ngaa4 gaau1 co3} /(expr. idiom.) entrelacés; qui s'encastrent; qui s'imbriquent/(expr. idiom., fig.) (une situation) complexe; un fouillis/
 犬部 犬部 [quan3 bu4] {hyun2 bou6} /radical Kangxi 94, «犬»/
 犯人 犯人 [fan4 ren2] {faan6 jan4} /prisonnier, prisonnière; détenu, détenue/
-犯小人 犯小人 [fan4 xiao3 ren2] {faan6 siu2 jan2} /to be lacking in luck/
-犯忌 犯忌 [fan4 ji4] {faan6 gei6} /to violate a taboo/
-犯眾憎 犯众憎 [fan4 zhong4 zeng1] {faan6 zung3 zang1} /describes a situation where a person is hated by many people/
+????c 犯小人 犯小人 [fan4 xiao3 ren2] {faan6 siu2 jan2} /to be lacking in luck/to do bad things in order to reach your goals/
+犯忌 犯忌 [fan4 ji4] {faan6 gei6} /enfreindre un tabou/
+犯忌諱 犯忌讳 [fan4 ji4 hui4] {faan6 gei6 wai5} /enfresindre un tabou/
+犯眾憎 犯众憎 [fan4 zhong4 zeng1] {faan6 zung3 zang1} /être détesté de tous; être cible de la colère du public/
 犯罪記錄 犯罪记录 [fan4 zui4 ji4 lu4] {faan6 zeoi6 gei3 luk6} /casier judiciaire/
-犯賤 犯贱 [fan4 jian4] {faan6 zin6} /(slang) someone is pleasure from masochistic behaviour; Someone asks for pain and suffer/
-狀 状 [zhuang4] {zong6} /(noun) 1. Attorney; 2. Form; 3. Status; 4. Record (of reward); (adjective)  /
-狀師 状师 [zhuang4 shi1] {zong6 si1} /barrister/
+????c 犯賤 犯贱 [fan4 jian4] {faan6 zin6} /s'avilir; se rabaisser/
+狀 状 [zhuang4] {zong6} /avocat, avocate/forme (d'un objet)/état/document; archive/certificat/plainte/
+狀師 状师 [zhuang4 shi1] {zong6 si1} /avocat, avocate; avocat plaidant, avocate plaidante/
 狀態 状态 [zhuang4 tai4] {zong6 taai3} /état/condition physique/
-狀態參數 状态参数 [zhuang4 tai4 can1 shu4] {zong6 taai3 caam1 sou3} /status parameters/
-狀棍 状棍 [zhuang4 gun4] {zong6 gwan3} /a pettifogger; a shyster/
-狀貌 状貌 [zhuang4 mao4] {zong6 maau6} /appearance/
-狂 狂 [kuang2] {kwong4} /fanatic; fanatical/
-狂奔 狂奔 [kuang2 ben1] {kwong4 ban1} /to run like mad/
-狂毆 狂殴 [kuang2 ou1] {kwong4 au2} /to clobber/
+狀態參數 状态参数 [zhuang4 tai4 can1 shu4] {zong6 taai3 caam1 sou3} /(sciences) paramètre de l'état (ex. paramètre de l'état thermophysique)/
+狀棍 状棍 [zhuang4 gun4] {zong6 gwan3} /avocat marron; avocat véreux/
+狀貌 状貌 [zhuang4 mao4] {zong6 maau6} /apparence/forme/
+狂 狂 [kuang2] {kwong4} /fanatique/
+狂奔 狂奔 [kuang2 ben1] {kwong4 ban1} /déguerpir; courir comme un dératé; courir comme des fous/
+狂毆 狂殴 [kuang2 ou1] {kwong4 au2} /cogner; tabasser/
 狂瀾 狂澜 [kuang2 lan2] {kwong4 laan4} /raging tides; roaring waves/
 狎侮 狎侮 [xia2 wu3] {haap6 mou5} /to mock; to tease/
 狎弄 狎弄 [xia2 long4] {haap6 lung6} /(verb) disrespectfully make fun of, indecently tease/
@@ -13406,24 +13407,24 @@
 狐媚 狐媚 [hu2 mei4] {wu4 mei6} /to bewitch / seduce by charm/
 狐狸精 狐狸精 [hu2 li5 jing1] {wu4 lei4 zing1} /female third-person in a relationship/
 狐裘 狐裘 [hu2 qiu2] {wu4 kau4} /a fur coat/
-狗 狗 [gou3] {gau2} /(noun) 1. flunkey; 2. servile follower; 3. lackey; (coarse language)  to curse/scold people as a dog/
-狗乸 狗乸 [gou3 na2] {gau2 naa2} /(noun) female dog/
-狗仔 狗仔 [gou3 zai3] {gau2 zai2} /puppy/
-狗公 狗公 [gou3 gong1] {gau2 gung1} /a male dog/
-狗口長不出象牙 狗口长不出象牙 [gou3 kou3 zhang3 bu4 chu1 xiang4 ya2] {gau2 hau2 coeng2 bat1 ceot1 zoeng6 ngaa4} /one cannot say nice things if always mean (idiom)/
-狗叫聲 狗叫声 [gou3 jiao4 sheng1] {gau2 giu3 seng1} /sound of a dog barking/
+狗 狗 [gou3] {gau2} /chien, chienne/laquais; suiveur ou suiveuse servile/(inj., péj.) (chien, employé comme insulte)/
+狗乸 狗乸 [gou3 na2] {gau2 naa2} /chienne/
+狗仔 狗仔 [gou3 zai3] {gau2 zai2} /chiot/
+狗公 狗公 [gou3 gong1] {gau2 gung1} /chien/
+狗口長不出象牙 狗口长不出象牙 [gou3 kou3 zhang3 bu4 chu1 xiang4 ya2] {gau2 hau2 coeng2 bat1 ceot1 zoeng6 ngaa4} /(expr. idiom.) (personne) critique; toujours prompt à critiquer les autres/(lit.) une grande bouche de chien n'a pas d'ivoire/ 
+狗叫聲 狗叫声 [gou3 jiao4 sheng1] {gau2 giu3 seng1} /(lit.) son d'un chien qui aboie/
 狗咬呂洞賓 狗咬吕洞宾 [gou3 yao3 Lü3 Dong4 bin1] {gau2 ngaau5 leoi5 dung6 ban1} /to describe someone who is unable to tell good from bad and ill rewards someone's kindness /
 狗咬狗骨 狗咬狗骨 [gou3 yao3 gou3 gu3] {gau2 ngaau5 gau2 gwat1} /(slang) internal argument and fighting within a group such as siblings; "dog-eat-dog"/
 狗噏 狗噏 [gou3 xi1] {gau2 ap1} /bark or talk without reasons (spoken)/
-狗女 狗女 [gou3 nü3] {gau2 neoi5} /a terrier/
+狗女 狗女 [gou3 nu:3] {gau2 neoi5} /a terrier/
 狗尾粟 狗尾粟 [gou3 wei3 su4] {gau2 mei5 suk1} /yellow rice/
-狗屎垃圾 狗屎垃圾 [gou3 shi3 la1 ji1] {gau2 si2 laap6 saap3} /(slang) every small things; junks; bits and bobs/
-狗屎拉雜 狗屎拉杂 [gou3 shi3 la1 za2] {gau2 si2 laap6 zaap6} /a hotchpotch of things/
+狗屎垃圾 狗屎垃圾 [gou3 shi3 la1 ji1] {gau2 si2 laap6 saap3} /(fam.) bric-à-brac; bagatelles; bricoles; petites choses sans importance/(lit.) crotte de chien et un fouillis/
+狗屎拉雜 狗屎拉杂 [gou3 shi3 la1 za2] {gau2 si2 laap6 zaap6} /(fam.) bric-à-brac; bagatelles; bricoles; petites choses sans importance/(lit.) crotte de chien et un fouillis/
 狗屎當乾薑 狗屎当乾薑 [gou3 shi3 dang1 gan1 jiang1] {gau2 si2 dong3 gon1 goeng1} /'the geese are swans'/
-狗毛 狗毛 [gou3 mao2] {gau2 mou4} /(noun) dog hair/
-狗毛蟲 狗毛虫 [gou3 mao2 chong2] {gau2 mou4 cung4} /(animal) woolly bear caterpillar/
+狗毛 狗毛 [gou3 mao2] {gau2 mou4} /poils de chien/
+狗毛蟲 狗毛虫 [gou3 mao2 chong2] {gau2 mou4 cung4} /chenilles « woolly bear »; chenilles avec de poils oranges et noirs/
 狗爪邊 狗爪边 [gou3 zhao3 bian1] {gau2 zaau2 bin1} /(Chinese radical) in a component form "犭"/
-狗牙 狗牙 [gou3 ya2] {gau2 ngaa4} /zig-zagged; jagged (spoken)/
+狗牙 狗牙 [gou3 ya2] {gau2 ngaa4} /denté; dentelé/(lit.) dents de chien/
 狗眼看人低 狗眼看人低 [gou3 yan3 kan4 ren2 di1] {gau2 ngaan5 hon3 jan4 dai1} /to describe someone who acts like a snob and looks down on others /
 狗竇 狗窦 [gou3 dou4] {gau2 dau3} /(noun)  messy room/
 狗竇咁亂 狗窦咁乱 [gou3 dou4 gan1 luan4] {gau2 dau3 gam3 lyun6} /messy like a pig sty/
@@ -18091,8 +18092,7 @@
 請槍 请枪 [qing3 qiang1] {ceng2 coeng1} /hiring someone to handle one's own duty or work; hiring someone to do an exam on one's behalf/
 請求 请求 [qing3 qiu2] {cing2 kau4} /1. demand 2. ask for 3. to beg/
 請鎗 请鎗 [qing3 cheng1] {cing2 coeng1} /paying someone to inpersonate or disguise as one (slang)/
-請飲 请饮 [qing3 yin3] {ceng2 jam2} /being invited to the wedding or a formal banquet/
-請飲咖啡 请饮咖啡 [qing3 yin3 ka1 fei1] {ceng2 jam2 gaa3 fe1} /to invite for coffee; (ICAC) to bring in a suspect for interrogation/
+請飲 请饮 [qing3 yin3] {ceng2 jam2} /being invited to the wedding or a formal banquenvite for coffee; (ICAC) to bring in a suspect for interrogation/
 論功行賞 论功行赏 [lun4 gong1 xing2 shang3] {leon6 gung1 hang4 soeng2} /to reward people according to their contributions/
 論盡 论尽 [lun4 jin4] {leon6 zeon6} /(adj.) clumsy, usually refers to person or object; careless; cumbersome; all fingers and thumbs/
 論著 论著 [lun4 zhu4] {leon6 zyu3} /a treatise; works; book/
@@ -22430,5 +22430,8 @@
 想著 想着 [xiang3 zhe] {soeng2 zoek6} /garder à l'esprit, tenir compte de/n'oubliez pas de.../
 累死累活 累死累活 [lei4 si3 lei4 huo2] {leoi6 sei2 leoi6 wut6} /travailler jusqu'à l'épuisement, se tuer au travail/faire du surmenage/
 鶴 鹤 [he4] {hok2} /(fig.) maigrichon, tout maigre/(lit.) grue/
+滯銷貨 滞销货 [zhi4 xiao1 huo4] {zai6 siu1 fo3} /produit invendable/
+
+/
 滯銷貨 滞销货 [zhi4 xiao1 huo4] {zai6 siu1 fo3} /produit invendable/
 
