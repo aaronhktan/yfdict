@@ -13727,14 +13727,14 @@
 生仔冇屎忽 生仔冇屎忽 [sheng1 zi3 mao3 shi3 hu1] {sang1 zai2 mou5 si2 fat1} /(inj.) (insulte envers une personne à qui l'on parle)/(lit.) que vous donnez naissance à un fils sans fesses!/
 生仔冇屎窟 生仔冇屎窟 [sheng1 zi3 mao3 shi3 ku1] {sang1 zai2 mou5 si2 fat1} /(inj.) (insulte envers une personne à qui l'on parle)/(lit.) que vous donnez naissance à un fils sans fesses!/
 生仔唔知仔心肝 生仔唔知仔心肝 [sheng1 zi3 n2 zhi1 zi3 xin1 gan1] {sang1 zai2 m4 zi1 zai2 sam1 gon1} /(expr. idiom.) ne plus comprendre ses enfants/(lit.) donner naissance (à quelqu'un) mais ne pas connaître leur cœur ni leur foie/ 
-生保人 生保人 [sheng1 bao3 ren5] {sang1 bou2 jan4} /un inconnu; une inconnue/
+生保人 生保人 [sheng1 bao3 ren5] {saang1 bou2 jan4} /un inconnu; une inconnue/
 生前 生前 [sheng1 qian2] {sang1 cin4} /dans la vie (d'une personne décédée)/
 ????f 生劏 生劏 [sheng1 dang1] {saang1 tong1} /tuer/abattre (un animal)/
 生力 生力 [sheng1 li4] {sang1 lik6} /San Miguel, marque de bière/
 生力軍 生力军 [sheng1 li4 jun1] {sang1 lik6 gwan1} /troupes fraîches/nouveau membre/
 生動活潑 生动活泼 [sheng1 dong4 huo2 po5] {saang1 dung6 wut6 put3} /vif; vigoureux/
 生勾勾 生勾勾 [sheng1 gou1 gou1] {saang1 ngau1 ngau1} /cru; pas cuit/toujours vivant; bien vivant; plein de vie/
-生埗 生埗 [sheng1 bu4] {sang1 bou2} /étrange; bizarre; inhabituel/
+生埗 生埗 [sheng1 bu4] {saang1 bou2} /étrange; bizarre; inhabituel/
 生壅 生壅 [sheng1 yong1] {saang1 ung1} /enterré vivant/
 生存 生存 [sheng1 cun2] {sang1 cyun4} /survivre; exister/
 生存空間 生存空间 [sheng1 cun2 kong1 jian1] {saang1 cyun4 hung1 gaan1} /Lebensraum; « espace vital »/
@@ -13774,15 +13774,15 @@
 生活條件 生活条件 [sheng1 huo2 tiao2 jian4] {sang1 wut6 tiu4 gin2} /conditions de vie/
 生活水準 生活水准 [sheng1 huo2 shui3 zhun3] {sang1 wut6 seoi2 zeon2} /niveau de vie/
 ????f 生活環境 生活环境 [sheng1 huo2 huan2 jing4] {sang1 wut6 waan4 ging2} /atmosphère/milieu/conditions de vie/cadre de vie/
-生活習慣 生活习惯 [sheng1 huo2 xi2 guan4] {sang1 wut6 zaap6 gwaan3} /lifestyle/
-生滾 生滚 [sheng1 gun3] {saang1 gwan2} /(mode de cuisson) faire cuire des minces lamelles de viande crue dans du congee bouillant/
+生活習慣 生活习惯 [sheng1 huo2 xi2 guan4] {sang1 wut6 zaap6 gwaan3} /mode de vie; style de vie/
+生滾 生滚 [sheng1 gun3] {saang1 gwan2} /(mode de cuisson) faire cuire des minces lamelles de viande crue dans du congee porté à ébullition/
 生烏雞 生乌鸡 [sheng1 wu1 ji1] {saang1 wu1 gai1} /(fig.) (vêtements) développer de la moissiure/(lit.) donner naissance à des poules soie (des poules noires)/
 生猛海鮮 生猛海鲜 [sheng1 meng3 hai3 xian1] {saang1 maang5 hoi2 sin1} /produits de la mer vivants/
 生理衛生 生理卫生 [sheng1 li3 wei4 sheng1] {sang1 lei5 wai6 sang1} /santé physiologique/(par euphémisme) éducation sexuelle/
 生產過程 生产过程 [sheng1 chan3 guo4 cheng2] {sang1 caan2 gwo3 cing4} /processus de fabrication/
 生產量 生产量 [sheng1 chan3 liang4] {sang1 caan2 loeng6} /volume de production/
-生癪 生癪 [sheng1 ji1] {saang1 zik1} /chronic indigestion in children whereby the nutrition is poorly absorbed by the body, resulting in malnutrition/
-生積 生积 [sheng1 ji1] {saang1 zik1} /chronic indigestion in children whereby the nutrition is poorly absorbed by the body, resulting in malnutrition/
+生癪 生癪 [sheng1 ji1] {saang1 zik1} /indigestion chronique chez l'enfant qui provoque la malnutrition/
+生積 生积 [sheng1 ji1] {saang1 zik1} /indigestion chronique chez l'enfant qui provoque la malnutrition/
 生膠 生胶 [sheng1 jiao1] {sang1 gaau1} /caoutchouc transparent/
 生舊叉燒好過生你 生旧叉烧好过生你 [sheng1 jiu4 cha1 shao1 hao3 guo4 sheng1 ni3] {saang1 gau6 caa1 siu1 hou2 gwo3 sang1 nei5} /(insulte envers son enfant)/(lit.) j'aurais préféré donner naissance à un morceau de char siu que de donner naissance à toi!/ 
 生色 生色 [sheng1 se4] {sang1 sik1} /égayer; illuminer; ajouter de la couleur à/(fig.) donner de la couleur à; rendre (un évènement) plus significatif/
@@ -13798,53 +13798,54 @@
 生螆 生螆 [sheng1 ci4] {saang1 zi1} /infesté de poux/(animal) avoir une maladie de la peau/
 生螆貓 生螆猫 [sheng1 ci4 mao1] {saang1 zi1 maau1} /chat qui a des puces/
 生螆貓入眼 生螆猫入眼 [sheng1 ci4 mao1 ru4 yan3] {sang1 zi1 maau1 jap6 ngaan5} /(expr. idiom.) (amour) coup de foudre/(lit.) comme un chat avec une teigne dans l'œil/
-生蟲 生虫 [sheng1 chong2] {saang1 cung4} /(verb) have parasites; (disease) people have worms/
-生蟲拐杖 生虫拐杖 [sheng1 chong2 guai3 zhang4] {saang1 cung4 gwaai2 zoeng2} /to describe someone or something that is unreliable/
-生蟲枴杖 生虫拐杖 [sheng1 chong2 guai3 zhang4] {saang1 cung4 gwaai2 zoeng2} /(noun) a walking stick that grows parasites, stick-bugs/
-生蠔 生蚝 [sheng1 hao2] {saang1 hou4} /oyster/
-生豬 生猪 [sheng1 zhu1] {saang1 zyu1} /a live pig/
-生部 生部 [sheng1 bu4] {saang1 bou2} /if read as 'sang1 bou6', this refers to the number 100 of Kangxi radical. If read as 'saang1 bou2' this is to describe something unfamiliar (such as a person or environment)/
-生鍟 生鍟 [sheng1 sheng1] {saang1 seng3} /rust/
-生鏽 生锈 [sheng1 xiu4] {saang1 sau3} /rust/
-生雞 生鸡 [sheng1 ji1] {sang1 gai1} /uncastrated adult male cock/
-生雞精 生鸡精 [sheng1 ji1 jing1] {sang1 gai1 zing1} /chicken essense/
-生飛螆 生飞螆 [sheng1 fei1 ci4] {saang1 fei1 zi1} /(noun) have oral ulcer/
-生骨大頭菜 生骨大头菜 [sheng1 gu3 da4 tou2 cai4] {saang1 gwat1 daai6 tau4 coi3} /(slang with figurative meaning) a spoiled kid or brat/
-生鬼 生鬼 [sheng1 gui3] {saang1 gwai2} /(adjective) funny; interesting; comical; humorous; madcap/
-生魚 生鱼 [sheng1 yu2] {saang1 jyu2} /a snakehead (a type of fish) /
-生鹽 生盐 [sheng1 yan2] {sang1 jim4} /unprocessed salt/
-產業界 产业界 [chan3 ye4 jie4] {caan2 jip6 gaai3} /the industry/
-用事 用事 [yong4 shi4] {jung6 si6} /to be in power; to allow the swaying of one's action as a result of something (for example one's emotions '感情用事')/
-用兵 用兵 [yong4 bing1] {jung6 bing1} /resort to arms; the use of troops / military forces/
-用其所長 用其所长 [yong4 qi2 suo3 chang2] {jung6 kei4 so2 coeng4} /fully utilize someone's strength/
-用刑 用刑 [yong4 xing2] {jung6 jing4} /the use of torture/
-用到 用到 [yong4 dao4] {jung6 dou3} /(very) to employ; to use; to apply; to utilize (of money) to spend;/
-用勁 用劲 [yong4 jin4] {jung6 ging6} /exert oneself/
-用品 用品 [yong4pin3] {jung6 ban2} /(noun) Amenity/
-用嚟 用嚟 [yong4 li2] {jung6 lei4} /to use as/
-用地 用地 [yong4 di4] {jung6 dei6} /usage of land/
-用家 用家 [yong4 jia1] {jung6 gaa1} /user/
-用心 用心 [yong4 xin1] {jung6 sam1} /to put in a real effort/
-用戶介面 用户介面 [yong4 hu4 jie4 mian4] {jung6 wu6 gaai3 min2} /user Interface/
+生蟲 生虫 [sheng1 chong2] {saang1 cung4} /avoir des parasites/
+生蟲拐杖 生虫拐杖 [sheng1 chong2 guai3 zhang4] {saang1 cung4 gwaai2 zoeng2} /(expr. idiom.) personne irresponsable/(lit.) canne infestée par des insectes/
+生蟲枴杖 生虫拐杖 [sheng1 chong2 guai3 zhang4] {saang1 cung4 gwaai2 zoeng2} /(expr. idiom.) personne irresponsable/(lit.) canne infestée par des insectes/
+生蠔 生蚝 [sheng1 hao2] {saang1 hou4} /huître/
+生豬 生猪 [sheng1 zhu1] {saang1 zyu1} /cochon vivant/
+生部 生部 [sheng1 bu4] {saang1 bou6} /radical Kangxi 100, « 生 »/
+生部 生部 [sheng1 bu4] {saang1 bou2} /étrange; bizarre; inhabituel/
+生鍟 生鍟 [sheng1 sheng1] {saang1 seng3} /rouiller/rouillé/
+生鏽 生锈 [sheng1 xiu4] {saang1 sau3} /rouiller/rouillé/
+生雞 生鸡 [sheng1 ji1] {sang1 gai1} /coq/
+生雞精 生鸡精 [sheng1 ji1 jing1] {sang1 gai1 zing1} /(fig.) dragueur; obsédé sexuel/(lit.) semence de coq/
+生飛螆 生飞螆 [sheng1 fei1 ci4] {saang1 fei1 zi1} /avoir des ulcères de la bouche/
+生骨大頭菜 生骨大头菜 [sheng1 gu3 da4 tou2 cai4] {saang1 gwat1 daai6 tau4 coi3} /(expr. en suspens) enfant gâté/(lit.) faire pousser une plante toute dure (= une mauvaise plante ou une plante pas savoureuse)/
+生鬼 生鬼 [sheng1 gui3] {saang1 gwai2} /(fig.) drôle; marrant; hilarant/(fig.) intéressant; captivant; attirant/(lit.) donner naissance aux esprits/
+生魚 生鱼 [sheng1 yu2] {saang1 jyu2} /(poissons) Channidae; têtes-de-serpent/
+生鹽 生盐 [sheng1 yan2] {sang1 jim4} /sel brut; sel non raffiné/
+產業界 产业界 [chan3 ye4 jie4] {caan2 jip6 gaai3} /industrie/
+用事 用事 [yong4 shi4] {jung6 si6} /(litt.) détenir le pouvoir/(litt.) faire références littéraires/se laisser influencer par... (ex. 感情用事|感情用事 « agir sous l'influence de ses émotions »)/
+用兵 用兵 [yong4 bing1] {jung6 bing1} /recourir aux armes/
+????f 用其所長 用其所长 [yong4 qi2 suo3 chang2] {jung6 kei4 so2 coeng4} /utiliser toute sa force; employer toutes ses forces/
+用刑 用刑 [yong4 xing2] {jung6 jing4} /torturer; recourir à la torture/
+用到 用到 [yong4 dao4] {jung6 dou3} /utiliser; employer/dépenser (de l'argent)/qui peut être utilisé; utile/
+用勁 用劲 [yong4 jin4] {jung6 ging6} /se donner du mal; faire un effort; faires des efforts/
+用品 用品 [yong4pin3] {jung6 ban2} /matériel/provisions/produit/
+用嚟 用嚟 [yong4 li2] {jung6 lei4} /utiliser pour; servir à/
+用地 用地 [yong4 di4] {jung6 dei6} /terre consacrée à; terre utilisée pour.../
+用家 用家 [yong4 jia1] {jung6 gaa1} /utilisateur/
+用心 用心 [yong4 xin1] {jung6 sam1} /intention/attentivement; de tout son cœur/se donner du mal/
+用戶介面 用户介面 [yong4 hu4 jie4 mian4] {jung6 wu6 gaai3 min2} /interface utilisateur/
 用手 用手 [yong4 shou3] {jung6 sau2} /(verb) to use hands; To work with your hands/
 用武 用武 [yong4 wu3] {jung6 mou5} /use force; to display one's abilities or talents/
 用神 用神 [yong4 shen2] {jung6 san4} /concentrate; to trouble oneself; to take the trouble to do something/
-用處 用处 [yong4chu5] {jung6 cyu3} /(verb) Use as/
+用處 用处 [yong4chu5] {jung6 cyu3} /usage; fonction/
 用詞不當 用词不当 [yong4 ci2 bu4 dang4] {jung6 ci4 bat1 dong3} /inappropriate choice of words/
-用費 用费 [yong4 fei4] {jung6 fai3} /expense/
-用途 用途 [yong4 tu2] {jung6 tou4} /usage/
+用費 用费 [yong4 fei4] {jung6 fai3} /dépenses; frais/
+用途 用途 [yong4 tu2] {jung6 tou4} /usage; fonction/
 甩 甩 [shuai3] {lat1} /(verb) 1. get rid of; (of joints in human body) 2.dislocate/
-甩嘴 甩嘴 [shuai3 zui3] {lat1 zeoi2} /(verb) to make lip sync mistakes; (noun) lip sync fails/
+甩嘴 甩嘴 [shuai3 zui3] {lat1 zeoi2} /(verb) to make lip sync mistakes; (noun) lip sync fails/be unable to keep a beat; to forget the lyrics/
 甩底 甩底 [shuai3 di3] {lat1 dai2} /(phrasal verb) to stand someone up; not turning up for a date or appointment; to break a promise; to fail to so something as promised; to have a secret exposed; to mess up something; to have the base (usually of a container) falling off./
-甩拖 甩拖 [shuai3 tuo1] {lat1 to1} /to break off a romantic relationship/
-甩期 甩朞 [shuai3 ji1] {lat1 kei4} /(verb) unpunctual; delay; late/
-甩牙 甩牙 [shuai3 ya2] {lat1 ngaa4} /(verb) loss a tooth; or (slang) someone is slurring/
+甩拖 甩拖 [shuai3 tuo1] {lat1 to1} /rompre une relation amoureuse; casser/
+甩期 甩期 [shuai3 ji1] {lat1 kei4} /être en retard/dépasser la date limite; ne pas respecter le délai/
+甩牙 甩牙 [shuai3 ya2] {lat1 ngaa4} /perdre une dent/(fig.) manger ses mots; bredouiller; mal articuler/
 甩甩離 甩甩离 [shuai3 shuai3 li2] {lat1 lat1 lei4} /not attached well; to describe something that is on the verge of falling off/
-甩皮甩骨 甩皮甩骨 [shuai3 pi2 shuai3 gu3] {lat1 pei4 lat1 gwat1} /to be in a bad shape; to have fallen apart; to have fallen into pieces /
-甩繩馬騮 甩绳马骝 [shuai3 sheng2 ma3 liu2] {lat1 sing2 maa5 lau1} /describes a person (usually a child) who has regained freedom after being restrained and is now acting up; literally 'a monkey whose rope has been untangled '; someone who is unruly or out of control/
-甩肺 甩肺 [shuai3 fei4] {lat1 fai3} /very serious (spoken)/
-甩色 甩色 [shuai3 se4] {lat1 sik1} /a phenomenon where the color is fading; discoloration/
-甩褲 甩裤 [shuai3 ku4] {lat1 fu3} /falling pants (spoken)/
+甩皮甩骨 甩皮甩骨 [shuai3 pi2 shuai3 gu3] {lat1 pei4 lat1 gwat1} /(expr. idiom.) abîmé; en mauvais état; tombé en morceaux/(lit.) avoir la peau et os qui tombent/
+甩繩馬騮 甩绳马骝 [shuai3 sheng2 ma3 liu2] {lat1 sing2 maa1 lau1} /(expr. idiom.) enfant hors contrôle/(lit.) singe sans laisse/
+甩肺 甩肺 [shuai3 fei4] {lat1 fai3} /(fig.) très grave/(lit.) poumouns qui tombent/
+甩色 甩色 [shuai3 se4] {lat1 sik1} /déteindre; perdre sa couleur/
+????c 甩褲 甩裤 [shuai3 ku4] {lat1 fu3} /falling pants (spoken)/take off pants/to be extremely humiliated/
 甩身 甩身 [shuai3 shen1] {lat1 san1} /(v.) to finally end your painful relationship with someone or something, such as a job or a lover; to escape (from something or someone); to get out of an undesirable situation; to get out of trouble./
 甩難 甩难 [shuai3 nan2] {lat1 naan6} /(verb) to get rid of; off the hook; to escape from troubles/
 甩頭髮 甩头发 [shuai3 tou2 fa5] {lat1 tau4 faat3} /falling hair (spoken)/
@@ -22432,8 +22433,5 @@
 想著 想着 [xiang3 zhe] {soeng2 zoek6} /garder à l'esprit, tenir compte de/n'oubliez pas de.../
 累死累活 累死累活 [lei4 si3 lei4 huo2] {leoi6 sei2 leoi6 wut6} /travailler jusqu'à l'épuisement, se tuer au travail/faire du surmenage/
 鶴 鹤 [he4] {hok2} /(fig.) maigrichon, tout maigre/(lit.) grue/
-滯銷貨 滞销货 [zhi4 xiao1 huo4] {zai6 siu1 fo3} /produit invendable/
-
-/
 滯銷貨 滞销货 [zhi4 xiao1 huo4] {zai6 siu1 fo3} /produit invendable/
 
