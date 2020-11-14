@@ -14374,12 +14374,12 @@
 ????f 監粗來 监粗来 [jian1 cu1 lai2] {gaam3 cou1 lei4} /faire par la force; forcer/ 
 ????f 監粗嚟 监粗嚟 [jian1 cu1 li2] {gaam3 cou1 lai2} /faire par la force; forcer/
 監護病房 监护病房 [jian1 hu4 bing4 fang2] {gaam1 wu6 beng6 fong2} /unité de soins intensifs/
-監頭 监头 [jian1 tou2] {gaam1 tau4} /head of prison officer (spoken)/
+監頭 监头 [jian1 tou2] {gaam1 tau2} /gardien de prison/
 盤 盘 [pan2] {pun4} /territoire/chantier (de construction)/questionner; interroger/
-盤口 盘口 [pan2 kou3] {pun4 hau2} /the buying and selling price of illegal betting or gambling (spoken)/
-盤滿缽滿 盘满钵满 [pan2 man3 bo1 man3] {pun4 mun5 but3 mun5} /great harvest; lots of riches/
-盤結 盘结 [pan2 jie2] {pun4 git3} /to collude with; to gang up with; to be in a knot/
-盤錢 盘钱 [pan2 qian2] {pun4 cin2} /to examine thoroughly, luggage at customs/
+????f 盤口 盘口 [pan2 kou3] {pun4 hau2} /estimation; devis/prix de paris dans de jeux illégaux/
+盤滿缽滿 盘满钵满 [pan2 man3 bo1 man3] {pun4 mun5 but3 mun5} /(expr. idiom.) obtenir une grande somme d'argent/(expr. idiom.) avoir une bonne récolte/
+????c 盤結 盘结 [pan2 jie2] {pun4 git3} /enrouler/to collude with; to gang up with; to be in a knot/
+盤錢 盘钱 [pan2 qian2] {pun4 cin2} /(contrôle douanier) inspecter (les bagages) à fond/
 盥洗盆 盥洗盆 [guan4 xi3 pen2] {gun3 sai2 pun4} /vasque; lavabo/
 目前 目前 [mu4 qian2] {muk6 cin4} /maintenant; en ce moment; présentement; à cette heure/
 目前為止 目前为止 [mu4 qian2 wei2 zhi3] {muk6 cin4 wai4 zi2} /jusqu'ici; jusqu'à présent/
@@ -14387,42 +14387,42 @@
 目定口呆 目定口呆 [mu4 ding4 kou3 dai1] {muk6 ding6 hau2 ngoi4} /(expr.) abasourdi; ébahi; stupéfait/
 目標管理 目标管理 [mu4 biao1 guan3 li3] {muk6 biu1 gun2 lei5} /DPO, direction par objectifs (ou « management by objectives » en anglais)/
 ???f 目見 目见 [mu4 jian4] {muk6 gin3} /voir par soi-même/
-盲人瞎馬 盲人瞎马 [mang2 ren2 xia1 ma3] {maang4 jan4 hat6 maa5} /rush headlong into disaster/
+盲人瞎馬 盲人瞎马 [mang2 ren2 xia1 ma3] {maang4 jan4 hat6 maa5} /(expr. idiom.) se plonger dans le désastre/(lit.) homme aveugle sur un cheval aveugle/
 盲公 盲公 [mang2 gong1] {maang4 gung1} /homme aveugle (s'emploie généralement pour désigner un vieil homme aveugle)/
-盲公竹 盲公竹 [mang2 gong1 zhu2] {maang4 gung1 zuk1} /(noun) a blind person's cane; a guide cane; (of metaphor) a guide who gives directions; a guardian or a mentor who gives directions or advice on life/
-盲公繩 盲公绳 [mang2 gong1 sheng2] {maang4 gung1 sing2} /treasury tag/
+盲公竹 盲公竹 [mang2 gong1 zhu2] {maang4 gung1 zuk1} /canne blanche (utilisée par les personnes aveugles ou malvoyantes)/(fig.) personne très experimentée en quelque chose; personne qui donne des conseils; personne qui montre les ficelles du métier/
+????f 盲公繩 盲公绳 [mang2 gong1 sheng2] {maang4 gung1 sing2} /treasury tag; specific type of fastener used to bind several sheets of paper together/
 盲公鏡 盲公镜 [mang2 gong1 jing4] {maang4 gung1 geng3} /(fig.) lunettes noires; lunettes de soleil foncées/(lit.) lunettes pour les personnes aveugles/
-盲公餅 盲公饼 [mang2 gong1 bing3] {maang4 gung1 beng2} /"blind-men" cookies, local delicacy of Foshan in Guangdong of China/
-盲動 盲动 [mang2 dong4] {maang4 dung6} /Recklessness/
+盲公餅 盲公饼 [mang2 gong1 bing3] {maang4 gung1 beng2} /biscuits manggong, ou biscuits de l'homme aveugle, spécialité de la ville de Foshan/
+盲動 盲动 [mang2 dong4] {maang4 dung6} /agir imprudemment/
 盲妹 盲妹 [mang2 mei4] {maang4 mui6} /fille aveugle/
 盲婆 盲婆 [mang2 po2] {maang4 po4} /femme aveugle/
 盲婚 盲婚 [mang2 hun1] {maang4 fan1} /mariage arrangé/
 盲婚啞嫁 盲婚哑嫁 [mang2 hun1 ya3 jia4] {maang4 fan1 aa2 gaa3} /mariage arrangé/
 盲年 盲年 [mang2 nian2] {maang4 nin4} /Blind year, a year without Lichun (start of spring, when the sun is exactly at the celestial longitude of 315°), considered an unlucky year for marriage/
 盲摸摸 盲摸摸 [mang2 mo1 mo5] {maang4 mo2 mo2} /(adjective) to have bad eyesightht; blurred; (of a situation or something) unclear; uncomprehending; vague (adverb) to describe how one is doing something blindly, without a proper understanding of it/
-盲棋 盲棋 [mang2 qi2] {maang4 kei4} /blind chess/
+盲棋 盲棋 [mang2 qi2] {maang4 kei4} /partie à l'aveugle/
 盲毛 盲毛 [mang2 mao2] {maang4 mou4} /(noun) someone not sees things carelessly; someone cannot see/
-盲目 盲目 [mang2mu4] {maang4 muk6} /(adjective) Purposeless/
-盲眼 盲眼 [mang2 yan3] {maang4 ngaan5} /(adjective) blind; unseeing/
+盲目 盲目 [mang2 mu4] {maang4 muk6} /aveugle/(fig.) ignorant/
+盲眼 盲眼 [mang2 yan3] {maang4 ngaan5} /aveugle/
 盲頭烏蠅 盲头乌蝇 [mang2 tou2 wu1 ying2] {maang4 tau4 wu1 jing1} /(act like) a headless chicken/
 盲鰽 盲鰽 [mang2 qiu2] {maang4 cou4} /Barramundi (fish) (Lates calcarifer)/
-直 直 [zhi2] {zik6} /(slang) (figurative)  dead/
-直上 直上 [zhi2 shang4] {zik6 soeng5} /straight up; straight on/
+直 直 [zhi2] {zik6} /droit/redresser/direct; franc; sincère/(fig.) hétérosexuel; hétéro/(fig.) mort/
+直上 直上 [zhi2 shang4] {zik6 soeng5} /tout droit/vers le haut/
 直呼 直呼 [zhi2 hu1] {zik6 fu1} /call directly; directly say; directly remark/
-直情 直情 [zhi2 qing2] {zik6 cing4} /it's; really (spoken)/
+直情 直情 [zhi2 qing2] {zik6 cing4} /vraiment; en réalité; en fait/exactement; justement/
 直接影響 直接影响 [zhi2 jie1 ying3 xiang3] {zik6 zip3 jing2 hoeng2} /Direct influence/
 直接貿易 直接贸易 [zhi2 jie1 mao4 yi4] {zik6 zip3 mau6 jik6} /Direct trade/
-直昇機 直升机 [zhi2 sheng1 ji1] {zik6 sing1 gei1} /(noun) a helicopter/
-直板 直板 [zhi2 ban3] {zik6 baan2} /Perfectly straight; bolt upright/
+直昇機 直升机 [zhi2 sheng1 ji1] {zik6 sing1 gei1} /hélicoptère/
+直板 直板 [zhi2 ban3] {zik6 baan2} /parfaitement droit; pas courbé/
 直程 直程 [zhi2 cheng2] {zik6 cing4} /(adverb) definitely; absolutely; totally; completely; directly; undoubtedly; unquestionably; literally; altogether (to do something outright)  /
-直笛 直笛 [zhi2 di2] {zik6 dek2 } /Recorder/
+直笛 直笛 [zhi2 di2] {zik6 dek2} /flûte à bec/
 直筆甩 直笔甩 [zhi2 bi3 shuai3] {zik6 bat1 lat1} /being straight to the point; perfectly straight; bolt upright/
 直落 直落 [zhi2 luo4] {zik6 lok6} /going straight down; moving on/
-直覺 直觉 [zhi2 jue2] {zik6 gok3} /1. sixth sense 2. instincts/
-直資 直资 [zhi2 zi1] {zik6 zi1} /Direct Subsidy Scheme/
+直覺 直觉 [zhi2 jue2] {zik6 gok3} /réflexe; instinct/intuition/sixième sens/
+直資 直资 [zhi2 zi1] {zik6 zi1} /Direct Subsidy Scheme, programme de subventions pour le système d'éducation de Hong Kong/
 直身裙 直身裙 [zhi2 shen1 qun2] {zik6 san1 kwan4} /(noun) a straight skirt/
-直通巴士 直通巴士 [zhi2 tong1 ba1 shi4] {zik6 tung1 baa1 si2} /shuttle express bus or coach/
-直通車 直通车 [zhi2 tong1 che1] {zik6 tung1 ce1} /through train between Hong Kong and Guangzhou/
+直通巴士 直通巴士 [zhi2 tong1 ba1 shi4] {zik6 tung1 baa1 si2} /autobus express; autobus direct/
+直通車 直通车 [zhi2 tong1 che1] {zik6 tung1 ce1} /train direct entre Canton et Hong Kong/train direct/(politique) continuité des fonctions législatives des gouvernements hongkongais et macanais après la rétrocession à la Chine/
 直音 直音 [zhi2 yin1] {zik6 jam1} /traditional method of indicating the pronunciation of a Chinese character by citing another character with the same pronunciation/
 直頭 直头 [zhi2 tou2] {zik6 tau4} /(adv.) altogether (to do something outright), (e.g. 佢唔單止訓得少, 有時直頭唔訓 He doesn't sleep much, sometimes he skips sleeping altogether); definitely; absolutely; totally; completely; directly; undoubtedly; unquestionably; literally/
 相 相 [xiang1] {soeng1} /(noun) 1. photo; (of countenance) 1. Look; 2.appearance; (noun) 1. Premier; 2. Prime minister;/
