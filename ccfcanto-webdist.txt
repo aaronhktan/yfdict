@@ -14649,7 +14649,7 @@
 ????c 睇頭睇尾 睇头睇尾 [di4 tou2 di4 wei3] {tai2 tau4 tai2 mei5} /1. looking from front and back (spoken) 2. look over everything/help with small tasks/take care of chores/
 ????f 睇風水 睇风水 [di4 feng1 shui5] {tai2 fung1 seoi2} /vérifier le feng shui; pratiquer la géomancie/
 睇餸食飯 睇餸食饭 [di4 song4 shi2 fan4] {tai2 sung3 sik6 faan6} /(expr. idiom.) vivre selon ses moyens/(expr. idiom.) s'adapter à la situation/(lit.) regarder les plats puis manger/
-睜眉突眼 睁眉突眼 [zheng1 mei2 tu2 yan3] {zang1 mei4 dat6 ngaan5} /to glare at with eyes wide open/
+睜眉突眼 睁眉突眼 [zheng1 mei2 tu2 yan3] {zang1 mei4 dat6 ngaan5} /(expr. idiom.) lancer un regard furieux/
 督背脊 督背脊 [du1 bei4 ji3] {duk1 bui3 zek3} /(fig.) trahir; dénoncer/(fig.) parler dans son dos/(lit.) poignarder dans le dos/
 ????f 睩 睩 [lu4] {luk1} /rolling (eyes)/
 ????f 睬你都傻 睬你都傻 [cai3 ni3 dou1 sha3] {coi2 nei5 dou1 so4} /(un peu vulg.) je m'en fiche (de ton opinion)/(lit.) je serais un idiot si je me souciais de ton opinion/
@@ -14659,7 +14659,7 @@
 ????f 睡眼惺忪 睡眼惺忪 [shui4 yan3 xing1 song1] {seoi6 ngaan5 sing1 sung1} /(expr. idiom.) yeux lourds de sommeil/
 睡衫 睡衫 [shui4 shan1] {seoi6 saam1} /pyjama/
 睡鋪 睡铺 [shui4 pu4] {seoi6 pou1} /couchette/
-睽異 睽异 [kui2 yi4] {kwai4 ji6} /different comment on the same thing; disagree; differ in opinion/
+睽異 睽异 [kui2 yi4] {kwai4 ji6} /être en désaccord; avoir des opinions différentes/ 
 ????c 瞀里 瞀里 [mao4 li3] {mau6 lei5} /dumb/
 瞄 瞄 [miao2] {miu4} /fixer d'un regard/jeter un coup d'œil/
 瞄準 瞄准 [miao2 zhun3] {miu4 zeon2} /viser/
@@ -14677,52 +14677,52 @@
 瞓街 瞓街 [fen4 jie1] {fan3 gaai1} /(fig.) vivre dans la rue/(lit.) dormir dans les rues/
 瞓衫 瞓衫 [fen4 shan1] {fan3 saam1} /pyjama/
 瞓覺衫 瞓觉衫 [xun4 jiao4 shan1] {fan3 gaau3 saam1} /pyjama/
-瞓身 瞓身 [fen4 shen1] {fan3 san1} /try the best; to devote oneself to/
-瞓過籠 瞓过笼 [fen4 guo4 long2] {fan3 gwo3 lung4} /wake up too late; to oversleep/
-瞓過龍 瞓过龙 [fen4 guo4 long2] {fan3 gwo3 lung4} /(verb) oversleep/
-瞓醒 瞓醒 [fen4 xing3] {fan3 sing2} /awake/
-䁪下眼 䁪下眼 [zhan3 xia4 yan3] {zaam2 haa5 ngaan5} /in the blink of an eye/
-䁪吓眼 䁪吓眼 [zhan3 xia4 yan3] {zaam2 haak3 ngaan5} /with a blink of an eye (spoken)/
-䁪眉䁪眼 䁪眉䁪眼 [zhan3 mei2 zhan3 yan3] {zaam2 mei4 zaam2 ngaan5} /to wink and make signs to one another; to make eyes at someone/
-䁪眼 䁪眼 [zhan3 yan3] {zaam2 ngaan5} /to blink (eyes)/
-瞥伯 瞥伯 [pie1 bo2] {pit3 baak3} /(noun) voyeur; peeping tom; peeping watcher/
-瞧得起 瞧得起 [qiao2 de5 qi3] {ciu4 dak1 hei2} /appreciate; to think highly of someone or something/
-瞬間移動 瞬间移动 [shun4 jian1 yi2 dong4] {seon3 gaan1 ji4 dung6} /Teleportation/
-瞳人 瞳人 [tong2 ren2] {tung4 jan4} /pupil (in eye)/
-𥋇眼 𥋇眼 [zhang3 yan3] {caang3 ngaan5} /dazzling/
-瞻仰 瞻仰 [zhan1yang3] {zim1 joeng5} /(verb) Viewing (or called visitation to a decedent in funeral) /
-矇 蒙 [meng2] {mung4} /(adjective) 1. Unclear; 2. Muddled /
-矇忪 蒙忪 [meng2 song1] {mung1 sung1} /sleepy; drowsy; dopey/
-矇查查 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /clumsy; confused (spoken)/
-矇査査 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /(adjective) blurry; hazy  (adjective) confused; clueless; unclear; muddle-headed/
-矇矇光 蒙蒙光 [meng2 meng2 guang1] {mung1 mung1 gwong1} /Misty light; day break; the early hours after midnight/
-矇茶茶 蒙茶茶 [meng2 cha2 cha2] {mung4 caa4 caa4} /(adjective) blurry; hazy  (adjective) confused; clueless; unclear; muddle-headed/
-矇豬眼 蒙猪眼 [meng2 zhu1 yan3] {mung1 zyu1 ngaan5} /(noun) small eyes/
-矚目 瞩目 [zhu3 mu4] {zuk1 muk6} /eye-catching/
+瞓身 瞓身 [fen4 shen1] {fan3 san1} /faire tout son possible; ne pas ménager ses efforts/
+瞓過籠 瞓过笼 [fen4 guo4 long2] {fan3 gwo3 lung4} /trop dormir; se réveiller en retard/
+瞓過龍 瞓过龙 [fen4 guo4 long2] {fan3 gwo3 lung4} /trop dormir; se réveiller en retard/
+瞓醒 瞓醒 [fen4 xing3] {fan3 sing2} /se réveiller/
+䁪下眼 䁪下眼 [zhan3 xia4 yan3] {zaam2 haa5 ngaan5} /(fig.) en un clin d'œil; en très peu de temps/
+䁪吓眼 䁪吓眼 [zhan3 xia4 yan3] {zaam2 haak3 ngaan5} /(fig.) en un clin d'œil; en très peu de temps/
+䁪眉䁪眼 䁪眉䁪眼 [zhan3 mei2 zhan3 yan3] {zaam2 mei4 zaam2 ngaan5} /(expr. idiom.) faire de l'œil à quelqu'un; faire les yeux doux/
+䁪眼 䁪眼 [zhan3 yan3] {zaam2 ngaan5} /cligner les yeux/
+瞥伯 瞥伯 [pie1 bo2] {pit3 baak3} /voyeur; mateur/
+瞧得起 瞧得起 [qiao2 de5 qi3] {ciu4 dak1 hei2} /tenir quelqu'un en haute estime; penser de bien (à l'égard de quelqu'un)/aimer; apprécier/ 
+瞬間移動 瞬间移动 [shun4 jian1 yi2 dong4] {seon3 gaan1 ji4 dung6} /téléportation/
+瞳人 瞳人 [tong2 ren2] {tung4 jan4} /pupille/
+𥋇眼 𥋇眼 [zhang3 yan3] {caang3 ngaan5} /aveuglant; éblouissant/
+????c 瞻仰 瞻仰 [zhan1 yang3] {zim1 joeng5} /rendre hommage à quelqu'un; saluer la mémoire de quelqu'un/
+矇 蒙 [meng2] {mung4} /pas clair/flou; vague/
+矇忪 蒙忪 [meng2 song1] {mung1 sung1} /fatigué; somnolent; endormi/
+矇查查 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/confus; étourdi/
+矇査査 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/confus; étourdi/
+矇矇光 蒙蒙光 [meng2 meng2 guang1] {mung1 mung1 gwong1} /(fig.) l'aube; lever du jour/(lit.) lumière floue/
+矇茶茶 蒙茶茶 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/confus; étourdi/
+????f 矇豬眼 蒙猪眼 [meng2 zhu1 yan3] {mung1 zyu1 ngaan5} /(noun) small eyes; eyes that look like slits/
+????f 矚目 瞩目 [zhu3 mu4] {zuk1 muk6} /attrayant; qui attire l'œil/eye-catching/
 矛 矛 [mao2] {maau4} /(adjective) 1. Dishonest; 2. Crafty; 3. Deceitful; 4. Cunning; 5. Tricky/
-矛盾 矛盾 [mao2 dun4] {maau4 teon5} /(noun)  conflict/
-矜貴 矜贵 [jin1 gui4] {ging1 gwai3} /(adjective)  arrogant/
+矛盾 矛盾 [mao2 dun4] {maau4 teon5} /(fig.) conflit/(fig.) contradiction/(fig.) ambivalent; partagé/
+矜貴 矜贵 [jin1 gui4] {ging1 gwai3} /arrogant; orgueilleux/précieux; coûteux/cher; chéri; bien-aimé/
 矢志不移 矢志不移 [shi3 zhi4 bu4 yi2] {ci2 zi3 bat1 ji4} /(adjective) someone's mind is absolutely determined; firm; steady/
-矢石 矢石 [shi3 shi2] {ci2 sek6} /war; slings and arrows/
-矢言 矢言 [shi3 yan2] {ci2 jin4} /Vowed; to swear an oath/
-知 知 [zhi1] {zi1} /(adverb) 1. yes; (noun) 1. knowledge; (verb) 1. to inform; (adjective)  close or bosom (friend)/
+????c 矢石 矢石 [shi3 shi2] {ci2 sek6} /war; slings and arrows/
+矢言 矢言 [shi3 yan2] {ci2 jin4} /serment; vœu/prêter serment/
+知 知 [zhi1] {zi1} /savoir; connaître/savoir; connaissances/informer; notifier; avertir/(ami) proche/
 知事 知事 [zhi1 shi4] {zi1 si6} /know the things; governor; thoughtful; sensible/
 知人口面不知心 知人口面不知心 [zhi1 ren2 kou3 mian4 bu4 zhi1 xin1] {zi1 jan4 hau2 min6 bat1 zi1 sam1} /(proverb) people cannot understand others from the person's appearance/
 知其一,不知其二 知其一,不知其二 [zhi1 qi2 yi1 , bu4 zhi1 qi2 er4] {zi1 kei4 jat1 , bat1 zi1 kei4 ji6} /(slang) someone knows one-side of a story, s/he only knows half of the truth/
-知到 知到 [zhi1 dao4] {zi1 dou3} /understand (acknowledging)/
-知命之年 知命之年 [zhi1 ming4 zhi1 nian2] {zi1 ming6 zi1 nin4} /(noun) quinquagenarian; 50 years old/
-知啲唔知啲 知啲唔知啲 [zhi1 di1 n2 zhi1 di1] {zi1 di1 m4 zi1 di1} /(slang) knowing a part of a story/an event/a situation but not all; knowing a little bit of a story/an event/a situation but not all/
-知客 知客 [zhi1 ke4] {zi1 haak3} /reception lady (at restaurants)/
-知底 知底 [zhi1 di3] {zi1 dai2} /to know the inside story/
-知彼知己，百戰百勝 知彼知己，百战百胜 [zhi1 bi3 zhi1 ji3 , bai3 zhan4 bai3 sheng4] {zi1 bei2 zi1 gei2 baak3 zin3 baak3 sing3} /know the opponents well and you can win every battle/
-知微 知微 [zhi1 wei1] {zi1 mei4} /(verb) argue/dispute over each detail; debate for every small aspect/
-知微麻利 知微麻利 [zhi1 wei1 ma2 li5] {zi1 mei4 maa4 lei6} /make a big deal out of small things (idiom)/
-知心人 知心人 [zhi1 xin1 ren2] {zi1 sam1 jan4} /bosom friend/
-知心朋友 知心朋友 [zhi1 xin1 peng2 you5] {zi1 sam1 pang4 jau2} /bosom friend/
-知恩感戴 知恩感戴 [zhi1 en1 gan3 dai4] {zi1 jan1 gam2 daai3} /to feel gratitude/
+知到 知到 [zhi1 dao4] {zi1 dou3} /savoir; connaître/(réponse affirmative; « je comprends »)/
+????f 知命之年 知命之年 [zhi1 ming4 zhi1 nian2] {zi1 ming6 zi1 nin4} /(expr. idiom.) l'âge de cinquante ans/(lit.) l'âge où l'on connaît la vie/
+????f 知啲唔知啲 知啲唔知啲 [zhi1 di1 n2 zhi1 di1] {zi1 di1 m4 zi1 di1} /(expr. idiom.) ne connaître qu'une partie de l'histoire; ne pas connaître toute l'histoire; ne pas connaître tous les détails/(expr. idiom.) avoir des connaissances superficielles/(lit.) savoir un peu, ne pas savoir un peu/
+????f 知客 知客 [zhi1 ke4] {zi1 haak3} /reception lady (at restaurants)/prostituée/receptionist monk in front of a monastery/
+????c 知底 知底 [zhi1 di3] {zi1 dai2} /to know the inside story/
+知彼知己，百戰百勝 知彼知己，百战百胜 [zhi1 bi3 zhi1 ji3 , bai3 zhan4 bai3 sheng4] {zi1 bei2 zi1 gei2 baak3 zin3 baak3 sing3} /(Sun Tzu) Connais ton ennemi et connais-toi toi-même; eussiez-vous cent guerres à soutenir, cent fois vous serez victorieux./
+知微 知微 [zhi1 wei1] {zi1 mei4} /être mesquin; être pointilleux; élever des difficultés sur les chose insignifiantes/égoïste; ne penser qu'à soi/rechercher son intérêt au détriment des autres/
+知微麻利 知微麻利 [zhi1 wei1 ma2 li5] {zi1 mei4 maa4 lei6} /être mesquin; être pointilleux; élever des difficultés sur les chose insignifiantes/égoïste; ne penser qu'à soi/rechercher son intérêt au détriment des autres/
+知心人 知心人 [zhi1 xin1 ren2] {zi1 sam1 jan4} /ami proche; ami intime/
+知心朋友 知心朋友 [zhi1 xin1 peng2 you5] {zi1 sam1 pang4 jau2} /ami proche; ami intime/
+知恩感戴 知恩感戴 [zhi1 en1 gan3 dai4] {zi1 jan1 gam2 daai3} /ressentir de la gratitude; être reconnaissant/
 知情識趣 知情识趣 [zhi1 qing2 shi2 qu4] {zi1 cing4 sik1 ceoi3} /understanding and considerate/
-知慳識儉 知悭识俭 [zhi1 qian1 shi2 jian3] {zi1 haan1 sik1 gim6} /(adjective)  thrifting/
-知書識墨 知书识墨 [zhi1 shu1 shi2 mo4] {zi1 syu1 sik1 mak6} /being knowledgeable (idiom)/
+知慳識儉 知悭识俭 [zhi1 qian1 shi2 jian3] {zi1 haan1 sik1 gim6} /(expr. idiom.) économe; frugal/
+知書識墨 知书识墨 [zhi1 shu1 shi2 mo4] {zi1 syu1 sik1 mak6} /(expr. idiom.) instruit; cultivé; lettré/(lit.) savoir les livres et connaître l'encre/
 知機 知机 [zhi1 ji1] {zi1 gei1} /(verb) to sense danger or trouble is coming; or (verb) to sense an opportunity is coming/
 知死 知死 [zhi1 si3] {zi1 sei2} /now you learn the bad consequences (spoken)/
 知無不言 知无不言 [zhi1 wu2 bu4 yan2] {zi1 mou4 bat1 jin4 ,} /to tell everything you know without reserve/
