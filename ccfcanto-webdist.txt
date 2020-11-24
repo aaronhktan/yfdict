@@ -14699,16 +14699,16 @@
 矇茶茶 蒙茶茶 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/confus; étourdi/
 ????f 矇豬眼 蒙猪眼 [meng2 zhu1 yan3] {mung1 zyu1 ngaan5} /(noun) small eyes; eyes that look like slits/
 ????f 矚目 瞩目 [zhu3 mu4] {zuk1 muk6} /attrayant; qui attire l'œil/eye-catching/
-矛 矛 [mao2] {maau4} /(adjective) 1. Dishonest; 2. Crafty; 3. Deceitful; 4. Cunning; 5. Tricky/
+????c 矛 矛 [mao2] {maau4} /pique; lance/malhonnête; sournois/futé/
 矛盾 矛盾 [mao2 dun4] {maau4 teon5} /(fig.) conflit/(fig.) contradiction/(fig.) ambivalent; partagé/
 矜貴 矜贵 [jin1 gui4] {ging1 gwai3} /arrogant; orgueilleux/précieux; coûteux/cher; chéri; bien-aimé/
-矢志不移 矢志不移 [shi3 zhi4 bu4 yi2] {ci2 zi3 bat1 ji4} /(adjective) someone's mind is absolutely determined; firm; steady/
+矢志不移 矢志不移 [shi3 zhi4 bu4 yi2] {ci2 zi3 bat1 ji4} /(expr. idiom.) déterminé à faire quelque chose; résolu à faire quelque chose/
 ????c 矢石 矢石 [shi3 shi2] {ci2 sek6} /war; slings and arrows/
 矢言 矢言 [shi3 yan2] {ci2 jin4} /serment; vœu/prêter serment/
 知 知 [zhi1] {zi1} /savoir; connaître/savoir; connaissances/informer; notifier; avertir/(ami) proche/
-知事 知事 [zhi1 shi4] {zi1 si6} /know the things; governor; thoughtful; sensible/
-知人口面不知心 知人口面不知心 [zhi1 ren2 kou3 mian4 bu4 zhi1 xin1] {zi1 jan4 hau2 min6 bat1 zi1 sam1} /(proverb) people cannot understand others from the person's appearance/
-知其一,不知其二 知其一,不知其二 [zhi1 qi2 yi1 , bu4 zhi1 qi2 er4] {zi1 kei4 jat1 , bat1 zi1 kei4 ji6} /(slang) someone knows one-side of a story, s/he only knows half of the truth/
+知事 知事 [zhi1 shi4] {zi1 si6} /sensé; qui a du bon sens/gouverneur/savoir; connaître les choses/
+????f 知人口面不知心 知人口面不知心 [zhi1 ren2 kou3 mian4 bu4 zhi1 xin1] {zi1 jan4 hau2 min6 bat1 zi1 sam1} /(expr. idiom.) l'habit ne fait pas le moine; il faut éviter de juger les personnes par rapport à leur apparence/(lit.) connaître l'apparence d'une personne mais ne pas connaître leur cœur/
+知其一,不知其二 知其一,不知其二 [zhi1 qi2 yi1 , bu4 zhi1 qi2 er4] {zi1 kei4 jat1 , bat1 zi1 kei4 ji6} /(expr. idiom.) ne connaître qu'une partie de l'histoire; n'avoir qu'une compréhension partielle/
 知到 知到 [zhi1 dao4] {zi1 dou3} /savoir; connaître/(réponse affirmative; « je comprends »)/
 ????f 知命之年 知命之年 [zhi1 ming4 zhi1 nian2] {zi1 ming6 zi1 nin4} /(expr. idiom.) l'âge de cinquante ans/(lit.) l'âge où l'on connaît la vie/
 ????f 知啲唔知啲 知啲唔知啲 [zhi1 di1 n2 zhi1 di1] {zi1 di1 m4 zi1 di1} /(expr. idiom.) ne connaître qu'une partie de l'histoire; ne pas connaître toute l'histoire; ne pas connaître tous les détails/(expr. idiom.) avoir des connaissances superficielles/(lit.) savoir un peu, ne pas savoir un peu/
@@ -14720,58 +14720,59 @@
 知心人 知心人 [zhi1 xin1 ren2] {zi1 sam1 jan4} /ami proche; ami intime/
 知心朋友 知心朋友 [zhi1 xin1 peng2 you5] {zi1 sam1 pang4 jau2} /ami proche; ami intime/
 知恩感戴 知恩感戴 [zhi1 en1 gan3 dai4] {zi1 jan1 gam2 daai3} /ressentir de la gratitude; être reconnaissant/
-知情識趣 知情识趣 [zhi1 qing2 shi2 qu4] {zi1 cing4 sik1 ceoi3} /understanding and considerate/
+????c 知情識趣 知情识趣 [zhi1 qing2 shi2 qu4] {zi1 cing4 sik1 ceoi3} /(expr. idiom.) compatissant et bienveillant/
 知慳識儉 知悭识俭 [zhi1 qian1 shi2 jian3] {zi1 haan1 sik1 gim6} /(expr. idiom.) économe; frugal/
 知書識墨 知书识墨 [zhi1 shu1 shi2 mo4] {zi1 syu1 sik1 mak6} /(expr. idiom.) instruit; cultivé; lettré/(lit.) savoir les livres et connaître l'encre/
-知機 知机 [zhi1 ji1] {zi1 gei1} /(verb) to sense danger or trouble is coming; or (verb) to sense an opportunity is coming/
-知死 知死 [zhi1 si3] {zi1 sei2} /now you learn the bad consequences (spoken)/
-知無不言 知无不言 [zhi1 wu2 bu4 yan2] {zi1 mou4 bat1 jin4 ,} /to tell everything you know without reserve/
-知衰 知衰 [zhi1 shuai1] {zi1 seoi1} /now you learn the bad consequences (spoken)/
-知識份子 知识份子 [zhi1 shi4 fen4 zi3] {zi1 sik1 fan6 zi2} /Intellectual/
-知識經濟 知识经济 [zhi1 shi5 jing1 ji4] {zi1 sik1 ging1 zai3} /Knowledge-based economy/
-知識青年 知识青年 [zhi1 shi5 qing1 nian2] {zi1 sik1 cing1 nin4} /(noun) educated teens; young intellectual/
-知醒 知醒 [zhi1 xing3] {zi1 seng2} /will wake up on time by themself'/
-知醜 知丑 [zhi1 chou3] {zi1 cau2} /(adjective) shame; ashamed/
-知錯能改 知错能改 [zhi1 cuo4 neng2 gai3] {zi1 co3 nang4 goi2} /one must acknowledge one's mistakes first to be able to rectify them/
-知頭唔知尾 知头唔知尾 [zhi1 tou2 n2 zhi1 wei3] {zi1 tau4 m4 zi1 mei5} /(slang) know the beginning of a story/an event/a situation but not the end/
-短 短 [duan3] {dyun2} /(adjective)  deficient/
-短切切 短切切 [duan3 qie1 qie1] {dyun2 cit1 cit1} /very short/
-短命種 短命种 [duan3 ming4 zhong3] {dyun2 meng6 zung2} /Short-lived/
-短度闊封 短度阔封 [duan3 du4 kuo4 feng1] {dyun2 dou6 fut3 fung1} /short and stout/
-短打 短打 [duan3 da3] {dyun2 daa2} /Bunt; short range sparring/
-短敍 短叙 [duan3 xu4] {dyun2 zeoi6} /(noun) have a short meeting; have a short gathering/
-短暫 短暂 [duan3 zan4] {dyun2 zaam6} /(adjective)  Transient/
-短火 短火 [duan3 huo3] {dyun2 fo2} /(noun) a pistol/
-短笛 短笛 [duan3 di2] {dyun2 dek6} /a piccolo/
-短篇 短篇 [duan3 pian1] {dyun2 pin1} /a short article; short stories/
-短薳 短䓕 [duan3 wei3] {dyun2 jyun5} /to pinch, remove the top (agriculture terminology)/
-短袖衫 短袖衫 [duan3 xiu4 shan1] {dyun2 zau6 saam1} /short sleeve clothing/
-短裙 短裙 [duan3 qun2] {dyun2 kwan4} /a mini-skirt/
-短褸 短褛 [duan3 lü3] {dyun2 lau1} /(noun) a short jacket; a short coat/
-矮仔 矮仔 [ai3 zi5] {ngai2 zai2} /short guy/
+????c 知機 知机 [zhi1 ji1] {zi1 gei1} /(verb) to sense danger or trouble is coming; or (verb) to sense an opportunity is coming/have foresight/
+知死 知死 [zhi1 si3] {zi1 sei2} /reconnaître sa culpabilité/en subir les conséquences/
+????f 知無不言 知无不言 [zhi1 wu2 bu4 yan2] {zi1 mou4 bat1 jin4} /tout dire sans retenue/
+知衰 知衰 [zhi1 shuai1] {zi1 seoi1} /reconnaître sa culpabilité/en subir les conséquences/
+知識份子 知识份子 [zhi1 shi4 fen4 zi3] {zi1 sik1 fan6 zi2} /(nom commun) intellectuel/
+知識經濟 知识经济 [zhi1 shi5 jing1 ji4] {zi1 sik1 ging1 zai3} /économie du savoir/
+????f 知識青年 知识青年 [zhi1 shi5 qing1 nian2] {zi1 sik1 cing1 nin4} /jeune intellectuel; jeune instruit/
+知醒 知醒 [zhi1 xing3] {zi1 seng2} /se réveiller à l'heure/
+????f 知醜 知丑 [zhi1 chou3] {zi1 cau2} /avoir honte; se sentir honteux/
+知錯能改 知错能改 [zhi1 cuo4 neng2 gai3] {zi1 co3 nang4 goi2} /(expr.) il faut reconnaître ses erreurs avant de les pouvoir rectifier/
+????f 知頭唔知尾 知头唔知尾 [zhi1 tou2 n2 zhi1 wei3] {zi1 tau4 m4 zi1 mei5} /(expr. idiom.) connaître le début d'une histoire ou de l'évènement mais ne pas connaître la fin/
+短 短 [duan3] {dyun2} /court; de petite longueur/bref/déficient/faible/ 
+短切切 短切切 [duan3 qie1 qie1] {dyun2 cit1 cit1} /(longueur, vêtements) très court; trop court/
+????c 短命種 短命种 [duan3 ming4 zhong3] {dyun2 meng6 zung2} /Short-lived/
+????f 短度闊封 短度阔封 [duan3 du4 kuo4 feng1] {dyun2 dou6 fut3 fung1} /petit et robuste/
+????c 短打 短打 [duan3 da3] {dyun2 daa2} /(baseball) Bunt; (theatre) short range sparring with short jackets/
+????c 短敍 短叙 [duan3 xu4] {dyun2 zeoi6} /brève rencontre/
+短暫 短暂 [duan3 zan4] {dyun2 zaam6} /bref; court; éphémère/
+短火 短火 [duan3 huo3] {dyun2 fo2} /pistolet; arme de poing/
+短槍 短枪 [duan3 qiang1] {dyun2 coeng1} /pistolet; arme de poing/
+短笛 短笛 [duan3 di2] {dyun2 dek6} /piccolo/
+短篇 短篇 [duan3 pian1] {dyun2 pin1} /(littérature) nouvelle/dissertation courte; rédaction courte/article court/
+????c 短薳 短䓕 [duan3 wei3] {dyun2 jyun5} /to pinch, remove the top (agriculture terminology)/
+短袖衫 短袖衫 [duan3 xiu4 shan1] {dyun2 zau6 saam1} /t-shirt/
+短裙 短裙 [duan3 qun2] {dyun2 kwan4} /minijupe/
+短褸 短褛 [duan3 lu:3] {dyun2 lau1} /blouson; manteau court/
+矮仔 矮仔 [ai3 zi5] {ngai2 zai2} /petite personne/
 矮仔多計 矮仔多计 [ai3 zi5 duo1 ji4] {ngai2 zai2 do1 gai3} /short people are more strategic (slang)/
-矮凳仔 矮凳仔 [ai3 deng4 zi3] {ngai2 dang3 zai2} /small stool/
-矮凸凸 矮凸凸 [ai3 tu1 tu1] {ai2 dat1 dat1} /(adjective) short/
-矮𠱂𠱂 矮𠱂𠱂 [Ai3 tu1 tu1] {ai2 dat1 dat1} /(adjective) very short/
-矮矮細細 矮矮细细 [ai3 ai3 xi4 xi4] {ai2 ai2 sai3 sai3} /Short and thin/
-矮細 矮细 [ai3 xi4] {ngai2 sai3} /short; stubby/
-矮腯腯 矮腯腯 [ai3 tu2 tu2] {ai2 dat1 dat1} /very short/
-矮躉 矮趸 [ai3 dun3] {ai2 dan2} /a type of bus/
+矮凳仔 矮凳仔 [ai3 deng4 zi3] {ngai2 dang3 zai2} /tabouret/
+矮凸凸 矮凸凸 [ai3 tu1 tu1] {ai2 dat1 dat1} /très petit/très court/
+矮𠱂𠱂 矮𠱂𠱂 [Ai3 tu1 tu1] {ai2 dat1 dat1} /très petit/très court/
+矮矮細細 矮矮细细 [ai3 ai3 xi4 xi4] {ai2 ai2 sai3 sai3} /petite et courte/
+矮細 矮细 [ai3 xi4] {ngai2 sai3} /petite et courte/
+矮腯腯 矮腯腯 [ai3 tu2 tu2] {ai2 dat1 dat1} /très petit/très court/
+矮躉 矮趸 [ai3 dun3] {ai2 dan2} /(type d'autobus)/trapu/
 矯飾 矫饰 [jiao3 shi4] {giu2 sik1} /to dissemble; feign in order to conceal something/
-石 石 [shi2] {sek6} /(noun)  Chinese surname; (old term) unit of measuring grain/
-石井 石井 [shi2 jing3] {sek6 zeng2} /Shi Jin, place in China; a stone well/
-石仔 石仔 [shi2 zi3] {sek6 zai2} /pebbles; small stones/
-石叻 石叻 [shi2 le4] {sek6 lik1, sek6 nit1} /Singapore/
-石圍塘 石围塘 [shi2 wei2 tang2] {sek6 wai4 tong4} /Shi Wei Tang, place in China/
-石圍角 石围角 [shi2 wei2 jiao3] {sek6 wai4 gok3} /Shek Wai Kok, place in Hong Kong/
-石堅 石坚 [shi2 jian1] {sek6 gin1} /Shih Kien (Shek Kin), name of an actor in Hong Kong/
-石塘咀 石塘咀 [shi2 tang2 ju3] {sek6 tong4 zeoi2} /Shek Tong Tsui, place in Hong Kong/
-石壁 石壁 [shi2 bi4] {sek6 bik1} /(noun) stone wall; or (noun) Shek Pik, which is located in Lantau Island, Hong Kong/
-石壁水塘 石壁水塘 [shi2 bi4 shui3 tang2] {sek6 bik1 seoi2 tong4} /Shek Pik Reservoir, place in Hong Kong/
-石壁站 石壁站 [shi2 bi4 zhan4] {sek6 bik1 zaam6} /Shi Bi Station, place in China/
-石壆 石壆 [shi2 bo2] {sek6 bok3} /Curb/
-石子 石子 [shi2 zi3] {sek6 zi2} /Pebble/
-石屎樓 石屎楼 [shi2 shi3 lou2] {sek6 si2 lau4} /cement building/
+石 石 [shi2] {sek6} /roche; pierre/minerai/(nom de famille chinois)/(unité de mesure pour les céréales)/
+石井 石井 [shi2 jing3] {sek6 zeng2} /Shi Jin, nom d'un village de la province de Fujian en Chine/
+石仔 石仔 [shi2 zi3] {sek6 zai2} /caillou, galet/
+石叻 石叻 [shi2 le4] {sek6 lik1, sek6 nit1} /Singapour/
+石圍塘 石围塘 [shi2 wei2 tang2] {sek6 wai4 tong4} /Shi Wei Tang, gare ferroviaire à Canton/
+石圍角 石围角 [shi2 wei2 jiao3] {sek6 wai4 gok3} /Shek Wai Kok, nom de lieu de Hong Kong/
+石堅 石坚 [shi2 jian1] {sek6 gin1} /Shih Kien (Shek Kin), acteur chinois/
+石塘咀 石塘咀 [shi2 tang2 ju3] {sek6 tong4 zeoi2} /Shek Tong Tsui, région de Hong Kong/
+石壁 石壁 [shi2 bi4] {sek6 bik1} /mur en pierre/falaise/Shek Pik, région de l'île de Lantau, à Hong Kong/
+石壁水塘 石壁水塘 [shi2 bi4 shui3 tang2] {sek6 bik1 seoi2 tong4} /Shek Pik Reservoir, bassin de retenue à Hong Kong/
+石壁站 石壁站 [shi2 bi4 zhan4] {sek6 bik1 zaam6} /Shi Bi Station, station du métro de Canton/
+石壆 石壆 [shi2 bo2] {sek6 bok3} /bordure du trottoir/
+石子 石子 [shi2 zi3] {sek6 zi2} /caillou; galet/
+石屎樓 石屎楼 [shi2 shi3 lou2] {sek6 si2 lau2} /bâtiment en béton/
 石山 石山 [shi2 shan1] {sek6 saan1} /(noun) Rocky Mountain/
 石川縣 石川县 [shi2 chuan1 xian4] {sek6 cyun1 jyun6} /Ishikawa Prefecture, place in Japan/
 石排灣 石排湾 [shi2 Pai2 wan1] {sek6 paai4 waan1} /Shek Pai Wan, Place in Hong Kong/
