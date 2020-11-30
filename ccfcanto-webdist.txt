@@ -14950,17 +14950,17 @@
 ????c 神台桔 神台桔 [shen2 tai2 ju2] {san4 toi4 gat1} /(analogy) someone is getting haggard, and slowly frail/decline through neglect/not be promoted/
 神台貓屎 神台猫屎 [shen2 tai2 mao1 shi3] {san4 toi4 maau1 si2} /(expr. idiom.) haï par tous; détesté par tout le monde/(lit.) comme de la merde de chat sur l'autel des ancêtres/
 神嘢 神嘢 [shen2 ye3] {san4 je5} /cassé/hors service; en panne/
-神威 神威 [shen2 wei1] {san4 wai1} /invincible might; martial prowess/
+????f 神威 神威 [shen2 wei1] {san4 wai1} /invincible might; martial prowess/
 神婆 神婆 [shen2 po2] {san4 po4} /sorcière/
 神心 神心 [shen2 xin1] {san4 sam1} /pieux/
 神憎鬼厭 神憎鬼厌 [shen2 zeng1 gui3 yan4] {san4 zang1 gwai2 jim3} /(expr. idiom.) haï par tous; détesté par tout le monde/(lit.) les dieux et les esprits le détestent/
 神戶市 神户市 [Shen2 hu4 shi4] {san4 wu6 si5} /Kobe, ville du Japon/
 神戸市 神户市 [shen2 hu4 shi4] {san4 wu6 si5} /Kobe, ville du Japon/
-神打 神打 [shen2 da3] {san4 daa2} /(noun) a summon to a God and to possess someone for acquire the power of God/
-神推鬼拱 神推鬼拱 [shen2 tui1 gui3 gong3] {san4 teoi1 gwai2 gung2} /(slang) someone does things unconsciously; unaware; unrealized/
-神推鬼㧬 神推鬼㧬 [shen2 tui1 gui3 gong3] {san4 teoi1 gwai2 gung1} /(slang) someone does things unconsciously; unaware; unrealized/
+????f 神打 神打 [shen2 da3] {san4 daa2} /canalisation d'un dieu chinois, cérémonie taoïste (« Chinese spirit posession » en anglais)/
+????c 神推鬼拱 神推鬼拱 [shen2 tui1 gui3 gong3] {san4 teoi1 gwai2 ung2} /(slang) someone does things unconsciously; unaware; unrealized/to feel compelled to do something/
+????c 神推鬼㧬 神推鬼㧬 [shen2 tui1 gui3 gong3] {san4 teoi1 gwai2 ung2} /(slang) someone does things unconsciously; unaware; unrealized/to feel compelled to do something/
 神明 神明 [shen2 ming2] {san4 ming4} /dieux; divinités/
-神智不清 神智不清 [shen2 zhi4 bu4 qing1] {san4 zi3 bat1 cing1} /(adjective) unconscious; insane/
+神智不清 神智不清 [shen2 zhi4 bu4 qing1] {san4 zi3 bat1 cing1} /(expr.) pas sain d'esprit/
 ????f 神棍 神棍 [shen2 gun4] {san4 gwan3} /arnaqueur qui prétend être un dieu ou avoir des pouvoirs surnaturels/faux diseur de bonne aventure/
 神槍手 神枪手 [shen2 qiang1 shou3] {san4 coeng1 sau2} /tireur d'élite/
 神樓 神楼 [shen2 lou2] {san4 lau4} /temple ancestrale/
@@ -14971,56 +14971,58 @@
 神神經經 神神经经 [shen2 shen2 jing1 jing1] {san4 san4 ging1 ging1} /(expr. idiom.) (personne) instable/
 神福 神福 [shen2 fu2] {san4 fuk1} /offrande pour la bénédiction des dieux/
 ????c 神秘化 神秘化 [shen2 mi4 hua4] {san4 bei3 faa3} /Mystification/
-神級 神级 [shen2 ji2] {san4 kap1} /God level; superior skill; top level/
+????c 神級 神级 [shen2 ji2] {san4 kap1} /de premier plan; de premier rang/le plus doué; le plus qualifié/
 神經 神经 [shen2 jing1] {san4 ging1} /nerf/fou; dingue; cinglé/
-神經中樞 神经中枢 [shen2 jing1 zhong1 shu1] {san4 ging1 zung1 syu1} /the nerve center/
-神經病 神经病 [shen2jing1bing4] {san4 ging1 beng6} /(swear language) (of figurative) Insane /
-神經病學 神经病学 [shen2 jing1 bing4 xue2] {san4 ging1 beng6 hok6} /Neurology/
-神經錯亂 神经错乱 [shen2 jing1 cuo4 luan4] {san4 ging1 co3 lyun6} /Insanity/
-神聖不可侵犯 神圣不可侵犯 [shen2 sheng4 bu4 ke3 qin1 fan4] {san4 sing3 bat1 ho2 cam1 faan6} /sacred and inviolable/
-神道教 神道教 [Shen2 dao4 jiao4] {san4 dou6 gaau3} /Shinto/
-神風 神风 [shen2 feng1] {san4 fung1} /(noun) kamikaze/
-神高神大 神高神大 [shen2 gao1 shen2 da4] {san4 gou1 san4 daai6} /describes a person who is tall and strong (sometimes used in a negative connotation)/
-神龍見首不見尾 神龙见首不见尾 [shen2 long2 jian4 shou3 bu4 jian4 wei3] {san4 lung4 gin3 sau2 bat1 gin3 mei5} /appear and disappear in quick succession; to be secretive in one's movement and trace; to be mysterious about one's whereabouts, appearing one moment and disappearing the next/
-票尾 票尾 [piao4 wei3] {piu3 mei5} /(noun) a ticket stub/
-票站調查 票站调查 [piao4 zhan4 diao4 cha2] {piu3 zaam6 diu6 caa4} /Exit polls/
-祭旗 祭旗 [ji4 qi2] {zai3 kei4} /(verb) the Shinto ritual; or (figurative meaning) to find someone as a scapegoat/
-視像 视象 [shi4 xiang4] {si6 zoeng6} /Video; image/
-視聽 视听 [shi4 ting1] {si6 ting3} /audiovisual; what one hears and sees /
-視聽教育 视听教育 [shi4 ting1 jiao4 yu4] {si6 ting1 gaau3 juk6} /Audio visual education/
-視藝 视艺 [shi4 yi4] {si6 ngai6} /Visual Arts/
-視野 视野 [shi4 ye3] {si6 je5} /(noun)  Vision/
-禁例 禁例 [jin4 li4] {gam3 lai6} /Prohibitions/
-禁做 禁做 [jin4 zuo4] {gam2 zou6} /done this way/
-禁做 禁做 [jin4 zuo4] {gam3 zou6} /not easily done/
-禁地 禁地 [jin4 di4] {gam3 dei6} /Forbidden place/
-禁止通行 禁止通行 [jin4 zhi3 tong1 xing2] {gam3 zi2 tung1 hang4} /No entry/
-禁死 禁死 [jin4 si3] {kam1 sei2} /(adjective) prohibit to die/
-禁睇 禁睇 [jin4 di4] {kam1 tai2} /not allow to watch; ban from watching/
-禁色 禁色 [jin4 se4] {gam3 sik1} /not allow to have sex/
-禁色 禁色 [jin4 se4] {kam1 sik1} /a long lasting color that doesn't wear off or fade away easily/
-禁著 禁着 [jin4 zhe5] {kam1 zoek3} /(verb) ban to wear; forbid to wear/
-禁計 禁计 [jin4 ji4] {kam1 gai3} /(verb) ban to calculate; difficult to calculate/
-禁諗 禁谂 [jin4 shen3] {kam1 nam2} /(verb) rack one's brains; spend great effort thinking about/
-禍心 祸心 [huo4 xin1] {wo6 sam1} /Evil intentions/
-禍端 祸端 [huo4 duan1] {wo6 dyun1} /source of the disaster/
-禍胎 祸胎 [huo4 tai1] {wo6 toi1} /source of the disaster; the root of the trouble/
+????c 神經中樞 神经中枢 [shen2 jing1 zhong1 shu1] {san4 ging1 zung1 syu1} /the nerve center/(central nervous system?)/
+神經病 神经病 [shen2 jing1 bing4] {san4 ging1 beng6} /(vulg.) folie; insanité; délire/
+神經病學 神经病学 [shen2 jing1 bing4 xue2] {san4 ging1 beng6 hok6} /neurologie/
+神經錯亂 神经错乱 [shen2 jing1 cuo4 luan4] {san4 ging1 co3 lyun6} /maladie mentale; démence/
+神聖不可侵犯 神圣不可侵犯 [shen2 sheng4 bu4 ke3 qin1 fan4] {san4 sing3 bat1 ho2 cam1 faan6} /sacré et inviolable/
+神道教 神道教 [Shen2 dao4 jiao4] {san4 dou6 gaau3} /(religion) le shinto; le shintoïsme/
+神風 神风 [shen2 feng1] {san4 fung1} /kamikaze/
+神高神大 神高神大 [shen2 gao1 shen2 da4] {san4 gou1 san4 daai6} /(expr.) grand et fort; grand et costaud/
+????f 神龍見首不見尾 神龙见首不见尾 [shen2 long2 jian4 shou3 bu4 jian4 wei3] {san4 lung4 gin3 sau2 bat1 gin3 mei5} /(expr. idiom.) cacher sa localisation; se rendre difficile à trouver; apparaître puis disparaître rapidement/(lit.) voir la tête d'un dragon divin mais ne pas voir sa queue/
+票尾 票尾 [piao4 wei3] {piu3 mei5} /talon de billet/
+票站調查 票站调查 [piao4 zhan4 diao4 cha2] {piu3 zaam6 diu6 caa4} /sondage des votants; sondage à la sortie des urnes/
+祭旗 祭旗 [ji4 qi2] {zai3 kei4} /(fig.) prendre quelqu'un comme bouc émissaire/
+視像 视象 [shi4 xiang4] {si6 zoeng6} /image/vidéo/
+視聽 视听 [shi4 ting1] {si6 ting3} /audiovisuel/vue et ouïe/
+視聽教育 视听教育 [shi4 ting1 jiao4 yu4] {si6 ting1 gaau3 juk6} /enseignement audiovisuel/
+視藝 视艺 [shi4 yi4] {si6 ngai6} /arts visuels/
+視野 视野 [shi4 ye3] {si6 je5} /champ visuel/
+禁例 禁例 [jin4 li4] {gam3 lai6} /interdictions/
+????c 禁做 禁做 [jin4 zuo4] {gam2 zou6} /done this way/
+禁做 禁做 [jin4 zuo4] {kam1 zou6} /(tâche) long; chronophage; qui occupe trop de temps; difficile/
+禁地 禁地 [jin4 di4] {gam3 dei6} /zone d'accès restreint/
+禁止通行 禁止通行 [jin4 zhi3 tong1 xing2] {gam3 zi2 tung1 hang4} /entrée interdite; accès interdit; défense d'entrer/
+禁死 禁死 [jin4 si3] {kam1 sei2} /qui s'accroche à la vie; qui refuse de mourir/
+禁睇 禁睇 [jin4 di4] {kam1 tai2} /très belle; d'une beauté durable/
+禁睇 禁睇 [jin4 di4] {gam3 tai2} /défense de regarder/
+????c 禁色 禁色 [jin4 se4] {gam3 sik1} /not allow to have sex/
+禁色 禁色 [jin4 se4] {kam1 sik1} /qui ne se décolore pas/
+禁著 禁着 [jin4 zhe5] {kam1 zoek3} /vêtements durables/
+禁著 禁着 [jin4 zhe5] {gam3 zoek3} /interdire de porter (un type de vêtements)/
+禁計 禁计 [jin4 ji4] {kam1 gai3} /difficile de calculer/
+禁諗 禁谂 [jin4 shen3] {kam1 nam2} /difficile à résoudre; avoir besoin de se creuser la tête/
+禍心 祸心 [huo4 xin1] {wo6 sam1} /mauvaises intentions/
+????c 禍端 祸端 [huo4 duan1] {wo6 dyun1} /l'origine du désastre/
+????c 禍胎 祸胎 [huo4 tai1] {wo6 toi1} /l'origine du désastre/
 禍起蕭牆 祸起萧墙 [huo4 qi3 xiao1 qiang2] {wo6 hei2 siu1 coeng4} /(idiom) internal troubles crops up within a family; an internal strife arise up/
-福井縣 福井县 [fu2 jing3 xian4] {fuk1 zeng2 jyun6} /(Prefectural in Japan) Fukui Prefectural/
-福士 福士 [fu2 shi4] {fuk1 si2} /Volkswagen/
-福士汽車 福士汽车 [fu2 shi4 qi4 che1] {fuk1 si2 hei3 ce1} /(brand) Volkswagen/
-福壽膏 福寿膏 [fu2 shou4 gao1] {fuk1 sau6 gou1} /opium (slang)/
+福井縣 福井县 [fu2 jing3 xian4] {fuk1 zeng2 jyun6} /préfecture de Fukui, préfecture japonaise/
+福士 福士 [fu2 shi4] {fuk1 si2} /Volkswagen, marque automobile allemande/
+福士汽車 福士汽车 [fu2 shi4 qi4 che1] {fuk1 si2 hei3 ce1} /Volkswagen, marque automobile allemande/
+福壽膏 福寿膏 [fu2 shou4 gao1] {fuk1 sau6 gou1} /opium/
 福壽雙全 福寿双全 [fu2 shou4 shuang1 quan2] {fuk1 sau6 soeng1 cyun4} /good fortune and longevity/
-福壽魚 福寿鱼 [fu2 shou4 yu2] {fuk1 sau6 jyu2} /Tilapia/
-福島市 福岛市 [Fu2 dao3 shi4] {fuk1 dou2 si5} /Fukushima City/
-福州話 福州话 [Fu2 zhou1 hua4] {fuk1 zau1 waa2} /(dialect) Fuzhou dialect/
-福建人 福建人 [Fu2 jian4 ren2] {fuk1 gin3 jan4} /Hokkien people/
-福建炒飯 福建炒饭 [Fu2 jian4 chao3 fan4] {fuk1 gin3 caau2 faan6} /Hokkien fried rice/
-福建話 福建话 [Fu2 jian4 hua4] {fuk1 gin3 waa2} /Hokkien/
-福心 福心 [fu2 xin1] {fuk1 sam1} /kind; to do good to do virtuous actions; to be charitable/
+福壽魚 福寿鱼 [fu2 shou4 yu2] {fuk1 sau6 jyu2} /(poisson) tilapia/
+福島市 福岛市 [Fu2 dao3 shi4] {fuk1 dou2 si5} /Fukushima, ville du Japon/
+福州話 福州话 [fu2 zhou1 hua4] {fuk1 zau1 waa2} /dialecte de Fuzhou/
+福建人 福建人 [fu2 jian4 ren2] {fuk1 gin3 jan4} /peuple Hokkien; peuple Hoklo/
+福建炒飯 福建炒饭 [Fu2 jian4 chao3 fan4] {fuk1 gin3 caau2 faan6} /riz frit hokkien/
+福建話 福建话 [fu2 jian4 hua4] {fuk1 gin3 waa2} /(langue) hokkien; minnan/
+福心 福心 [fu2 xin1] {fuk1 sam1} /faire la charité; accomplir une bonne œuvre/
 福有攸歸 福有攸归 [fu2 you3 you1 gui1] {fuk1 jau5 jau4 gwai1} /good fortune goes where it belongs; good fortune goes to those who deserve it/
-福田站 福田站 [fu2 tian2 zhan4] {fuk1 tin4 zaam6} /Futian Station, place in China/
-福祿壽 福禄寿 [fu2 lu4 shou4] {fuk1 luk6 sau6} /(noun) fortune, prosperity & longevity/
+福田站 福田站 [fu2 tian2 zhan4] {fuk1 tin4 zaam6} /Futian Station, station du métro de Canton/
+福祿壽 福禄寿 [fu2 lu4 shou4] {fuk1 luk6 sau6} /la fortune, la prospérité, et la longévité/
 福至心靈 福至心灵 [fu2 zhi4 xin1 ling2] {fuk1 zi3 sam1 ling4} /The mind becomes intelligent at the approach of happiness/
 福頭 福头 [fu2 tou2] {fuk1 tau4} /(noun) a fool; a sucker; a mug; a dupe/
 禦侮 御侮 [yu4 wu3] {jyu6 mou5} /resist invasion/
