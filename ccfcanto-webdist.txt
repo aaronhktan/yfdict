@@ -15398,11 +15398,11 @@
 答嘴 答嘴 [da2 zui3] {daap3 zeoi2} /interrompre; couper la parole/
 答應 答应 [da1 ying5] {daap3 jing3} /répondre/accepter; consentir/promettre/
 策劃者 策划者 [ce4 hua4 zhe3] {caak3 waak6 ze2} /planificateur/
-策略 策略 [ce4 lüe4] {caak3 loek6} /stratégie; plan d'action/
-策騎 策骑 [ce4 qi2] {caak3 ke4} /Riding/
+策略 策略 [ce4 lu:e4] {caak3 loek6} /stratégie; plan d'action/
+策騎 策骑 [ce4 qi2] {caak3 ke4} /monter à cheval/
 筲箕 筲箕 [shao1ji1] {saau1 gei1} /passoire/
-筲箕灣 筲箕湾 [shao1 ji1 wan1] {saau1 gei1 waan1} /Shau Kei Wan, a town situated in north eastern Hong Kong Island in Hong Kong/
-筷子基 筷子基 [kuai4 zi5 ji1] {faai3 zi2 gei1} /Fai Chi Kei, place in Macau/
+筲箕灣 筲箕湾 [shao1 ji1 wan1] {saau1 gei1 waan1} /Shau Kei Wan, ville de Hong Kong/
+筷子基 筷子基 [kuai4 zi5 ji1] {faai3 zi2 gei1} /Fai Chi Kei, région de Macao/
 ????f 筷子架 筷子架 [kuai4 zi5 jia4] {faai3 zi2 gaa2} /porte-baguettes (for one pair of chopsticks)/
 ????f 筷子筒 筷子筒 [kuai4 zi5 tong3] {faai3 zi2 tung2} /a cylindrical chopstick holder (like a pencil or pen holder)/
 ????c 節令 节令 [jie2 ling4] {zit3 ling6} /Seasonal/
@@ -15413,7 +15413,7 @@
 節目 节目 [jie2 mu4] {zit3 muk6} /évènements/programme/émission de télévision/
 節約 节约 [jie2 yue1] {zit3 joek3} /économiser; épargner/
 節約能源 节约能源 [jie2 yue1 neng2 yuan2] {zit3 joek3 nang4 jyun4} /économies d'énergie/
-節育 节育 [jie2yu4] {zit3 juk6} /contraception/
+節育 节育 [jie2 yu4] {zit3 juk6} /contraception/
 箅 箅 [bi4] {bei3} /pannier vapeur en bambou/
 箍 箍 [gu1] {ku1} /sauver (une relation)/avoir (un appareil dentaire)/appareil dentaire/cerceau/étrangler/
 箍煲 箍煲 [gu1 bao1] {ku1 bou1} /(fig.) sauver une relation/
@@ -15421,44 +15421,44 @@
 箍臣 箍臣 [gu1 chen2] {ku1 san4} /coussin/(orig.) de l'anglais « cushion »/
 箍頸 箍颈 [gu1 jing3] {ku1 geng2} /étrangler; mettre ses mains autour du cou/
 箍頸黨 箍颈党 [gu1 jing3 dang3] {ku1 geng2 dong2} /voleur ou voleuse qui étrangle ses victimes/
-箕斗 箕斗 [ji1 dou3] {gei1 dau2} /A skip; constellations; false reputation; fingerprint/
+????c 箕斗 箕斗 [ji1 dou3] {gei1 dau2} /(industrie minière) skip/empreinte digitale/constellations; false reputation????/
 算 算 [suan4] {syun3} /calculer/être considéré comme/laisser tomber/
-算你夠運 算你够运 [suan4 ni3 gou4 yun4] {syun3 nei5 gau3 wan6} /consider yourself lucky/
-算係 算系 [suan4 xi4] {syun3 hai6} /(adverb) most likely is; probably is/
-算吧啦 算吧啦 [suan4 ba5 la5] {syun3 baa1 laa1} /Forget it; enough already/
-算好 算好 [suan4 hao3] {syun3 hou2} /moderate; good enough already, could be worse; calculating; to calculate; calculated/
-算式 算式 [suan4 shi4] {syun3 sik1} /Equation/
-算數 算数 [suan4 shu4] {syun3 sou3} /(slang)  forget it/
-算死草 算死草 [suan4 si3 cao3] {syun3 sei2 cou2} /(adj.) to describe someone who is stingy and tight-fisted;(n.) a stingy and tight-fisted person; someone who is cautious and calculating about money; a miser/
-算盤子 算盘子 [suan4 pan2 zi3] {syun3 pun4 zi2} /Glochidion puberum (abacus plant); yam abacus seeds / abacus beads, an an auspicious Hakka dish/
-算罷啦 算罢啦 [suan4 ba5 la5] {syun3 baa6 laa1} /Forget it/
-算賬 算账 [suan4 zhang4] {syun3 zoeng3} /count on; to get even with someone/
-管 管 [guan3] {gun2} /(verb) 1. meddle; (noun)  Chinese surname/
-管事 管事 [guan3 shi4] {gun2 si6} /To manage; to be in charge; efficacious; effective; of use; manager; steward/
-管理局 管理局 [guan3 li3 ju2] {gun2 lei5 guk2} /Authority; administrative bureau/
-管理處 管理处 [guan3 li3 chu4] {gun2 lei5 cyu3} /Management Office/
-管理費 管理费 [guan3 li3 fei4] {gun2 lei5 fai3} /Management Fee/
-箭嘴 箭嘴 [jian4 zui3] {zin3 zeoi2} /arrow pointer/
-箭在弦上 箭在弦上 [jian4 zai4 xian2 shang4] {zin3 zoi6 jin4 soeng6 ,} /reach the point of no return/
-箭術 箭术 [jian4 shu4] {zin3 seot6} /Archery/
-箭豬 箭猪 [jian4 zhu1] {zin3 zyu1} /a porcupine/
-箭靶 箭靶 [jian4 ba3] {zin3 baa2} /target/
-箱籠 箱笼 [xiang1 long3] {soeng1 lung5} /baggage; luggage/
-箱頭筆 箱头笔 [xiang1 tou2 bi3] {soeng1 tau4 bat1} /(noun) a marker pan/
-範圍 范围 [fan4 wei2] {faan6 wai4} /area/
-範文 范文 [fan4 wen2] {faan6 man4} /(noun) writing sample or sample essay/
-築堤 筑堤 [zhu4 di1] {zuk1 tai4} /Embankment/
-築路 筑路 [zhu4 lu4] {zuk1 lou6} /(verb) build a road/
+????c 算你夠運 算你够运 [suan4 ni3 gou4 yun4] {syun3 nei5 gau3 wan6} /estime-toi heureux/
+????c 算係 算系 [suan4 xi4] {syun3 hai6} /(être) probablement/
+算吧啦 算吧啦 [suan4 ba5 la5] {syun3 baa1 laa1} /laisse tomber/
+算好 算好 [suan4 hao3] {syun3 hou2} /pourrait être pire; pas mal; acceptable/calculé; déjà calculé/
+算式 算式 [suan4 shi4] {syun3 sik1} /(mathématiques) équation/
+算數 算数 [suan4 shu4] {syun3 sou3} /laisse tomber/
+算死草 算死草 [suan4 si3 cao3] {syun3 sei2 cou2} /(expr. idiom.) avare; radin; pingre/(lit.) compter jusqu'à ce que l'herbe meure/
+算盤子 算盘子 [suan4 pan2 zi3] {syun3 pun4 zi2} /(espèce d'arbuste) Glochidion puberum/
+算罷啦 算罢啦 [suan4 ba5 la5] {syun3 baa6 laa1} /laisse tomber/
+算賬 算账 [suan4 zhang4] {syun3 zoeng3} /rendre la pareille à quelqu'un; se venger/tenir les comptes; équilibrer le budget; faire les comptes/
+管 管 [guan3] {gun2} /diriger; gérer; s'occuper de/tube; tuyau/(classificateur pour les objets en forme de cylindre creux)/(nom de famille chinois)/
+管事 管事 [guan3 shi4] {gun2 si6} /gérer; diriger; être responsable/efficace/
+管理局 管理局 [guan3 li3 ju2] {gun2 lei5 guk2} /ministère; régie/
+管理處 管理处 [guan3 li3 chu4] {gun2 lei5 cyu3} /service administratif; bureau de gestion/
+管理費 管理费 [guan3 li3 fei4] {gun2 lei5 fai3} /frais de gestion/
+箭嘴 箭嘴 [jian4 zui3] {zin3 zeoi2} /(symbole) flèche/
+箭在弦上 箭在弦上 [jian4 zai4 xian2 shang4] {zin3 zoi6 jin4 soeng6} /(expr. idiom.) atteindre le point de non-retour/(lit.) avoir la flèche sur la corde d'arc/
+箭術 箭术 [jian4 shu4] {zin3 seot6} /tir à l'arc/
+箭豬 箭猪 [jian4 zhu1] {zin3 zyu1} /porc-épic/
+箭靶 箭靶 [jian4 ba3] {zin3 baa2} /cible; planche servant de but pour le tir à l'arc/
+箱籠 箱笼 [xiang1 long3] {soeng1 lung5} /bagages/
+箱頭筆 箱头笔 [xiang1 tou2 bi3] {soeng1 tau4 bat1} /feutre; feutre indélébile; marqueur indélébile; marqueur à pointe biseautée/
+範圍 范围 [fan4 wei2] {faan6 wai4} /cadre; visée; envergure/zone; limites/
+????f 範文 范文 [fan4 wen2] {faan6 man4} /dissertation servant d'exemple idéal/
+築堤 筑堤 [zhu4 di1] {zuk1 tai4} /berge; digue/
+築路 筑路 [zhu4 lu4] {zuk1 lou6} /construire une route/
 篙竹 篙竹 [gao1 zhu2] {gou1 zuk1} /a type of bamboo/
-篤 笃 [du3] {duk1} /to poke (Cantonese)/
-篤底 笃底 [du3 di3] {duk1 dai2} /bottom-most (spoken)/
-篤數 笃数 [du3 shu4] {duk1 sou3} /(verb) (of illegal accounting fraud) change the numbers of expenses, costs, etc. to bigger/
-篤波 笃波 [du3 bo1] {duk1 bo1} /billiard; to play pool/
+篤 笃 [du3] {duk1} /toucher avec un objet pointu; pousser avec un doigt/
+篤底 笃底 [du3 di3] {duk1 dai2} /le fond/le dessous/
+篤數 笃数 [du3 shu4] {duk1 sou3} /gonfler les chiffres; falsifier les comptes/
+篤波 笃波 [du3 bo1] {duk1 bo1} /jouer au billiard/
 篤爆 笃爆 [du3 bao4] {duk1 baau3} /to bust (spoken)/
 篤眼篤鼻 笃眼笃鼻 [du3 yan3 du3 bi2] {duk1 ngaan5 duk1 bei6} /annoying; dislike (spoken)/
-篤穿 笃穿 [du3 chuan1] {duk1 cyun1} /disclose; to expose/
-篤背脊 笃背脊 [du3 bei4 ji3] {duk1 bui3 zek3} /backstabbing/
-篤誠 笃诚 [du3 cheng2] {duk1 sing4} /sincere and earnest/
+篤穿 笃穿 [du3 chuan1] {duk1 cyun1} /perforer des trous; percer des trous/(fig.) trahir; dénoncer; moucharder/
+篤背脊 笃背脊 [du3 bei4 ji3] {duk1 bui3 zek3} /parler dans le dos de quelqu'un/trahir; dénoncer; moucharder/
+篤誠 笃诚 [du3 cheng2] {duk1 sing4} /sincère et honnête/
 篩 筛 [shai1] {sai1} /(utensil) 1. Sieve or sifter; (verb)  Sift through/
 篩身篩勢 筛身筛势 [shai1 shen1 shai1 shi4] {sai1 san1 sai1 sai3} /one nagging and shaking its body (spoken)/
 簕竇 簕窦 [le4 dou4] {lak6 dau3} /(adjective) difficult get along with; hard to deal with/
@@ -15466,12 +15466,12 @@
 篾青 篾青 [mie4 qing1] {mit6 ceng1} /outer cuticle of a bamboo/
 簍休 篓休 [lou3 xiu1] {lau1 jau1} /to not care and be neglectful of one's appearance; to be slovenly/
 簞食瓢飲 箪食瓢饮 [dan1 si4 piao2 yin3] {daan1 sik6 piu4 jam2} /Live in poverty/
-簡化漢字 简化汉字 [jian3 hua4 Han4 zi4] {gaan2 faa3 hon3 zi6} /(noun) Simplified Chinese characters/
-簡直 简直 [jian3 zhi2] {gaan2 zik6} /just/
-簡稱 简称 [jian3 cheng1] {gaan2 cing1} /(noun)  Initial /
-簡筆 简笔 [jian3 bi3] {gaan2 bat1} /simplified characters/
-簡筆字 简笔字 [jian3 bi3 zi4] {gaan2 bat1 zi6} /simplified Chinese writings; simplified Chinese characters/
-簡簡單單 简简单单 [jian3 jian3 dan1 dan1] {gaan2 gaan2 daan1 daan1} /Simple/
+簡化漢字 简化汉字 [jian3 hua4 han4 zi4] {gaan2 faa3 hon3 zi6} /caractères chinois simplifiés; sinogrammes simplifiés/
+簡直 简直 [jian3 zhi2] {gaan2 zik6} /tout simplement/
+簡稱 简称 [jian3 cheng1] {gaan2 cing1} /abbréviation; acronyme; sigle/
+簡筆 简笔 [jian3 bi3] {gaan2 bat1} /(abbr.) caractères chinois simplifiés; sinogrammes simplifiés/
+簡筆字 简笔字 [jian3 bi3 zi4] {gaan2 bat1 zi6} /caractères chinois simplifiés; sinogrammes simplifiés/
+簡簡單單 简简单单 [jian3 jian3 dan1 dan1] {gaan2 gaan2 daan1 daan1} /simple; pas compliqué/
 簪花 簪花 [zan1 hua1] {zaam1 faa1} /Wearing a flower in one's hair/
 簷口 檐口 [yan2 kou3] {jim4 hau2} /cornice; eaves/
 簷篷 檐篷 [yan2 peng2] {jim4 pung4} /canopy/
