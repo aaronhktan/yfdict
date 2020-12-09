@@ -15483,7 +15483,7 @@
 簽紙 签纸 [qian1 zhi3] {cim1 zi2} /signer un document/
 簽訂合同 签订合同 [qian1 ding4 he2 tong5] {cim1 ding3 hap6 tung4} /signer un contrat/
 簽賬 签账 [qian1 zhang4] {cim1 zoeng3} /payer part carte de crédit; payer par carte bancaire/
-簿仔 簿仔 [bu4 zi3] {bou2 zai2} /livret; carnet; petit cahier/livret d'épargne; carnet de banque
+簿仔 簿仔 [bu4 zi3] {bou2 zai2} /livret; carnet; petit cahier/livret d'épargne; carnet de banque/
 籌備 筹备 [chou2 bei4] {cau4 bei6} /préparer; prendre des dispositions/
 ????f 籠屋 笼屋 [long2 wu1] {lung4 nguk1} /cage home; bedspace/
 籠裏雞作反 笼里鸡作反 [long2 li3 ji1 zuo4 fan3] {lung4 leoi5 gai1 zok3 faan2} /(expr. idiom.) conflit interne/(lit.) les poules dans la cage se révoltent/
@@ -15494,7 +15494,7 @@
 ????f 米缸 米缸 [mi3 gang1] {mai5 gong1} /(noun) a vat to store rice; a container to store rice/
 米舖 米铺 [mi3 pu4] {mai5 pou3} /magasin de riz/
 米色 米色 [mi3 se4] {mai5 sik1} /beige/
-米蘭花 米兰花 [mi3 lan2 hua1] {mai5 laan4 faa1} /Aglaia odorata, espèce de plante/
+米蘭花 米兰花 [mi3 lan2 hua1] {mai5 laan4 faa1} /Aglaia odorata, espèce de plantes/
 米路 米路 [mi3 lu4] {mai5 lou6} /façon de gagner sa vie; moyen de gagner sa vie/
 米通 米通 [mi3 tong1] {mai5 tung1} /riz soufflé/
 米酒 米酒 [mi3 jiu3] {mai5 zau2} /alcool de riz/
@@ -15526,7 +15526,7 @@
 粗心大意 粗心大意 [cu1 xin1 da4 yi4] {cou1 sam1 daai6 ji3} /(expr.) négligent/
 ????c 粗手粗腳 粗手粗脚 [cu1 shou3 cu1 jiao3] {cou1 sau2 cou1 goek3} /to handle something in a very rough careless manner/rude/clumsy/
 粗暴 粗暴 [cu1 bao4] {cou1 bou6} /brutal; violent/
-粗生 粗生 [cu1 sheng1] {cou1 sang1} /plants that grew without any essentials; adaptable to any environment (spoken)/
+粗生 粗生 [cu1 sheng1] {cou1 sang1} /(plante) résistant; rustique/
 粗生粗養 粗生粗养 [cu1 sheng1 cu1 yang3] {cou1 saang1 cou1 joeng5} /no need to pay much attention during the growing period/
 ????f 粗線條 粗线条 [cu1 xian4 tiao2] {cou1 sin3 tiu4} /traits épais; lignes épaisses/ébauche; aperçu approximatif/(fig.) rudimentaire/honest without tact; having little regard for niceties????/
 粗聲粗氣 粗声粗气 [cu1 sheng1 cu1 qi4] {cou1 seng1 cou1 hei3} /(expr.) (voix) rauque/
@@ -15589,7 +15589,7 @@
 糖環 糖环 [tang2 huan2] {tong4 waan4} /« anneaux de sucre », patisserie frite consommée lors des célébrations du Nouvel an chinois/
 糖膠樹 糖胶树 [tang2 jiao1 shu4] {tong4 gaau1 syu6} /(arbre tropical) Alstonia scholaris; arbre du diable; alstonia des écoliers; quinquina d'Inde; quinquina d'Australie/
 糖衣炮彈 糖衣炮弹 [tang2 yi1 pao4 dan4] {tong4 ji1 paau3 daan2} /(expr. idiom.) quelque chose qui paraît bon à première vue mais qui se révèle nuisible/(lit.) balle (d'arme à feu) recouverte de sucre/
-糖黐豆 糖黐豆 [tang2 chi1 dou4] {tong4 ci1 dau2} /(fig.) (personnes) inséparables/(lit.) comme de sucre qui colle aux fèves/
+糖黐豆 糖黐豆 [tang2 chi1 dou4] {tong4 ci1 dau2} /(fig.) (personnes) inséparables/(lit.) comme du sucre qui colle aux fèves/
 糜 糜 [mei2] {mei4} /bouillie de riz/congee/pourri/
 糟質 糟质 [zao1 zhi4] {zou1 zat1} /se moquer de (quelqu'un); insulter; injurier; tourmenter/abîmer; endommager quelque chose/
 ????f 糠耳 糠耳 [kang1 er3] {hong1 ji5} /dry ear/to have dry earwax?/to not have earwax?/
@@ -15602,53 +15602,54 @@
 ????f 糯米酒 糯米酒 [nuo4 mi3 jiu3] {no6 mai5 zau2} /Glutinous rice wine/
 糯米雞 糯米鸡 [nuo4 mi3 ji1] {no6 mai5 gai1} /lo mai gai, plat classique de dimsum/
 糴米 籴米 [di2 mi3] {dek6 mai5} /acheter du riz/
-糷 糷 [lan4] {laan4, laan6} /Rice which is cooked too soft/
+糷 糷 [lan4] {laan4, laan6} /riz cuit/riz trop mou/
 系列 系列 [xi4 lie4] {hai6 lit6} /série; suite/
 系統 系统 [xi4 tong3] {hai6 tung2} /système/systématique/
-糾正 纠正 [jiu1 zheng4] {gau2 zing3} /(verb) Redress/
-糾纏 纠缠 [jiu1 chan2] {gau2 cin4} /(verb) 1. Intertwine;  Entangle/
+糾正 纠正 [jiu1 zheng4] {gau2 zing3} /rectifier; corriger/
+糾纏 纠缠 [jiu1 chan2] {gau2 cin4} /emmêler/empêtrer/déranger; perturber/
 紀元後 纪元后 [ji4 yuan2 hou4] {gei2 jyun4 hau6} /Anno Domini; ère commune; notre ère/
-紀律處分 纪律处分 [ji4 lu:4 chu3 fen4] {gei2 leot6 cyu2 fan1} /Disciplinary measures/
-紀律部隊 纪律部队 [ji4 lu:4 bu4 dui4] {gei2 leot6 bou6 deoi2} /Disciplinary Forces/
+紀律處分 纪律处分 [ji4 lu:4 chu3 fen4] {gei2 leot6 cyu2 fan1} /mesure disciplinaire/
+紀律部隊 纪律部队 [ji4 lu:4 bu4 dui4] {gei2 leot6 bou6 deoi2} /Services répressifs de Hong Kong/
 紀念 纪念 [ji4 nian4] {gei2 nim6} /anniversaire; jour commémoratif/commémorer/
 紀念堂站 纪念堂站 [ji4 nian4 tang2 zhan4] {gei2 nim6 tong4 zaam6} /Sun Yat-sen Memorial Hall Station (« station du Mémorial de Sun Yat-sen »), station du métro de Canton/
 約好 约好 [yue1 hao3] {joek3 hou2} /prévoir de faire/
-約束 约束 [yue1 shu4] {joek3 cuk1} /restriction; limit/
+約束 约束 [yue1 shu4] {joek3 cuk1} /limiter; restreindre/
 約翰尼斯堡 约翰尼斯堡 [yue1 han4 ni2 si1 bao3] {joek3 hon6 noi6 si1 bou2} /Johannesbourg/
 紅 红 [hong2] {hung4} /rouge/populaire/révolutionnaire/(fig.) sang/
 紅 红 [hong2] {gung1} /couture/
 紅三 红三 [hong2 san1] {hung4 saam1} /(famille de poissons) Polynemidae; Alectis/(fig.) billet de cent dollars de Hong Kong/
 紅三魚 红三鱼 [hong2 san1 yu2] {hung4 saam1 jyu2} /(famille de poissons) Polynemidae; Alectis/(fig.) billet de cent dollars de Hong Kong/
-紅光滿面 红光满面 [hong2 guang1 man3 mian4] {hung4 gwong1 mun5 min6} /face glowing/
+紅光滿面 红光满面 [hong2 guang1 man3 mian4] {hung4 gwong1 mun5 min6} /(expr.) respirer la santé; avoir bonne mine/(lit.) avoir un éclat rouge sur tout le visage/
 紅十字會 红十字会 [Hong2 shi2 zi4 hui4] {hung4 sap6 zi6 wui2} /Croix-Rouge/
 紅十字車 红十字车 [hong2 shi2 zi4 che1] {hung4 sap6 zi6 ce1} /(fig.) ambulance/
-紅卜卜 红卜卜 [hong2 bu3 bu3] {hung4 buk1 buk1} /red cheeks caused by dry weather (spoken)/
+紅卜卜 红卜卜 [hong2 bu3 bu3] {hung4 bok1 bok1} /rouge; rouge vif/
+紅扑扑 紅扑扑 [hong2 bu3 bu3] {hung4 bok1 bok1} /rouge; rouge vif/
 紅噹噹 红当当 [hong2 dang1 dang5] {hung4 dong1 dong6} /rouge vif/
 紅封包 红封包 [hong2 feng1 bao1] {hung4 baau1 fung1} /(plus rare) enveloppe rouge; paquet rouge/
-紅底 红底 [hong2 di3] {hung4 dai2} /a Hong Kong HKD $100 banknote; red color background/
-紅會 红会 [hong2 hui4] {hung4 wui2} /the Red Cross society/
-紅棍 红棍 [hong2 gun4] {hung4 gwan3} /(noun) a senior position in a triad/
-紅極一時 红极一时 [hong2 ji2 yi1 shi2] {hung4 gik6 jat1 si4} /a smash hit; to be well-known for a period of time/
-紅毛 红毛 [hong2 mao2] {hung4 mou4} /a foreigner/
+紅底 红底 [hong2 di3] {hung4 dai2} /fond rouge/(fig.) billet de cent dollars de Hong Kong/
+紅會 红会 [hong2 hui4] {hung4 wui2} /Société nationale de la Croix-Rouge/
+????f 紅棍 红棍 [hong2 gun4] {hung4 gwan3} /(noun) a senior position in a triad (enforcer?)/
+紅極一時 红极一时 [hong2 ji2 yi1 shi2] {hung4 gik6 jat1 si4} /(expr. idiom.) être très populaire pendant un certain temps/
+紅毛 红毛 [hong2 mao2] {hung4 mou4} /(nom commun) étranger, étrangère/Européen/(lit.) cheveux rouges/
 紅毛墳場 红毛坟场 [hong2 mao2 fen2 chang3] {hung4 mou4 fan4 coeng4} /the Hong Kong Cemetery, formerly known as the Hong Kong Colonial Cemetery as it was formerly a Christian cemetery for foreigners/
-紅毛泥 红毛泥 [hong2 mao2 ni2] {hung4 mou4 nai4} /(noun) cement/
-紅毛猩猩 红毛猩猩 [hong2 mao2 xing1 xing5] {hung4 mou4 sing1 sing1} /Orangutans/
-紅汞 红汞 [hong2 gong3] {hung4 hung3} /Mercurochrome, a topical antiseptic/
-紅汞水 红汞水 [hong2 gong3 shui3] {hung4 hung3 seoi2} /Mercurochrome, a topical antiseptic/
-紅牌阿姑 红牌阿姑 [hong2 pai2 a1 gu1] {hung4 paai2 aa3 gu1} /(noun) a famous prostitutes in former a brothel/
-紅番 红番 [Hong2 fan1] {hung4 faan1} /barbarian/
-紅當當 红当当 [hong2 dang1 dang1] {hung4 dong1 dong6} /Very Red/
-紅當蕩 红当荡 [hong2 dang1 dang4] {hung4 dong1 dong6} /too much red; over usage of red (spoken)/
-紅白事 红白事 [hong2 bai2 shi4] {hung4 baak6 si6} /(noun) double happiness and funeral arrangement; funerals and weddings;/
-紅白機 红白机 [hong2 bai2 ji1] {hung4 baak6 gei1} /Nintendo Entertainment System/
-紅眼症 红眼症 [hong2 yan3 zheng4] {hung4 ngaan5 zing3} /(disease) a red-eye syndrome; conjunctivitis; pink-eye/
-紅眼鱒 红眼鳟 [hong2 yan3 zun1] {hung4 ngaan5 zyun1} /a trout/
-紅磚 红砖 [hong2 zhuan1] {hung4 zyun1} /Red Brick/
-紅磡海底隧道 红磡海底隧道 [Hong2 Kan4 hai3 di3 sui4 dao4] {hung4 ham3 hoi2 dai2 seoi6 dou6} /Hung Hom Cross Harbour Tunnel/
-紅磡碼頭 红磡码头 [Hong2 Kan4 ma3 tou5] {hung4 ham3 maa5 tau4} /Hung Hom Ferry Pier/
-紅筋 红筋 [hong2 jin1] {hung4 gan1} /bloodshot (eyes)/
-紅簿仔 红簿仔 [hong2 bu4 zi3] {hung4 bou2 zai2} /a bankbook; a saving account passbook/
-紅米 红米 [hong2 mi3] {hung4 mai5} /Red Rice/
+紅毛泥 红毛泥 [hong2 mao2 ni2] {hung4 mou4 nai4} /ciment/(lit.) terre de cheveux rouges/(orig.) du mot en cantonais pour désigner les Européens, les « fantômes au cheveux rouges », d'où le nom pour le ciment, la « terre de (ceux qui ont) les cheveux rouges/
+紅毛猩猩 红毛猩猩 [hong2 mao2 xing1 xing5] {hung4 mou4 sing1 sing1} /orang-outan; orang-outang/
+紅汞 红汞 [hong2 gong3] {hung4 hung3} /Mercurochrome, merbromine, antiseptique topique/
+紅汞水 红汞水 [hong2 gong3 shui3] {hung4 hung3 seoi2} /Mercurochrome, merbromine, antiseptique topique/
+????f 紅牌阿姑 红牌阿姑 [hong2 pai2 a1 gu1] {hung4 paai2 aa3 gu1} /(noun) a famous prostitutes in a brothel/
+紅番 红番 [hong2 fan1] {hung4 faan1} /Amérindiens/(fig.) barbare/(lit.) aborigène rouge/(orig.) du nom en anglais (maintenant désuet et injurieux), « red Indians »/
+紅當當 红当当 [hong2 dang1 dang1] {hung4 dong1 dong6} /rouge vif/trop rouge/
+紅當蕩 红当荡 [hong2 dang1 dang4] {hung4 dong1 dong6} /rouge vif/trop rouge/
+紅白事 红白事 [hong2 bai2 shi4] {hung4 baak6 si6} /(fig.) funérailles et noces/(lit.) affaires de rouge (noces) et blanc (funérailles)/
+紅白機 红白机 [hong2 bai2 ji1] {hung4 baak6 gei1} /Famicom; NES; Nintendo Entertainment System, console de jeux vidéos/
+紅眼症 红眼症 [hong2 yan3 zheng4] {hung4 ngaan5 zing3} /conjonctivité/
+紅眼鱒 红眼鳟 [hong2 yan3 zun1] {hung4 ngaan5 zyun1} /truite/
+紅磚 红砖 [hong2 zhuan1] {hung4 zyun1} /brique rouge/
+紅磡海底隧道 红磡海底隧道 [hong2 Kan4 hai3 di3 sui4 dao4] {hung4 ham3 hoi2 dai2 seoi6 dou6} /Hung Hom Cross Harbour Tunnel (« tunnel routier entre îles Hung Hom »)/
+紅磡碼頭 红磡码头 [hong2 Kan4 ma3 tou5] {hung4 ham3 maa5 tau4} /Hung Hom Ferry Pier (« quai traversier Hung Hom »)/
+紅筋 红筋 [hong2 jin1] {hung4 gan1} /(yeux) injecté de sang; rougi/
+紅簿仔 红簿仔 [hong2 bu4 zi3] {hung4 bou2 zai2} /livret d'épargne; carnet de banque/
+紅米 红米 [hong2 mi3] {hung4 mai5} /riz rouge/Redmi, gamme d'appareils électroniques/
 紅粉緋緋 红粉绯绯 [hong2 fen3 fei1 fei1] {hung4 fan2 fei1 fei1} /(adjective) cheeks with a rosy glow; a ruddy cheek/
 紅粉花緋 红粉花绯 [hong2 fen3 hua1 fei1] {hung4 fan2 faa1 fei1} /look pretty and bright; ruddy face; rosy cheeks/
 紅肉 红肉 [hong2 rou4] {hung4 juk6} /red meat/
@@ -15674,7 +15675,7 @@
 紅鬚軍師 红须军师 [hong2 xu1 jun1 shi1] {hung4 sou1 gwan1 si1} /an incapable person who always gives useless advice (slang)/
 紅鶴 红鹤 [hong2 he4] {hung4 hok2} /Flamingo/
 紅鸛 红鹳 [hong2 guan4] {hung4 gun3} /Flamingo/
-紊亂 紊乱 [wen3luan4] {man6 lyun6} /(adjective) Confused /
+紊亂 紊乱 [wen3 luan4] {man6 lyun6} /(adjective) Confused /
 納戈爾諾－卡拉巴赫 纳戈尔诺－卡拉巴赫 [na4 Ge1 er3 nuo4  ka3 la1 ba1 he4] {naap6 gwo1 ji5 nok6 kaa1 laai1 baa1 hak1} /Nagorno - Karabakh Republic/
 納稅 纳税 [na4 shui4] {naap6 seoi3} /(noun)  Tax or taxation/
 紐 纽 [niu3] {nau2} /(noun)  Refer to New Zealand /
