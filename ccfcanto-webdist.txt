@@ -7161,6 +7161,7 @@
 工聯會 工联会 [gong1 lian2 hui4] {gung1 lyun4 wui2} /Hong Kong Federation of Trade Unions, union syndicale de Hong Kong/
 工讀 工读 [gong1 du2] {gung1 duk6} /étudiant qui fait du travail à temps partiel/
 工資 工资 [gong1 zi1] {gung1 zi1} /salaire/
+工資單 工资单 [gong1 zi1 dan1] {gung1 zi1 daan1} /bulletin de salaire; fiche de paie/
 左便 左便 [zuo3 bian4] {zo2 bin6} /côté gauche/
 左口魚 左口鱼 [zuo3 kou3 yu2] {zo2 hau2 jyu4} /flétan indien/
 左右 左右 [zuo3 you4] {zo2 jau6} /environ, à peu près/collaborateur direct/
@@ -15547,84 +15548,85 @@
 粵東 粤东 [yue4 dong1] {jyut6 dung1} /partie est de la province de Guangdong/
 粵省 粤省 [yue4 sheng3] {jyut6 saang2} /Guangdong, province de la République Populaire de Chine/
 粵語正音運動 粤语正音运动 [yue4 yu3 zheng4 yin1 yun4 dong5] {jyut6 jyu5 zing3 jam1 wan6 dung6} /« Cantonese Correct Pronunciation Action », campagne visant à promouvoir une prononciation standardisée du cantonais/
-粵語殘片 粤语残片 [yue4 yu3 can2 pian4] {jyut6 jyu5 caan4 pin3} /vieux films cantonais/
+粵語殘片 粤语残片 [yue4 yu3 can2 pian4] {jyut6 jyu5 caan4 pin3} /vieux films cantonais (note d'usage: à Hong Kong, cette expression a une connotation négative, tandis qu'à Canton, elle est plutôt neutre)/
 粵語流行曲 粤语流行曲 [yue4 yu3 liu2 xing2 qu3] {jyut6 jyu5 lau4 hang4 kuk1} /cantopop, genre musical/
 粵語片 粤语片 [yue4 yu3 pian4] {jyut6 jyu5 pin2} /films en cantonais/
-粵語白話文 粤语白话文 [Yue4 yu3 bai2 hua4 wen2] {jyut6 jyu5 baak6 waa2 man4} /cantonais écrit/
-粵語長片 粤语长片 [Yue4 yu3 chang2 pian4] {jyut6 jyu5 coeng4 pin2} /vieux films cantonais/
+粵語白話文 粤语白话文 [yue4 yu3 bai2 hua4 wen2] {jyut6 jyu5 baak6 waa2 man4} /cantonais écrit/
+粵語長片 粤语长片 [yue4 yu3 chang2 pian4] {jyut6 jyu5 coeng4 pin2} /vieux films cantonais (note d'usage: à Hong Kong, cette expression a une connotation négative, tandis qu'à Canton, elle est plutôt neutre)/
 精乖 精乖 [jing1 guai1] {zeng1 gwaai1} /intelligent et obéissant (se dit des enfants)/
 精乖伶俐 精乖伶俐 [jing1 guai1 ling2 li4] {zeng1 gwaai1 ling4 lei6} /intelligent et obéissant (se dit des enfants)/
 精乖靈利 精乖灵利 [jing1 guai1 ling2 li4] {zeng1 gwaai1 ling4 lei6} /intelligent et obéissant (se dit des enfants)/
-精人出口，笨人出手 精人出口，笨人出手 [jing1 ren2 chu1 kou3 , ben4 ren2 chu1 shou3] {zeng1 jan4 ceot1 hau2 ban6 jan4 ceot1 sau2} /(expr. idiom.) ceux qui sont intelligents donnent les ordres; ceux qui sont stupides l'éxécutent/(lit.) les personnes intelligentes contribuent leur paroles; les personnes stupides contribuent leur mains/
+????f 精人出口，笨人出手 精人出口，笨人出手 [jing1 ren2 chu1 kou3 , ben4 ren2 chu1 shou3] {zeng1 jan4 ceot1 hau2 ban6 jan4 ceot1 sau2} /(expr. idiom.) ceux qui sont intelligents donnent les ordres; ceux qui sont stupides l'éxécutent/(expr. idiom.) situation où une personne encourage quelqu'un d'autre à prendre un risque stupide, mais c'est le premier qui en profite/(lit.) les personnes intelligentes contribuent leur paroles; les personnes stupides contribuent leur mains/
 精仔 精仔 [jing1 zai3] {zing1 zai2} /personne intelligente/
 精伶 精伶 [jing1 ling2] {zing1 ling1} /ingénieux; intelligent; astucieux/
 精出骨 精出骨 [jing1 chu1 gu3] {zing1 ceot1 gwat1} /(fig.) ingénieux et égoïste/
 精叻 精叻 [jing1 le4] {zeng1 lek1} /ingénieux; intelligent; astucieux/
 ????f 精品店 精品店 [jing1 pin3 dian4] {zing1 ban2 dim3} /magasin de bibelots; boutique; petit magasin/
-????f 精埋一便 精埋一便 [jing1 mai2 yi1 bian4] {zing1 maai4 jat1 bin6} /personne astucieuse qui utilise son intelligence à de fins mauvaises/
+????f 精埋一便 精埋一便 [jing1 mai2 yi1 bian4] {zing1 maai4 jat1 bin6} /personne futée qui utilise son intelligence à de fins mauvaises/
 ????c 精悍 精悍 [jing1 han4] {zing1 hon5} /Capable and vigorous/
 精明 精明 [jing1ming2] {zing1 ming4} /ingénieux; astucieux; malin; intelligent/
-精武門 精武门 [jing1 wu3 men2] {zing1 mou5 mun4} /Fist of Fury/
-精歸左 精归左 [jing1 gui1 zuo3] {zeng1 gwai1 zo2} /a mind that has been corrupted/
-精益求精 精益求精 [jing1yi4qiu2jing1 ] {zing1 jik1 kau4 zing1} /(verb phrase) Excelsior /
-精神分裂 精神分裂 [jing1 shen2 fen1 lie4] {zing1 san4 fan1 lit6} /Schizophrenia/
-精神爽利 精神爽利 [jing1 shen5 shuang3 li4] {zing1 san4 song2 lei6} /refreshed and energetic; full of spirit/
+精武門 精武门 [jing1 wu3 men2] {zing1 mou5 mun4} /La Fureur de vaincre (« Fist of Fury » ou « The Chinese Connection » en anglais), film de kung-fu dont le personnage principal est interpreté par Bruce Lee/
+????c 精歸左 精归左 [jing1 gui1 zuo3] {zeng1 gwai1 zo2} /a mind that has been corrupted/
+????f 精益求精 精益求精 [jing1yi4qiu2jing1 ] {zing1 jik1 kau4 zing1} /(verb phrase) Excelsior /
+精神分裂 精神分裂 [jing1 shen2 fen1 lie4] {zing1 san4 fan1 lit6} /schizophrénie/
+精神爽利 精神爽利 [jing1 shen5 shuang3 li4] {zing1 san4 song2 lei6} /revigoré; énergique/
 精神病院 精神病院 [jing1 shen2 bing4 yuan4] {zing1 san4 beng6 jyun2} /hôpital psychiatrique/
-精簡機構 精简机构 [jing1 jian3 ji1 gou4] {zing1 gaan2 gei1 kau3} /Streamlining administration structure/
-精英大師 精英大师 [jing1 ying1 da4 shi1] {zing1 jing1 daai6 si1} /Elite; Silent Witness, the name of an outstanding thoroughbred racehorse/
-精過冇尾蛇 精过冇尾蛇 [jing1 guo4 mao3 wei3 she2] {zeng1 gwo3 mou5 mei5 se4} /(expr. idiom.) très malin; futé; astucieux/(lit.) plus futé qu'un serpent sans queue/
-精選輯 精选辑 [jing1 xuan3 ji2] {zing1 syun2 cap1} /Greatest Hits; compilation/
-精采 精采 [jing1 cai3] {zing1 coi2} /Brilliant; exciting/
-精銳部隊 精锐部队 [jing1 rui4 bu4 dui4] {zing1 jeoi6 bou6 deoi2} /Elite Forces; special forces/
-精靈 精灵 [jing1 ling2] {zing1 ling4} /smart; clever/
-粿條 粿条 [guo3 tiao2] {gwo2 tiu4} /Kway Teow, a type of rice noodle/
-糊仔 糊仔 [hu2 zi3] {wu2 zai2} /(food) baby oatmeal; baby cereal/
-糕盤 糕盘 [gao1 pan2] {gou1 pun2} /Cake mould; cake tin/
-糖不甩 糖不甩 [tang2 bu4 shuai3] {tong4 bat1 lat1} /glutinous rice balls with peanuts and sesame/
-糖冬瓜 糖冬瓜 [tang2 dong1 gua1] {tong4 dung1 gwaa1} /Sweetened winter melon/
-糖果 糖果 [tang2 guo3] {tong4 gwo2} /(noun)  sweets/
-糖水 糖水 [tang2 shui3] {tong4 seoi2} /(noun)  dessert/
-糖水舖 糖水铺 [tang2 shui3 pu4] {tong4 seoi2 pou2} /(noun) a shop or a restaurant that sells desserts/
-糖環 糖环 [tang2 huan2] {tong4 waan4} /(food) a fried Chinese rosette/
-糖膠樹 糖胶树 [tang2 jiao1 shu4] {tong4 gaau1 syu6} /Alstonia scholaris, the devil tree/
-糖衣炮彈 糖衣炮弹 [tang2 yi1 pao4 dan4] {tong4 ji1 paau3 daan2} /something that seems nice in appearance, but is bad or harmful inside/
-糖黐豆 糖黐豆 [tang2 chi1 dou4] {tong4 ci1 dau2} /(noun) (adjective) (of good friend or a couple) undividable; inseparable; conjoined/
-糜 糜 [mei2] {mei4} /(noun) 1. Congee; 2. Paste; (adjective)  Rotten/
-糟質 糟质 [zao1 zhi4] {zou1 zat1} /(verb) to mock; to deride; to taunt; to treat someone harshly; to be mean to someone(a person); to ruin; to wreck (an object)/
-糠耳 糠耳 [kang1 er3] {hong1 ji5} /dry ear/
-糧 粮 [liang2] {loeng4} /(noun)  salary/
-糧單 粮单 [liang2 dan1] {loeng4 daan1} /salary statement; pay slip/
-糧食 粮食 [liang2 shi5] {loeng4 sik6} /food provisions/
-糯米 糯米 [nuo4 mi3] {no6 mai5} /(noun)  sticky rice/
-糯米屎忽 糯米屎忽 [nuo4 mi3 shi3 hu1] {no6 mai5 si2 fat1} /refuse to leave (slang)/
-糯米屎窟 糯米屎窟 [nuo4 mi3 shi3 ku1] {no6 mai5 si2 fat1} /(slang) someone is overstay in a party and never want to leaves./
-糯米酒 糯米酒 [nuo4 mi3 jiu3] {no6 mai5 zau2} /Glutinous rice wine/
-糯米雞 糯米鸡 [nuo4 mi3 ji1] {no6 mai5 gai1} /a common Chinese dim sum dish made from sticky rice, Chinese mushrooms, chicken, Chinese pork sausage etc. wrapped and steamed in a lotus leaf/
-糴米 籴米 [di2 mi3] {dek6 mai5} /to buy rice/
+精簡機構 精简机构 [jing1 jian3 ji1 gou4] {zing1 gaan2 gei1 kau3} /rationaliser les structures administratives/
+????f 精英大師 精英大师 [jing1 ying1 da4 shi1] {zing1 jing1 daai6 si1} /Silent Witness, cheval classé premier au monde dans les courses hippiques/
+精過冇尾蛇 精过冇尾蛇 [jing1 guo4 mao3 wei3 she2] {zeng1 gwo3 mou5 mei5 se4} /(expr. idiom.) très malin; futé; astucieux/(lit.) plus futé qu'un serpent sans queue (= plus difficile à attraper qu'un serpent sans queue)/
+精選輯 精选辑 [jing1 xuan3 ji2] {zing1 syun2 cap1} /(musique) compilation; Greatest Hits; Best of/
+精采 精采 [jing1 cai3] {zing1 coi2} /merveilleux; excitant; remarquable/
+精銳部隊 精锐部队 [jing1 rui4 bu4 dui4] {zing1 jeoi6 bou6 deoi2} /forces spéciales/
+精靈 精灵 [jing1 ling2] {zing1 ling4} /astucieux; futé; intelligent/
+粿條 粿条 [guo3 tiao2] {gwo2 tiu4} /Kway Teow, sorte de nouille de riz/
+糊仔 糊仔 [hu2 zi3] {wu2 zai2} /nourriture pour bébés/
+糕盤 糕盘 [gao1 pan2] {gou1 pun2} /moule à gâteau/
+糖不甩 糖不甩 [tang2 bu4 shuai3] {tong4 bat1 lat1} /« sucre qui ne se détache pas » dessert cantonais; boules de riz gluant recouvertes de sucre, des arachides, et des graines de sésame/
+????f 糖冬瓜 糖冬瓜 [tang2 dong1 gua1] {tong4 dung1 gwaa1} /tranches de courge cireuse séchées et saupoudrées de sucre/
+糖果 糖果 [tang2 guo3] {tong4 gwo2} /bonbon; confiserie; friandise/
+糖水 糖水 [tang2 shui3] {tong4 seoi2} /tong sui, soupe sucrée servie comme dessert/
+????f 糖水舖 糖水铺 [tang2 shui3 pu4] {tong4 seoi2 pou2} /restaurant de desserts où le tong sui est servi/
+糖環 糖环 [tang2 huan2] {tong4 waan4} /« anneaux de sucre », patisserie frite consommée lors des célébrations du Nouvel an chinois/
+糖膠樹 糖胶树 [tang2 jiao1 shu4] {tong4 gaau1 syu6} /(arbre tropical) Alstonia scholaris; arbre du diable; alstonia des écoliers; quinquina d'Inde; quinquina d'Australie/
+糖衣炮彈 糖衣炮弹 [tang2 yi1 pao4 dan4] {tong4 ji1 paau3 daan2} /(expr. idiom.) quelque chose qui paraît bon à première vue mais qui se révèle nuisible/(lit.) balle (d'arme à feu) recouverte de sucre/
+糖黐豆 糖黐豆 [tang2 chi1 dou4] {tong4 ci1 dau2} /(fig.) (personnes) inséparables/(lit.) comme de sucre qui colle aux fèves/
+糜 糜 [mei2] {mei4} /bouillie de riz/congee/pourri/
+糟質 糟质 [zao1 zhi4] {zou1 zat1} /se moquer de (quelqu'un); insulter; injurier; tourmenter/abîmer; endommager quelque chose/
+????f 糠耳 糠耳 [kang1 er3] {hong1 ji5} /dry ear/to have dry earwax?/to not have earwax?/
+糧 粮 [liang2] {loeng4} /salaire/
+糧單 粮单 [liang2 dan1] {loeng4 daan1} /bulletin de salaire; fiche de paie/
+糧食 粮食 [liang2 shi5] {loeng4 sik6} /denrées; aliments; nourriture/
+糯米 糯米 [nuo4 mi3] {no6 mai5} /riz gluant/
+糯米屎忽 糯米屎忽 [nuo4 mi3 shi3 hu1] {no6 mai5 si2 fat1} /(expr. idiom.) une personne qui abuse de l'hospitalité/(lit.) fesses au riz gluant/
+糯米屎窟 糯米屎窟 [nuo4 mi3 shi3 ku1] {no6 mai5 si2 fat1} /(expr. idiom.) une personne qui abuse de l'hospitalité/(lit.) fesses au riz gluant/
+????f 糯米酒 糯米酒 [nuo4 mi3 jiu3] {no6 mai5 zau2} /Glutinous rice wine/
+糯米雞 糯米鸡 [nuo4 mi3 ji1] {no6 mai5 gai1} /lo mai gai, plat classique de dimsum/
+糴米 籴米 [di2 mi3] {dek6 mai5} /acheter du riz/
 糷 糷 [lan4] {laan4, laan6} /Rice which is cooked too soft/
-系列 系列 [xi4 lie4] {hai6 lit6} /range/
-系統 系统 [xi4 tong3] {hai6 tung2} /systematic/
-糾正 纠正 [jiu1zheng4] {gau2 zing3} /(verb) Redress/
+系列 系列 [xi4 lie4] {hai6 lit6} /série; suite/
+系統 系统 [xi4 tong3] {hai6 tung2} /système/systématique/
+糾正 纠正 [jiu1 zheng4] {gau2 zing3} /(verb) Redress/
 糾纏 纠缠 [jiu1 chan2] {gau2 cin4} /(verb) 1. Intertwine;  Entangle/
-紀元後 纪元后 [ji4 yuan2 hou4] {gei2 jyun4 hau6} /A.D (anno Domini)/
-紀律處分 纪律处分 [ji4 lü4 chu3 fen4] {gei2 leot6 cyu2 fan1} /Disciplinary measures/
-紀律部隊 纪律部队 [ji4 lü4 bu4 dui4] {gei2 leot6 bou6 deoi2} /Disciplinary Forces/
-紀念 纪念 [ji4 nian4] {gei2 nim6} /(noun)  anniversary; (adjective) memorial/
-紀念堂站 纪念堂站 [ji4 nian4 tang2 zhan4] {gei2 nim6 tong4 zaam6} /Sun Yat-sen Memorial Hall Station, a metro station in Guangzhou/
-約好 约好 [yue1 hao3] {joek3 hou2} /(verb) agree; arrange/
+紀元後 纪元后 [ji4 yuan2 hou4] {gei2 jyun4 hau6} /Anno Domini; ère commune; notre ère/
+紀律處分 纪律处分 [ji4 lu:4 chu3 fen4] {gei2 leot6 cyu2 fan1} /Disciplinary measures/
+紀律部隊 纪律部队 [ji4 lu:4 bu4 dui4] {gei2 leot6 bou6 deoi2} /Disciplinary Forces/
+紀念 纪念 [ji4 nian4] {gei2 nim6} /anniversaire; jour commémoratif/commémorer/
+紀念堂站 纪念堂站 [ji4 nian4 tang2 zhan4] {gei2 nim6 tong4 zaam6} /Sun Yat-sen Memorial Hall Station (« station du Mémorial de Sun Yat-sen »), station du métro de Canton/
+約好 约好 [yue1 hao3] {joek3 hou2} /prévoir de faire/
 約束 约束 [yue1 shu4] {joek3 cuk1} /restriction; limit/
-約翰尼斯堡 约翰尼斯堡 [yue1 han4 ni2 si1 bao3] {joek3 hon6 noi6 si1 bou2} /Johannesburg/
-紅 红 [hong2] {hung4} /(figurative noun)  blood (usually it refers to bleeding)/
-紅三 红三 [hong2 san1] {hung4 saam1} /Threadfin; Hong Kong 100 Dollars Note/
-紅三魚 红三鱼 [hong2 san1 yu2] {hung4 saam1 jyu2} /Threadfin; Hong Kong 100 Dollars Note/
+約翰尼斯堡 约翰尼斯堡 [yue1 han4 ni2 si1 bao3] {joek3 hon6 noi6 si1 bou2} /Johannesbourg/
+紅 红 [hong2] {hung4} /rouge/populaire/révolutionnaire/(fig.) sang/
+紅 红 [hong2] {gung1} /couture/
+紅三 红三 [hong2 san1] {hung4 saam1} /(famille de poissons) Polynemidae; Alectis/(fig.) billet de cent dollars de Hong Kong/
+紅三魚 红三鱼 [hong2 san1 yu2] {hung4 saam1 jyu2} /(famille de poissons) Polynemidae; Alectis/(fig.) billet de cent dollars de Hong Kong/
 紅光滿面 红光满面 [hong2 guang1 man3 mian4] {hung4 gwong1 mun5 min6} /face glowing/
-紅十字會 红十字会 [Hong2 shi2 zi4 hui4] {hung4 sap6 zi6 wui2} /the Red Cross/
-紅十字車 红十字车 [hong2 shi2 zi4 che1] {hung4 sap6 zi6 ce1} /an ambulance/
+紅十字會 红十字会 [Hong2 shi2 zi4 hui4] {hung4 sap6 zi6 wui2} /Croix-Rouge/
+紅十字車 红十字车 [hong2 shi2 zi4 che1] {hung4 sap6 zi6 ce1} /(fig.) ambulance/
 紅卜卜 红卜卜 [hong2 bu3 bu3] {hung4 buk1 buk1} /red cheeks caused by dry weather (spoken)/
-紅噹噹 红当当 [hong2 dang1 dang5] {hung4 dong1 dong6} /very red/
-紅封包 红封包 [hong2 feng1 bao1] {hung4 baau1 fung1} /red packet (dialect)/
+紅噹噹 红当当 [hong2 dang1 dang5] {hung4 dong1 dong6} /rouge vif/
+紅封包 红封包 [hong2 feng1 bao1] {hung4 baau1 fung1} /(plus rare) enveloppe rouge; paquet rouge/
 紅底 红底 [hong2 di3] {hung4 dai2} /a Hong Kong HKD $100 banknote; red color background/
-紅會 红会 [Hong2 hui4] {hung4 wui2} /the Red Cross society/
+紅會 红会 [hong2 hui4] {hung4 wui2} /the Red Cross society/
 紅棍 红棍 [hong2 gun4] {hung4 gwan3} /(noun) a senior position in a triad/
 紅極一時 红极一时 [hong2 ji2 yi1 shi2] {hung4 gik6 jat1 si4} /a smash hit; to be well-known for a period of time/
 紅毛 红毛 [hong2 mao2] {hung4 mou4} /a foreigner/
