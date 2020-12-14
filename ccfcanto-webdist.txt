@@ -12221,7 +12221,7 @@
 ???? 淋善 淋善 [lin2 shan4] {lam4 sin6} /confiant; qui a bon coeur; trop gentil/so kind as to be taken advantage of/
 淋淋瀋瀋 淋淋沈沈 [lin2 lin2 shen3 shen3] {lam4 lam4 sam2 sam2} /n'importe quoi/choses banales/
 淋淋聲 淋淋声 [lin2 lin2 sheng1] {lam4 lam2 seng1} /rapidement; vite/
-淋瀋 淋沈 [lin2 shen3] {lam4 sam2} /choses banales; choses triviales/futilité; trivialité/en désordre/
+淋瀋 淋沈 [lin2 shen3] {lam4 sam2} /choses banales; choses triviales; bagatelle; vétille; broutille/futilité; trivialité/en désordre/
 淋灕盡致 淋漓尽致 [lin2 li2 jin4 zhi4] {lam4 lei4 zeon6 zi3} /exprimer de façon frappante; expliquer de manière très détaillée; expliquer très clairement/
 淋花 淋花 [lin2 hua1] {lam4 faa1} /arroser (des plantes)/
 淒慘 淒惨 [qi1 can3] {cai1 caam2} /misérable; tragique/
@@ -12597,8 +12597,8 @@
 濕地公園 湿地公园 [shi1 di4 gong1 yuan2] {sap1 dei6 gung1 jyun2} /Hong Kong Wetland Park, un parc zoologique de Hong Kong/
 濕坺坺 濕坺坺 [chi4 bo4 bo4] {sap1 pet6 pet6} /humide/mouillé; trempé/
 濕度 湿度 [shi1 du4] {sap1 dou6} /humidité/
-濕星 濕星 [chi4 xing1] {sap1 sing1} /triviale; insignifiante/
-濕星嘢 濕星嘢 [chi4 xing1 ye3] {sap1 sing1 je5} /chose triviale; chose insignifiante/
+濕星 濕星 [chi4 xing1] {sap1 sing1} /triviale; insignifiante; sans importance/
+濕星嘢 濕星嘢 [chi4 xing1 ye3] {sap1 sing1 je5} /bagatelle; vétille; broutille; chose triviale; chose insignifiante/
 濕柴 湿柴 [shi1 chai2] {sap1 caai4} /(fig.) fainéant; vaurien; paresseux/(fig.) (vielli) petite monnaie; monnaie ou billets qui ne valent presque rien/(fig.) produit invendable; produit qui se vend difficilement/(lit.) bois de chauffage mouillé/
 濕水 湿水 [shi1 shui3] {sap1 seoi2} /submerger dans l'eau/(fig.) avare; radin; pingre/
 濕水欖核 濕水榄核 [chi4 shui3 lan3 he2] {sap1 seoi2 laam5 wat6} /(expr. idiom.) vilains enfants; enfants déosbéissants; enfants espiègles/(lit.) noyaux d'olive dans l'eau/
@@ -12608,10 +12608,10 @@
 濕𣲷𣲷 湿𣲷𣲷 [shi1 ni4 ni4] {sap1 nap6 nap6} /mouillé; trempé/humide/
 濕淰淰 濕淰淰 [chi4 nian3 nian3] {sap1 nam6 nam6} /mouillé; trempé/humide/
 濕滯 濕滞 [chi4 zhi4] {sap1 zai6} /troubles gastro-intestinaux/(médecine traditionelle chinoise) chaleur humide/(situation) difficile; problématique; ennuyeux; mal tourné/
-濕濕碎 湿湿碎 [chi4 chi4 sui4] {sap1 sap1 seoi3} /(fig.) chose très facile; du gateau/(fig.) très peu/(fig.) chose triviale/
-濕濕碎碎 湿湿碎碎 [chi4 chi4 sui4 sui4] {sap1 sap1 seoi3 seoi3} /(fig.) chose très facile; du gateau/(fig.) très peu/(fig.) chose triviale/
+濕濕碎 湿湿碎 [chi4 chi4 sui4] {sap1 sap1 seoi3} /(fig.) chose très facile; du gateau/(fig.) très peu/(fig.) bagatelle; vétille; broutille; chose triviale/
+濕濕碎碎 湿湿碎碎 [chi4 chi4 sui4 sui4] {sap1 sap1 seoi3 seoi3} /(fig.) chose très facile; du gateau/(fig.) très peu/(fig.) bagatelle; vétille; broutille; chose triviale/
 濕熱 湿热 [shi1 re4] {sap1 jit6} /chaleur humide/
-濕碎 濕碎 [chi4 sui4] {sap1 seoi3} /(fig.) chose facile/(fig.) chose triviale/(fig.) très peu/
+濕碎 濕碎 [chi4 sui4] {sap1 seoi3} /(fig.) chose facile/(fig.) bagatelle; vétille; broutille; chose sans importance/(fig.) très peu/
 濕立立 濕立立 [chi4 li4 li4] {sap1 laap6 laap6} /mouillé; trempé/humide/
 濕腰 湿腰 [shi1 yao1] {sap1 jiu1} /nourrice/
 濕貨 湿货 [shi1 huo4] {sap1 fo3} /marchandises liquides (ex. bière, huile, etc.)/catégorie de produits dans un supermarché qui inclut les plantes vivantes, légumes, fruits, viandes, fruits de mer/
@@ -15703,77 +15703,76 @@
 素淡 素淡 [su4 dan4] {sou3 daam6} /(couleur) uni; simple/
 素餐 素餐 [su4 can1] {sou3 caan1} /repas végétarien/
 素馨 素馨 [su4 xin1] {sou3 hing1} /(fleur) jasmin/
-索 索 [suo3] {saak3} /(Cantonese) 1. looking good or sharp; pretty 2. to seek 3. to smell/
-索女 索女 [suo3 nü3] {sok3 neoi2} /(un peu vulg.) femme sexy; canon/
+索 索 [suo3] {sok3} /(un peu vulg.) sexy; canon/chercher/sentir; renifler/sniffer; consommer une drogue par le nez/éponger; absorber (un liquide)/
+索女 索女 [suo3 nu:3] {sok3 neoi2} /(un peu vulg.) femme sexy; canon/
 索氣 索气 [suo3 qi4] {sok3 hei3} /haleter/reprendre son souffle/épuisant; fatigant; exténuant/
 索油 索油 [suo3 you2] {sok3 jau4} /(fam.) (fig.) agresser sexuellement; harceler sexuellement/(lit.) chercher de l'huile/
-索罟灣 索罟湾 [suo3 gu3 wan1] {sok3 gu2 waan1} /(place) Sok Kwu Wan, which is a bay in the Middle East coast of Lamma Island, Hong Kong/
+索汗 索汗 [suo3 han4] {sok3 hon6} /(vêtement) anti-transpiration/essuyer la sueur/
+索罟灣 索罟湾 [suo3 gu3 wan1] {sok3 gu2 waan1} /Sok Kwu Wan, baie de Hong Kong/
 紥炮 扎炮 [zha1 pao4] {zaat3 paau3} /(fig.) souffrir de la faim/(fig.) se serrer la ceinture; réduire ses dépenses/
 紥腳 扎脚 [za1 jiao3] {zaat3 goek3} /coutume des pieds bandés/
-紫外線 紫外线 [zi3wai4xian4] {zi2 ngoi6 sin3} /rayonnement ultraviolet; rayonnement UV/
+紫外線 紫外线 [zi3 wai4 xian4] {zi2 ngoi6 sin3} /rayonnement ultraviolet; rayonnement UV/
 紫河車 紫河车 [zi3 he2 che1] {zi2 ho4 ce1} /placenta humain séché (pour la consommation humaine)/
 紫米 紫米 [zi3 mi3] {zi2 mai5} /riz noir/
 紫紅 紫红 [zi3 hong2] {zi2 hung4} /rouge-pourpre/
 紫荊 紫荆 [zi3 jing1] {zi2 ging1} /(fleur) Bauhinia blakeana, emblème officiel de Hong Kong/(fleur) Cercis chinensis/
 紫荊花 紫荆花 [zi3 jing1 hua1] {zi2 ging1 faa1} /(fleur) Bauhinia blakeana, emblème officiel de Hong Kong/(fleur) Cercis chinensis/
-紮 扎 [za1] {zaat3} /(verb)  To get promoted/
-紮晒馬 扎晒马 [zha1 shai4 ma3] {zaat3 saai3 maa5} /(verb) get in a position or a state to engage in a gang fight; get ready to attack, assault or fight/
+紮 扎 [za1] {zaat3} /obtenir une promotion; être promu/
+紮晒馬 扎晒马 [zha1 shai4 ma3] {zaat3 saai3 maa5} /(fig.) prêt à se battre/
 紮炮 紮炮 [za1 pao4] {zaat3 paau3} /(fig.) souffrir de la faim/(fig.) se serrer la ceinture; réduire ses dépenses/
 紮紮跳 紮扎跳 [za1 zha1 tiao4] {zaat3 zaat3 tiu3} /sautiller; sauter partout/
 紮職 扎职 [zha1 zhi2] {zaat3 zik1} /(fam.) obtenir une promotion; être promu/
-紮腳 扎脚 [za1 jiao3] {zaat3 goek3} /coutume de pieds bandés/
+紮腳 扎脚 [za1 jiao3] {zaat3 goek3} /coutume des pieds bandés/
 ????f 紮鐵 扎铁 [za1 tie3] {zaat3 tit3} /(construction) bar bending/
-紮馬 扎马 [Za1 ma3] {zaat3 maa5} /(verb) the horse stance, which is the leg foundation of Kung Fu/
-累 累 [lei4] {leoi6} /to bring trouble/
-累世 累世 [lei3 shi4] {leoi5 sai3} /few generations/
-累人累物 累人累物 [lei4 ren2 lei3 wu4] {leoi6 jan4 leoi6 mat6} /to be a burden on others; to drag down others/
-累卵 累卵 [lei3 luan3] {leoi5 leon2} /precarious/
-累死 累死 [lei4 si3] {leoi6 sei2} /Exhausted; to drag someone down into a bad situation/
-累積 累积 [lei3 ji1] {leoi5 zik1} /accumulation/
-細 细 [xi4] {sai3} /(adjective) 1. small; 2. tiny/
-細佬 细佬 [Xi4 lao3] {sai3 lou2} /(noun of sibling) younger brother; slang for penis/
-細佬 细佬 [xi4 lao3] {sai3 lou2} /younger brother/
-細佬哥 细佬哥 [xi4 lao3 ge1] {sai3 lou2 go1} /(n.) children;  child./
-細個 细个 [xi4 ge4] {sai3 go3} / (adjective / adverb) young; small/
-細個仔 细个仔 [xi4 ge4 zi3] {sai3 go3 zai2} /kids (spoken)/
-細半 细半 [xi4 ban4] {sai3 bun3} /The smaller half/
-細妹 细妹 [xi4 mei4] {sai3 mui2} /a younger sister/
-細姐 细姐 [xi4 jie3] {sai3 ze2} /one addressing father's concubines/
-細婆 细婆 [xi4 po2] {sai3 po2} /Concubine; mistress/
-細嬸 细婶 [xi4 shen3] {sai3 sam2} /the wife of husband's younger brother/
-細工 细工 [xi4 gong1] {sai3 gung1} /general labourer/
-細故 细故 [xi4 gu4] {sai3 gu3} /trivial matters that are not worth fussing over/
-細時 细时 [xi4 shi2] {sai3 si4} /in childhood; when one was a small child/
-細碼 细码 [xi4 ma3] {sai3 maa5} /small size (clothes)/
-細節 细节 [xi4 jie2] {sai3 zit3} /fine print/
-細粒 细粒 [xi4li4] {sai3 lap1} /(adjective) Small piece; (of people) 1. Petite/
-細紗 细纱 [xi4 sha1] {sai3 saa1} /Spun yarn/
-細細 细细 [xi4 xi4] {sai3 sai3} /(adjective) small; tiny/
-細細個 细细个 [xi4 xi4 ge4] {sai3 sai3 go3} /a very young age/
-細緻 细致 [xi4zhi4] {sai3 zi3} /(adjective) (of work) Small and detail/
-細聲 细声 [xi4 sheng1] {sai3 seng1} /a soft voice/
-細膩 细腻 [xi4ni4] {sai3 nei6} /(adjective) (of work) Detail and delicate/
-細膽 细胆 [xi4 dan3] {sai3 daam2} /(adjective) cowardly; timid/
-細菌學 细菌学 [xi4 jun1 xue2] {sai3 kwan2 hok6} /Bacteriology/
-細葉榕 细叶榕 [xi4 ye4 rong2] {sai3 jip6 jung4} /Chinese Banyan/
-細藝 细艺 [xi4 yi4] {sai3 ngai6} /activity; skills; an activity to occupy oneself with/
-細蚊仔 细蚊仔 [xi4 wen2 zi3] {sai3 man1 zai2} /(slang) kids; children; child; a little boy/
-細路 细路 [Xi4 lu4] {sai3 lou6} /(slang) kids, children; child; kid/
-細路 细路 [xi4 lu4] {sai3 lou6} /kid/
-細路仔 细路仔 [xi4 lu4 zi3] {sai3 lou6 zai2} /(slang) kids, children; child; a little boy /
-細路哥 细路哥 [xi4 lu4 ge1] {sai3 lou2 go1} /kid/
-細路女 细路女 [xi4 lu4 nü3] {sai3 lou6 neoi2} /(n.) a little girl/
-細隻 细只 [xi4 zhi1] {sai3 zek3} /small/
-細食 细食 [xi4 shi2] {sai3 sik6} /a small appetite/
-細餸 细餸 [xi4 song4] {sai3 sung3} /to have/eat a small quantity of the accompanying dishes (food such as the meat and vegetables that are used to accompany rice in a meal)/
-細髀 细髀 [xi4 bi4] {sai3 bei2} /leg calf/
-細鬼 细鬼 [xi4 gui3] {sai3 gwai2} /kid; the smaller of the two jokers in a pack of cards (the black and white one rather than the color one)/
-紹菜 绍菜 [shao4 cai4] {siu6 coi3} /(vegetable) Chinese cabbage; celery cabbage/
-紹酒 绍酒 [Shao4 jiu3] {siu6 zau2} /shaoxing wine/
+紮馬 扎马 [za1 ma3] {zaat3 maa5} /kiba-dachi, posture de kung-fu/
+累 累 [lei4] {leoi6} /fatigué; épuisé; crevé/causer des ennuis à quelqu'un/
+累世 累世 [lei3 shi4] {leoi5 sai3} /pendant plusieurs générations/
+累人累物 累人累物 [lei4 ren2 lei3 wu4] {leoi6 jan4 leoi6 mat6} /être un fardeau pour les autres/
+累卵 累卵 [lei3 luan3] {leoi5 leon2} /(fig.) précaire/(lit.) tas d'œufs/
+????c 累死 累死 [lei4 si3] {leoi6 sei2} /épuisé; crevé/accuser faussement/???? to drag someone down into a bad situation/
+累積 累积 [lei3 ji1] {leoi5 zik1} /accumuler/
+細 细 [xi4] {sai3} /petit/minuscule/
+細佬 细佬 [xi4 lao3] {sai3 lou2} /frère cadet/(fam.) pénis/
+細佬哥 细佬哥 [xi4 lao3 ge1] {sai3 lou2 go1} /enfant/
+細個 细个 [xi4 ge4] {sai3 go3} /jeune/petit; minuscule/
+細個仔 细个仔 [xi4 ge4 zi3] {sai3 go3 zai2} /enfant/
+細半 细半 [xi4 ban4] {sai3 bun3} /petite moitié/près de la moitié/
+細妹 细妹 [xi4 mei4] {sai3 mui2} /sœur cadette/
+細姐 细姐 [xi4 jie3] {sai3 ze2} /belle-mère; nouvelle conjointe de son père/concubine de son père/
+細婆 细婆 [xi4 po2] {sai3 po2} /concubine/
+細嬸 细婶 [xi4 shen3] {sai3 sam2} /conjointe du frère cadet de son mari/
+????f 細工 细工 [xi4 gong1] {sai3 gung1} /artisanat; beau travail; bienfacture/garçon de courses; fille de courses; personne qui fait les courses (errand boy????)/
+細故 细故 [xi4 gu4] {sai3 gu3} /bagatelle; broutille; vétille; affaire sans importance/
+細時 细时 [xi4 shi2] {sai3 si4} /dans sa jeunesse; quand l'on était petit/
+細碼 细码 [xi4 ma3] {sai3 maa5} /(taille de vêtements) petit/
+細節 细节 [xi4 jie2] {sai3 zit3} /détails/
+細粒 细粒 [xi4 li4] {sai3 lap1} /petit morceau/(personne) petit; de petite taille; petit gabarit/(personne) sans importance; de statut inférieur/
+細紗 细纱 [xi4 sha1] {sai3 saa1} /(textile) filé/
+細細 细细 [xi4 xi4] {sai3 sai3} /petit; minuscule/
+細細個 细细个 [xi4 xi4 ge4] {sai3 sai3 go3} /quand l'on était petit/
+細緻 细致 [xi4 zhi4] {sai3 zi3} /(travail) minutieux; soigné/
+細聲 细声 [xi4 sheng1] {sai3 seng1} /à voix basse; doucement/
+細膩 细腻 [xi4ni4] {sai3 nei6} /exquis; minutieux/
+細膽 细胆 [xi4 dan3] {sai3 daam2} /timide; lâche; peureux/
+細菌學 细菌学 [xi4 jun1 xue2] {sai3 kwan2 hok6} /bactériologie médicale/
+細葉榕 细叶榕 [xi4 ye4 rong2] {sai3 jip6 jung4} /Ficus microcarpa; arbre de l'intendance; laurier d'Inde/
+細藝 细艺 [xi4 yi4] {sai3 ngai6} /passe-temps/
+細蚊仔 细蚊仔 [xi4 wen2 zi3] {sai3 man1 zai2} /enfant; gamin/
+細路 细路 [xi4 lu4] {sai3 lou6} /enfant; gamin/
+細路仔 细路仔 [xi4 lu4 zi3] {sai3 lou6 zai2} /enfant; gamin/
+細路哥 细路哥 [xi4 lu4 ge1] {sai3 lou2 go1} /enfants/
+細路女 细路女 [xi4 lu4 nü3] {sai3 lou6 neoi2} /petite fille/
+細隻 细只 [xi4 zhi1] {sai3 zek3} /petit/
+細食 细食 [xi4 shi2] {sai3 sik6} /ne pas manger beaucoup; avoir un petit appétit/
+細餸 细餸 [xi4 song4] {sai3 sung3} /(fig.) ne pas manger beaucoup; avoir un petit appétit/
+細髀 细髀 [xi4 bi4] {sai3 bei2} /mollet/
+細鬼 细鬼 [xi4 gui3] {sai3 gwai2} /(carte à jouer) joker noir/(rare) enfant/
+紹菜 绍菜 [shao4 cai4] {siu6 coi3} /pe-tsaï; chou chinois; chou de Pékin; chou napa/
+紹酒 绍酒 [shao4 jiu3] {siu6 zau2} /vin de riz de Shaoxing; vin de Shaoxing/
 終 终 [zhong1] {zung1} /(adjective) 1. Final; (noun) 1. End; 2. Death; (verb)  Come to the end/
-終久 终久 [zhong1 jiu3] {zung1 gau2} /eventually; in the end; after all/
-終之 终之 [zhong1 zhi1] {zung1 zi1} /after all; in the end; at last; finally; at the end of the day/
-終歸 终归 [zhong1 gui1] {zung1 gwai1} /finally/
+終久 终久 [zhong1 jiu3] {zung1 gau2} /au bout du compte/
+終之 终之 [zhong1 zhi1] {zung1 zi1} /enfin; finalement/
+終歸 终归 [zhong1 gui1] {zung1 gwai1} /finalement; au bout du compte; au final/
 終須 终须 [zhong1 xu1] {zung1 seoi1} /(adverb) need to do in the end; have to deal with in the end; unavoidable in the long run/
 終須有日龍穿鳳 终须有日龙穿凤 [zhong1 xu1 you3 ri4 long2 chuan1 feng4] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6} /one will become successful one day/
 絃外之音 弦外之音 [xian2 wai4 zhi1 yin1] {jin4 ngoi6 zi1 jam1} /Implication; implied meaning; read between the lines/
