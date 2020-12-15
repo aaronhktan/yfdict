@@ -15792,7 +15792,7 @@
 組織部 组织部 [zu3 zhi1 bu4] {zou2 zik1 bou6} /Ministère de l'organisation du Parti communiste chinois, ministère responsable pour la gestion des ressources humaines/
 ????c 組織領導 组织领导 [zu3 zhi1 ling3 dao3] {zou2 zik1 ling5 dou6} /leadership organisationnel/
 組黨 组党 [zu3 dang3] {zou2 dong2} /former un parti politique/
-結 结 [jie2] {git3} /terminer; conclure; achever/
+結 结 [jie2] {git3} /terminer; conclure; achever/(chimie) précipiter; se cristalliser/
 結他 结他 [jie2 ta1] {git3 taa1} /guitare/
 結他手 结他手 [jie2 ta1 shou3] {git3 taa1 sau2} /guitariste/
 結合 结合 [jie2 he2] {git3 hap6} /combiner; unir/
@@ -15801,7 +15801,7 @@
 結婚證書 结婚证书 [jie2 hun1 zheng4 shu1] {git3 fan1 zing3 syu1} /certificat de mariage; contrat de mariage; extrait de mariage/
 結恭 结恭 [jie2 gong1] {git3 gung1} /constipation/
 ????f 結拜兄弟 结拜兄弟 [jie2 bai4 xiong1 di4] {git3 baai3 hing1 dai6} /frères jurés; frères de sang (version féminine?)/
-結晶器 结晶器 [jie2 jing1 qi4] {git3 zing1 hei3} /casting mold; a crystallizer/
+????f 結晶器 结晶器 [jie2 jing1 qi4] {git3 zing1 hei3} /casting mold; a crystallizer (industrial crystallizer)/
 結果 结果 [jie1 guo3] {git3 gwo2} /conséquence; résultat/
 結業證書 结业证书 [jie2 ye4 zheng4 shu1] {git3 jip6 zing3 syu1} /certificat d'achèvement; certificat de réussite/
 結繩 结绳 [jie2 sheng2] {git3 sing4} /nouer/
@@ -15809,71 +15809,71 @@
 結識 结识 [jie2 shi2] {git3 sik1} /faire connaissance avec (quelqu'un)/
 結集 结集 [jie2 ji2] {git3 zaap6} /collectionner; ramasser; regrouper/se réunir; se rassembler/
 輟學 辍学 [chuo4 xue2] {zyut3 hok6} /décrocher; abandonner ses études/
-絕 绝 [jue2] {zyut6} /(verb) 1. Sever; 2. Stop (breathing); (of electricity) 3. Insulate (adjective) 1. Superb; 2. Unique; 3. Hopeless/
-絕口 绝口 [jue2 kou3] {zyut6 hau2} /(verb) to keep lauding for something; to speak something endlessly/
+絕 绝 [jue2] {zyut6} /couper; rompre/arrêter de respirer/mourir/isoler; empêcher le passage de courant électrique/superbe; fantastique; sans égal/sans espoir/en aucun cas/
+絕口 绝口 [jue2 kou3] {zyut6 hau2} /cesser de parler; arrêter de parler/
 絕學 绝学 [jue2 xue2] {zyut6 hok6} /connaissance perdue; savoir perdu/connaissance approfondie/décrocher; abandonner ses études/
 絕對溫標 绝对温标 [jue2 dui4 wen1 biao1] {zyut6 deoi3 wan1 biu1} /échelle de température absolue; échelle Kelvin des températures/
 絕對誤差 绝对误差 [jue2 dui4 wu4 cha1] {zyut6 deoi3 ng6 caa1} /erreur absolue/
-絕後 绝后 [jue2 hou4] {zyut6 hau6} /(Pro + noun) without offspring; without posterity; (very) never to be seen again/
+絕後 绝后 [jue2 hou4] {zyut6 hau6} /sans progéniture/tel qu'on ne les a jamais revus/
 絕情 绝情 [jue2 qing2] {zyut6 cing4} /sans cœur; froid; insensible/
 絕橋 绝桥 [jue2 qiao2] {zyut6 kiu4} /unchallengable idea (spoken)/
-絕緣材料 绝缘材料 [jue2 yuan2 cai2 liao4] {zyut6 jyun4 coi4 liu2} /matériau isolant/
+絕緣材料 绝缘材料 [jue2 yuan2 cai2 liao4] {zyut6 jyun4 coi4 liu2} /matériau isolant; isolant électrique/
 絕色 绝色 [jue2 se4] {zyut6 sik1} /d'une beauté remarquable/
-絕藝 绝艺 [jue2 yi4] {zyut6 ngai6} /master skill/
+絕藝 绝艺 [jue2 yi4] {zyut6 ngai6} /maîtrise complète; art consommé/
 絕路 绝路 [jue2 lu4] {zyut6 lou6} /impasse/(fig.) sans avenir; sans issue/
 絕響 绝响 [jue2 xiang3] {zyut6 hoeng2} /art perdu; art oublié/
-絕頂 绝顶 [jue2 ding3] {zyut6 ding2} /(adverb) extremely; eminently; exceedingly; extraordinarily/
+絕頂 绝顶 [jue2 ding3] {zyut6 ding2} /très; extrêmement/
 絞殺 绞杀 [jiao3 sha1] {gaau2 saat3} /étrangler/garrotter/pendre/
-絞纜 绞缆 [jiao3 lan3] {gaau2 laam6} /stranded cable/
-絞腸痧 绞肠痧 [jiao3 chang2 sha1] {gaau2 coeng4 saa1} /(disease) a cholera/
-給予 给予 [ji3yu3] {kap1 jyu5} /(verb) Offer (help etc.)/
-給養 给养 [ji3 yang3] {kap1 joeng5} /provisions; victuals; rations/
-絨衫 绒衫 [rong2 shan1] {jung2 saam1} /(noun) a fleece sweater/
-絨褲 绒裤 [rong2 ku4] {jung2 fu3} /sweat pants/
-統 统 [tong3] {tung2} /(adverb) 1. Unitedly; (verb) 1. Control; 2. Command/
-統籌 统筹 [tong3chou2] {tung2 cau4} /(verb) 1. Coordinate; 2. Coordinator/
-統籌安排 统筹安排 [tong3 chou2 an1 pai2] {tung2 cau4 on1 paai4} /Co-ordinate arrangements; overall arrangement/
-絲光 丝光 [si1 guang1] {si1 gwong1} /(textiles) mercerized cotton/
-絲母 丝母 [si1 mu3] {si1 mou5} /bolts; nuts/
-絲瓜刨 丝瓜刨 [si1 gua1 pao2] {si1 gwaa1 paau2} /a vegetable peeler/
-絲瓜絡 丝瓜络 [si1 gua1 luo4] {si1 gwaa1 lok2} /Loofah/
-絲發 丝发 [si1 fa1] {si1 faat3} /Silky hair/
-絲米 丝米 [si1 mi3] {si1 mai5} /decimillimetre/
-絲絲入扣 丝丝入扣 [si1 si1 ru4 kou4] {si1 si1 jap6 kau3} /(idiom) done something with meticulous care and flawless artistry. It also implies accurate cooperation./
-絲苗 丝苗 [si1 miao2] {si1 miu4} /a premium quality rice/
-絲髮 丝发 [si1 fa4] {si1 faat3} /(noun) hair/
-絹花 绢花 [juan4 hua1] {gyun3 faa1} /Silk flower/
-綁鞋帶 绑鞋带 [bang3 xie2 dai4] {bong2 haai4 daai2} /Tie shoelaces/
-經典力學 经典力学 [jing1 dian3 li4 xue2] {ging1 din2 lik6 hok6} /Classical Mechanics/
-經已 经已 [jing1 yi3] {ging1 ji5} /(verb) have had; (adverb) already;/
-經心 经心 [jing1 xin1] {ging1 sam1} /careful; mindful; conscientious/
-經濟全球化 经济全球化 [jing1 ji4 quan2 qiu2 hua4] {ging1 zai3 cyun4 kau4 faa3} /Economic Globalization/
+????c 絞纜 绞缆 [jiao3 lan3] {gaau2 laam6} /stranded (like multiple strands? or like to tangle up?) cable (for mooring boats?)/
+????c 絞腸痧 绞肠痧 [jiao3 chang2 sha1] {gaau2 coeng4 saa1} /(disease) a cholera (traditional Chinese medicine version?)/
+給予 给予 [ji3 yu3] {kap1 jyu5} /offrir (de l'aide)/
+給養 给养 [ji3 yang3] {kap1 joeng5} /rations alimentaires/
+????f 絨衫 绒衫 [rong2 shan1] {jung2 saam1} /chandail en molleton/
+絨褲 绒裤 [rong2 ku4] {jung2 fu3} /pantalon de survêtement; pantalon de jogging/
+統 统 [tong3] {tung2} /ensemble/
+統籌 统筹 [tong3 chou2] {tung2 cau4} /procéder à une planification générale/
+統籌安排 统筹安排 [tong3 chou2 an1 pai2] {tung2 cau4 on1 paai4} /plans généraux; plans d'ensemble/
+絲光 丝光 [si1 guang1] {si1 gwong1} /mercerisation; mercerisage/coton mercerisé/
+絲母 丝母 [si1 mu3] {si1 mou5} /écrou/
+絲瓜刨 丝瓜刨 [si1 gua1 pao2] {si1 gwaa1 paau2} /éplucheur; couteau servant à éplucher des légumes/
+????c 絲瓜絡 丝瓜络 [si1 gua1 luo4] {si1 gwaa1 lok2} /Loofah/
+????c 絲發 丝发 [si1 fa1] {si1 faat3} /soie/(silky hair?)/
+絲米 丝米 [si1 mi3] {si1 mai5} /décimillimètre/
+絲絲入扣 丝丝入扣 [si1 si1 ru4 kou4] {si1 si1 jap6 kau3} /(expr. idiom.) avec soin méticuleux et talent impeccable/(lit.) chaque fil entre dans le bouton/
+?????c 絲苗 丝苗 [si1 miao2] {si1 miu4} /a premium quality rice/
+絲髮 丝发 [si1 fa4] {si1 faat3} /soie/(silky hair?)/
+絹花 绢花 [juan4 hua1] {gyun3 faa1} /fleur en soie/
+綁鞋帶 绑鞋带 [bang3 xie2 dai4] {bong2 haai4 daai2} /faire ses lacets; lacer ses chaussures/
+經典力學 经典力学 [jing1 dian3 li4 xue2] {ging1 din2 lik6 hok6} /mécanique newtonienne/
+經已 经已 [jing1 yi3] {ging1 ji5} /déjà/
+經心 经心 [jing1 xin1] {ging1 sam1} /consciencieux; méticuleux; minutieux/
+經濟全球化 经济全球化 [jing1 ji4 quan2 qiu2 hua4] {ging1 zai3 cyun4 kau4 faa3} /mondialisation économique/
 經濟客位 经济客位 [jing1 ji4 ke4 wei4] {ging1 zai3 haak3 wai2} /(noun) an economic seat/
 經濟效益 经济效益 [jing1 ji4 xiao4 yi4] {ging1 zai3 haau6 jik1} /(noun) economic efficiency/
-經濟日報 经济日报 [Jing1 ji4 Ri4 bao4] {ging1 zai3 jat6 bou3} /Economic Daily/
-經濟林 经济林 [jing1 ji4 lin2] {ging1 zai3 lam4} /cash trees/
-經理人 经理人 [jing1 li3 ren2] {ging1 lei5 jan4} /(noun) agent; or a manager/
-經紀 经纪 [jing1 ji4] {ging1 gei2} /agent (sales)/
-經綸 经纶 [jing1 lun2] {ging1 leon4} /(religion) oikonomia/
-經緯度 经纬度 [jing1 wei3 du4] {ging1 wai5 dou6} /Latitude and longitude /
-經費 经费 [jing1 fei4] {ging1 fai3} /operating expenditure/
-經過 经过 [jing1 guo4] {ging1 gwo3} /(verb)  pass by/
+經濟日報 经济日报 [jing1 ji4 Ri4 bao4] {ging1 zai3 jat6 bou3} /Economic Daily/
+????c 經濟林 经济林 [jing1 ji4 lin2] {ging1 zai3 lam4} /cash trees/economic forest?/
+經理人 经理人 [jing1 li3 ren2] {ging1 lei5 jan4} /agent; manager/
+經紀 经纪 [jing1 ji4] {ging1 gei2} /courtier en bourse/
+????c 經綸 经纶 [jing1 lun2] {ging1 leon4} /(religion) oikonomia/statecraft/
+經緯度 经纬度 [jing1 wei3 du4] {ging1 wai5 dou6} /latitude et longitude; coordonnées géographiques; système de coordonnées qui permettent de localiser un lieu sur la Terre/
+經費 经费 [jing1 fei4] {ging1 fai3} /dépenses opérationnelles/
+經過 经过 [jing1 guo4] {ging1 gwo3} /subir/traverser; passer par/à travers/
 綜合利用 综合利用 [zong1 he2 li4 yong4] {zung3 hap6 lei6 jung6} /Comprehensive Utilization/
 綜合國力 综合国力 [zong1 he2 guo2 li4] {zung3 hap6 gwok3 lik6} /Comprehensive National Power (CNP)/
 綜合大學 综合大学 [zong1 he2 da4 xue2] {zung3 hap6 daai6 hok6} /(noun) a comprehensive university/
 綜合治理 综合治理 [zong1 he2 zhi4 li3] {zung3 hap6 zi6 lei5} /Comprehensive Management/
 綜援 综援 [zong1 yuan2] {zung1 wun4} /(noun) the Comprehensive Social Security Assistance/
-綠印 绿印 [lü4 yin4] {luk6 jan3} /green-stamp (non-permanent resident status in Hong Kong)/
-綠色小巴 绿色小巴 [lü4 se4 xiao3 ba1] {luk6 sik1 siu2 baa1} /Green Minibus/
-綠色的士 绿色的士 [lü4 se4 di1 shi4] {luk6 sik1 dik1 si2} /Green Taxi (taxis that operates in the New Territories in Hong Kong are all green colored)/
-綠衣 绿衣 [lü4 yi1] {luk6 ji1} /Hong Kong Chinese police officer in early 20th century (spoken)/
-綠豆公 绿豆公 [lü4 dou4 gong1] {luk6 dau6 gung1} /hard green bean in the green bean soup/
-綠豆沙 绿豆沙 [lü4 dou4 sha1] {luk6 dau6 saa1} /green bean dessert soup/
-綢仔 绸仔 [chou2 zi3] {cau4 zai2} /silk (spoken)/
-維也納航空公司 维也纳航空公司 [Wei2 ye3 na4 hang2 kong1 gong1 si1] {wai4 jaa5 naap6 hong4 hung1 gung1 si1} /Lauda Air/
-維他奶 维他奶 [wei2 ta1 nai3] {wai4 taa1 naai5} /Vitasoy, is a brand of beverages and desserts in Hong Kong/
-維修 维修 [wei2xiu1] {wai4 sau1} /(verb) Repair; (noun) repairing /
-維園 维园 [wei2 yuan2] {wai4 jyun2} /Victoria Park/
+綠印 绿印 [lu:4 yin4] {luk6 jan3} /tampon vert (permis de résident non-permanent de Hong Kong)/
+綠色小巴 绿色小巴 [lu:4 se4 xiao3 ba1] {luk6 sik1 siu2 baa1} /« Green Minibus » (minibus vert), service de transport public à Hong Kong/
+綠色的士 绿色的士 [lu:4 se4 di1 shi4] {luk6 sik1 dik1 si2} /taxi vert (de Hong Kong)/
+綠衣 绿衣 [lu:4 yi1] {luk6 ji1} /policier/(lit.) vêtements verts/
+綠豆公 绿豆公 [lu:4 dou4 gong1] {luk6 dau6 gung1} /hard green bean in the green bean soup/
+綠豆沙 绿豆沙 [lu:4 dou4 sha1] {luk6 dau6 saa1} /tong sui (soupe de dessert chinoise) aux haricots mungo/
+????f 綢仔 绸仔 [chou2 zi3] {cau4 zai2} /soie/gambiered Canton silk gauze/
+維也納航空公司 维也纳航空公司 [wei2 ye3 na4 hang2 kong1 gong1 si1] {wai4 jaa5 naap6 hong4 hung1 gung1 si1} /Lauda Air, compagnie aérienne autrichienne/
+維他奶 维他奶 [wei2 ta1 nai3] {wai4 taa1 naai5} /Vitasoy, entreprise hongkongaise spécialisée dans les boissons non-alcoolisées/
+維修 维修 [wei2xiu1] {wai4 sau1} /réparer/
+維園 维园 [wei2 yuan2] {wai4 jyun2} /Victoria Park, le plus grand parc public de Hong Kong/
 維持秩序 维持秩序 [wei2 chi2 zhi4 xu4] {wai4 ci4 dit6 zeoi6} /To maintain order/
 維港渡海泳 维港渡海泳 [Wei2 Gang3 du4 hai3 yong3] {wai4 gong2 dou6 hoi2 wing6} /Cross-harbor swimming/
 網 网 [wang3] {mong5} /(noun)  The Internet/
