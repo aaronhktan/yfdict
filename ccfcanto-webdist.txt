@@ -3964,6 +3964,7 @@
 和諧式客機 和谐式客机 [he2 xie2 shi4 ke4 ji1] {wo4 haai4 sik1 haak3 gei1} /avion Concorde/
 和頭酒 和头酒 [he2 tou2 jiu3] {wo4 tau4 zau2} /festin pour régler une dispute (particulièrement des gangs)/
 和風細雨 和风细雨 [he2 feng1 xi4 yu3] {wo4 fung1 sai3 jyu5} /(expr. idiom.) conduite gentille, comportement doux/(lit.) une petite brise et une bruine/
+和和氣氣 和和气气 [he2 he2 qi4 qi4] {wo4 wo4 hei3 hei} /(expr. idiom.) poli et aimable/
 咎由自取 咎由自取 [jiu4 you2 zi4 qu3] {gau3 jau4 zi6 ceoi2} /(expr. idiom.) se créer des ennuis, ne pouvoir pas s'en prendre qu'à soi-même/(lit.) l'erreur est causé par soi-même/
 咔咔聲 咔咔声 [ka1 ka1 sheng1] {kaa4 kaa2 seng1} /onomatopée pour le son d'un rire/
 咕咕 咕咕 [gu1 gu1] {gu1 gu1} /inflexible/pénis d'un petit garçon/
@@ -15769,58 +15770,60 @@
 細鬼 细鬼 [xi4 gui3] {sai3 gwai2} /(carte à jouer) joker noir/(rare) enfant/
 紹菜 绍菜 [shao4 cai4] {siu6 coi3} /pe-tsaï; chou chinois; chou de Pékin; chou napa/
 紹酒 绍酒 [shao4 jiu3] {siu6 zau2} /vin de riz de Shaoxing; vin de Shaoxing/
-終 终 [zhong1] {zung1} /(adjective) 1. Final; (noun) 1. End; 2. Death; (verb)  Come to the end/
+終 终 [zhong1] {zung1} /en fin de compte; au bout du compte/fin/mort; décès/terminer; achever; finir/tout; pendant toute (la durée); pour toute (sa vie)/
 終久 终久 [zhong1 jiu3] {zung1 gau2} /au bout du compte/
 終之 终之 [zhong1 zhi1] {zung1 zi1} /enfin; finalement/
 終歸 终归 [zhong1 gui1] {zung1 gwai1} /finalement; au bout du compte; au final/
-終須 终须 [zhong1 xu1] {zung1 seoi1} /(adverb) need to do in the end; have to deal with in the end; unavoidable in the long run/
-終須有日龍穿鳳 终须有日龙穿凤 [zhong1 xu1 you3 ri4 long2 chuan1 feng4] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6} /one will become successful one day/
-絃外之音 弦外之音 [xian2 wai4 zhi1 yin1] {jin4 ngoi6 zi1 jam1} /Implication; implied meaning; read between the lines/
-絃索 弦索 [xian2 suo3] {jin4 sok3} /Chords of a musical instrument; string instruments/
-組 组 [zu3] {zou2} /(verb)  To group/
-組別 组别 [zu3 bie2] {zou2 bit6} /(noun) groups/
-組合 组合 [zu3 he2] {zou2 hap6} /a group/
-組合櫃 组合柜 [zu3 he2 gui4] {zou2 hap6 gwai6} /wall unit shelf/
-組員 组员 [zu3 yuan2] {zou2 jyun4} /Crew/
-組團 组团 [zu3 tuan2] {zou2 tyun4} /Groups/
-組成 组成 [zu3cheng2] {zou2 sing4} /(noun) Composition; (verb) 1. Compose of /
-組織液 组织液 [zu3 zhi1 ye4] {zou2 zik1 jik6} /Tissue fluid/
-組織生活 组织生活 [zu3 zhi1 sheng1 huo2] {zou2 zik1 sang1 wut6} /Organizational life/
-組織路線 组织路线 [zu3 zhi1 lu4 xian4] {zou2 zik1 lou6 sin3} /Organizational line/
-組織部 组织部 [zu3 zhi1 bu4] {zou2 zik1 bou6} /Organization Department/
-組織領導 组织领导 [zu3 zhi1 ling3 dao3] {zou2 zik1 ling5 dou6} /Organizational leadership/
-組黨 组党 [zu3 dang3] {zou2 dong2} /to form a political party/
-結 结 [jie2] {git3} /to end or conclude/
-結他 结他 [jie2 ta1] {git3 taa1} /(music instrument) a guitar/
-結他手 结他手 [jie2 ta1 shou3] {git3 taa1 sau2} /a guitarist/
-結合 结合 [jie2 he2] {git3 hap6} /(noun)  Combination/
-結塊 结块 [jie2 kuai4] {git3 faai3} /Agglomeration; caking/
-結婚典禮 结婚典礼 [jie2 hun1 dian3 li3] {git3 fan1 din2 lai5} /Wedding ceremony/
-結婚證書 结婚证书 [jie2 hun1 zheng4 shu1] {git3 fan1 zing3 syu1} /Marriage certificate/
+終須 终须 [zhong1 xu1] {zung1 seoi1} /inévitablement; forcément; tôt ou tard/
+????f 終須有日龍穿鳳 终须有日龙穿凤 [zhong1 xu1 you3 ri4 long2 chuan1 feng4] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6} /(expr. idiom.) tout le monde aura sa chance de réussir/
+絃外之音 弦外之音 [xian2 wai4 zhi1 yin1] {jin4 ngoi6 zi1 jam1} /(fig.) implication; insinuation/(lit.) sons en dehors des cordes/
+絃索 弦索 [xian2 suo3] {jin4 sok3} /(d'un instrument de musique) corde/
+弦線 弦线 [xian2 xian4] {jin4 sin3} /(d'un instrument de musique) corde/
+組 组 [zu3] {zou2} /groupe; équipe/grouper; regrouper/
+組別 组别 [zu3 bie2] {zou2 bit6} /groupe; équipe/
+組合 组合 [zu3 he2] {zou2 hap6} /combinaison; série/groupe/
+????f 組合櫃 组合柜 [zu3 he2 gui4] {zou2 hap6 gwai6} /wall unit shelf (is this a correct translation in English?)/
+組員 组员 [zu3 yuan2] {zou2 jyun4} /membre du groupe/
+組團 组团 [zu3 tuan2] {zou2 tyun4} /groupe; équipe/
+組成 组成 [zu3 cheng2] {zou2 sing4} /former; composer/composition; résultat de mélanger/
+組織液 组织液 [zu3 zhi1 ye4] {zou2 zik1 jik6} /liquide interstitiel/
+????c 組織生活 组织生活 [zu3 zhi1 sheng1 huo2] {zou2 zik1 sang1 wut6} /Organizational life/
+組織路線 组织路线 [zu3 zhi1 lu4 xian4] {zou2 zik1 lou6 sin3} /principes d'organisation; principes organisationnels/
+組織部 组织部 [zu3 zhi1 bu4] {zou2 zik1 bou6} /Ministère de l'organisation du Parti communiste chinois, ministère responsable pour la gestion des ressources humaines/
+????c 組織領導 组织领导 [zu3 zhi1 ling3 dao3] {zou2 zik1 ling5 dou6} /leadership organisationnel/
+組黨 组党 [zu3 dang3] {zou2 dong2} /former un parti politique/
+結 结 [jie2] {git3} /terminer; conclure; achever/
+結他 结他 [jie2 ta1] {git3 taa1} /guitare/
+結他手 结他手 [jie2 ta1 shou3] {git3 taa1 sau2} /guitariste/
+結合 结合 [jie2 he2] {git3 hap6} /combiner; unir/
+結塊 结块 [jie2 kuai4] {git3 faai3} /(lait) faire cailler/
+結婚典禮 结婚典礼 [jie2 hun1 dian3 li3] {git3 fan1 din2 lai5} /cérémonie de mariage/
+結婚證書 结婚证书 [jie2 hun1 zheng4 shu1] {git3 fan1 zing3 syu1} /certificat de mariage; contrat de mariage; extrait de mariage/
 結恭 结恭 [jie2 gong1] {git3 gung1} /constipation/
-結拜兄弟 结拜兄弟 [jie2 bai4 xiong1 di4] {git3 baai3 hing1 dai6} /(noun) sworn sisters or brothers/
+????f 結拜兄弟 结拜兄弟 [jie2 bai4 xiong1 di4] {git3 baai3 hing1 dai6} /frères jurés; frères de sang (version féminine?)/
 結晶器 结晶器 [jie2 jing1 qi4] {git3 zing1 hei3} /casting mold; a crystallizer/
-結果 结果 [jie1 guo3] {git3 gwo2} /(noun) 1. consequence; 2. result/
-結業證書 结业证书 [jie2 ye4 zheng4 shu1] {git3 jip6 zing3 syu1} /Certificate of Completion; graduation certificate/
-結繩 结绳 [jie2 sheng2] {git3 sing4} /to tie the Rope; to tie a knot/
-結腸癌 结肠癌 [jie2 chang2 ai2] {git3 coeng2 ngaam4} /Colon Cancer/
-結識 结识 [jie2 shi2] {git3 sik1} /(verb)  Meet and make (a friend) /
-結集 结集 [jie2 ji2] {git3 zaap6} /(verb) collect; or (verb) assemble; gather/
+結果 结果 [jie1 guo3] {git3 gwo2} /conséquence; résultat/
+結業證書 结业证书 [jie2 ye4 zheng4 shu1] {git3 jip6 zing3 syu1} /certificat d'achèvement; certificat de réussite/
+結繩 结绳 [jie2 sheng2] {git3 sing4} /nouer/
+結腸癌 结肠癌 [jie2 chang2 ai2] {git3 coeng2 ngaam4} /cancer colorectal/
+結識 结识 [jie2 shi2] {git3 sik1} /faire connaissance avec (quelqu'un)/
+結集 结集 [jie2 ji2] {git3 zaap6} /collectionner; ramasser; regrouper/se réunir; se rassembler/
+輟學 辍学 [chuo4 xue2] {zyut3 hok6} /décrocher; abandonner ses études/
 絕 绝 [jue2] {zyut6} /(verb) 1. Sever; 2. Stop (breathing); (of electricity) 3. Insulate (adjective) 1. Superb; 2. Unique; 3. Hopeless/
 絕口 绝口 [jue2 kou3] {zyut6 hau2} /(verb) to keep lauding for something; to speak something endlessly/
-絕學 绝学 [jue2 xue2] {zyut6 hok6} /(adjective) profound knowledge; or (verb) drop out from a school/
-絕對溫標 绝对温标 [jue2 dui4 wen1 biao1] {zyut6 deoi3 wan1 biu1} /Absolute temperature; Kelvin/
-絕對誤差 绝对误差 [jue2 dui4 wu4 cha1] {zyut6 deoi3 ng6 caa1} /Absolute error/
+絕學 绝学 [jue2 xue2] {zyut6 hok6} /connaissance perdue; savoir perdu/connaissance approfondie/décrocher; abandonner ses études/
+絕對溫標 绝对温标 [jue2 dui4 wen1 biao1] {zyut6 deoi3 wan1 biu1} /échelle de température absolue; échelle Kelvin des températures/
+絕對誤差 绝对误差 [jue2 dui4 wu4 cha1] {zyut6 deoi3 ng6 caa1} /erreur absolue/
 絕後 绝后 [jue2 hou4] {zyut6 hau6} /(Pro + noun) without offspring; without posterity; (very) never to be seen again/
-絕情 绝情 [jue2 qing2] {zyut6 cing4} /(adjective)  Cold and unfeeling/
+絕情 绝情 [jue2 qing2] {zyut6 cing4} /sans cœur; froid; insensible/
 絕橋 绝桥 [jue2 qiao2] {zyut6 kiu4} /unchallengable idea (spoken)/
-絕緣材料 绝缘材料 [jue2 yuan2 cai2 liao4] {zyut6 jyun4 coi4 liu2} /Insulation Materials/
-絕色 绝色 [jue2 se4] {zyut6 sik1} /(adjective of a woman) exceedingly pretty; unrivalled beauty/
+絕緣材料 绝缘材料 [jue2 yuan2 cai2 liao4] {zyut6 jyun4 coi4 liu2} /matériau isolant/
+絕色 绝色 [jue2 se4] {zyut6 sik1} /d'une beauté remarquable/
 絕藝 绝艺 [jue2 yi4] {zyut6 ngai6} /master skill/
-絕路 绝路 [jue2 lu4] {zyut6 lou6} /(noun) a hopeless path; an impasse/
-絕響 绝响 [jue2 xiang3] {zyut6 hoeng2} /Vanished music; extinct art/
+絕路 绝路 [jue2 lu4] {zyut6 lou6} /impasse/(fig.) sans avenir; sans issue/
+絕響 绝响 [jue2 xiang3] {zyut6 hoeng2} /art perdu; art oublié/
 絕頂 绝顶 [jue2 ding3] {zyut6 ding2} /(adverb) extremely; eminently; exceedingly; extraordinarily/
-絞殺 绞杀 [jiao3 sha1] {gaau2 saat3} /Strangle; hang; garrotte/
+絞殺 绞杀 [jiao3 sha1] {gaau2 saat3} /étrangler/garrotter/pendre/
 絞纜 绞缆 [jiao3 lan3] {gaau2 laam6} /stranded cable/
 絞腸痧 绞肠痧 [jiao3 chang2 sha1] {gaau2 coeng4 saa1} /(disease) a cholera/
 給予 给予 [ji3yu3] {kap1 jyu5} /(verb) Offer (help etc.)/
