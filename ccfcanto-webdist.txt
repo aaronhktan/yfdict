@@ -4676,7 +4676,7 @@
 噪音 噪音 [zao4 yin1] {cou3 jam1} /bruit/
 噪音污染 噪音污染 [zao4 yin1 wu1 ran3] {cou3 jam1 wu1 jim5} /pollution sonore/
 噱噱聲 噱噱声 [jue2 jue2 sheng1] {goek4 goek2 seng1} /dormir profondément/
-噱頭 噱头 [xue2 tou2] {coek3 tau4} /facéties, singeries/
+噱頭 噱头 [xue2 tou2] {coek3 tau4} /facéties, singeries/truc; astuce/
 㗾哆 㗾哆 [xue1 duo1] {heoi1 do1} /adjectif pour décrire quelque chose qui a la forme d'une trompette/
 㗾㗾聲 㗾㗾声 [xue1 xue1 sheng1] {heoi4 heoi4 seng1} /son d'une rivière à courant rapide/
 嚇 吓 [xia4] {haak3} /menacer/
@@ -15782,7 +15782,7 @@
 組 组 [zu3] {zou2} /groupe; équipe/grouper; regrouper/
 組別 组别 [zu3 bie2] {zou2 bit6} /groupe; équipe/
 組合 组合 [zu3 he2] {zou2 hap6} /combinaison; série/groupe/
-????f 組合櫃 组合柜 [zu3 he2 gui4] {zou2 hap6 gwai6} /wall unit shelf (is this a correct translation in English?)/
+組合櫃 组合柜 [zu3 he2 gui4] {zou2 hap6 gwai6} /rangement modulaire; étagère modulable; système de rangement modulaire/
 組員 组员 [zu3 yuan2] {zou2 jyun4} /membre du groupe/
 組團 组团 [zu3 tuan2] {zou2 tyun4} /groupe; équipe/
 組成 组成 [zu3 cheng2] {zou2 sing4} /former; composer/composition; résultat de mélanger/
@@ -15848,9 +15848,9 @@
 經已 经已 [jing1 yi3] {ging1 ji5} /déjà/
 經心 经心 [jing1 xin1] {ging1 sam1} /consciencieux; méticuleux; minutieux/
 經濟全球化 经济全球化 [jing1 ji4 quan2 qiu2 hua4] {ging1 zai3 cyun4 kau4 faa3} /mondialisation économique/
-經濟客位 经济客位 [jing1 ji4 ke4 wei4] {ging1 zai3 haak3 wai2} /(noun) an economic seat/
-經濟效益 经济效益 [jing1 ji4 xiao4 yi4] {ging1 zai3 haau6 jik1} /(noun) economic efficiency/
-經濟日報 经济日报 [jing1 ji4 Ri4 bao4] {ging1 zai3 jat6 bou3} /Economic Daily/
+經濟客位 经济客位 [jing1 ji4 ke4 wei4] {ging1 zai3 haak3 wai2} /(transport aérien) classe économique/
+經濟效益 经济效益 [jing1 ji4 xiao4 yi4] {ging1 zai3 haau6 jik1} /performance économique; efficience économique/
+經濟日報 经济日报 [jing1 ji4 Ri4 bao4] {ging1 zai3 jat6 bou3} /« Economic Daily » ou « China Economic Daily », journal du Parti communiste chinois/
 ????c 經濟林 经济林 [jing1 ji4 lin2] {ging1 zai3 lam4} /cash trees/economic forest?/
 經理人 经理人 [jing1 li3 ren2] {ging1 lei5 jan4} /agent; manager/
 經紀 经纪 [jing1 ji4] {ging1 gei2} /courtier en bourse/
@@ -15858,71 +15858,71 @@
 經緯度 经纬度 [jing1 wei3 du4] {ging1 wai5 dou6} /latitude et longitude; coordonnées géographiques; système de coordonnées qui permettent de localiser un lieu sur la Terre/
 經費 经费 [jing1 fei4] {ging1 fai3} /dépenses opérationnelles/
 經過 经过 [jing1 guo4] {ging1 gwo3} /subir/traverser; passer par/à travers/
-綜合利用 综合利用 [zong1 he2 li4 yong4] {zung3 hap6 lei6 jung6} /Comprehensive Utilization/
-綜合國力 综合国力 [zong1 he2 guo2 li4] {zung3 hap6 gwok3 lik6} /Comprehensive National Power (CNP)/
-綜合大學 综合大学 [zong1 he2 da4 xue2] {zung3 hap6 daai6 hok6} /(noun) a comprehensive university/
-綜合治理 综合治理 [zong1 he2 zhi4 li3] {zung3 hap6 zi6 lei5} /Comprehensive Management/
-綜援 综援 [zong1 yuan2] {zung1 wun4} /(noun) the Comprehensive Social Security Assistance/
+????c 綜合利用 综合利用 [zong1 he2 li4 yong4] {zung3 hap6 lei6 jung6} /Comprehensive Utilization/
+????f 綜合國力 综合国力 [zong1 he2 guo2 li4] {zung3 hap6 gwok3 lik6} /« Comprehensive National Power (CNP) » (« échelle globale de puissance nationale »), échelle utilisée par le Parti communiste chinois pour classer les pays par ordre de puissance militaire, économique, etc./
+????f 綜合大學 综合大学 [zong1 he2 da4 xue2] {zung3 hap6 daai6 hok6} /(noun) a comprehensive university/
+綜合治理 综合治理 [zong1 he2 zhi4 li3] {zung3 hap6 zi6 lei5} /traitement complet/
+綜援 综援 [zong1 yuan2] {zung1 wun4} /Comprehensive Social Security Assistance, programme d'aide sociale de Hong Kong/
 綠印 绿印 [lu:4 yin4] {luk6 jan3} /tampon vert (permis de résident non-permanent de Hong Kong)/
 綠色小巴 绿色小巴 [lu:4 se4 xiao3 ba1] {luk6 sik1 siu2 baa1} /« Green Minibus » (minibus vert), service de transport public à Hong Kong/
 綠色的士 绿色的士 [lu:4 se4 di1 shi4] {luk6 sik1 dik1 si2} /taxi vert (de Hong Kong)/
 綠衣 绿衣 [lu:4 yi1] {luk6 ji1} /policier/(lit.) vêtements verts/
-綠豆公 绿豆公 [lu:4 dou4 gong1] {luk6 dau6 gung1} /hard green bean in the green bean soup/
+綠豆公 绿豆公 [lu:4 dou4 gong1] {luk6 dau6 gung1} /haricot mungo particulièrement dur/
 綠豆沙 绿豆沙 [lu:4 dou4 sha1] {luk6 dau6 saa1} /tong sui (soupe de dessert chinoise) aux haricots mungo/
 ????f 綢仔 绸仔 [chou2 zi3] {cau4 zai2} /soie/gambiered Canton silk gauze/
 維也納航空公司 维也纳航空公司 [wei2 ye3 na4 hang2 kong1 gong1 si1] {wai4 jaa5 naap6 hong4 hung1 gung1 si1} /Lauda Air, compagnie aérienne autrichienne/
 維他奶 维他奶 [wei2 ta1 nai3] {wai4 taa1 naai5} /Vitasoy, entreprise hongkongaise spécialisée dans les boissons non-alcoolisées/
 維修 维修 [wei2xiu1] {wai4 sau1} /réparer/
 維園 维园 [wei2 yuan2] {wai4 jyun2} /Victoria Park, le plus grand parc public de Hong Kong/
-維持秩序 维持秩序 [wei2 chi2 zhi4 xu4] {wai4 ci4 dit6 zeoi6} /To maintain order/
-維港渡海泳 维港渡海泳 [Wei2 Gang3 du4 hai3 yong3] {wai4 gong2 dou6 hoi2 wing6} /Cross-harbor swimming/
-網 网 [wang3] {mong5} /(noun)  The Internet/
+維持秩序 维持秩序 [wei2 chi2 zhi4 xu4] {wai4 ci4 dit6 zeoi6} /maintenir l'ordre/
+維港渡海泳 维港渡海泳 [Wei2 Gang3 du4 hai3 yong3] {wai4 gong2 dou6 hoi2 wing6} /Hong Kong Cross Harbour Race (« course entre-îles de Hong Kong »), course de natation de Hong Kong/
+網 网 [wang3] {mong5} /Internet/
 網絡水軍 网络水军 [wang3 luo4 shui3 jun1] {mong5 lok6 seoi2 gwan1} /astroturfer, commentateur en ligne qui est payé pour simuler un mouvement populaire/
 網絡打手 网络打手 [wang3 luo4 da2 shou3] {mong5 lok6 daa2 sau2} /astroturfer, commentateur en ligne qui est payé pour simuler un mouvement populaire/
-綵排 彩排 [cai3 pai2] {coi2 paai4} /rehearsal/
-綵燈 彩灯 [cai3 deng1] {coi2 dang1} /Festive lantern/
-綽頭 绰头 [chuo4 tou2] {coek3 tau4} /a gimmick/
-綾羅綢緞 绫罗绸缎 [ling2 luo2 chou2 duan4] {ling4 lo4 cau4 dyun6} /Silk and satin; silk and brocades/
-綿羊仔 绵羊仔 [mian2 yang2 zi3] {min4 joeng2 zai2} /the slang for a scooter or moped; literal meaning 'sheep'/
-緉 緉 [liang3] {loeng5, loeng6} /a pair of/
-緊密 紧密 [jin3 mi4] {gan2 mat6} /(adjective)  Tightly close /
-緊張 紧张 [jin3 zhang1] {gan2 zoeng1} /(adjective) (of feeling)  excited/
-緊張大師 紧张大师 [jin3 zhang1 da4 shi1] {gan2 zoeng1 daai6 si1} /(noun) nervous, strained or stressed person/
-緊要事 紧要事 [jin3 yao4 shi4] {gan2 jiu3 si6} /Urgent matter/
-緊鑼密鼓 紧锣密鼓 [jin3 luo2 mi4 gu3] {gan2 lo4 mat6 gu2} /busy for preparation; great fanfare; wildly beating gongs and drums; intense publicity campaign in preparation for some sinister undertaking/
-緋聞 绯闻 [fei1 wen2] {fei1 man4} /rumour of intimate affair or relationship/
-緘口 缄口 [jian1 kou3] {gaam1 hau2} /keep secret; to keep one's mouth shut; to hold one's tongue; to say nothing/
-緙絲 缂丝 [ke4 si1] {hak1 si1} /silk/
-線 线 [xian4] {sin3} /(noun) 1. clue; 2. lane (on road); 3. boundary line/
-線人 线人 [xian4ren2] {sin3 jan4} /(noun) Informant/
-線材 线材 [xian4 cai2] {sin3 coi4} /wire stock; wire rod/
-線條 线条 [xian4 tiao2] {sin3 tiu4} /(noun) (of body)  Outline/
-線步 线步 [xian4 bu4] {sin3 bou6} /stitch/
-線民 线民 [xian4 min2] {sin3 man4} /people who provide clue; informant/
-線眼 线眼 [xian4 yan3] {sin3 ngaan5} /informer/
-線絡 线络 [xian4 luo4] {sin3 lok3} /(noun) line; circuit; wire; road; railway track; but ruote/
+綵排 彩排 [cai3 pai2] {coi2 paai4} /répétition; essai; répétition avant de jouer devant un public/répéter/
+????c 綵燈 彩灯 [cai3 deng1] {coi2 dang1} /Festive lantern/
+綽頭 绰头 [chuo4 tou2] {coek3 tau4} /facéties, singeries/truc; astuce/
+????f 綾羅綢緞 绫罗绸缎 [ling2 luo2 chou2 duan4] {ling4 lo4 cau4 dyun6} /(expr.) des soies et des satins/
+綿羊仔 绵羊仔 [mian2 yang2 zi3] {min4 joeng2 zai2} /vélomoteur; cyclomoteur/
+????c 緉 緉 [liang3] {loeng5, loeng6} /a pair of/
+緊密 紧密 [jin3 mi4] {gan2 mat6} /inséparable/étroit/
+緊張 紧张 [jin3 zhang1] {gan2 zoeng1} /nerveux; tendu/excité/
+緊張大師 紧张大师 [jin3 zhang1 da4 shi1] {gan2 zoeng1 daai6 si1} /peureux; trouillard; personne craintive/surnom pour Alfred Hitchcock/
+緊要事 紧要事 [jin3 yao4 shi4] {gan2 jiu3 si6} /question urgente; affaire urgente/
+????c 緊鑼密鼓 紧锣密鼓 [jin3 luo2 mi4 gu3] {gan2 lo4 mat6 gu2} /busy for preparation; great fanfare; wildly beating gongs and drums; intense publicity campaign in preparation for some sinister undertaking/
+緋聞 绯闻 [fei1 wen2] {fei1 man4} /scandale sexuel/
+緘口 缄口 [jian1 kou3] {gaam1 hau2} /garder un secret; ne pas dire un mot/
+緙絲 缂丝 [ke4 si1] {hak1 si1} /(tapisserie) kesi, technique chinoise de tapisserie/
+線 线 [xian4] {sin3} /ligne/file/indice/route/frontière/un peu de/
+線人 线人 [xian4ren2] {sin3 jan4} /indicateur; délateur; informateur/taupe; espion/
+????c 線材 线材 [xian4 cai2] {sin3 coi4} /wire stock; wire rod/
+線條 线条 [xian4 tiao2] {sin3 tiu4} /ligne; trait/lignes; forme; silhouette/
+線步 线步 [xian4 bu4] {sin3 bou6} /(couture) point/
+線民 线民 [xian4 min2] {sin3 man4} /indicateur; délateur; informateur/taupe; espion/
+線眼 线眼 [xian4 yan3] {sin3 ngaan5} /indicateur; délateur; informateur/taupe; espion/
+????c 線絡 线络 [xian4 luo4] {sin3 lok3} /(noun) line; circuit; wire; road; railway track; but ruote/
 線膨脹 线膨胀 [xian4 peng2 zhang4] {sin3 paang4 zoeng3} /Linear expansion/
-線衫 线衫 [xian4 shan1] {sin3 saam1} /undershirt/
+????f 線衫 线衫 [xian4 shan1] {sin3 saam1} /tricots (light knitwear)/
 線裝 线装 [xian4 zhuang1] {sin3 zong1} /traditional thread binding/
-線路板 线路板 [xian4 lu4 ban3] {sin3 lou6 baan2} /circuit board/
-線轆 线辘 [xian4 lu4] {sin3 luk1} /spool of thread/
-線鉗 线钳 [xian4 qian2] {sin3 kim4} /Strippers; wire pliers/
-線香 线香 [xian4 xiang1] {sin3 hoeng1} /Incense sticks/
-緣份 缘份 [yuan2 fen4] {jyun4 fan6} /(noun) fate; karma/
-編號 编号 [bian1hao4] {pin1 hou6} /(noun) Number/
-編訂 编订 [bian1 ding4] {pin1 deng6} /Compiled/
-編輯部 编辑部 [bian1 ji2 bu4] {pin1 cap1 bou6} /Editorial board/
-編配 编配 [bian1 pei4] {pin1 pui3} /Allocation/
-緩步跑 缓步跑 [huan3 bu4 pao3] {wun6 bou6 paau2} /jogging/
-緬甸蟒蛇 缅甸蟒蛇 [Mian3 dian4 mang3 she2] {min5 din6 mong5 se4} /Burmese pythons/
+線路板 线路板 [xian4 lu4 ban3] {sin3 lou6 baan2} /circuit imprimé/
+線轆 线辘 [xian4 lu4] {sin3 luk1} /fuseau; bobine de file/
+線鉗 线钳 [xian4 qian2] {sin3 kim4} /pince à dénuder/
+線香 线香 [xian4 xiang1] {sin3 hoeng1} /bâtons d'encens/
+緣份 缘份 [yuan2 fen4] {jyun4 fan6} /destin; chance; hasard/
+編號 编号 [bian1 hao4] {pin1 hou6} /numéro/
+編訂 编订 [bian1 ding4] {pin1 deng6} /compiler (des données)/
+編輯部 编辑部 [bian1 ji2 bu4] {pin1 cap1 bou6} /rédaction; comité de rédaction/
+????c 編配 编配 [bian1 pei4] {pin1 pui3} /Allocation/
+緩步跑 缓步跑 [huan3 bu4 pao3] {wun6 bou6 paau2} /jogging; footing/
+緬甸蟒蛇 缅甸蟒蛇 [mian3 dian4 mang3 she2] {min5 din6 mong5 se4} /Python birman/
 練 练 [lian4] {lin6} /(adjective)  Experienced/
 練精學懶 练精学懒 [lian4 jing1 xue2 lan3] {lin6 zeng1 hok6 laan5} /learn how to be lazy; always trying to be clever and shirk responsibilities/
-練習生 练习生 [lian4 xi2 sheng1] {lin6 zaap6 sang1} /Trainee/
-練習簿 练习簿 [lian4 xi2 bu4] {lin6 zaap6 bou6} /exercise book/
-練馬師 练马师 [lian4 ma3 shi1] {lin6 maa5 si1} /horse trainers/
+練習生 练习生 [lian4 xi2 sheng1] {lin6 zaap6 sang1} /apprenti; stagiaire/
+練習簿 练习簿 [lian4 xi2 bu4] {lin6 zaap6 bou6} /cahier d'exercices/
+練馬師 练马师 [lian4 ma3 shi1] {lin6 maa5 si1} /dresseur de chevaux/
 緺 緺 [gua1] {gwaa1, waa1, gwo1} /A loft of hair from a lady; purple and blue ribbon/
-縈懷 萦怀 [ying2 huai2] {jing4 waai4} /(verb) to occupy someone's mind; to concern heartedly/
-縉紳 缙绅 [jin4 shen1] {zeon3 san1} /government official; retired official/
+縈懷 萦怀 [ying2 huai2] {jing4 waai4} /occuper son esprit; être préoccupé par (quelque chose); se soucier de (quelque chose)/
+縉紳 缙绅 [jin4 shen1] {zeon3 san1} /fonctionnaire/
 縣份 县份 [xian4 fen4] {jyun6 fan6} /County/
 縣市 县市 [xian4 shi4] {jyun6 si5} /Counties/
 縮入 缩入 [suo1 ru4] {suk1 jap6} /Retracted/
