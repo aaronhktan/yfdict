@@ -11717,7 +11717,7 @@
 水樽 水樽 [shui3 zun1] {seoi2 zeon1} /bouteille d'eau/
 ???? 水殼 水壳 [shui3 ke2] {seoi2 hok3} /louche d'eau; puisoir ou puisette d'eau/
 水氹 水凼 [shui3 dang4] {seoi2 tam5} /flaque d'eau/
-水汪 水汪 [shui3 wang1] {seoi2 wong1} /(fig.) peu fiable/(fig.) sans valeur/(fig.) sans espoir; n'avoir aucune chance succès/
+水汪 水汪 [shui3 wang1] {seoi2 wong1} /(fig.) peu fiable/(fig.) sans valeur/(fig.) sans espoir; n'avoir aucune chance de succès/
 水洗都唔清 水洗都唔清 [shui3 xi3 dou1 n2 qing1] {seoi2 sai2 dou1 m4 cing1} /(expr. idiom.) ne pas parvenir à prouver son innocence/(lit.) ne pas pouvoir nettoyer avec de l'eau/
 水浸 水浸 [shui3 jin4] {seoi2 zam3} /inondation/inonder/
 水浸眼眉 水浸眼眉 [shui3 jin4 yan3 mei2] {seoi2 zam3 ngaan5 mei4} /(expr. idiom.) face à une situation critique; urgence; manquer de temps pour résoudre un problème/(lit.) l'eau jusqu'aux cils/
@@ -15901,9 +15901,9 @@
 線民 线民 [xian4 min2] {sin3 man4} /indicateur; délateur; informateur/taupe; espion/
 線眼 线眼 [xian4 yan3] {sin3 ngaan5} /indicateur; délateur; informateur/taupe; espion/
 ????c 線絡 线络 [xian4 luo4] {sin3 lok3} /(noun) line; circuit; wire; road; railway track; but ruote/
-線膨脹 线膨胀 [xian4 peng2 zhang4] {sin3 paang4 zoeng3} /Linear expansion/
+????f 線膨脹 线膨胀 [xian4 peng2 zhang4] {sin3 paang4 zoeng3} /(physique) dilatation thermique linéaire/
 ????f 線衫 线衫 [xian4 shan1] {sin3 saam1} /tricots (light knitwear)/
-線裝 线装 [xian4 zhuang1] {sin3 zong1} /traditional thread binding/
+????f 線裝 线装 [xian4 zhuang1] {sin3 zong1} /traditional Chinese thread (book)binding/
 線路板 线路板 [xian4 lu4 ban3] {sin3 lou6 baan2} /circuit imprimé/
 線轆 线辘 [xian4 lu4] {sin3 luk1} /fuseau; bobine de file/
 線鉗 线钳 [xian4 qian2] {sin3 kim4} /pince à dénuder/
@@ -15915,64 +15915,64 @@
 ????c 編配 编配 [bian1 pei4] {pin1 pui3} /Allocation/
 緩步跑 缓步跑 [huan3 bu4 pao3] {wun6 bou6 paau2} /jogging; footing/
 緬甸蟒蛇 缅甸蟒蛇 [mian3 dian4 mang3 she2] {min5 din6 mong5 se4} /Python birman/
-練 练 [lian4] {lin6} /(adjective)  Experienced/
-練精學懶 练精学懒 [lian4 jing1 xue2 lan3] {lin6 zeng1 hok6 laan5} /learn how to be lazy; always trying to be clever and shirk responsibilities/
+練 练 [lian4] {lin6} /pratiquer; s'entraîner; répéter/expérimenté; qualifié; compétent/soie blanche/
+????f 練精學懶 练精学懒 [lian4 jing1 xue2 lan3] {lin6 zeng1 hok6 laan5} /(expr. idiom.) ruser et éviter de travailler/(lit.) s'entraîner à être rusé et apprendre à être paresseux/
 練習生 练习生 [lian4 xi2 sheng1] {lin6 zaap6 sang1} /apprenti; stagiaire/
 練習簿 练习簿 [lian4 xi2 bu4] {lin6 zaap6 bou6} /cahier d'exercices/
 練馬師 练马师 [lian4 ma3 shi1] {lin6 maa5 si1} /dresseur de chevaux/
-緺 緺 [gua1] {gwaa1, waa1, gwo1} /A loft of hair from a lady; purple and blue ribbon/
+????c 緺 緺 [gua1] {gwaa1, waa1, gwo1} /A loft of hair from a lady; purple and blue ribbon/
 縈懷 萦怀 [ying2 huai2] {jing4 waai4} /occuper son esprit; être préoccupé par (quelque chose); se soucier de (quelque chose)/
 縉紳 缙绅 [jin4 shen1] {zeon3 san1} /fonctionnaire/
-縣份 县份 [xian4 fen4] {jyun6 fan6} /County/
-縣市 县市 [xian4 shi4] {jyun6 si5} /Counties/
-縮入 缩入 [suo1 ru4] {suk1 jap6} /Retracted/
-縮埋一二角 缩埋一二角 [suo1 mai2 yi1 er4 jiao3] {suk1 maai4 jat1 ji6 gok3} /hide in the corner/
-縮埋一嚿 缩埋一嚿 [suo1 mai2 yi1 huo4] {suk1 maai4 jat1 gau6} /curl up (spoken)/
-縮埋一字角 缩埋一字角 [suo1 mai2 yi1 zi4 jiao3] {suk1 maai4 jat1 zi6 gok3} /hide in the corner/
-縮小 缩小 [suo1xiao3] {suk1 siu2} /(verb) Zoom out/
-縮數 缩数 [suo1 shu4] {suk1 sou3} /stingy and scheming selfishly; petty shrewdness; bean counter/
-縮沙 缩沙 [suo1 sha1] {suk1 saa1} /(slang) to get cold feet; to renege; (of something) to chicken out; to give up/
-縮皮 缩皮 [suo1 pi2] {suk1 pei4} /reduce on costs or expenditure (spoken)/
-縮短 缩短 [suo1duan3] {suk1 dyun2} /(verb) Shorten/
-縮細 缩细 [suo1 xi4] {suk1 sai3} /Narrowing; to shrink; to reduce/
-縮編 缩编 [suo1 bian1] {suk1 pin1} /shorten; downsizing/
-縮聚 缩聚 [suo1 ju4] {suk1 zeoi6} /condensation polymerization; polycondensation/
-縮開 缩开 [suo1 kai1] {suk1 hoi1} /(verb) dodge; sidestep; to avoid; to evade; to keep away from/
-縮頭縮腦 缩头缩脑 [suo1 tou2 suo1 nao3] {suk1 tau4 suk1 nou5} /coward; timid; fainthearted; recoil in fear; shrink from responsibility/
-縮頭龜 缩头龟 [suo1 tou2 gui1] {suk1 tau4 gwai1} /(noun) a chicken (coward); a coward; a quitter; to describe someone who shies away from difficulties / challenges / responsibilities; to describe someone who pulls out of doing something the last minute/
-縮骨 缩骨 [suo1 gu3] {suk1 gwat1} /(slang) (of people) selfish; stingy; scheming selfishly; petty shrewdness; bean counter; crafty/
-縮骨遮 缩骨遮 [suo1 gu3 zhe1] {suk1 gwat1 ze1} /(noun) a folding umbrella/
-縱壞 纵坏 [zong4 huai4] {zung3 waai6} /(verb) spoil; overindulge/
-縱情聲色 纵情声色 [zong4 qing2 sheng1 se4] {zung3 cing4 sing1 sik1} /addicted to sex and play/
-縱橫 纵横 [zong4 heng2] {zung1 waang4} /to travel across in depth/
-縱橫捭闔 纵横捭阖 [zong4 heng2 bai3 he2] {zung1 waang4 baai2 hap6} /to manoeuvre among various states or political groupings/
-縷縷 缕缕 [lü3 lü3] {leoi5 leoi5} /Continuously/
-總係 總系 [cong1 xi4] {zung2 hai6} /(adverb) always; all the time/
+縣份 县份 [xian4 fen4] {jyun6 fan6} /comté/
+縣市 县市 [xian4 shi4] {jyun6 si5} /comté/
+????c 縮入 缩入 [suo1 ru4] {suk1 jap6} /rétracter/(infiltrate?)/
+縮埋一二角 缩埋一二角 [suo1 mai2 yi1 er4 jiao3] {suk1 maai4 jat1 ji6 gok3} /se cacher dans un coin/
+縮埋一嚿 缩埋一嚿 [suo1 mai2 yi1 huo4] {suk1 maai4 jat1 gau6} /se pelotonner; se lover/
+縮埋一字角 缩埋一字角 [suo1 mai2 yi1 zi4 jiao3] {suk1 maai4 jat1 zi6 gok3} /se cacher dans un coin/
+縮小 缩小 [suo1 xiao3] {suk1 siu2} /réduire; diminuer; amoindrir; rapetisser/faire un zoom arrière/
+縮數 缩数 [suo1 shu4] {suk1 sou3} /être égoïste; tirer profit des autres/réduire les dépenses/
+縮沙 缩沙 [suo1 sha1] {suk1 saa1} /hésiter; changer d'avis par nervosité/
+縮皮 缩皮 [suo1 pi2] {suk1 pei2} /réduire les dépenses/
+縮短 缩短 [suo1 duan3] {suk1 dyun2} /raccourcir; abréger/réduire; diminuer/
+縮細 缩细 [suo1 xi4] {suk1 sai3} /réduire; diminuer/
+縮編 缩编 [suo1 bian1] {suk1 pin1} /réduire le personnel; réduire les effectifs/raccourcir; abréger/
+縮聚 缩聚 [suo1 ju4] {suk1 zeoi6} /(chimie) polymérisation par condensation; polycondensation/
+縮開 缩开 [suo1 kai1] {suk1 hoi1} /éviter; contourner/écartez-vous! pousse-toi!/(vulgaire) casse-toi! allez vous faire voir!/
+縮頭縮腦 缩头缩脑 [suo1 tou2 suo1 nao3] {suk1 tau4 suk1 nou5} /(expr. idiom.) lâche; peureux; timide/(expr. idiom.) fuir ses responsabilités/(lit.) rétracter sa tête rétracter son cerveau/
+縮頭龜 缩头龟 [suo1 tou2 gui1] {suk1 tau4 gwai1} /(fig.) lâche; peureux/(fig.) personne qui fuit ses responsabilités/(fig.) personne peu fiable/(lit.) tortue dont la tête se rétracte/
+縮骨 缩骨 [suo1 gu3] {suk1 gwat1} /être égoïste; tirer profit des autres/réduire les dépenses/
+縮骨遮 缩骨遮 [suo1 gu3 zhe1] {suk1 gwat1 ze1} /parapluie pliant/
+縱壞 纵坏 [zong4 huai4] {zung3 waai6} /gâter; être trop indulgent/
+????c 縱情聲色 纵情声色 [zong4 qing2 sheng1 se4] {zung3 cing4 sing1 sik1} /(expr.) se livrer à la débauche/
+????c 縱橫 纵横 [zong4 heng2] {zung1 waang4} /to travel across in depth/
+????f 縱橫捭闔 纵横捭阖 [zong4 heng2 bai3 he2] {zung1 waang4 baai2 hap6} /(expr.) manœuvrer parmi plusieurs groupes politiques/
+縷縷 缕缕 [lu:3 lu:3] {leoi5 leoi5} /en continu; continuellement; sans cesse/
+總係 總系 [cong1 xi4] {zung2 hai6} /toujours/à chaque fois/forcément; inévitablement/
 ????f 總稱 总称 [zong3 cheng1] {zung2 cing1} /terme de référence général/
 總匯 总汇 [zong3 hui4] {zung2 wui6} /(noun of water) to flow together; (noun of things) concourse; aggregate/
 總工程師 总工程师 [zong3 gong1 cheng2 shi1] {zung2 gung1 cing4 si1} /Chief Engineer/
 總帳 总帐 [zong3 zhang4] {zung2 zoeng3} /Ledger; general ledger/
-總廚 總厨 [cong1 chu2] {zung2 cyu4} /Head chef/
-總指揮 总指挥 [zong3 zhi3 hui1] {zung2 zi2 fai1} /Commander in chief/
+總廚 總厨 [cong1 chu2] {zung2 cyu4} /chef cuisinier/
+總指揮 总指挥 [zong3 zhi3 hui1] {zung2 zi2 fai1} /commandant en chef/
 總政 总政 [zong3 zheng4] {zung2 zing3} /General Political Department/
-總教練 总教练 [zong3 jiao4 lian4] {zung2 gaau3 lin6} /Head Coach/
+總教練 总教练 [zong3 jiao4 lian4] {zung2 gaau3 lin6} /entraîner principal/
 總數 总数 [zong3shu4] {zung2 sou3} /(noun) Total amount/
-總督府 总督府 [zong3 du1 fu3] {zung2 duk1 fu2} /Government House/
+總督府 总督府 [zong3 du1 fu3] {zung2 duk1 fu2} /Government House (« résidence du gouvernement »), résidence officielle du gouverneur de Hong Kong pendant l'époque coloniale/
 總管 总管 [zong3 guan3] {zung2 gun2} /(verb) manager/
-總結 总结 [zong3jie2] {zung2 git3} /(noun) Conclusion/
+總結 总结 [zong3jie2] {zung2 git3} /résumer/résumé; bilan; conclusion/
 總綱 总纲 [zong3 gang1] {zung2 gong1} /superclass; general program; general principles/
-總行 总行 [zong3 hang2] {zung2 hong2} /Head Office; Headquarters/
-總裁 总裁 [zong3cai2] {zung2 coi4} /(noun) CEO /
-總言之 總言之 [cong1 yan2 zhi1] {zung2 jin4 zi1} /in conclusion; finally (spoken)/
-總論 总论 [zong3 lun4] {zung2 leon6} /Summary/
+總行 总行 [zong3 hang2] {zung2 hong2} /siège social/
+總裁 总裁 [zong3 cai2] {zung2 coi4} /PDG; président-directeur général/
+總言之 總言之 [cong1 yan2 zhi1] {zung2 jin4 zi1} /pour résumer; en somme; bref/
+總論 总论 [zong3 lun4] {zung2 leon6} /introduction; aperçu; résumé/
 總路線 总路线 [zong3 lu4 xian4] {zung2 lou6 sin3} /general line/
-總預算 总预算 [zong3 yu4 suan4] {zung2 jyu6 syun3} /Total budget/
-繁忙時間 繁忙时间 [fan2 mang2 shi2 jian1] {faan4 mong4 si4 gaan3} /rush hour/
-繁榮富強 繁荣富强 [fan2 rong2 fu4 qiang2] {faan4 wing4 fu3 koeng4} /Prosperous and rich/
-繁殖力 繁殖力 [fan2 zhi2 li4] {faan4 zik6 lik6} /Fertility/
+總預算 总预算 [zong3 yu4 suan4] {zung2 jyu6 syun3} /budget total/
+繁忙時間 繁忙时间 [fan2 mang2 shi2 jian1] {faan4 mong4 si4 gaan3} /heure de pointe/
+繁榮富強 繁荣富强 [fan2 rong2 fu4 qiang2] {faan4 wing4 fu3 koeng4} /(expr.) riche et prospère/
+繁殖力 繁殖力 [fan2 zhi2 li4] {faan4 zik6 lik6} /fertilité; fécondité/
 繁碎 繁碎 [fan2 sui4] {faan4 seoi3} /Loaded with trivial matters/
-繁華 繁华 [fan2 hua2] {faan4 waa4} /(adjective)  Prosperous/
-繁難 繁难 [fan2 nan2] {faan4 naan4} /troublesome; hard to tackle; complicated/
+繁華 繁华 [fan2 hua2] {faan4 waa4} /prospère; riche; florissant/
+繁難 繁难 [fan2 nan2] {faan4 naan4} /difficile; compliqué; ennuyeux/
 繁體中文 繁体中文 [fan2 ti3 Zhong1 wen2] {faan4 tai2 zung1 man2} /(language) Traditional Chinese/
 繑 繑 [qiao1] {hiu1} /sew/
 繑口 繑口 [jue2 kou3] {kiu2 hau2} /hard to pronounce; difficult to say/
