@@ -16139,7 +16139,7 @@
 老人家 老人家 [lao3 ren2 jia1] {lou5 jan4 gaa1} /(nom collectif) personnes âgées/
 老人成嫩仔 老人成嫩仔 [lao3 ren2 cheng2 nen4 zi3] {lou5 jan4 sing4 nyun6 zai2} /(expr. idiom.) rajeunir; rajeunissement/
 老人星 老人星 [lao3 ren2 xing1] {lou5 jan4 sing1} /(étoile) Canopus/dieu de prospérité et longévité/
-????f 老人精 老人精 [lao3 ren2 jing1] {lou5 jan4 zing1} /comme un vieil homme dans le corps d'un enfant; enfant sage, qui agit en adulte/
+????f 老人精 老人精 [lao3 ren2 jing1] {lou5 jan4 zing1} /(péj.) comme un vieil homme dans le corps d'un enfant; enfant sage, qui agit en adulte/
 老伯 老伯 [lao3 bo2] {lou5 baak3} /vieil homme; homme âgé/(forme de politesse pour les personnes plus âgées de sexe masculin)/
 老作 老作 [lao3 zuo4] {lou5 zok3} /mentir; inventer des histoires/
 ????f 老來嬌 老来娇 [lao3 lai2 jiao1] {lou5 loi4 giu1} /(un peu péj.) vieille femme qui essaie de paraître plus jeune/
@@ -16163,7 +16163,7 @@
 老幾 老几 [lao3 ji3] {lou5 gei2} /grade; rang; ancienneté/(utilisé pour exprimer son mépris envers quelqu'un)/
 老廉 老廉 [lao3 Lian2] {lou5 lim4} /(fam.) Independent Commission Against Corruption, agence gouvernementale hongkongaise spécialisée dans la lutte contre la corruption/
 老懵懂 老懵懂 [lao3 meng3 dong3] {lou5 mung2 dung2} /(inj.) sénile/
-老手 老手 [lao3 shou3] {lou5 sau2} /personne expérimentée/
+老手 老手 [lao3 shou3] {lou5 sau2} /personne expérimentée; vieux de la vieille/
 老撾人民民主共和國 老挝人民民主共和国 [lao3 wo1 ren2 min2 min2 zhu3 gong4 he2 guo2] {lou5 wo1 jan4 man4 man4 zyu2 gung6 wo4 gwok3} /République démocratique populaire lao/
 老旦 老旦 [lao3 dan4] {lou5 daan2} /la vieille femme, personnage type de l'opéra chinois/
 老朋 老朋 [lao3 peng2] {lou5 pang4} /vieux amis/
@@ -16175,55 +16175,54 @@
 老毛 老毛 [lao3 mao2] {lou5 mou4} /(fam.) Mao Zedong/(fig.) argent/(fig.) enveloppe rouge; paquet rouge/
 老水 老水 [lao3 shui3] {lou5 seoi2} /expérimenté/
 老水鴨 老水鸭 [lao3 shui3 ya1] {lou5 seoi2 aap2} /canard à la sauce soja/
-老波骨 老波骨 [lao3 bo1 gu3] {lou5 bo1 gwat1} /experienced football player/
-老泥 老泥 [lao3 ni2] {lou5 nai4} /the mixture of dirt and dead skin on the surface of the skin; literally 'old mud'/
-老泥妹 老泥妹 [lao3 ni2 mei4] {lou5 nai4 mui1} /(literally: grubby girl); teenage girl who stays away from home and hangs out on the streets, usually promiscuous and vulgar in their mannerism/
-老火湯 老火汤 [lao3 huo3 tang1] {lou5 fo2 tong1} /slow-cooked soup/
-老火靚湯 老火靓汤 [lao3 huo3 jing4 tang1] {lou5 fo2 leng3 tong1} /A nice slow simmered soup/
-老爆 老爆 [lao3 bao4] {lou5 baau3} /burglary; to burgle/
-老爺 老爷 [lao3 ye5] {lou5 je4} /(noun)  honorific term for a wife to call her husband's father/
-老爺車 老爷车 [lao3 ye5 che1] {lou5 je4 ce1} /old car/
-老牛聲 老牛声 [lao3 niu2 sheng1] {lou5 ngau4 seng1} /a loud and harsh voice/
-老生常談 老生常谈 [lao3 sheng1 chang2 tan2] {lou5 sang1 soeng4 taam4} /platitude/
-老番 老番 [lao3 fan1] {lou5 faan1} /(slang) Western people; Caucasians; a Westerner/
-老番冬 老番冬 [lao3 fan1 dong1] {lou5 faan1 dung1} /Christmas (spoken)/
-老番涼茶 老番凉茶 [lao3 fan1 liang2 cha2] {lou5 faan1 loeng4 caa4} /beer (slang)/
-老番睇榜第一 老番睇榜第一 [lao3 fan1 di4 bang3 di4 yi1] {lou5 faan1 tai2 bong2 dai6 jat1} /come last (slang)/
-老百姓 老百姓 [lao3bai3xing4] {lou5 baak3 sing3} /(noun) The messes/
-老祖 老祖 [lao3 zu3] {lou5 zou2} /ancestor (spoken)/
-老積 老积 [lao3 ji1] {lou5 zik1} /(adj.) describes a young person or a child who behaves and thinks in a mature way; a young but worldly person/
-老竇 老窦 [lao3 dou4] {lou5 dau6} /(noun) father; dad; daddy/
-老笠 老笠 [lao3 li4] {lou5 lap1} /robbery/
-老細 老细 [lao3 xi4] {lou5 sai3} /(n. / appellation) generally refers to the boss or senior colleagues, such as manager or department head; owner of a shop; refers to your client/
-老編 老编 [lao3 bian1] {lou5 pin1} /senior editor (spoken)/
-老翻 老翻 [lao3 fan1] {lou5 faan1} /(n.) refers to illegal / pirated copies of something, such as CDs or handbags; (adj.) to describe something that is counterfeited/
-老翻 老翻 [Lao3 fan1] {lou5 faan1} /pirated goods/
-老老實實 老老实实 [lao3 lao5 shi2 shi2] {lou5 lou5 sat6 sat6} /be honest/
-老而不 老而不 [lao3 er2 bu4] {lou5 ji4 bat1} /a licentious old man/
-老脾 老脾 [lao3 pi2] {lou5 pei4} /tantrum; emotional outbreak (spoken)/
-老臣子 老臣子 [lao3 chen2 zi5] {lou5 san4 zi2} /long server staff (spoken)/
-老舉 老举 [lao3 ju3] {lou5 geoi2} /prositute (spoken)/
-老薑 老姜 [lao3 jiang1] {lou5 goeng1} /aged ginger/
-老藕 老藕 [lao3 ou3] {lou5 ngau5} /(literally: old lotus root); an unattractive elderly woman/
-老虎乸 老虎乸 [lao3 hu3 na2] {lou5 fu2 naa2} /(n.) a tigress; a ferocious woman, sometimes used in a humourous sense to refer to one's wife/
-老虎唔發威當病貓 老虎唔发威当病猫 [lao3 hu3 wu2 fa1 wei1 dang1 bing4 mao1] {lou5 fu2 m4 faat3 wai1 dong3 beng6 maau1} /a tiger taken as an ill cat just because it doesn't roar, a metaphor to say don't underestimate one's power/
+老波骨 老波骨 [lao3 bo1 gu3] {lou5 bo1 gwat1} /footballeur expérimenté/
+????f 老泥 老泥 [lao3 ni2] {lou5 nai4} /crasse, saletés sur la peau/
+????f 老泥妹 老泥妹 [lao3 ni2 mei4] {lou5 nai4 mui1} /(literally: grubby girl); teenage girl who stays away from home and hangs out on the streets, usually promiscuous and vulgar in their mannerism (female equivalent of « bad boy »)/
+老火湯 老火汤 [lao3 huo3 tang1] {lou5 fo2 tong1} /soupe cantonaise mijotée pendant quelques heures/
+老火靚湯 老火靓汤 [lao3 huo3 jing4 tang1] {lou5 fo2 leng3 tong1} /soupe cantonaise mijotée pendant quelques heures/
+老爆 老爆 [lao3 bao4] {lou5 baau3} /voler; cambrioler; dévaliser/
+老爺 老爷 [lao3 ye5] {lou5 je4} /(forme de politesse pour le père de son mari)/
+老爺車 老爷车 [lao3 ye5 che1] {lou5 je4 ce1} /vieille bagnole/voiture de collection/
+老牛聲 老牛声 [lao3 niu2 sheng1] {lou5 ngau4 seng1} /voix rauque/(lit.) voix d'un vieux bœuf/
+老生常談 老生常谈 [lao3 sheng1 chang2 tan2] {lou5 sang1 soeng4 taam4} /(expr.) platitude; truisme/
+老番 老番 [lao3 fan1] {lou5 faan1} /Occidental; Occidentale/
+老番冬 老番冬 [lao3 fan1 dong1] {lou5 faan1 dung1} /(fam.) (un peu vieilli) Noël/
+老番涼茶 老番凉茶 [lao3 fan1 liang2 cha2] {lou5 faan1 loeng4 caa4} /bière/(lit.) tisane des Occidentaux/
+老番睇榜第一 老番睇榜第一 [lao3 fan1 di4 bang3 di4 yi1] {lou5 faan1 tai2 bong2 dai6 jat1} /(expr. idiom.) en dernière place/(lit.) comme un Occidental qui regarde les résultats d'un examen/
+老百姓 老百姓 [lao3bai3xing4] {lou5 baak3 sing3} /les masses; les gens ordinaires; le peuple/
+老祖 老祖 [lao3 zu3] {lou5 zou2} /ancêtre; aïeux/
+老積 老积 [lao3 ji1] {lou5 zik1} /(péj.) comme un vieil homme dans le corps d'un enfant; enfant sage, qui agit en adulte/
+老竇 老窦 [lao3 dou4] {lou5 dau6} /papa; père/
+老笠 老笠 [lao3 li4] {lou5 lap1} /voler; cambrioler; dévaliser/
+老細 老细 [lao3 xi4] {lou5 sai3} /patron; chef; supérieur/superviseur/(forme de politesse pour ses clients)/
+老編 老编 [lao3 bian1] {lou5 pin1} /rédacteur en chef; rédactrice en chef/
+老翻 老翻 [lao3 fan1] {lou5 faan1} /faux; contrefaçon/
+老老實實 老老实实 [lao3 lao5 shi2 shi2] {lou5 lou5 sat6 sat6} /honnête; franc/honnêtement/à vrai dire/
+老而不 老而不 [lao3 er2 bu4] {lou5 ji4 bat1} /(péj.) vieux schnoque/(péj.) vieil homme licencieux/
+老脾 老脾 [lao3 pi2] {lou5 pei4} /coup de colère/
+老臣子 老臣子 [lao3 chen2 zi5] {lou5 san4 zi2} /employé de longue date/
+老舉 老举 [lao3 ju3] {lou5 geoi2} /(vieilli) prostituée/
+老薑 老姜 [lao3 jiang1] {lou5 goeng1} /(fig.) personne qui a beaucoup d'expériences de la vie/(fig.) personne experimentée; vieux de la vieille/(lit.) vieux gingembre/
+老藕 老藕 [lao3 ou3] {lou5 ngau5} /(fig.) (péj.) vieille femme/(lit.) vieille racine de lotus/
+老虎乸 老虎乸 [lao3 hu3 na2] {lou5 fu2 naa2} /(fig.) harpie; mégère/(fig.) femme violente; femme farouche/(fig.) épouse; femme/(lit.) tigresse/
+????c 老虎唔發威當病貓 老虎唔发威当病猫 [lao3 hu3 wu2 fa1 wei1 dang1 bing4 mao1] {lou5 fu2 m4 faat3 wai1 dong3 beng6 maau1} /(expr. idiom.) ne me sous-estimes pas!/(lit.) prendre un tigre qui ne rugit pas pour un chat malade/
 老虎蟹 老虎蟹 [lao3 hu3 xie4] {lou5 fu2 haai5} /Ranina Ranina / red frog crab / spanner crab; to describe a bully who acts in a tyrannous manner; used as a modal particle in a sentence to convey a resolute sense of doing something, similar to saying 'no matter what', 'regardless of whatever'/
 老虎頭上釘蝨乸 老虎头上钉虱乸 [lao3 hu3 tou2 shang5 ding1 shi1 na2] {lou5 fu2 tau4 soeng6 deng1 sat1 naa2} /(literally: put lice on the tiger's head); to provoke a powerful person or organization/
-老虔婆 老虔婆 [lao3 qian2 po2] {lou5 kin4 po4} /old biddy/
-老處 老处 [lao3 chu3] {lou5 cyu2} /old virgin (spoken)/
-老行專 老行专 [lao3 hang2 zhuan1] {lou5 hong4 zyun1} /an expert in a particular field/
-老行尊 老行尊 [lao3 xing2 zun1] {lou5 hang4 zyun1} /an expertise of a specialty (spoken)/
-老街站 老街站 [lao3 jie1 zhan4] {lou5 gaai1 zaam6} /Laojie Station/
-老表 老表 [lao3 biao3] {lou5 biu2} /(relatives) cousins/
-老衲 老衲 [lao3 na4] {lou5 naap6} /old monk/
-老襟 老襟 [lao3 jin1] {lou5 kam1} /the name two or multiple male address each other if they have sexual relationship with the same woman (spoken)/
-老襯 老衬 [lao3 chen4] {lou5 can3} /(slang) to be a groom (going to get married); someone who can easily be tricked by others; a mug; a dupe; a gull; a chump; patsy/
-老西 老西 [lao3 xi1] {lou5 sai1} /a suit; a westerner/
-老規矩 老规矩 [lao3 gui1 ju5] {lou5 kwai1 geoi2} /old rules; customs (spoken)/
-老親 老亲 [lao3 qin1] {lou5 can1} /elderly parents; relatives/
-老豆 老豆 [lao3 dou4] {lou5 dau6} /(slang) father; dad; daddy/
-老豆老母 老豆老母 [lao3 dou4 lao3 mu3] {lou5 dau6 lou5 mou2} /parent/
-老貓燒鬚 老猫烧须 [lao3 mao1 shao1 xu1] {lou5 maau1 siu1 sou1} /(slang) even a skillful / experienced person or an expert would make mistakes sometimes; even Homer nods/
+老虔婆 老虔婆 [lao3 qian2 po2] {lou5 kin4 po4} /(inj.) vieille femme acariâtre; petite vieille/
+????f 老處 老处 [lao3 chu3] {lou5 cyu2} /old virgin (spoken)/
+老行專 老行专 [lao3 hang2 zhuan1] {lou5 hong4 zyun1} /expert dans un domaine; vieux de la vieille/
+老行尊 老行尊 [lao3 xing2 zun1] {lou5 hang4 zyun1} /expert dans un domaine; vieux de la vieille/
+老街站 老街站 [lao3 jie1 zhan4] {lou5 gaai1 zaam6} /Laojie Station, station du métro de Shenzhen/
+老表 老表 [lao3 biao3] {lou5 biu2} /cousin/
+老衲 老衲 [lao3 na4] {lou5 naap6} /vieux moine bouddhiste/
+????f 老襟 老襟 [lao3 jin1] {lou5 kam1} /the name two or multiple male address each other if they have sexual relationship with the same woman (spoken)/
+老襯 老衬 [lao3 chen4] {lou5 can3} /personne crédule; candide/(fig.) jeune marié/(fig.) gens mariés; couples mariés/
+老西 老西 [lao3 xi1] {lou5 sai1} /complet; costume; complet-veston; costard; veston-cravate/
+老規矩 老规矩 [lao3 gui1 ju5] {lou5 kwai1 geoi2} /vieilles coutumes; usage; convenance/
+老親 老亲 [lao3 qin1] {lou5 can1} /parents âgés/proches âgés/
+老豆 老豆 [lao3 dou4] {lou5 dau6} /papa; père/
+老豆老母 老豆老母 [lao3 dou4 lao3 mu3] {lou5 dau6 lou5 mou2} /parents; père et mère/
+老貓燒鬚 老猫烧须 [lao3 mao1 shao1 xu1] {lou5 maau1 siu1 sou1} /(expr. idiom.) il n’y a si bon cheval qui ne bronche; tout le monde peut se tromper/(lit.) même les vieux chats brûlent leurs moustaches/
 老身 老身 [lao3 shen1] {lou5 san1} /old woman referring to oneself/
 老野 老野 [lao3 ye3] {lou5 je5} /old man (impolite term)/
 老闆 老板 [lao3 ban3] {lou5 baan2} /(noun)  employer/
