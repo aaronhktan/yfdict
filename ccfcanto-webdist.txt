@@ -5862,6 +5862,7 @@
 天體營 天体营 [tian1 ti3 ying2] {tin1 tai2 jing4} /campe naturiste, plage naturiste/
 天高地厚 天高地厚 [tian1 gao1 di4 hou4] {tin1 gou1 dei6 hau5} /grande bonté, gentillesse sans bornes/complexité/(lit.) hauteur des cieux et la profondeur de la Terre/
 天高皇帝遠 天高皇帝远 [tian1 gao1 huang2 di4 yuan3] {tin1 gou1 wong4 dai3 jyun5} /région hors de contrôle d'un gouvernement/(litt). le roi est loin des lieux éloignés/
+天塌地陷 天塌地陷 [tian1 ta1 di4 xian4] {tin1 taap3 dei6 haam6} /(expr. idiom.) catastrophe naturelle/(expr. idiom.) troubles politiques; bouleversements politiques/(expr. idiom.) situation grave; situation sérieuse/(lit.) le ciel tombe et la terre s'ouvre/
 天麩羅 天麸罗 [tian1 fu1 luo2] {tin1 fu5 lo4} /tempura/
 太 太 [tai4] {taai3} /(préfix pour décrire membres de la famille) arrière-grand/(redoublement) «太太», femme, épouse, madame/
 太傅 太傅 [tai4 fu4] {taai3 fu6} /titre des trois fonctionaires plus hauts de la Chine ancienne/
@@ -16206,8 +16207,8 @@
 老藕 老藕 [lao3 ou3] {lou5 ngau5} /(fig.) (péj.) vieille femme/(lit.) vieille racine de lotus/
 老虎乸 老虎乸 [lao3 hu3 na2] {lou5 fu2 naa2} /(fig.) harpie; mégère/(fig.) femme violente; femme farouche/(fig.) épouse; femme/(lit.) tigresse/
 ????c 老虎唔發威當病貓 老虎唔发威当病猫 [lao3 hu3 wu2 fa1 wei1 dang1 bing4 mao1] {lou5 fu2 m4 faat3 wai1 dong3 beng6 maau1} /(expr. idiom.) ne me sous-estimes pas!/(lit.) prendre un tigre qui ne rugit pas pour un chat malade/
-老虎蟹 老虎蟹 [lao3 hu3 xie4] {lou5 fu2 haai5} /Ranina Ranina / red frog crab / spanner crab; to describe a bully who acts in a tyrannous manner; used as a modal particle in a sentence to convey a resolute sense of doing something, similar to saying 'no matter what', 'regardless of whatever'/
-老虎頭上釘蝨乸 老虎头上钉虱乸 [lao3 hu3 tou2 shang5 ding1 shi1 na2] {lou5 fu2 tau4 soeng6 deng1 sat1 naa2} /(literally: put lice on the tiger's head); to provoke a powerful person or organization/
+老虎蟹 老虎蟹 [lao3 hu3 xie4] {lou5 fu2 haai5} /(crabe) ranina ranina, ranine dentée/(fig.) quoi qu'il arrive; malgré tout; peu importe (ce qui arrive)/(fig.) brute; tyran/
+????f 老虎頭上釘蝨乸 老虎头上钉虱乸 [lao3 hu3 tou2 shang5 ding1 shi1 na2] {lou5 fu2 tau4 soeng6 deng1 sat1 naa2} /(expr. idiom.) provoquer une personne puissante; provoquer une organisation puissante/(lit.) mettre un pou sur la tête du tigre/
 老虔婆 老虔婆 [lao3 qian2 po2] {lou5 kin4 po4} /(inj.) vieille femme acariâtre; petite vieille/
 ????f 老處 老处 [lao3 chu3] {lou5 cyu2} /old virgin (spoken)/
 老行專 老行专 [lao3 hang2 zhuan1] {lou5 hong4 zyun1} /expert dans un domaine; vieux de la vieille/
@@ -16223,55 +16224,55 @@
 老豆 老豆 [lao3 dou4] {lou5 dau6} /papa; père/
 老豆老母 老豆老母 [lao3 dou4 lao3 mu3] {lou5 dau6 lou5 mou2} /parents; père et mère/
 老貓燒鬚 老猫烧须 [lao3 mao1 shao1 xu1] {lou5 maau1 siu1 sou1} /(expr. idiom.) il n’y a si bon cheval qui ne bronche; tout le monde peut se tromper/(lit.) même les vieux chats brûlent leurs moustaches/
-老身 老身 [lao3 shen1] {lou5 san1} /old woman referring to oneself/
-老野 老野 [lao3 ye3] {lou5 je5} /old man (impolite term)/
-老闆 老板 [lao3 ban3] {lou5 baan2} /(noun)  employer/
-老闆娘 老板娘 [lao3 ban3 niang2] {lou5 baan2 noeng4} /a female boss; a female shop owner/
-老雀 老雀 [lao3 que4] {lou5 zoek3} /thief; pickpocket (slang)/
-老雜 老杂 [lao3 za2] {lou5 zaap6} /a police officer who investigates crimes/
-老頂 老顶 [lao3 ding3] {lou5 ding2} /boss (spoken)/
-老餅 老饼 [lao3 bing3] {lou5 beng2} /old guy (spoken)/
-老鬼 老鬼 [lao3 gui3] {lou5 gwai2} /an old person (colloquial or derogatory)/
-老鵬 老鹏 [lao3 peng2] {lou5 paang2} /old Pang; an old friend/
-老麥 老麦 [lao3 mai4] {lou5 mak2} /McDonald's fast food restaurant/
-老點 老点 [lao3 dian3] {lou5 dim2} /to lie to; to trick/
-老鼠仔 老鼠仔 [lao3 shu3 zi3] {lou5 syu2 zai2} /muscular biceps; literally 'small rat'(same shape)/
-老鼠拉龜 老鼠拉龟 [lao3 shu3 la1 gui1] {lou5 syu2 laai1 gwai1} /impossible (slang)/
-老鼠斑 老鼠斑 [lao3 shu3 ban1] {lou5 syu2 baan1} /Panther Grouper; humpback grouper; high fin grouper/
-老鼠貨 老鼠货 [lao3 shu3 huo4] {lou5 syu2 fo3} /(slang) stolen goods/
-老齧齧 老齧齧 [lao3 nie4 nie4] {lou5 nget6 nget6} /Old, feeble and lonely; vegetables that are too old and tough to bite/
-考妣 考妣 [kao3 bi3] {haau2 bei2} /deceased parents/
-考察 考察 [kao3 cha2] {haau2 caat3} /expedition; delegation/
-考慮 考虑 [kao3 lü4] {haau2 leoi6} /to take into account of/
-考慮不周 考虑不周 [kao3 lü4 bu4 zhou1] {haau2 leoi6 bat1 zau1} /Thoughtless; lack of consideration/
-考牌 考牌 [kao3 pai2] {haau2 paai4} /to take a test to obtain a license/
-考試 考试 [kao3 shi4] {haau2 si5} /(noun)  test/
-考起 考起 [kao3 qi3] {haau2 hei2} /'beats me'; 'search me' (when being challenged by a difficult question or situation)/
-考車牌 考车牌 [kao3 che1 pai2] {haau2 ce1 paai4} /taking driving test/
+????f 老身 老身 [lao3 shen1] {lou5 san1} /(forme de politesse pour une vieille femme, première personne du singulier)/
+老野 老野 [lao3 ye3] {lou5 je5} /(péj.) vieillard; vieux/
+老闆 老板 [lao3 ban3] {lou5 baan2} /chef; patron; supérieur/propriétaire (d'une entreprise ou un magasin); patron; commerçant/
+老闆娘 老板娘 [lao3 ban3 niang2] {lou5 baan2 noeng4} /cheffe; patronne/propriétaire (d'une entreprise ou un magasin); patronne; commerçante/
+老雀 老雀 [lao3 que4] {lou5 zoek3} /(fig.) personne expérimentée; vieux de la vieille/(fig.) voleur; voleur à la tire/(lit.) vieil oiseau/
+老雜 老杂 [lao3 za2] {lou5 zaap6} /policier en civil; détective en civil/policier ou détective du Criminal Investigation Department de Hong Kong/
+老頂 老顶 [lao3 ding3] {lou5 ding2} /patron; chef/
+老餅 老饼 [lao3 bing3] {lou5 beng2} /démodé; vieux jeu/
+老鬼 老鬼 [lao3 gui3] {lou5 gwai2} /(très fam. ou inj.) vieux; viellard/personne expérimentée/
+老鵬 老鹏 [lao3 peng2] {lou5 paang2} /vieil ami/
+老麥 老麦 [lao3 mai4] {lou5 mak2} /(fam.) McDo, surnom pour la chaîne de restauration rapide McDonald's/
+老點 老点 [lao3 dian3] {lou5 dim2} /mentir; tromper; duper/
+老鼠仔 老鼠仔 [lao3 shu3 zi3] {lou5 syu2 zai2} /(fig.) biceps/(lit.) petits souris (faisant référence à la forme des muscles contractés)/
+老鼠拉龜 老鼠拉龟 [lao3 shu3 la1 gui1] {lou5 syu2 laai1 gwai1} /(expr. en suspens) ne pas savoir par où commencer/(lit.) comme un souris qui traîne une tortue (deuxième partie 冇埞埋手|冇定埋手 « avoir nulle part où mettre ses mains »)/ 
+老鼠斑 老鼠斑 [lao3 shu3 ban1] {lou5 syu2 baan1} /(espèce de poissons) Cromileptes altivelis; Mérou de Grace Kelly; Mérou bossu/
+老鼠貨 老鼠货 [lao3 shu3 huo4] {lou5 syu2 fo3} /biens volés/(lit.) objets des souris/
+????f 老齧齧 老齧齧 [lao3 nie4 nie4] {lou5 nget6 nget6} /(personne) vieux et faible/(légumes) vieux et dur/
+考妣 考妣 [kao3 bi3] {haau2 bei2} /parents décédés; père et mère décédés/
+考察 考察 [kao3 cha2] {haau2 caat3} /enquêter/rechercher; étudier/expédition de recherche/
+考慮 考虑 [kao3 lu:4] {haau2 leoi6} /considérer; tenir compte de/
+考慮不周 考虑不周 [kao3 lu:4 bu4 zhou1] {haau2 leoi6 bat1 zau1} /irréfléchi; qui manque de réflexion/
+考牌 考牌 [kao3 pai2] {haau2 paai4} /passer un examen pour obtenir un permis/
+考試 考试 [kao3 shi4] {haau2 si5} /examen; test/
+考起 考起 [kao3 qi3] {haau2 hei2} /ça me dépasse; je n'ai aucune idée; ça me déconcerte/
+考車牌 考车牌 [kao3 che1 pai2] {haau2 ce1 paai4} /passer un examen pour obtenir son permis de conduire/
 耆宿 耆宿 [qi2 su4] {kei4 suk1} /venerated old people/
-耆英 耆英 [qi2 ying1] {kei4 jing1} /Seniors/
-而係 而系 [er2 xi4] {ji4 hai6} /but rather/
-而家 而家 [er2 jia1] {ji4 gaa1} /(adverb) right now; now; this moment/
-而已 而已 [er2 yi3] {ji4 ji5} / That's it!/
+耆英 耆英 [qi2 ying1] {kei4 jing1} /personnes âgées/
+而係 而系 [er2 xi4] {ji4 hai6} /... mais plutôt/
+而家 而家 [er2 jia1] {ji4 gaa1} /maintenant; en ce moment; à cette heure/de nos jours/
+而已 而已 [er2 yi3] {ji4 ji5} /c'est juste...; ...c'est tout/
 耍 耍 [shua3] {saa2} /(verb) (disapproval)  To play and fool someone around/
 耍功夫 耍功夫 [shua3 gong1 fu5] {saa2 gung1 fu1} /to play Kung Fu/
 耍太極 耍太极 [shua3 Tai4 ji2] {saa2 taai3 gik6} /the slang for the act of pushing things around in order to avoid responsibility; literally: to play Tai Chi; buck passing/
-耍家 耍家 [shua3 jia1] {saa2 gaa1} /very skillful/
-耍手 耍手 [shua3 shou3] {saa2 sau2} /waving of hand as a gesture for "no" (spoken)/
-耍手擰頭 耍手拧头 [shua3 shou3 ning3 tou2] {saa2 sau2 ning6 tau4} /waving of hand and shaking of head sideways as a gesture for "no" (spoken)/
-耍把戲 耍把戏 [shua3 ba3 xi4] {saa2 baa2 hei3} /to play tricks/
-耍樂 耍乐 [shua3 le4] {saa2 lok6} /playing; having fun/
+耍家 耍家 [shua3 jia1] {saa2 gaa1} /doué; habile; adroit/
+????f 耍手 耍手 [shua3 shou3] {saa2 sau2} /(geste de la main) non merci/
+????f 耍手擰頭 耍手拧头 [shua3 shou3 ning3 tou2] {saa2 sau2 ning6 tau4} /secouer la tête et faire un signe de main pour refuser/
+耍把戲 耍把戏 [shua3 ba3 xi4] {saa2 baa2 hei3} /jongler/jouer des tours à quelqu'un/
+耍樂 耍乐 [shua3 le4] {saa2 lok6} /s'amuser; rigoler/jouer (un jeu)/
 耍盲雞 耍盲鸡 [shua3 mang2 ji1] {saa2 maang4 gai1} /blind man's buff/
-耍笑 耍笑 [shua3 xiao4] {saa2 siu3} /joke; to make fun of; to play a joke on someone/
+耍笑 耍笑 [shua3 xiao4] {saa2 siu3} /plaisanter/jouer des tours à quelqu'un/taquiner quelqu'un/
 耍筆桿 耍笔杆 [shua3 bi3 gan3] {saa2 bat1 gon1} /wield a pen (used in a derogatory sense)/
-耍花槍 耍花枪 [shua3 hua1 qiang1] {saa2 faa1 coeng1} /describes the interaction between a couple where both parties demonstrate their love through harmless petty arguments/
-耐 耐 [nai4] {noi6} /(slang)  long duration of time/
-耐不耐 耐不耐 [nai4 bu4 nai4] {noi6 bat1 noi2} /every now and then; occasionally /
-耐中 耐中 [nai4 zhong1] {noi6 zung1} /as below/
-耐唔中 耐唔中 [nai4 n2 zhong1] {noi6 m4 zung1} /sometimes or once in a blue moon; occasionally/
-耐唔耐 耐唔耐 [nai4 n2 nai4] {noi6 m4 noi2} /occasionally; every now and then/
+耍花槍 耍花枪 [shua3 hua1 qiang1] {saa2 faa1 coeng1} /describes the interaction between a couple where both parties demonstrate their love through harmless petty arguments; argue for fun/
+耐 耐 [nai4] {noi6} /longtemps; longue période de temps/
+耐不耐 耐不耐 [nai4 bu4 nai4] {noi6 bat1 noi2} /de temps en temps; parfois/
+耐中 耐中 [nai4 zhong1] {noi6 zung1} /de temps en temps; parfois/
+耐唔中 耐唔中 [nai4 n2 zhong1] {noi6 m4 zung1} /de temps en temps; parfois/
+耐唔耐 耐唔耐 [nai4 n2 nai4] {noi6 m4 noi2} /de temps en temps; parfois/
 耐耐 耐耐 [nai4 nai4] {noi6 noi6} /long time; 'love love' (愛愛ngoi3 ngoi3) (this is a term derived from mandarin where耐耐 is used as愛愛)/
-耕田佬 耕田佬 [geng1 tian2 lao3] {gaang1 tin4 lou2} /peasant; farmer (spoken)/
+耕田佬 耕田佬 [geng1 tian2 lao3] {gaang1 tin4 lou2} /fermier; paysan/
 耖 耖 [chao4] {caau3, caau2} /harrow-like implement for pulverizing soil/
 耘田 耘田 [yun2 tian2] {wan4 tin4} /weeding the farmland; to get rid of the weeds/
 耥耙 耥耙 [tang1 ba4] {tong2 paa3} /A paddy-field harrow/
