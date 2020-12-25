@@ -1731,6 +1731,7 @@
 倒茶 倒茶 [dao4 cha2] {dou2 caa4} /servir du thé/
 倒褪 倒褪 [dao4 tun4] {dou3 tan3} /reculer/empirer/ne pas faire des choses en ordre/
 倒轉頭 倒转头 [dao4 zhuan3 tou2] {dou3 zyun2 tau4} /se retourner/inverser/à l'envers/au contraire/
+倒刺 倒刺 [dao4 ci4] {dou3 ci3} /envie; petite portion de peau près des ongles/
 倔 倔 [jue2] {gwat6} /obstiné; entêté/bourru/direct; brusque/
 倔尾龍 倔尾龙 [jue2 wei3 long2] {gwat6 mei5 lung4} /perturbateur/quelqu'un avec qui il est difficile de communiquer/
 倔強 倔强 [jue2 jiang4] {gwat6 koeng5} /rigide/
@@ -6679,7 +6680,7 @@
 實趯趯 实趯趯 [shi2 ti4 ti4] {sat6 dek3 dek3} /dur, solide/
 實食冇黐牙 实食冇黐牙 [shi2 shi2 mao3 chi1 ya2] {sat6 sik6 mou5 ci1 ngaa4} /(expr. idiom.) sentiment que tout ira comme prévue, que le résultat sera conforme aux attentes/(lit.) manger sans que l'aliment colle aux dents/
 實鼓實鑿 实鼓实凿 [shi2 gu3 shi2 zao2] {sat6 gu2 sat6 zok6} /pour de vrai, authentique/
-寧 宁 [ning2] {ning4} /préferer (une choix à une autre)/
+寧 宁 [ning2] {ning4} /préferer (un choix à un autre)/
 寧教人打仔，莫教人分妻 宁教人打仔，莫教人分妻 [ning2 jiao4 ren2 da3 zai3 , mo4 jiao4 ren2 fen1 qi1] {ning4 gaau3 jan4 daa2 zai2 mok6 gaau3 jan4 fan1 cai1} /enseigner aux autres de frapper leurs enfants plutôt que de divorcer/
 審判 审判 [shen3 pan4] {sam2 pun3} /verdict, jugement/juger, prononcer une sentence/
 審理 审理 [shen3 li3] {sam2 lei5} /examiner, interroger (droit)/
@@ -15348,6 +15349,7 @@
 第二度 第二度 [di4 er4 du4] {dai6 ji6 dou6} /ailleurs; autre part; un autre endroit/
 第二樣 第二样 [di4 er4 yang4] {dai6 ji6 joeng6} /une autre sorte; un autre genre; un autre type/autre; différent/
 第二處 第二处 [di4 er4 chu3] {dai6 ji6 cyu2} /ailleurs; autre part; un autre endroit/
+第二日 第二日 [di4 er4 ri4] {dai6 ji6 jat6} /une autre fois; une autre occasion; la prochaine fois/le lendemain; le jour suivant/plus tard/à l'avenir/le deuxième jour/
 第五肢 第五肢 [di4 wu3 zhi1] {dai6 ng5 zi1} /(fam.) pénis/(lit.) cinquième extrémité/
 第個 第个 [di4 ge4] {dai6 go3} /un autre; une autre/
 第八 第八 [di4 ba1] {dai6 baat3} /huitième/le huitième/
@@ -15357,7 +15359,7 @@
 第四 第四 [di4 si4] {dai6 sei3} /quatrième/le quatrième/
 第尾 第尾 [di4 wei3] {dai6 mei1} /dernière place/
 第度 第度 [di4 du4] {dai6 dou6} /ailleurs; autre part; un autre endroit/
-第日 第日 [di4 ri4] {dai6 jat6} /prochaine fois/à l'avenir/plus tard/
+第日 第日 [di4 ri4] {dai6 jat6} /une autre fois; une autre occasion; la prochaine fois/le lendemain; le jour suivant/plus tard/à l'avenir/le deuxième jour/
 第時 第时 [di4 shi2] {dai6 si4} /prochaine fois/à l'avenir/plus tard/
 第樣 第样 [di4 yang4] {dai6 joeng6, dai6 joeng2} /une autre sorte; un autre genre; un autre type/autre; différent/
 第次 第次 [di4 ci4] {dai6 ci3} /prochaine fois/
@@ -16323,68 +16325,69 @@
 聯群結隊 联群结队 [lian2 qun2 jie2 dui4] {lyun4 kwan4 git3 deoi6} /en troupe; dans une foule; en masse; en grand nombre/
 聯針 联针 [lian2 zhen1] {lyun4 zam1} /(médecine) suturer; recoudre/
 聰明一世，蠢鈍一時 聪明一世，蠢钝一时 [cong1 ming5 yi1 shi4 , chun3 dun4 yi1 shi2] {cung1 ming4 jat1 sai3 ceon2 deon6 jat1 si4} /(expr. idiom.) il n’y a si bon cheval qui ne bronche; tout le monde peut se tromper/(lit.) intelligent toute sa vie, stupide pour un moment/
-聲 声 [sheng1] {sing1} /(noun) 1. reputation; (verb) 1. state; 2. announce; 3. declare/
-聲勢浩大 声势浩大 [sheng1 shi4 hao4 da4] {sing1 sai3 hou6 daai6} /an impressive display of power/
-聲喉 声喉 [sheng1 hou2] {sing1 hau4} /voice/
-聲大夾冇準 声大夹冇准 [sheng1 da4 jia1 mao3 zhun3] {seng1 daai6 gaap3 mou5 zeon2} /Describes a person who speaks loudly (normally in an argument) but does not really have a point; full of hot air/
-聲大夾惡 声大夹恶 [sheng1 da4 jia1 e4] {sing1 daai6 gaap3 ngok3} /shout loudly and sound rude (spoken)/
-聲望 声望 [sheng1 wang4] {sing1 mong6} /(noun)  Reputation /
-聲氣 声气 [sheng1 qi4] {seng1 hei3} /(noun) 1. response; 2. news/
-聲沙 声沙 [sheng1 sha1] {seng1 saa1} /hoarse voice/
-聲線 声线 [sheng1 xian4] {seng1 sin3} /tone of voice/
-聲能 声能 [sheng1 neng2] {sing1 nang4} /acoustic energy; sound energy/
-聲色 声色 [sheng1 se4] {sing1 sik1} /voice and countenance; woman and song/
-聲色俱厲 声色俱厉 [sheng1 se4 ju4 li4] {sing1 sik1 keoi1 lai6} /to be fierce both in look and voice; to be harsh in tone and severe in expression; fulminate/
-聳入雲霄 耸入云霄 [song3 ru4 yun2 xiao1] {sung2 jap6 wan4 siu1} /go through the clouds; to describe a very tall mountain or a building/
-聳聽 耸听 [song3 ting1] {sung2 ting3} /to urge someone to listen/
-職別 职别 [zhi2 bie2] {zik1 bit6} /Job title/
-職官 职官 [zhi2 guan1] {zik1 gun1} /Official/
-職權 职权 [zhi2quan2] {zik1 kyun4} /(noun) Authority of work position/
-職權範圍 职权范围 [zhi2 quan2 fan4 wei2] {zik1 kyun4 faan6 wai4} /Terms of Reference/
-聽價唔聽斗 听价唔听斗 [ting1 jia4 n2 ting1 dou4] {teng1 gaa3 m4 teng1 dau2} /just listen to the brief idea but without knowing the intrinsic detail/
-聽出耳油 听出耳油 [ting1 chu1 er3 you2] {teng1 ceot1 ji5 jau4} /to describe something (e.g. music, stories) that is charming and pleasing to the ears/
-聽唔明 听唔明 [ting1 n2 ming2] {teng1 m4 ming4} /cannot understand/
-聽尼士 听尼士 [ting1 ni2 shi4] {ting1 nei4 si6} /tennis (dialect)/
-聽差 听差 [ting1 chai1] {ting1 caai1} /attendant; footman; servant/
-聽教 听教 [ting1 jiao4] {ting1 gaau3} /obedient (spoken)/
-聽教聽話 听教听话 [ting1 jiao4 ting1 hua4] {teng1 gaau3 teng1 waa6} /good learner; obedient; well-behaved/
-聽日 听日 [ting1 ri4] {ting1 jat6} /(noun / adverb) tomorrow/
-聽早 听早 [ting1 zao3] {ting1 zou2} /tomorrow morning/
-聽晚 听晚 [ting1 wan3] {ting1 maan5, maan1} /tomorrow night/
+聲 声 [sheng1] {sing1} /son; bruit/voix/ton/réputation/dire; annoncer; affirmer; prétendre; déclarer; proclamer/
+????f 聲勢浩大 声势浩大 [sheng1 shi4 hao4 da4] {sing1 sai3 hou6 daai6} /(expr.) démonstration de force impressionnante; majestueux et imposant (is démonstration de force too militaristic?)/
+聲喉 声喉 [sheng1 hou2] {sing1 hau4} /voix/
+聲大夾冇準 声大夹冇准 [sheng1 da4 jia1 mao3 zhun3] {seng1 daai6 gaap3 mou5 zeon2} /(expr.) parler fort mais ne dire que des bêtises/(lit.) gros bruit qui ne contient rien de bien/
+聲大夾惡 声大夹恶 [sheng1 da4 jia1 e4] {seng1 daai6 gaap3 ngok3} /(expr.) parler fort et d'une manière hostile/
+聲望 声望 [sheng1 wang4] {sing1 mong6} /renommée; prestige/
+聲氣 声气 [sheng1 qi4] {seng1 hei3} /réponse; nouvelles; information/voix/
+聲沙 声沙 [sheng1 sha1] {seng1 saa1} /voix rauque; voix éraillée/
+聲線 声线 [sheng1 xian4] {seng1 sin3} /(musique) voix/timbre de la voix/ton de la voix/
+聲能 声能 [sheng1 neng2] {sing1 nang4} /énergie acoustique; énergie des ondes sonores/
+聲色 声色 [sheng1 se4] {sing1 sik1} /voix et contenance/(litt.) les femmes et la musique/(litt.) plaisirs sensuels; débauche/
+????f 聲色俱厲 声色俱厉 [sheng1 se4 ju4 li4] {sing1 sik1 keoi1 lai6} /(expr.) parler sur un ton sec et avoir un air sévère/
+聳入雲霄 耸入云霄 [song3 ru4 yun2 xiao1] {sung2 jap6 wan4 siu1} /(expr.) (d'un grand bâtiment) toucher le ciel/
+聳聽 耸听 [song3 ting1] {sung2 ting3} /dramatiser; exagérer/
+????c 職別 职别 [zhi2 bie2] {zik1 bit6} /Job title, rank/
+職官 职官 [zhi2 guan1] {zik1 gun1} /fonctionnaire/
+????f 職權 职权 [zhi2quan2] {zik1 kyun4} /(noun) Authority of work position; power of the office (e.g. power of the office of the president); one's authority (conferred by their job)/
+????c 職權範圍 职权范围 [zhi2 quan2 fan4 wei2] {zik1 kyun4 faan6 wai4} /Terms of Reference/
+????c 聽價唔聽斗 听价唔听斗 [ting1 jia4 n2 ting1 dou4] {teng1 gaa3 m4 teng1 dau2} /just listen to the brief idea but without knowing the intrinsic detail/
+聽出耳油 听出耳油 [ting1 chu1 er3 you2] {teng1 ceot1 ji5 jau4} /(expr. idiom.) mélodieux; doux à l'oreille/(lit.) l'huile coule des oreilles/
+聽唔明 听唔明 [ting1 n2 ming2] {teng1 m4 ming4} /incapable de comprendre/
+聽尼士 听尼士 [ting1 ni2 shi4] {ting1 nei4 si6} /(rare) (vieilli) tennis/
+聽差 听差 [ting1 chai1] {ting1 caai1} /(vieilli) domestique; majordome; employé de maison/
+聽教 听教 [ting1 jiao4] {teng1 gaau3} /obéir/obéissant; sage/apprendre ce qui est enseigné/
+聽教聽話 听教听话 [ting1 jiao4 ting1 hua4] {teng1 gaau3 teng1 waa6} /(expr.) obéissant; sage/(lit.) écouter ce qui est enseigné et écouter ce qui est dit/
+聽日 听日 [ting1 ri4] {ting1 jat6} /demain/
+聽早 听早 [ting1 zao3] {ting1 zou2} /demain matin/
+聽晚 听晚 [ting1 wan3] {ting1 maan5, ting1 maan1} /demain soir/
+聽晚 听晚 [ting1 wan3] {ting1 maan1, ting1 maan5} /demain soir/
 聽暇 听暇 [ting1 xia2] {ting1 haa6} /in a while; in case (spoken)/
-聽朝 听朝 [ting1 chao2] {ting1 ziu1} /tomorrow morning/
-聽朝早 听朝早 [ting1 chao2 zao3] {ting1 ciu4 zou2} /tomorrow morning (spoken)/
-聽死 听死 [ting1 si3] {teng1 sei2} /waiting for death; to get into trouble/
-聽聞 听闻 [ting1 wen2] {ting1 man4} /learnt or heard from a secondary source/
-聽落有骨 听落有骨 [ting1 luo4 you3 gu3] {teng1 lok6 jau5 gwat1} /there is some hidden message/
+聽朝 听朝 [ting1 chao2] {ting1 ziu1} /demain matin/
+聽朝早 听朝早 [ting1 chao2 zao3] {ting1 ciu4 zou2} /demain matin/
+聽死 听死 [ting1 si3] {teng1 sei2} /attendre la mort/(fig.) chercher des ennuis/
+聽聞 听闻 [ting1 wen2] {ting1 man4} /entendre dire que...; avoir vent de/
+????c 聽落有骨 听落有骨 [ting1 luo4 you3 gu3] {teng1 lok6 jau5 gwat1} /there is some hidden message/
 聽診 听诊 [ting1 zhen3] {teng1 can2} /to auscultate/
-聽説 听说 [ting1 shuo1] {ting1 syut3} /heard that/
-聽講 听讲 [ting1 jiang3] {teng1 gong2} /to hear from secondary source/
-聽講話 听讲话 [ting1 jiang3 hua4] {ting3 gong2 waa2} /heard that (spoken)/
-聽過隔籬 听过隔篱 [ting1 guo4 ge2 li2] {teng1 gwo3 gaak3 lei4} /misheard/
-聽電話 听电话 [ting1 dian4 hua4] {teng1 din6 waa2} /to pick up a call; to talk on the phone/
-聽音樂 听音乐 [ting1 yin1 yue4] {teng1 jam1 ngok6} /Listen to music/
-肉乾 肉干 [rou4 gan1] {juk6 gon1} /Jerky; dried meat/
-肉俎砧板上 肉俎砧板上 [rou4 zu3 zhen1 ban3 shang4] {juk6 zo2 zam1 baan2 soeng6} /(literally: flesh on the chopping board); to be forced into an undesirable action; to have no choice or way out; to have no choice but to allow others to manipulate and humiliate oneself /
-肉刺 肉刺 [rou4 ci4] {juk6 cek3, ci3} //
-肉參 肉参 [rou4 shen1] {juk6 sam1} /a hostage/
-肉店 肉店 [rou4 dian4] {juk6 dim3} /Butcher's shop/
-肉彈 肉弹 [rou4 dan4] {juk6 daan6} /sex-bomb (spoken)/
+聽説 听说 [ting1 shuo1] {ting1 syut3} /entendre dire que...; avoir vent de/
+聽講 听讲 [ting1 jiang3] {teng1 gong2} /entendre dire que...; avoir vent de/
+聽講話 听讲话 [ting1 jiang3 hua4] {ting3 gong2 waa2} /entendre dire que...; avoir vent de/
+聽過隔籬 听过隔篱 [ting1 guo4 ge2 li2] {teng1 gwo3 gaak3 lei4} /(expr.) malentendre; mal entendre; entendre de travers/(lit.) entendre par le côté/
+聽電話 听电话 [ting1 dian4 hua4] {teng1 din6 waa2} /(fig.) décrocher; répondre au téléphone/(fig.) parler au téléphone/(lit.) écouter le téléphone/
+聽音樂 听音乐 [ting1 yin1 yue4] {teng1 jam1 ngok6} /écouter la musique/
+肉乾 肉干 [rou4 gan1] {juk6 gon1} /viande séchée/
+肉俎砧板上 肉俎砧板上 [rou4 zu3 zhen1 ban3 shang4] {juk6 zo2 zam1 baan2 soeng6} /(expr. idiom.) ne pas avoir le choix; être sans issue/(lit.) comme un morceau de viande sur la planche à découper/
+????c 肉刺 肉刺 [rou4 ci4] {juk6 cek3, juk6 ci3} /envie; petite portion de peau près des ongles/(heartache; distress?; person? thorn in one's side)/
+肉參 肉参 [rou4 shen1] {juk6 sam1} /otage/
+肉店 肉店 [rou4 dian4] {juk6 dim3} /boucherie/
+肉彈 肉弹 [rou4 dan4] {juk6 daan2} /(fam.) femme attirante; femme canon/(fam.) (d'une femme) avoir une taille de guêpe; ligne superbe; belles formes/(lit.) bombe de chair/
 肉搏 肉搏 [rou4 bo2] {juk6 bok3} /close combat; fight hand-to-hand (spoken)/
-肉檔 肉档 [rou4 dang4] {juk6 dong3} /butcher stall/
+????f 肉檔 肉档 [rou4 dang4] {juk6 dong3} /étal de boucher/
 肉滑 肉滑 [rou4 hua2] {juk6 waat6} /Marinated minced meat; if used in 皮光肉滑:smooth skin/
 肉痛 肉痛 [rou4 tong4] {juk6 tung3} /feeling "painful"; normally used to describe the painful feeling of losing something (especially money or property)/
 肉眼牛扒 肉眼牛扒 [rou4 yan3 niu2 pa2] {juk6 ngaan5 ngau4 paa2} /rib-eye steak/
-肉碎 肉碎 [rou4 sui4] {juk6 seoi3} /Minced meat/
-肉粒 肉粒 [rou4 li4] {juk6 lap1} /diced meat/
+肉碎 肉碎 [rou4 sui4] {juk6 seoi3} /hachis de viande; viande hachée/
+????c 肉粒 肉粒 [rou4 li4] {juk6 lap1} /diced meat/
 肉絲炒麵 肉丝炒面 [rou4 si1 chao3 mian4] {juk6 si1 caau2 min6} /shredded pork chow mein (fried noddles)/
 肉緊 肉紧 [rou4 jin3] {juk6 gan2} /(slang) to feel nervous about something; keyed up; to be very involved; to worry about; to feel anxious about; to care a lot about something; to be very concerned about something /
 肉色 肉色 [rou4 se4] {juk6 sik1} /nude colour/
 肉蟹 肉蟹 [rou4 xie4] {juk6 haai5} /mud crab/
 肉赤 肉赤 [rou4 chi4] {juk6 cek3} /(adjective) to be at loath to do something; heartache; distressed; to be averse to wasting or losing something, usually refering to money/
 肉酸 肉酸 [rou4 suan1] {juk6 syun1} /(adjective) ugly; hideous; embarrassing/
-肉金 肉金 [rou4 jin1] {juk6 gam1} /ransom/
-肉隨砧板上 肉随砧板上 [rou4 sui2 zhen1 ban3 shang4] {juk6 ceoi4 zam1 baan2 soeng6} /No choice but to allow others to manipulate and humiliate oneself/
+肉金 肉金 [rou4 jin1] {juk6 gam1} /rançon/
+肉隨砧板上 肉随砧板上 [rou4 sui2 zhen1 ban3 shang4] {juk6 ceoi4 zam1 baan2 soeng6} /(expr. idiom.) ne pas avoir le choix; être sans issue/(lit.) comme un morceau de viande sur la planche à découper/
 肉骨茶 肉骨茶 [rou4 gu3 cha2] {juk6 gwat1 caa4} /Chinese herbal soup of meaty pork ribs with herbs and spices; bak kut teh"/
 肉麻 肉麻 [rou4 ma2] {juk6 maa4} /mushy; over sentimental or affectionate in a cliched manner/
 肌肉 肌肉 [ji1 rou4] {gei1 juk6} /(adjective)  muscular/
