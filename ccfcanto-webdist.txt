@@ -16354,13 +16354,13 @@
 聽早 听早 [ting1 zao3] {ting1 zou2} /demain matin/
 聽晚 听晚 [ting1 wan3] {ting1 maan5, ting1 maan1} /demain soir/
 聽晚 听晚 [ting1 wan3] {ting1 maan1, ting1 maan5} /demain soir/
-聽暇 听暇 [ting1 xia2] {ting1 haa6} /in a while; in case (spoken)/
+聽暇 听暇 [ting1 xia2] {ting1 haa6} /dans un instant; dans un moment/au cas où/si jamais/
 聽朝 听朝 [ting1 chao2] {ting1 ziu1} /demain matin/
 聽朝早 听朝早 [ting1 chao2 zao3] {ting1 ciu4 zou2} /demain matin/
 聽死 听死 [ting1 si3] {teng1 sei2} /attendre la mort/(fig.) chercher des ennuis/
 聽聞 听闻 [ting1 wen2] {ting1 man4} /entendre dire que...; avoir vent de/
-????c 聽落有骨 听落有骨 [ting1 luo4 you3 gu3] {teng1 lok6 jau5 gwat1} /there is some hidden message/
-聽診 听诊 [ting1 zhen3] {teng1 can2} /to auscultate/
+聽落有骨 听落有骨 [ting1 luo4 you3 gu3] {teng1 lok6 jau5 gwat1} /(expr. idiom.) lire entre les lignes; voir un sens caché/(lit.) avoir des os dans ce qu l'on entend/
+聽診 听诊 [ting1 zhen3] {teng1 can2} /ausculter; écouter les bruits produits par le cœur ou autres organes d'un patient/
 聽説 听说 [ting1 shuo1] {ting1 syut3} /entendre dire que...; avoir vent de/
 聽講 听讲 [ting1 jiang3] {teng1 gong2} /entendre dire que...; avoir vent de/
 聽講話 听讲话 [ting1 jiang3 hua4] {ting3 gong2 waa2} /entendre dire que...; avoir vent de/
@@ -16373,56 +16373,56 @@
 肉參 肉参 [rou4 shen1] {juk6 sam1} /otage/
 肉店 肉店 [rou4 dian4] {juk6 dim3} /boucherie/
 肉彈 肉弹 [rou4 dan4] {juk6 daan2} /(fam.) femme attirante; femme canon/(fam.) (d'une femme) avoir une taille de guêpe; ligne superbe; belles formes/(lit.) bombe de chair/
-肉搏 肉搏 [rou4 bo2] {juk6 bok3} /close combat; fight hand-to-hand (spoken)/
+肉搏 肉搏 [rou4 bo2] {juk6 bok3} /combattre corps-à-corps/
 ????f 肉檔 肉档 [rou4 dang4] {juk6 dong3} /étal de boucher/
-肉滑 肉滑 [rou4 hua2] {juk6 waat6} /Marinated minced meat; if used in 皮光肉滑:smooth skin/
-肉痛 肉痛 [rou4 tong4] {juk6 tung3} /feeling "painful"; normally used to describe the painful feeling of losing something (especially money or property)/
-肉眼牛扒 肉眼牛扒 [rou4 yan3 niu2 pa2] {juk6 ngaan5 ngau4 paa2} /rib-eye steak/
+肉滑 肉滑 [rou4 hua2] {juk6 waat6} /viande hachée marinée/(dans l'expression 皮光肉滑|皮光肉滑) peau lisse; peau douce/
+肉痛 肉痛 [rou4 tong4] {juk6 tung3} /réticent (à faire quelque chose)/peiner; faire mal; faire de la peine; attrister/(note d'usage: cette expression s'emploie généralement pour une situation où quelqu'un doit dépenser de l'argent ou se séparer d'un objet de valeur/
+肉眼牛扒 肉眼牛扒 [rou4 yan3 niu2 pa2] {juk6 ngaan5 ngau4 paa2} /entrecôte/faux-filet/
 肉碎 肉碎 [rou4 sui4] {juk6 seoi3} /hachis de viande; viande hachée/
-????c 肉粒 肉粒 [rou4 li4] {juk6 lap1} /diced meat/
-肉絲炒麵 肉丝炒面 [rou4 si1 chao3 mian4] {juk6 si1 caau2 min6} /shredded pork chow mein (fried noddles)/
-肉緊 肉紧 [rou4 jin3] {juk6 gan2} /(slang) to feel nervous about something; keyed up; to be very involved; to worry about; to feel anxious about; to care a lot about something; to be very concerned about something /
-肉色 肉色 [rou4 se4] {juk6 sik1} /nude colour/
-肉蟹 肉蟹 [rou4 xie4] {juk6 haai5} /mud crab/
-肉赤 肉赤 [rou4 chi4] {juk6 cek3} /(adjective) to be at loath to do something; heartache; distressed; to be averse to wasting or losing something, usually refering to money/
-肉酸 肉酸 [rou4 suan1] {juk6 syun1} /(adjective) ugly; hideous; embarrassing/
+肉粒 肉粒 [rou4 li4] {juk6 lap1} /viande en dés; viande en cubes/acrochordon; molluscum pendulum; polype fibroépithélial; tétine/
+????f 肉絲炒麵 肉丝炒面 [rou4 si1 chao3 mian4] {juk6 si1 caau2 min6} /chow mein au bœuf en lanières/
+肉緊 肉紧 [rou4 jin3] {juk6 gan2} /être très préoccupé par; se soucier beaucoup de/très impatient; très excité; très enthousiaste/
+肉色 肉色 [rou4 se4] {juk6 sik1} /couleur pêche; couleur chair/
+肉蟹 肉蟹 [rou4 xie4] {juk6 haai5} /Scylla serrata; crabe des palétuviers; crabe de mangrove/
+肉赤 肉赤 [rou4 chi4] {juk6 cek3} /réticent (à faire quelque chose)/peiner; faire mal; faire de la peine; attrister/(note d'usage: cette expression s'emploie généralement pour une situation où quelqu'un doit dépenser de l'argent ou se séparer d'un objet de valeur/(lit.) faire mal à la chair/
+肉酸 肉酸 [rou4 suan1] {juk6 syun1} /(apparence physique) laid; hideux; affreux; épouvantable/(odeur) infect; mauvais; terrible/
 肉金 肉金 [rou4 jin1] {juk6 gam1} /rançon/
 肉隨砧板上 肉随砧板上 [rou4 sui2 zhen1 ban3 shang4] {juk6 ceoi4 zam1 baan2 soeng6} /(expr. idiom.) ne pas avoir le choix; être sans issue/(lit.) comme un morceau de viande sur la planche à découper/
-肉骨茶 肉骨茶 [rou4 gu3 cha2] {juk6 gwat1 caa4} /Chinese herbal soup of meaty pork ribs with herbs and spices; bak kut teh"/
-肉麻 肉麻 [rou4 ma2] {juk6 maa4} /mushy; over sentimental or affectionate in a cliched manner/
-肌肉 肌肉 [ji1 rou4] {gei1 juk6} /(adjective)  muscular/
-肚屙 肚屙 [du4 e1] {tou5 o1} /(noun) diarrhoea/
-肚瀉 肚泻 [du4 xie4] {tou5 se3} /diarrhea/
-肚皮打鼓 肚皮打鼓 [du4 pi2 da3 gu3] {tou5 pei4 daa2 gu2} /growling and hungry stomach (spoken)/
-肚䏙 肚䏙 [du4 tan3] {tou5 dam1} /belly; abdomen/
-肚腍 肚腍 [du4 ren3] {tou5 nam4} /belly/
-肚餓 肚饿 [du4 e4] {tou5 ngo6} /(adjective) hungry;/
-股神 股神 [gu3 shen2] {gu2 san4} /a title given to successful investors; "the God of investing in stocks"/
-肢體語言 肢体语言 [zhi1 ti3 yu3 yan2] {zi1 tai2 jyu5 jin4} /Body Language/
-肥仔 肥仔 [fei2 zi3] {fei4 zai2} /fatty; fatso; a fat boy/
-肥仔嘜 肥仔唛 [fei2 zi3 ma4] {fei4 zai2 mak1} /fatso/
-肥仔水 肥仔水 [fei2 zi3 shui3] {fei4 zai2 seoi2} /Gripe Water/
-肥仔米 肥仔米 [fei2 zi3 mi3] {fei4 zai2 mai5} /japonica rice/
-肥佬 肥佬 [fei2 lao3] {fei4 lou2} /fatty; fatso; to fail in an exam /
-肥揗揗 肥揗揗 [fei2 shun3 shun3] {fei4 tan4 tan4} /very fat / chubby/
-肥田料 肥田料 [fei2 tian2 liao4] {fei4 tin4 liu2} /fertilizer/
-肥膏 肥膏 [fei2 gao1] {fei4 gou1} /fat/
-肥豚豚 肥豚豚 [fei2 tun2 tun2] {fei4 tan4 tan4} /fatty; greasy/
-肥頭耷耳 肥头耷耳 [fei2 tou2 da1 er3] {fei4 tau4 dap1 ji5} /chubby; robust and prosperous; plump/
-肩胛 肩胛 [jian1 jia3] {gin1 gaap3} /Shoulder/
-肩負重任 肩负重任 [jian1 fu4 zhong4 ren4] {gin1 fu6 zung6 jam6} /Heavy responsibility/
-肯制 肯制 [ken3 zhi4] {hang2 zai3} /agree; to give approval/
-肯雅 肯雅 [ken3 ya3] {hang2 ngaa5} /Kenya/
-育才 育才 [yu4 cai2] {juk6 coi4} /To educate and foster talents/
-肺動脈 肺动脉 [fei4 dong4 mai4] {fai3 dung6 mak6} /pulmonary artery/
-肺臟 肺脏 [fei4 zang4] {fai3 zong6} /Lung/
-肺講嘢 肺讲嘢 [fei4 jiang3 ye3] {fai3 gong2 je5} /to talk nonsense/
-肺靜脈 肺静脉 [fei4 jing4 mai4] {fai3 zing6 mak6} /Pulmonary vein/
-胃潰瘍 胃溃疡 [wei4 kui4 yang2] {wai6 kui2 joeng4} /peptic ulcer; stomach ulcer/
-胃火 胃火 [wei4 huo3] {wai6 fo2} /The stomach's ability to digest; appetite/
-胈 胈 [ba2] {bat6} /The fine hair on body, especially on calves and arms/
-背手 背手 [bei4 shou3] {bui3 sau2} /hands behind one's back; items of bribery/
-背手影 背手影 [bei4 shou3 ying3] {bui3 sau2 jing2} /to be in poor light; to do something with one's back to the light; to stand in one's own light/
+肉骨茶 肉骨茶 [rou4 gu3 cha2] {juk6 gwat1 caa4} /bak kut teh, soupe chinoise/
+肉麻 肉麻 [rou4 ma2] {juk6 maa4} /nauséabond; écœurant/trop sentimental; mièvre/obséquieux/
+肌肉 肌肉 [ji1 rou4] {gei1 juk6} /muscle/musculaire; relatif aux muscles/
+肚屙 肚屙 [du4 e1] {tou5 o1} /diarrhée/avoir la diarhée/
+肚瀉 肚泻 [du4 xie4] {tou5 se3} /diarrhée/
+肚皮打鼓 肚皮打鼓 [du4 pi2 da3 gu3] {tou5 pei4 daa2 gu2} /(expr. idiom.) avoir très faim; être affamé/(lit.) avoir l'estomac qui tambourine/
+肚䏙 肚䏙 [du4 tan3] {tou5 dam1} /(des bébés ou de jeunes enfants) ventre/
+肚腍 肚腍 [du4 ren3] {tou5 nam4} /inconfort intestinal; avoir un mal d'estomac/
+肚餓 肚饿 [du4 e4] {tou5 ngo6} /avoir faim/
+股神 股神 [gu3 shen2] {gu2 san4} /gourou des investissements; investisseur prospère/(lit.) dieu des investissements/
+肢體語言 肢体语言 [zhi1 ti3 yu3 yan2] {zi1 tai2 jyu5 jin4} /langage du corps/
+肥仔 肥仔 [fei2 zi3] {fei4 zai2} /(personne) (affectueux) (fam.) gros, grosse; petit gros, petite grosse/
+肥仔嘜 肥仔唛 [fei2 zi3 ma4] {fei4 zai2 mak1} /(affectueux) (fam.) (personne de sexe masculin) gros; petit gros/
+????f 肥仔水 肥仔水 [fei2 zi3 shui3] {fei4 zai2 seoi2} /Gripe Water/
+肥仔米 肥仔米 [fei2 zi3 mi3] {fei4 zai2 mai5} /riz rond; riz japonica/
+肥佬 肥佬 [fei2 lao3] {fei4 lou2} /rater; échouer à (un examen)/(personne de sexe masculin) gros; petit gros/(orig.) de l'anglais « fail » (échouer, rater)/
+肥揗揗 肥揗揗 [fei2 shun3 shun3] {fei4 tan4 tan4} /(personne) gros; obèse; corpulent/(aliment) gras/
+肥田料 肥田料 [fei2 tian2 liao4] {fei4 tin4 liu2} /engrais; fertilisant/
+肥膏 肥膏 [fei2 gao1] {fei4 gou1} /graisse; graisse corporelle/gras; matières grasses/
+肥豚豚 肥豚豚 [fei2 tun2 tun2] {fei4 tan4 tan4} /(personne) gros; obèse; corpulent/(aliment) gras/
+肥頭耷耳 肥头耷耳 [fei2 tou2 da1 er3] {fei4 tau4 dap1 ji5} /(expr. idiom.) (inj.) gros; obèse; corpulent/(expr. idiom.) (inj.) imbécile; personne stupide; con; connard/(lit.) avoir une grosse tête et des oreilles tombantes (=avoir l'air d'un cochon)/
+肩胛 肩胛 [jian1 jia3] {gin1 gaap3} /épaules/
+肩負重任 肩负重任 [jian1 fu4 zhong4 ren4] {gin1 fu6 zung6 jam6} /(expr.) grande responsabilité; lourde responsabilité/
+肯制 肯制 [ken3 zhi4] {hang2 zai3} /donner son accord; approuver/
+肯雅 肯雅 [ken3 ya3] {hang2 ngaa5} /Kenya, pays d'Afrique de l'Est/
+????f 育才 育才 [yu4 cai2] {juk6 coi4} /éduquer et former les personnes talentueuses; développer les talents des personnes douées/
+肺動脈 肺动脉 [fei4 dong4 mai4] {fai3 dung6 mak6} /artère pulmonaire/
+肺臟 肺脏 [fei4 zang4] {fai3 zong6} /poumon/
+肺講嘢 肺讲嘢 [fei4 jiang3 ye3] {fai3 gong2 je5} /dire n'importe quoi; dire des bêtises/
+肺靜脈 肺静脉 [fei4 jing4 mai4] {fai3 zing6 mak6} /veine pulmonaire/
+胃潰瘍 胃溃疡 [wei4 kui4 yang2] {wai6 kui2 joeng4} /ulcère gastro-duodénal; ulcère de l'estomac/
+????c 胃火 胃火 [wei4 huo3] {wai6 fo2} /(médecine traditionelle chinoise) The stomach's ability to digest; appetite/
+????c 胈 胈 [ba2] {bat6} /The fine hair on body, especially on calves and arms/
+背手 背手 [bei4 shou3] {bui3 sau2} /mettre les mains dans le dos/pot-de-vin; dessous-de-table; bakchich/
+????c 背手影 背手影 [bei4 shou3 ying3] {bui3 sau2 jing2} /to be in poor light; to do something with one's back to the light; to stand in one's own light/
 背時 背时 [bei4 shi2] {bui6 si4} /Unlucky; be out of luck; behind the times/
 背泳 背泳 [bei4 yong3] {bui3 wing6} /backstroke/
 背脊骨 背脊骨 [bei4 ji3 gu3] {bui3 zek3 gwat1} /spine; backbone/
@@ -21503,7 +21503,7 @@
 首本 首本 [shou3 ben3] {sau2 bun2} /the most representative and the best work of someone (ususally refers to that of a performer such as the best song o a singer or best film of an actor)/
 首烏 首乌 [shou3 wu1] {sau2 wu1} /Chinese Knotweed / fleece-flower root (Fallopia multiflora), a type of plant commonly used for traditional Chinese medicine/
 首當其衝 首当其冲 [shou3dang1qi2chong1] {sau2 dong1 kei4 cung1} /(idiom) The first to get hit (in a battle etc.) /
-首肯 首肯 [shou3 ken3] {sau2 hang2} /consent; approval/
+首肯 首肯 [shou3 ken3] {sau2 hang2} /donner son accord; approuver/
 首被告 首被告 [shou3 bei4 gao4] {sau2 bei6 gou3} /the first defendant/
 香 香 [xiang1] {hoeng1} /(slang) 1. passed away; 2. departed/
 香主 香主 [xiang1 zhu3] {hoeng1 zyu2} /incense master; a senior rank in a gang/
