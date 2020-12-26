@@ -2592,6 +2592,7 @@
 凱旋歸來 凯旋归来 [kai3 xuan2 gui1 lai2] {hoi2 syun4 gwai1 loi4} /rentrer victorieux/
 凱風 凯风 [kai3 feng1] {hoi2 fung1} /une partie de la chansonnière «Book of Songs» de la Chine antique/
 凳仔 凳仔 [deng4 zi3] {dang3 zai2} /tabouret/
+凸 凸 [tu1] {dat6} /faire saillie/
 凸字 凸字 [tu2 zi4] {dat6 zi6} /braille/
 凸眼 凸眼 [tu2 yan3] {dat6 ngaan5} /exophtalmie, une extrusion antérieure de l'œil hors de l'orbite/yeux grands ouverts, aux yeux écarquillés (de surprise)/
 凹位 凹位 [ao1 wei4] {nap1 wai2} /sillon/
@@ -16473,55 +16474,55 @@
 脫位 脱位 [tuo1 wei4] {tyut3 wai6} /luxation; déboîtement/luxer/
 脫戲 脫戏 [tuo1 xi4] {tyut3 hei3} /film avec un scène de nu/
 脫星 脱星 [tuo1 xing1] {tyut3 sing1} /pornstar; star du porno/
-脫牙 脫牙 [tuo1 ya2] {tyut3 ngaa4} /teeth extraction/
-脫節 脱节 [tuo1jie2] {tyut3 zit3} /(adjective) Out-fashioned/
-脫離實際 脱离实际 [tuo1 li2 shi2 ji4] {tyut3 lei4 sat6 zai3} /lose contact with reality/
-脫離關係 脱离关系 [tuo1 li2 guan1 xi5] {tyut3 lei4 gwaan1 hai6} /to disown; to break off all relations with someone; to cut ties/
-脫墨 脫墨 [tuo1 mo4] {tyut3 mak2} /removal of a mole/
-脷苔 脷苔 [li4 tai2] {lei6 toi4} /tongue coating/
-脹卜卜 胀卜卜 [zhang4 bu3 bu3] {zoeng3 buk1 buk1} /bulging/
-脹泵泵 胀泵泵 [zhang4 beng4 beng4] {zoeng3 bam1 bam1} /pumped up; filled with air (spoken)/
-脾性 脾性 [pi2 xing4] {pei4 sing3} /Temperament/
-脾氣 脾气 [pi2 qi5] {pei4 hei3} /temper/
-腌尖 腌尖 [yan1 jian1] {jim1 zim1} /(slang) (adjective) picky; fastidious; fussy; choosy/
-腌尖腥悶 腌尖腥闷 [yan1 jian1 xing1 men4] {jim1 zim1 seng1 mun6} /moaning and picky (spoken)/
-腌悶 腌闷 [yan1 men4] {jim1 mun6} /boring; dreary/
-腌魚 腌鱼 [yan1 yu2] {jip3 jyu2} /salted fish; kipper; pickled fish/
-腍 腍 [ren3] {nam4} /(adjective) (of food) 1. Tender; Soft; (of personality)  Kind and gentle (with no hot-temper)  /
-腍佛 腍佛 [ren3 fo2] {nam4 fat6} /people with good temper/
-腍厴 腍厣 [ren3 yan3] {nam4 jim2} /subcostal/
-腍啤啤 腍啤啤 [ren3 pi2 pi2] {nam4 be4 be4} /1. not stiff or firm (object) 2. not brave enough/
-腍善 腍善 [ren3 shan4] {nam4 sin6} /a kind and gentle character; good-natured/
-腍柿 腍柿 [ren3 shi4] {nam4 ci5} /persimmon/
-腎人 肾人 [shen4 ren2] {san4 jan4} /crazy man/
-腎囊 肾囊 [shen4 nang2] {san6 nong4} /renal sac; capsulae renis/
-腎虧 肾亏 [shen4 kui1] {san6 kwai1} /deficiency of the kidney; renal weakness/
-腐乳 腐乳 [fu3 ru3] {fu6 jyu5} /fermented beancurd/
-腐乳通菜 腐乳通菜 [fu3 ru3 tong1 cai4] {fu6 jyu5 tung1 coi3} /water spinach (Chinese spinach / Tung Choi) with fermented bean curd/
-腐敗無能 腐败无能 [fu3 bai4 wu2 neng2] {fu6 baai6 mou4 nang4} /Corruption and incompetence/
-腐爛 腐烂 [fu3 lan4] {fu6 laan6} /(verb) 1. Decay; 2. Decompose; (adjective)  Putrid/
-腐皮 腐皮 [fu3 pi2] {fu6 pei4} /beancurd skin/
-腐皮卷 腐皮卷 [fu3 pi2 juan3] {fu6 pei4 gyun2} /Beancurd Rolls; soybean roll/
-腐蝕 腐蚀 [fu3 shi2] {fu6 sik6} /(verb)  Erode/
-腕力 腕力 [wan4 li4] {wun2 lik6} /Wrist strength; ability/
-腕表 腕表 [wan4 biao3] {wun2 biu1} /wrist watch/
-腕足 腕足 [wan4 zu2] {wun2 zuk1} /peduncle/
-腕錶 腕表 [wan4 biao3] {wun2 biu1} /Watch/
-腥 腥 [xing1] {seng1} /violence/
-腥味 腥味 [xing1 wei4] {seng1 mei6} /stinky smell of fish/
-腥悶 腥闷 [xing1 men4] {seng1 mun6} /to be hypercritical/
-腥曷 腥曷 [xing1 he2] {seng1 hot3} /rank, strong smelling/
-腥氣 腥气 [xing1 qi5] {seng1 hei3} /The smell of fish; fishy smell/
-腥膻 腥膻 [xing1 shan1] {seng1 zin1} /the smell of fish, lamb or mutton; meat; a meat diet; a derogatory way to address foreign enemies who have invaded one's country /
-腥臊 腥臊 [xing1 sao1] {seng1 sou1} /smelly; smelling of urine; the offensive smell of a fox/
-腥臭 腥臭 [xing1 chou4] {seng1 cau3} /the stinking smell of fish/
+脫牙 脫牙 [tuo1 ya2] {tyut3 ngaa4} /extraire les dents/perdre ses dents/
+脫節 脱节 [tuo1 jie2] {tyut3 zit3} /se détacher/être dépassé; être démodé; être vieux jeu/
+脫離實際 脱离实际 [tuo1 li2 shi2 ji4] {tyut3 lei4 sat6 zai3} /se déconnecter de la réalité/
+脫離關係 脱离关系 [tuo1 li2 guan1 xi5] {tyut3 lei4 gwaan1 hai6} /(expr.) couper les ponts avec quelqu'un; rompre les relations avec quelqu'un/
+????c 脫墨 脫墨 [tuo1 mo4] {tyut3 mak2} /removal of a mole/decolourize; remove ink; fade/
+脷苔 脷苔 [li4 tai2] {lei6 toi1} /revêtement blanc sur la langue/
+脹卜卜 胀卜卜 [zhang4 bu3 bu3] {zoeng3 buk1 buk1} /enflé; gonflé/bombé; protubérant; proéminent/
+脹泵泵 胀泵泵 [zhang4 beng4 beng4] {zoeng3 bam1 bam1} /enflé; gonflé/bombé; protubérant; proéminent/
+脾性 脾性 [pi2 xing4] {pei4 sing3} /tempérament; caractère; disposition mentale/
+脾氣 脾气 [pi2 qi5] {pei4 hei3} /tempérament; caractère; disposition mentale/
+腌尖 腌尖 [yan1 jian1] {jim1 zim1} /pointilleux; tatillon; minutieux; difficile/
+腌尖腥悶 腌尖腥闷 [yan1 jian1 xing1 men4] {jim1 zim1 seng1 mun6} /(expr.) pointilleux; tatillon; minutieux; difficile/
+腌悶 腌闷 [yan1 men4] {jim1 mun6} /ennuyeux; plate/étouffant/
+腌魚 腌鱼 [yan1 yu2] {jip3 jyu2} /kipper; poisson salé/
+腍 腍 [ren3] {nam4} /(aliment) tendre/(personne) tendre; trop gentil/
+腍佛 腍佛 [ren3 fo2] {nam4 fat6} /(personne) d'humeur égale; doux; qui a bon caractère/
+????f 腍厴 腍厣 [ren3 yan3] {nam4 jim2} /(du corps humain) côtés/
+腍啤啤 腍啤啤 [ren3 pi2 pi2] {nam4 be4 be4} /mou, molle/trop mou, trop molle/carpette; paillasson; chiffe molle; personne faible de caractère/
+腍善 腍善 [ren3 shan4] {nam4 sin6} /qui a bon caractère; sympathique; de caractère facile/
+腍柿 腍柿 [ren3 shi4] {nam4 ci5} /kaki; plaquemine/
+腎人 肾人 [shen4 ren2] {san4 jan4} /(inj.) un fou; un cinglé/(inj.) imbécile; idiot/
+腎囊 肾囊 [shen4 nang2] {san6 nong4} /kyste rénal/scrotum/
+腎虧 肾亏 [shen4 kui1] {san6 kwai1} /(médecine traditionelle chinoise) faiblesse rénale/
+腐乳 腐乳 [fu3 ru3] {fu6 jyu5} /tofu fermenté; furu; sufu/
+????f 腐乳通菜 腐乳通菜 [fu3 ru3 tong1 cai4] {fu6 jyu5 tung1 coi3} /tofu fermenté et liseron d'eau, plat chinois/
+腐敗無能 腐败无能 [fu3 bai4 wu2 neng2] {fu6 baai6 mou4 nang4} /corruption et incompétence/
+腐爛 腐烂 [fu3 lan4] {fu6 laan6} /décomposer; pourrir/putride/
+腐皮 腐皮 [fu3 pi2] {fu6 pei4} /peau de tofu; feuille de tofu; yuba/
+腐皮卷 腐皮卷 [fu3 pi2 juan3] {fu6 pei4 gyun2} /rouleau de tofu; rouleau de peau de tofu; plat du dimsum cantonais/
+腐蝕 腐蚀 [fu3 shi2] {fu6 sik6} /corroder; éroder/corrompre; pervertir/
+腕力 腕力 [wan4 li4] {wun2 lik6} /force du poignet/(fig.) capacité; faculté; habileté/
+腕表 腕表 [wan4 biao3] {wun2 biu1} /montre; montre-bracelet; bracelet-montre/
+腕足 腕足 [wan4 zu2] {wun2 zuk1} /(biologie) pédoncule/
+腕錶 腕表 [wan4 biao3] {wun2 biu1} /montre; montre-bracelet; bracelet-montre/
+腥 腥 [xing1] {seng1} /odeur de poisson/sentir le poisson/viande crue/
+????f 腥味 腥味 [xing1 wei4] {seng1 mei6} /(connotation négative) odeur du poisson/
+腥悶 腥闷 [xing1 men4] {seng1 mun6} /pointilleux; tatillon; minutieux; difficile/
+????f 腥曷 腥曷 [xing1 he2] {seng1 hot3} /puanteur de poisson/
+????f 腥氣 腥气 [xing1 qi5] {seng1 hei3} /(connotation négative) odeur du poison/
+腥膻 腥膻 [xing1 shan1] {seng1 zin1} /sentir le poisson et le mouton/(fig.) viande; non-végétarien/(fig.) envahisseurs/(fig.) mauvaises choses/
+腥臊 腥臊 [xing1 sao1] {seng1 sou1} /puanteur/
+腥臭 腥臭 [xing1 chou4] {seng1 cau3} /puanteur de poisson/
 腦囟 脑囟 [nao3 xin4] {nou5 seon3} /fontanelle/
-腦囟未生埋 脑囟未生埋 [nao3 xin4 wei4 sheng1 mai2] {nou5 seon2 mei6 saang1 maai4} /(literally: one's fontanelles are not closed); immature; childish/
-腦殼 脑壳 [nao3 ke2] {nou5 hok3} /Skull/
-腦滿腸肥 脑满肠肥 [nao3 man3 chang2 fei2] {nou5 mun5 coeng2 fei4} /well-fed but always being idle; to have fat cheeks and a pot belly/
-腦筍未生埋 脑笋未生埋 [nao3 sun3 wei4 sheng1 mai2] {nou5 seon2 mei6 saang1 maai4} /(one's fontanelles are not closed); immature; childish/
-腩 腩 [nan3] {naam5} /(human part)  Potbelly/
-腰斬 腰斩 [yao1 zhan3] {jiu1 zaam2} /(verb)  Stop (e.g. Sport games are stopped due to the onset of rain)/
+????f 腦囟未生埋 脑囟未生埋 [nao3 xin4 wei4 sheng1 mai2] {nou5 seon2 mei6 saang1 maai4} /(expr. idiom.) immature; enfantin; puéril/(lit.) personne dont les fontanelles ne sont pas soudées/
+腦殼 脑壳 [nao3 ke2] {nou5 hok3} /crâne/
+腦滿腸肥 脑满肠肥 [nao3 man3 chang2 fei2] {nou5 mun5 coeng2 fei4} /(expr.) riches oisifs/
+????f 腦筍未生埋 脑笋未生埋 [nao3 sun3 wei4 sheng1 mai2] {nou5 seon2 mei6 saang1 maai4} /(expr. idiom.) immature; enfantin; puéril/(lit.) personne dont les fontanelles ne sont pas soudées/
+腩 腩 [nan3] {naam5} /ventre; bedaine/filet/poitrine de bœuf/
+????f 腰斬 腰斩 [yao1 zhan3] {jiu1 zaam2} /(arch.) (peine de mort) couper en deux à la taille/(fig.) annulation d'un projet ou évènement en cours/
 腰痛 腰痛 [yao1 tong4] {jiu1 tung3} /lumbago; lower back pain/
 腰酸背痛 腰酸背痛 [yao1 suan1 bei4 tong4] {jiu1 syun1 bui3 tung3} /aching all over; Back pain and aching waist/
 腰間 腰间 [yao1 jian1] {jiu1 gaan1} /Waist/
