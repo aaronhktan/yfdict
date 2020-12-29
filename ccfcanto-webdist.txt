@@ -9882,7 +9882,7 @@
 收陀地 收陀地 [shou1 tuo2 di4] {sau1 to4 dei2} /(fig.) extorquer une taxe de protection ou paiement de pizzo/
 收風 收风 [shou1 feng1] {sau1 fung1} /(expr. idiom.) apprendre, s'informer, avoir vent de/(expr. idiom.) découvrir quelque chose grâce à un informateur ou une informatrice/(lit.) recevoir du vent/
 改天換地 改天换地 [gai3 tian1 huan4 di4] {goi2 tin1 wun6 dei6} /(expr. idiom.) changer le monde/(fig.) révolution, rébellion/(fig.) grand changement, changement brusque/(fig.) refaire la nature/(lit.) réviser ciel et changer terre/
-改弦更張 改弦更张 [gai3 xian2 geng1 zhang1] {goi2 jin4 gang1 zoeng1} /(expr. idiom.) prendre un nouveau départ, recommencer/(expr. idiom.) réformer, changer de politique/
+改弦更張 改弦更张 [gai3 xian2 geng1 zhang1] {goi2 jin4 gang1 zoeng1} /(expr. idiom.) se réformer; tourner la page; prendre un nouveau départ; recommencer/(expr. idiom.) réformer, changer de politique/
 改換 改换 [gai3 huan4] {goi2 wun6} /échanger, troquer, substituer/
 改簿 改簿 [gai3 bu4] {goi2 bou2} /noter les devoirs/
 改良品種 改良品种 [gai3 liang2 pin3 zhong3] {goi2 loeng4 ban2 zung2} /cultivar amélioré, cultivar plus performant/
@@ -16131,7 +16131,7 @@
 翻本 翻本 [fan1 ben3] {faan1 bun2} /se refaire; récupérer (son argent, sa mise)/
 翻渣 翻渣 [fan1 zha1] {faan1 zaa1} /(phytothérapie chinoise) refaire bouillir/
 翻版 翻版 [fan1 ban3] {faan1 baan2} /faux; contrefaçon/
-翻生 翻生 [fan1 sheng1] {faan1 saang1} /ressusciter; reprendre vie/(fig.) prendre un nouveau départ/
+翻生 翻生 [fan1 sheng1] {faan1 saang1} /ressusciter; reprendre vie/(fig.) se réformer; tourner la page; prendre un nouveau départ/
 翻發 翻发 [fan1 fa1] {faan1 faat3} /(médecine) faire une rechute/
 翻草 翻草 [fan1 cao3] {faan1 cou2} /(zoologie) ruminer; mâcher les aliments/
 翻轉頭 翻转头 [fan1 zhuan3 tou2] {faan1 zyun3 tau4} /rentrer; retourner; revenir en arrière/encore une fois/
@@ -16673,63 +16673,64 @@
 ????f 自己最知自己事 自己最知自己事 [zi4 ji5 zui4 zhi1 zi4 ji5 shi4] {zi6 gei2 zeoi3 zi1 zi6 gei2 si6} /one knows his/her own business the best/
 自己友 自己友 [zi4 ji5 you3] {zi6 gei2 jau2} /confrère; membre du même groupe/l'un des miens; l'un des nôtres; une personne de notre tribu/
 自己工 自己工 [zi4 ji5 gong1] {zi6 gei2 gung1} /travail indépendant; emploi autonome; emploi où l'on est à la fois propriétaire et employé/
-自己攞嚟衰 自己攞嚟衰 [zi4 ji5 luo1 li2 shuai1] {zi6 gei2 lo2 lei4 seoi1} /to get oneself into trouble; to have brought it upon oneself/
-自己身有屎 自己身有屎 [zi4 ji3 shen1 you3 shi3] {zi6 gei2 san1 jau5 si2} /cover up something bad and don't want to disclose it/
-自憐 自怜 [zi4 lian2] {zi6 lin4} /self-pity/
-自我中心 自我中心 [zi4 wo3 zhong1 xin1] {zi6 ngo5 zung1 sam1} /Self-centeredness/
-自我作古 自我作古 [zi4 wo3 zuo4 gu3] {zi6 ngo5 zok3 gu2} /to be a pioneer in something that others have not done before; to be the founder or originator of something; not be bound by conventionality/
-自我價值 自我价值 [zi4 wo3 jia4 zhi2] {zi6 ngo5 gaa3 zik6} /intrinsic value; self worth/
-自打嘴巴 自打嘴巴 [zi4 da3 zui3 ba5] {zi6 daa2 zeoi2 baa1} /literally: to slap one's own face; to contradict oneself/
-自把自為 自把自为 [zi4 ba3 zi4 wei2] {zi6 baa2 zi6 wai4} /to decide all by oneself without consulting or listening to the advice of others/
-自持 自持 [zi4 chi2] {zi6 ci4} /to control oneself; to restrain oneself/
-自救 自救 [zi4 jiu4] {zi6 gau3} /to save oneself/
-自斟自酌 自斟自酌 [zi4 zhen1 zi4 zhuo2] {zi6 zam1 zi6 zoek3} /drink wine alone; to have one's own opinion/
-自新 自新 [zi4 xin1] {zi6 san1} /oneself (spoken)/
-自梳 自梳 [zi4 shu1] {zi6 so1} /female who declares she will not get married/
-自梳女 自梳女 [zi4 shu1 nü3] {zi6 so1 neoi5} /female who declared they are and will stay single; female servants (spoken)/
+自己攞嚟衰 自己攞嚟衰 [zi4 ji5 luo1 li2 shuai1] {zi6 gei2 lo2 lei4 seoi1} /(expr. idiom.) récolter ce que l'on sème; se causer des ennuis/
+????f 自己身有屎 自己身有屎 [zi4 ji3 shen1 you3 shi3] {zi6 gei2 san1 jau5 si2} /(expr. idiom.) avoir quelque chose à cacher; avoir fait quelque chose de mauvais et essayer de le dissimuler/
+自憐 自怜 [zi4 lian2] {zi6 lin4} /apitoiement sur soi-même; auto-apitoiement/
+自我中心 自我中心 [zi4 wo3 zhong1 xin1] {zi6 ngo5 zung1 sam1} /égoïsme; égotisme; égocentrisme/
+????c 自我作古 自我作古 [zi4 wo3 zuo4 gu3] {zi6 ngo5 zok3 gu2} /être le premier à faire quelque chose; innover; sortie des sentiers battus/ 
+自我價值 自我价值 [zi4 wo3 jia4 zhi2] {zi6 ngo5 gaa3 zik6} /amour-propre; auto-estime/
+自打嘴巴 自打嘴巴 [zi4 da3 zui3 ba5] {zi6 daa2 zeoi2 baa1} /(expr. idiom.) se contredire/(lit.) se frapper la bouche/
+????f 自把自為 自把自为 [zi4 ba3 zi4 wei2] {zi6 baa2 zi6 wai4} /penser par soi-même; décider soi-même; ignorer les conseils des autres/
+自持 自持 [zi4 chi2] {zi6 ci4} /se retenir; se modérer; se maitriser/
+????f 自救 自救 [zi4 jiu4] {zi6 gau3} /to save oneself; help oneself/
+自斟自酌 自斟自酌 [zi4 zhen1 zi4 zhuo2] {zi6 zam1 zi6 zoek3} /boire seul/(fig.) avoir son propre opinion; avoir son propre avis/
+自新 自新 [zi4 xin1] {zi6 san1} /se réformer; tourner la page; prendre un nouveau départ/
+????f 自梳 自梳 [zi4 shu1] {zi6 so1} /femme qui déclare qu'elle restera célibataire toute la vie/
+????f 自梳女 自梳女 [zi4 shu1 nu:3] {zi6 so1 neoi5} /femme qui déclare qu'elle restera célibatire toute la vie/
 自殘 自残 [zi4 can2] {zi6 caan4} /to harm oneself; to mutilate oneself; self harm/
-自決 自决 [zi4 jue2] {zi6 kyut3} /self-decision/
-自決權 自决权 [zi4 jue2 quan2] {zi6 kyut3 kyun4} /Self-determination/
-自流 自流 [zi4 liu2] {zi6 lau4} /flow automatically; to flow by itself; to take its natural course; to do as one pleases/
-自滿 自满 [zi4man3] {zi6 mun5} /(verb) Gloat; (adjective) 1. Self-contented/
-自然力 自然力 [zi4 ran2 li4] {zi6 jin4 lik6} /Natural forces/
-自然環境 自然环境 [zi4 ran2 huan2 jing4] {zi6 jin4 waan4 ging2} /Natural Environment/
-自用 自用 [zi4 yong4] {zi6 jung6} /Personal use/
-自由搏擊 自由搏击 [zi4 you2 bo2 ji1] {zi6 jau4 bok3 gik1} /free sparring; free combat; free fight/
-自由球 自由球 [zi4 you2 qiu2] {zi6 jau4 kau4} /free kick; free throw (sports)/
-自由競爭 自由竞争 [zi4 you2 jing4 zheng1] {zi6 jau4 ging6 zang1} /Free competition; free market/
-自發 自发 [zi4 fa1] {zi6 faat3} /proactive/
-自知 自知 [zi4 zhi1] {zi6 zi1} /to know oneself; self awareness/
-自細 自细 [zi4 xi4] {zi6 sai3} /(phrase)(adv.) from childhood; since one was a child/
-自衞 自卫 [zi4 wei4] {zi6 wai6} /Self-defense/
-自覺自願 自觉自愿 [zi4 jue2 zi4 yuan4] {zi6 gok3 zi6 jyun6} /on one's own initiative; voluntarily/
-自負 自负 [zi4fu4] {zi6 fu6} /(verb) 1. Take responsibility by oneself; (disapproval) 2. Boastful; 3. Ego/
-自量 自量 [zi4 liang4] {zi6 loeng6} /estimate one's own ability; to know one's own capabilities and limit/
-自閉 自闭 [zi4 bi4] {zi6 bai3} /autism/
-臭丸 臭丸 [chou4 wan2] {cau3 jyun2} /camphor balls; moth balls/
-臭亨亨 臭亨亨 [chou4 heng1 heng1] {cau3 hang1 hang1} /to smell terrible/
-臭八 臭八 [chou4 ba1] {cau3 baat3} /a nasty or unpleasant person/
-臭八公 臭八公 [chou4 ba1 gong1] {cau3 baat3 gung1} /an unpleasant guy who likes to gossip/
-臭口 臭口 [chou4 kou3] {cau3 hau2} /stinky mouth (spoken)/
-臭品 臭品 [chou4 pin3] {cau3 ban2} /bad temper; disreputable; to describe someone who deliberately ignores someone in an unfriendly way/
-臭四 臭四 [chou4 si4] {cau3 sei3} /grumpy person; foul language to refer to someone who betrays their friend; a foul language for a henchman /
-臭屁醋 臭屁醋 [chou4 pi4 cu4] {cau3 pei3 cou3} /smelly vinegar/
-臭屎密冚 臭屎密冚 [chou4 shi3 mi4 ka4] {cau3 si2 mat6 gam2} /hiding of family scandal (slang)/
-臭崩天 臭崩天 [chou4 beng1 tian1] {cau3 bang1 tin1} /very smelly/
-臭崩崩 臭崩崩 [chou4 beng1 beng1] {cau3 bang1 bang1} /very stinky (spoken)/
-臭檔 臭档 [chou4 dang4] {cau3 dong3} /cocky; arrogant (slang)/
-臭水 臭水 [chou4 shui3] {cau3 seoi2} /Lysol (a type of disinfectant)/
-臭油膉 臭油膉 [chou4 you2 yi4] {cau3 jau4 jik1} /smelly oily smell; rancid smell/
-臭烹烹 臭烹烹 [chou4 peng1 peng1] {cau3 bang1 bang1} /with stinky smell; very smelly/
+自決 自决 [zi4 jue2] {zi6 kyut3} /autodétermination/décider seul; prendre une décision seul/
+自決權 自决权 [zi4 jue2 quan2] {zi6 kyut3 kyun4} /droit à l'autodétermination/
+自流 自流 [zi4 liu2] {zi6 lau4} /(eau, liquide) s'écouler automatiquement/(d'un affaire, situation) prendre son cours naturel/(d'une personne) faire comme l'on veut/
+自滿 自满 [zi4 man3] {zi6 mun5} /béat; complaisant; autosatisfait/
+自然力 自然力 [zi4 ran2 li4] {zi6 jin4 lik6} /éléments de la nature/
+自然環境 自然环境 [zi4 ran2 huan2 jing4] {zi6 jin4 waan4 ging2} /environnement; environnement naturel/
+自用 自用 [zi4 yong4] {zi6 jung6} /pour usage personnel/
+????f 自由搏擊 自由搏击 [zi4 you2 bo2 ji1] {zi6 jau4 bok3 gik1} /combat libre/
+自由球 自由球 [zi4 you2 qiu2] {zi6 jau4 kau4} /(football) coup franc/
+自由競爭 自由竞争 [zi4 you2 jing4 zheng1] {zi6 jau4 ging6 zang1} /libre marché; libre concurrence/
+自發 自发 [zi4 fa1] {zi6 faat3} /spontané/
+自知 自知 [zi4 zhi1] {zi6 zi1} /se connaître/conscience de soi/
+自細 自细 [zi4 xi4] {zi6 sai3} /depuis son enfance/
+自衞 自卫 [zi4 wei4] {zi6 wai6} /autodéfense/
+自覺自願 自觉自愿 [zi4 jue2 zi4 yuan4] {zi6 gok3 zi6 jyun6} /de son plein gré; volontairement; à volonté/
+自負 自负 [zi4fu4] {zi6 fu6} /assumer la responsabilité; porter le chapeau; récolter ce que l'on a semé/égoïste; vaniteux; vantard/
+自量 自量 [zi4 liang4] {zi6 loeng6} /évaluer ses compétences; connaître ses forces et faiblesses/ 
+自閉 自闭 [zi4 bi4] {zi6 bai3} /autisme/
+臭丸 臭丸 [chou4 wan2] {cau3 jyun2} /boule de naphtaline/
+臭亨亨 臭亨亨 [chou4 heng1 heng1] {cau3 hang1 hang1} /puer; empester; empuantir; sentir très mauvais/
+臭八 臭八 [chou4 ba1] {cau3 baat3} /(fig.) (vulg.) personne désagréable/
+臭八公 臭八公 [chou4 ba1 gong1] {cau3 baat3 gung1} /(fig.) (vulg.) homme désagréable/
+臭八婆 臭八婆 [chou4 ba1 po2] {cau3 baat3 po4} /(fig.) (vulg.) femme désagréable/
+臭口 臭口 [chou4 kou3] {cau3 hau2} /avoir mauvaise haleine/(fig.) être grossier; être vulgaire/
+臭品 臭品 [chou4 pin3] {cau3 ban2} /(fig.) irascible; coléreux/
+臭四 臭四 [chou4 si4] {cau3 sei3} /(fig.) personne stupide; personne inutile/(fig.) personne irascible; personne coléreuse/(fig.) personne qui trahit ses amis/ 
+臭屁醋 臭屁醋 [chou4 pi4 cu4] {cau3 pei3 cou3} /« vinaigre puant », sorte de vinaigre cantonais/
+臭屎密冚 臭屎密冚 [chou4 shi3 mi4 ka4] {cau3 si2 mat6 gam2} /(expr. idiom.) laver son linge sale en famille; ne pas laver son linge sale en public/(lit.) couvrir les matières fécales puantes/  
+臭崩天 臭崩天 [chou4 beng1 tian1] {cau3 bang1 tin1} /qui pue; qui sent mauvais/
+臭崩崩 臭崩崩 [chou4 beng1 beng1] {cau3 bang1 bang1} /qui pue; qui sent mauvais/
+????c 臭檔 臭档 [chou4 dang4] {cau3 dong3} /cocky; arrogant (slang)/(irritable, grumpy?)/
+臭水 臭水 [chou4 shui3] {cau3 seoi2} /désinfectant; liquide désinfectant/
+臭油膉 臭油膉 [chou4 you2 yi4] {cau3 jau4 jik1} /odeur rance/
+臭烹烹 臭烹烹 [chou4 peng1 peng1] {cau3 bang1 bang1} /qui pue; qui sent mauvais/
 臭狐 臭狐 [chou4 hu2] {cau3 wu4} /hircismus; stinky armpits; Bromhidrosis; excessive body odor/
 臭男人 臭男人 [chou4 nan2 ren5] {cau3 naam4 jan4} /a man of bad character/
 臭脾氣 臭脾气 [chou4 pi2 qi5] {cau3 pei4 hei3} /short temper; bad temper/
-臭腥 臭腥 [chou4 xing1] {cau3 seng1} /smelly; rank (smell)/
+臭腥 臭腥 [chou4 xing1] {cau3 seng1} /(odeur) rance; nauséabond/
 臭花 臭花 [chou4 hua1] {cau3 faa1} /Lantana camara; big sage; wild sage; red sage; white sage; tickberry/
 臭草 臭草 [chou4 cao3] {cau3 cou2} /rue (Ruta graveolens)/
 臭青 臭青 [chou4 qing1] {cau3 ceng1} /strong smell of raw vegetables or grass/
 臭飛 臭飞 [chou4 fei1] {cau3 fei1} /hooligan; ruffian (spoken)/
-至到 至到 [zhi4 dao4] {zi3 dou3} /till (spoken)/
+至到 至到 [zhi4 dao4] {zi3 dou3} /(temps, heure) jusqu'à/
 至啱 至啱 [zhi4 yan1] {zi3 ngaam1} /most suitable; most appropriate; the right way/
 至多唔係 至多唔系 [zhi4 duo1 n2 xi4] {zi3 do1 m4 hai6} /at worst (spoken)/
 至尊 至尊 [zhi4 zun1] {zi3 zyun1} /supreme/
@@ -16739,15 +16740,14 @@
 至聖先師 至圣先师 [zhi4 sheng4 xian1 shi1] {zi3 sing3 sin1 si1} /greatest sage and teacher (Confucius)/
 至話 至话 [zhi4 hua4] {zi3 waa6} /only just mentioned; just now; only just; have just; just a  moment ago/
 致敬 致敬 [zhi4 jing4] {zi3 ging3} /to salute/
-臺 台 [tai2] {toi4} /(country)  Abbreviation of Taiwan/
-臺山話 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /Taishan dialect; Taishanese; Toishanese/
+臺 台 [tai2] {toi4} /(abbr.) Taïwan/
+臺山話 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /dialecte de Taishan; langue de Taishan/
 臺柱 台柱 [tai2 zhu4] {toi4 cyu5} /column; the main actors in a troupe; the backbone (important people) of an organisation/
 臺柱子 台柱子 [tai2 zhu4 zi5] {toi4 cyu5 zi2} /key actors/ actresses in a drama / theatre group/
-臺灣人 台湾人 [Tai2 wan1 ren2] {toi4 waan1 jan4} /Taiwanese people/
-臺灣人 台灣人 [Tai2 wan1 ren2] {toi4 waan1 jan4} /Taiwanese/
-臺灣高速鐵路 台湾高速铁路 [Tai2 wan1 gao1 su4 tie3 lu4] {toi4 waan1 gou1 cuk1 tit3 lou6} /Taiwan High Speed ​​Rail/
+臺灣人 台湾人 [tai2 wan1 ren2] {toi4 waan1 jan4} /Taïwanais; Taïwanaise/peuple taïwanais/
+臺灣高速鐵路 台湾高速铁路 [tai2 wan1 gao1 su4 tie3 lu4] {toi4 waan1 gou1 cuk1 tit3 lou6} /Taiwan High Speed Rail (THSR), ligne à grande vitesse de Taïwan/
 舂 舂 [chong1] {zung1} /fall over or into (Cantonese)/
-舂個頭埋去 舂个头埋去 [chong1 ge5 tou2 mai2 qu4] {zung1 go3 tau4 maai4 heoi3} /get involved; rush headlong into/
+舂個頭埋去 舂个头埋去 [chong1 ge5 tou2 mai2 qu4] {zung1 go3 tau4 maai4 heoi3} /(expr.) se précipiter (pour faire quelque chose)/
 舂杵 舂杵 [chong1 chu3] {zung1 cyu2} /A wooden mallet used for pounding rice/
 舂牆 舂墙 [chong1 qiang2] {zung1 coeng4} /to bang head against the wall; to strengthen a construction wall with red clay and sandstone/
 舂瘟雞 舂瘟鸡 [chong1 wen1 ji1] {zung1 wan1 gai1} /(n.) a clumsy person who goes about in a haphazard manner, bumping into people and things; someone who works blindly without a clear direction or plan, like a headless chicken/
