@@ -16588,7 +16588,7 @@
 膠叉 膠叉 [hao2 cha1] {gaau1 caa1} /fourchette en plastique/
 膠喉 胶喉 [Jiao1 hou2] {gaau1 hau4} /tuyau d'arrosage en plastique/
 膠喉 膠喉 [hao2 hou2] {gaau1 hau4} /tuyau d'arrosage en plastique/
-膠套 膠套 [hao2 tao4] {gaau1 tou3} /couvercle en plastique; pochette en platique; fourreau en plastique/sac en plastique/
+膠套 膠套 [hao2 tao4] {gaau1 tou3} /couvercle en plastique; pochette en plastique; fourreau en plastique/sac en plastique/
 膠拖 膠拖 [hao2 tuo1] {gaau1 to1} /tongs en plastique; tongs en caoutchouc/
 膠擦 膠擦 [hao2 ca1] {gaau1 caat3} /gomme; gomme à effacer/
 膠杯 胶杯 [jiao1 bei1] {gaau1 bui1} /gobelet en plastique/
@@ -16802,100 +16802,100 @@
 𦧲飯應 𦧲饭应 [fan4 ying1] {loe1 faan6 jing3} /(fig.) accepter sans hésitation/(lit.) recracher du riz pour répondre/
 舞 舞 [wu3] {mou5} /danser/jouer/
 舞台劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre/
-舞女 舞女 [wu3 nu:3] {mou5 neoi2} /a dance hostess; a nightclub hostess /
-舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /bar-girl (spoken)/
-舞文弄墨 舞文弄墨 [wu3 wen2 nong4 mo4] {mou5 man4 lung6 mak6} /show off literary skill; to play with words/
-舞男 舞男 [wu3 nan2] {mou5 naam4} /a gigolo, a man who is hired as an escort or a dancing partner for a woman/
+????f 舞女 舞女 [wu3 nu:3] {mou5 neoi2} /danseuse/(taxi dancer?)/hôtesse d'un night-club/strip-teaseuse/escorte (de sexe féminin)/
+????f 舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /hôtesse d'un night-club/strip-teaseuse/
+????c 舞文弄墨 舞文弄墨 [wu3 wen2 nong4 mo4] {mou5 man4 lung6 mak6} /(positive or negative connotation? does it have to do with the law?) show off literary skill; to play with words/
+舞男 舞男 [wu3 nan2] {mou5 naam4} /gigolo; escorte (de sexe masculin)/
 舞臺劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre/
 舞蹈 舞蹈 [wu3 dao3] {mou5 dou6} /danse/choréographie/
 ????f 舞麒麟 舞麒麟 [wu3 qi2 lin2] {mou5 kei4 leon4} /Unicorn dance/
-舟楫 舟楫 [zhou1 ji2] {zau1 zip3} /Vessels; ships/
-舟車 舟车 [zhou1 che1] {zau1 geoi1} /Journey; vessel and vehicle/
-舢舨充炮艇 舢舨充炮艇 [shan1 ban3 chong1 pao4 ting3] {saan1 baan2 cung1 paau3 teng5} /(a sampan pretending to be a warship); to bluff; to pose as a big shot; pirated products/
+舟楫 舟楫 [zhou1 ji2] {zau1 zip3} /vaisseaux; navires; bateaux/
+舟車 舟车 [zhou1 che1] {zau1 geoi1} /moyens de transport/(fig.) voyage/
+舢舨充炮艇 舢舨充炮艇 [shan1 ban3 chong1 pao4 ting3] {saan1 baan2 cung1 paau3 teng5} /(expr. idiom.) bluffer; tromper/(expr. idiom.) produit piraté; contrefaçon/(lit.) sampan faisant semblant d'être un navire de guerre/
 航機 航机 [hang2 ji1] {hong4 gei1} /vol régulier/avion de ligne/
-般尼 般尼 [ban1 ni2] {bun1 nei4} /Burnley, a place in England/
-舵工 舵工 [duo4 gong1] {to4 gung1} /Helmsman; quartermaster/
-船灣 船湾 [chuan2 wan1] {syun4 waan1} /Plover Cove, a place in Hong Kong/
-船灣海 船湾海 [chuan2 wan1 hai3] {syun4 waan1 hoi2} /Plover Cove, a place in Hong Kong/
-船灣淡水湖 船湾淡水湖 [chuan2 wan1 dan4 shui3 hu2] {syun4 waan1 taam2 seoi2 wu4} /Plover Cove Reservoir, a place in Hong Kong/
-船舶 船舶 [chuan2 bo2] {syun4 bok6} /(adjective)  Marine/
-船頭尺 船头尺 [chuan2 tou2 chi3] {syun4 tau4 cek3} /person who always ask for money (slang)/
+般尼 般尼 [ban1 ni2] {bun1 nei4} /Burnley, ville d'Angleterre/
+舵工 舵工 [duo4 gong1] {to4 gung1} /timonier; barreur/
+船灣 船湾 [chuan2 wan1] {syun4 waan1} /Plover Cove, crique de Hong Kong/
+船灣海 船湾海 [chuan2 wan1 hai3] {syun4 waan1 hoi2} /Plover Cove, crique de Hong Kong/
+船灣淡水湖 船湾淡水湖 [chuan2 wan1 dan4 shui3 hu2] {syun4 waan1 taam2 seoi2 wu4} /Plover Cove Reservoir (« réservoir Plover Cove »), réservoir côtier de Hong Kong/
+船舶 船舶 [chuan2 bo2] {syun4 bok6} /navires; bateaux/marin; relatif à la mer/
+????c 船頭尺 船头尺 [chuan2 tou2 chi3] {syun4 tau4 cek3} /person who always ask for money (slang)/
 艇 艇 [ting3] {teng5} /barque; petit bateau/
-艇仔 艇仔 [ting3 zi3] {teng5 zai2} /describes someone who is working for an illegal gambling boss or someone who acts as a middleman between the borrower and the loan shark; a small boat; a soup spoon/
-艇仔粥 艇仔粥 [ting3 zi3 zhou1] {teng5 zai2 zuk1} /sampan rice porridge/
-艇家 艇家 [ting3 jia1] {teng5 gaa1} /sampan or boat owner/
-艇屋 艇屋 [ting3 wu1] {teng5 uk1} /Boat House/
-良口 良口 [liang2 kou3] {loeng4 hau2} /Liangkou, a place in China/
-良民證 良民证 [liang2 min2 zheng4] {loeng4 man4 zing3} /police clearance certificate; certificate showing no criminal records/
-良駒 良驹 [liang2 ju1] {loeng4 keoi1} /a good horse; a fine horse/
-色 色 [se4] {sik1} /lust/
-色仔 色仔 [se4 zi3] {sik1 zai2} /a dice (more commonly written as 骰仔)/
-色士風 色士风 [se4 shi4 feng1] {sik1 si6 fung1} /(noun) (music instrument) a saxophone/
-色情影片 色情影片 [se4 qing2 ying3 pian4] {sik1 cing4 jing2 pin2} /Porn movie/
-色情電影 色情电影 [se4 qing2 dian4 ying3] {sik1 cing4 din6 jing2} /pornographic movie/
-色水 色水 [se4 shui3] {sik1 seoi2} /(noun) colour (of clothing / textiles); the way or manner of dressing: the look / the appearance / the style/
-色狼 色狼 [se4 lang2] {sik1 long4} /(non)  rapist/
-色目人 色目人 [Se4 mu4 ren2] {sik1 muk6 jan4} /Semu; the name of a caste during the Yuan dynasty in China/
-艷陽 艳阳 [yan4 yang2] {jim6 joeng4} /bright sun/
-艷陽天 艳阳天 [yan4 yang2 tian1] {jim6 joeng4 tin1} /bright sunny day; sunny skies/
-芋角 芋角 [yu4 jiao3] {wu6 gok3} /taro puff dumpling/
-芋頭糕 芋头糕 [yu4 tou5 gao1] {wu6 tau2 gou1} /Taro cake/
-芒果布甸 芒果布甸 [mang2 guo3 bu4 dian4] {mong1 gwo2 bou3 din6} /mango pudding/
-芙翅 芙翅 [fu2 chi4] {fu4 ci3} /the gizzards and livers of poultry/
-芙蓉蛋 芙蓉蛋 [fu2 rong2 dan4] {fu4 jung4 daan2} /egg foo yung; Chinese style egg omelette/
-芝士漢堡 芝士汉堡 [zhi1 shi4 han4 bao3] {zi1 si2 hon3 bou2} /a cheeseburger/
-芝士漢堡包 芝士汉堡包 [zhi1 shi4 han4 bao3 bao1] {zi1 si6 hon3 bou2 baau1} /cheeseburger/
-芝娃娃 芝娃娃 [zhi1 wa2 wa5] {zi1 waa1 waa1} /a chihuahua/
-芝麻 芝麻 [zhi1 ma5] {zi1 maa4} /trivial; small matter/
-芝麻卷 芝麻卷 [zhi1 ma5 juan3] {zi1 maa4 gyun2} /Sesame roll/
-芝麻灣 芝麻湾 [zhi1 ma5 wan1] {zi1 maa4 waan1} /Chi Ma Wan, a place in Hong Kong/
-芝麻糊 芝麻糊 [zhi1 ma5 hu2] {zi1 maa4 wu2} /sesame paste/
-芥菜仔 芥菜仔 [jie4 cai4 zi3] {gaai3 coi3 zai2} /Brassica juncea; small mustard greens/
-芥蘭頭 芥兰头 [gai4 lan2 tou2] {gaai3 laan2 tau4} /Kohlrabi; turnip cabbage/
-芥辣 芥辣 [jie4 la4] {gaai3 laat6} /(n.) wasabi; mustard./
-芥醬 芥酱 [jie4 jiang4] {gaai3 zoeng3} /mustard (condiment)/
-芫茜 芫茜 [yan2 qian4] {jyun4 sai1} /(noun) cilantro; coriander; Chinese parsley; dhania/
-芫荽 芫荽 [yan2sui5] {jyun4 seoi1} /(vegetable) Cilantro /
-芬達 芬达 [Fen1 da2] {fan1 daat6} /Fanta (brand of fruit-flavoured carbonated soft drinks)/
-花 花 [hua1] {faa1} /(noun) 1. female; (adjective); 1. too many patterns or varicolored (usually it is disapproval); (of eyesight)  unclear/
-花么 花么 [hua1 me5] {faa1 jiu1} /A term in Mahjong 'all terminals and honours hand'/
-花仔 花仔 [hua1 zi3] {faa1 zai2} /page boy/
-花令紙 花令纸 [hua1 ling4 zhi3] {faa1 ling6 zi2} /an arrest warrant/
-花假 花假 [hua1 jia3] {faa1 gaa2} /bogus; false; fake; sham/
-花冧 花冧 [hua1 lin1] {faa1 lam1} /flower bud (spoken)/
+艇仔 艇仔 [ting3 zi3] {teng5 zai2} /barque; petit bateau/(fig.) intermédiaire (pour un trafiquant de drogues; pour un usurier; etc.)/(fig.) cuillère à soupe/(fig.) taxi/
+艇仔粥 艇仔粥 [ting3 zi3 zhou1] {teng5 zai2 zuk1} /congee sampan/
+????f 艇家 艇家 [ting3 jia1] {teng5 gaa1} /Tanka/personne qui vit dans les bateaux/
+????f 艇屋 艇屋 [ting3 wu1] {teng5 uk1} /bateau qui sert de maison/
+良口 良口 [liang2 kou3] {loeng4 hau2} /Liangkou, village de Canton/
+????f 良民證 良民证 [liang2 min2 zheng4] {loeng4 man4 zing3} /Certificate of No Criminal Conviction (« certificat d'absence de condamnation pénale »)/
+良駒 良驹 [liang2 ju1] {loeng4 keoi1} /un beau cheval/
+色 色 [se4] {sik1} /couleur/caractéristique; attribut/contenance; expression du visage; expression faciale/paysage/désir sexuel; lubricité; luxure/
+色仔 色仔 [se4 zi3] {sik1 zai2} /(usage déconseillé, voir 骰仔|骰仔) dé; dé à jouer/
+色士風 色士风 [se4 shi4 feng1] {sik1 si6 fung1} /(instrument de musique) saxophone/
+色情影片 色情影片 [se4 qing2 ying3 pian4] {sik1 cing4 jing2 pin2} /film pornographique/
+色情電影 色情电影 [se4 qing2 dian4 ying3] {sik1 cing4 din6 jing2} /film pornographique/
+色水 色水 [se4 shui3] {sik1 seoi2} /couleur/(apparence) style; look/
+色狼 色狼 [se4 lang2] {sik1 long4} /débauché; pervers; obsédé sexuel/violeur/
+色目人 色目人 [se4 mu4 ren2] {sik1 muk6 jan4} /Semu, nom d'une caste établie sous la dynastie Yuan en Chine/
+艷陽 艳阳 [yan4 yang2] {jim6 joeng4} /soleil radieux; soleil brillant/
+艷陽天 艳阳天 [yan4 yang2 tian1] {jim6 joeng4 tin1} /belle journée ensoleillée/
+芋角 芋角 [yu4 jiao3] {wu6 gok3} /dumpling de taro, mets de dimsum hongkongais/
+芋頭糕 芋头糕 [yu4 tou5 gao1] {wu6 tau2 gou1} /gâteau de taro, mets chinois/
+芒果布甸 芒果布甸 [mang2 guo3 bu4 dian4] {mong1 gwo2 bou3 din6} /pouding aux mangues/
+????f 芙翅 芙翅 [fu2 chi4] {fu4 ci3} /abats de poulet/
+芙蓉蛋 芙蓉蛋 [fu2 rong2 dan4] {fu4 jung4 daan2} /fu yung hai ou œuf foo yung, plat à base d'omelette/
+芝士漢堡 芝士汉堡 [zhi1 shi4 han4 bao3] {zi1 si2 hon3 bou2} /cheeseburger; hambourgeois au fromage; hamburger au fromage/
+芝士漢堡包 芝士汉堡包 [zhi1 shi4 han4 bao3 bao1] {zi1 si6 hon3 bou2 baau1} /cheeseburger; hambourgeois au fromage; hamburger au fromage/
+芝娃娃 芝娃娃 [zhi1 wa2 wa5] {zi1 waa1 waa1} /chihuahua/
+芝麻 芝麻 [zhi1 ma5] {zi1 maa4} /sésame/(fig.) bagatelle; vétille; broutille; chose triviale/
+芝麻卷 芝麻卷 [zhi1 ma5 juan3] {zi1 maa4 gyun2} /rouleau de sésame hongkongais (« black sesame roll » en anglais)/
+芝麻灣 芝麻湾 [zhi1 ma5 wan1] {zi1 maa4 waan1} /Chi Ma Wan (« baie de sésame »), une baie de Hong Kong/
+芝麻糊 芝麻糊 [zhi1 ma5 hu2] {zi1 maa4 wu2} /soupe de sésame noir, dessert chinois/
+????f 芥菜仔 芥菜仔 [jie4 cai4 zi3] {gaai3 coi3 zai2} /Brassica juncea; small mustard greens/
+芥蘭頭 芥兰头 [gai4 lan2 tou2] {gaai3 laan2 tau4} /chou-rave; colrave/
+芥辣 芥辣 [jie4 la4] {gaai3 laat6} /wasabi/moutarde/
+芥醬 芥酱 [jie4 jiang4] {gaai3 zoeng3} /moutarde/
+芫茜 芫茜 [yan2 qian4] {jyun4 sai1} /coriandre/
+芫荽 芫荽 [yan2sui5] {jyun4 seoi1} /coriandre/
+芬達 芬达 [Fen1 da2] {fan1 daat6} /Fanta, marque commerciale de soda allemande/
+花 花 [hua1] {faa1} /fleur/fleuri; couvert de fleurs/de sexe féminin; femme/embelli; orné; fleuri/chargé; trop orné; bigarré/coloré; multicolore; polychrome/rayé/érafler; égratigner/gribouiller/(vision) trouble; flou; indistinct/dépenser; gaspiller (de l'argent)/pré-vente/impudique; luxurieux; lubrique/petite fleur sur l'épaulette d'un policier indiquant son rang/(nom de famille chinois)/
+????f 花么 花么 [hua1 me5] {faa1 jiu1} /A term in Mahjong 'all terminals and honours hand'/
+花仔 花仔 [hua1 zi3] {faa1 zai2} /garçon d'honneur/
+花令紙 花令纸 [hua1 ling4 zhi3] {faa1 ling6 zi2} /(vieilli) mandat d'arrêt/
+花假 花假 [hua1 jia3] {faa1 gaa2} /faux; contrefaçon; inauthentique/ruse; tromperie; duperie/
+花冧 花冧 [hua1 lin1] {faa1 lam1} /bouton floral; bouton de fleur/
 花利 花利 [hua1 li4] {faa1 lei6} /interest and revenue from farm and land/
-花卉 花卉 [hua1 hui4] {faa1 wai2} /floral/
-花呢碌 花呢碌 [hua1 ni2 lu4] {faa1 li1 luk1} /gaudy; showy/
-花哩碌 花哩碌 [hua1 li5 lu4] {faa1 li1 luk1} /gaudy; a mess of colours or patterns / scribbles /
-花哩花碌 花哩花碌 [hua1 li5 hua1 lu4] {faa1 li1 faa1 luk1} /gaudy; showy/
-花𡃁 花𡃁 [Hua1 liang4] {faa1 leng1} /youngsters; an idle young man/
-花圈 花圈 [hua1 quan1] {faa1 hyun1} /(noun) (of floral)  Wreath, which is used in funeral /
-花園 花园 [hua1 yuan2] {faa1 jyun2} /(noun) 1. park; 2. yard/
-花園街 花园街 [hua1 yuan2 jie1] {faa1 jyun4 gaai1} /Fa Yuen Street, a street in Hong Kong/
-花園道 花园道 [hua1 yuan2 dao4] {faa1 jyun4 dou6} /Garden Road, a road in Hong Kong/
-花城 花城 [hua1 cheng2] {faa1 sing4} /flower city; another name for Guangzhou/
-花城大道 花城大道 [hua1 cheng2 da4 dao4] {faa1 sing4 daai6 dou6} /Huacheng Road, a road in Guangzhou, China/
+花卉 花卉 [hua1 hui4] {faa1 wai2} /fleurs et plantes/flore/
+花呢碌 花呢碌 [hua1 ni2 lu4] {faa1 li1 luk1} /voyant; criard; tapageur; bigarré/
+花哩碌 花哩碌 [hua1 li5 lu4] {faa1 li1 luk1} /voyant; criard; tapageur; bigarré/
+花哩花碌 花哩花碌 [hua1 li5 hua1 lu4] {faa1 li1 faa1 luk1} /voyant; criard; tapageur; bigarré/
+花𡃁 花𡃁 [hua1 liang4] {faa1 leng1} /jeune homme sans valeur; jeune homme oisif/novice; débutant/
+花圈 花圈 [hua1 quan1] {faa1 hyun1} /couronne de fleurs; couronne florale/
+花園 花园 [hua1 yuan2] {faa1 jyun2} /jardin/cour d'entrée; cour avant; jardin de devant/parc/
+花園街 花园街 [hua1 yuan2 jie1] {faa1 jyun4 gaai1} /Fa Yuen Street, rue de Hong Kong/
+花園道 花园道 [hua1 yuan2 dao4] {faa1 jyun4 dou6} /Garden Road, rue de Hong Kong/
+花城 花城 [hua1 cheng2] {faa1 sing4} /ville des fleurs, surnom pour la ville de Canton/
+花城大道 花城大道 [hua1 cheng2 da4 dao4] {faa1 sing4 daai6 dou6} /Huacheng Road (« boulevard de la ville des fleurs »), boulevard de Canton/
 花基 花基 [hua1 ji1] {faa1 gei1} /a plant platform made from bricks/
-花士令 花士令 [hua1 shi4 ling4] {faa1 si6 ling2} /Vaseline/
+花士令 花士令 [hua1 shi4 ling4] {faa1 si6 ling2} /vaseline; gelée de pétrole/
 花多眼亂 花多眼乱 [hua1 duo1 yan3 luan4] {faa1 do1 ngaan5 lyun6} /too many options or choices (spoken)/
-花女 花女 [hua1 nü3] {faa1 neoi2} /flower girl/
-花奶 花奶 [hua1 nai3] {faa1 naai5} /evaporated milk/
+花女 花女 [hua1 nü3] {faa1 neoi2} /demoiselle d'honneur/
+花奶 花奶 [hua1 nai3] {faa1 naai5} /lait évaporé; lait concentré/
 花尾渡 花尾渡 [hua1 wei3 du4] {faa1 mei5 dou6} /a type of barge which has a flowery stern/
 花市 花市 [hua1 shi4] {faa1 si5} /Lunar New Year flower market/
 花弗 花弗 [hua1 fu2] {faa1 fit1} /flirtatious; a fickle lover; to describe someone who likes to dress in fancy clothings or in a fashionable style/
-花心大少 花心大少 [hua1 xin1 da4 shao4] {faa1 sam1 daai6 siu2} /a young male who is rich and lustful (slang)/
-花心蘿蔔 花心萝卜 [hua1 xin1 luo2 bo5] {faa1 sam1 lo4 baak6} /(noun) a carrot with a hollow centre; a carrot that has wilted; (slang) a playboy; a lady-killer; a womanizer/
+花心大少 花心大少 [hua1 xin1 da4 shao4] {faa1 sam1 daai6 siu2} /(expr. idiom.) drageur; coureur de jupons; séducteur; casanova; don Juan; playboy/(lit.) carrotte à centre creux/
+花心蘿蔔 花心萝卜 [hua1 xin1 luo2 bo5] {faa1 sam1 lo4 baak6} /(expr. idiom.) drageur; coureur de jupons; séducteur; casanova; don Juan; playboy/(lit.) carrotte à centre creux/
 花手巾 花手巾 [hua1 shou3 jin1] {faa1 sau2 gan1} /the paradise fish/
-花柳 花柳 [hua1 liu3] {faa1 lau5} /syphilis (spoken)/
+????c 花柳 花柳 [hua1 liu3] {faa1 lau5} /(only syphilis? is this the right translation?) syphilis (spoken)/
 花樣百出 花样百出 [hua1 yang4 bai3 chu1] {faa1 joeng2 baak3 ceot1} /A dazzling variety; full of tricks/
-花樽 花樽 [hua1 zun1] {faa1 zeon1} /(noun) a vase/
-花款 花款 [hua1 kuan3] {faa1 fun2} /(noun) style; design/
+花樽 花樽 [hua1 zun1] {faa1 zeon1} /vase; vase à fleurs/
+花款 花款 [hua1 kuan3] {faa1 fun2} /style/conception; design/
 花牌 花牌 [hua1 pai2] {faa1 paai2} /a Chinese type of floral wreath (can be very large in size), usually presented at special occasions such as celebrations, grand openings, festivals or funerals/
 花王 花王 [hua1 wang2] {faa1 wong4} /(noun) gardener (usually it refers to a gardenerhired by rich people); the king of flowers, usually referring to a peony/
-花生油 花生油 [hua1 sheng1 you2] {faa1 sang1 jau4} /peanut oil; groundnut oil/
-花生糊 花生糊 [hua1 sheng1 hu2] {faa1 sang1 wu2} /Peanut sweet soup; peanut paste/
-花生糖 花生糖 [hua1 sheng1 tang2] {faa1 sang1 tong2} /Peanut brittle/
-花生肉 花生肉 [hua1 sheng1 rou4] {faa1 sang1 juk6} /Shelled peanut/
+花生油 花生油 [hua1 sheng1 you2] {faa1 sang1 jau4} /huile d'arachide/
+????f 花生糊 花生糊 [hua1 sheng1 hu2] {faa1 sang1 wu2} /soupe sucrée aux arachides, dessert chinois/
+花生糖 花生糖 [hua1 sheng1 tang2] {faa1 sang1 tong2} /nougatine/
+????f 花生肉 花生肉 [hua1 sheng1 rou4] {faa1 sang1 juk6} /arachides écalées/
 花生腳 花生脚 [hua1 sheng1 jiao3] {faa1 sang1 goek3} /shrivelled peanuts with shell; embarrassed/
 花碼 花码 [hua1 ma3] {faa1 maa5} /Suzhou numerals / huama, a numeral system used in China before the introduction of Arabic numerals/
 花筒 花筒 [hua1 tong3] {faa1 tung4} /Tube-shaped fireworks/
@@ -21753,7 +21753,7 @@
 骨蟲 骨虫 [gu3 chong2] {gwat1 cung4} /regular customer of massage parlors/
 骨骼系統 骨骼系统 [gu3 ge2 xi4 tong3] {gwat1 gaak3 hai6 tung2} /skeletal system/
 骨髓炎 骨髓炎 [gu3 sui3 yan2] {gwat1 seoi5 jim4} /osteomyelitis; medullitis/
-骰仔 骰仔 [tou2 zi3] {sik1 zai2} /dice/
+骰仔 骰仔 [tou2 zi3] {sik1 zai2} /dé; dé à jouer/
 骰寶 骰宝 [tou2 bao3] {sik1 bou2} /'sic bo' / 'tai sai' / 'dau siu' / 'big and small' / 'Fish-Prawn-Crab', a classic Chinese gambling game played with dice/
 骷髏骨 骷髅骨 [ku1 lou2 gu3] {fu1 lau4 gwat1} /skeleton/
 𩩍骨 𩩍骨 [Ping1 gu3] {peng1 gwat1} /rib bones/
