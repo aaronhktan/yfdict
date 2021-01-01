@@ -17073,9 +17073,9 @@
 菢竇 抱窦 [bao4 dou4] {bou6 dau3} /couver (des œufs)/
 菩提子 菩提子 [pu2 ti2 zi3] {pou4 tai4 zi2} /raisins/
 菩薘 菩荙 [pu2 da2] {pou4 daat6} /melon amer/
-菩薩 菩萨 [Pu2 sa4] {pou4 saat3} /one who is kind-hearted/
-菩薩心腸 菩萨心肠 [pu2 sa4 xin1 chang2] {pou4 saat3 sam1 coeng4} /Kind-heartedness/
-華 华 [hua2] {waa4} /(noun) 1. Chinese or China; (adjective) 1. Chinese; 2. Prosperous; 3. Luxurious/
+菩薩 菩萨 [Pu2 sa4] {pou4 saat3} /bodhisattva/(fig.) personne au grand cœur/
+菩薩心腸 菩萨心肠 [pu2 sa4 xin1 chang2] {pou4 saat3 sam1 coeng4} /(fig.) personne au grand cœur/(lit.) cœur de bodhisattva/
+華 华 [hua2] {waa4} /Chine/chinois/(langue) chinois/prospère; florissant/somptueux; luxueux/magnifique/
 華北地區 华北地区 [hua2 bei3 di4 qu1] {waa4 bak1 dei6 keoi1} /Huabei; Chine du Nord/
 華南地區 华南地区 [hua2 nan2 di4 qu1] {waa4 naam4 dei6 keoi1} /Chine du Sud/
 華南農業大學 华南农业大学 [hua2 nan2 nong2 ye4 da4 xue2] {waa4 naam4 nung4 jip6 daai6 hok6} /Université d’agriculture de Chine du Sud/
@@ -17084,46 +17084,45 @@
 華懋 华懋 [hua2 mao4] {waa4 mau6} /Chinachem, groupe d'entreprises hongkongais/
 華懋集團 华懋集团 [hua2 mao4 ji2 tuan2] {waa4 mau6 zaap6 tyun4} /Chinachem Group, groupe d'entreprises hongkongais/
 華服 华服 [hua2 fu2] {waa4 fuk6} /parure; beaux vêtements/
-華林寺 华林寺 [hua2 lin2 si4] {waa4 lam4 zi2} /Hualin Temple, a temple in Guangxhou in China/
+華林寺 华林寺 [hua2 lin2 si4] {waa4 lam4 zi2} /Hualin Temple, temple bouddhiste à Canton/
 華格納 华格纳 [hua2 ge2 na4] {waa4 gaak3 naap6} /Richard Wagner, compositeur allemand/
 華比銀行 华比银行 [hua2 bi3 yin2 hang2] {waa4 bei2 ngan4 hong4} /Belgian Bank, ancienne banque de Hong Kong/
 華爾滋 华尔滋 [hua2 er3 zi1] {waa4 ji5 zi1} /(danse) valse/
 華盛頓大學 华盛顿大学 [hua2 sheng4 dun4 da4 xue2] {waa4 sing6 deon6 daai6 hok6} /Université de Washington/
-華秀 华秀 [hua2 xiu4] {waa4 sau3} /name of the character in a tale who keeps a ferocious dog/
-華翰 华翰 [hua2 han4] {waa4 hon6} /a polite way to say 'your letter'/
+????f 華秀 华秀 [hua2 xiu4] {waa4 sau3} /Waa sau, nom d'un personnage connu pour avoir un chien féroce (voir 狼過華秀雙狗|狼过华秀双狗)/
+華翰 华翰 [hua2 han4] {waa4 hon6} /(vieilli, humble) votre lettre/
 華裔 华裔 [Hua2 yi4] {waa4 jeoi6} /étranger d'origine chinoise/
-菱角 菱角 [ling2 jiao3] {ling4 gok3} /(old slang) (figurative) 1. Knuckle (of a hand) (this refers to an old slang; "食菱角" (of physical punishment)  Hit someone's head with the knuckle of a hand) /
-菲薄 菲薄 [fei3 bo2] {fei2 bok6} /meager; belittle/
+????c 菱角 菱角 [ling2 jiao3] {ling4 gok3} /(old slang) (figurative) 1. Knuckle (of a hand) (this refers to an old slang; "食菱角" (of physical punishment)  Hit someone's head with the knuckle of a hand) /
+菲薄 菲薄 [fei3 bo2] {fei2 bok6} /humble/piètre; maigre/mépriser; dénigrer/
 菸草 烟草 [yan1 cao3] {jin1 cou2} /tabac/
-菸鹼醯胺腺嘌呤二核苷酸 菸硷醯胺腺嘌呤二核苷酸 [yan1 jian3 xi1 an1 xian4 piao4 ling2 er4 he2 gan1 suan1] {jin1 gaan2 hei1 on1 sin3 piu1 ling4 ji6 hat6 gam1 syun1} /Nicotinamide adenine dinucleotide/
-萌塞 萌塞 [meng2 sai1] {mang4 sak1} /stubborn; narrow-minded;  reluctant to take advice of others/
-萍蹤 萍踪 [ping2 zong1] {ping4 zung1} /Track of a wanderer/
-著 着 [zhe5] {zoek3} /(verb) 1. wear (clothes, shoes, etc.); (verb) 1. write or compose (book, etc.); (adjective) 1. well-known; 2. famous/
-著數 着数 [zhao1 shu4] {zoek6 sou3} /(noun)  good deal/
-著數 着数 [zhao1 shu4] {zoek6 sou3} /benefits; rewards (Cantonese)/
-著燈 著灯 [zhao2 deng1] {zoek6 dang1} /turning the lights on (spoken)/
-著草 着草 [zhao2 cao3] {zoek3 cou2} /to abscond/
-著衫 著衫 [zhao2 shan1] {zoek6 saam1} /wearing clothes (spoken)/
-落 落 [luo4] {lok6} /(verb)  to climb down (stairs)/
-落Ｄ 落Ｄ [luo4 D] {lok6 di1} /to go to a disco/
-落仔 落仔 [luo4 zi3] {lok6 zai2} /to have an abortion/
-落剩 落剩 [luo4 sheng4] {lok6 sing6} /left over/
-落力 落力 [luo4 li4] {lok6 lik6} /(verb) to put a lot of effort in; to work hard at/
-落去 落去 [luo4 qu4] {lok6 heoi3} /go down (spoken)/
-落口供 落口供 [luo4 kou3 gong4] {lok6 hau2 gung1} /recording of statement (police)/
-落吧 落吧 [luo4 ba5] {lok6 baa1} /to go to a bar/
-落單 落单 [luo4 dan1] {lok6 daan1} /to place an order/
-落嘴頭 落嘴头 [luo4 zui3 tou2] {lok6 zeoi2 tau4} /persuading hard (spoken)/
-落嚟 落嚟 [luo4 li2] {lok6 lai4} /come down (spoken)/
-落堂 落堂 [luo4 tang2] {lok6 tong4} /(verb) to be dismissed from class (at the end of the lesson); to finish school/
-落場 落场 [la4 chang3] {lok6 coeng4} /off duty; to leave; to end; to conclude/
-落大雨 落大雨 [luo4 da4 yu3] {lok6 daai6 jyu5} /pouring rain/
-落妝 落妆 [luo4 zhuang1] {lok6 zong1} /removing make-up (spoken)/
-落定 落定 [luo4 ding4] {lok6 deng6} /(verb) to pay a deposit/
-落客 落客 [luo4 ke4] {lok6 haak3} /To drop-off passengers/
-落形 落形 [luo4 xing2] {lok6 jing4} /facial changes due to excessive slimming or sickness/
-落後 落后 [luo4 hou4] {lok6 hau6} /out-date/
-落手 落手 [luo4 shou3] {lok6 sau2} /to take action; to carry out a certain action; to set about/
+菸鹼醯胺腺嘌呤二核苷酸 菸硷醯胺腺嘌呤二核苷酸 [yan1 jian3 xi1 an1 xian4 piao4 ling2 er4 he2 gan1 suan1] {jin1 gaan2 hei1 on1 sin3 piu1 ling4 ji6 hat6 gam1 syun1} /nicotinamide adénine dinucléotide, NAD/
+萌塞 萌塞 [meng2 sai1] {mang4 sak1} /obstiné; têtu; étroit d'esprit; qui rejette les conseils des autres/
+????c 萍蹤 萍踪 [ping2 zong1] {ping4 zung1} /(literal tracks?) Track of a wanderer/
+著 着 [zhe5] {zoek3} /(vêtement, chaussures) porter/(lumière, appareil électrique) allumer/brûler/écrire; rédiger/célèbre; connu/
+著數 着数 [zhao1 shu4] {zoek6 sou3} /bonne affaire; aubaine/profit; avantage/
+著燈 著灯 [zhao2 deng1] {zoek6 dang1} /allumer les lumières/
+著草 着草 [zhao2 cao3] {zoek3 cou2} /(fig.) (d'un criminel) fuir; être en fuite; se cacher/(lit.) porter de l'herbe/
+著衫 著衫 [zhao2 shan1] {zoek6 saam1} /porter un vêtement/
+落 落 [luo4] {lok6} /descendre/tomber/baisser/aller/ajouter/débarquer/avorter; mettre fin à une grossesse/
+落Ｄ 落Ｄ [luo4 D] {lok6 di1} /aller à un discothèque/
+落仔 落仔 [luo4 zi3] {lok6 zai2} /avorter; mettre fin à une grossesse/
+????f 落剩 落剩 [luo4 sheng4] {lok6 sing6} /qui reste; résiduaire/
+落力 落力 [luo4 li4] {lok6 lik6} /travailler fort; faire beaucoup d'effort/
+落去 落去 [luo4 qu4] {lok6 heoi3} /descendre/(en particulier) descendre l'escalier/
+落口供 落口供 [luo4 kou3 gong4] {lok6 hau2 gung1} /(police) recueillir une déclaration/
+落吧 落吧 [luo4 ba5] {lok6 baa1} /aller au bar/
+????f 落單 落单 [luo4 dan1] {lok6 daan1} /commander (quelque chose); passer une commande/(restauration) prendre une commande; noter une commande/
+落嘴頭 落嘴头 [luo4 zui3 tou2] {lok6 zeoi2 tau4} /essayer de persuader; essayer de convaincre; essayer d'amadouer (quelqu'un)/
+????f 落嚟 落嚟 [luo4 li2] {lok6 lai4} /descendre (et venir vers le locuteur)/descends! (vers moi!)/
+????f 落堂 落堂 [luo4 tang2] {lok6 tong4} /(d'une classe) terminer/
+落場 落场 [luo4 chang3] {lok6 coeng4} /partir/conclure; terminer; prendre fin/pas en service; de repos/
+落大雨 落大雨 [luo4 da4 yu3] {lok6 daai6 jyu5} /pleuvoir des cordes; pleuvoir à verse; pleuvoir à torrent; pleuvoir très fort/
+落妝 落妆 [luo4 zhuang1] {lok6 zong1} /démaquiller; enlever le maquillage/
+落定 落定 [luo4 ding4] {lok6 deng6} /verser un acompte; verser une caution (après une transaction)/
+落客 落客 [luo4 ke4] {lok6 haak3} /déposer les passagers/
+落形 落形 [luo4 xing2] {lok6 jing4} /maigrir; amaigrir/
+落後 落后 [luo4 hou4] {lok6 hau6} /prendre du retard/dépassé; démodé/
+落手 落手 [luo4 shou3] {lok6 sau2} /agir; passer à l'action; entreprendre/
 落手打三更 落手打三更 [luo4 shou3 da3 san1 geng1] {lok6 sau2 daa2 saam1 gaang1} /to do something wrongly since the very beginning/
 落手落腳 落手落脚 [luo4 shou3 lao4 jiao3] {lok6 sau2 lok6 goek3} /(slang) someone is doing work by herself or himself physically; to get one's hands dirty in work; to put one's hands and feet to work/
 落晒形 落晒形 [luo4 shai4 xing2] {lok6 saai3 jing4} /look sad or tired (spoken)/
