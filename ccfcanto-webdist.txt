@@ -14703,7 +14703,7 @@
 矇查查 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/confus; étourdi/
 矇査査 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/confus; étourdi/
 矇矇光 蒙蒙光 [meng2 meng2 guang1] {mung1 mung1 gwong1} /(fig.) l'aube; lever du jour/(lit.) lumière floue/
-矇茶茶 蒙茶茶 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/confus; étourdi/
+矇茶茶 蒙茶茶 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/
 ????f 矇豬眼 蒙猪眼 [meng2 zhu1 yan3] {mung1 zyu1 ngaan5} /(noun) small eyes; eyes that look like slits/
 ????f 矚目 瞩目 [zhu3 mu4] {zuk1 muk6} /attrayant; qui attire l'œil/eye-catching/
 ????c 矛 矛 [mao2] {maau4} /pique; lance/malhonnête; sournois/futé/
@@ -17150,53 +17150,53 @@
 ????c 落袋 落袋 [luo4 dai4] {lok6 doi2} /to put in the pocket; to pocket (pool, income, literal?)/
 落訂 落订 [luo4 ding4] {lok6 deng6} /verser un acompte; verser une caution/
 落足 落足 [luo4 zu2] {lok6 zuk1} /put sufficient; to put in a lot of …./
-落車 落车 [luo4 che1] {lok6 ce1} /(verb) to get off a vehicle; to get out (of a vehicle)/
-落鄉 落乡 [luo4 xiang1] {lok6 hoeng1} /go to hometown; to go to the countryside/
-落閘放狗 落闸放狗 [luo4 zha2 fang4 gou3] {lok6 zaap6 fong3 gau2} /(to close the gate and unleash the dogs to ward off burglars); to express that a place is closed and visitors are not welcome; a phrase used for telling coworkers that it's time to lock up soon so that they should hurry and finish what they are doing; a phrase used to warn those who come asking for trouble to watch out and be careful of their actions/
-落降頭 落降头 [luo4 jiang4 tou2] {lok6 gong3 tau4} /cast a voodoo curse/
-落雨 落雨 [luo4 yu3] {lok6 jyu5} /(verb) to rain/
-落雨收柴 落雨收柴 [luo4 yu3 shou1 chai2] {lok6 jyu5 sau1 caai4} /tasks left unfinished (slang)/
-落雨溦 落雨溦 [luo4 yu3 mei2] {lok6 jyu5 mei4} /drizzle/
-落雨濕濕 落雨湿湿 [luo4 yu3 chi4 chi4] {lok6 jyu5 sap1 sap1} /getting wet from the rain (spoken)/
-落雨絲濕 落雨丝濕 [luo4 yu3 si1 chi4] {lok6 jyu5 si1 sap1} /a situation where the road is slippery when raining; damp and wet everywhere due to the rain/
-落雪 落雪 [luo4 xue3] {lok6 syut3} /snowing/
-落雪水 落雪水 [luo4 xue3 shui3] {lok6 syut3 seoi2} /raining lightly and very cold/
-落面 落面 [luo4 mian4] {lok6 min2} /a situation where a person's dignity has been humiliated causing him/her to lose 'face' in front of others/
-落鞋油 落鞋油 [luo4 xie2 you2] {lok6 haai4 jau2} /(literally: to put on shoe polish); to flatter, to be obsequious/
-落髮 落发 [luo4 fa4] {lok6 faat3} /tonsure, to shave one's head to be a monk or a nun/
-落麵 落面 [luo4 mian4] {lok6 min6} /If read as 'lok6 min6': cook the noodle; If read as 'lok6 min2' 落面: to lose face/
-葉 叶 [ye4] {jip6} /(noun)  Chinese surname/
-葉世榮 叶世荣 [ye4 shi4 rong2] {jip6 sai3 wing4} /Yip Sai Wing, name of a Hong Kong singer/
-葉劉淑儀 叶刘淑仪 [ye4 liu2 shu1 yi2] {jip6 lau4 suk6 ji4} /Regina Ip Lau Suk-yee, name of a Hong Kong politician/
-葉國謙 叶国谦 [ye4 guo2 qian1] {jip6 gwok3 him1} /Ip Kwok-him, name of a Hong Kong politician/
-葉菜 叶菜 [ye4 cai4] {jip6 coi3} /Leafy vegetable/
-葉蘊儀 叶蘊仪 [ye4 wen1 yi2] {jip6 wan2 ji4} /Gloria Yip Wan-Yee, name of a Hong Kong actress/
-葛民輝 葛民辉 [ge2 min2 hui1] {got3 man4 fai1} /Eric Kot Man Fai, name of a Hong Kong actor/
-葛量洪醫院 葛量洪医院 [ge2 liang4 hong2 yi1 yuan4] {got3 loeng6 hung4 ji1 jyun2} /Grantham Hospital, a hospital in Hong Kong/
-葡國 葡国 [Pu2 guo2] {pou4 gwok3} /Portugal/
-葡國菜 葡国菜 [Pu2 guo2 cai4] {pou4 gwok3 coi3} /Portuguese cuisine/
-葡幣 葡币 [pu2 bi4] {pou4 bai6} /Macao Pataca (currency)/
-葡提子 葡提子 [pu2 ti2 zi5] {pou4 tai4 zi2} /grapes/
-葡文 葡文 [Pu2 wen2] {pou4 man2} /Portuguese/
+落車 落车 [luo4 che1] {lok6 ce1} /descendre d'un véhicule; débarquer/
+落鄉 落乡 [luo4 xiang1] {lok6 hoeng1} /aller à la campagne/aller à sa ville natale/
+????f 落閘放狗 落闸放狗 [luo4 zha2 fang4 gou3] {lok6 zaap6 fong3 gau2} /(expr. idiom.) fermer boutique/(expr. idiom.) (expression utilisée pour presser ses collègues avant l'heure de fermeture et leur encourager à finir leurs tâches rapidement)/(expr. idiom.) (expression utilisée pour mettre en garde des visiteurs)/(lit.) fermer le portail et lâcher les chiens/
+落降頭 落降头 [luo4 jiang4 tou2] {lok6 gong3 tau4} /jeter un sort vaudou/
+落雨 落雨 [luo4 yu3] {lok6 jyu5} /pleuvoir/
+落雨收柴 落雨收柴 [luo4 yu3 shou1 chai2] {lok6 jyu5 sau1 caai4} /(expr. idiom.) accomplir une tâche avec négligence; bâcler le travail; faire quelque chose de manière précipitée/(lit.) ramasser le bois de chauffage quand il commence à pleuvoir/
+落雨溦 落雨溦 [luo4 yu3 mei2] {lok6 jyu5 mei4} /bruiner; pleuvioter/
+落雨濕濕 落雨湿湿 [luo4 yu3 chi4 chi4] {lok6 jyu5 sap1 sap1} /être trempé par la pluie/
+????f 落雨絲濕 落雨丝濕 [luo4 yu3 si1 chi4] {lok6 jyu5 si1 sap1} /situation où les rues sont glissantes à cause de la pluie/être trempé par la pluie/
+落雪 落雪 [luo4 xue3] {lok6 syut3} /neiger/
+????f 落雪水 落雪水 [luo4 xue3 shui3] {lok6 syut3 seoi2} /pleuvioter une pluie froide/
+落面 落面 [luo4 mian4] {lok6 min2} /perdre la face; être humilié/
+落鞋油 落鞋油 [luo4 xie2 you2] {lok6 haai4 jau2} /(fig.) flatter; flagorner; lécher les bottes/(lit.) mettre du cirage sur les chaussures/
+落髮 落发 [luo4 fa4] {lok6 faat3} /prendre la tonsure; se raser les cheveux pour devenir moine/
+落麵 落面 [luo4 mian4] {lok6 min6} /faire cuire des nouilles/
+葉 叶 [ye4] {jip6} /(nom de famille chinois)/
+葉世榮 叶世荣 [ye4 shi4 rong2] {jip6 sai3 wing4} /Yip Sai Wing, musicienne hongkongaise/
+葉劉淑儀 叶刘淑仪 [ye4 liu2 shu1 yi2] {jip6 lau4 suk6 ji4} /Regina Ip Lau Suk-yee, femme politique hongkongaise/
+葉國謙 叶国谦 [ye4 guo2 qian1] {jip6 gwok3 him1} /Ip Kwok-him, homme politique hongkongais/
+葉菜 叶菜 [ye4 cai4] {jip6 coi3} /légumes verts feuillus/
+葉蘊儀 叶蘊仪 [ye4 wen1 yi2] {jip6 wan2 ji4} /Gloria Yip Wan-Yee, actrice et chanteuse hongkongaise/
+葛民輝 葛民辉 [ge2 min2 hui1] {got3 man4 fai1} /Eric Kot Man Fai, chanteur et acteur hongkongais/
+葛量洪醫院 葛量洪医院 [ge2 liang4 hong2 yi1 yuan4] {got3 loeng6 hung4 ji1 jyun2} /Grantham Hospital, hôpital à Hong Kong/
+葡國 葡国 [pu2 guo2] {pou4 gwok3} /Portugal/
+葡國菜 葡国菜 [Pu2 guo2 cai4] {pou4 gwok3 coi3} /cuisine portugaise/
+葡幣 葡币 [pu2 bi4] {pou4 bai6} /pataca, monnaie de Macao/
+葡提子 葡提子 [pu2 ti2 zi5] {pou4 tai4 zi2} /raisin/
+葡文 葡文 [Pu2 wen2] {pou4 man2} /(langue) portugais/
 董事 董事 [dong3 shi4] {dung2 si6} /(noun)  the director of a company/
 葫蘆王 葫芦王 [hu2 lu5 wang2] {wu4 lou2 wong4} /someone who likes to brag and lie/
 葱度 葱度 [cong1 du4] {cung1 dou2} /scallion or spring onions that has been chopped into an inch in length/
 葵扇 葵扇 [kui2 shan4] {kwai4 sin3} /spade (the suit in a pack of playing cards); a palm leaf fan/
-葵瓜子 葵瓜子 [kui2 gua1 zi3] {kwai4 gwaa1 zi2} /sunflower seeds/
+葵瓜子 葵瓜子 [kui2 gua1 zi3] {kwai4 gwaa1 zi2} /graines de tournesol/
 葵興 葵兴 [kui2 xing1] {kwai4 hing1} /Kwai Hing; an area of Kwai Chung Town in Hong Kong/
 葵芳 葵芳 [kui2 fang1] {kwai4 fong1} /Kwai Fong; an area of Kwai Chung Town in Hong Kong/
 葵青區 葵青区 [Kui2 qing1 qu1] {kwai4 cing1 keoi1} /Kwai Tsing District; one of the districts in Hong Kong/
 葾崩爛臭 葾崩烂臭 [yuan1 beng1 lan4 chou4] {jyun1 bang1 laan6 cau3} /Extremely smelly; stench; stinks/
 蒔田 莳田 [shi4 tian2] {si4 tin4} /planting of crops/
-蒙古症 蒙古症 [meng3 gu3 zheng4] {mung4 gu2 zing3} /Down syndrome/
-蒙查查 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /difficult to discern; blur; muddled; (of a situation or something) unclear/
-蒙特婁 蒙特娄 [meng2 te4 lou2] {mung4 dak6 lau4} /Montreal/
-蒜子 蒜子 [suan4 zi3] {syun3 zi2} /garlic/
+蒙古症 蒙古症 [meng3 gu3 zheng4] {mung4 gu2 zing3} /trisomie 21; syndrome de Down/
+蒙查查 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /confus; étourdi/flou; vague/
+蒙特婁 蒙特娄 [meng2 te4 lou2] {mung4 dak6 lau4} /(plus rare) Montréal (voir aussi 滿地可|满地可)/
+蒜子 蒜子 [suan4 zi3] {syun3 zi2} /ail/
 蒜子肉 蒜子肉 [suan4 zi3 rou4] {syun3 zi2 juk6} / the thigh meat of Chinese edible bullfrog/
-蒜心 蒜心 [suan4 xin1] {syun3 sam1} /Garlic shoot/
-蒜芯 蒜芯 [suan4 xin1] {syun3 sam1} /Garlic shoot/
-蒜頭 蒜头 [Suan4 tou2] {syun3 tau4} /(noun) (food) garlic/
-蒜頭 蒜头 [suan4 tou2] {syun3 tau4} /Garlic/
+蒜心 蒜心 [suan4 xin1] {syun3 sam1} /fleur d'ail/
+蒜芯 蒜芯 [suan4 xin1] {syun3 sam1} /fleur d'ail/
+蒜頭 蒜头 [suan4 tou2] {syun3 tau4} /ail/
+蒜頭 蒜头 [suan4 tou2] {syun3 tau4} /ail/
 蒲 蒲 [pu2] {pou4} /(verb)  hang out and night out (with friends in bars, clubs, etc. and for loafing about)/
 蒲台島 蒲台岛 [pu2 tai2 dao3] {pou4 toi4 dou2} /Po Toi island; the southernmost island of Hong Kong/
 蒲吧 蒲吧 [pu2 ba5] {pou4 baa1} /to hang out at a bar/
