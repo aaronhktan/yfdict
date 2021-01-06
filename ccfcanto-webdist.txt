@@ -15496,7 +15496,7 @@
 ????c 籠𨋢 笼𨋢 [] {lung4 lip1} /industrial elevator/
 籮 箩 [luo2] {lo4} /(fam.) fesses; derrière/
 籮噼 箩噼 [luo2 pi1] {lo1 pet1} /(fam.) fesses; derrière/
-籮底橙 箩底橙 [luo2 di3 cheng2] {lo4 dai2 caang2} /(fig.) fond du panier; produits restants que personne ne veut/(fig.) femmes qui restent célibataires toute leur vie/(lit.) oranges (qui restent) au fond/
+籮底橙 箩底橙 [luo2 di3 cheng2] {lo4 dai2 caang2} /(fig.) fond du panier; produits restants que personne ne veut/(fig.) (péj.) femmes qui restent célibataires toute leur vie/(lit.) oranges (qui restent) au fond/
 ????f 米缸 米缸 [mi3 gang1] {mai5 gong1} /(noun) a vat to store rice; a container to store rice/
 米舖 米铺 [mi3 pu4] {mai5 pou3} /magasin de riz/
 米色 米色 [mi3 se4] {mai5 sik1} /beige/
@@ -17299,18 +17299,18 @@
 藥材 药材 [yao4 cai2] {joek6 coi4} /plante médicinale chinoise/
 藥材舖 药材铺 [yao4 cai2 pu4] {joek6 coi4 pou2} /herboristerie; boutique d'herboriste/
 藥材鋪 药材铺 [yao4 cai2 pu4] {joek6 coi4 pou2} /herboristerie; boutique d'herboriste/
-藥油 药油 [yao4 you2] {joek6 jau4} /medicated oil/
-藥粉 药粉 [yao4 fen3] {joek6 fan2} /Medicinal powder/
+????f 藥油 药油 [yao4 you2] {joek6 jau4} /huile médicamenteuse/
+藥粉 药粉 [yao4 fen3] {joek6 fan2} /poudre médicinale/
 藥費 药费 [yao4 fei4] {joek6 fai3} /frais médicaux/
-藥酒 药酒 [yao4 jiu3] {joek6 zau2} /a liniment/
+????f 藥酒 药酒 [yao4 jiu3] {joek6 zau2} /(médecine traditionelle chinoise) liqueur médicinal/
 藥餅 药饼 [yao4 bing3] {joek6 beng2} /comprimé médicinal/
 藴含 蕴含 [yun4 han2] {wan5 ham4} /contenir; renfermer/
 藴藏 蕴藏 [yun4 cang2] {wan2 cong4} /contenir; renfermer/
-藹然可親 蔼然可亲 [ai3 ran2 ke3 qin1] {oi2 jin4 ho2 can1} /Amiable and approachable/
+藹然可親 蔼然可亲 [ai3 ran2 ke3 qin1] {oi2 jin4 ho2 can1} /aimable; gentil/
 蘆橘 芦橘 [lu2 ju2] {lou4 gwat1} /(fruit) bibace, bibasse/
-蘇屋邨 苏屋村 [su1 wu1 cun1] {sou1 uk1 cyun1} /So Uk Estate, an estate in Hong Kong/
-蘇州屎 苏州屎 [Su1 zhou1 shi3] {sou1 zau1 si2} /(slang) the mess / sticky business / logjam that is left behind by someone else/
-蘇州過後冇艇搭 苏州过后冇艇搭 [Su1 zhou1 guo4 hou4 mao3 ting3 da1] {sou1 zau1 gwo3 hau6 mou5 teng5 daap3} /(phrase) If you let the chance slip away, you are not going to have a second one; opportunity knocks but once/
+蘇屋邨 苏屋村 [su1 wu1 cun1] {sou1 uk1 cyun1} /So Uk Estate, ensemble immobilier de Hong Kong/
+????f 蘇州屎 苏州屎 [su1 zhou1 shi3] {sou1 zau1 si2} /(fig.) dégâts laissés par quelqu'un d'autre; ennuis créés par quelqu'un d'autre/(lit.) excrément de Suzhou/
+????f 蘇州過後冇艇搭 苏州过后冇艇搭 [su1 zhou1 guo4 hou4 mao3 ting3 da1] {sou1 zau1 gwo3 hau6 mou5 teng5 daap3} /(expr. idiom.) c'est votre dernière chance! la bonne occasion ne se présente pas deux fois!/(lit.) après avoir dépassé Suzhou, il n'y aura pas de bateaux sur lesquels monter/
 蘇彝士 苏彝士 [su1 yi2 shi4] {sou1 ji4 si6} /Suez, ville d'Égypte/
 蘇彝士運河 苏彝士运河 [su1 yi2 shi4 yun4 he2] {sou1 ji4 si6 wan6 ho4} /canal de Suez/
 蘇格蘭皇家銀行 苏格兰皇家银行 [su1 ge2 lan2 huang2 jia1 yin2 hang2] {sou1 gaak3 laan4 wong4 gaa1 ngan4 hong4} /Royal Bank of Scotland; Banque royale d'Écosse/
@@ -17323,55 +17323,56 @@
 蘇錦樑 苏锦梁 [su1 jin3 liang2] {sou1 gam2 loeng4} /Gregory So Kam-leung, ancien secrétaire de commerce et développement économique de Hong Kong/ 
 蘋果批 苹果批 [ping2 guo3 pi1] {ping4 gwo2 pai1} /tarte aux pommes/
 蘋果日報 苹果日报 [ping2 guo3 Ri4 bao4] {ping4 gwo2 jat6 bou3} /Apple Daily, quotidien hongkongais/
-蘢蔥 茏葱 [long2 cong1] {lung4 cung1} /The trees and grass are green; verdant/
-蘭亭 兰亭 [lan2 ting2] {laan4 ting4} /Lanting, place in China; the Orchid Pavilion, one of the gathering place for poets in the past/
-蘭桂坊 兰桂坊 [lan2 gui4 fang1] {laan4 gwai3 fong1} /Lan Kwai Fong/
-蘭開夏道 兰开夏道 [lan2 kai1 xia4 dao4] {laan4 hoi1 haa6 dou6} /Lancashire Road; a street in Kowloong Tong, Hong Kong/
-蘿底橙 萝底橙 [luo2 di3 cheng2] {lo4 dai2 caang2} /literally: 'leftover orange'; used to describe leftover goods that no one wants that are of inferior quality; it is often used as a derogatory term to refer to women who are the "Leftover Women" and unwanted by men/
-蘿柚 萝柚 [luo2 you4] {lo1 jau2} /butt/
-蘿蔔仔 萝卜仔 [luo2 bo5 zi3] {lo4 baak6 zai2} /chilblain; frostbite/
-蘿蔔頭 萝卜头 [luo2 bo5 tou2] {lo4 baak6 tau4} /an offensive slang for a Japanese person; literally 'carrot head'/
-虎 虎 [hu3] {fu2} /(slang)  wife (who is savage and mean usually)/
-虎狼 虎狼 [hu3 lang2] {fu2 long4} /to describe someone who is as ferocious or ruthless as tigers and wolves/
-虎穴 虎穴 [hu3 xue2] {fu2 jyut6} /tiger's den; dangerous place (spoken)/
-虎落平陽被犬欺 虎落平阳被犬欺 [hu3 luo4 ping2 yang2 bei4 quan3 qi1] {fu2 lok6 ping4 joeng4 bei6 hyun2 hei1} /A man who loses position and influence may be subjected to much indignity/
-虎豹別墅 虎豹别墅 [hu3 bao4 bie2 shu4] {fu2 paau3 bit6 seoi5} /Haw Par Mansion; Tiger Balm Garden, located in Hong Kong/
-虐畜 虐畜 [nüe4 chu4] {joek6 cuk1} /animal cruelty/
-虔婆 虔婆 [qian2 po2] {kin4 po4} /a procuress/
-處 处 [chu4] {cyu2} /(preposition) 1. at (somewhere); (verb) 1. be sited in (situation); 2. condemn; 3. get along with (someone);/
-處女地 处女地 [chu3 nü3 di4] {cyu2 neoi2 dei6} /virgin land; virgin soil; undeveloped land/
-處罰 处罚 [chu3 fa2] {cyu2 fat6} /penalty; punishment/
-虙 虙 [fu2] {fuk6} /a surname/
-虛 虚 [xu1] {heoi1} /(adjective)  Unreal/
-虛假 虚假 [xu1 jia3] {heoi1 gaa2} /fake/
-虛底 虚底 [xu1 di3] {heoi1 dai2} /fake backup; in poor health/
-虛構 虚构 [xu1 gou4] {heoi1 kau3} /to frabicate/
-虛浮 虚浮 [xu1 fu2] {heoi1 fau4} /emptied; lack of sunstance/
-虛設 虚设 [xu1 she4] {heoi1 cit3} /Something that is nominal and exist in name only; something that is there to act as a dummy only/
-號叫 号叫 [hao2 jiao4] {hou6 giu3} /to howl; to shout/
-虧佬 亏佬 [kui1 lao3] {kwai1 lou2} /weak man (slang)/
-虧友 亏友 [kui1 you3] {kwai1 jau2} /someone who is physically weak or in poor health/
-虧弱 亏弱 [kui1 ruo4] {kwai1 joek6} /debilitated; weak/
-虧柴 亏柴 [kui1 chai2] {kwai1 caai4} /weak and thin (spoken)/
-虧蝕 亏蚀 [kui1 shi2] {kwai1 sit6} /Losses; to have a deficit/
-虱乸 虱乸 [shi1 na2] {sat1 naa2} /lice; fleas (spoken)/
-虱乸春 虱乸春 [shi1 na2 chun1] {sat1 naa2 ceon1} /the egg of a louse; nit/
-蚊 蚊 [wen2] {man1} /(noun) 1. money; (coin) 1. one dollar; 2. two dollar/
-蚊瞓 蚊瞓 [wen2 fen4] {man1 fan3} /too late/
-蚊螆 蚊螆 [wen2 ci4] {man1 zi1} /mosquito (spoken)/
-蚊赧 蚊赧 [wen2 nan3] {man1 naan5} /mosquito bites (spoken)/
-蚊都瞓 蚊都瞓 [wen2 dou1 fen4] {man1 dou1 fan3} /too late (spoken)/
-蚊都瞓啦 蚊都瞓啦 [wen2 dou1 fen4 la5] {man1 dou1 fan3 laa1} /it would be too late/
-蚊雞 蚊鸡 [wen2 ji1] {man1 gai1} /an informal way to refer to the Hong Kong dollar(s) units/
-蚊飯 蚊饭 [wen2 fan4] {man1 faan6} /(literally: mosquito meal); blood/
-蚊髀同牛髀 蚊髀同牛髀 [wen2 bi4 tong2 niu2 bi4] {man1 bei2 tung4 ngau4 bei2} /(literally: a mosquito's thigh compared with a cow's thigh); there is a great disparity between two things, where one is incomparable to the other/
-蛀書蟲 蛀书虫 [zhu4 shu1 chong2] {zyu3 syu1 cung4} /a bookworm/
-蛀米大蟲 蛀米大虫 [zhu4 mi3 da4 chong2] {zyu3 mai5 daai6 cung4} /lazy person; one who is not willing to look for work (slang)/
-蛇 蛇 [she2] {se4} /(slang) 1. to take a break; (slang) 1. Illegal immigrants; (loanword of sir)  male police officer or male teacher/
+蘢蔥 茏葱 [long2 cong1] {lung4 cung1} /(litt.) verdoyant/
+蘭亭 兰亭 [lan2 ting2] {laan4 ting4} /pavillon des Orchidées, lieu d'une réunion célèbre de poètes (voir aussi 蘭亭集序|兰亭集序)/
+蘭亭集序 兰亭集序 [lan2 ting2 ji2 xu4] {laan4 ting4 zaap6 zeoi6} /Préface au recueil du pavillon des Orchidées, œuvre littéraire de Wang Xizhi/
+蘭桂坊 兰桂坊 [lan2 gui4 fang1] {laan4 gwai3 fong1} /Lan Kwai Fong, ensemble de rues animées de Central, à Hong Kong/
+蘭開夏道 兰开夏道 [lan2 kai1 xia4 dao4] {laan4 hoi1 haa6 dou6} /Lancashire Road, rue de Hong Kong/
+蘿底橙 萝底橙 [luo2 di3 cheng2] {lo4 dai2 caang2} /(fig.) fond du panier; produits restants que personne ne veut/(fig.) (péj.) femmes qui restent célibataires toute leur vie/(lit.) oranges (qui restent) au fond/
+蘿柚 萝柚 [luo2 you4] {lo1 jau2} /fesse; derrière/
+蘿蔔仔 萝卜仔 [luo2 bo5 zi3] {lo4 baak6 zai2} /gelure; engelure/radis/(inj.) Japonais, Japonaise/
+蘿蔔頭 萝卜头 [luo2 bo5 tou2] {lo4 baak6 tau4} /(inj.) Japonais, Japonaise/(lit.) tête à carottes/
+虎 虎 [hu3] {fu2} /tigre/(fam.) (inj.) méchante femme/
+虎狼 虎狼 [hu3 lang2] {fu2 long4} /(fig.) féroce; cruel; impitoyable; brutal/(lit.) tigre et loup/
+虎穴 虎穴 [hu3 xue2] {fu2 jyut6} /(fig.) lieu dangereux/(lit.) repaire du tigre/
+????f 虎落平陽被犬欺 虎落平阳被犬欺 [hu3 luo4 ping2 yang2 bei4 quan3 qi1] {fu2 lok6 ping4 joeng4 bei6 hyun2 hei1} /(expr. idiom.) une personne qui a perdu son pouvoir sera maltraitée/(lit.) un tigre qui descend de sa montagne sera maltraité par les chiens/
+虎豹別墅 虎豹别墅 [hu3 bao4 bie2 shu4] {fu2 paau3 bit6 seoi5} /Haw Par Mansion; Tiger Balm Garden, manoir historique situé à Hong Kong/
+虐畜 虐畜 [nu:e4 chu4] {joek6 cuk1} /cruauté envers les animaux/
+虔婆 虔婆 [qian2 po2] {kin4 po4} /maquerelle/
+處 处 [chu4] {cyu5} /à (un lieu)/avoir lieu à (un lieu)/(droit) condamner/puninr; châtier; pénaliser/s'entendre avec quelqu'un/vierge/virginité/
+處女地 处女地 [chu3 nu:3 di4] {cyu2 neoi2 dei6} /terre vierge/
+處罰 处罚 [chu3 fa2] {cyu2 fat6} /punir; châtir; pénaliser/
+虙 虙 [fu2] {fuk6} /(nom de famille chinois)/
+虛 虚 [xu1] {heoi1} /faux/faible/
+虛假 虚假 [xu1 jia3] {heoi1 gaa2} /faux/
+虛底 虚底 [xu1 di3] {heoi1 dai2} /en mauvaise santé/
+虛構 虚构 [xu1 gou4] {heoi1 kau3} /inventer (des histoires); fabriquer (un mensonge)/
+虛浮 虚浮 [xu1 fu2] {heoi1 fau4} /irréaliste; impraticable/
+虛設 虚设 [xu1 she4] {heoi1 cit3} /être nominal; ne pas avoir de vrai pouvoir; n'exister que de nom seulement/
+號叫 号叫 [hao2 jiao4] {hou6 giu3} /crier; pousser un cri; hurler/
+虧佬 亏佬 [kui1 lao3] {kwai1 lou2} /(péj.) homme faible; homme frêle; homme impotent/
+虧友 亏友 [kui1 you3] {kwai1 jau2} /personne en mauvaise santé/
+虧弱 亏弱 [kui1 ruo4] {kwai1 joek6} /faible; affaibli; en mauvaise santé/
+虧柴 亏柴 [kui1 chai2] {kwai1 caai4} /(péj.) personne en mauvaise santé; personne frêle; personne faible/
+虧蝕 亏蚀 [kui1 shi2] {kwai1 sit6} /perdre de l'argent/
+虱乸 虱乸 [shi1 na2] {sat1 naa2} /(insecte) pou/(insecte) puce/
+虱乸春 虱乸春 [shi1 na2 chun1] {sat1 naa2 ceon1} /lente; œuf du pou/
+蚊 蚊 [wen2] {man1} /moustique; maringouin/argent/dollar/
+蚊瞓 蚊瞓 [wen2 fen4] {man1 fan3} /(expr.) trop tard/(lit.) un moustique dort/
+蚊螆 蚊螆 [wen2 ci4] {man1 zi1} /moustique; maringouin/
+蚊赧 蚊赧 [wen2 nan3] {man1 naan5} /piqûre de moustique/
+蚊都瞓 蚊都瞓 [wen2 dou1 fen4] {man1 dou1 fan3} /(expr.) trop tard/(lit.) même un moustique s'endormirait/
+蚊都瞓啦 蚊都瞓啦 [wen2 dou1 fen4 la5] {man1 dou1 fan3 laa1} /(expr.) trop tard/(lit.) même un moustique s'endormirait/
+蚊雞 蚊鸡 [wen2 ji1] {man1 gai1} /(fam.) dollar/
+蚊飯 蚊饭 [wen2 fan4] {man1 faan6} /(fig.) sang/(lit.) repas du moustique/
+蚊髀同牛髀 蚊髀同牛髀 [wen2 bi4 tong2 niu2 bi4] {man1 bei2 tung4 ngau4 bei2} /(expr. idiom.) incomparable; qui ne peut pas être comparé; complètement différent/(lit.) cuisse d'un moustique et cuisse d'un bœuf/
+蛀書蟲 蛀书虫 [zhu4 shu1 chong2] {zyu3 syu1 cung4} /lecteur avide; rat de bibliothèque/(lit.) insecte qui dévore les livres/
+蛀米大蟲 蛀米大虫 [zhu4 mi3 da4 chong2] {zyu3 mai5 daai6 cung4} /(expr. idiom.) personne paresseuse; personne oisive/(lit.) grand insecte qui mange le riz/
+蛇 蛇 [she2] {se4} /serpent/se relâcher; éviter son travail/faire une pause/immigrant illégal/policier (de sexe masculin)/enseignant; prof (de sexe masculin)/
 蛇仔 蛇仔 [she2 zai3] {se4 zai2} /literal meaning or translation: small snake(s); the driver's assistant whose job is to help with maintaining the vehicles and to solicit customers; a middleman who helps loansharks to solicit customers /
-蛇匪 蛇匪 [she2 fei3] {se4 fei2} /Criminals that are illegal immigrants/
-蛇口 蛇口 [She2 kou3] {se4 hau2} /Shekou, place in China/
-蛇喱眼 蛇喱眼 [she2 li2 yan3] {se4 lei2 ngaan5} /looking down on one; peeking (slang)/
+蛇匪 蛇匪 [she2 fei3] {se4 fei2} /criminel qui est un immigrant illégal/
+蛇口 蛇口 [She2 kou3] {se4 hau2} /Shekou, sous-district de Shenzhen/
+????c 蛇喱眼 蛇喱眼 [she2 li2 yan3] {se4 lei2 ngaan5} /looking down on one; peeking (slang)/strabisme/
 蛇宴 蛇宴 [she2 yan4] {se4 jin3} /banquet that serves snakes as the main dishes/
 蛇有蛇路，鼠有鼠路 蛇有蛇路，鼠有鼠路 [she2 you3 she2 lu4 shu3 you3 shu3 lu4] {se4 jau5 se4 lou6 syu2 jau5 syu2 lou6} //
 蛇果 蛇果 [she2 guo3] {se4 gwo2} /red delicious (type of apple)/
@@ -18597,7 +18598,7 @@
 賣仔莫摸頭 卖仔莫摸头 [mai4 zi3 mo4 mo1 tou2] {maai6 zai2 mok6 mo2 tau4} /one should be resolute (harden their hearts) and be willing to let go once they have decided on something (especially when compelled by circumstances) and not allow themselves any chance to renege/
 賣俏 卖俏 [mai4 qiao4] {maai6 ciu3} /to play the  coquette; to flirt; to act coquettish/
 賣兒鬻女 卖儿鬻女 [mai4 er2 yu4 nü3] {maai6 ji4 juk6 neoi5} / to sell one's children when compelled by poverty/
-賣剩蔗 卖剩蔗 [mai4 sheng4 zhe4] {maai6 zing6 ze3} /(slang) literally 'the leftover sugar cane; the leftovers that no one wants after all the good ones has been picked, often used in a derogatory way to refer to refer to women who are 'the leftover women' that no man wants/
+賣剩蔗 卖剩蔗 [mai4 sheng4 zhe4] {maai6 zing6 ze3} /(fig.) fond du panier; produits restants que personne ne veut/(fig.) (péj.) femmes qui restent célibataires toute leur vie/(lit.) cannes à sucre (qui restent) au fond/
 賣口乖 卖口乖 [mai4 kou3 guai1] {maai6 hau2 gwaai1} /to pay lip service/
 賣告白 卖告白 [mai4 gao4 bai2] {maai6 gou3 baak6} /advertising (slang)/
 賣唱 卖唱 [mai4 chang4] {maai6 coeng3} /making a living by singing (spoken)/
