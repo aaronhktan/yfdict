@@ -17386,13 +17386,13 @@
 蛇行 蛇行 [she2 xing2] {se4 hang4} /zigzaguer/serpenter/ramper/
 ????c 蛇見硫磺 蛇见硫磺 [she2 jian4 liu2 huang2] {se4 gin3 lau4 wong4} /clashing with each other/
 蛇都死 蛇都死 [she2 dou1 si3] {se4 dou1 sei2} /(fig.) trop tard/(lit.) même un serpent mourrait/
-蛇頭鼠眼 蛇头鼠眼 [she2 tou2 shu3 yan3] {se4 tau4 syu2 ngaan5} /(expr. idiom.) avoir un air louche/(lit.) tête de serpent, yeux de souris/
+蛇頭鼠眼 蛇头鼠眼 [she2 tou2 shu3 yan3] {se4 tau4 syu2 ngaan5} /(expr. idiom.) avoir un air louche; avoir un air surnois/(lit.) tête de serpent, yeux de souris/
 ????f 蛇鼠一窩 蛇鼠一窝 [she2 shu3 yi4 wo1] {se4 syu2 jat1 wo1} /(expr. idiom.) deux mauvaises personnes qui conspirent ensemble/(lit.) serpent et souris vivant dans la même repaire/
 蛋家 蛋家 [dan4 jia1] {daan6 gaa1} /Tanka, peuple des bateaux/
 蛋形 蛋形 [dan4 xing2] {daan2 jing4} /ovoïde; en forme d'œuf/
 ????f 蛋捲 蛋卷 [dan4 juan3] {daan6 gyun2} /barquillo, patisserie espagnole/
 蛋撻 蛋挞 [dan4 ta4] {daan6 taat1} /tarte aux œufs, spécialité hongkongaise/
-蛋散 蛋散 [dan4 san4] {daan6 saan2} /fried dough twist, Cantonese fried pastry/(fig.) personne sans valeur; idiot; imbécile/
+????f 蛋散 蛋散 [dan4 san4] {daan6 saan2} /fried dough twist, Cantonese fried pastry/(fig.) personne sans valeur; idiot; imbécile/
 蛋杯 蛋杯 [dan4 bei1] {daan2 bui1} /coquetier/
 蛋治 蛋治 [dan4 zhi4] {daan2 zi6} /sandwich aux œufs/
 蛋筒 蛋筒 [dan4 tong3] {daan6 tung2} /barquillo, patisserie espagnole/
@@ -17402,18 +17402,18 @@
 蛐蛐 蛐蛐 [qu1 qu5] {kuk1 kuk1} /grillon/
 蛙人 蛙人 [wa1 ren2] {waa1 jan4} /nageur de combat; plongeur de combat/
 蛤乸 蛤乸 [ge2 na2] {gap3 naa2, gaap3 naa2, gap1 naa2} /crapaud/grosse grenouille/
-蛤蚧 蛤蚧 [ge2 jie4] {gap3 gaai3} /(noun) (of TCM)  Dried gecko, which is a kind of animal crude drugs /
+蛤蚧 蛤蚧 [ge2 jie4] {gap3 gaai3} /(espèce de geckos) Gekko gecko, Gecko tokay, Gecko des habitations/
 蛤𧊅 蛤𧊅 [ha2 guai3] {gaap3 gwaai2} /grenouille/
-蛾喉 蛾喉 [e2 hou2] {ngo4 hau4} /acute tonsilitis/
+蛾喉 蛾喉 [e2 hou2] {ngo4 hau4} /infammation des amygdales; amygdalite/
 蛾眉月 蛾眉月 [e2 mei2 yue4] {ngo4 mei4 jyut2} /croissant de lune/
 蜂竇 蜂窦 [feng1 dou4] {fung1 dau3} /ruche; structure abritant une colonie d'abeilles/
 蜆 蚬 [xian3] {hin2} /palourde/moule/
-蜆塘 蚬塘 [xian3 tang2] {hin2 tong4} /a reservoir for clam farming/
+????f 蜆塘 蚬塘 [xian3 tang2] {hin2 tong4} /petit lac destiné à l'élevage de palourdes/
 蜆殼 蚬壳 [xian3 qiao4] {hin2 hok3} /Shell, compagnie pétrolière/
 蜆殼字 蚬壳字 [xian3 qiao4 zi4] {hin2 hok3 zi6} /antonymes/
 蜆殼粉 蚬壳粉 [xian3 qiao4 fen3] {hin2 hok3 fan2} /conchiglie, pâte en forme de coquilles/
 蜆鴨 蚬鸭 [xian3 ya1] {hin2 aap3} /canard sauvage/
-蜑家話 蛋家话 [dan4 jia1 hua4] {daan6 gaa1 waa2} /dialecte des Tanka/
+蜑家話 蛋家话 [dan4 jia1 hua4] {daan6 gaa1 waa2} /dialecte des Tankas/
 蜜 蜜 [mi4] {mat6} /miel/sirupeux/doux; sucré/
 蜜瓜 蜜瓜 [mi4 gua1] {mat6 gwaa1} /melon honeydew; melon miel/
 蜜糖 蜜糖 [mi4 tang2] {mat6 tong4} /miel/
@@ -17421,62 +17421,63 @@
 蜞乸 蜞乸 [qi2 na2] {kei4 naa2} /sangsue/
 蜰 蜰 [fei2] {fei4, fai6, fei2} /(insecte) punaise des lits/
 蜱蟲 蜱虫 [pi2 chong2] {pei4 cung4} /tique/
-蝕 蚀 [shi2] {sik6} /(verb) 1. eclipse; 2. termite/
-蝕底 蚀底 [shi2 di3] {sit6 dai2} /(verb) to suffer losses; to lose out on; to make a loss (adj.) to be taken advantage of/
-蝕本 蚀本 [shi2 ben3] {sit6 bun2} /to lose one's capital (in investment)/
-蝕水 食水 [shi2 shui3] {sit6 seoi2} /to lose money/
-蝠鼠 蝠鼠 [fu2 shu3] {fuk1 syu2} /a bat (animal)/
-蝦 虾 [xia1] {haa1} /(slang) 1. bully; 2. intimidate/
-蝦丸 虾丸 [xia1 wan2] {haa1 jyun2} /Shrimp balls/
-蝦人 虾人 [xia1 ren2] {haa1 jan4} /bullying someone/
-蝦公 虾公 [xia1 gong1] {haa1 gung1} /shrimp; prawn/
-蝦春 虾春 [xia1 chun1] {haa1 ceon1} /shrimp roe/
-蝦條 虾条 [xia1 tiao2] {haa1 tiu2} /shrimp strip; prawn strip/
-蝦毛 虾毛 [xia1 mao2] {haa1 mou1} /a tiny prawn; an unimportant person/
-蝦球 虾球 [xia1 qiu2] {haa1 kau4} /shrimp ball; prawn ball/
-蝦瘌 虾瘌 [xia1 la4] {haa1 laat6} /small crab (spoken)/
-蝦眼水 虾眼水 [xia1 yan3 shui3] {haa1 ngaan5 seoi2} /water just before the boiling point when it just starts bubbling at around 75 to 80 degrees Celsius/
-蝦碌 虾碌 [xia1 lu4] {haa1 luk1} /clumsy (spoken)/
-蝦笱 虾笱 [xia1 gou3] {haa1 gau2} /nest that is used to catch the shrimp/
-蝦腸 虾肠 [xia1 chang2] {haa1 coeng2} /Shrimp intestine; prawn rice noodle roll/
-蝦膏 虾膏 [xia1 gao1] {haa1 gou1} /shrimp paste; prawn paste/
-蝦蝦霸霸 虾虾霸霸 [xia1 ha2 ba4 ba4] {haa1 haa1 baa3 baa3} /bullying (spoken)/
-蝦轆 虾辘 [xia1 lu4] {haa1 luk1} /clumsy (spoken)/
-蝦霸 虾霸 [ha2 ba4] {haa1 baa3} /bullying/
-蝨乸 虱乸 [shi1 na2] {sat1 naa2} /(noun) (of insect) louse; cootie (in most cases, it refers to cootie)/
-蝨乸擔枷 虱乸担枷 [shi1 na2 dan1 jia1] {sat1 naa2 daam1 gaa1} /very strict and harsh punishment/
-蝨乸春 虱乸春 [shi1 na2 chun1] {sat1 naa2 ceon1} /louse eggs; nits/
-蝴蝶刀 蝴蝶刀 [hu2 die2 dao1] {wu4 dip6 dou1} /balisong; butterfly knife; fan knife/
-蝶式 蝶式 [die2 shi4] {dip6 sik1} /butterfly stroke/
+蝕 蚀 [shi2] {sik6} /éclipse (lunaire ou solaire)/corroder/ronger/
+蝕 蚀 [shi2] {sit6} /perdre/
+????f 蝕底 蚀底 [shi2 di3] {sit6 dai2} /subir une perte; sortir perdant d'une négotiation/(????f be taken advantage of)/
+蝕本 蚀本 [shi2 ben3] {sit6 bun2} /perdre de l'argent/
+蝕水 食水 [shi2 shui3] {sit6 seoi2} /(fig.) perdre de l'argent/(lit.) manger de l'eau/
+蝠鼠 蝠鼠 [fu2 shu3] {fuk1 syu2} /chauve-souris/
+蝦 虾 [xia1] {haa1} /intimider; maltraiter; malmener/
+蝦丸 虾丸 [xia1 wan2] {haa1 jyun2} /boulette de crevette/
+蝦人 虾人 [xia1 ren2] {haa1 jan4} /intimider; maltraiter; malmener/
+蝦公 虾公 [xia1 gong1] {haa1 gung1} /crevette/
+蝦春 虾春 [xia1 chun1] {haa1 ceon1} /œuf de crevette/
+????f 蝦條 虾条 [xia1 tiao2] {haa1 tiu2} /(shrimp cracker - snack food)/
+蝦毛 虾毛 [xia1 mao2] {haa1 mou1} /petite crevette/(fig.) personne sans importance/
+蝦球 虾球 [xia1 qiu2] {haa1 kau4} /boulette de crevette/
+蝦瘌 虾瘌 [xia1 la4] {haa1 laat6} /petit crabe/
+????f 蝦眼水 虾眼水 [xia1 yan3 shui3] {haa1 ngaan5 seoi2} /eau frémissante dont la température s'approche du point d'ébullition/(lit.) eau aux yeux de crevettes/
+蝦碌 虾碌 [xia1 lu4] {haa1 luk1} /commettre une erreur/être négligeant/
+????f 蝦笱 虾笱 [xia1 gou3] {haa1 gau2} /(fishing basket used to catch the shrimp)/
+蝦腸 虾肠 [xia1 chang2] {haa1 coeng2} /rouleau de nouilles de riz aux crevettes marinées/
+蝦膏 虾膏 [xia1 gao1] {haa1 gou1} /pâte de crevettes/
+蝦蝦霸霸 虾虾霸霸 [xia1 ha2 ba4 ba4] {haa1 haa1 baa3 baa3} /intimider; harceler; maltraiter; malmener/
+蝦轆 虾辘 [xia1 lu4] {haa1 luk1} /commettre une erreur/être négligeant/
+蝦霸 虾霸 [ha2 ba4] {haa1 baa3} /intimider; harceler; maltraiter; malmener/
+蝨乸 虱乸 [shi1 na2] {sat1 naa2} /(insecte) pou/
+蝨乸擔枷 虱乸担枷 [shi1 na2 dan1 jia1] {sat1 naa2 daam1 gaa1} /(expr. idiom.) être sévèrement puni/(lit.) pou mis au pilori/
+蝨乸春 虱乸春 [shi1 na2 chun1] {sat1 naa2 ceon1} /lente; œuf du pou/
+蝴蝶刀 蝴蝶刀 [hu2 die2 dao1] {wu4 dip6 dou1} /Balisong; cuchillo de balé; « butterly knife » (« couteau papillon »)/
+蝶式 蝶式 [die2 shi4] {dip6 sik1} /(natation) papillon/
 蝶戀花 蝶恋花 [die2 lian4 hua1] {dip6 lyun2 faa1} /Butterflies over flower, the name of a tune/
-蝸牛 蜗牛 [wo1 niu2] {wo1 ngau4} /slowcoach (Cantonese slang)/
-蝻蛇 蝻蛇 [nan3 she2] {naam4 se4} /python; boa constrictor/
-螄蚶 蛳蚶 [si1 han1] {si1 ham1} /Cockles/
+蝸牛 蜗牛 [wo1 niu2] {wo1 ngau4} /escargot/(fig.) traînard; lambin/
+蝻蛇 蝻蛇 [nan3 she2] {naam4 se4} /python/boa constrictor/
+螄蚶 蛳蚶 [si1 han1] {si1 ham1} /(espèce de mollusques) Tegillarca granosa/
 融 融 [rong2] {jung4} /(verb) (financial terminology)  Finance /
 融合 融合 [rong2 he2] {jung4 hap6} /(verb) 1. Blend in; 2. Join in /
-融洽 融洽 [rong2 qia4] {jung4 hap1} /get on well with one another/
-螢光幕 萤光幕 [ying2 guang1 mu4] {jing4 gwong1 mok6} /a screen/
-螢光筆 萤光笔 [ying2 guang1 bi3] {jing4 gwong1 bat1} /a highlighter (pen)/
-螺絲 螺丝 [luo2 si1] {lo4 si1} /(adjective) (of speaking)  Mumble (only use with "食螺絲")/
-螺絲批 螺丝批 [luo2 si1 pi1] {lo4 si1 pai1} /(noun) (tools) a screwdriver/
-蟛蜞 蟛蜞 [peng2 qi2] {paang4 kei4} /amphilbious crab; brackish-water crab/
-蟥蜞 蟥蜞 [huang2 qi2] {wong4 kei2} /leech/
-蟲蟲蟻蟻 虫虫蚁蚁 [chong2 chong2 yi3 yi3] {cung4 cung4 ngai5 ngai5} /bugs/
-蟹 蟹 [xie4] {haai5} /(stock terminology)  undervalued (stocks)/
-蟹厴 蟹厣 [xie4 yan3] {haai5 jim2} /shell around the abdomen of crab/
-蟹弶 蟹弶 [xie4 jiang4] {haai5 gong6} /claw of crab/
-蟹春 蟹春 [xie4 chun1] {haai5 ceon1} /eggs of the crab/
-蟹柳 蟹柳 [xie4 liu3] {haai5 lau5} /crab stick/
-蟹爪筆 蟹爪笔 [xie4 zhao3 bi3] {haai5 zaau2 bat1} /Small-sized Chinese calligraphy brush/
-蟻 蚁 [yi3] {ngai5} /(slang)  trouble/
-蟻多摟死象 蚁多搂死象 [yi3 duo1 lou3 si3 xiang4] {ngai5 do1 lau5 sei2 zoeng6} /results are better if there are more resources (slang)/
-蟻民 蚁民 [yi3 min2] {ngai5 man4} /common people; low class citizens/
-蟻竇 蚁窦 [yi3 dou4] {ngai5 dau3} /ant nest/
-蟻躝噉 蚁躝啖 [yi3 lan2 dan4] {ngai5 laan1 gam2} /slow/
+融洽 融洽 [rong2 qia4] {jung4 hap1} /bien s'entendre (avec quelqu'un)/
+螢光幕 萤光幕 [ying2 guang1 mu4] {jing4 gwong1 mok6} /écran; moniteur/
+螢光筆 萤光笔 [ying2 guang1 bi3] {jing4 gwong1 bat1} /(instrument d'écriture) feutre/
+螺絲 螺丝 [luo2 si1] {lo4 si1} /vis/
+螺絲批 螺丝批 [luo2 si1 pi1] {lo4 si1 pai1} /tournevis/
+蟛蜞 蟛蜞 [peng2 qi2] {paang4 kei4} /(famille de crabes) Sesarmidae/
+蟥蜞 蟥蜞 [huang2 qi2] {wong4 kei2} /sangsue/
+蟲蟲蟻蟻 虫虫蚁蚁 [chong2 chong2 yi3 yi3] {cung4 cung4 ngai5 ngai5} /insectes; bibittes/(lit.) insectes et fourmis/
+????f 蟹 蟹 [xie4] {haai5} /crabe/(fig.) personne qui a perdu de l'argent en bourse/(fig.) (d'une action en bourse) chuter/
+????f 蟹厴 蟹厣 [xie4 yan3] {haai5 jim2} /partie de la coquille du crabe recouvrant l'abdomen/
+蟹弶 蟹弶 [xie4 jiang4] {haai5 gong6} /pince de crabe/
+蟹春 蟹春 [xie4 chun1] {haai5 ceon1} /œufs de crabe/
+蟹柳 蟹柳 [xie4 liu3] {haai5 lau5} /surimi; bâtonnet de crabe/
+蟹爪筆 蟹爪笔 [xie4 zhao3 bi3] {haai5 zaau2 bat1} /(sorte de pinceau de calligraphie)/(lit.) crayon à pince de crabe/
+蟻 蚁 [yi3] {ngai5} /fourmi/(fig.) ennuis; problèmes/
+蟻多摟死象 蚁多搂死象 [yi3 duo1 lou3 si3 xiang4] {ngai5 do1 lau1 sei2 zoeng6} /(expr. idiom.) l'union fait la force/(lit.) beaucoup de fourmis ensemble peuvent tuer un éléphant/ 
+蟻民 蚁民 [yi3 min2] {ngai5 man4} /gens ordinaires; gens du commun; prolétariat/
+蟻竇 蚁窦 [yi3 dou4] {ngai5 dau3} /fourmilière/
+蟻躝噉 蚁躝啖 [yi3 lan2 dan4] {ngai5 laan1 gam2} /(fig.) lent/(lit.) lent comme un fourmi/
 蟾宮 蟾宫 [chan2 gong1] {sim4 gung1} /moon (ancient)/
-蠄蟝 蠄蟝 [qin2 qu2] {kam4 keoi2} /a toad/
-蠄蟧 蠄蟧 [qin2 lao2] {kam4 lou4} /a spider/
-蠄蟧絲網 蠄蟧丝网 [qin2 lao2 si1 wang3] {kam4 lou4 si1 mong5} /spider webs (spoken)/
+蠄蟝 蠄蟝 [qin2 qu2] {kam4 keoi2} /crapaud/
+蠄蟧 蠄蟧 [qin2 lao2] {kam4 lou4} /araignée/
+蠄蟧絲網 蠄蟧丝网 [qin2 lao2 si1 wang3] {kam4 lou4 si1 mong5} /toiles d'araignée/
 蠅頭小利 蝇头小利 [ying2 tou2 xiao3 li4] {jing4 tau4 siu2 lei6} /tiny profit/
 蠔菇 蚝菇 [hao2 gu1] {hou4 gu1} /Oyster mushroom/
 蠔豉 蚝豉 [hao2 chi3] {hou4 si2} /dried oyster meat/
@@ -21403,6 +21404,7 @@
 食鬼 食鬼 [shi2 gui3] {sik6 gwai2} /Pac-Man, an arcade game/
 食鹽多過你食米 食盐多过你食米 [shi2 yan2 duo1 guo4 ni3 shi2 mi3] {sik6 jim4 do1 gwo3 nei5 sik6 mai5} /one having more experience than another (slang)/
 食齋 食斋 [shi2 zhai1] {sik6 zaai1} /to be a vegetarian/
+食螺絲 食螺丝 [shi2 luo2 si1] {sik6 lo4 si1} /(fig.) marmonner; parler entre ses dents; parler indistinctement/(lit.) manger des vis/
 飢荒 饥荒 [ji1 huang5] {gei1 fong1} /starvation; famine; /
 飯剷頭 饭铲头 [fan4 chan3 tou2] {faan6 caan2 tau4} /the Chinese cobra / Taiwan cobra; Naja atra/
 飯團 饭团 [fan4 tuan2] {faan6 tyun4} /Onigiri, a rice ball type of Japanese food/
