@@ -469,7 +469,7 @@
 上堂 上堂 [shang4 tang2] {soeng5 tong4} /suivre un cours/comparaître devant les tribunaux/
 上士 上士 [shang4 shi4] {soeng6 si6} /sergeant/
 上天堂 上天堂 [shang4 tian1 tang2] {soeng5 tin1 tong4} /aller au ciel/
-上天無路 上天无路 [shang4 tian1 wu2 lu4 ] {soeng6 tin1 mou4 lou6} /(expr. idiom.) arriver à une impasse; ne pas pouvoir s'en sortir/(lit.) il n'y a pas de chemin au ciel/
+上天無路 上天无路 [shang4 tian1 wu2 lu4 ] {soeng6 tin1 mou4 lou6} /(expr. idiom.) arriver à une impasse; ne pas pouvoir s'en sortir; être mis au pied du mur/(lit.) il n'y a pas de chemin au ciel/
 上契 上契 [shang4 qi4] {soeng5 kai3} /l'établissement de la relation entre un/plusieurs parrains et son filleul(e) dans la coutume chinoise/
 上山 上山 [shang4 shan1] {soeng5 saan1} /(fig.) cortège funèbre/(lit.) monter sur une montagne/
 上岸 上岸 [shang4 an4] {soeng5 ngon6} /devenir riche/
@@ -483,7 +483,7 @@
 上架 上架 [shang4 jia4] {soeng5 gaa2} /mettre un nouveau produit sur les tablettes/
 上機 上机 [shang4 ji1] {soeng5 gei1} /embarquer (dans un avion)/
 上氣唔接下氣 上气唔接下气 [shang4 qi4 n2 jie1 xia4 qi4] {soeng6 hei3 m4 zip3 haa6 hei3} /essouflé/
-上海人 上海人 [shang4 hai3 ren2] {soeng6 hoi2 jan4} /Shanghaïens/
+上海人 上海人 [shang4 hai3 ren2] {soeng6 hoi2 jan4} /Shanghaïen, Shanghaïenne/
 上海灘 上海滩 [shang4 hai3 tan1] {soeng6 hoi2 taan1} /Le Bund, aussi connu sous le nom Waitan/
 上海街 上海街 [shang4 hai3 jie1] {soeng6 hoi2 gaai1} /rue Shanghai, rue de Kowloon, Hong Kong/
 上湯 上汤 [shang4 tang1] {soeng6 tong1} /consommé; une soupe fait à base de fond blanc de vollaile, boeuf, ou poisson à fins de cuisine, et non pour consommer/
@@ -12821,7 +12821,7 @@
 烚蛋 烚蛋 [xia2 dan4] {hap6 daan2} /oeuf dur/
 烤麪包 烤麪包 [kao3 mian4 bao1] {haau1 min6 baau1} /toast; pain grillé/
 焗 焗 [ju2] {guk6} /(lieu, chambre, salle, etc.) étouffant/contraindre; forcer (quelqu'un à faire quelque chose)/faire cuire au four/faire rôtir à feu doux/
-焗住 焗住 [ju2 zhu4] {guk6 zyu6} /(lieu, chambre, salle, etc.) étouffant/n'avoir pas d'autre choix... (que de faire quelque chose)/
+焗住 焗住 [ju2 zhu4] {guk6 zyu6} /(lieu, chambre, salle, etc.) étouffant/n'avoir pas d'autre choix... (que de faire quelque chose); être contraint de faire quelque chose; être mis au pied du mur/
 焗傷風 焗伤风 [ju2 shang1 feng1] {guk6 soeng1 fung1} /s'enrhumer à cause de la transpiration excessive/
 焗暑 焗暑 [ju2 shu3] {guk6 syu2} /avoir une insolation; avoir un coup de chaleur/
 焗死 焗死 [ju2 si3] {guk6 sei2} /suffoquer; asphyxier/mourir de l'inhalation de fumée/
@@ -12852,7 +12852,7 @@
 無厘頭 无厘头 [wu2 li2 tou2] {mou4 lei4 tau4} /insensé; illogique; absurde/
 無及 无及 [wu2 ji2] {mou4 kap6} /trop tard pour (faire quelque chose)/en retard/
 無可否認 无可否认 [wu2 ke3 fou3 ren4] {mou4 ho2 fau2 jing6} /indéniable; irréfutable/
-無可奈何 无可奈何 [wu2 ke3 nai4 he2] {mou4 ho2 noi6 ho4} /n'avoir pas d'autre choix que de.../
+無可奈何 无可奈何 [wu2 ke3 nai4 he2] {mou4 ho2 noi6 ho4} /n'avoir pas d'autre choix que de...; être mis au pied du mur/
 無可爭辯 无可争辩 [wu2 ke3 zheng1 bian4] {mou4 ho2 zang1 bin6} /indisputable; irrefutable/
 無可避免 无可避免 [wu2 ke3 bi4 mian3] {mou4 ho2 bei6 min5} /inévitable; inéluctable/
 無問題 无问题 [wu2 wen4 ti2] {mou4 man6 tai4} /pas de problème! aucun problème! bien sûr!/
@@ -17576,7 +17576,7 @@
 行路唔帶眼 行路唔带眼 [xing2 lu4 m2 dai4 yan3] {haang4 lou6 m4 daai3 ngaan5} /(expr. idiom.) ne pas regarder où l'on va; être distrait lorsque l'on marche/(lit.) ne pas apporter ses yeux en marchant/
 行路打倒褪 行路打倒褪 [xing2 lu4 da3 dao4 tun4] {haang4 lou6 daa2 dou2 tan3} /(expr. idiom.) avoir de la malchance; avoir de la difficulté à accomplir une tâche/(lit.) essayer de marcher, se faire taper dessus, et devoir reculer/
 行車天橋 行车天桥 [hang2 che1 tian1 qiao2] {hang4 ce1 tin1 kiu4} /autopont; pont routier; saut-de-mouton/
-行軍 行军 [xing2 jun1] {hang4 gwan1} /(d'une armée) marcher; être en marche/
+行軍 行军 [xing2 jun1] {hang4 gwan1} /(d'une armée) marcher; être en marche; marcher sur/
 行運 行运 [xing2 yun4] {haang4 wan6} /avoir de la chance/
 行運一條龍 行运一条龙 [xing2 yun4 yi1 tiao2 long2] {hang4 wan6 jat1 tiu4 lung4} /(expr. idiom.) avoir de la chance/(lit.) marcher comme un dragon/
 ????c 行運一條龍，失運一條蟲 行运一条龙，失运一条虫 [xing2 yun4 yi1 tiao2 long2 , shi1 yun4 yi1 tiao2 chong2] {hang4 wan6 jat1 tiu4 lung4 sat1 wan6 jat1 tiu4 cung4} /turn of the tide/
@@ -17623,56 +17623,56 @@
 衞星 卫星 [wei4 xing1] {wai6 sing1} /satellite/
 衞生 卫生 [wei4 sheng1] {wai6 sang1} /hygiène/
 衡器 衡器 [heng2 qi4] {hang4 hei3} /instrument de pesage/
-衡晒 衡晒 [heng2 shai4] {hang4 saai3} /in full power; to the limit; to the extreme; to describe intensity of an action/
-衣字邊 衣字边 [yi1 zi4 bian1] {ji1 zi6 bin1} /number 145 of Kangxi radical/
-衣紙 衣纸 [yi1 zhi3] {ji1 zi2} /Joss Paper/
-衣衫襤褸 衣衫褴褛 [yi1 shan1 lan2 lu:3] {ji1 saam1 laam4 leoi5} /to be dressed in rags; to be dressed shabbily/
-衣車 衣车 [yi1 che1] {ji1 ce1} /(noun) a sewing machine/
-表姊 表姊 [biao3 zi3] {biu2 zi2} /The term to address an older female cousin/
-表嫂 表嫂 [biao3 sao3] {biu2 sou2} /the wife of an elder cousin/
-表少 表少 [biao3 shao4] {biu2 siu3} /The term to address the younger male cousin of one's husband; the general term to address men in the past/
-表演藝術 表演艺术 [biao3 yan3 yi4 shu4] {biu2 jin2 ngai6 seot6} /Performing Arts/
-表現主義 表现主义 [biao3 xian4 zhu3 yi4] {biu2 jin6 zyu2 ji6} /expressionism/
-表達 表达 [biao3 da2] {biu2 daat6} /to show/
-表錯情 表错情 [biao3 cuo4 qing2] {biu2 co3 cing4} /to react inappropiately to a situation due to a misunderstanding or a misinterpretation/
-表面上 表面上 [biao3 mian4 shang5] {biu2 min6 soeng6} /Ostensibly/
-表面現象 表面现象 [biao3 mian4 xian4 xiang4] {biu2 min6 jin6 zoeng6} /Superficies; outside appearance/
-衫刷 衫刷 [shan1 shua1] {saam1 caat3} /clothes washing brush (spoken)/
+????f 衡晒 衡晒 [heng2 shai4] {hang4 saai3} /(après un verbe) à la limite; au maximum; à l'extrême/(après un verbe) fréquemment et d'une manière exigeante/qui subit une tension; tendu/(fig.) nerveux; tendu/
+衣字邊 衣字边 [yi1 zi4 bian1] {ji1 zi6 bin1} /radical de Kangxi 145, « 衤»/
+衣紙 衣纸 [yi1 zhi3] {ji1 zi2} /billet funéraire/
+衣衫襤褸 衣衫褴褛 [yi1 shan1 lan2 lu:3] {ji1 saam1 laam4 leoi5} /vêtu de haillons; pauvrement vêtu/
+衣車 衣车 [yi1 che1] {ji1 ce1} /machine à coudre/
+表姊 表姊 [biao3 zi3] {biu2 zi2} /cousine plus âgée que le locuteur/
+????f 表嫂 表嫂 [biao3 sao3] {biu2 sou2} /femme d'un cousin maternel de sexe masculin plus âgé que le locuteur/femme d'un cousin maternel de sexe masculin plus jeune de le locuteur/
+表少 表少 [biao3 shao4] {biu2 siu3} /cousin (de sexe masculin) par la ligne féminine plus jeune que son mari/(vieilli) (forme de politesse pour un homme)/
+表演藝術 表演艺术 [biao3 yan3 yi4 shu4] {biu2 jin2 ngai6 seot6} /arts du spectacle/
+表現主義 表现主义 [biao3 xian4 zhu3 yi4] {biu2 jin6 zyu2 ji6} /expressionisme/
+表達 表达 [biao3 da2] {biu2 daat6} /exprimer; montrer; communiquer/
+????f 表錯情 表错情 [biao3 cuo4 qing2] {biu2 co3 cing4} /réagir de manière inappropriée en raison d'un malentendu/(lit.) réagir avec la mauvaise émotion/
+表面上 表面上 [biao3 mian4 shang5] {biu2 min6 soeng6} /superficiellement/
+表面現象 表面现象 [biao3 mian4 xian4 xiang4] {biu2 min6 jin6 zoeng6} /aspect extérieur; apparence extérieure/
+衫刷 衫刷 [shan1 shua1] {saam1 caat3} /brosse pour le lavage de vêtements/
 衫尾 衫尾 [shan1 wei3] {saam1 mei5} /coattail; shirt tail/
-衫架 衫架 [shan1 jia4] {saam1 gaa2} /clothes hanger/
-衫櫃 衫柜 [shan1 gui4] {saam1 gwai6} /wardrobe/
-衫腳 衫脚 [shan1 jiao3] {saam1 goek3} /hem (clothing)/
-衫舖 衫铺 [shan1 pu4] {saam1 pou2} /clothes shop/
-衫袖 衫袖 [shan1 xiu4] {saam1 zau6} /(noun) shirt sleeves; sleeves of clothing/
-衫裏 衫里 [shan1 li3] {saam1 lei5} /inside the shirt/
-衫裙 衫裙 [shan1 qun2] {saam1 kwan4} /(clothes) clothes and skirt; fashion (note: usually this term is used with other characters such as "日韓衫裙"= (noun) Japanese and Korean fashion; or "連衫裙" = (clothes) a one-piece dress)/
-衫裡 衫里 [shan1 li3] {saam1 lei5} /inside the shirt/
+衫架 衫架 [shan1 jia4] {saam1 gaa2} /cintre, support triangulaire servant à suspendre les vêtements/
+衫櫃 衫柜 [shan1 gui4] {saam1 gwai6} /armoire/
+衫腳 衫脚 [shan1 jiao3] {saam1 goek3} /ourlet/
+衫舖 衫铺 [shan1 pu4] {saam1 pou2} /magasin de vêtements/
+衫袖 衫袖 [shan1 xiu4] {saam1 zau6} /(d'une chemise) manche/
+衫裏 衫里 [shan1 li3] {saam1 lei5} /(d'un vêtement) doublure/
+衫裙 衫裙 [shan1 qun2] {saam1 kwan4} /one-piece dress/(vêtements) mode/(lit.) chemises et robes/
+衫裡 衫里 [shan1 li3] {saam1 lei5} /(d'un vêtement) doublure/
 衫褲 衫裤 [shan1 ku4] {saam1 fu3} /vêtements/(lit.) chemises et pantalons/
 衫鈕 衫钮 [shan1 niu3] {saam1 nau2} /bouton de chemise/
 衫領 衫领 [shan1 ling3] {saam1 leng5} /col de chemise/
 衰 衰 [shuai1] {seoi1} /(adjective) 1. Ugly-looking; 2. bad (people); (adjective) 1. being caught by doing something wrong; 2. Fail/
 衰仔 衰仔 [shuai1 zai3] {seoi1 zai2} /(n.) a naughty boy; a bad kid;  (appellation) 'naughty boy' / 'bad boy', usually used as a form of address by parents to call one's son (especially when scolding them); 'little rascal', a form of address for someone who annoys you too much; (adjective) to be of not such good character, usually to describe when someone does something which is not so good (morally) or when someone acts in a way that they shouldn't (this can be considered as a toned down version to the adjective '衰格')/
-衰佬 衰佬 [shuai1 lao3] {seoi1 lou2} /husband; used by wife with others (spoken)/
-衰俾人睇 衰俾人睇 [shuai1 bi3 ren2 di4] {seoi1 bei2 jan4 tai2} /looked down by others; disgrace; humiliated; embarrassing/
-衰公 衰公 [shuai1 gong1] {seoi1 gung1} /(noun / appellation) a disrespectful form of address (expressing irritation) for a man or one's husband/
-衰到貼地 衰到贴地 [shuai1 dao4 tie1 di4] {seoi1 dou3 tip3 dei6} /cannot get worse than this (spoken)/
-衰十一 衰十一 [shuai1 shi2 yi1] {seoi1 sap6 jat1} /having sexual intercourse with minor (slang)/
-衰名 衰名 [shuai1 ming2] {seoi1 meng2} /bad name; bad reputation/
-衰咗 衰咗 [shuai1 zuo5] {seoi1 zo2} /failed (spoken)/
-衰嘢 衰嘢 [shuai1 ye3] {seoi1 je5} /things of substandard or no good (spoken)/
+衰佬 衰佬 [shuai1 lao3] {seoi1 lou2} /coquin; gredin; canaille/(affectueux) chéri; mon époux/
+衰俾人睇 衰俾人睇 [shuai1 bi3 ren2 di4] {seoi1 bei2 jan4 tai2} /se ridiculiser; se donner en spectacle; s'exposer de façon ridicule/
+衰公 衰公 [shuai1 gong1] {seoi1 gung1} /coquin; grein; canaille; expression utilisé pour montrer sa colère envers un homme/
+衰到貼地 衰到贴地 [shuai1 dao4 tie1 di4] {seoi1 dou3 tip3 dei2} /(d'une personne ou situation) ne peut pas être pire/(lit.) tellement mauvais qu'il touche la terre/
+衰十一 衰十一 [shuai1 shi2 yi1] {seoi1 sap6 jat1} /(fam.) délit d'atteinte sexuelle sur les mineurs/(orig.) du nom du loi « 與未成年少女發生性行為 », qui fait onze mots, d'où le terme 衰十一|衰十一 « mauvais onze »/
+衰名 衰名 [shuai1 ming2] {seoi1 meng2} /mauvaise réputation/
+衰咗 衰咗 [shuai1 zuo5] {seoi1 zo2} /avoir échoué/avoir commis une erreur/se faire prendre en flagrant délit/
+衰嘢 衰嘢 [shuai1 ye3] {seoi1 je5} /(fig.) mauvaise personne/(fig.) mauvaises actions/(fig.) vilain; enfant désagréable; enfant malhonnête/(fig.) chéri/(fig.) produit de mauvaise qualité; camelot/(lit.) mauvaise chose/
 衰多口 衰多口 [shuai1 duo1 kou3] {seoi1 do1 hau2} /Bad things that have happened as a result of talking too much; Loose lips sink ships/
-衰女 衰女 [shuai1 nü3] {seoi1 neoi2} /(noun / appellation) 'naughty girl' / 'bad girl', a disrespectful (expressing irriation) form of address for a girl or one's daughter (especially when scolding them)/
-衰女包 衰女包 [shuai1 nü3 bao1] {seoi1 neoi2 baau1} /slang for a badly behaved young woman; often used by parents scolding a daughter/
-衰婆 衰婆 [shuai1 po2] {seoi1 po2} /slang for a bad, mean, or unscrupulous woman; "bitch"; mostly applied to older women; 'bad woman' a term used for referring to one's wife (usually with no ill intention)/
-衰弱 衰弱 [shuai1 ruo4] {seoi1 joek6} /fragile/
+衰女 衰女 [shuai1 nu:3] {seoi1 neoi2} /(noun / appellation) 'naughty girl' / 'bad girl', a disrespectful (expressing irriation) form of address for a girl or one's daughter (especially when scolding them)/
+衰女包 衰女包 [shuai1 nu:3 bao1] {seoi1 neoi2 baau1} /slang for a badly behaved young woman; often used by parents scolding a daughter/
+衰婆 衰婆 [shuai1 po2] {seoi1 po2} /(inj.) salope; garce; connasse/(terme affectueux pour sa femme ou pour sa blonde)/
+衰弱 衰弱 [shuai1 ruo4] {seoi1 joek6} /fragile; frêle; faible/
 衰收尾 衰收尾 [shuai1 shou1 wei3] {seoi1 sau1 mei5} /end badly (spoken)/
 衰格 衰格 [shuai1 ge2] {seoi1 gaak3} /substandard characteristics (spoken)/
 衰樣 衰样 [shuai1 yang4] {seoi1 joeng2} /ugly face; to be in a bad state; to be in an unlucky state/
 衰牌 衰牌 [shuai1 pai2] {seoi1 paai2} /Bad cards; shameful; disgraceful; poor; disappointing/
-衰硬 衰硬 [shuai1 ying4] {seoi1 ngaang6} /to fail for sure/
+衰硬 衰硬 [shuai1 ying4] {seoi1 ngaang6} /être voué à l'échec; être condamné à l'échec/
 衰神 衰神 [shuai1 shen2] {seoi1 san4} /(noun) a disrespectful expression to refer to someone who does something bad or irritates others; an untrustworthy person; bastard/
 衰衰噉 衰衰啖 [shuai1 shuai1 dan4] {seoi1 seoi1 gam2} /an affectionate way to call someone an annoying or irritating person/
-衰過偷貓 衰过偷猫 [shuai1 guo4 tou1 mao1] {seoi1 gwo3 tau1 maau1} /very bad; very nasty/
+衰過偷貓 衰过偷猫 [shuai1 guo4 tou1 mao1] {seoi1 gwo3 tau1 maau1} /(fig.) personne très méchante; très mauvaise personne/(lit.) pire qu'un voleur de chats/
 衰鬼 衰鬼 [shuai1 gui3] {seoi1 gwai2} /an intimate way to call someone a "bad person / rascal / scoundrel / devil" 2/
 衰鬼嘢 衰鬼嘢 [shuai1 gui3 ye3] {seoi1 gwai2 je5} /a nuisance/
 衰鬼豆 衰鬼豆 [shuai1 gui3 dou4] {seoi1 gwai2 dau6} /acceptable bad language used by kids (spoken)/
@@ -19376,7 +19376,8 @@
 連消帶打 连消带打 [lian2 xiao1 dai4 da3] {lin4 siu1 daai3 daa2} /to parry and counterattack/
 連貫性 连贯性 [lian2 guan4 xing4] {lin4 gun3 sing3} /consistency; continuity; coherency/
 連贏 连赢 [lian2 ying2] {lin4 jeng4} /to win in a row/
-連身裙 连身裙 [lian2 shen1 qun2] {lin4 san1 kwan4} /a one piece dress/
+????f 連身裙 连身裙 [lian2 shen1 qun2] {lin4 san1 kwan4} /a one piece dress/
+????f 連衫裙 连衫裙 [lian2 shan1 qun2] {lin4 saam1 kwan4} /one-piece dress/
 週到 週到 [zhou1 dao4] {zau1 dou3} /thoughtful; attentive; considerate/
 週年紀念 週年纪念 [zhou1 nian2 ji4 nian4] {zau1 nin4 gei3 nim6} /anniversary/
 週時 周时 [zhou1 shi2] {zau1 si4} /often/
