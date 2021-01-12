@@ -16671,7 +16671,7 @@
 自咎 自咎 [zi4 jiu4] {zi6 gau3} /se blâmer; se sentir coupable; se culpabiliser; s'en vouloir; en colère contre soi-même/
 自圓其說 自圆其说 [zi4 yuan2 qi2 shuo1] {zi6 jyun4 kei4 syut3} /corriger les incohérences dans son compte rendu/s'expliquer; avoir du sens; être plausible/
 自奉 自奉 [zi4 feng4] {zi6 fung6} /satisfaire ses propres besoins/
-自封 自封 [zi4 feng1] {zi6 fung1} /se prétendre; se proclamer; s'autoproclamer; professer être/se limiter; s'enfermer; se bloquer; s'enferrer/
+自封 自封 [zi4 feng1] {zi6 fung1} /se prétendre; se proclamer; s'autoproclamer; professer être/se limiter; se borner; s'enfermer; se bloquer; s'enferrer/
 自小 自小 [zi4 xiao3] {zi6 siu2} /depuis son enfance/
 ????f 自己最知自己事 自己最知自己事 [zi4 ji5 zui4 zhi1 zi4 ji5 shi4] {zi6 gei2 zeoi3 zi1 zi6 gei2 si6} /one knows his/her own business the best/
 自己友 自己友 [zi4 ji5 you3] {zi6 gei2 jau2} /confrère; membre du même groupe/l'un des miens; l'un des nôtres; une personne de notre tribu/
@@ -17310,7 +17310,7 @@
 藹然可親 蔼然可亲 [ai3 ran2 ke3 qin1] {oi2 jin4 ho2 can1} /aimable; gentil/
 蘆橘 芦橘 [lu2 ju2] {lou4 gwat1} /(fruit) bibace, bibasse/
 蘇屋邨 苏屋村 [su1 wu1 cun1] {sou1 uk1 cyun1} /So Uk Estate, ensemble immobilier de Hong Kong/
-????f 蘇州屎 苏州屎 [su1 zhou1 shi3] {sou1 zau1 si2} /(fig.) dégâts laissés par quelqu'un d'autre; ennuis créés par quelqu'un d'autre/(lit.) excrément de Suzhou/
+????f 蘇州屎 苏州屎 [su1 zhou1 shi3] {sou1 zau1 si2} /(fig.) gâchis laissé par quelqu'un d'autre; ennuis créés par quelqu'un d'autre/(lit.) excrément de Suzhou/
 ????f 蘇州過後冇艇搭 苏州过后冇艇搭 [su1 zhou1 guo4 hou4 mao3 ting3 da1] {sou1 zau1 gwo3 hau6 mou5 teng5 daap3} /(expr. idiom.) c'est votre dernière chance! la bonne occasion ne se présente pas deux fois!/(lit.) après avoir dépassé Suzhou, il n'y aura pas de bateaux sur lesquels monter/
 蘇彝士 苏彝士 [su1 yi2 shi4] {sou1 ji4 si6} /Suez, ville d'Égypte/
 蘇彝士運河 苏彝士运河 [su1 yi2 shi4 yun4 he2] {sou1 ji4 si6 wan6 ho4} /canal de Suez/
@@ -17602,7 +17602,7 @@
 街渡 街渡 [jie1 du4] {gaai1 dou6} /« kai-to », petit traversier qui dessert les îles de Hong Kong/
 街症 街症 [jie1 zheng4] {gaai1 zing3} /service de consultations externes/
 街知巷聞 街知巷闻 [jie1 zhi1 xiang4 wen2] {gaai1 zi1 hong6 man4} /(expr.) connu; célèbre/
-街童 街童 [jie1 tong2] {gaai1 tung4} /enfant des rues/
+街童 街童 [jie1 tong2] {gaai1 tung4} /enfant des rues; gamin des rues/
 ????f 街線 街线 [jie1 xian4] {gaai1 sin3} /external phone network (as opposed to internal phone network)/
 街角 街角 [jie1 jiao3] {gaai1 gok3} /coin de la rue/
 街路 街路 [jie1 lu4] {gaai1 lou6} /rue; route; chemin/
@@ -17630,7 +17630,7 @@
 衣車 衣车 [yi1 che1] {ji1 ce1} /machine à coudre/
 表姊 表姊 [biao3 zi3] {biu2 zi2} /cousine plus âgée que le locuteur/
 ????f 表嫂 表嫂 [biao3 sao3] {biu2 sou2} /femme d'un cousin maternel de sexe masculin plus âgé que le locuteur/femme d'un cousin maternel de sexe masculin plus jeune de le locuteur/
-表少 表少 [biao3 shao4] {biu2 siu3} /cousin (de sexe masculin) par la ligne féminine plus jeune que son mari/(vieilli) (forme de politesse pour un homme)/
+????f 表少 表少 [biao3 shao4] {biu2 siu3} /cousin (de sexe masculin) par la ligne féminine de son mari qui est plus jeune que son mari/(vieilli) (forme de politesse pour un homme)/
 表演藝術 表演艺术 [biao3 yan3 yi4 shu4] {biu2 jin2 ngai6 seot6} /arts du spectacle/
 表現主義 表现主义 [biao3 xian4 zhu3 yi4] {biu2 jin6 zyu2 ji6} /expressionisme/
 表達 表达 [biao3 da2] {biu2 daat6} /exprimer; montrer; communiquer/
@@ -17638,98 +17638,98 @@
 表面上 表面上 [biao3 mian4 shang5] {biu2 min6 soeng6} /superficiellement/
 表面現象 表面现象 [biao3 mian4 xian4 xiang4] {biu2 min6 jin6 zoeng6} /aspect extérieur; apparence extérieure/
 衫刷 衫刷 [shan1 shua1] {saam1 caat3} /brosse pour le lavage de vêtements/
-衫尾 衫尾 [shan1 wei3] {saam1 mei5} /coattail; shirt tail/
+衫尾 衫尾 [shan1 wei3] {saam1 mei5} /(d'un vêtement) pan/
 衫架 衫架 [shan1 jia4] {saam1 gaa2} /cintre, support triangulaire servant à suspendre les vêtements/
 衫櫃 衫柜 [shan1 gui4] {saam1 gwai6} /armoire/
 衫腳 衫脚 [shan1 jiao3] {saam1 goek3} /ourlet/
 衫舖 衫铺 [shan1 pu4] {saam1 pou2} /magasin de vêtements/
 衫袖 衫袖 [shan1 xiu4] {saam1 zau6} /(d'une chemise) manche/
 衫裏 衫里 [shan1 li3] {saam1 lei5} /(d'un vêtement) doublure/
-衫裙 衫裙 [shan1 qun2] {saam1 kwan4} /one-piece dress/(vêtements) mode/(lit.) chemises et robes/
+????f 衫裙 衫裙 [shan1 qun2] {saam1 kwan4} /one-piece dress/(vêtements) mode/(lit.) chemises et robes/
 衫裡 衫里 [shan1 li3] {saam1 lei5} /(d'un vêtement) doublure/
 衫褲 衫裤 [shan1 ku4] {saam1 fu3} /vêtements/(lit.) chemises et pantalons/
 衫鈕 衫钮 [shan1 niu3] {saam1 nau2} /bouton de chemise/
 衫領 衫领 [shan1 ling3] {saam1 leng5} /col de chemise/
-衰 衰 [shuai1] {seoi1} /(adjective) 1. Ugly-looking; 2. bad (people); (adjective) 1. being caught by doing something wrong; 2. Fail/
-衰仔 衰仔 [shuai1 zai3] {seoi1 zai2} /(n.) a naughty boy; a bad kid;  (appellation) 'naughty boy' / 'bad boy', usually used as a form of address by parents to call one's son (especially when scolding them); 'little rascal', a form of address for someone who annoys you too much; (adjective) to be of not such good character, usually to describe when someone does something which is not so good (morally) or when someone acts in a way that they shouldn't (this can be considered as a toned down version to the adjective '衰格')/
+衰 衰 [shuai1] {seoi1} /(d'une personne) mauvais; méchant; méprisable; vil/(d'un objet) de mauvaise qualité/(par extension) laid/se faire prendre en flagrant délit/échouer/
+????f 衰仔 衰仔 [shuai1 zai3] {seoi1 zai2} /vilain garçon; méchant petit garçon/(used between friends to greet each other as well)/
 衰佬 衰佬 [shuai1 lao3] {seoi1 lou2} /coquin; gredin; canaille/(affectueux) chéri; mon époux/
 衰俾人睇 衰俾人睇 [shuai1 bi3 ren2 di4] {seoi1 bei2 jan4 tai2} /se ridiculiser; se donner en spectacle; s'exposer de façon ridicule/
-衰公 衰公 [shuai1 gong1] {seoi1 gung1} /coquin; grein; canaille; expression utilisé pour montrer sa colère envers un homme/
+衰公 衰公 [shuai1 gong1] {seoi1 gung1} /coquin; gredin; canaille; expression utilisé pour montrer sa colère envers un homme/
 衰到貼地 衰到贴地 [shuai1 dao4 tie1 di4] {seoi1 dou3 tip3 dei2} /(d'une personne ou situation) ne peut pas être pire/(lit.) tellement mauvais qu'il touche la terre/
 衰十一 衰十一 [shuai1 shi2 yi1] {seoi1 sap6 jat1} /(fam.) délit d'atteinte sexuelle sur les mineurs/(orig.) du nom du loi « 與未成年少女發生性行為 », qui fait onze mots, d'où le terme 衰十一|衰十一 « mauvais onze »/
 衰名 衰名 [shuai1 ming2] {seoi1 meng2} /mauvaise réputation/
 衰咗 衰咗 [shuai1 zuo5] {seoi1 zo2} /avoir échoué/avoir commis une erreur/se faire prendre en flagrant délit/
 衰嘢 衰嘢 [shuai1 ye3] {seoi1 je5} /(fig.) mauvaise personne/(fig.) mauvaises actions/(fig.) vilain; enfant désagréable; enfant malhonnête/(fig.) chéri/(fig.) produit de mauvaise qualité; camelot/(lit.) mauvaise chose/
-衰多口 衰多口 [shuai1 duo1 kou3] {seoi1 do1 hau2} /Bad things that have happened as a result of talking too much; Loose lips sink ships/
-衰女 衰女 [shuai1 nu:3] {seoi1 neoi2} /(noun / appellation) 'naughty girl' / 'bad girl', a disrespectful (expressing irriation) form of address for a girl or one's daughter (especially when scolding them)/
-衰女包 衰女包 [shuai1 nu:3 bao1] {seoi1 neoi2 baau1} /slang for a badly behaved young woman; often used by parents scolding a daughter/
+衰多口 衰多口 [shuai1 duo1 kou3] {seoi1 do1 hau2} /(expr.) l'indiscrétion peut avoir des conséquences fâcheuses/
+衰女 衰女 [shuai1 nu:3] {seoi1 neoi2} /vilaine fille; méchante petite fille/
+衰女包 衰女包 [shuai1 nu:3 bao1] {seoi1 neoi2 baau1} /vilaine petite fille; méchante petite fille/
 衰婆 衰婆 [shuai1 po2] {seoi1 po2} /(inj.) salope; garce; connasse/(terme affectueux pour sa femme ou pour sa blonde)/
 衰弱 衰弱 [shuai1 ruo4] {seoi1 joek6} /fragile; frêle; faible/
-衰收尾 衰收尾 [shuai1 shou1 wei3] {seoi1 sau1 mei5} /end badly (spoken)/
-衰格 衰格 [shuai1 ge2] {seoi1 gaak3} /substandard characteristics (spoken)/
-衰樣 衰样 [shuai1 yang4] {seoi1 joeng2} /ugly face; to be in a bad state; to be in an unlucky state/
-衰牌 衰牌 [shuai1 pai2] {seoi1 paai2} /Bad cards; shameful; disgraceful; poor; disappointing/
+衰收尾 衰收尾 [shuai1 shou1 wei3] {seoi1 sau1 mei5} /rencontrer des problèmes à la dernière minute; rencontrer des problèmes juste avant la fin/
+衰格 衰格 [shuai1 ge2] {seoi1 gaak3} /méprisable; ignoble; ignominieux/
+衰樣 衰样 [shuai1 yang4] {seoi1 joeng2} /(d'une personne) air laid; air affreux/(par extension) être malchanceux/(par extension) être dans la dèche; avoir des difficultés financières/
+????c 衰牌 衰牌 [shuai1 pai2] {seoi1 paai2} /Bad cards; shameful; disgraceful; poor; disappointing/
 衰硬 衰硬 [shuai1 ying4] {seoi1 ngaang6} /être voué à l'échec; être condamné à l'échec/
-衰神 衰神 [shuai1 shen2] {seoi1 san4} /(noun) a disrespectful expression to refer to someone who does something bad or irritates others; an untrustworthy person; bastard/
-衰衰噉 衰衰啖 [shuai1 shuai1 dan4] {seoi1 seoi1 gam2} /an affectionate way to call someone an annoying or irritating person/
+衰神 衰神 [shuai1 shen2] {seoi1 san4} /porte-malheur; persone qui amène la malchance/personne indigne de confiance/personne méprisable/
+衰衰噉 衰衰啖 [shuai1 shuai1 dan4] {seoi1 seoi1 gam2} /casse-pied; enquiquineur; importun/
 衰過偷貓 衰过偷猫 [shuai1 guo4 tou1 mao1] {seoi1 gwo3 tau1 maau1} /(fig.) personne très méchante; très mauvaise personne/(lit.) pire qu'un voleur de chats/
-衰鬼 衰鬼 [shuai1 gui3] {seoi1 gwai2} /an intimate way to call someone a "bad person / rascal / scoundrel / devil" 2/
-衰鬼嘢 衰鬼嘢 [shuai1 gui3 ye3] {seoi1 gwai2 je5} /a nuisance/
-衰鬼豆 衰鬼豆 [shuai1 gui3 dou4] {seoi1 gwai2 dau6} /acceptable bad language used by kids (spoken)/
-衷情 衷情 [zhong1 qing2] {cung1 cing4} /Heartfelt emotion/
-衷腸 衷肠 [zhong1 chang2] {cung1 coeng4} /Heartfelt emotion/
-袁彌明 袁弥明 [yuan2 mi2 ming2] {jyun4 nei4 ming4} /Erica Yuen Mi-ming, name of a Hong Kong politician, actress, and presenter/
-袋入 袋入 [dai4 ru4] {doi6 jap6} /put inside/
-袋袋平安 袋袋平安 [dai4 dai5 ping2 an1] {doi6 doi6 ping4 on1} /a saying used when a person received some money and would like to keep the money in a safe place; to feel at ease; peace of mind/
-袋錶 袋表 [dai4 biao3] {doi2 biu1} /a pocket watch/
-袒胸露臂 袒胸露臂 [tan3 xiong1 lu4 bi4] {taan2 hung1 lou6 bei3} /to expose one's neck and shoulder/
-袒裼裸裎 袒裼裸裎 [tan3 xi1 luo3 cheng2] {taan2 sik3 lo2 cing4} /to be completely naked/
-袖口鈕 袖口钮 [xiu4 kou3 niu3] {zau6 hau2 nau2} /Cuff buttons; Cuff Links/
-被加數 被加数 [bei4 jia1 shu4] {bei6 gaa1 sou3} /Summand/
-被害 被害 [bei4 hai4] {bei6 hoi6} /To 'become a victim'; to be harmed; to be killed; to be injured; to be murdered/
-被竇 被窦 [bei4 dou4] {bei6 dau6} /inside the blanket (spoken)/
-被袋 被袋 [bei4 dai4] {pei5 doi2} /a quilt cover/
-被鋪 被铺 [bei4 pu4] {bei6 pou1} /blanket/
-裁 裁 [cai2] {coi4} /(verb) 1. Lay off; 2. Decide; 2. Judge/
-裁判 裁判 [cai2 pan4] {coi4 pun3} /(verb) (of law)  Sentence; (noun) (of law) Magistrates/
-裁判法院 裁判法院 [cai2 pan4 fa3 yuan4] {coi4 pun3 faat3 jyun2} /Magistrates' Courts/
-裂 裂 [lie4] {lit6} /(adjective)  Cracked /
-裇衫 裇衫 [xu1 shan1] {seot1 saam1} /shirt/
-裏便 里便 [li3 bian4] {lei5 bin6} /inside/
-裏海 里海 [li3 hai3] {lei5 hoi2} /the Caspian Sea/
-裏邊 里边 [li3 bian5] {lei5 bin6} /Inside/
-裏面 里面 [li3 mian4] {leoi5 min6} /inside/
-裏頭 里头 [li3 tou5] {lei5 tau4} /Inside/
+衰鬼 衰鬼 [shuai1 gui3] {seoi1 gwai2} /casse-pied; enquiquineur; importun/(lit.) mauvais fantôme/
+衰鬼嘢 衰鬼嘢 [shuai1 gui3 ye3] {seoi1 gwai2 je5} /casse-pied; enquiquineur; importun/(lit.) mauvais objet-fantôme/
+????f 衰鬼豆 衰鬼豆 [shuai1 gui3 dou4] {seoi1 gwai2 dau2} /vilain enfant/(used between adults, like 'you rascal!' - non-serious irritation between friends)/
+衷情 衷情 [zhong1 qing2] {cung1 cing4} /émotion sincère/
+????f 衷腸 衷肠 [zhong1 chang2] {cung1 coeng4} /mots du fond du cœur/
+袁彌明 袁弥明 [yuan2 mi2 ming2] {jyun4 nei4 ming4} /Erica Yuen Mi-ming, femme politique et actrice hongkongaise/
+袋入 袋入 [dai4 ru4] {doi6 jap6} /mettre dans une poche/
+????f 袋袋平安 袋袋平安 [dai4 dai5 ping2 an1] {doi6 doi6 ping4 on1} /(expr. idiom.) obtenir une somme d'argent et la garder en sécurité/(lit.) chaque poche en paix/
+袋錶 袋表 [dai4 biao3] {doi2 biu1} /montre de poche/
+袒胸露臂 袒胸露臂 [tan3 xiong1 lu4 bi4] {taan2 hung1 lou6 bei3} /(expr.) (d'une femme) laisser apparaître le cou et les épaules/
+袒裼裸裎 袒裼裸裎 [tan3 xi1 luo3 cheng2] {taan2 sik3 lo2 cing4} /(d'une personne) tout nu; complètement nu/
+袖口鈕 袖口钮 [xiu4 kou3 niu3] {zau6 hau2 nau2} /boutons de manchette/
+被加數 被加数 [bei4 jia1 shu4] {bei6 gaa1 sou3} /opérande d'une somme/
+被害 被害 [bei4 hai4] {bei6 hoi6} /être victime/être blessé/être assassiné; être tué/
+????f 被竇 被窦 [bei4 dou4] {pei5 dau6} /inside the blanket (spoken) (cozy space under a blanket)/
+被袋 被袋 [bei4 dai4] {pei5 doi2} /housse de couette/
+被鋪 被铺 [bei4 pu4] {pei5 pou1} /literie; couvertures et matelas/
+裁 裁 [cai2] {coi4} /licencier; congédier; virer/décider/juge; magistrat/
+裁判 裁判 [cai2 pan4] {coi4 pun3} /(droit) sentence; peine/(droit) magistrat/
+裁判法院 裁判法院 [cai2 pan4 fa3 yuan4] {coi4 pun3 faat3 jyun2} /Magistrates' Courts (« cour des magistrats »)/
+裂 裂 [lie4] {lit6} /fendu; fissuré; craqué/
+裇衫 裇衫 [xu1 shan1] {seot1 saam1} /chemise/(orig.) de l'anglais « shirt » (« chemise »)/
+裏便 里便 [li3 bian4] {lei5 bin6} /dedans/à l'intérieur/
+裏海 里海 [li3 hai3] {lei5 hoi2} /mer Caspienne/
+裏邊 里边 [li3 bian5] {lei5 bin1} /dedans/à l'intérieur/
+裏面 里面 [li3 mian4] {leoi5 min6} /dedans/à l'intérieur/
+裏頭 里头 [li3 tou5] {lei5 tau4} /dedans/à l'intérieur/
 裒斂 裒敛 [pou2 lian3] {pau4 lim5} /To plunder; to accumulate wealth by extortion; to exploit the people/
-裒輯 裒辑 [pou2 ji2] {pau4 cap1} /compile/
-裕如 裕如 [yu4 ru2] {jyu6 jyu4} /doing something smoothly; effortlessly; with ease/
-裙帶 裙带 [qun2 dai4] {kwan4 daai2} /nepotic/
-裙帶關係 裙带关系 [qun2 dai4 guan1 xi5] {kwan4 daai3 gwaan1 hai6} /nepotism/
-裙拉褲甩 裙拉裤甩 [qun2 la1 ku4 shuai3] {kwan4 laai1 fu3 lat1} /to be in a sorry plight or to be in a disheveled state when in a great haste /
-裙擺 裙摆 [qun2 bai3] {kwan4 baai2} /edge of the dress; hemline/
-裙腳仔 裙脚仔 [qun2 jiao3 zi3] {kwan4 goek3 zai2} /a mama's boy; a mummy's boy/
-裙腳妹 裙脚妹 [qun2 jiao3 mei4] {kwan4 goek3 mui1} /A spoiled girl who relies heavily on parents – similar to a mummy's boy (a more modern interpretation of the term); this term is traditionally used to refer to personal maids/
-裙褂 裙褂 [qun2 gua4] {kwan4 gwaa3} /Chinese wedding gown/
-補 补 [bu3] {bou2} /to refill/
-補償 补偿 [bu3 chang2] {bou2 soeng4} /compensation/
-補償貿易 补偿贸易 [bu3 chang2 mao4 yi4] {bou2 soeng4 mau6 jik6} /Compensation trade/
-補助費 补助费 [bu3 zhu4 fei4] {bou2 zo6 fai3} /Subsidies; allowances/
-補助金 补助金 [bu3 zhu4 jin1] {bou2 zo6 gam1} /subsidy; grant/
-補妝 补妆 [bu3 zhuang1] {bou2 zong1} /Makeup/
-補子 补子 [bu3 zi3] {bou2 zi2} /mandarin square (a rank badge sewed on to the surcoat of an officials in the past)/
-補師 补师 [bu3 shi1] {bou2 si1} /An apprentice who has finished training but not yet qualified to be a master/
-補救 补救 [bu3 jiu4] {bou2 gau3} /to amend; to fix; to rescue/
-補數 补数 [bu3 shu4] {bou2 sou3} /compensation (Cantonese)/
-補服 补服 [bu3 fu2] {bou2 fuk6} /mandarin square (a rank badge sewed on to the surcoat of an officials in the past)/
-補水 补水 [bu3 shui3] {bou2 seoi2} /payment for overtime work; to subsidise; moisturising/
-補𤶸 补𤶸 [] {bou2 naa1} /to put on a patch; to patch up/
-補粉 补粉 [bu3 fen3] {bou2 fan2} /to reapply face powder/
-補習 补习 [bu3xi2] {bou2 zaap6} /(verb) 1. Tutor; (noun) 1. Tutor; 2. Tutorial or Tutorial class/
-補習社 补习社 [bu3 xi2 she4] {bou2 zaap6 se5} /a tuition center/
+裒輯 裒辑 [pou2 ji2] {pau4 cap1} /compiler (des données); réunir des documents à partir de plusieurs sources/
+裕如 裕如 [yu4 ru2] {jyu6 jyu4} /aisément; sans difficulté; facilement; sans effort/
+裙帶 裙带 [qun2 dai4] {kwan4 daai2} /népotisme/
+裙帶關係 裙带关系 [qun2 dai4 guan1 xi5] {kwan4 daai3 gwaan1 hai6} /népotisme/
+裙拉褲甩 裙拉裤甩 [qun2 la1 ku4 shuai3] {kwan4 laai1 fu3 lat1} /(expr. idiom.) en tout hâte; très pressé/(lit.) traîner la robe et avoir un pantalon qui tombent/
+裙擺 裙摆 [qun2 bai3] {kwan4 baai2} /ourlet d'une robe/
+裙腳仔 裙脚仔 [qun2 jiao3 zi3] {kwan4 goek3 zai2} /fils à maman; fils à sa maman/
+????f 裙腳妹 裙脚妹 [qun2 jiao3 mei4] {kwan4 goek3 mui1} /fille à maman/
+裙褂 裙褂 [qun2 gua4] {kwan4 gwaa3} /robe de mariée chinoise/
+補 补 [bu3] {bou2} /réparer/rapiécer/compenser; indemniser; dédommager/remplir à nouveau; reremplir/donner des cours particuliers/
+補償 补偿 [bu3 chang2] {bou2 soeng4} /compenser; indemniser/compensation; indemnisation; dédommage/
+補償貿易 补偿贸易 [bu3 chang2 mao4 yi4] {bou2 soeng4 mau6 jik6} /commerce de rémunération/
+補助費 补助费 [bu3 zhu4 fei4] {bou2 zo6 fai3} /subvention/
+補助金 补助金 [bu3 zhu4 jin1] {bou2 zo6 gam1} /subvention/
+補妝 补妆 [bu3 zhuang1] {bou2 zong1} /retoucher son maquillage/
+補子 补子 [bu3 zi3] {bou2 zi2} /Carré mandarin/
+????f 補師 补师 [bu3 shi1] {bou2 si1} /apprenti qui a terminé son stage mais qui n'a pas encore obtenu la qualification nécessaire pour devenir maître/
+補救 补救 [bu3 jiu4] {bou2 gau3} /compenser; indemniser/se dédomagger; se faire pardonner; se rattraper/
+補數 补数 [bu3 shu4] {bou2 sou3} /compenser; indemniser/se dédommager; se faire pardonner; se rattraper/
+補服 补服 [bu3 fu2] {bou2 fuk6} /Carré mandarin/
+補水 补水 [bu3 shui3] {bou2 seoi2} /payer des heures supplémentaires/subventionner/
+補𤶸 补𤶸 [bu3 na1] {bou2 naa1} /rapiécer; réparer (des habits)/
+????f 補粉 补粉 [bu3 fen3] {bou2 fan2} /to reapply face powder/
+補習 补习 [bu3 xi2] {bou2 zaap6} /donner des cours particuliers/professeur particulier/cours d'appoint; cours de rattrapage/
+補習社 补习社 [bu3 xi2 she4] {bou2 zaap6 se5} /école préparatoire/
 補處 补处 [bu3 chu3] {bou2 cyu2} /(Buddhist term) to be the next Buddha; to have one's hymen surgically repaired or recreated/
-補身 补身 [bu3 shen1] {bou2 san1} /rejuvenate the body/
-補鑊 补镬 [bu3 huo4] {bou2 wok6} /the act of trying to resolve the mistake(s) done; to fix things up/
-補鞋 补鞋 [bu3 xie2] {bou2 haai4} /to repair shoes/
+補身 补身 [bu3 shen1] {bou2 san1} /(fig.) (aliment) nourrissant; bon pour la santé/(lit.) qui répare le corps/
+補鑊 补镬 [bu3 huo4] {bou2 wok6} /réparer les dégâts; réparer le gâchis/(lit.) réparer le wok/
+補鞋 补鞋 [bu3 xie2] {bou2 haai4} /réparer des chaussures/
 裝假狗 装假狗 [zhuang1 jia3 gou3] {zong1 gaa2 gau2} /(verb) to put up a front, pretend to be something that you're not or to have something that you don't, e.g. to improve one's appearance with heavy makeup / a push-up bra/
 裝卸 装卸 [zhuang1xie4] {zong1 se3} /(adjective) Loading /
 裝彈弓 装弹弓 [zhuang1 dan4 gong1] {zong1 daan6 gung1} /(verb) to set up a trap; to trick; to set someone up; to frame somebody/
@@ -17737,16 +17737,16 @@
 裝甲兵 装甲兵 [zhuang1 jia3 bing1] {zong1 gaap3 bing1} /armoured soldier; armoured forces; armoured reconnaissance/
 裝身 装身 [zhuang1 shen1] {zong1 san1} /dressed up/
 裝載 装载 [zhuang1zai4] {zong1 zoi3} /(verb) Carry/
-裝飯 装饭 [zhuang1 fan4] {zong1 faan6} /to fill a bowl with rice/
-裝飾音 装饰音 [zhuang1 shi4 yin1] {zong1 sik1 jam1} /Ornament; a grace note/
+????f 裝飯 装饭 [zhuang1 fan4] {zong1 faan6} /remplir un bol de riz/
+裝飾音 装饰音 [zhuang1 shi4 yin1] {zong1 sik1 jam1} /(musique) ornement; note d'agrément; fioriture/
 裝香 装香 [zhuang1 xiang1] {zong1 hoeng1} /present incense to ancestors or the dead/
-裡便 里便 [li3 bian4] {leoi5 bin6} /inside (spoken)/
+裡便 里便 [li3 bian4] {leoi5 bin6} /dedans; à l'intérieur/
 裡底 里底 [li3 di3] {leoi5 dai2} /within; inside/
 裸跑 裸跑 [luo3 pao3] {lo2 paau2} /to run naked/
 裹蒸粽 裹蒸粽 [guo3 zheng1 zong4] {gwo2 zing1 zung2} /sticky rice dumplings wrapped in lotus leaves/
-製作 制作 [zhi4 zuo4] {zai3 zok3} /to produce/
+製作 制作 [zhi4 zuo4] {zai3 zok3} /faire; créer (de l'art, de musique)/produire; fabriquer/
 製冷 制冷 [zhi4 leng3] {zai3 laang5} /Refrigeration/
-製唔製 制唔制 [zhi4 n2 zhi4] {zai3 m4 zai3} /accept it or not/
+製唔製 制唔制 [zhi4 n2 zhi4] {zai3 m4 zai3} /que vous acceptiez ou non/
 製定 制定 [zhi4 ding4] {zai3 ding6} /Formulate/
 製得過 制得过 [zhi4 de2 guo4] {zai3 dak1 gwo3} /worth considering/
 製訂 制订 [zhi4 ding4] {zai3 ding3} /Formulate/
