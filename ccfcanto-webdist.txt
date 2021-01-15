@@ -17119,7 +17119,7 @@
 落場 落场 [luo4 chang3] {lok6 coeng4} /partir/conclure; terminer; prendre fin/pas en service; de repos/
 落大雨 落大雨 [luo4 da4 yu3] {lok6 daai6 jyu5} /pleuvoir des cordes; pleuvoir à verse; pleuvoir à torrent; pleuvoir très fort/
 落妝 落妆 [luo4 zhuang1] {lok6 zong1} /démaquiller; enlever le maquillage/
-落定 落定 [luo4 ding4] {lok6 deng6} /verser un acompte; verser une caution (après une transaction)/
+落定 落定 [luo4 ding4] {lok6 deng6} /verser un acompte; verser des arrhes; verser une caution (après une transaction)/
 落客 落客 [luo4 ke4] {lok6 haak3} /déposer les passagers/
 落形 落形 [luo4 xing2] {lok6 jing4} /maigrir; amaigrir/
 落後 落后 [luo4 hou4] {lok6 hau6} /prendre du retard/dépassé; démodé/
@@ -17149,7 +17149,7 @@
 落荒而逃 落荒而逃 [luo4 huang1 er2 tao2] {lok6 fong1 ji4 tou4} /(expr.) fuir après une défaite/
 落街 落街 [luo4 jie1] {lok6 gaai1} /descendre au rez-de-chaussée pour sortir/sortir; sortir de chez soi pour prendre du bon temps (ex. aller en boîte, aller au bar, etc.)/faire du shopping; magasiner/
 ????c 落袋 落袋 [luo4 dai4] {lok6 doi2} /to put in the pocket; to pocket (pool, income, literal?)/
-落訂 落订 [luo4 ding4] {lok6 deng6} /verser un acompte; verser une caution/
+落訂 落订 [luo4 ding4] {lok6 deng6} /verser un acompte; verser des arrhes; verser une caution/
 落足 落足 [luo4 zu2] {lok6 zuk1} /dépenser beaucoup d'argent/faire beaucoup d'efforts/
 落車 落车 [luo4 che1] {lok6 ce1} /descendre d'un véhicule; débarquer/
 落鄉 落乡 [luo4 xiang1] {lok6 hoeng1} /aller à la campagne/aller à sa ville natale/
@@ -17898,55 +17898,56 @@
 ????c 觀念更新 观念更新 [guan1 nian4 geng1 xin1] {gun1 nim6 gang1 san1} /To renew a Concept/
 ????c 觀自在菩薩 观自在菩萨 [guan1 zi4 zai4 pu2 sa4] {gun1 zi6 zoi6 pou4 saat3} /Avalokitesvara Bodhisattva/
 觀音兵 观音兵 [guan1 yin1 bing1] {gun1 jam1 bing1} /(slang) a man who willingly acts as a woman's attendant in the hope of winning her heart despite the actual chances being very slim in reality/
-觀音竹 观音竹 [guan1 yin1 zhu2] {gun1 jam1 zuk1} /fernleaf bamboo/
-觀點 观点 [guan1 dian3] {gun1 dim2} /(noun)  Perspective/
-角 角 [jiao3] {gok3} /(noun) 1. Role; 2. Character (in a TV show, play, etc.); (of coins) 1. Dime; (verb)  Wrestle/
-角仔 角仔 [jiao3 zi3] {gok3 zai2} /fried dumpling/
-角度 角度 [jiao3 du4] {gok3 dou6} /perspective/
-角落頭 角落头 [jiao3 lao4 tou5] {gok3 lok1 tau2} /(slang) corner; at the corner/
-角鋼 角钢 [jiao3 gang1] {gok3 gong3} /Angle bar/
+觀音竹 观音竹 [guan1 yin1 zhu2] {gun1 jam1 zuk1} /(espèce de bambou) Phyllostachys aurea/
+觀點 观点 [guan1 dian3] {gun1 dim2} /point de vue; avis; opinion/
+角 角 [jiao3] {gok3} /coin/angle/corne/pièce de dix cents/
+角 角 [jue2] {gok3} /personnage/rôle/lutter/
+????f 角仔 角仔 [jiao3 zi3] {gok3 zai2} /yau gok; jau gok; dumpling frit à l'huile qui est consommée lors des célébrations du Nouvel an chinois/
+角度 角度 [jiao3 du4] {gok3 dou6} /angle/point de vue; angle/
+角落頭 角落头 [jiao3 lao4 tou5] {gok3 lok1 tau2} /coin/
+????f 角鋼 角钢 [jiao3 gang1] {gok3 gong3} /Angle bar/
 解 解 [jie3] {gaai2} /(verb)  escort/
-解夢 解梦 [jie3 meng4] {gaai2 mung6} /Dream explanation; oneiromancy, interpretation of dreams/
-解放 解放 [jie3 fang4] {gaai2 fong3} /(verb)  To free/
-解款 解款 [jie3 kuan3] {gaai3 fun2} /Cash escort/
-解款車 解款车 [jie3 kuan3 che1] {gaai3 fun2 ce1} /Armored Vehicles for transportation of valuables/
-解決問題 解决问题 [jie3 jue2 wen4 ti2] {gaai2 kyut3 man6 tai4} /Solve problems/
-解犯 解犯 [jie4 fan4] {gaai3 faan2} /To escort a prisoner under guard/
-解究 解究 [jie3 jiu1] {gaai2 gau3} /reason; explanation/
-解纈 解缬 [jie3 xie2] {gaai2 lit3} /solve the difficulties; to untangle a knot/
-解説 解说 [jie3 shuo1] {gaai2 syut3} /explain/
-解送 解送 [jie4 song4] {gaai3 sung3} /To send under guard/
-觳觫 觳觫 [hu2 su4] {huk6 cuk1} /shaking because of being frightened/
-觸目皆是 触目皆是 [chu4 mu4 jie1 shi4] {zuk1 muk6 gaai1 si6} /It is everywhere in evidence; it can be found everywhere; in abundance; very common/
-言 言 [yan2] {jin4} /(noun) 1. Dialect; 2. Language/
-言之成理 言之成理 [yan2 zhi1 cheng2 li3] {jin4 zi1 sing4 lei5} /to describe one's words as rational and convincing; cogently argued; sounds reasonable /
-言之有據 言之有据 [yan2 zhi1 you3 ju4] {jin4 zi1 jau5 geoi3} /Well grounded; to speak on good grounds; arguments based on facts/
-言之有理 言之有理 [yan2 zhi1 you3 li3] {jin4 zi1 jau5 lei5} /to describe one's words as rational and convincing; cogently argued; sounds reasonable/
+解夢 解梦 [jie3 meng4] {gaai2 mung6} /interpréter un rêve; pratiquer l'onéiromancie/
+解放 解放 [jie3 fang4] {gaai2 fong3} /libérer; émanciper/libération; émancipation/
+????f 解款 解款 [jie3 kuan3] {gaai3 fun2} /escort money in an armed fashion; transfer money with protection/
+????f 解款車 解款车 [jie3 kuan3 che1] {gaai3 fun2 ce1} /Armored Vehicles for transportation of valuables/
+解決問題 解决问题 [jie3 jue2 wen4 ti2] {gaai2 kyut3 man6 tai4} /résoudre des problèmes/
+????f 解犯 解犯 [jie4 fan4] {gaai3 faan2} /To escort a prisoner under guard/
+解究 解究 [jie3 jiu1] {gaai2 gau3} /raison; explication/
+解纈 解缬 [jie3 xie2] {gaai2 lit3} /défaire un nœud/(fig.) résoudre un problème/
+解説 解说 [jie3 shuo1] {gaai2 syut3} /expliquer/
+????f 解送 解送 [jie4 song4] {gaai3 sung3} /To send under guard/
+觳觫 觳觫 [hu2 su4] {huk6 cuk1} /trembler de peur/
+觸目皆是 触目皆是 [chu4 mu4 jie1 shi4] {zuk1 muk6 gaai1 si6} /être partout; être très fréquent; qui peut être vu partout/
+言 言 [yan2] {jin4} /dialecte/langue/patois/parole/mot/
+言之成理 言之成理 [yan2 zhi1 cheng2 li3] {jin4 zi1 sing4 lei5} /(expr.) (de ses paroles) avoir du sens et être convaincant/
+????f 言之有據 言之有据 [yan2 zhi1 you3 ju4] {jin4 zi1 jau5 geoi3} /Well grounded; to speak on good grounds; arguments based on facts/
+言之有理 言之有理 [yan2 zhi1 you3 li3] {jin4 zi1 jau5 lei5} /(expr.) (de ses paroles) avoir du sens et être convaincant/
 言之過早 言之过早 [yan2 zhi1 guo4 zao3] {jin4 zi1 gwo3 zou2} /too early to make a conclusion/
 言之鑿鑿 言之凿凿 [yan2 zhi1 zao2 zao2] {jin4 zi1 zok6 zok6} /to say something with certainty/
 言人人殊 言人人殊 [yan2 ren2 ren2 shu1] {jin4 jan4 jan4 syu4} /everyone gives a different version/
 言和 言和 [yan2 he2] {jin4 wo4} /to make peace/
 言喻 言喻 [yan2 yu4] {jin4 jyu6} /Put into words/
-言多必失 言多必失 [yan2 duo1 bi4 shi1] {jin4 do1 bit1 sat1} /he that talks much errs much; the less said, the better/
-言者無罪 言者无罪 [yan2 zhe3 wu2 zui4] {jin4 ze2 mou4 zeoi6 ,} /Do not blame the man who speaks/
+????f 言多必失 言多必失 [yan2 duo1 bi4 shi1] {jin4 do1 bit1 sat1} /(expr. idiom.) mieux vaut garder le silence que de parler et commettre des erreurs/(lit.) ceux qui ont beaucoup de paroles vont forcément faire une erreur/
+言者無罪 言者无罪 [yan2 zhe3 wu2 zui4] {jin4 ze2 mou4 zeoi6} /Do not blame the man who speaks/
 言行不一 言行不一 [yan2 xing2 bu4 yi1] {jin4 hang4 bat1 jat1} /one's words and actions are not in accord/
-言語 言语 [yan2 yu5] {jin4 jyu5} /communication/
-言論 言论 [yan2lun4] {jin4 leon6} /(noun) (of constitution) 1. Speech; 2. Discussion and opinion/
+言語 言语 [yan2 yu5] {jin4 jyu5} /communication orale/
+言論 言论 [yan2 lun4] {jin4 leon6} /expression (ex. 言論自由|言论自由 liberté d'expression)/opinion; avis/
 言路 言路 [yan2 lu4] {jin4 lou6} /channels through which criticisms and suggestions may be communicated to the leadership/
 言重 言重 [yan2 zhong4] {jin4 zung6} /Too serious; to say something over seriously that embarrasses someone; to say something that is over flattering/
-訂 订 [ding4] {deng6} /deposit; downpayment (Cantonese)/
-訂合同 订合同 [ding4 he2 tong2] {deng6 hap6 tung4} /to sign a contract/
-訂座 订座 [ding4 zuo4] {deng6 zo6} /Reservations/
-訂裝 订装 [ding4 zhuang1] {deng1 zong1} /Book-binding/
-訂閲 订阅 [ding4 yue4] {deng6 jyut6} /Subscription/
-計上心來 计上心来 [ji4 shang4 xin1 lai2] {gai3 soeng5 sam1 loi4} /a stratagem comes to mind/
-計仔 计仔 [ji4 zi3] {gai2 zai2} /(noun) a plan for solving problems; a strategy; a tactic/
-計埋 计埋 [ji4 mai2] {gai3 maai4} /price inclusive (spoken)/
-計帶 计带 [ji4 dai4] {gai3 daai3} /sensitive; money-minded (characteristics; spoken)/
-計我話 计我话 [ji4 wo3 hua4] {gai3 ngo5 waa6} /in my opinion/
-計數 计数 [ji4 shu4] {gai3 sou3} /(noun)  calculation; (verb) to calculate/
-計數機 计数机 [ji4 shu4 ji1] {gai3 sou3 gei1} /(noun) a calculator/
-計條數 计条数 [ji4 tiao2 shu4] {gai3 tiu4 sou3} /to make a calculation; to reckon up/
+訂 订 [ding4] {deng6} /conclure/réserver/s'abonner/acompte; arrhes/ 
+訂合同 订合同 [ding4 he2 tong2] {deng6 hap6 tung4} /signer un contrat; conclure un contrat/
+????f 訂座 订座 [ding4 zuo4] {deng6 zo6} /réservation (à un restaurant)/
+訂裝 订装 [ding4 zhuang1] {deng1 zong1} /relier (des livres)/
+訂閲 订阅 [ding4 yue4] {deng6 jyut6} /abonnement/
+計上心來 计上心来 [ji4 shang4 xin1 lai2] {gai3 soeng5 sam1 loi4} /(expr.) une idée vient à l'esprit; une stratégie (ou truc, ou astuce) vient à l'esprit/
+計仔 计仔 [ji4 zi3] {gai2 zai2} /stratégie; astuce; truc/
+計埋 计埋 [ji4 mai2] {gai3 maai4} /total; total général/
+????f 計帶 计带 [ji4 dai4] {gai3 daai3} /(péj.) être pointilleux; faire des histoires; se chamailler; se disputer/
+計我話 计我话 [ji4 wo3 hua4] {gai3 ngo5 waa6} /à mon avis/
+計數 计数 [ji4 shu4] {gai3 sou3} /calculer/calculation/
+計數機 计数机 [ji4 shu4 ji1] {gai3 sou3 gei1} /calculatrice/
+計條數 计条数 [ji4 tiao2 shu4] {gai3 tiu4 sou3} /calculer/
 計正 计正 [ji4 zheng4] {gai3 zing3} /actually; accordingly (spoken)/
 計落 计落 [ji4 luo4] {gai3 lok6} /all considered; looking back/
 討 讨 [tao3] {tou2} /(verb)  To beg/
