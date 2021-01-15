@@ -17512,7 +17512,7 @@
 血糖 血糖 [xue4 tang2] {hyut3 tong4} /glycémie; taux de sucre dans le sang/
 血肉之軀 血肉之躯 [xue4 rou4 zhi1 qu1] {hyut3 juk6 zi1 keoi1} /(expr.) enveloppe charnelle; corps humain/
 行 行 [hang2] {hong4} /entreprise; compagnie; société; boîte/industrie/profession; carrière/ligne; rang; rangée/
-行一步睇一步 行一步睇一步 [xing2 yi2 bu4 di4 yi2 bu4] {haang4 jat1 bou6 tai2 jat1 bou6} /(expr. idiom.) faire une chose à la fois/(expr. idiom.) prendre les choses comme elles viennent; ne pas avoir de plan à long-terme/(lit.) faire un pas, regarder un pas/ 
+行一步睇一步 行一步睇一步 [xing2 yi2 bu4 di4 yi2 bu4] {haang4 jat1 bou6 tai2 jat1 bou6} /(expr. idiom.) y aller petit à petit/(expr. idiom.) prendre les choses comme elles viennent; ne pas avoir de plan à long terme/(lit.) faire un pas, regarder un pas/ 
 行人天橋 行人天桥 [xing2 ren2 tian1 qiao2] {hang4 jan4 tin1 kiu4} /passerelle/
 行人路 行人路 [hang2 ren2 lu4] {hang4 jan4 lou6} /trottoir/passage piétonnier/sentier/
 行人道 行人道 [xing2 ren2 dao4] {hang4 jan4 dou6} /trottoir/
@@ -17816,7 +17816,7 @@
 西洋菜 西洋菜 [xi1 yang2 cai4] {sai1 joeng4 coi3} /cresson de fontaine; cresson oficinal; Nasturtium officinale/(fam.) Occidentale/
 西洋菜街 西洋菜街 [xi1 yang2 cai4 jie1] {sai1 joeng4 coi3 gaai1} /Sai Yeung Choi Street, rue commerciale de Hong Kong/
 西洋鬼 西洋鬼 [xi1 yang2 gui3] {sai1 joeng4 gwai2} /(péj.) Occidental/(péj.) étranger; personne qui vient d'un autre pays/
-西港城 西港城 [Xi1 gang3 cheng2] {sai1 gong2 sing4} /Western Market, édifice historique de Hong Kong/
+西港城 西港城 [xi1 gang3 cheng2] {sai1 gong2 sing4} /Western Market, édifice historique de Hong Kong/
 西灣河 西湾河 [xi1 wan1 he2] {sai1 waan1 ho4} /Sai Wan Ho, ville du côte nord-est de Hong Kong/
 西營盤 西营盘 [xi1 ying2 pan2] {sai1 jing4 pun4} /Sai Ying Pun, ville du côte nord-ouest de Hong Kong/
 西片 西片 [xi1 pian4] {sai1 pin2} /films occidentaux/
@@ -17826,7 +17826,7 @@
 西生菜 西生菜 [xi1 sheng1 cai4] {sai1 saang1 coi3} /laitue iceberg/
 西紙 西纸 [xi1 zhi3] {sai1 zi2} /devise étrangère/
 西菜 西菜 [xi1 cai4] {sai1 coi3} /cuisine occidentale/
-西裝友 西装友 [xi1 zhuang1 you3] {sai1 zong1 jau5} /homme en costume/
+西裝友 西装友 [xi1 zhuang1 you3] {sai1 zong1 jau2} /homme en costume/
 西裝褲 西装裤 [xi1 zhuang1 ku4] {sai1 zong1 fu3} /pantalon de costume/
 西裝骨骨 西装骨骨 [xi1 zhuang1 gu3 gu3] {sai1 zong1 gwat1 gwat1} /(expr. idiom.) (d'un homme en costume) élégant; chic; classe; bien habillé/(lit.) costume pli-pli/
 西貢區 西贡区 [Xi1 gong4 qu1] {sai1 gung3 keoi1} /district de Sai Kung, district de Hong Kong/
@@ -17837,64 +17837,67 @@
 西餐房 西餐房 [xi1 can1 fang2] {sai1 caan1 fong2} /restaurant occidental/
 要生要死 要生要死 [yao4 sheng1 yao4 si3] {jiu3 sang1 jiu3 sei2} /(expr. idiom.) être hystérique/(lit.) vouloir naître, vouloir mourir/
 要素 要素 [yao4 su4] {jiu3 sou3} /élément clé; facteur essentiel/
-要靚唔要命 要靓唔要命 [yao4 jing4 n2 yao4 ming4] {jiu3 leng3 m4 jiu3 meng6} /To describe someone who is willing to sacrifice their health and risk their life for beauty/
-要面 要面 [yao4 mian4] {jiu3 min6} /wanting a good reputation or face (spoken)/
-要頸唔要命 要颈唔要命 [yao4 jing3 n2 yao4 ming4] {jiu3 geng2 m4 jiu3 meng6} /be obstinate in doing something without any regards to the cost or consequences/
+????f 要靚唔要命 要靓唔要命 [yao4 jing4 n2 yao4 ming4] {jiu3 leng3 m4 jiu3 meng6} /(expr. idiom.) (personne) prêt à sacrifier sa santé pour la beauté/(lit.) vouloir la beauté, ne pas vouloir la vie/
+????f 要面 要面 [yao4 mian4] {jiu3 min6} /(fig.) vouloir rester dans les bonnes grâces des autres; être préoccupé par sa réputation/(lit.) vouloir la face/
+????f 要頸唔要命 要颈唔要命 [yao4 jing3 n2 yao4 ming4] {jiu3 geng2 m4 jiu3 meng6} /(expr. idiom.) s'obstiner à faire quelquec chose sans égard pour les conséquences/(lit.) vouloir son cou (=être obstiné), ne pas vouloir sa vie/
 覆機 复机 [fu4 ji1] {fuk1 gei1} /(téléphone) rappeler; appeler à nouveau/
-覆診 覆诊 [fu4 zhen3] {fuk1 can2} /Follow-up consultation/
+????f 覆診 复诊 [fu4 zhen3] {fuk1 can2} /rendez-vous de suivi avec le médecin; nouvelle visite chez le médecin/
 見世面 见世面 [jian4 shi4 mian4] {gin3 sai3 min6} /voir du pays; explorer; élargir ses horizons/
 ????f 見人講人話，見鬼講鬼話 见人讲人话，见鬼讲鬼话 [jian4 ren2 jiang3 ren2 hua4 , jian4 gui3 jiang3 gui3 hua4] {gin3 jan4 gong2 jan4 waa2 gin3 gwai2 gong2 gwai2 waa2} /(expr. idiom.) hypocrite; pas sincère; personne qui veut plaire à tout le monde/(lit.) voir un être humain, parler la langue des êtres humains; voir un fantôme, parler la langue des fantômes/
-見使 见使 [jian4 shi3] {gin3 sai2} /spending a little on a lot; good value (spoken)/
-見功 见功 [jian4 gong1] {gin3 gung1} /to take effect; to become effective; to produce the desired result; to see the desired effect/
+????f 見使 见使 [jian4 shi3] {gin3 sai2} /(adjectif) (of money) to go farther, to be able to buy much more with the money that you have/économique; bon marché/
+見功 见功 [jian4 gong1] {gin3 gung1} /être efficace; produire l'effet désiré/
 見周公 见周公 [jian4 zhou1 gong1] {gin3 zau1 gung1} /(fig.) se coucher; dormir/(lit.) voir le duc Dan de Zhou/
-見客 见客 [jian4 ke4] {gin3 haak3} /to meet a client/
+????f 見客 见客 [jian4 ke4] {gin3 haak3} /recevoir, accueillir des invités/recevoir, accueillir un client/
 見山就拜 见山就拜 [jian4 shan1 jiu4 bai4] {gin3 saan1 zau6 baai3} /to randomly pay compliments to anyone without really knowing who they are/
-見工 见工 [jian4 gong1] {gin3 gung1} /(verb) to go for a job interview/
-見機 见机 [jian4 ji1] {gin3 gei1} /sees the chance or opportunity (spoken)/
-見步行步 见步行步 [jian4 bu4 xing2 bu4] {gin3 bou6 haang4 bou6} /to take things one step at a time and deal with things as they come/
-見死不救 见死不救 [jian4 si3 bu4 jiu4] {gin3 sei2 bat1 gau3} /to refuse to help someone in real trouble/
-見牙不見眼 见牙不见眼 [jian4 ya2 bu4 jian4 yan3] {gin3 ngaa4 bat1 gin3 ngaan5} /too happy; smiling broadly/
-見牙唔見眼 见牙唔见眼 [jian4 ya2 n2 jian4 yan3] {gin3 ngaa4 m4 gin3 ngaan5} /grinning broadly; literally 'can see the teeth but not the eyes'/
-見者有份 见者有份 [jian4 zhe3 you3 fen4] {gin3 ze2 jau5 fan6} /everyone present can have a share/
-見連丸 见连丸 [jian4 lian2 wan2] {gin3 lin4 jyun2} /quinine (loanword)/
-見過鬼就怕黑 见过鬼就怕黑 [jian4 guo4 gui3 jiu4 pa4 hei1] {gin3 gwo3 gwai2 zau6 paa3 hak1} /once bitten, twice shy/
-見過鬼怕黑 见过鬼怕黑 [jian4 guo4 gui3 pa4 hei1] {gin3 gwo3 gwai2 paa3 hak1} /once bitten, twice shy (slang)/
-見錢開眼 见钱开眼 [jian4 qian2 kai1 yan3] {gin3 cin2 hoi1 ngaan5} /(literally: to open one's eyes wide at the sight of money); to be tempted by money/
-見鑊打鑊 见镬打镬 [jian4 huo4 da3 huo4] {gin3 wok6 daa2 wok6} /to beat someone up whenever they are seen (often used as a verbal warning to someone)/
-見風使𢃇 见风使𢃇 [] {gin3 fung1 sai2 to4} /To go with the tide; to change one's view according to circumstances; to act pragmatically and adapt to take advantage of the situation/
-見食 见食 [jian4 shi2] {gin3 sik6} /food dish of a good value due to its size (spoken)/
-見飯 见饭 [jian4 fan4] {gin3 faan6} /rice that rises or swells well when cooked/
-見高就拜見低就踩 见高就拜见低就踩 [jian4 gao1 jiu4 bai4 jian5 di1 jiu4 cai3] {gin3 gou1 zau6 baai3 gin3 dai1 zau6 caai2} /(literally: bow to those higher up, trample on those lower down); be snobbish/
-見高拜見低踩 见高拜见低踩 [jian4 gao1 bai4 jian5 di1 cai3] {gin3 gou1 baai3 gin3 dai1 caai2} /one who adore the riches, and despise the poor (slang)/
-見鬼 见鬼 [jian4 gui3] {gin3 gwai2} /(adverb)  Holy shit!/
-規模 规模 [gui1 mo2] {kwai1 mou4} /size/
-規畫 规画 [gui1 hua4] {kwai1 waak6} /Planning/
-親兄弟 亲兄弟 [qin1 xiong1 di4] {can1 hing1 dai6} /Blood brothers/
-親切 亲切 [qin1 qie4] {can1 cit3} /friendly/
-親家奶奶 亲家奶奶 [qing4 jia5 nai3 nai5] {can3 gaa1 naai4 naai2} /mother of one's son-in-law or daughter-in-law/
-親家老爺 亲家老爷 [qing4 jia5 lao3 ye2] {can3 gaa1 lou5 je4} /father of children's spouse/
-親屬關係 亲属关系 [qin1 shu3 guan1 xi5] {can1 suk6 gwaan1 hai6} /kinship/
-親愛的 亲爱的 [qin1 ai4 de5] {can1 oi3 dik1} /dear/
-親戚到 亲戚到 [qin1 qi1 dao4] {can1 cik1 dou3} /menstrual period commencing (slang)/
-親戚巾 亲戚巾 [qin1 qi1 jin1] {can1 cik1 gan1} /sanitary pads; sanitary towels/
-親戚鬼鬼 亲戚鬼鬼 [qin1 qi1 gui3 gui3] {can1 cik1 gwai2 gwai2} /close Relatives/
-親手 亲手 [qin1 shou3] {can1 sau2} /(verb)  Done by oneself/
-親朋戚友 亲朋戚友 [qin1 peng2 qi1 you3] {can1 pang4 cik1 jau5} /friends and relatives (spoken)/
-親歷其境 亲历其境 [qin1 li4 qi2 jing4] {can1 lik6 kei4 ging2} /compliment/
-親生仔不如近身錢 亲生仔不如近身钱 [qin1 sheng1 zi3 bu4 ru2 jin4 shen1 qian2] {can1 saang1 zai2 bat1 jyu4 gan6 san1 cin4} /an expression which says that having money for oneself is more reliable or secure than having to depend on one's own son/
-親筆簽名 亲笔签名 [qin1 bi3 qian1 ming2] {can1 bat1 cim1 meng2} /autograph/
-親自出馬 亲自出马 [qin1 zi4 chu1 ma3] {can1 zi6 ceot1 maa5} /to attend to a matter personally/
-親身 亲身 [qin1 shen1] {can1 san1} /(adverb)  Personally (= in person) /
-覺 觉 [jue2] {gaau3} /nap; sleep/
-覺意 觉意 [jue2 yi4] {gok3 ji3} /to pay attention; to look out/
-覺眼 觉眼 [jue2 yan3] {gok3 ngaan5} /obvious (spoken)/
-覺覺豬 觉觉猪 [jue2 jue2 zhu1] {gaau4 gaau2 zyu1} /(slang) to go to sleep; sleeping/
-觀塘區 观塘区 [Guan4 tang2 qu1] {gun1 tong4 keoi1} /Kwun Tong District, in Hong Kong/
-觀塘線 观塘线 [Guan4 tang2 xian4] {gun1 tong4 sin3} /Kwun Tong Line, a rail line on the MTR network in Hong Kong./
-觀塘繞道 观塘绕道 [Guan4 tang2 rao4 dao4] {gun1 tong4 jiu5 dou6} /Kwun Tong Bypass, an elevated bypass expressway in Hong Kong/
-觀念更新 观念更新 [guan1 nian4 geng1 xin1] {gun1 nim6 gang1 san1} /To renew a Concept/
-觀自在菩薩 观自在菩萨 [guan1 zi4 zai4 pu2 sa4] {gun1 zi6 zoi6 pou4 saat3} /Avalokitesvara Bodhisattva/
-觀音兵 观音兵 [Guan1 yin1 bing1] {gun1 jam1 bing1} /(slang) a man who willingly acts as a woman's attendant in the hope of winning her heart despite the actual chances being very slim in reality/
+見工 见工 [jian4 gong1] {gin3 gung1} /avoir un entretien d'embauche/
+見機 见机 [jian4 ji1] {gin3 gei1} /lorsque l'occasion se présente/selon les circonstances/
+見步行步 见步行步 [jian4 bu4 xing2 bu4] {gin3 bou6 haang4 bou6} /(expr. idiom.) y aller petit à petit/(expr. idiom.) prendre les choses comme elles viennent; ne pas avoir de plan à long terme/(lit.) regarder un pas, faire un pas/
+????f 見死不救 见死不救 [jian4 si3 bu4 jiu4] {gin3 sei2 bat1 gau3} /(expr.) ne pas aider quelqu'un en danger de mort; ne pas aider quelqu'un dans une situation très dangereuse/(lit.) voir mourir ne pas sauver/ 
+????f 見牙不見眼 见牙不见眼 [jian4 ya2 bu4 jian4 yan3] {gin3 ngaa4 bat1 gin3 ngaan5} /(expr. idiom.) faire un grand sourire/(lit.) voir les dents et pas les yeux/
+見牙唔見眼 见牙唔见眼 [jian4 ya2 n2 jian4 yan3] {gin3 ngaa4 m4 gin3 ngaan5} /(expr. idiom.) faire un grand sourire/(lit.) voir les dents et pas les yeux/
+????c 見者有份 见者有份 [jian4 zhe3 you3 fen4] {gin3 ze2 jau5 fan6} /everyone present can have a share/
+見連丸 见连丸 [jian4 lian2 wan2] {gin3 lin4 jyun2} /quinine/
+見過鬼就怕黑 见过鬼就怕黑 [jian4 guo4 gui3 jiu4 pa4 hei1] {gin3 gwo3 gwai2 zau6 paa3 hak1} /(expr. idiom.) chat échaudé craint l’eau froide/(lit.) voir un fantôme, avoir peur du noir/
+見過鬼怕黑 见过鬼怕黑 [jian4 guo4 gui3 pa4 hei1] {gin3 gwo3 gwai2 paa3 hak1} /(expr. idiom.) chat échaudé craint l’eau froide/(lit.) voir un fantôme, avoir peur du noir/
+見錢開眼 见钱开眼 [jian4 qian2 kai1 yan3] {gin3 cin2 hoi1 ngaan5} /(expr. idiom.) grippe-sou; avare; pingre/(lit.) voir de l'argent, ouvrir les yeux/
+見錢眼開 见钱眼开 [jian4 qian2 yan3 kai1] {gin3 cin2 ngaan5 hoi1} /(expr. idiom.) grippe-sou; avare; pingre/(lit.) voir de l'argent, yeux ouverts/
+????f 見鑊打鑊 见镬打镬 [jian4 huo4 da3 huo4] {gin3 wok6 daa2 wok6} /(menace) le jour où tu te présenteras devant ma face, je te tabasserai/(lit.) voir le wok, frapper le wok/
+見風使𢃇 见风使𢃇 [jian4 feng1 shi3] {gin3 fung1 sai2 to4} /(expr. idiom.) personne adaptable; personne souple/(expr. idiom.) prendre les choses comme elles viennent/(lit.) voir où le vent souffle et hisser une voile/
+????f 見食 见食 [jian4 shi2] {gin3 sik6} /(d'un casse-croûte, collation, ou un repas) very good value, seem bottomless, seem to have much more than one would expect/
+????f 見飯 见饭 [jian4 fan4] {gin3 faan6} /(riz) se gonfler lors de la cuisson/
+????f 見高就拜見低就踩 见高就拜见低就踩 [jian4 gao1 jiu4 bai4 jian5 di1 jiu4 cai3] {gin3 gou1 zau6 baai3 gin3 dai1 zau6 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
+????f 見高拜見低踩 见高拜见低踩 [jian4 gao1 bai4 jian5 di1 cai3] {gin3 gou1 baai3 gin3 dai1 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
+見鬼 见鬼 [jian4 gui3] {gin3 gwai2} /mince! merde!/va te faire voir! va te faire foutre!/(lit.) voir un fantôme/
+規模 规模 [gui1 mo2] {kwai1 mou4} /échelle; portée; étendue (d'une action)/
+規畫 规画 [gui1 hua4] {kwai1 waak6} /planifier/plan; projet/
+????f 親兄弟 亲兄弟 [qin1 xiong1 di4] {can1 hing1 dai6} /frère de sang (pas dans le sens figuré)/
+親切 亲切 [qin1 qie4] {can1 cit3} /amical; cordial; gentil/
+親家奶奶 亲家奶奶 [qing4 jia5 nai3 nai5] {can3 gaa1 naai4 naai2} /belle-mère de son fils ou de sa fille/
+親家母 亲家母 [qing4 jia5 mu3] {can3 gaa1 mou5} /belle-mère de son fils ou de sa fille/
+親家老爺 亲家老爷 [qing4 jia5 lao3 ye2] {can3 gaa1 lou5 je4} /beau-père de son fils ou de sa fille/
+親家公 亲家公 [qing4 jia5 gong1] {can3 gaa1 gung1} /beau-père de son fils ou de sa fille/
+親屬關係 亲属关系 [qin1 shu3 guan1 xi5] {can1 suk6 gwaan1 hai6} /lien de parenté/
+親愛的 亲爱的 [qin1 ai4 de5] {can1 oi3 dik1} /chéri, chérie/
+????f 親戚到 亲戚到 [qin1 qi1 dao4] {can1 cik1 dou3} /start menstruating; for the menstrual period to begin/
+親戚巾 亲戚巾 [qin1 qi1 jin1] {can1 cik1 gan1} /tampon hygiénique; serviette hygiénique/
+????c 親戚鬼鬼 亲戚鬼鬼 [qin1 qi1 gui3 gui3] {can1 cik1 gwai2 gwai2} /close Relatives/
+親手 亲手 [qin1 shou3] {can1 sau2} /faire soi-même/
+親朋戚友 亲朋戚友 [qin1 peng2 qi1 you3] {can1 pang4 cik1 jau5} /parents et amis/
+????f 親歷其境 亲历其境 [qin1 li4 qi2 jing4] {can1 lik6 kei4 ging2} /voir de ses propres yeux; expérimenter personnellement/
+????f 親生仔不如近身錢 亲生仔不如近身钱 [qin1 sheng1 zi3 bu4 ru2 jin4 shen1 qian2] {can1 saang1 zai2 bat1 jyu4 gan6 san1 cin4} /(expr. idiom.) économiser de l'argent pour soi-même est plus prudent que dépendre sur ses enfants/(lit.) enfant, mieux vaut de l'argent près de soi/
+親筆簽名 亲笔签名 [qin1 bi3 qian1 ming2] {can1 bat1 cim1 meng2} /signature/
+????f 親自出馬 亲自出马 [qin1 zi4 chu1 ma3] {can1 zi6 ceot1 maa5} /to attend to a matter personally/
+親身 亲身 [qin1 shen1] {can1 san1} /en personne; de première main/
+覺 觉 [jue2] {gaau3} /sieste/sommeil/
+覺意 觉意 [jue2 yi4] {gok3 ji3} /s'en apercevoir; se rendre compte/
+覺眼 觉眼 [jue2 yan3] {gok3 ngaan5} /voyant; qui se remarque facilement/évident/criard/
+覺覺豬 觉觉猪 [jue2 jue2 zhu1] {gaau4 gaau2 zyu1} /(enfantin) dormir; se coucher/
+觀塘區 观塘区 [guan4 tang2 qu1] {gun1 tong4 keoi1} /district de Kwun Tong, district de Hong Kong/
+觀塘線 观塘线 [guan4 tang2 xian4] {gun1 tong4 sin3} /Kwun Tong Line, ligne du métro de Hong Kong/
+觀塘繞道 观塘绕道 [guan4 tang2 rao4 dao4] {gun1 tong4 jiu5 dou6} /Kwun Tong Bypass, autoroute surélevée de Hong Kong/
+????c 觀念更新 观念更新 [guan1 nian4 geng1 xin1] {gun1 nim6 gang1 san1} /To renew a Concept/
+????c 觀自在菩薩 观自在菩萨 [guan1 zi4 zai4 pu2 sa4] {gun1 zi6 zoi6 pou4 saat3} /Avalokitesvara Bodhisattva/
+觀音兵 观音兵 [guan1 yin1 bing1] {gun1 jam1 bing1} /(slang) a man who willingly acts as a woman's attendant in the hope of winning her heart despite the actual chances being very slim in reality/
 觀音竹 观音竹 [guan1 yin1 zhu2] {gun1 jam1 zuk1} /fernleaf bamboo/
 觀點 观点 [guan1 dian3] {gun1 dim2} /(noun)  Perspective/
 角 角 [jiao3] {gok3} /(noun) 1. Role; 2. Character (in a TV show, play, etc.); (of coins) 1. Dime; (verb)  Wrestle/
