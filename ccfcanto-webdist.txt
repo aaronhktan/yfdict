@@ -17433,7 +17433,7 @@
 蝦人 虾人 [xia1 ren2] {haa1 jan4} /intimider; maltraiter; malmener; s'en prendre à/
 蝦公 虾公 [xia1 gong1] {haa1 gung1} /crevette/
 蝦春 虾春 [xia1 chun1] {haa1 ceon1} /œuf de crevette/
-????f 蝦條 虾条 [xia1 tiao2] {haa1 tiu2} /(shrimp cracker - snack food)/
+????f 蝦條 虾条 [xia1 tiao2] {haa1 tiu2} /craquelin de crevettes (« shrimp cracker »)/
 蝦毛 虾毛 [xia1 mao2] {haa1 mou1} /petite crevette/(fig.) personne sans importance/
 蝦球 虾球 [xia1 qiu2] {haa1 kau4} /boulette de crevette/
 蝦瘌 虾瘌 [xia1 la4] {haa1 laat6} /petit crabe/
@@ -17863,8 +17863,8 @@
 見錢眼開 见钱眼开 [jian4 qian2 yan3 kai1] {gin3 cin2 ngaan5 hoi1} /(expr. idiom.) grippe-sou; avare; pingre/(lit.) voir de l'argent, yeux ouverts/
 ????f 見鑊打鑊 见镬打镬 [jian4 huo4 da3 huo4] {gin3 wok6 daa2 wok6} /(menace) le jour où tu te présenteras devant ma face, je te tabasserai/(lit.) voir le wok, frapper le wok/
 見風使𢃇 见风使𢃇 [jian4 feng1 shi3] {gin3 fung1 sai2 to4} /(expr. idiom.) personne adaptable; personne souple/(expr. idiom.) prendre les choses comme elles viennent/(lit.) voir où le vent souffle et hisser une voile/
-????f 見食 见食 [jian4 shi2] {gin3 sik6} /(d'un casse-croûte, collation, ou un repas) very good value, seem bottomless, seem to have much more than one would expect/
-????f 見飯 见饭 [jian4 fan4] {gin3 faan6} /(riz) se gonfler lors de la cuisson/
+????f 見食 见食 [jian4 shi2] {gin3 sik6} /(d'un casse-croûte, collation, ou un repas) qui semble interminable; qui semble ne pas s'épuiser même si l'on a l'impression d'en avoir beaucoup mangé; qui contient beaucoup plus que l'on aurait pensé (very good value, seem bottomless, seem to have much more than one would expect/
+????f 見飯 见饭 [jian4 fan4] {gin3 faan6} /(riz) qui se gonfle beaucoup lors de la cuisson; qui est plus volumineux après la cuisson que l'on aurait pensé/
 ????f 見高就拜見低就踩 见高就拜见低就踩 [jian4 gao1 jiu4 bai4 jian5 di1 jiu4 cai3] {gin3 gou1 zau6 baai3 gin3 dai1 zau6 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
 ????f 見高拜見低踩 见高拜见低踩 [jian4 gao1 bai4 jian5 di1 cai3] {gin3 gou1 baai3 gin3 dai1 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
 見鬼 见鬼 [jian4 gui3] {gin3 gwai2} /mince! merde!/va te faire voir! va te faire foutre!/(lit.) voir un fantôme/
@@ -17956,10 +17956,10 @@
 ????f 訓導主任 训导主任 [xun4 dao3 zhu3 ren4] {fan3 dou6 zyu2 jam6} /doyen des étudiants (d'une école primaire ou secondaire)/
 訓練有素 训练有素 [xun4 lian4 you3 su4] {fan3 lin6 jau5 sou3} /bien formé/bien entraîné/
 訓覺 训觉 [xun4 jue2] {fan3 gaau3} /dormir; se coucher/
-託付 托付 [tuo1 fu4] {tok3 fu6} /confier (quelque chose) à (quelqu'un)/
+託付 托付 [tuo1 fu4] {tok3 fu6} /confier (un objet, une tâche, une personne) à (quelqu'un)/
 託兒所 托儿所 [tuo1 er2 suo3] {tok3 ji4 so2} /garderie; crèche/
 託福 托福 [tuo1 fu2] {tok3 fuk1} /TOEFL; « test of English as a foreign language » (« test d'anglais langue étrangère »)/
-託管 托管 [tuo1 guan3] {tok3 gun2} /confier (quelque chose) à (quelqu'un)/
+託管 托管 [tuo1 guan3] {tok3 gun2} /confier (un objet, une tâche, une personne) à (quelqu'un)/
 託運 托运 [tuo1 yun4] {tok3 wan6} /enregistrer (ses bagages)/
 託運行李 托运行李 [tuo1 yun4 xing2 li3] {tok3 wan6 hang4 lei5} /bagage enregistré/
 ????f 記 记 [ji4] {gei3} /(suffixe ajouté au nom d'une personne proche)/(suffixe ajouté au nom d'un magasin ou d'un restaurant)/se souvenir; se rappeler/enregistrer; noter/
@@ -18023,55 +18023,57 @@
 詠嘆 咏叹 [yong3 tan4] {wing6 taan3} /chanter/scander/louer; faire l'éloge de/
 詢問 询问 [xun2 wen4] {seon1 man6} /s'informer; se renseigner; s'enquérir/
 詢問處 询问处 [xun2 wen4 chu4] {seon1 man6 cyu3} /bureau de renseignements/
-試 试 [shi4] {si3} /(noun)  interview/
-試吓 试吓 [shi4 xia4] {si3 haa5} /To give it a try/
-試味 试味 [shi4 wei4] {si3 mei6} /food tasting/
-試味道 试味道 [shi4 wei4 dao4] {si3 mei6 dou6} /To taste/
-試問 试问 [shi4 wen4] {si3 man6} /ask yourself; try asking (spoken)/
-試試 试试 [shi4 shi5] {si2 si3 } /To try/
-試身 试身 [shi4 shen1] {si3 san1} /clothes fitting/
-試身室 试身室 [shi4 shen1 shi4] {si3 san1 sat1} /fitting room/
-試過 试过 [shi4 guo4] {si3 gwo3} /tried; experienced; encountered before/
-試食 试食 [shi4 shi2] {si3 sik6} /food tasting/
-詩 诗 [shi1] {si1} /poetic/
-詩史 诗史 [shi1 shi3] {si1 si2} /history of poetry/
-詩史試時市事 诗史试时市事 [shi1 shi3 shi4 shi2 shi4 shi4] {si1 si2 si3 si4 si5 si6} /A phrase used to memorise the six tones in Cantonese/
-詩史試時市事色錫食 诗史试时市事色锡食 [shi1 shi3 shi4 shi2 shi4 shi4 se4 xi1 shi2] {si1 si2 si3 si4 si5 si6 sik1 sek3 sik6} /A phrase used to memorise the nine tones in Cantonese/
-詩歌 诗歌 [shi1 ge1] {si1 go1} /(noun)  Hymn/
-詩餘 诗余 [shi1 yu2] {si1 jyu4} /short sentences in Chinese poetry/
-詫異 诧异 [cha4 yi4] {caa3 ji6} /(adjective) (human feeling)  Surprised/
-話 话 [hua4] {waa6} /(verb)  in charge/
-話中 话中 [hua4 zhong1] {waa6 zung3} /in one's words; precisely as one has predicted / guessed/
-話之 话之 [hua4 zhi1] {waa6 zi1} /cannot bother; ignore (spoken)/
-話之佢 话之渠 [hua4 zhi1 qu2] {waa6 zi1 keoi5} /who cares; what the hell/
-話事 话事 [hua4 shi4] {waa6 si6} /(verb) to be in charge of a situation; to be in command; to take charge of a situation; to call the shots/
-話事人 话事人 [hua4 shi4 ren2] {waa6 si6 jan4} /person-in-charge (spoken)/
-話事偈 话事偈 [hua4 shi4 ji4] {waa6 si6 gai2} /as said or quoted (spoken)/
-話事啤 话事啤 [hua4 shi4 pi2] {waa6 si6 pe1} /show hand poker/
-話低 话低 [hua4 di1] {waa6 dai1} /leave a message (spoken)/
-話你知 话你知 [hua4 ni3 zhi1] {waa6 nei5 zi1} /let you know (spoken)/
-話到尾 话到尾 [hua4 dao4 wei3] {waa6 dou3 mei5} /in conclusion/
-話口未完 话口未完 [hua4 kou3 wei4 wan2] {waa6 hau2 mei6 jyun4} /(slang) no sooner has one spoken; right after talking about it,…, usually refers to an ironic situation in which something happens right after others talk about it/
-話名 话名 [hua4 ming2] {waa6 ming4} /in the name of (spoken)/
-話咁快 话咁快 [hua4 gan1 kuai4] {waa6 gam2 faai3} /so quick (spoken)/
-話咁易 话咁易 [hua4 gan1 yi4] {waa6 gam2 ji6} /so easy (spoken)/
-話唔埋 话唔埋 [hua4 n2 mai2] {waa6 m4 maai4} /(adverb) maybe; possibly; perhaps; probably; to describe the uncertainty of something occurring; (phrase) there is a good chance that…; it is possible that…; can't say for sure; cannot be certain about; it's hard to say; it's difficult to predict/
-話唔定 话唔定 [hua4 n2 ding4] {waa6 m4 ding6} /(adverb) maybe; possibly; perhaps; probably; to describe the uncertaininty of something occurring; (phrase) there is a good chance that…; it is possible that…/
-話啫 话啫 [hua4 ze1] {waa6 ze1} /a modal particle used by the speaker to show that they do not totally agree with something, actual interpretation varies depending on the context, such as 'in saying so, but....'; 'only applies to....but as for'; 'like one says...'/
-話定 话定 [hua4 ding4] {waa6 ding6} /to agree on/
-話實 话实 [hua4 shi2] {waa6 sat6} /to say for certain/
-話得埋 话得埋 [hua4 de5 mai2] {waa6 dak1 maai4} /predictable/
-話明 话明 [hua4 ming2] {waa6 ming4} /clearly said/
-話是 话是 [hua4 shi4] {waa6 si6} /take charge; be in charge/
-話時話 话时话 [hua4 shi2 hua4] {waa6 si4 waa6} /just saying (spoken)/
-話晒 话晒 [hua4 shai4] {waa6 saai3} /afterall/
-話晒事 话晒事 [hua4 shai4 shi4] {waa6 saai3 si6} /To control all the things; to do as one wishes/
-話知 话知 [hua4 zhi1] {waa6 zi1} /don't care; who cares about/
-話知你 话知你 [hua4 zhi1 ni3] {waa6 zi1 nei5} /who cares; no matter if you…/
-話知佢 话知渠 [hua4 zhi1 qu2] {waa6 zi1 keoi5} /don't care; who cares about/
-話聲 话声 [hua4 sheng1] {waa6 seng1} /tell someone; to mention something; to inform someone of a situation/
-話落 话落 [hua4 luo4] {waa6 lok6} /said/ left an order/
-話都冇咁快 话都冇咁快 [hua4 dou1 mao3 gan1 kuai4] {waa6 dou1 mou5 gam3 faai3} /so fast; before you know it; no sooner said than done/
+試 试 [shi4] {si3} /essayer; tenter/examen; test/entrevue; interview/
+????f 試吓 试吓 [shi4 xia4] {si3 haa5} /tente le coup! essaie-le!/
+試味 试味 [shi4 wei4] {si3 mei6} /goûter; examiner la saveur de quelquec chose/
+試味道 试味道 [shi4 wei4 dao4] {si3 mei6 dou6} /goûter; examiner la saveur de quelque chose/
+試問 试问 [shi4 wen4] {si3 man6} /nous voudrions vous demander... puis-je vous demander.../
+試試 试试 [shi4 shi5] {si2 si3 } /essayer; tenter/
+試身 试身 [shi4 shen1] {si3 san1} /essayer (un vêtement)/
+試身室 试身室 [shi4 shen1 shi4] {si3 san1 sat1} /cabine d'essayage/
+試過 试过 [shi4 guo4] {si3 gwo3} /avoir essayé; avoir tenté/
+????f 試食 试食 [shi4 shi2] {si3 sik6} /goûter un aliment; déguster un aliment (to sample food)/
+詩 诗 [shi1] {si1} /poème/poésie/
+詩史 诗史 [shi1 shi3] {si1 si2} /histoire de la poésie/
+詩史試時市事 诗史试时市事 [shi1 shi3 shi4 shi2 shi4 shi4] {si1 si2 si3 si4 si5 si6} /(expression dont les mots comprennent les six tons du cantonais)/
+詩史試時市事色錫食 诗史试时市事色锡食 [shi1 shi3 shi4 shi2 shi4 shi4 se4 xi1 shi2] {si1 si2 si3 si4 si5 si6 sik1 sek3 sik6} /(expression dont les mots comprennent les neuf tons du cantonais - six contours de ton et trois tons d'entrée)/
+詩歌 诗歌 [shi1 ge1] {si1 go1} /hymne/poésie/
+????f 詩餘 诗余 [shi1 yu2] {si1 jyu4} /short sentences in Chinese poetry (specific type of Chinese poetry)/
+詫異 诧异 [cha4 yi4] {caa3 ji6} /surpris; étonné; déconcerté/
+話 话 [hua4] {waa6} /parler/gronder; réprimander/penser (ex. qu'en pensez-vous?)/responsable/
+話 话 [hua4] {waa2} /parole/dialecte/langue/patois/
+話中 话中 [hua4 zhong1] {waa6 zung3} /dans ses paroles/comme l'on l'a prévu; tel que prédit/
+話之 话之 [hua4 zhi1] {waa6 zi1} /ignorer; mépriser/je m'en fous; ça m'est égal/
+話之佢 话之渠 [hua4 zhi1 qu2] {waa6 zi1 keoi5} /je me fiche de lui; je me fous de lui/
+話事 话事 [hua4 shi4] {waa6 si6} /être le responsable; être le chef/mener la danse; prendre les décisions/
+話事人 话事人 [hua4 shi4 ren2] {waa6 si6 jan4} /le responsable; le chef/
+????f 話事偈 话事偈 [hua4 shi4 ji4] {waa6 si6 gai2} /comme (quelqu'un) l'a dit... (in the wise words of X....)/
+????f 話事啤 话事啤 [hua4 shi4 pi2] {waa6 si6 pe1} /show hand poker/
+????c 話低 话低 [hua4 di1] {waa6 dai1} /indiquer; dire à l'avance/laisser un message/ordonner; donner des instructions/
+話你知 话你知 [hua4 ni3 zhi1] {waa6 nei5 zi1} /te le dire; t'informer/
+話到尾 话到尾 [hua4 dao4 wei3] {waa6 dou3 mei5} /en fin de compte; au bout du compte; finalement; somme toute/
+話口未完 话口未完 [hua4 kou3 wei4 wan2] {waa6 hau2 mei6 jyun4} /(expr. idiom.) quand on parle du loup.../(lit.) même pas avoir fini de le dire/
+話名 话名 [hua4 ming2] {waa6 meng2} /nominalement; de nom seulement; que de nom/
+話咁快 话咁快 [hua4 gan1 kuai4] {waa6 gam2 faai3} /(expr.) très vite/(expr.) rapidement/(lit.) aussi vite que le dire/
+話咁易 话咁易 [hua4 gan1 yi4] {waa6 gam2 ji6} /(expr.) très facile/(expr.) facilement/(lit.) aussi facile que le dire/
+話唔埋 话唔埋 [hua4 n2 mai2] {waa6 m4 maai4} /difficile à dire avec certitude; difficile de prévoir/possible; probable; pas certain; incertain/
+話唔定 话唔定 [hua4 n2 ding4] {waa6 m4 ding6} /difficile à dire avec certitude; difficile de prévoir/possible; probable; pas certain; incertain/
+????f 話啫 话啫 [hua4 ze1] {waa6 ze1} /quoi qu'il en soit; malgré cela; pourtant/
+????f 話係咁話啫 話系咁話啫 [hua4 xi4 gan1 hua4 ze1] {waa6 hai6 gam2 waa6 ze1} /quoi qu'il en soit; malgré cela; pourtant/
+話定 话定 [hua4 ding4] {waa6 ding6} /se mettre d'accord/
+話實 话实 [hua4 shi2] {waa6 sat6} /confirmer/décider; régler; se mettre d'accord/
+話得埋 话得埋 [hua4 de5 mai2] {waa6 dak1 maai4} /prévisible; possible de dire avec certitude/
+話明 话明 [hua4 ming2] {waa6 ming4} /dire clairement/
+話是 话是 [hua4 shi4] {waa6 si6} /être le responsable; être le chef/mener la danse; prendre les décisions/
+話時話 话时话 [hua4 shi2 hua4] {waa6 si4 waa6} /d'ailleurs; soit dit en passant/
+話晒 话晒 [hua4 shai4] {waa6 saai3} /en fin de compte; au bout du compte; finalement; somme toute/
+話晒事 话晒事 [hua4 shai4 shi4] {waa6 saai3 si6} /faire ce que l'on veut/
+話知 话知 [hua4 zhi1] {waa6 zi1} /ça m'est égal; je m'en fous; je m'en fiche/
+話知你 话知你 [hua4 zhi1 ni3] {waa6 zi1 nei5} /je me fiche de toi; je me fous de toi/
+話知佢 话知渠 [hua4 zhi1 qu2] {waa6 zi1 keoi5} /je me fiche de lui; je me fous de lui/
+話聲 话声 [hua4 sheng1] {waa6 seng1} /informer quelqu'un; garder quelqu'un au courant; dire (quelque chose) à quelqu'un/
+????f 話落 话落 [hua4 luo4] {waa6 lok6} /indiquer; dire à l'avance/laisser un message/ordonner; donner des instructions/
+話都冇咁快 话都冇咁快 [hua4 dou1 mao3 gan1 kuai4] {waa6 dou1 mou5 gam3 faai3} /(expr. idiom.) aussitôt dit aussitôt fait/(lit.) le dire ne serait pas aussi vite/
 話頭醒尾 话头醒尾 [hua4 tou2 xing3 wei3] {waa6 tau4 sing2 mei5} /(slang) smart; shrewd; astute; clever; able to comprehend or figure out something quickly without the need for explicit instructions or explanation; able to quickly pick up on a hint/
 話齋 话斋 [hua4 zhai1] {waa6 zaai1} /(slang) as one has said/
 該煨 该煨 [gai1 wei1] {goi1 wui1} /(slang) (adjective) terrible; to be down on one's luck; to be out of luck; pitiful; tragic;  serves one right, deserved; damnable; to have brought it upon oneself; to have it coming; deserving of the consquences; to have asked for it(interjection) oh my god!; my goodness!; goodness me!; my word!; oh my!1/
