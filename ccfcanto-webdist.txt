@@ -10521,7 +10521,7 @@
 曳嘢 曳嘢 [ye4 ye3] {jai5 je5} /de mauvaise qualité/
 曳曳 曳曳 [ye4 ye4] {jai1 jai1} /vilain (enfant)/
 曳猪 曳猪 [ye4 zhu1] {jai6 zyu1} /(enfantin) vilain enfant/
-更 更 [geng4] {gang3} /quart de travail/
+更 更 [geng4] {gang3} /quart de travail; période de travail; shift/
 更多 更多 [geng4 duo1] {gang1 do1} /encore plus, davantage/
 更改 更改 [geng1 gai3] {gang1 goi2} /changer, modifier/
 更進一步 更进一步 [geng4 jin4 yi1 bu4] {gang3 zeon3 jat1 bou6} /s'efforcer d'améliorer/
@@ -17848,7 +17848,7 @@
 見功 见功 [jian4 gong1] {gin3 gung1} /être efficace; produire l'effet désiré/
 見周公 见周公 [jian4 zhou1 gong1] {gin3 zau1 gung1} /(fig.) se coucher; dormir/(lit.) voir le duc Dan de Zhou/
 ????f 見客 见客 [jian4 ke4] {gin3 haak3} /recevoir, accueillir des invités/recevoir, accueillir un client/
-見山就拜 见山就拜 [jian4 shan1 jiu4 bai4] {gin3 saan1 zau6 baai3} /to randomly pay compliments to anyone without really knowing who they are/
+????c 見山就拜 见山就拜 [jian4 shan1 jiu4 bai4] {gin3 saan1 zau6 baai3} /to randomly pay compliments to anyone without really knowing who they are/
 見工 见工 [jian4 gong1] {gin3 gung1} /avoir un entretien d'embauche/
 見機 见机 [jian4 ji1] {gin3 gei1} /lorsque l'occasion se présente/selon les circonstances/
 見步行步 见步行步 [jian4 bu4 xing2 bu4] {gin3 bou6 haang4 bou6} /(expr. idiom.) y aller petit à petit/(expr. idiom.) prendre les choses comme elles viennent; ne pas avoir de plan à long terme/(lit.) regarder un pas, faire un pas/
@@ -17897,7 +17897,7 @@
 觀塘繞道 观塘绕道 [guan4 tang2 rao4 dao4] {gun1 tong4 jiu5 dou6} /Kwun Tong Bypass, autoroute surélevée de Hong Kong/
 ????c 觀念更新 观念更新 [guan1 nian4 geng1 xin1] {gun1 nim6 gang1 san1} /To renew a Concept/
 ????c 觀自在菩薩 观自在菩萨 [guan1 zi4 zai4 pu2 sa4] {gun1 zi6 zoi6 pou4 saat3} /Avalokitesvara Bodhisattva/
-觀音兵 观音兵 [guan1 yin1 bing1] {gun1 jam1 bing1} /(slang) a man who willingly acts as a woman's attendant in the hope of winning her heart despite the actual chances being very slim in reality/
+????f 觀音兵 观音兵 [guan1 yin1 bing1] {gun1 jam1 bing1} /(péj.) quelqu'un de très intéressée par une femme et qui fait tout pour qu'elle lui accorde de l'attention, sans succès/(lit.) chevalier de la déesse de la pitié/
 觀音竹 观音竹 [guan1 yin1 zhu2] {gun1 jam1 zuk1} /(espèce de bambou) Phyllostachys aurea/
 觀點 观点 [guan1 dian3] {gun1 dim2} /point de vue; avis; opinion/
 角 角 [jiao3] {gok3} /coin/angle/corne/pièce de dix cents/
@@ -17906,11 +17906,11 @@
 角度 角度 [jiao3 du4] {gok3 dou6} /angle/point de vue; angle/
 角落頭 角落头 [jiao3 lao4 tou5] {gok3 lok1 tau2} /coin/
 ????f 角鋼 角钢 [jiao3 gang1] {gok3 gong3} /Angle bar/
-解 解 [jie3] {gaai2} /(verb)  escort/
+解 解 [jie3] {gaai2} /séparer/défaire/résoudre/libérer; émanciper/soulager (la douleur)/expliquer/comprendre/
 解夢 解梦 [jie3 meng4] {gaai2 mung6} /interpréter un rêve; pratiquer l'onéiromancie/
 解放 解放 [jie3 fang4] {gaai2 fong3} /libérer; émanciper/libération; émancipation/
-????f 解款 解款 [jie3 kuan3] {gaai3 fun2} /escort money in an armed fashion; transfer money with protection/
-????f 解款車 解款车 [jie3 kuan3 che1] {gaai3 fun2 ce1} /Armored Vehicles for transportation of valuables/
+????f 解款 解款 [jie3 kuan3] {gaai3 fun2} /envoyer de l'argent sous escorte/
+????f 解款車 解款车 [jie3 kuan3 che1] {gaai3 fun2 ce1} /véhicule blindé de transport des objets de valeur/
 解決問題 解决问题 [jie3 jue2 wen4 ti2] {gaai2 kyut3 man6 tai4} /résoudre des problèmes/
 ????f 解犯 解犯 [jie4 fan4] {gaai3 faan2} /To escort a prisoner under guard/
 解究 解究 [jie3 jiu1] {gaai2 gau3} /raison; explication/
@@ -17923,18 +17923,18 @@
 言之成理 言之成理 [yan2 zhi1 cheng2 li3] {jin4 zi1 sing4 lei5} /(expr.) (de ses paroles) avoir du sens et être convaincant/
 ????f 言之有據 言之有据 [yan2 zhi1 you3 ju4] {jin4 zi1 jau5 geoi3} /Well grounded; to speak on good grounds; arguments based on facts/
 言之有理 言之有理 [yan2 zhi1 you3 li3] {jin4 zi1 jau5 lei5} /(expr.) (de ses paroles) avoir du sens et être convaincant/
-言之過早 言之过早 [yan2 zhi1 guo4 zao3] {jin4 zi1 gwo3 zou2} /too early to make a conclusion/
-言之鑿鑿 言之凿凿 [yan2 zhi1 zao2 zao2] {jin4 zi1 zok6 zok6} /to say something with certainty/
-言人人殊 言人人殊 [yan2 ren2 ren2 shu1] {jin4 jan4 jan4 syu4} /everyone gives a different version/
-言和 言和 [yan2 he2] {jin4 wo4} /to make peace/
-言喻 言喻 [yan2 yu4] {jin4 jyu6} /Put into words/
+????f 言之過早 言之过早 [yan2 zhi1 guo4 zao3] {jin4 zi1 gwo3 zou2} /trop tôt pour le dire; trop tôt pour en tirer des conclusions; trop tôt pour déterminer (les conséquences d'une action)/
+言之鑿鑿 言之凿凿 [yan2 zhi1 zao2 zao2] {jin4 zi1 zok6 zok6} /dire avec certitude/
+????f 言人人殊 言人人殊 [yan2 ren2 ren2 shu1] {jin4 jan4 jan4 syu4} /tout le monde raconte une histoire différente/
+言和 言和 [yan2 he2] {jin4 wo4} /faire la paix/
+言喻 言喻 [yan2 yu4] {jin4 jyu6} /exprimer avec des mots/
 ????f 言多必失 言多必失 [yan2 duo1 bi4 shi1] {jin4 do1 bit1 sat1} /(expr. idiom.) mieux vaut garder le silence que de parler et commettre des erreurs/(lit.) ceux qui ont beaucoup de paroles vont forcément faire une erreur/
-言者無罪 言者无罪 [yan2 zhe3 wu2 zui4] {jin4 ze2 mou4 zeoi6} /Do not blame the man who speaks/
-言行不一 言行不一 [yan2 xing2 bu4 yi1] {jin4 hang4 bat1 jat1} /one's words and actions are not in accord/
+????f 言者無罪 言者无罪 [yan2 zhe3 wu2 zui4] {jin4 ze2 mou4 zeoi6} /Do not blame the man who speaks; (don't shoot the messenger; let the man speak his mind)/
+言行不一 言行不一 [yan2 xing2 bu4 yi1] {jin4 hang4 bat1 jat1} /(expr. idiom.) dire une chose et en faire une autre/(lit.) paroles et actions ne s'accordent pas/
 言語 言语 [yan2 yu5] {jin4 jyu5} /communication orale/
 言論 言论 [yan2 lun4] {jin4 leon6} /expression (ex. 言論自由|言论自由 liberté d'expression)/opinion; avis/
-言路 言路 [yan2 lu4] {jin4 lou6} /channels through which criticisms and suggestions may be communicated to the leadership/
-言重 言重 [yan2 zhong4] {jin4 zung6} /Too serious; to say something over seriously that embarrasses someone; to say something that is over flattering/
+????f 言路 言路 [yan2 lu4] {jin4 lou6} /channels through which criticisms and suggestions may be communicated to the leadership/
+????c 言重 言重 [yan2 zhong4] {jin4 zung6} /Too serious; to say something over seriously that embarrasses someone; to say something that is over flattering/
 訂 订 [ding4] {deng6} /conclure/réserver/s'abonner/acompte; arrhes/ 
 訂合同 订合同 [ding4 he2 tong2] {deng6 hap6 tung4} /signer un contrat; conclure un contrat/
 ????f 訂座 订座 [ding4 zuo4] {deng6 zo6} /réservation (à un restaurant)/
@@ -17948,33 +17948,33 @@
 計數 计数 [ji4 shu4] {gai3 sou3} /calculer/calculation/
 計數機 计数机 [ji4 shu4 ji1] {gai3 sou3 gei1} /calculatrice/
 計條數 计条数 [ji4 tiao2 shu4] {gai3 tiu4 sou3} /calculer/
-計正 计正 [ji4 zheng4] {gai3 zing3} /actually; accordingly (spoken)/
-計落 计落 [ji4 luo4] {gai3 lok6} /all considered; looking back/
+計正 计正 [ji4 zheng4] {gai3 zing3} /normalement/
+計落 计落 [ji4 luo4] {gai3 lok6} /tout bien considéré; tout compte fait; somme toute/
 討 讨 [tao3] {tou2} /(verb)  To beg/
-討價 讨价 [tao3 jia4] {tou2 gaa3} /Bargaining/
-討價還價 讨价还价 [tao3jia4huan2jia4] {tou2 gaa3 waan4 gaa3} /(verb) Bargain/
+討價 讨价 [tao3 jia4] {tou2 gaa3} /marchander; négocier un prix/
+討價還價 讨价还价 [tao3jia4huan2jia4] {tou2 gaa3 waan4 gaa3} /(expr.) marchander; négocier un prix/
 訓導主任 训导主任 [xun4 dao3 zhu3 ren4] {fan3 dou6 zyu2 jam6} /the discipline master/mistress; the dean of students; the director of student affairs/
 訓練有素 训练有素 [xun4 lian4 you3 su4] {fan3 lin6 jau5 sou3} /to be well-trained/
-訓覺 训觉 [xun4 jue2] {fan3 gaau3} /sleep/
-託付 托付 [tuo1 fu4] {tok3 fu6} /entrust/
-託兒所 托儿所 [tuo1 er2 suo3] {tok3 ji4 so2} /Nursery; child-care center/
-託福 托福 [tuo1 fu2] {tok3 fuk1} /TOEFL (test of English as a foreign language)/
-託管 托管 [tuo1 guan3] {tok3 gun2} /Trusteeship; to entrust/
+訓覺 训觉 [xun4 jue2] {fan3 gaau3} /dormir; se coucher/
+託付 托付 [tuo1 fu4] {tok3 fu6} /confier (quelque chose) à (quelqu'un)/
+託兒所 托儿所 [tuo1 er2 suo3] {tok3 ji4 so2} /garderie; crèche/
+託福 托福 [tuo1 fu2] {tok3 fuk1} /TOEFL; « test of English as a foreign language » (« test d'anglais langue étrangère »)/
+託管 托管 [tuo1 guan3] {tok3 gun2} /confier (quelque chose) à (quelqu'un)/
 託運 托运 [tuo1 yun4] {tok3 wan6} /enregistrer (ses bagages)/
 託運行李 托运行李 [tuo1 yun4 xing2 li3] {tok3 wan6 hang4 lei5} /bagage enregistré/
 記 记 [ji4] {gei3} /1. address after one's name who is very close 2. a commonly used last character of a shop name/
-記分員 记分员 [ji4 fen1 yuan2] {gei3 fan1 jyun4} /Scorekeeper/
-記掛 记挂 [ji4 gua4] {gei3 gwaa3} /thinking of; missing (spoken)/
-記號 记号 [ji4 hao5] {gei3 hou6} /(noun)  Mark /
+記分員 记分员 [ji4 fen1 yuan2] {gei3 fan1 jyun4} /marqueur, marqueuse; personne qui compte les points/
+????f 記掛 记挂 [ji4 gua4] {gei3 gwaa3} /constantly thinking of; missing (spoken)/
+????f 記號 记号 [ji4 hao5] {gei3 hou6} /marque; signe; trace/
 記認 记认 [ji4 ren4] {gei3 jing6} /a symbol or mark for recognition and identification/
-訛騙 讹骗 [e2 pian4] {ngo4 pin3} /deception/
-設宴 设宴 [she4 yan4] {cit3 jin3} /to hold a banquet/
+訛騙 讹骗 [e2 pian4] {ngo4 pin3} /tromper; duper; escroquer/
+設宴 设宴 [she4 yan4] {cit3 jin3} /organiser un banquet/
 許 许 [xu3] {heoi2} /(noun) 1. Chinese surname; 2. Approval (adverb) 1. Perhaps; 2. Maybe; 3. Very (adjective)  Little/
-許冠傑 许冠杰 [xu3 guan1 jie2] {heoi2 gun1 git6} /Sam Hui Koon Kit, name of a Hong Kong singer/
-許冠文 许冠文 [xu3 guan1 wen2] {heoi2 gun3 man4} /Michael Hui Koon Man, a famous Hong Kong actor, comedian, director and scriptwriter/
-許冠英 许冠英 [xu3 guan1 ying1] {heoi2 gun1 jing1} /Ricky Hui Koon-Ying, name of a Hong Kong actor/
-許志安 许志安 [xu3 zhi4 an1] {heoi2 zi3 on1} /Andy Hui Chi-On, name of a Hong Kong singer/
-許留山 许留山 [xu3 liu2 shan1] {heoi2 lau4 saan1} /Hui Lau Shan; a chain of dessert shops based in Hong Kong/
+許冠傑 许冠杰 [xu3 guan1 jie2] {heoi2 gun1 git6} /Sam Hui Koon Kit, chanteur et acteur hongkongais/
+許冠文 许冠文 [xu3 guan1 wen2] {heoi2 gun3 man4} /Michael Hui Koon Man, acteur hongkongais/
+許冠英 许冠英 [xu3 guan1 ying1] {heoi2 gun1 jing1} /Ricky Hui Koon-Ying, acteur et chanteur hongkongais/
+許志安 许志安 [xu3 zhi4 an1] {heoi2 zi3 on1} /Andy Hui Chi-On, chanteur et acteur hongkongais/
+????f 許留山 许留山 [xu3 liu2 shan1] {heoi2 lau4 saan1} /Hui Lau Shan; marque de boutiques de dessert hongkongais/
 許鞍華 许鞍华 [xu3 an1 hua2] {heoi2 on1 waa4} /Ann Hui On-Wah, name of a Hong Kong director/
 訴説 诉说 [su4 shuo1] {sou3 syut3} /To tell/
 訶子 诃子 [he1 zi3] {ho1 zi2} /Chebulic myrobalans; Terminalia chebula, a type of plant/
