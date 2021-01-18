@@ -533,13 +533,13 @@
 下啖氣 下啖气 [xia4 dan4 qi4] {haa6 daam6 hei3} /avaler sa colère; refouler sa colère; réprimer sa colère/
 下嫁 下嫁 [xia4 jia4] {haa6 gaa3} /se marier/
 下定 下定 [xia4 ding4] {haa6 deng6} /prendre une décision/passer une commande/verser un acompte/
-????f 下巴輕輕 下巴轻轻 [xia4 ba5 qing1 qing1] {haa6 baa1 hing1 hing1} /quelqu'un qui fait des promesses à la légère/
+????f 下巴輕輕 下巴轻轻 [xia4 ba5 qing1 qing1] {haa6 baa1 hing1 hing1} /qui fait des promesses à la légère; qui fait des promesses mais ne les tient pas/
 下年 下年 [xia4 nian2] {haa6 nin4} /l'année prochaine/
 下底 下底 [xia4 di3] {haa6 dai2} /sous; en dessous/
 下情上達 下情上达 [xia4 qing2 shang4 da2] {haa6 cing4 soeng6 daat6} /mettre ses supérieurs au courant de la situation des subordonées/
 下懷 下怀 [xia4 huai2] {haa6 waai4} /(litt.) désirs/
 下扒 下扒 [xia4 ba1] {haa6 paa4} /menton/
-????f 下扒輕輕 下扒轻轻 [xia4 ba1 qing1 qing1] {haa6 paa4 hing1 hing1} /quelqu'un qui fait des promesses à la légère/
+????f 下扒輕輕 下扒轻轻 [xia4 ba1 qing1 qing1] {haa6 paa4 hing1 hing1} /qui fait des promesses à la légère; qui fait des promesses mais ne les tient pas/
 下文 下文 [xia4 wen2] {haa6 man4} /(nouvelles) développements; faits nouveaux/
 下晏 下晏 [xia4 yan4] {haa6 aan3} /l'après-midi/
 下晝 下昼 [xia4 zhou4] {haa6 zau3} /l'après-midi/
@@ -18066,7 +18066,7 @@
 話得埋 话得埋 [hua4 de5 mai2] {waa6 dak1 maai4} /prévisible; possible de dire avec certitude/
 話明 话明 [hua4 ming2] {waa6 ming4} /dire clairement/
 話是 话是 [hua4 shi4] {waa6 si6} /être le responsable; être le chef/mener la danse; prendre les décisions/
-話時話 话时话 [hua4 shi2 hua4] {waa6 si4 waa6} /d'ailleurs; soit dit en passant/
+話時話 话时话 [hua4 shi2 hua4] {waa6 si4 waa6} /d'ailleurs; au fait; à propos/
 話晒 话晒 [hua4 shai4] {waa6 saai3} /en fin de compte; au bout du compte; finalement; somme toute/
 話晒事 话晒事 [hua4 shai4 shi4] {waa6 saai3 si6} /faire ce que l'on veut/
 話知 话知 [hua4 zhi1] {waa6 zi1} /ça m'est égal; je m'en fous; je m'en fiche/
@@ -18077,6 +18077,7 @@
 話都冇咁快 话都冇咁快 [hua4 dou1 mao3 gan1 kuai4] {waa6 dou1 mou5 gam3 faai3} /(expr. idiom.) aussitôt dit aussitôt fait/(lit.) le dire ne serait pas aussi vite/
 話頭醒尾 话头醒尾 [hua4 tou2 xing3 wei3] {waa6 tau4 sing2 mei5} /(expr. idiom.) ingénieux; astucieux; intelligent; perspicace; qui apprend vite/(lit.) tête qui parle et queue avec l'esprit clair/
 話齋 话斋 [hua4 zhai1] {waa6 zaai1} /comme (quelqu'un) l'a dit.../
+話中有話 话中有话 [hua4 zhong1 you3 hua4] {waa6 zung1 jau5 waa6} /(expr. idiom.) il y a un sens caché dans ces paroles/(lit.) il y a des paroles dans ces paroles/
 該煨 该煨 [gai1 wei1] {goi1 wui1} /quel dommage! quelle pitié!/
 ????c 該釘就釘，該鐵就鐵 该钉就钉，该铁就铁 [gai1 ding1 jiu4 ding1 , gai1 tie3 jiu4 tie3] {goi1 deng1 zau6 deng1 goi1 tit3 zau6 tit3} /there should be no ambiguity/
 詳悉 详悉 [xiang2 xi1] {coeng4 sik1} /savoir clairement; connaître clairement; connaître les détails/
@@ -18112,12 +18113,14 @@
 說白 说白 [shuo1 bai2] {syut3 baak6} /révéler; divulguer (quelque chose de caché)/dire les choses franchement; appeler un chat un chat/
 說穿 说穿 [shuo1 chuan1] {syut3 cyun1} /révéler; divulguer (quelque chose de caché)/dire les choses franchement; appeler un chat un chat/
 ????c 說開 说开 [shuo1 kai1] {syut3 hoi1} /speaking of; when it comes to; talking about/
+說話算話 说话算话 [shuo1 hua4 suan4 hua4] {syu3 waa6 syun3 waa6} /(expr. idiom.) tenir parole; tenir ses promesses/
 説不定 说不定 [shuo1 bu4 ding4] {syut3 bat1 ding6} /peut-être; possiblement/
 説明 说明 [shuo1 ming2] {syut3 ming4} /explication/expliquer/
 説服 说服 [shuo1 fu2] {syut3 fuk6} /convaincre; persuader/
 説法 说法 [shuo1 fa5] {syut3 faat3} /façon de dire quelque chose/interprétation; explication; opinion; avis/
 説話 说话 [shuo1 hua4] {syut3 waa6} /parler/dire/
 説謊 说谎 [shuo1 huang3] {syut3 fong1} /mentir/
+说漏嘴 说漏嘴 [shuo1 lou4 zui3] {syu3 lau6 zeoi2} /(fig.) laisser échapper des paroles/
 誰不知 谁不知 [shei2 bu4 zhi1] {seoi4 bat1 zi1} /qui aurait cru... qui aurait pensé.../à ma grande surprise; d'une manière inattendue/
 誰人 谁人 [shei2 ren2] {seoi4 jan4} /qui/The Who, groupe rock britannique/
 課外活動 课外活动 [ke4 wai4 huo2 dong4] {fo3 ngoi6 wut6 dung6} /activité parascolaire/
@@ -18224,30 +18227,28 @@
 講法 讲法 [jiang3 fa5] {gong2 faat3} /façon de dire quelque chose; formulation de mots; choix de mots/
 ????f 講波 讲波 [jiang3 bo1] {gong2 bo1} /commenter le foot/
 講波佬 讲波佬 [jiang3 bo1 lao3] {gong2 bo1 lou2} /commentateur de foot; commentateur de football/
-講漏嘴 讲漏嘴 [jiang3 lou4 zui3] {gong2 lau6 zeoi2} /blurt out/
-講真 讲真 [jiang3 zhen1] {gong2 zan1} /tell the truth (spoken)/
-講真嗰句 讲真嗰句 [jiang3 zhen1 g5? ju4] {gong2 zan1 go2 geoi3} /"seriously," .../
-講笑 讲笑 [jiang3 xiao4] {gong2 siu3} /(verb) kidding; to joke/
-講笑搵第樣 讲笑揾第样 [jiang3 xiao4 wen3 di4 yang4] {gong2 siu3 wan2 dai6 joeng6} /joke about something else (spoken)/
-講粗口 讲粗口 [jiang3 cu1 kou3] {gong2 cou1 hau2} /swearing/
-講耶穌 讲耶稣 [Jiang3 Ye1 su1] {gong2 je4 sou1} /(verb) to preach; to lecture; to bull shit about (usually when referring to talk that others are not interested in or they consider to be a waste of time)/
-講耶穌 讲耶稣 [jiang3 Ye1 su1] {gong2 je4 sou1} /to preach; to lecture/
-講話有骨 讲话有骨 [jiang3 hua4 you3 gu3] {gong2 waa6 jau5 gwat1} /speech with hidden message; to hint at something/
-講說話 讲说话 [jiang3 shuo1 hua4] {gong2 syut3 waa6} /say something/
-講起上嚟 讲起上嚟 [jiang3 qi3 shang4 li2] {gong2 hei2 soeng5 lei4} /by the way/
-講起又講 讲起又讲 [jiang3 qi3 you4 jiang3] {gong2 hei2 jau6 gong2} /by the way, incidentally; since we are on the topic/
-講過算數 讲过算数 [jiang3 guo4 suan4 shu4] {gong2 gwo3 syun3 sou3} /to keep one's words/
-講道理 讲道理 [Jiang3 dao4 li] {gong2 dou6 lei5} /to reason things out; to reason with/
-講道理 讲道理 [jiang3 dao4 li3] {gong2 dou6 lei5} /To reason things out/
-講開又講 讲开又讲 [jiang3 kai1 you4 jiang3] {gong2 hoi1 jau6 gong2} /since we are on the topic/
-講電話 讲电话 [jiang3 dian4 hua4] {gong2 din6 waa2} /Talking on the phone/
-講飲講食 讲饮讲食 [jiang3 yin3 jiang3 shi2] {gong2 jam2 gong2 sik6} /talking about food and drink/
-謝天華 谢天华 [xie4 tian1 hua2] {ze6 tin1 waa4} /Michael Tse Tin Wah, name of an actor in Hong Kong/
-謝拉特 谢拉特 [Xie4 la1 te4] {ze6 laai1 dak6} /Steven George Gerrard, a professional footballer/
-謝灶 谢灶 [xie4 zao4] {ze6 zou3} /To express thanks for the god of kitchen/
-謝爾曼質數 谢尔曼质数 [xie4 er3 man4 zhi4 shu4] {ze6 ji5 maan6 zat1 sou3} /Sophie Germain prime/
-謝皮 谢皮 [xie4 pi2] {ze6 pei4} /wither; wretched; ruined; defeated/
-謝賢 谢贤 [xie4 xian2] {ze6 jin4} /Patrick Tse Yin, name of actor in Hong Kong/
+講漏嘴 讲漏嘴 [jiang3 lou4 zui3] {gong2 lau6 zeoi2} /(fig.) laisser échapper des paroles/
+講真 讲真 [jiang3 zhen1] {gong2 zan1} /dire la vérité/en toute sincérité/en réalité/
+講真嗰句 讲真嗰句 [jiang3 zhen1 ge4 ju4] {gong2 zan1 go2 geoi3} /à vrai dire... pour dire la vérité.../
+講笑 讲笑 [jiang3 xiao4] {gong2 siu3} /plaisanter; blaguer/
+????f 講笑搵第樣 讲笑揾第样 [jiang3 xiao4 wen3 di4 yang4] {gong2 siu3 wan2 dai6 joeng2} /(expr. idiom.) il n'y a pas de quoi rire; ce n'est pas à prendre à la légère/(lit.) trouvez autre matière à plaisanter/
+講粗口 讲粗口 [jiang3 cu1 kou3] {gong2 cou1 hau2} /jurer; dire des gros mots; proférer des grossièretés/
+講耶穌 讲耶稣 [jiang3 ye1 su1] {gong2 je4 sou1} /(fig.) faire la morale/prêcher/(lit.) parler de Jésus/
+????f 講話有骨 讲话有骨 [jiang3 hua4 you3 gu3] {gong2 waa6 jau5 gwat1} /(expr. idiom.) il y a un sens caché dans ces paroles/(lit.) ces paroles ont des os/
+講說話 讲说话 [jiang3 shuo1 hua4] {gong2 syut3 waa6} /parler; dire/
+講起上嚟 讲起上嚟 [jiang3 qi3 shang4 li2] {gong2 hei2 soeng5 lei4} /d'ailleurs; au fait; à propos/
+講起又講 讲起又讲 [jiang3 qi3 you4 jiang3] {gong2 hei2 jau6 gong2} /d'ailleurs; au fait; à propos/
+講過算數 讲过算数 [jiang3 guo4 suan4 shu4] {gong2 gwo3 syun3 sou3} /(expr.) tenir ses promesses; tenir parole/
+講道理 讲道理 [jiang3 dao4 li3] {gong2 dou6 lei5} /être raisonnable/(lit.) parler avec raison/
+講開又講 讲开又讲 [jiang3 kai1 you4 jiang3] {gong2 hoi1 jau6 gong2} /d'ailleurs; au fait; à propos/
+講電話 讲电话 [jiang3 dian4 hua4] {gong2 din6 waa2} /parler au téléphone/
+????f 講飲講食 讲饮讲食 [jiang3 yin3 jiang3 shi2] {gong2 jam2 gong2 sik6} /parler de nourriture et de boisson/
+謝天華 谢天华 [xie4 tian1 hua2] {ze6 tin1 waa4} /Michael Tse Tin Wah, acteur et chanteur hongkongais/
+謝拉特 谢拉特 [Xie4 la1 te4] {ze6 laai1 dak6} /Steven George Gerrard, footballeur international anglais/
+????f 謝灶 谢灶 [xie4 zao4] {ze6 zou3} /To express thanks for the god of kitchen/(also a holiday)/
+謝爾曼質數 谢尔曼质数 [xie4 er3 man4 zhi4 shu4] {ze6 ji5 maan6 zat1 sou3} /(mathématiques) nombre premier de Sophie Germain/
+????c 謝皮 谢皮 [xie4 pi2] {ze6 pei4} /épuisé; crevé; fatigué/mort/misérable; malheureux/
+謝賢 谢贤 [xie4 xian2] {ze6 jin4} /Patrick Tse Yin, acteur, producteur, scénariste et réalisateur hongkongais/
 謠言止於智者 谣言止于智者 [yao2 yan2 zhi3 yu2 zhi4 zhe3] {jiu4 jin4 zi2 jyu1 zi3 ze2} /Rumours will stop at wise people/
 謦欬 謦欬 [qing3 kai4] {hing3 kat1} /to cough; to talk and laugh at/
 謹小慎微 谨小慎微 [jin3 xiao3 shen4 wei1] {gan2 siu2 san6 mei4} /meticulous; punctilious/
