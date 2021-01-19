@@ -18299,29 +18299,32 @@
 譯筆 译笔 [yi4 bi3] {jik6 bat1} /qualité d'une traduction/
 ????c 譯述 译述 [yi4 shu4] {jik6 seot6} /to translate or render freely/
 譯電 译电 [yi4 dian4] {jik6 din6} /encoder; coder/décoder/
-護符 护符 [hu4 fu2] {wu6 fu4} /an amulet/
-護膚品 护肤品 [hu4 fu1 pin3] {wu6 fu1 ban2} /Skincare products/
-護花使者 护花使者 [hu4 hua1 shi3 zhe3] {wu6 faa1 si3 ze2} /guy who protect the girl; Knight in shining armor; guardian angel/
-護衛員 护卫员 [hu4 wei4 yuan2] {wu6 wai6 jyun4} /Security guard/
-護養院 护养院 [hu4 yang3 yuan4] {wu6 joeng5 jyun2} /Nursing Homes/
-護駕 护驾 [hu4 jia4] {wu6 gaa3} /to guard the emperor; to escort/
-讀口黃 读口黄 [du2 kou3 huang2] {duk6 hau2 wong2} /to recite something without understanding its meaning/
-讀壞詩書包壞腳 读坏诗书包坏脚 [du2 huai4 Shi1 Shu1 bao1 huai4 jiao3] {duk6 waai6 si1 syu1 baau1 waai6 goek3} /to describe someone who is stubbornly sticking to outworn rules and idea; a phrase to describe the indecent educated people/
-讀屎片 读屎片 [du2 shi3 pian4] {duk6 si2 pin2} /(literally: to read diaper); to have learned nothing from one's studies/
-讀死書 读死书 [du2 si3 shu1] {duk6 sei2 syu1} /Reading a book without understanding it; to cram and study for exams only; not knowing how to apply knowledge in practice/
-讀破字膽 读破字胆 [du2 po4 zi4 dan3] {duk6 po3 zi6 daam2} /To read the word wrongly/
-讀者來信 读者来信 [du2 zhe3 lai2 xin4] {duk6 ze2 loi4 seon3} /Letters to the Editor; Readers' letters/
-讀者群 读者群 [du2 zhe3 qun2] {duk6 ze2 kwan4} /Readers/
-讀過 读过 [du2 guo4] {duk6 gwo3} /Read/
-讀默 读默 [du2 mo4] {duk6 mak6} /dictation/
-變化無常 变化无常 [bian4 hua4 wu2 chang2] {bin3 faa3 mou4 soeng4} /variable; constantly changing/
-變心 变心 [bian4xin1] {bin3 sam1} /(verb) The Love to someone is change/
-變性人 变性人 [bian4 xing4 ren2] {bin3 sing3 jan4} /Trans-gender people; a transsexual/
-變態佬 变态佬 [bian4 tai4 lao3] {bin3 taai3 lou2 } /pervert(male)/
-變相公投 变相公投 [bian4 xiang4 gong1 tou2] {bin3 soeng3 gung1 tau4} /Disguised referendum; de facto referendum/
-變種人 变种人 [bian4 zhong3 ren2] {bin3 zung2 jan4} /Mutants/
-變遷 变迁 [bian4 qian1] {bin3 cin1} /transition/
-變音 变音 [bian4 yin1] {bin3 jam1} /To change the tone/
+護符 护符 [hu4 fu2] {wu6 fu4} /amulette; objet qui protège par magie/
+????f 護膚品 护肤品 [hu4 fu1 pin3] {wu6 fu1 ban2} /produit dermatologique; produit de soin de peau/
+????c 護花使者 护花使者 [hu4 hua1 shi3 zhe3] {wu6 faa1 si3 ze2} /(fig.) homme qui protège une femme/
+護衛員 护卫员 [hu4 wei4 yuan2] {wu6 wai6 jyun4} /agent de sécurité/
+護養院 护养院 [hu4 yang3 yuan4] {wu6 joeng5 jyun2} /maison de soins infirmiers; CHSLD; maison de retraite/
+????f 護駕 护驾 [hu4 jia4] {wu6 gaa3} /escorter l'empereur/
+讀口黃 读口黄 [du2 kou3 huang2] {duk6 hau2 wong2} /(rare) lire sans comprendre (voir aussi 唸口簧|唸口簧)/
+讀壞書 读坏书 [du2 huai4 shu1] {duk6 waai6 syu1} /(vieilli) personne instruite qui fait des mauvaises actions/(lit.) lire des mauvais livres/
+????c 讀壞詩書包壞腳 读坏诗书包坏脚 [du2 huai4 shi1 shu1 bao1 huai4 jiao3] {duk6 waai6 si1 syu1 baau1 waai6 goek3} /to describe someone who is stubbornly sticking to outworn rules and idea; a phrase to describe the indecent educated people/
+讀屎片 读屎片 [du2 shi3 pian4] {duk6 si2 pin2} /(fig.) n'avoir rien appris de ses études/(lit.) lire les couches (pour bébé)/
+讀死書 读死书 [du2 si3 shu1] {duk6 sei2 syu1} /(fig.) ne pas comprendre ce que l'on lit/(fig.) bûcher pour un examen/(fig.) ne pas savoir comment appliquer ses connaissances/(lit.) lire les livres morts/ 
+????f 讀破字膽 读破字胆 [du2 po4 zi4 dan3] {duk6 po3 zi6 daam2} /(fig.) lire un mot complètement de travers; mal lire un mot/(lit.) mal lire un mot à tel point que la vésicule biliaire du mot éclate/ 
+讀者來信 读者来信 [du2 zhe3 lai2 xin4] {duk6 ze2 loi4 seon3} /courrier des lecteurs/
+讀者群 读者群 [du2 zhe3 qun2] {duk6 ze2 kwan4} /lectorat/
+讀過 读过 [du2 guo4] {duk6 gwo3} /avoir déjà lu dans le passé/
+讀默 读默 [du2 mo4] {duk6 mak6} /(exercice scolaire) dictée/
+變化無常 变化无常 [bian4 hua4 wu2 chang2] {bin3 faa3 mou4 soeng4} /en constante évolution/
+變心 变心 [bian4 xin1] {bin3 sam1} /cesser d'aimer quelqu'un/cesser d'être fidèle/
+變性人 变性人 [bian4 xing4 ren2] {bin3 sing3 jan4} /transexuel, transexuelle; personne qui a changé de sexe/
+變態佬 变态佬 [bian4 tai4 lao3] {bin3 taai3 lou2 } /(inj.) libertin; pervers (sexuel) (de sexe masculin)/
+????f 變相公投 变相公投 [bian4 xiang4 gong1 tou2] {bin3 soeng3 gung1 tau4} /Disguised referendum; de facto referendum/
+變種人 变种人 [bian4 zhong3 ren2] {bin3 zung2 jan4} /(personne) mutant/(univers Marvel) mutant/
+變遷 变迁 [bian4 qian1] {bin3 cin1} /changer; subir des changements/
+變音 变音 [bian4 yin1] {bin3 jam1} /changer de ton/changer de voix/
+變音符號 变音符号 [bian4 yin1 fu2 hao4] {bin3 jam1 fu4 hou2} /diacritique/
+變音記號 变音记号 [bian4 yin1 ji4 hao4] {bin3 jam1 gei3 hou6} /(musique) figure d'altération/
 讓 让 [rang4] {joeng6} /(verb)  Concede/
 讔 讔 [yin3] {jan2} /riddle; mystery/
 讕叻 谰叻 [lan2 le4] {laan5 lek1} /showing off (spoken)/
