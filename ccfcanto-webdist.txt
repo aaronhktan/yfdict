@@ -18430,8 +18430,8 @@
 ????f 豬紅 猪红 [zhu1 hong2] {zyu1 hung4} /(food) pig blood curd/
 ????c 豬網油 猪网油 [zhu1 wang3 you2] {zyu1 mong5 jau4} /mesentery of a pig; pork caul fat; pork fat netting; pork lace fat/
 豬肉乾 猪肉干 [zhu1 rou4 gan1] {zyu1 juk6 gon1} /viande séchée et salée de porc; jerky de porc/
-????f 豬肚 猪肚 [zhu1 du3] {zyu1 tou5} /tripes de porc/
-????f 豬肝色 猪肝色 [zhu1 gan1 se4] {zyu1 gon1 sik1} /brun rouge; marron/
+豬肚 猪肚 [zhu1 du3] {zyu1 tou5} /tripes de porc/
+????f 豬肝色 猪肝色 [zhu1 gan1 se4] {zyu1 gon1 sik1} /brun rouge; rouge-brun; marron/
 豬脷 猪脷 [zhu1 li4] {zyu1 lei6} /langue de porc/
 豬腦 猪脑 [zhu1 nao3] {zyu1 nou5} /cervelle de porc/
 ????f 豬腩肉 猪腩肉 [zhu1 nan3 rou4] {zyu1 naam5 juk6} /pork belly/
@@ -18448,31 +18448,31 @@
 豬郎 猪郎 [zhu1 lang2] {zyu1 long4} /(élevage de porc) porc mâle entier/
 豬陸 猪陆 [zhu1 lu4] {zyu1 luk6} /porcherie/
 豬雜 猪杂 [zhu1 za2] {zyu1 zaap6} /abats de porc/
-豬頭三 猪头三 [zhu1 tou2 san1] {zyu1 tau4 saam1} /a fool; an idiot/
-豬頭丙 猪头丙 [zhu1 tou2 bing3] {zyu1 tau4 bing2} /stupid; fool (spoken)/
-豬頭嘜 猪头唛 [zhu1 tou2 ma4] {zyu1 tau4 mak1} /idiot/
-豬頭炳 猪头炳 [zhu1 tou2 bing3] {zyu1 tau4 bing2} /a fool; an idiot/
-豬頭骨 猪头骨 [zhu1 tou2 gu3] {zyu1 tau4 gwat1} /(n.) pork bone, usually for making stock; (slang something that is tough but not rewarding; something that is unprofitable; (slang) something that is not good enough to get you excited but that is still a pity to be discarded; the expendable things; the non-essentials/
-豬頸肉 猪颈肉 [zhu1 jing3 rou4] {zyu1 geng2 juk6} /pork collar; pork neck meat/
-豬鬃 猪鬃 [zhu1 zong1] {zyu1 zung1} /pig bristles/
-貓乸 猫乸 [mao1 na2] {maau1 naa2} /female cat/
-貓仔 猫仔 [mao1 zai3] {maau1 zai2} /(noun) kitten/
-貓公 猫公 [mao1 gong1] {maau1 gung1} /a male cat/
-貓咗 猫咗 [mao1 zuo5] {maau1 zo2} /drunk (spoken)/
-貓哭耗子假慈悲 猫哭耗子假慈悲 [mao1 ku1 hao4 zi5 jia3 ci2 bei1] {maau1 huk1 hou3 zi2 gaa2 ci4 bei1} /pretends to show sympathy for something; to shed crocrodile tears/
-貓女 猫女 [mao1 nü3] {maau1 neoi5} /female cat/
-貓樣 猫样 [mao1 yang4] {maau1 joeng6} /ugly face (slang)/
-貓竇 猫窦 [mao1 dou4] {maau1 dau3} /a cat bed; a cat basket/
-貓紙 猫纸 [mao1 zhi3] {maau1 zi2} /piece of paper written with tips and answers for cheating (slang)/
-貓蝨 猫虱 [mao1 shi1] {maau1 sat1} /cat flea/
-貓街 猫街 [mao1 jie1] {maau1 gaai1} /cat street (Japanese cartoon) ;Lascar Row (informally known as Cat Street), a street in Hong Kong known for selling stolen goods;  /
-貓鬚 猫须 [mao1 xu1] {maau1 sou1} /cat's whiskers/
-貓魚 猫鱼 [mao1 yu2] {maau1 jyu2} /fishes used for feeding cats/
-貝澳 贝澳 [bei4 ao4] {bui3 ou3} /Pui O, an area on Lantau Island in Hong Kong/
-負 负 [fu4] {fu6} /1. to let down 2. to be in debt 3. held accountable or responsible/
-負氣 负气 [fu4 qi4] {fu6 hei3} /full of grievances/
-負隅頑抗 负隅顽抗 [fu4 yu2 wan2 kang4] {fu6 jyu4 waan4 kong3} /put up a last-ditch resistance;a last-ditch struggle; "a cornered cat becomes as fierce as a lion"/
-負電荷 负电荷 [fu4 dian4 he4] {fu6 din6 ho6} /negative electric charge/
+豬頭三 猪头三 [zhu1 tou2 san1] {zyu1 tau4 saam1} /idiot; imbécile; crétin; sot/
+豬頭丙 猪头丙 [zhu1 tou2 bing3] {zyu1 tau4 bing2} /idiot; imbécile; crétin; sot/
+豬頭嘜 猪头唛 [zhu1 tou2 ma4] {zyu1 tau4 mak1} /idiot; imbécile; crétin; sot/
+豬頭炳 猪头炳 [zhu1 tou2 bing3] {zyu1 tau4 bing2} /idiot; imbécile; crétin; sot/
+豬頭骨 猪头骨 [zhu1 tou2 gu3] {zyu1 tau4 gwat1} /(fig.) tâche difficile et pas gratifiant/(fig.) opération non rentable/(fig.) éléphant blanc; bric-a-brac/(lit.) crâne de porc/
+????f 豬頸肉 猪颈肉 [zhu1 jing3 rou4] {zyu1 geng2 juk6} /pork collar; pork neck meat/
+????f 豬鬃 猪鬃 [zhu1 zong1] {zyu1 zung1} /poil de porc/
+貓乸 猫乸 [mao1 na2] {maau1 naa2} /chatte/
+貓仔 猫仔 [mao1 zai3] {maau1 zai2} /chaton; petit du chat/
+貓公 猫公 [mao1 gong1] {maau1 gung1} /chat mâle/
+貓咗 猫咗 [mao1 zuo5] {maau1 zo2} /ivre; saoul/
+貓哭耗子假慈悲 猫哭耗子假慈悲 [mao1 ku1 hao4 zi5 jia3 ci2 bei1] {maau1 huk1 hou3 zi2 gaa2 ci4 bei1} /(expr. idiom.) verser des larmes de crocodile/(lit.) un chat qui verse des larmes hypocrites pour un souris/
+貓女 猫女 [mao1 nu:3] {maau1 neoi5} /chatte/
+貓樣 猫样 [mao1 yang4] {maau1 joeng6} /(fig.) laid/(lit.) air d'un chat/
+貓竇 猫窦 [mao1 dou4] {maau1 dau3} /lit pour chats/
+貓紙 猫纸 [mao1 zhi3] {maau1 zi2} /(fig.) anti-sèche/(fig.) aide-mémoire/(lit.) papier de chat/
+貓蝨 猫虱 [mao1 shi1] {maau1 sat1} /puce du chat/
+????f 貓街 猫街 [mao1 jie1] {maau1 gaai1} /Lascar Row, rue connue pour ses magasins de biens contrefaits/
+貓鬚 猫须 [mao1 xu1] {maau1 sou1} /moustaches du chat/
+貓魚 猫鱼 [mao1 yu2] {maau1 jyu2} /poisson servant de nourriture aux chats/
+貝澳 贝澳 [bei4 ao4] {bui3 ou3} /Pui O, région de l'île de Lantau à Hong Kong/
+負 负 [fu4] {fu6} /porter/se charger de/(mathématiques) négatif/(électricité) négatif/faire faux bond; lâcher/avoir des dettes/
+負氣 负气 [fu4 qi4] {fu6 hei3} /irascible; grincheux; grognon/faire quelque chose dans un accès de colère; faire quelque chose sous le coup de la colère/
+????f 負隅頑抗 负隅顽抗 [fu4 yu2 wan2 kang4] {fu6 jyu4 waan4 kong3} /put up a last-ditch resistance;a last-ditch struggle; "a cornered cat becomes as fierce as a lion"/
+負電荷 负电荷 [fu4 dian4 he4] {fu6 din6 ho6} /(électricité) charge négative/
 財不可露眼 财不可露眼 [cai2 bu4 ke3 lu4 yan3] {coi4 bat1 ho2 lou6 ngaan5} /wealth should stay hidden (spoken)/
 財不露眼 财不露眼 [cai2 bu4 lou4 yan3] {coi4 bat1 lou6 ngaan5} /do not let your wealth be exposed in front of others/
 財主佬 财主佬 [cai2 zhu5 lao3] {coi4 zyu2 lou2} /a fat cat (a wealthy person)/
