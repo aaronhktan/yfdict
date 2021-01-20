@@ -414,7 +414,7 @@
 三板 三板 [san1 ban3] {saam1 baan2} /sampan, un bateau chinois/
 三板斧 三板斧 [san1 ban3 fu3] {saam1 baan2 fu2} /quelqu'un ou quelque chose qui ne sait faire que trois choses, «three-trick pony»/
 三枝桅 三枝桅 [san1 zhi1 wei2] {saam1 zi1 ngai4} /trois-mâts/
-三柴 三柴 [san1 chai2] {saam1 caai4} /sergeant (orig.) les insignes des sergeants ont trois chevrons/
+三柴 三柴 [san1 chai2] {saam1 caai4} /sergent (orig.) les insignes des sergents ont trois chevrons/
 三條 三条 [san1 tiao2] {saam1 tiu4} /trois bâtonnets (de quelque chose)/trois bandes (de quelque chose)/
 三棟屋博物館 三栋屋博物馆 [san1 dong4 wu1 bo2 wu4 guan3] {saam1 dung6 uk1 bok3 mat6 gun2} /Musée Sam Tung Uk, situé à Hong Kong/(lit.) musée de la maison à trois poutres/
 ???? 三步揦埋兩步 三步揦埋两步 [san1 bu4 la2 mai2 liang3 bu4] {saam1 bou6 laa3 maai4 loeng5 bou6} /(fig.) marcher à grands pas/(lit.) couvrir une distance de trois pas avec deux/
@@ -467,7 +467,7 @@
 上嚟 上嚟 [shang4 li2] {soeng5 lai2} /venir ici/monter ici/
 上址 上址 [shang4 zhi3] {soeng6 zi2} /l'addresse ci-dessus/
 上堂 上堂 [shang4 tang2] {soeng5 tong4} /suivre un cours/comparaître devant les tribunaux/
-上士 上士 [shang4 shi4] {soeng6 si6} /sergeant/
+上士 上士 [shang4 shi4] {soeng6 si6} /sergent/
 上天堂 上天堂 [shang4 tian1 tang2] {soeng5 tin1 tong4} /aller au ciel/
 上天無路 上天无路 [shang4 tian1 wu2 lu4 ] {soeng6 tin1 mou4 lou6} /(expr. idiom.) arriver à une impasse; ne pas pouvoir s'en sortir; être mis au pied du mur/(lit.) il n'y a pas de chemin au ciel/
 上契 上契 [shang4 qi4] {soeng5 kai3} /l'établissement de la relation entre un/plusieurs parrains et son filleul(e) dans la coutume chinoise/
@@ -11873,7 +11873,7 @@
 沙塘口山 沙塘口山 [sha1 tang2 kou3 shan1] {saa1 tong4 hau2 saan1} /Bluff Island, île de Hong Kong/ 
 沙塵白攉 沙尘白攉 [sha1 chen2 bai2 huo1] {saa1 can4 baak6 fok3} /(expr.) arrogant et prétentieux/
 沙塵白霍 沙尘白霍 [sha1 chen2 bai2 huo4] {saa1 can4 baak6 fok3} /(expr.) arrogant et prétentieux/
-沙展 沙展 [sha1 zhan3] {saa1 zin2} /sergeant (orig. de l'anglais « sergeant », avec le même sens)/
+沙展 沙展 [sha1 zhan3] {saa1 zin2} /sergent (orig. de l'anglais « sergeant », avec le même sens)/
 沙梨 沙梨 [sha1 li2] {saa1 lei4} /nashi; nachi; poire japonaise/
 沙沙滾 沙沙滚 [sha1 sha1 gun3] {saa4 saa4 gwan2} /(relation amoureuse) tromper/faire de l'échangisme/(personne) peu fiable/(faire quelque chose avec) négligence/
 沙沙聲 沙沙声 [sha1 sha1 sheng1] {saa4 saa2 seng1} /(onomatopée de l'eau gargouillant)/bruit de froissement; bruissement; froufrou/
@@ -13442,6 +13442,7 @@
 狗虱 狗虱 [gou3 shi1] {gau2 sat1} /puces de chien/
 狗蝨 狗虱 [gou3 shi1] {gau2 sat1} /puces de chien/
 狗髀架 狗髀架 [gou3 bi4 jia4] {gau2 bei2 gaa2} /étai; support; entretoise/trépied/ 
+狗頭軍師 狗头军师 [gou3 tou2 jun1 shi1] {gau2 tau4 gwan1 si} /(fig.) personne qui donne des mauvais conseils/(lit.) conseiller militaire à tête de chien/
 狙擊槍 狙击枪 [ju1 ji1 qiang1] {zeoi1 gik1 coeng1} /fusil de précision; fusil à lunette/
 狙擊步槍 狙击步枪 [ju1 ji1 bu4 qiang1] {zeoi1 gik1 bou6 coeng1} /fusil de précision; fusil à lunette/
 狡獪 狡狯 [jiao3 kuai4] {gaau2 kui2} /malin; futé; sournois; roublard/
@@ -17683,7 +17684,7 @@
 袁彌明 袁弥明 [yuan2 mi2 ming2] {jyun4 nei4 ming4} /Erica Yuen Mi-ming, femme politique et actrice hongkongaise/
 袋入 袋入 [dai4 ru4] {doi6 jap6} /mettre dans une poche/
 ????f 袋袋平安 袋袋平安 [dai4 dai5 ping2 an1] {doi6 doi6 ping4 on1} /(expr. idiom.) obtenir une somme d'argent et la garder en sécurité/(lit.) chaque poche en paix/
-袋錶 袋表 [dai4 biao3] {doi2 biu1} /montre de poche/
+袋錶 袋表 [dai4 biao3] {doi2 biu1} /montre de poche; montre à gousset/
 袒胸露臂 袒胸露臂 [tan3 xiong1 lu4 bi4] {taan2 hung1 lou6 bei3} /(expr.) (d'une femme) laisser apparaître le cou et les épaules/
 袒裼裸裎 袒裼裸裎 [tan3 xi1 luo3 cheng2] {taan2 sik3 lo2 cing4} /(d'une personne) tout nu; complètement nu/
 袖口鈕 袖口钮 [xiu4 kou3 niu3] {zau6 hau2 nau2} /boutons de manchette/
@@ -18291,7 +18292,7 @@
 警花 警花 [jing3 hua1] {ging2 faa1} /jolie policière/
 警衞 警卫 [jing3 wei4] {ging2 wai6} /agent de sécurité/
 警覺性 警觉性 [jing3 jue2 xing4] {ging2 gok3 sing3} /vigilance/
-警長 警长 [jing3 zhang3] {ging2 zoeng2} /sergeant/
+警長 警长 [jing3 zhang3] {ging2 zoeng2} /sergent/
 警隊 警队 [jing3 dui4] {ging2 deoi2} /force policière/
 警隊博物館 警队博物馆 [jing3 dui4 bo2 wu4 guan3] {ging2 deoi2 bok3 mat6 gun2} /The Police Museum of Hong Kong (« Musée de la Police de Hong Kong »)/
 譯本 译本 [yi4 ben3] {jik6 bun2} /traduction (d'un livre)/
@@ -18325,8 +18326,8 @@
 變音 变音 [bian4 yin1] {bin3 jam1} /changer de ton/changer de voix/
 變音符號 变音符号 [bian4 yin1 fu2 hao4] {bin3 jam1 fu4 hou2} /diacritique/
 變音記號 变音记号 [bian4 yin1 ji4 hao4] {bin3 jam1 gei3 hou6} /(musique) figure d'altération/
-讓 让 [rang4] {joeng6} /(verb)  Concede/
-讔 讔 [yin3] {jan2} /riddle; mystery/
+????c 讓 让 [rang4] {joeng6} /céder; concéder/ 
+????c 讔 讔 [yin3] {jan2} /riddle; mystery/
 讕叻 谰叻 [lan2 le4] {laan2 lek1} /se vanter; fanfaronner (en exagérant un peu les détails)/
 讕在行 谰在行 [lan2 zai4 hang2] {laan2 zoi6 hong4} /prétendre être un expert/
 ????f 讕大方 谰大方 [lan2 da4 fang5] {laan2 daai6 fong1} /faire semblant d'être généreux/
@@ -18398,55 +18399,55 @@
 豬乸菜 猪乸菜 [zhu1 na2 cai4] {zyu1 naa2 coi3} /bette; bette à carde/
 ????f 豬仔 猪仔 [zhu1 zai3] {zyu1 zai2} /porcelet; petit cochon/(fig.) personne vendu comme esclave outre-mer; personne vendu comme coolie/(fig.) personne qui accept un pot-de-vin/
 豬仔客 猪仔客 [zhu1 zai3 ke4] {zyu1 zai2 haak3} /(fig.) trafiquant d'êtres humains; esclavagiste/(lit.) marchand de porcelets/
-豬仔餅 猪仔饼 [zhu1 zai3 bing3] {zyu1 zai2 beng2} /pig-shaped mooncakes/
-豬兜 猪兜 [zhu1 dou1] {zyu1 dau1} /stupid; fool (spoken)/
-豬兜肉 猪兜肉 [zhu1 dou1 rou4] {zyu1 dau1 juk6} /Pork cheek meat/
-豬八怪 猪八怪 [zhu1 ba1 guai4] {zyu1 baat3 gwaai3} /A figurative to describe an ugly person/
-豬公 猪公 [zhu1 gong1] {zyu1 gung1} /a boar /
-豬嘜 猪唛 [zhu1 ma4] {zyu1 mak1} /(n.) a pig, esp. a piglet; (term of endearment) a non derogratory way to refer to someone who is a liitle foolish / silly/
-豬噏 猪噏 [zhu1 xi1] {zyu1 ngap1} /Fermented bean curd/
-豬圈 猪圈 [zhu1 juan4] {zyu1 gyun6} /A pig pen/
-豬大腸 猪大肠 [zhu1 da4 chang2] {zyu1 daai6 coeng2} /Pig intestine/
-豬天梯 猪天梯 [zhu1 tian1 ti1] {zyu1 tin1 tai1} /the palate cartilage of a pig/
-豬尿煲 猪尿煲 [zhu1 niao4 bao1] {zyu1 niu6 bou1} /pig's Bladder/
-豬屎𩿞 豬屎𩿞 [] {zyu1 si2 caa4} /Copsychus saularis, a type of bird/
-豬手 猪手 [zhu1 shou3] {zyu1 sau2} /pig trotters; pork knuckle / ham hock/
-豬扒 猪扒 [zhu1 pa2] {zyu1 paa2} /(insulting noun)  chubby or fat female/
-豬扒包 猪扒包 [zhu1 pa2 bao1] {zyu1 paa4 baau1} /pork chop bun/
-豬扒飯 猪扒饭 [zhu1 ba1 fan4] {zyu1 paa4 faan6} /pork chop Rice/
-豬排骨 猪排骨 [zhu1 pai2 gu3] {zyu1 paai4 gwat1} /pork ribs/
-豬料 猪料 [zhu1 liao4] {zyu1 liu2} /pig feeds; a filler made from pig blood, talc and water/
-豬橫脷 猪橫脷 [zhu1 guang1 li4] {zyu1 waang4 lei6} /pig's pancreas/
-豬欄 猪栏 [zhu1 lan2] {zyu1 laan4} /a swinery; s pigsty/
-豬潤 猪润 [zhu1 run4] {zyu1 jeon2} /pork liver/
-豬潲 猪潲 [zhu1 shao4] {zyu1 saau3} /wet feed for pigs; pigwash; pigswill/
-豬玀 猪猡 [zhu1 luo2] {zyu1 lo4} /pig; swine (can be used to describe the animal or used in a derogatory sense to refer to a contemptible or unpleasant person/
-豬竇 猪窦 [zhu1 dou4] {zyu1 dau3} /a pigsty/
-豬籠 猪笼 [zhu1 long2] {zyu1 lung4} /a pig cage; a pig basket/
-豬籠入水 猪笼入水 [zhu1 long2 ru4 shui3] {zyu1 lung4 jap6 seoi2} /raking in money/
-豬籠草 猪笼草 [zhu1 long2 cao3] {zyu1 lung4 cou2} /nepenthes/
-豬籠車 猪笼车 [zhu1 long2 che1] {zyu1 lung4 ce1} /wooden trolley (spoken)/
-豬紅 猪红 [zhu1 hong2] {zyu1 hung4} /(food) pig blood curd/
-豬網油 猪网油 [zhu1 wang3 you2] {zyu1 mong5 jau4} /mesentery of a pig; pork caul fat; pork fat netting; pork lace fat/
-豬肉乾 猪肉干 [zhu1 rou4 gan1] {zyu1 juk6 gon1} /pork jerky/
-豬肚 猪肚 [zhu1 du3] {zyu1 tou5} /pig's stomach; pork tripe /
-豬肝色 猪肝色 [zhu1 gan1 se4] {zyu1 gon1 sik1} /dark reddish brown colour/
-豬脷 猪脷 [zhu1 li4] {zyu1 lei6} /pig's tongue/
-豬腦 猪脑 [zhu1 nao3] {zyu1 nou5} /pig brain/
-豬腩肉 猪腩肉 [zhu1 nan3 rou4] {zyu1 naam5 juk6} /pork belly/
-豬腰 猪腰 [zhu1 yao1] {zyu1 jiu1} /pig's kidney/
-豬腳 猪脚 [zhu1 jiao3] {zyu1 goek3} /(noun) pig feet; (food) pig trotters/
-豬腳薑 猪脚姜 [zhu1 jiao3 jiang1] {zyu1 goek3 goeng1} /pork knuckles in ginger and sweetened vinegar/
-豬腸 猪肠 [zhu1 chang2] {zyu1 coeng4} /chitterlings; chitlings;pig's intestinea/
-豬腸粉 猪肠粉 [zhu1 chang2 fen3] {zyu1 coeng4 fan2} /steamed rice noodle roll, a common Chinese dish/
-豬膏 猪膏 [zhu1 gao1] {zyu1 gou1} /(noun) pork fat; lard/
-豬膶 猪膶 [zhu1 ren4] {zyu1 jeon2} /pig liver/
-豬舍 猪舍 [zhu1 she4] {zyu1 se5} /a pig barn/
-豬踭 猪踭 [zhu1 zheng1] {zyu1 zaang1} /pork shoulder/
-豬踭肉 猪踭肉 [zhu1 zheng1 rou4] {zyu1 zaang1 juk6} /pork shoulder/
-豬郎 猪郎 [zhu1 lang2] {zyu1 long4} /male pig used for breeding purpose/
-豬陸 猪陆 [zhu1 lu4] {zyu1 luk6} /a pigsty/
-豬雜 猪杂 [zhu1 za2] {zyu1 zaap6} /mixed pig's internal organs (cuisine)/
+????f 豬仔餅 猪仔饼 [zhu1 zai3 bing3] {zyu1 zai2 beng2} /gâteau de lune en forme de cochon/
+豬兜 猪兜 [zhu1 dou1] {zyu1 dau1} /(fig.) (inj.) stupide; idiot; con/(lit.) joue de porc/
+豬兜肉 猪兜肉 [zhu1 dou1 rou4] {zyu1 dau1 juk6} /joue de porc/
+豬八怪 猪八怪 [zhu1 ba1 guai4] {zyu1 baat3 gwaai3} /(fig.) personne très laide/
+豬公 猪公 [zhu1 gong1] {zyu1 gung1} /sanglier/
+????f 豬嘜 猪唛 [zhu1 ma4] {zyu1 mak1} /(affectueux) stupide/(lit.) porcelet; ptit cochon/
+????c 豬噏 猪噏 [zhu1 xi1] {zyu1 ngap1} /Fermented bean curd/
+豬圈 猪圈 [zhu1 juan4] {zyu1 gyun6} /porcherie; soue de porc/
+豬大腸 猪大肠 [zhu1 da4 chang2] {zyu1 daai6 coeng2} /intestin du porc/
+????c 豬天梯 猪天梯 [zhu1 tian1 ti1] {zyu1 tin1 tai1} /the palate cartilage of a pig/
+豬尿煲 猪尿煲 [zhu1 niao4 bao1] {zyu1 niu6 bou1} /vessie de porc/
+????c 豬屎𩿞 豬屎𩿞 [] {zyu1 si2 caa4} /Copsychus saularis, a type of bird/
+豬手 猪手 [zhu1 shou3] {zyu1 sau2} /pied de cochon; pied de porc/
+豬扒 猪扒 [zhu1 pa2] {zyu1 paa2} /(fig.) (inj.) grosse fille/
+????f 豬扒包 猪扒包 [zhu1 pa2 bao1] {zyu1 paa4 baau1} /pork chop bun/
+????f 豬扒飯 猪扒饭 [zhu1 ba1 fan4] {zyu1 paa4 faan6} /pork chop Rice/
+豬排骨 猪排骨 [zhu1 pai2 gu3] {zyu1 paai4 gwat1} /côtes levées/
+????c 豬料 猪料 [zhu1 liao4] {zyu1 liu2} /pig feeds; a filler made from pig blood, talc and water/
+豬橫脷 猪橫脷 [zhu1 guang1 li4] {zyu1 waang4 lei6} /pancréas de porc/
+豬欄 猪栏 [zhu1 lan2] {zyu1 laan4} /porcherie; soue à cochons/
+豬潤 猪润 [zhu1 run4] {zyu1 jeon2} /foie de porc/
+豬潲 猪潲 [zhu1 shao4] {zyu1 saau3} /déchets donnés comme nourriture aux porcs/
+豬玀 猪猡 [zhu1 luo2] {zyu1 lo4} /cochon; porc/(fig.) personne désagréable/
+豬竇 猪窦 [zhu1 dou4] {zyu1 dau3} /porcherie; soue à cochons/
+????f 豬籠 猪笼 [zhu1 long2] {zyu1 lung4} /cage pour cochons/
+????f 豬籠入水 猪笼入水 [zhu1 long2 ru4 shui3] {zyu1 lung4 jap6 seoi2} /raking in money/(lit.) l'eau rentre dans la cage pour cochons/ 
+豬籠草 猪笼草 [zhu1 long2 cao3] {zyu1 lung4 cou2} /(genre de plantes) Nepenthes/
+????c 豬籠車 猪笼车 [zhu1 long2 che1] {zyu1 lung4 ce1} /wooden trolley (spoken)/
+????f 豬紅 猪红 [zhu1 hong2] {zyu1 hung4} /(food) pig blood curd/
+????c 豬網油 猪网油 [zhu1 wang3 you2] {zyu1 mong5 jau4} /mesentery of a pig; pork caul fat; pork fat netting; pork lace fat/
+豬肉乾 猪肉干 [zhu1 rou4 gan1] {zyu1 juk6 gon1} /viande séchée et salée de porc; jerky de porc/
+????f 豬肚 猪肚 [zhu1 du3] {zyu1 tou5} /tripes de porc/
+????f 豬肝色 猪肝色 [zhu1 gan1 se4] {zyu1 gon1 sik1} /brun rouge; marron/
+豬脷 猪脷 [zhu1 li4] {zyu1 lei6} /langue de porc/
+豬腦 猪脑 [zhu1 nao3] {zyu1 nou5} /cervelle de porc/
+????f 豬腩肉 猪腩肉 [zhu1 nan3 rou4] {zyu1 naam5 juk6} /pork belly/
+豬腰 猪腰 [zhu1 yao1] {zyu1 jiu1} /rognon de porc/
+豬腳 猪脚 [zhu1 jiao3] {zyu1 goek3} /pied de cochon; pied de porc/
+????f 豬腳薑 猪脚姜 [zhu1 jiao3 jiang1] {zyu1 goek3 goeng1} /pork knuckles in ginger and sweetened vinegar/
+豬腸 猪肠 [zhu1 chang2] {zyu1 coeng4} /chitterlings; intestin grêle du porc/
+豬腸粉 猪肠粉 [zhu1 chang2 fen3] {zyu1 coeng4 fan2} /rouleau de nouille de riz sans farce/
+豬膏 猪膏 [zhu1 gao1] {zyu1 gou1} /saindoux/
+豬膶 猪膶 [zhu1 ren4] {zyu1 jeon2} /foie de porc/
+豬舍 猪舍 [zhu1 she4] {zyu1 se5} /porcherie; soue à cochons/
+豬踭 猪踭 [zhu1 zheng1] {zyu1 zaang1} /échine; viande de porc dorsale/
+豬踭肉 猪踭肉 [zhu1 zheng1 rou4] {zyu1 zaang1 juk6} /échine; viande de porc dorsale/
+豬郎 猪郎 [zhu1 lang2] {zyu1 long4} /(élevage de porc) porc mâle entier/
+豬陸 猪陆 [zhu1 lu4] {zyu1 luk6} /porcherie/
+豬雜 猪杂 [zhu1 za2] {zyu1 zaap6} /abats de porc/
 豬頭三 猪头三 [zhu1 tou2 san1] {zyu1 tau4 saam1} /a fool; an idiot/
 豬頭丙 猪头丙 [zhu1 tou2 bing3] {zyu1 tau4 bing2} /stupid; fool (spoken)/
 豬頭嘜 猪头唛 [zhu1 tou2 ma4] {zyu1 tau4 mak1} /idiot/
