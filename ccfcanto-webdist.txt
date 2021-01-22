@@ -2585,7 +2585,7 @@
 凘 凘 [si1] {si1} /glace qui flotte/
 凜凜 凛凛 [lin3 lin3] {lam5 lam5} /glacial/strict/effrayé/
 凜然 凛然 [lin3 ran2] {lam5 jin4} /impressionant, imposant/
-凝眸 凝眸 [ning2 mou2] {jing4 mau4} /fixer (son regard sur quelque chose)/
+凝眸 凝眸 [ning2 mou2] {jing4 mau4} /fixer (son regard sur quelque chose); regarder avec insistance/
 凝重 凝重 [ning2 zhong4] {jing4 zung6} /sérieux/
 凡係 凡系 [fan2 xi4] {faan4 hai6} /tous, chaque/pas exclusif/
 凱旋 凯旋 [kai3 xuan2] {hoi2 syun4} /victoire/
@@ -10723,7 +10723,7 @@
 朗豪坊 朗豪坊 [lang3 hao2 fang1] {long3 hou4 fong1} /Langham Place, centre d'achats situé à Hong Kong/
 朗豪酒店 朗豪酒店 [lang3 hao2 jiu3 dian4] {long5 hou4 zau2 dim3} /Langham Place Hotel, hôtel situé à Hong Kong/
 朘朘 朘朘 [juan1 juan1] {zoe1 zoe1} /(enfantin) pénis, zizi, quéquette/
-望住 望住 [wang4 zhu4] {mong6 zyu6} /regarder, fixer du regard/protéger, surveiller/
+望住 望住 [wang4 zhu4] {mong6 zyu6} /regarder; fixer du regard; regarder avec insistance; lorgner/protéger; surveiller/
 望到頸都長 望到颈都长 [wang4 dao4 jing3 du1 chang2] {mong6 dou3 geng2 dou1 zoeng2} /(expr. idiom.) attendre depuis longtemps, avoir hâte de quelque chose mais devoir attendre très longtemps/(lit.) espérer jusqu'à ce que le cou s'allonge/
 望天打卦 望天打卦 [wang4 tian1 da3 gua4] {mong6 tin1 daa2 gwaa3} /(expr. idiom.) se résigner à son destin/ 
 望山跑死馬 望山跑死马 [wang4 shan1 pao3 si3 ma3] {mong6 saan1 paau2 sei2 maa5} /(expr. idiom.) endroit qui semble proche mais qui est en réalité très lointain/(lit.) regarder la montagne et faire courir le cheval jusqu'à ce qu'il meurt/ 
@@ -12023,7 +12023,7 @@
 ???? 泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /taxi illégal où le chauffeur de taxi attend plusieurs personnes (qui ne se connaissent pas) ayant la même destination, ce qui lui permet de réduire les prix qu'il demande des passagers/
 ???? 泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(espèce de canard élevée sur la terre ferme, sans accès à l'eau)/(fig.) (personne) sale/(dirty car?) (mixed race?)/
 ???? 注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /précautions/question nécessitant une attention particulière/
-注視 注视 [zhu4 shi4] {zyu3 si6} /faire attention à/fixer d'un regard/
+注視 注视 [zhu4 shi4] {zyu3 si6} /faire attention à/fixer d'un regard; regarder avec insistance; lorgner/
 泮塘 泮塘 [pan4 tang2] {pun3 tong6} /Pun Tong, localité de Canton en Chine/
 泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, localité de Canton en Chine/Panshui, village de Guangxi/(vieilli) étang situé devant une école/
 泮溪 泮溪 [pan4 xi1] {pun3 kai1} /Panxi, ruisseau de Canton en Chine/
@@ -14527,7 +14527,7 @@
 眼大大 眼大大 [yan3 da4 da4] {ngaan5 daai6 daai6} /grands yeux/
 眼大睇過籠 眼大睇过笼 [yan3 da4 di4 guo4 long2] {ngaan5 daai6 tai2 gwo3 lung4} /(expr. idiom.) ne pas remarquer quelque chose d'évident/(lit.) avoir de grands yeux mais ne pas voir le dragon/
 眼大睇過龍 眼大睇过龙 [yan3 da4 di4 guo4 long2] {ngaan5 daai6 tai2 gwo3 lung4} /(expr. idiom.) ne pas remarquer quelque chose d'évident/(lit.) avoir de grands yeux mais ne pas voir le dragon/
-眼定定 眼定定 [yan3 ding4 ding4] {ngaan5 ding6 ding6} /fixer du regard; regarder fixement/(fig.) ébahi; abasourdi/
+眼定定 眼定定 [yan3 ding4 ding4] {ngaan5 ding6 ding6} /fixer du regard; regarder fixement; lorgner; regarder avec insistance/(fig.) ébahi; abasourdi/
 眼屎 眼屎 [yan3 shi3] {ngaan5 si2} /chassie/
 眼挑針 眼挑针 [yan3 tiao1 zhen1] {ngaan5 tiu1 zam1} /orgelet; infection des cils ou de la paupière/
 眼挹毛 眼挹毛 [yan3 yi4 mao2] {ngaan5 jap1 mou4} /cils/
@@ -14671,7 +14671,7 @@
 睡鋪 睡铺 [shui4 pu4] {seoi6 pou1} /couchette/
 睽異 睽异 [kui2 yi4] {kwai4 ji6} /être en désaccord; avoir des opinions différentes/ 
 ????c 瞀里 瞀里 [mao4 li3] {mau6 lei5} /dumb/
-瞄 瞄 [miao2] {miu4} /fixer d'un regard/jeter un coup d'œil/
+瞄 瞄 [miao2] {miu4} /fixer d'un regard; lorgner; regarder avec insistance/jeter un coup d'œil/
 瞄準 瞄准 [miao2 zhun3] {miu4 zeon2} /viser/
 瞇埋眼 眯埋眼 [mi1 mai2 yan3] {mei1 maai4 ngaan5} /fermer les yeux/
 瞌埋眼 瞌埋眼 [ke1 mai2 yan3] {hap1 maai4 ngaan5} /fermer les yeux/
@@ -16499,7 +16499,7 @@
 腍啤啤 腍啤啤 [ren3 pi2 pi2] {nam4 be4 be4} /mou, molle/trop mou, trop molle/carpette; paillasson; chiffe molle; personne faible de caractère/
 腍善 腍善 [ren3 shan4] {nam4 sin6} /qui a bon caractère; sympathique; de caractère facile/
 腍柿 腍柿 [ren3 shi4] {nam4 ci5} /kaki; plaquemine/
-腎人 肾人 [shen4 ren2] {san4 jan4} /(inj.) un fou; un cinglé; un forcené/(inj.) imbécile; idiot/
+腎人 肾人 [shen4 ren2] {san4 jan4} /(inj.) un fou; un cinglé; un forcené; un énergumène/(inj.) imbécile; idiot/
 腎囊 肾囊 [shen4 nang2] {san6 nong4} /kyste rénal/scrotum/
 腎虧 肾亏 [shen4 kui1] {san6 kwai1} /(médecine traditionelle chinoise) faiblesse rénale/
 腐乳 腐乳 [fu3 ru3] {fu6 jyu5} /tofu fermenté; furu; sufu/
@@ -17654,7 +17654,7 @@
 衫鈕 衫钮 [shan1 niu3] {saam1 nau2} /bouton de chemise/
 衫領 衫领 [shan1 ling3] {saam1 leng5} /col de chemise/
 衰 衰 [shuai1] {seoi1} /(d'une personne) mauvais; méchant; méprisable; vil/(d'un objet) de mauvaise qualité/(par extension) laid/se faire prendre en flagrant délit/échouer/
-????f 衰仔 衰仔 [shuai1 zai3] {seoi1 zai2} /vilain garçon; méchant petit garçon/(used between friends to greet each other as well)/
+????f 衰仔 衰仔 [shuai1 zai3] {seoi1 zai2} /vilain garçon; méchant petit garçon; fripon; coquin; filou/(used between friends to greet each other as well)/
 衰佬 衰佬 [shuai1 lao3] {seoi1 lou2} /coquin; gredin; canaille/(affectueux) chéri; mon époux/
 衰俾人睇 衰俾人睇 [shuai1 bi3 ren2 di4] {seoi1 bei2 jan4 tai2} /se ridiculiser; se donner en spectacle; s'exposer de façon ridicule/
 衰公 衰公 [shuai1 gong1] {seoi1 gung1} /coquin; gredin; canaille; expression utilisé pour montrer sa colère envers un homme/
@@ -17782,7 +17782,7 @@
 襟計 襟计 [jin1 ji4] {kam1 gai3} /qui coûte cher; qui coûte beaucoup/
 襟章 襟章 [jin1 zhang1] {kam1 zoeng1} /badge; macaron; insigne rond fixé sur un vêtement/
 襦裙 襦裙 [ru2 qun2] {jyu4 kwan4} /ruqun, vêtement traditionnel chinois/
-襪箍 袜箍 [wa4 gu1] {mat6 ku1} /jarretelle/
+襪箍 袜箍 [wa4 gu1] {mat6 ku1} /jarretelle; jarretière/
 ????c 襪頭 袜头 [wa4 tou2] {mat6 tau4} /the welt of a sock/mouth of a sock/orteil/
 襯 衬 [chen4] {can3} /(d'un vêtement) aller à/(d'un couple) être compatible/harmoniser; faire ressortir/doubler; placer quelque chose en dessous/doublure/
 襯家 衬家 [chen4 jia1] {can3 gaa1} /beaux-parents/
@@ -18475,7 +18475,7 @@
 負電荷 负电荷 [fu4 dian4 he4] {fu6 din6 ho6} /(électricité) charge négative/
 ????f 財不可露眼 财不可露眼 [cai2 bu4 ke3 lu4 yan3] {coi4 bat1 ho2 lou6 ngaan5} /(expr. idiom.) vous ne devriez pas étaler votre richesse/(lit.) la richesse ne devrait pas être montrée aux yeux/
 財不露眼 财不露眼 [cai2 bu4 lou4 yan3] {coi4 bat1 lou6 ngaan5} /(expr. idiom.) vous ne devriez pas étaler votre richesse/(lit.) la richesse ne devrait pas être montrée aux yeux/
-財主佬 财主佬 [cai2 zhu5 lao3] {coi4 zyu2 lou2} /nanti; richard; personne riche/
+財主佬 财主佬 [cai2 zhu5 lao3] {coi4 zyu2 lou2} /(fam.) nanti; richard; personne riche/
 財可通神 财可通神 [cai2 ke3 tong1 shen2] {coi4 ho2 tung1 san4} /(expr. idiom.) l'argent fait tourner le monde; l'argent parle; l'argent fait la loi/
 財富 财富 [cai2 fu4] {coi4 fu3} /richesse/
 財政 财政 [cai2 zheng4] {coi4 zing3} /financier; fiscal/
@@ -18502,12 +18502,12 @@
 ????f 財運亨通 财运亨通 [cai2 yun4 heng1 tong1] {coi4 wan6 hang1 tung1} /luck and prosperity in making money/
 ????c 財金 财金 [cai2 jin1] {coi4 gam1} /finance and banking/
 ????c 貢 贡 [gong4] {gung3} /wander around with no aim (Cantonese)/
-????f 貢奉 贡奉 [gong4 feng4] {gung3 fung6} /enshrine and worship; consecrate/
+????f 貢奉 贡奉 [gong4 feng4] {gung3 fung6} /enshrine and worship; consecrate; present tribute to an imperial court/
 ????c 貣 貣 [te4] {tik1} /to ask for a loan; to beg/
 ????f 貧下中農 贫下中农 [pin2 xia4 zhong1 nong2] {pan4 haa6 zung1 nung4} /paysan de classe inférieure et de classe moyenne/
 貧富懸殊 贫富悬殊 [pin2 fu4 xuan2 shu1] {pan4 fu3 jyun4 syu4} /(expr.) grand écart entre riches et pauvres/
 貧窮 贫穷 [pin2 qiong2] {pan4 kung4} /pauvreté; pénurie/pauvre/
-貨 货 [huo4] {fo3} /cargaison; cargo; marchandise transportée/(finances) action/
+貨 货 [huo4] {fo3} /cargaison; cargo; marchandise transportée/(finance) action/
 ????c 貨Ｖａｎ 货Ｖａｎ [huo4 V a n] {fo3 Ｖａｎ} /a carrier van/
 ????f 貨不對辦 货不对办 [huo4 bu4 dui4 ban4] {fo3 bat1 deoi3 baan6} /(produit) ne pas correspondre à la description/ne pas être à la hauteur des ambitions/
 貨仔 货仔 [huo4 zi3] {fo3 zai2} /camlote; produit de mauvaise qualité/
@@ -18523,58 +18523,58 @@
 ????c 貪多 贪多 [tan1 duo1] {taam1 do1} /have the mindset that more is better (whereas in reality this isn't always true); to have a mentality of 'quantity has a quality all its own' or 'quantity is quality'/
 貪威識食 贪威识食 [tan1 wei1 shi2 shi2] {taam1 wai1 sik1 sik6} /(expr.) hédoniste; jouisseur/
 ????f 貪小便宜 贪小便宜 [tan1 xiao3 pian2 yi5] {taam1 siu2 pin4 ji4} /désirer de petits gains; chercher de petits avantages (ex. voler des fournitures de bureau)/
-貪得意 贪得意 [tan1 dei3 yi4] {taam1 dak1 ji3} /(adjective) not serious; for fun; just curious/
-貪方便 贪方便 [tan1 fang1 bian4] {taam1 fong1 bin6} /to opt for convenience; for the sake of convenience /
-貪污受賄 贪污受贿 [tan1 wu1 shou4 hui4] {taam1 wu1 sau6 kui2} /corruption and bribery/
-貪生 贪生 [tan1 sheng1] {taam1 sang1} /cravenly cling to life (and mortally afraid of death)/
-貪贓 贪赃 [tan1 zang1] {taam1 zong1} /venality;accept bribes/
-貪錢 贪钱 [tan1 qian2] {taam1 cin2} /greedy for money/
-貪靚 贪靓 [tan1 jing4] {taam1 leng3} /liking as of appearance (spoken)/
-貪頭 贪头 [tan1 tou5] {taam1 tau4} /the coveted object; an object (acting as a bait) that one soughts after/
-責備 责备 [ze2 bei4] {zaak3 bei6} /to condemn/
-責問 责问 [ze2 wen4] {zaak3 man6} /to call to account/
-責袋 责袋 [ze2 dai4] {zaak3 doi2} /to have (an amount of money) on hand/
-貯藏室 贮藏室 [zhu4 cang2 shi4] {cyu5 cong4 sat1} / a storeroom;a storage room/
-貴 贵 [gui4] {gwai3} /(adjective) 1. important; 2. valuable; (formal polite expression) 3. Yours/
-貴價 贵价 [gui4 jia4] {gwai3 gaa3} /expensive/
-貴利 贵利 [gui4 li4] {gwai3 lei2} /(noun) usury; loan sharking/
-貴到飛起 贵到飞起 [gui4 dao4 fei1 qi3] {gwai3 dou3 fei1 hei2} /extraordinarily expensive/
-貴夾唔飽 贵夹唔饱 [gui4 jia1 n2 bao3] {gwai3 gaap3 m4 baau2} /(of food) expensive but not satisfying/
-貴妃牀 贵妃床 [gui4 fei1 chuang2] {gwai3 fei1 cong4} /a classic vintage style chaise lounge /
-貴妃蚌 贵妃蚌 [gui4 fei1 bang4] {gwai3 fei1 pong5} /venus clam/
-貴姓名 贵姓名 [gui4 xing4 ming2] {gwai3 sing3 ming4} /(used in asking politely for) one's name/
-貴庚 贵庚 [gui4 geng1] {gwai3 gang1} /how old/
-貴格 贵格 [gui4 ge2] {gwai3 gaak3} /upmarket; high-end; opulent; plush; sumptuous/
-貴細 贵细 [gui4 xi4] {gwai3 sai3} /precious; refined and delicate; genteel/
-貴重 贵重 [gui4 zhong4] {gwai3 zung6} /valuable; expensive/
-買位 买位 [mai3 wei4] {maai5 wai2} /to pay for allocated places (usually in the context of social welfare, such as care homes, education etc., often used by the government as a temporary measure to fill a shortage in public amenitites by buying places from private organizations)/
-買嘢 买嘢 [mai3 ye3] {maai5 je5} /shopping; to buy stuff/
-買定 买定 [mai3 ding4] {maai5 ding6} /buy in advance; used in gambling to refer to a 'confirmed' bet where the decision cannot be reversed once the bet has been placed/
-買少見少 买少见少 [mai3 shao3 jian4 shao3] {maai5 siu2 gin3 siu2} /scarce in supply (spoken)/
-買手 买手 [mai3 shou3] {maai5 sau2} /buyer/
-買棺材唔知埞 买棺材唔知埞 [mai3 guan1 cai5 n2 zhi1 di1] {maai5 gun1 coi4 m4 zi1 ding6} /(don't know where to buy a coffin); to act recklessly/
-買殼 买壳 [mai3 ke2] {maai5 hok3} /buying the shell corporation (for listing); back-door listing; reverse takeover; reverse merger; reverse IPO /
-買水 买水 [mai3 shui3] {maai5 seoi2} /'buying water', a ceremony carried out by the eldest son for a dead parent/
-買燕梳 买燕梳 [mai3 yan4 shu1] {maai5 jin3 so1} /to buy insurance/
-買盤 买盘 [mai3 pan2] {maai5 pun4} /buy order (on the stock exchange)/
-買賣 买卖 [mai3 mai4] {maai5 maai6} /trading/
-買起 买起 [mai3 qi3] {maai5 hei2} /to take-over or purchase something with money; to kill someone by hiring an assassin/
-買路錢 买路钱 [mai3 lu4 qian2] {maai5 lou6 cin4} /money, paid to bandits for passage/
-買青苗 买青苗 [mai3 qing1 miao2] {maai5 ceng1 miu4} /to profiteer; to exploit and take advantage of those in difficult circumstances / suffering from hardship in order to gain benefits by unfair means, usually to describe profiteers who take advantage of farmers during hard times to prepay for future crops from them at an unreasonably low price, which is effectively loan sharking in disguise/
-買餸 买餸 [mai3song4] {maai5 sung3} /(verb) 1. To do groceries; 2. Buy some take out/
-貸款 贷款 [dai4 kuan3] {taai3 fun2} /(noun)  Mortgage /
-費 费 [fei4] {fai3} /(verb)  Use /
-費事 费事 [fei4 shi4] {fai3 si6} /(adverb) 1. Lest; (verb)  to avoid doing something/
-費用 费用 [fei4 yong4] {fai3 jung6} /fee/
-貼上 贴上 [tie1 shang4] {tip3 soeng5} /affix to;paste/
-貼堂 贴堂 [tie1 tang2] {tip3 tong4} /(award) to post the outstanding and exemplary work of students such as excellent pictures on a bulletin board as an award/
-貼補 贴补 [tie1 bu3] {tip3 bou2} /Subsidy; to help out; to support; to supplement/
-貼錯門神 贴错门神 [tie1 cuo4 men2 shen2] {tip3 co3 mun4 san4} /two people don't get along with each other; to be at odds with each other/
-賄選 贿选 [hui4 xuan3] {kui2 syun2} /election bribery; vote buying/
-資助學校 资助学校 [zi1 zhu4 xue2 xiao4] {zi1 zo6 hok6 haau6} /aided school; to provide money for school/
-資本 资本 [zi1 ben3] {zi1 bun2} /capitalist/
+貪得意 贪得意 [tan1 dei3 yi4] {taam1 dak1 ji3} /faire quelque chose juste pour le fun; juste pour le plaisir/faire quelque chose par curiosité/trouver quelque chose curieux, intéressant/
+????f 貪方便 贪方便 [tan1 fang1 bian4] {taam1 fong1 bin6} /to opt for convenience; for the sake of convenience /
+????c 貪污受賄 贪污受贿 [tan1 wu1 shou4 hui4] {taam1 wu1 sau6 kui2} /corruption and bribery/
+貪生 贪生 [tan1 sheng1] {taam1 sang1} /(péj.) s'accrocher à la vie; craindre la mort/
+貪贓 贪赃 [tan1 zang1] {taam1 zong1} /accepter des pots-de-vin/
+貪錢 贪钱 [tan1 qian2] {taam1 cin2} /avide d'argent; avare; radin; pingre/
+????f 貪靚 贪靓 [tan1 jing4] {taam1 leng3} /vaniteux; qui se soucie de son apparence; qui se soucie de son paraître/
+貪頭 贪头 [tan1 tou5] {taam1 tau4} /objet de son désir; objet convoité/
+責備 责备 [ze2 bei4] {zaak3 bei6} /faire des reproches à; gronder; blâmer; réprimander/
+責問 责问 [ze2 wen4] {zaak3 man6} /demander des comptes; demander raison/
+責袋 责袋 [ze2 dai4] {zaak3 doi2} /avoir de l'argent sur soi/
+貯藏室 贮藏室 [zhu4 cang2 shi4] {cyu5 cong4 sat1} /entrepôt; cellier/
+貴 贵 [gui4] {gwai3} /important/précieux/(poli) votre/
+貴價 贵价 [gui4 jia4] {gwai3 gaa3} /cher; coûteux/
+貴利 贵利 [gui4 li4] {gwai3 lei2} /(finance) usure/
+貴到飛起 贵到飞起 [gui4 dao4 fei1 qi3] {gwai3 dou3 fei1 hei2} /(expr. idiom.) hors de prix; excessivement cher; très coûteux/(lit.) coûteux jusqu'au point de voler/
+????f 貴夾唔飽 贵夹唔饱 [gui4 jia1 n2 bao3] {gwai3 gaap3 m4 baau2} /(expr.) (repas ou nourriture) coûteux et pas très nourrissant/
+貴妃牀 贵妃床 [gui4 fei1 chuang2] {gwai3 fei1 cong4} /banquette traditionelle en bois/
+貴妃蚌 贵妃蚌 [gui4 fei1 bang4] {gwai3 fei1 pong5} /(espèce de mollusques) Mactra antiquata/
+????f 貴姓名 贵姓名 [gui4 xing4 ming2] {gwai3 sing3 ming4} /(poli) votre nom/
+????f 貴庚 贵庚 [gui4 geng1] {gwai3 gang1} /(poli) votre âge/
+????c 貴格 贵格 [gui4 ge2] {gwai3 gaak3} /upmarket; high-end; opulent; plush; sumptuous/
+貴細 贵细 [gui4 xi4] {gwai3 sai3} /poli; délicat; gracieux; cultivé/
+貴重 贵重 [gui4 zhong4] {gwai3 zung6} /précieux/
+????f 買位 买位 [mai3 wei4] {maai5 wai2} /(d'un gouvernement) combler le manque de capacité d'un service public en achetant les ressources du secteur privé (ex. lits d'hôpital, places dans les écoles, etc.)/(lit.) acheter des places/
+買嘢 买嘢 [mai3 ye3] {maai5 je5} /acheter/magasiner; faire du shopping/
+????f 買定 买定 [mai3 ding4] {maai5 ding6} /acheter à l'avance/(jeux d'argent) pari confirmé; pari qui ne peut pas être retiré/
+買少見少 买少见少 [mai3 shao3 jian4 shao3] {maai5 siu2 gin3 siu2} /(expr. idiom.) devenir de plus en plus rare/(lit.) acheter moins, voir moins/
+買手 买手 [mai3 shou3] {maai5 sau2} /acheteur/agent d'approvisionnement/
+????c 買棺材唔知埞 买棺材唔知埞 [mai3 guan1 cai5 n2 zhi1 di1] {maai5 gun1 coi4 m4 zi1 deng6} /(don't know where to buy a coffin); to act recklessly/
+買殼 买壳 [mai3 ke2] {maai5 hok3} /(fig.) prise de contrôle inversée/(lit.) acheter une coquille (= une société écran)/
+????c 買水 买水 [mai3 shui3] {maai5 seoi2} /'buying water', a ceremony carried out by the eldest son for a dead parent/
+買燕梳 买燕梳 [mai3 yan4 shu1] {maai5 jin3 so1} /(fam.) prendre une assurance; souscrire une assurance; acheter une assurance/(orig.) 燕梳|燕梳 jin3 so1 de l'anglais « insurance » (« assurance »)/
+買盤 买盘 [mai3 pan2] {maai5 pun4} /(finance) ordre d'achat/
+買賣 买卖 [mai3 mai4] {maai5 maai6} /affaires; commerce/transaction/
+買起 买起 [mai3 qi3] {maai5 hei2} /acheter (avec de l'argent)/(fig.) engager un assassin/(fig.) assassiner; tuer/
+????f 買路錢 买路钱 [mai3 lu4 qian2] {maai5 lou6 cin4} /money, paid to bandits for passage/
+????f 買青苗 买青苗 [mai3 qing1 miao2] {maai5 ceng1 miu4} /to profiteer; to exploit and take advantage of those in difficult circumstances / suffering from hardship in order to gain benefits by unfair means, usually to describe profiteers who take advantage of farmers during hard times to prepay for future crops from them at an unreasonably low price, which is effectively loan sharking in disguise/
+買餸 买餸 [mai3 song4] {maai5 sung3} /faire les courses/
+貸款 贷款 [dai4 kuan3] {taai3 fun2} /(finance) emprunt/(finance) emprunter/
+費 费 [fei4] {fai3} /utiliser; prendre (du temps)/coûter/frais; dépense/(nom de famille chinois)/
+費事 费事 [fei4 shi4] {fai3 si6} /ennuyeux; fâcheux/ne pas faire quelque chose/afin d'éviter/
+費用 费用 [fei4 yong4] {fai3 jung6} /frais; coût/dépense/
+貼上 贴上 [tie1 shang4] {tip3 soeng5} /coller/mettre; afficher (une affiche)/
+????f 貼堂 贴堂 [tie1 tang2] {tip3 tong4} /(award) to post the outstanding and exemplary work of students such as excellent pictures on a bulletin board as an award/
+????f 貼補 贴补 [tie1 bu3] {tip3 bou2} /soutenir financièrement (ses amis; sa famille)/utiliser ses économies réalisées pour couvrir ses besoins quotidiens/
+貼錯門神 贴错门神 [tie1 cuo4 men2 shen2] {tip3 co3 mun4 san4} /(expr. idiom.) ne pas bien s'entendre; s'en prendre l'un à l'autre; devenir hostile; se retourner les uns contre les autres/(lit.) mal afficher les dieux de la porte/ 
+賄選 贿选 [hui4 xuan3] {kui2 syun2} /achat de votes; achat de voix/
+????c 資助學校 资助学校 [zi1 zhu4 xue2 xiao4] {zi1 zo6 hok6 haau6} /aided school; to provide money for school/
+資本 资本 [zi1 ben3] {zi1 bun2} /(finance) capital/
 資格 资格 [zi1 ge2] {zi1 gaak3} /eligibility/
-資源回收筒 资源回收筒 [zi1 yuan2 hui2 shou1 tong3] {zi1 jyun4 wui4 sau1 tung2} /recycling bin/
+資源回收筒 资源回收筒 [zi1 yuan2 hui2 shou1 tong3] {zi1 jyun4 wui4 sau1 tung2} /bac de recyclage/
 賊 贼 [zei2] {caak6} /unlawful/
 賊亞爸 贼亚爸 [zei2 ya4 ba4] {caak6 aa3 baa1} /a 'fagin', someone who trains others to perform crimes and takes the stolen goods, similar to the fictional character Fagin in Oliver Twist; describes someone who reaps in the booties / benefits from criminal activities (without necessarily carrying out the criminal activities themselves) , such as a criminal leader (or an organization / corrupted government) behind the scenes13/
 賊人 贼人 [zei2 ren2] {caak6 jan4} /thief/
