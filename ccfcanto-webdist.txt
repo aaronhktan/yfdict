@@ -7194,6 +7194,7 @@
 巧妙 巧妙 [qiao3 miao4] {haau2 miu6} /ingénieux, astucieux/
 巧言令色 巧言令色 [qiao3 yan2 ling4 se4] {haau2 jin4 ling6 sik1} /flatteries/
 巧遇 巧遇 [qiao3 yu4] {haau2 jyu6} /rencontrer par hasard, croiser, tomber sur/
+巧言令色 巧言令色 [qiao3 yan2 ling4 se4] {haau2 jin4 ling6 sik1} /(expr. idiom.) baratin et air flatteur/
 巨債 巨债 [ju4 zhai4] {geoi6 zaai3} /grande dette/
 巫女 巫女 [wu1 nü3] {mou4 neoi5} /chamane, sorcière/
 差 差 [cha4] {caa1} /mauvais/pauvre qualité/défectueux/légèrement, un peu/
@@ -12251,6 +12252,7 @@
 淥親 渌亲 [lu4 qin1] {luk6 can1} /ébouillanter/
 淨係 淨系 [cheng2 xi4] {zing6 hai6} /seulement; simplement/
 淨麵 淨面 [cheng2 mian4] {zing6 min6} /nouilles nature; nouilles sans sauce/
+淨含量 净含量 [jing4 han2 liang4] {zing6 ham4 loeng6} /poids net/
 淫賊 淫贼 [yin2 zei2] {jam4 caak6} /(sexualité) pervers/pervers; méchant; dépravé/
 ???? 淬礪 淬砺 [cui4 li4] {ceoi3 lai6} /to work hard and with stamina/
 淮鹽 淮盐 [huai2 yan2] {waai4 jim4} /sel de table de la rivière Huai, souvent mélangé avec cinq épices/
@@ -18621,34 +18623,34 @@
 賣報紙 卖报纸 [mai4 bao4 zhi3] {maai6 bou3 zi2} /vendre des journaux/(vieilli) publier dans un journal/
 賣大包 卖大包 [mai4 da4 bao1] {maai6 daai6 baau1} /(fig.) vendre en solde; vendre à très bas prix/(lit.) vendre de grands pains/
 賣好 卖好 [mai4 hao3] {maai6 hou2} /(fig.) s'attirer les bonnes grâces de quelqu'un; se gagner la faveur de quelqu'un/(lit.) vendre bien/
-賣官鬻爵 卖官鬻爵 [mai4 guan1 yu4 jue2] {maai6 gun1 juk6 zoek3} /to sell official posts and titles, describes a corrupt government/
+賣官鬻爵 卖官鬻爵 [mai4 guan1 yu4 jue2] {maai6 gun1 juk6 zoek3} /(expr. idiom.) gouvernement corrompu/(lit.) vendre des postes et des titres/
 賣得 卖得 [mai4 de2] {maai6 dak1} /se vendre comme des petits pains; se vendre facilement/
-賣懶 卖懒 [mai4 lan3] {maai6 laan5} /traditional customs of children "selling laziness" before lunar new year, to wish for a productive year ahead/
-賣招牌 卖招牌 [mai4 zhao1 pai5] {maai6 ziu1 paai4} /(verb) to offer something at a bargain just to establish one's brand; to sell a brand name (as an asset); brand selling (to sell the brand, not the product)/
-賣方市場 卖方市场 [mai4 fang1 shi4 chang3] {maai6 fong1 si5 coeng4} /sellers' market/
-賣武 卖武 [mai4 wu3] {maai6 mou5} /to perform martial arts for a living/
-賣物會 卖物会 [mai4 wu4 hui4] {maai6 mat6 wui2} /a bazaar selling goods for fundraising; a jumble sale; a fête/
-賣生藕 卖生藕 [mai4 sheng1 ou3] {maai6 sang1 ngau5} /women flirting with men (slang)/
-賣甩 卖甩 [mai4 shuai3] {maai6 lat1} /1. betray 2. ignore/
-賣花讚花香 卖花赞花香 [mai4 hua1 zan4 hua1 xiang1] {maai6 faa1 zaan3 faa1 hoeng1} /stating the positives and hiding the negatives (slang)/
-賣藝 卖艺 [mai4 yi4] {maai6 ngai6} /to make money as a performer/
-賣豬仔 卖猪仔 [mai4 zhu1 zai3] {maai6 zyu1 zai2} /(phrasal verb) to traffick labourers overseas to work as coolies; to betray / to trick (usually only used in the passive voice, 'to be betrayed' / 'to be tricked';  refers to people who have to sell themselves into slavery when driven by poverty/
-賣身契 卖身契 [mai4 shen1 qi4] {maai6 san1 kai3} / an indenture agreement for someone who is  selling themself/
-賣身投靠 卖身投靠 [mai4 shen1 tou2 kao4] {maai6 san1 tau4 kaau3} /to sell oneself out to somebody else/
-賣面光 卖面光 [mai4 mian4 guang1] {maai6 min6 gwong1} /to ingratiate oneself with/
-賣頭賣尾 卖头卖尾 [mai4 tou2 mai4 wei3] {maai6 tau4 maai6 mei5} /selling what's left over/
-賣飛佛 卖飞佛 [mai4 fei1 fo2] {maai6 fei1 fat6} /my favourite (loanword)/
-賣魚佬 卖鱼佬 [mai4 yu2 lao3] {maai6 jyu4 lou2} /a fishmonger/
-賣鹹魚 卖咸鱼 [mai4 xian2 yu2] {maai6 haam4 jyu4} /nothing to sell (slang)/
-賣鹹鴨蛋 卖咸鸭蛋 [mai4 xian2 ya1 dan4] {maai6 haam4 aap3 daan2} /(slang) passed away; departed; dead/
-賤 贱 [jian4] {zin6} /(adjective) 1. Bitchy; (abusive language) 1. Despicable; 2. Vile/
-賤人 贱人 [jian4ren2] {zin6 jan4} /(coarse language) Bitch/
-賤格 贱格 [jian4 ge2] {zin6 gaak3} /(adjective)  contemptible/
-賤精 贱精 [jian4 jing1] {zin6 zing1} /a despicable person; a person of bad character/
-賦 赋 [fu4] {fu3} /(verb)  Be given (by God)/
-質數定理 质数定理 [zhi4 shu4 ding4 li3] {zat1 sou3 ding6 lei5} /prime number theorem/
-賭仔 赌仔 [du3 zi3] {dou2 zai2} /male gambler (spoken)/
-賭城 赌城 [du3 cheng2] {dou2 sing4} /a place that is well known in gambling / a casino, like Las Vegas/
+????f 賣懶 卖懒 [mai4 lan3] {maai6 laan5} /coutume cantonaise (un peu vieillie) du réveillon du Nouvel An chinois - les enfants marchent dans la rue avec une lanterne céleste et un œuf teint en rouge en main, criant « 賣懶，賣懶，賣到年卅晚，人懶我唔懶 » (« vendre ma paresse, vendre ma paresse, vendre jusqu'au dernier jour de l'année, les autres sont paresseux mais moi je ne le suis pas »)/(orig.) quasi-homophone avec 賣冷|卖冷 maai6 laang5 (« vendre le froid ») - le feu allumé dans la lanterne céleste était censé chasser le froid/
+????f 賣招牌 卖招牌 [mai4 zhao1 pai5] {maai6 ziu1 paai4} /sell a product based on the strength of the brand/
+賣方市場 卖方市场 [mai4 fang1 shi4 chang3] {maai6 fong1 si5 coeng4} /marché vendeur; marché de vendeurs; marché favorable aux vendeurs/
+????f 賣武 卖武 [mai4 wu3] {maai6 mou5} /to perform martial arts for a living/
+賣物會 卖物会 [mai4 wu4 hui4] {maai6 mat6 wui2} /vente de charité/
+賣生藕 卖生藕 [mai4 sheng1 ou3] {maai6 saang1 ngau5} /(fig.) (d'une femme) flirter/(lit.) vendre la racine de lotus/
+賣甩 卖甩 [mai4 shuai3] {maai6 lat1} /vendre; se débarasser de/(fig.) trahir/(fig.) planter; laisser tomber (quelqu'un)/(fig.) semer; distancer/
+賣花讚花香 卖花赞花香 [mai4 hua1 zan4 hua1 xiang1] {maai6 faa1 zaan3 faa1 hoeng1} /(expr. idiom.) s'envoyer des fleurs; se jeter des fleurs; dire des bonnes choses sur soi-même; se faire des compliments/(lit.) vendre des fleurs et louer leurs odeurs/
+????f 賣藝 卖艺 [mai4 yi4] {maai6 ngai6} /gagner sa vie comme artiste ambulant/
+????f 賣豬仔 卖猪仔 [mai4 zhu1 zai3] {maai6 zyu1 zai2} /(fig.) vendre des esclaves à l'étranger; pratiquer la traite d'êtres humains; vendre les personnes enlevées comme coolies/(lit.) vendre les porcelets/
+????f 賣身契 卖身契 [mai4 shen1 qi4] {maai6 san1 kai3} / an indenture agreement for someone who is selling themself/
+賣身投靠 卖身投靠 [mai4 shen1 tou2 kao4] {maai6 san1 tau4 kaau3} /(expr. idiom.) vendre son âme au diable; se vendre/(lit.) vendre son corps pour le soutien/
+????f 賣面光 卖面光 [mai4 mian4 guang1] {maai6 min6 gwong1} /(fig.) s'attirer les bonnes grâces de quelqu'un; se gagner la faveur de quelqu'un/(fig.) baratiner; parler sans sincérité; dire ce que l'on veut entendre dans le but de tromper quelqu'un/(lit.) vendre la brillance de son visage/
+????c 賣頭賣尾 卖头卖尾 [mai4 tou2 mai4 wei3] {maai6 tau4 maai6 mei5} /selling what's left over/
+賣飛佛 卖飞佛 [mai4 fei1 fo2] {maai6 fei1 fat6} /mon préféré; mon favori/(orig.) de l'anglais « my favourite » (« mon préféré »)/
+賣魚佬 卖鱼佬 [mai4 yu2 lao3] {maai6 jyu4 lou2} /poissonnier/
+賣鹹魚 卖咸鱼 [mai4 xian2 yu2] {maai6 haam4 jyu4} /(fig.) passer l'arme à gauche; casser sa pipe; mourir/(fig.) n'avoir rien à vendre/(lit.) vendre du poisson salé/
+賣鹹鴨蛋 卖咸鸭蛋 [mai4 xian2 ya1 dan4] {maai6 haam4 aap3 daan2} /(expr. idiom.) passer l'arme à gauche; casser sa pipe; mourir/(lit.) vendre des œufs de canard salés/
+賤 贱 [jian4] {zin6} /méprisable; vil; abject/
+賤人 贱人 [jian4 ren2] {zin6 jan4} /(vulg.) salaud; salopard; fils de pute; salopard/
+賤格 贱格 [jian4 ge2] {zin6 gaak3} /méprisable; vil; abject/
+????c 賤精 贱精 [jian4 jing1] {zin6 zing1} /a despicable person; a person of bad character/
+賦 赋 [fu4] {fu3} /accordé par Dieu/
+質數定理 质数定理 [zhi4 shu4 ding4 li3] {zat1 sou3 ding6 lei5} /théorème des nombres premiers/
+賭仔 赌仔 [du3 zi3] {dou2 zai2} /joueur; parieur/
+賭城 赌城 [du3 cheng2] {dou2 sing4} /ville pleine de casinos/(surnom pour la ville de Las Vegas)/
 賭大細 赌大细 [du3 da4 xi4] {dou2 daai6 sai3} /Sic bo; Big and Small; a chance game played with three dice/
 賭數 赌数 [du3 shu4] {dou2 sou3} /bet; stakes/
 賭檔 赌档 [du3 dang4] {dou2 dong3} /gambling den/
