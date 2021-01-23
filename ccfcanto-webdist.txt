@@ -4549,6 +4549,7 @@
 嗧 嗧 [jia1] {gaa1} /gallon/
 嗨喲 嗨哟 [hai1 yo1] {hei1 yo1} /«hey yo», de l'anglais/
 嗯 嗯 [en1] {ng6} /hein?/interjection pour se montrer d'accord/
+嗰 嗰 [ge4] {go2} /celui-là/
 嗰位 嗰位 [g5? wei4] {go2 wai6} /cette personne-là/
 嗰便 嗰便 [g5? bian4] {go2 bin6} /là-bas/de cette côté-là/près de, par/par là/situé dans…/
 嗰個 嗰个 [g5? ge4] {go2 go3} /celui-là, celle-là/
@@ -14242,6 +14243,7 @@
 白豆角 白豆角 [bai2 dou4 jiao3] {baak6 dau6 gok3} /gousse du niébé; gousse de la cornille/
 白貓 白猫 [bai2 mao1] {baak6 maau1} /chat blanc/
 ????f 白費力氣 白费力气 [bai2 fei4 li4 qi4] {baak6 fai3 lik6 hei3} /(expr. idiom.) perdre son temps; gaspiller son énergie/
+白費勁 白費勁 [bai2 fei4 jin4] {baak6 fai3 ging6} /(fig.) perdre son temps; gaspiller son énergie/
 白費心機 白费心机 [bai2 fei4 xin1 ji1] {baak6 fai3 sam1 gei1} /(expr. idiom.) perdre son temps; gaspiller son énergie/
 白酒 白酒 [bai2 jiu3] {baak6 zau2} /baijiu, eau de vie à base de sorgho/vin blanc/
 白金 白金 [bai2 jin1] {baak6 gam1} /platine/argent/(lit.) or blanc/
@@ -18527,7 +18529,7 @@
 貪威識食 贪威识食 [tan1 wei1 shi2 shi2] {taam1 wai1 sik1 sik6} /(expr.) hédoniste; jouisseur/
 ????f 貪小便宜 贪小便宜 [tan1 xiao3 pian2 yi5] {taam1 siu2 pin4 ji4} /désirer de petits gains; chercher de petits avantages (ex. voler des fournitures de bureau)/
 貪得意 贪得意 [tan1 dei3 yi4] {taam1 dak1 ji3} /faire quelque chose juste pour le fun; juste pour le plaisir/faire quelque chose par curiosité/trouver quelque chose curieux, intéressant/
-????f 貪方便 贪方便 [tan1 fang1 bian4] {taam1 fong1 bin6} /to opt for convenience; for the sake of convenience /
+????f 貪方便 贪方便 [tan1 fang1 bian4] {taam1 fong1 bin6} /to opt for convenience (over all else); for the sake of convenience/
 ????c 貪污受賄 贪污受贿 [tan1 wu1 shou4 hui4] {taam1 wu1 sau6 kui2} /corruption and bribery/
 貪生 贪生 [tan1 sheng1] {taam1 sang1} /(péj.) s'accrocher à la vie; craindre la mort/
 貪贓 贪赃 [tan1 zang1] {taam1 zong1} /accepter des pots-de-vin/
@@ -18636,7 +18638,7 @@
 ????f 賣藝 卖艺 [mai4 yi4] {maai6 ngai6} /gagner sa vie comme artiste ambulant/
 ????f 賣豬仔 卖猪仔 [mai4 zhu1 zai3] {maai6 zyu1 zai2} /(fig.) vendre des esclaves à l'étranger; pratiquer la traite d'êtres humains; vendre les personnes enlevées comme coolies/(lit.) vendre les porcelets/
 ????f 賣身契 卖身契 [mai4 shen1 qi4] {maai6 san1 kai3} / an indenture agreement for someone who is selling themself/
-賣身投靠 卖身投靠 [mai4 shen1 tou2 kao4] {maai6 san1 tau4 kaau3} /(expr. idiom.) vendre son âme au diable; se vendre/(lit.) vendre son corps pour le soutien/
+賣身投靠 卖身投靠 [mai4 shen1 tou2 kao4] {maai6 san1 tau4 kaau3} /(expr. idiom.) vendre son âme au diable; se vendre/(lit.) vendre son corps pour du soutien/
 ????f 賣面光 卖面光 [mai4 mian4 guang1] {maai6 min6 gwong1} /(fig.) s'attirer les bonnes grâces de quelqu'un; se gagner la faveur de quelqu'un/(fig.) baratiner; parler sans sincérité; dire ce que l'on veut entendre dans le but de tromper quelqu'un/(lit.) vendre la brillance de son visage/
 ????c 賣頭賣尾 卖头卖尾 [mai4 tou2 mai4 wei3] {maai6 tau4 maai6 mei5} /selling what's left over/
 賣飛佛 卖飞佛 [mai4 fei1 fo2] {maai6 fei1 fat6} /mon préféré; mon favori/(orig.) de l'anglais « my favourite » (« mon préféré »)/
@@ -18651,25 +18653,27 @@
 質數定理 质数定理 [zhi4 shu4 ding4 li3] {zat1 sou3 ding6 lei5} /théorème des nombres premiers/
 賭仔 赌仔 [du3 zi3] {dou2 zai2} /joueur; parieur/
 賭城 赌城 [du3 cheng2] {dou2 sing4} /ville pleine de casinos/(surnom pour la ville de Las Vegas)/
-賭大細 赌大细 [du3 da4 xi4] {dou2 daai6 sai3} /Sic bo; Big and Small; a chance game played with three dice/
-賭數 赌数 [du3 shu4] {dou2 sou3} /bet; stakes/
-賭檔 赌档 [du3 dang4] {dou2 dong3} /gambling den/
-賭氣 赌气 [du3 qi4] {dou2 hei3} /(verb)  To venting someone's spleen for grudge /
-賭波 赌波 [du3 bo1] {dou2 bo1} /betting on football/soccer games/
-賭王 赌王 [du3 wang2] {dou2 wong4} /gambling king; someone very powerful in gambling/
-賭番攤 赌番摊 [du3 fan1 tan1] {dou2 faan1 taan1} /to gamble at fantan (a type of gambling in China similar to roulette)/
-賭神 赌神 [du3 shen2] {dou2 san4} /God of gamblers; a gambler gifted with superhuman intuition and skill in gambling/
-賭船 赌船 [du3 chuan2] {dou2 syun4} /casino cruise/
-賭館 赌馆 [du3 guan3] {dou2 gun2} /a gaming house (gambling);a casino/
-賭馬 赌马 [du3 ma3] {dou2 maa5} /betting on horse races/
-賴 赖 [lai4] {laai6} /(verb) 1. count on (someone or something); (noun)  Chinese surname/
-賴債 赖债 [lai4 zhai4] {laai6 zaai3} /to repudiate a debt/
-賴地硬 赖地硬 [lai4 di4 ying4] {laai6 dei6 ngaang6} /(to blame the land for being hard); to make excuses and deny one's responsibility; a bad workman blames his tools/
-賴尿蝦 赖尿虾 [lai4 niao4 xia1] {laai6 niu6 haa1} /mantis shrimp; a child who wets their bed or pants/
-賴死 赖死 [lai4 si3] {laai6 sei2} /refusing (spoken)/
-賴貓 赖猫 [lai4 mao1] {laai3 maau1} /(slang) rascally; scoundrelly; roguish; to not admit failure by giving many excuses; to refuse  to acknowledge that one has lost a game; to deny that one has made a promise; to act as if something never happened/
-賴貓君 赖猫君 [lai4 mao1 jun1] {laai3 maau1 gwan1} /a rascal; a scoundrel; a rouge/
-賺嘥氣 赚嘥气 [zhuan4 sai1 qi4] {zaan2 saai1 hei3} /a waste of breath; beating a dead horse; futile; pointless/
+賭大細 赌大细 [du3 da4 xi4] {dou2 daai6 sai3} /Sic bo, jeu de casino/
+賭數 赌数 [du3 shu4] {dou2 sou3} /dette de jeu/
+賭檔 赌档 [du3 dang4] {dou2 dong3} /maison de jeu; tripot/
+????f 賭氣 赌气 [du3 qi4] {dou2 hei3} /se sentir lésé et prendre la mouche/
+賭波 赌波 [du3 bo1] {dou2 bo1} /parier sur le football/
+賭王 赌王 [du3 wang2] {dou2 wong4} /(fig.) parieur exceptionnellement doué/(lit.) roi du jeu/
+賭番攤 赌番摊 [du3 fan1 tan1] {dou2 faan1 taan1} /(jeux d'argent) jouer au fantan/
+賭神 赌神 [du3 shen2] {dou2 san4} /Les Dieux du jeu, film hongkongais/(fig.) parieur exceptionnellement doué/(lit.) dieu du jeu/
+賭船 赌船 [du3 chuan2] {dou2 syun4} /croisière casino/
+賭館 赌馆 [du3 guan3] {dou2 gun2} /casino; maison de jeu; tripot/
+????f 賭馬 赌马 [du3 ma3] {dou2 maa5} /parier sur les courses hippiques/
+賴 赖 [lai4] {laai6} /compter sur (quelqu'un)/blâmer; reprocher/être incontinent; ne pas pouvoir retenir la miction ou défécation/(nom de famille chinois)/
+賴債 赖债 [lai4 zhai4] {laai6 zaai3} /ne pas s'acquitter d'une dette/
+賴地硬 赖地硬 [lai4 di4 ying4] {laai6 dei6 ngaang6} /(fig.) faire des excuses; nier son échec; un mauvais ouvrier a toujours de mauvais outils; à méchant ouvrier, point de bon outil/(lit.) blâmer la terre en disant qu'elle est trop ferme/
+賴尿蝦 赖尿虾 [lai4 niao4 xia1] {laai6 niu6 haa1} /squille/écrevisse/(fig.) personne qui urine dans son lit; pisse-au-lit/
+賴死 赖死 [lai4 si3] {laai6 sei2} /refuser de partir/
+賴死唔走 賴死唔走 [lai4 si3 wu2 zou3] {laai6 sei2 m4 zau2} /refuser de partir/
+賴著不走 賴著不走 [lai4 zhe5 bu4 zou3] {laai6 zoek6 bat1 zau2} /refuser de partir/
+賴貓 赖猫 [lai4 mao1] {laai6 maau1} /(fig.) effronté; éhonté/(fig.) coquin; malicieux/(fig.) nier que l'on a promis quelque chose/(fig.) nier que l'on a perdu un jeu/(lit.) blâmer le chat/
+賴貓君 赖猫君 [lai4 mao1 jun1] {laai3 maau1 gwan1} /(fig.) crapule; scélérat; vaurien/(lit.) seigneur qui blâme les chats/
+賺嘥氣 赚嘥气 [zhuan4 sai1 qi4] {zaan2 saai1 hei3} /(fig.) perdre son temps; gaspiller son énergie/(lit.) gaspiller son haleine/
 賺得個 赚得个 [zhuan4 de5 ge4] {zaan6 dak1 go3} /only to end up in; only to result in; only to come to/
 賺攪 赚搅 [zhuan4 jiao3] {zaan2 gaau2} /futile efforts; vain efforts/
 賺衰 赚衰 [zhuan4 shuai1] {zaan2 seoi1} /slang for "this is not gonna work" / "this will turn out badly"; to do something that will only lead to trouble/
@@ -21946,6 +21950,8 @@
 鬼馬事 鬼马事 [gui3 ma3 shi4] {gwai2 maa5 si6} /a shameful matter; something which gives one a guilty conscience/
 鬼鬼鼠鼠 鬼鬼鼠鼠 [gui3 gui3 shu3 shu3] {gwai2 gwai2 syu2 syu2} /(adjective) sneaky; sneakily; furtive; stealthy/
 鬼鼠 鬼鼠 [gui3 shu3] {gwai2 syu2} /(adjective) sneaky; sneakily; furtive; stealthy/
+鬼婆 鬼婆 [gui3 po2] {gwai2 po4} /(péj.) femme blanche; femme caucasienne/(lit.) femme fantôme/
+鬼佬 鬼佬 [gui3 lao3] {gwai2 lou2} /(péj.) personne blanche; personne caucasienne; gweilo/(lit.) personne fantôme/
 魁北克法文 魁北克法文 [kui2 bei3 ke4 fa3 wen2] {fui1 bak1 haak1 faat3 man4} /Quebec (Canada) French/
 魁省 魁省 [kui2 sheng3] {fui1 saang2} /Quebec,Canada/
 魂 魂 [hun2] {wan4} /(noun)  Ghost/
@@ -22499,4 +22505,6 @@
 故稱 故称 [gu4 cheng1] {gu3 cing1} /d'où le nom/
 照壁 照壁 [zhao4 bi4] {ziu3 bik1} /mur en face d'une entrée à une cour, servant à empêcher les esprits malfaiteurs d'y entrer (voir aussi 影壁|影壁 et 蕭牆|萧墙)/
 影壁 影壁 [ying3 bi4] {jing2 bik1} /mur en face d'une entrée à une cour, servant à empêcher les esprits malfaiteurs d'y entrer (voir aussi 蕭牆|萧墙 et 照壁|照壁)/
+攰 攰 [gui4] {gui6} /fatigué; épuisé/
+軚 軚 [dai4] {taai5} /(véhicule) volant/
 
