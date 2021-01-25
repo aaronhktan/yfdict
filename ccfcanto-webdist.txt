@@ -18682,7 +18682,7 @@
 購入 购入 [gou4 ru4] {kau3 jap6} /acheter/
 購物公園站 购物公园站 [gou4 wu4 gong1 yuan2 zhan4] {kau3 mat6 gung1 jyun4 zaam6} /Shopping Park Station, station du métro de Canton/
 購銷 购销 [gou4 xiao1] {kau3 siu1} /acheter et vendre/
-賽果 赛果 [sai4 guo3] {coi3 gwo2} /résultat de jeu/
+賽果 赛果 [sai4 guo3] {coi3 gwo2} /résultat de jeu; résultat du match/
 贈券 赠券 [zeng4 quan4] {zang6 hyun3} /bon cadeau; chèque-cadeau/
 ????c 贈慶 赠慶 [zeng4 qiang1] {zang6 hing3} /to participate in the fun of a celebrated event/
 ????c 贈興 赠兴 [zeng4 xing1] {zang6 hing3} /to congratulate someone; to celebrate with someone8/
@@ -18724,56 +18724,56 @@
 ????f 走夾唔抖 走夹唔抖 [zou3 jia1 n2 dou3] {zau2 gaap3 m4 tau2} /(expr. idiom.) fuir à la hâte/
 走學 走学 [zou3 xue2] {zau2 hok6} /sécher les cours/
 走廊位 走廊位 [zou3 lang2 wei4] {zau2 long4 wai2} /place côté couloir; siège couloir; siège de couloir/
-走投 走投 [zou3 tou2] {zau2 tau4} /left; leaving (spoken)/
-走數 走数 [zou3 shu4] {zau2 sou3} /1. breaking a promise 2. not paying a debt/
-走歸左 走归左 [zou3 gui1 zuo3] {zau2 gwai1 zo2} /to go astray; to fall into the wrong path; to be misguided; to be misled; to go off the track; to take a wrong step in life/
-走油 走油 [zou3 you2] {zau2 jau4} /to fry (food) lightly/
-走法律罅 走法律罅 [zou3 fa3 lü4 xia4] {zau2 faat3 leot6 laa3} /(phrasal verb) to try to get or achieve something by taking advantage of the grey area of the rules or law; to exploit the legal loopholes/
-走漏風聲 走漏风声 [zou3 lou4 feng1 sheng1] {zau2 lau6 fung1 sing1} /to let out a secret; to leak (out) information/
-走火 走火 [zou3 huo3] {zau2 fo2} /to escape from fire/
-走火入魔 走火入魔 [zou3 huo3 ru4 mo2] {zau2 fo2 jap6 mo1} /to be overly obsessed with something to the point of losing one's senses/
-走火通道 走火通道 [zou3 huo3 tong1 dao4] {zau2 fo2 tung1 dou6} /fire exit door; fire escape route/
-走狗 走狗 [zou3 gou3] {zau2 gau2} /traitor/
-走甩 走甩 [zou3 shuai3] {zau2 lat1} /to manage to escape or flee from someone/
-走白牌 走白牌 [zou3 bai2 pai2] {zau2 baak6 paai4} /unauthorised usage of a vehicle for goods or public transportation (spoken)/
-走盞 走盏 [zou3 zhan3] {zau2 zaan2} /space for compromising (spoken)/
-走粉 走粉 [zou3 fen3] {zau2 fan2} /heroin trafficking (spoken)/
-走精面 走精面 [zou3 jing1 mian4] {zau2 zing1 min6} /taking an unauthorised shortcut (spoken)/
-走趯 走趯 [zou3 ti4] {zau2 dek3} /(v.) to rush around; to be busy running about/
-走趲 走趱 [zou3 zan3] {zau2 zaan2} /flexibility (spoken)/
-走雞 走鸡 [zou3 ji1] {zau2 gai1} /(slang) to miss out  on an exclusive deal / bargain / chance / opportunity/
-走難 走难 [zou3 nan2] {zau2 naan6} /(verb) to run away from a catastrophe/disaster/
-走電 走电 [zou3 dian4] {zau2 din6} /current leakage/
-走頭 走头 [zou3 tou2] {zau2 tau4} /to go away; to flee; to run off 8/
-走鬼 走鬼 [zou3 gui3] {zau2 gwai2} /unlicensed street stall vendors to escape from officers (Cantonese)/
-赴難 赴难 [fu4 nan4] {fu6 naan6} /to get involved in danger to save the country/
-起上嚟 起上嚟 [qi3 shang4 li2] {hei2 soeng5 lai4 } /(after a verb) indicating an upward movement; (after a verb or adjective) indicating the beginning and continuation of an action or a state/
-起五更 起五更 [qi3 wu3 jing1] {hei2 ng5 gaang1} /to get up in the early hours of the morning when it is nearly dawn./
-起作用 起作用 [qi3 zuo4 yong4] {hei2 zok3 jung6} /to start working; to kick in/
-起來 起来 [qi3 lai5] {hei2 loi4} /to rise; arise/
-起勢 起势 [qi3 shi4] {hei2 sai3} /to endeavour to do something/
-起勢噉 起势啖 [qi3 shi4 dan4] {hei2 sai3 gam2} /continuously; nonstop; to go all out to do something; vigorously/
-起嚟 起嚟 [qi3 li2] {hei2 lai4} /when (spoken)/
+走投 走投 [zou3 tou2] {zau2 tau4} /partir; fuir; s'enfuir; s'échapper/
+????f 走數 走数 [zou3 shu4] {zau2 sou3} /ne pas payer une dette; ne pas rembourser une dette/(fig.) rompre une promesse/
+????c 走歸左 走归左 [zou3 gui1 zuo3] {zau2 gwai1 zo2} /to go astray; to fall into the wrong path; to be misguided; to be misled; to go off the track; to take a wrong step in life/
+????f 走油 走油 [zou3 you2] {zau2 jau4} /faire frire (en particulier, technique de cuison où l'on ne submerge l'aliment dans l'huile que pour un instant)/(nourriture grasse) rancir/(of varnished furniture) to lose its shine; to lose its polish/
+走法律罅 走法律罅 [zou3 fa3 lu:4 xia4] {zau2 faat3 leot6 laa3} /(expr.) exploiter une vide juridique/(lit.) exploiter une faille juridique/
+走漏風聲 走漏风声 [zou3 lou4 feng1 sheng1] {zau2 lau6 fung1 sing1} /(expr.) révéler des informations; divulguer un secret/
+走火 走火 [zou3 huo3] {zau2 fo2} /prendre feu/échapper à un incendie/étinceler/faire court-circuiter/tirer (une arme à feu) par accident/(fig.) (vulg.) éjaculer prématurément/
+走火入魔 走火入魔 [zou3 huo3 ru4 mo2] {zau2 fo2 jap6 mo1} /(expr. idiom.) être obsédé; aller trop loin/
+走火通道 走火通道 [zou3 huo3 tong1 dao4] {zau2 fo2 tung1 dou6} /sortie de secours/
+走狗 走狗 [zou3 gou3] {zau2 gau2} /laquais/
+走甩 走甩 [zou3 shuai3] {zau2 lat1} /s'en tirer/échapper (à quelqu'un)/
+走白牌 走白牌 [zou3 bai2 pai2] {zau2 baak6 paai2} /(fig.) exploiter un taxi illégal/(lit.) utiliser une plaque d'immatriculation blanche/
+????f 走盞 走盏 [zou3 zhan3] {zau2 zaan2} /latitude; marge (extra time or money; leeway; flexibility; margin)/
+走粉 走粉 [zou3 fen3] {zau2 fan2} /trafic de drogue/
+走精面 走精面 [zou3 jing1 mian4] {zau2 zeng1 min2} /(fig.) prendre un raccourci; couper les coins ronds; agir dans son intérêt sans se soucier des conséquences pour les autres/(lit.) agir avec un visage malin/
+走趯 走趯 [zou3 ti4] {zau2 dek3} /participer à des activités/se presser/faire des courses/
+????f 走趲 走趱 [zou3 zan3] {zau2 zaan2} /latitude; marge/
+????f 走雞 走鸡 [zou3 ji1] {zau2 gai1} /(fig.) rater une chance; rater une occasion/miss out on a deal/(lit.) perdre ses poules/
+走難 走难 [zou3 nan2] {zau2 naan6} /fuir un catastrophe/
+走電 走电 [zou3 dian4] {zau2 din6} /(électricité) fuite de courant/
+走頭 走头 [zou3 tou2] {zau2 tau4} /partir; fuir; s'enfuir; s'échapper/
+????f 走鬼 走鬼 [zou3 gui3] {zau2 gwai2} /(d'un vendeur de rue) échapper à la police/(lit.) fantôme s'en aller/
+赴難 赴难 [fu4 nan4] {fu6 naan6} /aider son pays; se battre pour son pays/
+起上嚟 起上嚟 [qi3 shang4 li2] {hei2 soeng5 lai4 } /(indique le début et la poursuite d'une action)/(indique un mouvement vers le haut)/
+起五更 起五更 [qi3 wu3 jing1] {hei2 ng5 gaang1} /se lever avant l'aube/
+????f 起作用 起作用 [qi3 zuo4 yong4] {hei2 zok3 jung6} /to start working; to kick in/
+起來 起来 [qi3 lai5] {hei2 loi4} /se lever; se mettre debout/
+起勢 起势 [qi3 shi4] {hei2 sai3} /continuellement; sans arrêt/de toutes ses forces/
+起勢噉 起势啖 [qi3 shi4 dan4] {hei2 sai3 gam2} /continuellement; sans arrêt/de toutes ses forces/
+起嚟 起嚟 [qi3 li2] {hei2 lai4} /(indique le début et la poursuite d'une action)/(indique un mouvement vers le haut)/
 起字容 起字容 [qi3 zi4 rong2] {hei2 zi6 jung4} /to reveal something about someone (usually big secrets); to dig up some information about someone; to get to the bottom of something/
-起尾注 起尾注 [qi3 wei3 zhu4] {hei2 mei5 zyu3} /to set a trap and await the right opportunity to strip someone of all they have in one go; to enjoy the fruits of somebody else's labour/
-起屋 起屋 [qi3 wu1] {hei2 uk1} /building a house/
+????f 起尾注 起尾注 [qi3 wei3 zhu4] {hei2 mei5 zyu3} /to set a trap and await the right opportunity to strip someone of all they have in one go; to enjoy the fruits of somebody else's labour; to steal what somebody else has done at the last minute/
+起屋 起屋 [qi3 wu1] {hei2 uk1} /construire une maison; bâtir une maison/
 起市 起市 [qi3 shi4] {hei2 si5} /arrogant; high-priced/
 起底 起底 [qi3 di3] {hei2 dai2} /to investigate someone's background and make them public/
-起心 起心 [qi3 xin1] {hei2 sam1} /to have a desire for something or someone/
+起心 起心 [qi3 xin1] {hei2 sam1} /avoir de (mauvaises) intentions/convoiter; désirer (sexuellement)/
 起承轉合 起承转合 [qi3 cheng2 zhuan3 he2] {hei2 sing4 zyun3 hap6} /the four prescribed steps in writing an essay; can also be used as a metaphor to describe a set / standard / fixed / rigid / prescribed way of doing something/
 起更 起更 [qi3 geng1] {hei2 gaang1} /to begin to sound the night watches (in the olden days); the start of the night watch hours/
 起水 起水 [qi3 shui3] {hei2 seoi2} /oestrus sow (slang)/
-起爐 起炉 [qi3 lu2] {hei2 lou4} /to light a fire; to make a fire; to light up; to fire up/
-起牀 起床 [qi3 chuang2] {hei2 cong4} /to get up from bed/
-起病 起病 [qi3 bing4] {hei2 beng6} /the onset of an illness/
-起痰 起痰 [qi3 tan2] {hei2 taam4} /to lust after someone/
-起眼 起眼 [qi3 yan3] {hei2 ngaan5} /(adjective) obvious, eye-catching; noticeable/
-起租 起租 [qi3 zu1] {hei2 zou1} /start of renting period (spoken)/
-起筷 起筷 [qi3 kuai4] {hei2 faai3} /bon appétit (spoken)/
+????c 起爐 起炉 [qi3 lu2] {hei2 lou4} /to light a fire; to make a fire; to light up; to fire up/
+起牀 起床 [qi3 chuang2] {hei2 cong4} /se lever (le matin); sortir de son lit/
+????f 起病 起病 [qi3 bing4] {hei2 beng6} /tomber malade/(litt.) récupérer; se remettre/(vieilli) donner un cadeau pour célébrer son rétablissement après une maladie/
+起痰 起痰 [qi3 tan2] {hei2 taam4} /avoir du mucus dans la gorge/(fig.) désirer (quelqu'un sexuellement)/
+起眼 起眼 [qi3 yan3] {hei2 ngaan5} /tapageur; criard; accrocheur/
+起租 起租 [qi3 zu1] {hei2 zou1} /augmenter le loyer/début de la location/
+起筷 起筷 [qi3 kuai4] {hei2 faai3} /bon appétit/
 起腱 起腱 [qi3 jian4] {hei2 zin2} /with strong tendons; be sinewy/
 起腳 起脚 [qi3 jiao3] {hei2 goek3} /(literally: to lift one's foot); to set off; to start a journey; to kick (someone)/
-起膊 起膊 [qi3 bo2] {hei2 bok3} /to hoist something over one's shoulder/
-起𦢊 起𦢊 [Qi3 bao2] {hei2 pok1} /blister/
+起膊 起膊 [qi3 bo2] {hei2 bok3} /porter sur les épaules/
+起𦢊 起𦢊 [Qi3 bao2] {hei2 pok1} /cloquer/
 起色 起色 [qi3 se4] {hei2 sik1} /improvement; look better/
 起菜 起菜 [qi3 cai4] {hei2 coi3} /to start serving dishes (in a Chinese-style restaurant)/
 起行 起行 [qi3 xing2] {hei2 hang4} /let's go (spoken)/
