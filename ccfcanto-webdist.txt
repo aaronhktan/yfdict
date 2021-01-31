@@ -9148,6 +9148,7 @@
 排頭位 排头位 [pai2 tou2 wei4] {paai4 tau4 wai2} /être le premier dans la queue/
 排骨仔 排骨仔 [pai2 gu3 zi3] {paai4 gwat1 zai2} /(péj.) homme maigrichon/(lit.) petites côtes (nourriture)/
 排骨精 排骨精 [pai2 gu3 jing1] {paai4 gwat1 zing1} /(péj.) homme maigrichon, femme maigrichonne/
+????f 排队取号 排队取号 [pai2 dui4 qu3 hao4] {paai4 deoi2 ceoi2 hou6} /(expr.) prenez un ticket et faites la queue/
 ???? 掕 掕 [ling2] {ling4} /bags; stuff/
 掗位 挜位 [ya3 wei4] {ngaa6 wai2} /prendre trop de place, être encombrant/
 掗埞 挜埞 [ya3 di1] {ngaa6 deng6} /prendre trop de place, être encombrant/
@@ -17448,12 +17449,12 @@
 蝦球 虾球 [xia1 qiu2] {haa1 kau4} /boulette de crevette/
 蝦瘌 虾瘌 [xia1 la4] {haa1 laat6} /petit crabe/
 ????f 蝦眼水 虾眼水 [xia1 yan3 shui3] {haa1 ngaan5 seoi2} /eau frémissante dont la température s'approche du point d'ébullition/(lit.) eau aux yeux de crevettes/
-蝦碌 虾碌 [xia1 lu4] {haa1 luk1} /commettre une erreur/être négligeant/
+蝦碌 虾碌 [xia1 lu4] {haa1 luk1} /commettre une erreur/être négligent/
 ????f 蝦笱 虾笱 [xia1 gou3] {haa1 gau2} /(fishing basket used to catch the shrimp)/
 蝦腸 虾肠 [xia1 chang2] {haa1 coeng2} /rouleau de nouilles de riz aux crevettes marinées/
 蝦膏 虾膏 [xia1 gao1] {haa1 gou1} /pâte de crevettes/
 蝦蝦霸霸 虾虾霸霸 [xia1 ha2 ba4 ba4] {haa1 haa1 baa3 baa3} /intimider; harceler; maltraiter; malmener; s'en prendre à/
-蝦轆 虾辘 [xia1 lu4] {haa1 luk1} /commettre une erreur/être négligeant/
+蝦轆 虾辘 [xia1 lu4] {haa1 luk1} /commettre une erreur/être négligent/
 蝦霸 虾霸 [ha2 ba4] {haa1 baa3} /intimider; harceler; maltraiter; malmener; s'en prendre à/
 蝨乸 虱乸 [shi1 na2] {sat1 naa2} /(insecte) pou/
 蝨乸擔枷 虱乸担枷 [shi1 na2 dan1 jia1] {sat1 naa2 daam1 gaa1} /(expr. idiom.) être sévèrement puni/(lit.) pou mis au pilori/
@@ -18158,7 +18159,7 @@
 ????f 請飲 请饮 [qing3 yin3] {ceng2 jam2} /inviter quelqu'un à un banquet de mariage/inviter quelqu'un à un banquet formel/(lit.) inviter (quelqu'un) à boire/
 請飲咖啡 请饮咖啡 [qing3 yin3 ka1 fei1] {ceng2 jam2 gaa3 fe1} /inviter (quelqu'un) pour un café/se faire interroger par l'ICAC (commission indépendante anticorruption de Hong Kong)/
 ????f 論功行賞 论功行赏 [lun4 gong1 xing2 shang3] {leon6 gung1 hang4 soeng2} /récompenser selon son niveau de contribution/
-論盡 论尽 [lun4 jin4] {leon6 zeon6} /maladroit/négligeant/avoir la tête en l'air/avoir des ennuis/
+論盡 论尽 [lun4 jin4] {leon6 zeon6} /maladroit/négligent/avoir la tête en l'air/avoir des ennuis/
 論著 论著 [lun4 zhu4] {leon6 zyu3} /traité; écrit académique; livre/
 論處 论处 [lun4 chu3] {leon6 cyu2} /punir; châtier/
 論論盡盡 论论尽尽 [lun4 lun4 jin4 jin4] {leon6 leon6 zeon6 zeon6} /très maladroit/
@@ -19122,35 +19123,36 @@
 輕佻 轻佻 [qing1 tiao1] {hing1 tiu4} /frivole; désinvolte; cavalier; sans gêne/
 輕寥寥 轻寥寥 [qing1 liao2 liao2] {heng1 liu1 liu1} /très léger/
 輕微 轻微 [qing1wei1] {hing1 mei4} /mineur; insignifiant/peu/
-輕心 轻心 [qing1 xin1] {hing1 sam1} /heedlessness/
+輕心 轻心 [qing1 xin1] {hing1 sam1} /négligent/
 ????c 輕枷重罪 轻枷重罪 [qing1 jia1 zhong4 zui4] {hing1 gaa1 cung5 zeoi6} /someone has done something terrible and created a serious consequence, however, this person is not properly being justified; to be let off lightly for a serious crime/
 輕歌劇 轻歌剧 [qing1 ge1 ju4] {hing1 go1 kek6} /opérette/
-輕視 轻视 [qing1 shi4] {hing1 si6} /(verb)  To look down /
-輕秤 轻秤 [qing1 cheng4] {heng1 cing3} /low density/
-輕裝上陣 轻装上阵 [qing1 zhuang1 shang4 zhen4] {hing1 zong1 soeng5 zan6} /go into battle with a light pack; to move forward with one's burdens discarded/
-輕言 轻言 [qing1 yan2] {hing1 jin4} /(give up) easily; to say something lightly; to say something casually/
-輕諾寡信 轻诺寡信 [qing1 nuo4 gua3 xin4] {hing1 nok6 gwaa2 seon3} /those who make promises easily seldoms keep them/
-輕身 轻身 [qing1 shen1] {hing1 san1} /light-weighted/
-輕鐵 轻铁 [qing1 tie3] {hing1 tit3} /Light Rail (specifically the MTR Light Rail / LRT)/
-輕飄 轻飘 [qing1 piao1] {heng1 piu1} /feeling light, relaxed; light; frivolous; buoyant/
-輜重 辎重 [zi1 zhong4] {zi1 cung5} /impedimenta; the baggage and equipment carried by an army/
-輩份 辈份 [bei4 fen5] {bui3 fan6} /seniority/
-輪 轮 [lun2] {leon4} /(verb) 1. to line up; 2. to get in (a line)/
-輪住嚟 轮住嚟 [lun2 zhu4 li2] {leon4 zyu6 lai4} /to take turns/
-輪呔 轮呔 [lun2 dai1] {leon4 taai1} /car tyre/
-輪大米 轮大米 [lun2 da4 mi3] {leon4 daai6 mai5} /gang rape/
-輪廓 轮廓 [lun2kuo4] {leon4 kwok3} /(noun) Face outline/
-輪更 轮更 [lun2 geng1] {leon4 gaang1} /to take shift/
-輪流 轮流 [lun2 liu2] {leon4 lau4} /to rotate between people/
-輪籌 轮筹 [lun2 chou2] {leon4 cau4} /to line up for a queue ticket/
-輪軚 轮軚 [lun2 dai4] {leon4 taai1} /car tyre/
-輸到貼地 输到贴地 [shu1 dao4 tie1 di4] {syu1 dou3 tip3 dei2} /to suffer a devastating defeat; to suffer a terrible lost/
-輸氧 输氧 [shu1 yang3] {syu1 joeng5} /oxygen therapy/
+輕視 轻视 [qing1 shi4] {hing1 si6} /regarder de haut; mépriser/
+輕秤 轻秤 [qing1 cheng4] {heng1 cing3} /léger; pas lourd/à faible densité/
+????c 輕裝上陣 轻装上阵 [qing1 zhuang1 shang4 zhen4] {hing1 zong1 soeng5 zan6} /go into battle with a light pack; to move forward with one's burdens discarded/
+輕言 轻言 [qing1 yan2] {hing1 jin4} /(fig.) abandonner facilement/(fig.) parler sans réfléchir/(lit.) paroles légères/
+輕諾寡信 轻诺寡信 [qing1 nuo4 gua3 xin4] {hing1 nok6 gwaa2 seon3} /(expr.) faire des promesses à la légère; faire des promesses et ne pas les tenir/
+????f 輕身 轻身 [qing1 shen1] {hing1 san1} /léger; pas lourd/voyager léger/(litt.) sans respect pour sa dignité/
+輕鐵 轻铁 [qing1 tie3] {hing1 tit3} /métro léger/(en particulier) le Métro léger de Hong Kong/
+輕軌 轻轨 [qing1 gui3] {hing1 gwai2} /métro léger/
+輕飄 轻飘 [qing1 piao1] {heng1 piu1} /frivole; désinvolte; négligent/léger; flottant/
+輜重 辎重 [zi1 zhong4] {zi1 cung5} /fourniture militaire; matériel militaire/
+????f 輩份 辈份 [bei4 fen5] {bui3 fan6} /seniority; position in family hierarchy/
+輪 轮 [lun2] {leon4} /roue/faire la queue/se relayer/
+輪住嚟 轮住嚟 [lun2 zhu4 li2] {leon4 zyu6 lai4} /se relayer/un par un/à tour de rôle/
+輪呔 轮呔 [lun2 dai1] {leon4 taai1} /pneu (d'une voiture)/
+????f 輪大米 轮大米 [lun2 da4 mi3] {leon4 daai6 mai5} /(fig.) (vulg.) participer à un viol collectif; participer à un viol en réunion/(lit.) utiliser le grand maïs un par un/
+????f 輪廓 轮廓 [lun2 kuo4] {leon4 kwok3} /facial contour; facial topography (eg. sunken eyes, pointy nose, etc.)/brouillon; ébauche/
+????f 輪更 轮更 [lun2 geng1] {leon4 gaang1} /travailler en équipe; travailler par roulement (work in shifts)/
+輪流 轮流 [lun2 liu2] {leon4 lau4} /se relayer/à tour de rôle/
+????f 輪籌 轮筹 [lun2 chou2] {leon4 cau4} /prendre son ticket et faire la queue; prendre son numéro et faire la queue/
+輪軚 轮軚 [lun2 dai4] {leon4 taai1} /pneu (d'une voiture)/
+????f 輸到貼地 输到贴地 [shu1 dao4 tie1 di4] {syu1 dou3 tip3 dei2} /(expr. idiom.) être anéanti; être abattu; subir une défaite terrible/(lit.) perdre jusqu'à se mettre à terre/
+輸氧 输氧 [shu1 yang3] {syu1 joeng5} /oxygénothérapie/
 輸硬 输硬 [shu1 ying4] {syu1 ngaang6} /sure loss; destined to lose; destined to make a loss; no chance of winning /
 輸蝕 输食 [shu1 shi2] {syu1 sit6} /(verb) to suffer loss; to lose out; to be overtopped by others(unable to compete when compared to others)/
-輸賭 输赌 [shu1 du3] {syu1 dou2} /to make a bet/
-輸錢 输钱 [shu1 qian2] {syu1 cin2} /to lose money/
-輻射熱 辐射热 [fu2 she4 re4] {fuk1 se6 jit6} /radiant heat/
+輸賭 输赌 [shu1 du3] {syu1 dou2} /parier; miser/
+輸錢 输钱 [shu1 qian2] {syu1 cin2} /perdre de l'argent/
+輻射熱 辐射热 [fu2 she4 re4] {fuk1 se6 jit6} /chaleur transmise par rayonnement/
 輻射體 辐射体 [fu2 she4 ti3] {fuk1 se6 tai2} /radiator; radiating body; emitter/
 輿論 舆论 [yu2 lun4] {jyu4 leon6} /public discussion/
 轄下 辖下 [xia2 xia4] {hat6 haa6} /to have jurisdiction over/
