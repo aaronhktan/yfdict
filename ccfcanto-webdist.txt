@@ -19223,18 +19223,19 @@
 巡警 巡警 [xun2 jing3] {ceon4 ging2} /policier de patrouille/
 ????f 迅雷不及掩耳 迅雷不及掩耳 [xun4 lei2 bu4 ji2 yan3 er3] {seon3 leoi4 bat1 kap6 jim2 ji5} /(expr. idiom.) rapide comme l'éclair/(lit.) un éclair rapide ne laisse pas de temps pour couvrir les oreilles/
 迎候 迎候 [ying2 hou4] {jing4 hau6} /accueillir; recevoir; attendre l'arrivé de quelqu'un/
-迎合 迎合 [ying2 he2] {jing4 hap6} /to please sb/
-迎春 迎春 [ying2 chun1] {jing4 ceon1} /welcoming arrival of spring or lunar new year/
+迎合 迎合 [ying2 he2] {jing4 hap6} /flatter (une opinion publique); satisfaire (aux besoins de quelqu'un)/
+迎春 迎春 [ying2 chun1] {jing4 ceon1} /accueillir le printemps/(fleur) jasmin d'hiver/
 ????c 迎賓館 迎宾馆 [ying2 bin1 guan3] {jing4 ban1 gun2} / a guest hotel; a guest house/
 迎迓 迎迓 [ying2 ya4] {jing4 ngaa6} /accueillir; recevoir/
-迎面 迎面 [ying2mian4] {jing4 min6} /From the front/
+迎面 迎面 [ying2mian4] {jing4 min6} /(du vent) souffler au visage/
 近住 近住 [jin4 zhu4] {gan6 zyu6} /près de/
-近因 近因 [jin4 yin1] {gan6 jan1} /a proximate cause/
-近官得力 近官得力 [jin4 guan1 de2 li4] {gan6 gun1 dak1 lik6} /a friend in court makes the process short, meaning if you know someone who is in charge of something, it will make things much eaiser/
-近廚得食 近厨得食 [jin4 chu2 de5 shi2] {gan6 ceoi4 dak1 sik6} /(those who close to the chef get foods); those in a favourable position gain special advantages/
+近因 近因 [jin4 yin1] {gan6 jan1} /cause directe; cause immédiate/
+????f 近官得力 近官得力 [jin4 guan1 de2 li4] {gan6 gun1 dak1 lik6} /(expr. idiom.) knowing somebody on the inside makes things easier/(lit.) a friend in court makes the process short/
+????f 近廚得食 近厨得食 [jin4 chu2 de5 shi2] {gan6 ceoi4 dak1 sik6} /(expr. idiom.) those in a favourable position gain special advantages/(lit.) those close to the chef get the food/
 近排 近排 [jin4 pai2] {gan6 paai4} /récemment; dernièrement/
-近水樓台 近水楼台 [jin4 shui3 lou2 tai2] {gan6 seoi2 lau4 toi4} /terrace and pavilion near the water -- convenient access; to be in a favourable position to be able to gain special advantages/
-近體詩 近体诗 [jin4 ti3 shi1] {gan6 tai2 si1} /"modern style poetry"; regulated verse innovated in classical poetry during the Tang dynasty, with constrained tonal patterns and rhyme schemes/
+近水樓台 近水楼台 [jin4 shui3 lou2 tai2] {gan6 seoi2 lau4 toi4} /(expr. idiom.) dans une position favorable/(lit.) pavillon près de l'eau/
+????f 近水樓臺先得月 近水楼台先得月 [jin4 shui3 lou2 tai2 xian1 de2 yue4] {gan6 seoi2 lau4 toi4 sin1 dak1 jyut6} /(expr. idiom.) dans une position favorable/(lit.) le pavillon près de l'eau est le premier à être illuminé par le clair de lune/
+????f 近體詩 近体诗 [jin4 ti3 shi1] {gan6 tai2 si1} /poème en vers réguliers, forme de poésie apparue durant la dynastie Tang/
 迒 迒 [hang2] {hong4} /traces d'animaux/sentier/
 返來 返来 [fan3 lai2] {faan1 lai4} /retourner; revenir/
 返去 返去 [fan3 qu4] {faan1 heoi3} /retourner; rentrer/
@@ -19248,31 +19249,31 @@
 返生 返生 [fan3 sheng1] {faan1 saang1} /redonner la vie; ranimer; ressusciter/
 返畀 返畀 [fan3 bi4] {faan1 bei2} /(suit un verbe) re-/
 返轉頭 返转头 [fan3 zhuan3 tou2] {faan1 zyun3 tau4} /retourner; revenir en arrière/
-返頭婆 返头婆 [fan3 tou2 po2] {faan1 tau4 po2} /a remarried women/
-返頭嫁 返头嫁 [fan3 tou2 jia4] {faan1 tau4 gaa3} /(of a woman) to remarry/
-迢迢 迢迢 [tiao2 tiao2] {tiu4 tiu4} /remote;far away/
-迪士尼 迪士尼 [Di2shi4ni2] {dik6 si6 nei4} /(noun) (of theme park) Disneyland/
-迫人 迫人 [po4 ren2] {bik1 jan4} /stressful/
-迫力 迫力 [po4 li4] {bik1 lik6, bik6 lik1} /brake/
-迫紐 迫纽 [po4 niu3] {baak1 nau2} /a snap button;a snap fastener; a press stud; a popper/
-迫車 迫车 [po4 che1] {bik1 ce1} /to squeeze oneself into a crowded bus; to suffer in the crowded bus/
-迫鈕 迫钮 [po4 niu3] {baak1 nau2} /a snap button;a snap fastener; a press stud; a popper/
+返頭婆 返头婆 [fan3 tou2 po2] {faan1 tau4 po2} /femme remariée/
+返頭嫁 返头嫁 [fan3 tou2 jia4] {faan1 tau4 gaa3} /(d'une femme) se remarier/
+迢迢 迢迢 [tiao2 tiao2] {tiu4 tiu4} /reculé; lointain; éloigné/
+迪士尼 迪士尼 [Di2shi4ni2] {dik6 si6 nei4} /The Walt Disney Company; Disney/Disneyland/
+迫人 迫人 [po4 ren2] {bik1 jan4} /bondé; plein de monde; plein/
+迫力 迫力 [po4 li4] {bik1 lik6, bik6 lik1} /frein/
+迫紐 迫纽 [po4 niu3] {baak1 nau2} /bouton pression/
+迫車 迫车 [po4 che1] {bik1 ce1} /s'entasser dans un autobus/
+迫鈕 迫钮 [po4 niu3] {baak1 nau2} /bouton pression/
 述職 述职 [shu4 zhi2] {seot6 zik1} /report to senior on one's work or progress/
-述評 述评 [shu4 ping2] {seot6 ping4} /commentary/
-迴旋處 回旋处 [hui2 xuan2 chu3] {wui4 syun4 cyu3} /roundabout/
+述評 述评 [shu4 ping2] {seot6 ping4} /commentaire/passer en revue/
+迴旋處 回旋处 [hui2 xuan2 chu3] {wui4 syun4 cyu3} /carrefour giratoire; rond-point/
 迷 迷 [mi2] {mai4} /(verb) 1. Obsess with (something or someone); (adjective) 1. Perplexed; 2. Mini/
-迷你倉 迷你仓 [mi2 ni3 cang1] {mai4 nei5 cong1} /mini warehouse; mini-storage/
+迷你倉 迷你仓 [mi2 ni3 cang1] {mai4 nei5 cong1} /mini-entrepôt; entreposage libre-service; garde-meuble; self-stockage/
 迷惑 迷惑 [mi2 huo5] {mai4 waak6} /to seduce/
-迷迷懵 迷迷懵 [mi2 mi2 meng3] {mai4 mai4 mung2} /in a daze/
-迷迷懵懵 迷迷懵懵 [mi2 mi2 meng3 meng3] {mai4 mai4 mung2 mung2} /muddled; in a daze; confused; blurred/
+迷迷懵 迷迷懵 [mi2 mi2 meng3] {mai4 mai4 mung2} /étourdi; abasourdi; hébété/
+迷迷懵懵 迷迷懵懵 [mi2 mi2 meng3 meng3] {mai4 mai4 mung2 mung2} /étourdi; abasourdi; hébété/
 迷頭迷腦 迷头迷脑 [mi2 tou2 mi2 nao3] {mai4 tau4 mai4 nou5} /to immerse oneself in doing something and neglect all other things/
-追兵 追兵 [zhui1 bing1] {zeoi1 bing1} /pursuing troops/
-追到瘦 追到瘦 [zhui1 dao4 shou4] {zeoi1 dou3 sau3} /(to chase someone until one becomes thin); to put pressure on someone for something/
-追問 追问 [zhui1 wen4] {zeoi1 man6} /to probe/
-追女仔 追女仔 [zhui1 nü3 zai3] {zeoi1 neoi5 zai2} /dating girls (spoken)/
-追數 追数 [zhui1 shu4] {zeoi1 sou3} /debt collection (spoken)/
-追月 追月 [zhui1 yue4] {zeoi1 jyut6} /literally: chasing the moon; the day after the full moon at mid-autumn festival/
-追溯 追溯 [zhui1su4] {zeoi1 sou3} /(verb) Cast (someone's mind) back /
+????c 追兵 追兵 [zhui1 bing1] {zeoi1 bing1} /pursuing troops/
+追到瘦 追到瘦 [zhui1 dao4 shou4] {zeoi1 dou3 sau3} /(expr. idiom.) mettre la pression (sur quelqu'un)/(lit.) poursuivre jusqu'à perdre du poids/
+追問 追问 [zhui1 wen4] {zeoi1 man6} /interroger; faire un interrogatoire serré/
+???f 追女仔 追女仔 [zhui1 nu:3 zai3] {zeoi1 neoi5 zai2} /draguer des filles; séduire des filles/
+追數 追数 [zhui1 shu4] {zeoi1 sou3} /recouvrer les créances/
+????f 追月 追月 [zhui1 yue4] {zeoi1 jyut6} /literally: chasing the moon; the day after the full moon at mid-autumn festival/
+追溯 追溯 [zhui1 su4] {zeoi1 sou3} /(verb) Cast (someone's mind) back /
 追究 追究 [zhui1 jiu1] {zeoi1 gau3} /to pursue one's responsibility/
 追究責任 追究责任 [zhui1 jiu1 ze2 ren4] {zeoi1 gau3 zaak3 jam6} /to call to account; to investigate and affix the responsibility for; to trace accountability and pursue liability/
 追龍 追龙 [zhui1 long2] {zeoi1 lung4} /to take drugs/
