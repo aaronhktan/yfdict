@@ -19309,7 +19309,7 @@
 ????c 逆次次 逆次次 [ni4 ci4 ci4] {ngaak6 ci3 ci3} /going against one's will; to feel uneasy as a result of not following the intentions of others/
 透 透 [tou4] {tau3} /à travers/transparent; diaphane/allumer un feu/
 透唔到氣 透唔到气 [tou4 n2 dao4 qi4] {tau3 m4 dou3 hei3} /être incapable de respirer; suffoquer; étouffer; asphyxier/
-透啖氣 透啖气 [tou4 dan4 qi4] {tau3 daam6 hei3} /(fig.) faire une pause)/(lit.) respirer une bouchée d'air/
+透啖氣 透啖气 [tou4 dan4 qi4] {tau3 daam6 hei3} /(fig.) faire une pause/(lit.) respirer une bouchée d'air/
 透大氣 透大气 [tou4 da4 qi5] {tau3 daai6 hei3} /grande respiration/
 透心涼 透心凉 [tou4 xin1 liang2] {tau3 sam1 loeng4} /(fig.) se sentir revigoré/
 透明 透明 [tou4 ming2] {tau3 ming4} /transparent; diaphane/
@@ -19373,80 +19373,81 @@
 通風 通风 [tong1 feng1] {tung1 fung1} /ventiler/bien aéré/dénoncer (quelqu'un) à la police; fournir des informations à la police/révéler des informations/
 通風報信 通风报信 [tong1 feng1 bao4 xin4] {tung1 fung1 bou3 seon3} /révéler des informations/fournir des informations/
 通風機 通风机 [tong1 feng1 ji1] {tung1 fung1 gei1} /ventilateur/
-逛 逛 [guang4] {kwaang3} /(verb)  Go/
-逞凶 逞凶 [cheng3 xiong1] {cing2 hung1} /to act violently/
-速成 速成 [su4 cheng2] {cuk1 sing4} /(noun) Quick Input Method/
-速戰 速战 [su4 zhan4] {cuk1 zin3} /do something quickly/
-速滑 速滑 [su4 hua2] {cuk1 waat6} /speed skating/
-速讀 速读 [su4 du2] {cuk1 duk6} /speed reading/
-速速 速速 [su4 su4] {cuk1 cuk1} /be quick/
-造作 造作 [zao4 zuo5] {zou6 zok3} /affected; pretentious/
-造像 造像 [zao4 xiang4] {zou6 zoeng6} /statue/
-造勢 造势 [zao4 shi4] {zou6 sai3} /promoting a function or event; campaigning (for election)/
-造型 造型 [zao4xing2] {zou6 jing4} /(noun) Designed image and style/
-造物 造物 [zao4 wu4] {zou6 mat6} /creation/
-造福 造福 [zao4 fu2] {zou6 fuk1} /(verb)  To bring happiness and bliss for people/
-造紙廠 造纸厂 [zao4 zhi3 chang3] {zou6 zi2 cong2} /a paper mill; a paper-making factory/
-造船業 造船业 [zao4 chuan2 ye4] {zou6 syun4 jip6} /shipbuilding industry/
-造詞 造词 [zao4 ci2] {zou6 ci4} /word creation/
-造謠惑眾 造谣惑众 [zao4 yao2 huo4 zhong4] {zou6 jiu4 waak6 zung3} /to spread rumours to confuse / hoodwink / mislead people/
+逛 逛 [guang4] {gwaang6; kwaang3} /se balader; se promener/
+逞凶 逞凶 [cheng3 xiong1] {cing2 hung1} /commetre un acte de violence/
+????f 速成 速成 [su4 cheng2] {cuk1 sing4} /méthode de saisie de sinogrammes Cangjie simplifié/
+速戰 速战 [su4 zhan4] {cuk1 zin3} /(fig.) agir rapidement/(lit.) bataille rapide/
+速戰速決 速战速决 [su4 zhan4 su4 jue2] {cuk1 zin3 cuk1 kyut3} /(fig.) agir rapidement/(lit.) livrer une bataille rapide afin de forcer une décision/
+速滑 速滑 [su4 hua2] {cuk1 waat6} /(sport) patinage de vitesse/
+速讀 速读 [su4 du2] {cuk1 duk6} /lecture rapide/
+速速 速速 [su4 su4] {cuk1 cuk1} /rapide/rapidement; vite/
+造作 造作 [zao4 zuo5] {zou6 zok3} /(manière) affecté; qui manque de naturel; artificiel; prétentieux/
+????c 造像 造像 [zao4 xiang4] {zou6 zoeng6} /statue/
+造勢 造势 [zao4 shi4] {zou6 sai3} /promouvoir/faire campagne/
+造型 造型 [zao4 xing2] {zou6 jing4} /modèle; moulage; moule/donner forme; modeler; sculpter/
+????f 造物 造物 [zao4 wu4] {zou6 mat6} /créateur de tout/création de l'univers; création du monde/
+造福 造福 [zao4 fu2] {zou6 fuk1} /bénificier; aider; donner profit à quelqu'un/
+造紙廠 造纸厂 [zao4 zhi3 chang3] {zou6 zi2 cong2} /papeterie; usine de papier/
+造船業 造船业 [zao4 chuan2 ye4] {zou6 syun4 jip6} /construction navale/
+造詞 造词 [zao4 ci2] {zou6 ci4} /création d'un mot/
+????f 造謠惑眾 造谣惑众 [zao4 yao2 huo4 zhong4] {zou6 jiu4 waak6 zung3} /(expr.) répandre des rumeurs pour tromper des gens/
 造馬 造马 [zao4 ma3] {zou6 maa5} /rigged / match-fixing; a situation where the result of something (normally sport events which are related to betting) has been fixed by someone else/
-逢嚫 逢嚫 [feng2 chen4] {fung4 can3} /everytime when/
-逢場作興 逢场作兴 [feng2 chang3 zuo2 xing5] {fung4 coeng4 zok3 hing3} /to flirt around; to have a fling (with someone)/
-逢親 逢亲 [feng2 qin1] {fung4 can1} /whenever/
-連中三元 连中三元 [lian2 zhong4 san1 yuan2] {lin4 zung3 saam1 jyun4} /to get a first qualification in imperial examinations at provincial, national and palace level successively/
-連仁 连仁 [lian2 ren2] {lin4 jan4} /linen/
-連埋 连埋 [lian2 mai2] {lin4 maai4} /together with; including/
-連氣 连气 [lian2 qi4] {lin4 hei3} /together; in a sequence (spoken)/
-連消帶打 连消带打 [lian2 xiao1 dai4 da3] {lin4 siu1 daai3 daa2} /to parry and counterattack/
-連貫性 连贯性 [lian2 guan4 xing4] {lin4 gun3 sing3} /consistency; continuity; coherency/
-連贏 连赢 [lian2 ying2] {lin4 jeng4} /to win in a row/
+逢嚫 逢嚫 [feng2 chen4] {fung4 can3} /à chaque fois que; quand/
+????c 逢場作興 逢场作兴 [feng2 chang3 zuo2 xing5] {fung4 coeng4 zok3 hing3} /to flirt around; to have a fling (with someone)/
+逢親 逢亲 [feng2 qin1] {fung4 can1} /à chaque fois que; quand/
+????f 連中三元 连中三元 [lian2 zhong4 san1 yuan2] {lin4 zung3 saam1 jyun4} /se classer premier dans les examinations impériales au niveau provincial, niveau national, et niveau du cour impérial/(fig.) marquer trois buts dans le même match/
+連仁 连仁 [lian2 ren2] {lin4 jan4} /(tissu) lin/
+連埋 连埋 [lian2 mai2] {lin4 maai4} /y compris; dont; même/
+連氣 连气 [lian2 qi4] {lin4 hei3} /l'une après l'autre; successivement/
+????f 連消帶打 连消带打 [lian2 xiao1 dai4 da3] {lin4 siu1 daai3 daa2} /parer puis contre-attaquer/
+連貫性 连贯性 [lian2 guan4 xing4] {lin4 gun3 sing3} /cohérence; continuité; cohésion/
+????f 連贏 连赢 [lian2 ying2] {lin4 jeng4} /gagner plusieurs fois en succession/
 ????f 連身裙 连身裙 [lian2 shen1 qun2] {lin4 san1 kwan4} /a one piece dress/
 ????f 連衫裙 连衫裙 [lian2 shan1 qun2] {lin4 saam1 kwan4} /one-piece dress/
-週到 週到 [zhou1 dao4] {zau1 dou3} /thoughtful; attentive; considerate/
-週年紀念 週年纪念 [zhou1 nian2 ji4 nian4] {zau1 nin4 gei3 nim6} /anniversary/
-週時 周时 [zhou1 shi2] {zau1 si4} /often/
-週時 周记 [zhou1 ji4] {zau1 si4} /often/
-週記 周记 [zhou1 ji4] {zau1 gei3} /weekly journal;weekly report/
-進 进 [jin4] {zeon3} /(verb)  Get in or into; (adjective) advanced/
-進修班 进修班 [jin4 xiu1 ban1] {zeon3 sau1 baan1} / class for advanced studies/
-進入 进入 [jin4 ru4] {zeon3 jap6} /(phrasal verb)  Get in /
-進化 进化 [jin4 hua4] {zeon3 faa3} /to evolve/
-進取 进取 [jin4 qu3] {zeon3 ceoi2} /(verb)  Take the initiative/
-進口稅 进口税 [jin4 kou3 shui4] {zeon3 hau2 seoi3} /import tax/
-進口貨 进口货 [jin4 kou3 huo4] {zeon3 hau2 fo3} /imported goods/
-逼使 逼使 [bi1 shi3] {bik1 sai2} /to force (something) on someone; to obtrude; to coerce; to compel13/
-逼力 逼力 [bi1 li4] {bik1 lik6} /brake/
-逼巴士 逼巴士 [bi1 ba1 shi4] {bik1 baa1 si6} /to squeeze oneself into a croweded bus; to suffer in the crowded bus/
-逼狹 逼狭 [bi1 xia2] {bik1 gip6} /cramped/
-逾期 逾期 [yu2qi1] {jyu6 kei4} /(verb) (of application) 1. Late (Lodgement etc.); 2. To go over a time limit/
-遇 遇 [yu4] {jyu6} /(verb)  To bump into (a friend or someone)/
-遇上 遇上 [yu4 shang4] {jyu6 soeng5} /to come across; to meet; to encounter; to rub up against/
+週到 週到 [zhou1 dao4] {zau1 dou3} /aimable; attentioné; prévenant/
+週年紀念 週年纪念 [zhou1 nian2 ji4 nian4] {zau1 nin4 gei3 nim6} /anniversaire d'un évènement/
+週時 周时 [zhou1 shi2] {zau1 si4} /souvent; fréquemment/
+????f 週記 周记 [zhou1 ji4] {zau1 si4} /(travail scolaire) journal intime hebdomadaire/
+周記 周记 [zhou1 ji4] {zau1 gei3} /(travail scolaire) journal intime hebdomadaire/
+進 进 [jin4] {zeon3} /entrer/avancer; progresser/avancé/
+進修班 进修班 [jin4 xiu1 ban1] {zeon3 sau1 baan1} /classe avancée; cours avancée/
+進入 进入 [jin4 ru4] {zeon3 jap6} /entrer/
+進化 进化 [jin4 hua4] {zeon3 faa3} /évolution/évoluer/
+進取 进取 [jin4 qu3] {zeon3 ceoi2} /prendre l'initiative; aller de l'avant/
+進口稅 进口税 [jin4 kou3 shui4] {zeon3 hau2 seoi3} /taxe à l'importation/
+進口貨 进口货 [jin4 kou3 huo4] {zeon3 hau2 fo3} /marchandises importées/
+逼使 逼使 [bi1 shi3] {bik1 sai2} /forcer; obliger; contraindre/
+逼力 逼力 [bi1 li4] {bik1 lik6} /frein/
+逼巴士 逼巴士 [bi1 ba1 shi4] {bik1 baa1 si6} /s'entasser dans un autobus/
+逼狹 逼狭 [bi1 xia2] {bik1 gip6} /serré; exigu/
+????f 逾期 逾期 [yu2 qi1] {jyu6 kei4} /en retard/(livres) non rendu/(facture) non payé/dépasser la date limite/
+遇 遇 [yu4] {jyu6} /tomber sur (quelqu'un); rencontrer (quelqu'un) par hasard; croiser/
+遇上 遇上 [yu4 shang4] {jyu6 soeng5} /tomber sur (quelqu'un); rencontrer (quelqu'un) par hasard; croiser/
 遇人不淑 遇人不淑 [yu4 ren2 bu4 shu1] {jyu6 jan4 bat1 suk6} /to be married to a bad husband; to encounter indecent people/
-遇到 遇到 [yu4dao4] {jyu6 dou3} /(verb) Bump into (someone) /
-遇啱 遇啱 [yu4 yan1] {jyu6 ngaam1} /by chance;happen to; by concidence; as it happens; as luck would have it/
-遇救 遇救 [yu4 jiu4] {jyu6 gau3} /to be rescued; to be saved/
-遇溺 遇溺 [yu4 ni4] {jyu6 nik6} /to drown/
-遇難 遇难 [yu4 nan4] {jyu6 naan6} /ill-fated; dead/
-遊埠 游埠 [you2 bu4] {jau4 fau6} /(noun) to go travelling (for leisure); to go sightseeing overseas/
-遊憩 游憩 [you2 qi4] {jau4 hei3} /to stroll about or have a rest; to relax and play/
-遊河 游河 [you2 he2] {jau4 ho4} /to cruise (on a river)/
-遊船 游船 [you2 chuan2] {jau4 syun4} /a pleasure boat;boat cruise/
-遊船河 游船河 [you2 chuan2 he2] {jau4 syun4 ho2} /to cruise/
-遊艇會 游艇会 [you2 ting3 hui4] {jau4 teng5 wui2} / a yacht club/
-遊車河 游车河 [you2 che1 he2] {jau4 ce1 ho2} /(noun) (of enjoyment) to go for a car ride; to go for a drive; to go for a spin/
-運動場 运动场 [yun4dong4chang3] {wan6 dung6 coeng4} /(noun) Stadium/
-運動會 运动会 [yun4dong4hui4 ] {wan6 dung6 wui2} /(noun) (of school activity) 1. Game; 2. Sport day /
-運動褲 运动裤 [yun4 dong4 ku4] {wan6 dung6 fu3} /sport pants; joggers/
-運滯 运滞 [yun4 zhi4] {wan6 zai6} /poor or bad luck/
-運用 运用 [yun4yong4] {wan6 jung6} /(verb) 1. Utilize; 2. Exert /
-運行 运行 [yun4xing2] {wan6 hang4} /(noun) (of electronic gadget) Working /
-運輸 运输 [yun4 shu1] {wan6 syu1} /shipment/
-運輸及房屋局 运输及房屋局 [yun4 shu1 ji2 fang2 wu1 ju2] {wan6 syu1 kap6 fong4 uk1 guk6} /Transport and Housing Bureau/
-運輸業 运输业 [yun4 shu1 ye4] {wan6 syu1 jip6} /the transportation industry/
-運輸機 运输机 [yun4 shu1 ji1] {wan6 syu1 gei1} /conveyor/
-運轉 运转 [yun4zhuan3] {wan6 zyun2} /(verb) Change luck/
-遍 遍 [bian4] {pin3} /(noun) (of measuring character)  Time (e.g. one time, two time)  /
+遇到 遇到 [yu4 dao4] {jyu6 dou3} /tomber sur (quelqu'un); rencontrer (quelqu'un) par hasard; croiser/rencontrer; tomber sur; trouver/
+遇啱 遇啱 [yu4 yan1] {jyu6 ngaam1} /par chance; par hasard; la chance a voulu que/
+遇救 遇救 [yu4 jiu4] {jyu6 gau3} /être secouru; être sauvé/
+遇溺 遇溺 [yu4 ni4] {jyu6 nik6} /noyer/
+遇難 遇难 [yu4 nan4] {jyu6 naan6} /trouver la mort; périr/être tué/
+遊埠 游埠 [you2 bu4] {jau4 fau6} /voyager à l'étranger/
+????f 遊憩 游憩 [you2 qi4] {jau4 hei3} /faire une pause/
+????f 遊河 游河 [you2 he2] {jau4 ho4} /faire une croisière sur une rivière/
+遊船 游船 [you2 chuan2] {jau4 syun4} /bateau de plaisance/
+????f 遊船河 游船河 [you2 chuan2 he2] {jau4 syun4 ho2} /faire du bateau pour le plaisir/
+遊艇會 游艇会 [you2 ting3 hui4] {jau4 teng5 wui2} /club nautique/
+遊車河 游车河 [you2 che1 he2] {jau4 ce1 ho2} /faire une balade en voiture; faire un tour en voiture/
+運動場 运动场 [yun4 dong4 chang3] {wan6 dung6 coeng4} /terrain de sport/stade/
+運動會 运动会 [yun4 dong4 hui4] {wan6 dung6 wui2} /compétition sportive; rencontre sportive/
+運動褲 运动裤 [yun4 dong4 ku4] {wan6 dung6 fu3} /jogging; survêtement de sport/
+運滯 运滞 [yun4 zhi4] {wan6 zai6} /avoir de la malchance/
+運用 运用 [yun4 yong4] {wan6 jung6} /appliquer; utiliser; se servir de/
+運行 运行 [yun4 xing2] {wan6 hang4} /être en mouvement/fonctionner; marcher/
+運輸 运输 [yun4 shu1] {wan6 syu1} /transporter/transport/
+運輸及房屋局 运输及房屋局 [yun4 shu1 ji2 fang2 wu1 ju2] {wan6 syu1 kap6 fong4 uk1 guk6} /Transport and Housing Bureau de Hong Kong/
+運輸業 运输业 [yun4 shu1 ye4] {wan6 syu1 jip6} /industrie des transports/
+運輸機 运输机 [yun4 shu1 ji1] {wan6 syu1 gei1} /avion de transport/(industrie minière) convoyeur/
+運轉 运转 [yun4 zhuan3] {wan6 zyun2} /tourner autour/fonctionner; marcher/renversement de situation/
+遍 遍 [bian4] {pin3} /fois (ex. une fois, deux fois, etc.)/partout/
 遍佈 遍布 [bian4 bu4] {pin3 bou3} /widespread; distributed all over; everywhere/
 過 过 [guo4] {gwo3} /(noun) 1. fault; 2. mistake/
 過主 过主 [guo4 zhu3] {gwo3 zyu2} /piss off/
