@@ -19473,31 +19473,32 @@
 過意唔去 过意唔去 [guo4 yi4 n2 qu4] {gwo3 ji3 m4 heoi3} /regretter; s'en vouloir/
 ????c 過態 过态 [guo4 tai4] {gwo3 taai3} /autoritaire; dominateur/excessif/
 過慮 过虑 [guo4 lü4] {gwo3 leoi6} /s'inquiéter trop/
-過手 过手 [guo4 shou3] {gwo3 sau2} /passing of money from one to another (slang)/
-過數 过数 [guo4 shu4] {gwo3 sou3} /to transfer money from a bank account/
-過樹榕 过树榕 [guo4 shu4 rong2] {gwo3 syu6 jung4} /Chinese ratsnake/
-過橋 过桥 [guo4 qiao2] {gwo3 kiu4} /to avoid trouble and responsibility (spoken)/
-過橋抽板 过桥抽板 [guo4 qiao2 chou1 ban3] {gwo3 kiu4 cau1 baan2} /describes a situation where a person doesn't reciprocate the help of others and is ungrateful to those who helped him/her/
-過檔 过档 [guo4 dang4] {gwo3 dong3} /to switch job; change allegiance/
-過氣 过气 [guo4 qi4] {gwo3 hei3} /1. obsolete 2. out of season/
-過氣老倌 过气老倌 [guo4 qi4 lao3 guan1] {gwo3 hei3 lou5 gun1} /once-famous celebrity; one who lost power and authority (slang)/
-過水 过水 [guo4 shui3] {gwo3 seoi2} /(verb) give money; to bribe; to transfer money; to run something under cold water (such as rinsing hot noodles with cold water to rid the excess starch); terminology used in a majong game;  /
-過水濕腳 过水湿脚 [guo4 shui3 shi1 jiao3] {gwo3 seoi2 sap1 goek3} /embezzlement; stealing while handling others' money (slang)/
-過江龍 过江龙 [guo4 jiang1 long2] {gwo3 gong1 lung4} /a booster cable; a jumper cable; someone or something from outside which has a profound effect on local affairs/
-過河卒 过河卒 [guo4 he2 zu2] {gwo3 ho4 zeot1} /(advanced pawn) terminology used in Chinese chess, meaning no retreat, no way back; a catspaw/
-過河濕腳 过河濕脚 [guo4 he2 chi4 jiao3] {gwo3 ho4 sap1 goek3} /(literally: to cross a river and get one's legs wet); to take a commission (from a deal or transaction)/
-過海 过海 [guo4 hai3] {gwo3 hoi2} /cross Victoria Harbour/ go to cities nearby Hong Kong, especially Macau/
-過渡 过渡 [guo4 du4] {gwo3 dou6} /to transit/
+????c 過手 过手 [guo4 shou3] {gwo3 sau2} /passing of money from one to another (slang)/
+過數 过数 [guo4 shu4] {gwo3 sou3} /transférer de l'argent/
+過樹榕 过树榕 [guo4 shu4 rong2] {gwo3 syu6 jung4} /(espèce de serpents) Ptyas korros/
+過橋 过桥 [guo4 qiao2] {gwo3 kiu4} /traverser un pont/
+過橋 过桥 [guo4 qiao2] {gwo3 kiu2} /(fig.) exploiter quelqu'un; escroquer quelqu'un/(fig.) tromper quelqu'un; duper quelqu'un/
+????f 過橋抽板 过桥抽板 [guo4 qiao2 chou1 ban3] {gwo3 kiu4 cau1 baan2} /(expr. idiom.) abandonner ses amis quand l'on a plus besoin d'eux ou ils ne sont plus utiles/(expr. idiom.) être ingrat envers quelqu'un qui l'a aidé; cracher dans la soupe; mordre la main nourricière/(lit.) retirer la planche après avoir traversé le pont/
+過檔 过档 [guo4 dang4] {gwo3 dong3} /changer d'emploi/
+過氣 过气 [guo4 qi4] {gwo3 hei3} /démodé; vieillot; ringard/
+????f 過氣老倌 过气老倌 [guo4 qi4 lao3 guan1] {gwo3 hei3 lou5 gun1} /(célébrité) ringard; dépassé; démodé; fini/
+????f 過水 过水 [guo4 shui3] {gwo3 seoi2} /(fig.) soudouyer; acheter/(fig.) transférer de l'argent; payer/(technique de cuisson) rincer un aliment cuit (habituellement des nouilles) sous l'eau froide avant de le cuire une deuxième fois/(fig.) (mah-jong) abandonner la possibilité de compléter une main/(lit.) rincer sous l'eau/
+過水濕腳 过水湿脚 [guo4 shui3 shi1 jiao3] {gwo3 seoi2 sap1 goek3} /(fig.) malverser; détourner; dilapider/(lit.) se mouiller les pieds en traversant dans de l'eau/
+過江龍 过江龙 [guo4 jiang1 long2] {gwo3 gong1 lung4} /(fig.) câble de démarrage; câbles d'appoint; câbles volants/(fig.) étranger qui a un grand impact sur les affaires locales/(lit.) dragon qui traverse l'eau/
+過河卒 过河卒 [guo4 he2 zu2] {gwo3 ho4 zeot1} /(xiangqi) pion qui peut avancer mais ne peut pas reculer/(lit.) pion qui a franchi la rivière (et donc ne peut plus reculer)/
+過河濕腳 过河濕脚 [guo4 he2 chi4 jiao3] {gwo3 ho4 sap1 goek3} /(fig.) malverser; détourner; dilapider/(lit.) se mouiller les pieds en traversant l'eau/
+過海 过海 [guo4 hai3] {gwo3 hoi2} /(fig.) aller à Macao (de Hong Kong)/(lit.) traverser la mer/
+過渡 过渡 [guo4 du4] {gwo3 dou6} /transitionnel/intérimaire/
 過界 过界 [guo4 jie4] {gwo3 gaai3} /hors limite/
-過禮 过礼 [guo4 li3] {gwo3 lai5} /a custom where the bridegroom's family presents gifts to the bride's family before marriage/
+????f 過禮 过礼 [guo4 li3] {gwo3 lai5} /donner un dot; apporter des biens à la famille de la mariée/
 過籠 过笼 [guo4 long2] {gwo3 lung4} /trop/
-過繼 过继 [guo4 ji4] {gwo3 gai3} /to adopt a child of a sibling or a cousin / relative; to let one's child be adopted by a sibling or a cousin / relative/
+過繼 过继 [guo4 ji4] {gwo3 gai3} /adopter un enfant de son frère, sœur, cousin ou cousine/donner son enfant en adoption à un frère, sœur, cousin ou cousine/
 過膠 过膠 [guo4 hao2] {gwo3 gaau1} /plastifier (un document)/
-過街老鼠 过街老鼠 [guo4 jie1 lao3 shu3] {gwo3 gaai1 lou5 syu2} /a phrase to describe a malevolent person who is spurned by everyone/
-過費 过费 [guo4 fei5] {gwo3 fai3} /undue expense/
-過路 过路 [guo4 lu4] {gwo3 lou6} /to pass by (one's way); to cross a street/
+過街老鼠 过街老鼠 [guo4 jie1 lao3 shu3] {gwo3 gaai1 lou5 syu2} /(expr. idiom.) crapule; canaille; personne haïe de tous/(lit.) rat qui traverse la rue/
+過費 过费 [guo4 fei5] {gwo3 fai3} /gaspiller de l'argent; dépenser trop d'argent/
+過路 过路 [guo4 lu4] {gwo3 lou6} /passer par; passer dans le coin/traverser la rue/
 過身 过身 [guo4 shen1] {gwo3 san1} /mourir; décéder/
-過造 过造 [guo4 zao4] {gwo3 zou6} /pass the season (spoken)/
+過造 过造 [guo4 zao4] {gwo3 zou6} /être hors saison/
 過鐘 过钟 [guo4 zhong1] {gwo3 zung1} /exceeding time limit (spoken)/
 過雲雨 过云雨 [guo4 yun2 yu3] {gwo3 wan4 jyu5} /shower (rain)/
 過電 过电 [guo4 dian4] {gwo3 din6} /Electrical Over Stress; to have chemistry with each other; to be instantly attracted to someone/
