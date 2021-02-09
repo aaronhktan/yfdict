@@ -19673,33 +19673,34 @@
 酒渣 酒渣 [jiu3 zha1] {zau2 zaa1} /lees of alcoholic drinks/
 酒牌 酒牌 [jiu3 pai2] {zau2 paai4} /liquor licence/
 酒米 酒米 [jiu3 mi3] {zau2 mai5} /bouton; acné/
-酒舖 酒舖 [jiu3 pu4] {zau2 pou2} /a store selling alcoholic drinks/
-酒逢知己千杯少 酒逢知己千杯少 [jiu3 feng2 zhi1 ji3 qian1 bei1 shao3] {zau2 fung4 zi1 gei2 cin1 bui1 siu2} /A thousand cups of wine are not too many when drinking with close friends/
-酒醉三分醒 酒醉三分醒 [jiu3 zui4 san1 fen1 xing3] {zau2 zeoi3 saam1 fan1 sing2} /used to assert that someone who is drunk is still responsible or accountable for his/her actions/
-酒餅 酒饼 [jiu3 bing3] {zau2 beng2} /distiller's yeast; yeast used in alcoholic fermentation/
-酒鬼 酒鬼 [jiu3gui3] {zau2 gwai2} /(noun) 1. Drunky; 2. Alcoholic/
-酗酒 酗酒 [xu4jiu3] {jyu3 zau2} /(noun) Boozing /
-酚醛塑料 酚醛塑料 [fen1 quan2 su4 liao4] {fan1 cyun4 sok3 liu2} /bakelite; phenolic; phenolplast/
-酣夢 酣梦 [han1 meng4] {ham4 mung6} /having a sweet dream; to be in deep sleep/
-酥皮 酥皮 [su1 pi2] {sou1 pei4} /pastry/
-酥胸 酥胸 [su1 xiong1] {sou1 hung1} /  good-looking breast; bosom/
-酬唱 酬唱 [chou2 chang4] {cau4 coeng3} /to respond to each other with a mutual exchange of poems/
-酵素 酵素 [jiao4 su4] {haau1 sou3} /enzymes; ferment/
-酸化 酸化 [suan1 hua4] {syun1 faa3} /acidification;acidare/
-酸味 酸味 [suan1 wei4] {syun1 mei6} /sour; tart flavor; acidity:/
-酸宿 酸宿 [suan1 su4] {syun1 suk1} /sour smell/
-酸宿爛臭 酸宿烂臭 [suan1 su4 lan4 chou4] {syun1 suk1 laan6 cau3} /stinking smell from being drunk (spoken)/
-酸微微 酸微微 [suan1 wei1 wei1] {syun1 mei1 mei1} /1. taste slightly sour 2. jealous/
-酸枝 酸枝 [suan1 zhi1] {syun1 zi1} /a type of hardwood/
-酸梅醬 酸梅酱 [suan1 mei2 jiang4] {syun1 mui4 zoeng3} /plum sauce/
-酸牛奶 酸牛奶 [suan1 niu2 nai3] {syun1 ngau4 naai5} /yoghurt/
-醃菜 腌菜 [yan1 cai4] {jip3 coi3} /pickles/
-醇化 醇化 [chun2 hua4] {seon4 faa3} /alcoholization;alcoholize/
-醉 醉 [zui4] {zeoi3} /drunk/
-醉意 醉意 [zui4 yi4] {zeoi3 ji3} /signs or feeling of getting drunk; tipsy; drunkenness/
-醉拳 醉拳 [zui4 quan2] {zeoi3 kyun4} /(Chinese Kung Fu) drunken fist; the Drunken Master (a film)/
-醉貓 醉猫 [zui4 mao1] {zeoi3 maau1} /drunk (spoken)/
-醉酒佬 醉酒佬 [zui4 jiu3 lao3] {zeoi3 zau2 lou2} /a drunkard/
+酒舖 酒舖 [jiu3 pu4] {zau2 pou2} /magasin qui vend des boissons alcoolisées/
+????f 酒逢知己千杯少 酒逢知己千杯少 [jiu3 feng2 zhi1 ji3 qian1 bei1 shao3] {zau2 fung4 zi1 gei2 cin1 bui1 siu2} /(expr. idiom.) mille coupes de vin ne suffisent pas en buvant entre amis proches/
+????f 酒逢知己千杯少，話不投機半句多 酒逢知己千杯少，话不投机半句多 [jiu3 feng1 zhi1 ji3 qian1 bei1 shao3，hua4 bu4 tou2 ji1 ban4 ju4 duo1] {zau2 fung4 gei2 cin1 bui1 siu2，waa6 bat1 tau4 gei1 bun3 geoi3 do1} /(expr. idiom.) mille coupes de vin ne suffisent pas en buvant entre amis proches, mais une demi-phrase de plus dans une conversation désagréable est excessive/
+????c 酒醉三分醒 酒醉三分醒 [jiu3 zui4 san1 fen1 xing3] {zau2 zeoi3 saam1 fan1 sing2} /(expr. idiom.) même en état d'ivresse l'on est responsable pour ses actions/(lit.) en état d'ivresse on reste 30 % conscient/
+????f 酒餅 酒饼 [jiu3 bing3] {zau2 beng2} /distiller's yeast; yeast used in alcoholic fermentation/
+酒鬼 酒鬼 [jiu3 gui3] {zau2 gwai2} /(fig.) ivrogne/(lit.) fantôme ivre/
+酗酒 酗酒 [xu4jiu3] {jyu3 zau2} /se soûler; se saouler; consommer une quantité excessive d'alcool/
+酚醛塑料 酚醛塑料 [fen1 quan2 su4 liao4] {fan1 cyun4 sok3 liu2} /phénoplaste; résine phénolique; résine phénol-formaldéhyde/
+酣夢 酣梦 [han1 meng4] {ham4 mung6} /doux rêve/dormir tranquille; dormir sur les deux oreilles/
+酥皮 酥皮 [su1 pi2] {sou1 pei2} /pâte feuilletée/
+????f 酥胸 酥胸 [su1 xiong1] {sou1 hung1} /(litt.) soft and white breasts/
+????f 酬唱 酬唱 [chou2 chang4] {cau4 coeng3} /échanger des poèmes/
+酵素 酵素 [jiao4 su4] {haau1 sou3} /enzyme/
+酸化 酸化 [suan1 hua4] {syun1 faa3} /acidifier; aciduler; rendre acide/
+酸味 酸味 [suan1 wei4] {syun1 mei6} /aigreur; acidité; goût aigre/
+酸宿 酸宿 [suan1 su4] {syun1 suk1} /odeur aigre/
+酸宿爛臭 酸宿烂臭 [suan1 su4 lan4 chou4] {syun1 suk1 laan6 cau3} /(expr.) odeur aigre très désagréable/
+酸微微 酸微微 [suan1 wei1 wei1] {syun1 mei1 mei1} /(connotation positive) acidulé; légèrement acide/
+酸枝 酸枝 [suan1 zhi1] {syun1 zi1} /ébène/
+酸梅醬 酸梅酱 [suan1 mei2 jiang4] {syun1 mui4 zoeng3} /sauce aux prunes/
+酸牛奶 酸牛奶 [suan1 niu2 nai3] {syun1 ngau4 naai5} /yaourt; yogourt; yoghourt/
+醃菜 腌菜 [yan1 cai4] {jip3 coi3} /légumes marinés; légumes marinés dans le vinaigre/
+醇化 醇化 [chun2 hua4] {seon4 faa3} /alcooliser/
+醉 醉 [zui4] {zeoi3} /ivre; saoul; soûl/
+醉意 醉意 [zui4 yi4] {zeoi3 ji3} /état voisin de l'ivresse; sentiment d'avoir la tête qui tourne; sentiment d'être éméché/
+醉拳 醉拳 [zui4 quan2] {zeoi3 kyun4} /Le Maître chinois (« Drunken Master » en anglais), film hongkongais/
+醉貓 醉猫 [zui4 mao1] {zeoi3 maau1} /(fig.) ivrogne; personne ivre/(lit.) chat ivre/
+醉酒佬 醉酒佬 [zui4 jiu3 lao3] {zeoi3 zau2 lou2} /ivrogne/
 醋埕 醋埕 [cu4 cheng2] {cou3 cing4} /a vinegar jar; someone who gets jealous easily/
 醋精 醋精 [cu4 jing1] {cou3 zing1} /acetic acid; concentrated vinegar  13/
 醒 醒 [xing3] {sing2} /(adjective) 1. smart; 2. clever; (slang)  give (money, advice, somethings as gift)/
