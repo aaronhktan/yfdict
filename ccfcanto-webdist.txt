@@ -19748,31 +19748,33 @@
 ????c 醮壇 醮坛 [jiao4 tan2] {ziu3 taan4} /altar or mandala of Taoist ritual/
 ????c 釀豆腐 酿豆腐 [niang4 dou4 fu5] {joeng6 dau6 fu6} /Yong Tau Foo (tofu), a Chinese food of stuffed bean curd /
 ????c 采青 采青 [cai3 qing1] {coi2 ceng1} /"plucking the greens", during the lion dance to celebrate Chinese New Year or the opening of new shops, auspicious green vegetable such as a lettuce (due to it sounding similar to "making money") is normally hung on a pole for the lion to eat/
-釉陶 釉陶 [you4 tao2] {jau6 tou4} /glazed pottery/
-釋囚 释囚 [shi4 qiu2] {sik1 cau4} /ex-convicts;ex-prisoner; discharged prisoners; released prisoners/
-重 重 [zhong4] {cung5} /(adverb) 1. also; 2. furthermore; 3. once more (verb) 1. to repeat; 2. to overlap/
-重任 重任 [zhong4ren4] {zung6 jam6} /(noun) Important/significant mission/
-重係 重系 [zhong4 xi4] {zung6 hai6} /still; nevertheless; moreover; what is more; '…as well'/
-重兼 重兼 [zhong4 jian1] {zung6 gim1} /and also; plus; moreover;/
-重刑 重刑 [zhong4 xing2] {cung5 jing4} /severe punishment; heavy penalty/
-重嘢 重嘢 [zhong4 ye3] {cung5 je5} /heavy things/
-重慶大廈 重庆大厦 [chong2 qing4 da4 sha4] {cung4 hing3 daai6 haa6} /Chungking Mansions, a building in Hong Kong,China/
-重手 重手 [chong2 shou3] {cung5 sau2} /too much (spoken)/
-重振 重振 [chong2 zhen4] {cung4 zan3} /revival (revitalization); to revive; to reinvigorate/
-重𢱕𢱕 重𢱕𢱕 [Zhong4 da1 da1] {cung5 dap6 dap6} /very heavy/
-重播 重播 [chong2 bo1] {cung4 bo3} /replay/
-重播節目 重播节目 [chong2 bo1 jie2 mu4] {cung4 bo3 zit3 muk6} /rerun/repeat television program/
-重整 重整 [chong2 zheng3] {cung4 zing2} /reform/
-重新 重新 [chong2 xin1] {cung4 san1} /afresh/
-重有 重有 [zhong4 you3] {zung6 jau5} /still have/
-重未 重未 [zhong4 wei4] {zung6 mei6} /not yet (spoken)/
+釉陶 釉陶 [you4 tao2] {jau6 tou4} /potterie vernissée/
+釋囚 释囚 [shi4 qiu2] {sik1 cau4} /ex-prisonnier; ancien détenu, ancienne détenue/
+重 重 [zhong4] {cung5} /poids/lourd/
+重 重 [chong2] {cung4} /répéter/encore; à nouveau/
+重 重 [zhong4] {zung6} /encore; toujours/encore plus/d'ailleurs; de plus; en outre/
+重任 重任 [zhong4 ren4] {zung6 jam6} /tâche importante/
+重係 重系 [zhong4 xi4] {zung6 hai6} /toujours; encore/d'ailleurs; de plus; en outre/
+重兼 重兼 [zhong4 jian1] {zung6 gim1} /d'ailleurs; de plus; en outre/
+重刑 重刑 [zhong4 xing2] {cung5 jing4} /lourde peine; peine sévère/
+????c 重嘢 重嘢 [zhong4 ye3] {cung5 je5} /heavy things/
+????f 重慶大廈 重庆大厦 [chong2 qing4 da4 sha4] {cung4 hing3 daai6 haa6} /Chungking Mansions, centre commercial de Hong Kong/
+????c 重手 重手 [chong2 shou3] {cung5 sau2} /too much (spoken)/(person who spends too much money?)/
+重振 重振 [chong2 zhen4] {cung4 zan3} /réhabiliter; rétablir/revitaliser/
+重𢱕𢱕 重𢱕𢱕 [zhong4 da1 da1] {cung5 dap6 dap6} /très lourd/
+重播 重播 [chong2 bo1] {cung4 bo3} /rediffusion/
+重播節目 重播节目 [chong2 bo1 jie2 mu4] {cung4 bo3 zit3 muk6} /rediffusion/
+重整 重整 [chong2 zheng3] {cung4 zing2} /réorganiser/réformer/
+重新 重新 [chong2 xin1] {cung4 san1} /à nouveau; encore une fois/
+重有 重有 [zhong4 you3] {zung6 jau5} /en plus; aussi/
+重未 重未 [zhong4 wei4] {zung6 mei6} /pas encore/
 重言 重言 [chong2 yan2] {cung4 jin4} /mot composé de caractères répétés (ex. 姐姐|姐姐, 結結巴巴|结结巴巴)/
-重案組 重案组 [chong2 an4 zu3] {cung5 on3 zou2} /Crime Unit/
-重𣲷𣲷 重𣲷𣲷 [Zhong4 ni4 ni4] {cung5 nap6 nap6} /Heavy-ish/
-重皮 重皮 [chong2 pi2] {cung5 pei2} /expensive; costly/
-重秤 重秤 [zhong4 cheng4] {cung5 cing3} /heavy weighted (spoken)/
-重裝 重装 [chong2 zhuang1] {cung5 zong1} /Reload;reset;reinstall; heavy-load/
-重複 重复 [chong2 fu4] {cung4 fuk1} /(adverb)  again/
+重案組 重案组 [chong2 an4 zu3] {cung5 on3 zou2} /Crime Story, film hongkongais/
+重𣲷𣲷 重𣲷𣲷 [zhong4 ni4 ni4] {cung5 nap6 nap6} /assez lourd/
+重皮 重皮 [chong2 pi2] {cung5 pei2} /coûteux; cher/
+????c 重秤 重秤 [zhong4 cheng4] {cung5 cing3} /lourd/
+重裝 重装 [chong2 zhuang1] {cung5 zong1} /(informatique) réinstaller/
+重複 重复 [chong2 fu4] {cung4 fuk1} /encore; à nouveau/répéter/répétition/
 重要問題 重要问题 [zhong4 yao4 wen4 ti2] {zung6 jiu3 man6 tai4} /important problem; important question; key issue/
 重託 重托 [zhong4 tuo1] {cung5 tok3} /great trust/
 重賞之下，必有勇夫 重赏之下，必有勇夫 [zhong4 shang3 zhi1 xia4 , bi4 you3 yong3 fu1] {cung5 soeng2 zi1 haa6 bit1 jau5 jung5 fu1} /generous rewards rouse one to heroism/
