@@ -19617,7 +19617,7 @@
 郁手 郁手 [yu4 shou3] {juk1 sau2} /tabasser; assaillir; attaquer; agresser/
 郁身郁勢 郁身郁势 [yu4 shen1 yu4 shi4] {juk1 san1 juk1 sai3} /(expr.) remuer; gigoter; ne pas tenir en place/
 ????c 郊菜 郊菜 [jiao1 cai4] {gaau1 coi3} /a generic term for vegetables grown in the suburbs/
-????f 郊野公園 郊野公园 [jiao1 ye3 gong1 yuan2] {gaau1 je5 gung1 jyun2} /(Hong Kong) country park/
+????f 郊野公園 郊野公园 [jiao1 ye3 gong1 yuan2] {gaau1 je5 gung1 jyun2} /(Hong Kong) « country park », parc publique géré par le gouvernement hongkongais/
 部 部 [bu4] {bou6} /partie/région/ministère; département/quartier générale/tribu/(classificateur pour des appareils électroniques)/(classificateur pour les voitures et véhicules)/(classificateur pour des films et livres)/
 部份 部份 [bu4 fen5] {bou6 fan6} /partie; portion/
 郭富城 郭富城 [guo1 fu4 cheng2] {gwok3 fu3 sing4} /Aaron Kwok Fu-shing, chanteur, danseur, acteur hongkongais/
@@ -19798,31 +19798,31 @@
 量 量 [liang4] {loeng4} /mesurer/(outil) de mesure/volume/quantité/teneur; pourcentage/
 量地官 量地官 [liang4 di4 guan1] {loeng4 dei6 gun1} /personne sans emploi; chômeur/
 量天尺 量天尺 [liang2 tian1 chi3] {loeng4 tin1 cek3} /(espèce de fleurs) Hylocereus undatus/
-量度 量度 [liang2 du4] {loeng4 dok6} /to measure/
-釐定 厘定 [li2 ding4] {lei4 ding6} /to collate and stipulate/
-釐戥 厘戥 [li2 deng3] {lei4 dang6} /a small weighing scale (for gold, silver, Chinese medicinal materials, etc.); a type of dragonfly/
-金 金 [jin1] {gam1} /(slang)  faeces; (noun) Chinese surname/
-金不換 金不换 [jin1 bu5 huan4] {gam1 bat1 wun6} /basil/
-金像獎 金象奖 [jin1 xiang4 jiang3] {gam1 zoeng6 zoeng2} /Hong Kong Film Awards (Hong Kong's version of The Oscars)/
-金價 金价 [jin1 jia4] {gam1 gaa3} /price of gold/
-金光 金光 [jin1 guang1] {gam1 gwong1} /golden light / ray/
-金光閃閃 金光闪闪 [jin1 guang1 shan3 shan3] {gam1 gwong1 sim2 sim2} /glittering; shining/
-金剛經 金刚经 [Jin1 gang1 jing1] {gam1 gong1 ging1} /Vajracchedika-sutra; the Diamond Sutra/
-金句 金句 [jin1 ju4] {gam1 geoi3} /favourite quote/
-金吾 金吾 [jin1 wu2] {gam1 ng4} /the dragon in ancient legends that represents treasure; Imperial Guards/
-金咭 金咭 [jin1 ji1] {gam1 kaat1} /gold card (credit card)/
-金唱片 金唱片 [jin1 chang4 pian1] {gam1 coeng3 pin3} /golden disk / record, music recording sales certification/
-金器 金器 [jin1 qi4] {gam1 hei3} /gold object; goldware /
-金城武 金城武 [jin1 cheng2 wu3] {gam1 sing4 mou5} /Takeshi Kaneshiro, a Taiwanese/Japanese actor and singer/
-金埕 金埕 [jin1 cheng2] {gam1 cing4} /a (cinerary) jar/
-金婚 金婚 [jin1 hun1] {gam1 fan1} /golden wedding (50th anniversary)/
-金字招牌 金字招牌 [jin1 zi4 zhao1 pai5] {gam1 zi6 ziu1 paai4} /gold standard;gold brand (well established);gold-lettered signboard;a vainglorious title/
-金山 金山 [Jin1 shan1] {gam1 saan1} /old name for San Francisco/
-金山丁 金山丁 [jin1 shan1 ding1] {gam1 saan1 ding1} /an overseas Chinese person who is rich and easily deceived/
-金山伯 金山伯 [Jin1 shan1 bo2] {gam1 saan1 baak3} /elderly Chinese male who returns to China from America in 1800s til 1900s (slang)/
-金山客 金山客 [jin1 shan1 ke4] {gam1 saan1 haak3} /Chinese who returns to China from America in 1800s til 1900s (slang)/
-金山橙 金山橙 [jin1 shan1 cheng2] {gam1 saan1 caang2} /orange from America; Sunkist orange/
-金山郊野公園 金山郊野公园 [jin1 shan1 jiao1 ye3 gong1 yuan2] {gam1 saan1 gaau1 je5 gung1 jyun4} /Kam Shan Country Park, in Hong Kong, China/
+量度 量度 [liang2 du4] {loeng4 dok6} /mesurer/
+釐定 厘定 [li2 ding4] {lei4 ding6} /élaborer; établir (des règles)/
+????c 釐戥 厘戥 [li2 deng3] {lei4 dang6} /a small weighing scale (for gold, silver, Chinese medicinal materials, etc.); a type of dragonfly/
+金 金 [jin1] {gam1} /or/doré/métal/argent; monnaie/(nom de famille chinois)/(argot) excrément; matière fécale/
+金不換 金不换 [jin1 bu5 huan4] {gam1 bat1 wun6} /(plante) basilic/
+金像獎 金象奖 [jin1 xiang4 jiang3] {gam1 zoeng6 zoeng2} /Hong Kong Film Awards, prix décerné au cinéma hongkongais/
+金價 金价 [jin1 jia4] {gam1 gaa3} /prix de l'or/
+金光 金光 [jin1 guang1] {gam1 gwong1} /rayon doré; lumière dorée/
+金光閃閃 金光闪闪 [jin1 guang1 shan3 shan3] {gam1 gwong1 sim2 sim2} /étincelant/
+金剛經 金刚经 [Jin1 gang1 jing1] {gam1 gong1 ging1} /(bouddhisme mahāyāna) Sūtra du Diamant/
+????c 金句 金句 [jin1 ju4] {gam1 geoi3} /favourite quote/
+????c 金吾 金吾 [jin1 wu2] {gam1 ng4} /the dragon in ancient legends that represents treasure; Imperial Guards/
+金咭 金咭 [jin1 ji1] {gam1 kaat1} /(fig.) black card; carte bancaire noire; carte haut-de-gamme/(lit.) carte d'or/
+????c 金唱片 金唱片 [jin1 chang4 pian1] {gam1 coeng3 pin3} /golden disk / record, music recording sales certification/
+????f 金器 金器 [jin1 qi4] {gam1 hei3} /récipient en or/objet en or/
+金城武 金城武 [jin1 cheng2 wu3] {gam1 sing4 mou5} /Takeshi Kaneshiro, acteur et mannequin japonais/
+金埕 金埕 [jin1 cheng2] {gam1 cing4} /urne funéraire/
+金婚 金婚 [jin1 hun1] {gam1 fan1} /noces d'or; cinquantième anniversaire de mariage/
+金字招牌 金字招牌 [jin1 zi4 zhao1 pai5] {gam1 zi6 ziu1 paai4} /titre vaniteux; titre pompeux/bonne réputation/(lit.) pancarte avec du texte en lettres d'or/
+金山 金山 [Jin1 shan1] {gam1 saan1} /(vieilli) ville de San Francisco/
+金山丁 金山丁 [jin1 shan1 ding1] {gam1 saan1 ding1} /(fig.) Chinois d'outre-mer crédule, facilement trompé/(lit.) homme de San Francisco/
+金山伯 金山伯 [jin1 shan1 bo2] {gam1 saan1 baak3} /(fig.) Chinois qui a vécu aux États-Unis et revient à la Chine/(fig.) homme d'origine chinoise né aux États-Unis/(lit.) oncle de San Francisco/
+金山客 金山客 [jin1 shan1 ke4] {gam1 saan1 haak3} /(fig.) Chinois qui a vécu aux États-Unis et revient à la Chine/(lit.) invité de de San Francisco/
+金山橙 金山橙 [jin1 shan1 cheng2] {gam1 saan1 caang2} /orange californienne/
+金山郊野公園 金山郊野公园 [jin1 shan1 jiao1 ye3 gong1 yuan2] {gam1 saan1 gaau1 je5 gung1 jyun4} /Kam Shan Country Park ou Golden Hill Country Park, parc publique de Hong Kong/
 金山阿伯 金山阿伯 [jin1 shan1 a4 bai3] {gam1 saan1 aa3 baak3} /elderly Chinese male who returns to China from America in 1800s til 1900s (slang)/
 金手指 金手指 [jin1 shou3 zhi3] {gam1 sau2 zi2} /betrayer; backstabber (literally "goldfinger"); a device which allows for cheating in old video game consoles/
 金撈 金捞 [jin1 lao1] {gam1 lou1} /Rolex watch (slang)/
