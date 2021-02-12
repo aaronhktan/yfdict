@@ -19900,28 +19900,29 @@
 鉛筆芯 铅笔芯 [qian1 bi3 xin1] {jyun4 bat1 sam1} /mine de crayon/
 鉛芯 铅芯 [qian1 xin1] {jyun4 sam1} /mine de crayon/
 鉛芯筆 铅芯笔 [qian1 xin1 bi3] {jyun4 sam1 bat1} /portemine; pousse-mine; crayon mécanique; crayon à mine/
-鉤蟲 钩虫 [gou1 chong2] {ngau1 cung4} /hookworm;ancylostoma/
-鉸 铰 [jiao3] {gaau3} /hinge/
-鉸剪 铰剪 [jiao3 jian3] {gaau2 zin2} /scissors/
-銀 银 [yin2] {ngan4} /(noun)  coin; cash/
-銀両 银两 [yin2 liang3] {ngan4 loeng5} /silver used as currency/
-銀主盤 银主盘 [yin2 zhu3 pan2] {ngan4 zyu2 pun4} /foreclosure/
-銀仔 银仔 [yin2 zi3] {ngan2 zai2} /(noun) coin/
-銀包 银包 [yin2 bao1] {ngan4 baau1} /(n.) a purse or wallet./
-銀灰 银灰 [yin2 hui1] {ngan4 fui1} /silvery grey/
-銀礦灣 银矿湾 [yin2 kuang4 wan1] {ngan4 kwong3 waan1} /Silver Mine Bay, a place in Hong Kong, China/
-銀粘 银粘 [yin2 nian2] {ngan4 nim1} /a type of sticky rice/
-銀紙 银纸 [yin2 zhi3] {ngan4 zi2} /(noun) banknote; money/
-銀線灣 银线湾 [yin2 xian4 wan1] {ngan4 sin3 waan1} /Silverstrand Beach, a place in Hong Kong, China/
-銀腳帶 银脚带 [yin2 jiao3 dai4] {ngan4 goek3 daai3} /many-banded krait; Chinese krait (snake)/
-銀芽 银芽 [yin2 ya2] {ngan4 ngaa4} /bean sprouts/
-銀行擔保 银行担保 [yin2 hang2 dan1 bao3] {ngan4 hong4 daam1 bou2} /bank guarantee/
-銀行簿 银行簿 [yin2 hang2 bu4] {ngan4 hong4 bou6} /bankbook;passbook/
-銀雞 银鸡 [yin2 ji1] {ngan4 gai1} /(noun) silver whistle (police)/
-銀鱈魚 银鳕鱼 [yin2 xue3 yu2] {ngan4 syut3 jyu4} /cod fish/
-銅綠 铜绿 [tong2 lü4] {tung4 luk6} /verdigris/
-銅臭 铜臭 [tong2 chou4] {tung4 cau3} /literally: 'to stink of money', used to describe a mercenary person or something where money is the primary concern before everything else/
-銅銀 铜银 [tong2 yin2] {tung4 ngan2} /fake coin/
+鉤蟲 钩虫 [gou1 chong2] {ngau1 cung4} /(ver parasite) ankylostome/
+鉸 铰 [jiao3] {gaau3} /gond; charnière/
+鉸剪 铰剪 [jiao3 jian3] {gaau2 zin2} /ciseaux/
+銀 银 [yin2] {ngan4} /(chimie) argent/argent; monnaie; devise/
+銀 银 [yin2] {ngan2} /argent; monnaie; devise/
+銀両 银两 [yin2 liang3] {ngan4 loeng2} /argent utilisé comme monnaie/
+????c 銀主盤 银主盘 [yin2 zhu3 pan2] {ngan4 zyu2 pun4} /foreclosure/
+銀仔 银仔 [yin2 zi3] {ngan2 zai2} /pièce; pièce de monnaie/
+銀包 银包 [yin2 bao1] {ngan4 baau1} /portefeuille/sac à main/
+銀灰 银灰 [yin2 hui1] {ngan4 fui1} /gris argenté/
+銀礦灣 银矿湾 [yin2 kuang4 wan1] {ngan4 kwong3 waan1} /Silver Mine Bay, plage de Hong Kong/
+????c 銀粘 银粘 [yin2 nian2] {ngan4 nim1} /a type of sticky rice/
+銀紙 银纸 [yin2 zhi3] {ngan4 zi2} /coupure; billet de banque/
+銀線灣 银线湾 [yin2 xian4 wan1] {ngan4 sin3 waan1} /Silverstrand Beach, plage de Hong Kong/
+銀腳帶 银脚带 [yin2 jiao3 dai4] {ngan4 goek3 daai3} /(espèce de serpents) Bungarus multicinctus, Bongare rayé/
+????c 銀芽 银芽 [yin2 ya2] {ngan4 ngaa4} /bean sprouts (stem only?)/(onompatopoeia for explosion?)/(silver ore?)/
+銀行擔保 银行担保 [yin2 hang2 dan1 bao3] {ngan4 hong4 daam1 bou2} /garantie bancaire/
+銀行簿 银行簿 [yin2 hang2 bu4] {ngan4 hong4 bou6} /livret de banque; carnet de banque; livret d'épargne; carnet d'épargne/
+????c 銀雞 银鸡 [yin2 ji1] {ngan4 gai1} /(noun) silver whistle (police)/police siren?/
+銀鱈魚 银鳕鱼 [yin2 xue3 yu2] {ngan4 syut3 jyu4} /(poisson) morue; cabillaud/
+銅綠 铜绿 [tong2 lu:4] {tung4 luk6} /vert-de-gris, produit de corrosion de cuivre/
+????f 銅臭 铜臭 [tong2 chou4] {tung4 cau3} /(fig.) personne qui ne vit que pour l'argent; personne qui pense avant tout à gagner de l'argent/(lit.) puer de cuivre/
+銅銀 铜银 [tong2 yin2] {tung4 ngan2} /fausse monnaie; monnaie contrefaite; pièce contrefaite/
 銅錢 铜钱 [tong2 qian2] {tung4 cin4} /copper coin/
 銅鑼灣 铜锣湾 [Tong2 luo2 Wan1] {tung4 lo4 waan4} /Causeway Bay, a place in Hong Kong, China/
 銜冤 衔冤 [xian2 yuan1] {ham4 jyun1} /to harbour a simmering sense of injustice or being wrongly charged/
