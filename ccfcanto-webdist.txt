@@ -9674,6 +9674,7 @@
 擘梯 掰梯 [bai1 ti1] {maak3 tai1} /échelle transformable, échelle double, échelle composée de deux échelles adossées l'une à l'autre/
 擘網巾 掰网巾 [bai1 wang3 jin1] {maak3 mong5 gan1} /couper les ponts, se séparer, rompre les relations avec quelqu'un/
 擘面 擘面 [bo4 mian4] {maak3 min6} /couper les ponts, se séparer, rompre les relations avec quelqu'un/
+擘開 擘开 [bo4 kai1] {maak3 hoi1} /ouvrir; ouvrir grand/
 擘髀 掰髀 [bai1 bi4] {maak3 bei2} /s'asseoir avec les jambes écartées/
 據 据 [ju4] {geoi3} /preuve, quelque chose qui établit la véracité d'un fait/
 據我所知 据我所知 [ju4 wo3 suo3 zhi1] {geoi3 ngo5 so2 zi1} /d'après ce que je sais, d'après moi, de ce que je connais/
@@ -20149,31 +20150,31 @@
 ????f 閂死 闩死 [shuan1 si3] {saan1 sei2} /bloquer un footballeur de l'autre équipe/
 閂鋪 闩铺 [shuan1 pu4] {saan1 pou3} /(magasin) fermer pour la journée/(magasin, entreprise) faire faillite; mettre la clé sous la porte/
 閂門 闩门 [shuan1 men2] {saan1 mun4} /fermer la porte/(par extension) (magasin) fermer pour la journée/
-閃 闪 [shan3] {sim2} /(verb)  sneak out (of a place); leave/
-閃咭 闪咭 [shan3 ji1] {sim2 kaat1} /a flashcard/
-閃燃 闪燃 [shan3 ran2] {sim2 jin4} /a flashover/
-閃緞 闪缎 [shan3 duan4] {sim2 dyun6} /a type of scintillating silk/
-閃縮 闪缩 [shan3 suo1] {sim2 suk1} /stealthy; furtive/
-閃耀 闪耀 [shan3 yao4] {sim2 jiu6} /(verb) (of star etc.)  Twinkle/
-閃閃令 闪闪令 [shan3 shan3 ling4] {sim2 sim2 ling6} /glittering;shining; sparkling; dazzling/
-閃閃發光 闪闪发光 [shan3 shan3 fa1 guang1] {sim2 sim2 faat3 gwong1} /to sparkle; glittering/
-閃閃縮縮 闪闪缩缩 [shan3 shan3 suo1 suo1] {sim2 sim2 suk1 suk1} /being secretive in doing thing(s); to avoid being seen/
-閃電結婚 闪电结婚 [shan3 dian4 jie2 hun1] {sim2 din6 git3 fan1} /lightning marriage; flash marriage; a hasty marriage; a sudden marriage/
-閉幕 闭幕 [bi4 mu4] {bai3 mok6} /(adjective)  Closing (ceremonies of events)  /
-閉幕典禮 闭幕典礼 [bi4 mu4 dian3 li3] {bai3 mok6 din2 lai5} /closing ceremony/
-閉翳 闭翳 [bi4 yi4] {bai3 ai3} /(slang) distress; (of people) worried; depressed; annoyed/
-開 开 [kai1] {hoi1} /(verb) (of meeting, exhibition or events)  to hold/
-開便 开便 [kai1 bian4] {hoi1 bin6} /the outer side; on the further side/
-開信刀 开信刀 [kai1 xin4 dao1] {hoi1 seon3 dou1} /a letter opener/
-開出 开出 [kai1 chu1] {hoi1 ceot1} /to issue; to offer; (of vehicle) to depart from/
-開刀 开刀 [kai1 dao1] {hoi1 dou1} /(verb)  o undergo a surgery/
-開去 开去 [kai1 qu4] {hoi1 heoi3} /(of vehicle) to head for; to dimiss (someone from their job)/
-開口 开口 [kai1 kou3] {hoi1 hau2} /to request or ask for/
-開口及着脷 开口及着脷 [kai1 kou3 ji2 zhe5 li4] {hoi1 hau2 kap6 zoek6 lei6} /(literally: to open one's mouth and bite one's tongue); to be consistently saying the wrong thing/
-開口埋口 开口埋口 [kai1 kou3 mai2 kou3] {hoi1 hau2 maai4 hau2} /to talk about something always/
-開口夢 开口梦 [kai1 kou3 meng4] {hoi1 hau2 mung6} /to talk aloud whilst dreaming, to sleep talk; to talk nonsense/
-開口夾著脷 开口夹着脷 [kai1 kou3 jia1 zhe5 li4] {hoi1 hau2 gap3 zoek6 lei6} /to say something that is not supposed to be talked about or something that causes embarrassment or that will offend others/
-開口有話 开口有话 [kai1 kou3 you3 hua4] {hoi1 hau2 jau5 waa6} /as the saying goes…../
+閃 闪 [shan3] {sim2} /esquiver/étinceler; briller/s'échapper; partir en douce; partir tranquillement/
+閃咭 闪咭 [shan3 ji1] {sim2 kaat1} /fiche; carte mémoire/
+閃燃 闪燃 [shan3 ran2] {sim2 jin4} /embrasement généralisé éclair; EGE; « flashover »/
+????f 閃緞 闪缎 [shan3 duan4] {sim2 dyun6} /a type of scintillating silk/
+閃縮 闪缩 [shan3 suo1] {sim2 suk1} /furtif; évasif/
+閃耀 闪耀 [shan3 yao4] {sim2 jiu6} /étinceler/
+閃閃令 闪闪令 [shan3 shan3 ling4] {sim2 sim2 ling6} /étincelant/
+閃閃發光 闪闪发光 [shan3 shan3 fa1 guang1] {sim2 sim2 faat3 gwong1} /étinceler/
+閃閃縮縮 闪闪缩缩 [shan3 shan3 suo1 suo1] {sim2 sim2 suk1 suk1} /furtivement; en cachette; évasivement/
+閃電結婚 闪电结婚 [shan3 dian4 jie2 hun1] {sim2 din6 git3 fan1} /(expr.) mariage précipité/(lit.) mariage éclair/
+閉幕 闭幕 [bi4 mu4] {bai3 mok6} /(évènement) clôturer; mettre fin; venir à sa fin/
+閉幕典禮 闭幕典礼 [bi4 mu4 dian3 li3] {bai3 mok6 din2 lai5} /cérémonie de clôture/
+閉翳 闭翳 [bi4 yi4] {bai3 ai3} /triste; mélancolique; abattu; misérable; inquiet; troublé/
+開 开 [kai1] {hoi1} /ouvrir/mettre en marche; allumer/faire bouillir/éclore; fleurir/commencer/fonder/(réunion, évènement) tenir; organiser/tirer (une arme à feu)/autre part; ailleurs/extérieur/(grammaire) (marqueur de l'aspect habituel)/
+開便 开便 [kai1 bian4] {hoi1 bin6} /côté extérieur/
+開信刀 开信刀 [kai1 xin4 dao1] {hoi1 seon3 dou1} /coupe-papier/
+開出 开出 [kai1 chu1] {hoi1 ceot1} /(véhicule) partir de/départ/
+開刀 开刀 [kai1 dao1] {hoi1 dou1} /subir une opération chirurgicale/faire une opération/(fig.) cibler quelqu'un ou un groupe désavantagé/
+開去 开去 [kai1 qu4] {hoi1 heoi3} /(véhicule) aller à; conduire à/congédier quelqu'un; renvoyer quelqu'un/
+開口 开口 [kai1 kou3] {hoi1 hau2} /ouvrir la bouche/se mettre à parler/
+開口及着脷 开口及着脷 [kai1 kou3 ji2 zhe5 li4] {hoi1 hau2 kap6 zoek6 lei6} /(expr. idiom.) gaffer; mettre les pieds dans le plat; parler sans ménagement/
+開口埋口 开口埋口 [kai1 kou3 mai2 kou3] {hoi1 hau2 maai4 hau2} /toujours parler de quelque chose; ne pas arrêter de parler de quelque chose/
+開口夢 开口梦 [kai1 kou3 meng4] {hoi1 hau2 mung6} /parler dans son sommeil; parler en dormant/
+開口夾著脷 开口夹着脷 [kai1 kou3 jia1 zhe5 li4] {hoi1 hau2 gap3 zoek6 lei6} /(expr. idiom.) gaffer; mettre les pieds dans le plat; parler sans ménagement/
+開口有話 开口有话 [kai1 kou3 you3 hua4] {hoi1 hau2 jau5 waa6} /comme dit le proverbe.../
 開口棗 开口枣 [kai1 kou3 zao3] {hoi1 hau2 zou2} /deep fried sesame balls, a type of snack/
 開古 开古 [kai1 gu3] {hoi1 gu2} /reveal the answer for a riddle or puzzle/
 開嚟 开嚟 [kai1 li2] {hoi1 lai2} /open it (spoken)/
@@ -20183,12 +20184,12 @@
 開大 开大 [kai1 da4] {hoi1 daai6} /to open wide; to turn up; to defecate/
 開大價 开大价 [kai1 da4 jia4] {hoi1 daai6 gaa3} /to ask for something very unreasonably expensive, usually money/
 開天索價 开天索价 [kai1 tian1 suo3 jia4] {hoi1 tin1 sok3 gaa3} /quoting at an unbelievable high price (spoken)/
-開天索價，落地還錢 开天索价，落地还钱 [kai1 tian1 suo3 jia4 , lao4 di4 huan2 qian2] {hoi1 tin1 saak3， lok6 dei6 waan4 cin4} /this phrase is used to describe during negotiations between two parties, the seller asking for a sky-high price whilst the buyer returns the offer with a rock bottom price/
-開學日 开学日 [kai1 xue2 ri4] {hoi1 hok6 jat6} /the first day of school; commencement day/
+開天索價，落地還錢 开天索价，落地还钱 [kai1 tian1 suo3 jia4 , lao4 di4 huan2 qian2] {hoi1 tin1 sok3 gaa3， lok6 dei6 waan4 cin2} /this phrase is used to describe during negotiations between two parties, the seller asking for a sky-high price whilst the buyer returns the offer with a rock bottom price/
+開學日 开学日 [kai1 xue2 ri4] {hoi1 hok6 jat6} /premier jour de l'école; jour de la rentrée/
 開封 开封 [Kai1feng1] {hoi1 fung1} /(verb) Open sealed packaging (of product)/
 開工 开工 [kai1 gong1] {hoi1 gung1} /(verb)  Start working/
 開工典禮 开工典礼 [kai1 gong1 dian3 li3] {hoi1 gung1 din2 lai5} /the opening ceremony; the commencement ceremony; the groundbreaking ceremony/
-開幕 开幕 [kai1 mu4] {hoi1 mok6} /opening ceremony; grand opening/
+開幕 开幕 [kai1 mu4] {hoi1 mok6} /cérémonie d'ouverture/
 開平碉樓 开平碉楼 [kai1 ping2 diao1 lou2] {hoi1 ping4 diu1 lau4} /Kaiping Watchtowers, a place in Guangdong, China/
 開年 开年 [kai1 nian2] {hoi1 nin4} /meal for Chinese New Year served with meat/
 開底 开底 [kai1 di3] {hoi1 dai2} /open base; the outer side/
