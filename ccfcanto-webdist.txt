@@ -14768,6 +14768,7 @@
 短袖衫 短袖衫 [duan3 xiu4 shan1] {dyun2 zau6 saam1} /t-shirt/
 短裙 短裙 [duan3 qun2] {dyun2 kwan4} /minijupe/
 短褸 短褛 [duan3 lu:3] {dyun2 lau1} /blouson; manteau court/
+短程 短程 [duan3 cheng2] {dyun2 cing4} /à courte porté; à courte distance/
 矮仔 矮仔 [ai3 zi5] {ngai2 zai2} /petite personne/
 矮仔多計 矮仔多计 [ai3 zi5 duo1 ji4] {ngai2 zai2 do1 gai2} /(expr.) les petites personnes sont futées; les petites personnes ont beaucoup d'idées/
 矮凳仔 矮凳仔 [ai3 deng4 zi3] {ngai2 dang3 zai2} /tabouret/
@@ -20063,7 +20064,7 @@
 ????f 鑊底噉面 镬底啖面 [huo4 di3 dan4 mian4] {wok6 dai2 gam2 min6} /(expr. idiom.) visage irrité; visage en colère/(lit.) avoir un visage comme le dos d'une poêle/
 ????f 鑊撈 镬捞 [huo4 lao1] {wok6 lou1} /résidus alimentaires brûlés au fond d'une poêle/
 ????f 鑊氣 镬气 [huo4 qi4] {wok6 hei3} /(fig.) bon goût d'un plat cuit à l'huile et à haute température dans un wok/(lit.) essence de wok/
-鑊鏟 镬铲 [huo4 chan3] {wok6 caan2} /spatule; maryse/
+鑊鏟 镬铲 [huo4 chan3] {wok6 caan2} /spatule pour wok/
 鑌鐵 镔铁 [bin1 tie3] {ban1 tit3} /acier de Damas; acier damassé; acier Damas/
 鑑於 鉴于 [jian4 yu2] {gaam3 jyu1} /étant donné; vu que; compte tenu de/
 鑑證 鉴证 [jian4 zheng4] {gaam3 zing3} /identification; évaluation; vérification/enquête judiciaire/
@@ -20098,57 +20099,56 @@
 長工 长工 [chang2 gong1] {coeng4 gung1} /employé à temps plein/emploi permanent; emploi à long terme/
 長情 长情 [zhang3 qing2] {coeng4 cing4} /amour fidèle; amour indéfictible; amour inébranlable/
 ????f 長房 长房 [zhang3 fang2] {zoeng2 fong4} /famille du fils aîné/
-長拉拉 长拉拉 [zhang3 la1 la5] {coeng4 laai4 laai4} /very long (way too long); too long; so long (negative connotation)/
-長撓撓 长挠挠 [zhang3 nao2 nao2] {coeng4 naau4 naau4} /very long (time)/
-長春籐 长春藤 [chang2 chun1 teng2] {coeng4 ceon1 tang4} / ivy (Hedera)/
-長時 长时 [chang2 shi2] {coeng4 si4} /for a long time/
-長此以往 长此以往 [chang2 ci3 yi3 wang3] {coeng4 ci2 ji5 wong5} /if things continue this way/
-長毛 长毛 [chang2 mao2] {coeng4 mou1} /long-haired; long hair, also the nick name for Leung Kwok-Hung, a Hong Kong politician/
-長毛賊 长毛贼 [chang2 mao2 zei2] {coeng4 mou4 caak6} /slang name given for Taiping Rebellion participants during Qing Dynasty; long-haired thief/
-長氣 长气 [zhang3 qi4] {coeng4 hei3} /(adjective) long-winded; protracted; interminable; prolix; verbose/
-長氣袋 长气袋 [zhang3 qi4 dai4] {coeng4 hei3 doi6} /one who loves to talk; one who can run and sing with plenty of breathes (slang)/
-長江 长江 [Chang2 Jiang1] {coeng4 gong1} /(spelling) the spelling in Hong Kong should be: Cheung Kong/
-長洲 长洲 [chang2 zhou1] {coeng4 zau1} /Cheung Chau, an island situated in the southern seas of Hong Kong/
-長流流 长流流 [chang2 liu2 liu2] {coeng4 lau4 lau4} /long (period of time)/
-長生店 长生店 [chang2 sheng1 dian4] {coeng4 sang1 dim3} /casket; coffin shop/
-長生板 长生板 [chang2 sheng1 ban3] {coeng4 sang1 baan2} /coffin/
-長短句 长短句 [chang2 duan3 ju4] {coeng4 dyun2 geoi3} /a form of Chinese poetry/
-長短腳 长短脚 [zhang3 duan3 jiao3] {coeng4 dyun2 goek3} /uneven leg length/
-長短週 长短周 [chang2 duan3 zhou1] {coeng4 dyun2 zau1} /alternate Saturday-off (for work)/
-長程 长程 [chang2 cheng2] {coeng4 cing4} /long distance/
-長篇大論 长篇大论 [chang2 pian1 da4 lun4] {coeng4 pin1 daai6 leon6} /long and useless speech or conversation (idiom)/
-長糧 长粮 [chang2 liang2] {coeng4 loeng4} /pension/
-長肉 长肉 [zhang3 rou4] {zoeng2 juk6} /getting fat/
-長腳蜢 长脚蜢 [chang2 jiao3 meng3] {coeng4 goek3 maang5} /one with long legs (slang)/
-長足 长足 [chang2 zu2] {coeng4 zuk1} /substantial (development); considerable (development)/
-長通粉 长通粉 [zhang3 tong1 fen3] {coeng4 tung1 fan2} /penne (pasta)/
-長青隧道 长青隧道 [chang2 qing1 sui4 dao4] {coeng4 cing1 seoi6 dou6} /Cheung Tsing Tunnel, a tunnel on Tsing Yi Island, Hong Kong/
-長驅直入 长驱直入 [chang2 qu1 zhi2 ru4] {coeng4 keoi1 zik6 jap6} /to drive straight in; to march straight into/
-長鬚鯨 长须鲸 [chang2 xu1 jing1] {coeng4 sou1 king4} /a finback,  a fin whale/
-長魚 长鱼 [chang2 yu2] {coeng4 jyu4} /an eel, a type of fish/
-門人 门人 [men2 ren2] {mun4 jan4} /a disciple/
-門券 门券 [men2 quan4] {mun4 hyun3} /entrance ticket/
-門匙 门匙 [men2 chi2] {mun4 si4} /door key/
-門口 门口 [men2 kou3] {mun4 hau2} /(noun)  entrance/
-門口狗 门口狗 [men2 kou3 gou3] {mun4 hau2 gau2} /watchdog; guard dog/
-門房 门房 [men2 fang2] {mun4 fong4} /gatehouse; concierge (dialect)/
-門氏五虎將 门氏五虎将 [men2 shi4 wu3 hu3 jiang4] {mun4 si6 ng5 fu2 zoeng3} /the five representative Cantonese profanities/
-門縫 门缝 [men2 feng4] {mun4 fung4} /door slit/
-門罅 门罅 [men2 xia4] {mun4 laa3} /the gap / crack between the door and its frame/
-門診部 门诊部 [men2 zhen3 bu4] {mun4 can2 bou6} /the outpatient department; the clinic/
-門釘 门钉 [men2 ding1] {mun4 deng1} /doornail;decorative nails on the door panel/
-門鉸 门铰 [men2 jiao3] {mun4 gaau2} /door hinge/
-門鐘 门钟 [men2 zhong1] {mun4 zung1} /(noun) a door bell/
-門面話 门面话 [men2 mian5 hua4] {mun4 min6 waa2} /lip service; formal and insincere words /
-閂 闩 [shuan1] {saan1} /(verb)  to switch off;/
-閂冷氣 闩冷气 [shuan1 leng3 qi4] {saan1 laang5 hei3} /to turn off the air conditioning/
-閂埋門 闩埋门 [shuan1 mai2 men2] {saan1 maai4 mun4} /to close the door/
-閂後門 闩后门 [shuan1 hou4 men2] {saan1 hau6 mun4} /to close the back door/
-閂掣 闩掣 [shuan1 che4] {saan1 cit3} /to turn off; to switch off/
-閂死 闩死 [shuan1 si3] {saan1 sei2} /shut off; to block off/
-閂鋪 闩铺 [shuan1 pu4] {saan1 pou3} /to close the shop/
-閂門 闩门 [shuan1 men2] {saan1 mun4} /to close the door; to close down (a shop)/
-閂門 闩门 [shuan1 men2] {saan1 mun4} /to close the door/
+長拉拉 长拉拉 [zhang3 la1 la5] {coeng4 laai4 laai4} /très long; trop long/
+長撓撓 长挠挠 [zhang3 nao2 nao2] {coeng4 naau4 naau4} /très longtemps/
+長春籐 长春藤 [chang2 chun1 teng2] {coeng4 ceon1 tang4} /(genre de plantes) Hedera; liane/
+長時 长时 [chang2 shi2] {coeng4 si4} /longtemps/
+長此以往 长此以往 [chang2 ci3 yi3 wang3] {coeng4 ci2 ji5 wong5} /si les choses continuent ainsi/
+長毛 长毛 [chang2 mao2] {coeng4 mou1} /cheveux longs/aux cheveux longs/surnom de Leung Kwok-hung, homme politique hongkongais/
+長毛賊 长毛贼 [chang2 mao2 zei2] {coeng4 mou4 caak6} /surnom pour les rebelles du Taiping Tian Guo/
+長氣 长气 [zhang3 qi4] {coeng4 hei3} /prolixe; traînant; ennuyeux; très long/
+長氣袋 长气袋 [zhang3 qi4 dai4] {coeng4 hei3 doi6} /(fig.) moulin à paroles; personne très bavarde/(lit.) sac à long air/
+長江 长江 [chang2 jiang1] {coeng4 gong1} /Yangzi Jiang, fleuve Bleu, Yang-Tsé-Kiang, Yang-Tsé, fleuve chinois/
+長洲 长洲 [chang2 zhou1] {coeng4 zau1} /île de Cheung Chau/
+????c 長流流 长流流 [chang2 liu2 liu2] {coeng4 lau4 lau4} /long (period of time)/
+長生店 长生店 [chang2 sheng1 dian4] {coeng4 sang1 dim3} /magasin de cercueils/
+長生板 长生板 [chang2 sheng1 ban3] {coeng4 sang1 baan2} /cercueil/
+????f 長短句 长短句 [chang2 duan3 ju4] {coeng4 dyun2 geoi3} /poème dont les vers alternent de longeur datant de la dynastie Tang/
+????c 長短腳 长短脚 [zhang3 duan3 jiao3] {coeng4 dyun2 goek3} /uneven leg length/(name of a criminal organization?)/
+????f 長短週 长短周 [chang2 duan3 zhou1] {coeng4 dyun2 zau1} /système où l'on alterne entre une semaine de six jours et une semaine de cinq jours; système où l'on alterne entre travailler et ne pas travailler le samedi/
+長程 长程 [chang2 cheng2] {coeng4 cing4} /à long rayon d'action/qui a une longue portée/(fig.) à long term/
+長篇大論 长篇大论 [chang2 pian1 da4 lun4] {coeng4 pin1 daai6 leon6} /(expr.) (discours ou article) très long; traînant; ennuyeux/
+長糧 长粮 [chang2 liang2] {coeng4 loeng4} /prestation de retraite; prestaion de pension/
+長肉 长肉 [zhang3 rou4] {zoeng2 juk6} /grossir; prendre du poids/
+長腳蜢 长脚蜢 [chang2 jiao3 meng3] {coeng4 goek3 maang5} /(fam.) personne avec de longues jambes/
+長足 长足 [chang2 zu2] {coeng4 zuk1} /(développement) substantiel; considérable; rapide/
+長通粉 长通粉 [zhang3 tong1 fen3] {coeng4 tung1 fan2} /(pâte) penne/
+長青隧道 长青隧道 [chang2 qing1 sui4 dao4] {coeng4 cing1 seoi6 dou6} /Cheung Tsing Tunnel, tunnel routier de Hong Kong/
+????f 長驅直入 长驱直入 [chang2 qu1 zhi2 ru4] {coeng4 keoi1 zik6 jap6} /to drive straight in; to march straight into (without encountering any resistance)/
+長鬚鯨 长须鲸 [chang2 xu1 jing1] {coeng4 sou1 king4} /(espèce de baleines) Balaenoptera physalus, rorqual commun/
+長魚 长鱼 [chang2 yu2] {coeng4 jyu4} /anguille/(lit.) long poisson/
+門人 门人 [men2 ren2] {mun4 jan4} /disciple; partisan; émule/
+門券 门券 [men2 quan4] {mun4 hyun3} /billet d'entrée; ticket d'entrée/
+門匙 门匙 [men2 chi2] {mun4 si4} /clé de porte/
+門口 门口 [men2 kou3] {mun4 hau2} /entrée/porte d'entrée/porte/
+門口狗 门口狗 [men2 kou3 gou3] {mun4 hau2 gau2} /chien de garde/
+門房 门房 [men2 fang2] {mun4 fong4} /portier; concierge; gardien/loge de concierge; demeure d'un concierge/
+????c 門氏五虎將 门氏五虎将 [men2 shi4 wu3 hu3 jiang4] {mun4 si6 ng5 fu2 zoeng3} /the five representative Cantonese profanities/
+????f 門縫 门缝 [men2 feng4] {mun4 fung4} /espace entre la porte et le châssis de la porte/
+????f 門罅 门罅 [men2 xia4] {mun4 laa3} /espace entre la porte et le châssis de la porte/
+門診部 门诊部 [men2 zhen3 bu4] {mun4 can2 bou6} /(hôpital) centre de consultation/
+????c 門釘 门钉 [men2 ding1] {mun4 deng1} /doornail; decorative nails on the door panel/
+門鉸 门铰 [men2 jiao3] {mun4 gaau2} /charnière de porte/
+門鐘 门钟 [men2 zhong1] {mun4 zung1} /sonnette/
+門面話 门面话 [men2 mian5 hua4] {mun4 min6 waa2} /belles paroles; paroles creux/
+閂 闩 [shuan1] {saan1} /fermer/arrêter/barrer/éteindre; fermer/
+閂冷氣 闩冷气 [shuan1 leng3 qi4] {saan1 laang5 hei3} /éteindre la climatisation/
+閂埋門 闩埋门 [shuan1 mai2 men2] {saan1 maai4 mun4} /fermer la porte/
+閂後門 闩后门 [shuan1 hou4 men2] {saan1 hau6 mun4} /fermer la porte arrière/
+閂掣 闩掣 [shuan1 che4] {saan1 zai3} /fermer; éteindre; arrêter/
+????f 閂死 闩死 [shuan1 si3] {saan1 sei2} /bloquer un footballeur de l'autre équipe/
+閂鋪 闩铺 [shuan1 pu4] {saan1 pou3} /(magasin) fermer pour la journée/(magasin, entreprise) faire faillite; mettre la clé sous la porte/
+閂門 闩门 [shuan1 men2] {saan1 mun4} /fermer la porte/(par extension) (magasin) fermer pour la journée/
 閃 闪 [shan3] {sim2} /(verb)  sneak out (of a place); leave/
 閃咭 闪咭 [shan3 ji1] {sim2 kaat1} /a flashcard/
 閃燃 闪燃 [shan3 ran2] {sim2 jin4} /a flashover/
