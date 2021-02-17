@@ -3045,6 +3045,7 @@
 勾手指 勾手指 [gou1 shou3 zhi3] {au1 sau2 zi2} /promis juré/
 勾搭 勾搭 [gou1 da5] {ngau1 daap3} /séduire/
 勾通 勾通 [gou1 tong1] {gau1 tung1} /conspirer, infiltrer/
+勾臉 勾脸 [gou1 lian3] {ngau1 lim5} /se maquiller le visage/
 勿歇 勿歇 [wu4 xie1] {mat6 hit3} /sans interruption/
 包 包 [bao1] {baau1} /petit pain/
 包保 包保 [bao1 bao3] {baau1 bou2} /garantir, promettre/
@@ -20224,30 +20225,31 @@
 開篷車 开篷车 [kai1 peng2 che1] {hoi1 pung4 ce1} /(voiture) cabriolet; décapotable/
 開籠雀 开笼雀 [kai1 long2 que4] {hoi1 lung4 zoek2} /(fig.) moulin à paroles; bavard/(lit.) oiseau avec la cage ouverte/
 開罐頭 开罐头 [kai1 guan4 tou2] {hoi1 gun3 tau2 } /ouvrir une boîte de conserve/
-開聲 开声 [kai1 sheng1] {hoi1 seng1} /to speak out; to request; the act of "opening" the voice before singing/
-開膳 开膳 [kai1 shan4] {hoi1 sin6} /to start to eat/
-開舖 开铺 [kai1 pu4] {hoi1 pou3} /open a shop (spoken)/
-開航 开航 [kai1 hang2] {hoi1 hong4} /to set sail/
-開花期 开花期 [kai1 hua1 qi1] {hoi1 faa1 kei4} /florescence;anthesis; the flowering period; the flower blooming season/
-開花結果 开花结果 [kai1 hua1 jie1 guo3] {hoi1 faa1 git3 gwo2} /to blossom and bear fruit ——to have a positive result/
-開荒牛 开荒牛 [kai1 huang1 niu2] {hoi1 fong1 ngau4} /a hardworking founder (slang)/
-開襟冷衫 开襟冷衫 [kai1 jin1 leng3 shan1] {hoi1 kam1 laang1 saam1} /a cardigan/
-開講有話 开讲有话 [kai1 jiang3 you3 hua4] {hoi1 gong2 jau5 waa6} /as the saying goes/
-開身 开身 [kai1 shen1] {hoi1 san1} /departure of a boat or ferry (old slang)/
-開車 开车 [kai1 che1] {hoi1 ce1} /(verb)  Start a car engine and drive /
-開鋪 开铺 [kai1 pu4] {hoi1 pou3} /to open a store; to run a store/
-開鏡 开镜 [kai1 jing4] {hoi1 geng3} / to start shooting/
-開鑊 开镬 [kai1 huo4] {hoi1 wok6} /rape (slang)/
-開門 开门 [kai1 men2] {hoi1 mun4} /to speak out (from one's heart)/
-開門七件事 开门七件事 [kai1 men2 qi1 jian4 shi4] {hoi1 mun4 cat1 gin6 si6} /the seven necessities of life: firewood, rice, oil, salt, sauce, vinegar and tea/
-開門辦學 开门办学 [kai1 men2 ban4 xue2] {hoi1 mun4 baan6 hok6} /open-door schooling/
-開開心心 开开心心 [kai1 kai5 xin1 xin1] {hoi1 hoi1 sam1 sam1} /to be happy; happily/
-開面 开面 [kai1 mian4] {hoi1 min6} /a face painting technique used for the applying make up on the actors in Cantonese opera; a traditional wedding custom for the Han Chinese ethnic group, which involves the plucking of a bride's fine facial hair and hair combing; the curving of the facial features on the statue of a god/
-開頭 开头 [kai1 tou2] {hoi1 tau4} /to start or commence/
-開飯 开飯 [kai1 fan4] {hoi1 faan6} /(verb) Dinner/lunch is ready /
-開飯喇 开饭喇 [kai1 fan4 la3] {hoi1 faan6 laa1} /it's time to have dinner: "dinner time!"/
-開餐 开餐 [kai1 can1] {hoi1 caan1} /have a meal (spoken)/
-開首 开首 [kai1 shou3] {hoi1 sau2} /in the beginning/
+開聲 开声 [kai1 sheng1] {hoi1 seng1} /commencer à parler/s'exprimer; dire ce que l'on pense; prendre la parole; se prononcer/échauffer la voix; faire des échauffements vocaux/
+????c 開膳 开膳 [kai1 shan4] {hoi1 sin6} /to start to eat/
+開舖 开铺 [kai1 pu4] {hoi1 pou3} /démarrer une entreprise/(boutique, magasin) ouvrir/
+開航 开航 [kai1 hang2] {hoi1 hong4} /être ouvert à la navigation/prendre la mer; commencer un voyage sur la mer/
+????c 開花期 开花期 [kai1 hua1 qi1] {hoi1 faa1 kei4} /florescence;anthesis; the flowering period; the flower blooming season/
+開花結果 开花结果 [kai1 hua1 jie1 guo3] {hoi1 faa1 git3 gwo2} /(expr. idiom.) donner des résultats positifs; porter ses fruits/(lit.) s'épanouir et donner des fruits/
+????f 開荒 开荒 [kai1 huang1] {hoi1 fong1} /défricher (des terres incultes)/
+開荒牛 开荒牛 [kai1 huang1 niu2] {hoi1 fong1 ngau4} /(fig.) pionnier; fondateur/(lit.) bœuf qui défriche des terres incultes/
+開襟冷衫 开襟冷衫 [kai1 jin1 leng3 shan1] {hoi1 kam1 laang1 saam1} /cardigan/
+開講有話 开讲有话 [kai1 jiang3 you3 hua4] {hoi1 gong2 jau5 waa6} /comme dit le proverbe.../
+開身 开身 [kai1 shen1] {hoi1 san1} /prendre la mer; commencer un voyage sur la mer/
+開車 开车 [kai1 che1] {hoi1 ce1} /(véhicule) conduire/
+開鋪 开铺 [kai1 pu4] {hoi1 pou3} /démarrer une entreprise/(boutique, magasin) ouvrir/
+開鏡 开镜 [kai1 jing4] {hoi1 geng3} /(cinéma) commencer à tourner/
+開鑊 开镬 [kai1 huo4] {hoi1 wok6} /préparer un wok pour la cuisson/(fam.) (fig.) avoir des relations sexuelles; coucher; faire l'amour/(fam.) (fig.) violer/(fam.) (fig.) perdre sa virginité/
+開門 开门 [kai1 men2] {hoi1 mun4} /ouvrir la porte/(boutique, magasin) ouvrir/
+開門七件事 开门七件事 [kai1 men2 qi1 jian4 shi4] {hoi1 mun4 cat1 gin6 si6} /(expr.) les sept nécessités de la vie: bois de chauffage, riz, huile, sel, sauce, vinaigre, thé/
+????c 開門辦學 开门办学 [kai1 men2 ban4 xue2] {hoi1 mun4 baan6 hok6} /open-door schooling/
+開開心心 开开心心 [kai1 kai5 xin1 xin1] {hoi1 hoi1 sam1 sam1} /gaiment; gaiement; joyeusement/
+????f 開面 开面 [kai1 mian4] {hoi1 min6} /(opéra cantonais) se maquiller le visage avant de monter en scène/
+開頭 开头 [kai1 tou2] {hoi1 tau4} /commencement; début/commencer; débuter/
+開飯 开飯 [kai1 fan4] {hoi1 faan6} /servir un repas/prendre un repas/c'est l'heure du dîner! c'est l'heure du souper! à table!/
+開飯喇 开饭喇 [kai1 fan4 la3] {hoi1 faan6 laa1} /c'est l'heure du dîner! à table! le dîner est servi!/c'est l'heure du souper! le souper est servi!/
+開餐 开餐 [kai1 can1] {hoi1 caan1} /prendre un repas; dîner; déjeuner; souper/
+開首 开首 [kai1 shou3] {hoi1 sau2} /au début/
 開齋 开斋 [kai1 zhai1] {hoi1 zaai1} /to break a drought (scoring the first point, closing the first deal, receive the first speeding ticket etc.)(Cantonese)/
 閏日 闰日 [run4 ri4] {jeon6 jat6} /intercalary day; leap day/
 閑情逸致 闲情逸致 [xian2 qing2 yi4 zhi4] {haan4 cing4 jat6 zi3} / in a leisurely and carefree mood/
