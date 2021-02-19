@@ -20281,7 +20281,7 @@
 閣下 阁下 [ge2 xia4] {gok3 haa6} /son excellence/
 閣仔 阁仔 [ge2 zi3] {gok3 zai2} /grenier/
 ????c 閨中 闺中 [gui1 zhong1] {gwai1 zung1} /girl's room; boudoir; (adjective) bosom/
-閨中密友 闺中密友 [gui1 zhong1 mi4 you3] {gwai1 zung1 mat6 jau5} /amie proche (s'utilise seulement pour les femmes)/
+閨中密友 闺中密友 [gui1 zhong1 mi4 you3] {gwai1 zung1 mat6 jau5} /amie proche (s'utilise seulement pour parler de deux amies de sexe féminin)/
 閱兵式 阅兵式 [yue4 bing1 shi4] {jyut6 bing1 sik1} /défilé militaire/
 閱報 阅报 [yue4 bao4] {jyut6 bou3} /lire les journaux/
 閱報室 阅报室 [yue4 bao4 shi4] {jyut6 bou3 sat1} /salle de lecture de journaux/
@@ -20293,7 +20293,7 @@
 闃然無聲 阒然无声 [qu4 ran2 wu2 sheng1] {gwik1 jin4 mou4 sing1} /(expr. idiom.) silence absolu; on aurait pu entendre une mouche voler/
 闃礫緙嘞 阒砾缂嘞 [qu4 li4 ke4 lei5] {kwik1 lik1 kaak1 laak1} /divers/
 闊佬 阔佬 [kuo4 lao3] {fut3 lou2} /personne riche/personne généreuse/
-闊佬懶理 阔佬懒理 [kuo4 lao3 lan3 li3] {fut3 lou2 laan5 lei5} /(phrase)/(adj.) not interested in; not concerned with; indifferent towards; none of one's business; something that doesn't concern oneself; to stand aloof from things that are of no personal interst; to let things drift on the grounds that they do not affect one personally; to not bother to intervene; not in the least concerned about something/
+闊佬懶理 阔佬懒理 [kuo4 lao3 lan3 li3] {fut3 lou2 laan5 lei5} /(expr.) s'en foutre; s'en ficher; se désintéresser complètement de quelque chose/
 闊咧啡 阔咧啡 [kuo4 lie5 fei1] {fut3 le4 fe4} /(vêtements) larges; amples/
 闊太 阔太 [kuo4 tai4] {fut3 taai2} /femme riche/femme mariée à un homme riche/
 闊條麵 阔条面 [kuo4 tiao2 mian4] {fut3 tiu4 min6} /(pâte alimentaire) fettuccine; pappardelle/
@@ -20350,34 +20350,35 @@
 阻滯 阻滞 [zu3 zhi4] {zo2 zai6} /empêcher; entraver; faire obstacle à/
 阻街 阻街 [zu3 jie1] {zo2 gaai1} /bloquer la route; bloquer la voie/
 阻頭阻勢 阻头阻势 [zu3 tou2 zu3 shi4] {zo2 tau4 zo2 sai3} /(expr.) être dans le passage de quelqu'un/
-阿ｓｉｒ 阿ｓｉｒ [a5 s i r] {aa3ｓｉｒ} /(titre de politesse) monsieur le policier/
-阿乜人 啊乜人 [a5 mie1 ren2] {aa3 mat1 jan4} /a way to address somebody without knowing his name, similar to saying '"so and so" / "whatshisface" /"whatshername" / "whatshisname"/
-阿乜水 啊乜水 [a5 mie1 shui3] {aa3 mat1 seoi2} / a way to address someone whose name one does not know, cannot recall or does not wish; to specify; whatshisname; whatshername; so-and-so/
-阿二 啊二 [a5 er4] {aa3 ji2} /the second wife or mistress of a man/
-阿仔 啊仔 [a5 zi3] {aa3 zai2} /an appellation to address one's son/
-阿仙奴 啊仙奴 [a5 xian1 nu2] {aa3 sin1 nou4} /Arsenal, a football team in the English Premier League/
-阿伯 阿伯 [a1 bo2] {aa3 baak3} /an old man/
-阿傻 啊傻 [a5 sha3] {aa3 so4} /an appellation to address a fool/
-阿兆 啊兆 [a5 zhao4] {aa3 siu6} /a swindler; a pickpocket; a con man/
-阿公 阿公 [a1 gong1] {aa3 gung1} /1. belongs to the public 2. one of seniority/
-阿六 啊六 [a5 liu4] {aa3 luk6} /a derog/
-阿叉 啊叉 [a5 cha1] {aa3 caa1} /(appellation) an Indian / Paskistani / South Asian (derogatory)/
-阿叔 阿叔 [a1 shu1] {aa3 suk1} /uncle (spoken)/
-阿吱阿咗 啊吱啊咗 [a5 zhi1 a5 zuo5] {aa3 zi1 aa3 zo1} /to whine/
-阿哩吉諦 阿哩吉谛 [a1 li1 ji2 di4] {o1 li1 gat1 dai3} /to be in a tight spot; to be down on one's luck/confused; muddled; to get into a mess / muddle; to be in trouble/
-阿啞 啊哑 [a5 ya3] {aa3 ak1} /an appellation to address someone who is mute/
-阿喱 啊喱 [a5 li2] {aa3 lei1} /pickpocket/
-阿四 啊四 [a5 si4] {aa3 sei3} /servant/
-阿士匹靈 阿士匹灵 [a1 shi4 pi3 ling2] {aa3 si6 pat1 ling4} /Aspirin/
-阿壽 啊寿 [a5 shou4] {aa3 sau6} /someone who is stupid/
-阿大 阿大 [a4 da4] {aa3 daai6} /eldest; boss; gangster boss (spoken)/
-阿太 阿太 [a1 tai4] {aa3 taai3} /an appellation to address one's great grandmother/
-阿奀 啊奀 [a5 di2] {aa3 ngan1} /someone who is thin, small and feeble/
-阿女 阿女 [a1 nü3] {aa3 neoi2} /the appellation for one's daughter/
-阿妗 啊妗 [a5 jin4] {aa3 kam5} /aunty (the wife of a maternal uncle); the wife of a woman's younger brother/
-阿姐 阿姐 [a1 jie3] {aa3 ze2} /auntie (spoken)/
-阿姑 阿姑 [a1 gu1] {aa3 gu1} /aunt (spoken)/
-阿婆 阿婆 [a1 po2] {aa3 po4} /mother's mother; grandmother/
+阿ｓｉｒ 阿ｓｉｒ [a5 s i r] {aa3ｓｉｒ} /(titre de politesse) monsieur le policier/(orig.) de l'anglais « sir » (« monsieur »)/
+阿乜人 啊乜人 [a5 mie1 ren2] {aa3 mat1 jan4} /Monsieur Untel, Madame Unetelle; Machin; mot utilisé pour désigner une personne dont on a oublié le nom ou dont on ne connaît pas le nom/
+阿乜水 啊乜水 [a5 mie1 shui3] {aa3 mat1 seoi2} /Monsieur Untel, Madame Unetell; Machin; mot utilisé pour désigner une personne dont on a oublié le nom ou dont on ne connaît pas le nom/
+阿二 啊二 [a5 er4] {aa3 ji2} /seconde épouse; seconde femme/amante; maîtresse/(lit.) madame numéro deux/
+阿仔 啊仔 [a5 zi3] {aa3 zai2} /appellation donnée à un fils; appellation donnée à un enfant de sexe masculin/
+阿仙奴 啊仙奴 [a5 xian1 nu2] {aa3 sin1 nou4} /Arsenal, club de football anglais/
+阿伯 阿伯 [a1 bo2] {aa3 baak3} /(fam.) formule par laquelle on s'addresse à un homme âgé/appellation donnée à un oncle/
+阿傻 啊傻 [a5 sha3] {aa3 so4} /appellation donnée à un imbécile, un dingue/
+阿兆 啊兆 [a5 zhao4] {aa3 siu6} /escroc; arnaqueur/voleur à la tire; pickpocket/
+阿公 阿公 [a1 gong1] {aa3 gung1} /grand-père/public; qui appartient au peuple/
+????c 阿六 啊六 [a5 liu4] {aa3 luk6} /a derog/
+阿叉 啊叉 [a5 cha1] {aa3 caa1} /(inj.) appellation donnée à un Indien ou un Pakistanais/
+阿叔 阿叔 [a1 shu1] {aa3 suk1} /appellation donnée à un oncle/formule de politesse par laquelle on s'addresse à un homme; « monsieur »/
+阿吱阿咗 啊吱啊咗 [a5 zhi1 a5 zuo5] {aa3 zi1 aa3 zo1} /parler sans cesse/harceler; embêter; bourdonner continuellement/geindre; pleurnicher; se plaindre/trouver des excuses/
+????c 阿哩吉諦 阿哩吉谛 [a1 li1 ji2 di4] {o1 li1 gat1 dai3} /to be in a tight spot; to be down on one's luck/confused; muddled; to get into a mess / muddle; to be in trouble/
+阿啞 啊哑 [a5 ya3] {aa3 ak1} /appellation donnée à une personne muette/
+阿喱 啊喱 [a5 li2] {aa3 lei1} /voleur à la tire; pickpocket/
+阿四 啊四 [a5 si4] {aa3 sei3} /domestique; servant; serviteur/
+阿士匹靈 阿士匹灵 [a1 shi4 pi3 ling2] {aa3 si6 pat1 ling4} /aspirine; acide acétylsalicylique/(orig.) de l'anglais « aspirin » (« aspirine »)/
+阿壽 啊寿 [a5 shou4] {aa3 sau6} /appellation donnée à une personne stupide/
+阿大 阿大 [a4 da4] {aa3 daai2} /frère aîné; sœur aînée/chef de gang/
+阿太 阿太 [a1 tai4] {aa3 taai3} /appellation donnée à une arrière-grand-mère/
+阿太 阿太 [a1 tai4] {aa3 taai2} /formule de politesse par laquelle on s'addresse à une femme d'une certaine âge; « madame »/
+阿奀 啊奀 [a5 di2] {aa3 ngan1} /gringalet; enfant petit et grêle/
+阿女 阿女 [a1 nu:3] {aa3 neoi2} /appellation donnée à la fille de quelqu'un; appellation donnée à un enfant de sexe féminin/
+阿妗 啊妗 [a5 jin4] {aa3 kam5} /femme d'un oncle maternel; femme d'un frère de sa mère/femme d'un frère cadet/
+阿姐 阿姐 [a1 jie3] {aa3 ze1} /femme capable; femme compétente/(fam.) woman; lady; impolite way to refer to a woman/(fam.) appellation donnée à une sœur aînée/(fam.) appellation donnée à une femme plus âgée que le locuteur/
+阿姑 阿姑 [a1 gu1] {aa3 gu1} /(fam.) appellation donnée à une femme d'une certaine âge; madame/
+阿婆 阿婆 [a1 po2] {aa3 po4} /grand-mère maternel/(fam.) appellation donnée à une femme âgée/
 阿婆髻 阿婆髻 [a1 po2 ji4] {aa3 po4 gai3} /a place in Guangdong, China; an old woman's top knot/
 阿嫂 阿嫂 [a1 sao3] {aa3 sou2} /(n.) the appellation to address one's older brother's wife; (slang)the appellation to address the wife / girlfriend of one's friend to show respect; the girlfriend / wife of the leader in a gang./
 阿嫲 啊嫲 [a5 ma2] {aa3 maa4} /grandmother; father's mother (spoken)/
@@ -20396,8 +20397,8 @@
 阿爺 阿爷 [a1 ye2] {aa3 je4} /grandpa (paternal); the government; the country/
 阿狗阿貓 阿狗阿猫 [a1 gou3 a1 mao1] {aa3 gau2 aa3 maau1} /an indefinite phrase used to refer to a hypothetical individual, "any old person"; "anyone whatsoever"; "whoever"; "doesn't matter who"/
 阿瓜 阿瓜 [a1 gua1] {aa3 gwaa1} /the black sheep / prodigal / squanderer of a family; someone who ruins his family's fortune or reputation; the fourth eldest amongst the children/
-阿福 阿福 [a1 fu2] {aa3 fuk1} /stupid person (spoken)/
-阿福阿壽 阿福啊寿 [a1 fu2 a5 shou4] {aa3 fuk1 aa3 sau6} /'every Tom, Dick and Harry'/
+阿福 阿福 [a1 fu2] {aa3 fuk1} /personne stupide/
+阿福阿壽 阿福啊寿 [a1 fu2 a5 shou4] {aa3 fuk1 aa3 sau6} /n'importe qui; Pierre, Paul, ou Jacques/
 阿細 阿细 [a1 xi4] {aa3 sai3} /an appellation to call someone who is little or the smallest (youngest or the concubine/ mistress)/
 阿聯酋航空公司 阿联酋航空公司 [A1 lian2 qiu2 hang2 kong1 gong1 si1] {aa3 lyun4 jau4 hong4 hung1 gung1 si1} /Emirates Airlines/
 阿聲 啊声 [a5 sheng1] {aa3 seng1} /mister/
@@ -20405,7 +20406,8 @@
 阿聾送殯 啊聋送殡 [a5 long2 song4 bin4] {aa3 lung4 sung3 ban3} /not listening to; turning a deaf ear to; refusing to take the advice of others and doing something in one's own way/
 阿肥 阿肥 [a1 fei2] {aa3 fei2} /the appellation to refer to someone who is fat/
 阿舅 阿舅 [a1 jiu4] {aa3 kau5} /brother of one's wife/
-阿茂 啊茂 [a5 mao4] {aa3 mau6} /stupid person (spoken)/
+阿茂 啊茂 [a5 mao4] {aa3 mau6} /personne stupide/
+啊茂啊寿 阿茂阿壽 [a5 mao4 a shou4] {aa3 mau6 aa3 sau6} /n'importe qui; Pierre, Paul, ou Jacques/
 阿茂整餅 啊茂整饼 [a5 mao4 zheng3 bing3] {aa3 mau6 zing2 beng2} /stupid person creating trouble for nothing (slang)/
 阿蘭賣豬 阿兰卖猪 [a1 lan2 mai4 zhu1] {aa3 laan4 maai6 zyu1} /bad bargain after losing out on an opportunity for a better deal; to be compelled to do a fire sale after losing out on the chance to sell something at a higher price/
 阿蛇 啊蛇 [a5 she2] {aa3 se4} /name for calling policemen (slang)/
