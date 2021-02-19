@@ -18070,7 +18070,7 @@
 話到尾 话到尾 [hua4 dao4 wei3] {waa6 dou3 mei5} /en fin de compte; au bout du compte; finalement; somme toute/
 話口未完 话口未完 [hua4 kou3 wei4 wan2] {waa6 hau2 mei6 jyun4} /(expr. idiom.) quand on parle du loup.../(lit.) même pas avoir fini de le dire/
 話名 话名 [hua4 ming2] {waa6 meng2} /nominalement; de nom seulement; que de nom/
-話咁快 话咁快 [hua4 gan1 kuai4] {waa6 gam2 faai3} /(expr.) très vite/(expr.) rapidement/(lit.) aussi vite que le dire/
+話咁快 话咁快 [hua4 gan1 kuai4] {waa6 gam2 faai3} /(expr.) très vite/(expr.) rapidement; vite; à toute vitesse/(lit.) aussi vite que le dire/
 話咁易 话咁易 [hua4 gan1 yi4] {waa6 gam2 ji6} /(expr.) très facile/(expr.) facilement/(lit.) aussi facile que le dire/
 話唔埋 话唔埋 [hua4 n2 mai2] {waa6 m4 maai4} /difficile de dire avec certitude; difficile de prévoir/possible; probable; pas certain; incertain/
 話唔定 话唔定 [hua4 n2 ding4] {waa6 m4 ding6} /difficile de dire avec certitude; difficile de prévoir/possible; probable; pas certain; incertain/
@@ -19384,7 +19384,7 @@
 速戰速決 速战速决 [su4 zhan4 su4 jue2] {cuk1 zin3 cuk1 kyut3} /(fig.) agir rapidement/(lit.) livrer une bataille rapide afin de forcer une décision/
 速滑 速滑 [su4 hua2] {cuk1 waat6} /(sport) patinage de vitesse/
 速讀 速读 [su4 du2] {cuk1 duk6} /lecture rapide/
-速速 速速 [su4 su4] {cuk1 cuk1} /rapide/rapidement; vite/
+速速 速速 [su4 su4] {cuk1 cuk1} /rapide/rapidement; vite; à toute vitesse/
 造作 造作 [zao4 zuo5] {zou6 zok3} /(manière) affecté; qui manque de naturel; artificiel; prétentieux/
 ????c 造像 造像 [zao4 xiang4] {zou6 zoeng6} /statue/
 造勢 造势 [zao4 shi4] {zou6 sai3} /promouvoir/faire campagne/
@@ -19395,7 +19395,7 @@
 造船業 造船业 [zao4 chuan2 ye4] {zou6 syun4 jip6} /construction navale/
 造詞 造词 [zao4 ci2] {zou6 ci4} /création d'un mot/
 ????f 造謠惑眾 造谣惑众 [zao4 yao2 huo4 zhong4] {zou6 jiu4 waak6 zung3} /(expr.) répandre des rumeurs pour tromper des gens/
-造馬 造马 [zao4 ma3] {zou6 maa5} /rigged / match-fixing; a situation where the result of something (normally sport events which are related to betting) has been fixed by someone else/
+造馬 造马 [zao4 ma3] {zou6 maa5} /truquer une course hippique/(par extension) (élection, concours, etc.) truquer; altérer de manière frauduleuse pour obtenir un résultat cherché/
 逢嚫 逢嚫 [feng2 chen4] {fung4 can3} /à chaque fois que; quand/
 ????c 逢場作興 逢场作兴 [feng2 chang3 zuo2 xing5] {fung4 coeng4 zok3 hing3} /to flirt around; to have a fling (with someone)/
 逢親 逢亲 [feng2 qin1] {fung4 can1} /à chaque fois que; quand/
@@ -20125,7 +20125,7 @@
 長肉 长肉 [zhang3 rou4] {zoeng2 juk6} /grossir; prendre du poids/
 長腳蜢 长脚蜢 [chang2 jiao3 meng3] {coeng4 goek3 maang5} /(fam.) personne avec de longues jambes/
 長足 长足 [chang2 zu2] {coeng4 zuk1} /(développement) substantiel; considérable; rapide/
-長通粉 长通粉 [zhang3 tong1 fen3] {coeng4 tung1 fan2} /(pâte) penne/
+長通粉 长通粉 [zhang3 tong1 fen3] {coeng4 tung1 fan2} /(pâte alimentaire) penne/
 長青隧道 长青隧道 [chang2 qing1 sui4 dao4] {coeng4 cing1 seoi6 dou6} /Cheung Tsing Tunnel, tunnel routier de Hong Kong/
 ????f 長驅直入 长驱直入 [chang2 qu1 zhi2 ru4] {coeng4 keoi1 zik6 jap6} /to drive straight in; to march straight into (without encountering any resistance)/
 長鬚鯨 长须鲸 [chang2 xu1 jing1] {coeng4 sou1 king4} /(espèce de baleines) Balaenoptera physalus, rorqual commun/
@@ -20250,77 +20250,80 @@
 開飯喇 开饭喇 [kai1 fan4 la3] {hoi1 faan6 laa1} /c'est l'heure du dîner! à table! le dîner est servi!/c'est l'heure du souper! le souper est servi!/
 開餐 开餐 [kai1 can1] {hoi1 caan1} /prendre un repas; dîner; déjeuner; souper/
 開首 开首 [kai1 shou3] {hoi1 sau2} /au début/
-開齋 开斋 [kai1 zhai1] {hoi1 zaai1} /to break a drought (scoring the first point, closing the first deal, receive the first speeding ticket etc.)(Cantonese)/
-閏日 闰日 [run4 ri4] {jeon6 jat6} /intercalary day; leap day/
-閑情逸致 闲情逸致 [xian2 qing2 yi4 zhi4] {haan4 cing4 jat6 zi3} / in a leisurely and carefree mood/
-閑日 闲日 [xian2 ri4] {haan4 jat2} /an average day / ordinary days (as distinguished from holidays, festivals, etc.)/
-閑閑地 闲闲地 [xian2 xian2 di4] {haan4 haan4 dei2} /at least/
+????f 開齋 开斋 [kai1 zhai1] {hoi1 zaai1} /arrêter un régime végétarien/rompre le jeûne/commencer; débuter; démarrer/faire le premier de quelque chose (ex. marquer le premier but, réaliser la première vente de la journée, etc.)/
+閏日 闰日 [run4 ri4] {jeon6 jat6} /jour intercalaire/
+????f 閑情逸致 闲情逸致 [xian2 qing2 yi4 zhi4] {haan4 cing4 jat6 zi3} /(expr.) d'un état d'esprit détendu/
+閑日 闲日 [xian2 ri4] {haan4 jat2} /jour de congé/(Hong Kong) jour ouvré/
+?????c 閑閑地 闲闲地 [xian2 xian2 di4] {haan4 haan4 dei2} /au moins; de moins/
 閒事 闲事 [xian2 shi4] {haan4 si6} /other's business/
-閒心 闲心 [xian2 xin1] {haan4 sam1} /in a relaxed mood/
-閒散 闲散 [xian2 san3] {haan4 saan3} / loafing/
-閒日 闲日 [jian4 ri4] {haan4 jat6} /free time or off day/
-閒言碎語 闲言碎语 [xian2 yan2 sui4 yu3] {haan4 jin4 seoi3 jyu5} /gossip/
-閒閒地 闲闲地 [jian4 jian4 di4] {haan4 haan4 dei6} /at the least; minimally (spoken)/
-閒雜 闲杂 [xian2 za2] {haan4 zaap6} /someone or something not related or not of relevance; of no apparent purpose; having no fixed duties/
-間 间 [jian1] {gaan1} /1. dimension 2. to layout or design 3. classifier for shops, office or buildings/
-間中 间中 [jian1 zhong1] {gaan3 zung1} /rarely; occasionally (spoken)/
-間唔中 间唔中 [jian1 wu2 zhong1] {gaan3 m4 zung1} /sometimes, from time to time; every now and then/
-間尺 间尺 [jian1 chi3] {gaan3 cek2} /(stationary) a ruler/
-間格 间格 [jian4 ge2] {gaan3 gaak3} /layout of a house; room; flag (spoken)/
-間條 间条 [jian4 tiao2] {gaan3 tiu2} /stripe/
-間線 间线 [jian1 xian4] {gaan3 sin3} /a dividing line; to underline/
-間花腩 间花腩 [jian1 hua1 nan3] {gaan3 faa1 naam5} /streaky pork; pork belly/
-間行 间行 [jian4 xing2] {gaan3 hong4} /interlace/
-間間 间间 [jian1 jian1] {gaan1 gaan1} /each / every (room / property / venue)/
-閔子騫 闵子骞 [Min3 Zi3 qian1] {man5 zi2 hin1} /Min Sun / Ziqian, one of the disciples of Confucius/
-閘 闸 [zha2] {zaap6} /(noun)  gate or door gate/
-閘住 闸住 [zha2 zhu5] {zaap6 zyu6} /(expression) literally: "stop it";  usually people say it in an attempt to prevent the unlucky things described / predicted by other people from occurring in reality,similar to how "touch wood" is used in English/
-閘側 闸侧 [zha2 ce4] {zaap6 zak1} /to tilt to one side/
-閘門 闸门 [zha2 men2] {zaap6 mun4} /(noun)  gateway/
-閣下 阁下 [ge2 xia4] {gok3 haa6} /1. gentlemen 2. your honour/
-閣仔 阁仔 [ge2 zi3] {gok3 zai2} /loft; attic/
-閨中 闺中 [gui1 zhong1] {gwai1 zung1} /girl's room; boudoir; (adjective) bosom/
-閱兵式 阅兵式 [yue4 bing1 shi4] {jyut6 bing1 sik1} /a military parade13/
-閱報 阅报 [yue4 bao4] {jyut6 bou3} /to read the newspaper/
-閱報室 阅报室 [yue4 bao4 shi4] {jyut6 bou3 sat1} /a newspaper reading room/
-閱讀室 阅读室 [yue4 du2 shi4] {jyut6 duk6 sat1} /a reading room/
-閲讀 阅读 [yue4 du2] {jyut6 duk6} /reading/
-閹 阉 [yan1] {jim1} /to be victimized/
-閹痘 阉痘 [yan1 dou4] {jim1 dau6} /a small pox inoculation/
-閹雞 阉鸡 [yan1 ji1] {jim1 gai1} /capon/
-闃然無聲 阒然无声 [qu4 ran2 wu2 sheng1] {gwik1 jin4 mou4 sing1} /silent without a sound; dead quiet/
-闃礫緙嘞 阒砾缂嘞 [qu4 li4 ke4 lei5] {kwik1 lik1 kaak1 laak1} /miscellaneous; various/
-闊佬 阔佬 [kuo4 lao3] {fut3 lou2} /(noun)  generous guy/
+????f 閒心 闲心 [xian2 xin1] {haan4 sam1} /état d'esprit détendu/
+????c 閒散 闲散 [xian2 san3] {haan4 saan3} /à loisir/inutilisé; inoccupé/
+閒日 闲日 [jian4 ri4] {haan4 jat6} /jour de congé/(Hong Kong) jour ouvré/
+閒言碎語 闲言碎语 [xian2 yan2 sui4 yu3] {haan4 jin4 seoi3 jyu5} /rumeurs; nouvelles/ragots; commémrages; potins; cancans/
+????c 閒閒地 闲闲地 [jian4 jian4 di4] {haan4 haan4 dei6} /au moins; du moins/
+????c 閒雜 闲杂 [xian2 za2] {haan4 zaap6} /bagatelles; banalités/(people or staff) who do not have fixed duties/(people) who are irrelevant to the subject matter at hand/
+????f 間 间 [jian1] {gaan1} /to lay out or design/(classificateur des immeubles et édifices)/
+間 间 [jian1] {gaan3} /raie/
+間中 间中 [jian1 zhong1] {gaan3 zung1} /parfois; rarement; de temps en temps; de temps à autre/
+間唔中 间唔中 [jian1 wu2 zhong1] {gaan3 m4 zung1} /parfois; rarement; de temps en temps; de temps à autre/
+間尺 间尺 [jian1 chi3] {gaan3 cek2} /(outil) règle/
+????c 間格 间格 [jian4 ge2] {gaan3 gaak3} /layout of a house; room; flag (spoken)/
+間條 间条 [jian4 tiao2] {gaan3 tiu2} /raie/
+????c 間線 间线 [jian1 xian4] {gaan3 sin3} /a dividing line; to underline/
+????f 間花腩 间花腩 [jian1 hua1 nan3] {gaan3 faa1 naam5} /streaky pork; pork belly/
+????c 間行 间行 [jian4 xing2] {gaan3 hong4} /interlace/
+間間 间间 [jian1 jian1] {gaan1 gaan1} /chaque chambre/chaque établissement/chaque site/
+閔子騫 闵子骞 [min3 Zi3 qian1] {man5 zi2 hin1} /Min Sun, disciple de Confucius et philosophe chinois/
+閘 闸 [zha2] {zaap6} /portail/
+????f 閘住 闸住 [zha2 zhu5] {zaap6 zyu6} /(expression) literally: "stop it";  usually people say it in an attempt to prevent the unlucky things described / predicted by other people from occurring in reality,similar to how "touch wood" is used in English (or maybe "don't jinx it")/
+????f 閘側 闸侧 [zha2 ce4] {zaap6 zak1} /to tilt to one side; to set down an object on an angle/
+????c 閘門 闸门 [zha2 men2] {zaap6 mun4} /portail/façade de quai; porte palière/
+閣下 阁下 [ge2 xia4] {gok3 haa6} /son excellence/
+閣仔 阁仔 [ge2 zi3] {gok3 zai2} /grenier/
+????c 閨中 闺中 [gui1 zhong1] {gwai1 zung1} /girl's room; boudoir; (adjective) bosom/
+閨中密友 闺中密友 [gui1 zhong1 mi4 you3] {gwai1 zung1 mat6 jau5} /amie proche (s'utilise seulement pour les femmes)/
+閱兵式 阅兵式 [yue4 bing1 shi4] {jyut6 bing1 sik1} /défilé militaire/
+閱報 阅报 [yue4 bao4] {jyut6 bou3} /lire les journaux/
+閱報室 阅报室 [yue4 bao4 shi4] {jyut6 bou3 sat1} /salle de lecture de journaux/
+閱讀室 阅读室 [yue4 du2 shi4] {jyut6 duk6 sat1} /salle de lecture/
+閲讀 阅读 [yue4 du2] {jyut6 duk6} /lire/
+閹 阉 [yan1] {jim1} /eunuque/châtrer; chaponner/
+閹痘 阉痘 [yan1 dou4] {jim1 dau6} /vaccin contre la variole; vaccine antivariolique/vacciner/(lit.) variole châtrée/
+閹雞 阉鸡 [yan1 ji1] {jim1 gai1} /chapon; coq châtré/
+闃然無聲 阒然无声 [qu4 ran2 wu2 sheng1] {gwik1 jin4 mou4 sing1} /(expr. idiom.) silence absolu; on aurait pu entendre une mouche voler/
+闃礫緙嘞 阒砾缂嘞 [qu4 li4 ke4 lei5] {kwik1 lik1 kaak1 laak1} /divers/
+闊佬 阔佬 [kuo4 lao3] {fut3 lou2} /personne riche/personne généreuse/
 闊佬懶理 阔佬懒理 [kuo4 lao3 lan3 li3] {fut3 lou2 laan5 lei5} /(phrase)/(adj.) not interested in; not concerned with; indifferent towards; none of one's business; something that doesn't concern oneself; to stand aloof from things that are of no personal interst; to let things drift on the grounds that they do not affect one personally; to not bother to intervene; not in the least concerned about something/
-闊咧啡 阔咧啡 [kuo4 lie5 fei1] {fut3 le4 fe4} /(of clothes) too loose/
-闊太 阔太 [kuo4 tai4] {fut3 taai3} /wealthy wife (slang)/
-闊條麵 阔条面 [kuo4 tiao2 mian4] {fut3 tiu4 min6} /fettuccine; pappardelle/
-闊落 阔落 [kuo4 luo4] {fut3 lok6} /spacious/
-闊葉樹 阔叶树 [kuo4 ye4 shu4] {fut3 jip6 syu6} /broad-leaved tree/
-闊麵 阔面 [kuo4 mian4] {fut3 min6} /fettuccine; pappardelle/
-闔府 阖府 [he2 fu3] {hap6 fu2} /your whole family/
-闔府統請 阖府统请 [he2 fu3 tong3 qing3] {hap6 fu2 tung2 cing2} /to invite all members of a family/
-闖將 闯将 [chuang3 jiang4] {cong2 zoeng3} /someone who is daring to venture forward; a daring general; a pathbreaker/
-闖江湖 闯江湖 [chuang3 jiang1 hu2] {cong2 gong1 wu4} /make a living wandering from place to place/
-闖蕩 闯荡 [chuang3 dang4] {cong2 dong6} /to leave home to make a living/
-闖關東 闯关东 [chuang3 Guan1 dong1] {cong2 gwaan1 dung1} /literally: 'to brave the journey to Guandong', describes the rush of the Han Chinese population into Manchuria, especially from the Shandong Peninsula and Zhili, during the hundred-year period starting in the last half of the 19th century/
-關 关 [guan1] {gwaan1} /(noun) 1. gateway; 2. Chinese surname; 3. customs; 4. (adjective) 1. relate to; (adverb)  regarding/
-關事 关事 [guan1 shi4] {gwaan1 si6} /to be related to; to be of relevance to /
-關二哥 关二哥 [guan1 er4 ge1] {gwaan1 ji6 go1} /Guan Yu; a Chinese military general who was deified as a God and is revered by many Chinese people for his bravery and loyalty/
-關人 关人 [guan1 ren2] {gwaan1 jan4} /it has nothing to do with others; it is not anybody else's business (i.e. it only concerns whoever is involved in the matter); "it's none of my business"; "it's not my concern" /
-關人鬼事 关人鬼事 [guan1 ren2 gui3 shi4] {gwaan1 jan4 gwai2 si6} /none of one's business/
-關係 关系 [guan1 xi5] {gwaan1 hai6} /(noun)  connection/
-關係網 关系网 [guan1 xi5 wang3] {gwaan1 hai6 mong5} / network (of relationships)/
-關係緊張 关系紧张 [guan1 xi5 jin3 zhang1] {gwaan1 hai6 gan2 zoeng1} /strained / tense relations/
-關刀 关刀 [guan1 dao1] {gwaan1 dou1} /a halberd, a big sword with long stick as a holder/
-關帝 关帝 [Guan1 di4] {gwaan1 dai3} /Guan Yu; a Chinese military general who was deified as a God and is revered by many Chinese people for his bravery and loyalty/
-關帝廟 关帝庙 [Guan1 di4 miao4] {gwaan1 dai3 miu6} /Temple Of Guan Yu/Guangdi/
-關德興 关德兴 [guan1 de2 xing1] {gwaan1 dak1 hing1} /Kwan Tak-Hing, a Hong Kong famous actor/
-關心妍 关心妍 [guan1 xin1 yan2] {gwaan1 sam1 jin4} /Jade Kwan Sum Yin, a Hong Kong singer/
-關斗 关斗 [guan1 dou4] {gwaan1 dau3} /forward roll (movement)/
-關注 关注 [guan1 zhu4] {gwaan1 zyu3} /to follow (social media)/
-關節痛 关节痛 [guan1 jie2 tong4] {gwaan1 zit3 tung3} /arthralgia/
-關詠荷 关咏荷 [guan1 yong3 he2] {gwaan1 wing6 ho4} /Esther Kwan Wing Ho, a Hong Kong actress/
+闊咧啡 阔咧啡 [kuo4 lie5 fei1] {fut3 le4 fe4} /(vêtements) larges; amples/
+闊太 阔太 [kuo4 tai4] {fut3 taai2} /femme riche/femme mariée à un homme riche/
+闊條麵 阔条面 [kuo4 tiao2 mian4] {fut3 tiu4 min6} /(pâte alimentaire) fettuccine; pappardelle/
+闊落 阔落 [kuo4 luo4] {fut3 lok6} /spacieux/
+闊葉樹 阔叶树 [kuo4 ye4 shu4] {fut3 jip6 syu6} /arbre à larges feuilles/
+闊麵 阔面 [kuo4 mian4] {fut3 min6} /(pâte alimentaire) fettuccine; pappardelle/
+????f 闔府 阖府 [he2 fu3] {hap6 fu2} /(poli) toute votre famille/
+????f 闔府統請 阖府统请 [he2 fu3 tong3 qing3] {hap6 fu2 tung2 cing2} /(poli) vous et votre famille êtes cordialement invités/
+闖將 闯将 [chuang3 jiang4] {cong2 zoeng3} /pionnier; novateur/
+????f 闖江湖 闯江湖 [chuang3 jiang1 hu2] {cong2 gong1 wu4} /gagner sa vie comme artiste, docteur, etc. ambulant/
+????f 闖蕩 闯荡 [chuang3 dang4] {cong2 dong6} /quitter la maison pour gagner sa vie/
+????f 闖關東 闯关东 [chuang3 guan1 dong1] {cong2 gwaan1 dung1} /migration des Hans vers la Mandchourie vers la fin du XIXième siècle; « Chuang Guandong »/
+關 关 [guan1] {gwaan1} /(nom de famille chinois)/douane/fermer/éteindre/avoir rapport à; être pertinent; concerner; toucher/faire faillite/tournant; moment décisif; moment charnière/
+關事 关事 [guan1 shi4] {gwaan1 si6} /avoir rapport à; être pertinent pour; concerner; toucher/
+關二哥 关二哥 [guan1 er4 ge1] {gwaan1 ji6 go1} /Guan Yu ou Kouan Yu, général déifié de la dynastie Han/
+關人 关人 [guan1 ren2] {gwaan1 jan4} /(expr.) (fam.) occupe-toi de tes fesses; mêle-toi de tes affaires; ça ne te regarde pas; ce n'est pas tes oignons/
+關人鬼事 关人鬼事 [guan1 ren2 gui3 shi4] {gwaan1 jan4 gwai2 si6} /(expr.) (fam.) occupe-toi de tes fesses; mêle-toi de tes affaires; ça ne te regarde pas; ce n'est pas tes oignons/(lit.) être lié aux affaires de fantômes de quelqu'un/
+關你屁事 关你屁事 [guan1 ni3 pi4 shi5] {gwaan1 nei5 pei3 si6} /(expr.) (fam.) occupe-toi de tes fesses; mêle-toi de tes affaires; ça ne de regarde pas; ce n'est pas tes oignons/(lit.) être lié aux affaires des fesses de quelqu'un/
+關係 关系 [guan1 xi5] {gwaan1 hai6} /relation/lien; rapport/
+關係網 关系网 [guan1 xi5 wang3] {gwaan1 hai6 mong5} /réseau d'amis; réseau de professionel/
+關係緊張 关系紧张 [guan1 xi5 jin3 zhang1] {gwaan1 hai6 gan2 zoeng1} /relations tendues/
+關刀 关刀 [guan1 dao1] {gwaan1 dou1} /guandao, arme d'hast chinoise/
+關帝 关帝 [guan1 di4] {gwaan1 dai3} /Guan Yu ou Kouan Yu, général déifié de la dynastie Han/
+????c 關帝廟 关帝庙 [Guan1 di4 miao4] {gwaan1 dai3 miu6} /Temple Of Guan Yu/Guangdi/
+關德興 关德兴 [guan1 de2 xing1] {gwaan1 dak1 hing1} /Kwan Tak-Hing, acteur hongkongais/
+關心妍 关心妍 [guan1 xin1 yan2] {gwaan1 sam1 jin4} /Jade Kwan Sum Yin, chanteuse hongkongaise/
+關斗 关斗 [guan1 dou4] {gwaan1 dau3} /saut périlleux/
+關注 关注 [guan1 zhu4] {gwaan1 zyu3} /faire attention à/suivre sur un réseau social/
+關節痛 关节痛 [guan1 jie2 tong4] {gwaan1 zit3 tung3} /arthralgie; douleur articulaire/
+關詠荷 关咏荷 [guan1 yong3 he2] {gwaan1 wing6 ho4} /Esther Kwan Wing Ho, actrice hongkongaise/
 關鍵問題 关键问题 [guan1 jian4 wen4 ti2] {gwaan1 gin6 man6 tai4} /key problems;key issues/
 關鍵性 关键性 [guan1 jian4 xing4] {gwaan1 gin6 sing3} /key; critical/
 關鍵時刻 关键时刻 [guan1 jian4 shi2 ke4] {gwaan1 gin6 si4 haak1} /critical moment/
