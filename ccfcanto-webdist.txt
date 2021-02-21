@@ -20452,8 +20452,8 @@
 除鞋 除鞋 [chu2 xie2] {ceoi4 haai4} /enlever ses chaussures/
 陪住 陪住 [pei2 zhu4] {pui4 zyu6} /accompagner/
 ????c 陪坐 陪坐 [pei2 zuo4] {pui4 co5} /comme prostituée d'une boîte de nuit, s'asseoir à la table avec des clients (specifically prostitute or hostess or what?)/
-????c 陪太子讀書 陪太子读书 [pei2 tai4 zi3 du2 shu1] {pui4 taai3 zi2 duk6 syu1} /accompanying a child or a young person to study; fat chance – stands no chance of winning when compared with other competitors in a competition; to join in something (even if it is not relevant to them) just to keep someone company; to describe the candidates who know that they have no chance of passing even before sitting the exams/
-????c 陪嫁妹 陪嫁妹 [pei2 jia4 mei4] {pui4 gaa3 mui1} /maids that accompany the bride to her husband's house (are these maids hired?)/
+????f 陪太子讀書 陪太子读书 [pei2 tai4 zi3 du2 shu1] {pui4 taai3 zi2 duk6 syu1} /(expr. idiom.) situation où une personne n'a aucune chance de gagner; situation où une personne est sûre de perdre/(expr. idiom.) situation où un étudiant sait qu'il va échouer à un examen avant de le passer/(expr. idiom.) (d'un parent) étudier avec son enfant/(expr. idiom.) situation où un étudiant n'a aucun intérêt dans ses études/(expr. idiom.) participer à quelque chose pour tenir compagnie à quelqu'un/(lit.) accompagner le prince qui étudie (mais comme il est le prince et vous ne l'êtes pas, vous ne serez jamais roi)/
+????f 陪嫁妹 陪嫁妹 [pei2 jia4 mei4] {pui4 gaa3 mui1} /(vieilli) servante (à vie) qui accompagne la nouvelle mariée à sa nouvelle maison/
 ????f 陪客 陪客 [pei2 ke5] {pui4 haak3} /accompagner des clients/recevoir un client comme prostituée/
 ????c 陪客開房 陪客开房 [pei2 ke5 kai1 fang2] {pui4 haak3 hoi1 fong2} /réserver une chambre dans un hôtel d'amour pour y passer une nuit avec une prostituée/
 陪審 陪审 [pei2 shen3] {pui4 sam2} /servir d'assesseur/faire partie d'un jury/
@@ -20473,31 +20473,31 @@
 陰濕 阴湿 [yin1 shi1] {jam1 sap1} /sombre et humide/(fig.) fourbe; rusé; malin/
 陰盛陽衰 阴盛阳衰 [yin1 sheng4 yang2 shuai1] {jam1 sing6 joeng4 seoi1} /(expr. idiom.) beaucoup de femmes et peu d'hommes/(lit.) beaucoup de yin, peu de yang/
 ????f 陰聲細氣 阴声细气 [yin1 sheng1 xi4 qi4] {jam1 seng1 sai3 hei3} /(expr.) parler d'un voix douce (connotation négative, personne louche ou sinistre)/
-陰謀家 阴谋家 [yin1 mou2 jia1] {jam1 mau4 gaa1} /a conspirator; a schemer; a machinator/
-陰陰凍 阴阴冻 [yin1 yin1 dong4] {jam1 jam1 dung3} /shivering cold (spoken)/
-陰陰嘴笑 阴阴嘴笑 [yin1 yin1 zui3 xiao4] {jam1 jam1 zeoi2 siu3} /to snigger; to snicker; to smirk/
-陰陰地 阴阴地 [yin1 yin1 di4] {jam1 jam1 dei2} /shady with dark clouds (the weather looks like it is going to rain); with a bit of shade; shadily (in a creepy or sneaky fashion)/
-陰陰天 阴阴天 [yin1 yin1 tian1] {jam1 jam1 tin1} /cloudy day/
-陰陰沉沉 阴阴沉沉 [yin1 yin1 chen2 chen2] {jam1 jam1 cam4 cam4} /overcast; gloomy/
-陰陰笑 阴阴笑 [yin1 yin1 xiao4] {jam1 jam1 siu3} /a sly smile/
-陰陽人 阴阳人 [yin1 yang2 ren2] {jam1 joeng4 jan4} /a hermaphrodite; a transsexual; an intersex/
-陰雨 阴雨 [yin1 yu3] {jam1 jyu5} /overcast and rainy/
-陰騭事 阴骘事 [yin1 zhi4 shi4] {jam1 zat1 si6} /misdeed/
-陳偉業 陈伟业 [chen2 wei3 ye4] {can4 wai5 jip6} /Albert Chan Wai Yip, a Hong Kong politician/
-陳光誠 陈光诚 [chen2 guang1 cheng2] {can4 gwong1 sing4} /Chen Guangchen, a chinese civil rights activist who worked on human rights issues in rural areas of the People's Republic of China/
-陳克勤 陈克勤 [chen2 ke4 qin2] {can4 hak1 kan4} /Gary Chan Hak-kan, a member of the Legislative Council of Hong Kong/
-陳友 陈友 [Chen2 You3] {can4 jau5} /Anthony Chan Yau, a Hong Kong actor,singer,director; a Hong Kong martyr(1916-1945)/
-陳喬恩 陈乔恩 [chen2 qiao2 en1] {can4 kiu4 jan1} /Joe Chen Chiau-En, a Taiwanese actress, singer, writer and model/
-陳家祠 陈家祠 [chen2 jia1 ci2] {can4 gaa1 ci4} / Chen Clan ancestral temple, a place in Guangzhou, China/
-陳展鵬 陈展鹏 [chen2 zhan3 peng2] {can4 zin2 paang4} /Rudo Chan Chin-Pang, a Hong Kong actor/
-陳巧文 陈巧文 [chen2 qiao3 wen2] {can4 haau2 man4} /Christin Chan, a political activist in Hong Kong, known for her stance on human rights, democracy and Tibetan independence/
-陳德容 陈德容 [chen2 de2 rong2] {can4 dak1 jung4} /Vivian Chan Tak-yuen, a Hong Kong actress/
-陳志全 陈志全 [chen2 zhi4 quan2] {can4 zi3 cyun4} /Raymond Chan Chi-chuen, a Hong Kong politician/
-陳惠敏 陈惠敏 [chen2 hui4 min3] {can4 wai6 man5} /Micheal Chan Wai-man, a Hong Kong actor/
-陳慧嫻 陈慧娴 [chen2 hui4 xian2] {can4 wai6 haan4} /Priscilla Chan Wai Han, a Hong Kong singer/
-陳慧琳 陈慧琳 [chen2 hui4 lin2] {can4 wai6} lam4} /Kelly Chen Wai Lam, a Hong Kong singer/
-陳文媛 陈文媛 [chen2 wen2 yuan4] {can4 man4 wun4} /Bobo Chan Man-Woon, a Hong Kong singer/
-陳曉東 陈晓东 [chen2 xiao3 dong1] {can4 hiu2 dung1} /Daniel Chan Hiu Tung, a Hong Kong singer/
+陰謀家 阴谋家 [yin1 mou2 jia1] {jam1 mau4 gaa1} /conspirateur/
+陰陰凍 阴阴冻 [yin1 yin1 dong4] {jam1 jam1 dung3} /froid; frette; frais/
+陰陰嘴笑 阴阴嘴笑 [yin1 yin1 zui3 xiao4] {jam1 jam1 zeoi2 siu3} /(expr. idiom.) ricaner/(expr. idiom.) sourire en coin/(lit.) rire d'une bouche en pénombre/
+陰陰地 阴阴地 [yin1 yin1 di4] {jam1 jam1 dei2} /(temps) couvert; sombre; nuageux/d'une manière louche; d'une manière suspecte; d'une manière sinistre/tranquillement; sans faire du bruit/
+陰陰天 阴阴天 [yin1 yin1 tian1] {jam1 jam1 tin1} /(temps) couvert; sombre; nuageux/
+????c 陰陰沉沉 阴阴沉沉 [yin1 yin1 chen2 chen2] {jam1 jam1 cam4 cam4} /préoccupé; sombre; glauque/
+陰陰笑 阴阴笑 [yin1 yin1 xiao4] {jam1 jam1 siu3} /rire sous cape; rire discrètement/
+陰陽人 阴阳人 [yin1 yang2 ren2] {jam1 joeng4 jan4} /personne transexuelle/personne bisexuelle/(lit.) personne yin-yang/
+陰雨 阴雨 [yin1 yu3] {jam1 jyu5} /nuageux et pluvieux/
+????c 陰騭事 阴骘事 [yin1 zhi4 shi4] {jam1 zat1 si6} /misdeed/
+陳偉業 陈伟业 [chen2 wei3 ye4] {can4 wai5 jip6} /Albert Chan Wai Yip, homme politique hongkongais/
+陳光誠 陈光诚 [chen2 guang1 cheng2] {can4 gwong1 sing4} /Chen Guangchen, militant chinois des droits de l'homme en milieu rural/
+陳克勤 陈克勤 [chen2 ke4 qin2] {can4 hak1 kan4} /Gary Chan Hak-kan, homme politique hongkongais/
+陳友 陈友 [Chen2 You3] {can4 jau5} /Anthony Chan Yau, acteur hongkongais/
+陳喬恩 陈乔恩 [chen2 qiao2 en1] {can4 kiu4 jan1} /Joe Chen Chiau-En, actrice, chanteuse et mannequin taïwanaise/
+陳家祠 陈家祠 [chen2 jia1 ci2] {can4 gaa1 ci4} /Chen Clan ancestral temple (« temple des ancêtres du clan Chen »), temple ancestral à Canton/
+陳展鵬 陈展鹏 [chen2 zhan3 peng2] {can4 zin2 paang4} /Rudo Chan Chin-Pang, acteur et chanteur hongkongais/
+陳巧文 陈巧文 [chen2 qiao3 wen2] {can4 haau2 man4} /Christin Chan, militante hongkongaise des droits de l'homme et d'indépendance tibétain/
+陳德容 陈德容 [chen2 de2 rong2] {can4 dak1 jung4} /Vivian Chan Tak-yuen, actrice taïwanaise/
+陳志全 陈志全 [chen2 zhi4 quan2] {can4 zi3 cyun4} /Raymond Chan Chi-chuen, homme politique hongkongais/
+陳惠敏 陈惠敏 [chen2 hui4 min3] {can4 wai6 man5} /Micheal Chan Wai-man, acteur et pratiquant d'arts martiaux/
+陳慧嫻 陈慧娴 [chen2 hui4 xian2] {can4 wai6 haan4} /Priscilla Chan Wai Han, chanteuse de Cantopop hongkongaise/
+陳慧琳 陈慧琳 [chen2 hui4 lin2] {can4 wai6} lam4} /Kelly Chen Wai Lam, actrice et chanteuse de Cantopop hongkongaise/
+陳文媛 陈文媛 [chen2 wen2 yuan4] {can4 man4 wun4} /Bobo Chan Man-Woon, chanteuse et mannequin hongkongaise/
+陳曉東 陈晓东 [chen2 xiao3 dong1] {can4 hiu2 dung1} /Daniel Chan Hiu Tung, chanteur et acteur hongkongais/
 陳村種 陈村种 [chen2 cun1 zhong3] {can4 cyun1 zung3} /a spendthrift, someone who splashes away all the money as soon as they have some/
 陳果 陈果 [chen2 guo3] {can4 gwo2} /Fruit Chan Gor, a Hong Kong director, screenwriter and producer/
 陳法拉 陈法拉 [chen2 fa3 la1] {can4 faat3 laai1} /Fala Chen, a Hong Kong actress/
