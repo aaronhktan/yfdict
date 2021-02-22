@@ -2027,7 +2027,7 @@
 儲蓄額 储蓄额 [chu3 xu4 e2] {cyu5 cuk1 ngaak6} /montant total en épargne/
 儲郵票 储邮票 [chu3 you2 piao4] {cyu5 jau4 piu3} /collectionner des timbres/
 儲金 储金 [chu3 jin1] {cyu5 gam1} /économies, épargne/
-儲錢 储钱 [chu3 qian2] {cyu5 cin4} /argent dans un compte d'épargne/
+儲錢 储钱 [chu3 qian2] {cou5 cin4} /économiser de l'argent/
 儲電量 储电量 [chu3 dian4 liang4] {cyu5 din6 loeng6} /capacité maximale (d'une batterie)/
 儼如 俨如 [yan3 ru2] {jim5 jyu4} /par exemple, comme/
 允文允武 允文允武 [yun3 wen2 yun3 wu3] {wan5 man4 wan5 mou5} /capable de la politique et militaire/érudit et athlète/
@@ -20601,28 +20601,29 @@
 ????c 集體承包 集体承包 [ji2 ti3 cheng2 bao1] {zaap6 tai2 sing4 baau1} /collective contract/
 ????c 集體經濟 集体经济 [ji2 ti3 jing1 ji4] {zaap6 tai2 ging1 zai3} /collective economy/
 集體農莊 集体农庄 [ji2 ti3 nong2 zhuang1] {zaap6 tai2 nung4 zong1} /coopérative agricole; ferme collective; kolkhoze/
-雉雞尾 雉鸡尾 [zhi4 ji1 wei3] {ci4 gai1 mei5} /pheasant feather/
-雖敗猶榮 虽败犹荣 [sui1 bai4 you2 rong2] {seoi1 baai6 jau4 wing4} /to lose with honor/
+雉雞尾 雉鸡尾 [zhi4 ji1 wei3] {ci4 gai1 mei5} /queue de faisan/
+雖敗猶榮 虽败犹荣 [sui1 bai4 you2 rong2] {seoi1 baai6 jau4 wing4} /perdre avec dignité/
 雖説 虽说 [sui1 shuo1] {seoi1 syut3} /malgré; en dépit de; bien que; quoique/
-雙企人 双企人 [shuang1 qi3 ren2] {soeng1 kei5 jan4} /the Chinese radical of "彳"/
-雙全 双全 [shuang1 quan2] {soeng1 cyun4} /to possess both/
-雙妹嘜 双妹唛 [shuang1 mei4 ma4] {soeng1 mui6 mak1} /Two Girls, the first cosmetics brand in Hong Kong/
-雙姓 双姓 [shuang1 xing4] {soeng1 sing3} /Chinese compound surname; double-barrelled name/
-雙封 双封 [shuang1 feng1] {soeng1 fung1} /to give two packets of red envelopes / lai see (the custom for newly married couples for the first Chinese New Year after their wedding)/
+雙企人 双企人 [shuang1 qi3 ren2] {soeng1 kei5 jan4} /clé de sinogramme « 彳 »/
+雙全 双全 [shuang1 quan2] {soeng1 cyun4} /avoir deux parties; avoir deux moitiés/avoir les deux parents en vie/
+????c 雙妹嘜 双妹唛 [shuang1 mei4 ma4] {soeng1 mui6 mak1} /Two Girls, the first cosmetics brand in Hong Kong/
+雙姓 双姓 [shuang1 xing4] {soeng1 sing3} /surnom Chinois composé de deux sinogrammes/
+????c 雙封 双封 [shuang1 feng1] {soeng1 fung1} /to give two packets of red envelopes / lai see (the custom for newly married couples for the first Chinese New Year after their wedding)/(double width? cloth?)/
 雙層床 双层床 [shuang1 ceng2 chuang2] {soeng1 cang4 cong4} /lits superposés/
-雙引號 双引号 [shuang1 yin3 hao4] {soeng1 jan5 hou6} /double quotation marks/
-雙房 双房 [shuang1 fang2] {soeng1 fong2} /a twin room/
-雙料 双料 [shuang1 liao4] {soeng1 liu2} /of reinforced material; double/
-雙日 双日 [shuang1 ri4] {soeng1 jat6} /the even-numbered days (of the month)/
-雙曲型偏微分方程 双曲型偏微分方程 [shuang1 qu1 xing2 pian1 wei2 fen1 fang1 cheng2] {soeng1 kuk1 jing4 pin1 mei4 fan6 fong1 cing4} /hyperbolic partial differential equation/
-雙格床 双格床 [shuang1 ge2 chuang2] {soeng1 gaak3 cong4} /a bunk-bed/
-雙蒸 双蒸 [shuang1 zheng1] {soeng1 zing1} /double distilled rice wine/
-雙蒸酒 双蒸酒 [shuang1 zheng1 jiu3] {soeng1 zing1 zau2} /double distilled rice wine/
-雙環 双环 [shuang1 huan2] {soeng1 waan4} /dicyclo-/
-雙皮奶 双皮奶 [shuang1 pi2 nai3] {soeng1 pei4 naai5} /double-layer milk custard; double-layer milk pudding/
+????f 雙引號 双引号 [shuang1 yin3 hao4] {soeng1 jan5 hou6} /guillemets doubles en apostrophe; doubles apostrophes; « " »/
+雙房 双房 [shuang1 fang2] {soeng1 fong2} /chambre double à lits jumeaux; chambre d'hôtel qui dispose de deux lits/
+雙料 双料 [shuang1 liao4] {soeng1 liu2} /matériau renforcé/de bonne qualité/deux choses complémentaires/
+????f 雙料冠軍 双料冠军 [shuang1 liao4 guan4 jun1] {soeng1 liu2 gun3 gwan1} /champion qui détient deux titres/
+雙日 双日 [shuang1 ri4] {soeng1 jat6} /jours pairs/
+雙曲型偏微分方程 双曲型偏微分方程 [shuang1 qu1 xing2 pian1 wei2 fen1 fang1 cheng2] {soeng1 kuk1 jing4 pin1 mei4 fan6 fong1 cing4} /(mathématiques) équation aux dérivées partielles hyperbolique/
+雙格床 双格床 [shuang1 ge2 chuang2] {soeng1 gaak3 cong4} /lits superposés/
+????f 雙蒸 双蒸 [shuang1 zheng1] {soeng1 zing1} /double distilled rice wine/
+????f 雙蒸酒 双蒸酒 [shuang1 zheng1 jiu3] {soeng1 zing1 zau2} /double distilled rice wine/
+雙環 双环 [shuang1 huan2] {soeng1 waan4} /(chimie) dicyclo-/
+????f 雙皮奶 双皮奶 [shuang1 pi2 nai3] {soeng1 pei4 naai5} /(dessert hongkongais) double-layer milk custard; double-layer milk pudding/
 雙眼簷 双眼檐 [shuang1 yan3 yan2] {soeng1 ngaan5 jam4} /doubles-paupières/
-雙程 双程 [shuang1 cheng2] {soeng1 cing4} /round-trip; return trip/
-雙窬牆 双窬墙 [shuang1 yu2 qiang2] {soeng1 jyu4 coeng4} /wall built with two layers of bricks/
+雙程 双程 [shuang1 cheng2] {soeng1 cing4} /aller-retour/
+????c 雙窬牆 双窬墙 [shuang1 yu2 qiang2] {soeng1 jyu4 coeng4} /wall built with two layers of bricks/
 雙糧 双粮 [shuang1 liang2] {soeng1 loeng4} /double-pay; double- salary/
 雙職工 双职工 [shuang1 zhi2 gong1] {soeng1 zik1 gung1} /when a man and wife are both at work;an employed couple; working couples/
 雙花紅棍 双花红棍 [shuang1 hua1 hong2 gun4] {soeng1 faa1 hung4 gwan3} /the third highest position in the triad hierarchy;/
@@ -20646,7 +20647,7 @@
 雜柴 杂柴 [za2 chai2] {zaap6 caai4} /mixed firewood (inferior quality to pine firewood) /
 雜種仔 杂种仔 [za2 zhong3 zi3] {zaap6 zung2 zai2} /person of mixed blood / mixed race/
 雜種狗 杂种狗 [za2 zhong3 gou3] {zaap6 zung2 gau2} /a mixed breed dog/
-雜菜 杂菜 [za2 cai4] {zaap6 coi3} /mixed vegetables/
+雜菜 杂菜 [za2 cai4] {zaap6 coi3} /mélange de légumes/
 雜貨舖 杂货铺 [za2 huo4 pu4] {zaap6 fo3 pou2} /a grocery store/
 雜貨鋪 杂货铺 [za2 huo4 pu4] {zaap6 fo3 pou2} /grocery shop/
 雞乸 鸡乸 [ji1 na2] {gai1 naa2} /a hen/
