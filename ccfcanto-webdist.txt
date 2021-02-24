@@ -12554,6 +12554,7 @@
 潘耀焯 潘耀焯 [pan1 yao4 chao1] {pun1 jiu6 coek3} /Poon Yiu Cheuk, footballeur hongkongais/
 潛水 潜水 [qian2 shui3] {cim4 seoi2} /(fig.) dispaître/
 潤 润 [run4] {jeon6} /taquiner; se moquer de/faire la satire de/
+潤滑脂 润滑脂 [run4 hua2 zhi1] {jeon6 waat6 zi1} /graisse lubrifiante; huile de graissage/
 潦草 潦草 [liao2 cao3] {liu2 cou2} /écriture illisible/
 潭仔 潭仔 [tan2 zi3] {taam4 zai2} /Tan Chai ou Tan Tsai, restaurant de nouilles à Hong Kong/
 潮 潮 [chao2] {ciu4} /à la mode; populaire; tendance/
@@ -20774,29 +20775,29 @@
 ????f 雪原 雪原 [xue3 yuan2] {syut3 jyun4} /snowfield (accumulation de neige permanente au pic d'une montagne ou d'une glacière)/
 雪堆 雪堆 [xue3 dui1] {syut3 deoi1} /congère; banc de neige/
 雪屐 雪屐 [xue3 ji1] {syut3 kek6} /patin à roulettes/
-雪山 雪山 [xue3 shan1] {syut3 saan1} /jokul;snow mountain/
-雪帽 雪帽 [xue3 mao4] {syut3 mou2} /a trooper fur hat; a trooper winter hat; an ushanka-hat; a snow hat/
-雪恨 雪恨 [xue3 hen4] {syut3 han6} /to avenge/
+雪山 雪山 [xue3 shan1] {syut3 saan1} /montagne couverte de neige/
+雪帽 雪帽 [xue3 mao4] {syut3 mou2} /chapeau d'hiver/
+雪恨 雪恨 [xue3 hen4] {syut3 han6} /se venger/
 雪批 雪批 [xue3 pi1] {syut3 pai1} /barre de crème glacée; esquimau; bâtonnet de glace/
 雪梨 雪梨 [xue3 li2] {syut3 lei4} /poire/Sydney, ville australienne/
-雪水 雪水 [xue3 shui3] {syut3 seoi2} /water from melted ice/
-雪油 雪油 [xue3 you2] {syut3 jau4} /lubricating oil;lube/
-雪珠 雪珠 [xue3 zhu1] {syut3 zyu1} /graupel/
+雪水 雪水 [xue3 shui3] {syut3 seoi2} /eau de la neige; eau de neige fondue/
+雪油 雪油 [xue3 you2] {syut3 jau4} /graisse lubrifiante; huile de graissage/
+雪珠 雪珠 [xue3 zhu1] {syut3 zyu1} /grêle; grêlon/
 雪白 雪白 [xue3 bai2] {syut3 baak6} /blanc comme neige/
-雪種 雪种 [xue3 zhong3] {syut3 zung2} /coolant; freezing agent/
-雪糕廠 雪糕厂 [xue3 gao1 chang3] {syut3 gou1 cong2} /an ice cream factory/
+雪種 雪种 [xue3 zhong3] {syut3 zung2} /réfrigérant/
+雪糕廠 雪糕厂 [xue3 gao1 chang3] {syut3 gou1 cong2} /usine de crème glacée/
 雪糕批 雪糕批 [xue3 gao1 pi1] {syut3 gou1 pai1} /barre de crème glacée; esquimau; bâtonnet de glace/
 雪糕新地 雪糕新地 [xue3 gao1 xin1 di4] {syut3 gou1 san1 dei2} /sundae; coupe glacée/
 雪糕筒 雪糕筒 [xue3 gao1 tong3] {syut3 gou1 tung2} /cornet de crème glacée; cornet à glace; patisserie conique servant de contenant pour la crême glacée/(fig.) cône de signalisation; cône de chantier; cône orange/
-雪糕車 雪糕车 [xue3 gao1 che1] {syut3 gou1 ce1} /an ice cream van; an ice cream truck/
-雪菲爾 雪菲尔 [Xue3 fei1 er3] {syut3 fei1 ji5} /Sheffield, England/
-雪藏 雪藏 [xue3 cang2] {syut3 cong4} /(verb) to freeze (in a freezer); (of actor) get suspended from all work due to gross misconduct/
-雪蘭莪州 雪兰莪州 [Xue3 lan2 e2 zhou1] {syut3 laan4 ngo4 zau1} /Selangor, Malaysia/
-雪蛤 雪蛤 [xue3 ge2] {syut3 gaap3} /the Asiatic grass frog / Chinese brown frog (Rana chensinensis)/
-雪蛤膏 雪蛤膏 [xue3 ge2 gao1] {syut3 gap3 gou1} /hasma/
-雪融 雪融 [xue3 rong2] {syut3 jung4} /melting snow/
-雪褸 雪褛 [xue3 lü3] {syut3 lau1} /ski jacket; parka/
-雪車 雪车 [xue3 che1] {syut3 ce1} /a sled; a sledge; a sleigh/
+雪糕車 雪糕车 [xue3 gao1 che1] {syut3 gou1 ce1} /camion de glace; camion de glaces/
+雪菲爾 雪菲尔 [Xue3 fei1 er3] {syut3 fei1 ji5} /Sheffield, ville anglaise/
+???f 雪藏 雪藏 [xue3 cang2] {syut3 cong4} /réfrigérer; mettre au frigo; mettre dans le réfrigérateur/congeler; mettre dans le congélateur/(fig.) ne pas permettre un acteur de jouer ou un chanteur de donner des concerts après qu'il ait commis une faute professionnelle/
+雪蘭莪州 雪兰莪州 [xue3 lan2 e2 zhou1] {syut3 laan4 ngo4 zau1} /Selangor, état de la Malaisie/
+雪蛤 雪蛤 [xue3 ge2] {syut3 gaap3} /(espèce de grenouilles) Rana chensinensis/
+????f 雪蛤膏 雪蛤膏 [xue3 ge2 gao1] {syut3 gap3 gou1} /(ingrédient chinois) hasma/
+雪融 雪融 [xue3 rong2] {syut3 jung4} /fonte des neiges/
+雪褸 雪褛 [xue3 lu:3] {syut3 lau1} /manteau d'hiver; anorak/
+雪車 雪车 [xue3 che1] {syut3 ce1} /luge; traîneau/
 雲台花園 云台花园 [yun2 tai2 hua1 yuan2] {wan4 toi4 faa1 jyun4} /Yuntai Park, a place in Guangzhou, China/
 雲吞 云吞 [yun2 tun1] {wan4 tan1} /(slang)  nasal mucus that wrapped with a tissue paper (because the shape of that tissue paper is like a wonton.)/
 雲吞麵 云吞面 [yun2 tun1 mian4] {wan4 tan1 min6} /Wonton noodles/
