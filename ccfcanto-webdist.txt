@@ -5554,7 +5554,7 @@
 大廈 大厦 [da4 sha4] {daai6 haa6} /édifice/
 大廚 大厨 [da4 chu2] {daai6 cyu2} /grand patron/
 大強子對撞機 大强子对撞机 [da4 qiang2 zi3 dui4 zhuang4 ji1] {daai6 koeng4 zi2 deoi3 zong6 gei1} /Grand collisionneur de hadrons/
-大律師 大律师 [da4 lü4 shi1] {daai6 leot6 si1} /avocat/
+大律師 大律师 [da4 lu:4 shi1] {daai6 leot6 si1} /avocat; professionel du droit/
 大後日 大后日 [da4 hou4 ri4] {daai6 hau6 jat6} /dans trois jours/
 大循環 大循环 [da4 xun2 huan2] {daai6 ceon4 waan4} /système circulatoire/
 大快活 大快活 [da4 kuai4 huo5] {daai6 faai3 wut6} /Fairwood, chaîne de restauration rapide à Hong Kong/
@@ -7680,9 +7680,9 @@
 後座力 后座力 [hou4 zuo4 li4] {hau6 zo6 lik6} /recul (d'une arme à feu)/réaction contre quelque chose/jeu entre-dents/
 後患 后患 [hou4 huan4] {hau6 waan6} /conséquences, répercussions/
 後手 后手 [hou4 shou3] {hau6 sau2} /générations futures/
-後日 后日 [hou4 ri4] {hau6 jat6} /avenir, futur/à l'avenir/
-後晚 后晚 [hou4 wan3] {hau6 maan5} /dans deux nuits, après-demain soir/
-後朝 后朝 [hou4 chao2] {hau6 ziu1} /dans deux jour, le matin dans deux jours/
+後日 后日 [hou4 ri4] {hau6 jat6} /dans deux jours; après-demain/avenir, futur/à l'avenir/
+後晚 后晚 [hou4 wan3] {hau6 maan5} /dans deux nuits; après-demain soir/
+後朝 后朝 [hou4 chao2] {hau6 ziu1} /dans deux jours; le matin dans deux jours/
 後枕 后枕 [hou4 zhen3] {hau6 zam2} /(min nan) arrière du crâne/
 後果 后果 [hou4 guo3] {hau6 gwo2} /résultat, conséquence, répercussion/
 後浪推前浪 后浪推前浪 [hou4 lang4 tui1 qian2 lang4] {hau6 long6 teoi1 cin4 long6} /(expr. idiom.) la nouvelle génération prendra la place la génération actuelle/(lit.) les vagues à l'arrière poussent celles à l'avant/
@@ -20723,70 +20723,71 @@
 雞髀 鸡髀 [ji1 bi4] {gai1 bei2} /cuisse de poulet/pilon de poulet/
 雞髀打人牙骹軟 鸡髀打人牙骹软 [ji1 bi4 da3 ren2 ya2 qiao1 ruan3] {gai1 bei2 daa2 jan4 ngaa4 gaau3 jyun5} /(expr. idiom.) on n’attrape pas des mouches avec du vinaigre; persuader quelqu'un avec des moyens doux/(lit.) frapper le maxillaire avec un pilon de poulet jusqu'à ce qu'il soit mou/
 離 离 [li2] {lei4} /partir; quitter; s'en aller/(distance) être à... de (ex. être à cinq minutes du campus)/
-離境 离境 [li2 jing4] {lei4 ging2} /to leave a country/
-離天隔丈遠 离天隔丈远 [li2 tian1 ge2 zhang4 yuan3] {lei4 tin1 gaak3 zoeng6 jyun5} /far away; long distance/
-離心離德 离心离德 [li2 xin1 li2 de2] {lei4 sam1 lei4 dak1} /dissension/
-離晒罩 离晒罩 [li2 shai4 zhao4] {lei4 saai3 zaau3} /outrageous/
-離晒譜 离晒谱 [li2 shai4 pu3] {lei4 saai3 pou2} /outrageous/
-離析 离析 [li2 xi1] {lei4 sik1} /separation; dissociation; fall apart; to disintegrate/
-離氣 离气 [li2 qi4] {lei4 hei3} /to do something haphazardly / without a plan; disastrous dishevelled; in a sorry plight; helter-skelter; in a predicament(离弃, abandon;give up)/
-離行離迾 离行离迾 [li2 xing2 li2 lie4] {lei4 hong4 lei4 laat6} /far apart; wide of the mark; not in line; all over the place/
-離譜 离谱 [li2pu3] {lei4 pou2} /(adjective) Way too much and unacceptable /
-離遠 离远 [li2 yuan3] {lei4 jyun5} /from far; at a distance/
-離鄉別井 离乡别井 [li2 xiang1 bie2 jing3] {lei4 hoeng1 bit6 zeng2} /to leave one's home / hometown/
-離開 离开 [li2 kai1] {lei4 hoi1} /1. quit 2. check out 3. pass away/
-難 难 [nan2] {naan4} /(noun)  disaster/
-難以形容 难以形容 [nan2 yi3 xing2 rong2] {naan4 ji5 jing4 jung4} /hard to describe; have no words to express; no words can describe/
-難以為繼 难以为继 [nan2 yi3 wei2 ji4] {naan4 ji5 wai4 gai3} /difficult to continue; unsustainable/
-難以解決 难以解决 [nan2 yi3 jie3 jue2] {naan4 ji5 gaai2 kyut3} /difficult to solve;/
-難做 难做 [nan2 zuo4] {naan4 zou6} /difficult to do; to put someone in a difficult situation/
-難友 难友 [nan4 you3] {naan6 jau5} /fellow sufferer; a friend who accompanies one through tough times/
-難抵 难抵 [nan2 di3] {naan4 dai2} /hard to resist; hard to withstand; unbearable; intolerable/
-難明 难明 [nan2 ming2] {naan4 ming4} /difficult to understand/
-難為 难为 [nan2wei5] {naan4 wai4} /(verb) Make a hard time on someone/
-難相與 难相与 [nan2 xiang1 yu3] {naan4 soeng1 jyu5} /hard to work with; incompatible (spoken)/
-難睇 难睇 [nan2 di4] {naan4 tai2} /disgusting (spoken)/
-難耐 难耐 [nan2 nai4] {naan4 noi6} /hard to bear/
-難講 难讲 [nan2 jiang3] {naan4 gong2} /difficult to tell; hard to say; uncertain/
-難過 难过 [nan2 guo4] {naan4 gwo3} /feel sorry/
-難頂 难顶 [nan2 ding3] {naan4 ding2} /(slang) intolerable; unable to  stand  something; unbearable; unendurable/
-難食 难食 [nan2 shi2] {naan4 sik6} /taste bad; hard to eat; unpalatable/
-雨傘運動 雨伞运动 [yu3 san3 yun4 dong5] {jyu5 saan3 wan6 dung6} /the Umbrella Movement/
-雨傘革命 雨伞革命 [yu3 san3 ge2 ming4] {jyu5 saan3 gaak3 ming6} /the Umbrella Revolution/
-雨帽 雨帽 [yu3 mao4] {jyu5 mou2} /a rain hat / hood/
-雨毛 雨毛 [yu3 mao2] {jyu5 mou4} /drizzle (spoken)/
-雨水 雨水 [Yu3 shui3] {jyu5 seoi2} /(noun)  rain/
-雨水天 雨水天 [yu3 shui3 tian1] {jyu5 seoi2 tin1} /rainy days/
-雨溦 雨溦 [yu3 mei2] {jyu5 mei4} /drizzle (spoken)/
-雨溦溦 雨溦溦 [yu3 mei2 mei2] {jyu5 mei4 mei4} /drizzle (spoken)/
-雨粉 雨粉 [yu3 fen3] {jyu5 fan2} /light drizzle (spoken)/
-雨粉粉 雨粉粉 [yu3 fen3 fen3] {jyu5 fan2 fan2} /light drizzle/
-雨褸 雨褛 [yu3 lü3] {jyu5 lau1} /(noun) a slicker (raincoat); a raincoat/
-雨遮 雨遮 [yu3 zhe1] {jyu5 ze1} /umbrella/
-雨遮革命 雨遮革命 [yu3 zhe1 ge2 ming4] {jyu5 ze1 gaak3 ming6} /the Umbrella Revolution/
-雨雪 雨雪 [yu3 xue3] {jyu5 syut3} /sleet/
-雨雲 雨云 [yu3 yun2] {jyu5 wan4} /nimbus; rain clouds/
-雨露 雨露 [yu3 lu4] {jyu5 lou6} /dew/
-雪 雪 [xue3] {syut3} /(verb)  to storage thing in a fringe/
-雪冤 雪冤 [xue3 yuan1] {syut3 jyun1} /clear someone's name of a false charge/
-雪凍 雪冻 [xue3 dong4] {syut3 dung3} /to freeze / refrigerate (something)/
-雪原 雪原 [xue3 yuan2] {syut3 jyun4} /snowfield/
-雪堆 雪堆 [xue3 dui1] {syut3 deoi1} /snowdrift/
-雪屐 雪屐 [xue3 ji1] {syut3 kek6} /roller skates/
+離境 离境 [li2 jing4] {lei4 ging2} /quitter un pays/
+離天隔丈遠 离天隔丈远 [li2 tian1 ge2 zhang4 yuan3] {lei4 tin1 gaak3 zoeng6 jyun5} /(expr. idiom.) éloigné; lointain/
+離心離德 离心离德 [li2 xin1 li2 de2] {lei4 sam1 lei4 dak1} /dissenssion; discorde; désunion/
+離晒罩 离晒罩 [li2 shai4 zhao4] {lei4 saai3 zaau3} /complètement ridicule; scandaleux/
+離晒譜 离晒谱 [li2 shai4 pu3] {lei4 saai3 pou2} /complètement ridicule; scandaleux/
+離析 离析 [li2 xi1] {lei4 sik1} /(d'un pays ou gouvernement) s'effondrer/
+離氣 离气 [li2 qi4] {lei4 hei3} /à l'aveuglette; en se confiant au hasard/précipité; hâtif; bâclé/
+離行離迾 离行离迾 [li2 xing2 li2 lie4] {lei4 hong4 lei4 laat6} /(expr.) (deux personnes) marcher en maintenant une certaine distance entre eux/(expr.) être loin du compte; être en deçà de la vérité; être très en dessous des objectifs/
+離譜 离谱 [li2pu3] {lei4 pou2} /complètement ridicule; scandaleux/
+離遠 离远 [li2 yuan3] {lei4 jyun5} /à distance; de loin/
+離鄉別井 离乡别井 [li2 xiang1 bie2 jing3] {lei4 hoeng1 bit6 zeng2} /quitter sa ville natale/
+離開 离开 [li2 kai1] {lei4 hoi1} /partir; quitter; s'en aller/(fig.) décéder/
+難 难 [nan2] {naan4} /difficile/
+難 难 [nan2] {naan6} /catastrophe; désastre/
+難以形容 难以形容 [nan2 yi3 xing2 rong2] {naan4 ji5 jing4 jung4} /indescriptible; indicible/
+難以為繼 难以为继 [nan2 yi3 wei2 ji4] {naan4 ji5 wai4 gai3} /insoutenable; que l'on ne peut pas maintenir de manière durable/
+難以解決 难以解决 [nan2 yi3 jie3 jue2] {naan4 ji5 gaai2 kyut3} /difficile à résoudre/
+難做 难做 [nan2 zuo4] {naan4 zou6} /difficile à faire/causer des ennuis à quelqu'un/
+????f 難友 难友 [nan4 you3] {naan6 jau5} /ami qui passe de moments difficiles aussi/
+難抵 难抵 [nan2 di3] {naan4 dai2} /pénible; insupportable; intolérable; insoutenable/
+難明 难明 [nan2 ming2] {naan4 ming4} /difficile à comprendre/
+????f 難為 难为 [nan2 wei5] {naan4 wai2} /gêner; embarrasser/rendre (une tâche) difficile/être (une tâche, un travail) difficile/(utilisé pour remercier quelqu'un)/(utilisé pour reprocher quelqu'un d'avoir dit quelque chose) vous osez... (dire ça?)/(utilisé pour remercier quelqu'un de manière ironique)/
+難相與 难相与 [nan2 xiang1 yu3] {naan4 soeng1 jyu5} /difficile à s'entendre avec/
+難睇 难睇 [nan2 di4] {naan4 tai2} /laid; moche; affreux/
+難耐 难耐 [nan2 nai4] {naan4 noi6} /pénible; insupportable; intolérable; insoutenable/
+難講 难讲 [nan2 jiang3] {naan4 gong2} /difficile à dire; difficile à estimer/
+難過 难过 [nan2 guo4] {naan4 gwo3} /triste/désolé; navré; peiné/traverser des moments difficiles; passer des moments difficiles/
+難頂 难顶 [nan2 ding3] {naan4 ding2} /pénible; insupportable; intolérable; insoutenable/
+難食 难食 [nan2 shi2] {naan4 sik6} /avoir un mauvais goût; être dégoûtant/
+雨傘運動 雨伞运动 [yu3 san3 yun4 dong5] {jyu5 saan3 wan6 dung6} /Mouvement des parapluies, série de manifestations pour la démocratie à Hong Kong en 2014/
+雨傘革命 雨伞革命 [yu3 san3 ge2 ming4] {jyu5 saan3 gaak3 ming6} /Révolution des parapluies, série de manifestations pour la démocratie à Hong Kong en 2014/
+雨帽 雨帽 [yu3 mao4] {jyu5 mou2} /chapeau de pluie/
+雨毛 雨毛 [yu3 mao2] {jyu5 mou4} /bruine; crachin/
+雨水 雨水 [Yu3 shui3] {jyu5 seoi2} /pluie/
+雨水天 雨水天 [yu3 shui3 tian1] {jyu5 seoi2 tin1} /jour de pluie/
+雨溦 雨溦 [yu3 mei2] {jyu5 mei4} /bruine; cachin/
+雨溦溦 雨溦溦 [yu3 mei2 mei2] {jyu5 mei4 mei4} /bruine; crachin/
+雨粉 雨粉 [yu3 fen3] {jyu5 fan2} /bruine; crachin/
+雨粉粉 雨粉粉 [yu3 fen3 fen3] {jyu5 fan2 fan2} /bruine; crachin/
+雨褸 雨褛 [yu3 lu:3] {jyu5 lau1} /imperméable; vêtement de pluie/
+雨遮 雨遮 [yu3 zhe1] {jyu5 ze1} /parapluie/
+雨遮革命 雨遮革命 [yu3 zhe1 ge2 ming4] {jyu5 ze1 gaak3 ming6} /Révolution des parapluies, série de manifestations pour la démocratie à Hong Kong en 2014/
+雨雪 雨雪 [yu3 xue3] {jyu5 syut3} /pluie et neige/neige fondue/
+雨雲 雨云 [yu3 yun2] {jyu5 wan4} /nimbus; nuage de pluie/
+雨露 雨露 [yu3 lu4] {jyu5 lou6} /rosée/
+雪 雪 [xue3] {syut3} /neige/réfrigérer; mettre au frigo; mettre dans le réfrigérateur/congeler; mettre dans le congélateur/
+????f 雪冤 雪冤 [xue3 yuan1] {syut3 jyun1} /clear someone's name of a false charge/
+雪凍 雪冻 [xue3 dong4] {syut3 dung3} /réfrigérer; mettre au frigo; mettre dans le réfrigérateur/congeler; mettre dans le congélateur/
+????f 雪原 雪原 [xue3 yuan2] {syut3 jyun4} /snowfield (accumulation de neige permanente au pic d'une montagne ou d'une glacière)/
+雪堆 雪堆 [xue3 dui1] {syut3 deoi1} /congère; banc de neige/
+雪屐 雪屐 [xue3 ji1] {syut3 kek6} /patin à roulettes/
 雪山 雪山 [xue3 shan1] {syut3 saan1} /jokul;snow mountain/
 雪帽 雪帽 [xue3 mao4] {syut3 mou2} /a trooper fur hat; a trooper winter hat; an ushanka-hat; a snow hat/
 雪恨 雪恨 [xue3 hen4] {syut3 han6} /to avenge/
-雪批 雪批 [xue3 pi1] {syut3 pai1} /ice cream bar/
-雪梨 雪梨 [xue3 li2] {syut3 lei4} /(fruit)  Asian pear/
+雪批 雪批 [xue3 pi1] {syut3 pai1} /barre de crème glacée; esquimau; bâtonnet de glace/
+雪梨 雪梨 [xue3 li2] {syut3 lei4} /poire/Sydney, ville australienne/
 雪水 雪水 [xue3 shui3] {syut3 seoi2} /water from melted ice/
 雪油 雪油 [xue3 you2] {syut3 jau4} /lubricating oil;lube/
 雪珠 雪珠 [xue3 zhu1] {syut3 zyu1} /graupel/
-雪白 雪白 [xue3 bai2] {syut3 baak6} /white as snow/
+雪白 雪白 [xue3 bai2] {syut3 baak6} /blanc comme neige/
 雪種 雪种 [xue3 zhong3] {syut3 zung2} /coolant; freezing agent/
 雪糕廠 雪糕厂 [xue3 gao1 chang3] {syut3 gou1 cong2} /an ice cream factory/
-雪糕批 雪糕批 [xue3 gao1 pi1] {syut3 gou1 pai1} /an ice cream bar/
-雪糕新地 雪糕新地 [xue3 gao1 xin1 di4] {syut3 gou1 san1 dei2} /an ice cream sundae/
-雪糕筒 雪糕筒 [xue3 gao1 tong3] {syut3 gou1 tung2} /ice cream cone/
+雪糕批 雪糕批 [xue3 gao1 pi1] {syut3 gou1 pai1} /barre de crème glacée; esquimau; bâtonnet de glace/
+雪糕新地 雪糕新地 [xue3 gao1 xin1 di4] {syut3 gou1 san1 dei2} /sundae; coupe glacée/
+雪糕筒 雪糕筒 [xue3 gao1 tong3] {syut3 gou1 tung2} /cornet de crème glacée; cornet à glace; patisserie conique servant de contenant pour la crême glacée/(fig.) cône de signalisation; cône de chantier; cône orange/
 雪糕車 雪糕车 [xue3 gao1 che1] {syut3 gou1 ce1} /an ice cream van; an ice cream truck/
 雪菲爾 雪菲尔 [Xue3 fei1 er3] {syut3 fei1 ji5} /Sheffield, England/
 雪藏 雪藏 [xue3 cang2] {syut3 cong4} /(verb) to freeze (in a freezer); (of actor) get suspended from all work due to gross misconduct/
