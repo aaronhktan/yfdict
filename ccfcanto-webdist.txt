@@ -3953,8 +3953,8 @@
 咋咋聲 咋咋声 [ze2 ze2 sheng1] {zaa4 zaa2 seng1} /rapidement/
 咋咋臨 咋咋临 [ze2 ze2 lin2] {zaa4 zaa4 lam4} /rapidement/
 和了 和了 [huo4 le5] {wu2 liu5} /faire match nul, finir à l'égalité/
-和事佬 和事佬 [he2 shi4 lao3] {wo6 si6 lou2} /pacificateur, médiateur, arbitre, conciliateur/
-和事老 和事老 [he2 shi4 lao3] {wo4 si6 lou5} /pacificateur, médiateur, arbitre, conciliateur/
+和事佬 和事佬 [he2 shi4 lao3] {wo6 si6 lou2} /pacificateur; médiateur; entremise; arbitre; conciliateur/
+和事老 和事老 [he2 shi4 lao3] {wo4 si6 lou2} /pacificateur; médiateur; entremise; arbitre; conciliateur/
 和事酒 和事酒 [he2 shi4 jiu3] {wo4 si6 zau2} /repas, verre pour régler une dispute/
 和勝和 和胜和 [he2 sheng4 he2] {wo4 sing3 wo2} /Wo Shing Wo, une triade de Hong Kong/
 和味 和味 [he2 wei4] {wo4 mei6} /délicieux/entente commerciale avec beaucoup de profits/
@@ -6929,7 +6929,7 @@
 局住 局住 [ju2 zhu4] {guk6 zyu6} /forcé de/
 局外人 局外人 [ju2 wai4 ren2] {guk6 ngoi6 jan4} /étranger/
 局氣 局气 [ju2 qi4] {guk1 hei3} /se fâcher, se mettre en colère/
-居中調停 居中调停 [ju1 zhong1 tiao2 ting2] {geoi1 zung1 tiu4 ting4} /servir de médiateur/
+居中調停 居中调停 [ju1 zhong1 tiao2 ting2] {geoi1 zung1 tiu4 ting4} /servir de médiateur; servir d'entremise/
 居士 居士 [ju1 shi4] {geoi1 si6} /bouddhiste/
 居屋 居屋 [ju1 wu1] {geoi1 uk1} /appartements «Home Ownership Scheme» à Hong Kong/
 居於 居于 [ju1 yu2] {geoi1 jyu1} /vivre à, résider à/
@@ -14921,7 +14921,7 @@
 磅水 磅水 [bang4 shui3] {bong6 seoi2} /(fig.) payer/(fig.) rembourser (de l'argent)/(lit.) peser de l'eau/
 ????f 磚坯 砖坯 [zhuan1 pi1] {zyun1 pui1} /brique non cuite/
 ????c 磨嘴皮 磨嘴皮 [mo2 zui3 pi2] {mo4 zeoi2 pei4} /To persuade/idle talk, blabla/
-磨心 磨心 [mo4 xin1] {mo6 sam1} /médiateur entre deux personnes qui se disputent/
+磨心 磨心 [mo4 xin1] {mo6 sam1} /médiateur ou entremise (dans une dispute)/
 磨碌 磨碌 [mo2 lu4] {mo4 luk1} /(inj.) idiot; imbécile; crétin; con/
 ????f 磾 䃅 [di1] {dai1} /pierre noire utilisée dans la Chine ancienne pour créer une teinture/
 示 示 [shi4] {si6} /annoncer/notifier; informer/montrer/notice/
@@ -20790,7 +20790,7 @@
 雪糕新地 雪糕新地 [xue3 gao1 xin1 di4] {syut3 gou1 san1 dei2} /sundae; coupe glacée/
 雪糕筒 雪糕筒 [xue3 gao1 tong3] {syut3 gou1 tung2} /cornet de crème glacée; cornet à glace; patisserie conique servant de contenant pour la crême glacée/(fig.) cône de signalisation; cône de chantier; cône orange/
 雪糕車 雪糕车 [xue3 gao1 che1] {syut3 gou1 ce1} /camion de glace; camion de glaces/
-雪菲爾 雪菲尔 [Xue3 fei1 er3] {syut3 fei1 ji5} /Sheffield, ville anglaise/
+雪菲爾 雪菲尔 [xue3 fei1 er3] {syut3 fei1 ji5} /Sheffield, ville anglaise/
 ???Éf 雪藏 雪藏 [xue3 cang2] {syut3 cong4} /réfrigérer; mettre au frigo; mettre dans le réfrigérateur/congeler; mettre dans le congélateur/(fig.) ne pas permettre un acteur de jouer ou un chanteur de donner des concerts après qu'il ait commis une faute professionnelle/
 雪蘭莪州 雪兰莪州 [xue3 lan2 e2 zhou1] {syut3 laan4 ngo4 zau1} /Selangor, état de la Malaisie/
 雪蛤 雪蛤 [xue3 ge2] {syut3 gaap3} /(espèce de grenouilles) Rana chensinensis/
@@ -20850,58 +20850,57 @@
 電工學 电工学 [dian4 gong1 xue2] {din6 gung1 hok6} /génie électrique; électrotechnique/
 電影明星 电影明星 [dian4 ying3 ming2 xing1] {din6 jing2 sing1} /star de cinéma/
 電影業 电影业 [dian4 ying3 ye4] {din6 jing2 jip6} /industrie cinématographique/
-電心 电心 [dian4 xin1] {din6 sam1} /battery/
+電心 电心 [dian4 xin1] {din6 sam1} /pile; batterie (voir aussi 電芯|电芯)/
 電掣 电掣 [dian4 che4] {din6 zai3} /commutateur; interrupteur/
-電晶體 电晶体 [dian4 jing1 ti3] {din6 zing1 tai2} /transistor/
-電暖爐 电暖炉 [dian4 nuan3 lu2] {din6 nyun5 lou4} /an electric heater/
+電晶體 电晶体 [dian4 jing1 ti3] {din6 zing1 tai2} /(composant électrique) transistor/
+電暖爐 电暖炉 [dian4 nuan3 lu2] {din6 nyun5 lou4} /radiateur électrique/
 電椅 电椅 [dian4 yi3] {din6 ji2} /chaise électrique/
 電水煲 电水煲 [dian4 shui3 bao1] {din6 seoi2 bou1} /bouilloire électrique/
-電池組 电池组 [dian4 chi2 zu3] {din6 ci4 zou2} /a battery pack/
-電油 电油 [dian4 you2] {din6 jau4} /gasoline; petrol/
+電池組 电池组 [dian4 chi2 zu3] {din6 ci4 zou2} /pile; bloc-batterie/
+電油 电油 [dian4 you2] {din6 jau4} /essence; pétrole/
 電油站 电油站 [dian4 you2 zhan4] {din6 jau4 zaam6} /station essence; station-service/
-電流強度 电流强度 [dian4 liu2 qiang2 du4] {din6 lau4 koeng4 dou6} /current density; current strength; current intensity/
-電流計 电流计 [dian4 liu2 ji4] {din6 lau4 gai3} /galvanometer/
+電流強度 电流强度 [dian4 liu2 qiang2 du4] {din6 lau4 koeng4 dou6} /intensité de courant électrique/
+電流計 电流计 [dian4 liu2 ji4] {din6 lau4 gai3} /galvanomètre; instrument destiné à mesurer l'électricité/
 電焗爐 电焗炉 [dian4 ju2 lu2] {din6 guk6 lou4} /four électrique/
-電熨斗 电熨斗 [dian4 yun4 dou3] {din6 tong3 dau2} /an electric iron/
-電熱水爐 电热水炉 [dian4 re4 shui3 lu2] {din6 jit6 seoi2 lou4} /fer à repasser électrique/ 
-電燈杉 电灯杉 [dian4 deng1 shan1] {din6 dang1 caam3} /standing straight (slang)/
-電燈膽 电灯胆 [dian4 deng1 dan3] {din6 dang1 daam2} /(n.) a light bulb; the third wheel; an insensitive person who tags along with a couple, without realizing that the couple wants some privacy/
+電熨斗 电熨斗 [dian4 yun4 dou3] {din6 tong3 dau2} /fer à repasser électrique/
+電熱水爐 电热水炉 [dian4 re4 shui3 lu2] {din6 jit6 seoi2 lou4} /bouilloire électrique/ 
+電燈杉 电灯杉 [dian4 deng1 shan1] {din6 dang1 caam3} /pylône électrique; poteau électrique; poteau d'électricité/(fig.) se tenir droit/
+電燈膽 电灯胆 [dian4 deng1 dan3] {din6 dang1 daam2} /ampoule/(fig.) (tenir) la chandelle; (être) la cinquième roue du carrosse/
 電燙斗 电烫斗 [dian4 tang4 dou4] {din6 tong3 dau2} /fer à repasser électrique/
-電磁爐 电磁炉 [dian4 ci2 lu2] {din6 ci4 lou4} /induction cooker/
-電磁輻射 电磁辐射 [dian4 ci2 fu2 she4] {din6 ci4 fuk1 se6} /electromagnetic radiation/
+電磁爐 电磁炉 [dian4 ci2 lu2] {din6 ci4 lou4} /plaque à induction/
+電磁輻射 电磁辐射 [dian4 ci2 fu2 she4] {din6 ci4 fuk1 se6} /rayonnement électromagnétique/
 電視 电视 [dian4 shi4] {din6 si6} /télévision/émission de télé; série télévisée/
 電視劇 电视剧 [dian4 shi4 ju4] {din6 si6 kek6} /soap opera; feuilleton/
-電視廣播有限公司 电视广播有限公司 [dian4 shi4 guang3 bo1 you3 xian4 gong1 si1] {din6 si6 gwong2 bo3 jau5 haan6 gung1 si1} /Television Broadcasts Limited/
-電視片 电视片 [dian4 shi4 pian4] {din6 si6 pin3} /a television film/
-電視畫面 电视画面 [dian4 shi4 hua4 mian4] {din6 si6 waa2 min6} /television pictures/images; television screen/
-電視觀眾 电视观众 [dian4 shi4 guan1 zhong4] {din6 si6 gun1 zung3} /television audience/
-電視頻道 电视频道 [dian4 shi4 pin2 dao4] {din6 si6 pan4 dou6} /television channel/
-電移位切試驗 电移位切试验 [dian4 yi2 wei4 qie4 shi4 yan4] {din6 ji4 wai2 cit3 si3 jim6} /electrophoretic mobility shift assay/
-電筆 电笔 [dian4 bi3] {din6 bat1} /an electroprobe;an electric testing pen/
-電結他 电结他 [dian4 jie2 ta1] {din6 git3 taa1} /an electric guitar/
-電聯 电联 [dian4 lian2] {din6 lyun4} /to contact by phone/
-電腦科學 电脑科学 [dian4 nao3 ke1 xue2] {din6 nou5 fo1 hok6} /computer science/
-電船 电船 [dian4 chuan2] {din6 syun4} /a motorboat/
-電芯 电芯 [dian4 xin1] {din6 sam1} /a (electrical) battery/
-電親 电亲 [dian4 qin1] {din6 can1} /to get an electric shock; to be electrocuted; to be drawn to someone flirtations / advances/
-電訊盈科 电讯盈科 [Dian4 xun4 Ying2 ke1] {din6 seon3 jing4 fo1} /Pacific Century Cyber Works (PCCW Limited), an information and communications technology company based in Hong Kong/
-電訊管理局 电讯管理局 [dian4 xun4 guan3 li3 ju2] {din6 seon3 gun2 lei5 guk2 } /Office of the Telecommunications Authority/
-電話 电话 [dian4 hua4] {din6 waa2} /(noun)  telephone (including cell phone)/
-電話號碼 电话号码 [dian4 hua4 hao4 ma3] {din6 waa2 hou6 maa5} /phone number/
-電話號碼 电话号码 [dian4 hua4 hao4 ma3] {din6 waa2 hou6 maa5} /phone number/
-電費 电费 [dian4 fei4] {din6 fai3} /electricity bill/
-電路圖 电路图 [dian4 lu4 tu2] {din6 lou6 tou4} /a circuit diagram; an electrical diagram; an elementary diagram; an electronic schematic/
-電車 电车 [dian4 che1] {din6 ce1} /1. tram 2. electric-powered vehicle/
-電車站 电车站 [dian4 che1 zhan4] {din6 ce1 zaam6} /a tram stop/
-電鐘 电钟 [dian4 zhong1] {din6 zung1} /an electric clock; an electric bell/
-電風筒 电风筒 [dian4 feng1 tong3] {din6 fung1 tung2} /a hairdryer/
-電髮 电发 [dian4 fa4] {din6 faat3} /to perm one's hair/
-電鬚刨 电须刨 [dian4 xu1 bao4] {din6 sou1 paau2} /an electric shaver / razor/
-需 需 [xu1] {seoi1} /(noun)  Demand/
-需求 需求 [xu1qiu2] {seoi1 kau4} /(noun) Need/
+電視廣播有限公司 电视广播有限公司 [dian4 shi4 guang3 bo1 you3 xian4 gong1 si1] {din6 si6 gwong2 bo3 jau5 haan6 gung1 si1} /Television Broadcasts Limited, TVB, group audiovisuel hongkongais/
+電視片 电视片 [dian4 shi4 pian4] {din6 si6 pin3} /téléfilm; film tourné pour la télévision/
+電視畫面 电视画面 [dian4 shi4 hua4 mian4] {din6 si6 waa2 min6} /écran de télévision/
+電視觀眾 电视观众 [dian4 shi4 guan1 zhong4] {din6 si6 gun1 zung3} /téléspectateurs; audience télévisée/
+電視頻道 电视频道 [dian4 shi4 pin2 dao4] {din6 si6 pan4 dou6} /chaîne de télévision/
+電移位切試驗 电移位切试验 [dian4 yi2 wei4 qie4 shi4 yan4] {din6 ji4 wai2 cit3 si3 jim6} /(biologie) retard sur gel (« EMSA » ou « electrophoretic mobility shift assay » en anglais)/
+????c 電筆 电笔 [dian4 bi3] {din6 bat1} /an electroprobe;an electric testing pen/
+電結他 电结他 [dian4 jie2 ta1] {din6 git3 taa1} /guitare électrique/
+電聯 电联 [dian4 lian2] {din6 lyun4} /contacter par téléphone/
+電腦科學 电脑科学 [dian4 nao3 ke1 xue2] {din6 nou5 fo1 hok6} /informatique/
+電船 电船 [dian4 chuan2] {din6 syun4} /bateau à moteur/
+電芯 电芯 [dian4 xin1] {din6 sam1} /pile; batterie/
+????f 電親 电亲 [dian4 qin1] {din6 can1} /prendre une décharge (électrique)/être flirté avec/
+????f 電訊盈科 电讯盈科 [dian4 xun4 ying2 ke1] {din6 seon3 jing4 fo1} /Pacific Century Cyber Works (PCCW Limited), compagnie de télécommunications hongkongaise/
+????f 電訊管理局 电讯管理局 [dian4 xun4 guan3 li3 ju2] {din6 seon3 gun2 lei5 guk2 } /Office of the Telecommunications Authority, ministère de télécommunications à Hong Kong/
+電話 电话 [dian4 hua4] {din6 waa2} /téléphone/portable; mobile; céllulaire; cell/appel; coup de téléphone; coup de file/
+電話號碼 电话号码 [dian4 hua4 hao4 ma3] {din6 waa2 hou6 maa5} /numéro de téléphone/
+電費 电费 [dian4 fei4] {din6 fai3} /facture d'électricité/
+電路圖 电路图 [dian4 lu4 tu2] {din6 lou6 tou4} /schéma électrique/
+電車 电车 [dian4 che1] {din6 ce1} /tramway/automotrice électrique/trolleybus/
+電車站 电车站 [dian4 che1 zhan4] {din6 ce1 zaam6} /arrêt de tramway/
+電鐘 电钟 [dian4 zhong1] {din6 zung1} /horloge électrique/
+電風筒 电风筒 [dian4 feng1 tong3] {din6 fung1 tung2} /sèche-cheveux; séchoir/
+電髮 电发 [dian4 fa4] {din6 faat3} /se faire une permanente/
+電鬚刨 电须刨 [dian4 xu1 bao4] {din6 sou1 paau2} /rasoir électrique/
+需 需 [xu1] {seoi1} /besoin/avoir besoin/
+需求 需求 [xu1 qiu2] {seoi1 kau4} /besoin/(finances) demande sur le marché/
 震揗揗 震揗揗 [zhen4 shun3 shun3] {zan3 tan4 tan4} /to tremble; to shiver/
 震震貢 震震贡 [zhen4 zhen4 gong4] {zan3 zan3 gung3} /not in a still motion; moving around/
-震驚 震惊 [zhen4jing1] {zan3 ging1} /(adjective) Shocked/
+震驚 震惊 [zhen4 jing1] {zan3 ging1} /(adjective) Shocked/
 霉 霉 [mei2] {mui4} /(adjective) (of condition) 1. poor and wretched; (noun)  bad luck/
 霉菜 霉菜 [mei2 cai4] {mui4 coi3} /preserved vegetables/
 霉薑 霉姜 [mei2 jiang1] {mui4 goeng1} /a type of pickled ginger/
