@@ -21075,34 +21075,35 @@
 韓 韩 [han2] {hon4} /coréen/
 韓國菜 韩国菜 [han2 guo2 cai4] {hon4 gwok3 coi3} /cuisine coréenne/
 韓國話 韩国话 [han2 guo2 hua4] {hon4 gwok3 waa2} /(langue) coréen/
-韓流 韩流 [Han2 liu2] {hon4 lau4} /tendance coréenne/
-韓裔 韩裔 [Han2 yi4] {hon4 jeoi6} /ethnic Korean /
-韞 韫 [yun4] {wan2} /(verb)  Lock up/
-韞黑房 韫黑房 [yun4 hei1 fang2] {wan3 haak1 fong2} /to lock somebody up in a black room (store room); to be held in solitary confinement/
-韭黃 韭黄 [jiu3 huang2] {gau2 wong4} /softened Chinese leek/
-韮菜 韭菜 [jiu3 cai4] {gau2 coi3} /Chinese leek/
-韮黃 韭黄 [jiu3 huang2] {gau2 wong4} /(Allium tuberosum); garlic chives; oriental garlic; Chinese chives; Chinese leek/
+韓流 韩流 [han2 liu2] {hon4 lau4} /tendance coréenne/
+韓裔 韩裔 [han2 yi4] {hon4 jeoi6} /(personne) d'origin coréenne/
+韞 韫 [yun4] {wan2} /contenir; renfermer/piéger/
+韞黑房 韫黑房 [yun4 hei1 fang2] {wan3 haak1 fong2} /(fig.) mettre en isolement/(lit.) renfermer dans une chambre noire/
+????f 韭黃 韭黄 [jiu3 huang2] {gau2 wong4} /ciboule de Chine cultivée dans l'obscurité, afin qu'elle soit plus tendre et son goût moins fort/(lit.) ciboule de Chine jaune/
+韮菜 韭菜 [jiu3 cai4] {gau2 coi3} /ciboule de Chine; ciboulette chinoise; Allium tuberosum/
+????f 韮黃 韭黄 [jiu3 huang2] {gau2 wong4} /ciboule de Chine cultivée dans l'obscurité, afin qu'elle soit plus tendre et son goût moins fort/(lit.) ciboule de Chine jaune/
 音底 音底 [yin1 di3] {jam1 dai2} /accent/
 音樂會 音乐会 [yin1 yue4 hui4] {jam1 ngok6 wui2} /concert de musique/
 音樂碟 音乐碟 [yin1 yue4 die2] {jam1 ngok6 dip6} /disque de musique; disque compact; CD/
-章回體 章回体 [zhang1 hui2 ti3] {zoeng1 wui4 tai2} /a type of traditional Chinese novel with captions for each chapter/
-章法 章法 [zhang1 fa3] {zoeng1 faat3} /(noun) skills of playing mah-jong games/
-韶光 韶光 [shao2 guang1] {siu4 gwong1} /youth/
-韻律泳 韵律泳 [yun4 lu:4 yong3] {wan5 leot6 wing6} /synchronized swimming; water ballet/
+????f 章回體 章回体 [zhang1 hui2 ti3] {zoeng1 wui4 tai2} /(a type of traditional Chinese novel with captions for each chapter) roman traditionnel chinois où chaque chapitre commence par un couplet qui résume son contenu/
+????c 章法 章法 [zhang1 fa3] {zoeng1 faat3} /organisation and structure in wirting/(noun) methodicalness/(noun) skills of playing mah-jong games/
+韶光 韶光 [shao2 guang1] {siu4 gwong1} /(litt.) splendide jeunesse/(litt.) beau printemps/
+韻律泳 韵律泳 [yun4 lu:4 yong3] {wan5 leot6 wing6} /natation synchronisée; natation artistique/
 響度 响度 [xiang3 du4] {hoeng2 dou6} /ici/
-響螺 响螺 [xiang3 luo2] {hoeng2 lo2} /giant conch/
+響螺 响螺 [xiang3 luo2] {hoeng2 lo2} /(genre d'escargots de mer) Hemifusus/
 頁數 页数 [ye4 shu4] {jip6 sou3} /numéro de page/nombre de pages/
-頂 顶 [ding3] {ding2} /(verb) (of response) 1. retort; (adjective) 1. best; 2. top rank/
-頂你個肺 顶你个肺 [ding3 ni3 ge4 fei4] {ding2 nei5 go3 fai3} /shit; damn you (derogatory)/
-頂包 顶包 [ding3 bao1] {ding2 baau1} /"stand in" for crime not committed as to protect the real culprit/
-頂唔住 顶唔住 [ding3 n2 zhu4] {ding2 m4 zyu6} /ne plus pouvoir supporter; nen pas pouvoir tolérer/
-頂唔順 顶唔顺 [ding3 n2 shun4] {ding2 m4 seon6} /ne plus pouvoir supporter; nen pas pouvoir tolérer/
-頂喉頂頸 顶喉顶颈 [ding3 hou2 ding3 jing3] {ding2 hau4 ding2 geng2} /to reply / talk back defiantly(in an argument); to answer back sarcastically/
+頂 顶 [ding3] {ding2} /répondre; répliquer/meilleur/supporter; résister (une force)/supporter; tolérer/remplacer/(un peu vulg.) zut! mince! merde! putain! esti! (voir aussi 頂你個肺|顶你个肺)/
+頂 顶 [ding3] {deng2} /dessus/sommet; pic/(classificateur pour les chapeaux)/
+頂你個肺 顶你个肺 [ding3 ni3 ge4 fei4] {ding2 nei5 go3 fai3} /(vulg.) va te faire foutre!/(lit.) perce tes poumons/
+頂包 顶包 [ding3 bao1] {ding2 baau1} /assumer la responsabilité; porter le chapeau; prendre la responsabilité (pour quelqu'un d'autre)/
+頂唔住 顶唔住 [ding3 n2 zhu4] {ding2 m4 zyu6} /ne plus pouvoir supporter; ne pas pouvoir tolérer/
+頂唔順 顶唔顺 [ding3 n2 shun4] {ding2 m4 seon6} /ne plus pouvoir supporter; ne pas pouvoir tolérer/
+頂喉頂頸 顶喉顶颈 [ding3 hou2 ding3 jing3] {ding2 hau4 ding2 geng2} /(expr. idiom.) répondre par le sarcasme; répondre; répliquer/
 頂夾 顶夹 [ding3 jia1] {deng2 gep6} /hair pins / grips (to hold hair in place)/
-頂好 顶好 [ding3 hao3] {ding2 hou2} /the best/
-頂帽 顶帽 [ding3 mao4] {deng2 mou6} /top-hat; the hat; that hat; this hat/
-頂得住 顶得住 [ding3 de2 zhu4] {ding2 dak1 zyu6} /can handle; can withstand; can hold up; can carry on/
-頂得順 顶得顺 [ding3 de5 shun4] {ding2 dak1 seon6} /can stand it (spoken)/
+頂好 顶好 [ding3 hao3] {ding2 hou2} /le meilleur/très bon/faire mieux de/
+頂帽 顶帽 [ding3 mao4] {deng2 mou6} /ce chapeau/ce chapeau-là/
+頂得住 顶得住 [ding3 de2 zhu4] {ding2 dak1 zyu6} /pouvoir supporter; pouvoir tolérer; pouvoir résister/
+頂得順 顶得顺 [ding3 de5 shun4] {ding2 dak1 seon6} /pouvoir supporter; pouvoir tolérer; pouvoir résister/
 頂心杉 顶心杉 [ding3 xin1 shan1] {ding2 sam1 caam3} /a thorn in somebody's side/
 頂心頂肺 顶心顶肺 [ding3 xin1 ding3 fei4] {ding2 sam1 ding2 fai3} /a person who is not only argumentative but says hurtful words as well; someone who is a constant source of irriation; to feel vexed and perturbed by the actions of others/
 頂手 顶手 [ding3 shou3] {ding2 sau2} /to take over (a shop / business / property); the selling price of a property or a shop; to sell a property or a shop/
@@ -21113,13 +21114,13 @@
 頂硬上 顶硬上 [ding3 ying4 shang4] {ding2 ngaang6 soeng5} /(verb) to keep or to stick to working on something despite difficulties; to hang on and continue doing something; to brave it out; to brace oneself to do something; to put a brave face on; to summon up courage/
 頂禮膜拜 顶礼膜拜 [ding3 li3 mo2 bai4] {ding2 lai5 mou4 baai3} /to prostrate oneself in worship/
 頂籠 顶笼 [ding3 long2] {ding2 lung2} /at the extreme point (such as 'at most', 'at worst' or 'at best')/
-頂肚 顶肚 [ding3 du4] {ding2 tou5} /(phrasal verb) to grab a quick bite to satisfy one's hunger temporarily./
-頂肚餓 顶肚饿 [ding3 du4 e4] {ding2 tou5 ngo6} /to satisfy one's hunger temporarily/
+頂肚 顶肚 [ding3 du4] {ding2 tou5} /(fig.) prendre une collation/(fig.) rassasier sa faim/(lit.) aider son estomac à résister/
+頂肚餓 顶肚饿 [ding3 du4 e4] {ding2 tou5 ngo6} /(fig.) prendre une collation/(fig.) rassasier sa faim/(lit.) résister à la faim/
 頂證 顶证 [ding3 zheng4] {ding2 zing3} /testify/
 頂趾鞋 顶趾鞋 [ding3 zhi3 xie2] {ding2 zi2 haai4} /(literally: shoes that are too small); describes a wife who has very strict control over her husband /
 頂頭上司 顶头上司 [ding3 tou2 shang4 si5] {ding2 tau4 soeng6 si1} /(noun)  Someone's supervisor or boss/
 頂頭陣 顶头阵 [ding3 tou5 zhen4] {ding2 tau4 zan6} /leading an attack; avant-garde (spoken)/
-頂頸 顶颈 [ding3 jing3] {ding2 geng2} /(slang) to argue; to quarrel; to debate; to dispute; to retort; to bicker; to talk back defiantly/
+頂頸 顶颈 [ding3 jing3] {ding2 geng2} /(fig.) se disputer; se quereller/(fig.) répondre par le sarcasme; répondre; répliquer/(lit.) avoir le cou qui résiste/
 順 顺 [shun4] {seon6} /1. straight flush (poker) 2. smooth/
 順住 顺住 [shun4 zhu4] {seon6 zyu6} /along/
 順喉 顺喉 [shun4 hou2] {seon6 hau4} /to describe something (food or drink) that is easy on the throat/
