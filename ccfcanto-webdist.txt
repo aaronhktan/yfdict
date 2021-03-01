@@ -9989,8 +9989,8 @@
 救生員 救生员 [jiu4 sheng1 yuan2] {gau3 sang1 jyun4} /maître-nageur, surveillant de baignade, surveillante de baignade, surveillant-sauveteur/
 敗兵折將 败兵折将 [bai4 bing1 zhe2 jiang4] {baai6 bing1 zit3 zoeng3} /perdre de nombreux soldats et généraux à cause d'une défaite militaire/
 敗家 败家 [bai4 jia1] {baai6 gaa1} /dépenser la fortune familiale/déshonorer la famille, faire honte à la famille/
-敗家仔 败家仔 [bai4 jia1 zi3] {baai6 gaa1 zai2} /fils prodigue/
-敗家精 败家精 [bai4 jia1 jing1] {baai6 gaa1 zing1} /fils prodigue, fille prodigue/
+敗家仔 败家仔 [bai4 jia1 zi3] {baai6 gaa1 zai2} /personne qui dépense tout l'argent de sa famille; personne qui dilapide son héritage/
+敗家精 败家精 [bai4 jia1 jing1] {baai6 gaa1 zing1} /personne qui dépense tout l'argent de sa famille; personne qui dilapide son héritage/
 敗水軍師 败水军师 [bai4 shui3 jun1 shi1] {baai6 seoi2 gwan1 si1} /une personne qui donne toujours de mauvais conseils, conseiller incompétent/
 敗血 败血 [bai4 xue4] {baai6 hyut3} /sepsis, inflammation d'origine infectieuse/(médecine traditionnelle chinoise) qui est mauvais pour le ch'i (l'énergie vitale) et le sang/
 敗血病 败血病 [bai4 xue4 bing4] {baai6 hyut3 beng6} /sepsis/
@@ -21248,75 +21248,74 @@
 ????f 顧面 顾面 [gu4 mian4] {gu3 min6} /garder sa dignité; sauver la face; éviter de s'humilier/être trop fier pour (accepter de l'aide)/ne pas blesser (quelqu'un d'autre émotionellement)/
 ????f 顧食唔顧著 顾食唔顾着 [gu4 shi2 m2 gu4 zhe5] {gu3 sik6 m4 gu3 zoek3} /(expr.) s'intéresser à ce que l'on mange mais pas ce que l'on porte/
 顯然 显然 [xian3 ran2] {hin2 jin4} /évidemment; manifestement; visiblement; de tout évidence/
-顯赫 显赫 [xian3he4] {hin2 haak1} /(adjective) Eminent/
-顯靈 显灵 [xian3 ling2] {hin2 ling4} /(a ghost or spirit,God,etc.) make its presence or power felt; epiphanic; appartition/
-風俗 风俗 [feng1 su2] {fung1 zuk6} /folklore; tribal or local customs/
-風俗習慣 风俗习惯 [feng1 su2 xi2 guan4] {fung1 zuk6 zaap6 gwaan3} /culture and traditions/
-風俗習慣 风俗习惯 [feng1 su2 xi2 guan4] {fung1 zuk6 zaap6 gwaan3} /manners and customs/
+顯赫 显赫 [xian3 he4] {hin2 haak1} /célèbre; connu/
+????f 顯靈 显灵 [xian3 ling2] {hin2 ling4} /(fantôme, esprit, dieu) faire sentir sa présence; se manifester; se révéler/
+風俗 风俗 [feng1 su2] {fung1 zuk6} /coutume/
+風俗習慣 风俗习惯 [feng1 su2 xi2 guan4] {fung1 zuk6 zaap6 gwaan3} /(expr.) us et coutumes/
 風頭十足 风头十足 [feng1 tou2 shi2 zu2] {fung1 tau4 sap6 zuk1} /être à l'honneur; être en vedette/
-風信 风信 [feng1 xin4] {fung1 seon3} /seasonal wind; news / message (scent or sound brought by the wind)/
-風吹草動 风吹草动 [feng1 chui1 cao3 dong4] {fung1 ceoi1 cou2 dung6} /a sign of disturbance; signs of trouble/
-風吹雞蛋殼 风吹鸡蛋壳 [feng1 chui1 ji1 dan4 ke2] {fung1 ceoi1 gai1 daan2 hok3} /meaning that a person is happier without lots of materialistic property/
-風塵中人 风尘中人 [feng1 chen2 zhong1 ren2] {fung1 can4 zung1 jan4} /someone who works for night clubs, such as a prostitute or a nightclub hostess/
-風季 风季 [feng1 ji4] {fung1 gwai3} /the typhoon season/
-風度翩翩 风度翩翩 [feng1 du4 pian1 pian1] {fung1 dou6 pin1 pin1} /dapper; the elegant demeanor of a gentleman/
-風擺柳 风摆柳 [feng1 bai3 liu3] {fung1 baai2 lau5} /describes someone who is indecisive / irresolute / lacks definite views of their own / easily swayed/
-風景區 风景区 [feng1 jing3 qu1] {fung1 ging2 keoi1} /a scenic spot;a scenic area/
-風景區 风景区 [feng1 jing3 qu1] {fung1 ging2 keoi1} /scenic area/
-風月場所 风月场所 [feng1 yue4 chang3 suo3] {fung1 jyut6 coeng4 so2} /a vice establishment; a place of debauchery; the red light district/
-風栗 风栗 [feng1 li4] {fung1 leot6} /chestnut/
-風槍 风枪 [feng1 qiang1] {fung1 coeng1} /air gun/
-風櫃 风柜 [feng1 gui4] {fung1 gwai6} /a winnower/
-風水佬 风水佬 [feng1 shui5 lao3] {fung1 seoi2 lou2} /fortune teller; fung shui master (spoken)/
-風水佬呃你十年八年 风水佬呃你十年八年 [feng1 shui5 lao3 e4 ni3 shi2 nian2 ba1 nian2] {fung1 seoi2 lou2 ak1 nei5 sap6 nin4 baat3 nin4} /(literally: a Fengshui master may deceive you for only eight or ten years); time will tell; you will realise with time that I am telling you the truth; time will witness the truth; would I lie to you?/
-風水佬呃你十年八年，唔呃得一世 风水佬呃你十年八年，唔呃得一世 [feng1 shui5 lao3 e4 ni3 shi2 nian2 ba1 nian2 , m2 e4 de5 yi1 shi4] {fung1 seoi2 lou2 ak1 nei5 sap6 nin4 baat3 nin4 ，m4 ak1 dak1 jat1 sai3} /literally: 'a Fung Shui master can fool you for only eight to ten years, but not for a whole life'; time will tell; you will realise with time that I am telling you the truth; time will witness the truth; would I lie to you?/
-風水尾 风水尾 [feng1 shui5 wei3] {fung1 seoi2 mei5} /a spendthrift;a prodigal son squandering the family fortune; someone who is a ne'er-do-well / good-for-nothing; describes when a family has reached the last days of its luck and fortune/
-風水師 风水师 [feng1 shui5 shi1] {fung1 seoi2 si1} /a Feng Shui geomancer; a Feng Shui master/
-風油軚 风油軚 [feng1 you2 dai4] {fung1 jau4 taai5} /electronic power assisted steering/
-風涼 风凉 [feng1 liang2] {fung1 loeng4} /cool wind;sarcastic/
-風涼水冷 风凉水冷 [feng1 liang5 shui3 leng3] {fung1 loeng4 seoi2 laang5} /an expression to describe a comfortable (place); an expression to describe a cool, windy, pleasant place (can also be used in an ironic sense)/
+風信 风信 [feng1 xin4] {fung1 seon3} /(litt.) vent saisonnier/nouvelles/
+????f 風吹草動 风吹草动 [feng1 chui1 cao3 dong4] {fung1 ceoi1 cou2 dung6} /(expr. idiom.) signe de problème; signe de difficulté/(lit.) soufflement du vent et bruissement de l'herbe/
+風吹雞蛋殼 风吹鸡蛋壳 [feng1 chui1 ji1 dan4 ke2] {fung1 ceoi1 gai1 daan2 hok3} /(expr.) plaie d'argent n'est pas mortelle; l'argent n'est pas tout/(lit.) (l'argent, c'est comme) une coquille d'œuf qui peut être facilement emportée par le vent/
+????f 風吹雞蛋殼，財散人安樂 风吹鸡蛋壳，财散人安乐 [feng1 chui1 ji1 dan4 ke2，cai2 san4 ren2 an1 le4] {fung1 ceoi1 gai2 daan2 hok3，coi4 saan3 jan4 on1 lok6} /(expr. idiom.) plaie d'argent n'est pas mortelle; l'argent n'est pas tout/(lit.) (l'argent, c'est comme) une coquille d'œuf qui peut être facilement emportée par le vent, l'on est plus content quand nos richesses sont dispersées/
+風塵中人 风尘中人 [feng1 chen2 zhong1 ren2] {fung1 can4 zung1 jan4} /(expr.) prostituée/
+風季 风季 [feng1 ji4] {fung1 gwai3} /saison des typhons/
+風度翩翩 风度翩翩 [feng1 du4 pian1 pian1] {fung1 dou6 pin1 pin1} /(expr.) maintien élégant d'un jeune homme/
+????c 風擺柳 风摆柳 [feng1 bai3 liu3] {fung1 baai2 lau5} /describes someone who is indecisive / irresolute / lacks definite views of their own / easily swayed/
+風景區 风景区 [feng1 jing3 qu1] {fung1 ging2 keoi1} /endroit pittoresque/
+風月場所 风月场所 [feng1 yue4 chang3 suo3] {fung1 jyut6 coeng4 so2} /(expr.) lieu de débauche/(expr.) quartier chaud; quarter à prostituées/
+風栗 风栗 [feng1 li4] {fung1 leot6} /châtaigne/
+風槍 风枪 [feng1 qiang1] {fung1 coeng1} /pistolet à air comprimé/
+風櫃 风柜 [feng1 gui4] {fung1 gwai6} /outil mécanique pour vanner/
+風水佬 风水佬 [feng1 shui5 lao3] {fung1 seoi2 lou2} /maître de Feng Shui/
+????f 風水佬呃你十年八年 风水佬呃你十年八年 [feng1 shui5 lao3 e4 ni3 shi2 nian2 ba1 nian2] {fung1 seoi2 lou2 aak1 nei5 sap6 nin4 baat3 nin4} /(expr. idiom.) est-ce que je te mentirais? jamais je ne te mentirais/(lit.) un maître de feng shui peut t'escroquer pendant huit ou dix années/
+????f 風水佬呃你十年八年，唔呃得一世 风水佬呃你十年八年，唔呃得一世 [feng1 shui5 lao3 e4 ni3 shi2 nian2 ba1 nian2 , m2 e4 de5 yi1 shi4] {fung1 seoi2 lou2 aak1 nei5 sap6 nin4 baat3 nin4 ，m4 aak1 dak1 jat1 sai3} /(expr. idiom.) est-ce que je te mentirais? jamais je ne te mentirais/(lit.) un maître de feng shui peut t'escroquer pendant huit ou dix années, mais pas pendant toute la vie/
+風水尾 风水尾 [feng1 shui5 wei3] {fung1 seoi2 mei5} /(fig.) personne qui dépense tout l'argent de sa famille; personne qui dilapide son héritage/(lit.) dernière brise et dernière eau/
+風水師 风水师 [feng1 shui5 shi1] {fung1 seoi2 si1} /maître de Feng Shui/
+風油軚 风油軚 [feng1 you2 dai4] {fung1 jau4 taai5} /direction assistée électrique; D.A.E./
+風涼 风凉 [feng1 liang2] {fung1 loeng4} /vent frais; brise fraîche/ironique; sarcastique/
+風涼水冷 风凉水冷 [feng1 liang5 shui3 leng3] {fung1 loeng4 seoi2 laang5} /(expr. idiom.) (endroit) confortable; agréable/(sarcastique) inconfortable; désagréable/(lit.) vent frais et eau fraîche/
 風濕病 风湿病 [feng1 shi1 bing4] {fung1 sap1 beng6} /rheumatism;rheumatic disease/
 風煙 风烟 [feng1 yan1] {fung1 jin1} /wind and smoke ; a hazy scenery / view; chaos of war; smoke that drifts away with the wind("烽烟"beacon-fire)/
-風爐 风炉 [feng1 lu2] {fung1 lou4} /a small charcoal- or wood-burning stove; a blast furnace/
-風球 风球 [feng1 qiu2] {fung1 kau4} /a typhoon/
-風生水起 风生水起 [feng1 sheng1 shui3 qi3] {fung1 saang1 seoi2 hei2} /(verb) (of business) to get great fortune; (of people) to get rich/
-風筒 风筒 [feng1 tong2] {fung1 tung2} /(noun) a hair dryer; a blowdryer/
-風紀 风纪 [feng1 ji4] {fung1 gei2} /a prefect 8/
-風腸 风肠 [feng1 chang2] {fung1 coeng4} /Chinese preserved sausage (slang)/
-風褸 风褛 [feng1 lü3] {fung1 lau1} /a windbreaker (clothing)/
-風言風語 风言风语 [feng1 yan2 feng1 yu3] {fung1 jin4 fung1 jyu5} /slanderous gossip/
-風赧 风赧 [feng1 nan3] {fung1 naan5} /hives / urticarial /
-風采 风采 [feng1 cai3] {fung1 coi2} /(noun)  Charm, glamour and charisma/
-風鈴 风铃 [feng1 ling2] {fung1 ling4} /aeolian bells; wind chimes/
-風雅 风雅 [feng1 ya3] {fung1 ngaa5} /grace;literary pursuits; elegance; refined/
-風雪 风雪 [feng1 xue3] {fung1 syut3} /a blizzard;wind and snow/
-風頭火勢 风头火势 [feng1 tou2 huo3 shi4] {fung1 tau4 fo2 sai3} /(slang) 'the heat is on; describes a situation that is dangerous and critical./
-風頭躉 风头趸 [feng1 tou5 dun3] {fung1 tau4 dan2} /a popularity seeker/
-風餐露宿 风餐露宿 [feng1 can1 lu4 su4] {fung1 caan1 lou6 suk1} /(eat and sleep in the open air); endure the hardships of traveling or working outdoors/
-風騷 风骚 [feng1 sao1] {fung1 sou1} /to feel great or extremely happy (shown in one's behaviour)/
-風鱔 风鳝 [feng1 shan4] {fung1 sin5} /an eel/
-颶風 飓风 [ju4 feng1] {geoi6 fung1} /(noun) (of storm)  Typhoon  /
-飄色 飘色 [piao1 se4] {piu1 sik1} /literally: 'floating colour', a type of traditional folk art which is a fusion of drama,conjuring,acrobatics,music and dance/
-飄蕩 飘荡 [piao1 dang4] {piu1 dong6} /drifting/
-飄飄欲仙 飘飘欲仙 [piao1 piao1 yu4 xian1] {piu1 piu1 juk6 sin1} /walking on clouds almost like a fairy; to feel like one is in paradise/
+風爐 风炉 [feng1 lu2] {fung1 lou4} /petit poêle du charbon/haut fourneau/
+????f 風球 风球 [feng1 qiu2] {fung1 kau4} /système d'alertes pour les typhons à Hong Kong (voir aussi 波|波)/typhon/
+風生水起 风生水起 [feng1 sheng1 shui3 qi3] {fung1 saang1 seoi2 hei2} /(expr. idiom.) faire fortune; devenir riche/
+風筒 风筒 [feng1 tong2] {fung1 tung2} /sèche-cheveux; séchoir/
+風紀 风纪 [feng1 ji4] {fung1 gei2} /préfet; élève chargé de la discipline/
+風腸 风肠 [feng1 chang2] {fung1 coeng4} /(saucisse hongkongaise) lap cheong/
+風褸 风褛 [feng1 lu:3] {fung1 lau1} /anorak; coupe-vent/
+風言風語 风言风语 [feng1 yan2 feng1 yu3] {fung1 jin4 fung1 jyu5} /(expr. idiom.) calomnie/(lit.) paroles de vent/
+????c 風赧 风赧 [feng1 nan3] {fung1 naan5} /(what type?) hives; urticarial /
+風采 风采 [feng1 cai3] {fung1 coi2} /élégance; grâce/charisme/
+風鈴 风铃 [feng1 ling2] {fung1 ling4} /carillon éolien/
+風雅 风雅 [feng1 ya3] {fung1 ngaa5} /gracieux/cultivé/raffiné; élégant/
+風雪 风雪 [feng1 xue3] {fung1 syut3} /blizzard; tempête de neige/
+風頭火勢 风头火势 [feng1 tou2 huo3 shi4] {fung1 tau4 fo2 sai3} /(expr. idiom.) situation critique/
+風頭躉 风头趸 [feng1 tou5 dun3] {fung1 tau4 dan2} /chercheur d'attention/
+????f 風餐露宿 风餐露宿 [feng1 can1 lu4 su4] {fung1 caan1 lou6 suk1} /(expr. idiom.) endurer la difficulté de voyager dans les régions sauvages/(lit.) manger dans le vent et dormir dans la rosée/
+風騷 风骚 [feng1 sao1] {fung1 sou1} /littérature/excellence littéraire/(d'une femme) aguicheur; coquet/
+風鱔 风鳝 [feng1 shan4] {fung1 sin5} /anguille/
+颶風 飓风 [ju4 feng1] {geoi6 fung1} /ouragan; typhon/
+????f 飄色 飘色 [piao1 se4] {piu1 sik1} /Piu Sik (« couleurs flottantes »), défilé traditionnnel chinois/
+飄蕩 飘荡 [piao1 dang4] {piu1 dong6} /flotter; voltiger; s'agiter/flaner; errer/
+????c 飄飄欲仙 飘飘欲仙 [piao1 piao1 yu4 xian1] {piu1 piu1 juk6 sin1} /(expr. idiom.) être au septième ciel; être très heureux/(lit.) flotter comme un immortel/
 飛 飞 [fei1] {fei1} /(verb) (of relationship) 1. to break up (with a boy /girl friend); or being dumped (by a boy/girl friend); (of hair) 1. cut; (slang)  ticket; (slang) to kick someone off from (a show, etc.)/
-飛仔 飞仔 [fei1 zai3] {fei1 zai2} /(noun) a male juvenile rogue; a young gangster; a young thug boy; a juvenile delinquent/
-飛仔飛女 飞仔飞女 [fei1 zai3 fei1 nü3] {fei1 zai2 fei1 neoi2} /gangster; hoodlum; hooligan/
+飛仔 飞仔 [fei1 zai3] {fei1 zai2} /membre d'un gang (de sexe masculin)/
+飛仔飛女 飞仔飞女 [fei1 zai3 fei1 nu:3] {fei1 zai2 fei1 neoi2} /gangster; hoodlum; hooligan/
 飛來峰 飞来峰 [fei1 lai2 feng1] {fei1 loi4 fung1} /a klippe; a klip; a nappe outlier/
 飛來蜢 飞来蜢 [fei1 lai2 meng3] {fei1 loi4 maang2} /an unexpected good fortune/
 飛利 飞利 [fei1 li4] {fei1 lei6} /fury; sharp; fierce and tough; forceful; describes someone who is difficult to deal with/
-飛利浦公司 飞利浦公司 [Fei1 li4 pu3 gong1 si1] {fei1 lei6 pou2 gung1 si1} /Royal Dutch Philips Electronics Ltd./
-飛咁快 飞咁快 [fei1 gan1 kuai4] {fei1 gam3 faai3} /fleetingly;very fast; at lightning speed/
+飛利浦公司 飞利浦公司 [fei1 li4 pu3 gong1 si1] {fei1 lei6 pou2 gung1 si1} /Koninklijke Philips N.V ou Philips, société de technologie néerlandaise/
+飛咁快 飞咁快 [fei1 gan1 kuai4] {fei1 gam3 faai3} /(fig.) très rapide; très vite; rapide comme l'éclair/(lit.) aussi vite que voler/
 飛哩啡呢 飞哩啡呢 [fei1 li5 fei1 ne5] {fi4 li1 fe4 le4} /gabbling, describes someone who talks rapidly with unclear articulation /
 飛單 飞单 [fei1 dan1] {fei1 daan1} /to not enter an order into the account of the company, but instead into another company's account or to embezzle funds for oneself/
-飛士 飞士 [fei1 shi4] {fei1 si6} /dignity; reputation (spoken)/
+飛士 飞士 [fei1 shi4] {fei1 si6} /réputation; renommé/(orig.) de l'anglais « face » (« visage »), dans le sens « lose face » (« perdre la face »), lui-même emprunté du cantonais 丟臉|丟臉 « perdre la face »/
 飛天本事 飞天本事 [fei1 tian1 ben3 shi4] {fei1 tin1 bun2 si6} /resourceful;capable/
 飛天蠄蟧 飞天蠄蟧 [fei1 tian1 qin2 lao2] {fei1 tin1 kam4 lou4} /a type of fern, a traditional Chinese medicine; a burglar who climbs up the walls of high-rise residential building /
 飛女 飞女 [fei1 nü3] {fei1 neoi5} /female lowlife or street-kid (spoken)/
 飛擒大咬 飞擒大咬 [fei1 qin2 da4 yao3] {fei1 kam4 daai6 ngaau5} /to be greedy / aggressive/ over-eager, often used to describe price gouging; literally 'to take a big bite'/
 飛機友 飞机友 [fei1 ji1 you3] {fei1 gei1 jau2} /someone who always fails to keep an appointment/
-飛機庫 飞机库 [fei1 ji1 ku4] {fei1 gei1 fu3} /an aircraft hangar/
-飛機恤 飞机恤 [fei1 ji1 xu4] {fei1 gei1 seot1} /jacket (clothing)/
+飛機庫 飞机库 [fei1 ji1 ku4] {fei1 gei1 fu3} /hangar à avion/
+飛機恤 飞机恤 [fei1 ji1 xu4] {fei1 gei1 seot1} /veste; blouson/
 飛機欖 飞机榄 [fei1 ji1 lan3] {fei1 gei1 laam2} /literally: airplane olive; licorice olive, a popular Cantonese snack /
 飛機裇 飞机裇 [fei1 ji1 xu1] {fei1 gei1 seot1} /a jacket/
 飛機頭 飞机头 [fei1 ji1 tou2] {fei1 gei1 tau4} /a type of hair style(Elvis Presley's hairstyle) /
@@ -22540,4 +22539,5 @@
 攰 攰 [gui4] {gui6} /fatigué; épuisé/
 軚 軚 [dai4] {taai5} /(véhicule) volant/
 摒除 摒除 [bing4 chu2] {bing3 ceoi4} /expulser; mettre dehors/
+扇車 扇车 [shan4 che1] {sin3 ce1} /outil mécanique pour vanner/
 
