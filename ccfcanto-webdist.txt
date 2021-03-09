@@ -21749,59 +21749,59 @@
 駁骨 驳骨 [bo2 gu3] {bok3 gwat1} /réparer un os brisé/
 駐外 驻外 [zhu4 wai4] {zyu3 ngoi6} /stationné à l'étranger/
 駐守 驻守 [zhu4 shou3] {zyu3 sau2} /stationner; rester en stationnement; être en garnison/
-駐留 驻留 [zhu4 liu2] {zyu3 lau4} /resident; to reside at; residency; to be stationed at   /
-駐診 驻诊 [zhu4 zhen3] {zyu3 can2} /resident (doctor)/
+????c 駐留 驻留 [zhu4 liu2] {zyu3 lau4} /resident; to reside at; residency; to be stationed at   /
+????c 駐診 驻诊 [zhu4 zhen3] {zyu3 can2} /resident (doctor)/
 駐防 驻防 [zhu4 fang2] {zyu3 fong4} /stationner; rester en stationnement; être en garnison/
-駐顏有術 驻颜有术 [zhu4 yan2 you3 shu4] {zyu3 ngaan4 jau5 seot6} /to have a recipe for eternal youth / to maintain a young look; (be) skilled in making oneself look youthful; to look young/
-駕步 驾步 [jia4 bu4] {gaa3 bou6} /1. den 2. attitude/
-駛 驶 [shi3] {sai2} /to drive/
+????f 駐顏有術 驻颜有术 [zhu4 yan2 you3 shu4] {zyu3 ngaan4 jau5 seot6} /avoir le secret du rajeunissement (youthful beauty)/
+駕步 驾步 [jia4 bu4] {gaa3 bou6} /point de vue; avis; attitude; position/
+駛 驶 [shi3] {sai2} /conduire (un véhicule)/
 駝峰 驼峰 [tuo2 feng1] {to4 fung1} /bosse de chameau/
 駝鳥 驼鸟 [tuo2 niao3] {to4 niu5} /autruche/
-駟不及舌 驷不及舌 [si4 bu4 ji2 she2] {si3 bat1 kap6 sit6} /cannot take back and withdraw what has already been said/
-駢文 骈文 [pian2 wen2] {pin4 man4} /parallel prose/
+駟不及舌 驷不及舌 [si4 bu4 ji2 she2] {si3 bat1 kap6 sit6} /(expr. idiom.) on ne peut pas retirer ce qu'on a dit/(lit.) une équipe de quatre chevaux ne peut pas rattraper la langue/
+????f 駢文 骈文 [pian2 wen2] {pin4 man4} /« pianwen », sorte de prose chinoise stylisée/
 騎劫 骑劫 [qi2 jie2] {ke4 gip3} /détourner (un avion, un autobus, un véhicule, etc.)/
-騎呢 骑呢 [qi2 ne5] {ke4 le4} /weird; eccentric; strange; bizarre/
+騎呢 骑呢 [qi2 ne5] {ke4 le4} /excentrique; bizarre/
 騎師 骑师 [qi2 shi1] {ke4 si1} /jockey/
 騎樓 骑楼 [qi2 lou2] {ke4 lau2} /balcon/
-騎樓底 骑楼底 [qi2 lou2 di3] {ke4 lau2 dai2} /pavement with overhead buildings (spoken)/
-騎牛搵馬 骑牛揾马 [qi2 niu2 wen3 ma3] {ke4 ngau4 wan2 maa5} /(phrase) to buy time for something, e.g. a job, while waiting for a better opportunity to come along (literally "to ride an ox looking for a horse")/
-騎縫 骑缝 [qi2 feng4] {ke4 fung4} /junction of the edges of two sheets of paper/
+????f 騎樓底 骑楼底 [qi2 lou2 di3] {ke4 lau2 dai2} /trottoir « couvert », trottoir sous un bâtiment dont le deuxième étage s'étend au-dessus du trottoir/(lit.) sous un balcon/
+????f 騎牛搵馬 骑牛揾马 [qi2 niu2 wen3 ma3] {ke4 ngau4 wan2 maa5} /(expr. idiom.) tirer le meilleur parti de ce que l'on a en recherchant quelque chose de mieux/(fig.) monter à bœuf et chercher un cheval/
+????c 騎縫 骑缝 [qi2 feng4] {ke4 fung4} /junction of the edges of two sheets of paper/
 ????f 騎膊馬 骑膊马 [qi2 bo2 ma3] {ke4 bok3 maa5} /monter sur le dos de quelqu'un; être sur les épaules de quelqu'un/
-騎都尉 骑都尉 [ji4 du1 wei4] {gei6 dou1 wai3} /commandant of cavalry/
-騎馬找馬 骑马找马 [qi2 ma3 zhao3 ma3] {kei4 maa5 zaau2 maa5} /literally: 'to look for a horse while sitting on one', to hold on to one job while seeking a better one (dated meaning); nowadays more commonly used to describe someone who is out looking for something elsewhere despite already having it in their possessions or within their reach/
-騞 騞 [huo1] {waak6} /(onomatopoeic) cracking / crashing sound; suddenly; rapidly/
+騎都尉 骑都尉 [ji4 du1 wei4] {gei6 dou1 wai3} /commandant de la cavalerie/
+????f 騎馬找馬 骑马找马 [qi2 ma3 zhao3 ma3] {kei4 maa5 zaau2 maa5} /(fig.) chercher un emploi en gardant un emploi/(fig.) chercher quelque chose qui est sous le nez; chercher quelque chose que l'on a déjà/(lit.) chercher un cheval quand l'on est monté à cheval/
+騞 騞 [huo1] {waak6} /(onomatopée) crac/
 騰訊ＱＱ 腾讯ＱＱ [teng2 xun4 QQ] {tang4 seon3 kiu1 kiu1} /Tencent QQ, système de messagerie instantanée/
-騰達 腾达 [teng2 da2] {tang4 daat6} /on the rise; thriving; soaring/
-騰雲駕霧 腾云驾雾 [teng2 yun2 jia4 wu4] {tang4 wan4 gaa3 mou6} /to be walking on clouds; to speed across the sky; to go at a speed of flying; to feel dizzy/
-騷 骚 [sao1] {sou1} /(loanword) Show/
+騰達 腾达 [teng2 da2] {tang4 daat6} /prospérer; être florissant; connaître une montée fulgurante/
+????f 騰雲駕霧 腾云驾雾 [teng2 yun2 jia4 wu4] {tang4 wan4 gaa3 mou6} /to be walking on clouds; to speed across the sky; to go at a speed of flying; to feel dizzy/
+騷 骚 [sao1] {sou1} /spectacle; show/(orig.) de l'anglais « show » (« spectacle »)/
 騷人 骚人 [sao1 ren2] {sou1 jan4} /disillusioned / melancolic poets and writers/
 騷擾晒 骚扰晒 [sao1 rao3 shai4] {sou1 jiu2 saai3} /sorry to interrupt; sorry to be a nuisance; sorry for disturbing/
-騸雞 骟鸡 [shan4 ji1] {sin3 gai1} /a capon/
+騸雞 骟鸡 [shan4 ji1] {sin3 gai1} /chapon/
 驍勇 骁勇 [xiao1 yong3] {hiu1 jung5} /brave; valiant/
 驍勇 骁勇 [xiao1 yong3] {hiu1 jung5} /courageous; brave/
 驍悍 骁悍 [xiao1 han4] {hiu1 hon6} /valiant; brave/
 驍雄 骁雄 [xiao1 xiong2] {hiu1 hung4} /a brave / valor / mighty / powerful valor person /
-驗孕 验孕 [yan4 yun4] {jim6 jan6} /to test for pregnancy/
-驗眼 验眼 [yan4 yan3] {jim6 ngaan5} /to have an eye examination/
-驗身 验身 [yan4 shen1] {jim6 san1} /medical checkup; body check /
+驗孕 验孕 [yan4 yun4] {jim6 jan6} /faire un test de grossesse/
+驗眼 验眼 [yan4 yan3] {jim6 ngaan5} /passer un examen de la vue/
+????f 驗身 验身 [yan4 shen1] {jim6 san1} /bilan de santé/obtenir un bilan de santé/
 驚 惊 [jing1] {ging1} /(adjective) 1. surprise; 2. Scary/
 驚人 惊人 [jing1 ren2] {ging1 jan4} /amazing; jawdropping/
-驚住 惊住 [jing1 zhu4] {geng1 zyu6} /worried about; wary of/
+驚住 惊住 [jing1 zhu4] {geng1 zyu6} /avoir peur que; craindre que/
 驚動 惊动 [jing1 dong4] {ging1 dung6} /(verb)  Startle /
 驚歎 惊叹 [jing1 tan4] {ging1 taan3} /amaze; marvel/
-驚死 惊死 [jing1 si3] {geng1 sei2} /be scared; be terrified/
+驚死 惊死 [jing1 si3] {geng1 sei2} /terrifié/(lit.) peur de la mort/
 驚見 惊见 [jing1 jian4] {ging1 gin3} /to be surprised to see; to be shocked to see; to be appalled to see; to be awed at the sight of/
 驚訝 惊讶 [jing1 ya4] {ging1 ngaa6} /1. astounded 2. shocked/
 驚青 惊青 [jing1 qing1] {geng1 ceng1} /(adjective) afraid; frightened; scared; terrified/
 惊驚 惊惶 [jing1 huang2] {ging1 wong4} /paniqué; effrayé/
-驛道 驿道 [yi4 dao4] {jik6 dou6} /post road; courier route/
+驛道 驿道 [yi4 dao4] {jik6 dou6} /route postale/
 驛館 驿馆 [yi4 guan3] {jik6 gun2} /a courier hostel; a courier station; a post house/
-驟眼睇 骤眼睇 [zhou4 yan3 di4] {zaau6 ngaan5 tai2} /at a glance; at first glance/
-驢仔 驴仔 [lü2 zi3] {leoi4 zai2} /mule; one who works just for survival (spoken)/
-驢打滾 驴打滚 [lü2 da3 gun3] {leoi4 daa2 gwan2} /snowballing usury; soybean flour cake/
+驟眼睇 骤眼睇 [zhou4 yan3 di4] {zaau6 ngaan5 tai2} /à première vue/
+驢仔 驴仔 [lu:2 zi3] {leoi4 zai2} /mule; one who works just for survival (spoken)/
+驢打滾 驴打滚 [lu:2 da3 gun3] {leoi4 daa2 gwan2} /snowballing usury; soybean flour cake/
 驥足 骥足 [ji4 zu2] {kei3 zuk1} /skilled talent; outstanding ability/
 骨場 骨场 [gu3 chang3] {gwat1 coeng4} /massage parlour (spoken)/
-骨女 骨女 [gu3 nü3] {gwat1 neoi5} /massage girl (spoken)/
+骨女 骨女 [gu3 nu:3] {gwat1 neoi5} /massage girl (spoken)/
 骨妹 骨妹 [gu3 mei4] {gwat1 mui6} /young massage girl (spoken)/
 骨子 骨子 [gu3 zi5] {gwat1 zi2} /(slang) 1. exquisite; 2. Small but tasteful and elegant (condo, etc.) (noun)  bone/
 骨灰甕 骨灰瓮 [gu3 hui1 weng4] {gwat1 fui1 ung3} / a cinerary urn for ashes/
