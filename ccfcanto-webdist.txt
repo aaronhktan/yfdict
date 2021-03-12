@@ -11244,7 +11244,7 @@
 模範 模范 [mo2 fan4] {mou4 faan6} /(personne) modèle, exemple/
 樣子 样子 [yang4 zi5] {joeng6 zi2} /expression sur son visage/
 樣樣事 样样事 [yang4 yang4 shi4] {joeng6 joeng6 si6} /toutes sortes de choses/
-樣衰 样衰 [yang4 shuai1] {joeng6 seoi1} /(injur.) laid/
+樣衰 样衰 [yang4 shuai1] {joeng2 seoi1} /(injur.) laid/
 樸素 朴素 [pu3 su4] {pok3 sou3} /simplicité/
 ???? 樹仔頭 树仔头 [shu4 zi3 tou2] {syu6 zai2 tau4} /bonsaï/
 樹墩 树墩 [shu4 dun1] {syu6 dan2} /souche d'un arbre, chicot/
@@ -21924,79 +21924,80 @@
 鬧 闹 [nao4] {naau6} /gronder; réprimander; blâmer/se disputer; se quereller/
 鬧交 闹交 [nao4 jiao1] {naau6 gaau1} /se disputer; se quereller/
 鬧人 闹人 [nao4 ren2] {naau6 jan4} /gronder; réprimander; blâmer quelqu'un/
-鬧別扭 闹别扭 [nao4 bie4 niu5] {naau6 bit6 nau2} /to bicker;to be difficult with someone; to be at odds with someone/
-鬧意氣 闹意气 [nao4 yi4 qi4] {naau6 ji3 hei3} /to quarrel just to vent one's spleen; to sulk/
-鬧意見 闹意见 [nao4 yi4 jian5] {naau6 ji3 gin3} /different in opinion or stance (spoken)/
-鬧熱 闹热 [nao4 re4] {naau6 jit6} /a happening situation (noisy / crowded place); busy and lively; vibrant/
+鬧別扭 闹别扭 [nao4 bie4 niu5] {naau6 bit6 nau2} /être en désaccord; être en conflit; se disputer; se quereller/
+????c 鬧意氣 闹意气 [nao4 yi4 qi4] {naau6 ji3 hei3} /to quarrel just to vent one's spleen; to sulk/
+鬧意見 闹意见 [nao4 yi4 jian5] {naau6 ji3 gin3} /être en désaccord/
+鬧熱 闹热 [nao4 re4] {naau6 jit6} /(lieu) animé; vivant; fréquenté/
 鬩神星 阋神星 [xi4 shen2 xing1] {jik1 san4 sing1} /Éris, planète naine/
 鬱悒 郁悒 [yu4 yi4] {wat1 jap1} /abattu; triste; accablé; démoralisé/
-鬱積 郁积 [yu4 ji1] {wat1 zik1} /pent-up/
-鬱積 郁积 [yu4 ji1] {wat1 zik1} /smouldering/
-鬱郁 郁郁 [yu4 yu4] {wat1 juk1} /aromatic; fragrant if it is read as 'wat1 wat1 鬱鬱' then it means 'depressed' or 'luxuriant (to describe vegetation)'; if it is read as 'yuk1 yuk1郁郁' then it means 'to be refined with literary talents' or 'to have an intense fragrance'/
-鬼 鬼 [gui3] {gwai2} /(noun) 1. Westerner; 2. Caucasian; (adverb) 1. really; 2. incredibly/
-鬼上身 鬼上身 [gui3 shang4 shen1] {gwai2 soeng5 san1} /(phrasal verb)  to be possessed by ghosts or spirits/
+鬱積 郁积 [yu4 ji1] {wat1 zik1} /(colère) refoulée; latente/
+鬱郁 郁郁 [yu4 yu4] {wat1 wat1} /triste; mélancolique/(végétation) luxuriant/
+鬱郁 郁郁 [yu4 yu4] {juk1 juk1} /très aromatique/
+鬼 鬼 [gui3] {gwai2} /fantôme/Occidental, Occidentale/occidental/très; extrêmement; tellement/personne; nul; quiconque; qui que ce soit/
+鬼上身 鬼上身 [gui3 shang4 shen1] {gwai2 soeng5 san1} /(fig.) devenir fou; partir en cacahuète; péter les plombs/(lit.) être possédé par les fantômes/
 鬼主意 鬼主意 [gui3 zhu3 yi5] {gwai2 zyu2 ji3} /plan diabolique/
-鬼五馬六 鬼五马六 [gui3 wu3 ma3 liu4] {gwai2 ng5 maa5 luk6} /(slang) (of people) weird; bizarre; to act eccentrically; witty; to be full of devilish tricks and cunning strategies /
+鬼五馬六 鬼五马六 [gui3 wu3 ma3 liu4] {gwai2 ng5 maa5 luk6} /(expr. idiom.) être excentrique; bizarre/(expr. idiom.) (faire quelque chose) d'une manière négligente; d'une façon désordonnée/(lit.) fantôme cinq cheval six/
 鬼仔 鬼仔 [gui3 zai3] {gwai2 zai2} /Occidental; jeune homme occidental/(lit.) petit fantôme/
 鬼仔戲 鬼仔戏 [gui3 zi3 xi4] {gwai2 zai2 hei3} /spectacle de marionnettes/
 鬼佬涼茶 鬼佬凉茶 [gui3 lao3 liang2 cha2] {gwai2 lou2 loeng4 caa4} /bière/(lit.) tisane occidentale/
 鬼佬話 鬼佬话 [gui3 lao3 hua4] {gwai2 lou2 waa6} /langue étrangère/(lit.) langue des fantômes (= Occidentaux)/
 鬼佬齋 鬼佬斋 [gui3 lao3 zhai1] {gwai2 lou2 zaai1} /cuisine occidentale/(lit.) cuisine des fantômes (= Occidentaux)/
-鬼出電入 鬼出电入 [gui3 chu1 dian4 ru4] {gwai2 ceot1 din6 jap6} /full of rapid changes and wizardlike elusiveness/
+????c 鬼出電入 鬼出电入 [gui3 chu1 dian4 ru4] {gwai2 ceot1 din6 jap6} /full of rapid changes and wizardlike elusiveness/
 鬼剃頭 鬼剃头 [gui3 ti4 tou2] {gwai2 tai3 tau4} /alopécie/
 鬼古 鬼古 [gui3 gu3] {gwai2 gu2} /histoire de fantômes/
 鬼咁 鬼咁 [gui3 gan1] {gwai2 gam3} /très; tellement; extrêmement/
 鬼噉 鬼啖 [gui3 dan4] {gwai2 gam3} /très; tellement; extrêmement/
 鬼妹 鬼妹 [gui3 mei4] {gwai2 mui1} /femme occidentale/(lit.) sœur cadette fantôme/
-鬼市 鬼市 [gui3 shi4] {gwai2 si5} /overnight market/
-鬼影 鬼影 [gui3 ying3] {gwai2 jing2} /ghost (human) shadow, normally used in the context鬼影都冇隻 when a place is completely deserted, with not even a shadow present/
-鬼影都冇隻 鬼影都冇只 [gui3 ying3 dou1 mao3 zhi1] {gwai2 jing2 dou1 mou5 zek3} /do not see anyone; a deserted place (spoken)/
-鬼才 鬼才 [gui3 cai2] {gwai2 coi4} /genius;wizard;talent; 'no one will…'; 'who would…'13/
-鬼打 鬼打 [gui3 da3] {gwai2 daa2} /unbelievably; outrageously; (exclamatory phrase) 鬼打!: utterly impossible!; sheer nonsense!; simply absurb!; nothing of the sort!; 鬼打呀! / 鬼打咩!: "you must have been possessed"; "what has gotten into you!"; "what's up with you"/
-鬼打都冇咁醒 鬼打都冇咁醒 [gui3 da3 dou1 mao3 gan1 xing3] {gwai2 daa2 dou1 mou5 gam3 sing2} /very clever, smart, ingenuity/
-鬼打鬼 鬼打鬼 [gui3 da3 gui3] {gwai2 daa2 gwai2} /(slang) infighting; internecine conflict of the people involved; quarrel among a group internally; falling out amongst villians/
-鬼拍後尾枕 鬼拍后尾枕 [gui3 pai1 hou4 wei3 zhen3] {gwai2 paak3 hau6 mei5 zam2} /slips of the tongue; Freudian slip (slang)/
-鬼揞眼 鬼揞眼 [gui3 an3 yan3] {gwai2 am2 ngaan5} /a situation where a person can't see or notice something obvious; literally: 'ghost blocking the vision'; a Freudian slip/
-鬼搰 鬼搰 [gui3 hu2] {gwai2 wat6} /cunning/
-鬼故 鬼故 [gui3 gu4] {gwai2 gu3} /ghost stories;a horror story/
-鬼死 鬼死 [gui3 si3] {gwai2 sei2} /so (spoken)/
-鬼死咁 鬼死咁 [gui3 si3 gan1] {gwai2 sei2 gam2} /so (spoken)/
-鬼殺咁嘈 鬼杀咁嘈 [gui3 sha1 gan1 cao2] {gwai2 saat3 gam3 cou4} /(adj.) to describe someone who is very noisy and annoying; to make a big fuss about something/
-鬼殺噉聲 鬼杀啖声 [gui3 sha1 dan4 sheng1] {gwai2 saat3 gam2 seng1} /the sound of a horrible scream; very noisy/
-鬼混 鬼混 [gui3 hun4] {gwai2 wan6} /(slang) (of relationship)  Affair/
-鬼火 鬼火 [gui3 huo3] {gwai2 fo2} /(adjective) )(the degree of beauty)  So; Very/
-鬼火咁靚 鬼火咁靓 [gui3 huo3 gan1 jing4] {gwai2 fo2 gam2 leng3} /so pretty; so hot (spoken)/
-鬼知 鬼知 [gui3 zhi1] {gwai2 zi1} /god knows (spoken)/
-鬼祟 鬼祟 [gui3 sui4] {gwai2 seoi6} /sneaky; sneakily; furtive; stealthy/
-鬼節 鬼节 [Gui3 jie2] {gwai2 zit3} /ghost festival;Obon festival; Halloween/
-鬼聲鬼氣 鬼声鬼气 [gui3 sheng1 gui3 qi4] {gwai2 seng1 gwai2 hei3} /a strange / horrible sounding; literally 'speaking like a ghost'/
-鬼蜮伎倆 鬼蜮伎俩 [gui3 yu4 ji4 liang3] {gwai2 wik6 gei6 loeng5} /devilish stratagem; devilish tricks; malicious intrigues/
-鬼責 鬼责 [gui3 ze2] {gwai2 zaak3} /(to be pressed down by a ghost); feeling of something pressing down on a person during sleep/
-鬼迷 鬼迷 [gui3 mi2] {gwai2 mai4} /(to be bewitched by ghost); to be under a spell/
-鬼都怕 鬼都怕 [gui3 dou1 pa4] {gwai2 dou1 paa3} /(literally: even the ghost would be afraid); to describe something which will scare everyone/
+鬼市 鬼市 [gui3 shi4] {gwai2 si5} /marché de nuit/(lit.) marché de fantômes/
+鬼影 鬼影 [gui3 ying3] {gwai2 jing2} /(informatique) image fantôme/
+鬼影幢幢 鬼影幢幢 [gui3 ying3 chuang2 chuang2] {gwai2 jing2 cong4 cong4} /(expr. idiom.) effrayant/(lit.) ombres de fantômes dansantes/
+????f 鬼影都冇隻 鬼影都冇只 [gui3 ying3 dou1 mao3 zhi1] {gwai2 jing2 dou1 mou5 zek3} /(expr. idiom.) (endroit) vide; désert/(lit.) même pas l'ombre d'un fantôme/
+鬼才 鬼才 [gui3 cai2] {gwai2 coi4} /génie; prodige/personne ne.../
+????c 鬼打 鬼打 [gui3 da3] {gwai2 daa2} /unbelievably; outrageously; (exclamatory phrase) 鬼打!: utterly impossible!; sheer nonsense!; simply absurb!; nothing of the sort!; 鬼打呀! / 鬼打咩!: "you must have been possessed"; "what has gotten into you!"; "what's up with you"/
+鬼打都冇咁醒 鬼打都冇咁醒 [gui3 da3 dou1 mao3 gan1 xing3] {gwai2 daa2 dou1 mou5 gam3 sing2} /(expr. idiom.) très intelligent/(lit.) on ne serait pas aussi intelligent même si un fantôme nous frappait/
+鬼打鬼 鬼打鬼 [gui3 da3 gui3] {gwai2 daa2 gwai2} /(fig.) conflit interne/(lit.) fantôme frappe fantôme/
+鬼拍後尾枕 鬼拍后尾枕 [gui3 pai1 hou4 wei3 zhen3] {gwai2 paak3 hau6 mei5 zam2} /(expr. idiom.) lapsus/(lit.) avoir un fantôme qui cogne l'arrière de la tête/
+樣衰鬼揞眼 鬼揞眼 [gui3 an3 yan3] {gwai2 am2 ngaan5} /(fig.) ne pas voir/(fig.) faire une faute/(lit.) avoir un fantôme qui couvre les yeux/
+鬼搰 鬼搰 [gui3 hu2] {gwai2 wat6} /rusé; malin; astucieux/
+鬼故 鬼故 [gui3 gu4] {gwai2 gu3} /histoire de fantômes/
+鬼死 鬼死 [gui3 si3] {gwai2 sei2} /très; extrêmement/
+鬼死咁 鬼死咁 [gui3 si3 gan1] {gwai2 sei2 gam2} /très; extrêmement/
+鬼殺咁嘈 鬼杀咁嘈 [gui3 sha1 gan1 cao2] {gwai2 saat3 gam3 cou4} /(expr. idiom.) faire beaucoup de bruit/(expr. idiom.) pousser un cri épouvantable/(expr. idiom.) se plaindre bruyamment/(lit.) aussi bruyant qu'un fantôme qui tue/
+鬼殺噉聲 鬼杀啖声 [gui3 sha1 dan4 sheng1] {gwai2 saat3 gam2 seng1} /(expr. idiom.) faire beaucoup de bruit/(expr. idiom.) pousser un cri épouvantable/(expr. idiom.) se plaindre bruyamment/(lit.) son comme un fantôme qui tue/
+鬼混 鬼混 [gui3 hun4] {gwai2 wan6} /avoir une liaison/coucher à droite à gauche/
+鬼火 鬼火 [gui3 huo3] {gwai2 fo2} /feu follet/jack-o’-lantern; citrouille-lanterne; citrouille d'Halloween/
+鬼火咁靚 鬼火咁靓 [gui3 huo3 gan1 jing4] {gwai2 fo2 gam2 leng3} /(d'une femme) très attirante/(lit.) aussi belle qu'un feu follet/
+鬼知 鬼知 [gui3 zhi1] {gwai2 zi1} /(fig.) personne ne sait/(lit.) fantôme sait/
+鬼祟 鬼祟 [gui3 sui4] {gwai2 seoi6} /furtif/sournois/
+鬼節 鬼节 [gui3 jie2] {gwai2 zit3} /Fête des fantômes, fête chinoise/Halloween/
+鬼聲鬼氣 鬼声鬼气 [gui3 sheng1 gui3 qi4] {gwai2 seng1 gwai2 hei3} /(fig.) horrible voix/(expr. idiom.) horrible accent/(lit.) son et air d'un fantôme/
+鬼蜮伎倆 鬼蜮伎俩 [gui3 yu4 ji4 liang3] {gwai2 wik6 gei6 loeng5} /(expr. idiom.) plan diabolique/(lit.) intigue des fantômes et démons de l'eau/
+????c 鬼責 鬼责 [gui3 ze2] {gwai2 zaak3} /(to be pressed down by a ghost); feeling of something pressing down on a person during sleep/
+????c 鬼迷 鬼迷 [gui3 mi2] {gwai2 mai4} /(to be bewitched by ghost); to be under a spell/very/
+鬼都怕 鬼都怕 [gui3 dou1 pa4] {gwai2 dou1 paa3} /(fig.) terrifiant; très effrayant/(lit.) même un fantôme aurait peur/
 鬼靈精怪 鬼灵精怪 [gui3 ling2 jing1 guai4] {gwai2 ling4 zing1 gwaai3} /mischievous; strange; grotesque; weird; bizarre; quick-witted/
 鬼面罩 鬼面罩 [gui3 mian4 zhao4] {gwai2 min6 zaau3} /front air grid/grille or front hood protector / guard of a vehicle; a motoribike mask; the front fairing cowl of a motorbike/
 鬼頭 鬼头 [gui3 tou2] {gwai2 tau4} /a foreigner (originally a term for a foreign military officer)/
-鬼頭仔 鬼头仔 [gui3 tou2 zi3] {gwai2 tau4 zai2} /a traitor, a term commonly used specifically to refer to a police informant/
-鬼食泥 鬼食泥 [gui3 shi2 ni2] {gwai2 sik6 nai4} /gabble / mumble / murmur, describes the way one talks which makes it hard for others to comprehend/
-鬼食泥噉聲 鬼食泥啖声 [gui3 shi2 ni2 dan4 sheng1] {gwai2 sik6 nai4 gam2 seng1} /murmuring/
+鬼頭仔 鬼头仔 [gui3 tou2 zi3] {gwai2 tau4 zai2} /(fig.) taupe; informateur; indic; mouchard/(lit.) petit tête de fantôme/
+鬼食泥 鬼食泥 [gui3 shi2 ni2] {gwai2 sik6 nai4} /(fig.) marmonner; manger ses mots/(lit.) comme un fantôme qui mange de la terre/
+鬼食泥噉聲 鬼食泥啖声 [gui3 shi2 ni2 dan4 sheng1] {gwai2 sik6 nai4 gam2 seng1} /(fig.) marmonner; manger ses mots/(lit.) comme un fantôme qui mange de la terre/
 鬼馬 鬼马 [gui3 ma3] {gwai2 maa5} /(adjective) funny; hilarious; comical; sly/
 鬼馬事 鬼马事 [gui3 ma3 shi4] {gwai2 maa5 si6} /a shameful matter; something which gives one a guilty conscience/
-鬼鬼鼠鼠 鬼鬼鼠鼠 [gui3 gui3 shu3 shu3] {gwai2 gwai2 syu2 syu2} /(adjective) sneaky; sneakily; furtive; stealthy/
-鬼鼠 鬼鼠 [gui3 shu3] {gwai2 syu2} /(adjective) sneaky; sneakily; furtive; stealthy/
-鬼婆 鬼婆 [gui3 po2] {gwai2 po4} /(péj.) femme blanche; femme caucasienne/(lit.) femme fantôme/
-鬼佬 鬼佬 [gui3 lao3] {gwai2 lou2} /(péj.) personne blanche; personne caucasienne; gweilo/(lit.) personne fantôme/
-魁北克法文 魁北克法文 [kui2 bei3 ke4 fa3 wen2] {fui1 bak1 haak1 faat3 man4} /Quebec (Canada) French/
-魁省 魁省 [kui2 sheng3] {fui1 saang2} /Quebec,Canada/
-魂 魂 [hun2] {wan4} /(noun)  Ghost/
+鬼鬼鼠鼠 鬼鬼鼠鼠 [gui3 gui3 shu3 shu3] {gwai2 gwai2 syu2 syu2} /(fig.) furtif/(fig.) discrèement; en douce/(lit.) fantôme fantôme souris souris/
+鬼鼠 鬼鼠 [gui3 shu3] {gwai2 syu2} /(fig.) furtif/(fig.) discrètement; en douce/(lit.) fantôme souris/
+鬼婆 鬼婆 [gui3 po2] {gwai2 po4} /(péj.) femme blanche; femme caucasienne; Occidentale/(lit.) femme fantôme/
+鬼佬 鬼佬 [gui3 lao3] {gwai2 lou2} /(péj.) personne blanche; personne caucasienne; gweilo; Occidental/(lit.) personne fantôme/
+魁北克法文 魁北克法文 [kui2 bei3 ke4 fa3 wen2] {fui1 bak1 haak1 faat3 man4} /français québécois/
+魁省 魁省 [kui2 sheng3] {fui1 saang2} /Québec, province du Canada/
+魂 魂 [hun2] {wan4} /âme/esprit (national)/
 魂不附體 魂不附体 [hun2 bu4 fu4 ti3] {wan4 bat1 fu6 tai2} /(adjective) 1. Absentminded; 2. Inattentive/
-魂歸天國 魂归天国 [hun2 gui1 tian1 guo2] {wan4 gwai1 tin1 gwok3} /to die; to render up one's soul to God/
+魂歸天國 魂归天国 [hun2 gui1 tian1 guo2] {wan4 gwai1 tin1 gwok3} /(expr. idiom.) mourir; décéder; rendre l'âme/(lit.) l'âme revient au pays du Ciel/
 魂精 魂精 [hun2 jing1] {waan4 zeng1} /temple; temporal (on the sides of one's head)/
-魂魄 魂魄 [hun2 po4] {wan4 paak3} /(noun)  Spirit/
+魂魄 魂魄 [hun2 po4] {wan4 paak3} /âme/
 魂魄唔齊 魂魄唔齐 [hun2 po4 n2 qi2] {wan4 paak3 m4 cai4} /frighten out of one's wit; terrified/
 魅惑 魅惑 [mei4 huo4] {mei6 waak6} /to captivate; to allure/
 魔掌 魔掌 [mo2 zhang3] {mo1 zoeng2} /devil's clutches/
-魔術 魔术 [mo2 shu4] {mo1 seot6} /magical/
+魔術 魔术 [mo2 shu4] {mo1 seot6} /magie/magique/
 魔鬼 魔鬼 [mo2 gui3] {mo1 gwai2} /evil-minded/
 魔鬼魚 魔鬼鱼 [mo2 gui3 yu2] {mo1 gwai2 jyu2} /devil rays/
 魚兒 鱼儿 [yu2 r5] {jyu4 ji4} /fish (term in Chinese, but not Cantonese)/
