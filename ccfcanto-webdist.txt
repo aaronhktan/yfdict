@@ -21975,14 +21975,14 @@
 ????c 鬼責 鬼责 [gui3 ze2] {gwai2 zaak3} /(to be pressed down by a ghost); feeling of something pressing down on a person during sleep/
 ????c 鬼迷 鬼迷 [gui3 mi2] {gwai2 mai4} /(to be bewitched by ghost); to be under a spell/very/
 鬼都怕 鬼都怕 [gui3 dou1 pa4] {gwai2 dou1 paa3} /(fig.) terrifiant; très effrayant/(lit.) même un fantôme aurait peur/
-鬼靈精怪 鬼灵精怪 [gui3 ling2 jing1 guai4] {gwai2 ling4 zing1 gwaai3} /mischievous; strange; grotesque; weird; bizarre; quick-witted/
-鬼面罩 鬼面罩 [gui3 mian4 zhao4] {gwai2 min6 zaau3} /front air grid/grille or front hood protector / guard of a vehicle; a motoribike mask; the front fairing cowl of a motorbike/
-鬼頭 鬼头 [gui3 tou2] {gwai2 tau4} /a foreigner (originally a term for a foreign military officer)/
+????f 鬼靈精怪 鬼灵精怪 [gui3 ling2 jing1 guai4] {gwai2 ling4 zing1 gwaai3} /(expr. idiom.) bizarre; étrange (avec une connotation espiègle)/
+鬼面罩 鬼面罩 [gui3 mian4 zhao4] {gwai2 min6 zaau3} /(automobile) calandre/
+鬼頭 鬼头 [gui3 tou2] {gwai2 tau4} /étranger (en particulier, un Occidental ou Occidentale)/(lit.) tête de fantôme/
 鬼頭仔 鬼头仔 [gui3 tou2 zi3] {gwai2 tau4 zai2} /(fig.) taupe; informateur; indic; mouchard/(lit.) petit tête de fantôme/
 鬼食泥 鬼食泥 [gui3 shi2 ni2] {gwai2 sik6 nai4} /(fig.) marmonner; manger ses mots/(lit.) comme un fantôme qui mange de la terre/
 鬼食泥噉聲 鬼食泥啖声 [gui3 shi2 ni2 dan4 sheng1] {gwai2 sik6 nai4 gam2 seng1} /(fig.) marmonner; manger ses mots/(lit.) comme un fantôme qui mange de la terre/
-鬼馬 鬼马 [gui3 ma3] {gwai2 maa5} /(adjective) funny; hilarious; comical; sly/
-鬼馬事 鬼马事 [gui3 ma3 shi4] {gwai2 maa5 si6} /a shameful matter; something which gives one a guilty conscience/
+鬼馬 鬼马 [gui3 ma3] {gwai2 maa5} /drôle; hilarant/fourbe; sournois; rusé/
+鬼馬事 鬼马事 [gui3 ma3 shi4] {gwai2 maa5 si6} /acte honteux/
 鬼鬼鼠鼠 鬼鬼鼠鼠 [gui3 gui3 shu3 shu3] {gwai2 gwai2 syu2 syu2} /(fig.) furtif/(fig.) discrèement; en douce/(lit.) fantôme fantôme souris souris/
 鬼鼠 鬼鼠 [gui3 shu3] {gwai2 syu2} /(fig.) furtif/(fig.) discrètement; en douce/(lit.) fantôme souris/
 鬼婆 鬼婆 [gui3 po2] {gwai2 po4} /(péj.) femme blanche; femme caucasienne; Occidentale/(lit.) femme fantôme/
@@ -21990,44 +21990,43 @@
 魁北克法文 魁北克法文 [kui2 bei3 ke4 fa3 wen2] {fui1 bak1 haak1 faat3 man4} /français québécois/
 魁省 魁省 [kui2 sheng3] {fui1 saang2} /Québec, province du Canada/
 魂 魂 [hun2] {wan4} /âme/esprit (national)/
-魂不附體 魂不附体 [hun2 bu4 fu4 ti3] {wan4 bat1 fu6 tai2} /(adjective) 1. Absentminded; 2. Inattentive/
+????c 魂不附體 魂不附体 [hun2 bu4 fu4 ti3] {wan4 bat1 fu6 tai2} /(expr. idiom.) avoi une peur bleue/(adjective) 1. Absentminded; 2. Inattentive/
 魂歸天國 魂归天国 [hun2 gui1 tian1 guo2] {wan4 gwai1 tin1 gwok3} /(expr. idiom.) mourir; décéder; rendre l'âme/(lit.) l'âme revient au pays du Ciel/
-魂精 魂精 [hun2 jing1] {waan4 zeng1} /temple; temporal (on the sides of one's head)/
+魂精 魂精 [hun2 jing1] {wan4 zeng1} /(anatomie) tempe/
 魂魄 魂魄 [hun2 po4] {wan4 paak3} /âme/
-魂魄唔齊 魂魄唔齐 [hun2 po4 n2 qi2] {wan4 paak3 m4 cai4} /frighten out of one's wit; terrified/
-魅惑 魅惑 [mei4 huo4] {mei6 waak6} /to captivate; to allure/
-魔掌 魔掌 [mo2 zhang3] {mo1 zoeng2} /devil's clutches/
+魂魄唔齊 魂魄唔齐 [hun2 po4 n2 qi2] {wan4 paak3 m4 cai4} /(expr. idiom.) avoir une peur bleue/
+魅惑 魅惑 [mei4 huo4] {mei6 waak6} /attirer; charmer; séduire/
+????f 魔掌 魔掌 [mo2 zhang3] {mo1 zoeng2} /devil's clutches; clutches (of the enemy, an evil entity, etc.)/
 魔術 魔术 [mo2 shu4] {mo1 seot6} /magie/magique/
-魔鬼 魔鬼 [mo2 gui3] {mo1 gwai2} /evil-minded/
-魔鬼魚 魔鬼鱼 [mo2 gui3 yu2] {mo1 gwai2 jyu2} /devil rays/
-魚兒 鱼儿 [yu2 r5] {jyu4 ji4} /fish (term in Chinese, but not Cantonese)/
-魚塘 鱼塘 [yu2 tang2] {jyu4 tong4} /a fish pond/
-魚尾夾 鱼尾夹 [yu2 wei3 jia1] {jyu4 mei5 gep2} /a foldback clip; a purse clip; a banker's clip; a foldover clip/
-魚旦 鱼旦 [yu2 dan4] {jyu4 daan3} /fish ball/
-魚春 鱼春 [yu2 chun1] {jyu4 ceon1} /fish egg/
-魚柳 鱼柳 [yu2 liu3] {jyu4 lau5} /fish fillets/
-魚樂無窮 鱼乐无穷 [yu2 le4 wu2 qiong2] {jyu4 lok6 mou4 kung4} /to have boundless joy (usually used in greetings such as Chinese New Year)/
-魚欄 鱼栏 [yu2 lan2] {jyu4 laan4} /fishmonger (spoken)/
-魚油 鱼油 [yu2 you2] {jyu4 jau4} /fish oil/
-魚游釜中 鱼游釜中 [yu2 you2 fu3 zhong1] {jyu4 jau4 fu2 zung1} /to be like fish swimming in a cooking pot -- in imminent peril/
-魚滑 鱼滑 [yu2 hua2] {jyu4 waat2} /fish paste (minced flesh of fish)/
-魚獲 鱼获 [yu2 huo4] {jyu4 wok6} /fish sperm; milt/
-魚生 鱼生 [yu2 sheng1] {jyu4 saang1} /(Japanese food) sashimi/
-魚生粥 鱼生粥 [yu2 sheng1 zhou1] {jyu4 saang1 zuk1} /porridge with thin slices of raw fish/
-魚白 鱼白 [yu2 bai2] {jyu4 baak6} /milt;soft roe;fish sperm/
-魚皮餃 鱼皮饺 [yu2 pi2 jiao3] {jyu4 pei4 gaau2} /fish skin dumpling, where the dumpling skins /wrappers used contains some fish paste/
-魚眼雪 鱼眼雪 [yu2 yan3 xue3] {jyu4 ngaan5 syut3} /sleet; graupel/
-魚笱 鱼笱 [yu2 gou3] {jyu4 gau2} /a basket for catching fish/
-魚絲 鱼丝 [yu2 si1] {jyu4 si1} /shredded fish; fishing line; nylon yarn/
-魚絲袋 鱼丝袋 [yu2 si1 dai4] {jyu4 si1 doi6} /nylon net/
-魚翅餃 鱼翅饺 [yu2 chi4 jiao3] {jyu4 ci3 gaau2} /shark-fin dumpling/
-魚肉 鱼肉 [yu2 rou4] {jyu4 juk6} /referring to those who are being butchered / exploited; to butcher; to cruelly oppress; to exploit; literally: 'fish flesh'/
-魚肉 鱼肉 [yu2 rou4] {jyu4 juk6} /the flesh of fish/
-魚腐 鱼腐 [yu2 fu3] {jyu4 fu6} /fish curd; fish tofu/
+魔鬼 魔鬼 [mo2 gui3] {mo1 gwai2} /diable; démon/diabolique; méchant/
+魔鬼魚 魔鬼鱼 [mo2 gui3 yu2] {mo1 gwai2 jyu2} /(espèce de poissons) Manta birostris; raie manta; diable de mer/(espèce de poissons) Manta alfredi; raie manta de récif/(espèce de poissons) Mobula mobular; diable de mer méditerranéen/
+魚兒 鱼儿 [yu2 r5] {jyu4 ji4} /poisson/
+魚塘 鱼塘 [yu2 tang2] {jyu4 tong4} /étang à poissons/
+魚尾夾 鱼尾夹 [yu2 wei3 jia1] {jyu4 mei5 gep2} /pince-notes; pince-feuilles/
+魚旦 鱼旦 [yu2 dan4] {jyu4 daan3} /boulette de poisson/
+魚春 鱼春 [yu2 chun1] {jyu4 ceon1} /œuf de poisson; frai/
+魚柳 鱼柳 [yu2 liu3] {jyu4 lau5} /filet de poisson/
+????c 魚樂無窮 鱼乐无穷 [yu2 le4 wu2 qiong2] {jyu4 lok6 mou4 kung4} /to have boundless joy (usually used in greetings such as Chinese New Year)/
+魚欄 鱼栏 [yu2 lan2] {jyu4 laan4} /poissonnerie/
+魚油 鱼油 [yu2 you2] {jyu4 jau4} /huile de poisson/
+魚游釜中 鱼游釜中 [yu2 you2 fu3 zhong1] {jyu4 jau4 fu2 zung1} /(expr. idiom.) en danger imminent/(lit.) poisson nageant dans une marmite/
+????f 魚滑 鱼滑 [yu2 hua2] {jyu4 waat2} /fish paste (minced flesh of fish) (beurre de poisson?)/
+魚獲 鱼获 [yu2 huo4] {jyu4 wok6} /semence de poisson/
+魚生 鱼生 [yu2 sheng1] {jyu4 saang1} /sashimi, mets de la gastronomie japonaise/
+????f 魚生粥 鱼生粥 [yu2 sheng1 zhou1] {jyu4 saang1 zuk1} /congee à poisson/
+魚白 鱼白 [yu2 bai2] {jyu4 baak6} /semence de poisson/
+????f 魚皮餃 鱼皮饺 [yu2 pi2 jiao3] {jyu4 pei4 gaau2} /fish skin dumpling, where the dumpling skins or wrappers used contains some fish paste/
+魚眼雪 鱼眼雪 [yu2 yan3 xue3] {jyu4 ngaan5 syut3} /neige roulée/(lit.) neige en forme de yeux de poisson/
+魚笱 鱼笱 [yu2 gou3] {jyu4 gau2} /panier de pêche/
+魚絲 鱼丝 [yu2 si1] {jyu4 si1} /poisson en lambeaux/ligne de pêche/fil de nylon/
+魚絲袋 鱼丝袋 [yu2 si1 dai4] {jyu4 si1 doi6} /filet en nylon/
+????f 魚翅餃 鱼翅饺 [yu2 chi4 jiao3] {jyu4 ci3 gaau2} /dumpling à aileron de requin/
+魚肉 鱼肉 [yu2 rou4] {jyu4 juk6} /chair de poisson/(fig.) personne exploitée/(fig.) exploiter/(fig.) massacrer; tuer; abattre/
+????f 魚腐 鱼腐 [yu2 fu3] {jyu4 fu6} /fish curd; fish tofu/
 魚腩 鱼腩 [yu2 nan3] {jyu4 naam5} /(food) (of fish) 1. Fish belly; (of someone)  Loser (always lose in gambling)/
 魚膠 鱼胶 [yu2 jiao1] {jyu4 gaau1} /isinglass; gelatin/
-魚𦢊 鱼𦢊 [yu2 bao2] {jyu4 pok1} /fish maw/
-魚蛋 鱼蛋 [yu2 dan4] {jyu4 daan2} /(food) fish balls/
+魚𦢊 鱼𦢊 [yu2 bao2] {jyu4 pok1} /vessie de poisson; vessie natatoire de poisson/
+魚蛋 鱼蛋 [yu2 dan4] {jyu4 daan2} /boulettes de poisson/
 魚蛋妹 鱼蛋妹 [yu2 dan4 mei4] {jyu4 daan2 mui1} /an adolescent prostitute who does not engage in sex with patron but allows them to touch their body/
 魚蛋檔 鱼蛋档 [yu2 dan4 dang4] {jyu4 daan2 dong3} /fishball stall (spoken)/
 魚蛋河 鱼蛋河 [yu2 dan4 he2] {jyu4 daan2 ho2} /flat rice noodles with fish balls/
@@ -22035,19 +22034,19 @@
 魚蝦蟹 鱼虾蟹 [yu2 xia1 xie4] {jyu4 haa1 haai5} /Fish-Prawn-Crab / Hoo Hey How,  a classic Chinese dice gambling game/
 魚躍 鱼跃 [yu2 yue4] {jyu4 joek3} /a fish leaping out of water; to describe a leaping motion; to leap /
 魚雁 鱼雁 [yu2 yan4] {jyu4 ngaan6} /letters; epistles; a messenger/
-魚雲 鱼云 [yu2 yun2] {jyu4 wan4} /fish brain/
+????f 魚雲 鱼云 [yu2 yun2] {jyu4 wan4} /(aliment) cerveau de poisson/
 魚頭雲 鱼头云 [yu2 tou2 yun2] {jyu4 tau4 wan4} /a nickname of Hong Kong actor Liuyun/Lau4 wan5; a edible part of a fish head,Chinese cuisine/
 魚香茄子 鱼香茄子 [yu2 xiang1 qie2 zi5] {jyu4 hoeng1 ke2 zi2} /spicy fish-flavored eggplant,a famous Chinese cuisine (does not actually contain any fish)/
 魚鰓 鱼鳃 [yu2 sai1] {jyu4 soi1} /fish gill/
 魯 鲁 [lu3] {lou5} /abbr. for Shandong/
 魯魚亥豕 鲁鱼亥豕 [lu3 yu2 hai4 shi3] {lou5 jyu4 hoi6 ci2} /written characters being easily confused -- clerical errors made inadvertently; printing mistakes owing to similar written forms/
-魷魚絲 鱿鱼丝 [you2 yu2 si1] {jau4 jyu4 si1} /dried shredded squid/
-鮑魚刷 鲍鱼刷 [bao4 yu2 shua1] {baau1 jyu4 caat2} /a brush that is shaped like an abalone, normally used to clean toilet/
-鮑魚掣 鲍鱼掣 [bao4 yu2 che4] {baau1 jyu4 zai3} /an electrical circuit breaker switch/
+????f 魷魚絲 鱿鱼丝 [you2 yu2 si1] {jau4 jyu4 si1} /calmar séché et en lambeaux/
+鮑魚刷 鲍鱼刷 [bao4 yu2 shua1] {baau1 jyu4 caat2} /brosse de toilette/(lit.) brosse en forme d'abalone/
+鮑魚掣 鲍鱼掣 [bao4 yu2 che4] {baau1 jyu4 zai3} /disjoncteur/(lit.) commutateur en forme d'abalone/
 鮑魚菇 鲍鱼菇 [bao4 yu2 gu1] {baau1 jyu4 gu1} /abalone mushroom; oyster mushroom/
 鮓斗 鲊斗 [zha3 dou4] {zaa2 dau3} /useless (slang)/
 鮓皮 鲊皮 [zha3 pi2] {zaa2 pei4} /lousy; appalling/
-鮮奶咖啡 鲜奶咖啡 [xian1 nai3 ka1 fei1] {sin1 naai5 gaa3 fe1} /latte/
+鮮奶咖啡 鲜奶咖啡 [xian1 nai3 ka1 fei1] {sin1 naai5 gaa3 fe1} /café latte/
 鮮嫩 鲜嫩 [xian1 nen4] {sin1 nyun6} /fresh and tender/
 鮮有 鲜有 [xian3 you3] {sin2 jau5} /seldom have; rare; not often to be had; few/
 鮮果 鲜果 [xian1 guo3] {sin1 gwo2} /fresh fruit/
