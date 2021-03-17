@@ -11460,6 +11460,7 @@
 武裝警察 武装警察 [wu3 zhuang1 jing3 cha2] {mou5 zong1 ging2 caat3} /police armée/
 武裝鬥爭 武装斗争 [wu3 zhuang1 dou4 zheng1] {mou5 zong1 dau3 zang1} /lutte armée/
 武館 武馆 [wu3 guan3] {mou5 gun2} /centre d'arts martiaux/
+????f 武漢肺炎 武汉肺炎 [wu3 han4 fei4 yan2] {mou5 hon3 fai3 jim4} /(nom non officiel de la COVID-19 avec de connotations anti-Chine-continentale, genre « China flu »)/(lit.) pneumonie de Wuhan/
 歪哩歪斜 歪哩歪斜 [wai1 li5 wai1 xie2] {me2 li1 me2 ce3} /de travers/tordu, courbé/
 歪曲 歪曲 [wai1 qu1] {waai1 kuk1} /déformer, dénaturer (la vérité, les mots de quelqu'un)/
 歪曲事實 歪曲事实 [wai1 qu1 shi4 shi2] {waai1 kuk1 si6 sat6} /déformer, dénaturer la vérité/
@@ -22273,83 +22274,81 @@
 黃宗澤 黄宗泽 [huang2 zong1 ze2] {wong4 zung1 zaak6} /Bosco Wong Chung-chak, acteur et chanteur hongkongais/
 黃家駒 黄家驹 [huang2 jia1 ju1] {wong4 gaa1 keoi1} /Wong Ka Kui, chanteur hongkongais/
 黃昏 黄昏 [huang2 hun1] {wong4 fan1} /crépuscule/couchée du soleil/
-黃朝百晏 黄朝百晏 [huang2 chao2 bai3 yan4] {wong4 ziu1 baak3 ngaan3} /it's late in the morning/
-黃毓民 黄毓民 [huang2 yu4 min2] {wong4 juk1 man4} /Raymond Wong Yuk-man, a Hong Kong politician/
-黃泡仔 黄泡仔 [huang2 pao1 zi3] {wong4 paau1 zai2} /a young man who is suffering from dropsy / oedema; a young man of bad character; a thief; a solidier (dated term)/
-黃泡髧熟 黄泡髧熟 [huang2 pao1 dan4 shu2] {wong4 paau1 dam3 suk6} /sallow and swollen skin/
-黃泥 黄泥 [huang2 ni2] {wong4 nai4} /yellow mud/
-黃洋達 黄洋达 [huang2 yang2 da2] {wong4 joeng4 daat6} /Wong Yeung-tat, a Hong Kong novelist, scriptwriter and a social activist/
+黃朝百晏 黄朝百晏 [huang2 chao2 bai3 yan4] {wong4 ziu1 baak3 ngaan3} /(expr.) (faire la) grasse matinée/(lit.) matin jaune après-midi blanc/
+黃毓民 黄毓民 [huang2 yu4 min2] {wong4 juk1 man4} /Raymond Wong Yuk-man, politicien hongkongais/
+????f 黃泡仔 黄泡仔 [huang2 pao1 zi3] {wong4 paau1 zai2} /homme atteint d'œdème/
+????c 黃泡髧熟 黄泡髧熟 [huang2 pao1 dan4 shu2] {wong4 paau1 dam3 suk6} /sallow and swollen skin/
+黃泥 黄泥 [huang2 ni2] {wong4 nai4} /terre jaune/
+黃洋達 黄洋达 [huang2 yang2 da2] {wong4 joeng4 daat6} /Wong Yeung-tat, activiste social hongkongais/
 黃熟 黄熟 [huang2 shu2] {wong4 suk6} /mûrir/
-黃牛木 黄牛木 [huang2 niu2 mu4] {wong4 ngau4 muk6} /Cratoxylum cochinchinense/
+黃牛木 黄牛木 [huang2 niu2 mu4] {wong4 ngau4 muk6} /(espèce de plantes) Cratoxylum cochinchinense/
 ????f 黃牛飛 黄牛飞 [huang2 niu2 fei1] {wong4 ngau4 fei1} /billet à la sauvette/
 ????f 黃牛黨 黄牛党 [huang2 niu2 dang3] {wong4 ngau4 dong2} /scalper (spoken)/
 黃犬 黄犬 [huang2 quan3] {wong4 hyun2} /ver de terre (voir aussi 黃䘆|黄䘆)/
-黃狗毛 黄狗毛 [huang2 gou3 mao2] {wong4 gau2 mou4} /Cibotium barometz; golden chicken fern; wolly fern/
-黃狗頭 黄狗头 [huang2 gou3 tou2] {wong4 gau2 tau4} /Cibotium barometz; golden chicken fern; wolly fern/
-黃猄 黄猄 [huang2 jing1] {wong4 geng1} /Reeves's muntjac (type of barking deer)/
+????c 黃狗毛 黄狗毛 [huang2 gou3 mao2] {wong4 gau2 mou4} /(espèce de plantes) Cibotium cumingii/
+????c 黃狗頭 黄狗头 [huang2 gou3 tou2] {wong4 gau2 tau4} /(espèce de plantes) Cibotium cumingii/
+黃猄 黄猄 [huang2 jing1] {wong4 geng1} /(espèce d'animaux) Muntjac de Reeves; Muntjac de Reeves; cerf aboyeur; Muntiacus reevesi/
 黃瓜酸 黄瓜酸 [huang2 gua5 suan1] {wong4 gwaa1 syun1} /cornichon/
-黃百鳴 黄百鸣 [huang2 bai3 ming2] {wong4 baak3 ming4} /Raymond Wong Pak Ming; a Hong Kong actor, producer and screenwriter/
-黃皮樹了哥 黄皮树了哥 [huang2 pi2 shu4 liao3 ge1] {wong4 pei2 syu6 liu1 go1} /describes someone who takes advantage of those who he / she is familiar with or is the closest to/
-黃石路 黄石路 [huang2 shi2 lu4] {wong4 sek6 lou6} /Huangshi Road, a road in Guangzhou,China/
+黃百鳴 黄百鸣 [huang2 bai3 ming2] {wong4 baak3 ming4} /Raymond Wong Pak Ming, acteur, réalisateur et producteur hongkongais/
+????f 黃皮樹了哥 黄皮树了哥 [huang2 pi2 shu4 liao3 ge1] {wong4 pei2 syu6 liu1 go1} /(expr. en suspens) personne qui exploite sa famille ou ses amis/(lit.) l'oiseau Leucopsar rothschildi dans le wampi (deuxième partie 唔熟唔食|唔熟唔食 « ne mange pas le fruit s'il n'est pas mûr »)/
+黃石路 黄石路 [huang2 shi2 lu4] {wong4 sek6 lou6} /Huangshi Road, rue de Canton/
 ????f 黃禽禽 黄禽禽 [huang2 qin2 qin2] {wong4 kam4 kam4} /trop jaune/(vêtement) taché en jaune/
-黃秋生 黄秋生 [huang2 qiu1 sheng1] {wong4 cau1 sang1} /Anthony Perry / Wong Chau-Sang, a Hong Kong actor/
-黃竹坑 黄竹坑 [huang2 zhu2 keng1] {wong4 zuk1 haang1} /Wong Chuk Hang, a town on Hong Kong Island where the Hong Kong Police Training School and Ocean Park is located/
-黃竹坑道 黄竹坑道 [huang2 zhu2 keng1 dao4] {wong4 zuk1 haang1 dou6} /Wong Chuk Hang Road, in Hong Kong, China/
+黃秋生 黄秋生 [huang2 qiu1 sheng1] {wong4 cau1 sang1} /Anthony Wong, acteur hongkongais/
+黃竹坑 黄竹坑 [huang2 zhu2 keng1] {wong4 zuk1 haang1} /Wong Chuk Hang, quartier du Southern District de Hong Kong/
+黃竹坑道 黄竹坑道 [huang2 zhu2 keng1 dao4] {wong4 zuk1 haang1 dou6} /Wong Chuk Hang Road, rue à Hong Kong/
 黃粟 黄粟 [huang2 su4] {wong4 suk1} /millet/
 黃糖 黄糖 [huang2 tang2] {wong4 tong4} /cassonade/
 黃絲蟻 黄丝蚁 [huang2 si1 yi3] {wong4 si1 ngai5} /(espèce d'insectes) Fourmi tisserande; Oecophylla smaragdina/
-黃綠醫生 黄绿医生 [huang2 lü4 yi1 sheng1] {wong4 luk6 ji1 sang1} /(slang) a quack doctor; a charlatan doctor; an illegal doctor; an itinerant doctor who is a swindler/
-黃耀明 黄耀明 [huang2 yao4 ming2] {wong4 jiu6 ming4} /Anthony Wong Yiu-Ming, a Hong Kong singer, composer and producer/
-黃腫腳 黄肿脚 [huang2 zhong3 jiao3] {wong4 zung2 goek3} /literally: swollen feet; "don't mention it anymore"; "don't talk about it"; "forget it" 8/
-黃腳雞 黄脚鸡 [huang2 jiao3 ji1] {wong4 goek3 gai1} /one having illicit sex (slang)/
-黃膽水 黄胆水 [huang2 dan3 shui3] {wong4 daam2 seoi2} /gastric fluid / gastric juice (this is commonly mistaken as bile[wk2] (膽汁) by most people which is infact a greenish colour) /
-黃色小說 黄色小说 [huang2 se4 xiao3 shuo1] {wong4 sik1 siu2 syut3} /pornographic novel/
-黃色架步 黄色架步 [huang2 se4 jia4 bu4] {wong4 sik1 gaa3 bou6} /a vice establishment/
-黃花筒 黄花筒 [huang2 hua1 tong3] {wong4 faa1 tung2} /Yellow Croaker (type of fish)/
-黃芽白 黄芽白 [huang2 ya2 bai2] {wong4 ngaa4 baak6} /(vegetable) nappa cabbage, a type of Chinese cabbage; celery cabbage/
-黃蜂竇 黄蜂窦 [huang2 feng1 dou4] {wong4 fung1 dau3} /a vespiary (a wasp's nest); a hornet's nest (can be used in a metarphoric sense to describe someone unpleasant)/
-黃蜞 黄蜞 [huang2 qi2] {wong4 kei4} /ants/
+黃綠醫生 黄绿医生 [huang2 lu:4 yi1 sheng1] {wong4 luk6 ji1 sang1} /(expr.) médecin charlatan/(lit.) médecin jaune et vert/
+黃耀明 黄耀明 [huang2 yao4 ming2] {wong4 jiu6 ming4} /Anthony Wong Yiu-Ming, chanteur, acteur et activiste social hongkongais/
+????f 黃腫腳 黄肿脚 [huang2 zhong3 jiao3] {wong4 zung2 goek3} /(fig.) unable to bear to mention/(lit.) pied enflé/
+黃腳雞 黄脚鸡 [huang2 jiao3 ji1] {wong4 goek3 gai1} /(fig.) piège à miel/(lit.) poule à patte jaune/
+????c 黃膽水 黄胆水 [huang2 dan3 shui3] {wong4 daam2 seoi2} /gastric fluid / gastric juice (this is commonly mistaken as bile[wk2] (膽汁) by most people which is infact a greenish colour) /
+黃色小說 黄色小说 [huang2 se4 xiao3 shuo1] {wong4 sik1 siu2 syut3} /roman érotique/
+黃色架步 黄色架步 [huang2 se4 jia4 bu4] {wong4 sik1 gaa3 bou6} /bordel; maison close/(lit.) maison jaune/
+黃花筒 黄花筒 [huang2 hua1 tong3] {wong4 faa1 tung2} /(genre de poissons) Larimichthys/
+黃芽白 黄芽白 [huang2 ya2 bai2] {wong4 ngaa4 baak6} /pe-tsaï; chou chinois; chou de Pékin; chou napa; nappa/
+黃蜂竇 黄蜂窦 [huang2 feng1 dou4] {wong4 fung1 dau3} /guêpier; nid de guêpes/
+黃蜞 黄蜞 [huang2 qi2] {wong4 kei4} /sangsue/
 黃䘆 黄䘆 [huang2 xian3] {wong4 hin2} /ver de terre/
-黃貫中 黄贯中 [huang2 guan4 zhong1] {wong4 gun3 zung1} /Paul Wong Koon Chung, a Hong Kong singer and musician/
-黃貫其 黄贯其 [huang2 guan4 qi2] {wong4 gun3 kei4} /Wong Koon-Kei, a Hong Kong guitarist of The Postman band/
-黃道吉日 黄道吉日 [huang2 dao4 ji2 ri4] {wong4 dou6 gat1 jat6} /a specific chosen date regard as lucky or favourable for certain events or behaviour/
-黃邊站 黄边站 [huang2 bian1 zhan4] {wong4 bin1 zaam6} /Huangbian Station, a metro station in Guangzhou, China/
-黃金 黄金 [huang2 jin1] {wong4 gam1} /(slang)  shit (= excrement)/
-黃金海岸 黄金海岸 [Huang2 jin1 Hai3 an4] {wong4 gam1 hoi2 ngon6} /the Gold Coast, a private housing estate in Hong Kong/
-黃金糕 黄金糕 [huang2 jin1 gao1] {wong4 gam1 gou1} /golden sponge cake/
-黃鐘毀棄 黄钟毁弃 [huang2 zhong1 hui3 qi4] {wong4 zung1 wai2 hei3} /to describe when the capable people are cast aside whilst the incapable ones are in power/
-黃霑 黄沾 [huang2 zhan1] {wong4 zim1} /James Wong Jim, a Hong Kong Cantopop lyricist and writer/
-黃面婆 黄面婆 [huang2 mian4 po2] {wong4 min6 po4} /(slang) derogatory term for a housewife who doesn't dress up nicely and doesn't care much about their appearance/
-黃馬褂 黄马褂 [huang2 ma3 gua4] {wong4 maa5 kwaa2} /one with special power or authorisation (slang)/
-黃驊 黄骅 [Huang2 hua2] {wong4 waa4} /Huanghua City, China/
-黃黚黚 黄黚黚 [huang2 jian1 jian1] {wong4 gam4 gam4, wong4 kam4 kam4} /yellowy/
-黄芽白 黄芽白 [huang2 ya2 bai2] {wong4 ngaa4 baak6} /nappa cabbage, a type of Chinese cabbage/
-黄金海岸 黄金海岸 [Huang2 jin1 Hai3 an4] {wong4 gam1 hoi2 ngon6} /the Gold Coast, Australia/
-黎克特制 黎克特制 [li2 ke4 te4 zhi4] {lai4 haak1 dak6 zai3} /the Richter magnitude scale/
-黎姿 黎姿 [li2 zi1] {lai4 zi1} /Gigi Lai Chi, a Hong Kong actress/
-黎瑞恩 黎瑞恩 [li2 rui4 en1] {lai4 seoi6 jan1} /Vivian Lai Sui Yan, a Hong Kong singer/
-黎耀祥 黎耀祥 [li2 yao4 xiang2] {lai4 jiu6 coeng4} /Wayne Lai Yiu-cheung, a Hong Kong actor/
-黐 黐 [chi1] {ci1} /(verb)  stick together, on or to/
-黐埋 黐埋 [chi1 mai2] {ci1 maai4} /to stick together; to stick to; to adhere to; to hang out with/
-黐孖筋 黐孖筋 [chi1 ma1 jin1] {ci1 maa1 gan1} /describes a person who behaves in an irrational and unreasonable way/
-黐家 黐家 [chi1 jia1] {ci1 gaa1} /a homebody/
-黐湆 黐湆 [chi1 qi4] {ci1 nap6} /sticky/
-黐牙 黐牙 [chi1 ya2] {ci1 ngaa4} /tooth sticky (spoken)/
-黐立立 黐立立 [chi1 li4 li4] {ci1 lap6 lap6} /sticky/
-黐筋 黐筋 [chi1 jin1] {ci1 gan1} /crazy; having mental problem/
-黐綫 黐线 [chi1 xian4] {ci1 sin3} /crazy; having mental problem/
-黐線佬 黐线佬 [chi1 xian4 lao3] {ci1 sin3 lou2} /a crazy man/
-黐總掣 黐總掣 [chi1 cong1 che4] {ci1 zung2 zai3} /mad; crazy (spoken)/
-黐纏 黐缠 [chi1 chan2] {ci1 cin4} /clingy/
-黐脷根 黐脷根 [chi1 li4 gen1] {ci1 lei6 gan1} /tongue-tied (ankyloglossia); stigmatism / lisp/
-黐脷筋 黐脷筋 [chi1 li4 jin1] {ci1 lei6 gan1} /speak with a lisp / stigmatism/
-黐身 黐身 [chi1 shen1] {ci1 san1} /clingy/
-黐身膏藥 黐身膏药 [chi1 shen1 gao1 yao5] {ci1 san1 gou1 joek6} /clingy lover or children (slang)/
-黐身黐勢 黐身黐势 [chi1 shen1 chi1 shi4] {ci1 san1 ci1 sai3} /clingy/
-黐頭婆 黐头婆 [chi1 tou2 po2] {ci1 tau4 po4} /Cocklebur (Xanthium)/
-黐餐 黐餐 [chi1 can1] {ci1 caan1} /to save money by having meals at friends or family's place (spoken)/
-黐黐哋 黐黐哋 [chi1 chi1 di4] {ci1 ci1 dei2} /lost one's mind; crazy; insane/
-黐黐地 黐黐地 [chi1 chi1 di4] {ci1 ci1 dei6} /nuts; crazy; mad (spoken)/
+黃貫中 黄贯中 [huang2 guan4 zhong1] {wong4 gun3 zung1} /Paul Wong Koon Chung, chanteur et réalisateur hongkongais/
+黃貫其 黄贯其 [huang2 guan4 qi2] {wong4 gun3 kei4} /Wong Koon-Kei, guitariste hongkongais/
+????f 黃道吉日 黄道吉日 [huang2 dao4 ji2 ri4] {wong4 dou6 gat1 jat6} /(expr. idiom.) jour faste; jour propice/
+黃邊站 黄边站 [huang2 bian1 zhan4] {wong4 bin1 zaam6} /Huangbian Station, station du métro de Canton/
+黃金 黄金 [huang2 jin1] {wong4 gam1} /or/en or/(occasion) en or/excrément; matière fécale/
+黃金海岸 黄金海岸 [huang2 jin1 hai3 an4] {wong4 gam1 hoi2 ngon6} /Hong Kong Gold Coast, grand ensemble privé à Hong Kong/Gold Coast, conurbation australienne/
+????c 黃金糕 黄金糕 [huang2 jin1 gao1] {wong4 gam1 gou1} /génoise dorée; bika ambon/
+????c 黃鐘毀棄 黄钟毁弃 [huang2 zhong1 hui3 qi4] {wong4 zung1 wai2 hei3} /to describe when the capable people are cast aside whilst the incapable ones are in power (anywhere or only in government?)/
+黃霑 黄沾 [huang2 zhan1] {wong4 zim1} /James Wong Jim, acteur et compositeur chinois/
+????f 黃面婆 黄面婆 [huang2 mian4 po2] {wong4 min6 po4} /(inj.) femme au foyer qui ne s'occupe pas de ses apparences/(lit.) femme au visage jaune/
+????f 黃馬褂 黄马褂 [huang2 ma3 gua4] {wong4 maa5 kwaa2} /(fig.) chouchou du patron; personne qui est un parent du patron et qui a un traitement spécial/(lit.) veste d'équitation jaune (donné par l'empereur)/
+黃驊 黄骅 [Huang2 hua2] {wong4 waa4} /Huanghua, ville de la province du Hebei en Chine/
+黃黚黚 黄黚黚 [huang2 jian1 jian1] {wong4 gam4 gam4, wong4 kam4 kam4} /trop jaune/
+黎克特制 黎克特制 [li2 ke4 te4 zhi4] {lai4 haak1 dak6 zai3} /échelle de Richter/
+黎姿 黎姿 [li2 zi1] {lai4 zi1} /Gigi Lai, actrice, mannequin et chanteuse hongkongaise/
+黎瑞恩 黎瑞恩 [li2 rui4 en1] {lai4 seoi6 jan1} /Vivian Lai Sui Yan, chanteuse hongkongaise/
+黎耀祥 黎耀祥 [li2 yao4 xiang2] {lai4 jiu6 coeng4} /Wayne Lai Yiu-cheung, acteur hongkongais/
+黐 黐 [chi1] {ci1} /coller à/
+黐埋 黐埋 [chi1 mai2] {ci1 maai4} /coller à/
+黐孖筋 黐孖筋 [chi1 ma1 jin1] {ci1 maa1 gan1} /(fig.) fou; cinglé; barjot; dingue; fêlé/(lit.) avoir deux muscles collants/
+黐家 黐家 [chi1 jia1] {ci1 gaa1} /casanier; pantouflard/(lit.) qui colle à la maison/
+黐湆 黐湆 [chi1 qi4] {ci1 nap6} /collant; gluant/
+黐牙 黐牙 [chi1 ya2] {ci1 ngaa4} /(aliment) collant/(lit.) qui colle aux dents/
+黐立立 黐立立 [chi1 li4 li4] {ci1 lap6 lap6} /collant; gluant/
+黐筋 黐筋 [chi1 jin1] {ci1 gan1} /(fig.) fou; cinglé; barjot; dingue; fêlé/(lit.) avoir les muscles collants/
+黐綫 黐线 [chi1 xian4] {ci1 sin3} /(fig.) fou; cinglé; barjot; dingue; fêlé/(lit.) avoir les fils collants/
+黐線佬 黐线佬 [chi1 xian4 lao3] {ci1 sin3 lou2} /fou; cinglé; dément (de sexe masculin)/
+黐總掣 黐總掣 [chi1 cong1 che4] {ci1 zung2 zai3} /(fig.) fou; cinglé; barjot; dingue; fêlé/(lit.) avoir un commutateur principal collant/
+黐纏 黐缠 [chi1 chan2] {ci1 cin4} /couple inséparable/
+黐脷根 黐脷根 [chi1 li4 gen1] {ci1 lei6 gan1} /(fig.) zozoter/(lit.) avoir la racine de la langue qui colle/
+黐脷筋 黐脷筋 [chi1 li4 jin1] {ci1 lei6 gan1} /(fig.) zozoter/(lit.) avoir le muscle de la langue qui colle/
+黐身 黐身 [chi1 shen1] {ci1 san1} /(personne) collant/
+黐身膏藥 黐身膏药 [chi1 shen1 gao1 yao5] {ci1 san1 gou1 joek6} /(expr. idiom.) (enfants, amant) collant/(lit.) emplâtre collant/
+黐身黐勢 黐身黐势 [chi1 shen1 chi1 shi4] {ci1 san1 ci1 sai3} /(expr. idiom.) (ersonne) collant/(lit.) qui colle au corps et agit de manière collante/
+????c 黐頭婆 黐头婆 [chi1 tou2 po2] {ci1 tau4 po4} /Cocklebur (Xanthium)/
+????f 黐餐 黐餐 [chi1 can1] {ci1 caan1} /(fig.) économiser de l'argent en mangeant chez ses amis ou sa famille/(lit.) coller ses repas/
+黐黐哋 黐黐哋 [chi1 chi1 di4] {ci1 ci1 dei2} /(fig.) fou; cinglé; barjot; dingue; fêlé/(lit.) être un peu collant/
+黐黐地 黐黐地 [chi1 chi1 di4] {ci1 ci1 dei6} /(fig.) fou; cinglé; barjot; dingue; fêlé/(lit.) être un peu collant/
 黑 黑 [hei1] {hak1} /(slang) 1. bad luck; (of countenance)  irate; gloomy; long face (because of angry)/
 黑人僧 黑人僧 [hei1 ren2 seng1] {hak1 jan4 zang1} /obnoxious/
 黑仔 黑仔 [hei1 zi3] {hak1 zai2} /unlucky person (slang)/
