@@ -2457,12 +2457,13 @@
 冇问题 冇问题 [mao3 wen4 ti2] {mou5 man6 tai4} /pas de problème/
 冇陰功 冇阴功 [mao3 yin1 gong1] {mou5 jam1 gung1} /cruel, sans-coeur/
 冇雷公咁遠 冇雷公咁远 [mao3 Lei2 gong1 gan1 yuan3] {mou5 leoi4 gung1 gam3 jyun5} /trop loin/
-冇面 冇面 [mao3 mian4] {mou5 min6} /honte, déhonneur/perdre la face/
+冇面 冇面 [mao3 mian4] {mou5 min6} /honte, déshonneur/perdre la face/
 冇面俾 冇面俾 [mao3 mian4 bi3] {mou5 min2 bei2} /ne pas favoriser quelqu'un/
 冇鞋挽屐走 冇鞋挽屐走 [mao3 xie2 wan3 ji1 zou3] {mou5 haai4 waan5 kek6 zau2} /(expr. idiom.) partir précipitamment/(lit.) si vous n'avez pas de chaussures, prenez des sabots et partez/
 冇頭烏蠅 冇头乌蝇 [mao3 tou2 wu1 ying2] {mou5 tau4 wu1 jing4} /personne irréflechie, téméraire/(lit.) mouche sans tête/
 冇鬼用 冇鬼用 [mao3 gui3 yong4] {mou5 gwai2 jung6} /(fam.) inutile/
 冇漏罅 冇漏罅 [mao3 lou4 xia4] {mou5 lau6 laa3} /rigoureux, rigoureuse; minutieux, minutieuse/
+冇影 冇影 [mao3 ying3] {mou5 jing2} /disparaître/
 冉有 冉有 [ran3 you3] {jim5 jau5} /disciple de Confucius/
 再三 再三 [zai4 san1] {zoi3 saam1} /à plusieurs reprises/
 再加 再加 [zai4 jia1] {zoi3 gaa1} /de plus/
@@ -9822,7 +9823,7 @@
 攬上身 揽上身 [lan3 shang4 shen1] {laam2 soeng5 san1} /(fig.) se charger de/(lit.) se coller à son corps/
 攬住 揽住 [lan3 zhu4] {laam2 zyu6} /prendre dans ses bras, s'étreindre/mouler/s'agripper/
 攬住一齊死 揽住一齐死 [lan3 zhu4 yi1 ji4 si3] {laam5 zyu6 jat1 cai4 sei2} /(expr. idiom.) condamnés à connaître le même triste sort, condamnés à mourir ensemble/(fig.) mourir en s'étreignant/
-攬實 揽实 [lan3 shi2] {laam5 sat6} /s'étreindre, prendre dans ses bras/tenir fermement/
+攬實 揽实 [lan3 shi2] {laam2 sat6} /s'étreindre, prendre dans ses bras/tenir fermement/
 攬枕 揽枕 [lan3 zhen3] {laam2 zam2} /traversin, polochon/
 攬身攬勢 揽身揽势 [lan3 shen1 lan3 shi4] {laam2 san1 laam2 sai3} /s'étreindre et faire des câlins/
 攬頭 揽头 [lan3 tou2] {laam5 tau2} /agence maritime/contractuel, contractuelle/
@@ -14610,7 +14611,7 @@
 睇唔過眼 睇唔过眼 [di4 m2 guo4 yan3] {tai2 m4 gwo3 ngaan5} /(expr. idiom.) ne pas pouvoir supporter; désapprouver; voir d'un mauvais œil/(lit.) ne pas pouvoire laisser passer par les yeux/
 睇唔開 睇唔开 [di4 n2 kai1] {tai2 m4 hoi1} /(fig.) incapable d'accepter une mauvaise nouvelle ou une mauvaise situation; incapable de progresser; être obsédé par des ennuis/
 睇啱 睇啱 [di4 yan1] {tai2 ngaam1} /choisir; préférer une option parmi plusieurs/
-睇嚟 睇嚟 [di4 li2] {tai2 lai2} /avoir l'air; paraître/
+睇嚟 睇嚟 [di4 li2] {tai2 lai4} /avoir l'air; paraître/
 ????f 睇嚟湊 睇嚟凑 [di4 li2 cou4] {tai2 lai2 cau3} /ça dépend.../on verra/à ce moment-là; quand le moment sera venu/
 ????f 睇場 睇场 [di4 chang3] {tai2 coeng4} /membre d'un gang chargé de la sécurité d'un magasin, une maison de jeu, etc./travailler comme videur/(lit.) surveiller les lieux/
 睇夜 睇夜 [di4 ye4] {tai2 je2} /veiller/
@@ -22448,81 +22449,80 @@
 黨委書記 党委书记 [dang3 wei3 shu1 ji4] {dong2 wai2 syu1 gei3} /secrétaire du parti (politique)/
 黨紀 党纪 [dang3 ji4] {dong2 gei2} /discipline de parti/
 黴菌 霉菌 [mei2 jun1] {mei4 kwan2} /moisissure/
-黵 黵 [dan3] {daam2} /black colour; tattoo/
-黸 黸 [lu2] {lou4} /black colour/
+黵 黵 [dan3] {daam2} /noir/tatouer/salir/
+黸 黸 [lu2] {lou4} /(arch.) (couleur) noir/
 鼓勵 鼓励 [gu3 li4] {gu2 lai6} /encourager/
-鼓埋泡腮 鼓埋泡腮 [gu3 mai2 pao4 sai1] {gu2 maai4 paau1 soi1} /one feeling upset and frustrated (slang)/
+鼓埋泡腮 鼓埋泡腮 [gu3 mai2 pao4 sai1] {gu2 maai4 paau1 soi1} /(expr. idiom.) être fâché; être en colère/(expr. idiom.) avoir l'air triste; avoir l'air misérable/
 鼓槌 鼓槌 [gu3 chui2] {gu2 ceoi4} /baguette de tambour/
-鼓氣袋 鼓气袋 [gu3 qi4 dai4] {gu2 hei3 doi6} /one who is bloating with anger (spoken)/
+鼓氣袋 鼓气袋 [gu3 qi4 dai4] {gu2 hei3 doi6} /(fig.) personne en colère; personne fâchée/(lit.) poche gonflée/
 鼓皮 鼓皮 [gu3 pi2] {gu2 pei4} /peau de tambour/
-鼓舞 鼓舞 [gu3 wu3] {gu2 mou5} /(noun)  Drum dance/
-鼓舞 鼓舞 [gu3 wu3] {gu2 mou5} /(verb)  Inspire/
-鼓譟 鼓噪 [gu3 zao4] {gu2 cou3} /frustrated/
-鼓起泡腮 鼓起泡腮 [gu3 qi3 pao4 sai1] {gu2 hei2 paau1 soi1} /literally: to blow out one's cheek; describes when someone is angry or troubled / distressed / miserable/
+鼓舞 鼓舞 [gu3 wu3] {gu2 mou5} /encourager/
+????f 鼓譟 鼓噪 [gu3 zao4] {gu2 cou3} /se plaindre bruyamment/
+鼓起泡腮 鼓起泡腮 [gu3 qi3 pao4 sai1] {gu2 hei2 paau1 soi1} /(expr. idiom.) être fâché; être en colère/(expr. idiom.) avoir l'air triste; avoir l'air misérable/(lit.) gonfler les joues/
 ????c 鼠入嚟 鼠入嚟 [shu3 ru4 li2] {syu2 jap6 lai4} /sneak into/
 鼠嘢 鼠嘢 [shu3 ye3] {syu2 je5} /voler (des objets)/
-鼠摸 鼠摸 [shu3 mo1] {syu2 mo1} /a burglar / thief; someone who steals things at night time/
-鼠竊狗偷 鼠窃狗偷 [shu3 qie4 gou3 tou1] {syu2 sit3 gau2 tau1} /pilfer/
-鼥 鼥 [ba2] {bat6} /an ancient name for a marmot/
+鼠摸 鼠摸 [shu3 mo1] {syu2 mo1} /(fig.) voleur à la petite semaine/(lit.) souris touche/
+鼠竊狗偷 鼠窃狗偷 [shu3 qie4 gou3 tou1] {syu2 sit3 gau2 tau1} /(expr. idiom.) larcin; vol mineur/(lit.) souris vole chien vole/
+????c 鼥 鼥 [ba2] {bat6} /an ancient name for a marmot/
 鼻哥 鼻哥 [bi2 ge1] {bei6 go1} /nez/
 鼻哥窿 鼻哥窿 [bi2 ge1 long2] {bei6 go1 lung1} /narine/
-鼻屎咁多 鼻屎咁多 [bi2 shi3 gan1 duo1] {bei6 si2 gam3 do1} /so little; such a tiny amount/
-鼻敏感 鼻敏感 [bi2 min3 gan3] {bei6 man5 gam2} /allergic rhinitis/
+鼻屎咁多 鼻屎咁多 [bi2 shi3 gan1 duo1] {bei6 si2 gam3 do1} /(fig.) très peu/(lit.) autant qu'une crotte de nez/
+鼻敏感 鼻敏感 [bi2 min3 gan3] {bei6 man5 gam2} /rhinite allergique; allergie au pollen; rhume des foins/
 ????f 鼻水 鼻水 [bi2 shui3] {bei6 seoi2} /écoulement nasal (clear liquid when y ou have a runny nose)/
-鼻腍 鼻腍 [bi2 ren3] {bei6 jam6 nam4} / nasal obstruction/
+????c 鼻腍 鼻腍 [bi2 ren3] {bei6 nam4} / nasal obstruction/
 ????f 鼻血 鼻血 [bi2 xie3] {bei6 hyut3} /sang dans le nez (pendant un saignement de nez)/
 鼻鼾 鼻鼾 [bi2 han1] {bei6 hon4} /ronflement/
 鼻鼾聲 鼻鼾声 [bi2 han1 sheng1] {bei6 hon4 seng1} /ronflement/
-齊奏 齐奏 [qi2 zou4] {cai4 zau3} /playing (instruments) in unison (in an ensemble / orchestra)/
-齊心戮力 齐心戮力 [qi2 xin1 lu4 li4] {cai4 sam1 luk6 lik6} /to make a concerted effort;to pull together(to do something) /
-齊整 齐整 [qi2 zheng3] {cai4 zing2} /tidy and/or neat/
-齊東野語 齐东野语 [qi2 dong1 ye3 yu3] {cai4 dung1 je5 jyu5} /a cock and bull story; absurd and unfounded words/
-齊柏林飛船 齐柏林飞船 [qi2 bo2 lin2 fei1 chuan2] {cai4 paak3 lam4 fei1 syun4} /Led Zeppelin, a British rock band/
-齊葺葺 齐葺葺 [qi2 qi4 qi4] {cai4 cap1 cap1} /neat; trimmed; orderly/
-齊頭數 齐头数 [qi2 tou2 shu4] {cai4 tau4 sou3} /round-off; round-up; round-down (spoken)/
-齊齊 齐齐 [qi2 qi2] {cai4 cai4} /together/
-齋 斋 [zhai1] {zaai1} /(adjective) 1. Simply; 2. Only (because of less interests, activities, etc.)/
-齋啡 斋啡 [zhai1 fei1] {zaai1 fe1} /(noun) (of beverage) a coffee without milk and sugar: a black coffee/
-齋姑 斋姑 [zhai1 gu1] {zaai1 gu1} /a 'vegetarian recluse', a woman who has gone through the Refuge rite of Buddhism without shaving off her hair/
-齋擺唔賣 斋摆唔卖 [zhai1 bai3 n2 mai4] {zaai1 baai2 m4 maai6} /only for display not for sale/
-齋校 斋校 [zhai1 xiao4] {zaai1 haau6} /a single-sex school/
-齋滷味 斋卤味 [zhai1 lu3 wei4] {zaai1 lou5 mei2} /vegeterian mock meat/
-齋舖 斋铺 [zhai1 pu4] {zaai1 pou3} /a vegetarian store/
-齋菜 斋菜 [zhai1 cai4] {zaai1 coi3} /vegetarian dishes/
-齋鹵味 斋卤味 [zhai1 lu3 wei4] {zaai1 lou5 mei6} /vegetarian mock meats/
-齒狀 齿状 [chi3 zhuang4] {ci2 zong6} /dentation/
-齙 龅 [bao1] {baau6} /(noun)  Buck teeth/
-齠年 龆年 [tiao2 nian2] {tiu4 nin4} /childhood years/
-齧牙 啮牙 [nie4 ya2] {ngit6 ngaa4} /to grind one's teeth; to gnaw one's teeth/
-龍 龙 [long2] {lung4} /(noun) (of people)  line/
-龍友 龙友 [long2 you3] {lung4 jau5} /an obsessive amateur photographer, with an obsession close to the degree of an Otaku (similar to a geek or a nerd)/
-龍吟虎嘯 龙吟虎啸 [long2 yin2 hu3 xiao4] {lung4 jam4 fu2 siu3} /literally: (sound like) the snorting of dragons , the howling of tigers; to describe a loud and powerful sound; the unison act of two things (people) that are similar or associated; similar sounds echo one another /
-龍景軒 龙景轩 [long2 jing3 xuan1] {lung4 ging2 hin1} /Lung King Heen, a fine dining Cantonese cuisine restaurant in Hong Kong, China/
-龍歸站 龙归站 [long2 gui1 zhan4] {lung4 gwai1 zaam6} /Longgui Station, a metro station in Guangzhou, China/
+齊奏 齐奏 [qi2 zou4] {cai4 zau3} /(musique) jouer à l'unisson/
+齊心戮力 齐心戮力 [qi2 xin1 lu4 li4] {cai4 sam1 luk6 lik6} /(expr. idiom.) déployer des efforts concertés; travailler ensemble/(lit.) se mettre d'accord et unir les forces/
+齊整 齐整 [qi2 zheng3] {cai4 zing2} /bien rangé; ordonné/
+????c 齊東野語 齐东野语 [qi2 dong1 ye3 yu3] {cai4 dung1 je5 jyu5} /(expr. idiom.) histoire sans queue ni tête; rumeur/
+齊柏林飛船 齐柏林飞船 [qi2 bo2 lin2 fei1 chuan2] {cai4 paak3 lam4 fei1 syun4} /Led Zeppelin, groupe britannique de rock/
+齊葺葺 齐葺葺 [qi2 qi4 qi4] {cai4 cap1 cap1} /uniforme; régulier/bien rangé; ordonné/
+齊頭數 齐头数 [qi2 tou2 shu4] {cai4 tau4 sou3} /(mathématiques) arrondir; former un chiffre rond/
+齊齊 齐齐 [qi2 qi2] {cai4 cai4} /ensemble/
+齋 斋 [zhai1] {zaai1} /régime végétarien/seulement; juste/ordinaire; simple/ennuyeux/
+齋啡 斋啡 [zhai1 fei1] {zaai1 fe1} /café noir/
+????f 齋姑 斋姑 [zhai1 gu1] {zaai1 gu1} /a 'vegetarian recluse', a woman who has gone through the Refuge rite of Buddhism without shaving off her hair/
+????f 齋擺唔賣 斋摆唔卖 [zhai1 bai3 n2 mai4] {zaai1 baai2 m4 maai6} /only for display not for sale/
+????f 齋校 斋校 [zhai1 xiao4] {zaai1 haau6} /école de garçons; école de filles; école pas mixte/
+齋滷味 斋卤味 [zhai1 lu3 wei4] {zaai1 lou5 mei2} /fausse viande chinoise à base végétale/
+齋舖 斋铺 [zhai1 pu4] {zaai1 pou3} /restaurant végétarien/
+齋菜 斋菜 [zhai1 cai4] {zaai1 coi3} /plats végétariens/
+齋鹵味 斋卤味 [zhai1 lu3 wei4] {zaai1 lou5 mei6} /fausse viande chinoise à base végétale/
+齒狀 齿状 [chi3 zhuang4] {ci2 zong6} /dentition; formation des dents/
+齙 龅 [bao1] {baau6} /dents de lapin; dents saillantes/
+齠年 龆年 [tiao2 nian2] {tiu4 nin4} /enfance/
+齧牙 啮牙 [nie4 ya2] {ngit6 ngaa4} /grincer les dents la nuit/
+龍 龙 [long2] {lung4} /dragon/(par métonymie) empereur/ligne; queue; file d'attente/
+龍友 龙友 [long2 you3] {lung4 jau2} /(connotation négative) photographe amateur/
+????f 龍吟虎嘯 龙吟虎啸 [long2 yin2 hu3 xiao4] {lung4 jam4 fu2 siu3} /(expr. idiom.) grondement (des vagues); mugissement (du vent)/(lit.) chant des dragons et rugissement des tigres/
+龍景軒 龙景轩 [long2 jing3 xuan1] {lung4 ging2 hin1} /Lung King Heen, restaurant hongkongais/
+龍歸站 龙归站 [long2 gui1 zhan4] {lung4 gwai1 zaam6} /Longgui Station, statino du métro de Canton/
 龍游淺水，遭蝦戲 龙游浅水，遭虾戏 [long2 you2 qian3 shui3 , zao1 xia1 xi4] {lung4 jau4 cin2 seoi2, zou1 haa1 hei3} /a man who loses position and influence may be subjected to much indignity/
 龍潭虎穴 龙潭虎穴 [long2 tan2 hu3 xue2] {lung4 taam4 fu2 jyut6} /a lion's den, an extremely dangerous place/
-龍牙蕉 龙牙蕉 [long2 ya2 jiao1] {lung4 ngaa4 ziu1} /a type of banana/
-龍珠 龙珠 [long2 zhu1] {lung4 zyu1} /Dragon Ball (cartoon/comic)/
+????c 龍牙蕉 龙牙蕉 [long2 ya2 jiao1] {lung4 ngaa4 ziu1} /a type of banana/
+龍珠 龙珠 [long2 zhu1] {lung4 zyu1} /Dragon Ball, série de mangas et série animée/
 龍珠島 龙珠岛 [long2 zhu1 dao3] {lung4 zyu1 dou2} /Pearl Island, an island in Hong Kong, China/
 龍穿鳳 龙穿凤 [long2 chuan1 feng4] {lung4 cyun1 fung6} /to have a meteoric rise and become successful (one day)/
 龍精虎猛 龙精虎猛 [long2 jing1 hu3 meng3] {lung4 zing1 fu2 maang5} /(slang) (of person's constitution and health) full of strength and energy; to be fit as a fiddle/
 龍翔道 龙翔道 [long2 xiang2 dao4] {lung4 coeng4 dou6} /Lung Cheung Road, a main road along northern Kowloon/
 龍肝鳳髓 龙肝凤髓 [long2 gan1 feng4 sui3] {lung4 gon1 fung6 seoi5} /rare and precious delicacies/
-龍脷 龙脷 [long2 li4] {lung4 lei6} /sole (fish)/
+龍脷 龙脷 [long2 li4] {lung4 lei6} /(espèce de poissons) sole/
 龍腦 龙脑 [long2 nao3] {lung4 nou5} /Borneol, used in traditional Chinese medicine/
-龍舌蘭酒 龙舌兰酒 [long2 she2 lan2 jiu3] {lung4 sit6 laan4 zau2} /Tequila/
+龍舌蘭酒 龙舌兰酒 [long2 she2 lan2 jiu3] {lung4 sit6 laan4 zau2} /tequila, boisson alcoolisée/
 龍舟水 龙舟水 [long2 zhou1 shui3] {lung4 zau1 seoi2} /heavy rain during the period around Dragon Boat Festival/
-龍舟節 龙舟节 [Long2 zhou1 jie2] {lung4 zau1 zit3} /Dragon Boat Festival/
-龍船 龙船 [long2 chuan2] {lung4 syun4} /(adjective) (figurative)  very long (e.g. feet, shoes, etc.)/
+龍舟節 龙舟节 [long2 zhou1 jie2] {lung4 zau1 zit3} /fête des bateaux-dragons; fête du double-cinq/
+龍船 龙船 [long2 chuan2] {lung4 syun4} /bateau-dragon/
 龍虎山 龙虎山 [long2 hu3 shan1] {lung4 fu2 saan1} /Lung Fu Shan / Hill Above Belcher's, a hill in Hong Kong; Mount Longhu, a mountain in China/
-龍虎武師 龙虎武师 [long2 hu3 wu3 shi1] {lung4 fu2 mou5 si1} /martial arts instructor in filming/
-龍虎豹 龙虎豹 [long2 hu3 bao4] {lung4 fu2 paau3} /Long Hu Pao; a pornographic magazine/
-龍虱 龙虱 [long2 shi1] {lung4 sat1} /diving beetle; true water beetle/
-龍蝨 龙虱 [long2 shi1] {lung4 sat1} /dytiscidae/
+????f 龍虎武師 龙虎武师 [long2 hu3 wu3 shi1] {lung4 fu2 mou5 si1} /instructeur d'arts martiaux des acteurs et actrices/acteurs ou actrices qui spécialisent dans les films d'arts martiaux/
+龍虎豹 龙虎豹 [long2 hu3 bao4] {lung4 fu2 paau3} /Long Hu Pao, magazine pornographique/
+龍虱 龙虱 [long2 shi1] {lung4 sat1} /(famille d'insectes) dytiques; Dytiscidae/
+龍蝨 龙虱 [long2 shi1] {lung4 sat1} /(famille d'insectes) dytiques; Dytiscidae/
 龍蟠虎踞 龙蟠虎踞 [long2 pan2 hu3 ju4] {lung4 pun4 fu2 geoi3} /a terrain of strategic importance/
 龍運巴士 龙运巴士 [long2 yun4 ba1 shi4] {lung4 wan6 baa1 si2} /Long Win Bus, a bus company in Hong Kong/
-龍門 龙门 [Long2 men2] {lung4 mun4} /(noun) (of soccer)  goalie/
-龍頭 龙头 [long2 tou2] {lung4 tau4} /(noun) 1. the first position in a queue; 2. (of dragon dance) dragon head; 3. fish head/
+龍門 龙门 [long2 men2] {lung4 mun4} /(football) filets/(football) gardien de but/porte du succès/célébrité; renommée; gloire/
+龍頭 龙头 [long2 tou2] {lung4 tau4} /tête du dragon/robinet/(fig.) tête de la queue/(fig.) patron; chef; leader/
 龍顏 龙颜 [long2 yan2] {lung4 ngaan4} /countenance of the emperor/
 龍鬚糖 龙须糖 [long2 xu1 tang2] {lung4 sou1 tong4} /dragon beard candy/
 龍鬚草 龙须草 [long2 xu1 cao3] {lung4 sou1 cou2} /eulaliopsis; Chinese alpine rush/
