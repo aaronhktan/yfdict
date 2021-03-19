@@ -15799,6 +15799,7 @@
 終歸 终归 [zhong1 gui1] {zung1 gwai1} /finalement; au bout du compte; au final/
 終須 终须 [zhong1 xu1] {zung1 seoi1} /inévitablement; forcément; tôt ou tard/
 ????f 終須有日龍穿鳳 终须有日龙穿凤 [zhong1 xu1 you3 ri4 long2 chuan1 feng4] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6} /(expr. idiom.) tout le monde aura sa chance de réussir/
+????f 終須有日龍穿鳳，唔信一世褲穿窿 终须有日龙穿凤，唔信一世裤穿窿 [zhong1 xu1 you3 ri4 long2 chuan1 feng4, wu2 xin4 yi1 shi4 ku4 chuan1 long2] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6, m4 seon3 jat1 sai3 fu3 cyun1 lung1} /(expr. idiom.) tout le monde aura sa chance de réussir/(lit.) il y aura sûrement un jour où le dragon perce le phénix (= tu réussiras) - si tu n'y crois pas, toute la vie tu auras des trous dans tes pantalons (= tu seras pauvre toute la vie)/
 絃外之音 弦外之音 [xian2 wai4 zhi1 yin1] {jin4 ngoi6 zi1 jam1} /(fig.) implication; insinuation/(lit.) sons en dehors des cordes/
 絃索 弦索 [xian2 suo3] {jin4 sok3} /(d'un instrument de musique) corde/
 弦線 弦线 [xian2 xian4] {jin4 sin3} /(d'un instrument de musique) corde/
@@ -22499,38 +22500,38 @@
 ????f 龍吟虎嘯 龙吟虎啸 [long2 yin2 hu3 xiao4] {lung4 jam4 fu2 siu3} /(expr. idiom.) grondement (des vagues); mugissement (du vent)/(lit.) chant des dragons et rugissement des tigres/
 龍景軒 龙景轩 [long2 jing3 xuan1] {lung4 ging2 hin1} /Lung King Heen, restaurant hongkongais/
 龍歸站 龙归站 [long2 gui1 zhan4] {lung4 gwai1 zaam6} /Longgui Station, statino du métro de Canton/
-龍游淺水，遭蝦戲 龙游浅水，遭虾戏 [long2 you2 qian3 shui3 , zao1 xia1 xi4] {lung4 jau4 cin2 seoi2, zou1 haa1 hei3} /a man who loses position and influence may be subjected to much indignity/
-龍潭虎穴 龙潭虎穴 [long2 tan2 hu3 xue2] {lung4 taam4 fu2 jyut6} /a lion's den, an extremely dangerous place/
+????c 龍游淺水，遭蝦戲 龙游浅水，遭虾戏 [long2 you2 qian3 shui3 , zao1 xia1 xi4] {lung4 jau4 cin2 seoi2, zou1 haa1 hei3} /a man who loses position and influence may be subjected to much indignity/
+龍潭虎穴 龙潭虎穴 [long2 tan2 hu3 xue2] {lung4 taam4 fu2 jyut6} /(expr. idiom.) endroit dangereux/(lit.) étang du dragon, l'antre du tigre/
 ????c 龍牙蕉 龙牙蕉 [long2 ya2 jiao1] {lung4 ngaa4 ziu1} /a type of banana/
 龍珠 龙珠 [long2 zhu1] {lung4 zyu1} /Dragon Ball, série de mangas et série animée/
-龍珠島 龙珠岛 [long2 zhu1 dao3] {lung4 zyu1 dou2} /Pearl Island, an island in Hong Kong, China/
-龍穿鳳 龙穿凤 [long2 chuan1 feng4] {lung4 cyun1 fung6} /to have a meteoric rise and become successful (one day)/
-龍精虎猛 龙精虎猛 [long2 jing1 hu3 meng3] {lung4 zing1 fu2 maang5} /(slang) (of person's constitution and health) full of strength and energy; to be fit as a fiddle/
-龍翔道 龙翔道 [long2 xiang2 dao4] {lung4 coeng4 dou6} /Lung Cheung Road, a main road along northern Kowloon/
-龍肝鳳髓 龙肝凤髓 [long2 gan1 feng4 sui3] {lung4 gon1 fung6 seoi5} /rare and precious delicacies/
+龍珠島 龙珠岛 [long2 zhu1 dao3] {lung4 zyu1 dou2} /Pearl Island, île de Hong Kong/
+龍穿鳳 龙穿凤 [long2 chuan1 feng4] {lung4 cyun1 fung6} /(expr. idiom.) réussir (voir aussi 終須有日龍穿鳳|终须有日龙穿凤)/
+龍精虎猛 龙精虎猛 [long2 jing1 hu3 meng3] {lung4 zing1 fu2 maang5} /(expr. idiom.) plein d'énergie/(lit.) énergie du dragon et férocité du tigre/
+龍翔道 龙翔道 [long2 xiang2 dao4] {lung4 coeng4 dou6} /Lung Cheung Road, rue artérielle à Hong Kong/
+????f 龍肝鳳髓 龙肝凤髓 [long2 gan1 feng4 sui3] {lung4 gon1 fung6 seoi5} /(expr. idiom.) délicatesse rare/(lit.) foie de dragon, moelle de phénix/
 龍脷 龙脷 [long2 li4] {lung4 lei6} /(espèce de poissons) sole/
-龍腦 龙脑 [long2 nao3] {lung4 nou5} /Borneol, used in traditional Chinese medicine/
+龍腦 龙脑 [long2 nao3] {lung4 nou5} /(chimie) bornéol/
 龍舌蘭酒 龙舌兰酒 [long2 she2 lan2 jiu3] {lung4 sit6 laan4 zau2} /tequila, boisson alcoolisée/
-龍舟水 龙舟水 [long2 zhou1 shui3] {lung4 zau1 seoi2} /heavy rain during the period around Dragon Boat Festival/
+????f 龍舟水 龙舟水 [long2 zhou1 shui3] {lung4 zau1 seoi2} /pluie au temps de la fête des bateaux-dragons/
 龍舟節 龙舟节 [long2 zhou1 jie2] {lung4 zau1 zit3} /fête des bateaux-dragons; fête du double-cinq/
 龍船 龙船 [long2 chuan2] {lung4 syun4} /bateau-dragon/
-龍虎山 龙虎山 [long2 hu3 shan1] {lung4 fu2 saan1} /Lung Fu Shan / Hill Above Belcher's, a hill in Hong Kong; Mount Longhu, a mountain in China/
+龍虎山 龙虎山 [long2 hu3 shan1] {lung4 fu2 saan1} /mont Longhu, montagne dans la province de Jiangxi/Lung Fu Shan, Hill Above Belcher's, montagne à Hong Kong/
 ????f 龍虎武師 龙虎武师 [long2 hu3 wu3 shi1] {lung4 fu2 mou5 si1} /instructeur d'arts martiaux des acteurs et actrices/acteurs ou actrices qui spécialisent dans les films d'arts martiaux/
 龍虎豹 龙虎豹 [long2 hu3 bao4] {lung4 fu2 paau3} /Long Hu Pao, magazine pornographique/
 龍虱 龙虱 [long2 shi1] {lung4 sat1} /(famille d'insectes) dytiques; Dytiscidae/
 龍蝨 龙虱 [long2 shi1] {lung4 sat1} /(famille d'insectes) dytiques; Dytiscidae/
-龍蟠虎踞 龙蟠虎踞 [long2 pan2 hu3 ju4] {lung4 pun4 fu2 geoi3} /a terrain of strategic importance/
-龍運巴士 龙运巴士 [long2 yun4 ba1 shi4] {lung4 wan6 baa1 si2} /Long Win Bus, a bus company in Hong Kong/
+????c 龍蟠虎踞 龙蟠虎踞 [long2 pan2 hu3 ju4] {lung4 pun4 fu2 geoi3} /a terrain of strategic importance/location with dangerous terrain/
+????f 龍運巴士 龙运巴士 [long2 yun4 ba1 shi4] {lung4 wan6 baa1 si2} /Long Win Bus, compagnie d'autobus hongkongaise/
 龍門 龙门 [long2 men2] {lung4 mun4} /(football) filets/(football) gardien de but/porte du succès/célébrité; renommée; gloire/
 龍頭 龙头 [long2 tou2] {lung4 tau4} /tête du dragon/robinet/(fig.) tête de la queue/(fig.) patron; chef; leader/
-龍顏 龙颜 [long2 yan2] {lung4 ngaan4} /countenance of the emperor/
-龍鬚糖 龙须糖 [long2 xu1 tang2] {lung4 sou1 tong4} /dragon beard candy/
-龍鬚草 龙须草 [long2 xu1 cao3] {lung4 sou1 cou2} /eulaliopsis; Chinese alpine rush/
-龍鼓灘 龙鼓滩 [long2 gu3 tan1] {lung4 gu2 taan1} /Lung Kwu Tan, a place in Hong Kong/
-龜婆 龟婆 [gui1 po2] {gwai1 po2} /a bawd, a woman who is in charge of a brothel/
-龜背 龟背 [gui1 bei4] {gwai1 bui3} /a padded vest/
-龜苓膏 龟苓膏 [gui1 ling2 gao1] {gwai1 ling4 gou1} /herbal turtle jelly/
-龜蛋 龟蛋 [gui1 dan4] {gwai1 daan2} /(noun) turtle egg; (curse language) bastard; jerk/
+龍顏 龙颜 [long2 yan2] {lung4 ngaan4} /visage de l'empereur/
+????f 龍鬚糖 龙须糖 [long2 xu1 tang2] {lung4 sou1 tong2} /(confiserie) barbe à dragon, confiserie similaire à la barbe à papa/
+龍鬚草 龙须草 [long2 xu1 cao3] {lung4 sou1 cou2} /(espèce de plantes) Eulaliopsis binata/
+龍鼓灘 龙鼓滩 [long2 gu3 tan1] {lung4 gu2 taan1} /Lung Kwu Tan, région de Hong Kong/
+龜婆 龟婆 [gui1 po2] {gwai1 po2} /tenancière de bordel/
+龜背 龟背 [gui1 bei4] {gwai1 bui3} /gilet matelassé/déviation de la colonne vertébrale/
+龜苓膏 龟苓膏 [gui1 ling2 gao1] {gwai1 ling4 gou1} /guīlínggāo, gelée fabriquée à l'aide de poudre de plastrons de tortues et d'herbes médicinales/
+龜蛋 龟蛋 [gui1 dan4] {gwai1 daan2} /(fig.) connard/(lit.) œuf de tortue/
 槍替 枪替 [qiang1 ti4] {coeng1 tai3} /passer un examen à la place de quelqu'un d'autre/
 槍手 枪手 [qiang1 shou3] {coeng1 sau2} /tireur, homme armé/passer un examen à la place de quelqu'un d'autre/
 免息 免息 [mian3 xi1] {min5 sik} /(finance) sans intérêt/
