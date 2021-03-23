@@ -6076,10 +6076,10 @@
 好啲 好啲 [hao3 di1] {hou2 di1} /mieux/
 好嘅唔靈醜嘅靈 好嘅唔灵丑嘅灵 [hao3 ge2 m2 ling2 chou3 ge2 ling2] {hou2 koi3 m4 ling4 cau2 koi3 ling4} /porter malheur à, porter poisse/parler d'une mauvaise chose causera ladite chose/
 好嘈 好嘈 [hao3 cao2] {hou2 cou4} /très bruyant/
-好嘢 好嘢 [hao3 ye3] {hou2 je5} /super, génial/bonne chose/félicitations!/hourra!/tu es trop bon!/
+好嘢 好嘢 [hao3 ye3] {hou2 je5} /super, génial/bonne chose/félicitations! bien joué!/hourra!/tu es trop bon!/
 好地地 好地地 [hao3 di4 di4] {hou2 dei6 dei6} /tout allait bien... (puis la situation a changé)/
 好多時 好多时 [hao3 duo1 shi2] {hou2 do1 si4} /fréquemment, souvent/
-好天 好天 [hao3 tian1] {hou2 tin1} /journée ensoleillé/belle journée/
+好天 好天 [hao3 tian1] {hou2 tin1} /journée ensoleillée/belle journée/
 好天搵埋落雨米 好天揾埋落雨米 [hao3 tian1 wen3 mai2 luo4 yu3 mi3] {hou2 tin1 wan2 maai4 lok6 jyu5 mai5} /(expr. idiom.) bien préparé pour un avenir incertain/(lit.) avoir trouvé du riz lors des beaux jours pour les jours de pluie/
 好好地 好好地 [hao3 hao3 de5] {hou2 hou2 dei2} /bien/
 好好的 好好的 [hao3 hao3 de5] {hou2 hou2 dik1} /très bien/
@@ -6152,7 +6152,7 @@
 好逑 好逑 [hao3 qiu2] {hou2 kau4} /désiré par de nombreux personnes/
 好過冇 好过冇 [hao3 guo4 mao3] {hou2 gwo3 mou5} /mieux que rien/
 好醜 好丑 [hao3 chou3] {hou2 cau2} /très laid/bon et mauvais/au moins/
-好野 好野 [hao3 ye3] {hou2 je5} /super, génial/bonne chose/félicitations!/hourra!/tu es trop bon!/
+好野 好野 [hao3 ye3] {hou2 je5} /super, génial/bonne chose/félicitations! bien joué!/hourra!/tu es trop bon!/
 好鍾意 好钟意 [hao3 zhong1 yi4] {hou2 zung1 ji3} /aimer beaucoup/
 好閑 好闲 [hao4 xian2] {hou2 haan4} /banal, trivial/trop facile, qui ne vaut pas la peine de s'en soucier/
 好頭好尾 好头好尾 [hao3 tou2 hao3 wei3] {hou2 tau4 hou2 mei5} /bon début et bonne fin/
@@ -8827,7 +8827,7 @@
 抵命 抵命 [di3 ming4] {dai2 meng6} /payer de sa vie (utilisé surtout pour décrire une situation criminelle, comme une vengeance meurtrière, un deal de drogue mal tourné, une dette non payée, etc.)/
 抵埗 抵埗 [di3 bu4] {dai2 bou6} /arriver, parvenir à sa destination/
 抵得 抵得 [di3 de2] {dai2 dak1} /résistant à, qui endure (des conditions défavorables, des personnes désagréables, etc.)/
-抵得諗 抵得谂 [di3 de2 shen3] {dai2 dak1 nam2} /généreux, altruiste, clément/qui vaut la peine d'être considéré/
+抵得諗 抵得谂 [di3 de2 shen3] {dai2 dak1 nam2} /généreux; altruiste; clément/humble; éffacé/qui vaut la peine d'être considéré/
 抵得頸 抵得颈 [di3 de2 jing3] {dai2 dak1 geng2} /résistant à, qui endure (des conditions défavorables, des personnes désagréables, etc.)/qui parvient à retenir sa colère ou garder son sang-froid/
 抵手 抵手 [di3 shou3] {dai2 sau2} /capable, compétent/
 抵打 抵打 [di3 da3] {dai2 daa2} /qui mérite d'être frappé/
@@ -15734,6 +15734,7 @@
 索油 索油 [suo3 you2] {sok3 jau4} /(fam.) (fig.) agresser sexuellement; harceler sexuellement/(lit.) chercher de l'huile/
 索汗 索汗 [suo3 han4] {sok3 hon6} /(vêtement) anti-transpiration/essuyer la sueur/
 索罟灣 索罟湾 [suo3 gu3 wan1] {sok3 gu2 waan1} /Sok Kwu Wan, baie de Hong Kong/
+索 索 [suo3] {sok3} /sexy; attirant/
 紥炮 扎炮 [zha1 pao4] {zaat3 paau3} /(fig.) souffrir de la faim/(fig.) se serrer la ceinture; réduire ses dépenses/
 紥腳 扎脚 [za1 jiao3] {zaat3 goek3} /coutume des pieds bandés/
 紫外線 紫外线 [zi3 wai4 xian4] {zi2 ngoi6 sin3} /rayonnement ultraviolet; rayonnement UV/
@@ -22365,7 +22366,7 @@
 黑工 黑工 [hei1 gong1] {hak1 gung1} /travailleur illégal/
 黑市夫人 黑市夫人 [hei1 shi4 fu1 ren5] {hak1 si5 fu1 jan4} /(fig.) maîtresse; amante; concubine/(lit.) femme de marché noir/
 黑幫 黑帮 [hei1 bang1] {hak1 bong1} /mafia; gang criminel; triade/
-黑底 黑底 [hei1 di3] {hak1 dai2} /casier judiciaire/passé criminel; appartenance à un gang/
+黑底 黑底 [hei1 di3] {hak1 dai2} /casier judiciaire; antécédents criminels/passé criminel; appartenance à un gang/
 黑房 黑房 [hei1 fang2] {hak1 fong2} /(photographie) chambre noire/
 ????f 黑手 黑手 [hei1 shou3] {hak1 sau2} /a person who manipulates everything behind the scenes/
 黑森 黑森 [hei1 sen1] {haak1 sam1} /Hesse, l'un des seize Länder composant l'Allemagne/
@@ -22548,4 +22549,5 @@
 摒除 摒除 [bing4 chu2] {bing3 ceoi4} /expulser; mettre dehors/
 扇車 扇车 [shan4 che1] {sin3 ce1} /outil mécanique pour vanner/
 廟號 庙号 [miao4 hao4] {miu6 hou6} /nom de temple; nom posthume donné aux souverains décédés/
+哦 哦 [o2] {o4} /d'accord; entendu; OK/
 
