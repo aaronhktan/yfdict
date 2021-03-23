@@ -1,21 +1,22 @@
 # CC-FCanto
-# Le dictionnaire cantonais-français libre
+# Le dictionnaire cantonais-français libre et gratuit
 # Version 2018-11-29
 # 
 # Basé sur la version originale en anglais, CC-Canto
 # Copyright (c) 2015-16 Pleco Software Incorporated
 # Distributé sous license Creative Commons Attribution - Partage dans les Mêmes Conditions 3.0 non transposé (http://creativecommons.org/licenses/by-sa/3.0/)
 #
-# Ce dictionnaire destiné à être utilisé avec le dictionnaire chinois (aussi open-source) CC-CEDICT
+# Ce dictionnaire est destiné à être utilisé avec le dictionnaire chinois (aussi open-source) CC-CEDICT
 # Voir mdbg.net pour télécharger CC-CEDICT, voir cccanto.org pour télécharger une liste open-source des prononciations cantonais pour CC-CEDICT
 #
 
 # Guide typographique:
-# - Utilise les lettres minuscules partout, sauf pour les noms propres
-# - Sépare les définitions différentes avec une barre oblique, sans espaces
-# - S'il faut utiliser les mots <quelque chose> ou <quelqu'un>, utilise <quelque chose> et <quelqu'un>, n'utilise pas d'abbréviation
-# - S'il y a une forme masculin et féminin, écris une après l'autre: un, une
-# - Pour les traductions avec une version littérale, mets-la après les autres définitions et ajoute un (lit.) devant la traduction
+# - Utilisez les lettres minuscules partout, sauf les noms propres ou une définition composée de plusieurs phrases
+# - Séparez les différents sens avec une barre oblique, sans espaces avant ou après le signe de prononciation
+# - S'il y a plusieurs traductions possibles pour un sens, séparez-les avec un point-virgule
+# - S'il faut utiliser les mots <quelque chose> ou <quelqu'un>, écrivez <quelque chose> et <quelqu'un>, n'utilise pas d'abréviation
+# - Si un mot a une forme masculin et féminin, écris-les l'une après l'autre: un, une
+# - Pour une traduction litérale, mets-la après les autres définitions et ajoute un (lit.) devant la traduction
 # - En parenthèses: (expr. idiom.), (arch.), (vieilli), (n.m.), (n.f), (classificateur), (orig.), (nom de famille), (litt.), (fam.)
 
 一不小心 一不小心 [yi1 bu5 xiao3 xin1] {jat1 bat1 siu2 sam1} /par accident; dans un moment d'inattention/
@@ -28,9 +29,9 @@
 一事 一事 [yi1 shi4] {jat1 si6} /affaire; sujet/
 一二 一二 [yi1 er4] {jat1 ji6} /un ou deux/un peu/quelques-uns/un par un/
 一些些 一些些 [yix1 xie1 xie1] {jat1 se1 se1} /un petit peu/
-一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /(expr. idiom.) chacun doit faire face aux conséquences de ses actions/
+????f 一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /(expr. idiom.) chacun doit faire face aux conséquences de ses actions; il faut assumer les conséquences de ses actes/
 一人計短，二人計長 一人计短，二人计长 [yi1 ren2 ji4 duan3 , er4 ren2 ji4 zhang3] {jat1 jan4 gai3 dyun2 ji6 jan4 gai3 zoeng2} /(expr. idiom.) mieux voient quatre yeux que deux/(lit.) une personne a un plan trop court, l'autre a un plan trop long/
-一仆一碌 一仆一碌 [yi1 pu2 yi1 lu4] {jat1 puk1 jat1 luk1} /(expr. idiom.) trébucher; tomber sur la terre en roulant ou en rampant/(expr. idiom.) fuir très vite, manquant de tomber/(lit.) un trébuchement; un roulement/
+????f 一仆一碌 一仆一碌 [yi1 pu2 yi1 lu4] {jat1 puk1 jat1 luk1} /(expr. idiom.) trébucher; tomber sur la terre en roulant ou en rampant/(expr. idiom.) fuir très vite, manquant de tomber/(lit.) un trébuchement; un roulement/
 一介 一介 [yi1 jie4] {jat1 gaai3} /un type (de personne)/
 一代英豪 一代英豪 [yi1 dai4 ying1 hao2] {jat1 doi6 jing1 hou4} /héros de notre temps/
 ???? 一代豪傑 一代豪杰 [yi1 dai4 hao2 jie2] {jat1 doi6 hou4 git6} /héros d'une ère/
@@ -45,16 +46,16 @@
 一個 一个 [yi1 ge5] {jat1 go3} /un, une/
 一個一個 一个一个 [yi1 ge5 yi1 ge5] {jat1 go3 jat1 go3} /un par un/
 一個中國 一个中国 [yi1 ge4 zhong1 guo2] {jat1 go3 zung1 gwok3} /politique d'une seule Chine/
-一個二個 一个二个 [yi1 ge5 er4 ge4] {jat1 go3 ji6 go3} /un et deux/tout, chaque/
+一個二個 一个二个 [yi1 ge5 er4 ge4] {jat1 go3 ji6 go3} /un et deux/tout; chaque/
 ???? 一個做好，一個做醜 一个做好，一个做丑 [yi2 ge5 zuo4 hao3 , yi2 ge5 zuo4 chou3] {jat1 go3 zou6 hou2 ，jat1 go3 zou6 cau2} /(expr. idiom.) jouer au « gentil flic, mauvais flic »/
 一個字 一个字 [yi1 ge5 zi4] {jat1 go3 zi6} /un caractère/cinq minutes (orig. les caractères sur une horloge analogique représentent chacun cinq minutes)/
 一個對 一个对 [yi1 ge5 dui4] {jat1 go3 deoi3} /une chose, ou une personne qui.../vingt-quatre heures/
 一個崩 一个崩 [yi1 ge5 beng1] {jat1 go3 bang1} /une pièce de monnaie (un dollar, un centime)/
-一個巴仙 一个巴仙 [yi1 ge5 ba1 xian1] {jat1 go3 baa1 sin1} /un pourcent (orig. de l'anglais « percent », « pourcent »)/
+一個巴仙 一个巴仙 [yi1 ge5 ba1 xian1] {jat1 go3 baa1 sin1} /un pourcent/(orig.) de l'anglais « percent » (« pourcent »)/
 一個鐘 一个钟 [yi1 ge5 zhong1] {jat1 go3 zung1} /une heure/
 一個餅印 一个饼印 [yi1 ge5 bing3 yin4] {jat1 go3 beng2 jan3} /deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille)/(lit.) une empreinte de biscuit/
 一個餅印噉 一个饼印啖 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille)/(lit.) comme une empreinte de biscuit/
-一個骨 一个骨 [yi1 ge5 gu3] {jat1 go3 gwat1} /quinze minutes, un quart d'heure (orig. argot cantonais, de l'anglais «quarter» (un quart), la prononciation du mot 'quart' en anglais est similaire à la prononciation cantonaise du mot «骨» (gwat1))/(lit.) un os/
+一個骨 一个骨 [yi1 ge5 gu3] {jat1 go3 gwat1} /quinze minutes; un quart d'heure/(orig.) argot cantonais, de l'anglais «quarter» (un quart), la prononciation du mot 'quart' en anglais est similaire à la prononciation cantonaise du mot «骨» (gwat1))/(lit.) un os/
 一倍 一倍 [yi1 bei4] {jat1 pui5} /100% plus; double; deux fois/
 一億 一亿 [yi1 yi4] {jat1 jik1} /cent millions/
 一元化 一元化 [yi1 yuan2 hua4] {jat1 jyun4 faa3} /unifié/
