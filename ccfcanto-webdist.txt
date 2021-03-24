@@ -645,14 +645,14 @@
 ????c 丕烈 丕烈 [pi1 lie4] {pei1 lit6} /grand succès; belle réussite/
 丕績 丕绩 [pi1 ji4] {pei1 zek3} /grand succès; belle réussite/
 世 世 [shi4] {sai3} /(classificateur pour une vie)/
-世侄 世侄 [shi4 zhi2] {sai3 zat6} /les fils de ses amis/
+世侄 世侄 [shi4 zhi2] {sai3 zat6} /fils d'un ami de la famille/
 世叔 世叔 [shi4 shu1] {sai3 suk1} /ami de la famille/(lit.) oncle/
 世姪 世侄 [shi4 zhi2] {sai3 zat6} /fils d'un ami de la famille/
 世界上 世界上 [shi4 jie4 shang4] {sai3 gaai3 soeng6} /dans le monde/autour du monde/
-世界之窗站 世界之窗站 [shi4 jie4 zhi1 chuang1 zhan4] {sai3 gaai3 zi1 coeng1 zaam6} /station «Window of the World» (Fenêtre du Monde), station du métro de Shenzhen/
-世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /homme sociable/(péj.) homme sage/béni-oui-oui; paillason/(lit.) un enfant du monde/
+世界之窗站 世界之窗站 [shi4 jie4 zhi1 chuang1 zhan4] {sai3 gaai3 zi1 coeng1 zaam6} /station « Window of the World » (Fenêtre du Monde), station du métro de Shenzhen/
+????c 世界仔 世界仔 [shi4 jie4 zi3] {sai3 gaai3 zai2} /homme sociable/(péj.) homme sage/(péj.) homme manipulateur/béni-oui-oui; paillason/(lit.) un enfant du monde/
 世界史 世界史 [shi4 jie4 shi3] {sai3 gaai3 si2} /l'histoire; connaissance du passé/
-世界女 世界女 [shi4 jie4 nu:3] {sai3 gaai3 neoi5} /femme qui gère bien les personnes, particulièrement ses supérieurs/
+????c 世界女 世界女 [shi4 jie4 nu:3] {sai3 gaai3 neoi2} /femme qui gère bien les personnes, particulièrement ses supérieurs; femme manipulatrice/
 世界小姐 世界小姐 [shi4 jie4 xiao3 jie3] {sai3 gaai3 siu2 ze2} /Miss Monde, concours de beauté international/
 世界市場 世界市场 [shi4 jie4 shi4 chang3] {sai3 gaai3 si5 coeng4} /marché mondial/
 世界性 世界性 [shi4 jie4 xing4] {sai3 gaai3 sing3} /mondial/
@@ -665,19 +665,19 @@
 世紀之戰 世纪之战 [shi4 ji4 zhi1 zhan4] {sai3 gei2 zi1 zin3} /combat ou bataille du siècle/
 世貿中心 世贸中心 [shi4 sao4 zhong1 xin1] {sai3 mau6 zung1 sam1} /World Trade Center/
 丟低 丢低 [diu1 di1] {diu6 dai1} /laisser de côté/(fig.) rouillé; n'avoir plus l'habitude/
-丟假 丢假 [diu1 jia3] {diu1 gaa2} /se ridiculiser; avoir honte; perdre la face/
+丟假 丢假 [diu1 jia3] {diu1 gaa2} /s'humilier; se ridiculiser; perdre la face/
 丟卒保車 丢卒保车 [diu1 zu2 bao3 ju1] {diu1 zeot1 bou2 ce1} /(xiangqi, echecs chinois) sacrifier le pion plus faible (un cheval) pour garder un pion plus fort (le chariot)/
-丟架 丢架 [diu1 jia4] {diu1 gaa2} /avoir honte; perdre la face/
+丟架 丢架 [diu1 jia4] {diu1 gaa2} /s'humilier; se ridiculiser; perdre la face/
 丟生 丢生 [diu1 sheng1] {diu1 sang1} /rouillé; avoir une capacité amoindrie par manque d'utilisation/ 
 丟生晒 丢生晒 [diu1 sheng1 shai4] {diu1 saang1 saai3} /rouillé; avoir une capacité amoindrie par manque d'utilisation/
 丟疏 丢疏 [diu1 shu1] {diu1 so1} /rouillé; avoir une capacité amoindrie par manque d'utilisation/ 
 丟疏咗 丢疏咗 [diu1 shu1 zuo5] {diu1 so1 zo2} /rouillé; avoir une capacité amoindrie par manque d'utilisation/
-丟眼色 丢眼色 [diu1 yan3 se4] {diu1 ngaan5 sik1} /faire un clin d'oeil pour indiquer quelque chose/
-丟眼角 丢眼角 [diu1 yan3 jiao3] {diu1 ngaan5 gok3} /faire un clin d'oeil pour indiquer quelque chose/
+????f 丟眼色 丢眼色 [diu1 yan3 se4] {diu1 ngaan5 sik1} /faire un clin d'oeil pour indiquer quelque chose/
+????f 丟眼角 丢眼角 [diu1 yan3 jiao3] {diu1 ngaan5 gok3} /faire un clin d'oeil pour indiquer quelque chose/
 丟那媽 丢那妈 [diu1 na4 ma1] {diu1 naa5 maa1} /(vulg.) baiser sa mère; niquer sa mère/
 並未 并未 [bing4 wei4] {bing3 mei6} /pas encore/
-並肩作戰 并肩作战 [bing4 jian1 zuo4 zhan4] {bing6 gin1 zok3 zin3} /se battre ensemble; combattre ensemble/
-並蒂 并蒂 [bing4 di4] {bing6 dai3} /deux fleurs qui s'épanouissent au même moment/(fig.) unis dans l'amour/
+????f 並肩作戰 并肩作战 [bing4 jian1 zuo4 zhan4] {bing6 gin1 zok3 zin3} /se battre ensemble; combattre ensemble; se battre côte à côte/
+????f 並蒂 并蒂 [bing4 di4] {bing6 dai3} /deux fleurs qui s'épanouissent au même moment/(fig.) unis dans l'amour/
 丫 丫 [ya1] {aa1} /bébé/(onomatopée pour le cri d'un corbeau)/son d'un bébé qui pleure/
 中 中 [zhong1] {zung1} /frapper quelque chose précisément/gagner (un prix, la loterie)/
 中上層 中上层 [zhong1 shang4 ceng2] {zung1 soeng6 cang4} /classe moyenne supérieure/
@@ -696,10 +696,10 @@
 中國共產黨中央政治局 中国共产党中央政治局 [zhong1 guo2 Gong4 chan3 dang3 zhong1 yang1 Zheng4 zhi4 ju2] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 zing3 zi6 guk6} /Bureau politique du Comité central du Parti communiste chinois/
 中國共產黨中央政治局常務委員會 中国共产党中央政治局常务委员会 [zhong1 guo2 gong4 chan3 dang3 zong1 yang1 zheng4 zhi4 ju2 chang2 wu4 wei3 yuan2 hui4] {zung1 gwok3 gung6 caan2 dong2 zung1 joeng1 zing3 zi6 guk6 soeng4 mou6 wai2 jyun4 wui2} /comité permanent du bureau politique du Parti communiste chinois/
 中國功夫 中国功夫 [zhong1 guo2 gong1 fu5] {zung1 gwok3 gung1 fu1} /Kung-fu chinois/
-中國南方航空公司 中国南方航空公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gung1 si1} /China Southern Airlines, compagnie aérienne de Chine/
-中國南方航空股份有限公司 中国南方航空股份有限公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gu2 fan6 jau5 haan6 gung1 si1} /China Southern Airlines Company Limited, compagnie aérienne de Chine/
+中國南方航空公司 中国南方航空公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gung1 si1} /China Southern Airlines, compagnie aérienne de la Chine/
+中國南方航空股份有限公司 中国南方航空股份有限公司 [zhong1 guo2 nan2 fang1 hang2 kong1 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 naam4 fong1 hong4 hung1 gu2 fan6 jau5 haan6 gung1 si1} /China Southern Airlines Company Limited, compagnie aérienne de la Chine/
 中國史 中国史 [zhong1 guo2 shi3] {zung1 gwok3 si2} /histoire chinoise/
-中國四大發明 中国四大发明 [zhong1 guo2 si4 da4 fa1 ming2] {zung1 gwok3 sei3 daai6 faat3 ming4} /les quatre grandes inventions de la Chine antique; la boussole, l'imprimerie, le papier, la poudre à canon/
+中國四大發明 中国四大发明 [zhong1 guo2 si4 da4 fa1 ming2] {zung1 gwok3 sei3 daai6 faat3 ming4} /les quatre grandes inventions de la Chine antique (la boussole, l'imprimerie, le papier, la poudre à canon)/
 中國國家圖書館 中国国家图书馆 [zhong1 guo2 guo2 jia1 tu2 shu1 guan3] {zung1 gwok3 gwok3 gaa1 tou4 syu1 gun2} /Bibliothèque nationale de Chine/
 中國大陸 中国大陆 [zhong1 guo2 da4 lu4] {zung1 gwok3 daai6 luk6} /la Chine continentale/
 中國字 中国字 [zhong1 guo2 zi4] {zung1 gwok3 zi6} /caractères chinois/
@@ -707,7 +707,7 @@
 中國文化 中国文化 [zhong1 guo2 wen2 hua4] {zung1 gwok3 man4 faa3} /culture chinoise/
 中國文學 中国文学 [zhong1 guo2 wen2 xue2] {zung1 gwok3 man4 hok6} /littérature chinoise/
 中國歷史 中国历史 [zhong1 guo2 li4 shi3] {zung1 gwok3 lik6 si2} /l'histoire chinoise/
-中國石油天然氣股份有限公司 中国石油天然气股份有限公司 [zhong1 guo2 shi2 you2 tian1 ran2 qi4 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 sek6 jau4 tin1 jin4 hei3 gu2 fan6 jau5 haan6 gung1 si1} /PetroChina Company Limited, le plus gros groupe pétrolier de la Chine/
+中國石油天然氣股份有限公司 中国石油天然气股份有限公司 [zhong1 guo2 shi2 you2 tian1 ran2 qi4 gu3 fen4 you3 xian4 gong1 si1] {zung1 gwok3 sek6 jau4 tin1 jin4 hei3 gu2 fan6 jau5 haan6 gung1 si1} /PetroChina Company Limited, le premier groupe pétrolier de la Chine/
 中國網絡審查 中国网络审查 [zhong1 guo2 wang3 luo4 shen3 cha2] {zung1 gwok3 mong5 lok6 sam2 caa4} /censure d'Internet en république populaire de Chine/
 中國語 中国语 [zhong1 guo2 yu3] {zung1 gwok3 jyu5} /langue chinoise/
 中國象棋 中国象棋 [zhong1 guo2 xiang4 qi2] {zung1 gwok3 zoeng6 kei4} /échecs chinois/
@@ -721,9 +721,9 @@
 中央處理器 中央处理器 [zhong1 yang1 chu3 li3 qi4] {zung1 joeng1 cyu2 lei5 hei3} /(ordinateur) processeur; unité centrale de traitement/
 中女 中女 [zhong1 nu:3] {zung1 neoi5} /femme d'âge mûr/
 中學 中学 [zhong1 xue2] {zung1 hok6} /secondaire (Can.), collège (Fr.), lycée (Fr.)/
-中學教師 中学教师 [zhong1 xue2 jiao4 shi1] {zung1 hok6 gaau3 si1} /enseignant(e) au secondaire, collège, lycée/
-中學會考 中学会考 [zhong1 xue2 hui4 kao3] {zung1 hok6 wui6 haau2} /Hong Kong Certificate of Education Examination (HKCEE), un examen à la fin du secondaire, remplacé en 2012 par le Hong Kong Diploma of Secondary Education (HKDSE)/
-中學雞 中学鸡 [zhong1 xue2 ji1] {zung1 hok6 gai1} /étudiants de (secondaire, Can., lycée, collège, Fr.) qui sont immatures/quelqu'un dont le niveau d'enseignement le plus élevé atteint est le secondaire (Can.), lycée, collège, (Fr.)/
+中學教師 中学教师 [zhong1 xue2 jiao4 shi1] {zung1 hok6 gaau3 si1} /enseignant ou enseignante au secondaire, collège, lycée/
+????f 中學會考 中学会考 [zhong1 xue2 hui4 kao3] {zung1 hok6 wui6 haau2} /Hong Kong Certificate of Education Examination (HKCEE), un examen à la fin du secondaire, remplacé en 2012 par le Hong Kong Diploma of Secondary Education (HKDSE)/
+????f 中學雞 中学鸡 [zhong1 xue2 ji1] {zung1 hok6 gai1} /étudiants de (secondaire, Can., lycée, collège, Fr.) qui sont immatures/quelqu'un dont le niveau d'enseignement le plus élevé atteint est le secondaire (Can.), lycée, collège, (Fr.)/
 中小 中小 [zhong1 xiao3] {zung1 siu2} /petit et moyen/
 中山路 中山路 [zhong1 shan1 Lu4] {zung1 saan1 lou6} /Zhong Shan Lu, nom de plusieurs rues en Chine/
 中州 中州 [zhong1 zhou1] {zung1 zau1} /ancienne province située aux alentours de ce qui est maintenant la province de Henan/(lit.) les plaines centrales/
@@ -736,14 +736,14 @@
 中文字 中文字 [zhong1 wen2 zi4] {zung1 man4 zi6} /caractères chinois/
 中文數字 中文数字 [zhong1 wen2 shu4 zi4] {zung1 man4 sou3 zi6} /chiffres chinois/
 中文系 中文系 [zhong1 wen2 xi4] {zung1 man4 hai6} /département de langue et littérature chinoise/
-中更 中更 [zhong1 geng1] {zung1 gang1} /poste du milieu de la journée de travail (plutôt que le poste de matin ou le poste de nuit)/titre des seigneurs chinois/changement en plein milieu de quelque chose/
+????f 中更 中更 [zhong1 geng1] {zung1 gang1} /poste du milieu de la journée de travail (plutôt que le poste de matin ou le poste de nuit)/titre des seigneurs chinois/changement en plein milieu de quelque chose/
 中樂 中乐 [zhong1 yue4] {zung1 ngok6} /musique chinoise/
 中檔 中档 [zhong1 dang4] {zung1 dong3} /milieu de gamme/
 中環中心 中环中心 [zhong1 huan2 zhong1 xin1] {zung1 waan4 zung1 sam1} /The Center, un gratte-ciel situé à Hong Kong/
 中環廣場 中环广场 [zhong1 huan2 guang3 chang3] {zung1 waan4 gwong2 coeng4} /Central Plaza, un gratte-ciel situé à Hong Kong/
 中環街市 中环街市 [zhong1 huan2 jie1 shi4] {zung1 waan4 gaai1 si5} /Central Market, un site historique situé à Central, Hong Kong/
 中用 中用 [zhong1 yong4] {zung1 jung6} /utile/
-中碼 中码 [zhong1 ma3] {zung1 maa5} /taille moyenne (pour vêtements)/
+中碼 中码 [zhong1 ma3] {zung1 maa5} /(vêtements) taille moyenne/
 中立國家 中立国家 [zhong1 li4 guo2 jia1] {zung1 laap6 gwok3 gaa1} /état neutre/
 中等 中等 [zhong1 deng3] {zung1 dang2} /normal; moyen/au milieu/
 中美關係 中美关系 [Zhong1 Mei3 guan1 xi5] {zung1 mei5 gwaan1 hai6} /relations sino-américaines/
