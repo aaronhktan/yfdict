@@ -2081,7 +2081,7 @@
 先至 先至 [xian1 zhi4] {sin1 zi3} /ce n'est alors que; c'est seulement ainsi que (exprime une condition préalable)/(ne pas faire quelque chose) jusqu'à ce que; qu'après; seulement après/
 先行 先行 [xian1 xing2] {sin1 hang4} /aller en premier/d'avance; en avance; préalablement/
 ????f 先行官 先行官 [xian1 xing2 guan1] {sin1 hang4 gun1} /commandant de l'avant-garde/
-????c 先遣 先遣 [xian1 qian3] {sin1 hin2} /envoyer en avant/
+????c 先遣 先遣 [xian1 qian3] {sin1 hin2} /envoyer en avant (military?)/
 光 光 [guang1] {gwong1} /lumière/brillant/lumineux; bien éclairé/nu/tout utilisé; épuisé/
 光天化日 光天化日 [guang1 tian1 hua4 ri4] {gwong1 tin1 faa3 jat6} /(expr.) au grand jour; en plein jour/
 光孝寺 光孝寺 [guang1 xiao4 si4] {gwong1 haau3 zi6} /Guangxiao Temple, temple à Canton/
@@ -2100,54 +2100,55 @@
 光瞠瞠 光瞠瞠 [guang1 cheng1 cheng1] {gwong1 caang4 caang4} /(une lumière) très brillante/
 光𥋇𥋇 光𥋇𥋇 [guang1 cheng4 cheng4] {gwong1 caang4 caang4} /(une lumière) très brillante/
 光管 光管 [guang1 guan3] {gwong1 gun2} /tube fluorescent/
-光脫脫 光脫脫 [guang1 tui4 tui4] {gwong1 tyut1 tyut1} /(des personnes) nu/(d'un arbre) dénudé/
+光脫脫 光脫脫 [guang1 tui4 tui4] {gwong1 tyut1 tyut1} /(personne) nu/(arbre) dénudé/
 光譜線 光谱线 [guang1 pu3 xian4] {gwong1 pou2 sin3} /raie spectrale/
-光身 光身 [guang1 shen1] {gwong1 san1} /torse nu, aux seins nus/nu/
-光輝歲月 光辉岁月 [guang1 hui1 sui4 yue4] {gwong1 fai1 seoi3 jyut6} /jours glorieux/titre d'une chanson chantée pendant le mouvement pro-démocratique de Hong Kong/
-光陰 光阴 [guang1 yin1] {gwong1 jam1} /temps, un moment précieux/
+????c 光身 光身 [guang1 shen1] {gwong1 san1} /torse nu; aux seins nus/nu/(without bringing anything?)/(without pattern?)/
+光輝歲月 光辉岁月 [guang1 hui1 sui4 yue4] {gwong1 fai1 seoi3 jyut6} /jours glorieux; âge d'or/titre d'une chanson chantée pendant le mouvement pro-démocratique de Hong Kong/
+光陰 光阴 [guang1 yin1] {gwong1 jam1} /temps; un moment précieux/
 光電池 光电池 [guang1 dian4 chi2] {gwong1 din6 ci4} /cellule photovoltaïque/
-光頭 光头 [guang1 tou2] {gwong1 tau4} /(des pneus) lisse/
-光頭仔 光头仔 [guang1 tou2 zai3] {gwong1 tau4 zai2} /bébé ou jeune chauve/
+光頭 光头 [guang1 tou2] {gwong1 tau4} /chauve/tête nu/
+光頭仔 光头仔 [guang1 tou2 zai3] {gwong1 tau4 zai2} /bébé ou jeune homme chauve/
 光頭佬 光头佬 [guang1 tou2 lao3] {gwong1 tau4 lou2} /homme chauve/
-克 克 [ke4] {hak1} /(var. de 黑) noir/
+克 克 [ke4] {hak1} /capable/gramme/maîtriser; vaincre/
 克力架 克力架 [ke4 li4 jia4] {hak1 lik6 gaa2} /(Can.) craquelin, (Fr.) cracker/
-克復 克复 [ke4 fu4] {haak1 fuk6} /reprendre/reprendre/récupérer/
-克敵 克敌 [ke4 di2] {haak1 dik6} /vaincre/
-克敵制勝 克敌制胜 [ke4 di2 zhi4 sheng4] {hak1 dik6 zai3 sing3} /vanincre son ennemi et remporter la victoire/
-免刑 免刑 [mian3 xing2] {min5 jing4} /impunité, ne pas être puni/
-免役 免役 [mian3 yi4] {min5 jik6} /exemption du service militaire/
-免治 免治 [mian3 zhi4] {min5 zi6} /(steak) haché/
-免疫 免疫 [mian3 yi4] {min5 jik6} /immunisé/éviter de faire quelque chose/
-免票 免票 [mian3 piao4] {min5 piu3} /billet gratuit/
-免禮 免礼 [mian3 li3] {min5 lai5} /se dispenser de formalités/
+克復 克复 [ke4 fu4] {haak1 fuk6} /reprendre; récupérer/
+克敵 克敌 [ke4 di2] {haak1 dik6} /vaincre l'ennemi/
+克敵制勝 克敌制胜 [ke4 di2 zhi4 sheng4] {hak1 dik6 zai3 sing3} /vaincre l'ennemi et remporter la victoire/
+免刑 免刑 [mian3 xing2] {min5 jing4} /acquitter; gracier/
+免役 免役 [mian3 yi4] {min5 jik6} /exempter du service militaire/
+免治 免治 [mian3 zhi4] {min5 zi6} /(steak) haché/(orig.) de l'anglais « minced » (« haché »)/
+免疫 免疫 [mian3 yi4] {min5 jik6} /immunisé (contre une maladie)/
+免票 免票 [mian3 piao4] {min5 piu3} /billet gratuit/entrée gratuite; accès libre; entrée libre/
+????f 免禮 免礼 [mian3 li3] {min5 lai5} /(soutenu) se dispenser de formalités/
 免稅店 免稅店 [mian3 shui4 dian4] {min5 seoi3 dim3} /boutique hors-taxe/
-免罪 免罪 [mian3 zui4] {min5 zeoi6} /acquitté/
-免至 免至 [mian3 zhi4] {min5 zi3} /sinon..., pour éviter que... (e.g. il faut faire les courses tôt le matin pour éviter les longues files d'attente)/
+免罪 免罪 [mian3 zui4] {min5 zeoi6} /acquitter; gracier/
+????c 免至 免至 [mian3 zhi4] {min5 zi3} /sinon..., pour éviter que... (e.g. il faut faire les courses tôt le matin pour éviter les longues files d'attente)/
 免費 免费 [mian3 fei4] {min5 fai3} /gratuit/
 兒 儿 [r5] {ji4} /enfant/fils/
-兒嬉 儿嬉 [er2 xi1] {ji4 hei1} /téméraire, irresponsable/(personne) peu fiable/camelote; produit de mauvaise qualité/
-兒戲 儿戏 [er2 xi4] {ji4 hei1} /jeu pour enfants/
-兒歌 儿歌 [er2 ge1] {ji4 go1} /berceuse, chansons destinée à endormir les enfants/
+兒嬉 儿嬉 [er2 xi1] {ji4 hei1} /(objet) fragile; cassant; de mauvaise qualité/négligent; pas sérieux; frivole/
+兒戲 儿戏 [er2 xi4] {ji4 hei3} /jeu pour enfants/bagatelle; chose insignifiante/
+兒戲 儿戏 [er2 xi4] {ji4 hei1} /(objet) fragile; cassant; de mauvaise qualité/négligent; pas sérieux; frivole/
+兒歌 儿歌 [er2 ge1] {ji4 go1} /berceuse; chanson destinée à endormir les enfants/
 兒科醫生 儿科医生 [er2 ke1 yi1 sheng1] {ji4 fo1 ji1 sang1} /pédiatre/
 兒童不宜 儿童不宜 [er2 tong2 bu4 yi2] {ji4 tung4 bat1 ji4} /ne convient pas aux enfants/
 兒童節 儿童节 [Er2 tong2 jie2] {ji4 tung4 zit3} /Journée de l'enfance/
 兔仔 兔仔 [tu4 zi3] {tou3 zai2} /lapin/
 兜 兜 [dou1] {dau1} /débattre/à, envers/détourner/sauté, stir-fried/bol de nourriture pour chiens/
-兜住 兜住 [dou1 zhu4] {dau1 zyu6} /tenant, portant (quelque chose)/
-兜口兜面 兜口兜面 [dou1 kou3 dou1 mian4] {dau1 hau2 dau1 min6} /face à face/irrespectueux/
-兜巴星 兜巴星 [dou1 ba1 xing1] {dau1 baa1 sing1} /gifler/
-兜搭 兜搭 [dou1 da5] {dau1 daap3} /attacher, atteler/
-兜篤將軍 兜笃将军 [dou1 du3 jiang1 jun5] {dau1 duk1 zoeng1 gwan1} /contre-attaquer en échecs/trahir quelqu'un/
-兜路 兜路 [dou1 lu4] {dau1 lou6} /détour/
-兜踎 兜踎 [dou1 mou2] {dau1 mau1} /(personne) miteux/(endroit) sale/qui a de la difficulté à joindre les deux bouts/
-入伙 入伙 [ru4 huo3] {jap6 fo2} /se démenager dans un nouveau bureau/
+兜住 兜住 [dou1 zhu4] {dau1 zyu6} /tenant; portant (quelque chose)/
+兜口兜面 兜口兜面 [dou1 kou3 dou1 mian4] {dau1 hau2 dau1 min6} /en face à face; en personne; directement/
+????f 兜巴星 兜巴星 [dou1 ba1 xing1] {dau1 baa1 sing1} /gifler (particularly: in the face)/
+????c 兜搭 兜搭 [dou1 da5] {dau1 daap3} /attacher; atteler/(to solicit customers aggressively?)/(to start up a conversation with somebody?)/
+兜篤將軍 兜笃将军 [dou1 du3 jiang1 jun5] {dau1 duk1 zoeng1 gwan1} /contre-attaquer en échecs/
+兜路 兜路 [dou1 lu4] {dau1 lou6} /faire un détour; faire un crochet/
+兜踎 兜踎 [dou1 mou2] {dau1 mau1} /(personne) mal habillé; peu soigné; sale/(endroit) sale; délabré/
+入伙 入伙 [ru4 huo3] {jap6 fo2} /s'installer dans un nouveau bureau/déménager dans une nouvelle maison/
 入伙紙 入伙纸 [ru4 huo3 zhi3] {jap6 fo2 zi2} /permis d'occupation/
 入來 入来 [ru4 lai2] {jap6 loi4} /entrez!/
-入侵 入侵 [ru4 qin1] {jap6 cam1} /entrer sans permission, perturber/
-入便 入便 [ru4 bian4] {jap6 bin6} /à l'intérieur, dedans/l'intérieur/
-入內 入内 [ru4 nei4] {jap6 noi6} /aller à l'intérieur/
+入侵 入侵 [ru4 qin1] {jap6 cam1} /(militaire) entrer sans permission; envahir/
+入便 入便 [ru4 bian4] {jap6 bin6} /à l'intérieur; dedans/l'intérieur/
+入內 入内 [ru4 nei4] {jap6 noi6} /entrer; aller à l'intérieur/
 入冊 入册 [ru4 ce4] {jap6 caak3} /emprisonné/
-入到 入到 [ru4 dao4] {jap6 dou3} /entrer/aller à l'intérieur/
+入到 入到 [ru4 dao4] {jap6 dou3} /entrer; aller à l'intérieur/
 入到去 入到去 [ru4 dao4 qu4] {jap6 dou3 heoi3} /une fois entré.../
 入去 入去 [ru4 qu4] {jap6 heoi3} /entrer/
 入口 入口 [ru4 kou3] {jap6 hau2} /(marchandises) importée, d'importation/
