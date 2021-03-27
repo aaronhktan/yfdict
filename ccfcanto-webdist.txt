@@ -1574,7 +1574,7 @@
 例水 例水 [li4 shui3] {lai6 seoi2} /soupe ou boisson gratuite offerte avec l'achat d'un repas/(lit.) l'eau habituelle/
 例湯 例汤 [li4 tang1] {lai6 tong1} /soupe du jour/
 ????f 例牌 例牌 [li4 pai2] {lai6 paai2} /(pour commander un repas ou une boisson) même chose que d'habitude/
-????c 例牌菜 例牌菜 [li4 pai2 cai4] {lai6 paai4 coi3} /plat signature; spécialité de la maison; plat de prédilection/
+????c 例牌菜 例牌菜 [li4 pai2 cai4] {lai6 paai4 coi3} /ordinaire; normal/plat signature; spécialité de la maison; plat de prédilection/
 例規 例规 [li4 gui1] {lai6 kwai1} /réglementations/
 侍仔 侍仔 [shi4 zi3] {si6 zai2} /garçon; garçon de café; serveur/
 侍應 侍应 [shi4 ying4] {si6 jing3} /garçon; garçon de café; serveur/
@@ -1601,49 +1601,50 @@
 侵犯 侵犯 [qin1 fan4] {cam1 faan6} /envahir/
 侵犯版權 侵犯版权 [qin1 fan4 ban3 quan2] {cam1 faan6 baan2 kyun4} /violation du droit d'auteur/
 侵略戰爭 侵略战争 [qin1 lu:e4 zhan4 zheng1] {cam1 loek6 zin3 zang1} /guerre d'aggression/
-侵蝕 侵蚀 [qin1 shi2] {cam1 sik6} /corrosion/
+侵蝕 侵蚀 [qin1 shi2] {cam1 sik6} /corrosion/corroder/
 侵越 侵越 [qin1 yue4] {cam1 jyut6} /empiètement/
-侵食 侵食 [qin1 shi2] {cam1 sik6} /corrosif/
+侵食 侵食 [qin1 shi2] {cam1 sik6} /corrosion/corroder/
 侸 侸 [shu4] {syu6} /arbre/
-便 便 [bian4] {bin6} /excréments/
-便宜 便宜 [bian4 yi2] {pin4 ji4} /bon marché; pas coûteux/donner un avantage immérité/
+便 便 [bian4] {bin6} /occasion; opportunité/face; côté/pratique; commode/(tenue) décontracté/excréments/
+????f 便宜 便宜 [bian4 yi2] {pin4 ji4} /bon marché; pas coûteux/petit gain; léger gain/(to let somebody off easily)/
 便服 便服 [bian4 fu2] {bin6 fuk6} /(tenue) décontracté(e)/
-便衣兵 便衣兵 [bian4 yi1 bing1] {bin6 ji1 ji3 bing1} /officier en civil/
+????c 便衣兵 便衣兵 [bian4 yi1 bing1] {bin6 ji1 bing1} /officier en civil/
 便飯 便饭 [bian4 fan4] {bin6 faan6} /repas simple/
 係 系 [xi4] {hai6} /être/oui/
 係乜係物 系乜系物 [xi4 mie1 xi4 wu4] {hai6 mat1 hai6 mat6} /quelque chose/
 係人都知 系人都知 [xi4 ren2 du1 zhi1] {hai6 jan4 dou1 zi1} /(expr.) (quelque chose que) tout le monde sait/
 係呀 系呀 [xi4 ya5] {hai6 aa3} /oui/
-係咁大 系咁大 [xi4 gan1 da4] {hai6 gam3 daai6} /grand comme ça/atteindre la limite/
-係咁意 系咁意 [xi4 gan1 yi4] {hai6 gam2 ji3} /(faire quelque chose) pour la galerie/faire quelque chose avec négligence/
+係咁大 系咁大 [xi4 gan1 da4] {hai6 gam3 daai6} /grand comme ça/
+係咁大 系咁大 [xi4 gan1 da4] {hai6 gam3 daai2} /être cuit; être fait; être fini/
+係咁意 系咁意 [xi4 gan1 yi4] {hai6 gam2 ji2} /(faire quelque chose) avec négligence/(faire quelque chose) sans trop y penser; sans trop réfléchir/
 係咪 系咪 [xi4 mi1] {hai6 mai6} /(utilisé pour demander des questions, comme en français « ... n'est-ce pas? » ou « ... non? » ou « est-ce que ... »)/
-係咪先 系咪先 [xi4 mi1 xian1] {hai6 mai6 sin1} /(utilisé pour demander des questions, comme en français « ... n'est-ce pas? » ou « ... non? »)/
-係唔係 系唔系 [xi4 n2 xi4] {hai6 m4 hai6} /(utilisé pour demander des questions, comme en français « ... n'est-ce pas? » ou « ... non? » ou « est-ce que ... »)/
+????f 係咪先 系咪先 [xi4 mi1 xian1] {hai6 mai6 sin1} /(utilisé pour demander des questions, comme en français « ... n'est-ce pas? » ou « ... non? », mais exprime de la doute de la part du locuteur)/
+係唔係 系唔系 [xi4 n2 xi4] {hai6 m4 hai6} /(utilisé pour demander des questions, comme en français « ... n'est-ce pas? » ou « ... non? » ou « est-ce que ... »)/
 係啦 系啦 [xi4 la5] {hai6 laa1} /oui/
 係喎 系㖞 [xi4 kuai1] {hai6 wo3} /ah, oui!/ah, c'est vrai!/
-係噉 系啖 [xi4 dan4] {hai6 gam2} /être comme ceci/c'est tout/
-係噉先 系啖先 [xi4 dan4 xian1] {hai6 gam2 sin1} /c'est tout pour l'instant/à la prochaine!/
-係噉意 系啖意 [xi4 dan4 yi4] {hai6 gam2 ji3} /faire semblant/être frivole/
-係威係勢 系威系势 [xi4 wei1 xi4 shi4] {hai6 wai1 hai6 sai3} /bluffer; fanfaronner/être à l'honneur; être en vedette/ressembler; avoir la même apparence/
+係噉 系啖 [xi4 dan4] {hai6 gam2} /être comme ceci/c'est tout/sans arrêt; continuellement/
+係噉先 系啖先 [xi4 dan4 xian1] {hai6 gam2 sin1} /c'est tout pour l'instant; à la prochaine!/
+係噉意 系啖意 [xi4 dan4 yi4] {hai6 gam2 ji2} /(faire quelque chose) avec négligence/(faire quelque chose) sans trop y penser; sans trop réfléchir/
+????c 係威係勢 系威系势 [xi4 wei1 xi4 shi4] {hai6 wai1 hai6 sai3} /avoir l'air imposant/être à l'honneur; être en vedette/ressembler; avoir la même apparence/
 係就係 系就系 [xi4 jiu4 xi4] {hai6 zau6 hai6} /(fig.) c'est comme ça/(lit.) ça l'est comme il l'est/
 係要 系要 [xi4 yao4] {hai6 jiu3} /avoir besoin (de quelque chose)/vouloir/
-係路 系路 [xi4 lu4] {hai6 lou6} /approprié; convenable/vraiment?/
-促使 促使 [cu4 shi3] {cuk1 si2} /encourager/
+係路 系路 [xi4 lu4] {hai6 lou6} /approprié; convenable/
+促使 促使 [cu4 shi3] {cuk1 si2} /encourager; inciter; pousser à faire quelque chose/
 促進 促进 [cu4 jin4] {cuk1 zeon3} /améliorer; avancer (quelque chose)/promouvoir (une idée)/
-俄 俄 [e2] {ngo4} /(abbréviation) la Russie/russe/
+俄 俄 [e2] {ngo4} /(abréviation) la Russie/russe/
 俄羅斯聯邦國歌 俄罗斯联邦国歌 [e2 luo2 si1 lian2 bang1 guo2 ge1] {ngo4 lo4 si1 lyun4 bong1 gwok3 go1} /l’Hymne national de la fédération de Russie/
 俊逸 俊逸 [jun4 yi4] {zeon3 jat6} /beau et talentueux/
 俗不可耐 俗不可耐 [su2 bu4 ke3 nai4] {zuk6 bat1 ho2 noi6} /insupportablement vulgaire; tellement abject qu'il est impossible de supporter/
 俗例 俗例 [su2 li4] {zuk6 lai6} /façon habituelle; façon normale (de faire quelque chose)/
-俗品 俗品 [su2 pin3] {zuk6 ban2} /produit de mauvais goût; kitsch/
-俗語 俗语 [su2 yu3] {zuk6 jyu5} /argot/
-俗骨 俗骨 [su2 gu3] {zuk6 gwat1} /vulgaire/
+????c 俗品 俗品 [su2 pin3] {zuk6 ban2} /de mauvais goût; kitsch (how bad is it?)/
+俗語 俗语 [su2 yu3] {zuk6 jyu5} /argot; expression familière/
+俗骨 俗骨 [su2 gu3] {zuk6 gwat1} /vulgaire; abject/
 俘虜 俘虏 [fu2 lu3] {fu1 lou5} /otage/faire quelqu'un prisonnier/
-保你大 保你大 [bao3 ni3 da4] {bou2 nei5 daai6} /j'abandonne (avec un ton sarcastique)/s'il vous plaît (sarcastique)/
+????f 保你大 保你大 [bao3 ni3 da4] {bou2 nei5 daai6} /j'abandonne (sarcastique)/s'il vous plaît; je vous en prie (sarcastique)/
 保健食品 保健食品 [bao3 jian4 shi2 pin3] {bou2 gin6 sik6 ban2} /aliments sains/
 保加利亞人 保加利亚人 [bao3 jia1 li4 ya4 ren2] {bou2 gaa1 lei6 aa3 jan4} /langue bulgare/
 保加利亞語 保加利亚语 [bao3 jia1 li4 ya4 yu3] {bou2 gaa1 lei6 aa3 jyu5} /langue bulgare/
-保姆車 保姆车 [bao3 mu3 che1] {bou2 mou5 ce1} /autobus privé; camionnette privée/monospace; mini-fourgonnette/(lit.) camionnette nounou/
+保姆車 保姆车 [bao3 mu3 che1] {bou2 mou5 ce1} /mini-autobus scolaire; « nanny-van » (« fourgon nounou »)/fourgon appartenant à une célébrité/
 保存期 保存期 [bao3 cun2 qi1] {bou2 cyun4 kei4} /durée de conservation/
 保安局 保安局 [bao3 an1 ju2] {bou2 on1 guk6} /Bureau de la sécurité de Hong Kong/
 保安費 保安费 [bao3 an1 fei4] {bou2 on1 fai3} /paiement de pizzo; paiement de protection; racket de protection/
@@ -1664,39 +1665,40 @@
 保飯碗 保饭碗 [bao3 fan4 wan3] {bou2 faan6 wun2} /(fig.) garder son emploi/(lit.) garder son bol de riz/
 保養期 保养朞 [bao3 yang3 ji1] {bou2 joeng5 kei4} /période de garantie/
 保養證 保养证 [bao3 yang3 zheng4] {bou2 joeng5 zing3} /carte de garantie/
-保鮮 保鲜 [bao3 xian1] {bou2 sin1} /garder la fraîcheur (d'un aliment)/
+保鮮 保鲜 [bao3 xian1] {bou2 sin1} /conserver la fraîcheur (d'un aliment)/
 信不信由你 信不信由你 [xin4 bu4 xin4 you2 ni3] {seon3 bat1 seon3 jau4 nei5} /croyez-le ou non/
 信仰 信仰 [xin4 yang3] {seon3 joeng5} /croyance/
-信史 信史 [xin4 shi3] {seon3 si2} /histoire documentée/histoire crédible/période spécifique de l'histoire/
+信史 信史 [xin4 shi3] {seon3 si2} /histoire documentée/
 信和中心 信和中心 [xin4 he2 zhong1 xin1] {seon3 wo4 zung3 sam1} /Sino Centre, un centre commercial de Hong Kong /
 信德中心 信德中心 [xin4 de2 zhong1 xin1] {seon3 dak1 zung3 sam1} /Shun Tak Centre, un centre commercial de Hong Kong près de la gare maritime des ferrys/traversiers Hong Kong-Macau/
-信心爆棚 信心爆棚 [xin4 xin1 bao4 peng2] {seon3 sam1 baau3 paang4} /avoir beaucoup de confiance en soi/
+信心爆棚 信心爆棚 [xin4 xin1 bao4 peng2] {seon3 sam1 baau3 paang4} /(expr. idiom.) être très sur de soi/(lit.) croire son cœur jusqu'à être plein à craquer/
 信息產業 信息产业 [xin4 xi1 chan3 ye4] {seon3 sik1 caan2 jip6} /industrie de l'information/
 信息高速公路 信息高速公路 [xin4 xi1 gao1 su4 gong1 lu4] {seon3 sik1 gou1 cuk1 gung1 lou6} /l'autoroute de l'information; l'infrastructure de l'Internet/
-信手拈來 信手拈来 [xin4 shou3 nian1 lai2] {seon3 sau2 nim1 loi4} /(fig.) vif ou vive d'esprit/(fig.) avoir quelque chose au bout des doigts/
-信物 信物 [xin4 wu4] {seon3 mat6} /object souvenir/
-信用咭 信用咭 [xin4 yong4 ji1] {seon3 jung6 kaat1} /carte de crédit/
-信皮 信皮 [xin4 pi2] {seon3 pei4} /enveloppe/
+????f 信手拈來 信手拈来 [xin4 shou3 nian1 lai2] {seon3 sau2 nim1 loi4} /(be able to write without thinking; to have the right words on hand)/(fig.) avoir quelque chose au bout des doigts/
+信物 信物 [xin4 wu4] {seon3 mat6} /(objet) souvenir; objet acquis dans le but de se rappeler un lieu, quelqu’un/
+信用咭 信用咭 [xin4 yong4 ji1] {seon3 jung6 kaat1} /carte de crédit; carte bleue/
+信皮 信皮 [xin4 pi2] {seon3 pei4} /enveloppe; poche de papier servant à contenir une lettre/
 信箱 信箱 [xin4 xiang1] {seon3 soeng1} /boîte à lettres/
-信肉 信肉 [xin4 rou4] {seon3 juk6} /contenu d'une lettre/
+信肉 信肉 [xin4 rou4] {seon3 juk6} /lettre dans une enveloppe/
+信瓤兒 信瓤儿 [xin4 rang2 er5] {seon3 nong4 ji4} /lettre dans une enveloppe/ 
 信號彈 信号弹 [xin4 hao4 dan4] {seon3 hou6 daan2} /fusée lumineuse; signal lumineux; fusée éclairante/
-信號槍 信号枪 [xin4 hao4 qiang1] {seon3 hou6 coeng1} /pistolet de détresse/
+信號槍 信号枪 [xin4 hao4 qiang1] {seon3 hou6 coeng1} /pistolet de détresse; pistolet lance-fusées; pistolet signaleur/
 信邪 信邪 [xin4 xie2] {seon3 ce4} /croire à l'hérésie/
-修建 修建 [xiu1 jian4] {sau1 gin3} /effectuer des travaux (sur un édifice)/
+修建 修建 [xiu1 jian4] {sau1 gin3} /construire; bâtir/réparer; effectuer des travaux (sur un immeuble)/
 修整 修整 [xiu1 zheng3] {sau1 zing2} /réparer/
 修橋整路 修桥整路 [xiu1 qiao2 zheng3 lu4] {sau1 kiu4 zing2 lou6} /(expr. idiom.) faire du bon/(expr. idiom.) faire quelque chose de difficile/(lit.) réparer les ponts et construire des routes/
-修橋補路 修桥补路 [xiu1 qiao2 bu3 lu4] {sau1 kiu4 bou2 lou6} /(expr. idiom.) faire du bon/(expr. idiom.) faire quelque chose de difficile/(lit.) réparer les ponts et construire des routes/
-修理工 修理工 [xiu1 li3 gong1] {sau1 lei5 gung1} /réparateur, réparateuse/
-修補 修补 [xiu1 bu3] {sau1 bou2} /réparer; rénover; retoucher/
-修訂 修订 [xiu1 ding4] {sau1 ding3} /révision; modification; changement/
-修身養性 修身养性 [xiu1 shen1 yang3 xing4] {sau1 san1 joeng5 sing3} /cultiver son esprit et améliorer son caractère/
-???? 修遊 修游 [xiu1 you2] {sau1 jau4} /Study tour/
+修橋補路 修桥补路 [xiu1 qiao2 bu3 lu4] {sau1 kiu4 bou2 lou6} /(expr. idiom.) (vieilli) faire du bien; faire de bonnes actions/(expr. idiom.) faire quelque chose de difficile/(lit.) réparer les ponts et construire des routes/
+修理工 修理工 [xiu1 li3 gong1] {sau1 lei5 gung1} /dépanneur, dépanneuse; réparateur, réparateuse/
+修補 修补 [xiu1 bu3] {sau1 bou2} /réparer; rénover; retoucher/(vêtements) repriser; raccommoder/
+修訂 修订 [xiu1 ding4] {sau1 ding3} /réviser un texte/
+????f 修身養性 修身养性 [xiu1 shen1 yang3 xing4] {sau1 san1 joeng5 sing3} /cultiver son esprit et améliorer son caractère/
+????c 修遊 修游 [xiu1 you2] {sau1 jau4} /Study tour/unhurried; slow/
 修道士 修道士 [xiu1 dao4 shi4] {sau1 dou6 si6} /moine/
-修配 修配 [xiu1 pei4] {sau1 pui3} /remettre en état d'origine; remettre en état de marche/
-俯拾即是 俯拾即是 [fu3 shi2 ji2 shi4] {fu2 sap6 zik1 si6} /(fig.) quelque chose qui qu'on trouve partout/(lit.) avoir seulement besoin de s'agenouiller pour trouver quelque chose/
-俹簁 俹簁 [ya4 shai1] {naa2 sai1} /être irresponsable/faire du mauvais travail/
-俾 俾 [bi3] {bei2} /donner/permettre/par (utilisé avant le sujet d'un verbe; ex. « 我俾警察拉咗去 », j'ai été arrêté par la police)/
-俾心機 俾心机 [bi3 xin1 ji1] {bei2 sam1 gei1} /faire de son mieux; faire un effort; s'efforcer/
+修配 修配 [xiu1 pei4] {sau1 pui3} /remettre en état d'origine; remettre en état de marche; réparer/
+俯拾即是 俯拾即是 [fu3 shi2 ji2 shi4] {fu2 sap6 zik1 si6} /(fig.) (quelque chose) que l'on retrouve partout/(lit.) avoir seulement besoin de s'agenouiller pour trouver quelque chose/
+????c 俹簁 俹簁 [ya4 shai1] {naa2 sai1} /faire du mauvais travail; être négligent; bâcler (verb or adjective?)/
+俾 俾 [bi3] {bei2} /donner/permettre/par (utilisé avant le sujet d'un verbe; ex. « 我俾警察拉咗去 », j'ai été arrêté par la police)/
+俾心機 俾心机 [bi3 xin1 ji1] {bei2 sam1 gei1} /faire de son mieux; faire un grand effort; s'efforcer/
 俾錢 俾钱 [bi3 qian2] {bei2 cin2} /payer/
 俾面 俾面 [bi3 mian4] {bei2 min6} /rendre un service à quelqu'un par respect/être respectueux/
 倉 仓 [cang1] {cong1} /entrepôt/
