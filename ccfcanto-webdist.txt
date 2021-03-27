@@ -1522,8 +1522,8 @@
 佢哋嘅 佢哋嘅 [qu2 di4 ge2] {keoi5 dei2 ge3} /leur/
 佢哋自己 渠哋自己 [qu2 di4 zi4 ji5] {keoi5 dei6 zi6 gei2} /eux-mêmes/
 佢哋自己 佢哋自己 [qu2 di4 zi4 ji5] {keoi5 dei6 zi6 gei2} /eux-mêmes/
-佢嘅 渠嘅 [qu2 ge2] {keoi5 ge3} /(quelque chose) à soi/
-佢嘅 佢嘅 [qu2 ge2] {keoi5 ge3} /(quelque chose) à soi/
+佢嘅 渠嘅 [qu2 ge2] {keoi5 ge3} /son, sa/(quelque chose) à lui, à elle/
+佢嘅 佢嘅 [qu2 ge2] {keoi5 ge3} /son, sa/(quelque chose) à lui, à elle/
 佢地 渠地 [qu2 di4] {keoi5 dei6} /ils ou elles; pronom de la troisième personne du pluriel/
 佢地 佢地 [qu2 di4] {keoi5 dei6} /ils ou elles; pronom de la troisième personne du pluriel/
 佯攻 佯攻 [yang2 gong1] {joeng4 gung1} /faire une feinte/
@@ -1898,105 +1898,106 @@
 偷睇 偷睇 [tou1 di4] {tau1 tai2} /jeter un coup d'oeil/
 ????f 偷薄 偷薄 [tou1 bo2] {tau1 bok6} /(of a barber: to thin one's hair, to cut hair)/
 偷走 偷走 [tou1 zou3] {tau1 zau2} /subtiliser/s'enfuir/
-偷越 偷越 [tou1 yue4] {tau1 jyut6} /entrer dans un lieu sans permission/traverser la frontière illégalement/
+????c 偷越 偷越 [tou1 yue4] {tau1 jyut6} /entrer dans un lieu sans permission/traverser la frontière illégalement/
 偷車 偷车 [tou1 che1] {tau1 ce1} /voler une voiture/
 偷錢 偷钱 [tou1 qian2] {tau1 cin2} /voler de l'argent/
-偷雞 偷鸡 [tou1 ji1] {tau1 gai1} /se relâcher, se laisser aller (dans son travail)/ne pas respecter les règles/(lit.) voler un poulet/
-偷雞唔到蝕揸米 偷鸡唔到食揸米 [tou1 ji1 n2 dao4 shi2 zha1 mi3] {tau1 gai1 m4 dou2 sit6 zaa1 mai5} /(expr. idiom.) dépenser de l'énergie pour trouver des gains mais n'en finir qu'avec des pertes/(expr. idiom.) finir avec rien/(lit.) ne pas réussir à voler un poulet, donc on mange du riz/
-偷食 偷食 [tou1 shi2] {tau1 sik6} /(fig.) avoir une liaison/(lit.) voler la nourriture/
-偷食唔抹嘴 偷食唔抹嘴 [tou1 shi2 n2 mo3 zui3] {tau1 sik6 m4 maat3 zeoi2} /(expr. idiom.) qui laisse des traces après avoir triché ou commis un acte illégal/(lit.) ne pas essuyer la bouche après avoir mangé sans permission/
+????f 偷雞 偷鸡 [tou1 ji1] {tau1 gai1} /se relâcher; se laisser aller (dans son travail)/ne pas respecter les règles (discrètement)/(lit.) voler un poulet/
+????c 偷雞唔到蝕揸米 偷鸡唔到食揸米 [tou1 ji1 n2 dao4 shi2 zha1 mi3] {tau1 gai1 m4 dou2 sit6 zaa1 mai5} /(expr. idiom.) dépenser de l'énergie en cherchant des gains mais n'en finir qu'avec des pertes/(expr. idiom.) finir avec rien/(lit.) ne pas réussir à voler un poulet et perdre le riz que l'on avait en main/
+偷食 偷食 [tou1 shi2] {tau1 sik6} /voler de la nourriture/(fig.) avoir une liaison; avoir une aventure/
+????f 偷食唔抹嘴 偷食唔抹嘴 [tou1 shi2 n2 mo3 zui3] {tau1 sik6 m4 maat3 zeoi2} /(expr. idiom.) laisser des preuves d'un acte illégal ou d'une infraction aux règles/(lit.) ne pas essuyer la bouche après avoir mangé sans permission/
 偷龍轉鳳 偷龙转凤 [tou1 long2 zhuan3 feng4] {tau1 lung4 zyun2 fung6} /(expr. idiom.) remplacer quelque chose avec une autre sans que personne ne s'en aperçoive/(lit.) voler un dragon et le remplacer avec un phénix/
 傀儡政府 傀儡政府 [kui3 lei3 zheng4 fu3] {faai3 leoi5 zing3 fu2} /gouvernement fantoche/
 傅穎 傅颖 [fu4 ying3] {fu6 wing6} /Theresa Fu, une actrice hongkongaise/
 傍友 傍友 [bang4 you3] {bong6 jau2} /flatteur; béni-oui-oui/
-傍家 傍家 [bang4 jia1] {pong4 gaa1} /maîtresse; amante/
-???? 傍水 傍水 [bang4 shui3] {bong6 seoi2} /payer de l'argent/payant/
+????c 傍家 傍家 [bang4 jia1] {pong4 gaa1} /maîtresse; amante/
+傍水 傍水 [bang4 shui3] {bong6 seoi2} /payer de l'argent/
 傑志 杰志 [jie2 zhi4] {git6 zi3} /Kitchee SC, un club de football de Hong Kong/
-傖雞 伧鸡 [cang1 ji1] {caang4 gai1} /pute; garce/
-傖雞婆 伧鸡婆 [cang1 ji1 po2] {caang4 gai1 po4} /pute; garce/
-傘帳 伞帐 [san3 zhang4] {saan3 zoeng3} /moustiquaire/
+傖雞 伧鸡 [cang1 ji1] {caang4 gai1} /(fig.) femme désagréable; mégère; femme acariâtre/(lit.) poule grossière/
+傖雞婆 伧鸡婆 [cang1 ji1 po2] {caang4 gai1 po4} /(fig.) femme désagréable; mégère; femme acariâtre/(lit.) femme poule grossière/
+????f 傘帳 伞帐 [san3 zhang4] {saan3 zoeng3} /moustiquaire en forme de tente/
 傢俬 傢俬 [jia1 si1] {gaa1 si1} /meubles; mobilier/
 傢俬舖 傢俬铺 [jia1 si1 pu4] {gaa1 si1 pou3} /magasin de meubles/
 傢俬雜物 傢俬杂物 [jia1 si1 za2 wu4] {gaa1 si1 zaap6 mat6} /mobilier et articles divers/
 傣族 傣族 [Dai3 zu2] {taai3 zuk6} /les Dai, un groupe ethnique dans le sud de la province Yunnan en Chine/
-𠌥 𠆿 [] {wu1} /se pencher;; se baisser/
-𠌥低 𠆿低 [] {wu1 dai1} /se pencher; se baisser/
-催 催 [cui1] {ceoi1} /se dépêcher/
+𠌥 𠌥 [] {wu1} /se pencher; se baisser/
+𠌥低 𠌥低 [] {wu1 dai1} /se pencher; se baisser/
+催 催 [cui1] {ceoi1} /presser/
 催化裂化 催化裂化 [cui1 hua4 lie4 hua4] {ceoi1 faa3 lit6 faa3} /craquage catalytique, un procédé de raffinage utilisé dans la fabrication du carburant/
-催命符 催命符 [cui1 ming4 fu2] {ceoi1 meng6 fu4} /sort taoïste pour hâter la mort de quelqu'un/(fig.) quelqu'un qui demande toujours aux autres de se dépêcher/(fig.) mesure dévastatrice; action dévastatrice/
-催命鬼 催命鬼 [cui1 ming4 gui3] {ceoi1 meng6 gwai2} /quelqu'un qui demande toujours aux autres de se dépêcher/quelqu'un qui encourage les autres à mourir plus vite/
-催妝 催妆 [cui1 zhuang1] {ceoi1 zong1} /coutume de la Chine antique; la jeune mariée ne met pas sa robe de mariée jusqu'à ce que son fiancé lui demande plusieurs fois/
-催穀 催穀 [cui1 gou4] {ceoi1 guk1} /encourager; stimuler/faire avancer; promouvoir/
+????f 催命符 催命符 [cui1 ming4 fu2] {ceoi1 meng6 fu4} /sort taoïste pour hâter la mort de quelqu'un/(fig.) quelqu'un qui demande toujours aux autres de se dépêcher/(fig.) mesure dévastatrice; action dévastatrice/
+????f 催命鬼 催命鬼 [cui1 ming4 gui3] {ceoi1 meng6 gwai2} /quelqu'un qui demande toujours aux autres de se dépêcher/
+????c 催妝 催妆 [cui1 zhuang1] {ceoi1 zong1} /coutume de la Chine antique; la jeune mariée ne met pas sa robe de mariée jusqu'à ce que son fiancé lui demande plusieurs fois/(gift of makeup from the groom on marriage day?)/
+????c 催穀 催穀 [cui1 gou4] {ceoi1 guk1} /encourager; stimuler/faire avancer; promouvoir/
 傭金 佣金 [yong4 jin1] {jung4 gam1} /commission (pour une vente)/
-傳信 传信 [chuan2 xin4] {cyun4 seon3} /passer un message/
+傳信 传信 [chuan2 xin4] {cyun4 seon3} /passer un message; transmettre un message/
 傳信鴿 传信鸽 [chuan2 xin4 ge1] {cyun4 seon3 gap3} /pigeon voyageur/
 傳奇 传奇 [chuan2 qi2] {cyun4 kei4} /mythe; légende/
-傳授 传授 [chuan2 shou4] {cyun4 sau6} /transmettre (des idées, coutumes, etc)/
-傳播 传播 [chuan2 bo1] {cyun4 bo3} /diffuser; radiodiffuser/
+傳授 传授 [chuan2 shou4] {cyun4 sau6} /transmettre (des idées, coutumes, etc.)/
+傳播 传播 [chuan2 bo1] {cyun4 bo3} /diffuser; radiodiffuser/répandre; propager/
 傳播媒介 传播媒介 [chuan2 bo1 mei2 jie4] {cyun4 bo3 mui4 gaai3} /médias de masse/
 傳播媒體 传播媒体 [chuan2 bo1 mei2 ti3] {cyun4 bo3 mui4 tai2} /médias de communication/
 傳播學 传播学 [chuan2 bo1 xue2] {cyun4 bo3 hok6} /sciences de l'information et de la communication/
-傳統 传统 [chuan2 tong3] {cyun4 tung2} /coutumes/
-傳統教育 传统教育 [chuan2 tong3 jiao4 yu4] {cyun4 tung2 gaau3 juk6} /éducation traditionelle/
+傳統 传统 [chuan2 tong3] {cyun4 tung2} /coutume/
+????c 傳統教育 传统教育 [chuan2 tong3 jiao4 yu4] {cyun4 tung2 gaau3 juk6} /éducation traditionelle/
 傳統觀念 传统观念 [chuan2 tong3 guan1 nian4] {cyun4 tung2 gun1 nim6} /croyances traditionelles/
-傳經送寶 传经送宝 [chuan2 jing1 song4 bao3] {cyun4 ging1 sung3 bou2} /transmettre des expériences de valeur/
+????f 傳經送寶 传经送宝 [chuan2 jing1 song4 bao3] {cyun4 ging1 sung3 bou2} /transmettre des expériences précieuses/
 傳説 传说 [chuan2 shuo1] {cyun4 syut3} /légende/
 傳送 传送 [chuan2 song4] {cyun4 sung3} /envoyer/transmettre/
 傳遞 传递 [chuan2 di4] {cyun4 dai6} /transmettre; livrer (un message)/
-傴僂 伛偻 [yu3 lou2] {jyu2 lau4} /bossu/
+傴僂 伛偻 [yu3 lou2] {jyu2 lau4} /bossu; homme ou femme voûté/
 債仔 债仔 [zhai4 zi3] {zaai3 zai2} /débiteur, débitrice/
-債務國 债务国 [zhai4 wu4 guo2] {zaai3 mou6 gwok3} /nation endettée/
-傷 伤 [shang1] {soeng1} /se sentir blessé/
+債務國 债务国 [zhai4 wu4 guo2] {zaai3 mou6 gwok3} /nation endettée; pays débiteur/
+傷 伤 [shang1] {soeng1} /blesser/
 傷害 伤害 [shang1 hai4] {soeng1 hoi6} /blesser; faire du mal à/nuire/
-傷心 伤心 [shang1 xin1] {soeng1 sam1} /tristesse; chagrin/triste/
-傷風 伤风 [shang1 feng1] {soeng1 fung1} /le froid/
+傷心 伤心 [shang1 xin1] {soeng1 sam1} /tristesse; chagrin/triste; éperdu/
+傷風 伤风 [shang1 feng1] {soeng1 fung1} /rhume/
 傻事 傻事 [sha3 shi4] {so4 si6} /des choses absurdes/
-傻人 傻人 [sha3 ren2] {so4 jan4} /(inj.) idiot(e)/
-傻仔 傻仔 [sha3 zi3] {so4 zai2 } /(inj.) idiot/
+傻人 傻人 [sha3 ren2] {so4 jan4} /(inj.) idiot, idiote; crétin, crétine/
+傻仔 傻仔 [sha3 zi3] {so4 zai2 } /(inj.) idiot; crétin/
 傻仔水 傻仔水 [sha3 zi3 shui3] {so4 zi2 seoi2} /(fam.) (fig.) l'alcool/(lit.) l'eau des idiots/
-傻佬 傻佬 [sha3 lao3] {so4 lou2} /(inj.) (vulg.) idiot; connard/
-傻傻哋 傻傻哋 [sha3 sha3 di4] {so4 so4 dei6} /l'air stupide; idiot; bête; fou/
-傻傻戇戇 傻傻戆戆 [sha3 sha3 zhuang4 zhuang4] {so4 so4 ngong6 ngong6} /(vulg.) stupide; bête; idiot/
-傻女 傻女 [sha3 nü3] {so4 neoi5} /(inj.) idiote/
-傻妹 傻妹 [sha3 mei4] {so4 mui6} /(inj.) idiote/
-傻婆 傻婆 [sha3 po2] {so4 po4} /(inj.) (vulg.) idiote/(péj.) (vulg.) handicapée mentale/
-傻更 傻更 [sha3 geng4] {so4 gaang1} /stupide; bête; idiot/
-傻更更 傻更更 [sha3 geng1 geng1] {so4 gang3 gang3} /stupide; bête; idiot/
+傻佬 傻佬 [sha3 lao3] {so4 lou2} /(inj.) (vulg.) idiot; crétin; connard/
+傻傻哋 傻傻哋 [sha3 sha3 di4] {so4 so4 dei6} /air stupide; air idiot; avoir l'air de manquer une case ou de ne pas avoir toute sa tête/
+傻傻戇戇 傻傻戆戆 [sha3 sha3 zhuang4 zhuang4] {so4 so4 ngong6 ngong6} /(vulg.) stupide; idiot/
+傻女 傻女 [sha3 nu:3] {so4 neoi5} /(inj.) idiote; crétine/
+傻妹 傻妹 [sha3 mei4] {so4 mui1} /(inj.) idiote; crétine/
+傻婆 傻婆 [sha3 po2] {so4 po4} /(inj.) (vulg.) idiote; crétine; connarde/(péj.) (vulg.) handicapée mentale/
+傻更 傻更 [sha3 geng4] {so4 gaang1} /stupide; idiot; bête/
+傻更更 傻更更 [sha3 geng1 geng1] {so4 gaang1 gaang1} /stupide; idiot; bête/
 傻瓜機 傻瓜机 [sha3 gua1 ji1] {so4 gwaa1 gei1} /appareil photographique compact/(lit.) appareil pour les idiots/
-傻豬 傻猪 [sha3 zhu1] {so4 zyu1} /(fig.) (péj.) idiot(e)/(lit.) un cochon idiot/
-傻閪 傻閪 [sha3 se1] {so4 hai1} /(fig.) (péj.) (vulg.) idiot(e)/(lit.) un vagin stupide (vulgaire)/
-傻雞 傻鸡 [sha3 ji1] {so4 gai1} /idiote/
-傾 倾 [qing1] {king1} /domination/bavarder; placoter/
+傻豬 傻猪 [sha3 zhu1] {so4 zyu1} /(fig.) (inj. ou affectueux) idiot, idiote; crétin, crétine/(lit.) cochon idiot/
+傻閪 傻閪 [sha3 se1] {so4 hai1} /(fig.) (inj.) (vulg.) connard; con; idiot; imbécile/(lit.) vagin stupide (vulgaire)/
+傻雞 傻鸡 [sha3 ji1] {so4 gai1} /(fig.) idiot; imbécile; crétin; débile/(lit.) poule stupide/
+傾 倾 [qing1] {king1} /dominer/pencher/s'effondrer/bavarder; placoter/discuter/
 傾世界 倾世界 [qing1 shi4 jie4] {king1 sai3 gaai3} /(fig.) bavarder; placoter/(lit.) parler du monde/
 傾偈 倾偈 [qing1 ji4] {king1 gai2} /bavader; placoter/
-傾力 倾力 [qing1 li4] {king1 lik6} /essayer de son mieux/
+傾力 倾力 [qing1 li4] {king1 lik6} /faire de son mieux; s'efforcer; faire tout son possible/
 傾唔埋 倾唔埋 [qing1 n2 mai2] {king1 m4 maai4} /(expr. idiom.) ne pas s'entendre avec quelqu'un/(lit.) ne pas pouvoir communiquer dans une conversation/
-傾唔埋欄 倾唔埋栏 [qing1 n2 mai2 lan2] {king1 m4 maai4 laan4} /(expr. idiom.) ne pas s'entendre avec quelqu'un/(lit.) ne pas pouvoir communiquer dans une conversation/
-傾密偈 倾密偈 [qing1 mi4 ji4] {king1 mat6 gai2} /parler en secret/
+????c 傾唔埋欄 倾唔埋栏 [qing1 n2 mai2 lan2] {king1 m4 maai4 laan4} /(expr. idiom.) ne pas s'entendre avec quelqu'un/(lit.) ne pas pouvoir communiquer dans une conversation/
+傾密偈 倾密偈 [qing1 mi4 ji4] {king1 mat6 gai2} /parler en privé; discuter en privé/
 傾得埋 倾得埋 [qing1 de5 mai2] {king1 dak1 maai4} /bien s'entendre avec quelqu'un/
-傾心 倾心 [qing1 xin1] {king1 sam1} /séduire; faire tourner la tête de quelqu'un/
+傾心 倾心 [qing1 xin1] {king1 sam1} /admirer/tomber amoureux/de tout son cœur/
 傾掂 倾掂 [qing1 dian1] {king1 dim6} /parvenir à un accord/
-傾斜 倾斜 [qing1 xie2] {king1 ce4} /(quelque chose qui est) penché; incliné/
-傾斜角 倾斜角 [qing1 xie2 jiao3] {king1 ce4 gok3} /l'angle d'inclinaison/
+傾斜 倾斜 [qing1 xie2] {king1 ce4} /pencher; incliner/
+傾斜角 倾斜角 [qing1 xie2 jiao3] {king1 ce4 gok3} /angle d'inclinaison/
 傾計 倾计 [qing1 ji4] {king1 gai3} /bavarder; placoter/
-傾鈴哐啷 倾铃哐啷 [qing1 ling2 kuang1 lang1] {king1 ling1 kong1 long1} /(onomatopée pour quelque chose qui tombe, qui fait un tintement)/
-傾閒偈 倾间偈 [qing1 jian1 ji4] {king1 haan4 gai2} /conversation fortuite/plactoer; bavarder/
+傾鈴哐啷 倾铃哐啷 [qing1 ling2 kuang1 lang1] {king1 ling1 kong1 long1} /(onomatopée désignant le bruit de quelque chose qui tombe, qui fait un tintement)/
+傾閒偈 倾间偈 [qing1 jian1 ji4] {king1 haan4 gai2} /bavarder; placoter/
 傾電話 倾电话 [qing1 dian4 hua4] {king1 din6 waa2} /parler au téléphone/
-僅僅 仅仅 [jin3 jin3] {gan2 gan2} /de peu; de justesse/
-僅次於 仅次于 [jin3 ci4 yu2] {gan2 ci3 jyu1} /arriver en deuxième place de justesse/
+僅僅 仅仅 [jin3 jin3] {gan2 gan2} /de justesse/
+????f 僅次於 仅次于 [jin3 ci4 yu2] {gan2 ci3 jyu1} /second only to/
 僆 僆 [lian4] {lin5} /poussin/jumeaux ou jumelles/
-僆仔 僆仔 [lian2 zi3] {leng1 zai2} /homme naïf/
-僆女 僆女 [lian2 nü3] {leng1 neoi5} /fille adolescente/
-僆妹 僆妹 [lian2 mei4] {leng1 mui6} /(péj.) petite fille/
-僆模 僆模 [lian2 mo2] {leng1 mou4} /modèle de qualité inférieure/
+僆 僆 [lian4] {leng1} /jeune; candide; naïf/
+僆仔 僆仔 [lian2 zi3] {leng1 zai2} /(un peu péj.) jeune homme; jeune garçon/
+僆女 僆女 [lian2 nu:3] {leng1 neoi2} /fille adolescente; jeune femme/
+僆妹 僆妹 [lian2 mei4] {leng1 mui1} /(un peu péj.) jeune femme; jeune fille/
+????c 僆模 僆模 [lian2 mo2] {leng1 mou4} /mannequin inexpérimenté/
 像 像 [xiang4] {zoeng6} /sembler; ressembler; avoir l'air de/statue/nombre de pixels dans un appareil photo/
 像是 象是 [xiang4 shi4] {zoeng6 si6} /avoir l'air de/
-僑匯 侨汇 [qiao2 hui4] {kiu4 wui6} /versements outre-mer; virements outre-mer/
+????f 僑匯 侨汇 [qiao2 hui4] {kiu4 wui6} /envoi de fonds à l'étranger (overseas remittances)/
 僑眷 侨眷 [qiao2 juan4] {kiu4 gyun3} /membres de la famille des Chinois d'outre-mer qui vivent toujours en Chine/
 僑領 侨领 [qiao2 ling3] {kiu4 ling5} /dirigeant des Chinois d'outre-mer/
-僕從 仆从 [pu2 cong2] {buk6 cung4} /domestique/serviteur/
-僚屬 僚属 [liao2 shu3] {liu4 suk6} /le personnel/
-僭建 僭建 [jian4 jian4] {cim5 gin3} /immeubles ou extensions d'immeuble illégaux/(fam.) (fig.) augmentation mammaire/
+僕從 仆从 [pu2 cong2] {buk6 cung4} /domestique; valet de pied/
+僚屬 僚属 [liao2 shu3] {liu4 suk6} /personnel; effectif; employés/
+僭建 僭建 [jian4 jian4] {cim5 gin3} /immeubles ou extensions d'immeuble illégaux/
 僭建屋 僭建屋 [jian4 jian4 wu1] {cim5 gin3 uk1} /immeubles illégaux/
 僱主 雇主 [gu4 zhu3] {gu3 zyu2} /employeur/
 僱傭 雇佣 [gu4 yong1] {gu3 jung4} /être un employé/embaucher/
