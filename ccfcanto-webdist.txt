@@ -2000,104 +2000,104 @@
 僭建 僭建 [jian4 jian4] {cim5 gin3} /immeubles ou extensions d'immeuble illégaux/
 僭建屋 僭建屋 [jian4 jian4 wu1] {cim5 gin3 uk1} /immeubles illégaux/
 僱主 雇主 [gu4 zhu3] {gu3 zyu2} /employeur/
-僱傭 雇佣 [gu4 yong1] {gu3 jung4} /être un employé/embaucher/
+????c 僱傭 雇佣 [gu4 yong1] {gu3 jung4} /être un employé/embaucher/
 僱傭兵 雇佣兵 [gu4 yong1 bing1] {gu3 jung4 bing1} /mercenaire/
-僱員 雇员 [gu4 yuan2] {gu3 jyun4} /employé(e)/
+僱員 雇员 [gu4 yuan2] {gu3 jyun4} /employé, employée/
 價值規律 价值规律 [jia4 zhi2 gui1 lu:4] {gaa3 zik6 kwai1 leot6} /théorie de la valeur, un concept marxiste d'analyse économique/
 價錢牌 价钱牌 [jia4 qian5 pai2] {gaa3 cin4 paai4} /étiquette de prix/
-僽 僽 [zhou4] {zau3} /inquiété/pressé; rapide/
-儀器 仪器 [yi2 qi4] {ji4 hei3} /équipement; appareils/
+????c 僽 僽 [zhou4] {zau3} /inquiété/pressé; rapide/
+儀器 仪器 [yi2 qi4] {ji4 hei3} /appareil; instrument/
 儀容 仪容 [yi2 rong2] {ji4 jung4} /air; aspect; apparence/
-儀態萬方 仪态万方 [yi2 tai4 wan4 fang1] {ji4 taai3 maan6 fong1} /(d'une femme) élégante; gracieuse/
-儆惜 儆惜 [jing3 xi1] {ging2 sik1} /respecter et chérir/
-儉樸 俭朴 [jian3 pu3] {gim6 pok3} /(une personne) économe; chiche/
-儒林 儒林 [ru2 lin2] {jyu4 lam4} /genre d'opéra/Rulin waishi (ou Julin waishi), la Chronique indiscrète des mandarins, un roman satirique/
+儀態萬方 仪态万方 [yi2 tai4 wan4 fang1] {ji4 taai3 maan6 fong1} /(expr.) (d'une femme) élégante; gracieuse/
+????c 儆惜 儆惜 [jing3 xi1] {ging2 sik1} /respecter et chérir/
+儉樸 俭朴 [jian3 pu3] {gim6 pok3} /économe; modeste; sobre/
+儒林 儒林 [ru2 lin2] {jyu4 lam4} /milieux académiques; milieux universitaires/
 儒艮 儒艮 [ru2 gen4] {jyu4 gan3} /dugong, espèce de mammifère marin/
-儕嘩嘩 侪哗哗 [chai2 hua1 hua1] {caai4 waa1 waa1} /se grouper par hasard/group qui bavarde et qui rit/
-優 优 [you1] {jau1} /actrice (des médias japonais)/remonter (des pantalons)/
-優先權 优先权 [you1 xian1 quan2] {jau1 sin1 kyun4} /avoir droit à une priorité plus élevée/
+儕嘩嘩 侪哗哗 [chai2 hua1 hua1] {caai4 waa1 waa1} /juste pour s'amuser; juste pour le plaisir; juste pour le fun (voir aussi 柴哇哇|柴哇哇)/
+優 优 [you1] {jau1} /excellent; supérieur; formidable; extraordinaire/remonter (des pantalons)/
+優先權 优先权 [you1 xian1 quan2] {jau1 sin1 kyun4} /(avoir la) priorité/
 優先發展 优先发展 [you1 xian1 fa1 zhan3] {jau1 sin1 faat3 zin2} /la plus grande priorité du développement/
-優勝 优胜 [you1 sheng4] {jau1 sing3} /avantage/
-優勝者 优胜者 [you1 sheng4 zhe3] {jau1 sing3 ze2} /gagnant/
+優勝 优胜 [you1 sheng4] {jau1 sing3} /supérieur; meilleur/
+優勝者 优胜者 [you1 sheng4 zhe3] {jau1 sing3 ze2} /gagnant; vainqueur/
 優化組合 优化组合 [you1 hua4 zu3 he2] {jau1 faa3 zou2 hap6} /optimisation combinatoire/
 優客李林 优客李林 [you1 ke4 li3 lin2] {jau1 haak3 lei5 lam4} /Ukulele, un groupe de musique taïwanais/
-優惠 优惠 [you1 hui4] {jau1 wai6} /rabais, solde, vente/
-優惠價 优惠价 [you1 hui4 jia4] {jau1 wai6 gaa3} /prix promotionnel/
+優惠 优惠 [you1 hui4] {jau1 wai6} /rabais; solde; vente/
+優惠價 优惠价 [you1 hui4 jia4] {jau1 wai6 gaa3} /prix promotionnel; prix réduit/
 優惠待遇 优惠待遇 [you1 hui4 dai4 yu4] {jau1 wai6 doi6 jyu6} /traitement préférentiel/
-優生 优生 [you1 sheng1] {jau1 sang1} /étudiants studieux et étudiantes studieuses/étudiant(e)s d'honneur/
-優越感 优越感 [you1 yue4 gan3] {jau1 jyut6 gam2} /sentiment de supériorité/
+優生 优生 [you1 sheng1] {jau1 sang1} /étudiant ou étudiante d'honneur; étudiant exceptionnel, étudiante exceptionnelle/
+優越感 优越感 [you1 yue4 gan3] {jau1 jyut6 gam2} /sentiment de supériorité; complexe de supériorité/
 儲 储 [chu3] {cyu5} /emmagasiner, stocker/économiser (de l'argent)/
-儲值 储值 [chu3 zhi2] {cyu5 zik6} /(une carte) prépayé(e), de valeur stockée/
+????f 儲值 储值 [chu3 zhi2] {cyu5 zik6} /(une carte) prépayé; de valeur stockée/
 儲值票 储值票 [chu2 zhi2 piao4] {cyu5 zik6 piu3} /billet ou carte de valeur stockée/
-儲備基金 储备基金 [chu3 bei4 ji1 jin1] {cyu5 bei6 gei1 gam1} /fonds souverain/
-儲備量 儲备量 [chu3 bei4 liang4] {cyu5 bei6 loeng6} /réserve (de quelque chose)/
-儲埋 储埋 [chu3 mai2] {cyu5 maai4} /stocké (de valeur sur une carte, etc.)/
+????c 儲備基金 储备基金 [chu3 bei4 ji1 jin1] {cyu5 bei6 gei1 gam1} /fonds de réserves/
+????c 儲備量 儲备量 [chu3 bei4 liang4] {cyu5 bei6 loeng6} /réserve (de quelque chose)/
+儲埋 储埋 [chu3 mai2] {cou5 maai4} /accumuler/économiser/
 儲存 储存 [chu3 cun2] {cyu5 cyun4} /sauvegarder (un fichier)/
-儲物室 储物室 [chu3 wu4 shi4] {cyu5 mat6 sat1} /réserve, local pour marchandises/
-儲蓄存款 储蓄存款 [chu3 xu4 cun2 kuan3] {cyu5 cuk1 cyun4 fun2} /dépôt d'épargne/
+????c 儲物室 储物室 [chu3 wu4 shi4] {cyu5 mat6 sat1} /salle de stockage/
+????c 儲蓄存款 储蓄存款 [chu3 xu4 cun2 kuan3] {cyu5 cuk1 cyun4 fun2} /dépôt d'épargne/
 儲蓄所 储蓄所 [chu3 xu4 suo3] {cyu5 cuk1 so2} /caisse d'épargne/
 儲蓄銀行 储蓄银行 [chu3 xu4 yin2 hang2] {cyu5 cuk1 ngan4 hong4} /caisse d'épargne/
-儲蓄額 储蓄额 [chu3 xu4 e2] {cyu5 cuk1 ngaak6} /montant total en épargne/
+????f 儲蓄額 储蓄额 [chu3 xu4 e2] {cyu5 cuk1 ngaak6} /montant total en épargne/
 儲郵票 储邮票 [chu3 you2 piao4] {cyu5 jau4 piu3} /collectionner des timbres/
-儲金 储金 [chu3 jin1] {cyu5 gam1} /économies, épargne/
+儲金 储金 [chu3 jin1] {cyu5 gam1} /économies; épargne/
 儲錢 储钱 [chu3 qian2] {cou5 cin4} /économiser de l'argent/
-儲電量 储电量 [chu3 dian4 liang4] {cyu5 din6 loeng6} /capacité maximale (d'une batterie)/
-儼如 俨如 [yan3 ru2] {jim5 jyu4} /par exemple, comme/
+????f 儲電量 储电量 [chu3 dian4 liang4] {cyu5 din6 loeng6} /capacité maximale (d'une batterie)/
+儼如 俨如 [yan3 ru2] {jim5 jyu4} /(litt.) être exactement comme/
 允文允武 允文允武 [yun3 wen2 yun3 wu3] {wan5 man4 wan5 mou5} /capable de la politique et militaire/érudit et athlète/
 元 元 [yuan2] {jyun4} /dynastie Yuan, de 1271 à 1368 apr. J.-C./
-元寶蠟燭 元宝蜡烛 [yuan2 bao3 la4 zhu2] {jyun4 bou2 laap6 zuk1} /l'or et chandelles (pour les défunts)/
-元州邨 元州村 [yuan2 zhou1 cun1] {jyun4 zau1 cyun1} /Un Chau Estate, propriété de logements sociaux à Kowloon, Hong Kong/
-元朗區 元朗区 [yuan2 lang3 qu1] {jyun4 long5 keoi1} /Yuen Long District, une région des Nouveaux Territoires, Hong Kong /
+元寶蠟燭 元宝蜡烛 [yuan2 bao3 la4 zhu2] {jyun4 bou2 laap6 zuk1} /billets funéraires et chandelles (pour les défunts)/
+元州邨 元州村 [yuan2 zhou1 cun1] {jyun4 zau1 cyun1} /Un Chau Estate, grand ensemble à Kowloon, Hong Kong/
+元朗區 元朗区 [yuan2 lang3 qu1] {jyun4 long5 keoi1} /Yuen Long District, l'un des dix-huit districts de Hong Kong /
 元朗明渠 元朗明渠 [yuan2 lang3 ming2 qu2] {jyun4 long5 ming4 keoi4} /Yuen Long Nullah, un cours d'eau au centre de Yuen Long/
 元素符號 元素符号 [yuan2 su4 fu2 hao4] {jyun4 sou3 fu4 hou6} /symbole chimique/
 元華 元华 [yuan2 hua2] {jyun4 waa4} /Yuen Wah, un acteur Hong Kongaise/
-元貝 元贝 [yuan2 bei4] {jyun4 bui3} /pétoncle/
-兄弟姊妹 兄弟姊妹 [xiong1 di5 jie3 mei4] {hing1 dai6 zi2 mui6} /frères et soeurs/
+元貝 元贝 [yuan2 bei4] {jyun4 bui3} /pétoncle séché/
+兄弟姊妹 兄弟姊妹 [xiong1 di4 jie3 mei4] {hing1 dai6 zi2 mui6} /frères et soeurs/
 兄弟姐妹 兄弟姐妹 [xiong1 di4 jie3 mei4] {hing1 dai6 ze2 mui6} /frères et soeurs/
-充 充 [chong1] {cung1} /faire semblant/feindre/
-充份 充份 [chong1 fen4] {cung1 fan6} /assez/
-充充電 充充电 [chong1 chong1 dian4] {cung1 cung1 din6} /recharger (des piles)/prendre une pause, recharger ses batteries/
+充 充 [chong1] {cung1} /remplir/faire semblant; feindre/
+充份 充份 [chong1 fen4] {cung1 fan6} /assez; nombreux; abondant/
+充充電 充充电 [chong1 chong1 dian4] {cung1 cung1 din6} /recharger les batteries/(fig.) prendre une pause; recharger les batteries/
 充大班 充大班 [chong1 da4 ban1] {cung1 daai6 baan1} /faire semblant d'être riche et puissant/
 充大頭鬼 充大头鬼 [chong1 da4 tou2 gui3] {cung1 daai6 tau4 gwai2} /faire semblant d'être riche et puissant/
 充沛 充沛 [chong1 pei4] {cung1 pui3} /abondant/
-充闊佬 充阔佬 [chong1 kuo4 lao3] {cung1 fut3 lou2} /quelqu'un qui fait semblant d'être riche/
+充闊佬 充阔佬 [chong1 kuo4 lao3] {cung1 fut3 lou2} /faire semblant d'être riche/
 充饑 充饥 [chong1 ji1] {cung1 gei1} /assouvir la faim/
-兆康 兆康 [zhao4 kang1] {siu6 hong1} /Siu Hong, un arrêt du Métro Léger dans la ville de Hong Kong/
-兆麟苑 兆麟苑 [zhao4 lin2 yuan4] {siu6 leon4 jyun2} /Siu Lun Court, propriété de logements sociaux aux Nouveaux Territoires, Hong Kong/
-兇徒 凶徒 [xiong1 tu2] {hung1 tou4} /auteur, responsable, coupable/
+兆康 兆康 [zhao4 kang1] {siu6 hong1} /Siu Hong, un arrêt du Métro Léger de Hong Kong/
+兆麟苑 兆麟苑 [zhao4 lin2 yuan4] {siu6 leon4 jyun2} /Siu Lun Court, grand ensemble aux Nouveaux Territoires, Hong Kong/
+兇徒 凶徒 [xiong1 tu2] {hung1 tou4} /criminel; coupable; auteur d'un crime/
 兇暴 凶暴 [xiong1 bao4] {hung1 bou6} /féroce et brutal/
-先一排 先一排 [xian1 yi4 pai2] {sin1 jat1 paai4} /il y a peu de temps/plus tôt/
-先使未來錢 先使未来钱 [xian1 shi3 wei4 lai2 qian2] {sin1 sai2 mei6 loi4 cin4} /acheter à crédit/
-先嗰排 先嗰排 [xian1 g5 pai2] {sin1 go2 paai4} /il y a peu de temps/plus tôt/
+先一排 先一排 [xian1 yi4 pai2] {sin1 jat1 paai4} /il y a un instant; il y a quelques instant; plus tôt/
+????f 先使未來錢 先使未来钱 [xian1 shi3 wei4 lai2 qian2] {sin1 sai2 mei6 loi4 cin4} /(expr. idiom.) dépenser de l'argent que l'on n'a pas/(lit.) dépenser l'argent de l'avenir/
+先嗰排 先嗰排 [xian1 g5 pai2] {sin1 go2 paai4} /il y a un instant; il y a quelques instant; plus tôt/
 先小人,後君子 先小人,后君子 [xian1 xiao3 ren2 , hou4 jun1 zi3] {sin1 siu2 jan4 hau6 gwan1 zi2} /parler de faits et chiffres avant de penser aux émotions et relations (dans le commerce)/
-先手 先手 [xian1 shou3] {sin1 sau2} /la personne qui agit en premier/
-先排 先排 [xian1 pai2] {sin1 paai2} /il y a peu de temps/plus tôt/
-先敬羅衣後敬人 先敬罗衣后敬人 [xian1 jing4 luo2 yi1 hou4 jing4 ren2] {sin1 ging3 lo4 ji1 hau6 ging3 jan4} /juger les autres à leur vêtements/
-先時 先时 [xian1 shi2] {sin1 si4} /au début/plus tôt/
-先生 先生 [xian1 sheng5] {sin1 saang1} /Monsieur/
+????f 先手 先手 [xian1 shou3] {sin1 sau2} /la personne qui agit en premier; la personne qui agit d'abord/(échecs) offensive/
+先排 先排 [xian1 pai2] {sin1 paai2} /il y a un instant; il y a quelques instants; plus tôt/
+????f 先敬羅衣後敬人 先敬罗衣后敬人 [xian1 jing4 luo2 yi1 hou4 jing4 ren2] {sin1 ging3 lo4 ji1 hau6 ging3 jan4} /(expr. idiom.) juger une personne d'après les apparences/(lit.) juger les vêtements de soie avant de juger la personne/
+先時 先时 [xian1 shi2] {sin1 si4} /au début/dans le passé/
+????f 先生 先生 [xian1 sheng5] {sin1 saang1} /Monsieur/(appellation de politesse donnée à un enseignant de sexe masculin)/mari; époux/
 先知 先知 [xian1 zhi1] {sin1 zi1} /prophète/une personne qui prédit l'avenir comme un prophète/se rendre compte en ce moment/
-先禮後兵 先礼后兵 [xian1 li3 hou4 bing1] {sin1 lai5 hau6 bing1} /(expr. idiom.) recourir à la diplomatie avant de recourir à la force militaire/
-先考 先考 [xian1 kao3] {sin1 haau2} /père défunt/
-先至 先至 [xian1 zhi4] {sin1 zi3} /ce n'est alors que, c'est seulement ainsi que (exprime une condition nécessaire)/(ne pas faire quelque chose) jusqu'à ce que, qu'après, seulement après/
-先行 先行 [xian1 xing2] {sin1 hang4} /aller en premier/
-先行官 先行官 [xian1 xing2 guan1] {sin1 hang4 gun1} /pionnier/
-先遣 先遣 [xian1 qian3] {sin1 hin2} /envoyer à l'avance/
-光 光 [guang1] {gwong1} /lisse/brillant, poli/nu/
-光天化日 光天化日 [guang1 tian1 hua4 ri4] {gwong1 tin1 faa3 jat6} /en plein jour, au grand jour, sans rien cacher, ouvertement/
-光孝寺 光孝寺 [guang1 xiao4 si4] {gwong1 haau3 zi6} /Guangxiao Temple, temple de Guangzhou/
-光學玻璃 光学玻璃 [guang1 xue2 bo1 li5] {gwong1 hok6 bo1 lei4} /verre optique/
+????f 先禮後兵 先礼后兵 [xian1 li3 hou4 bing1] {sin1 lai5 hau6 bing1} /(expr. idiom.) recourir à la diplomatie avant de recourir à la force militaire/
+先考 先考 [xian1 kao3] {sin1 haau2} /(litt.) mon père défunt/
+先至 先至 [xian1 zhi4] {sin1 zi3} /ce n'est alors que; c'est seulement ainsi que (exprime une condition préalable)/(ne pas faire quelque chose) jusqu'à ce que; qu'après; seulement après/
+先行 先行 [xian1 xing2] {sin1 hang4} /aller en premier/d'avance; en avance; préalablement/
+????f 先行官 先行官 [xian1 xing2 guan1] {sin1 hang4 gun1} /commandant de l'avant-garde/
+????c 先遣 先遣 [xian1 qian3] {sin1 hin2} /envoyer en avant/
+光 光 [guang1] {gwong1} /lumière/brillant/lumineux; bien éclairé/nu/tout utilisé; épuisé/
+光天化日 光天化日 [guang1 tian1 hua4 ri4] {gwong1 tin1 faa3 jat6} /(expr.) au grand jour; en plein jour/
+光孝寺 光孝寺 [guang1 xiao4 si4] {gwong1 haau3 zi6} /Guangxiao Temple, temple à Canton/
+????c 光學玻璃 光学玻璃 [guang1 xue2 bo1 li5] {gwong1 hok6 bo1 lei1} /verre optique/
 光害 光害 [guang1 hai4] {gwong1 hoi6} /pollution lumineuse/
-光彩 光彩 [guang1 cai3] {gwong1 coi2} /(conduite ou comportement) acceptable/
-光明 光明 [guang1 ming2] {gwong1 ming4} /naïf, innocent/
-光明頂 光明顶 [guang1 ming2 ding3] {gwong1 ming4 deng2} /montagne de la Chine/une émission de radio du Hong Kong Commercial Radio Channel/
+光彩 光彩 [guang1 cai3] {gwong1 coi2} /honneur; gloire/honorable; glorieux/
+光明 光明 [guang1 ming2] {gwong1 ming4} /bel avenir; brillant avenir/sincère; franc/
+光明頂 光明顶 [guang1 ming2 ding3] {gwong1 ming4 deng2} /(montagne de la Chine)/(une émission de radio du Hong Kong Commercial Radio Channel)/
 光暈 光晕 [guang1 yun4] {gwong1 wan4} /halo/
-光暗掣 光暗掣 [guang1 an4 che4] {gwong1 ngam3 zai3} /gradateur, variateur de lumière/
-???? 光棍佬教仔 光棍佬教仔 [guang1 gun5 lao3 jiao4 zi3] {gwong1 gwan3 lou2 gaau3 zai2} /(expr. idiom.) ne pas être avide/(lit.) un homme célibataire qui enseigne son fils/
-光棍遇着冇皮柴 光棍遇着冇皮柴 [guang1 gun5 yu4 zhao2 mao3 pi2 chai2] {gwong1 gwan3 jyu6 zoek6 mou5 pei4 caai4} /extorquer de l'argent aux pauvres/
+光暗掣 光暗掣 [guang1 an4 che4] {gwong1 ngam3 zai3} /variateur de lumière/
+????c 光棍佬教仔 光棍佬教仔 [guang1 gun5 lao3 jiao4 zi3] {gwong1 gwan3 lou2 gaau3 zai2} /(expr. idiom.) ne pas être avide/(lit.) un homme célibataire qui enseigne son fils/
+????c 光棍遇着冇皮柴 光棍遇着冇皮柴 [guang1 gun5 yu4 zhao2 mao3 pi2 chai2] {gwong1 gwan3 jyu6 zoek6 mou5 pei4 caai4} /extorquer de l'argent aux pauvres/
 光油 光油 [guang1 you2] {gwong1 jau4} /vernis/
-光猛 光猛 [guang1 meng3] {gwong1 maang5} /lumineux, bien éclairé/
-光瓦 光瓦 [guang1 wa3] {gwong1 ngaa5} /lumineux/propre/
-光瞠瞠 光瞠瞠 [guang1 cheng1 cheng1] {gwong1 caang1 caang1} /(une lumière) très brillante/
+光猛 光猛 [guang1 meng3] {gwong1 maang5} /lumineux; bien éclairé/
+????c 光瓦 光瓦 [guang1 wa3] {gwong1 ngaa5} /lumineux/propre/
+光瞠瞠 光瞠瞠 [guang1 cheng1 cheng1] {gwong1 caang4 caang4} /(une lumière) très brillante/
 光𥋇𥋇 光𥋇𥋇 [guang1 cheng4 cheng4] {gwong1 caang4 caang4} /(une lumière) très brillante/
 光管 光管 [guang1 guan3] {gwong1 gun2} /tube fluorescent/
 光脫脫 光脫脫 [guang1 tui4 tui4] {gwong1 tyut1 tyut1} /(des personnes) nu/(d'un arbre) dénudé/
@@ -6088,7 +6088,7 @@
 好啲 好啲 [hao3 di1] {hou2 di1} /mieux/
 好嘅唔靈醜嘅靈 好嘅唔灵丑嘅灵 [hao3 ge2 m2 ling2 chou3 ge2 ling2] {hou2 koi3 m4 ling4 cau2 koi3 ling4} /porter malheur à, porter poisse/parler d'une mauvaise chose causera ladite chose/
 好嘈 好嘈 [hao3 cao2] {hou2 cou4} /très bruyant/
-好嘢 好嘢 [hao3 ye3] {hou2 je5} /super, génial/bonne chose/félicitations! bien joué!/hourra!/tu es trop bon!/
+好嘢 好嘢 [hao3 ye3] {hou2 je5} /très bon; excellent; remarquable/bonne chose/félicitations! bien joué! hourra!/
 好地地 好地地 [hao3 di4 di4] {hou2 dei6 dei6} /tout allait bien... (puis la situation a changé)/
 好多時 好多时 [hao3 duo1 shi2] {hou2 do1 si4} /fréquemment, souvent/
 好天 好天 [hao3 tian1] {hou2 tin1} /journée ensoleillée/belle journée/
