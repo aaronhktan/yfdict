@@ -1574,7 +1574,7 @@
 例水 例水 [li4 shui3] {lai6 seoi2} /soupe ou boisson gratuite offerte avec l'achat d'un repas/(lit.) l'eau habituelle/
 例湯 例汤 [li4 tang1] {lai6 tong1} /soupe du jour/
 ????f 例牌 例牌 [li4 pai2] {lai6 paai2} /(pour commander un repas ou une boisson) même chose que d'habitude/
-????c 例牌菜 例牌菜 [li4 pai2 cai4] {lai6 paai4 coi3} /ordinaire; normal/plat signature; spécialité de la maison; plat de prédilection/
+????f 例牌菜 例牌菜 [li4 pai2 cai4] {lai6 paai4 coi3} /ordinary dish; dish that is always at any restaurant (eg. spaghetti at any italian restaurant)/
 例規 例规 [li4 gui1] {lai6 kwai1} /réglementations/
 侍仔 侍仔 [shi4 zi3] {si6 zai2} /garçon; garçon de café; serveur/
 侍應 侍应 [shi4 ying4] {si6 jing3} /garçon; garçon de café; serveur/
@@ -1591,10 +1591,10 @@
 依據 依据 [yi1 ju4] {ji1 geoi3} /être conforme à/selon/
 依時 依时 [yi1 shi2] {ji1 si4} /à l'heure/
 依時依候 依时依候 [yi1 shi2 yi1 hou4] {ji1 si4 ji1 hau6} /à l'heure/
-????c 依牙鬆槓 依牙松杠 [yi1 ya2 song1 gang4] {ji1 ngaa4 sung1 gung3} /(expr. idiom.) exprimer par inadvertance des émotions ou une opinion/dire n'importe quoi/(lit.) montrer ses dents et son menton/
-????c 依牙鬆鋼 依牙松钢 [yi1 ya2 song1 gang1] {ji1 ngaa4 sung1 gong3} /(expr. idiom.) exprimer par inadvertance des émotions ou une opinion/(expr. idiom.) dire n'importe quoi/(lit.) montrer ses dents et son menton/
+????c 依牙鬆槓 依牙松杠 [yi1 ya2 song1 gang4] {ji1 ngaa4 sung1 gung3} /(to speak out of turn?)/(lit.) montrer ses dents et son menton/
+????c 依牙鬆鋼 依牙松钢 [yi1 ya2 song1 gang1] {ji1 ngaa4 sung1 gong3} /(to speak out of turn?)/(lit.) montrer ses dents et son menton/
 依足 依足 [yi1 zu2] {ji1 zuk1} /suivre les règles précisément comme elles sont écrites; faire quelque chose à la lettre/
-????c 依鬱 依郁 [yi1 yu4] {ji1 juk1} /malheur inattendue/
+????c 依鬱 依郁 [yi1 yu4] {ji1 juk1} /malheur; (bad change?)/
 侯斯頓 侯斯顿 [hou2 si1 dun4] {hau4 si1 deon6} /Houston, une ville de l'état de Texas dans le États-Unis/
 侵攻 侵攻 [qin1 gong1] {cam1 gung1} /envahir/
 侵早 侵早 [qin1 zao3] {cam1 zou2} /aube/
@@ -1608,7 +1608,7 @@
 便 便 [bian4] {bin6} /occasion; opportunité/face; côté/pratique; commode/(tenue) décontracté/excréments/
 ????f 便宜 便宜 [bian4 yi2] {pin4 ji4} /bon marché; pas coûteux/petit gain; léger gain/(to let somebody off easily)/
 便服 便服 [bian4 fu2] {bin6 fuk6} /(tenue) décontracté(e)/
-????c 便衣兵 便衣兵 [bian4 yi1 bing1] {bin6 ji1 bing1} /officier en civil/
+便衣兵 便衣兵 [bian4 yi1 bing1] {bin6 ji1 bing1} /(rare) officier en civil/
 便飯 便饭 [bian4 fan4] {bin6 faan6} /repas simple/
 係 系 [xi4] {hai6} /être/oui/
 係乜係物 系乜系物 [xi4 mie1 xi4 wu4] {hai6 mat1 hai6 mat6} /quelque chose/
@@ -1625,7 +1625,7 @@
 係噉 系啖 [xi4 dan4] {hai6 gam2} /être comme ceci/c'est tout/sans arrêt; continuellement/
 係噉先 系啖先 [xi4 dan4 xian1] {hai6 gam2 sin1} /c'est tout pour l'instant; à la prochaine!/
 係噉意 系啖意 [xi4 dan4 yi4] {hai6 gam2 ji2} /(faire quelque chose) avec négligence/(faire quelque chose) sans trop y penser; sans trop réfléchir/
-????c 係威係勢 系威系势 [xi4 wei1 xi4 shi4] {hai6 wai1 hai6 sai3} /avoir l'air imposant/être à l'honneur; être en vedette/ressembler; avoir la même apparence/
+係威係勢 系威系势 [xi4 wei1 xi4 shi4] {hai6 wai1 hai6 sai3} /avoir l'air imposant/
 係就係 系就系 [xi4 jiu4 xi4] {hai6 zau6 hai6} /(fig.) c'est comme ça/(lit.) ça l'est comme il l'est/
 係要 系要 [xi4 yao4] {hai6 jiu3} /avoir besoin (de quelque chose)/vouloir/
 係路 系路 [xi4 lu4] {hai6 lou6} /approprié; convenable/
@@ -1696,7 +1696,7 @@
 修道士 修道士 [xiu1 dao4 shi4] {sau1 dou6 si6} /moine/
 修配 修配 [xiu1 pei4] {sau1 pui3} /remettre en état d'origine; remettre en état de marche; réparer/
 俯拾即是 俯拾即是 [fu3 shi2 ji2 shi4] {fu2 sap6 zik1 si6} /(fig.) (quelque chose) que l'on retrouve partout/(lit.) avoir seulement besoin de s'agenouiller pour trouver quelque chose/
-????c 俹簁 俹簁 [ya4 shai1] {naa2 sai1} /faire du mauvais travail; être négligent; bâcler (verb or adjective?)/
+俹簁 俹簁 [ya4 shai1] {naa2 sai1} /(faire quelque chose de manière) négligent; inattentif/
 俾 俾 [bi3] {bei2} /donner/permettre/par (utilisé avant le sujet d'un verbe; ex. « 我俾警察拉咗去 », j'ai été arrêté par la police)/
 俾心機 俾心机 [bi3 xin1 ji1] {bei2 sam1 gei1} /faire de son mieux; faire un grand effort; s'efforcer/
 俾錢 俾钱 [bi3 qian2] {bei2 cin2} /payer/
@@ -1714,7 +1714,7 @@
 個體 个体 [ge4 ti3] {go3 tai2} /individuel/ 
 倒 倒 [dao4] {dou2} /renverser; inverser/
 倒冧 倒冧 [dao4 lin1] {dou2 lam3} /s'effondrer/
-????c 倒吊冇滴墨水 倒吊冇滴墨水 [dao4 diao4 mao3 di1 mo4 shui3] {dou3 diu3 mou5 dik6 mak6 seoi2} /(expr. idiom.) personne qui semble savoir beaucoup mais qui ne sait rien/(lit.) être suspendu la tête en bas sans renverser ni une goutte d'encre/
+????f 倒吊冇滴墨水 倒吊冇滴墨水 [dao4 diao4 mao3 di1 mo4 shui3] {dou3 diu3 mou5 dik6 mak6 seoi2} /(expr. idiom.) (personne) qui ne sait rien/(lit.) être suspendu la tête en bas sans renverser ni une goutte d'encre/
 倒吊沙煲 倒吊沙煲 [dao4 diao4 sha1 bao1] {dou3 diu3 saa1 bou1} /(expr. idiom.) être très pauvre/(lit.) une marmite à l'envers (= ne pas avoir assez d'argent pour s'acheter de quoi manger)/
 倒吊荷包 倒吊荷包 [dao4 diao4 he2 bao1] {dou3 diu3 ho4 baau1} /(expr. idiom.) jeter l'argent par les fenêtres; dépenser excessivement/(expr. idiom.) être prêt à perdre de l'argent/(lit.) vider son portefeuille/
 倒垃圾 倒垃圾 [dao4 la1 ji1] {dou3 laap6 saap3} /sortir la poubelle/
@@ -1750,7 +1750,7 @@
 ????f 倔情 倔情 [jue2 qing2] {gwat6 cing4} /(personne) froid; sans compassion; sans sympathie/
 ????f 倔擂槌 倔擂槌 [jue2 lei2 chui2] {gwat6 leoi4 ceoi4} /(pencil) blunt/direct; brusque/
 ????f 倔檑槌 倔檑槌 [jue2 lei2 chui2] {gwat6 leoi4 ceoi4} /(pencil) blunt/direct; brusque/
-????c 倔篤 倔笃 [jue2 du3] {gwat6 duk1} /(expr. idiom.) pas question; aucune chance (de succès); impossible de continuer/(lit.) cul-de-sac/
+倔篤 倔笃 [jue2 du3] {gwat6 duk1} /(expr. idiom.) pas question; aucune chance (de succès); impossible de continuer/(lit.) cul-de-sac/
 倔頭 倔头 [jue4 tou2] {gwat6 tau4} /émoussé/(rue) cul-de-sac; impasse/
 倔頭巷 倔头巷 [jue2 tou2 xiang4] {gwat6 tau4 hong2} /(rue) cul-de-sac; impasse/
 倔頭路 倔头路 [jue2 tou2 lu4] {gwat6 tau4 lou6} /(rue) cul-de-sac; impasse/
@@ -1777,7 +1777,7 @@
 借殼 借壳 [jie4 ke2] {ze3 hok3} /(affaires) prise de contrôle inversée/
 ????f 借水遁 借水遁 [jie4 shui3 dun4] {ze3 seoi2 deon6} /faire semblant d'avoir besoin d'aller aux toilettes pour éviter quelque chose/
 借花敬佛 借花敬佛 [jie4 hua1 jing4 fo2] {ze3 faa1 ging3 fat6} /(expr. idiom.) recycler un cadeau; recevoir un cadeau puis l'offir à quelqu'un d'autre/(lit.) emprunter une fleur pour l'offrir à Bouddha/
-????c 借鑑 借鉴 [jie4 jian4] {ze3 gaam3} /faire référence à; indiquer en référence/être porté par les épaules des géants; s'appuyer sur les travaux du passé/tirer des leçons; apprendre de/
+????f 借鑑 借鉴 [jie4 jian4] {ze3 gaam3} /tirer des leçons; apprendre de/
 借開 借开 [jie4 kai1] {ze3 hoi1} /excusez-moi; pardon (impoli)/s'écarter (du passage de quelque chose ou quelqu'un); se pousser/
 借頭借路 借头借路 [jie4 tou2 jie4 lu4] {ze3 tau4 ze3 lou6} /trouver des excuses; trouver un prétexte/
 倦容 倦容 [juan4 rong2] {gyun6 jung4} /air fatigué/
@@ -1791,7 +1791,7 @@
 假使間 假使间 [jia3 shi3 jian1] {gaa2 si2 gaan1} /si/
 假假哋 假假哋 [jia3 jia3 di4] {gaa2 gaa2 dei2} /au moins/
 假假地 假假地 [jia3 jia3 di4] {gaa2 gaa2 dei2} /au moins/avoir l'air un peu faux; sembler un peu faux/
-????c 假單 假单 [jia3 dan1] {gaa3 daan1} /demande de congé/
+????f 假單 假单 [jia3 dan1] {gaa3 daan1} /demande de congé (actual paper on which the request for leave is written on)/
 假期 假期 [jia4 qi1] {gaa3 kei4} /vacances; congé/
 假膊 假膊 [jia3 bo2] {gaa2 bok3} /épaulette/
 偈 偈 [ji4] {gai2} /discussion; conversation/
@@ -1816,17 +1816,17 @@
 做嘢 做嘢 [zuo4 ye3] {zou6 je5} /faire quelque chose/travailler/
 做大戲 做大戏 [zuo4 da4 xi4] {zou6 daai6 hei3} /jouer un rôle dans un opéra cantonais/jouer la comédie; faire semblant; feindre/
 做好 做好 [zuo4 hao3] {zou6 hou2} /terminer; compléter/faire un bon travail/
-????c 做好做醜 做好做丑 [zuo4 hao3 zuo4 chou3] {zou6 hou2 zou6 cau2} /(expr.) jouer au gentil flic et mauvais flic au même temps/(lit.) faire bon faire laid/
-????c 做好心 做好心 [zuo4 hao3 xin1] {zou6 hou2 sam1} /agir avec de bonnes intentions/faire du bien/
-????c 做妥 做妥 [zuo4 tuo3] {zou6 to5} /terminer; compléter/bien faire; faire du bon travail/
+????c 做好做醜 做好做丑 [zuo4 hao3 zuo4 chou3] {zou6 hou2 zou6 cau2} /(expr.) jouer au gentil flic et mauvais flic au même temps/(peu importe?)/(lit.) faire bon faire laid/
+????f 做好心 做好心 [zuo4 hao3 xin1] {zou6 hou2 sam1} /faire du bien; faire de bonnes actions/
+做妥 做妥 [zuo4 tuo3] {zou6 to5} /terminer; compléter; réussir/
 ????f 做媒 做媒 [zuo4 mei2] {zou6 mui4} /servir d'intermédiaire/servir de leurre pour un magasin en faisant semblant d'être un client, pour encourager les autres à acheter (to shill for somebody)/
 做得 做得 [zuo4 de2] {zou6 dak1} /pouvoir faire (quelque chose)/travailler/util/(être) prêt (à faire quelque chose)/
 做忌 做忌 [zuo4 ji4] {zou6 gei6} /célébrer un service commémoratif pour un défunt/(fig.) tuer quelqu'un/(fig.) tabasser; rouer de coups; péter la gueule à quelqu'un/
 ????f 做慣乞兒懶做官 做惯乞儿懒做官 [zuo4 guan4 qi3 er2 lan3 zuo4 guan1] {zou6 gwaan3 hat1 ji1 laan5 zou6 gun1} /(expr. idiom.) vouloir une vie ordinaire plutôt qu'une meilleure vie/(lit.) habitué à être mendiant, ne pas vouloir être un fonctionnaire/
 做成 做成 [zuo4 cheng2] {zou6 sing4} /terminer; accomplir; finir; achever/causer/devenir; se transformer en/
-????c 做手信 做手信 [zuo4 shou3 xin4] {zou6 sau2 seon3} /fabriquer un (objet) souvenir/
+????f 做手信 做手信 [zuo4 shou3 xin4] {zou6 sau2 seon3} /(acheter quelque chose) comme un (objet) souvenir (as a souvenir)/
 做手腳 做手脚 [zuo4 shou3 jiao3] {zou6 sau2 goek3} /trafiquer; fausser; falsifier; altérer par des modifications non autorisées/truquer; saboter/
-????c 做把戲 做把戏 [zuo4 ba3 xi4] {zou6 baa2 hei3} /faire de la magie/jouer des tours/
+????c 做把戲 做把戏 [zuo4 ba3 xi4] {zou6 baa2 hei3} /faire de la magie/jouer des tours/raconter des histoires; (to tell tall tales)/
 ????f 做收錢 做收钱 [zuo4 shou1 qian2] {zou6 sau1 cin2} /travailler en tant que caissier ou caissière/
 做數 做数 [zuo4 shu4] {zou6 sou3} /maquiller les chiffres/faire des calculs/tenir les comptes/
 做朋友 做朋友 [zuo4 peng2 you5] {zou6 pang4 jau5} /devenir amis/
@@ -1840,9 +1840,9 @@
 做莊 做庄 [zuo4 zhuang1] {zou6 zong1} /être le donneur (des cartes)/
 做賊 做贼 [zuo4 zei2] {zou6 caak6} /voler/être un voleur/
 做運動 做运动 [zuo4 yun4 dong5] {zou6 wan6 dung6} /faire de l'exercice/
-????c 做醜人 做丑人 [zuo4 chou3 ren2] {zou6 cau2 jan2} /(fig.) faire les choses désagréables mais nécéssaires/(lit.) faire le laid/
+做醜人 做丑人 [zuo4 chou3 ren2] {zou6 cau2 jan2} /(fig.) faire les choses désagréables mais nécéssaires/(lit.) faire le laid/
 ????f 做騷 做骚 [zuo4 sao1] {zou6 sou1} /monter un spectacle/faire quelque chose pour la galerie; faire quelque chose pour la frime; faire quelque chose pour le spectacle (to do something for show, to pretend, to do something for the sake of looking like that)/
-????c 做鬼做馬 做鬼做马 [zuo4 gui3 zuo4 ma3] {zou6 gwai2 zou6 maa5} /(fig.) tromper quelqu'un; jouer un tour à quelqu'un/(fig.) incapable/(lit.) faire le fantôme et le cheval/
+做鬼做馬 做鬼做马 [zuo4 gui3 zuo4 ma3] {zou6 gwai2 zou6 maa5} /(fig.) tromper quelqu'un/(lit.) faire le fantôme et le cheval/
 ????c 做鬼都唔靈 做鬼都唔灵 [zuo4 gui3 dou1 n2 ling2] {zou6 gwai2 dou1 m4 ling4} /(expr. idiom.) quoi que l'on fasse, il est impossible de bien s'en sortir/(expr. idiom.) être un échec dans la vie/(lit.) même en étant un fantôme on n'a pas d'âme/
 做龜公 做龟公 [zuo4 gui1 gong1] {zou6 gwai1 gung1} /être un mari trompé/
 停低 停低 [ting2 di1] {ting4 dai1} /arrêter/
@@ -1856,7 +1856,7 @@
 停火協議 停火协议 [ting2 huo3 xie2 yi4] {ting4 fo2 hip3 ji5} /cessez-le-feu/
 ????f 停牌 停牌 [ting2 pai2] {ting4 paai4} /suspendre un permis de conduire/(stock market: suspend from trading)/
 停留 停留 [ting2 liu2] {ting4 lau4} /séjourner; rester; s'arrêter pour un moment/
-????c 停留時間 停留时间 [ting2 liu2 shi2 jian1] {ting4 lau4 si4 gaan3} /durée de séjour/
+停留時間 停留时间 [ting2 liu2 shi2 jian1] {ting4 lau4 si4 gaan3} /durée de séjour/
 ????f 停經 停经 [ting2 jing1] {ting4 ging1} /cesser d'avoir ses règles/
 ????f 停薪 停薪 [ting2 xin1] {ting4 san1} /(suspend, stop paying somebody's salary)/
 停車 停车 [ting2 che1] {ting4 ce1} /garer; stationner/
@@ -1902,7 +1902,7 @@
 偷車 偷车 [tou1 che1] {tau1 ce1} /voler une voiture/
 偷錢 偷钱 [tou1 qian2] {tau1 cin2} /voler de l'argent/
 ????f 偷雞 偷鸡 [tou1 ji1] {tau1 gai1} /se relâcher; se laisser aller (dans son travail)/ne pas respecter les règles (discrètement)/(lit.) voler un poulet/
-????c 偷雞唔到蝕揸米 偷鸡唔到食揸米 [tou1 ji1 n2 dao4 shi2 zha1 mi3] {tau1 gai1 m4 dou2 sit6 zaa1 mai5} /(expr. idiom.) dépenser de l'énergie en cherchant des gains mais n'en finir qu'avec des pertes/(expr. idiom.) finir avec rien/(lit.) ne pas réussir à voler un poulet et perdre le riz que l'on avait en main/
+????f 偷雞唔到蝕揸米 偷鸡唔到食揸米 [tou1 ji1 n2 dao4 shi2 zha1 mi3] {tau1 gai1 m4 dou2 sit6 zaa1 mai5} /(expr. idiom.) dépenser de l'énergie en cherchant de petits gains mais n'en finir qu'avec des pertes/(lit.) ne pas réussir à voler un poulet et perdre le riz que l'on avait en main/
 偷食 偷食 [tou1 shi2] {tau1 sik6} /voler de la nourriture/(fig.) avoir une liaison; avoir une aventure/
 ????f 偷食唔抹嘴 偷食唔抹嘴 [tou1 shi2 n2 mo3 zui3] {tau1 sik6 m4 maat3 zeoi2} /(expr. idiom.) laisser des preuves d'un acte illégal ou d'une infraction aux règles/(lit.) ne pas essuyer la bouche après avoir mangé sans permission/
 偷龍轉鳳 偷龙转凤 [tou1 long2 zhuan3 feng4] {tau1 lung4 zyun2 fung6} /(expr. idiom.) remplacer quelque chose avec une autre sans que personne ne s'en aperçoive/(lit.) voler un dragon et le remplacer avec un phénix/
@@ -1937,7 +1937,7 @@
 傳播媒體 传播媒体 [chuan2 bo1 mei2 ti3] {cyun4 bo3 mui4 tai2} /médias de communication/
 傳播學 传播学 [chuan2 bo1 xue2] {cyun4 bo3 hok6} /sciences de l'information et de la communication/
 傳統 传统 [chuan2 tong3] {cyun4 tung2} /coutume/
-????c 傳統教育 传统教育 [chuan2 tong3 jiao4 yu4] {cyun4 tung2 gaau3 juk6} /éducation traditionelle/
+????c 傳統教育 传统教育 [chuan2 tong3 jiao4 yu4] {cyun4 tung2 gaau3 juk6} /éducation traditionelle (education of traditional manners)/
 傳統觀念 传统观念 [chuan2 tong3 guan1 nian4] {cyun4 tung2 gun1 nim6} /croyances traditionelles/
 ????f 傳經送寶 传经送宝 [chuan2 jing1 song4 bao3] {cyun4 ging1 sung3 bou2} /transmettre des expériences précieuses/
 傳説 传说 [chuan2 shuo1] {cyun4 syut3} /légende/
@@ -1971,7 +1971,7 @@
 傾偈 倾偈 [qing1 ji4] {king1 gai2} /bavader; placoter/
 傾力 倾力 [qing1 li4] {king1 lik6} /faire de son mieux; s'efforcer; faire tout son possible/
 傾唔埋 倾唔埋 [qing1 n2 mai2] {king1 m4 maai4} /(expr. idiom.) ne pas s'entendre avec quelqu'un/(lit.) ne pas pouvoir communiquer dans une conversation/
-????c 傾唔埋欄 倾唔埋栏 [qing1 n2 mai2 lan2] {king1 m4 maai4 laan4} /(expr. idiom.) ne pas s'entendre avec quelqu'un/(lit.) ne pas pouvoir communiquer dans une conversation/
+傾唔埋欄 倾唔埋栏 [qing1 n2 mai2 lan2] {king1 m4 maai4 laan1} /(expr. idiom.) ne pas s'entendre avec quelqu'un/(lit.) ne pas pouvoir communiquer dans une conversation/
 傾密偈 倾密偈 [qing1 mi4 ji4] {king1 mat6 gai2} /parler en privé; discuter en privé/
 傾得埋 倾得埋 [qing1 de5 mai2] {king1 dak1 maai4} /bien s'entendre avec quelqu'un/
 傾心 倾心 [qing1 xin1] {king1 sam1} /admirer/tomber amoureux/de tout son cœur/
@@ -2081,7 +2081,7 @@
 先至 先至 [xian1 zhi4] {sin1 zi3} /ce n'est alors que; c'est seulement ainsi que (exprime une condition préalable)/(ne pas faire quelque chose) jusqu'à ce que; qu'après; seulement après/
 先行 先行 [xian1 xing2] {sin1 hang4} /aller en premier/d'avance; en avance; préalablement/
 ????f 先行官 先行官 [xian1 xing2 guan1] {sin1 hang4 gun1} /commandant de l'avant-garde/
-????c 先遣 先遣 [xian1 qian3] {sin1 hin2} /envoyer en avant (military?)/
+先遣 先遣 [xian1 qian3] {sin1 hin2} /envoyer en avant; être le premier groupe à faire quelque chose/
 光 光 [guang1] {gwong1} /lumière/brillant/lumineux; bien éclairé/nu/tout utilisé; épuisé/
 光天化日 光天化日 [guang1 tian1 hua4 ri4] {gwong1 tin1 faa3 jat6} /(expr.) au grand jour; en plein jour/
 光孝寺 光孝寺 [guang1 xiao4 si4] {gwong1 haau3 zi6} /Guangxiao Temple, temple à Canton/
@@ -2354,7 +2354,7 @@
 冇乜 冇乜 [mao3 mie1] {mou5 mat1} /rien/ce n'est rien/pas très/pas en particulier/
 ????f 冇乜兩句 冇乜两句 [mao3 mie1 liang3 ju4] {mou5 mat1 loeng5 geoi3} /(des personnes) qui n'ont pas beaucoup à dire entre eux/(personnes) qui ne se connaissent pas très bien/
 冇乜嘢 冇乜嘢 [mao3 mie1 ye3] {mou5 mat1 je5} /rien/ce n'est rien/
-????c 冇乜好死 冇乜好死 [mao3 mie1 hao3 si3] {mou5 mat1 hou2 sei2} /(fam.) plus rien à craindre/(to not deserve a peaceful death?)/
+????f 冇乜好死 冇乜好死 [mao3 mie1 hao3 si3] {mou5 mat1 hou2 sei2} /(to not deserve a peaceful death)/
 冇乜所謂 冇乜所谓 [mao3 mie1 suo3 wei4] {mou5 mat1 so2 wai6} /ça m'est égal; peu importe; ce n'est pas important/
 冇乜滯 冇乜滞 [mao3 mie1 zhi4] {mou5 mat1 zai6} /ne pas rester beaucoup/
 冇乜點 冇乜点 [mao3 mie1 dian3] {mou5 me1 dim2} /rien de spécial; rien d'extraordinaire; rien d'anormal/
@@ -2399,45 +2399,45 @@
 冇所謂 冇所谓 [mao3 suo3 wei4] {mou5 so2 wai6} /ça m'est égal; peu importe/
 冇手尾 冇手尾 [mao3 shou3 wei3] {mou5 sau2 mei5} /ne pas finir quelque chose/ne pas ranger ses affaires; ne pas faire le ménage/(lit.) ne pas avoir la queue de la main/
 ????f 冇掩雞籠 冇掩鸡笼 [mao3 yan3 ji1 long2] {mou5 jim2 gai1 lung4} /(expr. idiom.) lieu où l'on peut entrer ou sortir sans demander permission/(expr. idiom.) (par extension) lieu où les vols sont fréquents; lieu peu sûr/(expr. idiom.) (par extension) lieu chaotique; endroit mal géré/(lit.) poulailler sans portes (deuxième partie 自出自入|自出自入 « sortir et entrer à sa guise »)/
-????c 冇揸拿 冇揸拿 [mao3 zha1 na2] {mou5 zaa1 naa4} /ne pas avoir beaucoup de confiance, ne pas être sûr/
+????c 冇揸拿 冇揸拿 [mao3 zha1 na2] {mou5 zaa1 naa4} /ne pas avoir beaucoup de confiance, ne pas être sûr/have nothing left to recover/
 冇搭霎 冇搭霎 [mao3 da1 sha4] {mou5 daap3 saap3} /(personne) irresponsable; peu fiable/
 冇搭颯 冇搭飒 [mao3 da1 sa5] {mou5 daap3 saap3} /(personne) irresponsable; peu fiable/
 冇收 冇收 [mao3 shou1] {mou5 sau1} /ne pas avoir de solution; ne plus savoir quoi faire/
 冇數為 冇数为 [mao3 shu4 wei2] {mou5 sou3 wai4} /ne pas valoir le prix/
 冇料 冇料 [mao3 liao4] {mou5 liu2} /incapable; incompétent/
 冇料到 冇料到 [mao3 liao4 dao4] {mou5 liu2 dou3} /incapable; incompétent/
-????c 冇時 冇时 [mao3 shi2] {mou5 si4} /aucune heure prévue, pas d'heure fixe/(not have enough time?)/(constant?)/
+冇時 冇时 [mao3 shi2] {mou5 si4} /aucune heure prévue, pas d'heure fixe/jamais/(lit.) ne pas avoir de temps/
 冇時冇候 冇时冇候 [mao3 shi2 mao3 hou4] {mou5 si4 mou5 hau6} /pas d'heure prédéterminée; pas d'heure fixe/
 冇時定 冇时定 [mao3 shi2 ding4] {mou5 si4 ding6} /toujours en mouvement/en constante évolution/pas d'heure prédéterminée; pas d'heure fixe/
 冇晒符 冇晒符 [mao3 shai4 fu2] {mou5 saai3 fu4} /ne pas avoir de solution; ne plus savoir quoi faire/
-????c 冇晒表情 冇晒表情 [mao3 shai4 biao3 qing2] {mou5 saai3 biu2 cing4} /ne plus être intéressé/être déçu; être triste/
+冇晒表情 冇晒表情 [mao3 shai4 biao3 qing2] {mou5 saai3 biu2 cing4} /être déçu; être triste/
 冇有 冇有 [mao3 you3] {mou5 jau5} /ne pas avoir/
 冇有怕 冇有怕 [mao3 you3 pa4] {mou5 jau5 paa3} /t'inquiète pas! n'aie pas peur!/
 冇本心 冇本心 [mao3 ben3 xin1] {mou5 bun2 sam1} /ingrat/
-????c 冇根蔸 冇根蔸 [mao3 gen1 dou1] {mou5 gan1 dau1} /indécent; de mauvais goût/
+冇根蔸 冇根蔸 [mao3 gen1 dou1] {mou5 gan1 dau1} /(personne) peu fiable; irresponsable/
 ????f 冇死 冇死 [mao3 si3] {mou5 sei2} /be a sure bet; cannot go wrong (voir aussi 實冇死|实冇死)/
 冇牙老虎 冇牙老虎 [mao3 ya2 lao3 hu3] {mou5 ngaa4 lou5 fu2} /(expr. idiom.) quelque chose qui a l'air impressionnant mais qui n'a aucun pouvoir; colosse aux pieds d'argile/(lit.) tigre sans dents/
 冇王管 冇王管 [mao3 wang2 guan3] {mou5 wong2 gun2} /(fig.) ne pas avoir personne responsable/(lit.) ne pas avoir de roi/
 冇理由 冇理由 [mao3 li3 you2] {mou5 lei5 jau4} /impossible; inexplicable/
 冇瓦遮頭 冇瓦遮头 [mao3 wa3 zhe1 tou2] {mou5 ngaa5 ze1 tau4} /(expr.) sans-abri/(lit.) ne pas avoir de toit pour couvrir sa tête/
 冇用 冇用 [mao3 yong4] {mou5 jung6} /inutil/
-????c 冇甩拖 冇甩拖 [mao3 shuai3 tuo1] {mou5 lat1 to1} /sans retard; sans délai/
+????f 冇甩拖 冇甩拖 [mao3 shuai3 tuo1] {mou5 lat1 to1} /toujours dans une relation; ne pas avoir rompu/sans retard; sans délai/
 冇癮 冇瘾 [mao3 yin3] {mou5 jan5} /pas intéressant; ennuyeux; ennuyant/gâcher l'ambiance; décevoir/
 冇益 冇益 [mao3 yi4] {mou5 jik1} /malsain/
 冇相干 冇相干 [mao3 xiang1 gan1] {mou5 soeng1 gon1} /ce n'est rien; ça va; ce n'est pas grave; laisse tomber/
 冇眼屎乾淨盲 冇眼屎干净盲 [mao3 yan3 shi3 gan1 jing4 mang2] {mou5 ngaan5 si2 gon1 zeng6 maang4} /(expr. idiom.) moins on en sait, mieux on se porte/(lit.) personne aveugle propre et sans chassie/  
 冇眼界 冇眼界 [mao3 yan3 jie4] {mou5 ngaan5 gaai3} /mal viser/
 冇眼睇 冇眼睇 [mao3 yan3 di4] {mou5 ngaan5 tai2} /(fig.) ne pas pouvoir supporter de voir; ne pas pouvoir supporter la pensée de quelque chose/(expr. idiom.) ne pas avoir de yeux pour voir/
-????c 冇着落 冇着落 [mao3 zhao2 lao4] {mou5 zoek6 lok6} /ne pas avoir réglé un problème ou situation, ne pas avoir fini avec quelque chose/ne pas avoir confirmé quelque chose/
+冇着落 冇着落 [mao3 zhao2 lao4] {mou5 zoek6 lok6} /ne pas avoir réglé un problème ou situation, ne pas avoir fini avec quelque chose/
 冇着衫 冇着衫 [mao3 zhe5 shan1] {mou5 zoek6 saam1} /nu; qui n'a pas de vêtements/
 冇睇頭 冇睇头 [mao3 di4 tou2] {mou5 tai2 tau4} /laid/
-????c 冇研究 冇研究 [mao3 yan2 jiu1] {mou5 jin4 gau3} /ne pas avoir examiné de plus près/ne pas avoir recherché/ça m'est égal/
-????c 冇穿冇爛 冇穿冇烂 [mao3 chuan1 mao3 lan4] {mou5 cyun1 mou5 laan6} /en un seul morceau (only for people or for things too?)/(fig.) tout va bien/(lit.) sans trous, pas brisé/
+冇研究 冇研究 [mao3 yan2 jiu1] {mou5 jin4 gau3} /ne pas avoir examiné de plus près/ça m'est égal/
+冇穿冇爛 冇穿冇烂 [mao3 chuan1 mao3 lan4] {mou5 cyun1 mou5 laan6} /(fig.) tout va bien; ça va bien/(lit.) sans trous, pas brisé/
 冇符 冇符 [mao3 fu2] {mou5 fu4} /ne pas avoir de solution; ne plus savoir quoi faire/
 冇米粥 冇米粥 [mao3 mi3 zhou1] {mou5 mai5 zuk1} /(expr. idiom.) plan qui va échouer; plan qui mènera à rien/(lit.) congee sans riz/
 冇精神 冇精神 [mao3 jing1 shen5] {mou5 zing1 san4} /se sentir fatigué/
-????c 冇紋冇路 冇纹冇路 [mao3 wen2 mao3 lu4] {mou5 man4 mou5 lou6} /(fig.) insensé/(lit.) ne pas avoir de ligne ni de chemin/
-????c 冇紋路 冇纹路 [mao3 wen2 lu5] {mou5 man4 lou6} /insensé/
+冇紋冇路 冇纹冇路 [mao3 wen2 mao3 lu4] {mou5 man4 mou5 lou6} /(fig.) insensé; illogique/(lit.) ne pas avoir de ligne ni de chemin/
+冇紋路 冇纹路 [mao3 wen2 lu5] {mou5 man4 lou6} /insensé; illogique/
 冇緊要 冇紧要 [mao3 jin3 yao4] {mou5 gan2 jiu3} /ça va; il n'y a pas de problème/(lit.) pas d'importance/
 冇耐 冇耐 [mao3 nai4] {mou5 noi6} /peu de temps après/
 冇耳性 冇耳性 [mao3 er3 xing4] {mou5 ji5 sing3} /tête en l'air; distrait; étourdi/
