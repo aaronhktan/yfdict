@@ -2368,7 +2368,7 @@
 冇公德心 冇公德心 [mao3 gong1 de2 xin1] {mou5 gung1 dak1 sam1} /incivisme; ne pas sentir le devoir de remplir son devoir civique/
 ????f 冇出息 冇出息 [mao3 chu1 xi5] {mou5 ceot1 sik1} /(personne) sans ambition; sans potentiel; sans perspective/
 冇厘搭霎 冇厘搭霎 [mao3 li2 da1 sha4] {mou5 lei4 daap3 saap3} /irresponsable/
-冇厘神氣 冇厘神气 [mao3 li2 shen2 qi5] {mou5 lei4 san4 hei3} /(fig.) être léthargique; être sans énergie/
+冇厘神氣 冇厘神气 [mao3 li2 shen2 qi5] {mou5 lei4 san4 hei3} /(fig.) être fatigué; être léthargique; être sans énergie/découragé; sans motivation/
 冇口齒 冇口齿 [mao3 kou3 chi3] {mou5 hau2 ci2} /(fig.) peu fiable; peu digne de confiance; qui ne tient pas ses promesses/(lit.) ne pas avoir de dents dans la bouche/
 冇咁好氣 冇咁好气 [mao3 gan1 hao3 qi4] {mou5 gam3 hou2 hei3} /(expr. idiom.) en avoir eu assez/(expr. idiom.) ignorer quelqu'un/(lit.) n'avoir pas une respiration aussi bonne/
 冇問題 冇问题 [mao3 wen4 ti2] {mou5 man6 tai4} /pas de problème; pas de souci; ça va/
@@ -2437,7 +2437,7 @@
 冇米粥 冇米粥 [mao3 mi3 zhou1] {mou5 mai5 zuk1} /(expr. idiom.) plan qui va échouer; plan qui mènera à rien/(lit.) congee sans riz/
 冇精神 冇精神 [mao3 jing1 shen5] {mou5 zing1 san4} /se sentir fatigué/
 冇紋冇路 冇纹冇路 [mao3 wen2 mao3 lu4] {mou5 man4 mou5 lou6} /(fig.) insensé; illogique/(lit.) ne pas avoir de ligne ni de chemin/
-冇紋路 冇纹路 [mao3 wen2 lu5] {mou5 man4 lou6} /insensé; illogique/
+冇紋路 冇纹路 [mao3 wen2 lu5] {mou5 man4 lou6} /déraisonnable; illogique/
 冇緊要 冇紧要 [mao3 jin3 yao4] {mou5 gan2 jiu3} /ça va; il n'y a pas de problème/(lit.) pas d'importance/
 冇耐 冇耐 [mao3 nai4] {mou5 noi6} /peu de temps après/
 冇耳性 冇耳性 [mao3 er3 xing4] {mou5 ji5 sing3} /tête en l'air; distrait; étourdi/
@@ -2448,54 +2448,53 @@
 冇膽 冇胆 [mao3 dan3] {mou5 daam2} /lâche; couard; peureux/
 冇膽匪類 冇胆匪类 [mao3 dan3 fei3 lei4] {mou5 daam2 fei2 leoi2} /lâche; couard; peureux/
 冇膽鬼 冇胆鬼 [mao3 dan3 gui3] {mou5 daam2 gwai2} /lâche; couard; peureux/
-冇著衫 冇着衫 [mao3 zhao2 shan1] {mou5 zoek3 saam1} /nu, qui n'a pas de vêtements/
-冇行 冇行 [mao3 xing2] {mou5 hong4} /sans espoir/impossible/
-冇衣食 冇衣食 [mao3 yi1 shi2] {mou5 ji1 sik6} /(fig.) dépenser tout son argent et en subir les conséquences/(lit.) sans vêtements et sans nourriture/
-冇表情 冇表情 [mao3 biao3 qing2] {mou5 biu2 cing4} /ne plus être intéressé/sans expression faciale/
-冇解 冇解 [mao3 jie3] {mou5 gaai2} /inexplicable/aucune cause, aucune raison/
-冇計 冇计 [mao3 ji4] {mou5 gai2} /pas de choix/ne t'en fais pas/
-冇記性 冇记性 [mao3 ji4 xing5] {mou5 gei3 sing3} /tête en l'air, distrait, étourdi/
-冇話 冇话 [mao3 hua4] {mou5 waa6} /pas, non/jamais/
-冇譜 冇谱 [mao3 pu3] {mou5 pou2} /absurde/ridicule/incroyable/bizarre/
-冇走盞 冇走盏 [mao3 zou3 zhan3] {mou5 zau2 zaan2} /ne pas avoir d'autre choix/
-冇走趲 冇走趱 [mao3 zou3 zan3] {mou5 zau2 zaan2} /inflexible/pas assez de place pour les autres/
-冇走雞 冇走鸡 [mao3 zou3 ji1] {mou5 zau2 gai1} /(expr. idiom.) dans le sac, facile, garanti/(lit.) le poulet ne peut pas se fuir/
-冇辦法 冇办法 [mao3 ban4 fa3] {mou5 baan6 faat3} /aucune chance, situation sans issue/
+冇著衫 冇着衫 [mao3 zhao2 shan1] {mou5 zoek3 saam1} /nu; qui n'a pas de vêtements/
+冇行 冇行 [mao3 xing2] {mou5 hong4} /sans espoir; impossible/
+????f 冇衣食 冇衣食 [mao3 yi1 shi2] {mou5 ji1 sik6} /(fig.) dépenser tout son argent et en subir les conséquences/(lit.) sans vêtements et sans nourriture/
+冇表情 冇表情 [mao3 biao3 qing2] {mou5 biu2 cing4} /être déçu; être triste/
+冇解 冇解 [mao3 jie3] {mou5 gaai2} /inexplicable; bizarre/déraisonnable/
+冇計 冇计 [mao3 ji4] {mou5 gai2} /on ne peut rien y faire; ne pas avoir de solution/
+冇記性 冇记性 [mao3 ji4 xing5] {mou5 gei3 sing3} /avoir une mauvaise mémoire/
+冇話 冇话 [mao3 hua4] {mou5 waa6} /jamais/
+冇譜 冇谱 [mao3 pu3] {mou5 pou2} /absurde; ridicule; incroyable; bizarre/
+冇走盞 冇走盏 [mao3 zou3 zhan3] {mou5 zau2 zaan2} /dans le sac; facile; garanti/inflexible/
+冇走趲 冇走趱 [mao3 zou3 zan3] {mou5 zau2 zaan2} /dans le sac; facile; garanti/inflexible (voir aussi 冇走盞|冇走盏)/
+冇走雞 冇走鸡 [mao3 zou3 ji1] {mou5 zau2 gai1} /(expr. idiom.) dans le sac; facile; garanti/(lit.) le poulet ne peut pas se fuir/
+冇辦法 冇办法 [mao3 ban4 fa3] {mou5 baan6 faat3} /il n'y à rien à faire; on ne peut rien y faire; ne pas avoir de solution/
 冇醒起 冇醒起 [mao3 xing3 qi3] {mou5 sing2 hei2} /oublier/
 冇釐搭霎 冇釐搭霎 [mao3 lai4 da1 sha4] {mou5 lei4 daap3 saap3} /irresponsable/
 冇釐正經 冇厘正经 [mao3 li2 zheng4 jing1] {mou5 lei4 zing3 ging1} /ne pas se comporter de manière sérieuse/
-冇釐癮頭 冇釐瘾头 [mao3 lai4 yin3 tou2] {mou5 lei4 jan5 tau4} /ennuyé/déçu/
-冇釐神氣 冇釐神气 [mao3 lai4 shen2 qi5] {mou5 lei4 san4 hei3} /fatigué/découragé/sans motivation/
-冇銀喺手 冇银喺手 [mao3 yin2 bei2 shou3] {mou5 ngan4 hai2 sau2} /(fig.) ne pasavoir assez d'argent, ne pas être assez riche (pour acheter quelque chose)/(fig.) ne pas avoir de l'argent sur soi/(lit.) pas d'argent dans les mains/
-冇錯 冇错 [mao3 cuo4] {mou5 co3} /juste, correct/
-冇關係 冇关系 [mao3 guan1 xi5] {mou5 gwaan1 hai6} /(deux choses) sans lien, sans rapport/ce n'est pas grave/
-冇问题 冇问题 [mao3 wen4 ti2] {mou5 man6 tai4} /pas de problème/
-冇陰功 冇阴功 [mao3 yin1 gong1] {mou5 jam1 gung1} /cruel, sans-coeur/
+冇釐癮頭 冇釐瘾头 [mao3 lai4 yin3 tou2] {mou5 lei4 jan5 tau4} /ennuyeux; ennuyant; pas intéressant/
+冇釐神氣 冇釐神气 [mao3 lai4 shen2 qi5] {mou5 lei4 san4 hei3} /(fig.) être fatigué; être léthargique; être sans énergie/découragé; sans motivation/
+冇銀喺手 冇银喺手 [mao3 yin2 bei2 shou3] {mou5 ngan4 hai2 sau2} /(fig.) ne pas avoir assez d'argent, ne pas être assez riche (pour acheter quelque chose)/(fig.) ne pas avoir de l'argent sur soi/(lit.) pas d'argent dans les mains/
+冇錯 冇错 [mao3 cuo4] {mou5 co3} /juste; correct/vous avez raison; c'est vrai; c'est ça/
+冇關係 冇关系 [mao3 guan1 xi5] {mou5 gwaan1 hai6} /(deux choses) sans lien, sans rapport/ce n'est pas grave; ça va; il n'y a pas de problème/
+????f 冇陰功 冇阴功 [mao3 yin1 gong1] {mou5 jam1 gung1} /cruel; sans-coeur/poor you! how pitiful!/
 冇雷公咁遠 冇雷公咁远 [mao3 Lei2 gong1 gan1 yuan3] {mou5 leoi4 gung1 gam3 jyun5} /trop loin/
-冇面 冇面 [mao3 mian4] {mou5 min6} /honte, déshonneur/perdre la face/
-冇面俾 冇面俾 [mao3 mian4 bi3] {mou5 min2 bei2} /ne pas favoriser quelqu'un/
+冇面 冇面 [mao3 mian4] {mou5 min6} /perdre la face; être humilié/
+????f 冇面俾 冇面俾 [mao3 mian4 bi3] {mou5 min2 bei2} /ne pas favoriser quelqu'un (to not give any special favours to somebody)/refuser de céder; refuser de compromettre/
 冇鞋挽屐走 冇鞋挽屐走 [mao3 xie2 wan3 ji1 zou3] {mou5 haai4 waan5 kek6 zau2} /(expr. idiom.) partir précipitamment/(lit.) si vous n'avez pas de chaussures, prenez des sabots et partez/
-冇頭烏蠅 冇头乌蝇 [mao3 tou2 wu1 ying2] {mou5 tau4 wu1 jing4} /personne irréflechie, téméraire/(lit.) mouche sans tête/
+????f 冇頭烏蠅 冇头乌蝇 [mao3 tou2 wu1 ying2] {mou5 tau4 wu1 jing4} /(expr. idiom.) (personne) qui n'a pas de plan; qui fait plusieurs choses sans objectif concret/(lit.) mouche sans tête/
 冇鬼用 冇鬼用 [mao3 gui3 yong4] {mou5 gwai2 jung6} /(fam.) inutile/
 冇漏罅 冇漏罅 [mao3 lou4 xia4] {mou5 lau6 laa3} /rigoureux, rigoureuse; minutieux, minutieuse/
 冇影 冇影 [mao3 ying3] {mou5 jing2} /disparaître/
 冉有 冉有 [ran3 you3] {jim5 jau5} /disciple de Confucius/
-再三 再三 [zai4 san1] {zoi3 saam1} /à plusieurs reprises/
+再三 再三 [zai4 san1] {zoi3 saam1} /à plusieurs reprises; maintes fois; encore et encore/
 再加 再加 [zai4 jia1] {zoi3 gaa1} /de plus/
 再加上 再加上 [zai4 jia1 shang4] {zoi3 gaa1 soeng5} /de plus/
-再嚟過 再嚟过 [zai4 li2 guo4] {zoi3 lai4 gwo3} /revenez encore/
-再現 再现 [zai4 xian4] {zoi3 jin6} /réapparaître/se produire à nouveau/
+再嚟過 再嚟过 [zai4 li2 guo4] {zoi3 lai4 gwo3} /revenir encore/
+再現 再现 [zai4 xian4] {zoi3 jin6} /rejouer; reconstituer (un évènement)/
 再生資源 再生资源 [zai4 sheng1 zi1 yuan2] {zoi3 sang1 zi1 jyun4} /ressources renouvellables/
 再試 再试 [zai4 shi4] {zoi3 si3} /réessayer/
-再説 再说 [zai4 shuo1] {zoi3 syut3} /on va en reparler/
-再講 再讲 [zai4 jiang3] {zoi3 gong2} /reparler, redire/de plus/
-再議 再议 [zai4 yi4] {zoi3 ji5} /on va en reparler/
-冒 冒 [mao4] {mou6} /prendre un risque/monter, se lever (de l'eau)/
-冒尖 冒尖 [mao4 jian1] {mou6 zim1} /exceptionnel/
-冒泡 冒泡 [mao4 pao4] {mou6 pou5} /être actif de temps en temps sur les forums d'Internet/
+再説 再说 [zai4 shuo1] {zoi3 syut3} /redire/en reparler/
+再講 再讲 [zai4 jiang3] {zoi3 gong2} /redire/en reparler/
+再議 再议 [zai4 yi4] {zoi3 ji5} /(litt.) reparler; réexaminer/
+冒 冒 [mao4] {mou6} /prendre un risque/dégager (de la fumée, etc.)/
+冒尖 冒尖 [mao4 jian1] {mou6 zim1} /être exceptionnel/
+冒泡 冒泡 [mao4 pao4] {mou6 pou5} /(argot Internet) être actif de temps en temps sur les forums d'Internet/
 冕旒 冕旒 [mian3 liu2] {min5 lau4} /couronne des empereurs de la Chine antique/
 最主要 最主要 [zui4 zhu3 yao4] {zeoi3 zyu2 jiu3} /le plus important/
-最低 最低 [zui4 di1] {zeoi3 dai1} /minimum/
+最低 最低 [zui4 di1] {zeoi3 dai1} /minimum; le plus bas/
 最低工資 最低工资 [zui4 di1 gong1 zi1] {zeoi3 dai1 gung1 zi1} /salaire minimum/
 最初 最初 [zui4 chu1] {zeoi3 co1} /au début/
 最多唔係 最多唔系 [zui4 duo1 n2 xi4] {zeoi3 do1 m4 hai6} /dans le pire des cas/
@@ -2505,50 +2504,50 @@
 最早 最早 [zui4 zao3] {zeoi3 zou2} /le plus tôt/
 最短 最短 [zui4 duan3] {zeoi3 dyun2} /le plus court/
 最長 最长 [zui4 chang2] {zeoi3 coeng4} /le plus long/
-最高峰 最高峰 [zui4 gao1 feng1] {zeoi3 gou1 fung1} /point culminant, plus haut sommet/
+最高峰 最高峰 [zui4 gao1 feng1] {zeoi3 gou1 fung1} /le meilleur/(lit.) pic le plus haut; plus haut sommet/
 最高溫度 最高温度 [zui4 gao1 wen1 du4] {zeoi3 gou1 wan1 dou6} /la plus haute température/
-冚唪唥 冚唪唥 [ka4 feng3 lang5] {ham6 baang6 laang6} /tout, l'entier/
+冚唪唥 冚唪唥 [ka4 feng3 lang5] {ham6 baang6 laang6} /tout; l'entier/
 冚啲 冚啲 [ka4 di1] {ham6 di1} /tout/
-冚𠾴唥 冚𠾴唥 [kan3 bang4 lang] {ham6 baang6 laang6} /tout, l'entier/
-冚國旗 冚国旗 [ka4 guo2 qi2] {ham6 gwok3 kei4} /(expr. idiom.) sacrifier sa vie pour sa nation/(expr. idiom.) expression pour souhaiter la mort sur quelqu'un, particulièrement les hauts fonctionnaires/(lit.) couvrir un cercueil avec le drapeau national/
-冚家 冚家 [ka4 jia1] {kam2 gaa1} /toute la famille/
-冚家剷 冚家铲 [ka4 jia1 chan3] {gam2 gaa1 caan2} /(vulg.) souhaiter la mort sur une famille entière/
-冚家富貴 冚家富贵 [ka4 jia1 fu4 gui4] {gam2 gaa1 fu3 gwai3} /(vulg.) souhaiter la mort sur une famille entière/
-冚家鏟 冚家铲 [ka4 jia1 chan3] {ham6 gaa1 caan2} /(vulg.) souhaiter la mort sur une famille entière/
-冚斗 冚斗 [ka4 dou4] {kam2 dau3} /faire faillite, fermer une entreprise/fermer définitivement/garder secret/
-冚旗 冚旗 [ka4 qi2] {kam2 kei4} /(expr. idiom.) couvrir le signe du «taxi libre» pour éviter les clients/(expr. idiom.) sacrifier sa vie pour son pays/(lit.) couvrir avec le drapeau/
-冚檔 冚档 [ka4 dang4] {kam2 dong3} /faire une descente, faire une rafle/
-冚盅 冚盅 [ka4 zhong1] {ham6 zung1} /contenant avec couvercle/
-冚竇 冚窦 [ka4 dou4] {ham6 dau6} /faire une descente policière, faire une rafle/
-冚蓆瞓石 冚席瞓石 [ka4 xi2 fen4 shi2] {ham6 zek6 fan3 sek6} /sans-abri/
-冚賭 冚赌 [ka4 du3] {gam2 dou2} /effectuer une descente policière sur un jeu d'argent illégal/
+冚𠾴唥 冚𠾴唥 [kan3 bang4 lang] {ham6 baang6 laang6} /tout; l'entier/
+冚國旗 冚国旗 [ka4 guo2 qi2] {kam2 gwok3 kei4} /(expr. idiom.) sacrifier sa vie pour sa nation/(expr. idiom.) expression pour souhaiter la mort sur quelqu'un, particulièrement les hauts fonctionnaires/(lit.) couvrir un cercueil avec le drapeau national/
+冚家 冚家 [ka4 jia1] {ham6 gaa1} /toute la famille/
+冚家剷 冚家铲 [ka4 jia1 chan3] {ham6 gaa1 caan2} /(vulg.) souhaiter la mort sur une famille entière; « que toute ta famille meure! »/
+冚家富貴 冚家富贵 [ka4 jia1 fu4 gui4] {ham6 gaa1 fu3 gwai3} /(vulg.) souhaiter la mort sur une famille entière; « que toute ta famille meure! »/
+冚家鏟 冚家铲 [ka4 jia1 chan3] {ham6 gaa1 caan2} /(vulg.) souhaiter la mort sur une famille entière; « que toute ta famille meure! »/
+????c 冚斗 冚斗 [ka4 dou4] {kam2 dau3} /faire faillite; fermer une entreprise/garder secret (?)/
+冚旗 冚旗 [ka4 qi2] {kam2 kei4} /(expr. idiom.) couvrir le signe du « taxi libre » pour éviter les clients/(expr. idiom.) sacrifier sa vie pour son pays/(lit.) couvrir le drapeau/
+冚檔 冚档 [ka4 dang4] {kam2 dong3} /faire une descente; faire une rafle; effectuer une perquisition/
+冚盅 冚盅 [ka4 zhong1] {ham6 zung1} /récipient en céramique avec couvercle/
+冚竇 冚窦 [ka4 dou4] {ham6 dau6} /faire une descente policière; faire une rafle; effectuer une perquisition/
+????c 冚蓆瞓石 冚席瞓石 [ka4 xi2 fen4 shi2] {ham6 zek6 fan3 sek6} /sans-abri/
+????f 冚賭 冚赌 [ka4 du3] {gam2 dou2} /effectuer une descente policière sur une maison de jeu illégale/
 冠狀病毒 冠状病毒 [guan1 zhuang4 bing4 du2] {gun1 zong6 beng6 duk6} /coronavirus/
-冠軍 冠军 [guan4 jun1] {gun3 gwan1} /gagnant, première place/
-冤 冤 [yuan1] {jyun1} /hostilité, haine/mauvaise odeur forte/
-冤冤相報 冤冤相报 [yuan1 yuan1 xiang1 bao4] {jyun1 jyun1 soeng1 bou3} /ne penser qu'à la vengeance finit toujours mal/deux personnes qui se vengeant l'une contre l'autre sans cesse/
-冤厲 冤厉 [yuan1 li4] {jyun1 lai6} /blâmer à tort/monter un coup contre (quelqu'un)/pleine de haine à cause d'une injustice/
-冤口冤面 冤口冤面 [yuan1 kou3 yuan1 mian4] {jyun1 hau2 jyun1 min6} /avoir un air ennuyé, énervé/
+冠軍 冠军 [guan4 jun1] {gun3 gwan1} /gagnant du premier prix; champion/
+冤 冤 [yuan1] {jyun1} /hostilité; haine/très mauvaise odeur; puanteur horrible/
+冤冤相報 冤冤相报 [yuan1 yuan1 xiang1 bao4] {jyun1 jyun1 soeng1 bou3} /ne penser qu'à la vengeance finit toujours mal/
+????f 冤厲 冤厉 [yuan1 li4] {jyun1 lai2} /blâmer à tort; accuser à tort; monter un coup contre quelqu'un; leser/être blâmé tort; être accusé à tort; être lésé/
+冤口冤面 冤口冤面 [yuan1 kou3 yuan1 mian4] {jyun1 hau2 jyun1 min6} /avoir un air énervé/
 冤崩爛臭 冤崩烂臭 [yuan1 beng1 lan4 chou4] {jyun1 bang1 laan6 cau3} /qui a une odeur désagréable/
-冤戾 冤戾 [yuan1 li4] {jyun1 lai6} /blâmer à tort, accuser à tort/
+????f 冤戾 冤戾 [yuan1 li4] {jyun1 lai2} /blâmer à tort; accuser à tort; monter un coup contre quelqu'un; leser/être blâmé tort; être accusé à tort; être victime d'un coup monté; être lésé/
 冤有頭，債有主 冤有头，债有主 [yuan1 you3 tou2 , zhai4 you3 zhu3] {jyun1 jau5 tau4 ，zaai3 jau5 zyu2} /(expr. idiom.) pour comprendre un problème, il faut trouver ceux et celles qui l'ont causé/(expr. idiom.) il ne faut pas chercher à impliquer d'autres personnes dans son différend/(lit.) une injustice a un début, une dette a un débiteur/
-冤臭 冤臭 [yuan1 chou4] {jyun1 cau3} /mauvaise odeur, puanteur/
-冤豬頭都有盟鼻菩薩 冤猪头都有盟鼻菩萨 [yuan1 zhu1 tou2 dou1 you3 meng2 bi2 pu2 sa4] {jyun1 zyu1 tau4 dou1 jau5 mang4 bei6 pou4 saat3} /(expr. idiom.) l'amour est aveugle/(expr. idiom.) même les gens horribles ont des admirateurs/(lit.) les têtes de cochons qui puent ont des dieux qui ont le nez bouché/
-冤鬼 冤鬼 [yuan1 gui3] {jyun1 gwai2} /fantôme malchanceux, fantôme victime d'une mort injuste/quelqu'un qui demeure toujours à côté d'autrui, quelqu'un qui est collant/une personne qui embête toujours les autres/
+冤臭 冤臭 [yuan1 chou4] {jyun1 cau3} /très mauvaise odeur; puanteur horrible/
+冤豬頭都有盟鼻菩薩 冤猪头都有盟鼻菩萨 [yuan1 zhu1 tou2 dou1 you3 meng2 bi2 pu2 sa4] {jyun1 zyu1 tau4 dou1 jau5 mang4 bei6 pou4 saat3} /(expr. idiom.) même les gens horribles ont des admirateurs/(lit.) les têtes de cochons qui puent ont des dieux qui ont le nez bouché/
+????f 冤鬼 冤鬼 [yuan1 gui3] {jyun1 gwai2} /fantôme malchanceux; fantôme victime d'une mort injuste/(inj. ou affectueux) une personne qui énerve les autres/
 冥冥 冥冥 [ming2 ming2] {ming5 ming5} /prédestinée/
 冥冥之中 冥冥之中 [ming2 ming2 zhi1 zhong1] {ming5 ming5 zi1 zung1} /prédestiné/
-冥壽 冥寿 [ming2 shou4] {ming5 sau6} /célébration d'un anniversaire ou fête d'un décédé/
-冥誕 冥诞 [ming2 dan4] {ming5 daan3} /célébration d'un anniversaire ou fête d'un décédé/
-冥鈔 冥钞 [ming2 chao1] {ming5 caau1} /billet funéraire, argent destiné à être brûlé pour les morts/
+????f 冥壽 冥寿 [ming2 shou4] {ming5 sau6} /célébration d'un anniversaire ou fête d'un décédé (comptant à partir de la date de naissance)/
+????f 冥誕 冥诞 [ming2 dan4] {ming5 daan3} /célébration d'un anniversaire comptant à partir de la date du décès/
+冥鈔 冥钞 [ming2 chao1] {ming5 caau1} /billet funéraire; argent destiné à être brûlé pour les morts/
 冧價 冧价 [lin1 jia4] {lam3 gaa3} /baisse du prix/
 冧友 冧友 [lin1 you3] {lam1 jau5} /tuer (quelqu'un)/
-冧咗 冧咗 [lin1 zuo5] {lam3 zo2} /tombé, s'effondré/tomber malade/
-冧宮頭 冧宫头 [lin1 gong1 tou2] {lam3 gung1 tau4} /toit/radical de Kangxi 14 冖/
-冧巴 冧巴 [lin1 ba1] {lam1 baa2} /chiffre, numéro/
-冧巴溫 冧巴温 [lin1 ba1 wen1] {lam1 baa1 wan1} /numéro un/
-冧把 冧把 [lin1 ba3] {lam1 baa2} /chiffre, numéro/
-冧檔 冧档 [lin1 dang4] {lam1 dong3} /fermer (une entreprise, etc)/
-冧歌 冧歌 [lin1 ge1] {lam1 go1} /chanson tendre, douce/
-冧篷頭 冧篷头 [lin1 peng2 tou2] {lam1 pung4 tau4} /radical Kangxi 40 冖/
+冧咗 冧咗 [lin1 zuo5] {lam3 zo2} /tombé; qui s'est effondré; qui s'est écroulé/(fig.) tomber malade/(fig.) ivre mort/(fig.) tué; assassiné/
+冧宮頭 冧宫头 [lin1 gong1 tou2] {lam3 gung1 tau4} /toit/radical de Kangxi 14 « 冖 »/
+冧巴 冧巴 [lin1 ba1] {lam1 baa2} /chiffre; numéro/(par extension) numéro de téléphone/(orig.) de l'anglais « number » (« numéro; chiffre; nombre »)/
+冧巴溫 冧巴温 [lin1 ba1 wen1] {lam1 baa1 wan1} /numéro un; premier au classement/(orig.) de l'anglais « number one » (« numéro un; en tête; devant les autres »)/
+冧把 冧把 [lin1 ba3] {lam1 baa2} /chiffre; numéro/(par extension) numéro de téléphone/(orig.) de l'anglais « number » (« numéro; chiffre; nombre »)/
+冧檔 冧档 [lin1 dang4] {lam3 dong3} /(une entreprise, etc.) fermer; faire faillite/
+冧歌 冧歌 [lin1 ge1] {lam1 go1} /chanson d'amour; chanson sentimentale/
+冧篷頭 冧篷头 [lin1 peng2 tou2] {lam1 pung4 tau4} /radical Kangxi 40 « 冖 »/
 冧酒 冧酒 [lin1 jiu3] {lam1 zau2} /rhum/
 冬大過年 冬大过年 [dong1 da4 guo4 nian5] {dung1 daai6 gwo3 nin4} /le solstice d'hiver est plus important que le Nouvel An chinois/
 冬季 冬季 [dong1 ji4] {dung1 gwai3} /saison d'hiver/
