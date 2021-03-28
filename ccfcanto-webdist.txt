@@ -1204,13 +1204,13 @@
 人肉炸彈 人肉炸弹 [ren2 rou4 zha4 dan4] {jan4 juk6 zaa3 daan2} /kamikaze; une bombe humaine/(lit.) bombe à chair humaine/
 人蔘 人蔘 [ren2 shen1] {jan4 sam1} /ginseng/
 人蠢冇藥醫 人蠢冇藥医 [ren2 chun3 mao3 shuo4 yi1] {jan4 ceon2 mou5 joek6 ji1} /(expr. idiom.) idiot; imbécile; crétin/(lit.) une personne tellement stupide qu'aucun médicament ne peut aider/
-????c 人講你又講 人讲你又讲 [ren2 jiang3 ni3 you4 jiang3] {jan4 gong2 nei5 jau6 gong2} /(expr.) quelqu'un qui manque d'esprit critique/(lit.) quelqu'un qui répète ce que les autres disent/
+????f 人講你又講 人讲你又讲 [ren2 jiang3 ni3 you4 jiang3] {jan4 gong2 nei5 jau6 gong2} /(expr.) quelqu'un qui répète ce que les autres disent sans le comprendre; qui manque d'esprit critique/(lit.) quelqu'un qui répète ce que les autres disent/
 人辦 人办 [ren2 ban4] {jan4 baan2} /mauvais exemple; personne que l'on ne devrait pas imiter/ 
 人造皮 人造皮 [ren2 zao4 pi2] {jan4 zou6 pei4} /cuir artificiel/
 人造衞星 人造卫星 [ren2 zao4 wei4 xing1] {jan4 zou6 wai6 sing1} /satellite artificiel/
 人道 人道 [ren2 dao4] {jan4 dou6} /humanitarianisme/(action) humanitaire; bonne (action)/compassion; pitié/
 人際關係 人际关系 [ren2 ji4 guan1 xi5] {jan4 zai3 gwaan1 hai6} /relations interpersonnelles/
-????c 人面 人面 [ren2 mian4] {jan4 min6} /visage humain/
+人面 人面 [ren2 mian4] {jan4 min6} /visage humain/
 ????f 人面桃花 人面桃花 [ren2 mian4 tao2 hua1] {jan4 min6 tou4 faa1} /(expr. idiom.) ce qu'un homme ressent après que son partenaire le quitte/(orig.) une histoire où un homme voit une femme très belle lors d'un voyage, mais quand il revient au même endroit l'année suivante, ne voit que des fleurs de pêche/
 人頭 人头 [ren2 tou2] {jan4 tau4} /tête humaine/
 人頭涌涌 人头涌涌 [ren2 tou2 yong3 yong3] {jan4 tau4 jung2 jung2} /(un endroit) bondé; plein à craquer/
@@ -1259,7 +1259,7 @@
 仔細 仔细 [zi3 xi4] {zi2 sai3} /attentif/prudent; soigneux/
 仔細女嫩 仔细女嫩 [zi3 xi4 nu:3 nen4] {zai2 sai3 neoi5 nyun6} /jeunes enfants/
 ????f 仔細老婆嫩 仔细老婆嫩 [zi3 xi4 lao3 po5 nen4] {zai2 sai3 lou5 po4 nyun6} /des enfants et une femme encore jeunes/(par extension) être responsable de sa famille/
-????c 仕進 仕进 [shi4 jin4] {si6 zeon3} /avancer dans sa carrière/
+仕進 仕进 [shi4 jin4] {si6 zeon3} /avancer dans sa carrière/
 他他條條 他他条条 [tuo4 tuo4 tiao2 tiao5] {taa1 taa1 tiu4 tiu4} /faire quelque chose de manière détendue, confortable, sans pression/
 他們的 他们的 [ta1 men5 de5] {taa1 mun4 dik1} /leur/
 他心 他心 [ta1 xin1] {taa1 sam1} /duplicité; malhonnêteté/
@@ -1405,12 +1405,12 @@
 低B 低B [di1 B] {dai1 bi1} /(inj.) stupide/
 低B仔 低B仔 [di1 B zi3] {dai1 bi1 zai2} /(inj.) un idiot; un connard/
 低人一等 低人一等 [di1 ren2 yi1 deng3] {dai1 jan4 jat1 dang2} /(fig.) inférieur aux autres/(lit.) en dessous des autres personnes par un rang/
-????c 低位 低位 [di1 wei4] {dai1 wai6} /bas prix (d'une action)/position basse/
+低位 低位 [di1 wei4] {dai1 wai6} /bas prix (d'une action); prix inférieure à ce que l'on attendrait/(d'un plan d'eau) faible niveau d'eau (voir aussi 低水位|低水位)/
 ????f 低威 低威 [di1 wei1] {dai1 wai1} /se sentir inférieur/
 ????f 低年級 低年级 [di1 nian2 ji2] {dai1 nin4 kap1} /(école) classe inférieure (ex. première année, cours préparatoire)/
 低微 低微 [di1 wei1] {dai1 mei4} /humble; (d'origine) modeste; d'une classe sociale inférieure/
-????c 低於 低于 [di1 yu2] {dai1 jyu1} /moins/sous; au dessous/
-????c 低格 低格 [di1 ge2] {dai1 gaak3} /personne de statut inférieure/(bad person?)/
+低於 低于 [di1 yu2] {dai1 jyu1} /moins/sous; en dessous/
+????f 低格 低格 [di1 ge2] {dai1 gaak3} /mauvaise personne (person with bad character)/
 ????f 低波 低波 [di1 bo1] {dai1 bo1} /basse vitesse; petite vitesse; première vitesse/
 ????f 低聲下氣 低声下气 [di1 sheng1 xia4 qi4] {dai1 seng1 haa6 hei3} /être servile pour demander quelque chose/
 低能兒童 低能儿童 [di1 neng2 er2 tong2] {dai1 nang4 ji4 tung4} /enfants handicapés mentaux/
@@ -1424,7 +1424,7 @@
 住喺 住喺 [zhu4 bei2] {zyu6 hai2} /vivre à (un endroit)/
 住埋 住埋 [zhu4 mai2] {zyu6 maai4} /vivre avec (quelqu'un)/
 ????f 住宅單位 住宅单位 [zhu4 zhai2 dan1 wei4] {zyu6 zaak6 daan1 wai2} /unité résidentiel (dans un appartement)/
-????c 住客會所 住客会所 [zhu4 ke4 hui4 suo3] {zyu6 haak3 wui6 so2} /salle de détente commune/
+????f 住客會所 住客会所 [zhu4 ke4 hui4 suo3] {zyu6 haak3 wui6 so2} /salle de jeux; salle partagée entre plusieurs locataires dans un immeuble/
 住家工 住家工 [zhu4 jia1 gong1] {zyu6 gaa1 gung1} /nounou/employé de maison/
 住家男人 住家男人 [zhu4 jia1 nan2 ren5] {zyu6 gaa1 naam4 jan4} /père au foyer; homme au foyer/
 住家菜 住家菜 [zhu4 jia1 cai4] {zyu6 gaa1 coi3} /plats faits maison/
@@ -1450,7 +1450,7 @@
 何止 何止 [he2 zhi3] {ho4 zi2} /non seulement/beaucoup plus que/
 何良 何良 [he2 liang2] {ho4 loeng4} /Ho Leung, un dresseur de chevaux Hongkongais/
 何超儀 何超仪 [he2 chao1 yi2] {ho4 ciu1 ji4} /Josie Ho, une chanteuse et actrice Hongkongaise/
-????c 何足掛齒 何足挂齿 [he2 zu2 gua4 chi3] {ho4 zuk1 gwaa3 ci2} /(fig.) insignifiant; sans importance/(lit.) vous n'avez pas besoin de le mentionner!/
+何足掛齒 何足挂齿 [he2 zu2 gua4 chi3] {ho4 zuk1 gwaa3 ci2} /(fig.) (formule de politesse en réponse à un remerciement) ce n'est rien; je vous en prie; avec plaisir/(lit.) vous n'avez pas besoin de le mentionner!/
 何韻詩 何韵诗 [he2 yun4 shi1] {ho4 wan5 si1} /Denise Ho, une chanteuse Hongkongaise, une militante LGBT et une militante pour la démocratie/
 何鴻燊 何鸿燊 [he2 hong2 shen1] {ho4 hung4 san1} /Stanley Ho, un entrepreneur et industriel de casinos chinois/
 佗 佗 [tuo2] {to4} /(femme) enceinte/porter; avoir/
@@ -1473,7 +1473,7 @@
 作價 作价 [zuo4 jia4] {zok3 gaa3} /donner une estimation de prix; estimer ou évaluer le prix de quelque chose/
 作動 作动 [zuo4 dong4] {zok3 dung6} /contractions prénatales/
 作反 作反 [zuo4 fan3] {zok3 faan2} /se rébeller; se révolter/
-????c 作圖 作图 [zuo4 tu2] {zok3 tou4} /tracer un graphique/
+作圖 作图 [zuo4 tu2] {zok3 tou4} /tracer un graphique/
 作大 作大 [zuo4 da4] {zok3 daai6} /se donner des airs; faire semblant; affecter/exagérer/
 作官 作官 [zuo4 guan1] {zok3 gun1} /être fonctionnaire/
 作怪 作怪 [zuo4 guai4] {zok3 gwaai3} /créer des ennuis; semer le trouble; semer la discorde/
