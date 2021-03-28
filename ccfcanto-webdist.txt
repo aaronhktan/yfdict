@@ -2154,7 +2154,7 @@
 入口 入口 [ru4 kou3] {jap6 hau2} /entrée/(marchandises) importer; importée, d'importation/
 入嚟 入嚟 [ru4 li2] {jap6 lei4} /(à l'oral) entrez/
 入嚟啦 入嚟啦 [ru4 li2 la5] {jap6 lai4 laa1} /(à l'oral) entrez/
-入城 入城 [ru4 cheng2] {jap6 sing4} /entrer dans une ville; arriver à une vile/
+入城 入城 [ru4 cheng2] {jap6 sing4} /entrer dans une ville; arriver à une ville/
 入境事務處 入境事务处 [ru4 jing4 shi4 wu4 chu4] {jap6 ging2 si6 mou6 cyu3} /département d'immigration de Hong Kong/
 入境問禁 入境问禁 [ru4 jing4 wen4 jin4] {jap6 ging2 man6 gam3} /(expr. idiom.) il faut se plier aux règles de l’endroit où l'on se trouve; à Rome, fais comme les Romains/(lit.) entrer à un endroit, demander ce qui est interdit/
 入寇 入寇 [ru4 kou4] {jap6 kau3} /envahir/
@@ -2304,100 +2304,100 @@
 公廁 公厕 [gong1ce4] {gung1 ci3} /toilettes publiques/
 公所 公所 [gong1 suo3] {gung1 so2} /(vieilli) mairie/
 公援 公援 [gong1 yuan2] {gung1 jyun4} /Comprehensive Social Security Assistance, un programme d'aide social de Hong Kong/
-公數 公数 [gong1 shu4] {gung1 sou3} /budget d'une compagnie/
-公死有肉食，婆死有肉食 公死有肉食，婆死有肉食 [gong1 si3 you3 rou4 shi5 , po2 si3 you3 rou4 shi5] {gung1 sei2 jau5 juk6 ji6 sik6 ，po4 sei2 jau5 juk6 sik6} /(expr. idiom.) n'importe ce qui change, les résultats seront les mêmes/(lit.) si le mari meurt, on aura de quoi manger, si la femme meurt, on aura de quoi manger/
+????c 公數 公数 [gong1 shu4] {gung1 sou3} /budget d'une compagnie/
+????f 公死有肉食，婆死有肉食 公死有肉食，婆死有肉食 [gong1 si3 you3 rou4 shi5 , po2 si3 you3 rou4 shi5] {gung1 sei2 jau5 juk6 ji6 sik6 ，po4 sei2 jau5 juk6 sik6} /(expr. idiom.) peu importe ce qui change, les résultats seront les mêmes/(lit.) si le mari meurt, on aura de quoi manger, si la femme meurt, on aura de quoi manger/
 公民抗命 公民抗命 [gong1 min2 kang4 ming4] {gung1 man4 kong3 ming6} /désobéissance civile/
 公民教育 公民教育 [gong1 min2 jiao4 yu4] {gung1 man4 gaau3 juk6} /éducation civique/
 公民黨 公民党 [gong1 min2 dang3] {gung1 man4 dong2} /Civic Party, un parti politique à Hong Kong/
 公眾假期 公众假期 [gong1 zhong4 jia4 qi1] {gung1 zung3 gaa3 kei4} /jour férié/
-公私分明 公私分明 [gong1 si1 fen1 ming2] {gung1 si1 fan1 ming4} /différencier clairement l'intérêt personnel et l'intérêt publique/
-公立醫院 公立医院 [gong1 li4 yi1 yuan4] {gung1 lap6 ji1 jyun2} /hôpital publique/
-公認 公认 [gong1 ren4] {gung1 jing6} /largement accepté/
-公道 公道 [gong1 dao5] {gung1 dou6} /justice/
-公餘 公余 [gong1 yu2] {gung1 jyu4} /temps libre, temps hors du travail/
+????c 公私分明 公私分明 [gong1 si1 fen1 ming2] {gung1 si1 fan1 ming4} /différencier clairement l'intérêt personnel et l'intérêt publique/
+公立醫院 公立医院 [gong1 li4 yi1 yuan4] {gung1 lap6 ji1 jyun2} /hôpital public/
+公認 公认 [gong1 ren4] {gung1 jing6} /largement accepté; généralement admis/
+公道 公道 [gong1 dao5] {gung1 dou6} /juste; équitable/justice/
+公餘 公余 [gong1 yu2] {gung1 jyu4} /temps libre; temps hors du travail/
 六個字 六个字 [liu4 ge4 zi4] {luk6 go3 zi6} /six mots ou caractères/trente minutes/
 六六六 六六六 [liu4 liu4 liu4] {luk6 luk6 luk6} /666, le nombre de la Bête/
 六十六 六十六 [liu4 shi2 liu4] {luk6 sap6 luk6} /soixante-six/
 六千 六千 [liu4 qian1] {luk6 cin1} /six mille/
-六國大封相 六国大封相 [Liu4 guo2 da4 feng1 xiang1] {luk6 gwok3 daai6 fung1 soeng1} /dispute, querelle/
+六國大封相 六国大封相 [Liu4 guo2 da4 feng1 xiang1] {luk6 gwok3 daai6 fung1 soeng1} /(fig.) chaos total/(orig.) (nom d'un opéra cantonais)/
 六式碼 六式码 [liu4 shi4 ma3] {luk6 sik1 maa5} /Institut Six Sigma/
 六日 六日 [liu4 ri4] {luk6 jat6} /six jours/le sixième jour d'un mois/
-六環彩 六环彩 [liu4 huan2 cai3] {luk6 waan4 coi2} /(dans le lexique du sport hippique) Six-up, choisir un cheval qui finit en première ou deuxième place en chacun de six courses/
-六耳不同謀 六耳不同谋 [liu4 er3 bu4 tong2 mou2] {luk6 ji5 bat1 tung4 mau4} /(expr. idiom.) un secret ne restera plus secret pendant longtemps si trois personnes sont au courant/(expr. idiom.) les rumeurs sont peu fiables/(lit.) six oreilles avec leurs propres opinions/
+六環彩 六环彩 [liu4 huan2 cai3] {luk6 waan4 coi2} /(dans le lexique du sport hippique) Six-up, choisir un cheval qui finit à la première ou deuxième place dans chacun des six courses/
+????c 六耳不同謀 六耳不同谋 [liu4 er3 bu4 tong2 mou2] {luk6 ji5 bat1 tung4 mau4} /(expr. idiom.) un secret ne restera plus secret pendant longtemps si trois personnes sont au courant/(expr. idiom.) les rumeurs sont peu fiables/(lit.) six oreilles avec leurs propres opinions/
 六號 六号 [liu4 hao4] {luk6 hou6} /numéro six (d'une rue, d'un ligne de transport, etc.)/
 六部 六部 [Liu4 bu4] {luk6 bou6} /département d'administration central de la Chine antique/
 共 共 [gong4] {gung6} /avec/
-共勉 共勉 [gong4 mian3] {gung6 min5} /encouragement mutuel/
-共同富裕 共同富裕 [gong4 tong2 fu4 yu4] {gung6 tung4 fu3 jyu6} /gagner la richesse en groupe, avec un groupe de personnes/
+????f 共勉 共勉 [gong4 mian3] {gung6 min5} /s'encourager les uns les autres; s'encourager mutuellement/
+共同富裕 共同富裕 [gong4 tong2 fu4 yu4] {gung6 tung4 fu3 jyu6} /(politique) prospérité commun (« common prosperity »)/
 共同市場 共同市场 [gong4 tong2 shi4 chang3] {gung6 tung4 si5 coeng4} /marché commun/
 共埋 共埋 [gong4 mai2] {gung6 maai4} /combiner/
-兵 兵 [bing1] {bing1} /un homme relégué à la friend zone, être friendzoné/relation entre un ami et un copain/
-兵役法 兵役法 [bing1 yi4 fa3] {bing1 jik6 faat3} /Military Service Act, une loi sur le service militaire obligatoire en Chine/
+兵 兵 [bing1] {bing1} /arme/soldat/militaire/
+兵役法 兵役法 [bing1 yi4 fa3] {bing1 jik6 faat3} /Military Service Act, une loi portant sur le service militaire obligatoire en Chine/
 兵燹 兵燹 [bing1 xian3] {bing1 sin2} /ravages de la guerre/
-兵頭 兵头 [bing1 tou2] {bing1 tau4} /le chef d'un group de soldats/
-兵頭花園 兵头花园 [bing1 tou2 hua1 yuan2] {bing1 tau4 faa1 jyun2} /surnom pour les Jardins botanique et zoologique de Hong Kong/
-兵馬俑 兵马俑 [bing1ma3yong3] {bing1 maa5 jung2} /armée de terre cuite/
-其 其 [qi2] {kei4} /(mot rhétorique)/
+兵頭 兵头 [bing1 tou2] {bing1 tau4} /commandant; chef d'un group de soldats/Gouverneur de Hong Kong/
+兵頭花園 兵头花园 [bing1 tou2 hua1 yuan2] {bing1 tau4 faa1 jyun2} /surnom des Jardins botanique et zoologique de Hong Kong/
+兵馬俑 兵马俑 [bing1 ma3 yong3] {bing1 maa5 jung2} /armée de terre cuite/
+其 其 [qi2] {kei4} /(litt.) son, sa, ses, leur, leurs/(litt.) il, elle, ils, elles/cela/
 其中 其中 [qi2 zhong1] {kei4 zung1} /parmi/
-其中之一 其中之一 [qi2 zhong1 zhi1 yi1] {kei4 zung1 zi1 jat1} /un choix parmi plusieurs/
-其他人 其他人 [qi2 ta1 ren2] {kei4 taa1 jan4} /les autres (personnes)/
-其時 其时 [qi2 shi2] {kei4 si4} /au moment où/
-具體 具体 [ju4 ti3] {geoi6 tai2} /acte de rendre quelque chose plus spécifique (une idée, un concept)/
-典型調查 典型调查 [dian3 xing2 diao4 cha2] {din2 jing4 diu6 caa4} /enquête représentative, sondage représentatif/ 
-兼且 兼且 [jian1 qie3] {gim1 ce2} /et/non seulement/mais aussi/aussi/
-兼夾 兼夹 [jian1 jia1] {gim1 gaap3} /aussi/de plus/
+其中之一 其中之一 [qi2 zhong1 zhi1 yi1] {kei4 zung1 zi1 jat1} /l'un des nombreux (quelque chose)/
+其他人 其他人 [qi2 ta1 ren2] {kei4 taa1 jan4} /les autres personnes; autrui/
+其時 其时 [qi2 shi2] {kei4 si4} /à ce moment-là/
+具體 具体 [ju4 ti3] {geoi6 tai2} /concret; spécifique/
+典型調查 典型调查 [dian3 xing2 diao4 cha2] {din2 jing4 diu6 caa4} /enquête représentative; sondage représentatif/ 
+兼且 兼且 [jian1 qie3] {gim1 ce2} /et; non seulement; mais aussi; aussi; de plus/
+兼夾 兼夹 [jian1 jia1] {gim1 gaap3} /aussi; de plus/
 兼職 兼职 [jian1 zhi2] {gim1 zik1} /travail à temps partiel/
-兼開 兼开 [jian1 kai1] {gim1 hoi1} /aussi/
-兼隊 兼队 [jian1 dui4] {gim1 deoi6} /couper la file, passer devant (dans une fil d'attente)/
-冀望 冀望 [ji4 wang4] {kei3 mong6} /espérer, avoir hâte de quelque chose/
+????c 兼開 兼开 [jian1 kai1] {gim1 hoi1} /aussi/(to open from time to time?)/
+兼隊 兼队 [jian1 dui4] {gim1 deoi6} /couper la file; passer devant (dans une fil d'attente)/
+冀望 冀望 [ji4 wang4] {kei3 mong6} /espérer; avoir hâte de quelque chose/
 冇 冇 [mao3] {mou5} /non/rien/
 冇乜 冇乜 [mao3 mie1] {mou5 mat1} /rien/ce n'est rien/pas très/pas en particulier/
-冇乜兩句 冇乜两句 [mao3 mie1 liang3 ju4] {mou5 mat1 loeng5 geoi3} /(des personnes) qui n'ont pas beaucoup à dire entre eux/
+????f 冇乜兩句 冇乜两句 [mao3 mie1 liang3 ju4] {mou5 mat1 loeng5 geoi3} /(des personnes) qui n'ont pas beaucoup à dire entre eux/(personnes) qui ne se connaissent pas très bien/
 冇乜嘢 冇乜嘢 [mao3 mie1 ye3] {mou5 mat1 je5} /rien/ce n'est rien/
-冇乜好死 冇乜好死 [mao3 mie1 hao3 si3] {mou5 mat1 hou2 sei2} /(fam.) plus rien à craindre/
-冇乜所謂 冇乜所谓 [mao3 mie1 suo3 wei4] {mou5 mat1 so2 wai6} /n'importe, ce n'est pas important/
-冇乜滯 冇乜滞 [mao3 mie1 zhi4] {mou5 mat1 zai6} /pas beaucoup (qui reste à faire)/rarement/
-冇乜點 冇乜点 [mao3 mie1 dian3] {mou5 me1 dim2} /rien de spécial/
-冇事 冇事 [mao3 shi4] {mou5 si6} /ça va, ce n'est rien/pas de problème/
-冇交易 冇交易 [mao3 jiao1 yi4] {mou5 gaau1 jik6} /aucune vente/aucun accord/
-冇人有 冇人有 [mao3 ren2 you3] {mou5 jan4 jau5} /personne d'autre ne l'a/personne d'autre ne peut se comparer avec .../
-冇你咁好氣 冇你咁好气 [mao3 ni3 gan1 hao3 qi4] {mou5 nei5 gam3 hou2 hei3} /(expr. idiom.) j'en ai eu assez de toi/(expr. idiom.) je n'ai pas la patience pour cela/(lit.) je n'ai pas un caractère doux comme le tien/
-冇來由 冇来由 [mao3 lai2 you2] {mou5 loi4 jau4} /sans raison, sans raison particulière, sans cause/
-冇修 冇修 [mao3 xiu1] {mou5 sau1} /aucune solution, pas de solutions/
-冇兩句 冇两句 [mao3 liang3 ju4] {mou5 loeng5 geoi3} /ne pas valoir la peine d'en parler/
-冇公德心 冇公德心 [mao3 gong1 de2 xin1] {mou5 gung1 dak1 sam1} /incivisme, ne pas sentir le devoir de remplir son devoir civique/
-冇出息 冇出息 [mao3 chu1 xi5] {mou5 ceot1 sik1} /sans ambition, sans potentiel/
-冇厘搭霎 冇厘搭霎 [mao3 li2 da1 sha4] {mou5 lei4 daap3 saap3} /(quelqu'un qui est) irresponsable/
-冇厘神氣 冇厘神气 [mao3 li2 shen2 qi5] {mou5 lei4 san4 hei3} /(quelqu'un qui) n'a pas d'énergie/
-冇口齒 冇口齿 [mao3 kou3 chi3] {mou5 hau2 ci2} /peu fiable, peu digne de confiance/(quelqu'un qui) ne tient pas ses promesses/
-冇咁好氣 冇咁好气 [mao3 gan1 hao3 qi4] {mou5 gam2 hou2 hei3} /cesser de disputer avec quelqu'un/
-冇問題 冇问题 [mao3 wen4 ti2] {mou5 man6 tai4} /pas de problème/
-冇啖好食 冇啖好食 [mao3 dan4 hao3 shi2] {mou5 daam6 hou2 sik6} /éprouver des difficultés/(lit.) rien de bon à manger/
-冇嘢 冇嘢 [mao3 ye3] {mou5 je5} /rien/je vais bien/
-冇嘢到 冇嘢到 [mao3 ye3 dao4] {mou5 je5 dou3} /(fig.) incapable, incompétent/(fig.) décevant, en deçà des attentes/(lit.) rien ne vient/
-冇埞企 冇埞企 [mao3 di1 qi3] {mou5 deng6 kei5} /ne pas avoir de place pour quelqu'un/
-冇大冇細 冇大冇细 [mao3 da4 mao3 xi4] {mou5 daai6 mou5 sai3} /(quelqu'un qui) ne connaît pas leur place/(lit.) ne pas avoir de grands ni de petits/
-冇天裝 冇天装 [mao3 tian1 zhuang1] {mou5 tin1 zong1} /(quelqu'un qui est) tellement méchant, diabolique, maléfique que même Dieu ne peut pas le supporter/
-冇奈何 冇奈何 [mao3 nai4 he2] {mou5 noi6 ho4} /ne pas avoir d'autre choix/
-冇好氣 冇好气 [mao3 hao3 qi4] {mou5 hou2 hei3} /en avoir assez avec quelqu'un/
-冇定性 冇定性 [mao3 ding4 xing4] {mou5 ding6 sing3} /(quelqu'un qui) ne peut pas se calmer ou se concentrer/
-冇定準 冇定准 [mao3 ding4 zhun3] {mou5 ding6 zeon2} /pas forcément, pas sûr/
-冇家教 冇家教 [mao3 jia1 jiao4] {mou5 gaa1 gaau3} /impoli, grossier/
-冇尾飛砣 冇尾飞砣 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /(expr. idiom.) quelqu'un ou quelque chose qui va et vient/(expr. idiom.) quelqu'un sur qui on ne peut pas compter ou qui ne tient pas ses promesses/(lit.) une lancée qu'on ne retrouve pas/
-冇尾飛陀 冇尾飞陀 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /quelqu'un qui va et vient/qqn sur qui on ne peut pas compter ou qui ne tient pas ses promesses/
+????c 冇乜好死 冇乜好死 [mao3 mie1 hao3 si3] {mou5 mat1 hou2 sei2} /(fam.) plus rien à craindre/(to not deserve a peaceful death)/
+冇乜所謂 冇乜所谓 [mao3 mie1 suo3 wei4] {mou5 mat1 so2 wai6} /ça m'est égal; peu importe; ce n'est pas important/
+冇乜滯 冇乜滞 [mao3 mie1 zhi4] {mou5 mat1 zai6} /ne pas rester beaucoup/
+冇乜點 冇乜点 [mao3 mie1 dian3] {mou5 me1 dim2} /rien de spécial; rien d'extraordinaire; rien d'anormal/
+冇事 冇事 [mao3 shi4] {mou5 si6} /ça va, ce n'est rien/
+????f 冇交易 冇交易 [mao3 jiao1 yi4] {mou5 gaau1 jik6} /pas de vente; pas d'accord; pas d'entente/pas question; hors question/
+冇人有 冇人有 [mao3 ren2 you3] {mou5 jan4 jau5} /incomparable; sans égal/
+冇你咁好氣 冇你咁好气 [mao3 ni3 gan1 hao3 qi4] {mou5 nei5 gam3 hou2 hei3} /(expr. idiom.) j'en ai eu assez de toi/(lit.) je n'ai pas un caractère doux comme le tien/
+冇來由 冇来由 [mao3 lai2 you2] {mou5 loi4 jau4} /insensé; illogique; contraire à la raison/
+冇修 冇修 [mao3 xiu1] {mou5 sau1} /être dos au mur; ne plus avoir d'issue ou de solution; être fait comme un rat/
+????c 冇兩句 冇两句 [mao3 liang3 ju4] {mou5 loeng5 geoi3} /ne pas valoir la peine d'en parler/
+冇公德心 冇公德心 [mao3 gong1 de2 xin1] {mou5 gung1 dak1 sam1} /incivisme; ne pas sentir le devoir de remplir son devoir civique/
+????f 冇出息 冇出息 [mao3 chu1 xi5] {mou5 ceot1 sik1} /(personne) sans ambition; sans potentiel; sans perspective/
+冇厘搭霎 冇厘搭霎 [mao3 li2 da1 sha4] {mou5 lei4 daap3 saap3} /irresponsable/
+冇厘神氣 冇厘神气 [mao3 li2 shen2 qi5] {mou5 lei4 san4 hei3} /(fig.) être léthargique; être sans énergie/
+冇口齒 冇口齿 [mao3 kou3 chi3] {mou5 hau2 ci2} /(fig.) peu fiable; peu digne de confiance; qui ne tient pas ses promesses/(lit.) ne pas avoir de dents dans la bouche/
+冇咁好氣 冇咁好气 [mao3 gan1 hao3 qi4] {mou5 gam3 hou2 hei3} /(expr. idiom.) en avoir eu assez/(lit.) n'avoir pas une respiration aussi bonne/
+冇問題 冇问题 [mao3 wen4 ti2] {mou5 man6 tai4} /pas de problème; pas de souci; ça va/
+冇啖好食 冇啖好食 [mao3 dan4 hao3 shi2] {mou5 daam6 hou2 sik6} /(expr. idiom.) éprouver des difficultés; avoir de la difficulté à joindre les deux bouts/(lit.) rien de bon à manger/
+冇嘢 冇嘢 [mao3 ye3] {mou5 je5} /rien/ça va; je vais bien/
+冇嘢到 冇嘢到 [mao3 ye3 dao4] {mou5 je5 dou3} /(fig.) incapable; incompétent/(fig.) décevant; en deçà des attentes/(lit.) rien ne vient/
+????c 冇埞企 冇埞企 [mao3 di1 qi3] {mou5 deng6 kei5} /ne pas avoir de place pour quelqu'un/
+冇大冇細 冇大冇细 [mao3 da4 mao3 xi4] {mou5 daai6 mou5 sai3} /qui ne connaît pas leur place; irrespectueux/(lit.) ne pas avoir de grands ni de petits/
+冇天裝 冇天装 [mao3 tian1 zhuang1] {mou5 tin1 zong1} /(quelqu'un) qui est tellement méchant, diabolique, maléfique que même Dieu ne peut pas le supporter/
+冇奈何 冇奈何 [mao3 nai4 he2] {mou5 noi6 ho4} /être dos au mur; ne plus avoir d'issue ou de solution; être fait comme un rat/
+冇好氣 冇好气 [mao3 hao3 qi4] {mou5 hou2 hei3} /en avoir assez (de quelqu'un)/
+冇定性 冇定性 [mao3 ding4 xing4] {mou5 ding6 sing3} /(enfant) qui ne peut pas se calmer ou se concentrer; turbulent/
+冇定準 冇定准 [mao3 ding4 zhun3] {mou5 ding6 zeon2} /pas forcément; pas nécessairement/
+冇家教 冇家教 [mao3 jia1 jiao4] {mou5 gaa1 gaau3} /(personne) grossier; rustre/(lit.) ne pas avoir de famille pour enseigner (les bonnes manières)/
+????c 冇尾飛砣 冇尾飞砣 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /(expr. idiom.) (quelqu'un ou quelque chose) qui va et vient/(expr. idiom.) (quelqu'un) qui n'est pas fiable ou qui ne tient pas ses promesses/(lit.) une lancée qu'on ne retrouve pas/
+????c 冇尾飛陀 冇尾飞陀 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /(expr. idiom.) (quelqu'un ou quelque chose) qui va et vient/(expr. idiom.) (quelqu'un) qui n'est pas fiable ou qui ne tient pas ses promesses/(lit.) une lancée qu'on ne retrouve pas/
 冇幾何 冇几何 [mao3 ji3 he2] {mou5 gei2 ho2} /rarement/
-冇幾耐 冇几耐 [mao3 ji3 nai4] {mou5 gei2 noi6} /il n'y a pas longtemps, naguère/peu de temps/très vite/
-冇彎轉 冇弯转 [mao3 wan1 zhuan3] {mou5 waan1 zyun3} /sans autres possibilités/
-冇得 冇得 [mao3 de5] {mou5 dak1} /ne pas pouvoir, impossible de (faire quelque chose)/
+冇幾耐 冇几耐 [mao3 ji3 nai4] {mou5 gei2 noi1} /en peu de temps; très vite/
+冇彎轉 冇弯转 [mao3 wan1 zhuan3] {mou5 waan1 zyun3} /être dos au mur; ne plus avoir d'issue ou de solution; être fait comme un rat/
+冇得 冇得 [mao3 de5] {mou5 dak1} /ne pas pouvoir; impossible de (faire quelque chose)/
 冇得傾 冇得倾 [mao3 de5 qing1] {mou5 dak1 king1} /non négociable/
-冇得彈 冇得弹 [mao3 de5 dan4] {mou5 dak1 taan4} /parfait, sans défaut/
-冇得揀 冇得拣 [mao3 de5 jian3] {mou5 dak1 gaan2} /pas de choix/
-冇得頂 冇得顶 [mao3 de5 ding3] {mou5 dak1 ding2} /fantastique/
-冇心機 冇心机 [mao3 xin1 ji1] {mou5 sam1 gei1} /ne pas être d'humeur de (faire quelque chose)/ne pas être interessé/ne pas être motivé/ne pas avoir la patience/
-冇心肝 冇心肝 [mao3 xin1 gan1] {mou5 sam1 gon1} /(une personne) cruelle, sans coeur/
-冇心裝載 冇心装载 [mao3 xin1 zhuang1 zai4] {mou5 sam1 zong1 zoi3} /(quelqu'un) qui ne prête pas attention/(qqn qui) ne fait pas d'effort/
-冇所謂 冇所谓 [mao3 suo3 wei4] {mou5 so2 wai6} /n'importe/ça ne fait rien/
-冇手尾 冇手尾 [mao3 shou3 wei3] {mou5 sau2 mei5} /ne pas finir/ne pas se ramasser, ne pas faire le ménage/
+冇得彈 冇得弹 [mao3 de5 dan4] {mou5 dak1 taan4} /parfait; sans défaut; irréprochable/
+冇得揀 冇得拣 [mao3 de5 jian3] {mou5 dak1 gaan2} /ne pas avoir de choix/
+冇得頂 冇得顶 [mao3 de5 ding3] {mou5 dak1 ding2} /fantastique; génial; superbe/
+冇心機 冇心机 [mao3 xin1 ji1] {mou5 sam1 gei1} /ne pas être d'humeur de (faire quelque chose); ne pas être interessé; ne pas être motivé; ne pas avoir la patience/
+冇心肝 冇心肝 [mao3 xin1 gan1] {mou5 sam1 gon1} /(fig.) cruel; sans cœur; ne pas avoir de conscience/(fig.) qui n'attache pas d'importance à (quelque chose); indifférent/(lit.) ne pas avoir de cœur ni foie/
+冇心裝載 冇心装载 [mao3 xin1 zhuang1 zai4] {mou5 sam1 zong1 zoi3} /distrait; inattentif/qui n'attache pas d'importance à (quelque chose)/
+冇所謂 冇所谓 [mao3 suo3 wei4] {mou5 so2 wai6} /ça m'est égal; peu importe/
+冇手尾 冇手尾 [mao3 shou3 wei3] {mou5 sau2 mei5} /ne pas finir quelque chose/ne pas ranger ses affaires; ne pas faire le ménage/(lit.) ne pas avoir la queue de la main/
 冇掩雞籠 冇掩鸡笼 [mao3 yan3 ji1 long2] {mou5 jim2 gai1 lung4} /(fig.) grand ouvert/(fig.) ouvert à tous/(fig.) (quelqu'un qui) parle avec insouciance/(lit.) poulailler sans portes/ 
 冇揸拿 冇揸拿 [mao3 zha1 na2] {mou5 zaa1 naa4} /ne pas avoir beaucoup de confiance, ne pas être sûr/
 冇搭霎 冇搭霎 [mao3 da1 sha4] {mou5 daap3 saap3} /ne pas être dévoué/(quelqu'un qui) se relâche/(quelqu'un) distrait, qui ne concentre pas/
