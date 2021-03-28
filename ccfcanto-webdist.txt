@@ -2000,7 +2000,7 @@
 僭建 僭建 [jian4 jian4] {cim5 gin3} /immeubles ou extensions d'immeuble illégaux/
 僭建屋 僭建屋 [jian4 jian4 wu1] {cim5 gin3 uk1} /immeubles illégaux/
 僱主 雇主 [gu4 zhu3] {gu3 zyu2} /employeur/
-????c 僱傭 雇佣 [gu4 yong1] {gu3 jung4} /être un employé/embaucher/
+僱傭 雇佣 [gu4 yong1] {gu3 jung4} /embaucher/employeur et employé/
 僱傭兵 雇佣兵 [gu4 yong1 bing1] {gu3 jung4 bing1} /mercenaire/
 僱員 雇员 [gu4 yuan2] {gu3 jyun4} /employé, employée/
 價值規律 价值规律 [jia4 zhi2 gui1 lu:4] {gaa3 zik6 kwai1 leot6} /théorie de la valeur, un concept marxiste d'analyse économique/
@@ -2009,7 +2009,7 @@
 儀器 仪器 [yi2 qi4] {ji4 hei3} /appareil; instrument/
 儀容 仪容 [yi2 rong2] {ji4 jung4} /air; aspect; apparence/
 儀態萬方 仪态万方 [yi2 tai4 wan4 fang1] {ji4 taai3 maan6 fong1} /(expr.) (d'une femme) élégante; gracieuse/
-????c 儆惜 儆惜 [jing3 xi1] {ging2 sik1} /respecter et chérir/
+儆惜 儆惜 [jing3 xi1] {geng6 sek3} /prendre soin de; protéger/
 儉樸 俭朴 [jian3 pu3] {gim6 pok3} /économe; modeste; sobre/
 儒林 儒林 [ru2 lin2] {jyu4 lam4} /milieux académiques; milieux universitaires/
 儒艮 儒艮 [ru2 gen4] {jyu4 gan3} /dugong, espèce de mammifère marin/
@@ -2029,12 +2029,12 @@
 儲 储 [chu3] {cyu5} /emmagasiner, stocker/économiser (de l'argent)/
 ????f 儲值 储值 [chu3 zhi2] {cyu5 zik6} /(une carte) prépayé; de valeur stockée/
 儲值票 储值票 [chu2 zhi2 piao4] {cyu5 zik6 piu3} /billet ou carte de valeur stockée/
-????c 儲備基金 储备基金 [chu3 bei4 ji1 jin1] {cyu5 bei6 gei1 gam1} /fonds de réserves/
-????c 儲備量 儲备量 [chu3 bei4 liang4] {cyu5 bei6 loeng6} /réserve (de quelque chose)/
+儲備基金 储备基金 [chu3 bei4 ji1 jin1] {cyu5 bei6 gei1 gam1} /fonds de réserves/
+????f 儲備量 儲备量 [chu3 bei4 liang4] {cyu5 bei6 loeng6} /quantité stockée; montant gardé (ex. réserves d'eau, d'argent, etc.)/
 儲埋 储埋 [chu3 mai2] {cou5 maai4} /accumuler/économiser/
 儲存 储存 [chu3 cun2] {cyu5 cyun4} /sauvegarder (un fichier)/
-????c 儲物室 储物室 [chu3 wu4 shi4] {cyu5 mat6 sat1} /salle de stockage/
-????c 儲蓄存款 储蓄存款 [chu3 xu4 cun2 kuan3] {cyu5 cuk1 cyun4 fun2} /dépôt d'épargne/
+????f 儲物室 储物室 [chu3 wu4 shi4] {cyu5 mat6 sat1} /salle de stockage/
+????f 儲蓄存款 储蓄存款 [chu3 xu4 cun2 kuan3] {cyu5 cuk1 cyun4 fun2} /argent dans un dépôt d'épargne/
 儲蓄所 储蓄所 [chu3 xu4 suo3] {cyu5 cuk1 so2} /caisse d'épargne/
 儲蓄銀行 储蓄银行 [chu3 xu4 yin2 hang2] {cyu5 cuk1 ngan4 hong4} /caisse d'épargne/
 ????f 儲蓄額 储蓄额 [chu3 xu4 e2] {cyu5 cuk1 ngaak6} /montant total en épargne/
@@ -2085,7 +2085,7 @@
 光 光 [guang1] {gwong1} /lumière/brillant/lumineux; bien éclairé/nu/tout utilisé; épuisé/
 光天化日 光天化日 [guang1 tian1 hua4 ri4] {gwong1 tin1 faa3 jat6} /(expr.) au grand jour; en plein jour/
 光孝寺 光孝寺 [guang1 xiao4 si4] {gwong1 haau3 zi6} /Guangxiao Temple, temple à Canton/
-????c 光學玻璃 光学玻璃 [guang1 xue2 bo1 li5] {gwong1 hok6 bo1 lei1} /verre optique/
+光學玻璃 光学玻璃 [guang1 xue2 bo1 li5] {gwong1 hok6 bo1 lei1} /verre optique/
 光害 光害 [guang1 hai4] {gwong1 hoi6} /pollution lumineuse/
 光彩 光彩 [guang1 cai3] {gwong1 coi2} /honneur; gloire/honorable; glorieux/
 光明 光明 [guang1 ming2] {gwong1 ming4} /bel avenir; brillant avenir/sincère; franc/
@@ -2093,7 +2093,7 @@
 光暈 光晕 [guang1 yun4] {gwong1 wan4} /halo/
 光暗掣 光暗掣 [guang1 an4 che4] {gwong1 ngam3 zai3} /variateur de lumière/
 ????c 光棍佬教仔 光棍佬教仔 [guang1 gun5 lao3 jiao4 zi3] {gwong1 gwan3 lou2 gaau3 zai2} /(expr. idiom.) ne pas être avide/(lit.) un homme célibataire qui enseigne son fils/
-????c 光棍遇着冇皮柴 光棍遇着冇皮柴 [guang1 gun5 yu4 zhao2 mao3 pi2 chai2] {gwong1 gwan3 jyu6 zoek6 mou5 pei4 caai4} /extorquer de l'argent aux pauvres/
+????f 光棍遇着冇皮柴 光棍遇着冇皮柴 [guang1 gun5 yu4 zhao2 mao3 pi2 chai2] {gwong1 gwan3 jyu6 zoek6 mou5 pei4 caai4} /(expr. idiom.) un pauvre qui essaie d'extorquer de l'argent aux pauvres/(lit.) branche sans feuilles rencontre du bois de chauffage sans écorce/
 光油 光油 [guang1 you2] {gwong1 jau4} /vernis/
 光猛 光猛 [guang1 meng3] {gwong1 maang5} /lumineux; bien éclairé/
 ????c 光瓦 光瓦 [guang1 wa3] {gwong1 ngaa5} /lumineux/propre/
@@ -2102,7 +2102,7 @@
 光管 光管 [guang1 guan3] {gwong1 gun2} /tube fluorescent/
 光脫脫 光脫脫 [guang1 tui4 tui4] {gwong1 tyut1 tyut1} /(personne) nu/(arbre) dénudé/
 光譜線 光谱线 [guang1 pu3 xian4] {gwong1 pou2 sin3} /raie spectrale/
-????c 光身 光身 [guang1 shen1] {gwong1 san1} /torse nu; aux seins nus/nu/(without bringing anything?)/(without pattern?)/
+????f 光身 光身 [guang1 shen1] {gwong1 san1} /torse nu; aux seins nus/nu/à main nue; ne rien apporter/(fig.) uni; sans motif/
 光輝歲月 光辉岁月 [guang1 hui1 sui4 yue4] {gwong1 fai1 seoi3 jyut6} /jours glorieux; âge d'or/titre d'une chanson chantée pendant le mouvement pro-démocratique de Hong Kong/
 光陰 光阴 [guang1 yin1] {gwong1 jam1} /temps; un moment précieux/
 光電池 光电池 [guang1 dian4 chi2] {gwong1 din6 ci4} /cellule photovoltaïque/
@@ -2122,7 +2122,7 @@
 ????f 免禮 免礼 [mian3 li3] {min5 lai5} /(soutenu) se dispenser de formalités/
 免稅店 免稅店 [mian3 shui4 dian4] {min5 seoi3 dim3} /boutique hors-taxe/
 免罪 免罪 [mian3 zui4] {min5 zeoi6} /acquitter; gracier/
-????c 免至 免至 [mian3 zhi4] {min5 zi3} /sinon..., pour éviter que... (e.g. il faut faire les courses tôt le matin pour éviter les longues files d'attente)/
+免至 免至 [mian3 zhi4] {min5 zi3} /sinon..., pour éviter que... (e.g. il faut faire les courses tôt le matin pour éviter les longues files d'attente)/
 免費 免费 [mian3 fei4] {min5 fai3} /gratuit/
 兒 儿 [r5] {ji4} /enfant/fils/
 兒嬉 儿嬉 [er2 xi1] {ji4 hei1} /(objet) fragile; cassant; de mauvaise qualité/négligent; pas sérieux; frivole/
@@ -2137,7 +2137,7 @@
 兜住 兜住 [dou1 zhu4] {dau1 zyu6} /tenant; portant (quelque chose)/
 兜口兜面 兜口兜面 [dou1 kou3 dou1 mian4] {dau1 hau2 dau1 min6} /en face à face; en personne; directement/
 ????f 兜巴星 兜巴星 [dou1 ba1 xing1] {dau1 baa1 sing1} /gifler (particularly: in the face)/
-????c 兜搭 兜搭 [dou1 da5] {dau1 daap3} /attacher; atteler/(to solicit customers aggressively?)/(to start up a conversation with somebody?)/
+????f 兜搭 兜搭 [dou1 da5] {dau1 daap3} /racoler; vendre avec insistance; solliciter des clients de manière aggresive/
 兜篤將軍 兜笃将军 [dou1 du3 jiang1 jun5] {dau1 duk1 zoeng1 gwan1} /contre-attaquer en échecs/
 兜路 兜路 [dou1 lu4] {dau1 lou6} /faire un détour; faire un crochet/
 兜踎 兜踎 [dou1 mou2] {dau1 mau1} /(personne) mal habillé; peu soigné; sale/(endroit) sale; délabré/
@@ -2161,7 +2161,7 @@
 入席 入席 [ru4 xi2] {jap6 zik6} /prendre place; s'asseoir (à un banquet, une cérémonie, etc)/
 入廠 入厂 [ru4 chang3] {jap6 cong2} /être hospitalisé/
 入廠大修 入厂大修 [ru4 chang3 da4 xiu1] {jap6 cong2 daai6 sau1} /(fam.) (fig.) hospitalisé pour une chirurgie majeure; hospitalisé suite à un accident grave/(lit.) entrer dans l'entrepôt pour une grande réparation/
-????c 入心 入心 [ru4 xin1] {jap6 sam1} /pénétrer dans le coeur ou l'esprit (de quelqu'un)/
+????f 入心 入心 [ru4 xin1] {jap6 sam1} /(spectacle; performance) être très émouvant/(lit.) pénétrer dans le cœur/
 入數 入数 [ru4 shu4] {jap6 sou3} /déposer de l'argent; déposer un chèque/tenir quelqu'un responsable pour quelque chose; blâmer quelqu'un/
 入水 入水 [ru4 shui3] {jap6 seoi2} /(eau) entrer/(fig.) prosperité qui vient/
 入油 入油 [ru4 you2] {jap6 jau2} /ravitailler (en carburant)/
@@ -2171,7 +2171,7 @@
 入紙 入纸 [ru4 zhi3] {jap6 zi2} /faire une demande; déposer une demande/
 入罪 入罪 [ru4 zui4] {jap6 zeoi6} /reconnaître quelqu'un coupable/
 入耳 入耳 [ru4 er3] {jap6 ji5} /agréable à écouter/accepter ce que l'on a entendu/
-????c 入肉 入肉 [ru4 rou4] {jap6 juk6} /se sentir stressé ou déprimé après avoir dépensé trop d'argent/
+????f 入肉 入肉 [ru4 rou4] {jap6 juk6} /se sentir stressé ou déprimé après avoir perdu trop d'argent/(spectacle, performance) émouvant; puissant/avoir de relations sexuelles; baiser/
 ????f 入行 入行 [ru4 hang2] {jap6 hong4} /commencer une carrière dans un nouveau secteur/
 入讀 入读 [ru4 du2] {jap6 duk6} /(éducation) s'inscrire/
 入貨 入货 [ru4 huo4] {jap6 fo3} /réapprovisionner; regarnir (des produits dans un magasin)/
@@ -2187,7 +2187,7 @@
 內助 内助 [nei4 zhu4] {noi6 zo6} /(poli) nom pour une épouse/
 內含子 内含子 [nei4 han2 zi5] {noi6 ham4 zi2} /intron, une portion d'un gène qui est transcrite en ARN/
 內地 内地 [nei4 di4] {noi6 dei6} /à l'intérieur des terres/la Chine continentale/
-????c 內外交困 内外交困 [nei4 wai4 jiao1 kun4] {noi6 ngoi6 gaau1 kwan3} /(expr. idiom.) des problèmes partout/(lit.) des problèmes à l'intérieur et à l'extérieur/
+????f 內外交困 内外交困 [nei4 wai4 jiao1 kun4] {noi6 ngoi6 gaau1 kwan3} /(expr. idiom.) avoir de luttes internes et de difficultés à l'étranger/(expr. idiom.) avoir de problèmes dans la vie personnelle et au travail/(lit.) des problèmes à l'intérieur et à l'extérieur/
 內應 内应 [nei4 ying4] {noi6 jing3} /agent secret; taupe; espion/
 內服 内服 [nei4 fu2] {noi6 fuk6} /(médicament) par voie orale/
 內櫃 內柜 [na4 gui4] {noi6 gwai2} /comptable/
@@ -2201,7 +2201,7 @@
 全權處理 全权处理 [quan2 quan2 chu3 li3] {cyun4 kyun4 cyu2 lei5} /avoir pleine autorité; avoir plein pouvoir/
 全然不同 全然不同 [quan2 ran2 bu4 tong2] {cyun4 jin4 bat1 tung4} /complètement différent/
 全然不知 全然不知 [quan2 ran2 bu4 zhi1] {cyun4 jin4 bat1 zi1} /ne pas savoir du tout; n'avoir aucune idée/
-????c 全璧 全璧 [quan2 bi4] {cyun4 bik3} /non endommagé/
+全璧 全璧 [quan2 bi4] {cyun4 bik1} /(rare) (soutenu) non endommagé (voir 完璧歸趙)/
 全盒 全盒 [quan2 he2] {cyun4 hap2} /bonbonnière du Nouvel An chinois/
 全能冠軍 全能冠军 [quan2 neng2 guan4 jun1] {cyun4 nang4 gun3 gwan1} /champion universel; personne qui gagne tous les concours/ 
 ????f 全身裙 全身裙 [quan2 shen1 qun2] {cyun4 san1 kwan4} /robe d'une seule pièce/
@@ -2269,7 +2269,7 @@
 八角 八角 [ba1 jiao3] {baat3 gok3} /quatre-vingt centimes/(espèce d'arbres) Illicium verum, badanier de Chine/
 ????c 八陣圖 八阵图 [ba1 zhen4 tu2] {baat3 zan6 tou4} /Stone Sentinel Maze, une collection de grandes roches près de la rivière/
 公 公 [gong1] {gung1} /grand-père maternel/chef d'un gang ou de la mafia/mâle/public/
-????c 公一份婆一份 公一份婆一份 [gong1 yi2 fen4 po2 yi2 fen4] {gung1 jat1 fan6 po4 jat1 fan6} /(expr. idiom.) une situation où les dépenses sont partagées entre mari et femme/(lit.) au mari une part, à la femme une part/
+公一份婆一份 公一份婆一份 [gong1 yi2 fen4 po2 yi2 fen4] {gung1 jat1 fan6 po4 jat1 fan6} /(expr. idiom.) une situation où les dépenses sont partagées entre mari et femme/(lit.) au mari une part, à la femme une part/
 ????f 公主病 公主病 [gong1 zhu3 bing4] {gung1 zyu2 beng6} /syndrome de la princesse/
 公主道 公主道 [gong1 zhu3 dao4] {gung1 zyu2 dou3} /rue Princess Margaret, une rue de Hong Kong/
 公事 公事 [gong1 shi4] {gung1 si6} /affaires reliées au travail/documents officiels/
@@ -2304,13 +2304,13 @@
 公廁 公厕 [gong1ce4] {gung1 ci3} /toilettes publiques/
 公所 公所 [gong1 suo3] {gung1 so2} /(vieilli) mairie/
 公援 公援 [gong1 yuan2] {gung1 jyun4} /Comprehensive Social Security Assistance, un programme d'aide social de Hong Kong/
-????c 公數 公数 [gong1 shu4] {gung1 sou3} /budget d'une compagnie/
+公數 公数 [gong1 shu4] {gung1 sou3} /argent de la compagnie (voir aussi 出公數|出公数)/
 ????f 公死有肉食，婆死有肉食 公死有肉食，婆死有肉食 [gong1 si3 you3 rou4 shi5 , po2 si3 you3 rou4 shi5] {gung1 sei2 jau5 juk6 ji6 sik6 ，po4 sei2 jau5 juk6 sik6} /(expr. idiom.) peu importe ce qui change, les résultats seront les mêmes/(lit.) si le mari meurt, on aura de quoi manger, si la femme meurt, on aura de quoi manger/
 公民抗命 公民抗命 [gong1 min2 kang4 ming4] {gung1 man4 kong3 ming6} /désobéissance civile/
 公民教育 公民教育 [gong1 min2 jiao4 yu4] {gung1 man4 gaau3 juk6} /éducation civique/
 公民黨 公民党 [gong1 min2 dang3] {gung1 man4 dong2} /Civic Party, un parti politique à Hong Kong/
 公眾假期 公众假期 [gong1 zhong4 jia4 qi1] {gung1 zung3 gaa3 kei4} /jour férié/
-????c 公私分明 公私分明 [gong1 si1 fen1 ming2] {gung1 si1 fan1 ming4} /différencier clairement l'intérêt personnel et l'intérêt publique/
+公私分明 公私分明 [gong1 si1 fen1 ming2] {gung1 si1 fan1 ming4} /(expr.) séparer sa vie personnelle et sa vie professionelle/
 公立醫院 公立医院 [gong1 li4 yi1 yuan4] {gung1 lap6 ji1 jyun2} /hôpital public/
 公認 公认 [gong1 ren4] {gung1 jing6} /largement accepté; généralement admis/
 公道 公道 [gong1 dao5] {gung1 dou6} /juste; équitable/justice/
@@ -2347,14 +2347,14 @@
 兼且 兼且 [jian1 qie3] {gim1 ce2} /et; non seulement; mais aussi; aussi; de plus/
 兼夾 兼夹 [jian1 jia1] {gim1 gaap3} /aussi; de plus/
 兼職 兼职 [jian1 zhi2] {gim1 zik1} /travail à temps partiel/
-????c 兼開 兼开 [jian1 kai1] {gim1 hoi1} /aussi/(to open from time to time?)/
+兼開 兼开 [jian1 kai1] {gim1 hoi1} /alterner; séparer/
 兼隊 兼队 [jian1 dui4] {gim1 deoi6} /couper la file; passer devant (dans une fil d'attente)/
 冀望 冀望 [ji4 wang4] {kei3 mong6} /espérer; avoir hâte de quelque chose/
 冇 冇 [mao3] {mou5} /non/rien/
 冇乜 冇乜 [mao3 mie1] {mou5 mat1} /rien/ce n'est rien/pas très/pas en particulier/
 ????f 冇乜兩句 冇乜两句 [mao3 mie1 liang3 ju4] {mou5 mat1 loeng5 geoi3} /(des personnes) qui n'ont pas beaucoup à dire entre eux/(personnes) qui ne se connaissent pas très bien/
 冇乜嘢 冇乜嘢 [mao3 mie1 ye3] {mou5 mat1 je5} /rien/ce n'est rien/
-????c 冇乜好死 冇乜好死 [mao3 mie1 hao3 si3] {mou5 mat1 hou2 sei2} /(fam.) plus rien à craindre/(to not deserve a peaceful death)/
+????c 冇乜好死 冇乜好死 [mao3 mie1 hao3 si3] {mou5 mat1 hou2 sei2} /(fam.) plus rien à craindre/(to not deserve a peaceful death?)/
 冇乜所謂 冇乜所谓 [mao3 mie1 suo3 wei4] {mou5 mat1 so2 wai6} /ça m'est égal; peu importe; ce n'est pas important/
 冇乜滯 冇乜滞 [mao3 mie1 zhi4] {mou5 mat1 zai6} /ne pas rester beaucoup/
 冇乜點 冇乜点 [mao3 mie1 dian3] {mou5 me1 dim2} /rien de spécial; rien d'extraordinaire; rien d'anormal/
@@ -2364,7 +2364,7 @@
 冇你咁好氣 冇你咁好气 [mao3 ni3 gan1 hao3 qi4] {mou5 nei5 gam3 hou2 hei3} /(expr. idiom.) j'en ai eu assez de toi/(lit.) je n'ai pas un caractère doux comme le tien/
 冇來由 冇来由 [mao3 lai2 you2] {mou5 loi4 jau4} /insensé; illogique; contraire à la raison/
 冇修 冇修 [mao3 xiu1] {mou5 sau1} /ne pas avoir de solution; ne plus savoir quoi faire/
-????c 冇兩句 冇两句 [mao3 liang3 ju4] {mou5 loeng5 geoi3} /ne pas valoir la peine d'en parler/
+????f 冇兩句 冇两句 [mao3 liang3 ju4] {mou5 loeng5 geoi3} /(des personnes) qui n'ont pas beaucoup à dire entre eux/(personnes) qui ne se connaissent pas très bien/(voir aussi 冇乜兩句|冇乜两句)/
 冇公德心 冇公德心 [mao3 gong1 de2 xin1] {mou5 gung1 dak1 sam1} /incivisme; ne pas sentir le devoir de remplir son devoir civique/
 ????f 冇出息 冇出息 [mao3 chu1 xi5] {mou5 ceot1 sik1} /(personne) sans ambition; sans potentiel; sans perspective/
 冇厘搭霎 冇厘搭霎 [mao3 li2 da1 sha4] {mou5 lei4 daap3 saap3} /irresponsable/
@@ -2375,7 +2375,7 @@
 冇啖好食 冇啖好食 [mao3 dan4 hao3 shi2] {mou5 daam6 hou2 sik6} /(expr. idiom.) éprouver des difficultés; avoir de la difficulté à joindre les deux bouts/(lit.) rien de bon à manger/
 冇嘢 冇嘢 [mao3 ye3] {mou5 je5} /rien/ça va; je vais bien/
 冇嘢到 冇嘢到 [mao3 ye3 dao4] {mou5 je5 dou3} /(fig.) incapable; incompétent/(fig.) décevant; en deçà des attentes/(lit.) rien ne vient/
-????c 冇埞企 冇埞企 [mao3 di1 qi3] {mou5 deng6 kei5} /ne pas avoir de place pour quelqu'un/
+????f 冇埞企 冇埞企 [mao3 di1 qi3] {mou5 deng6 kei5} /se sentir dépassé (be out of one's depth, to feel that there is no place for oneself because everybody else is more skilled or knowledgeable, especially in a professional context)/(lit.) ne pas avoir de place à se tenir debout/
 冇大冇細 冇大冇细 [mao3 da4 mao3 xi4] {mou5 daai6 mou5 sai3} /qui ne connaît pas leur place; irrespectueux/(lit.) ne pas avoir de grands ni de petits/
 冇天裝 冇天装 [mao3 tian1 zhuang1] {mou5 tin1 zong1} /(quelqu'un) qui est tellement méchant, diabolique, maléfique que même Dieu ne peut pas le supporter/
 冇奈何 冇奈何 [mao3 nai4 he2] {mou5 noi6 ho4} /ne pas avoir de solution; ne plus savoir quoi faire/
@@ -2383,8 +2383,8 @@
 冇定性 冇定性 [mao3 ding4 xing4] {mou5 ding6 sing3} /(enfant) turbulent; qui ne peut pas se calmer ou se concentrer/
 冇定準 冇定准 [mao3 ding4 zhun3] {mou5 ding6 zeon2} /pas forcément; pas nécessairement/
 冇家教 冇家教 [mao3 jia1 jiao4] {mou5 gaa1 gaau3} /(personne) grossier; rustre/(lit.) ne pas avoir de famille pour enseigner (les bonnes manières)/
-????c 冇尾飛砣 冇尾飞砣 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /(expr. idiom.) (quelqu'un ou quelque chose) qui va et vient/(expr. idiom.) (quelqu'un) qui n'est pas fiable ou qui ne tient pas ses promesses/(lit.) une lancée qu'on ne retrouve pas/
-????c 冇尾飛陀 冇尾飞陀 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /(expr. idiom.) (quelqu'un ou quelque chose) qui va et vient/(expr. idiom.) (quelqu'un) qui n'est pas fiable ou qui ne tient pas ses promesses/(lit.) une lancée qu'on ne retrouve pas/
+冇尾飛砣 冇尾飞砣 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /(expr. idiom.) (quelqu'un ou quelque chose) qui va et vient/(lit.) une lancée qu'on ne retrouve pas/
+冇尾飛陀 冇尾飞陀 [mao3 wei3 fei1 tuo2] {mou5 mei5 fei1 to4} /(expr. idiom.) (quelqu'un ou quelque chose) qui va et vient/(lit.) une lancée qu'on ne retrouve pas/
 冇幾何 冇几何 [mao3 ji3 he2] {mou5 gei2 ho2} /rarement/
 冇幾耐 冇几耐 [mao3 ji3 nai4] {mou5 gei2 noi1} /en peu de temps; très vite/
 冇彎轉 冇弯转 [mao3 wan1 zhuan3] {mou5 waan1 zyun3} /(fig.) il est trop tard pour revenir en arrière; il est trop tard pour changer ce que l'on a fait/(lit.) ne pas pouvoir prendre le virage/
