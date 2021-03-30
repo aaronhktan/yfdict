@@ -2658,7 +2658,7 @@
 出水 出水 [chu1 shui3] {ceot1 seoi2} /(cuisine) blanchir/
 出水紙 出水纸 [chu1 shui3 zhi3] {ceot1 seoi2 zi2} /connaissement, le document matérialisant le contrat de transport maritime conclu entre le chargeur et le transporteur maritime/
 出汁 出汁 [chu1 zhi1] {ceot1 zap1} /très; extrêmement (voir 到出汁|到出汁)/
-????c 出污泥而不染 出污泥而不染 [chu1 wu1 ni2 er2 bu4 ran3] {ceot1 wu1 nai4 ji4 bat1 jim5} /(expr. idiom.) sortir indemne de la crasse; sortir d'une mauvaise situation sans être affectée/(expr. idiom.) rester intègre dans une situation avec beaucoup de corruption/(lit.) sortir de la terre sale sans avoir aucune tache/
+????c 出污泥而不染 出污泥而不染 [chu1 wu1 ni2 er2 bu4 ran3] {ceot1 wu1 nai4 ji4 bat1 jim5} /(expr. idiom.) sortir indemne de la crasse; sortir d'une mauvaise situation sans être affectée/(expr. idiom.) rester intègre dans un environneent de corruption généralisée/(lit.) sortir de la terre sale sans avoir aucune tache/
 ????c 出沒 出没 [chu1 mo4] {ceot1 mut6} /traîner; errer/
 ????f 出沖 出冲 [chu1 chong1] {ceot1 cung1} /(mah-jong) jeter une tuile qui permet un adversaire de gagner une partie de mah-jong (voir aussi 出銃|出铳)/
 出火 出火 [chu1 huo3] {ceot1 fo2} /(fig.) (vulg.) éjaculer/(lit.) sortir du feu/
@@ -2750,53 +2750,54 @@
 初哥 初哥 [chu1 ge1] {co1 go1} /débutant, débutante; novice/
 ????c 初嚟甫到 初嚟甫到 [chu1 li2 fu3 dao4] {co1 lai4 pou3 dou3} /c'est mon premier jour.../
 初學 初学 [chu1 xue2] {co1 hok6} /apprendre pour la première fois/
-初心 初心 [chu1 xin1] {co1 sam1} /intention initiale, intention originale/
-初戀 初恋 [chu1 lian4] {co1 lyun2} /amour d'adolescent, premier amour/
+初心 初心 [chu1 xin1] {co1 sam1} /intention initiale; intention originale/
+初戀 初恋 [chu1 lian4] {co1 lyun2} /amour d'adolescent; premier amour/
 初戀情人 初恋情人 [chu1 lian4 qing2 ren2] {co1 lyun2 cing4 jan4} /premier amant/
 初時 初时 [chu1 shi2] {co1 si4} /au début/
-初期 初期 [chu1 qi1] {co1 kei4} /première étape, première phase/
-初步 初步 [chu1 bu4] {co1 bou6} /première étape/
-初發芙蓉 初发芙蓉 [chu1 fa1 fu2 rong2] {co1 faat3 fu4 jung4} /poème rafraîchissant/très belle femme/
-初級 初级 [chu1 ji2] {co1 kap1} /premier échelon, débutant/  
+初期 初期 [chu1 qi1] {co1 kei4} /première étape; première phase/
+初步 初步 [chu1 bu4] {co1 bou6} /préliminaire/
+????c 初發芙蓉 初发芙蓉 [chu1 fa1 fu2 rong2] {co1 faat3 fu4 jung4} /poème rafraîchissant/très belle femme/
+初級 初级 [chu1 ji2] {co1 kap1} /débutant; de base; élementaire/(travail) junior/
 初級班 初级班 [chu1 ji2 ban1] {co1 kap1 baan1} /cours débutant/
 初速度 初速度 [chu1 su4 du4] {co1 cuk1 dou6} /vitesse initiale/
-判例 判例 [pan4 li4] {pun3 lai6} /(loi) un précédent/
+判例 判例 [pan4 li4] {pun3 lai6} /(droit) précédent; jurisprudence/
 判斷 判断 [pan4 duan4] {pun3 dyun6} /juger/
-判決 判决 [pan4 jue2] {pun3 kyut3} /verdict/
-判決書 判决书 [pan4 jue2 shu1] {pun3 kyut3 syu1} /jugement/rapport du juge/
-判罪 判罪 [pan4 zui4] {pun3 zeoi6} /reconnaître quelqu'un coupable/
-判頭 判头 [pan4 tou2] {pun3 tau4} /employé contractuel/
-別 别 [bie2] {bit6} /au revoir/
-別具匠心 别具匠心 [bie2 ju4 jiang4 xin1] {bit6 geoi6 zoeng6 sam1} /avoir de l'originalité/avoir un habileté et esprit artistique/
-別有風味 别有风味 [bie2 you3 feng1 wei4] {bit6 jau5 fung1 mei6} /avoir un saveur distinctif/
-刨 刨 [pao2] {paau4} /taille-(crayon)/éplucheur (de légumes et fruits)/rasoir/éplucher/(fig.) étudier de manière déterminée/
-刨冬瓜 刨冬瓜 [pao2 dong1 gua1] {paau4 dung1 gwaa1} /(expr. idiom.) parler le mandarin avec un accent cantonais/(lit.) éplucher une courge cireuse/
-刨書 刨书 [pao2 shu1] {paau4 syu1} /étudier de manière déterminée/
-利便 利便 [li4 bian4] {lei6 bin6} /laxatif/avantage/
+判決 判决 [pan4 jue2] {pun3 kyut3} /(droit) verdict; jugement/
+????f 判決書 判决书 [pan4 jue2 shu1] {pun3 kyut3 syu1} /(droit) décision écrite; jugement écrit/
+判罪 判罪 [pan4 zui4] {pun3 zeoi6} /reconnaître quelqu'un coupable; déclarer quelqu'un coupable/
+????c 判頭 判头 [pan4 tou2] {pun3 tau2} /employé contractuel/
+別 别 [bie2] {bit6} /ne pas/partir/
+別具匠心 别具匠心 [bie2 ju4 jiang4 xin1] {bit6 geoi6 zoeng6 sam1} /(expr.) faire preuve d'ingénuité/
+????c 別有風味 别有风味 [bie2 you3 feng1 wei4] {bit6 jau5 fung1 mei6} /avoir un saveur distinctif/
+刨 刨 [pao2] {paau4} /tailler/éplucher/(fig.) bachoter (voir aussi 刨書|刨书)/
+刨 刨 [pao2] {paau2} /taille-(crayon)/éplucheur (de légumes et fruits)/rasoir/
+刨冬瓜 刨冬瓜 [pao2 dong1 gua1] {paau4 dung1 gwaa1} /(expr. idiom.) parler le mandarin avec un accent cantonais/(lit.) éplucher une courge cireuse/(orig.) de la prononciation du mot 普通話|普通话 (« mandarin standard »), qui se prononce « pu3 tong1 hua4 » en mandarin/
+刨書 刨书 [pao2 shu1] {paau4 syu1} /(fig.) bachoter/(lit.) tailler les livres/
+利便 利便 [li4 bian4] {lei6 bin6} /pratique; commode/
 利偉倫 利伟伦 [li4 wei3 lun2] {lei6 wai5 leon4} /Lee Wai Lun, footballeur hongkongais/
 利利是是 利利是是 [li4 li4 shi4 shi4] {lei6 lei6 si6 si6} /(expression qui s'emploie pour souhaiter à quelqu'un une situation ou voyage sans difficultés)/
 利口 利口 [li4 kou3] {lei6 hau2} /Lee Wai Lun, un footballeur hongkongais/
-利口不利腹 利口不利腹 [li4 kou3 bu4 li4 fu4] {lei6 hau2 bat1 lei6 fuk1} /appétissant ou savoureux mais malsain/
-利口唔利腹 利口唔利腹 [li4 kou3 n2 li4 fu4] {lei6 hau2 m4 lei6 fuk1} /appétissant ou savoureux mais malsain/
-利害 利害 [li4 hai5] {lei6 hoi6} /avantages et inconvénients/
-利市 利市 [li4 shi4] {lei6 si5} /bonne chance/
-利是 利是 [li4 shi4] {lei6 si6} /enveloppe rouge, paquet rouge, un don d'argent traditionnel chinois réalisé dans une enveloppe rouge/
-利是封 利是封 [li4 shi4 feng1] {lei6 si6 fung1} /enveloppe rouge, paquet rouge, un don d'argent traditionnel chinois réalisé dans une enveloppe rouge/
+????f 利口不利腹 利口不利腹 [li4 kou3 bu4 li4 fu4] {lei6 hau2 bat1 lei6 fuk1} /appétissant ou savoureux mais malsain/
+????f 利口唔利腹 利口唔利腹 [li4 kou3 n2 li4 fu4] {lei6 hau2 m4 lei6 fuk1} /appétissant ou savoureux mais malsain/
+利害 利害 [li4 hai5] {lei6 hoi6} /intense/superbe; fantastique; formidable/avantages et inconvénients/
+利市 利市 [li4 shi4] {lei6 si5} /bonne fortune; bonne augure/enveloppe rouge; paquet rouge, un don d'argent traditionnel chinois réalisé dans une enveloppe rouge/
+利是 利是 [li4 shi4] {lei6 si6} /enveloppe rouge; paquet rouge, un don d'argent traditionnel chinois réalisé dans une enveloppe rouge/
+利是封 利是封 [li4 shi4 feng1] {lei6 si6 fung1} /enveloppe rouge; paquet rouge, un don d'argent traditionnel chinois réalisé dans une enveloppe rouge/
 利智 利智 [li4 zhi4] {lei6 zi3} /Nina Li, actrice hongkongaise/
-利東街 利东街 [li4 Dong1 jie1] {lei6 dung1 gaai1} /rue Lee Tung, aussi connu sous le nom de Wedding Card Street, à Wan Chai, Hong Kong/
-利誘 利诱 [li4 you4] {lei6 jau5} /attirer quelqu'un avec un pot-de-vin/
-刪改 删改 [shan1 gai3] {saan1 goi2} /enlever et réviser/
-刪繁就簡 删繁就简 [shan1 fan2 jiu4 jian3] {saan1 faan4 zau6 gaan2} /simplifier en enlevant ce qui n'est pas nécessaire/
-刮 刮 [gua1] {gwaat3} /spatule/
-刮削 刮削 [gua1 xiao1] {gwaat3 soek3} /exploiter/prendre l'argent des pauvres/
-刮友 刮友 [gua1 you3] {gwaat3 jau5} /chercher ou traquer quelqu'un pour la vengeance/
-刮料 刮料 [gua1 liao4] {gwaat3 liu2} /se procurer des renseignements/
-刮沙 刮沙 [gua1 sha1] {gwaat3 saa1} /Gua sha, un médicament de la médicine traditionelle chinoise/
-刮粗龍 刮粗龙 [gua1 cu1 long2] {gwaat3 cou1 lung4} /(fig.) gagner beaucoup d'argent illégalement/(lit.) égratigner un grand dragon/ 
-刮花 刮花 [gua1 hua1] {gwaat3 faa1} /érafler, égratigner/
-刮龍 刮龙 [gua1 long2] {gwaat3 lung2} /corruption/pot-de-vin/
+利東街 利东街 [li4 dong1 jie1] {lei6 dung1 gaai1} /rue Lee Tung, aussi connu sous le nom de Wedding Card Street, rue à Wan Chai, Hong Kong/
+????f 利誘 利诱 [li4 you4] {lei6 jau5} /séduire par l'appât du gain/
+刪改 删改 [shan1 gai3] {saan1 goi2} /réviser/
+刪繁就簡 删繁就简 [shan1 fan2 jiu4 jian3] {saan1 faan4 zau6 gaan2} /simplifier en enlevant ce qui n'est pas nécessaire; enlever le superflu/
+刮 刮 [gua1] {gwaat3} /gratter; racler/raser/(vent) souffler/exploiter; abuser/chercher (quelqu'un) (voir aussi 刮友|刮友)/spatule/
+刮削 刮削 [gua1 xiao1] {gwaat3 soek3} /(fig.) exploiter; abuser/(fig.) détourner (de l'argent)/(lit.) racler/
+????f 刮友 刮友 [gua1 you3] {gwaat3 jau2} /chercher ou traquer quelqu'un pour se venger de lui/
+????f 刮料 刮料 [gua1 liao4] {gwaat3 liu2} /(fig.) se procurer des renseignements; recueillir des preuves/(lit.) racler des informations/
+刮沙 刮沙 [gua1 sha1] {gwaat3 saa1} /Gua sha, médicament de la médicine traditionelle chinoise/
+????f 刮粗龍 刮粗龙 [gua1 cu1 long2] {gwaat3 cou1 lung4} /(fig.) gagner beaucoup d'argent par de moyens illégaux/(lit.) racler un grand dragon/ 
+刮花 刮花 [gua1 hua1] {gwaat3 faa1} /érafler; égratigner/
+????f 刮龍 刮龙 [gua1 long2] {gwaat3 lung2} /(fig.) accepter des pots-de-vin/(fig.) gagner de l'argent par de moyens illégaux/(lit.) racler le dragon (voir aussi 鹹龍|鹹龙)/
 到 到 [dao4] {dou3} /atteindre/
-到其時 到其时 [dao4 qi2 shi2] {dou3 kei4 si4} /d'ici là/jusqu'à ce temps-là/quand viendra le temps/
+到其時 到其时 [dao4 qi2 shi2] {dou3 kei4 si4} /quand le moment sera venu/
 到喉唔到肺 到喉唔到肺 [dao4 hou2 m2 dao4 fei4] {dou3 hau4 m4 dou3 fai3} /(expr. idiom.) quelque chose qui ne satisfait pas les besoins/(expr. idiom.) ne pas manger assez, manger mais toujours avoir faim/(lit.) manger la gorge mais ne pas arriver aux poumouns/
 到埗 到埗 [dao4 bu4] {dou3 bou6} /arriver, parvenir à sa destination/
 到埠 到埠 [dao4 bu4] {dou3 fau6} /arriver, parvenir à sa destination/
