@@ -2698,55 +2698,57 @@
 刀字邊 刀字边 [dao1 zi4 bian1] {dou1 zi6 bin1} /radical « couteau », 刀/
 刀柄 刀柄 [dao1 bing3] {dou1 beng3} /manche du couteau/poignée d'une épée/
 刁 刁 [diao1] {diu1} /(nourriture) fine bouche; difficile (voir aussi 刁喬扭擰|刁乔扭拧)/
-刁僑扭擰 刁侨扭拧 [diao1 qiao2 niu3 ning2] {diu1 kiu4 nau2 ning6} /gâté, mal élevé/
-刁喬扭擰 刁乔扭拧 [diao1 qiao2 niu3 ning2] {diu1 kiu4 nau2 ling2 ling6} /difficile, exigeant, avoir un haut niveau d'exigeance/
-刁士 刁士 [diao1 shi4] {diu1 si6} /égalité (tennis)/
-刁時 刁时 [diao1 shi2] {diu1 si4} /égalité (tennis)/
-刁蠻 刁蛮 [diao1 man2] {diu1 maan4} /autoritaire, obstiné/
-分分鐘 分分钟 [fen1 fen1 zhong1] {fan1 fan1 zung1} /à chaque minute/tout le temps/toujours/à tout instant/
+????c 刁僑扭擰 刁侨扭拧 [diao1 qiao2 niu3 ning2] {diu1 kiu4 nau2 ning6} /(expr.) hésiter entre deux choix/
+????c 刁喬扭擰 刁乔扭拧 [diao1 qiao2 niu3 ning2] {diu1 kiu4 nau2 ning6} /(expr.) hésiter entre deux choix/
+刁士 刁士 [diao1 shi4] {diu1 si6} /(tennis) égalité/(orig.) de l'anglais « deuce » (« égalité (tennis) »)/
+刁時 刁时 [diao1 shi2] {diu1 si4} /(tennis) égalité/(orig.) de l'anglais « deuce » (« égalité (tennis) »)/
+刁蠻 刁蛮 [diao1 man2] {diu1 maan4} /(femme ou enfant) autoritaire; obstiné/
+分分鐘 分分钟 [fen1 fen1 zhong1] {fan1 fan1 zung1} /à chaque minute; tout le temps; toujours/à tout instant; n'importe quand/
 分子結構 分子结构 [fen1 zi3 jie2 gou4] {fan6 zi2 git3 gau3} /géometrie moléculaire/
-分式 分式 [fen1 shi4] {fan6 sik1} /fraction/
+分式 分式 [fen1 shi4] {fan6 sik1} /(mathématiques) fraction/
 分式方程 分式方程 [fen1 shi4 fang1 cheng2] {fan6 sik1 fong1 cing4} /équation avec fractions/
 分得出 分得出 [fen1 de5 chu1] {fan1 dak1 ceot1} /qui peut être distingué/
-分我杯羹 分我杯羹 [fen1 wo3 bei1 geng1] {fan1 ngo5 bui1 gang1} /partage de bénifices/
-分散 分散 [fen1 san4] {fan1 saan3} /distraire/séparer/décentralization/diversification/
-分數 分数 [fen1 shu4] {fan1 sou3} /capable/prévu, planifié/
-分甘同味 分甘同味 [fen1 gan1 tong2 wei4] {fan1 gam1 tung4 mei6} /partager le bonheur et les bonnes choses/
+分我杯羹 分我杯羹 [fen1 wo3 bei1 geng1] {fan1 ngo5 bui1 gang1} /(expr. idiom.) partage de bénifices/(lit.) partager mon verre et ma cuillère/
+分散 分散 [fen1 san4] {fan1 saan2} /distraire/disperser; séparer; décentraliser/
+????c 分數 分数 [fen1 shu4] {fan1 sou3} /capable (?)/prévu, planifié (?)/plan; stratégie (?)/
+分數 分数 [fen1 shu4] {fan6 sou3} /(mathématiques) fraction/
+????f 分甘同味 分甘同味 [fen1 gan1 tong2 wei4] {fan1 gam1 tung4 mei6} /partager le bonheur et les bonnes choses/
 分粉訓墳憤份 分粉训坟愤份 [fen1 fen3 xun4 fen2 fen4 fen4] {fan1 fan2 fan3 fan4 fan5 fan6} /(une expression qui démontre les six tons de cantonais)/
 分粉訓墳憤份忽發佛 分粉训坟愤份忽发佛 [fen1 fen3 xun4 fen2 fen4 fen4 hu1 fa1 fo2] {fan1 fan2 fan3 fan4 fan5 fan6 fat1 faat3 fat6} /(une expression qui démontre les neuf tons de cantonais)/
-分線 分线 [fen1 xian4] {fan1 sin3} /bifurcation/
-分豬肉 分猪肉 [fen1 zhu1 rou4] {fan1 zyu1 juk6} /(expr. idiom.) répartir également/(lit.) répartir le porc/
-分身乏術 分身乏术 [fen1 shen1 fa2 shu4] {fan1 san1 fat6 seot6} /occupé avec le travail/
-分門別類 分门别类 [fen1 men2 bie2 lei4] {fan1 mun4 bit6 leoi6} /catégoriser/
-分開 分开 [fen1 kai1] {fan1 hoi1} /diviser/
-分離 分离 [fen1 li2] {fan1 lei4} /fendre/
+????c 分線 分线 [fen1 xian4] {fan1 sin3} /bifurcation/
+????f 分豬肉 分猪肉 [fen1 zhu1 rou4] {fan1 zyu1 juk6} /(expr. idiom.) tout le monde reçoit un prix; chaque participant reçoit un prix, peu importe sa performance/(lit.) répartir le porc/
+分身乏術 分身乏术 [fen1 shen1 fa2 shu4] {fan1 san1 fat6 seot6} /(expr. idiom.) être très occupé avec le travail/
+分門別類 分门别类 [fen1 men2 bie2 lei4] {fan1 mun4 bit6 leoi6} /catégoriser; classifier/
+分開 分开 [fen1 kai1] {fan1 hoi1} /diviser; séparer/
+分離 分离 [fen1 li2] {fan1 lei4} /séparer; isoler/
 分類廣告 分类广告 [fen1 lei4 guang3 gao4] {fan1 leoi6 gwong2 gou3} /petites annonces/
-分餅仔 分饼仔 [fen1 bing3 zi3] {fan1 beng2 zai2} /(fig.) truquage des offres, soumettre des offres qui ont été décidées à l’avance/(fig.) répartir également entre les membres d'un groupe/(lit.) partager les petits biscuits/
+????f 分餅仔 分饼仔 [fen1 bing3 zi3] {fan1 beng2 zai2} /(fig.) truquage des offres; soumettre des offres qui ont été décidées à l’avance/(fig.) répartir également entre les membres d'un groupe/(lit.) partager les petits biscuits/
 切 切 [qie4] {cit3} /couper/hacher/tout/
-切削力 切削力 [qie1 xiao1 li4] {cit3 soek3 lik6} /force du coupe/
-切割機 切割机 [qie1 ge1 ji1] {cit3 got3 gei1} /machine à couper/
-切勿 切勿 [qie4 wu4] {cit3 mat6} /ne doit pas/
-切奶 切奶 [qie4 nai3] {cit3 naai5} /type de danse en Thaïlande/
-切絲 切丝 [qie1 si1] {cit3 si1} /couper en lanières, déchiqueter, mettre en lambeaux/
-切肉不離皮 切肉不离皮 [qie1 rou4 bu4 li2 pi2] {cit3 juk6 bat1 lei4 pei4} /(expr. idiom.) inséparable/(lit.) ne pas pouvoir séparer la peau de la viande/
+切 切 [qie4] {cai3} /tout/
+切削力 切削力 [qie1 xiao1 li4] {cit3 soek3 lik6} /force de coupe/
+切割機 切割机 [qie1 ge1 ji1] {cit3 got3 gei1} /machine de découpe/
+切勿 切勿 [qie4 wu4] {cit3 mat6} /(soutenu) ne pas/
+????c 切奶 切奶 [qie4 nai3] {cit3 naai5} /forme de danse thaïlandaise/
+切絲 切丝 [qie1 si1] {cit3 si1} /couper en lanières/
+????c 切肉不離皮 切肉不离皮 [qie1 rou4 bu4 li2 pi2] {cit3 juk6 bat1 lei4 pei4} /(expr. idiom.) inséparable/(lit.) ne pas pouvoir séparer la peau de la viande/
 切菜 切菜 [qie1 cai4] {cit3 coi3} /couper les légumes/
-切身利益 切身利益 [qie4 shen1 li4 yi4] {cit3 san1 lei6 jik1} /interêt personnel, intérêt dans quelque chose qui affecte quelqu'un directement/
-切醋 切醋 [qie4 cu4] {cit3 cou3} /vinaigre rouge foncé chinois/
-切開 切开 [qie1 kai1] {cit3 hoi1} /couper, trancher, séparer quelque chose d'une autre/
-切餸 切餸 [qie4 song4] {cit3 sung3} /couper les légumes/
-刉 刉 [ji1] {gei1} /couper/
-刑事 刑事 [xing2shi4] {jing4 si6} /crime/
-刖刑 刖刑 [yue4 xing2] {jyut6 jing4} /châtiment dans la Chine antique, couper les jambes de quelqu'un/
-列 列 [lie4] {lit6} /énumérer, lister/afficher, montrer/(classificateur pour les trains)/
-列斯 列斯 [Lie4 Si1] {lit6 si1} /Leeds United Association Football Club/
+????f 切身利益 切身利益 [qie4 shen1 li4 yi4] {cit3 san1 lei6 jik1} /interêt personnel; intérêt dans quelque chose qui affecte quelqu'un directement/
+????f 切醋 切醋 [qie4 cu4] {cit3 cou3} /vinaigre rouge foncé chinois, originalement de la province de Zhejiang/
+切開 切开 [qie1 kai1] {cit3 hoi1} /couper; trancher; séparer quelque chose d'une autre/
+????c 切餸 切餸 [qie4 song4] {cit3 sung3} /couper les légumes (only vegetables, or could this be any kind of side food?)/
+????c 刉 刉 [ji1] {gei1} /couper/
+刑事 刑事 [xing2shi4] {jing4 si6} /criminel; pénal/
+????f 刖刑 刖刑 [yue4 xing2] {jyut6 jing4} /châtiment de la Chine antique: couper les jambes de quelqu'un/
+列 列 [lie4] {lit6} /énumérer; lister/afficher; montrer/(classificateur pour les trains)/
+列斯 列斯 [lie4 Si1] {lit6 si1} /Leeds United Association Football Club/
 列祖列宗 列祖列宗 [lie4 zu3 lie4 zong1] {lit6 zou2 lit6 zung1} /ancêtres/
-初一流流 初一流流 [chu1 yi1 liu2 liu2] {co1 jat1 lau4 lau4} /bonheur des fêtes du Nouvel An/
+????c 初一流流 初一流流 [chu1 yi1 liu2 liu2] {co1 jat1 lau4 lau4} /bonheur des fêtes du Nouvel An/
 初不初 初不初 [chu1 bu4 chu1] {co1 bat1 co1} /au début/
-初交 初交 [chu1 jiao1] {co1 gaau1} /nouvelle connaissance/
+????f 初交 初交 [chu1 jiao1] {co1 gaau1} /nouvelle connaissance; nouvelle rencontre/
 初初 初初 [chu1 chu1] {co1 co1} /au début/
 初吻 初吻 [chu1 wen3] {co1 man5} /premier baiser/
-初哥 初哥 [chu1 ge1] {co1 go1} /débutant/
-初嚟甫到 初嚟甫到 [chu1 li2 fu3 dao4] {co1 lai4 pou3 dou3} /qui vient juste d'arriver/
+初哥 初哥 [chu1 ge1] {co1 go1} /débutant, débutante; novice/
+????c 初嚟甫到 初嚟甫到 [chu1 li2 fu3 dao4] {co1 lai4 pou3 dou3} /c'est mon premier jour.../
 初學 初学 [chu1 xue2] {co1 hok6} /apprendre pour la première fois/
 初心 初心 [chu1 xin1] {co1 sam1} /intention initiale, intention originale/
 初戀 初恋 [chu1 lian4] {co1 lyun2} /amour d'adolescent, premier amour/
