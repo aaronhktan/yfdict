@@ -3388,8 +3388,8 @@
 參事 参事 [can1 shi4] {caam1 si6} /conseiller, conseillère/
 參考書目 参考书目 [can1 kao3 shu1 mu4] {caam1 haau2 syu1 muk6} /bibliographie/
 參與 参与 [can1 yu4] {caam1 jyu6} /participer/
-????c 參詳 参详 [can1 xiang2] {caam1 coeng4} /étudier et utiliser comme modèle/
-????f 參閲 参阅 [can1 yue4] {caam1 jyut6} /lire et utiliser comme référence/
+參詳 参详 [can1 xiang2] {caam1 coeng4} /examiner attentivement; étudier soigneusement/
+參閲 参阅 [can1 yue4] {caam1 jyut6} /lire et utiliser comme référence/
 ????c 又 又 [you4] {jau6} /« et », dans les fractions; e.g. un-et-demi/
 又…又盛 又…又盛 [you4 … you4 sheng4] {jau6 … jau6 sing6} /et ceci... et cela.../
 又一城 又一城 [you4 yi1 cheng2] {jau6 jat1 sing4} /Festival Walk, un centre commercial situé dans la ville de Hong Kong/
@@ -3399,55 +3399,55 @@
 又係噃 又系噃 [you4 xi4 bo5] {jau6 hai6 bo3} /c'est vrai aussi; ah ouais (pour indiquer son accord)/
 又平又靚 又平又靓 [you4 ping2 you4 jing4] {jau6 peng4 jau6 leng3} /(expr.) de bonne qualité et pas cher/
 又是 又是 [you4 shi4] {jau6 si6} /(être) aussi/
-又要 又要 [you4 yao4] {jau6 jiu3} /vouloir aussi/avoir aussi besoin de (quelque chose)/
+又要 又要 [you4 yao4] {jau6 jiu3} /vouloir aussi; avoir aussi besoin de (quelque chose)/
 又試 又试 [you4 shi4] {jau6 si3} /une fois de plus/essayer encore/
 又話 又话 [you4 hua4] {jau6 waa6} /dire aussi/n'as-tu pas dit que.../
-又點話 又点话 [you4 dian3 hua4] {jau6 dim2 waa6} /pas de problème/n'importe/ça ne me fait rien/
-叉 叉 [cha1] {caa1} /embrocher/planter (quelque chose) dans (qqch)/étrangler avec ses mains/
-叉燒腸 叉烧肠 [cha1 shao1 chang2] {caa1 siu1 coeng4} /rouleau de nouille de riz de char siu/
-叉燒酥 叉烧酥 [cha1 shao1 su1] {caa1 siu1 sou1} /patisserie de char siu/
-叉燒飯 叉烧饭 [cha1 shao1 fan4] {caa1 siu1 faan6} /riz avec char siu/
-叉燒餐包 叉烧餐包 [cha1 shao1 can1 bao1] {caa1 siu1 caan1 baau1} /cha siu bao, petit pain de barbecue de porc/
-叉電 叉电 [cha1 dian4] {caa1 din6} /recharger (une pile)/
-及 及 [ji2] {kap6} /valoir, mettre à la hauteur de/rattraper/
-及得上 及得上 [ji2 de2 shang4] {kap6 dak1 soeng5} /peut être considéré comme.../aussi bien que/
-及第粥 及第粥 [ji2 di4 zhou1] {kap6 dai6 zuk1} /congee avec du porc, foie, et reins/
-友 友 [you3] {jau5} /quelqu'un/amitié/
-友仔 友仔 [you3 zi3] {jau2 zai2} /(fam.) gars, gosse, mec/
-友誼比賽 友谊比赛 [you3 yi4 bi3 sai4] {jau5 ji4 bei2 coi3} /compétition amicale/
-反串 反串 [fan3 chuan4] {faan2 cyun3} /rôles travestis/
+又點話 又点话 [you4 dian3 hua4] {jau6 dim2 waa6} /ce n'est pas un problème; ça ne me fait rien/
+叉 叉 [cha1] {caa1} /embrocher/planter (quelque chose) dans (quelque chose)/recharger (des batteries)/
+叉燒腸 叉烧肠 [cha1 shao1 chang2] {caa1 siu1 coeng4} /rouleau de nouille de riz au char siu/
+叉燒酥 叉烧酥 [cha1 shao1 su1] {caa1 siu1 sou1} /patisserie à char siu/
+????f 叉燒飯 叉烧饭 [cha1 shao1 fan4] {caa1 siu1 faan6} /riz à char siu/
+????f 叉燒餐包 叉烧餐包 [cha1 shao1 can1 bao1] {caa1 siu1 caan1 baau1} /cha siu bao, petit pain à char siu/
+叉電 叉电 [cha1 dian4] {caa1 din6} /recharger (des batteries)/
+及 及 [ji2] {kap6} /et/atteindre; parvenir à/
+及得上 及得上 [ji2 de2 shang4] {kap6 dak1 soeng5} /qui peut se comparer avec/
+????f 及第粥 及第粥 [ji2 di4 zhou1] {kap6 dai6 zuk1} /congee au porc, foie, et reins/
+友 友 [you3] {jau5} /ami/(fam.) gars; type; mec/
+友仔 友仔 [you3 zi3] {jau2 zai2} /(fam.) gars; type; mec/
+友誼比賽 友谊比赛 [you3 yi4 bi3 sai4] {jau5 ji4 bei2 coi3} /compétition amicale; match amical/
+????f 反串 反串 [fan3 chuan4] {faan2 cyun3} /interpréter un personnage d'un autre sexe/
 反仰 反仰 [fan3 yang3] {faan2 ngong5} /s'allonger sur le dos/
-反作用力 反作用力 [fan3 zuo4 yong4 li4] {faan2 zok3 jung6 lik6} /réaction/
-反動 反动 [fan3 dong4] {faan2 dung6} /réactionnaire/révolution/
-反口覆舌 反口复舌 [fan3 kou3 fu4 she2] {faan2 hau2 fuk1 sit6} /revenir sur sa parole, ne pas tenir une promesse/
-反射定律 反射定律 [fan3 she4 ding4 lü4] {faan2 se6 ding6 leot6} /loi de la réflexion (de lumière)/
+????f 反作用力 反作用力 [fan3 zuo4 yong4 li4] {faan2 zok3 jung6 lik6} /(physique) réaction; force qui s'oppose à une autre force/
+反動 反动 [fan3 dong4] {faan2 dung6} /réactionnaire/
+反口覆舌 反口复舌 [fan3 kou3 fu4 she2] {faan2 hau2 fuk1 sit6} /(expr. idiom.) revenir sur sa parole; ne pas tenir une promesse/(lit.) renverser la bouche et revenir sur la langue/
+反射定律 反射定律 [fan3 she4 ding4 lu:4] {faan2 se6 ding6 leot6} /loi de la réflexion (de lumière)/
 反應器 反应器 [fan3 ying4 qi4] {faan2 jing3 hei3} /réacteur/
-反抗 反抗 [fan3 kang4] {faan2 kong3} /contre/se rébeller, se révolter/
-反斗 反斗 [fan3 dou4] {faan2 dau2} /espiègle/
+反抗 反抗 [fan3 kang4] {faan2 kong3} /se rébeller; se révolter/
+反斗 反斗 [fan3 dou4] {faan2 dau2} /espiègle; coquin; vilain/
 反斗星 反斗星 [fan3 dou4 xing1] {faan2 dau2 sing1} /enfant vilain/
-反方 反方 [fan3 fang1] {faan2 fong1} /opposition/
-反清復明 反清复明 [fan3 qing1 fu4 ming2] {faan2 cing1 fuk6 ming4} /se révolter contre la dynastie Qing pour rétablir la dynastie Ming/
+反方 反方 [fan3 fang1] {faan2 fong1} /(dans un débat) opposition/
+反清復明 反清复明 [fan3 qing1 fu4 ming2] {faan2 cing1 fuk6 ming4} /(expr.) se révolter contre la dynastie Qing pour rétablir la dynastie Ming/
 反為 反为 [fan3 wei2] {faan2 wai4} /en revanche; par contre/
 反璞歸真 反璞归真 [fan3 pu2 gui1 zhen1] {faan2 pok3 gwai1 zan1} /retourner à la simplicité originale/
-反瞓 反瞓 [fan3 fen4] {faan2 fan3} /dormir sur le ventre/
-反胃 反胃 [fan3 wei4] {faan2 wai6} /dégeulasse, dégoûtant, horrible/
-反覆無常 反复无常 [fan3 fu4 wu2 chang2] {faan2 fuk1 mou4 soeng4} /imprévisible, incohérent/
-反轉豬肚 反转猪肚 [fan3 zhuan3 zhu1 du3] {faan2 zyun3 zyu1 tou5} /(expr. idiom.) avoir l'air bien à l'extérieur, mais qui révèle un côté malveillant en un instant/(lit.) retourner l'estomac d'un cochon/
-反轉豬肚就係屎 反转猪肚就系屎 [fan3 zhuan3 zhu1 du3 jiu4 xi4 shi3] {faan2 zyun3 zyu1 tou5 zau6 hai6 si2} /(expr. idiom.) une relation qui tourne mal après une dispute/(lit.) après avoir retourné l'estomac d'un cochon, c'est de la merde/
-反轉豬肚就是屎 反转猪肚就是屎 [fan3 zhuan3 zhu1 du3 jiu4 shi4 shi3] {faan2 zyun3 zyu1 tou5 zau6 si6 si2} /(expr. idiom.) une relation qui tourne mal après une dispute/(lit.) après avoir retourné l'estomac d'un cochon, c'est de la merde/
-反面 反面 [fan3 mian4] {faan2 min6} /se séparer, rompre, casser/
-反面教材 反面教材 [fan3 mian4 jiao4 cai2] {faan2 min6 gaau3 coi4} /punition positive, apprendre à cause d'une expérience négative/
-???? 反領 反领 [fan3 ling3] {faan2 leng5} /col remonté/
-反骨 反骨 [fan3 gu3] {faan2 gwat1} /ingrat, peu reconnaissant/
-反骨仔 反骨仔 [fan3 gu3 zi3] {faan2 gwat1 zai2} /traitre, quelqu'un déloyal, infidèle/
-反鬥 反斗 [fan3 dou4] {faan2 dau3} /vilain/
-反黑組 反黑组 [fan3 hei1 zu3] {faan2 hak1 zou2} /brigade de district anti-triade/
-叔仔 叔仔 [shu1 zi3] {suk1 zi2} /oncle, frère cadet du père/
-???? 叔姪縮窒 叔侄缩窒 [shu2 zhi2 suo1 zhi4] {suk1 zat6 suk1 zat6} /describes a situation when someone back out of something out of stinginess and got away with not having to even spend a penny /
-叔父 叔父 [shu1 fu4] {suk1 fu6} /sénior, supérieur (habituellement pour les gangs)/
-叔記 叔记 [shu1 ji4] {suk1 gei3} /expression pour appeler un homme dont le nom on ne connaît pas/
-取之不盡 取之不尽 [qu3 zhi1 bu4 jin4] {ceoi2 zi1 bat1 zeon6} /inépuisable, avoir beaucoup de ressources naturelles/
-取代 取代 [qu3 dai4] {ceoi2 doi6} /substituer/
+反瞓 反瞓 [fan3 fen4] {faan2 fan3} /avoir un sommeil agité; se tourner et retourner dans son lit/
+反胃 反胃 [fan3 wei4] {faan2 wai6} /dégueulasse; dégoûtant; horrible; révoltant/
+反覆無常 反复无常 [fan3 fu4 wu2 chang2] {faan2 fuk1 mou4 soeng4} /(expr.) imprévisible; capricieux; peu fiable/
+????f 反轉豬肚 反转猪肚 [fan3 zhuan3 zhu1 du3] {faan2 zyun3 zyu1 tou5} /(expr. idiom.) (des amis) devenir des ennemis après une dispute/(lit.) retourner l'estomac d'un cochon/
+????f 反轉豬肚就係屎 反转猪肚就系屎 [fan3 zhuan3 zhu1 du3 jiu4 xi4 shi3] {faan2 zyun3 zyu1 tou5 zau6 hai6 si2} /(expr. idiom.) (des amis) devenir des ennemis après une dispute/(lit.) après avoir retourné l'estomac d'un cochon, c'est de la merde/
+反轉豬肚就是屎 反转猪肚就是屎 [fan3 zhuan3 zhu1 du3 jiu4 shi4 shi3] {faan2 zyun3 zyu1 tou5 zau6 si6 si2} /(expr. idiom.) (des amis) devenir des ennemis après une dispute/(lit.) après avoir retourné l'estomac d'un cochon, c'est de la merde/
+反面 反面 [fan3 mian4] {faan2 min2} /couper les ponts; rompre les relations avec quelqu'un/
+反面教材 反面教材 [fan3 mian4 jiao4 cai2] {faan2 min6 gaau3 coi4} /(expr.) exemple à ne pas suivre/
+????f 反領 反领 [fan3 ling3] {faan2 leng5} /col remonté/
+反骨 反骨 [fan3 gu3] {faan2 gwat1} /traître; déloyal; infidèle/
+反骨仔 反骨仔 [fan3 gu3 zi3] {faan2 gwat1 zai2} /traître; une personne déloyale; une personne infidèle/
+反鬥 反斗 [fan3 dou4] {faan2 dau3} /(enfant) espiègle; coquin; vilain/
+????f 反黑組 反黑组 [fan3 hei1 zu3] {faan2 hak1 zou2} /brigade de district anti-triade (unité de police à Hong Kong)/
+叔仔 叔仔 [shu1 zi3] {suk1 zi2} /oncle; frère cadet du père/
+????c 叔姪縮窒 叔侄缩窒 [shu2 zhi2 suo1 zhi4] {suk1 zat6 suk1 zat6} /describes a situation when someone back out of something out of stinginess and got away with not having to even spend a penny /
+????f 叔父 叔父 [shu1 fu4] {suk1 fu6} /sénior; supérieur (désigne habituellement les membres de gang) (senior member of a gang)/
+叔記 叔记 [shu1 ji4] {suk1 gei3} /(appellation donné à un homme dont le nom on ne connaît pas)/
+取之不盡 取之不尽 [qu3 zhi1 bu4 jin4] {ceoi2 zi1 bat1 zeon6} /inépuisable/
+取代 取代 [qu3 dai4] {ceoi2 doi6} /remplacer; substituer/
 取信 取信 [qu3 xin4] {ceoi2 seon3} /gagner la confiance/
 取景 取景 [qu3 jing3] {ceoi2 ging2} /trouver ou saisir un paysage (arts, film, photographie)/
 取替 取替 [qu3 ti4] {ceoi2 tai3} /remplacer/
