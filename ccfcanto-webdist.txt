@@ -3299,55 +3299,55 @@
 占卦 占卦 [zhan1 gua4] {zim1 gwaa3} /divination chinoise/prédire l'avenir/
 占士邦 占士邦 [zhan4 shi4 bang1] {zim1 si6 bong1} /James Bond/
 卡 卡 [ka3] {kaa1} /(classificateur pour les wagons)/camion/carte de crédit/obstacler (routier)/se retrouver bloqué; être coincé/
-卡位 卡位 [qia3 wei4] {kaa1 wai2} /position stratégique/sièges de cabine sur un train/sièges de box dans les restaurants/
-卡口 卡口 [qia3 kou3] {kaa1 hau2} /cabine de péage, douanes, pour récupérer les taxes pour le gouvernement/
-卡士 卡士 [ka3 shi4] {kaa1 si6} /distribution (d'un film)/
-???? 卡罅 卡罅 [ka3 xia4] {kaa1 laa3} /gap (spoken)/
-卡迪夫 卡迪夫 [Ka3 di2 fu1] {kaa1 dik6 fu1} /Cardiff, une ville dans le Royaume-Uni/
-卡通片 卡通片 [ka3 tong1 pian4] {kaa1 tung1 pin2} /dessin animé/
+????f 卡位 卡位 [qia3 wei4] {kaa1 wai2} /sièges de cabine sur un train/(dans un restaurant) box/(orig.) de l'anglais « car » (« wagon d'un train »), dont les sièges (位|位) ressemblent aux sièges d'un box dans un restaurant/
+????c 卡口 卡口 [qia3 kou3] {kaa1 hau2} /cabine de péage; douanes; pour récupérer les taxes pour le gouvernement/
+卡士 卡士 [ka3 shi4] {kaa1 si6} /(film, théâtre, etc.) distribution; ensemble des artistes choisis pour tenir les rôles/(orig.) de l'anglais « cast » (« ensemble »)/
+卡罅 卡罅 [ka3 xia4] {kaa1 laa3} /brèche; fente; interstice/
+卡迪夫 卡迪夫 [ka3 di2 fu1] {kaa1 dik6 fu1} /Cardiff, une ville dans le Royaume-Uni/
+卡通片 卡通片 [ka3 tong1 pian4] {kaa1 tung1 pin2} /dessin animé/(orig.) de l'anglais « cartoon » (« dessin animé »)/
 印傭 印佣 [yin4 yong1] {jan3 jung4} /domestique indonésien/
-印印腳 印印脚 [yin4 yin4 jiao3] {ngan3 ngan3 goek3} /gigoter, faire bouger les jambes lorsqu'on est anxieux, impatient/
-印字格 印字格 [yin4 zi4 ge2] {jan3 zi6 gaak3} /grille pour écriture chinoise/
-印字機 印字机 [yin4 zi4 ji1] {jan3 zi6 gei1} /imprimante pour étiquettes/
-印尼人 印尼人 [yin4 ni2 ren2] {jan3 nei4 jan4} /Indonésien/
-印度神油 印度神油 [yin4 du4 shen2 you2] {jan3 dou6 san4 jau4} /«Indian God Lotion», lotion de dieu indien, un type de lotion pour améliorer la performance sexuelle/
-印水紙 印水纸 [yin4 shui3 zhi3] {jan3 seoi2 zi2} /papier de tatouage temporaire/
-???? 印花 印花 [yin4 hua1] {jan3 faa1} /coupon/imprimé floral/imprimer une fleur/
-印鑑 印鉴 [yin4 jian4] {jan3 gaam3} /sceau d'encre, ou tampon/
-危危乎 危危乎 [wei1 wei1 hu1] {ngai4 ngai4 fu4} /situation très dangereuse/au bord de, sur le point de/
-危急 危急 [wei1ji2] {ngai4 gap1} /danger imminent/
-危言聳聽 危言耸听 [wei1 yan2 song3 ting1] {ngai4 jin4 sung2 ting1} /alarmisme/
-危險性 危险性 [wei1 xian3 xing4] {ngai4 him2 sing3} /dangereux/
-即係 即系 [ji2 xi4] {zik1 hai6} /exactement comme/équivalent/c'est-à-dire/
+印印腳 印印脚 [yin4 yin4 jiao3] {ngan3 ngan3 goek3} /gigoter; faire bouger les jambes lorsqu'on est anxieux ou impatient/
+????f 印字格 印字格 [yin4 zi4 ge2] {jan3 zi6 gaak3} /grille pour écriture chinoise/
+印字機 印字机 [yin4 zi4 ji1] {jan3 zi6 gei1} /imprimante d'étiquettes/
+印尼人 印尼人 [yin4 ni2 ren2] {jan3 nei4 jan4} /Indonésien, Indonésienne/
+印度神油 印度神油 [yin4 du4 shen2 you2] {jan3 dou6 san4 jau4} /« Indian God Lotion », lotion de dieu indien, un type de lotion qui prétend améliorer la performance sexuelle/
+印水紙 印水纸 [yin4 shui3 zhi3] {jan3 seoi2 zi2} /buvard/
+????f 印花 印花 [yin4 hua1] {jan3 faa1} /coupon/imprimé floral/
+????c 印鑑 印鉴 [yin4 jian4] {jan3 gaam3} /sceau d'encre, ou tampon/
+危危乎 危危乎 [wei1 wei1 hu1] {ngai4 ngai4 fu4} /précaire; très dangereux; déséquilibré; instable/
+危急 危急 [wei1 ji2] {ngai4 gap1} /dangereux; critique/
+危言聳聽 危言耸听 [wei1 yan2 song3 ting1] {ngai4 jin4 sung2 ting1} /être alarmisme; crier au loup/
+危險性 危险性 [wei1 xian3 xing4] {ngai4 him2 sing3} /danger; risque/
+即係 即系 [ji2 xi4] {zik1 hai6} /signifier; vouloir dire/c'est-à-dire/
 即係話 即系话 [ji2 xi4 hua4] {zik1 hai6 waa6} /c'est-à-dire/
-即場 即场 [ji2 chang3] {zik1 coeng4} /en temps réel, en direct/
-即將 即将 [ji2 jiang1] {zik1 zoeng1} /bientôt/
+即場 即场 [ji2 chang3] {zik1 coeng4} /sur-le-champ/
+即將 即将 [ji2 jiang1] {zik1 zoeng1} /bientôt; imminent; sur le point de/
 即影即有相機 即影即有相机 [ji2 ying3 ji2 you3 xiang1 ji1] {zik1 jing2 zik1 jau5 soeng3 gei1} /appareil photographique instantané/
-即日 即日 [ji2 ri4] {zik1 jat6} /aujourd'hui/maintenant/
+即日 即日 [ji2 ri4] {zik1 jat6} /le jour même/dans les prochains jours/
 即日起 即日起 [ji2 ri4 qi3] {zik1 jat6 hei2} /dès aujourd'hui/
-即是 即是 [ji2 shi4] {zik1 si6} /c'est-à-dire/
-即時 即时 [ji2 shi2] {zik1 si4} /instantané/(nouvelles) en direct/
-即晚 即晚 [ji2 wan3] {zik1 maan5} /ce soir/dès ce soir/
-即景生情 即景生情 [ji2 jing3 sheng1 qing2] {zik1 ging2 sang1 cing4} /cette scène fait penser aux mémoires du passé/
-???? 即管 即管 [ji2 guan3] {zik1 gun2} /by all means/
-即系 即系 [ji2 xi4] {zik1 hai6} /c'est-à (-dire)/
+即是 即是 [ji2 shi4] {zik1 si6} /signifier; vouloir dire/c'est-à-dire/
+即時 即时 [ji2 shi2] {zik1 si4} /immédiatement/(nouvelles) en direct/
+即晚 即晚 [ji2 wan3] {zik1 maan5} /ce soir/le soir même/
+????f 即景生情 即景生情 [ji2 jing3 sheng1 qing2] {zik1 ging2 sang1 cing4} /(expr. idiom.) cette scène fait penser aux mémoires du passé/
+即管 即管 [ji2 guan3] {zik1 gun2} /vas-y; n'hésite pas/
+即系 即系 [ji2 xi4] {zik1 hai6} /signifier; vouloir dire/c'est-à (-dire)/
 即食麵 即食面 [ji2 shi2 mian4] {zik1 sik6 min6} /nouilles instantanées/
 卵生 卵生 [luan3 sheng1] {leon2 saang1} /oviparité/
-卵翼 卵翼 [luan3 yi4] {leon2 jik6} /être protégé, prise en charge/
+????c 卵翼 卵翼 [luan3 yi4] {leon2 jik6} /être protégé/
 卷舌音 卷舌音 [juan3 she2 yin1] {gyun2 sit3 jam1} /consonne rétroflexe/
-卸 卸 [xie4] {se3} /esquiver, éviter (du travail ou des responsabilités/
-卸肩裝 卸肩装 [xie4 jian1 zhuang1] {se3 gin1 zong1} /(vêtements) qui dégage l'épaule/
-卸膊 卸膊 [xie4 bo2] {se3 bok3} /quelqu'un qui esquive ou évite son travail et responabilités/
-卸責 卸责 [xie4 ze2] {se3 zaak3} /quelqu'un qui esquive ou évite son travail et responabilités et les donne aux autres/
-卸車 卸车 [xie4 che1] {se3 ce1} /tombereau/décharger les choses d'une véhicule/
-卻 却 [que4] {koek3} /se retirer, battre en retraite/
-厄難 厄难 [e4 nan4] {aak1 naan6} /situation difficile, désastre/
-厘印 厘印 [li2 yin4] {lei4 jan3} /droits d'enregistrement/
-厘士 厘士 [li2 shi4] {lei4 si6} /dentelle/
-厚意 厚意 [hou4 yi4] {hau5 ji3} /pensée aimable/
-厚𢱕𢱕 厚𢱕𢱕 [Hou4 da1 da1] {hau5 dap6 dap6} /pile épaisse de quelque chose/
-厚疊疊 厚叠叠 [hou4 die2 die2] {hau5 daap6 daap6} /pile épaisse de quelque chose/
-厚笠 厚笠 [hou4 li4] {hau5 lap1} /pull, chandail épais/
+????f 卸 卸 [xie4] {se3} /esquiver; éviter (du travail ou des responsabilités)/
+????f 卸肩裝 卸肩装 [xie4 jian1 zhuang1] {se3 gin1 zong1} /(vêtements) épaules dénudées; qui dégage l'épaule/
+卸膊 卸膊 [xie4 bo2] {se3 bok3} /se dérober à ses responsabilités/
+卸責 卸责 [xie4 ze2] {se3 zaak3} /se dérober à ses responsabilités/
+卸車 卸车 [xie4 che1] {se3 ce1} /décharger un véhicule/
+卻 却 [que4] {koek3} /se retirer; battre en retraite/
+厄難 厄难 [e4 nan4] {aak1 naan6} /situation difficile; désastre/
+厘印 厘印 [li2 yin4] {lei4 jan3} /droit de timbre/
+厘士 厘士 [li2 shi4] {lei4 si6} /dentelle/(orig.) de l'anglais « lace » (« dentelle »)/
+厚意 厚意 [hou4 yi4] {hau5 ji3} /gentillesse/
+厚𢱕𢱕 厚𢱕𢱕 [hou4 da1 da1] {hau5 daap6 daap6} /très épais/
+厚疊疊 厚叠叠 [hou4 die2 die2] {hau5 daap6 daap6} /très épais/
+厚笠 厚笠 [hou4 li4] {hau5 lap1} /pull ou sweat-shirt épais/
 厚身 厚身 [hou4 shen1] {hau5 san1} /épais, volumineux/
 厚面皮 厚面皮 [hou4 mian4 pi2] {hau5 min6 pei4} /avoir la peau dure, arrogant, insensible/
 原來如此 原来如此 [yuan2 lai2 ru2 ci3] {jyun4 loi4 jyu4 ci2} /c'est donc ça, je vois/
@@ -15875,6 +15875,7 @@
 給予 给予 [ji3 yu3] {kap1 jyu5} /offrir (de l'aide)/
 給養 给养 [ji3 yang3] {kap1 joeng5} /rations alimentaires/
 ????f 絨衫 绒衫 [rong2 shan1] {jung2 saam1} /chandail en molleton/
+絨衣 絨衣 [rong2 yi1] {jung2 ji1} /sweat-shirt; pull; tricot/
 絨褲 绒裤 [rong2 ku4] {jung2 fu3} /pantalon de survêtement; pantalon de jogging/
 統 统 [tong3] {tung2} /ensemble/
 統籌 统筹 [tong3 chou2] {tung2 cau4} /procéder à une planification générale/
