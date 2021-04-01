@@ -1110,7 +1110,7 @@
 交回 交回 [jiao1 hui2] {gaau1 wui4} /rendre; remettre; retourner (quelque chose à quelqu'un)/
 交學費 交学费 [jiao1 xue2 fei4] {gaau1 hok6 fai3} /payer des frais de scolarité/
 交帶 交带 [jiao1 dai4] {gaau1 daai3} /ordonner/responsable/rendre; remettre; retourner (quelque chose à quelqu'un)/
-交心 交心 [jiao1 xin1] {gaau1 sam1} /se confier (à quelqu'un); parler à cœur ouvert/
+交心 交心 [jiao1 xin1] {gaau1 sam1} /se confier (à quelqu'un); parler à cœur ouvert; se vider le cœur/
 交投 交投 [jiao1 tou2] {gaau1 tau4} /transaction boursière/
 交換生 交换生 [jiao1 huan4 sheng1] {gaau1 wun6 sang1} /étudiant étranger, étudiante étrangère/
 交易 交易 [jiao1 yi4] {gaau1 jik6} /échange; marché; affaire; accord commercial/
@@ -2352,7 +2352,7 @@
 冀望 冀望 [ji4 wang4] {kei3 mong6} /espérer; avoir hâte de quelque chose/
 冇 冇 [mao3] {mou5} /non/rien/
 冇乜 冇乜 [mao3 mie1] {mou5 mat1} /rien/ce n'est rien/pas très/pas en particulier/
-????f 冇乜兩句 冇乜两句 [mao3 mie1 liang3 ju4] {mou5 mat1 loeng5 geoi3} /(des personnes) qui n'ont pas beaucoup à dire entre eux/(personnes) qui ne se connaissent pas très bien/
+????f 冇乜兩句 冇乜两句 [mao3 mie1 liang3 ju4] {mou5 mat1 loeng5 geoi3} /(des personnes) qui n'ont pas grand-chose à dire entre eux/(personnes) qui ne se connaissent pas très bien/
 冇乜嘢 冇乜嘢 [mao3 mie1 ye3] {mou5 mat1 je5} /rien/ce n'est rien/
 ????f 冇乜好死 冇乜好死 [mao3 mie1 hao3 si3] {mou5 mat1 hou2 sei2} /(to not deserve a peaceful death)/
 冇乜所謂 冇乜所谓 [mao3 mie1 suo3 wei4] {mou5 mat1 so2 wai6} /ça m'est égal; peu importe; ce n'est pas important/
@@ -2364,7 +2364,7 @@
 冇你咁好氣 冇你咁好气 [mao3 ni3 gan1 hao3 qi4] {mou5 nei5 gam3 hou2 hei3} /(expr. idiom.) j'en ai eu assez de toi/(lit.) je n'ai pas un caractère doux comme le tien/
 冇來由 冇来由 [mao3 lai2 you2] {mou5 loi4 jau4} /insensé; illogique; contraire à la raison/
 冇修 冇修 [mao3 xiu1] {mou5 sau1} /ne pas avoir de solution; ne plus savoir quoi faire/
-????f 冇兩句 冇两句 [mao3 liang3 ju4] {mou5 loeng5 geoi3} /(des personnes) qui n'ont pas beaucoup à dire entre eux/(personnes) qui ne se connaissent pas très bien/(voir aussi 冇乜兩句|冇乜两句)/
+????f 冇兩句 冇两句 [mao3 liang3 ju4] {mou5 loeng5 geoi3} /(des personnes) qui n'ont pas grand-chose à dire entre eux/(personnes) qui ne se connaissent pas très bien/(voir aussi 冇乜兩句|冇乜两句)/
 冇公德心 冇公德心 [mao3 gong1 de2 xin1] {mou5 gung1 dak1 sam1} /incivisme; ne pas sentir le devoir de remplir son devoir civique/
 ????f 冇出息 冇出息 [mao3 chu1 xi5] {mou5 ceot1 sik1} /(personne) sans ambition; sans potentiel; sans perspective/
 冇厘搭霎 冇厘搭霎 [mao3 li2 da1 sha4] {mou5 lei4 daap3 saap3} /irresponsable/
@@ -2399,7 +2399,7 @@
 冇所謂 冇所谓 [mao3 suo3 wei4] {mou5 so2 wai6} /ça m'est égal; peu importe/
 冇手尾 冇手尾 [mao3 shou3 wei3] {mou5 sau2 mei5} /ne pas finir quelque chose/ne pas ranger ses affaires; ne pas faire le ménage/(lit.) ne pas avoir la queue de la main/
 ????f 冇掩雞籠 冇掩鸡笼 [mao3 yan3 ji1 long2] {mou5 jim2 gai1 lung4} /(expr. idiom.) lieu où l'on peut entrer ou sortir sans demander permission/(expr. idiom.) (par extension) lieu où les vols sont fréquents; lieu peu sûr/(expr. idiom.) (par extension) lieu chaotique; endroit mal géré/(lit.) poulailler sans portes (deuxième partie 自出自入|自出自入 « sortir et entrer à sa guise »)/
-????c 冇揸拿 冇揸拿 [mao3 zha1 na2] {mou5 zaa1 naa4} /ne pas avoir beaucoup de confiance, ne pas être sûr/have nothing left to recover/
+????c 冇揸拿 冇揸拿 [mao3 zha1 na2] {mou5 zaa1 naa4} /ne pas avoir beaucoup de confiance; ne pas être sûr/have nothing left to recover/
 冇搭霎 冇搭霎 [mao3 da1 sha4] {mou5 daap3 saap3} /(personne) irresponsable; peu fiable/
 冇搭颯 冇搭飒 [mao3 da1 sa5] {mou5 daap3 saap3} /(personne) irresponsable; peu fiable/
 冇收 冇收 [mao3 shou1] {mou5 sau1} /ne pas avoir de solution; ne plus savoir quoi faire/
@@ -2842,7 +2842,7 @@
 前嗰排 前嗰排 [qian2 g5 pai2] {cin4 go2 paai4} /il y a quelque temps; il y a un certain temps/
 前嗰牌 前嗰牌 [qian2 g5 pai2] {cin4 go2 paai4} /il y a quelque temps; il y a un certain temps/
 前嗰輪 前嗰轮 [qian2 g5 lun2] {cin4 go3 leon4} /il y a quelque temps; il y a un certain temps/
-前園 前园 [qian2 yuan2] {cin4 jyun2} /cour d'entrée; jardin/
+前園 前园 [qian2 yuan2] {cin4 jyun2} /cour avant; jardin de devant/
 ????f 前塵往事 前尘往事 [qian2 chen2 wang3 shi4] {cin4 can4 wong5 si6} /(fig.) souvenir du passé; choses qui ont eu lieu il y a longtemps/(lit.) poussière du passé/
 前山 前山 [qian2 shan1] {cin4 saan1} /Qianshan, une région de Zhuhai, Chine/
 前度 前度 [qian2 du4] {cin4 dou6} /ex- (pour parler d'un ex-mari, ex-femme, ex-copain, ex-copine, etc.)/
@@ -16915,7 +16915,7 @@
 花哩花碌 花哩花碌 [hua1 li5 hua1 lu4] {faa1 li1 faa1 luk1} /voyant; criard; tapageur; bigarré/
 ????f 花𡃁 花𡃁 [hua1 liang4] {faa1 leng1} /jeune homme oisif; jeune homme sans talent; « greaser »; blouson noir; jeune homme qui se soucie de son apparence et qui sèche les cours, qui évite de travailler, etc./novice; débutant/
 花圈 花圈 [hua1 quan1] {faa1 hyun1} /couronne de fleurs; couronne florale/
-花園 花园 [hua1 yuan2] {faa1 jyun2} /jardin/cour d'entrée; cour avant; jardin de devant/parc/
+花園 花园 [hua1 yuan2] {faa1 jyun2} /jardin/cour avant; jardin de devant/parc/
 花園街 花园街 [hua1 yuan2 jie1] {faa1 jyun4 gaai1} /Fa Yuen Street, rue de Hong Kong/
 花園道 花园道 [hua1 yuan2 dao4] {faa1 jyun4 dou6} /Garden Road, rue de Hong Kong/
 花城 花城 [hua1 cheng2] {faa1 sing4} /ville des fleurs, surnom pour la ville de Canton/
