@@ -3696,56 +3696,58 @@
 吉列豬扒 吉列猪扒 [ji2 lie4 zhu1 pa2] {gat1 lit6 zyu1 paa2} /tonkatsu, plat japonais à base de porc pané et frit/
 吉士 吉士 [ji2 shi4] {gat1 si6} /courage; cran/(orig.) de l'anglais « guts », intestins/
 吉澳 吉澳 [ji2 ao4] {gat1 ou3} /Crooked Island, ou île Kat O, située dans la ville de Hong Kong/
-吊吊扔 吊吊扔 [diao4 diao4 reng1] {tiu4 tiu2 fing6} /négligent; je-m'en-foutiste; attitude désinvolte/suspendu dans les airs/
-吊吊揈 吊吊轰 [diao4 diao4 hong1] {tiu4 tiu2 fing6} /négligent; je-m'en-foutiste; attitude désinvolte/suspendu dans les airs/
-吊味 吊味 [diao4 wei4] {diu3 mei6} /assaisonnement/
-吊命 吊命 [diao4 ming4] {diu3 meng6} /une vie pendue par un fil/qui survit grâce à quelque chose, comme de l'argent ou des médicaments/
-吊威也 吊威也 [diao4 wei1 ye3] {diu3 wai1 jaa2} /suspendu dans les airs pour un film ou une émission de télé, une cascade/
-吊威吔 吊威吔 [diao4 wei1 ye5] {diu3 wai1 jaa2} /suspendu dans les airs pour un film ou une émission de télé, une cascade/
-吊尾 吊尾 [diao4 wei3] {diu3 mei5} /suivre/
-吊櫃 吊柜 [diao4 gui4] {diu3 gwai6} /armoire (murale)/
-吊煲 吊煲 [diao4 bao1] {diu3 bou1} /qui n'arrive pas à se débrouiller seul, sans défense/
-吊癮 吊瘾 [diao4 yin3] {diu3 jan5} /arrêt net, arrêt brutal/
-吊砂煲 吊砂煲 [diao4 sha1 bao1] {diu3 saa1 bou1} /sans emploi, sans salaire, argent, ou nourriture/
-吊臘鴨 吊腊鸭 [diao4 la4 ya1] {diu3 laap6 aap2} /(expr. idiom.) pendre, se pendre/(lit.) suspendre un canard au barbecue/
-吊起來賣 吊起来卖 [diao4 qi3 lai2 mai4] {diu3 hei2 lai4 maai6} /monter le prix quand quelqu'un se montre interessé/attendre l'offre le plus haut/stocker un produit/arrogant/qqn qui demande plus après être devenu célèbre/
-吊起嚟賣 吊起嚟卖 [diao4 qi3 li2 mai4] {diu3 hei2 lei4 maai6} /monter le prix quand quelqu'un se montre interessé/attendre l'offre le plus haut/stocker un produit/arrogant/qqn qui demande plus après être devenu célèbre/
-吊銷執照 吊销执照 [diao4 xiao1 zhi2 zhao4] {diu3 siu1 zap1 ziu3} /retirer la licence/
-吊銷牌照 吊销牌照 [diao4 xiao1 pai2 zhao4] {diu3 siu1 paai4 ziu3} /retirer la licence/
-吊鐘 吊钟 [diao4 zhong1] {diu3 zung1} /enkianthus, un genre d'arbres et arbustes/pomme d'Adam/
-???? 吊門桔 吊门桔 [diao4 men2 ju2] {diu3 mun4 gat1} /maigre/singes maigres/
-吊靴鬼 吊靴鬼 [diao4 xue1 gui3] {diu3 hoe1 gwai2} /quelqu'un collant, harceleur, harceleuse/
-吊頸 吊颈 [diao4 jing3] {diu3 geng2} /qui travaille sans arrêt/(lit.) se pendre par le cou/
-???? 吊骨 吊骨 [diao4 gu3] {diu3 gwat1} /pantalons trop courts/endroits inaccessibles/
-吊高嚟賣 吊高嚟卖 [diao4 gao1 li2 mai4] {diu3 gou1 lei4 maai6} /monter le prix quand quelqu'un se montre interessé/attendre l'offre le plus haut/stocker un produit/arrogant/qqn qui demande plus après être devenu célèbre/
-吊鹽水 吊盐水 [diao4 yan2 shui3] {diu3 jim4 seoi2} /sous perfusion/
-同一個鼻哥窿出氣 同一个鼻哥窿出气 [tong2 yi1 ge5 bi2 ge1 long2 chu1 qi4] {tung4 jat1 go3 bei6 go1 lung1 ceot1 hei3} /(expr. idiom.) du même point de vue, avoir la même idée/(lit.) souffler de la même narine/
-同事 同事 [tong2 shi4] {tung4 si6} /collègue/personnel/
-同人唔同命，同遮唔同柄 同人唔同命，同遮唔同柄 [tong2 ren2 n2 tong2 ming4 , tong2 zhe1 n2 tong2 bing3] {tung4 jan4 m4 tung4 ming6 tung4 ze1 m4 tung4 beng3} /chacun a son propre destin/(lit.) même personnes, différentes vies; même parapluie, différentes poignées/
-同仁 同仁 [tong2 ren2] {tung4 jan4} /camarades, collègues/
+吊吊扔 吊吊扔 [diao4 diao4 reng1] {tiu4 tiu2 fing6} /négligent; je-m'en-foutiste; désinvolte/suspendu dans les airs/
+吊吊揈 吊吊轰 [diao4 diao4 hong1] {tiu4 tiu2 fing6} /négligent; je-m'en-foutiste; désinvolte/suspendu dans les airs/
+吊味 吊味 [diao4 wei4] {diu3 mei6} /assaisonner/
+????f 吊命 吊命 [diao4 ming4] {diu3 meng6} /ne tenir qu'à un fil; survivre à peine; être sur le seuil de la mort/être très pauvre et dépendre financièrement de quelque chose/
+????f 吊威也 吊威也 [diao4 wei1 ye3] {diu3 wai1 jaa2} /être suspendu dans les airs pour un film ou une émission de télé; faire une cascade/(orig.) de l'anglais « wire » (« fil de fer »), d'où 吊威也|吊威也 « être suspendu par un fil de fer »/
+????f 吊威吔 吊威吔 [diao4 wei1 ye5] {diu3 wai1 jaa2} /être suspendu dans les airs pour un film ou une émission de télé; faire une cascade/(orig.) de l'anglais « wire » (« fil de fer »), d'où 吊威也|吊威也 « être suspendu par un fil de fer »/
+吊尾 吊尾 [diao4 wei3] {diu3 mei5} /suivre; prendre en filature; filer/
+????f 吊櫃 吊柜 [diao4 gui4] {diu3 gwai6} /armoire (murale); placard suspendu; placard attaché au mur qui ne touche pas au sol/
+????c 吊煲 吊煲 [diao4 bao1] {diu3 bou1} /qui n'arrive pas à se débrouiller seul, sans défense/sans emploi/
+吊癮 吊瘾 [diao4 yin3] {diu3 jan5} /(fig.) arrêt net; arrêt brutal (d'une dépendance)/(fig.) titiller; allécher/(fig.) garder en suspens/(lit.) suspendre une envie/
+吊砂煲 吊砂煲 [diao4 sha1 bao1] {diu3 saa1 bou1} /(fig.) être sans emploi; vivoter; subsister avec peine/(lit.) suspendre la terrine/
+吊臘鴨 吊腊鸭 [diao4 la4 ya1] {diu3 laap6 aap2} /(expr. idiom.) (fam.) pendre; se pendre/(lit.) suspendre un canard au barbecue/
+????f 吊起來賣 吊起来卖 [diao4 qi3 lai2 mai4] {diu3 hei2 lai4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
+????f 吊起嚟賣 吊起嚟卖 [diao4 qi3 li2 mai4] {diu3 hei2 lei4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
+吊銷執照 吊销执照 [diao4 xiao1 zhi2 zhao4] {diu3 siu1 zap1 ziu3} /retirer une licence/
+吊銷牌照 吊销牌照 [diao4 xiao1 pai2 zhao4] {diu3 siu1 paai4 ziu3} /retirer une licence/
+吊鐘 吊钟 [diao4 zhong1] {diu3 zung1} /(genre d'arbres et arbustes) enkianthus/luette/
+吊門桔 吊门桔 [diao4 men2 ju2] {diu3 mun4 gat1} /(fig.) personne maigre/(lit.) mandarine accrochée à la porte/
+吊靴鬼 吊靴鬼 [diao4 xue1 gui3] {diu3 hoe1 gwai2} /(fig.) personne collante; harceleur, harceleuse/(lit.) fantôme qui traîne les bottes/
+吊頸 吊颈 [diao4 jing3] {diu3 geng2} /se suicider par pendaison/
+????f 吊頸都要透氣 吊颈都要透气 [diao4 jing3 dou1 yao4 tou4 qi4] {diu3 geng2 dou1 jiu3 tau2 hei3} /(expr. idiom.) tout le monde a besoin de prendre une pause, même si on est très occupé/(lit.) on a besoin de respirer même si on se suicide par pendaison/
+吊骨 吊骨 [diao4 gu3] {diu3 gwat1} /(pantalon) trop court/(endroit) reculé; inaccessible/
+吊腳 吊脚 [diao4 jiao3] {diu3 goek3} /(pantalon) trop court/(endroit) reculé; inaccessible/
+????f 吊高嚟賣 吊高嚟卖 [diao4 gao1 li2 mai4] {diu3 gou1 lei4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
+????f 吊鹽水 吊盐水 [diao4 yan2 shui3] {diu3 jim4 seoi2} /mettre sous perfusion/
+????c 同一個鼻哥窿出氣 同一个鼻哥窿出气 [tong2 yi1 ge5 bi2 ge1 long2 chu1 qi4] {tung4 jat1 go3 bei6 go1 lung1 ceot1 hei3} /(expr. idiom.) du même point de vue, avoir la même idée/(lit.) souffler de la même narine/
+同事 同事 [tong2 shi4] {tung4 si6} /collègue/
+????f 同人唔同命，同遮唔同柄 同人唔同命，同遮唔同柄 [tong2 ren2 n2 tong2 ming4 , tong2 zhe1 n2 tong2 bing3] {tung4 jan4 m4 tung4 ming6 tung4 ze1 m4 tung4 beng3} /chacun a son propre destin; à chacun son destin/(lit.) même personnes, différentes vies; même parapluie, différentes poignées/
+同仁 同仁 [tong2 ren2] {tung4 jan4} /collègue/
 同位角 同位角 [tong2 wei4 jiao3] {tung4 wai6 gok3} /angles correspondants/
-同和站 同和站 [tong2 he2 zhan4] {tung4 wo2 zaam6} /station Tonghe, une station du métro de Canton/
+同和站 同和站 [tong2 he2 zhan4] {tung4 wo2 zaam6} /station Tonghe, station du métro de Canton/
 同埋 同埋 [tong2 mai2] {tung4 maai4} /et/avec/
-同姓 同姓 [tong2 xing4] {tung4 sing3} /même nom de famille/
-同學會 同学会 [tong2 xue2 hui4] {tung4 hok6 wui5} /bureau des étudiants, association des étudiants/
-同宗 同宗 [tong2 zong1] {tung4 zung1} /du même ancêtre/
-同屋主 同屋主 [tong2 wu1 zhu3] {tung4 uk1 zyu2} /colocataires/
-同屋住 同屋住 [tong2 wu1 zhu4] {tung4 uk1 zyu6} /cohabiter/
+同姓 同姓 [tong2 xing4] {tung4 sing3} /avoir le même nom de famille/
+同學會 同学会 [tong2 xue2 hui4] {tung4 hok6 wui5} /organisation étudiante; association des étudiants/
+同宗 同宗 [tong2 zong1] {tung4 zung1} /être du même clan; avoir les mêmes ancêtres/
+同屋主 同屋主 [tong2 wu1 zhu3] {tung4 uk1 zyu2} /colocataire; coloc/
+同屋住 同屋住 [tong2 wu1 zhu4] {tung4 uk1 zyu2} /colocataire; coloc/
 同庚 同庚 [tong2 geng1] {tung4 gang1} /né la même année/
 同心圓 同心圆 [tong2 xin1 yuan2] {tung4 sam1 jyun4} /cercles concentriques/
-同性婚姻 同性婚姻 [tong2 xing4 hun1 yin1] {tung4 sing3 fan1 jan1} /mariage homosexuel/
+同性婚姻 同性婚姻 [tong2 xing4 hun1 yin1] {tung4 sing3 fan1 jan1} /mariage entre personnes de même sexe; mariage homosexuel; mariage gay/
 同情心 同情心 [tong2 qing2 xin1] {tung4 cing4 sam1} /empathie/
-同撈同煲 同捞同煲 [tong2 lao1 tong2 bao1] {tung4 lou1 tung4 bou1} /(expr. idiom.) contre vents et marées/(lit.) à travers mélanger et bouillir/
-同樂 同乐 [tong2 le4] {tung4 lok6} /s'amuser ensemble, être content ensemble/
-同樣 同样 [tong2 yang4] {tung4 joeng6} /de la même façon/
-同步 同步 [tong2bu4] {tung4 bou6} /au même temps/
-同盟 同盟 [tong2 meng2] {tung4 mang4} /allié/groupe d'alliés/
-同盟軍 同盟军 [tong2 meng2 jun1] {tung4 mang4 gwan1} /allié militaire/groupe d'alliés militaires/
+????f 同撈同煲 同捞同煲 [tong2 lao1 tong2 bao1] {tung4 lou1 tung4 bou1} /(expr. idiom.) se serrer les coudes pour faire face à l'adversité; rester unis contre vents et marées/(lit.) à travers mélanger et bouillir/
+同樂 同乐 [tong2 le4] {tung4 lok6} /s'amuser ensemble/
+同樣 同样 [tong2 yang4] {tung4 joeng6} /même; pareil; identique/
+同步 同步 [tong2 bu4] {tung4 bou6} /au même rhythme que/
+同盟 同盟 [tong2 meng2] {tung4 mang4} /alliance; groupe d'alliés/
+同盟軍 同盟军 [tong2 meng2 jun1] {tung4 mang4 gwan1} /allié militaire; forces alliés/(par extension) allié/
 同等學力 同等学力 [tong2 deng3 xue2 li4] {tung4 dang2 hok6 lik6} /même niveau d'instruction/
 同等學歷 同等学历 [tong2 deng3 xue2 li4] {tung4 dang2 hok6 lik6} /même niveau d'instruction/
-同聲 同声 [tong2 sheng1] {tung4 seng1} /même ton/même point de vue, être d'accord/même idée/
-同聲同氣 同声同气 [tong2 sheng1 tong2 qi4] {tung4 sing1 tung4 hei3} /soutenir mutuellement/parler le même dialecte ou avec le même ton/
-同舟共濟 同舟共济 [tong2 zhou1 gong4 ji4] {tung4 zau1 gung6 zai3} /(expr. idiom.) il faut travailler ensemble pour résoudres les problèmes/(lit.) même bateau, travailler ensemble/
+同聲 同声 [tong2 sheng1] {tung4 seng1} /à l'unisson/
+同聲同氣 同声同气 [tong2 sheng1 tong2 qi4] {tung4 seng1 tung4 hei3} /(expr. idiom.) partager les mêmes opinions/(expr. idiom.) parler le même dialecte ou langue/(lit.) même bruit même air/
+同舟共濟 同舟共济 [tong2 zhou1 gong4 ji4] {tung4 zau1 gung6 zai3} /(expr. idiom.) il faut travailler ensemble pour résoudre les problèmes/(lit.) même bateau, travailler ensemble/
 同花 同花 [tong2 hua1] {tung4 faa1} /flush (poker)/
 同行 同行 [tong2 hang2] {tung4 hang4} /quelqu'un qui travaille dans la même industrie/voyager ou aller ensemble/
 同行如敵國 同行如敌国 [tong2 hang2 ru2 di2 guo2] {tung4 hong4 jyu4 dik6 gwok3} /deux personnes travaillant dans la même industrie sont comme deux pays qui sont ennemis/
