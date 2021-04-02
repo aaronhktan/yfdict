@@ -3798,17 +3798,17 @@
 ????c 吟詩作對 吟诗作对 [yin2 shi1 zuo4 dui4] {jam4 si1 zok3 deoi3} /écrir des poèmes et des distiques/
 ????c 含冤莫白 含冤莫白 [han2 yuan1 mo4 bai2] {ham4 jyun1 mok6 baak6} /être victime d'un coup monté/
 含含聲 含含声 [han2 han2 sheng1] {ham4 ham4 seng1} /(onomatopée pour quelque chose qui brûle)/(onomatopée pour un endroit bruyant)/
-含撚 含捻 [han2 nian3] {ham4 lan2} /fellation, pipe, turlute/
-含有 含有 [han2you3] {ham4 jau5} /inclure/consister de (quelque chose)/
+含撚 含捻 [han2 nian3] {ham4 lan2} /(vulg.) fellation; pipe; turlute/
+含有 含有 [han2 you3] {ham4 jau5} /contenir/
 含水量 含水量 [han2 shui3 liang4] {ham4 seoi2 loeng6} /teneur en eau/
-含糊 含糊 [han2 hu5] {ham4 wu4} /pas claire (de texte, de paroles)/
+含糊 含糊 [han2 hu5] {ham4 wu4} /pas clair; flou; ambigu (de texte, de paroles)/
 含羞 含羞 [han2 xiu1] {ham4 sau1} /timide/
-含血噴人 含血喷人 [han2 xue4 pen1 ren2] {ham4 hyut3 pan3 jan4} /monter un coup/
-含飴弄孫 含饴弄孙 [han2 yi2 nong4 sun1] {ham4 ji4 lung6 syun1} /(expr. idiom.) profiter de sa retraite/(lit.) manger des sucreries et jouer avec ses petits-enfants/
+含血噴人 含血喷人 [han2 xue4 pen1 ren2] {ham4 hyut3 pan3 jan4} /(expr. idiom.) calomnier/(lit.) cracher du sang sur quelqu'un/
+含飴弄孫 含饴弄孙 [han2 yi2 nong4 sun1] {ham4 ji4 lung6 syun1} /(expr. idiom.) jouir de sa retraite/(lit.) manger des sucreries et jouer avec ses petits-enfants/
 吱吱喳喳 吱吱喳喳 [zhi1 zhi1 zha1 zha1] {zi1 zi1 zaa1 zaa1} /(expr. idiom.) parler sans arrêt/(lit.) onomatopée pour les oiseaux/
-吱吱斟斟 吱吱斟斟 [zhi1 zhi1 zhen1 zhen1] {zi1 zi1 zam1 zam1} /chuchoter/
-吱喳 吱喳 [zhi1 zha1] {zi1 zaa1} /bavard/
-吱喳婆 吱喳婆 [zhi1 zha1 po2] {zi1 zaa1 po2} /des femmes qui parlent sans arrêt/
+吱吱斟斟 吱吱斟斟 [zhi1 zhi1 zhen1 zhen1] {zi1 zi1 zam4 zam4} /chuchoter/
+吱喳 吱喳 [zhi1 zha1] {zi1 zaa1} /(oiseau) gazouiller/bavard; loquace; qui parle beaucoup/
+吱喳婆 吱喳婆 [zhi1 zha1 po2] {zi1 zaa1 po2} /(péj.) (femme) commère; concierge/
 吳亮星 吴亮星 [wu2 liang4 xing1] {ng4 loeng6 sing1} /Ng Leung-sing, femme politique hongkongaise/
 吳倩蓮 吴倩莲 [wu2 qian4 lian2] {ng4 sin6 lin4} /Jacklyn Wu actrice hongkongaise/
 吳剛 吴刚 [wu2 gang1] {ng4 gong1} /Wu Gang, acteur honkongais/
@@ -3817,37 +3817,37 @@
 吳孟達 吴孟达 [wu2 meng4 da2] {ng4 maang6 daat6} /Ng Man Tat, acteur hongkongais/
 吳宇森 吴宇森 [wu2 yu3 sen1] {ng4 jyu5 sam1} /John Woo Yu-Sum, réalisateur hongkongais/
 吳彥祖 吴彦祖 [wu2 yan4 zu3] {ng4 jin6 zou2} /Daniel Wu, acteur hongkongais/
-吳松街 吴松街 [wu2 song1 jie1] {ng4 cung4 gaai1} /rue Woo Sung, une rue située dans la ville de Hong Kong/
+吳松街 吴松街 [wu2 song1 jie1] {ng4 cung4 gaai1} /rue Woo Sung, rue située dans la ville de Hong Kong/
 吳浩康 吴浩康 [wu2 hao4 kang1] {ng4 hou6 hong1} /Deep Ng, chanteur et acteur hongkongais/
-吵耳 吵耳 [chao3 er3] {caau2 ji5} /(un son) désagréable, grinçant/
-吶喊 呐喊 [na4 han3] {naap6 haam3} /crier/acclamer, applaudir/rugissant, bruyant/
-吷 吷 [xue4] {hyut3, kyut3} /aspirer/siroter/respirer bruyamment/
-吸塵 吸尘 [xi1 chen2] {kap1 can4} /aspirer, passer l'aspirateur dans/respirer de l'air pollué/
+吵耳 吵耳 [chao3 er3] {caau2 ji5} /(un son) désagréable; grinçant/
+吶喊 呐喊 [na4 han3] {naap6 haam3} /crier; acclamer/
+????c 吷 吷 [xue4] {hyut3, kyut3} /aspirer/siroter/respirer bruyamment/
+吸塵 吸尘 [xi1 chen2] {kap1 can4} /passer l'aspirateur; passer à l'aspirateur/
 吸塵機 吸尘机 [xi1 chen2 ji1] {kap1 can4 gei1} /aspirateur/
-吸引 吸引 [xi1 yin3] {kap1 jan5} /attirer l'attention/séduisant/
-吸收 吸收 [xi1 shou1] {kap1 sau1} /apprendre/
-吸毒者 吸毒者 [xi1 du2 zhe3] {kap1 duk6 ze2} /drogué, droguée, toxicomane/
+吸引 吸引 [xi1 yin3] {kap1 jan5} /attirer l'attention; séduire/attirant; séduisant/
+吸收 吸收 [xi1 shou1] {kap1 sau1} /absorber/apprendre/
+吸毒者 吸毒者 [xi1 du2 zhe3] {kap1 duk6 ze2} /drogué, droguée; toxicomane/
 吸煙 吸烟 [xi1 yan1] {kap1 jin1} /fumer une cigarette/
 吸熱反應 吸热反应 [xi1 re4 fan3 ying4] {kap1 jit6 faan2 jing3} /réaction endothermique/
 吹口琴 吹口琴 [chui1 kou3 qin2] {ceoi1 hau2 kam4} /jouer de l'harmonica/
-吹咩 吹咩 [chui1 mie1] {ceoi1 me1} /que peux-tu me faire?/
-吹唔脹 吹唔胀 [chui1 n2 zhang4] {ceoi1 m4 zoeng3} /se sentir impuissant/
+吹咩 吹咩 [chui1 mie1] {ceoi1 me1} /et alors? (exprime une indifférence)/
+吹唔脹 吹唔胀 [chui1 n2 zhang4] {ceoi1 m4 zoeng3} /se sentir impuissant; n'y rien pouvoir; ne rien pouvoir y faire/
 吹打 吹打 [chui1 da3] {ceoi1 daa2} /(expr. idiom.) jouer de la musique/(lit.) souffler et frapper/
-吹水 吹水 [chui1 shui3] {ceoi1 seoi2} /bavarder, placoter/parler/cancaner, jaser/se vanter/
-吹水唔抹嘴 吹水唔抹嘴 [chui1 shui3 m2 mo3 zui3] {ceoi1 seoi2 m4 maat3 zeoi2} /(expr. idiom.) des personnes qui se vantent trop/(expr. idiom.) dire n'importe quoi/(lit.) souffler de l'eau sans nettoyer la bouche/
+吹水 吹水 [chui1 shui3] {ceoi1 seoi2} /(fig.) bavarder; placoter; parler/(fig.) cancaner; jaser/(fig.) se vanter/(fig.) dire des bêtises/(lit.) souffler de l'eau/
+吹水唔抹嘴 吹水唔抹嘴 [chui1 shui3 m2 mo3 zui3] {ceoi1 seoi2 m4 maat3 zeoi2} /(expr. idiom.) se vanter/(expr. idiom.) mentir sans ciller; dire des mensonges éhontés/(expr. idiom.) dire n'importe quoi; dire des conneries/(lit.) souffler de l'eau sans nettoyer la bouche/
 吹波機 吹波机 [chui1 bo1 ji1] {ceoi1 bo1 gei1} /éthylotest/
 吹波膠 吹波膠 [chui1 bo1 hao2] {ceoi1 bo1 gaau1} /chewing-gum/
-吹漲 吹涨 [chui1 zhang3] {ceoi1 zoeng3} /ne pas pouvoir réagir face à une situation absurde/énervant/gonfler (un ballon)/
-吹爆 吹爆 [chui1 bao4] {ceoi1 baau3} /être fâché contre quelqu'un/
-吹皺一池春水 吹皱一池春水 [chui1 zhou4 yi1 chi2 chun1 shui3] {ceoi1 zau3 jat1 ci4 ceon1 seoi2} /(expr. idiom.) ce n'est pas de tes affaires, ce n'est pas de vos oignons/
-吹笛 吹笛 [chui1 di2] {ceoi1 dek2} /jouer de flûte/
-吹脹 吹胀 [chui1zhang4] {ceoi1 zoeng3} /frustré, énervé/
-吹雞 吹鸡 [chui1 ji1] {ceoi1 gai1} /donner un coup de sifflet/demander du renfort/
-吹風 吹风 [chui1 feng1] {ceoi1 fung1} /jouir de la brise/
-吹鬚睩眼 吹须睩眼 [chui1 xu1 lu4 yan3] {ceoi1 sou1 luk1 ngaan5} /(expr. idiom.) très fâché/(lit.) souffler sa moustache et rouler les yeux/
-吼 吼 [hou3] {haau1} /suivre (quelque chose) de près/
-吼住 吼住 [hou3 zhu4] {hau3 zyu6} /suivre (quelque chose) de près/
-吼斗 吼斗 [hou3 dou4] {hau1 dau2} /acheter/vouloir/
+吹漲 吹涨 [chui1 zhang3] {ceoi1 zoeng3} /(fig.) énerver; agacer; frustrer/(lit.) gonfler/
+????f 吹爆 吹爆 [chui1 bao4] {ceoi1 baau3} /(fig.) énerver; agacer; frustrer/(lit.) gonfler au point de faire exploser quelque chose/
+????c 吹皺一池春水 吹皱一池春水 [chui1 zhou4 yi1 chi2 chun1 shui3] {ceoi1 zau3 jat1 ci4 ceon1 seoi2} /(expr. idiom.) ce n'est pas de tes affaires, ce n'est pas de vos oignons/
+吹笛 吹笛 [chui1 di2] {ceoi1 dek2} /jouer de la flûte/
+吹脹 吹胀 [chui1 zhang4] {ceoi1 zoeng3} /(fig.) énerver; agacer; frustrer/(lit.) gonfler/
+吹雞 吹鸡 [chui1 ji1] {ceoi1 gai1} /donner un coup de sifflet/appeler des renfort/
+吹風 吹风 [chui1 feng1] {ceoi1 fung1} /prendre l'air; jouir de la brise/
+吹鬚睩眼 吹须睩眼 [chui1 xu1 lu4 yan3] {ceoi1 sou1 luk1 ngaan5} /(expr. idiom.) être furieux; être enragé; être très fâché/(lit.) souffler sa moustache et rouler les yeux/
+吼 吼 [hou3] {hau1} /regarder fixement; regarder attentivement; surveiller attentivement/
+吼住 吼住 [hou3 zhu4] {hau1 zyu6} /regarder fixement; regarder attentivement; surveiller attentivement/
+吼斗 吼斗 [hou3 dou4] {hau1 dau2} /regarder fixement; regarder attentivement/vouloir; désirer/
 吼機會 吼机会 [hou3 ji1 hui4] {hau1 gei1 wui6} /attendre l'occasion (de faire quelque chose)/
 吽 吽 [hong1] {ngau6} /lent, qui ne réagit pas/stupide/
 吽仔 吽仔 [hong1 zi3] {ngau6 zai2} /enceinte/garçons stupides/
