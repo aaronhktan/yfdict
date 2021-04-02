@@ -3603,50 +3603,51 @@
 可可粉 可可粉 [ke3 ke3 fen3] {ho2 ho2 fan2} /poudre de cacao/
 可可豆 可可豆 [ke3 ke3 dou4] {ho2 ho2 dau2} /fève de cacao/
 可唔可以 可唔可以 [ke3 m2 ke3 yi3] {ho2 m4 ho2 ji5} /est-ce qu'il est possible de...?/est-ce qu'on a le droit de...?/
-可嘉 可嘉 [ke3 jia1] {ho2 gaa1} /digne de louange/
+可嘉 可嘉 [ke3 jia1] {ho2 gaa1} /digne de d'éloges; louable/
 可大可小 可大可小 [ke3 da4 ke3 xiao3] {ho2 daai6 ho2 siu2} /qui pourrait être grave ou sans importance/
-可怖 可怖 [ke3 bu4] {ho2 bou3} /terrifiant/
-可惱也 可恼也 [ke3 nao3 ye3] {ho2 nou5 jaa5} /(de l'opéra cantonais) être énervé par un discours absurde/
-???? 可想然之 可想然之 [ke3 xiang3 ran2 zhi1] {ho2 soeng2 jin4 zi1} /you can imagine that/
-可比價格 可比价格 [ke3 bi3 jia4 ge2] {ho2 bei2 gaa3 gaak3} /prix fixe/prix comparable/
-可用性 可用性 [ke3 yong4 xing4] {ho2 jung6 sing3} /maniabilité, facilité d'utilisation/
-可能 可能 [ke3 neng2] {ho2 nang4} /capable/
+可怖 可怖 [ke3 bu4] {ho2 bou3} /terrifiant; effroyable; effrayant/
+可惱也 可恼也 [ke3 nao3 ye3] {ho2 nou5 jaa5} /(de l'opéra cantonais) être énervé/
+可想然之 可想然之 [ke3 xiang3 ran2 zhi1] {ho2 soeng2 jin4 zi1} /il est évident que.../
+????c 可比價格 可比价格 [ke3 bi3 jia4 ge2] {ho2 bei2 gaa3 gaak3} /(finances) prix fixe; prix comparable/
+????c 可用性 可用性 [ke3 yong4 xing4] {ho2 jung6 sing3} /utilisabilité; capacité à être utilisé/
+可能 可能 [ke3 neng2] {ho2 nang4} /peut-être; possible/probable/capable/
 可見度 可见度 [ke3 jian4 du4] {ho2 gin3 dou6} /visibilité/
-台 台 [tai2] {toi4} /scène/estrade, tribune/station de radio télévision/abbréviation de Taïwan/
-台型 台型 [tai2 xing2] {toi4 jing4} /charisme sur scène/
+台 台 [tai2] {toi4} /scène; estrade; tribune/station de radio/chaîn de télévision/abbréviation de Taïwan/
+台 台 [tai2] {toi2} /table/
+????f 台型 台型 [tai2 xing2] {toi4 jing4} /charisme sur scène; performance sur scène (air on scene; performance on scene)/
 台山話 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /(langue) taishanais/
-台山话 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /(langue) taishanais/
-台灣問題 台湾问题 [tai2 wan1 wen4 ti2] {toi4 waan1 man6 tai4} /«question de Taïwan», le sujet du statut de Taïwan vis-à-vis la Chine continentale/
+台灣問題 台湾问题 [tai2 wan1 wen4 ti2] {toi4 waan1 man6 tai4} /« question de Taïwan », le sujet du statut de Taïwan vis-à-vis la Chine continentale/
 台灣牌 台湾牌 [tai2 wan1 pai2] {toi4 waan1 paai2} /mah-jong taïwanais/
 台灣高速鐵路 台湾高速铁路 [tai2 wan1 gao1 su4 tie3 lu4] {toi4 waan1 gou1 cuk1 tit3 lou6} /ligne à grande vitesse de Taïwan/
-叱吒風雲 叱咤风云 [chi4 zha4 feng1 yun2] {cik1 zaa1 fung1 wan4} /(expr. idiom.) puissant/(lit.) qui réprimande le vent et les nuages/
-史前時代 史前时代 [shi3 qian2 shi2 dai4] {si2 cin4 si4 doi6} /l'époque préhistorique/
-史跡 史迹 [shi3 ji4] {si2 zik1} /sites historiques/
-右便 右便 [you4 bian4] {jau6 bin6} /à droite/
-右手便 右手便 [you4 shou3 bian4] {jau6 sau2 bin6} /côté droit/
-右手邊 右手边 [you4 shou3 bian1] {jau6 sau2 bin1} /côté droit/
+叱吒風雲 叱咤风云 [chi4 zha4 feng1 yun2] {cik1 zaa1 fung1 wan4} /(expr. idiom.) tout-puissant/(lit.) qui réprimande le vent et les nuages/
+叱吒風雲 叱咤风云 [chi4 zha4 feng1 yun2] {cik1 caak1 fung1 wan4} /(expr. idiom.) tout-puissant/(lit.) qui réprimande le vent et les nuages/
+史前時代 史前时代 [shi3 qian2 shi2 dai4] {si2 cin4 si4 doi6} /préhistoire; âge préhistorique; l'époque préhistorique/
+史跡 史迹 [shi3 ji4] {si2 zik1} /site historique/
+右便 右便 [you4 bian4] {jau6 bin6} /côté droit/à droite/
+右手便 右手便 [you4 shou3 bian4] {jau6 sau2 bin6} /côté droit/à droite/
+右手邊 右手边 [you4 shou3 bian1] {jau6 sau2 bin1} /côté droit/à droite/
 右眼 右眼 [you4 yan3] {jau6 ngaan5} /oeil droit/
 右肴 右肴 [you4 yao2] {jau6 ngaau1} /droitier/
-右腦 右脑 [you4 nao3] {jau6 nou5} /l'hémisphère droit du cerveau/
+右腦 右脑 [you4 nao3] {jau6 nou5} /hémisphère droit du cerveau/
 右軚 右軚 [you4 dai4] {jau6 taai5} /conduite à droite/
-右軚車 右軚车 [you4 dai4 che1] {jau6 taai5 ce1} /voitures conçus pour la conduite à droite/
-右面 右面 [you4 mian4] {jau6 min6} /côté droit/
-叵測 叵测 [po3 ce4] {po2 caak1} /une personne mauvaise imprévisible, «mauvais chaotique»/
-叵耐 叵耐 [po3 nai4] {po2 noi6} /insupportable/
-司令 司令 [si1 ling4] {si1 ling6} /commander/ordonner/
-司儀 司仪 [si1 yi2] {si1 ji4} /maître de céréomonie/
+????f 右軚車 右軚车 [you4 dai4 che1] {jau6 taai5 ce1} /voiture conçue pour la conduite à droite/
+右面 右面 [you4 mian4] {jau6 min6} /côté droit/à droite/
+叵測 叵测 [po3 ce4] {po2 caak1} /imprévisible; insondable; incompréhensible (connotation négative)/
+叵耐 叵耐 [po3 nai4] {po2 noi6} /ne pas pouvoir supporter/
+司令 司令 [si1 ling4] {si1 ling6} /commandant; commandant-en-chef/
+司儀 司仪 [si1 yi2] {si1 ji4} /maître des cérémonies/
 司徒華 司徒华 [si1 tu2 hua2] {si1 tou4 waa4} /Szeto Wah, un homme politique hongkongais/
-司法制度 司法制度 [si1 fa3 zhi4 du4] {si1 faat3 zai3 dou6} /pouvoir judiciaire/
+司法制度 司法制度 [si1 fa3 zhi4 du4] {si1 faat3 zai3 dou6} /système juridique/
 司法部長 司法部长 [si1 fa3 bu4 zhang3] {si1 faat3 bou6 zoeng2} /ministre de la Justice/
-司空 司空 [si1 kong1] {si1 hung1} /le fonctionnaire ayant le rang le plus élevé, responsable pour la construction et irrigation dans la Chine et Corée antique/
-司馬昭之心 司马昭之心 [si1 ma3 zhao1 zhi1 xin1] {si1 maa5 ciu1 zi1 sam1} /(expr. idiom.) une personne dont les mauvaises intentions qu'il essaie de dissimuler sont connues par tout le monde/(lit.) le coeur de 司馬昭 司马昭 est connu par tous/
+司空 司空 [si1 kong1] {si1 hung1} /le fonctionnaire ayant le rang le plus élevé responsable pour la construction et irrigation dans la Chine et Corée antique/
+????f 司馬昭之心 司马昭之心 [si1 ma3 zhao1 zhi1 xin1] {si1 maa5 ciu1 zi1 sam1} /(expr. idiom.) mauvaises intentions dont une personne essaie de dissimuler mais qui sont connues par tout le monde; secret de polichinelle (voir aussi 司馬昭之心，路人皆知|司马昭之心，路人皆知)/(lit.) les intentions de 司馬昭|司马昭 est connu par tout le monde/
 司馬秤 司马秤 [si1 ma3 cheng4] {si1 maa5 cing3} /balance (de pesage) chinoise/
 叻 叻 [le4] {lik1} /intelligent/futé, malin/accompli/astucieux/compétent/
 叻仔 叻仔 [le4 zi3] {lek1 zai2 } /garçon intelligent/Monsieur je-sais-tout/
-叻唔切 叻唔切 [le4 n2 qie4] {lek1 m4 cit3} /quelqu'un qui essaie d'avoir l'air intelligent mais en réalité ne connaît pas grand-chose/
-叻㗎 叻㗎 [le4 jia4] {lek1 gaa4} /lacque/qui est bon à faire.../
-叻埠 叻埠 [li4 bu4] {lak6 fau6} /vieux nom pour Singapour/
-叻女 叻女 [le4 nü3] {lek1 neoi2} /fille intelligente/femme accomplie/lesbienne/
+????f 叻唔切 叻唔切 [le4 n2 qie4] {lek1 m4 cit3} /être impatient de montrer ses connaissances/
+叻㗎 叻㗎 [le4 jia4] {lek1 gaa4} /lacque/(orig.) de l'anglais « lacquer » (« lacque »)/
+叻埠 叻埠 [li4 bu4] {lak6 fau6} /(vieilli) Singapour/
+叻女 叻女 [le4 nu:3] {lek1 neoi2} /fille intelligente/femme accomplie/lesbienne/
 叻幣 叻币 [li4 bi4] {lik1 bai6} /dollar des Établissements des détroits («Straits Settlements» en anglais)/
 叻架 叻架 [le4 jia4] {lik1 gaa2} /lacque/
 叻沙 叻沙 [le4 sha1] {lak6 saa1} /laksa, une soupe asiatique de nouilles épicées/
