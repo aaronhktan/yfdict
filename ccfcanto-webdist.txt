@@ -4143,7 +4143,7 @@
 唔係吖嗎 唔系吖吗 [n2 xi4 a1 ma5] {m4 hai6 aa1 maa3} /ce n'est pas possible! (exprime la déception)/
 唔係啩 唔系啩 [n2 xi4 gua3] {m4 hai6 gwaa3} /sérieux?, vraiment? (exprime la doute ou la surprise)/
 唔係嘅話 唔系嘅话 [n2 xi4 ge2 hua4] {m4 hai6 ge3 waa6} /sinon/
-????f 唔係噉話 唔系啖话 [n2 xi4 dan4 hua4] {m4 hai6 gam2 waa2} /(formule de politesse, réponse à un compliment) vous êtes trop gentil/(lit.) ne dites pas ça!/
+????f 唔係噉話 唔系啖话 [n2 xi4 dan4 hua4] {m4 hai6 gam2 waa2} /(formule de politesse, réponse à un compliment) vous êtes trop gentil; vous me flattez/(lit.) ne dites pas ça!/
 唔係幾 唔系几 [n2 xi4 ji3] {m4 hai6 gei2} /pas vraiment; pas tellement; pas aussi (suivi d'un adjectif)/
 ????c 唔係我手腳 唔系我手脚 [n2 xi4 wo3 shou3 jiao3] {m4 hai6 ngo5 sau2 goek3} /(expr. idiom.) ce n'est pas moi qui l'ait fait/(lit.) ce n'est pas ma main ni mes pieds/
 ????f 唔係猛龍唔過江 唔系猛龙唔过江 [n2 xi4 meng3 long2 m2 guo4 jiang1] {m4 hai6 maang5 lung4 m4 gwo3 gong1} /(expr. idiom.) seule une personne douée pourrait gagner une vie loin de la maison/(lit.) un dragon pas féroce ne pourrait pas franchir le fleuve/
@@ -4176,7 +4176,7 @@
 唔喺度 唔喺度 [n2 bei2 du4] {m4 hai2 dou6} /pas ici/
 唔喺處 唔喺处 [n2 bei2 chu3] {m4 hai2 cyu2} /pas ici, absent, pas là/
 唔𠸎耕 唔𠸎耕 [Wu2 na2 geng1] {m4 naa1 gaang1} /être sans rapport avec; n'avoir aucun lien avec/
-????c 唔嗅米氣 唔嗅米气 [n2 xiu4 mi3 qi4] {m4 cau3 mai5 hei3} /asocial; socialement maladroit/(lit.) qui ne mange pas assez de riz/
+唔嗅米氣 唔嗅米气 [n2 xiu4 mi3 qi4] {m4 cau3 mai5 hei3} /naïf/(lit.) qui ne mange pas assez de riz/
 唔嗲唔吊 唔嗲唔吊 [wu2 dia3 wu2 diao4] {m4 de2 m4 diu3} /inattentif; négligent; insouciant/
 唔在乎 唔在乎 [wu2 zai4 hu5] {m4 zoi6 fu4} /ne pas se soucier de; s'en foutre de; s'en ficher de/
 ????c 唔在行 唔在行 [wu2 zai4 hang2] {m4 zoi6 hong4} /ne pas être bon en; pas doué pour/profane; novice; débutant/
@@ -4198,106 +4198,106 @@
 唔好喐 唔好喐 [n2 hao3 yu4] {m4 hou2 juk1} /ne bougez pas/
 唔好嘈 唔好嘈 [n2 hao3 cao2] {m4 hou2 cou4} /tais-toi; arrête de parler/
 唔好意思 唔好意思 [wu2 hao3 yi4 si5] {m4 hou2 ji3 si3} /excusez-moi; pardon; désolé de vous déranger/être timide/
-???? 唔好意頭 唔好意头 [n2 hao3 yi4 tou2] {m4 hou2 ji3 tau4} /grossier, pas bien intentionné/
-唔好手腳 唔好手脚 [n2 hao3 shou3 jiao3] {m4 hou2 sau2 goek3} /kleptomane, quelqu'un qui vole souvent/
-唔好老脾 唔好老脾 [n2 hao3 lao3 pi2] {m4 hou2 lou5 pei4} /coléreux, irritable/
-???? 唔好話 唔好话 [n2 hao3 hua4] {m4 hou2 waa6} /ne dites pas/
-唔妥 唔妥 [n2 tuo3] {m4 to5} /inapproprié, incorrect/ne pas être d'accord avec quelqu'un/ne pas aimer, ne pas s'entendre bien avec qqn/
-唔嬲就假 唔嬲就假 [n2 niao3 jiu4 jia3] {m4 nau1 zau6 gaa2} /(expr. idiom.) quelqu'un est sûrement fâché/(lit.) c'est faux si on n'est pas fâché/
+唔好意頭 唔好意头 [n2 hao3 yi4 tou2] {m4 hou2 ji3 tau4} /mauvais présage; mauvais augure/
+唔好手腳 唔好手脚 [n2 hao3 shou3 jiao3] {m4 hou2 sau2 goek3} /kleptomane; quelqu'un qui vole souvent/
+唔好老脾 唔好老脾 [n2 hao3 lao3 pi2] {m4 hou2 lou5 pei4} /coléreux; irritable; hargneux/
+唔好話 唔好话 [n2 hao3 hua4] {m4 hou2 waa6} /sans parler; en laissant de côté; sans tenir compte de/ne dites pas/
+唔妥 唔妥 [n2 tuo3] {m4 to5} /inapproprié; incorrect; impropre/ne pas aimer; ne pas bien s'entendre avec quelqu'un/
+????f 唔嬲就假 唔嬲就假 [n2 niao3 jiu4 jia3] {m4 nau1 zau6 gaa2} /(expr. idiom.) avoir des bonnes raisons de se mettre en colère/(lit.) c'est faux si on n'est pas fâché/
 唔安樂 唔安乐 [wu2 an1 le4] {m4 on1 lok6} /mal à l'aise/
-唔定 唔定 [n2 ding4] {m4 ding6} /pas fixe, pas réglé/(lit.) peu sûr, instable/
-唔對路 唔对路 [n2 dui4 lu4] {m4 deoi3 lou6} /ne pas avoir l'air correct/
+唔定 唔定 [n2 ding4] {m4 ding6} /peut-être/
+唔對路 唔对路 [n2 dui4 lu4] {m4 deoi3 lou6} /(fig.) louche; suspect/(lit.) ne pas être sur la bonne voie/
 唔少 唔少 [n2 shao3] {m4 siu2} /nombreux/
 唔少得 唔少得 [n2 shao3 de5] {m4 siu2 dak1} /indispensable/
 唔得 唔得 [n2 de5] {m4 dak1} /ne pas pouvoir/pas question/non/
-唔得掂 唔得掂 [n2 de5 dian1] {m4 dak1 dim6} /qui ne va pas/pas bien, pas bon/ne pas faire/
+唔得掂 唔得掂 [n2 de5 dian1] {m4 dak1 dim6} /qui ne va pas/pas bien; pas bon/
 唔得閑 唔得闲 [n2 de2 xian2] {m4 dak1 haan4} /ne pas être disponible/
 唔得閒 唔得闲 [n2 de2 jian1] {m4 dak1 haan4} /ne pas être disponible/
-唔志在 唔志在 [n2 zhi4 zai4] {m4 zi3 zoi6} /ne pas s'en faire de quelque chose/sans importance/
-唔忿 唔忿 [wu2 fen4] {m4 fan6} /pas convaincu/
-唔忿氣 唔忿气 [n2 fen4 qi4] {m4 fan6 hei3} /mécontent de quelque chose/qui ne peut pas s'en remettre de qqch/
+唔志在 唔志在 [n2 zhi4 zai4] {m4 zi3 zoi6} /ne pas s'en faire; ne pas se soucier de/
+????c 唔忿 唔忿 [wu2 fen4] {m4 fan6} /être mécontent de quelque chose/refuser d'admettre la défaite/
+????c 唔忿氣 唔忿气 [n2 fen4 qi4] {m4 fan6 hei3} /être mécontent de quelque chose/refuser d'admettre la défaite/
 唔怕醜 唔怕丑 [n2 pa4 chou3] {m4 paa3 cau2} /pas timide/(lit.) ne pas avoir peur d'être laid/
-唔怪之 唔怪之 [n2 guai4 zhi1] {m4 gwaai3 zi1} /c'est pour ça que, pas étonnant que/
-唔怪之得 唔怪之得 [n2 guai4 zhi1 de5] {m4 gwaai3 zi1 dak1} /c'est pour ça que, pas étonnant que/
-唔怪得 唔怪得 [n2 guai4 de2] {m4 gwaai3 dak1} /c'est pour ça que, pas étonnant que/
-唔恨 唔恨 [n2 hen4] {m4 han6} /s'en ficher de quelque chose/treize à la douzaine, très courant/
+唔怪之 唔怪之 [n2 guai4 zhi1] {m4 gwaai3 zi1} /c'est pour ça que; pas étonnant que/
+唔怪之得 唔怪之得 [n2 guai4 zhi1 de5] {m4 gwaai3 zi1 dak1} /c'est pour ça que; pas étonnant que/
+唔怪得 唔怪得 [n2 guai4 de2] {m4 gwaai3 dak1} /c'est pour ça que; pas étonnant que/
+唔恨 唔恨 [n2 hen4] {m4 han6} /indésirable; peu enviable/treize à la douzaine; très courant/
 唔愛 唔爱 [n2 ai4] {m4 oi3} /ne pas aimer/
-唔慌 唔慌 [n2 huang1] {m4 fong1} /ne pas avoir besoin de s'en faire, à s'inquiéter/
-唔憂 唔忧 [n2 you1] {m4 jau1} /ne pas avoir besoin de s'en faire, à s'inquiéter/
-唔打唔相識 唔打唔相识 [n2 da3 n2 xiang1 shi2] {m4 daa2 m4 soeng1 sik1} /(expr. idiom.) l'on ne devient pas ami sans avoir résolu nos différends/(lit.) ne pas devenir ami avant de se battre/
-唔打得埋 唔打得埋 [n2 da3 de5 mai2] {m4 daa2 dak1 maai4} /qui ne sont pas de la même sorte de personne/
-唔打緊 唔打紧 [n2 da3 jin3] {m4 daa2 gan2} /pas de problème, ne vous inquiétez pas/
-唔抵 唔抵 [n2 di3] {m4 dai2} /qui ne vaut pas la peine/se sentir floué/ne pas pouvoir réconcilier avec l'idée de quelque chose, se résigner aux résultats/
-唔抵得 唔抵得 [n2 di3 de2] {m4 dai2 dak1} /jaloux, envieux (de quelqu'un)/
-唔抵得諗 唔抵得谂 [wu2 di3 de2 shen3] {m4 dai2 dak1 lam2} /refuser d'être à un désavantage/
-唔抵得頸 唔抵得颈 [n2 di3 de2 jing3] {m4 dai2 dak1 geng2} /susceptible, narcissiste/
-唔拘 唔拘 [n2 ju1] {m4 keoi1} /ça va, pas mal, pas d'objection/
-唔捨得 唔舍得 [n2 she3 de5] {m4 se2 dak1} /peu disposé à abandonner quelque chose, ne pas vouloir (faire qqch)/
-唔掂 唔掂 [wu2 dian1] {m4 dim6} /pas bien, ne va pas/
+唔慌 唔慌 [n2 huang1] {m4 fong1} /ne pas avoir besoin de s'en faire; ne pas avoir besoin de s'inquiéter/peu probable; improbable/
+唔憂 唔忧 [n2 you1] {m4 jau1} /ne pas avoir besoin de s'en faire; ne pas avoir besoin de s'inquiéter/
+????f 唔打唔相識 唔打唔相识 [n2 da3 n2 xiang1 shi2] {m4 daa2 m4 soeng1 sik1} /(expr. idiom.) l'on ne devient pas amis sans avoir résolu nos différends/(lit.) ne pas devenir amis avant de se battre/
+唔打得埋 唔打得埋 [n2 da3 de5 mai2] {m4 daa2 dak1 maai4} /(expr.) (personnes) incomptaibles; qui ne s'entendent pas/
+????c 唔打緊 唔打紧 [n2 da3 jin3] {m4 daa2 gan2} /t'en fais pas; ce n'est pas grave; laisse tomber/
+唔抵 唔抵 [n2 di3] {m4 dai2} /ne pas valoir la peine; ne pas valoir le coup/
+唔抵得 唔抵得 [n2 di3 de2] {m4 dai2 dak1} /jaloux, envieux (de quelqu'un)/ne pas pouvoir supporter/
+????c 唔抵得諗 唔抵得谂 [wu2 di3 de2 shen3] {m4 dai2 dak1 lam2} /refuser d'être à un désavantage/(
+????c 唔抵得頸 唔抵得颈 [n2 di3 de2 jing3] {m4 dai2 dak1 geng2} /susceptible, narcissiste/ne pas pouvoir réprimer sa colère/
+唔拘 唔拘 [n2 ju1] {m4 keoi1} /ça ne me dérange pas; ça m'est égal/ça me ferait plaisir/
+唔捨得 唔舍得 [n2 she3 de5] {m4 se2 dak1} /peu disposé à abandonner quelque chose/ne pas vouloir (faire quelque chose)/
+唔掂 唔掂 [wu2 dian1] {m4 dim6} /pas bien; ça ne va pas/(après un verbe) ne pas arriver à terminer, achever l'action/
 唔撈 唔捞 [n2 lao1] {m4 lou1} /démissionner (d'un emploi, poste)/
 唔敢 唔敢 [n2 gan3] {m4 gam2} /ne pas oser (faire quelque chose)/
-唔敢当 唔敢当 [n2 gan3 dang1] {m4 gam2 dong1} /ne pas oser être (quelque chose)/vous me flattez/
-唔敢當 唔敢当 [n2 gan3 dang1] {m4 gam2 dong1} /ne pas oser être (quelque chose)/vous me flattez/
+唔敢当 唔敢当 [n2 gan3 dang1] {m4 gam2 dong1} /(formule de politesse, réponse à un compliment) vous êtes trop gentil; vous me flattez/
+唔敢當 唔敢当 [n2 gan3 dang1] {m4 gam2 dong1} /(formule de politesse, réponse à un compliment) vous êtes trop gentil; vous me flattez/
 唔明 唔明 [n2 ming2] {m4 ming4} /ne pas comprendre/
-唔曉 唔晓 [n2 xiao3] {m4 hiu2} /ne pas savoir, ne pas comprendre/
-唔會 唔会 [n2 hui4] {m4 wui2} /ne pas, ne pas être possible/
+唔曉 唔晓 [n2 xiao3] {m4 hiu2} /ne pas comprendre/
+唔會 唔会 [n2 hui4] {m4 wui2} /ne va pas/
 唔止 唔止 [n2 zhi3] {m4 zi2} /non seulement/
-唔正常 唔正常 [wu2 zheng4 chang2] {m4 zing3 soeng4} /peu commun, inhabituel/
-唔死一身潺 唔死一身潺 [n2 si3 yi1 shen1 chan2] {m4 sei2 jat1 san1 saan4} /(expr. idiom.) dans de beaux draps, dans le pétrin/(lit.) même si on ne meurt pas, on souffrira beaucoup/
+唔正常 唔正常 [wu2 zheng4 chang2] {m4 zing3 soeng4} /anormal; inhabituel; inusité/
+????c 唔死一身潺 唔死一身潺 [n2 si3 yi1 shen1 chan2] {m4 sei2 jat1 san1 saan4} /(expr. idiom.) (utilisé dans les menaces) dans de beaux draps; dans le pétrin/(lit.) même si on ne meurt pas, on souffrira beaucoup/
 唔淨只 唔淨只 [n2 jing4 zhi3] {m4 zing6 zi2} /non seulement/
 唔淨止 唔淨止 [n2 jing4 zhi3] {m4 zing6 zi2} /non seulement/
-唔清唔楚 唔清唔楚 [wu2 qing1 n2 chu3] {m4 cing1 m4 co2} /flou, incertain, imprécis/
-唔湯唔水 唔汤唔水 [n2 tang1 n2 shui3] {m4 tong1 m4 seoi2} /(expr. idiom.) avoir de la difficulté dans un projet ou la vie/(expr. idiom.) ni l'un ni l'autre, qui n'a sans lien avec quelque chose/(lit.) ni soupe ni eau/
-唔準 唔准 [n2 zhun3] {m4 zeon2} /défendu, interdit/mauvais, incorrect/
-唔熟唔食 唔熟唔食 [n2 shu2 n2 shi2] {m4 suk6 m4 zi6} /(expr. idiom.) exploiter quelqu'un/(lit.) cru, ne mange pas/
-唔熟性 唔熟性 [n2 shu2 xing4] {m4 suk6 sing3} /ne pas comprendre les pratiques du monde/être socialement maladroite/
-唔爭在 唔争在 [n2 zheng1 zai4] {m4 zaang1 zoi6} /pouvoir aussi bien (faire quelque chose)/
-唔理 唔理 [n2 li3] {m4 lei5} /s'en ficher (de quelque chose)/laisser tomber , ne pas s'en occuper (de qqch)/sans tenir compte (de qqch), peu importe, de toute façon/
-唔理三七二十一 唔理三七二十一 [m4 li3 san1 qi1 er4 shi2 yi1] {m4 lei5 saam1 cat1 ji6 sap6 jat1} /(expr. idiom.) s'en ficher des conséquences/(expr. idiom.) s'en ficher de tout/(lit.) s'en ficher de trois fois sept égal vingt-et-un/
-唔理三七廿一 唔理三七廿一 [n2 li3 san1 qi1 nian4 yi1] {m4 lei5 saam1 cat1 jaa6 jat1} /(expr. idiom.) s'en ficher des conséquences/(expr. idiom.) s'en ficher de tout/(lit.) s'en ficher de trois fois sept égal vingt-et-un/
-唔理得咁多 唔理得咁多 [n2 li3 de5 gan1 duo1] {m4 lei5 dak1 gam3 do1} /s'en ficher de tout, le faire tout simplement/
-唔理點 唔理点 [n2 li3 dian3] {m4 lei5 dim2} /quoi qu'il arrive, n'importe ce qui arrive/
-唔生性 唔生性 [n2 sheng1 xing5] {m4 saang1 sing3} /immature/
-唔相干 唔相干 [wu2 xiang1 gan1] {m4 soeng1 gon1} /hors de propos, qui n'a rien à voir avec/
-唔瞅唔睬 唔瞅唔睬 [n2 chou3 m2 cai3] {m4 cau1 m4 coi2} /ignorer quelqu'un/
-唔知 唔知 [n2 zhi1] {m4 zi1} /ne pas savoir/
-唔知個死字點寫 唔知个死字点写 [n2 zhi1 ge4 si3 zi4 dian3 xie3] {m4 zi1 go3 sei2 zi6 dim2 se2} /(expr. idiom.) ne pas avoir peur/(expr. idiom.) ne pas savoir à quel point une situation est dangereuse/(lit.) ne pas savoir comment s'écrit le caractère pour la mort/
+唔清唔楚 唔清唔楚 [wu2 qing1 n2 chu3] {m4 cing1 m4 co2} /flou; pas clair; imprécis; ambigu/
+唔湯唔水 唔汤唔水 [n2 tang1 n2 shui3] {m4 tong1 m4 seoi2} /(expr. idiom.) (d'un travail) pas bien fait; bâclé; en mauvais état/(lit.) ni soupe ni eau/
+唔準 唔准 [n2 zhun3] {m4 zeon2} /défendu; interdit/mauvais; incorrect/
+????f 唔熟唔食 唔熟唔食 [n2 shu2 n2 shi2] {m4 suk6 m4 zi6} /(expr. idiom.) exploiter sa famille ou ses amis/(lit.) s'il n'est pas cuit, on ne le mange pas (calembour avec le mot « 熟 », qui signifie « connaître (quelqu'un) » et aussi « cuit »)/
+????c 唔熟性 唔熟性 [n2 shu2 xing4] {m4 suk6 sing3} /ne pas comprendre les pratiques du monde/être socialement maladroite/naïf; candide/
+????c 唔爭在 唔争在 [n2 zheng1 zai4] {m4 zaang1 zoi6} /pouvoir aussi bien (faire quelque chose)/ne pas avoir d'importance/
+唔理 唔理 [n2 li3] {m4 lei5} /s'en foutre; s'en ficher (de quelque chose)/quel que soit; indépendamment de; peu importe/
+????f 唔理三七二十一 唔理三七二十一 [m4 li3 san1 qi1 er4 shi2 yi1] {m4 lei5 saam1 cat1 ji6 sap6 jat1} /(expr. idiom.) sans se soucier des conséquences; quoi qu'il arrive; n'importe ce qui arrive; peu importe le moyen/(expr. idiom.) s'en foutre de tout/(lit.) s'en ficher de trois fois sept égal vingt-et-un/
+????f 唔理三七廿一 唔理三七廿一 [n2 li3 san1 qi1 nian4 yi1] {m4 lei5 saam1 cat1 jaa6 jat1} /(expr. idiom.) sans se soucier des conséquences; quoi qu'il arrive; n'importe ce qui arrive; peu importe le moyen/(expr. idiom.) s'en foutre de tout/(lit.) s'en ficher de trois fois sept égal vingt-et-un/
+????c 唔理得咁多 唔理得咁多 [n2 li3 de5 gan1 duo1] {m4 lei5 dak1 gam3 do1} /s'en ficher de tout; le faire tout simplement/
+唔理點 唔理点 [n2 li3 dian3] {m4 lei5 dim2} /quoi qu'il arrive; n'importe ce qui arrive; peu importe le moyen/
+????c 唔生性 唔生性 [n2 sheng1 xing5] {m4 saang1 sing3} /immature/
+唔相干 唔相干 [wu2 xiang1 gan1] {m4 soeng1 gon1} /hors de propos; qui n'a rien à voir avec/
+????f 唔瞅唔睬 唔瞅唔睬 [n2 chou3 m2 cai3] {m4 cau1 m4 coi2} /(expr. idiom.) bouder; faire la tête à quelqu'un; ignorer quelqu'un/
+唔知 唔知 [n2 zhi1] {m4 zi1} /ne pas savoir; ne pas connaître; méconnaître/très; tellement; autant; extrêmement/
+唔知個死字點寫 唔知个死字点写 [n2 zhi1 ge4 si3 zi4 dian3 xie3] {m4 zi1 go3 sei2 zi6 dim2 se2} /(expr. idiom.) être inconscient du danger; ne pas avoir peur; ne pas savoir à quel point une situation est dangereuse/(lit.) ne pas savoir comment s'écrit le caractère « mort »/
 唔知個羞字點寫 唔知个羞字点写 [wu2 zhi1 ge4 xiu1 zi4 dian3 xie3] {m4 zi1 go3 sau1 zi6 dim2 se2} /(expr. idiom.) éhonté/(lit.) ne pas savoir comment s'écrit le caractère pour la honte/
-唔知個醜字點寫 唔知个丑字点写 [n2 zhi1 ge4 chou3 zi4 dian3 xie3] {m4 zi1 go3 cau2 zi6 dim2 se2} /(expr. idiom.) éhonté/(lit.) ne pas savoir comment s'écrit le caractère pour la laideur/
-唔知好丑 [n2 zhi1 hao3 chou3] {m4 zi1 hou2 cau2} /n'importe si c'est bon ou mauvais/qui n'accepte pas les gentillesse des autres/
-唔知幾 唔知几 [n2 zhi1 ji3] {m4 zi1 gei2} /ne pas savoir pourquoi il en est ainsi/
-唔知死 唔知死 [n2 zhi1 si3] {m4 zi1 sei2} /(expr. idiom.) ne pas avoir peur/(expr. idiom.) ne pas savoir à quel point une situation est dangereuse/(lit.) ne pas savoir la mort/
-唔知衰 唔知衰 [n2 zhi1 shuai1] {m4 zi1 seoi1} /ne pas regretter d'avoir fait quelque chose de mal/
-唔知道 唔知道 [n2 zhi1 dao5] {m4 zi1 dou3} /ne pas savoir/
+唔知個醜字點寫 唔知个丑字点写 [n2 zhi1 ge4 chou3 zi4 dian3 xie3] {m4 zi1 go3 cau2 zi6 dim2 se2} /(expr. idiom.) éhonté/(lit.) ne pas savoir comment s'écrit le caractère « laid »/
+????c 唔知好丑 [n2 zhi1 hao3 chou3] {m4 zi1 hou2 cau2} /n'importe si c'est bon ou mauvais/qui n'accepte pas les gentillesse des autres/
+唔知幾 唔知几 [n2 zhi1 ji3] {m4 zi1 gei2} /très; tellement; autant; extrêmement/
+唔知死 唔知死 [n2 zhi1 si3] {m4 zi1 sei2} /(expr. idiom.) être inconscient du danger; ne pas avoir peur; ne pas savoir à quel point une situation est dangereuse/(lit.) ne pas savoir la mort/
+????c 唔知衰 唔知衰 [n2 zhi1 shuai1] {m4 zi1 seoi1} /ne pas regretter d'avoir fait quelque chose de mal/
+唔知道 唔知道 [n2 zhi1 dao5] {m4 zi1 dou3} /ne pas savoir; ne pas connaître; méconnaître/
 唔知醜 唔知丑 [n2 zhi1 chou3] {m4 zi1 cau2} /éhonté/
-唔知醜字點寫 唔知丑字点写 [n2 zhi1 chou3 zi4 dian3 xie3] {m4 zi1 cau2 zi6 dim2 se2} /(expr. idiom.) éhonté/(lit.) ne pas savoir comment s'écrit le caractère pour la laideur/
-唔禁 唔禁 [n2 jin4] {m4 kam1} /ne pas oser/
+唔知醜字點寫 唔知丑字点写 [n2 zhi1 chou3 zi4 dian3 xie3] {m4 zi1 cau2 zi6 dim2 se2} /(expr. idiom.) éhonté/(lit.) ne pas savoir comment s'écrit le caractère « laid »/
+????c 唔禁 唔禁 [n2 jin4] {m4 kam1} /(d'un objet) pas durable/(personne) ne pas pouvoir supporter/
 唔等使 唔等使 [n2 deng3 shi3] {m4 dang2 sai2} /inutile/
-唔算 唔算 [n2 suan4] {m4 syun3} /ne pas compter/ne pas tenir compte de/
-唔算數 唔算数 [wu2 suan4 shu4] {m4 syun3 sou3} /ne pas compter/ne pas tenir compte de/
-唔精神 唔精神 [n2 jing1 shen5] {m4 zing1 san4} /être fatigué/
-唔經唔覺 唔经唔觉 [n2 jing1 n2 jue2] {m4 ging1 m4 gok3} /déjà, sans le savoir/
-唔經大腦 唔经大脑 [n2 jing1 da4 nao3] {m4 ging1 daai6 nou5} /sans penser/
-唔緊要 唔紧要 [wu2 jin3 yao4] {m4 gan2 jiu3} /ne vous inquiétez pas, laissez tomber/
-唔聲 唔声 [n2 sheng1] {m4 seng1} /de manière secrète/
-唔聲唔聲 唔声唔声 [n2 sheng1 m2 sheng1] {m4 seng1 m4 seng1} /discrètement/introverti/
+唔算 唔算 [n2 suan4] {m4 syun3} /ne pas être considéré comme/
+????c 唔算數 唔算数 [wu2 suan4 shu4] {m4 syun3 sou3} /revenir sur sa parole/
+唔精神 唔精神 [n2 jing1 shen5] {m4 zing1 san4} /être fatigué; être sans énergie/
+唔經唔覺 唔经唔觉 [n2 jing1 n2 jue2] {m4 ging1 m4 gok3} /sans le savoir; sans s'en rendre compte/
+唔經大腦 唔经大脑 [n2 jing1 da4 nao3] {m4 ging1 daai6 nou5} /(fig.) sans penser; sans réfléchir/(lit.) ne pas passer par le cerveau/
+唔緊要 唔紧要 [wu2 jin3 yao4] {m4 gan2 jiu3} /t'en fais pas; ce n'est pas grave; laisse tomber/
+唔聲 唔声 [n2 sheng1] {m4 seng1} /discrètement; silencieusement; en silence/
+唔聲唔聲 唔声唔声 [n2 sheng1 m2 sheng1] {m4 seng1 m4 seng1} /discrètement; silencieusement; en silence/
 唔聽笛 唔听笛 [n2 ting1 di2] {m4 teng1 dek2} /(expr. idiom.) désobéissant/(lit.) qui n'écoute pas la flûte/
-唔自在 唔自在 [n2 zi4 zai5] {m4 zi6 zoi6} /mal à l'aise/
-唔自然 唔自然 [n2 zi4 ran5] {m4 zi6 jin4} /contre nature, anormal/
+唔自在 唔自在 [n2 zi4 zai5] {m4 zi6 zoi6} /un peu malade/mal à l'aise/
+唔自然 唔自然 [n2 zi4 ran5] {m4 zi6 jin4} /contre nature; anormal/un peu malade/mal à l'aise/
 唔自量 唔自量 [wu2 zi4 liang4] {m4 zi6 loeng6} /se surestimer/
-???? 唔臭米氣 唔臭米气 [n2 chou4 mi3 qi4] {m4 cau3 mai5 hei3} /naïf/sans coeur, sans pitié/
+唔臭米氣 唔臭米气 [n2 chou4 mi3 qi4] {m4 cau3 mai5 hei3} /(expr. idiom.) naïf; candide/
 唔舒服 唔舒服 [wu2 shu1 fu5] {m4 syu1 fuk6} /mal à l'aise/inconfortable/
-唔衰得 唔衰得 [n2 shuai1 de5] {m4 seoi1 dak1} /ne pas se pouvoir permettre d'échouer, de se donner une mauvaise image/
-???? 唔衰攞嚟衰 唔衰攞嚟衰 [n2 shuai1 luo1 li2 shuai1] {m4 seoi1 lo2 lai4 seoi1} /quelqu'un qui se crée des problèmes pour lui-même/
-唔製 唔制 [n2 zhi4] {m4 zai3} /non/ne pas être disposé à/réticent à/
-唔製得過 唔制得过 [n2 zhi4 de2 guo4] {m4 zai3 dak1 gwo3} /qui ne vaut pas la peine de faire/
+????c 唔衰得 唔衰得 [n2 shuai1 de5] {m4 seoi1 dak1} /ne pas se pouvoir permettre d'échouer, de se donner une mauvaise image/
+唔衰攞嚟衰 唔衰攞嚟衰 [n2 shuai1 luo1 li2 shuai1] {m4 seoi1 lo2 lai4 seoi1} /(expr. idiom.) se créer des problèmes pour lui-même/(lit.) déranger quelque chose qui allait bien/
+唔製 唔制 [n2 zhi4] {m4 zai3} /ne pas vouloir faire/
+唔製得過 唔制得过 [n2 zhi4 de2 guo4] {m4 zai3 dak1 gwo3} /qui ne vaut pas la peine; ne pas valoir le coup/
 唔要 唔要 [n2 yao4] {m4 jiu3} /ne pas vouloir/ne pas avoir besoin de/
-唔要得 唔要得 [n2 yao4 de2] {m4 jiu3 dak1} /ne pas pouvoir prendre/
-唔見 唔见 [n2 jian4] {m4 gin3} /ne pas voir/
-唔見咗 唔见咗 [n2 jian4 zuo5] {m4 gin3 zo2} /perdu, disparu/
-唔見得人 唔见得人 [n2 jian4 de2 ren2] {m4 gin3 dak1 jan4} /qui ne peut pas être montré en public/
-唔見得光 唔见得光 [n2 jian4 de5 guang1] {m4 gin3 dak1 gwong1} /(expr. idiom.) qui ne doit pas voir le jour, quelque chose qui doit rester dissimulé ou caché du grand public/(lit.) ne peut pas voir la lumière/
-唔見棺材唔流眼淚 唔见棺材唔流眼泪 [n2 jian4 guan1 cai5 n2 liu2 yan3 lei4] {m4 gin3 gun1 coi4 m4 lau4 ngaan5 leoi6} /ne pas croire quelque chose jusqu'à ce que l'on doit faire face à la réalité/(lit.) ne pas pleurer avant de voir le cercueil/
+????c 唔要得 唔要得 [n2 yao4 de2] {m4 jiu3 dak1} /ne pas pouvoir prendre/
+唔見 唔见 [n2 jian4] {m4 gin3} /perdre/ne pas voir/
+唔見咗 唔见咗 [n2 jian4 zuo5] {m4 gin3 zo2} /perdu; disparu/
+????c 唔見得人 唔见得人 [n2 jian4 de2 ren2] {m4 gin3 dak1 jan4} /qui ne peut pas être montré en public/
+唔見得光 唔见得光 [n2 jian4 de5 guang1] {m4 gin3 dak1 gwong1} /(expr. idiom.) qui ne doit pas voir le jour; quelque chose qui doit rester dissimulé ou caché du grand public/(lit.) ne peut pas voir la lumière/
+唔見棺材唔流眼淚 唔见棺材唔流眼泪 [n2 jian4 guan1 cai5 n2 liu2 yan3 lei4] {m4 gin3 gun1 coi4 m4 lau4 ngaan5 leoi6} /(expr. idiom.) ne pas croire quelque chose jusqu'à ce que l'on doit faire face à la réalité/(lit.) ne pas pleurer avant de voir le cercueil/
 唔覺意 唔觉意 [n2 jue2 yi4] {m4 gok3 ji3} /involontairement, inconsciemment/
 唔覺眼 唔觉眼 [n2 jue2 yan3] {m4 gok3 ngaan5} /passer inaperçu/ne pas remarquer/
 ???? 唔計帶 唔计带 [n2 ji4 dai4] {m4 gai3 daai3} /do not mind, do not care/
