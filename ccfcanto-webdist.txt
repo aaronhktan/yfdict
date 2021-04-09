@@ -2066,12 +2066,12 @@
 兆麟苑 兆麟苑 [zhao4 lin2 yuan4] {siu6 leon4 jyun2} /Siu Lun Court, grand ensemble aux Nouveaux Territoires, Hong Kong/
 兇徒 凶徒 [xiong1 tu2] {hung1 tou4} /criminel; coupable; auteur d'un crime/
 兇暴 凶暴 [xiong1 bao4] {hung1 bou6} /féroce et brutal/
-先一排 先一排 [xian1 yi4 pai2] {sin1 jat1 paai4} /il y a un instant; il y a quelques instant; plus tôt/
+先一排 先一排 [xian1 yi4 pai2] {sin1 jat1 paai4} /il y a quelques temps; il y a un certain temps/
 ????f 先使未來錢 先使未来钱 [xian1 shi3 wei4 lai2 qian2] {sin1 sai2 mei6 loi4 cin4} /(expr. idiom.) dépenser de l'argent que l'on n'a pas/(lit.) dépenser l'argent de l'avenir/
-先嗰排 先嗰排 [xian1 g5 pai2] {sin1 go2 paai4} /il y a un instant; il y a quelques instant; plus tôt/
+先嗰排 先嗰排 [xian1 g5 pai2] {sin1 go2 paai4} /il y a quelques temps; il y a un certain temps/
 先小人,後君子 先小人,后君子 [xian1 xiao3 ren2 , hou4 jun1 zi3] {sin1 siu2 jan4 hau6 gwan1 zi2} /parler de faits et chiffres avant de penser aux émotions et relations (dans le commerce)/
 ????f 先手 先手 [xian1 shou3] {sin1 sau2} /la personne qui agit en premier; la personne qui agit d'abord/(échecs) offensive/
-先排 先排 [xian1 pai2] {sin1 paai2} /il y a un instant; il y a quelques instants; plus tôt/
+先排 先排 [xian1 pai2] {sin1 paai2} /il y a quelques temps; il y a un certain temps/
 ????f 先敬羅衣後敬人 先敬罗衣后敬人 [xian1 jing4 luo2 yi1 hou4 jing4 ren2] {sin1 ging3 lo4 ji1 hau6 ging3 jan4} /(expr. idiom.) juger une personne d'après les apparences/(lit.) juger les vêtements de soie avant de juger la personne/
 先時 先时 [xian1 shi2] {sin1 si4} /au début/dans le passé/
 ????f 先生 先生 [xian1 sheng5] {sin1 saang1} /Monsieur/(appellation de politesse donnée à un enseignant de sexe masculin)/mari; époux/
@@ -2839,7 +2839,7 @@
 前個排 前个排 [qian2 ge4 pai2] {cin4 go3 paai4} /il y a quelque temps; il y a un certain temps/
 前列腺癌 前列腺癌 [qian2 lie4 xian4 ai2] {cin4 lit6 sin3 ngaam4} /cancer de la prostate/
 前前後後 前前后后 [qian2 qian2 hou4 hou4] {cin4 cin4 hau6 hau6} /dans l'ensemble/à travers, tous/
-前功盡廢 前功尽废 [qian2 gong1 jin4 fei4] {cin4 gung1 zeon6 fai3} /gaspiller l'effort et le temps déjà dépensés/
+????f 前功盡廢 前功尽废 [qian2 gong1 jin4 fei4] {cin4 gung1 zeon6 fai3} /(expr.) gaspiller l'effort et le temps déjà dépensés/
 前嗰排 前嗰排 [qian2 g5 pai2] {cin4 go2 paai4} /il y a quelque temps; il y a un certain temps/
 前嗰牌 前嗰牌 [qian2 g5 pai2] {cin4 go2 paai4} /il y a quelque temps; il y a un certain temps/
 前嗰輪 前嗰轮 [qian2 g5 lun2] {cin4 go3 leon4} /il y a quelque temps; il y a un certain temps/
@@ -4648,55 +4648,55 @@
 嘔心 呕心 [ou3 xin1] {au2 sam1} /(fig.) dégoutant/(fig.) faire un grand effort; mettre tous ses efforts; s'efforcer/(lit.) vomir le cœur/
 嘔浪 呕浪 [ou3 lang4] {au2 long6} /avoir le mal de mer/(lit.) vomir des vagues/
 ????f 嘔血 呕血 [ou3 xue4] {au2 hyut3} /(fig.) être en colère; être fâché/(fig.) être épuisé; être très fatigué/(lit.) vomir du sang/
-嘔電 呕电 [ou3 dian4] {au2 din6} /énervé/
+嘔電 呕电 [ou3 dian4] {au2 din6} /(fig.) énervant/(lit.) vomir de l'électricité/
 嘖嘖稱羡 啧啧称羡 [ze2 ze2 cheng1 xian4] {zaak3 zaak3 cing1 sin6} /(expr. idiom.) faire l'éloge de quelqu'un ou quelque chose/
-嘗新 尝新 [chang2 xin1] {soeng4 san1} /essayer de nouvelles choses/innover/
-嘛 嘛 [ma5] {maa3} /moyen, comme ci, comme ça, utilisé seulement dans l'expression fixe "嘛嘛"/
-嘞 嘞 [lei5] {laak3} /particule modale pour exprimer la certitude, en particulier pour les actions dans le passé/
-嘢食 嘢食 [ye3 shi2] {je5 sik6} /nourriture/
-嘢飲 嘢饮 [ye3 yin3] {je5 jam2} /boissons/
-嘥 嘥 [sai1] {saai1} /gaspillage, perte/
-嘥口水 嘥口水 [sai1 kou3 shui3] {saai1 hau2 seoi2} /(expr. idiom.) perdre son temps en tentant de convaincre quelqu'un de quelque chose/(lit.) gaspiller sa salive/
-嘥地方 嘥地方 [sai1 di4 fang5] {saai1 dei6 fong1} /perte d'espace/
-嘥心機 嘥心机 [sai1 xin1 ji1] {saai1 sam1 gei1} /perdre son temps, gaspiller son énergie/
-嘥心機,挨眼瞓 嘥心机,挨眼瞓 [sai1 xin1 ji1 , ai1 yan3 xun4] {saai1 sam1 gei1 ngaai4 ngaan5 fan3} /travailler fort pour rien/
-嘥撻 嘥挞 [sai1 ta4] {saai1 taat3} /gaspiller, perdre/
-嘥料 嘥料 [sai1 liao4] {saai1 liu2} /gaspillage matériel/
-嘥時間 嘥时间 [sai1 shi2 jian1] {saai1 si4 gaan3} /perte de temps, gaspillage de temps/
-嘥氣 嘥气 [sai1 qi4] {saai1 hei3} /(expr. idiom.) faire quelque chose pour rien/(lit.) gaspiller son air/
-嘥燈賣油 嘥灯卖油 [sai1 deng1 mai4 you2] {saai1 dang1 maai6 jau4} /travailler fort pour rien/
-嘥聲壞氣 嘥声坏气 [sai1 sheng1 huai4 qi4] {saai1 sing1 waai6 hei3} /perte d'effort/
-嘥錢 嘥钱 [sai1 qian2] {saai1 cin2} /perte d'argent, gaspillage d'argent/
-噓唏 嘘唏 [xu1 xi1] {heoi1 hei1} /soupirer, sangloter/
+嘗新 尝新 [chang2 xin1] {soeng4 san1} /essayer de nouvelles choses/
+嘛 嘛 [ma5] {maa3} /moyen; pas pire; utilisé seulement dans l'expression fixe « 嘛嘛 »/
+嘞 嘞 [lei5] {laak3} /(particule modale qui exprime la certitude)/
+嘢食 嘢食 [ye3 shi2] {je5 sik6} /nourriture; aliments/
+嘢飲 嘢饮 [ye3 yin3] {je5 jam2} /boissons; breuvages/
+嘥 嘥 [sai1] {saai1} /gaspillage; perte/gaspiller/
+????f 嘥口水 嘥口水 [sai1 kou3 shui3] {saai1 hau2 seoi2} /(expr. idiom.) perdre son temps en tentant de convaincre quelqu'un de quelque chose/(lit.) gaspiller sa salive/
+????c 嘥地方 嘥地方 [sai1 di4 fang5] {saai1 dei6 fong1} /perte d'espace/
+????f 嘥心機 嘥心机 [sai1 xin1 ji1] {saai1 sam1 gei1} /perdre son temps; gaspiller ses efforts/
+????f 嘥心機,挨眼瞓 嘥心机,挨眼瞓 [sai1 xin1 ji1 , ai1 yan3 xun4] {saai1 sam1 gei1 ngaai4 ngaan5 fan3} /(expr. idiom.) travailler fort pour rien/
+嘥撻 嘥挞 [sai1 ta4] {saai1 taat3} /gaspiller; perdre/
+嘥料 嘥料 [sai1 liao4] {saai1 liu2} /gaspiller/
+嘥時間 嘥时间 [sai1 shi2 jian1] {saai1 si4 gaan3} /perte de temps; gaspillage de temps/
+????f 嘥氣 嘥气 [sai1 qi4] {saai1 hei3} /(expr. idiom.) faire quelque chose pour rien/(lit.) gaspiller son air/
+????c 嘥燈賣油 嘥灯卖油 [sai1 deng1 mai4 you2] {saai1 dang1 maai6 jau4} /(expr. idiom.) travailler fort pour rien/(lit.) gaspiller sa lumière pour vendre de l'huile/
+????f 嘥聲壞氣 嘥声坏气 [sai1 sheng1 huai4 qi4] {saai1 sing1 waai6 hei3} /(expr.) perte d'effort/
+????f 嘥錢 嘥钱 [sai1 qian2] {saai1 cin2} /être dépensier; perdre de l'argent; gaspiller de l'argent/
+????c 噓唏 嘘唏 [xu1 xi1] {heoi1 hei1} /soupirer; sangloter/
 𠼮求 𠼮求 [ai3 qiu2] {ngai1 kau4} /supplier/
-嘟咭 嘟咭 [du1 ji1] {dut1 kaat1} /effectuer un paiement avec une carte, particulièrement un paiement sans contact/(orig.) onomatopée pour le bip d'une machine de paiement/
+????f 嘟咭 嘟咭 [du1 ji1] {dut1 kaat1} /effectuer un paiement avec une carte, particulièrement un paiement sans contact/(orig.) onomatopée pour le bip d'une machine de paiement + l'anglais « card » (« carte »)/
 嘩 哗 [hua1] {waa1} /oh!/waouh!/
-嘩嘩聲 哗哗声 [hua1 hua1 sheng1] {waa1 waa1 seng1} /onomatopée pour une réaction quand on est surpris, étonné, ou excité/
-嘩鬼 哗鬼 [hua1 gui3] {waa1 gwai2} /une personne qui est espiègle, qui crie et produit des bruits étranges/
+????f 嘩嘩聲 哗哗声 [hua1 hua1 sheng1] {waa1 waa1 seng1} /(onomatopée pour une réaction quand on est surpris, étonné, ou excité)/
+嘩鬼 哗鬼 [hua1 gui3] {waa1 gwai2} /(enfant) espiègle; vilain/
 嘮嘈 唠嘈 [lao2 cao2] {lou4 cou4} /être bruyant/
-嘰咕 叽咕 [ji1 gu1] {gei1 gu1} /parler doucement, murmurer/
-嘰哩咕嚕 叽哩咕噜 [ji1 li5 gu1 lu1] {gei1 li1 gu1 lou1} /décrit une personne qui n'articule pas clairement ses mots ou une personne qui est incompréhensible/
-嘰嘰趷趷 叽叽趷趷 [ji1 ji1 he2 he2] {gei1 gei1 gat6 gat6, gi1 gi1 gat6 gat6} /énervant, embêtant/faire obstacle, poser un problème/radoter, faire beaucoup de digressions/bégayer, bredouiller/
-嘰趷 叽趷 [ji1 he2] {gei1 gat6} /bégayer, bredouiller/empêcher les autres de passer/
-嘲笑 嘲笑 [chao2 xiao4] {zaau1 siu3} /se moquer de, ridiculiser/
-嘴 嘴 [zui3] {zeoi2} /embrasser/
-嘴刁 嘴刁 [zui3 diao1] {zeoi2 diu1} /fine bouche, difficile pour ce qui est de la nourriture/
-嘴𠴕𠴕 嘴𠴕𠴕 [Zui3 miao4 miao4] {zeoi2 miu2 miu2 } /dédaigner, être arrogant, irrespectueux/
-嘴喵喵 嘴喵喵 [zui3 miao1 miao1] {zeoi2 miu2 miu2} /dédaigner, être arrogant, irrespectueux/
+嘰咕 叽咕 [ji1 gu1] {gei1 gu1} /parler doucement; chuchoter; murmurer/
+????f 嘰哩咕嚕 叽哩咕噜 [ji1 li5 gu1 lu1] {gei1 li1 gu1 lou1} /(personne) qui n'articule pas clairement ses mots; qui parle indistinctement; qui est incompréhensible/
+嘰嘰趷趷 叽叽趷趷 [ji1 ji1 he2 he2] {gi4 gi1 gat6 gat6} /énervant; embêtant/balbutier; bégayer; bredouiller/se plaindre/
+嘰趷 叽趷 [ji1 he2] {gei1 gat6} /balbutier; bégayer; bredouiller/se plaindre/
+嘲笑 嘲笑 [chao2 xiao4] {zaau1 siu3} /se moquer de; rire de; ridiculiser/
+嘴 嘴 [zui3] {zeoi2} /bouche/bec/embrasser/
+????f 嘴刁 嘴刁 [zui3 diao1] {zeoi2 diu1} /fine bouche; difficile pour ce qui est de la nourriture/
+嘴𠴕𠴕 嘴𠴕𠴕 [zui3 miao4 miao4] {zeoi2 miu2 miu2} /pincer les lèvres; faire la moue (pour montrer sa désapprobation)/
+嘴喵喵 嘴喵喵 [zui3 miao1 miao1] {zeoi2 miu2 miu2} /pincer les lèvres; faire la moue (pour montrer sa désapprobation)/
 嘴滑 嘴滑 [zui3 hua2] {zeoi2 waat6} /bavard/
 嘴脣 嘴唇 [zui3 chun2] {zeoi2 seon4} /lèvres/
-嘴尖 嘴尖 [zui3 jian1] {zeoi2 zim1} /(personne) difficile; pointilleux/pointilleux sur la nourriture/(personne) mordant; caustique/
-嘻嘻哈哈 嘻嘻哈哈 [xi1 xi5 ha1 ha1] {hei1 hei1 haa1 haa1} /être content/faire l'imbécile, faire l'idiot/
-嘿嘿 嘿嘿 [hei1 hei1] {hei1 hei1} /onomatopée pour une gloussement/
-噆 噆 [zan3] {caam2} /tenir dans la bouche/piquer/
-噆 噆 [zan3] {cam3} /prolixe, interminable/
-噆氣 噆气 [can3 qi4] {cam3 hei3} /prolixe, interminable/
-噈 噈 [cu4] {zaap3, hap6, zuk1} /sur le point de/
-噉又係 啖又系 [dan4 you4 xi4] {gam2 jau6 hai6} /«en effect», «effectivement»/
-噉又得 啖又得 [dan4 you4 de5] {gam2 jau6 dak1} /ça marche aussi/
+????f 嘴尖 嘴尖 [zui3 jian1] {zeoi2 zim1} /(personne) difficile; pointilleux/pointilleux sur la nourriture/(personne) mordant; caustique/
+嘻嘻哈哈 嘻嘻哈哈 [xi1 xi5 ha1 ha1] {hei1 hei1 haa1 haa1} /être content; s'amuser/
+嘿嘿 嘿嘿 [hei1 hei1] {hei1 hei1} /(onomatopée d'un gloussement)/
+????c 噆 噆 [zan3] {caam2} /tenir dans la bouche/piquer/
+????c 噆 噆 [zan3] {cam3} /prolixe; interminable/
+噆氣 噆气 [can3 qi4] {cam3 hei3} /prolixe; interminable/
+????c 噈 噈 [cu4] {zaap3, hap6, zuk1} /sur le point de/
+噉又係 啖又系 [dan4 you4 xi4] {gam2 jau6 hai6} /en effect; effectivement/
+噉又得 啖又得 [dan4 you4 de5] {gam2 jau6 dak1} /ça va aussi/
 噉唔係 啖唔系 [dan4 n2 xi4] {gam2 m4 hai6} /ce n'est pas ça.../
 噉就 啖就 [dan4 jiu4] {gam2 zau6} /alors.../donc.../
-噉樣 啖样 [dan4 yang4] {gam2 joeng2} /comme ça, donc, pour cette façon.../
+噉樣 啖样 [dan4 yang4] {gam2 joeng2} /comme ça; de cette façon/donc.../
 噉都得 啖都得 [dan4 dou1 de5] {gam2 dou1 dak1} /comment est-ce possible?/
 噉頭 啖头 [dan4 tou2] {gam2 tau2} /ressembler, avoir l'air de/
 噍完鬆 噍完松 [jiao4 wan2 song1] {ziu6 jyun4 sung1} /(expr. idiom.) quitter le navire après avoir bénéficié d'un avantage/(lit.) partir après avoir mangé/
