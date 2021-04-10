@@ -4948,55 +4948,55 @@
 ????c 圓面積 圆面积 [yuan2 mian4 ji1] {jyun4 min6 zik1} /aire d'un cercle/
 圓顱方趾 圆颅方趾 [yuan2 lu2 fang1 zhi3] {jyun4 lou4 fong1 zi2} /(expr.) être humain/(lit.) crâne circulaire et pieds carrés/
 圖則 图则 [tu2 ze2] {tou4 zak1} /dessin architectural; plan d'étage/
-圖報 图报 [tu2 bao4] {tou4 bou3} /rembourser/
+????f 圖報 图报 [tu2 bao4] {tou4 bou3} /récompenser; rendre (la bonté, la gentilesse)/
 圖形 图形 [tu2 xing2] {tou4 jing4} /figure (en géometrie)/
-圖文 图文 [tu2 wen2] {tou4 man4} /diagramme avec légende/
-圖文並茂 图文并茂 [tu2 wen2 bing4 mao4] {tou4 man4 bing3 mau6} /quand le texte et les images se complètent les uns les autres, quand ils se conviennent très bien/
-圖景 图景 [tu2 jing3] {tou4 ging2} /perspective, prospects/
+????c 圖文 图文 [tu2 wen2] {tou4 man4} /diagramme avec légende/
+????f 圖文並茂 图文并茂 [tu2 wen2 bing4 mao4] {tou4 man4 bing6 mau6} /(expr.) quand le texte et les images se complètent les uns les autres, quand ils se conviennent très bien/
+????c 圖景 图景 [tu2 jing3] {tou4 ging2} /perspective/
 圖示 图示 [tu2 shi4] {tou4 si6} /icône/
-圖表 图表 [tu2 biao3] {tou4 biu2} /tableau/
-圖解 图解 [tu2 jie3] {tou4 gaai2} /graphique, graphe/
-圖謀 图谋 [tu2 mou2] {tou4 mau4} /dessiner, tracer un graphique/
+圖表 图表 [tu2 biao3] {tou4 biu2} /tableau; graphique; diagramme/
+圖解 图解 [tu2 jie3] {tou4 gaai2} /graphique; graphe/
+圖謀 图谋 [tu2 mou2] {tou4 mau4} /comploter; intriguer; conspirer/
 圖靈機 图灵机 [tu2 ling2 ji1] {tou4 ling4 gei1} /machine de Turing/
-圖章 图章 [tu2 zhang1] {tou4 zoeng1} /sceau/
-團友 团友 [tuan2 you3] {tyun4 jau5} /compagnons de route, compagnons de voyage/
-團圓飯 团圆饭 [tuan2 yuan2 fan4] {tyun4 jyun4 faan6} /(Can.) souper de réunion de famille/(Fr.)dîner de réunion de famille/
-團團 团团 [tuan2 tuan2] {tyun4 tyun4} /tas, pile, amas d'objets circulaires/
-團年飯 团年饭 [tuan2 nian2 fan4] {tyun4 nin4 faan6} /(Can.) souper de réunion de famille du réveillon/(Fr.) dîner de réunion de famille de réveillon/
-團結一致 团结一致 [tuan2 jie2 yi1 zhi4] {tyun4 git3 jat1 zi3} /uni/
-???? 團費 团费 [tuan2 fei4] {tyun4 fai3} /tour fee/
-土 土 [tu3] {tou2} /nul/démodé/
-土佬 土佬 [tu3 lao3] {tou2 lou2} /péquenaud, plouc/
+圖章 图章 [tu2 zhang1] {tou4 zoeng1} /sceau; empreinte faite par un cachet officiel/
+????f 團友 团友 [tuan2 you3] {tyun4 jau5} /personne dans le même groupe de touristes; compagnon de route; compagnon de voyage/
+團圓飯 团圆饭 [tuan2 yuan2 fan4] {tyun4 jyun4 faan6} /(Can.) souper de réunion de famille; (Fr.) dîner de réunion de famille/
+????c 團團 团团 [tuan2 tuan2] {tyun4 tyun4} /tas; pile; amas d'objets circulaires/
+????f 團年飯 团年饭 [tuan2 nian2 fan4] {tyun4 nin4 faan6} /(Can.) souper de réunion de famille du réveillon; (Fr.) dîner de réunion de famille de réveillon/
+團結一致 团结一致 [tuan2 jie2 yi1 zhi4] {tyun4 git3 jat1 zi3} /(expr.) uni/
+????f 團費 团费 [tuan2 fei4] {tyun4 fai3} /frais pour se joindre à un groupe de touristes/(Chine) cotisation de la Ligue de la jeunesse communiste chinoise/
+土 土 [tu3] {tou2} /terre/nul/démodé/
+土佬 土佬 [tu3 lao3] {tou2 lou2} /campagnard; péquenaud; plouc/
 土共 土共 [tu3 gong4] {tou2 gung6} /hongkongais qui appuient le Parti communiste chinois/
-土匪 土匪 [tu3 fei3] {tou2 fei2} /vol/
+土匪 土匪 [tu3 fei3] {tou2 fei2} /brigand; bandit/
 土地 土地 [tu3 di5] {tou2 dei6} /terre/
 土地稅 土地税 [tu3 di4 shui4] {tou2 dei6 seoi3} /impôt foncier/
 土專家 土专家 [tu3 zhuan1 jia1] {tou2 zyun1 gaa1} /autodidacte/(lit.) experts de la terre/
 土方 土方 [tu3 fang1] {tou2 fong1} /Hijikata, surnom japonais/
-土氣 土气 [tu3qi4] {tou2 hei3} /style de village/démodé/
-土炮 土炮 [tu3 pao2] {tou2 paau3} /armes de fabrication artisanale/
+土氣 土气 [tu3 qi4] {tou2 hei3} /démodé; ringard/rustique; grossier/
+????f 土炮 土炮 [tu3 pao2] {tou2 paau3} /armes de fabrication artisanale/alcool de riz de mauvaise qualité/
 土瓜灣 土瓜湾 [tu3 gua1 wan1] {tou2 gwaa1 waan4} /To Kwa Wan, quartier dans la ville de Hong Kong/
-土生葡人 土生葡人 [tu3 sheng1 Pu2 ren2] {tou2 sang1 pou4 jan4} /Portugais né à Macau/
-土耳其斯坦 土耳其斯坦 [tu3 er3 qi2 si1 tan3] {tou2 ji5 kei4 si1 taan2} /Turkestan/
-土霉素 土霉素 [tu3 mei2 su4] {tou2 mui4 sou3} /Oxytétracycline/
+土生葡人 土生葡人 [tu3 sheng1 pu2 ren2] {tou2 sang1 pou4 jan4} /Portugais né à Macao/
+土耳其斯坦 土耳其斯坦 [tu3 er3 qi2 si1 tan3] {tou2 ji5 kei4 si1 taan2} /Turkestan, région d'Asie centrale/
+土霉素 土霉素 [tu3 mei2 su4] {tou2 mui4 sou3} /oxytétracycline/
 土魷 土鱿 [tu3 you2] {tou2 jau4} /calmar séché/
 在 在 [zai4] {zoi6} /sur/dans/à/être (vivant)/
 在在 在在 [zai4 zai4] {zoi6 zoi6} /ici/
 在家 在家 [zai4 jia1] {zoi6 gaa1} /à la maison/
-在心 在心 [zai4 xin1] {zoi6 sam1} /dans son coeur/
-在意 在意 [zai4 yi4] {zoi6 ji3} /(garder) à l'esprit/
-在所不惜 在所不惜 [zai4 suo3 bu4 xi1] {zoi6 so2 bat1 sik1} /déterminé à faire quelque chose, quoi qu'il en soit/
-在望 在望 [zai4 wang4] {zoi6 mong6} /visible à l'horizon/
-在案 在案 [zai4 an4] {zoi6 on3} /documenté/
+????c 在心 在心 [zai4 xin1] {zoi6 sam1} /dans son coeur/
+????f 在意 在意 [zai4 yi4] {zoi6 ji3} /attacher de l'importance à; prendre au cœur; prêter attention à (souvent utilisé au négatif)/
+????f 在所不惜 在所不惜 [zai4 suo3 bu4 xi1] {zoi6 so2 bat1 sik1} /(expr.) déterminé à faire quelque chose, peu importe le moyen/
+????f 在望 在望 [zai4 wang4] {zoi6 mong6} /être visible; être en vue/être imminent; être à la portée de main; être en vue/
+????f 在案 在案 [zai4 an4] {zoi6 on3} /être documenté; dire officiellement (be on the record)/
 在生 在生 [zai4 sheng1] {zoi6 saang1} /encore vivant/
-圭臬 圭臬 [gui1 nie4] {gwai1 jit6} /niveau de qualité/
-地 地 [de5] {dei6} /caractère utilisé pour pluraliser les pronoms en cantonais, utilisé de la même manière que "哋"/
+圭臬 圭臬 [gui1 nie4] {gwai1 jit6} /norme/
+地 地 [de5] {dei6} /terre; sol/caractère utilisé pour pluraliser les pronoms en cantonais, utilisé de la même manière que « 哋 »/
 地下 地下 [di4 xia4] {dei6 haa6} /souterrain/
-地下情 地下情 [di4 xia4 qing2] {dei6 haa6 cing4} /relation secrète/
-地下莖 地下茎 [di4 xia4 jing1] {dei6 haa6 ging3} /rhizome/
-地下鐵 地下铁 [di4 xia4 tie3] {dei6 haa6 tit3} /métro/
-地勤 地勤 [di4 qin2] {dei6 kan4} /assistance en escale/
-地埗 地埗 [di4 bu4] {dei6 bou4} /addresse/endroit/
+地下情 地下情 [di4 xia4 qing2] {dei6 haa6 cing4} /relation amoureuse secrète; aventure amoureuse; liaison/(lit.) amour souterrain/
+地下莖 地下茎 [di4 xia4 jing1] {dei6 haa6 ging3} /rhizome; tige souterraine/
+地下鐵 地下铁 [di4 xia4 tie3] {dei6 haa6 tit3} /métro souterrain/
+地勤 地勤 [di4 qin2] {dei6 kan4} /services d'assistance en escale/
+地埗 地埗 [di4 bu4] {dei6 bou6} /(vieilli) adresse (postale)/
 地對地 地对地 [di4 dui4 di4] {dei6 deoi3 dei6} /(missile) sol-sol/
 地對空 地对空 [di4 dui4 kong1] {dei6 deoi3 hung1} /(missile) surface-air/
 地峽 地峡 [di4 xia2] {dei6 haap6} /isthme/
