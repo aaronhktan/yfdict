@@ -3043,6 +3043,7 @@
 勞師動眾 劳师动众 [lao2 shi1 dong4 zhong4] {lou4 si1 dung6 zung3} /(expr.) impliquer un grand nombre de personnes; impliquer trop de personnes/
 勞氣 劳气 [lao2 qi4] {lou4 hei3} /fâché; en colère/énervé/(quelque chose) qui est difficile à accomplir et qui est mentalement épuisant/
 ????f 勞軍 劳军 [lao2 jun1] {lou4 gwan1} /récompenser ses troupes (dans l'armée)/
+勞神 劳神 [lao2 shen2] {lou4 san4} /importuner; déranger; agaçer/
 勢不可擋 势不可挡 [shi4 bu4 ke3 dang3] {sai3 bat1 ho2 dong2} /(expr.) irréstible; inexorable; qui ne peut pas être arrêté/
 勢估唔到 势估唔到 [shi4 gu1 wu2 dao4] {sai3 gu2 m4 dou3} /(expr.) imprévisible; inattendu; qui aurait pensé/
 勢兇 势凶 [shi4 xiong1] {sai3 hung1} /féroce/
@@ -4901,20 +4902,20 @@
 國民生產毛額 国民生产毛额 [guo2 min2 sheng1 chan3 mao2 e2] {gwok3 man4 sang1 caan2 mou4 ngaak6} /produit national brut/
 國民經濟 国民经济 [guo2 min2 jing1 ji4] {gwok3 man4 ging1 zai3} /économie nationale/
 國泰航空公司 国泰航空公司 [Guo2 tai4 Hang2 kong1 gong1 si1] {gwok3 taai3 hong4 hung1 gung1 si1} /Cathay Pacific, compagnie aérienne basée dans la ville de Hong Kong/
-國營商業 国营商业 [guo2 ying2 shang1 ye4] {gwok3 jing4 soeng1 jip6} /entreprise d'état, entreprise publique/
-國父紀念館 国父纪念馆 [Guo2 fu4 Ji4 nian4 guan3] {gwok3 fu6 gei2 nim6 gun2} /«Sun Yat-sen Memorial Hall», salle commémorative de Sun Yat-sen, située à Taïwan/
-國祚 国祚 [guo2 zuo4] {gwok3 zou6} /durée d'un règne/
-國立臺灣大學 国立台湾大学 [guo2 li4 Tai2 wan1 Da4 xue2] {gwok3 laap6 toi4 waan1 daai6 hok6} /Université nationale de Taïwan/
+國營商業 国营商业 [guo2 ying2 shang1 ye4] {gwok3 jing4 soeng1 jip6} /entreprise d'état; entreprise publique/
+國父紀念館 国父纪念馆 [guo2 fu4 ji4 nian4 guan3] {gwok3 fu6 gei2 nim6 gun2} /« Sun Yat-sen Memorial Hall », salle commémorative de Sun Yat-sen, située à Taïwan/
+????c 國祚 国祚 [guo2 zuo4] {gwok3 zou6} /durée d'un règne/
+國立臺灣大學 国立台湾大学 [guo2 li4 tai2 wan1 da4 xue2] {gwok3 laap6 toi4 waan1 daai6 hok6} /Université nationale de Taïwan/
 國腳 国脚 [guo2 jiao3] {gwok3 goek3} /joueur de football de l'équipe nationale/
 國舅 国舅 [guo2 jiu4] {gwok3 kau5} /frère de la reine/
 國色 国色 [guo2 se4] {gwok3 sik1} /beauté/(lit.) couleur de la pivoine arbustive/
-國計民生 国计民生 [guo2 ji4 min2 sheng1] {gwok3 gai3 man4 sang1} /l'économie du pays et la subsistance du peuple/
+????f 國計民生 国计民生 [guo2 ji4 min2 sheng1] {gwok3 gai3 man4 sang1} /l'économie du pays et la subsistance du peuple/
 國貨 国货 [guo2 huo4] {gwok3 fo3} /produits originant de la Chine/
-國醫 国医 [guo2 yi1] {gwok3 ji1} /practicien de la médecine traditionelle chinoise/
-國門 国门 [guo2 men2] {gwok3 mun4} /«National Gate», porte frontalière entre la Chine et la Russie à Manzhouli/
+????f 國醫 国医 [guo2 yi1] {gwok3 ji1} /practicien de la médecine traditionelle chinoise/
+????f 國門 国门 [guo2 men2] {gwok3 mun4} /« National Gate », porte frontalière entre la Chine et la Russie à Manzhouli/
 國際公約 国际公约 [guo2 ji4 gong1 yue1] {gwok3 zai3 gung1 joek3} /traité international/
 國際市場 国际市场 [guo2 ji4 shi4 chang3] {gwok3 zai3 si5 coeng4} /marché international/
-國際慣例 国际惯例 [guo2 ji4 guan4 li4] {gwok3 zai3 gwaan3 lai6} /droit international public/
+????c 國際慣例 国际惯例 [guo2 ji4 guan4 li4] {gwok3 zai3 gwaan3 lai6} /droit international public/
 國際換日線 国际换日线 [Guo2 ji4 Huan4 ri4 xian4] {gwok3 zai3 wun6 jat6 sin3} /ligne de changement de date/
 國際水平 国际水平 [guo2 ji4 shui3 ping2] {gwok3 zai3 seoi2 ping4} /normes internationales/
 國際法院 国际法院 [Guo2 ji4 Fa3 yuan4] {gwok3 zai3 faat3 jyun2} /Cour international de justice/
@@ -4924,29 +4925,29 @@
 國際貨幣基金會 国际货币基金会 [guo2 ji4 huo4 bi4 ji1 jin1 hui4] {gwok3 zai3 fo3 bai6 gei1 gam1 wui2} /Fonds monétaire international/
 國際金融中心 国际金融中心 [guo2 ji4 jin1 rong2 zhong1 xin1] {gwok3 zai3 gam1 jung4 zung1 sam1} /International Financial Centre, gratte-ciel situé dans la ville de Hong Kong/
 國難 国难 [guo2 nan4] {gwok3 naan6} /crise nationale/
-國魂 国魂 [guo2 hun2] {gwok3 wan4} /sentiment national/
+????c 國魂 国魂 [guo2 hun2] {gwok3 wan4} /esprit national/
 圍 围 [wei2] {wai4} /circonférence/
-圍內 围內 [wei2 na4] {wai4 noi6} /clique, cercle fermé/
+圍內 围內 [wei2 na4] {wai4 noi2} /clique; cercle fermé/
 圍屏 围屏 [wei2 ping2] {wai4 ping4} /paravent/
-圍繞 围绕 [wei2 rao4] {wai4 jiu5} /autour de l'extérieur/
+圍繞 围绕 [wei2 rao4] {wai4 jiu5} /entourer/tourner autour de/axer sur/
 圍頭話 围头话 [wei2 tou2 hua4] {wai4 tau4 waa6} /dialecte Weitou/
-園子 园子 [yuan2 zi5] {jyun4 zi2} /jardin, cour/
-圓 圆 [yuan2] {jyun4} /parfait/complet/beau-parleur/
-圓圈 圆圈 [yuan2 quan1] {jyun4 hyun1} /rond, arrondi/
-圓形 圆形 [yuan2 xing2] {jyun4 jing4} /cercle, rond/
-圓揼揼 圆揼揼 [yuan2 beng5 beng5] {jyun4 dam1 dam1} /rond, arrondi, sphérique, cylindrique/
-圓揼朵 圆揼朵 [yuan2 beng5 duo3] {jyun4 dam4 doe2} /plus ou moins arrondi/
+園子 园子 [yuan2 zi5] {jyun4 zi2} /jardin; cour/
+圓 圆 [yuan2] {jyun4} /cercle; rond/parfait/complet/beau-parleur/
+圓圈 圆圈 [yuan2 quan1] {jyun4 hyun1} /cercle; rond/
+圓形 圆形 [yuan2 xing2] {jyun4 jing4} /cercle; rond/
+圓揼揼 圆揼揼 [yuan2 beng5 beng5] {jyun4 dam1 dam1} /rond; arrondi; sphérique; cylindrique/
+圓揼朵 圆揼朵 [yuan2 beng5 duo3] {jyun4 dam4 doe4} /rond; arrondi; sphérique; cylindrique/
 圓方 圆方 [yuan2 fang1] {jyun4 fong1} /Elements, un centre d'achats dans la ville de Hong Kong/
-圓滿 圆满 [yuan2 man3] {jyun4 mun5} /complet/
-圓玄學院 圆玄学院 [yuan2 xuan2 xue2 yuan4] {jyun4 jyun4 hok6 jyun2} /Institut Yuen Yuen/
-圓碌碌 圆碌碌 [yuan2 lu4 lu4] {jyun4 luk1 luk1} /rond, arrondi, sphérique, cylindrique/
-圓肉 圆肉 [yuan2 rou4] {jyun4 juk6} /longane, utilisé comme «桂圓肉»/
-圓謊 圆谎 [yuan2 huang3] {jyun4 fong1} /cacher un mensonge, essayer d'expliquer les contradictions dans un mensonge/
-圓蹄 圆蹄 [yuan2 ti2] {jyun4 tai4} /sabot ou coude de cochon/
-圓軲轆 圆轱辘 [yuan2 gu1 lu5] {jyun4 gu1 luk1} /très rond, arrondi, assez rond pour qu'un object roule/
-圓面積 圆面积 [yuan2 mian4 ji1] {jyun4 min6 zik1} /aire d'un cercle/
-圓顱方趾 圆颅方趾 [yuan2 lu2 fang1 zhi3] {jyun4 lou4 fong1 zi2} /être humain/
-圖則 图则 [tu2 ze2] {tou4 zak1} /plan d'étage/
+圓滿 圆满 [yuan2 man3] {jyun4 mun5} /de manière satisfaisante/
+圓玄學院 圆玄学院 [yuan2 xuan2 xue2 yuan4] {jyun4 jyun4 hok6 jyun2} /Institut Yuen Yuen, temple Taoïste à Hong Kong/
+圓碌碌 圆碌碌 [yuan2 lu4 lu4] {jyun4 luk1 luk1} /rond; arrondi; sphérique; cylindrique/
+????f 圓肉 圆肉 [yuan2 rou4] {jyun4 juk6} /chair séchée du longane (voir aussi 桂圓肉|桂圓肉)/
+????f 圓謊 圆谎 [yuan2 huang3] {jyun4 fong1} /cacher un mensonge; essayer d'expliquer les contradictions dans un mensonge/
+圓蹄 圆蹄 [yuan2 ti2] {jyun4 tai4} /sabot de cochon; patte de cochon/
+圓軲轆 圆轱辘 [yuan2 gu1 lu5] {jyun4 gu1 luk1} /très rond; arrondi/
+????c 圓面積 圆面积 [yuan2 mian4 ji1] {jyun4 min6 zik1} /aire d'un cercle/
+圓顱方趾 圆颅方趾 [yuan2 lu2 fang1 zhi3] {jyun4 lou4 fong1 zi2} /(expr.) être humain/(lit.) crâne circulaire et pieds carrés/
+圖則 图则 [tu2 ze2] {tou4 zak1} /dessin architectural; plan d'étage/
 圖報 图报 [tu2 bao4] {tou4 bou3} /rembourser/
 圖形 图形 [tu2 xing2] {tou4 jing4} /figure (en géometrie)/
 圖文 图文 [tu2 wen2] {tou4 man4} /diagramme avec légende/
@@ -5000,7 +5001,7 @@
 地對空 地对空 [di4 dui4 kong1] {dei6 deoi3 hung1} /(missile) surface-air/
 地峽 地峡 [di4 xia2] {dei6 haap6} /isthme/
 地布 地布 [di4 bu4] {dei6 bou3} /tapis/
-地帶 地带 [di4dai4] {dei6 daai3} /région/
+地帶 地带 [di4 dai4] {dei6 daai3} /région/
 地底下 地底下 [di4 di3 xia4] {dei6 dai2 haa6} /souterrain/
 地庫 地库 [di4 ku4] {dei6 fu3} /sous-sol, cave/
 地廬 地庐 [di4 lu2] {dei6 lou4} /sous-sol, cave/
