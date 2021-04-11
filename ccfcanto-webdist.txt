@@ -3784,7 +3784,7 @@
 君之 君之 [jun1 zhi1] {gwan1 zi1} /qui appartient au roi/
 君子協定 君子协定 [jun1 zi3 xie2 ding4] {gwan1 zi2 hip3 ding6} /accord informel/
 君悅酒店 君悦酒店 [jun1 yue4 jiu3 dian4] {gwan1 jyut6 zau2 dim3} /Grand Hyatt, une chaîne d'hôtels/
-????c 君真 君真 [jun1 zhen1] {gwan1 zan1} /fiable; authentique/
+君真 君真 [jun1 zhen1] {gwan1 zan1} /juste et honnête/
 君臨天下 君临天下 [jun1 lin2 tian1 xia4] {gwan1 lam4 tin1 haa6} /The Harbourside, un tour situé dans la ville de Hong Kong/(lit.) le roi dirige le monde/
 吞 吞 [tun1] {tan1} /avaler/prendre possession/
 吞口水養命 吞口水养命 [tun1 kou3 shui3 yang3 ming4] {tan1 hau2 seoi2 joeng5 meng6} /(expr. idiom.) qui est très pauvre/(lit.) survivre en avalant sa propre salive/
@@ -5000,13 +5000,13 @@
 地對地 地对地 [di4 dui4 di4] {dei6 deoi3 dei6} /(missile) sol-sol/
 地對空 地对空 [di4 dui4 kong1] {dei6 deoi3 hung1} /(missile) surface-air/
 地峽 地峡 [di4 xia2] {dei6 haap6} /isthme/
-地布 地布 [di4 bu4] {dei6 bou3} /tapis/
+????c 地布 地布 [di4 bu4] {dei6 bou3} /serpillière; torchon destiné au lavage du sol/
 地帶 地带 [di4 dai4] {dei6 daai3} /région/
 地底下 地底下 [di4 di3 xia4] {dei6 dai2 haa6} /souterrain/
-地庫 地库 [di4 ku4] {dei6 fu3} /sous-sol, cave/
-地廬 地庐 [di4 lu2] {dei6 lou4} /sous-sol, cave/
+地庫 地库 [di4 ku4] {dei6 fu3} /sous-sol/
+地廬 地庐 [di4 lu2] {dei6 lou4} /sous-sol; cave/
 地拖 地拖 [di4 tuo1] {dei6 to1} /(Can.) vadrouille, (Fr.) balai serpillère/
-???? 地方國營 地方国营 [di4 fang1 guo2 ying2] {dei6 fong1 gwok3 jing4} /Locally administered state-run/
+????f 地方國營 地方国营 [di4 fang1 guo2 ying2] {dei6 fong1 gwok3 jing4} /locally administered but state-run/
 地方戲 地方戏 [di4 fang1 xi4] {dei6 fong1 hei3} /opéra local/
 地方政府 地方政府 [di4 fang1 zheng4 fu3] {dei6 fong1 zing3 fu2} /gouvernement local/
 地方稅 地方税 [di4 fang1 shui4] {dei6 fong1 seoi3} /impôts locaux/
@@ -5014,40 +5014,41 @@
 地水 地水 [di4 shui3] {dei6 seoi2} /homme aveugle/
 地水先生 地水先生 [di4 shui3 xian1 sheng5] {dei6 seoi2 sin1 saang1} /homme aveugle/
 地波 地波 [di4 bo1] {dei6 bo1} /(physique) onde de surface/
-地牢 地牢 [di4 lao2] {dei6 lou4} /sous-sol, cave/
+地牢 地牢 [di4 lao2] {dei6 lou4} /sous-sol; cave/
 地牢商場 地牢商场 [di4 lao2 shang1 chang3] {dei6 lou4 soeng1 coeng4} /centre commercial souterrain/
 地球人 地球人 [di4 qiu2 ren2] {dei6 kau4 jan4} /Terrien/
 地球日 地球日 [Di4 qiu2 ri4] {dei6 kau4 jat6} /Jour de la Terre/
 地理環境 地理环境 [di4 li3 huan2 jing4] {dei6 lei5 waan4 ging2} /environnement géographique/
-地產霸權 地产霸权 [di4 chan3 ba4 quan2] {dei6 caan2 baa3 kyun4} /monopole de promoteur immobilier/
-地盤工人 地盘工人 [di4 pan2 gong1 ren2] {dei6 pun4 gung1 jan4} /ouvriers de bâtiment, travailleurs de construction/
+????c 地產霸權 地产霸权 [di4 chan3 ba4 quan2] {dei6 caan2 baa3 kyun4} /monopole de promoteur immobilier/
+地盤工人 地盘工人 [di4 pan2 gong1 ren2] {dei6 pun4 gung1 jan4} /ouvrier de bâtiment/
 地磁 地磁 [di4 ci2] {dei6 ci4} /géomagnétisme/
-地糊 地糊 [di4 hu2] {dei6 wu4} /façon de gagner des points dans le jeu de Mah-jong/
-地羊 地羊 [di4 yang2] {dei6 joeng4} /viande de chien/
-地膽 地胆 [di4 dan3] {dei6 daam2} /(personne) du coin, de la région/
-地質 地质 [di4 zhi4] {dei6 zat1} /géologique/
+????f 地糊 地糊 [di4 hu2] {dei6 wu4} /(mah-jong) au début de la partie, n'avoir besoin qu'une tuile pour gagner/
+地羊 地羊 [di4 yang2] {dei6 joeng4} /viande de chien/(lit.) mouton de la terre/
+地膽 地胆 [di4 dan3] {dei6 daam2} /(personne) du coin; de la région; qui connaît la région/
+地質 地质 [di4 zhi4] {dei6 zat1} /géologie/
 地質力學 地质力学 [di4 zhi4 li4 xue2] {dei6 zat1 lik6 hok6} /géomécanique/
-地踎 地踎 [di4 mou2] {dei6 mau1} /sans-emploi qui s'accroupit, imitant un gangster/de classe inférieure/
-地踎館 地踎馆 [di4 mou2 guan3] {dei6 mau1 gun2} /stalle de rue/
-地道 地道 [di4 dao5] {dei6 dou6} /(personne) du coin, de la région/
-地鐵 地铁 [di4 tie3] {dei6 tit3} /métro/MTR, métro de Hong Kong/
-地震預報 地震预报 [di4 zhen4 yu4 bao4] {dei6 zan3 jyu6 bou3} /prévision de séisme/
-地面化 地面化 [di4 mian4 hua4] {dei6 min2 faa3} /découvert, mis à jour, devenir publique/
+????f 地踎 地踎 [di4 mou2] {dei6 mau1} /sans-emploi qui s'accroupit au coin de la rue/gredin; crapule/(of poor taste, low-class, not very good)/
+????f 地踎館 地踎馆 [di4 mou2 guan3] {dei6 mau1 gun2} /stalle de rue/
+地道 地道 [di4 dao5] {dei6 dou6} /style authentique/
+地道 地道 [di4 dao4] {dei6 dou6} /tunnel souterrain/
+地鐵 地铁 [di4 tie3] {dei6 tit3} /métro/(Hong Kong) MTR, métro de Hong Kong/
+????f 地震預報 地震预报 [di4 zhen4 yu4 bao4] {dei6 zan3 jyu6 bou3} /prévision de séisme/
+地面化 地面化 [di4 mian4 hua4] {dei6 min2 faa3} /découvert; mis au jour; devenir publique/
 地頭 地头 [di4 tou2] {dei6 tau4} /territoire/
-地頭蟲 地头虫 [di4 tou2 chong2] {dei6 tau4 cung4} /(personne) du coin, de la région/
+????f 地頭蟲 地头虫 [di4 tou2 chong2] {dei6 tau4 cung4} /personne du coin; personne de la région; personne qui connaît la région/(lit.) insecte du coin/
 均真 均真 [jun1 zhen1] {gwan1 zan1} /juste et honnête/
-坐一望二 坐一望二 [zuo4 yi2 wang4 er4] {zo6 jat1 mong6 ji6} /rapprocher son objectif/
-坐不住 坐不住 [zuo4 bu5 zhu4] {co5 bat1 zyu6} /ne pas tenir en place, ne pas pouvoir rester assis/
-坐低 坐低 [zuo4 di1] {zo5 dai1} /s'assoir, s'asseoir/
-坐唔定 坐唔定 [zuo4 n2 ding4] {co5 m4 ding6} /ne pas tenir en place, ne pas pouvoir rester assis/
-坐埋一條船 坐埋一条船 [zuo4 mai2 yi1 tiao2 chuan2] {co5 maai4 jat1 tiu4 syun4} /dans le même bateau/
-坐夜 坐夜 [zuo4 ye4] {co5 je2} /faire le quart de nuit, faire la ronde de nuit/
-坐定定 坐定定 [zuo4 ding4 ding4] {co5 ding6 ding6} /attendre patiemment, s'asseoir sans bouger/
-坐定粒六 坐定粒六 [zuo4 ding4 li4 liu4] {zo6 ding6 nap1 luk6} /avoir une confiance absolue/
-坐收漁人之利 坐收渔人之利 [zuo4 shou1 yu2 ren2 zhi1 li4] {zo6 sau1 jyu4 jan4 zi1 lei6} /profiter lorsque les autres se battent/
-???? 坐梗 坐梗 [zuo4 geng3] {co5 gang2} /certainly to sit on… [a spot]; certainly to have… [a position]/
-坐正 坐正 [zuo4 zheng4] {co5 zeng3} /achever finalement un objectif (d'habitude pour décrire quelqu'un qui est promu)/(lit.) se tenir droit/
-坐波監 坐波监 [zuo4 bo1 jian1] {co5 bo1 gaam1} /exclusion temporaire lors d'un match de foot ou autre sport avec une balle à cause d'une pénalité/
+????c 坐一望二 坐一望二 [zuo4 yi2 wang4 er4] {zo6 jat1 mong6 ji6} /rapprocher son objectif/désirer, convoiter quelque chose que l'on n'a pas/(lit.) s'asseoir sur un, regarder deux/
+坐不住 坐不住 [zuo4 bu5 zhu4] {co5 bat1 zyu6} /ne pas tenir en place; être agité/
+坐低 坐低 [zuo4 di1] {zo5 dai1} /s'assoir; s'asseoir/
+坐唔定 坐唔定 [zuo4 n2 ding4] {co5 m4 ding6} /ne pas tenir en place; être agité/
+坐埋一條船 坐埋一条船 [zuo4 mai2 yi1 tiao2 chuan2] {co5 maai4 jat1 tiu4 syun4} /(expr.) être dans le même bateau; être dans le même bain; être dans la même situation/(lit.) s'asseoir dans le même bateau/
+????f 坐夜 坐夜 [zuo4 ye4] {co5 je2} /rester éveillé toute la nuit (stay up overnight)/
+坐定定 坐定定 [zuo4 ding4 ding4] {co5 ding6 ding6} /attendre patiemment; s'asseoir sans bouger/
+坐定粒六 坐定粒六 [zuo4 ding4 li4 liu4] {zo6 ding6 nap1 luk6} /(expr.) être sûr et certain/
+????f 坐收漁人之利 坐收渔人之利 [zuo4 shou1 yu2 ren2 zhi1 li4] {zo6 sau1 jyu4 jan4 zi1 lei6} /(expr. idiom.) profiter des conflits des autres/
+????c 坐梗 坐梗 [zuo4 geng3] {zo6 gang2} /certain; sûr/
+????f 坐正 坐正 [zuo4 zheng4] {co5 zeng3} /être promu au travail/(lit.) se tenir droit/
+????f 坐波監 坐波监 [zuo4 bo1 jian1] {co5 bo1 gaam1} /exclusion temporaire lors d'un match de foot (ou autre sport de ballon) à cause d'une pénalité/(lit.) s'asseoir dans le prison de ballon/
 坐監 坐监 [zuo4 jian1] {co5 gaam1} /en prison/
 坐視 坐视 [zuo4 shi4] {zo6 si6} /regarder, observer sans aider/
 坐移民監 坐移民监 [zuo4 yi2 min2 jian1] {co5 ji4 man4 gaam1} /rester dans un pays ou une région pour satisfaire les conditions pour l'immigration/(lit.) faire un séjour en prison d'immigration/
