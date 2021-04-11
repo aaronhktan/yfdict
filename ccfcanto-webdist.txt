@@ -5049,55 +5049,56 @@
 ????c 坐梗 坐梗 [zuo4 geng3] {zo6 gang2} /certain; sûr/
 ????f 坐正 坐正 [zuo4 zheng4] {co5 zeng3} /être promu au travail/(lit.) se tenir droit/
 ????f 坐波監 坐波监 [zuo4 bo1 jian1] {co5 bo1 gaam1} /exclusion temporaire lors d'un match de foot (ou autre sport de ballon) à cause d'une pénalité/(lit.) s'asseoir dans le prison de ballon/
-坐監 坐监 [zuo4 jian1] {co5 gaam1} /en prison/
-坐視 坐视 [zuo4 shi4] {zo6 si6} /regarder, observer sans aider/
-坐移民監 坐移民监 [zuo4 yi2 min2 jian1] {co5 ji4 man4 gaam1} /rester dans un pays ou une région pour satisfaire les conditions pour l'immigration/(lit.) faire un séjour en prison d'immigration/
-坐穩船 坐稳船 [zuo4 wen3 chuan2] {co5 wan2 syun4} /expression pour exprimer des bons voeux à quelqu'un qui voyage par bateau/
-坐穩車 坐稳车 [zuo4 wen3 che1] {co5 wan2 ce1} /expresion pour exprimer des bon voeux à quelqu'un qui voyage par autobus ou voiture/
-坐穩釣魚船 坐稳钓鱼船 [zuo4 wen3 diao4 yu2 chuan2] {zo6 wan2 diu3 jyu4 syun4} /(expr. idiom.) avoir beaucoup de confiance/(lit.) s'asseoir de manière stable sur un bateau de pêche/
+坐監 坐监 [zuo4 jian1] {co5 gaam1} /être en prison; être incarcéré/
+坐視 坐视 [zuo4 shi4] {zo6 si6} /regarder sans aider; rester les bras croisés/
+????f 坐移民監 坐移民监 [zuo4 yi2 min2 jian1] {co5 ji4 man4 gaam1} /rester dans un pays ou une région pour un certain temps afin de satisfaire les conditions pour l'immigration/(lit.) faire un séjour en prison d'immigration/
+????f 坐穩船 坐稳船 [zuo4 wen3 chuan2] {co5 wan2 syun4} /(expression pour exprimer des bons voeux à quelqu'un qui voyage par bateau)/
+????f 坐穩車 坐稳车 [zuo4 wen3 che1] {co5 wan2 ce1} /(expresion pour exprimer des bon voeux à quelqu'un qui voyage par autobus ou voiture)/
+????c 坐穩釣魚船 坐稳钓鱼船 [zuo4 wen3 diao4 yu2 chuan2] {zo6 wan2 diu3 jyu4 syun4} /(expr. idiom.) avoir beaucoup de confiance/(lit.) s'asseoir de manière stable sur un bateau de pêche/
 坐等 坐等 [zuo4 deng3] {zo6 dang2} /s'asseoir et attendre/
-坐船 坐船 [zuo4 chuan2] {co5 syun4} /monter sur un bateau/
-坐花廳 坐花厅 [zuo4 hua1 ting1] {co5 faa1 teng1} /(vieilli) aller en prison/
-坐起身 坐起身 [zuo4 qi3 shen1] {co5 hei2 san1} /se redresser, s'asseoir/
+坐船 坐船 [zuo4 chuan2] {co5 syun4} /aller en bateau/
+坐花廳 坐花厅 [zuo4 hua1 ting1] {co5 faa1 teng1} /(vieilli) aller en prison/(lit.) s'asseoir dans la salle des fleurs/
+????f 坐起身 坐起身 [zuo4 qi3 shen1] {co5 hei2 san1} /se redresser (en s'asseyant)/
 坐霸王車 坐霸王车 [zuo4 ba4 wang2 che1] {co5 baa3 wong4 ce1} /évasion tarifaire/
-???? 坐飛機位 坐飞机位 [zuo4 fei1 ji1 wei4] {co5 fei1 gei1 wai2} /s'asseoir dans des sièges les plus élevées dans un gymnase, un stade, un auditorium/
-坐食山崩 坐食山崩 [zuo4 shi2 shan1 beng1] {zo6 sik6 saan1 bang1} /seulement consommer et ne pas produire/
-坐館 坐馆 [zuo4 guan3] {zo6 gun2} /leader d'une triade de Hong Kong/
+????f 坐飛機位 坐飞机位 [zuo4 fei1 ji1 wei4] {co5 fei1 gei1 wai2} /s'asseoir dans des sièges les plus élevées dans un gymnase, un stade, un auditorium (sit in the nosebleed section)/(lit.) s'asseoir dans les sièges d'avion/
+????f 坐食山崩 坐食山崩 [zuo4 shi2 shan1 beng1] {zo6 sik6 saan1 bang1} /(expr. idiom.) dépenser ses épargnes; dépenser sans gagner de l'argent/(lit.) s'asseoir et manger la montagne jusqu'à ce qu'elle s'effrondre/
+????f 坐吃山空 坐吃山空 [zuo4 chi1 shan1 kong1] {co5 hek3 saan1 hung1} /(expr. idiom.) dépenser ses épargnes; dépenser sans gagner de l'argent/(lit.) s'asseoir et manger la montagne jusqu'à ce qu'elle soit vide/
+坐館 坐馆 [zuo4 guan3] {zo6 gun2} /leader d'une triade hongkongaise/
 坑渠 坑渠 [keng1 qu2] {haang1 keoi4} /égouts/
-坑渠油 坑渠油 [keng1 qu2 you2] {haang1 keoi4 jau4} /huile d'égout/
+????f 坑渠油 坑渠油 [keng1 qu2 you2] {haang1 keoi4 jau4} /gutter oil (reclaimed cooking oil, health hazard)/
 坑渠老鼠 坑渠老鼠 [keng1 qu2 lao3 shu3] {haang1 keoi4 lou5 syu2} /rats d'égouts/
-坑腩 坑腩 [keng1 nan3] {haang1 naam5} /bouts de côte sans os/
-坡紙 坡纸 [Po1 zhi3] {bo1 zi2} /dollar singapourien/
-坢 坢 [ban4] {bun6} /boue, saletés/flanc de coteau/plan, plat/
-坢 坢 [ban4] {pun5} /flanc de coteau/plan, plat/
-坣 坣 [tang1] {bok3} /parapet de l'autoroute/
-坦桑尼亞聯合共和國 坦桑尼亚联合共和国 [Tan3 sang1 ni2 ya4 lian2 he2 gong4 he2 guo2] {taan2 song1 nei4 aa3 lyun4 hap6 gung6 wo4 gwok3} /République unie de Tanzani/
-坪洲 坪洲 [ping2 zhou1] {ping4 zau1} /Peng Chau, un endroit situé dans la ville de/
-坳胡 坳胡 [ao4 hu2] {aau1 wu1} /méchant dans les contes de fées/
-???? 坳胡婆 坳胡婆 [ao4 hu2 po2] {aau1 wu1 po2} /méchante/
-坶 坶 [mu3] {muk6} /(arch.) mot utilisé pour désigner les villes pendant la Dynastie Shang/
-垂手可得 垂手可得 [chui2 shou3 ke3 de2] {seoi4 sau2 ho2 dak1} /facile d'obtenir sans effort/
+????f 坑腩 坑腩 [keng1 nan3] {haang1 naam5} /bouts de côte sans os/
+坡紙 坡纸 [po1 zhi3] {bo1 zi2} /dollar singapourien/
+坢 坢 [ban4] {bun6} /boue; saletés/
+坢 坢 [ban4] {pun5} /flanc de coteau/plan; plat/
+????c 坣 坣 [tang1] {bok3} /parapet de l'autoroute/
+坦桑尼亞聯合共和國 坦桑尼亚联合共和国 [tan3 sang1 ni2 ya4 lian2 he2 gong4 he2 guo2] {taan2 song1 nei4 aa3 lyun4 hap6 gung6 wo4 gwok3} /République unie de Tanzani/
+坪洲 坪洲 [ping2 zhou1] {ping4 zau1} /Peng Chau, un endroit situé dans la ville de Hong Kong/
+????f 坳胡 坳胡 [ao4 hu2] {aau1 wu1} /méchant dans les contes de fées/
+????f 坳胡婆 坳胡婆 [ao4 hu2 po2] {aau1 wu1 po2} /méchante dans les contes de fées/
+????c 坶 坶 [mu3] {muk6} /(arch.) mot utilisé pour désigner les villes pendant la Dynastie Shang/
+垂手可得 垂手可得 [chui2 shou3 ke3 de2] {seoi4 sau2 ho2 dak1} /facile à obtenir sans effort/
 垃圾佬 垃圾佬 [la1 ji1 lao3] {laap6 saap3 lou2} /balayeur de rue/
-垃圾嘢 垃圾嘢 [la1 ji1 ye3] {laap6 saap3 je5} /ordures, poubelles/
-垃圾崗 垃圾岗 [la1 ji1 gang3] {laap6 saap3 gong1} /décharge, dépotoir/
-垃圾篸 垃圾篸 [la1 ji1 can3] {laap6 saap3 caam2} /pelle à poussière/
-垃圾蟲 垃圾虫 [la1 ji1 chong2] {laap6 saap3 cung4} /pollueur, semeur de détritus/
-垃圾袋 垃圾袋 [la1 ji1 dai4] {laap6 saap3 doi6} /sac poubelle, sac à ordures/
-垃圾鏟 垃圾铲 [la1 ji1 chan3] {laap6 saap3 caan2} /pelle à poussière/
-型 型 [xing2] {jing4} /élégant, chic (apparence physique)/
-型仔 型仔 [xing2 zi3] {jing4 zai2} /bel homme, homme chic/
-型到痹 型到痹 [xing2 dao4 bi4] {jing4 dou3 bei3} /chic, élégant, à la mode/
-型男索女 型男索女 [xing2 nan2 suo3 nü3] {jing4 naam4 sok3 neoi5} /homme chic et femme sexy/
+垃圾嘢 垃圾嘢 [la1 ji1 ye3] {laap6 saap3 je5} /ordures; poubelles; déchets/
+垃圾崗 垃圾岗 [la1 ji1 gang3] {laap6 saap3 gong1} /décharge; dépotoir/
+垃圾篸 垃圾篸 [la1 ji1 can3] {laap6 saap3 caam2} /pelle à poussière; pelle à balai; ramasse-poussière/
+????f 垃圾蟲 垃圾虫 [la1 ji1 chong2] {laap6 saap3 cung4} /pollueur; semeur de détritus/
+垃圾袋 垃圾袋 [la1 ji1 dai4] {laap6 saap3 doi6} /sac poubelle; sac à ordures/
+垃圾鏟 垃圾铲 [la1 ji1 chan3] {laap6 saap3 caan2} /pelle à poussière; pelle à balai; ramasse-poussière/
+型 型 [xing2] {jing4} /élégant; chic (apparence physique)/
+型仔 型仔 [xing2 zi3] {jing4 zai2} /bel homme; homme chic/
+型到痹 型到痹 [xing2 dao4 bi4] {jing4 dou3 bei3} /très chic; très élégant; très à la mode/
+????f 型男索女 型男索女 [xing2 nan2 suo3 nu:3] {jing4 naam4 sok3 neoi5} /(expr.) homme chic et femme sexy/
 城巴 城巴 [cheng2 ba1] {sing4 baa1} /Citybus, une compagnie de bus de Hong Kong /
 城市生活 城市生活 [cheng2 shi4 sheng1 huo2] {sing4 si5 sang1 wut6} /vie urbaine/
 城市當代舞蹈團 城市当代舞蹈团 [cheng2 shi4 dang1 dai4 wu3 dao4 duan2] {sing4 si5 dong1 doi6 mou5 dou6 tyun4} /City Contemporary Dance Company, compagnie de danse de Hong Kong/
 城市電訊 城市电讯 [cheng2 shi4 dian4 xun4] {sing4 si5 din6 seon3} /City Telecom Limited, autrefois une compagnie de télécommunications de Hong Kong/
 城裡 城里 [cheng2 li3] {sing4 leoi5} /dans la ville/
 城門水塘 城门水塘 [cheng2 men2 shui3 tang2] {sing4 mun4 seoi2 tong4} /réservoir Shing Mun, réservoir d'eau situé dans les Nouveaux Territoires de Hong Kong /
-城門河 城门河 [cheng2 men2 he2] {sing4 mun4 ho4} /rivière Shing Mun, une rivière situé dans Hong Kong/
-城門隧道 城门隧道 [cheng2 men2 sui4 dao4] {sing4 mun4 seoi6 dou6} /tunnel Shing Mun, tunnel routier reliant Shatin et Tsuen Wan dans les Nouveaux Territoires, à Hong Kong /
-城闕 城阙 [cheng2 que4] {sing4 kyut3} /tour de guet sur les remparts/
-埃及人 埃及人 [Ai1 ji2 ren2] {aai1 kap6 jan4} /Égyptien(ne)/
+城門河 城门河 [cheng2 men2 he2] {sing4 mun4 ho4} /rivière Shing Mun, une rivière située à Hong Kong/
+城門隧道 城门隧道 [cheng2 men2 sui4 dao4] {sing4 mun4 seoi6 dou6} /tunnel Shing Mun, tunnel routier reliant Shatin et Tsuen Wan dans les Nouveaux Territoires, à Hong Kong/
+????f 城闕 城阙 [cheng2 que4] {sing4 kyut3} /tour de guet sur les deux côtés de la porte de la ville/
+埃及人 埃及人 [Ai1 ji2 ren2] {aai1 kap6 jan4} /Égyptien, Égyptienne/
 埋 埋 [mai2] {maai4} /complété, réglé/rejoindre/aussi, également/et/
 埋位 埋位 [mai2 wei4] {maai4 wai2} /prendre place, prendre des sièges/se préparer/
 埋便 埋便 [mai2 bian4] {maai4 bin6} /côté proche/
