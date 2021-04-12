@@ -5247,56 +5247,56 @@
 塞竇窿 塞窦窿 [se1 dou4 long2] {sak1 dau6 lung1} /enfant/
 塞豆窿 塞豆窿 [sai1 dou4 long2] {sak1 dau6 lung1} /enfant/
 塨 塨 [gong1] {gung1} /(mot utilisé dans les noms chinois)/
-填 填 [tian2] {tin4} /remplir; compléter (un formulaire)/remplir; remblayer/
+填 填 [tian2] {tin4} /remplir; compléter (un formulaire)/remplir; remblayer; combler/
 填充 填充 [tian2 chong1] {tin4 cung1} /remplir/
-???? 填命 填命 [tian2 ming4] {tin4 meng6} /to compensate with life/
-填平 填平 [tian2 ping2] {tin4 ping4} /remplir quelque chose jusqu'à ce la surface devient plate/
-填鴨 填鸭 [tian2 ya1] {tin4 aap3} /canard gavé/
-???? 填鴨式教育 填鸭式教育 [tian2 ya1 shi4 jiao4 yu4] {tin4 aap3 sik1 gaau3 juk6} /(expr. idiom.) éducation où l'on mâche le travail/(lit.) éducation de style canard gavé/
-塴 塴 [beng4] {bang1, baang6, bing3} /descendre le cercueil dans la terre/
-塵俗 尘俗 [chen2 su2] {can4 zuk6} /affaires mondaines, matériel, terrestre/
-塵土飛揚 尘土飞扬 [chen2 tu3 fei1 yang2] {can4 tou2 fei1 joeng4} /poussière flottante/
-塵垢 尘垢 [chen2 gou4] {can4 gau3} /poussière, saleté/
-塵氣 尘气 [chen2 qi4] {can4 hei3} /arrogant, vaniteux/
+填命 填命 [tian2 ming4] {tin4 meng6} /payer de sa vie/
+????f 填平 填平 [tian2 ping2] {tin4 ping4} /remplir quelque chose jusqu'à ce la surface devient plate; combler/
+????f 填鴨 填鸭 [tian2 ya1] {tin4 aap3} /canard gavé/
+????f 填鴨式教育 填鸭式教育 [tian2 ya1 shi4 jiao4 yu4] {tin4 aap3 sik1 gaau3 juk6} /(expr. idiom.) éducation où les étudiants ont besoin d'accumuler beaucoup de connaissances en peu de temps et négligent les compétences pratiques/(lit.) éducation de style canard gavé/
+????c 塴 塴 [beng4] {bang1, baang6, bing3} /descendre le cercueil dans la terre/
+塵俗 尘俗 [chen2 su2] {can4 zuk6} /affaires mondaines/
+????c 塵土飛揚 尘土飞扬 [chen2 tu3 fei1 yang2] {can4 tou2 fei1 joeng4} /poussière flottante/
+塵垢 尘垢 [chen2 gou4] {can4 gau3} /poussière; saleté/
+塵氣 尘气 [chen2 qi4] {can4 hei3} /arrogant; vaniteux/
 塵灰 尘灰 [chen2 hui1] {can4 fui1} /poussière/
-塹壕 堑壕 [qian4 hao2] {cim3 hou4} /tranchée/
-境地 境地 [jing4 di4] {ging2 dei6} /région/condition/
-境域 境域 [jing4 yu4] {ging2 wik6} /frontières territoriales/région/condition/
-境界 境界 [jing4 jie4] {ging2 gaai3} /frontière, limite/
-墊底 垫底 [dian4 di3] {zin3 dai2} /déductible/en bas du classement/mettre quelque chose sous qqch d'autre/
-墜地 坠地 [zhui4 di4] {zeoi6 dei6} /tomber sur terre/
-墜火 坠火 [zhui4 huo3] {zeoi6 fo2} /(médecine chinoise) réduire la chaleur interne/
+塹壕 堑壕 [qian4 hao2] {cim3 hou4} /(militaire) tranchée/
+境地 境地 [jing4 di4] {ging2 dei6} /situation; circonstance/
+????c 境域 境域 [jing4 yu4] {ging2 wik6} /frontières territoriales/région/condition/
+????f 境界 境界 [jing4 jie4] {ging2 gaai3} /frontière; limite/niveau; degré (d'une compétence)/
+墊底 垫底 [dian4 di3] {zin3 dai2} /déductible (voir 墊底費|垫底费)/en bas des classements/mettre quelque chose sous quelque chose d'autre/
+墜地 坠地 [zhui4 di4] {zeoi6 dei6} /(litt.) tomber par terre/(litt.) naître; être né/
+墜火 坠火 [zhui4 huo3] {zeoi6 fo2} /(médecine traditionnelle chinoise) réduire la chaleur interne/
 增值 增值 [zeng1 zhi2] {zang1 zik6} /recharger (une carte)/
 增至 增至 [zeng1 zhi4] {zang1 zi3} /accroître à/
-增進 增进 [zeng1 jin4] {zang1 zeon3} /accroître/
+增進 增进 [zeng1 jin4] {zang1 zeon3} /améliorer/
 增長 增长 [zeng1 zhang3] {zang1 zoeng2} /croissance/
 增長速度 增长速度 [zeng1 zhang3 su4 du4] {zang1 zoeng2 cuk1 dou6} /taux de croissance/
-墟冚 墟冚 [xu1 ka4] {heoi1 ham6} /animé, vif, bondé/
-墟場 墟场 [xu1 chang3] {heoi1 coeng4} /place de marché/
-墟墟冚冚 墟墟冚冚 [xu1 xu1 ka4 ka4] {heoi1 heoi1 ham6 ham6} /animé, bondé, vif/
-墟巴嘈閉 墟巴嘈闭 [xu1 ba1 cao2 bi4] {heoi1 baa1 cou4 bai3} /bruyant; très bruyant/
+墟冚 墟冚 [xu1 ka4] {heoi1 ham6} /animé; vivant; fréquenté; bondé; plein à craquer/
+????f 墟場 墟场 [xu1 chang3] {heoi1 coeng4} /marché (temporaire); foire; bazar/
+墟墟冚冚 墟墟冚冚 [xu1 xu1 ka4 ka4] {heoi1 heoi1 ham6 ham6} /animé; vivant; fréquenté; bondé; plein à craquer/
+墟巴嘈閉 墟巴嘈闭 [xu1 ba1 cao2 bi4] {heoi1 baa1 cou4 bai3} /(d'une foule) bruyant; très bruyant/
 墟日 墟日 [xu1 ri4] {heoi1 jat6} /jour de marché/
-墮 堕 [duo4] {do6} /dégrader/
-墮入 堕入 [duo4 ru4] {do6 jap6} /tomber dans un piège/tomber amoureux/
-墮落雞 堕落鸡 [duo4 luo4 ji1] {do6 lok6 gai1} /(péjoratif) femme qui a renoncé à essayer de regarder ou faire de son meilleur, qui se contente d'être dégénérée/
-墮角 堕角 [duo4 jiao3] {do6 goek3} /milieu de nul part/
-墳墓 坟墓 [fen2 mu4] {fan4 mou6} /tombe/
+墮 堕 [duo4] {do6} /tomber/être suspendu; pendre de quelque chose/
+墮入 堕入 [duo4 ru4] {do6 jap6} /tomber (dans un piège, amoureux, etc.)/
+墮落雞 堕落鸡 [duo4 luo4 ji1] {do6 lok6 gai1} /(fig.) (péjoratif) femme moralement corrompue; femme immorale/
+????f 墮角 堕角 [duo4 jiao3] {do6 goek3} /(endroit) reculé; qui est au milieu de nul part/
+墳墓 坟墓 [fen2 mu4] {fan4 mou6} /tombe; fosse mortuaire/
 墼 墼 [ji1] {gik1} /(arch.) brique crue/
-墾殖 垦殖 [ken3 zhi2] {han2 zik6} /récupérer et cultiver les terres agricoles/
+????f 墾殖 垦殖 [ken3 zhi2] {han2 zik6} /récupérer et cultiver les terres agricoles/
 壁櫃 壁柜 [bi4 gui4] {bik1 gwai6} /armoire murale/
-壁蝨 壁虱 [bi4 shi1] {bik1 sat1} /punaise des lits/tick/
-壓制 压制 [ya1 zhi4] {aat3 zai3} /bordure de trottoir/
-壓力 压力 [ya1 li4] {aat3 lik6} /stress/
+壁蝨 壁虱 [bi4 shi1] {bik1 sat1} /(insecte) punaise des lits; tique/
+壓制 压制 [ya1 zhi4] {aat3 zai3} /étouffer; réprimer (des idées)/réprimer; refouler (sa colère)/
+壓力 压力 [ya1 li4] {aat3 lik6} /(physique) pression/(biologie, psychologie) stress/
 壓力表 压力表 [ya1 li4 biao3] {aat3 lik6 biu1} /manomètre, indicateur de pression/
-壓寶 压宝 [ya1 bao3] {aat3 bou2} /type de jeu de hasard/
-壓延機 压延机 [ya1 yan2 ji1] {aat3 jin4 gei1} /laminoir de métal/
+壓寶 压宝 [ya1 bao3] {aat3 bou2} /(nom d'un jeu d'argent)/
+壓延機 压延机 [ya1 yan2 ji1] {aat3 jin4 gei1} /calandre; laminoir de métal/
 壓氣 压气 [ya1 qi4] {aat3 hei3} /air comprimé/
 壓縮空氣 压缩空气 [ya1 suo1 kong1 qi4] {aat3 suk1 hung1 hei3} /air comprimé/
-壓軸 压轴 [ya1 zhou4] {aat3 zuk6} /bouquet final/
-壓驚 压惊 [ya1 jing1] {aat3 ging1} /se calmer/
-壞 坏 [huai4] {waai6} /ruiner/
-壞到加零一 坏到加零一 [huai4 dao4 jia1 ling2 yi1] {waai6 dou3 gaa1 ling4 jat1} /terrible/
-壞咗 坏咗 [huai4 zuo5] {waai6 zo2} /cassé, brisé/
+壓軸 压轴 [ya1 zhou4] {aat3 zuk6} /bouquet final; clou du spectacle/
+????f 壓驚 压惊 [ya1 jing1] {aat3 ging1} /aider quelqu'un à se remettre d'un choc/
+壞 坏 [huai4] {waai6} /mauvais; méchant/cassé; en panne; hors service/ruiner/pourrir; s'abîmer; gâter/
+壞到加零一 坏到加零一 [huai4 dao4 jia1 ling2 yi1] {waai6 dou3 gaa1 ling4 jat1} /(personne) terrible; très mauvais/
+壞咗 坏咗 [huai4 zuo5] {waai6 zo2} /cassé; en panne; hors service/pourrir/
 壞心 坏心 [huai4 xin1] {waai6 sam1} /mauvaises intentions/
 壞習慣 坏习惯 [huai4 xi2 guan4] {waai6 zaap6 gwaan3} /mauvaise habitude/
 壞處 坏处 [huai4 chu5] {waai6 cyu3} /désavantage, inconvénient/
