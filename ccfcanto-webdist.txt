@@ -2650,7 +2650,7 @@
 ????f 出師表 出师表 [chu1 shi1 biao3] {ceot1 si1 biu2} /lettre écrite par Zhuge Liang (premier ministre du royaume Shu) destiné à Liu Chan (roi du royaume Shu) juste avant l'invasion du royaume Wei, lettre couramment utilisée comme matériel pédagogique/
 出年 出年 [chu1 nian2] {ceot1 nin2} /l'an prochain; l'année à venir/
 出得廳堂，入得廚房 出得厅堂，入得厨房 [chu1 de5 ting1 tang2 , ru4 de5 chu2 fang2] {ceot1 dak1 teng1 tong4 ，jap6 dak1 ceoi4 fong4} /(expr. idiom.) femme idéale/(lit.) une femme présentable dans le salon, et qui est bonne cuisinière/
-????f 出息 出息 [chu1 xi5] {ceot1 sik1} /perspectives; potentiel/
+????f 出息 出息 [chu1 xi5] {ceot1 sik1} /bonnes perspectives; bon potentiel; bonnes possibilités/
 出手 出手 [chu1 shou3] {ceot1 sau2} /intervenir; agir; passer à l'action/distribuer; donner/
 出晒名 出晒名 [chu1 shai4 ming2] {ceot1 saai3 meng2} /célèbre; connu/
 ????f 出更 出更 [chu1 geng4] {ceot1 gang1} /(officier, policier) en service/
@@ -5174,8 +5174,8 @@
 執豆噉執 执豆啖执 [zhi2 dou4 dan4 zhi2] {zap1 dau2 gam2 zap1} /(expr. idiom.) très facile; sans effort; sans peine/(lit.) comme ramasser des petits pois/
 執贏 执赢 [zhi2 ying2] {zap1 jeng4} /(compétition) avoir le dessus; prendre la tête/
 執起 执起 [zhi2 qi3] {zap1 hei2} /ramasser/
-????f 執輸 执输 [zhi2 shu1] {zap1 syu1} /rater une occasion; manquer une occasion; perdre une occasion/
-????f 執輸行頭慘過敗家 执输行头惨过败家 [zhi2 shu1 hang2 tou2 can3 guo4 bai4 jia1] {zap1 syu1 hong4 tau4 caam2 gwo3 baai6 gaa1} /rien n'est pire que rater une bonne occasion/
+????f 執輸 执输 [zhi2 shu1] {zap1 syu1} /rater sa chance; manquer une belle occasion/
+????f 執輸行頭慘過敗家 执输行头惨过败家 [zhi2 shu1 hang2 tou2 can3 guo4 bai4 jia1] {zap1 syu1 hong4 tau4 caam2 gwo3 baai6 gaa1} /rien n'est pire que manquer une belle occasion/
 ????f 執金吾 执金吾 [zhi2 jin1 wu2] {zap1 gam1 ng4} /officier responsable du maintain de l'ordre public dans la ville capitale pendant la dynastie Han/
 ????f 執雞 执鸡 [zhi2 ji1] {zap1 gai1} /(expr. idiom.) profiter d'une manne; tirer profit d'une situation inattendue/(expr. idiom.) (football) cherry picking/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule/
 執頭執尾 执头执尾 [zhi2 tou2 zhi2 wei3] {zap1 tau4 zap1 mei5} /(expr.) régler les derniers détails/(expr.) faire des petits boulots/
@@ -6281,7 +6281,7 @@
 ???? 姣婆藍 姣婆蓝 [jiao1 po2 lan2] {haau4 po4 laam4} /bleu-violet/
 姣婆遇着脂粉客 姣婆遇着脂粉客 [jiao1 po2 yu4 zhao2 zhi1 fen3 ke4] {haau4 po4 jyu6 zoek6 zi1 fan2 haak3} /(expr. idiom.) bien s'entendre, s'intégrer/(lit.) les putes et hommes excités se rencontrent/
 姣屍扽篤 姣尸扽笃 [jiao1 shi1 den4 du3] {gaau2 si1 dan6 duk1} /(expr. idiom.) séduire/(lit.) flirter à ce que les cadavres bandent/
-姣氣 姣气 [jiao1 qi4] {haau4 hei3} /pouvoir et prestige/influence/bonne perspectives/
+姣氣 姣气 [jiao1 qi4] {haau4 hei3} /pouvoir et prestige/influence/bonnes perspectives/
 姨丈 姨丈 [yi2 zhang4] {ji4 zoeng6} /oncle/
 姨仔 姨仔 [yi2 zi3] {ji1 zai2} /soeur cadette d'une épouse/tante (en particulier, une soeur cadette de sa mère)/
 姨婆 姨婆 [yi2 po2] {ji4 po4} /grande-tante/
@@ -9646,7 +9646,7 @@
 撳鷓鴣 揿鹧鸪 [qin4 zhe4 gu1] {gam6 ze3 gu1} /(expr. idiom.) arnaquer, escroquer quelqu'un/(expr. idiom.) faire chanter quelqu'un, extorquer, faire du chantage à quelqu'un/(lit.) appuyer sur la perdrix/
 撶 撶 [hua2] {waa1} /ramer, propulser (un bateau, une chaloupe, etc.)/
 撻 挞 [ta4] {taat3} /tarte/tartelette/voler (de l'argent)/échouer, gâcher, foutre en l'air/porter (des sandales ou flip-flops)/démarrer (une véhicule)/
-撻Ｑ 挞Ｑ [ta4 Q] {taat3 kiu1} /(vocabulaire de football) louper la balle/(fig.) rater une occasion en or/(fig.) faire un erreure/
+????f 撻Ｑ 挞Ｑ [ta4 Q] {taat3 kiu1} /(vocabulaire de football) louper la balle/(fig.) rater sa chance; manquer une belle occasion/(fig.) faire une erreur/
 撻伐 挞伐 [ta4 fa2] {taat3 fat6} /lancer une croisade contre/
 撻嘢 挞嘢 [ta4 ye3] {taat1 je5} /voler, cambrioler/
 撻定 挞定 [ta4 ding4] {taat3 ding6} /perdre l'acompte (après avoir décidé d'annuler quelque chose)/
@@ -11758,7 +11758,7 @@
 水圳 水圳 [shui3 zhen4] {seoi2 zan3} /canal d'irrigation/nulla/
 ???? 水垽 水垽 [shui3 yin4] {seoi2 ngan6} /dépôt calcaire; tartre/sédiment/
 水塘 水塘 [shui3 tang2] {seoi2 tong4} /réservoir; bassin de retenue; lac de barrage/
-水尾 水尾 [shui3 wei3] {seoi2 mei5} /le restant (en particulier les produits qui n'ont pas été vendus)/rater une occasion de faire un profit/
+????f 水尾 水尾 [shui3 wei3] {seoi2 mei5} /le restant (en particulier les produits qui n'ont pas été vendus)/rater la chance de faire un profit/
 水平線 水平线 [shui3 ping2 xian4] {seoi2 ping4 sin3} /ligne horizontale/
 水廁 水厕 [shui3 ce4] {seoi2 ci3} /toilette à chasse d'eau/
 水彩顏料 水彩颜料 [shui3 cai3 yan2 liao4] {seoi2 coi2 ngaan4 liu2} /pigments d'aquarelle/
@@ -11845,7 +11845,7 @@
 求 求 [qiu2] {kau4} /supplier; implorer/
 求仁得仁 求仁得仁 [qiu2 ren2 de2 ren2] {kau4 jan4 dak1 jan4} /rêve devenu réalité/
 求偶 求偶 [qiu2 ou3] {kau4 ngau5} /faire la cour à quelqu'un; courtiser/
-求先 求先 [qiu2 xian1] {kau4 sin1} /tout à l'heure; à l'instant/
+求先 求先 [qiu2 xian1] {kau4 sin1} /il y a un instant; tout à l'heure; plus tôt; tantôt/
 求全 求全 [qiu2 quan2] {kau4 cyun4} /exiger la perfection/
 求其 求其 [qiu2 qi2] {kau4 kei4} /sans soin; avec négligence; aveuglément; n'importe comment/(indifférence) ça m'est égal; c'est comme tu veux/
 求實 求实 [qiu2 shi2] {kau4 sat6} /faire preuve de pragmatisme; chercher des résultats réalistes/
@@ -12570,7 +12570,7 @@
 漏氣 漏气 [lou4 qi4] {lau6 hei3} /lent à agir; apathique/indécis; hésitant/
 漏網 漏网 [lou4 wang3] {lau6 mong5} /passer entre les mailles du filet; échapper au châtiment/
 漏罅 漏罅 [lou4 xia4] {lau6 laa3} /fente; fissure/(fig.) trou; faille (dans un plan)/(fig.) (travail) négligent; de mauvaise qualité/
-???? 漏雞 漏鸡 [lou4 ji1] {lau6 gai1} /rater la chance de...; rater l'occasion de..../
+????f 漏雞 漏鸡 [lou4 ji1] {lau6 gai1} /rater sa chance; manquer une belle occasion/
 漏電 漏电 [lou4 dian4] {lau6 din6} /présenter une fuite d'électricité; faire un court-circuit/
 漏風 漏风 [lou4 feng1] {lau6 fung1} /fuite d'air/(fig.) fuiter; divulguer une information/(fig.) parler indistinctement à cause de la perte d'une ou plusieurs dents de devant/contenant ou emballage pas hermétique/
 漏縫 漏缝 [lou4 feng4] {lau6 fung6} /fente; fissure/
@@ -18770,7 +18770,7 @@
 赤鱲角 赤鱲角 [Chi4 lie4 jiao3] {cek3 laap6 gok3} /Chek Lap Kok, île de Hong Kong/
 赦宥 赦宥 [she4 you4] {se3 jau6} /(droit) grâcier; remettre sa peine/
 赧然 赧然 [nan3 ran2] {naan5 jin4} /rougir de honte/
-走 走 [zou3] {zau2} /marcher/aller/bouger/s'en aller/mourir; décéder/sans; pas de/rater (une chance)/
+走 走 [zou3] {zau2} /marcher/aller/bouger/s'en aller/mourir; décéder/sans; pas de/rater (sa chance); manquer (une belle occasion)/
 走下坡 走下坡 [zou3 xia4 po1] {zau2 haa6 po1} /péricliter; décliner/
 走佬 走佬 [zou3 lao3] {zau2 lou2} /fuir/
 ????f 走光 走光 [zou3 guang1] {zau2 gwong1} /(fig.) avoir un incident de garde-robe/(photographie) surexposer/
@@ -18802,7 +18802,7 @@
 走精面 走精面 [zou3 jing1 mian4] {zau2 zeng1 min2} /(fig.) prendre un raccourci; couper les coins ronds; agir dans son intérêt sans se soucier des conséquences pour les autres/(lit.) agir avec un visage malin/
 走趯 走趯 [zou3 ti4] {zau2 dek3} /participer à des activités/se presser/faire des courses/
 ????f 走趲 走趱 [zou3 zan3] {zau2 zaan2} /latitude; marge/
-????f 走雞 走鸡 [zou3 ji1] {zau2 gai1} /(fig.) rater une chance; rater une occasion/miss out on a deal/(lit.) perdre ses poules/
+????f 走雞 走鸡 [zou3 ji1] {zau2 gai1} /(fig.) rater sa chance; manquer une belle occasion/(lit.) perdre ses poules/
 走難 走难 [zou3 nan2] {zau2 naan6} /fuir un catastrophe/
 走電 走电 [zou3 dian4] {zau2 din6} /(électricité) fuite de courant/
 走頭 走头 [zou3 tou2] {zau2 tau4} /partir; fuir; s'enfuir; s'échapper/
@@ -19207,7 +19207,7 @@
 ????f 輸到貼地 输到贴地 [shu1 dao4 tie1 di4] {syu1 dou3 tip3 dei2} /(expr. idiom.) être anéanti; être abattu; subir une défaite terrible/(lit.) perdre jusqu'à se mettre à terre/
 輸氧 输氧 [shu1 yang3] {syu1 joeng5} /oxygénothérapie/
 ????f 輸硬 输硬 [shu1 ying4] {syu1 ngaang6} /être sûr de perdre; n'avoir aucune chance de gagner/
-輸蝕 输食 [shu1 shi2] {syu1 sit6} /(fig.) rater; manquer (une occasion)/(fig.) subir une perte/(fig.) être désavantagé/(fig.) être incapable de concurrencer; être incapable de rivaliser/
+????f 輸蝕 输食 [shu1 shi2] {syu1 sit6} /(fig.) rater sa chance; manquer une belle occasion/(fig.) subir une perte/(fig.) être désavantagé/(fig.) être incapable de concurrencer; être incapable de rivaliser/
 輸賭 输赌 [shu1 du3] {syu1 dou2} /parier; miser/
 輸錢 输钱 [shu1 qian2] {syu1 cin2} /perdre de l'argent/
 輻射熱 辐射热 [fu2 she4 re4] {fuk1 se6 jit6} /chaleur transmise par rayonnement/
@@ -21225,7 +21225,7 @@
 ????f 領袖生 领袖生 [ling3 xiu4 sheng1] {ling5 zau6 sang1} /préfet; élève chargé de la discipline/
 頭一次 头一次 [tou2 yi2 ci4] {tau4 jat1 ci3} /la première fois/
 頭位 头位 [tou2 wei4] {tau4 wai2} /tête de la queue/
-頭先 头先 [tou2 xian1] {tau4 sin1} /à l'instant; il y a un instant; tout à l'heure/
+頭先 头先 [tou2 xian1] {tau4 sin1} /il y a un instant; tout à l'heure; plus tôt; tantôt/
 頭刺 头刺 [tou2 ci4] {tau4 cek3} /mal de tête/
 ????f 頭啖湯 头啖汤 [tou2 dan4 tang1] {tau4 daam6 tong1} /(fig.) être le premier à (faire quelque chose)/(lit.) (boire) la première gorgée de soupe/
 頭大冇腦 头大冇脑 [tou2 da4 mao3 nao3] {tau4 daai6 mou5 nou5} /(expr. idiom.) stupide; idiot; bête/(lit.) grande tête sans cerveau/
