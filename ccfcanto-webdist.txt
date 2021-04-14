@@ -5324,7 +5324,7 @@
 ????c 壼奧 壸奥 [kun3 ao4] {kwan2 ou3} /profond; significatif/
 壽 寿 [shou4] {sau6} /longévité/
 壽仔 寿仔 [shou4 zi3] {sau6 zai2} /imbécile; idiot; clown/
-????f 壽包 寿包 [shou4 bao1] {sau6 baau1} /pain d'annversaire chinois (qui se mange seulement lors des fêtes d'anniversaires des personnes âgées pour célébrer leur longévité)/
+????f 壽包 寿包 [shou4 bao1] {sau6 baau1} /pain d'annversaire chinois (qui se mange seulement lors des banquets d'anniversaire des personnes âgées pour célébrer leur longévité)/
 ????c 壽幛 寿幛 [shou4 zhang4] {sau6 zoeng3} /cadeau d'anniversaire de soie/
 ????f 壽星仔 寿星仔 [shou4 xing5 zi3] {sau6 sing1 zai2} /garçon dont c'est l'anniversaire; roi de la fête; héros de la fête/
 ????f 壽星公 寿星公 [shou4 xing1 gong1] {sau6 sing1 gung1} /garçon dont c'est l'anniversaire; roi de la fête; héros de la fête (birthday boy)/dieu de la longévité/une personne très âgée/
@@ -5510,7 +5510,7 @@
 大公無私 大公无私 [da4 gong1 wu2 si1] {daai6 gung1 mou4 si1} /juste; désintéressé/
 大冬瓜 大冬瓜 [da4 dong1 gua1] {daai6 dung1 gwaa1} /(fig.) maladroit; malhabile; balourd/(lit.) grande courge cireuse/
 大出血 大出血 [da4 chu1 xie3] {daai6 ceot1 hyut3} /(fig.) dépenser beaucoup d'argent /(lit.) grande hémorrage/
-大前日 大前日 [da4 qian2 ri4] {daai6 cin4 jat6} /il y a trois jours/
+大前日 大前日 [da4 qian2 ri4] {daai6 cin4 jat6} /il y a trois jours; avant-avant-hier/
 大劇院站 大剧院站 [da4 ju4 yuan4 zhan4] {daai6 kek6 jyun2 zaam6} /Grand Theatre Station, station du métro de Canton/
 大劑 大剂 [da4 ji4] {daai6 zai1} /être dans de beaux draps; être dans le pétrin/
 大力 大力 [da4 li4] {daai6 lik6} /fort; puissant/
@@ -5548,54 +5548,54 @@
 ????f 大堆頭 大堆头 [da4 dui1 tou2] {daai6 deoi1 tau4} /regroupement d'acteurs et actrices célèbres/(lit.) un grand amas de têtes/
 大場 大场 [da4 chang3] {daai6 coeng4} /grande occasion/
 大塘站 大塘站 [da4 tang2 zhan4] {daai6 tong2 zaam6} /Datang Station, station du métro du Canton/
-大壽 大寿 [da4 shou4] {daai6 sau6} /«grand» anniversaire, soit chaque décennie après le cinquantième anniversaire/
-大夥兒 大伙儿 [da4 huo3 r5] {daai6 fo2 ji4} /tout le monde/grand groupe/
+????f 大壽 大寿 [da4 shou4] {daai6 sau6} /« grand » anniversaire, soit chaque décennie après le cinquantième anniversaire/
+大夥兒 大伙儿 [da4 huo3 r5] {daai6 fo2 ji4} /tout le monde/grand groupe de gens/
 大大啖 大大啖 [da4 da5 dan4] {daai6 daai6 daam6} /grande bouchée/
-大大話話 大大话话 [da4 da4 hua4 hua4] {daai6 daai6 waa6 waa6} /environ, à peu près/
-大夫 大夫 [da4 fu1] {daai6 fu1} /médecin/
-大好沉香當爛柴 大好沉香当烂柴 [da4 hao3 chen2 xiang1 dang1 lan4 chai2] {daai6 hou2 cam4 hoeng1 dong3 laan6 caai4} /gâcher son potentiel/
-大好鮮花插在牛屎裏 大好鲜花插在牛屎里 [da4 hao3 xian1 hua1 cha5 zai4 niu2 shi3 li3] {daai6 hou2 sin1 faa1 caap3 zoi6 ngau4 si2 lei5} /(expr. idiom.) quel dommage/(expr. idiom.) femme accomplie qui se marie avec un homme sans avenir/(lit.) une fleur fraîche insérée dans un tas de bouse de vache/
-大妗 大妗 [da4 jin4] {daai6 kam5} /entremetteur/organisateur ou organisatrice de mariage chinois/
-大妗姐 大妗姐 [da4 jin4 jie3] {daai6 kam5 ze2} /accompagnateur ou accompagnatrice d'une jeune mariée chinoise/
-大姊 大姊 [da4 zi3] {daai6 zi2} /soeur aînée/
+大大話話 大大话话 [da4 da4 hua4 hua4] {daai6 daai6 waa6 waa6} /environ; à peu près/
+大夫 大夫 [da4 fu5] {daai6 fu1} /médecin/
+????f 大好沉香當爛柴 大好沉香当烂柴 [da4 hao3 chen2 xiang1 dang1 lan4 chai2] {daai6 hou2 cam4 hoeng1 dong3 laan6 caai4} /(expr. idiom.) gâcher son potentiel; ne pas mettre à profit quelque chose de grande valeur/(lit.) utiliser des bâtons d'encens comme du bois de chauffage/
+????f 大好鮮花插在牛屎裏 大好鲜花插在牛屎里 [da4 hao3 xian1 hua1 cha5 zai4 niu2 shi3 li3] {daai6 hou2 sin1 faa1 caap3 zoi6 ngau4 si2 lei5} /(expr. idiom.) quel dommage/(expr. idiom.) femme accomplie qui se marie avec un homme sans avenir/(lit.) une fleur fraîche insérée dans un tas de bouse de vache/
+????f 大妗 大妗 [da4 jin4] {daai6 kam5} /guide pour une jeune mariée chinoise qui l'aide avec les coutumes de mariage traditionnelles/
+????f 大妗姐 大妗姐 [da4 jin4 jie3] {daai6 kam5 ze2} /guide pour une jeune mariée chinoise qui l'aide avec les coutumes de mariage traditionnelles/
+????f 大姊 大姊 [da4 zi3] {daai6 zi2} /soeur aînée; sœur la plus âgée/
 大姐仔 大姐仔 [da4 jie3 zi3] {daai6 ze2 zai2} /jeune femme/
-大姐大 大姐大 [da4 jie3 da4] {daai6 ze1 daai6} /femme qui est chef, femme sur qui les autres comptent/(lit.) grande soeur/
+????f 大姐大 大姐大 [da4 jie3 da4] {daai6 ze1 daai6} /(fig.) cheffe; patronne; dirigeante/(fig.) cheffe de gang/(lit.) grande soeur/
 大姑姊 大姑姊 [da4 gu1 zi3] {daai6 gu1 ze1} /grande soeur du père/
-大婆 大婆 [da4 po2] {daai6 po2} /première femme dans un mariage polygame/
-大嬸 大婶 [da4 shen3] {daai6 sam2} /madame/
-大孖 大孖 [da4 ma1] {daai6 maa1} /le plus âgé(e) des jumeaux(elles)/
+????f 大婆 大婆 [da4 po2] {daai6 po2} /première femme dans un mariage polygame/
+????f 大嬸 大婶 [da4 shen3] {daai6 sam2} /madame (forme d'addresse à une femme plus âgée que le locuteur)/
+????f 大孖 大孖 [da4 ma1] {daai6 maa1} /le plus âgé(e) des jumeaux(elles)/
 大字 大字 [da4 zi4] {daai6 zi6} /calligraphie chinoise/
-大學城北站 大学城北站 [da4 xue2 cheng2 bei3 zhan4] {daai6 hok6 sing4 bak1 zaam6} /station Higher Education Mega Center North, station du métro du Canton, Chine/
-大學城南站 大学城南站 [da4 xue2 cheng2 nan2 zhan4] {daai6 hok6 sing4 naam4 zaam6} /station Higher Education Mega Center South, station du métro de Canton, Chine/
-大學城站 大学城站 [da4 xue2 cheng2 zhan4] {daai6 hok6 sing4 zaam6} /station University Town, station du métro de Canton, Chine/
-大安主義 大安主义 [da4 an1 zhu3 yi4] {daai6 on1 zyu2 ji6} /suivre le courant, laisser aller, prendre les choses comme elles viennent/
-大安旨意 大安旨意 [da4 an1 zhi3 yi4] {daai6 on1 zi2 ji3} /être trop sûr, être trop confiant, avoir un faux sentiment de sécurité/
-大家噉話 大家啖话 [da4 gu1 dan4 hua4] {daai6 gaa1 gam2 waa6} /je suis d'accord avec toi/
+大學城北站 大学城北站 [da4 xue2 cheng2 bei3 zhan4] {daai6 hok6 sing4 bak1 zaam6} /station Higher Education Mega Center North, station du métro du Canton/
+大學城南站 大学城南站 [da4 xue2 cheng2 nan2 zhan4] {daai6 hok6 sing4 naam4 zaam6} /station Higher Education Mega Center South, station du métro de Canton/
+大學城站 大学城站 [da4 xue2 cheng2 zhan4] {daai6 hok6 sing4 zaam6} /station University Town, station du métro de Canton/
+????c 大安主義 大安主义 [da4 an1 zhu3 yi4] {daai6 on1 zyu2 ji6} /(expr.) être trop sûr; être trop confiant; avoir un faux sentiment de sécurité/
+大安旨意 大安旨意 [da4 an1 zhi3 yi4] {daai6 on1 zi2 ji3} /(expr.) être trop sûr; être trop confiant; avoir un faux sentiment de sécurité/
+????f 大家噉話 大家啖话 [da4 gu1 dan4 hua4] {daai6 gaa1 gam2 waa6} /(formule de politesse, réponse à de bons vœux) vous aussi; toi aussi/(lit.) tout le monde le dit/
 大家好 大家好 [da4 gu1 hao3] {daai6 gaa1 hou2} /bonjour tout le monde/
-大家好做 大家好做 [da4 gu1 hao3 zuo4] {daai6 gaa1 hou2 zou6} /il est facile pour nous de faire quelque chose/
-大家姐 大家姐 [da4 jia1 jie3] {daai6 gaa1 ze1} /soeur aînée/patronne/
+????f 大家好做 大家好做 [da4 gu1 hao3 zuo4] {daai6 gaa1 hou2 zou6} /pour l'intérêt général (for everybody's convenience)/
+大家姐 大家姐 [da4 jia1 jie3] {daai6 gaa1 ze1} /soeur aînée/patronne; cheffe; dirigeante/
 大家庭 大家庭 [da4 jia1 ting2] {daai6 gaa1 ting4} /grande famille/
-大家心照 大家心照 [da4 gu1 xin1 zhao4] {daai6 gaa1 sam1 ziu3} /secret de Polichinelle/compréhension tacite/
+????c 大家心照 大家心照 [da4 gu1 xin1 zhao4] {daai6 gaa1 sam1 ziu3} /secret de Polichinelle/compréhension tacite/
 大家樂 大家乐 [da4 jia1 le4] {daai6 gaa1 lok6} /Café de Coral, chaîne de restauration rapide à Hong Kong/
-???? 大專會堂 大专会堂 [da4 zhuan1 hui4 tang2] {daai6 zyun1 wui6 tong4} /Academic Community Hall/
-大專院校 大专院校 [da4 zhuan1 yuan4 xiao4] {daai6 zyun1 jyun2 haau6} /universités et collèges/
-大小通吃 大小通吃 [da4 xiao3 tong1 chi1] {daai6 siu2 tung1 hek3} /(expr. idiom.) faire des affaires avec tout le monde/(lit.) manger le grand et le petit/
-大少 大少 [da4 shao4] {daai6 siu3} /jeune maître (utilisé par domestiques)/
+????c 大專會堂 大专会堂 [da4 zhuan1 hui4 tang2] {daai6 zyun1 wui6 tong4} /Academic Community Hall/
+大專院校 大专院校 [da4 zhuan1 yuan4 xiao4] {daai6 zyun1 jyun2 haau6} /établissements d'enseignement supérieur/
+????c 大小通吃 大小通吃 [da4 xiao3 tong1 chi1] {daai6 siu2 tung1 hek3} /(expr. idiom.) faire des affaires avec tout le monde/(lit.) manger le grand et le petit/
+?????f 大少 大少 [da4 shao4] {daai6 siu3} /(forme d'addresse à un jeune maître, utilisé par les domestiques)/
 大少少 大少少 [da4 shao3 shao1] {daai6 siu2 siu2} /un petit peu plus grand/
-大少爺 大少爷 [da4 shao4 ye5] {daai6 siu3 je4} /expression pour parler d'un fils aîné/sans-emploi qui gaspille son argent/
+大少爺 大少爷 [da4 shao4 ye5] {daai6 siu3 je4} /fils aîné/sans-emploi qui gaspille son argent/
 大尾督 大尾督 [da4 wei3 du1] {daai6 mei5 duk1} /Tai Mei Tuk, endroit à Hong Kong/
 大尾篤 大尾笃 [da4 wei3 du3] {daai6 mei5 duk1} /Tai Mei Tuk, endroit à Hong Kong/
-大展拳腳 大展拳脚 [da4 zhan3 quan2 jiao3] {daai6 zin2 kyun4 goek3} /mettre à profit ses compétences/
-大展鴻圖 大展鸿图 [da4 zhan3 hong2 tu2] {daai6 zin2 hung4 tou4} /réaliser un grand projet/
-???? 大師級 大师级 [da4 shi1 ji2] {daai6 si1 kap1} /Master level/
-大帽山 大帽山 [da4 mao4 shan1] {daai6 mou6 saan1} /Tai Mo Shan point culminant de Hong Kong/
+????f 大展拳腳 大展拳脚 [da4 zhan3 quan2 jiao3] {daai6 zin2 kyun4 goek3} /(expr.) mettre à profit ses compétences/
+????f 大展鴻圖 大展鸿图 [da4 zhan3 hong2 tu2] {daai6 zin2 hung4 tou4} /(expr.) réaliser un grand projet; réaliser ses ambitions/
+????c 大師級 大师级 [da4 shi1 ji2] {daai6 si1 kap1} /Master level/
+大帽山 大帽山 [da4 mao4 shan1] {daai6 mou6 saan1} /Tai Mo Shan, point culminant de Hong Kong/
 大年初一 大年初一 [da4 nian2 chu1 yi1] {daai6 nin4 co1 jat1} /le premier jour du Nouvel An chinois/
-大床 大床 [da4 chuang2] {daai6 cong4} /très grand lit à deux places, lit king size/
+????f 大床 大床 [da4 chuang2] {daai6 cong4} /très grand lit à deux places; lit king size/grand lit; lit queen size/
 大廈 大厦 [da4 sha4] {daai6 haa6} /édifice/
-大廚 大厨 [da4 chu2] {daai6 cyu2} /grand patron/
+大廚 大厨 [da4 chu2] {daai6 cyu2} /chef cuisinier; chef de cuisine/
 大強子對撞機 大强子对撞机 [da4 qiang2 zi3 dui4 zhuang4 ji1] {daai6 koeng4 zi2 deoi3 zong6 gei1} /Grand collisionneur de hadrons/
 大律師 大律师 [da4 lu:4 shi1] {daai6 leot6 si1} /avocat; professionel du droit/
-大後日 大后日 [da4 hou4 ri4] {daai6 hau6 jat6} /dans trois jours/
+大後日 大后日 [da4 hou4 ri4] {daai6 hau6 jat6} /dans trois jours; après-après-demain/
 大循環 大循环 [da4 xun2 huan2] {daai6 ceon4 waan4} /système circulatoire/
 大快活 大快活 [da4 kuai4 huo5] {daai6 faai3 wut6} /Fairwood, chaîne de restauration rapide à Hong Kong/
 大意 大意 [da4 yi5] {daai6 ji3} /distrait, préoccupé/
