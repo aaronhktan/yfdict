@@ -907,7 +907,7 @@
 ????c 乞靈 乞灵 [qi3 ling2] {hat1 ling4} /demander de l'aide des dieux ou des esprits/
 也不 也不 [ye3 bu2] {jaa5 bat1} /non plus/ni/
 也好 也好 [ye3 hao3] {jaa5 hou2} /aussi bon; également bon/
-也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /faire l'important; crâner; frimer/
+也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /crâner; frimer; fanfaronner/
 也是 也是 [ye3 shi4] {jaa5 si6} /aussi; également/
 ????c 也與 也与 [ye3 yu3] {jaa5 jyu5} /(expression de doute)/
 乳名 乳名 [ru3 ming2] {jyu5 meng2} /surnom; sobriquet (pour un enfant)/
@@ -5819,12 +5819,12 @@
 大食會 大食会 [da4 shi2 hui4] {daai6 sik6 wui2} /festin/
 ????c 大食有指擬 大食有指拟 [da4 shi2 you3 zhi3 ni3] {daai6 sik6 jau5 zi2 ji5} /avoir une raison de dépenser de l'argent/
 大食細 大食细 [da4 shi2 xi4] {daai6 sik6 sai3} /les puissants dominent les faibles; la loi des plus forts/(lit.) le grand mange le petit/
-大飲大食 大饮大食 [da4 yin3 da4 shi2] {daai6 jam2 daai6 sik6 } /beaucoup manger et beaucoup boire; s'empiffrer; se goinfrer/
+大飲大食 大饮大食 [da4 yin3 da4 shi2] {daai6 jam2 daai6 sik6} /beaucoup manger et beaucoup boire; s'empiffrer; se goinfrer/
 大餸 大餸 [da4 song4] {daai6 sung3} /qui aime manger le plat d'accompagnement mais pas le riz/
 ????c 大馬路 大马路 [da4 ma3 lu4] {daai6 maa5 lou6} /noun; it is part of Castle Peak Road, Yuen Long, whIch also named as Yuen Long Main Street or short term Main Street./grande route/
-????f 大騷 大骚 [da4 sao1] {daai6 sou1} /frimer; se la péter; se péter les bretelles/(orig.) de l'anglais « show off » (« frimer; se la péter »)/
+????f 大騷 大骚 [da4 sao1] {daai6 sou1} /frimer; crâner; se la péter; se péter les bretelles/(orig.) de l'anglais « show off » (« frimer; se la péter »)/
 大髀 大髀 [da4 bi4] {daai6 bei2} /cuisse/
-大體 大体 [da4 ti3] {daai6 tai2} /globalement; dans l'ensemble/plus ou moins/
+大體 大体 [da4 ti3] {daai6 tai2} /globalement; dans l'ensemble/plus ou moins; environ; à peu près/
 大魚 大鱼 [da4 yu2] {daai6 jyu4} /(espèce de poissons) Hypophthalmichthys nobilis; carpe à grosse tête; carpe marbrée; carpe asiatique/(expr. idiom.) personne ou chose importante/(lit.) gros poisson/
 ????f 大鱷 大鳄 [da4 e4] {daai6 ngok6} /(fig.) investisseur puissant et sans pitié/(lit.) grand crococile/
 大麻 大麻 [da4 ma2] {daai6 maa4} /cannabis; marijuana/
@@ -7578,7 +7578,7 @@
 廿四味 廿四味 [nian4 si4 wei4] {jaa6 sei3 mei2} /tisane «24 Flavors», vendu dans le sud de la Chine/
 廿四小時 廿四小时 [nian4 si4 xiao3 shi2] {jaa6 sei3 siu2 si4} /vingt-quatre heures/
 弁言 弁言 [bian4 yan2] {bin6 jin4} /avant-propos, préface/
-弄巧反拙 弄巧反拙 [nong4 qiao3 fan3 zhuo1] {lung6 haau2 faan2 zyut3} /essayer de frimer mais rater/
+????f 弄巧反拙 弄巧反拙 [nong4 qiao3 fan3 zhuo1] {lung6 haau2 faan2 zyut3} /essayer de frimer mais rater/
 弄璋 弄璋 [nong4 zhang1] {lung6 zoeng1} /(arch.) donner naissance à un garçon/(orig.) donner du jade à un bébé garçon dans l'espoir de le voir grandir et devenir vertueux était une tradition de la Chine antique; cette pierre précieuse symbolisait la virtuosité et la propreté/
 弄璋之喜 弄璋之喜 [nong4 zhang1 zhi1 xi3] {lung6 zoeng1 zi1 hei2} /célébration pour la naissance d'un petit garçon/
 弄瓦 弄瓦 [nong4 wa3] {lung6 ngaa5} /(arch.) donner naissance à une fille/(orig.) donner une fusaïole à une petite fille dans l'espoir de la voir maîtriser le tissage était une tradition de la Chine antique/
@@ -8804,7 +8804,7 @@
 承聞 承闻 [cheng2 wen2] {seng4 man4} /apprendre d'autre sources, entendre d'autre personne/
 承諾 承诺 [cheng2 nuo4] {sing4 nok6} /s'engager/promettre/
 技壓群雄 技压群雄 [ji4 ya1 qun2 xiong2] {gei6 aat3 kwan4 hung4} /(expr. idiom.) battre ses concurrents avec ses compétences supérieures/
-技癢 技痒 [ji4 yang3] {gei6 joeng5} /vouloir frimer, vouloir montrer ses compétences/
+????f 技癢 技痒 [ji4 yang3] {gei6 joeng5} /vouloir frimer; vouloir montrer ses compétences; vouloir s'étaler/
 技術密集 技术密集 [ji4 shu4 mi4 ji2] {gei6 seot6 mat6 zaap6} /à forte intensité technologique/
 技術支援 技术支援 [ji4 shu4 zhi1 yuan2] {gei6 seot6 zi1 wun4} /support technique, soutien technique/
 技術改造 技术改造 [ji4 shu4 gai3 zao4] {gei6 seot6 goi2 zou6} /transformation technologique/
@@ -9819,7 +9819,7 @@
 攞嚟講 攞嚟讲 [luo1 li2 jiang3] {lo2 lei4 gong2} /entamer une discussion inutile, parler de choses inutiles/
 攞嚟賤 攞嚟贱 [luo1 li2 jian4] {lo2 lei4 zin6} /qui se crée des ennuis, qui se crée des problèmes/
 攞嚟辛苦 攞嚟辛苦 [luo1 li2 xin1 ku3] {lo2 lei4 san1 fu2} /chercher des ennuis, se créer des problèmes/
-攞彩 攞彩 [luo1 cai3] {lo2 coi2} /exhiber, crâner, frimer/
+攞彩 攞彩 [luo1 cai3] {lo2 coi2} /crâner; frimer; se la péter; se péter les bretelles/
 攞意頭 攞意头 [luo1 yi4 tou2] {lo1 ji3 tau4} /obtenir un résultat propice, favorable, qui apporte de la chance/
 攞景 攞景 [luo1 jing3] {lo2 ging2} /(fig.) sarcasme/(fig.) parler avec sarcasme/(fig.) exploiter, profiter de quelque chose/(fig.) frapper un ennemi à terre/(lit.) composer une photo/
 攞獎 攞奖 [luo1 jiang3] {lo2 zoeng2} /recevoir un prix, être accordé un prix/
@@ -10482,9 +10482,9 @@
 晏晝飯 晏昼饭 [yan4 zhou4 fan4] {aan3 zau3 faan6} /dîner (Can.), déjeuner (Fr.)/
 晏覺 晏觉 [yan4 jue2] {aan3 gaau3} /sieste/
 晒冷 晒冷 [shai4 leng3] {saai3 laang5} /découvrir son jeu, laisser voir ou montrer ses cartes/(expr. idiom.) jouer cartes sur table, montrer ses cartes, démontrer sa force, montrer sa capacité/
-晒命 晒命 [shai4 ming4] {saai3 ming6} /frimer, exhiber, montrer/
+????f 晒命 晒命 [shai4 ming4] {saai3 meng6} /s'étaler; se montrer/
 晒士 晒士 [shai4 shi4] {saai3 si6} /(fam.) taille/(orig.) de l'anglais «size», taille/
-晒料 晒料 [shai4 liao4] {saai3 liu2} /frimer, exhiber, montrer/
+????f 晒料 晒料 [shai4 liao4] {saai3 liu2} /s'étaler; se montrer/
 晒月光 晒月光 [shai4 yue4 guang1] {saai3 jyut6 gwong1} /faire une promenade romantique au clair de lune/
 晒相 晒相 [shai4 xiang4] {saai3 soeng2} /développer des photos/
 晒馬 晒马 [shai4 ma3] {saai3 maa5} /démonstration de force par une triade chinoise/
@@ -10558,7 +10558,7 @@
 曚曚光 曚曚光 [meng2 meng2 guang1] {mung1 mung1 gwong1} /premières lueurs de l'aube/
 曚曨 曚昽 [meng2 long2] {mung4 lung4} /lumière voilée du soleil/
 曙色 曙色 [shu3 se4] {cyu5 sik1} /première lueurs de l'aube/
-曬 晒 [shai4] {saai3} /frimer, exhiber, montrer/
+????f 曬 晒 [shai4] {saai3} /s'étaler; se montrer/
 曬命 晒命 [shai4 ming4] {saai3 meng6} /frimer, exhiber, montrer/
 曬太陽 晒太阳 [shai4 tai4 yang2] {saai3 taai3 joeng4} /se faire bronzer, se faire dorer la couenne/sécher au soleil/
 曬月光 晒月光 [shai4 yue4 guang1] {saai3 jyut6 gwong1} /faire une promenade romantique au clair de lune/
@@ -11425,7 +11425,7 @@
 欺君罔上 欺君罔上 [qi1 jun1 wang3 shang4] {hei1 gwan1 mong5 soeng6} /duper le souverain/
 ???? 欽差大臣 钦差大臣 [qin1 chai1 da4 chen2] {jam1 caai1 daai6 san4} /envoyé impérial, émissaire impériale/
 欽此 钦此 [qin1 ci3] {jam1 ci2} /mots ou phrase lus à la fin d'un ordre impériale/
-款 款 [kuan3] {fun2} /frimer, crâner, faire l'important/salutation/
+款 款 [kuan3] {fun2} /style; modèle/frimer; crâner; se la péter; se péter les bretelles/salutation/
 款式 款式 [kuan3 shi5] {fun2 sik1} /style/
 款頭 款头 [kuan3 tou2] {fun2 tau4} /panache; style/
 歆慕 歆慕 [xin1 mu4] {jam1 mou6} /admirer/
@@ -12541,7 +12541,7 @@
 滾熟 滚熟 [gun3 shu2] {gwan2 suk6} /cuire à l'eau/
 滾熱辣 滚热辣 [gun3 re4 la4] {gwan2 jit6 laat6} /bien chaud; brûlant/(fig.) tendance; à la mode; en vogue/
 滾㷫 滚㷫 [gun3 qing3] {gwan2 hing3} /dégager la chaleur/
-滾紅滾綠 滚红滚绿 [gun3 hong2 gun3 lu:4] {gwan2 hung4 gwan2 luk6} /(expr. idiom.) aller voir une prostituée/(epxr. idiom.) crâner; frimer/(expr. idiom.) semer la zizanie; faire des bêtises/(lit.) bouillir rouge et bouillir vert/
+????f 滾紅滾綠 滚红滚绿 [gun3 hong2 gun3 lu:4] {gwan2 hung4 gwan2 luk6} /(expr. idiom.) aller voir une prostituée/(expr. idiom.) crâner; frimer; se la péter; se péter les bretelles/(expr. idiom.) semer la zizanie; faire des bêtises/(lit.) bouillir rouge et bouillir vert/
 滾軸溜冰 滚轴溜冰 [gun3 zhou2 liu1 bing1] {gwan2 zuk6 lau4 bing1} /patinage à roulettes/
 滾軸溜冰鞋 滚轴溜冰鞋 [gun3 zhou2 liu1 bing1 xie2] {gwan2 zuk6 lau4 bing1 haai4} /patins à roulettes/
 滾雪球 滚雪球 [gun3 xue3 qiu2] {gwan2 syut3 kau4} /(fig.) faire boule de neige; prendre de l'ampleur/
@@ -12578,13 +12578,13 @@
 漏風 漏风 [lou4 feng1] {lau6 fung1} /fuite d'air/(fig.) fuiter; divulguer une information/(fig.) parler indistinctement à cause de la perte d'une ou plusieurs dents de devant/contenant ou emballage pas hermétique/
 漏縫 漏缝 [lou4 feng4] {lau6 fung6} /fente; fissure/
 演唱 演唱 [yan3 chang4] {jin2 coeng3} /concert/
-演嘢 演嘢 [yan3 ye3] {jin2 je5} /crâner; frimer/
+????f 演嘢 演嘢 [yan3 ye3] {jin2 je5} /crâner; frimer; se la péter; se péter les bretelles/
 演奏家 演奏家 [yan3 zou4 jia1] {jin2 zau3 gaa1} /chanteur ou musicien (qui joue devant un public)/
 演歌 演歌 [yan3 ge1] {jin2 go1} /enka, genre musical japonais/
 演繹 演绎 [yan3 yi4] {jin2 jik6} /(théâtre) interpréter/(musique, théâtre) jouer (devant un public)/élaborer; développer/
 演説 演说 [yan3 shuo1] {jin2 syut3} /faire un discours; prononcer un discours/
 演講 演讲 [yan3 jiang3] {jin2 gong2} /faire un discours; prononcer un discours/
-演野 演野 [yan3 ye3] {jin2 ye5} /crâner; frimer/
+????f 演野 演野 [yan3 ye3] {jin2 ye5} /crâner; frimer; se la péter; se péter les bretelles/
 漚仔 沤仔 [ou1 zi3] {au1 zai2} /nausées matinales; maladies du matin; nausées et vomissements de la grossesse/(fig.) nauséeux; avoir envie de vomir/
 漚仔婆 沤仔婆 [ou1 zi3 po2] {au1 zai2 po2} /femme enceinte qui a des nausées pendant sa grossesse/
 漚冬 沤冬 [ou1 dong1] {au3 dung1} /pleuvoir sans cesse autour du solstice d'hiver/
@@ -12807,7 +12807,7 @@
 ???? 炕沙 炕沙 [kang4 sha1] {hong3 saa1} /stranded (boat)/to reach a deadlock/搁浅?/
 炖冬菇 炖冬菇 [dun4 dong1 gu1] {dan6 dung1 gu1} /(expr. idiom.) être rétrogradé/(lit.) ragoût aux champignons/(orig.) quand les policiers à Hong Kong étaient rétrogradés, ils portaient un chapeau en forme de champignon/
 炙熱 炙热 [zhi4 re4] {zek3 jit6} /brûlant/
-炫示 炫示 [xuan4 shi4] {jyun6 si6} /montrer; frimer/
+????f 炫示 炫示 [xuan4 shi4] {jyun6 si6} /montrer; s'étaler/
 炭火 炭火 [tan4 huo3] {taan3 fo2} /feu de charbon/
 炭畫 炭画 [tan4 hua4] {taan3 waa2} /dessin au fusain; croquis au fusain; fusain/
 炭筆 炭笔 [tan4 bi3] {taan3 bat1} /(ustensile de dessin) fusain/
@@ -14311,7 +14311,7 @@
 白雲山 白云山 [bai2 yun2 shan1] {baak6 wan4 saan1} /Baiyun Mountain (« mont Baiyun » ou « montagne des nuages blancs »), montagne située au nord de la ville de Canton/
 白雲文化廣場站 白云文化广场站 [bai2 yun2 wen2 hua4 guang3 chang3 zhan4] {baak6 wan4 man4 faa3 gwong2 coeng4 zaam6} /Baiyun Cultural Square Station (« station du square culturel de Baiyun »), station du métro de Canton/
 白雲湖 白云湖 [bai2 yun2 hu2] {baak6 wan4 wu4} /lac Baiyun, lac de Jinan dans la province de Shandong/lac Baiyun, lac de Canton/
-白霍 白霍 [bai2 huo4] {baak6 fok3} /crâneur; frimeur/aimer se faire remarquer; aimer frimer/frivole/
+????f 白霍 白霍 [bai2 huo4] {baak6 fok3} /crâneur; frimeur/aimer se faire remarquer; aimer frimer/frivole/
 白領一族 白领一族 [bai2 ling3 yi4 zu2] {baak6 leng5 jat1 zuk6} /col blanc; employé de bureau/
 白領友 白领友 [bai2 ling3 you3] {baak6 leng5 jau2} /col blanc; employé de bureau/
 白食 白食 [bai2 shi2] {baak6 sik6} /repas gratuit/dîner sans payer/profiter des autres; ne rien contribuer au groupe/
