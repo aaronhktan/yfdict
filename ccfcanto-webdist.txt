@@ -1180,6 +1180,7 @@
 人日 人日 [ren2 ri4] {jan4 jat6} /Renri; la fête des humains, qui tombe le sept du premier mois du calendrier chinois/
 人有三衰六旺 人有三衰六旺 [ren2 you3 san1 shuai1 liu4 wang4] {jan4 jau5 saam1 seoi1 luk6 wong6} /(expr. idiom.) vicissitudes de la vie; les défis et bonnes fortunes vécus au cours d'une vie; les hauts et les bas (voir aussi 三衰六旺)/(lit.) les gens vivent trois malheurs et six bonheurs au cours d'une vie/
 ????f 人有我有 人有我有 [ren2 you3 wo3 you3] {jan4 jau5 ngo5 jau5} /(expr. idiom.) (humble) avoir quelque chose tout comme les autres/(lit.) les autres en ont, moi j'en ai aussi/
+????f 人有失手，馬有失蹄 人有失手，马有失蹄 [ren2 you3 shi1 shou3，ma3 you3 shi1 ti2] {jan4 jau5 sat1 sau2，maa5 jau5 sat1 tai4} /(expr. idiom.) l'erreur est humaine; on fait tous des erreurs/(lit.) les humains font des erreurs, tout comme les chevaux trébuchent/
 人板 人板 [ren2 ban3] {jan4 baan2} /(personne) mauvais exemple (voir aussi 人|人办)/
 ????f 人比人，比死人 人比人，比死人 [ren2 bi3 ren2 , bi3 si3 ren2] {jan4 bei2 jan4 bei2 sei2 jan4} /(expr. idiom.) tout le monde est unique, donc ça ne sert à rien de se comparer aux autres/(lit.) si tu te compares avec les autres, tu vas te comparer jusqu'à la mort/
 人民力量 人民力量 [ren2 min2 li4 liang5] {jan4 man4 lik6 loeng6} /People Power, un parti politique de Hong Kong/
@@ -5949,55 +5950,57 @@
 太難 太难 [tai4 nan2] {taai3 naan4} /trop difficile/
 太高 太高 [tai4 gao1] {taai3 gou1} /trop haut/
 太鼓 太鼓 [tai4 gu3] {taai3 gu2} /tambour Taiko, tambour japonais/
-夫倡婦隨 夫倡妇随 [fu1 chang4 fu4 sui2] {fu1 coeng3 fu5 ceoi4} /homme soutenu par sa femme/(lit.) mari qui promeut, femme qui suit/
-夫君 夫君 [fu1 jun1] {fu1 gwan1} /époux, mari/
-夭心夭肺 夭心夭肺 [yao1 xin1 yao1 fei4] {jiu1 sam1 jiu1 fai3} /contrarié, affecté par quelque chose dite par autrui/
-夭桃穠李 夭桃秾李 [yao1 tao2 nong2 li3] {jiu1 tou4 nung4 lei5} /(expr. idiom.) belle comme la fleur de pêche et la fleur du prunier/
-失勢 失势 [shi1 shi4] {sat1 sai3} /perdre pouvoir et influence/perdre son avantagez/
-失匙夾萬 失匙夹万 [shi1 chi2 jia1 wan4] {sat1 si4 gaap3 maan6} /avoir du mal a obtenir de l'argent de ses parents riches/(litt). coffre-fort sans clé/
-失失慌 失失慌 [shi1 shi5 huang1] {sat1 sat1 fong1} /avoir peur/
-失威 失威 [shi1 wei1] {sat1 wai1} /perdre la face devant les autres/
+????f 夫倡婦隨 夫倡妇随 [fu1 chang4 fu4 sui2] {fu1 coeng3 fu5 ceoi4} /(expr. idiom.) homme soutenu par sa femme; félicité conjugale/(lit.) mari qui chante, femme qui suit/
+夫君 夫君 [fu1 jun1] {fu1 gwan1} /époux; mari; conjoint/
+????c 夭心夭肺 夭心夭肺 [yao1 xin1 yao1 fei4] {jiu1 sam1 jiu1 fai3} /répliquer; répondre à; contredire/
+夭桃穠李 夭桃秾李 [yao1 tao2 nong2 li3] {jiu1 tou4 nung4 lei5} /(expr. idiom.) (d'une jeune femme) très belle/(lit.) belle comme la fleur de pêche et la fleur du prunier/
+失勢 失势 [shi1 shi4] {sat1 sai3} /perdre du pouvoir et de l'influence/
+失匙夾萬 失匙夹万 [shi1 chi2 jia1 wan4] {sat1 si4 gaap3 maan6} /(expr. idiom.) avoir du mal a obtenir de l'argent de ses parents riches/(litt). coffre-fort sans clé/
+失失慌 失失慌 [shi1 shi5 huang1] {sat1 sat1 fong1} /avoir peur; être effrayé/
+失威 失威 [shi1 wei1] {sat1 wai1} /perdre la face; être humilié/
 失婚 失婚 [shi1 hun1] {sat1 fan1} /divorcé/
-失守 失守 [shi1 shou3] {sat1 sau2} /perdre contrôle/tomber dans des mains ennemies/
-失實 失实 [shi1 shi2] {sat1 sat6} /inexact/
-失德 失德 [shi1 de2] {sat1 dak1} /inconduite/
-失意 失意 [shi1 yi4] {sat1 ji3} /démotivé, découragé/
+失守 失守 [shi1 shou3] {sat1 sau2} /tomber aux mains de l'ennemi/perdre; subir une défaite/
+失實 失实 [shi1 shi2] {sat1 sat6} /inexact; sans fondement/
+????c 失德 失德 [shi1 de2] {sat1 dak1} /inconduite/
+失意 失意 [shi1 yi4] {sat1 ji3} /démotivé; découragé; abattu; frustré; qui a le moral dans les talons/
 失憶 失忆 [shi1 yi4] {sat1 jik1} /amnésie/
-失手 失手 [shi1 shou3] {sat1 sau2} /commettre une erreur/
-失打 失打 [shi1 da3] {sat1 daa2} /onomatopée pour le déclic d'un appareil photo/
-失拖 失拖 [shi1 tuo1] {sat1 to1} /séparation, rupture (romantique)/
-失敗乃成功之母 失败乃成功之母 [shi1 bai4 nai3 cheng2 gong1 zhi1 mu3] {sat1 baai6 naai5 sing4 gung1 zi1 mou5} /(proverbe, expr. idiom.) l'échec est la mère du succès/
-???? 失敬 失敬 [shi1 jing4] {sat1 ging3} /s'excuser pour des impolitesses/
+失手 失手 [shi1 shou3] {sat1 sau2} /commettre une erreur; faire une erreur/
+失打 失打 [shi1 da3] {sat1 daa2} /(photographie) obturateur/(orig.) de l'anglais « shutter » (« obturateur »)/
+????c 失拖 失拖 [shi1 tuo1] {sat1 to1} /séparation; rupture (romantique)/manquer à un engagement; manquer un rendez-vous/manquer à une promesse/
+????f 失敗乃成功之母 失败乃成功之母 [shi1 bai4 nai3 cheng2 gong1 zhi1 mu3] {sat1 baai6 naai5 sing4 gung1 zi1 mou5} /(expr.) l'échec est la mère du succès/
+????f 失敬 失敬 [shi1 jing4] {sat1 ging3} /(excuse) pardonnez mon impertinence!/
 失物 失物 [shi1 wu4] {sat1 mat6} /objets perdus/
 失眠症 失眠症 [shi1 mian2 zheng4] {sat1 min4 zing3} /insomnie/
-失禮 失礼 [shi1 li3] {sat1 lai5} /perdre la face/
-失禮人 失礼人 [shi1 li3 ren2] {sat1 lai5 jan4} /perdre la face devant les autres/
-失禮死人 失礼死人 [shi1 li3 si3 ren2] {sat1 lai5 sei2 jan4} /perdre la face devant les autres/
-失落感 失落感 [shi1 luo4 gan3] {sat1 lok6 gam2} /sentiment de vide/sentiment d'aliénation/
-失諸交臂 失诸交臂 [shi1 zhu1 jiao1 bi4] {sat1 zyu1 gaau1 bei3} /laisser passer une occasion/
-失蹄 失蹄 [shi1 ti2] {sat1 tai4} /(cheval) trébucher/dans l'expression «人有失足,馬有失蹄», commettre une erreur inattendue/
+失禮 失礼 [shi1 li3] {sat1 lai5} /perdre la face; être humilié/
+失禮人 失礼人 [shi1 li3 ren2] {sat1 lai5 jan4} /perdre la face; être humilié/
+失禮死人 失礼死人 [shi1 li3 si3 ren2] {sat1 lai5 sei2 jan4} /perdre la face; être humilié/
+失落感 失落感 [shi1 luo4 gan3] {sat1 lok6 gam2} /sentiment de vide; sentiment de futilité/sentiment d'aliénation; sentiment de non-appartenance/
+????c 失諸交臂 失诸交臂 [shi1 zhu1 jiao1 bi4] {sat1 zyu1 gaau1 bei3} /laisser passer une occasion/
+失蹄 失蹄 [shi1 ti2] {sat1 tai4} /(cheval) trébucher/
 失運 失运 [shi1 yun4] {sat1 wan6} /malchance/
-失陷 失陷 [shi1 xian4] {sat1 haam6} /s'emparer d'une ville lors d'une guerre/capturer une personne/
-失驚無神 失惊无神 [shi1 jing1 wu2 shen2] {sat1 geng1 mou4 san4} /tout d'un coup, soudainement/
-失魂魚 失魂鱼 [shi1 hun2 yu2] {sat1 wan4 jyu2} /distrait, étourdi/
-夾 夹 [jia1] {gaap3} /assortir, aller ensemble/compatible/non seulement... mais aussi.../tenir entre deux choses, serrer, coincer/ramasser la nourriture avec des baguettes/
-夾份 夹份 [jia1 fen4] {gaap3 fan2} /partager les dépenses/commencer quelque chose ensemble/ collaborer/
-???? 夾口供 夹口供 [jia1 kou3 gong4] {gaap3 hau2 gung1} /collaborer pour raconter la même histoire/
-夾埋 夹埋 [jia1 mai2] {gaap3 maai4} /avec/
-夾屋 夹屋 [jia1 wu1] {gaap3 uk1} /«Sandwich Class Housing Scheme», programme de logement visant à offir des appartements à la classe classe moyenne de Hong Kong/
-???? 夾心人 夹心人 [jia1 xin1 ren2] {gaap3 sam1 jan4} /personne entre deux personnes ou factions opposées/
-夾心階層 夹心阶层 [jia1 xin1 jie1 ceng2] {gaap3 sam1 gaai1 cang4} /«classe sandwich», expression pour la class moyenne de Hong Kong/
-夾心餅 夹心饼 [jia1 xin1 bing3] {gaap3 sam1 beng2} /biscuit fourré, biscuit sandwich, sandwich-cookie/être au milieu d'une foule/pris au piège dans un problème/
-夾手夾腳 夹手夹脚 [jia1 shou3 jia1 jiao3] {gaap3 sau2 gaap3 goek3} /collaborer/
+失陷 失陷 [shi1 xian4] {sat1 haam6} /tomber aux main de l'ennemi/
+失驚無神 失惊无神 [shi1 jing1 wu2 shen2] {sat1 geng1 mou4 san4} /(expr.) tout d'un coup; soudainement/
+失魂魚 失魂鱼 [shi1 hun2 yu2] {sat1 wan4 jyu2} /(fig.) écervelé; étourdi; tête de linotte/(lit.) poisson qui a perdu son âme/
+夾 夹 [jia1] {gaap3} /assortir; aller ensemble/compatible/non seulement... mais aussi.../tenir entre deux choses; serrer; coincer/ramasser la nourriture avec des baguettes/
+夾 夹 [jia1] {gep2} /épingle/tenir entre deux choses; serrer; coincer/
+夾 夹 [jia1] {gip6} /épingle/tenir entre deux choses; serrer; coincer/
+夾份 夹份 [jia1 fen4] {gaap3 fan2} /mettre de l'argent en commun; faire pot commun/
+????f 夾口供 夹口供 [jia1 kou3 gong4] {gaap3 hau2 gung1} /collaborer pour raconter la même histoire à la police/
+夾埋 夹埋 [jia1 mai2] {gaap3 maai4} /avec/ensemble/
+????f 夾屋 夹屋 [jia1 wu1] {gaap3 uk1} /« Sandwich Class Housing Scheme », programme de logement visant à faciliter l'accession à la propriété de la classe classe moyenne hongkongaise/
+????f 夾心人 夹心人 [jia1 xin1 ren2] {gaap3 sam1 jan4} /(fig.) personne entre le marteau et l'enclume; personne qui se trouve entre deux partis qui ont des intérêts contraires/(lit.) personne-sandwich/
+夾心階層 夹心阶层 [jia1 xin1 jie1 ceng2] {gaap3 sam1 gaai1 cang4} /« classe sandwich », la class moyenne de Hong Kong/
+????f 夾心餅 夹心饼 [jia1 xin1 bing3] {gaap3 sam1 beng2} /biscuit fourré; biscuit sandwich; sandwich-cookie/(fig.) être entre le marteau et l'enclume; se trouver entre deux partis qui ont des intérêts contraires/
+夾手夾腳 夹手夹脚 [jia1 shou3 jia1 jiao3] {gaap3 sau2 gaap3 goek3} /(expr. idiom.) collaborer; travailler ensemble/(lit.) mettre les mains et pieds ensemble/
 夾硬 夹硬 [jia1 ying4] {gaap3 ngaang2} /par la force/
 夾萬 夹万 [jia1 wan4] {gaap3 maan6} /coffre-fort/
-夾腳 夹脚 [jia1 jiao3] {gip6 goek3} /(chaussures) serrées/
+夾腳 夹脚 [jia1 jiao3] {gip6 goek3} /(chaussures) serré; trop petit/
 夾衲 夹衲 [jia1 na4] {gaap3 naap6} /veste/
-夾計 夹计 [jia1 ji4] {gaap3 gai3} /conspirer, comploter/
-夾錢 夹钱 [jia1 qian2] {gaap3 cin4} /donner de l'argent, participer financièrement à, se cotiser/
-奀仔 奀仔 [di2 zi3] {ngan1 zai2} /garçon ou fille faible/
-奀妹 奀妹 [di2 mei4] {ngan1 mui1} /petite fille faible, fragile/
-奀嫋嫋 奀袅袅 [di2 niao3 niao3] {ngan1 niu1 niu1} /(personne) faible, fragile, petit/
+夾計 夹计 [jia1 ji4] {gaap3 gai2} /conspirer; comploter/
+夾錢 夹钱 [jia1 qian2] {gaap3 cin2} /mettre de l'argent en commun; faire pot commun/
+奀仔 奀仔 [di2 zi3] {ngan1 zai2} /garçon ou fille maigre/
+奀妹 奀妹 [di2 mei4] {ngan1 mui1} /petite fille maigre/
+奀嫋嫋 奀袅袅 [di2 niao3 niao3] {ngan1 niu1 niu1} /(personne) maigre; maigrichon/
 奀嫋鬼命 奀袅鬼命 [di2 niao3 gui3 ming4] {ngan1 tiu1 gwai2 meng6} /(personne) faible, fragile, petit, chétif, frêle/
 奀挑鬼命 奀挑鬼命 [di2 tiao1 gui3 ming4] {ngan1 tiu1 gwai2 ming6} /(personne) faible, fragile, petit, chétif, frêle/
 奀星 奀星 [di2 xing1] {ngan1 sing1} /comédien(ne) pas connu(e)/
