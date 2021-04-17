@@ -5992,7 +5992,7 @@
 夾心階層 夹心阶层 [jia1 xin1 jie1 ceng2] {gaap3 sam1 gaai1 cang4} /« classe sandwich », la class moyenne de Hong Kong/
 ????f 夾心餅 夹心饼 [jia1 xin1 bing3] {gaap3 sam1 beng2} /biscuit fourré; biscuit sandwich; sandwich-cookie/(fig.) être entre le marteau et l'enclume; se trouver entre deux partis qui ont des intérêts contraires/
 夾手夾腳 夹手夹脚 [jia1 shou3 jia1 jiao3] {gaap3 sau2 gaap3 goek3} /(expr. idiom.) collaborer; travailler ensemble/(lit.) mettre les mains et pieds ensemble/
-夾硬 夹硬 [jia1 ying4] {gaap3 ngaang2} /par la force/
+夾硬 夹硬 [jia1 ying4] {gaap3 ngaang2} /par la force; de force/
 夾萬 夹万 [jia1 wan4] {gaap3 maan6} /coffre-fort/
 夾腳 夹脚 [jia1 jiao3] {gip6 goek3} /(chaussures) serré; trop petit/
 夾衲 夹衲 [jia1 na4] {gaap3 naap6} /veste/
@@ -6001,52 +6001,53 @@
 奀仔 奀仔 [di2 zi3] {ngan1 zai2} /garçon ou fille maigre/
 奀妹 奀妹 [di2 mei4] {ngan1 mui1} /petite fille maigre/
 奀嫋嫋 奀袅袅 [di2 niao3 niao3] {ngan1 niu1 niu1} /(personne) maigre; maigrichon/
-奀嫋鬼命 奀袅鬼命 [di2 niao3 gui3 ming4] {ngan1 tiu1 gwai2 meng6} /(personne) faible, fragile, petit, chétif, frêle/
-奀挑鬼命 奀挑鬼命 [di2 tiao1 gui3 ming4] {ngan1 tiu1 gwai2 ming6} /(personne) faible, fragile, petit, chétif, frêle/
-奀星 奀星 [di2 xing1] {ngan1 sing1} /comédien(ne) pas connu(e)/
-奀瘦 奀瘦 [di2 shou4] {ngan1 sau3} /maigre, magrichon/
-奀皮 奀皮 [di2 pi2] {ngan1 pei4} /(enfant) vilain, méchant/
-奀細 奀细 [di2 xi4] {ngan1 sai3} /maigre, petit, faible, chétif/
-奀雌雌 奀雌雌 [di2 ci2 ci2] {ngan1 ci1 ci1} /maigre, faible/
-奄奄 奄奄 [yan3 yan3] {jim1 jim1} /mourant/avoir du mal à respirer, proche de la mort/(expr. idiom.) en déclin, à la baisse, échec/
-奄尖 奄尖 [yan3 jian1] {jim2 zim1} /sélectif, difficile/
-奄悶 奄闷 [yan3 men4] {jim2 mun6} /ennuyant/déprimé/sans énergie, découragé/
-奅 奅 [pao4] {paau3} /grand mais vide/mentir/se vanter, fanfaronner/
-奇 奇 [qi2] {kei4} /inattendu/imprévisible/
-奇偉果 奇伟果 [qi2 wei3 guo3] {kei4 wai5 gwo2} /kiwi/
-奇妙 奇妙 [qi2 miao4] {kei4 miu6} /magique, étonnant/
+奀嫋鬼命 奀袅鬼命 [di2 niao3 gui3 ming4] {ngan1 tiu1 gwai2 meng6} /personne faible; personne fragile; personne chétive; personne frêle; sac d'os/
+奀挑鬼命 奀挑鬼命 [di2 tiao1 gui3 ming4] {ngan1 tiu1 gwai2 ming6} /personne faible; personne fragile; personne chétive; personne frêle; sac d'os/
+奀星 奀星 [di2 xing1] {ngan1 sing1} /acteur ou actrice inconnu/
+奀瘦 奀瘦 [di2 shou4] {ngan1 sau3} /maigre; magrichon/
+奀皮 奀皮 [di2 pi2] {ngan1 pei4} /(enfant) vilain; méchant/
+奀細 奀细 [di2 xi4] {ngan1 sai3} /maigre; petit; faible; chétif/
+奀雌雌 奀雌雌 [di2 ci2 ci2] {ngan1 ci1 ci1} /maigre; faible; chétif/
+奄奄 奄奄 [yan3 yan3] {jim1 jim1} /être à son dernier souffle; être proche de la mort/(fig.) en déclin; en baisse/
+奄尖 奄尖 [yan3 jian1] {jim2 zim1} /difficile; tatillon; dur à satisfaire/
+????c 奄悶 奄闷 [yan3 men4] {jim2 mun6} /ennuyant/déprimé/sans énergie; découragé/
+奅 奅 [pao4] {paau3} /(arch.) grand mais vide/mentir/se vanter; fanfaronner/
+奇 奇 [qi2] {kei4} /inattendu; imprévu/imprévisible/
+奇偉果 奇伟果 [qi2 wei3 guo3] {kei4 wai5 gwo2} /(fruit) kiwi/
+奇妙 奇妙 [qi2 miao4] {kei4 miu6} /merveilleux; magnifique; magique/
 奇摩 奇摩 [qi2 mo2] {kei4 mo1} /Yahoo!, société de services web/
-奇緣 奇缘 [qi2 yuan2] {kei4 jyun4} /destin étrange/rencontre fortuite/
-奇蹟 奇迹 [qi2 ji4] {kei4 zik1} /miracle/
-奇離 奇离 [qi2 li2] {kei4 lei4} /(pour décrire la tenue de quelqu'un) mal habillé/vêtements laids/impoli, grossier/impolitesse/comportement excentrique/
-奈佢唔何 奈渠唔何 [nai4 qu2 n2 he2] {noi6 keoi5 m4 ho4} /(personne, fauteur de troubles) qu'on ne peut pas s'occuper de, qu'on ne peut pas supporter, qu'on n'arrive pas a s'en charger de/(personne, fauteur de troubles) qu'on ne peut plus discipliner, arrêter, punir/
-奉天承運 奉天承运 [feng4 tian1 cheng2 yun4] {fung6 tin1 sing4 wan6} /selon la volonté de Dieu/
-奉旨 奉旨 [feng4 zhi3] {fung6 zi2} /assurément, certainement, absolument/en vertu d'un décret impérial/
-奉旨成婚 奉旨成婚 [feng4 zhi3 cheng2 hun1] {fung6 zi2 sing4 fan1} /mariage arrangé/
-???? 奉獻 奉献 [feng4 xian4] {fung6 hin3} /donner, offrir en sacrifice/
-奏捷 奏捷 [zou4 jie2] {zau3 zit6} /revenir triomphant/
-奏章 奏章 [zou4 zhang1] {zau3 zoeng1} /rapport pour l'empereur/
-契 契 [qi4] {kai3} /adopté/(enfant) en famille d'accueil/
+????c 奇緣 奇缘 [qi2 yuan2] {kei4 jyun4} /destin étrange/rencontre fortuite/
+奇蹟 奇迹 [qi2 ji4] {kei4 zik1} /miracle; merveille/
+奇離 奇离 [qi2 li2] {ke4 le4} /(comportement) excentrique; bizarre; farfelu/mal habillé/impoli; grossier/
+????c 奈佢唔何 奈渠唔何 [nai4 qu2 n2 he2] {noi6 keoi5 m4 ho4} /(personne, fauteur de troubles) de qui l'on ne peut pas s'occuper; que l'on ne peut pas supporter; de qui l'on n'arrive pas a s'en charger/(personne, fauteur de troubles) qu'on ne peut plus discipliner; que l'on ne peut pas arrêter; que l'on ne peut pas punir/
+????f 奉天承運 奉天承运 [feng4 tian1 cheng2 yun4] {fung6 tin1 sing4 wan6} /(expr. idiom.) par grâce de Dieu; par le mandat du Ciel/
+????f 奉旨 奉旨 [feng4 zhi3] {fung6 zi2} /assurément; certainement; absolument; forcément/en vertu d'un décret impérial/
+????f 奉旨成婚 奉旨成婚 [feng4 zhi3 cheng2 hun1] {fung6 zi2 sing4 fan1} /(shotgun marriage; marriage due to a woman getting pregnant)/
+奉獻 奉献 [feng4 xian4] {fung6 hin3} /donner; offrir en sacrifice/se consacrer à; se dévouer à/
+????c 奏捷 奏捷 [zou4 jie2] {zau3 zit6} /revenir victorieux/
+奏章 奏章 [zou4 zhang1] {zau3 zoeng1} /rapport à l'empereur/
+????f 契 契 [qi4] {kai3} /contrat/devenir parrain, devenir marraine; prêter serment et « adopter » l'enfant d'autrui/devenir filleul, devenir filleule; être « adopté » par autrui/jurer un serment de fidélité (à quelqu'un)/
 契乸 契乸 [qi4 na2] {kai3 naa2} /marraine/
-契仔 契仔 [qi4 zi3] {kai3 zai2} /fils adopté/filleul/
-???? 契哥 契哥 [qi4 ge1] {kai3 go1} /frère d'un filleul/frère adoptif/
-契女 契女 [qi4 nü3] {kai3 neoi5} /filleule/
-契妹 契妹 [qi4 mei4] {kai3 mui6} /soeur adoptive/
+契仔 契仔 [qi4 zi3] {kai3 zai2} /filleul/
+????f 契哥 契哥 [qi4 ge1] {kai3 go1} /frère de sang; homme ou garçon plus âgé que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
+契女 契女 [qi4 nu:3] {kai3 neoi5} /filleule/
+????f 契妹 契妹 [qi4 mei4] {kai3 mui6} /sœur de sang; femme ou fille plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
+????f 契姐 契姐 [qi4 jie3] {kai3 ze1} /sœur de sang; femme ou fille plus âgée que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
 契家佬 契家佬 [qi4 jia1 lao3] {kai3 gaa1 lou2} /(péj.) amant d'une femme mariée/
-契家婆 契家婆 [qi4 jia1 po2] {kai3 gaa1 po2} /(péj.) amante d'un homme marié/
-契弟 契弟 [qi4 di4] {kai3 dai6} /frère adoptif/idiot/connard/bâtard/gigolo/(péj.) homme plus jeune d'un couple gai/
-契爺 契爷 [qi4 ye2] {kai3 je4} /parrain/papa gâteau/
-契約 契约 [qi4 yue1] {kai3 joek3} /contrat/acte formaliste, action/accord/
-契細佬 契细佬 [qi4 xi4 lao3] {kai3 sai3 lou2} /frère cadet adoptif/
-契闊 契阔 [qie4 kuo4] {kit3 fut3} /séparé/
-奓腳 奓脚 [chi3 jiao3] {zaa3 goek3} /jambes écartés/étroit en haut, large en bas/
+契家婆 契家婆 [qi4 jia1 po2] {kai3 gaa1 po4} /(péj.) amante d'un homme marié; maîtresse/
+????f 契弟 契弟 [qi4 di4] {kai3 dai6} /frère de sang; homme ou garçon plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/idiot; connard; salaud; crapule/gigolo; prostitué/(péj.) homme plus jeune d'un couple homosexuel/
+契爺 契爷 [qi4 ye2] {kai3 je4} /parrain/(fig.) papa gâteau/
+契約 契约 [qi4 yue1] {kai3 joek3} /contrat/
+????f 契細佬 契细佬 [qi4 xi4 lao3] {kai3 sai3 lou2} /frère de sang; homme ou garçon plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
+契闊 契阔 [qie4 kuo4] {kit3 fut3} /être séparé/
+????f 奓腳 奓脚 [chi3 jiao3] {zaa3 goek3} /jambes écartés/étroit en haut, large en bas/
 奓鼻 奓鼻 [chi3 bi2] {zaa3 bei6} /grandes narines/
-奕奕 奕奕 [yi4 yi4] {jik6 jik6} /énergique/brillant, intelligent/
-套戥 套戥 [tao4 deng3] {tou3 dang6} /arbitrage, opération financière/
-套現 套现 [tao4 xian4] {tou3 jin6} /monétiser/
-套票 套票 [tao4 piao4] {tou3 piu3} /série de billets, billets groupés, tickets combinés/
-奪取 夺取 [duo2 qu3] {dyut6 ceoi2} /saisir, arracher/
-奪目 夺目 [duo2 mu4] {dyut6 muk6} /attrayant, qui attire le regard/
+????f 奕奕 奕奕 [yi4 yi4] {jik6 jik6} /être énergique; rayonner de vitalité/
+套戥 套戥 [tao4 deng3] {tou3 dang6} /(opération financière) arbitrage/
+套現 套现 [tao4 xian4] {tou3 jin6} /liquider; réaliser en argent liquide/
+????f 套票 套票 [tao4 piao4] {tou3 piu3} /billets de saison; abonnement/voyage à forfait; ensemble de services (transport, hébergement, visites, etc.) proposé à prix fixe/
+奪取 夺取 [duo2 qu3] {dyut6 ceoi2} /prendre; saisir; arracher (le pouvoir, le contrôle, etc.)/
+奪目 夺目 [duo2 mu4] {dyut6 muk6} /qui attire la vue; qui attire le regard/
 奪眶而出 夺眶而出 [duo2 kuang4 er2 chu1] {dyut6 hong1 ji4 ceot1} /fondre en larmes/
 奮勇當先 奋勇当先 [fen4 yong3 dang1 xian1] {fan5 jung5 dong1 sin1} /premiers à attaquer/prendre l'initiative/
 奮勉 奋勉 [fen4 mian3] {fan5 min5} /(arch.) faire en effort déterminé/
@@ -22368,7 +22369,7 @@
 黃芽白 黄芽白 [huang2 ya2 bai2] {wong4 ngaa4 baak6} /pe-tsaï; chou chinois; chou de Pékin; chou napa; nappa/
 黃蜂竇 黄蜂窦 [huang2 feng1 dou4] {wong4 fung1 dau3} /guêpier; nid de guêpes/
 黃蜞 黄蜞 [huang2 qi2] {wong4 kei4} /sangsue/
-黃䘆 黄䘆 [huang2 xian3] {wong4 hin2} /ver de terre/
+黃䘆 黄䘆 [huang2 xian3] {wong4 hyun2} /(vieilli) ver de terre/
 黃貫中 黄贯中 [huang2 guan4 zhong1] {wong4 gun3 zung1} /Paul Wong Koon Chung, chanteur et réalisateur hongkongais/
 黃貫其 黄贯其 [huang2 guan4 qi2] {wong4 gun3 kei4} /Wong Koon-Kei, guitariste hongkongais/
 ????f 黃道吉日 黄道吉日 [huang2 dao4 ji2 ri4] {wong4 dou6 gat1 jat6} /(expr. idiom.) jour faste; jour propice/
