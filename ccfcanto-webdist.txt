@@ -6081,7 +6081,7 @@
 奶樽 奶樽 [nai3 zun1] {naai5 zeon1} /biberon/
 奶粉 奶粉 [nai3 fen3] {naai5 fan2} /lait en poudre/lait maternisé/
 奶糖 奶糖 [nai3 tang2] {naai5 tong2} /toffee/
-????f 奶膽 奶胆 [nai3 dan3] {naai5 daam2} /ampoule (de couleur laiteuse)/
+????f 奶膽 奶胆 [nai3 dan3] {naai5 daam2} /ampoule dépolie/
 奸仔 奸仔 [jian1 zi3] {gaan1 zai2} /malfaiteur/
 奸角 奸角 [jian1 jiao3] {gaan1 gok3} /(cinéma, théâtre) méchant/
 奸貓 奸猫 [jian1 mao1] {gaan1 maau1} /être malhonnête; tricher/
@@ -6099,54 +6099,55 @@
 ????c 好人難做 好人难做 [hao3 ren2 nan2 zuo4] {hou2 jan4 naan4 zou6} /il est difficile d'être une bonne personne/même avec les bonnes intentions, les bonnes personnes feront du mal/l'enfer est pavé de bonnes intentions/
 ????f 好仔 好仔 [hao3 zi3] {hou2 zai2} /homme bien/
 ????f 好仔唔當差 好仔唔当差 [hao3 zi3 n2 dang1 cha1] {hou2 zai2 m4 dong1 caai1} /une bonne personne ne serait pas policier/(orig.) à cause de la corruption dans les forces policières de Hong Kong, un parent ne voudrait pas que son fils devienne policier/
-好似 好似 [hao3 si4] {hou2 ci5} /similaire, semblant/ressembler, s'apparenter/
-好似…噉 好似…啖 [hao3 si4 … dan4] {hou2 ci5 … gam2} /avoir l'air de, ressembler à/
-好似係 好似系 [hao3 si4 xi4] {hou2 ci5 hai6} /semble que (quelque chose) est.../
-好佬怕爛佬 好佬怕烂佬 [hao3 lao3 pa4 lan4 lao3] {hou2 lou2 paa3 laan6 lou2} /(expr. idiom.) les bonnes personnes ne se battent pas ou ne se disputent pas avec les personnes déraisonnables/(lit.) les bonnes personnes ont peur des méchants/
-好使好用 好使好用 [hao3 shi3 hao3 yong4] {hou2 sai2 hou2 jung6} /obéissant, docile et productif/
+好似 好似 [hao3 si4] {hou2 ci5} /similaire; semblant/ressembler à; s'apparenter à/(exprime de la doute) peut-être/
+好似…噉 好似…啖 [hao3 si4 … dan4] {hou2 ci5 … gam2} /avoir l'air de; ressembler à/
+好似係 好似系 [hao3 si4 xi4] {hou2 ci5 hai6} /il semble que (quelque chose) est.../
+????f 好佬怕爛佬 好佬怕烂佬 [hao3 lao3 pa4 lan4 lao3] {hou2 lou2 paa3 laan6 lou2} /(expr. idiom.) les bonnes personnes ne se disputent pas avec les personnes déraisonnables/(lit.) les bonnes personnes ont peur des méchants/
+????f 好佬怕爛佬，爛佬怕潑婦 好佬怕烂佬，烂佬怕泼妇 [hao3 lao3 pa4 lan4 lao3，lan4 lao3 pa4 po1 fu4] {hou2 lou2 paa3 laan6 lou2，laan6 lou2 paa3 put3 fu5} /(expr. idiom.) les bonnes personnes ne se disputent pas avec les personnes déraisonnables; les personnes déraisonnables ne se disputent pas avec les mégères/(lit.) les bonnes personnes ont peur des méchants; les méchants ont peur des mégères/
+????c 好使好用 好使好用 [hao3 shi3 hao3 yong4] {hou2 sai2 hou2 jung6} /obéissant, docile et productif/
 好傢伙 好家伙 [hao3 jia1 huo5] {hou2 gaa1 fo2} /mon Dieu!/
 好傾 好倾 [hao3 qing1] {hou2 king1} /bien s'entendre, avoir beaucoup de choses à dire, avoir eu une bonne discussion/
-好到極 好到极 [hao3 dao4 ji2] {hou2 dou3 gik6} /extrêmement bon, excellent/
-好力 好力 [hao4 li4] {hou2 lik6} /fort, énergetiqu/
-好勁 好劲 [hao3 jin4] {hou2 ging6} /très puissant/
-好友 好友 [hao3 you3] {hou2 jau5} /bon ami/
-好口 好口 [hao3 kou3] {hou2 hau2} /qui parle bien/
-好叻 好叻 [hao3 le4] {hou2 lek1} /intelligent, brillant/bon, doué/
-好呀 好呀 [hao3 ya5] {hou2 aa3} /bien, OK/
-好味 好味 [hao3 wei4] {hou2 mei6} /délicieux, goûteux/
+好到極 好到极 [hao3 dao4 ji2] {hou2 dou3 gik6} /très bon; excellent/
+好力 好力 [hao4 li4] {hou2 lik6} /fort; énergique/
+好勁 好劲 [hao3 jin4] {hou2 ging6} /très puissant/superbe; génial/
+好友 好友 [hao3 you3] {hou2 jau5} /bon ami; ami proche/
+????c 好口 好口 [hao3 kou3] {hou2 hau2} /baratineur; beau parleur/
+好叻 好叻 [hao3 le4] {hou2 lek1} /intelligent; brillant/bon; doué/
+好呀 好呀 [hao3 ya5] {hou2 aa3} /bien; OK/
+好味 好味 [hao3 wei4] {hou2 mei6} /délicieux; goûteux/
 好命水 好命水 [hao3 ming4 shui3] {hou2 meng6 seoi2} /avoir de la chance/
-好唔好 好唔好 [hao3 n2 hao3] {hou2 m4 hou2} /ça vous va?/ça marche?/qu'en pensez-vous?/
-好唔掂 好唔掂 [hao3 m2 dian1] {hou2 m4 dim6} /très mauvais/
-好唱口 好唱口 [hao3 chang4 kou3] {hou2 coeng3 hau2} /(expr. idiom.) être de bonne humeur/(lit.) être d'humeur de chanter/
-好啱偈 好啱偈 [hao3 yan1 ji4] {hou2 ngaam1 gai2} /avoir les mêmes intérêts que quelqu'un/s'entendre bien avec quelqu'un/être sur la même longeur d'ondes/
+好唔好 好唔好 [hao3 n2 hao3] {hou2 m4 hou2} /ça vous va? cela vous convient? qu'en pensez-vous?/
+好唔掂 好唔掂 [hao3 m2 dian1] {hou2 m4 dim6} /très mauvais/éprouver des difficultés; avoir rencontré des difficultés/
+好唱口 好唱口 [hao3 chang4 kou3] {hou2 coeng3 hau2} /(fig.) être de bonne humeur/(fig.) faire des remarques sarcastiques/(lit.) être d'humeur de chanter/
+好啱偈 好啱偈 [hao3 yan1 ji4] {hou2 ngaam1 gai2} /(fig.) s'entendre avec quelqu'un/
 好啲 好啲 [hao3 di1] {hou2 di1} /mieux/
-好嘅唔靈醜嘅靈 好嘅唔灵丑嘅灵 [hao3 ge2 m2 ling2 chou3 ge2 ling2] {hou2 koi3 m4 ling4 cau2 koi3 ling4} /porter malheur à, porter poisse/parler d'une mauvaise chose causera ladite chose/
+????f 好嘅唔靈醜嘅靈 好嘅唔灵丑嘅灵 [hao3 ge2 m2 ling2 chou3 ge2 ling2] {hou2 koi3 m4 ling4 cau2 koi3 ling4} /(expr.) parler d'une mauvaise chose causera ladite chose/
 好嘈 好嘈 [hao3 cao2] {hou2 cou4} /très bruyant/
-好嘢 好嘢 [hao3 ye3] {hou2 je5} /très bon; excellent; remarquable/bonne chose/félicitations! bien joué! hourra!/
+好嘢 好嘢 [hao3 ye3] {hou2 je5} /très bon; excellent; remarquable/produit de bonne qualité/félicitations! bien joué! hourra!/
 好地地 好地地 [hao3 di4 di4] {hou2 dei6 dei6} /tout allait bien... (puis la situation a changé)/
-好多時 好多时 [hao3 duo1 shi2] {hou2 do1 si4} /fréquemment, souvent/
-好天 好天 [hao3 tian1] {hou2 tin1} /journée ensoleillée/belle journée/
-好天搵埋落雨米 好天揾埋落雨米 [hao3 tian1 wen3 mai2 luo4 yu3 mi3] {hou2 tin1 wan2 maai4 lok6 jyu5 mai5} /(expr. idiom.) bien préparé pour un avenir incertain/(lit.) avoir trouvé du riz lors des beaux jours pour les jours de pluie/
+好多時 好多时 [hao3 duo1 shi2] {hou2 do1 si4} /fréquemment; souvent/
+好天 好天 [hao3 tian1] {hou2 tin1} /journée ensoleillée; belle journée; beau temps/
+????f 好天搵埋落雨米 好天揾埋落雨米 [hao3 tian1 wen3 mai2 luo4 yu3 mi3] {hou2 tin1 wan2 maai4 lok6 jyu5 mai5} /(expr. idiom.) bien préparé pour un avenir incertain/(lit.) avoir trouvé du riz lors des beaux jours pour les jours de pluie/
 好好地 好好地 [hao3 hao3 de5] {hou2 hou2 dei2} /bien/
-好好的 好好的 [hao3 hao3 de5] {hou2 hou2 dik1} /très bien/
-好好睇睇 好好睇睇 [hao3 hao3 di4 di4] {hou2 hou2 tai2 tai2} /qui est bien fait/
+????c 好好的 好好的 [hao3 hao3 de5] {hou2 hou2 dik1} /bon; bien/
+好好睇睇 好好睇睇 [hao3 hao3 di4 di4] {hou2 hou2 tai2 tai2} /bien exécuté; bien fait/beau, belle/
 好孩子 好孩子 [hao3 hai2 zi5] {hou2 haai4 zi2} /enfants sages/
 好少 好少 [hao3 shao3] {hou2 siu2} /très peu/
-好少何 好少何 [hao3 shao3 he2] {hou2 siu2 ho2} /qui ne se passe pas très souvent/situation rare/
+好少何 好少何 [hao3 shao3 he2] {hou2 siu2 ho2} /qui ne se passe pas très souvent; peu fréquent; rare/
 好少少 好少少 [hao3 shao3 shao1] {hou2 siu2 siu2} /un petit peu mieux/
-好少理 好少理 [hao3 shao3 li3] {hou2 siu2 lei5} /ne pas s'intéresser à, s'en foutre, se pas se préoccuper de/
-好市 好市 [Hao3 shi4] {hou2 si5} /vendre comme des petits pains, très en demande/
-好彩 好彩 [hao3 cai3] {hou2 coi2} /heureusement, par chance/béni, chanceux/
+好少理 好少理 [hao3 shao3 li3] {hou2 siu2 lei5} /ne pas s'intéresser à; s'en foutre; se pas se préoccuper de/
+好市 好市 [Hao3 shi4] {hou2 si5} /se vendre comme des petits pains; être très en demande/
+好彩 好彩 [hao3 cai3] {hou2 coi2} /heureusement; par chance/chanceux/
 好彩數 好彩数 [hao3 cai3 shu4] {hou2 coi2 sou3} /avoir de la chance/
-好得 好得 [hao3 de5] {hou2 dak1} /très bien/beau, belle, séduisant(e)/grâce à/heureusement, par chance/
+????c 好得 好得 [hao3 de5] {hou2 dak1} /très bien/beau, belle; séduisant/grâce à/heureusement; par chance/
 好得多 好得多 [hao3 de5 duo1] {hou2 dak1 do1} /beaucoup mieux/
 好得滯 好得滞 [hao3 de5 zhi4] {hou2 dak1 zai6} /trop bon/
-好心地 好心地 [hao3 xin1 di4] {hou2 sam1 dei2} /gentil, sympathique/avoir bon coeur/
+????c 好心地 好心地 [hao3 xin1 di4] {hou2 sam1 dei2} /gentil; sympathique/avoir bon coeur/
 好心情 好心情 [hao3 xin1 qing2] {hou2 sam1 cing4} /de bonne humeur/
 好心有好報 好心有好报 [hao3 xin1 you3 hao3 bao4] {hou2 sam1 jau5 hou2 bou3} /la générosité sera récompensée/
-好心機 好心机 [hao3 xin1 ji1] {hou2 sam1 gei1} /faire beaucoup d'attention, être très concentré sur, absorbé, obsédé par (quelque chose)/
-好心着雷劈 好心着雷劈 [hao3 xin1 zhe5 lei2 pi1] {hou2 sam1 zoek6 leoi4 pek3} /la générosité n'est pas toujours récompensée/(lit.) ceux qui ont des bonnes intentions seront frappés par la foudre/
-好恨 好恨 [hao3 hen4] {hou2 han6} /vouloir vraiment/avoir hâte de/
+好心機 好心机 [hao3 xin1 ji1] {hou2 sam1 gei1} /être méticuleux; faire beaucoup d'attention; être très concentré sur (quelque chose)/
+????f 好心着雷劈 好心着雷劈 [hao3 xin1 zhe5 lei2 pi1] {hou2 sam1 zoek6 leoi4 pek3} /(expr.) une bonne action ne reste jamais impunie; la générosité n'est pas toujours récompensée/(lit.) ceux qui ont des bonnes intentions seront frappés par la foudre/
+????c 好恨 好恨 [hao3 hen4] {hou2 han6} /vouloir vraiment/avoir hâte de/
 好想 好想 [hao3 xiang3] {hou2 soeng2} /se manquer beaucoup (dans le sens de «tu me manques beaucoup»)/vouloir vraiment faire quelque chose, avoir vraiment hâte de faire quelque chose/
 好意頭 好意头 [hao3 yi4 tou2] {hou2 ji3 tau4} /bonne chance/
 好戲在後頭 好戏在后头 [hao3 xi4 zai4 hou4 tou5] {hou2 hei3 zoi6 hau6 tau4} /garder le meilleur pour la fin/
