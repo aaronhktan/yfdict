@@ -907,7 +907,7 @@
 ????c 乞靈 乞灵 [qi3 ling2] {hat1 ling4} /demander de l'aide des dieux ou des esprits/
 也不 也不 [ye3 bu2] {jaa5 bat1} /non plus/ni/
 也好 也好 [ye3 hao3] {jaa5 hou2} /aussi bon; également bon/
-也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /crâner; frimer; fanfaronner/
+也文也武 也文也武 [ye3 wen2 ye3 wu3] {jaa5 man4 jaa5 mou5} /(expr.) faire de l'esbroufe; crâner; frimer; fanfaronner/
 也是 也是 [ye3 shi4] {jaa5 si6} /aussi; également/
 ????c 也與 也与 [ye3 yu3] {jaa5 jyu5} /(expression de doute)/
 乳名 乳名 [ru3 ming2] {jyu5 meng2} /surnom; sobriquet (pour un enfant)/
@@ -5823,7 +5823,7 @@
 大飲大食 大饮大食 [da4 yin3 da4 shi2] {daai6 jam2 daai6 sik6} /beaucoup manger et beaucoup boire; s'empiffrer; se goinfrer/
 大餸 大餸 [da4 song4] {daai6 sung3} /qui aime manger le plat d'accompagnement mais pas le riz/
 ????c 大馬路 大马路 [da4 ma3 lu4] {daai6 maa5 lou6} /noun; it is part of Castle Peak Road, Yuen Long, whIch also named as Yuen Long Main Street or short term Main Street./grande route/
-????f 大騷 大骚 [da4 sao1] {daai6 sou1} /frimer; crâner; se la péter; se péter les bretelles/(orig.) de l'anglais « show off » (« frimer; se la péter »)/
+????f 大騷 大骚 [da4 sao1] {daai6 sou1} /frimer; crâner; faire de l'esbroufe; se la péter; se péter les bretelles/(orig.) de l'anglais « show off » (« frimer; se la péter »)/
 大髀 大髀 [da4 bi4] {daai6 bei2} /cuisse/
 大體 大体 [da4 ti3] {daai6 tai2} /globalement; dans l'ensemble/plus ou moins; environ; à peu près/
 大魚 大鱼 [da4 yu2] {daai6 jyu4} /(espèce de poissons) Hypophthalmichthys nobilis; carpe à grosse tête; carpe marbrée; carpe asiatique/(expr. idiom.) personne ou chose importante/(lit.) gros poisson/
@@ -5925,7 +5925,7 @@
 ????f 太子女 太子女 [tai4 zi3 nü3] {taai3 zi2 neoi2} /fille du patron, femme née dans une famille riche/
 ????f 太子爺 太子爷 [tai4 zi3 ye2] {taai3 zi2 je2} /fils du patron, homme né dans une famille riche/
 太子道 太子道 [tai4 zi3 dao4] {taai3 zi2 dou6} /Prince Edward Road, rue de Kowloon, Hong Kong/
-???? 太師椅 太师椅 [tai4 shi1 yi3] {taai3 si1 ji2} /fauteil en bois à l'ancienne/
+????f 太師椅 太师椅 [tai4 shi1 yi3] {taai3 si1 ji2} /fauteuil en bois à l'ancienne/
 太平山 太平山 [tai4 ping2 shan1] {taai3 ping4 saan1} /Tai Ping Shan, pic Victoria, montagne sur l'île de Hong Kong, à Hong Kong/
 太平山頂 太平山顶 [tai4 ping2 shan1 ding3] {taai3 ping4 saan1 deng2} /sommet du Tai Ping Shan, pic Victoria, montagne sur l'île de Hong Kong, à Hong Kong/
 太平清醮 太平清醮 [tai4 ping2 qing1 jiao4] {taai3 ping4 cing1 ziu3} /Festival Cheung Chau Bun ou Festival Cheung Chau Da Jiu, un festival qui a lieu chaque année à Cheung Chau, à Hong Kong/
@@ -6250,29 +6250,29 @@
 妹 妹 [mei4] {mui1} /fillette; petite fille/
 妹丁 妹丁 [mei4 ding1] {mui1 deng1} /(inj.) fillette; petite fille/
 妹仔 妹仔 [mei4 zi3] {mui1 zai2} /servante/
-妹仔丁 妹仔丁 [mei4 zi3 ding1] {mui1 zai2 deng1} /fillette/petite fille/
-妹仔大過主人婆 妹仔大过主人婆 [mei4 zi3 da4 guo4 zhu3 ren2 po2] {mui1 zai2 daai6 gwo3 zyu2 jan2 po4} /subordonné qui a plus de pouvoir que son patron/agir au-dessus de leur condition/mettre la charrue devant les boeufs/(lit.) servante supérieure à sa patronne/
-妹妹仔 妹妹仔 [mei4 mei5 zi3] {mui4 mui1 zai2} /fillette/petite fille/
-妹釘 妹钉 [mei4 ding1] {mui1 deng1} /(taquin) petite fille vive/
+妹仔丁 妹仔丁 [mei4 zi3 ding1] {mui1 zai2 deng1} /jeune servante/
+????f 妹仔大過主人婆 妹仔大过主人婆 [mei4 zi3 da4 guo4 zhu3 ren2 po2] {mui1 zai2 daai6 gwo3 zyu2 jan4 po4} /(expr. idiom.) avoir ses priorités à l'envers; donner la priorité à quelque chose qui n'est pas importante/(lit.) servante supérieure à sa patronne/
+妹妹仔 妹妹仔 [mei4 mei5 zi3] {mui4 mui1 zai2} /petite sœur; sœur cadette/fillette; petite fille/
+妹釘 妹钉 [mei4 ding1] {mui1 deng1} /(un peu inj.) petite fille/
 妻兒老小 妻儿老小 [qi1 er2 lao3 xiao3] {cai1 ji4 lou5 siu2} /toute la famille/
 妻孥 妻孥 [qi1 nu2] {cai1 nou4} /épouse et enfants/
-始祖 始祖 [shi3 zu3] {ci2 zou2} /ancêtre, aïeul/
-姌 姌 [ran3] {jim5} /(femme) mince, svelte, gracile/
-姏 姏 [man2] {maan4} /femmes âgées/
-姐 姐 [jie3] {ze2} /terme pour femmes/
-姐妹 姐妹 [jie3 mei4] {ze2 mui6} /demoiselle d'honneur/
-姐姐 姐姐 [jie3 jie5] {ze2 ze2} /jeune femme/
-姐姐仔 姐姐仔 [jie3 jie5 zi3] {ze4 ze1 zai2} /jeune femme (utilisé pour une fille plus âgée que la personne qui utilise ce terme)/
-姐手姐腳 姐手姐脚 [jie3 shou3 jie3 jiao3] {ze2 sau2 ze2 goek3} /lent et maladroit, qui ne peut pas faire son travail/
-姑仔 姑仔 [gu1 zi3] {gu1 zai2} /petite soeur de son mari/belle-soeur/
-姑勿論 姑勿论 [gu1 wu4 lun4] {gu1 mat6 leon6} /mettre à part pour le moment/
-姑太 姑太 [gu1 tai4] {gu1 taai3} /tante du mari/soeur du père du mari/
-姑奶 姑奶 [gu1 nai3] {gu1 naai4} /soeur aînée du mari/
-姑姐 姑姐 [gu1 jie3] {gu1 ze1} /tante, en particulier la soeur cadette du père/
-姑娘 姑娘 [gu1 niang5] {gu1 noeng4} /infirmière/
-姑娘仔 姑娘仔 [gu1 niang5 zi3] {gu1 noeng4 zai2} /fille/
-姑婆 姑婆 [gu1 po2] {gu1 po4} /femme célibataire d'un certain âge/
-姑爺仔 姑爷仔 [gu1 ye5 zi3] {gu1 je4 zai2} /homme qui dépend sur une femme (en particulier pour d'argent)/maquereau, souteneur, proxénète/
+始祖 始祖 [shi3 zu3] {ci2 zou2} /premier ancêtre; aïeul/
+姌 姌 [ran3] {jim5} /(femme) mince; svelte; gracile/
+姏 姏 [man2] {maan4} /femme âgée/
+姐 姐 [jie3] {ze2} /(forme d'adresse à une femme plus âgée que le locuteur)/
+????f 姐妹 姐妹 [jie3 mei4] {ze2 mui6} /demoiselle d'honneur/
+姐姐 姐姐 [jie3 jie5] {ze4 ze1} /grande sœur; sœur aînée/(forme d'adresse à une femme plus âgée que le locuteur)/
+????f 姐姐仔 姐姐仔 [jie3 jie5 zi3] {ze4 ze1 zai2} /jeune femme (forme d'adresse à une fille plus âgée que le locuteur)/
+姐手姐腳 姐手姐脚 [jie3 shou3 jie3 jiao3] {ze2 sau2 ze2 goek3} /(expr.) lent et maladroit; faible; qui ne peut pas faire son travail/(lit.) avoir les mains et pieds d'une femme/
+姑仔 姑仔 [gu1 zi3] {gu1 zai2} /petite soeur de son mari; belle-soeur/
+姑勿論 姑勿论 [gu1 wu4 lun4] {gu1 mat6 leon6} /indépendamment de; quel que soit; peu importe/
+姑太 姑太 [gu1 tai4] {gu1 taai3} /tante de son époux; soeur du père de son époux/
+姑奶 姑奶 [gu1 nai3] {gu1 naai4} /soeur aînée de son époux; grande sœur de son époux; belle-sœur/
+姑姐 姑姐 [gu1 jie3] {gu1 ze1} /soeur cadette du père; tante/
+姑娘 姑娘 [gu1 niang5] {gu1 noeng4} /infirmière/jeune femme/
+姑娘仔 姑娘仔 [gu1 niang5 zi3] {gu1 noeng4 zai2} /fille; jeune femme/
+????f 姑婆 姑婆 [gu1 po2] {gu1 po4} /tante paternelle de son époux; sœur d'un beau-père d'une femme/grand-tante paternelle; sœur d'un grand-père paternel/femme célibataire d'un certain âge/
+????f 姑爺仔 姑爷仔 [gu1 ye5 zi3] {gu1 je4 zai2} /homme qui dépend sur une femme (en particulier pour d'argent)/maquereau; souteneur; proxénète/
 姑蘇 姑苏 [gu1 su1] {gu1 sou1} /Gusu, nom de quelques villes et régions historiques de la Chine/
 姑表 姑表 [gu1 biao3] {gu1 biu2} /cousins (en particulier les enfants d'une soeur du père)/
 姓名 姓名 [xing4 ming2] {sing3 ming4} /nom complet/
@@ -6298,7 +6298,7 @@
 姨媽姑姐 姨妈姑姐 [yi2 ma1 gu1 jie3] {ji4 maa1 gu1 ze1} /toute les tantes d'une famille/
 姨媽巾 姨妈巾 [yi2 ma1 jin1] {ji4 maa1 gan1} /serviette hygiénique, serviette sanitaire, serviette periodique/
 姨甥 姨甥 [yi2 sheng1] {ji4 sang1} /enfants des soeurs d'une épouse/
-姨甥女 姨甥女 [yi2 sheng1 nü3] {ji4 sang1 neoi5} /filles d'une soeur/
+姨甥女 姨甥女 [yi2 sheng1 nu:3] {ji4 sang1 neoi5} /filles d'une soeur/
 姨表 姨表 [yi2 biao3] {ji4 biu2} /cousin(e)s, en particulier les enfants des soeurs de sa mère/
 姪仔 侄仔 [zhi2 zi3] {zat6 zai2} /neveu/
 姻婭 姻娅 [yin1 ya4] {jan1 aa3} /parent par alliance/
@@ -9638,7 +9638,7 @@
 播越 播越 [bo1 yue4] {bo3 jyut6} /être exilé, banni/
 撮寫 撮写 [cuo1 xie3] {cyut3 se2} /abbréviation/
 撮要 撮要 [cuo1 yao4] {cyut3 jiu3} /faits marquants, résumé/
-撰述 撰述 [zhuan4 shu4] {zaan6 seot6} /(litt.) (soutenu) compiler; écrire; enregistrer/
+撰述 撰述 [zhuan4 shu4] {zaan6 seot6} /(litt.) (soutenu) compiler; écrire; enregistrer; consigner/
 撲 扑 [pu1] {pok3} /se poudrer/
 撲心撲命 扑心扑命 [pu1 xin1 pu1 ming4] {pok3 sam1 pok3 meng6} /(expr. idiom.) se donner corps et âme à quelque chose (un projet, etc.)/(lit.) mettre son coeur et vie/
 撲料 撲料 [bu3 liao4] {pok3 liu2} /enquêter, fouiller pour des informations ou nouvelles/
@@ -9826,7 +9826,7 @@
 攞嚟講 攞嚟讲 [luo1 li2 jiang3] {lo2 lei4 gong2} /entamer une discussion inutile, parler de choses inutiles/
 攞嚟賤 攞嚟贱 [luo1 li2 jian4] {lo2 lei4 zin6} /qui se crée des ennuis, qui se crée des problèmes/
 攞嚟辛苦 攞嚟辛苦 [luo1 li2 xin1 ku3] {lo2 lei4 san1 fu2} /chercher des ennuis, se créer des problèmes/
-攞彩 攞彩 [luo1 cai3] {lo2 coi2} /crâner; frimer; se la péter; se péter les bretelles/
+攞彩 攞彩 [luo1 cai3] {lo2 coi2} /crâner; frimer; faire de l'esbroufe; se la péter; se péter les bretelles/
 攞意頭 攞意头 [luo1 yi4 tou2] {lo1 ji3 tau4} /obtenir un résultat propice, favorable, qui apporte de la chance/
 攞景 攞景 [luo1 jing3] {lo2 ging2} /(fig.) sarcasme/(fig.) parler avec sarcasme/(fig.) exploiter, profiter de quelque chose/(fig.) frapper un ennemi à terre/(lit.) composer une photo/
 攞獎 攞奖 [luo1 jiang3] {lo2 zoeng2} /recevoir un prix, être accordé un prix/
@@ -10566,7 +10566,7 @@
 曚曨 曚昽 [meng2 long2] {mung4 lung4} /lumière voilée du soleil/
 曙色 曙色 [shu3 se4] {cyu5 sik1} /première lueurs de l'aube/
 ????f 曬 晒 [shai4] {saai3} /s'étaler; se montrer/
-曬命 晒命 [shai4 ming4] {saai3 meng6} /frimer, exhiber, montrer/
+曬命 晒命 [shai4 ming4] {saai3 meng6} /frimer; crâner; se la péter; se péter les bretelles; faire de l'esbroufe; s'étaler; se montrer/
 曬太陽 晒太阳 [shai4 tai4 yang2] {saai3 taai3 joeng4} /se faire bronzer, se faire dorer la couenne/sécher au soleil/
 曬月光 晒月光 [shai4 yue4 guang1] {saai3 jyut6 gwong1} /faire une promenade romantique au clair de lune/
 ???? 曬棚 晒棚 [shai4 peng2] {saai3 paang4} /étendoir/toit/terrasse/sièges, capacité/
@@ -11432,7 +11432,7 @@
 欺君罔上 欺君罔上 [qi1 jun1 wang3 shang4] {hei1 gwan1 mong5 soeng6} /duper le souverain/
 ???? 欽差大臣 钦差大臣 [qin1 chai1 da4 chen2] {jam1 caai1 daai6 san4} /envoyé impérial, émissaire impériale/
 欽此 钦此 [qin1 ci3] {jam1 ci2} /mots ou phrase lus à la fin d'un ordre impériale/
-款 款 [kuan3] {fun2} /style; modèle/frimer; crâner; se la péter; se péter les bretelles/salutation/
+款 款 [kuan3] {fun2} /style; modèle/frimer; crâner; faire de l'esbroufe; se la péter; se péter les bretelles/salutation/
 款式 款式 [kuan3 shi5] {fun2 sik1} /style/
 款頭 款头 [kuan3 tou2] {fun2 tau4} /panache; style/
 歆慕 歆慕 [xin1 mu4] {jam1 mou6} /admirer/
@@ -12548,7 +12548,7 @@
 滾熟 滚熟 [gun3 shu2] {gwan2 suk6} /cuire à l'eau/
 滾熱辣 滚热辣 [gun3 re4 la4] {gwan2 jit6 laat6} /bien chaud; brûlant/(fig.) tendance; à la mode; en vogue/
 滾㷫 滚㷫 [gun3 qing3] {gwan2 hing3} /dégager la chaleur/
-????f 滾紅滾綠 滚红滚绿 [gun3 hong2 gun3 lu:4] {gwan2 hung4 gwan2 luk6} /(expr. idiom.) aller voir une prostituée/(expr. idiom.) crâner; frimer; se la péter; se péter les bretelles/(expr. idiom.) semer la zizanie; faire des bêtises/(lit.) bouillir rouge et bouillir vert/
+????f 滾紅滾綠 滚红滚绿 [gun3 hong2 gun3 lu:4] {gwan2 hung4 gwan2 luk6} /(expr. idiom.) aller voir une prostituée/(expr. idiom.) crâner; frimer; faire de l'esbroufe; se la péter; se péter les bretelles/(expr. idiom.) semer la zizanie; faire des bêtises/(lit.) bouillir rouge et bouillir vert/
 滾軸溜冰 滚轴溜冰 [gun3 zhou2 liu1 bing1] {gwan2 zuk6 lau4 bing1} /patinage à roulettes/
 滾軸溜冰鞋 滚轴溜冰鞋 [gun3 zhou2 liu1 bing1 xie2] {gwan2 zuk6 lau4 bing1 haai4} /patins à roulettes/
 滾雪球 滚雪球 [gun3 xue3 qiu2] {gwan2 syut3 kau4} /(fig.) faire boule de neige; prendre de l'ampleur/
@@ -12585,13 +12585,13 @@
 漏風 漏风 [lou4 feng1] {lau6 fung1} /fuite d'air/(fig.) fuiter; divulguer une information/(fig.) parler indistinctement à cause de la perte d'une ou plusieurs dents de devant/contenant ou emballage pas hermétique/
 漏縫 漏缝 [lou4 feng4] {lau6 fung6} /fente; fissure/
 演唱 演唱 [yan3 chang4] {jin2 coeng3} /concert/
-????f 演嘢 演嘢 [yan3 ye3] {jin2 je5} /crâner; frimer; se la péter; se péter les bretelles/
+????f 演嘢 演嘢 [yan3 ye3] {jin2 je5} /crâner; frimer; faire de l'esbroufe; se la péter; se péter les bretelles/
 演奏家 演奏家 [yan3 zou4 jia1] {jin2 zau3 gaa1} /chanteur ou musicien (qui joue devant un public)/
 演歌 演歌 [yan3 ge1] {jin2 go1} /enka, genre musical japonais/
 演繹 演绎 [yan3 yi4] {jin2 jik6} /(théâtre) interpréter/(musique, théâtre) jouer (devant un public)/élaborer; développer/
 演説 演说 [yan3 shuo1] {jin2 syut3} /faire un discours; prononcer un discours/
 演講 演讲 [yan3 jiang3] {jin2 gong2} /faire un discours; prononcer un discours/
-????f 演野 演野 [yan3 ye3] {jin2 ye5} /crâner; frimer; se la péter; se péter les bretelles/
+????f 演野 演野 [yan3 ye3] {jin2 ye5} /crâner; frimer; faire de l'esbroufe; se la péter; se péter les bretelles/
 漚仔 沤仔 [ou1 zi3] {au1 zai2} /nausées matinales; maladies du matin; nausées et vomissements de la grossesse/(fig.) nauséeux; avoir envie de vomir/
 漚仔婆 沤仔婆 [ou1 zi3 po2] {au1 zai2 po2} /femme enceinte qui a des nausées pendant sa grossesse/
 漚冬 沤冬 [ou1 dong1] {au3 dung1} /pleuvoir sans cesse autour du solstice d'hiver/
