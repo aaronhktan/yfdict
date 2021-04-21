@@ -6498,56 +6498,57 @@
 學師 学师 [xue2 shi1] {hok6 si1} /apprenti; élève; stagiaire/
 學師仔 学师仔 [xue2 shi1 zi3] {hok6 si1 zai2} /apprenti; élève; stagiaire/
 學府 学府 [xue2 fu3] {hok6 fu2} /établissement d'enseignement supérieur/
-學徒制 学徒制 [xue2 tu2 zhi4] {hok6 tou4 zai3} /apprentissage, stage/
-學是學非 学是学非 [xue2 shi4 xue2 fei1] {hok6 si6 hok6 fei1} /ragots, comérages/«Sidewalk Scientist» (scientifique de trottoir), série télévisée primée de Hong Kong/
-學是非 学是非 [xue2 shi4 fei1] {hok6 si6 fei1} /commérer, cancaner, jaser/
-學會 学会 [xue2 hui4] {hok6 wui2} /apprendre/
-學業 学业 [xue2ye4] {hok6 jip6} /éducation/
-學業進步 学业进步 [xue2 ye4 jin4 bu4] {hok6 jip6 zeon3 bou6} /(expression pour souhaiter du succès académique à quelqu'un)/
-學民思潮 学民思潮 [xue2 min2 si1 chao2] {hok6 man4 si1 ciu4} /Scholarism, groupe d'étudiants activistes pro-démocratie de Hong Kong/
-學潮 学潮 [xue2 chao2] {hok6 ciu4} /mouvement étudiant/
+學徒制 学徒制 [xue2 tu2 zhi4] {hok6 tou4 zai3} /apprentissage; stage/
+學是學非 学是学非 [xue2 shi4 xue2 fei1] {hok6 si6 hok6 fei1} /cancaner; répandre des commérages/« Sidewalk Scientist » (scientifique de trottoir), série télévisée primée de Hong Kong/
+學是非 学是非 [xue2 shi4 fei1] {hok6 si6 fei1} /cancaner; répandre des commérages/
+????f 學會 学会 [xue2 hui4] {hok6 wui2} /apprendre/assocation; club scolaire/
+學業 学业 [xue2 ye4] {hok6 jip6} /éducation/
+????f 學業進步 学业进步 [xue2 ye4 jin4 bu4] {hok6 jip6 zeon3 bou6} /(expression pour souhaiter à quelqu'un du succès dans ses études)/
+學民思潮 学民思潮 [xue2 min2 si1 chao2] {hok6 man4 si1 ciu4} /Scholarism, groupe d'étudiants activistes pro-démocratie de Hong Kong qui a cessé d'exister en 2016/
+????f 學潮 学潮 [xue2 chao2] {hok6 ciu4} /manifestation étudiante/
 學生哥 学生哥 [xue2 sheng5 ge1] {hok6 saang1 go1} /étudiant (jeune homme ou garçon)/
-學生妹 学生妹 [xue2 sheng5 mei4] {hok6 saang1 mui1} /étudiante (jeunne femme ou fille)/
-學界 学界 [xue2 jie4] {hok6 gaai3} /monde académique/
-學社 学社 [xue2 she4] {hok6 se5} /société, club, association/
-學神 学神 [xue2 shen2] {hok6 san4} /(fam.) nouveau conducteur, conducteur supervisé/
-學習 学习 [xue2 xi2] {hok6 zaap6} /études, apprentissages/
-學習障礙 学习障碍 [xue2 xi2 zhang4 ai4] {hok6 zaap6 zoeng3 ngoi6} /troubles d'apprentissages/
-學聯 学联 [xue2 lian2] {hok6 lyun4} /«Hong Kong Federation of Students», fédération des étudiants de Hong Kong/
-學能測驗 学能测验 [xue2 neng2 ce4 yan4] {hok6 nang4 cak1 jim6} /«Hong Kong Academic Aptitude Test», ancien test d'aptitude utilisé à Hong Kong/
-學舌 学舌 [xue2 she2] {hok6 sit6} /qui répète des mots comme un perroquet/qui copie toujours les autres, pas original/
+學生妹 学生妹 [xue2 sheng5 mei4] {hok6 saang1 mui1} /étudiante (jeune femme ou fille)/
+學界 学界 [xue2 jie4] {hok6 gaai3} /monde universitaire/
+????c 學社 学社 [xue2 she4] {hok6 se5} /société; club; association/
+學神 学神 [xue2 shen2] {hok6 san4} /(fam.) nouveau conducteur; conducteur supervisé/(lit.) dieu de conduite/
+學習 学习 [xue2 xi2] {hok6 zaap6} /étudier; apprendre/études; apprentissage/
+學習障礙 学习障碍 [xue2 xi2 zhang4 ai4] {hok6 zaap6 zoeng3 ngoi6} /troubles d'apprentissage/
+學聯 学联 [xue2 lian2] {hok6 lyun4} /« Hong Kong Federation of Students », fédération des étudiants de Hong Kong/
+????f 學能測驗 学能测验 [xue2 neng2 ce4 yan4] {hok6 nang4 cak1 jim6} /« Hong Kong Academic Aptitude Test », test de compétences utilisé autrefois à Hong Kong/
+學舌 学舌 [xue2 she2] {hok6 sit6} /répéter ce que disent les autres; répéter comme un perroquet/cancaner; répandre des commérages/
 學行車 学行车 [xue2 xing2 che1] {hok6 hang4 ce1} /trotteur/
-學術研究 学术研究 [xue2 shu4 yan2 jiu1] {hok6 seot6 jin4 gau3} /recherche académique/
+????f 學術研究 学术研究 [xue2 shu4 yan2 jiu1] {hok6 seot6 jin4 gau3} /recherche universitaire/
 學説 学说 [xue2 shuo1] {hok6 syut3} /théorie/
-學識 学识 [xue2 shi2] {hok6 sik1} /apprendre/maîtriser/
+學識 学识 [xue2 shi2] {hok6 sik1} /apprendre; maîtriser/
 學費 学费 [xue2 fei4] {hok6 fai3} /frais de scolarité/
-學部 学部 [Xue2 bu4] {hok6 bou6} /faculté (d'une université)/
-學額 学额 [xue2 e2] {hok6 ngaak6} /quota d'étudiants/
+學部 学部 [xue2 bu4] {hok6 bou6} /département; faculté (d'une université)/
+????f 學額 学额 [xue2 e2] {hok6 ngaak6} /(école) capacité d'acceuil/
 學齡兒童 学龄儿童 [xue2 ling2 er2 tong2] {hok6 ling4 ji4 tung4} /enfants d'âge scolaire/
-孺子可教 孺子可教 [ru2 zi3 ke3 jiao1] {jyu4 zi2 ho2 gaau3} /enfant qu'on peut enseigner/
-孻 孻 [lai2] {laai1} /le, la plus jeune, cadet(te)/
-孻仔 孻仔 [lai2 zi3] {laai1 zai2} /fils le plus jeune, fils cadet/
-孻仔拉心肝 孻仔拉心肝 [lai2 zi3 la1 xin1 gan1] {laai1 zai2 laai1 sam1 gon1} /gâter le plus jeune/
-孻女 孻女 [lai2 nü3] {laai1 neoi5} /fille la plus jeune/
-孻尾 孻尾 [lai2 wei3] {laai1 mei5} /le dernier/finalement/
-孻屘 孻屘 [lai2 man1] {laai1 mei1} /arriver en dernière position/
-孿生兄弟 孪生兄弟 [luan2 sheng1 xiong1 di4] {lyun4 saang1 hing1 dai6} /jumeaux (mâles)/
-它們的 它们的 [ta1 men5 de5] {taa1 mun4 dik1} /leur (où le propriétaire est un objet inanimé)/
-它的 它的 [ta1 de5] {taa1 dik1} /son (où le propriétaire est un objet inanimé)/
+????f 孺子可教 孺子可教 [ru2 zi3 ke3 jiao1] {jyu4 zi2 ho2 gaau3} /(expr.) enfant qu'on peut enseigner; enfant qui mérite d'être enseigné/
+孻 孻 [lai2] {laai1} /le ou la plus jeune; cadet, cadette/
+孻仔 孻仔 [lai2 zi3] {laai1 zai2} /fils le plus jeune; fils cadet/
+????f 孻仔拉心肝 孻仔拉心肝 [lai2 zi3 la1 xin1 gan1] {laai1 zai2 laai1 sam1 gon1} /(expr. idiom.) gâter le plus jeune enfant/(lit.) le plus jeune fils tire le cœur et le foie/
+????f 孻仔拉心肝孻女拉五臟 孻仔拉心肝孻女拉五脏 [lai2 zi3 laa1 xin1 gan1 lai2 nu:3 la1 wu3 zang] {laai1 zai laai1 sam1 gon1 laai1 neoi2 laai1 ng5 zong6} /(expr. idiom.) gâter le plus jeune enfant/(lit.) le plus jeune fils tire le cœur et le foie; la plus jeune fille tire les cinq organes internes/
+????f 孻女 孻女 [lai2 nu:3] {laai1 neoi2} /fille la plus jeune; fille cadette (youngest daughter - how to differentiate from youngest girl?)/
+孻尾 孻尾 [lai2 wei3] {laai1 mei1} /arriver en dernière position/finalement/bout; arrière (d'une file)/dernier/
+孻屘 孻屘 [lai2 man1] {laai1 mei1} /arriver en dernière position/finalement/bout; arrière (d'une file)/dernier/
+孿生兄弟 孪生兄弟 [luan2 sheng1 xiong1 di4] {lyun4 saang1 hing1 dai6} /jumeaux (de sexe masculin)/
+????f 它們的 它们的 [ta1 men5 de5] {taa1 mun4 dik1} /leur (où le propriétaire est un objet inanimé)/
+????f 它的 它的 [ta1 de5] {taa1 dik1} /son (où le propriétaire est un objet inanimé)/
 宅第 宅第 [zhai2 di4] {zaak6 dai6} /manoir/
-宇宙空間 宇宙空间 [yu3 zhou4 kong1 jian1] {jyu5 zau6 hung1 gaan1} /espace, cosmos/
-守 守 [shou3] {sau2} /rester, demeurer/
-守得雲開見月明 守得云开见月明 [shou3 de2 yun2 kai1 jian4 yue4 ming2] {sau2 dak1 wan4 hoi1 gin3 jyut6 ming4} /(expr. idiom.) ceux qui persistent connaîtront la victoire/(lit.) celui qui surmonte les jours nuageux verra la brillance de la lune/
-守清 守清 [shou3 qing1] {sau2 cing1} /rester veuve/
-守行為 守行为 [shou3 xing2 wei2] {sau2 hang4 wai4} /en liberté surveillée, probation/
-守龍門 守龙门 [shou3 long2 men2] {sau2 lung4 mun4} /gardien(ne) de but/
+宇宙空間 宇宙空间 [yu3 zhou4 kong1 jian1] {jyu5 zau6 hung1 gaan1} /espace; cosmos/
+守 守 [shou3] {sau2} /rester; demeurer/
+????f 守得雲開見月明 守得云开见月明 [shou3 de2 yun2 kai1 jian4 yue4 ming2] {sau2 dak1 wan4 hoi1 gin3 jyut6 ming4} /(expr. idiom.) ceux qui persistent connaîtront la victoire/(lit.) celui qui surmonte les jours nuageux verra la brillance de la lune/
+????f 守清 守清 [shou3 qing1] {sau2 cing1} /rester veuve; garder la viduité/
+守行為 守行为 [shou3 xing2 wei2] {sau2 hang4 wai4} /absolution conditionnelle; liberté surveillée; probation/
+守龍門 守龙门 [shou3 long2 men2] {sau2 lung4 mun4} /gardien de but, gardienne de but/
 安全區 安全区 [an1 quan2 qu1] {on1 cyun4 keoi1} /zone de sécurité/
-安全島 安全岛 [an1 quan2 dao3] {on1 cyun4 dou2} /îlot de circulation, îlot directionnel, îlot central/
+????f 安全島 安全岛 [an1 quan2 dao3] {on1 cyun4 dou2} /îlot de circulation; îlot directionnel; îlot central; îlot séparateur/
 安全檢查 安全检查 [an1 quan2 jian3 cha2] {on1 cyun4 gim2 caa4} /contrôle de sécurité/
-安全第一 安全第一 [an1 quan2 di4 yi1] {on1 cyun4 dai6 jat1} /la sécurité d'abord/votre sécurité est notre priorité/
-安分守己 安分守己 [an1fen4shou3ji3] {on1 fan6 sau2 gei2} /se mêler de ses affaires, s'occuper de ses oignons/
-安名 安名 [an1 ming2] {on1 meng2} /nommer, donner un nom à/
-安士 安士 [an1 shi4] {on1 si2} /once/(orig.) de l'anglais «ounce», once/
+????f 安全第一 安全第一 [an1 quan2 di4 yi1] {on1 cyun4 dai6 jat1} /la sécurité d'abord; votre sécurité est notre priorité/
+????f 安分守己 安分守己 [an1 fen4 shou3 ji3] {on1 fan6 sau2 gei2} /rester à sa place; s'occuper de ses propres affaires; se tenir dans ses limites/
+安名 安名 [an1 ming2] {on1 meng2} /nommer; donner un nom à/
+安士 安士 [an1 shi4] {on1 si2} /once/(orig.) de l'anglais « ounce » (« once »)/
 安大略 安大略 [An1 da4 lüe4] {on1 daai6 loek6} /Ontario, province du Canada/
 安定 安定 [an1 ding4] {on1 ding6} /se stabiliser/se calmer/se poser, se caser/
 ???? 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /(dated) compensation for one who has to leave family for work or any reasons/relocation bonus/
