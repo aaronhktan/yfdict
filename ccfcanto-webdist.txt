@@ -6160,7 +6160,7 @@
 好正 好正 [hao3 zheng4] {hou2 zeng3} /très bon/
 好死 好死 [hao3 si3] {hou2 sei2} /personne qui meurt de façon paisible, une belle mort/trop beau pour être vrai/
 好氣 好气 [hao3 qi4] {hou2 hei3} /patient/bavard; qui aime parler/
-????c 好水冇幾多朝 好水冇几多朝 [hao3 shui3 mao3 ji3 duo1 chao2] {hou2 seoi2 mou5 gei2 do1 ziu1} /(expr. idiom.) les bons moment ne durent pas/(lit.) une bonne eau ne dure que quelques matins/
+????c 好水冇幾多朝 好水冇几多朝 [hao3 shui3 mao3 ji3 duo1 chao2] {hou2 seoi2 mou5 gei2 do1 ziu1} /(expr. idiom.) les bons moments ne durent pas/(lit.) une bonne eau ne dure que quelques matins/
 好消息 好消息 [hao3 xiao1 xi2] {hou2 siu1 sik1} /bonnes nouvelles/
 好清 好清 [hao3 qing1] {hou2 cing1} /très clair/se récupérer; guérir/
 好焗 好焗 [hao3 ju2] {hou2 guk6} /chaud et étouffant/
@@ -6549,104 +6549,105 @@
 ????f 安分守己 安分守己 [an1 fen4 shou3 ji3] {on1 fan6 sau2 gei2} /rester à sa place; s'occuper de ses propres affaires; se tenir dans ses limites/
 安名 安名 [an1 ming2] {on1 meng2} /nommer; donner un nom à/
 安士 安士 [an1 shi4] {on1 si2} /once/(orig.) de l'anglais « ounce » (« once »)/
-安大略 安大略 [An1 da4 lüe4] {on1 daai6 loek6} /Ontario, province du Canada/
-安定 安定 [an1 ding4] {on1 ding6} /se stabiliser/se calmer/se poser, se caser/
-???? 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /(dated) compensation for one who has to leave family for work or any reasons/relocation bonus/
-安德尊 安德尊 [an1 de2 zun1] {on1 dak1 zyun1} /Junior Anderson, acteur et présenteur de télévision hongkongais/
-安樂茶飯 安乐茶饭 [an1 le4 cha2 fan4] {on1 lok6 caa4 faan6} /vivre une vie confortable/(lit.) thé et repas paisible/
+安大略 安大略 [an1 da4 lu:e4] {on1 daai6 loek6} /Ontario, province du Canada/
+安定 安定 [an1 ding4] {on1 ding6} /stabiliser; calmer/
+????c 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /(dated) compensation for one who has to leave family for work or any reasons/relocation bonus/
+安德尊 安德尊 [an1 de2 zun1] {on1 dak1 zyun1} /Junior Anderson, acteur et présentateur de télévision hongkongais/
+安樂茶飯 安乐茶饭 [an1 le4 cha2 fan4] {on1 lok6 caa4 faan6} /(expr. idiom.) vivre une vie confortable/(lit.) thé et repas paisible/
 安歷卡 安历卡 [an1 li4 ka3] {on1 lik6 kaa1} /Nicolas Anelka, footballeur français/
-安民 安民 [an1 min2] {on1 man4} /(arch.) apaiser le peuple/
-安江省 安江省 [an1 jiang1 sheng3] {on1 gong1 saang2} /province d'An Giang Province, situé au sud de Vietnam/
+????f 安民 安民 [an1 min2] {on1 man4} /rassurer le public; apaiser le peuple/
+安江省 安江省 [an1 jiang1 sheng3] {on1 gong1 saang2} /province d'An Giang, province située au sud du Vietnam/
 安省 安省 [an1 sheng3] {on1 saang2} /Ontario, province du Canada/
-安老院 安老院 [an1 lao3 yuan4] {on1 lou5 jyun2} /maison de retraite/
+安老院 安老院 [an1 lao3 yuan4] {on1 lou5 jyun2} /maison de retraite; résidence pour personnes âgées/
 宋王台 宋王台 [song4 wang2 tai2] {sung3 wong4 toi4} /Sung Wong Toi, relique historique de Kowloon, Hong Kong, datant de la dynastie Song du Sud/
-宋詞 宋词 [song4 ci2] {sung3 ci4} /poésie Song/
-宋體字 宋体字 [song4 ti3 zi4] {sung3 tai2 zi6} /police de caractères chinois Song/
-完 完 [wan2] {jyun4} /terminer, compléter/
-???? 完事 完事 [wan2 shi4] {jyun4 si6} /finir d'organiser un évènement/
-完全 完全 [wan2 quan2] {jyun4 cyun4} /complètement, entièrement/
-完場 完场 [wan2 chang3] {jyun4 coeng4} /fin de partie (d'un jeu de ballon)/
-完璧 完璧 [wan2 bi4] {jyun4 bik1} /parfait/sans défaut/jade sans imperfections/en bonne condition/(fig.) vierge/
-完畢 完毕 [wan2 bi4] {jyun4 bat1} /fini, terminé/
-完結 完结 [wan2 jie2] {jyun4 git3} /fin/
-宏偉 宏伟 [hong2 wei3] {wang4 wai5} /imposant, majestueux, merveilleux/
-宏觀經濟學 宏观经济学 [hong2 guan1 jing1 ji4 xue2] {wang4 gun1 ging1 zai3 hok6} /macro-économie/
-宏論 宏论 [hong2 lun4] {wang4 leon6} /opinion informé/discours informatif/
-宗法 宗法 [zong1 fa3] {zung1 faat3} /système politique patriarcal de la Chine ancienne/
+宋詞 宋词 [song4 ci2] {sung3 ci4} /ci, forme de poésie chinoise pratiquée sous la dynastie Song/
+????f 宋體字 宋体字 [song4 ti3 zi4] {sung3 tai2 zi6} /police de caractères chinois Song/
+完 完 [wan2] {jyun4} /terminer; compléter/
+完事 完事 [wan2 shi4] {jyun4 si6} /terminer; compléter/
+完全 完全 [wan2 quan2] {jyun4 cyun4} /complètement; entièrement/
+完場 完场 [wan2 chang3] {jyun4 coeng4} /fin de partie (d'un jeu de ballon, d'une jeu de balle)/
+完璧 完璧 [wan2 bi4] {jyun4 bik1} /parfait; sans défaut/jade sans imperfections/en bonne condition/(fig.) vierge/(voir aussi 完璧歸趙|完璧归赵)/
+完畢 完毕 [wan2 bi4] {jyun4 bat1} /s'achever; prendre fin; se terminer/
+完結 完结 [wan2 jie2] {jyun4 git3} /s'achever; prendre fin; se terminer/
+宏偉 宏伟 [hong2 wei3] {wang4 wai5} /imposant; majestueux; impressionnant/
+宏觀經濟學 宏观经济学 [hong2 guan1 jing1 ji4 xue2] {wang4 gun1 ging1 zai3 hok6} /macroéconomie/
+????f 宏論 宏论 [hong2 lun4] {wang4 leon6} /opinion éclairée; opinion informée/
+????f 宗法 宗法 [zong1 fa3] {zung1 faat3} /système politique patriarcal de la Chine ancienne/
 宗祠 宗祠 [zong1 ci2] {zung1 ci4} /temple ancestral/
 官 官 [guan1] {gun1} /fonctionnaire/(nom de famille chinois)/
-官仔骨骨 官仔骨骨 [guan1 zi3 gu3 gu3] {gun1 zai2 gwat1 gwat1} /qui s'habille bien/
-官塘 官塘 [guan1 tang2] {gun1 tong4} /Kwun Tong, situé à Hong Kong/
-官字兩個口 官字两个口 [guan1 zi4 liang3 ge5 kou3] {gun1 zi6 loeng5 go3 hau2} /gouvernements qui parlent un double langage, politique de deux poids deux mesures (en appliquant des lois)/désavantage face au gouvernement/
-官官相衛 官官相卫 [guan1 guan1 xiang1 wei4] {gun1 gun1 soeng1 wai6} /fonctionnaires qui se couvrent ou se protègent les uns les autres/
+官仔骨骨 官仔骨骨 [guan1 zi3 gu3 gu3] {gun1 zai2 gwat1 gwat1} /(homme) bien habillé/
+官塘 官塘 [guan1 tang2] {gun1 tong4} /Kwun Tong, quartier à Hong Kong/
+????c 官字兩個口 官字两个口 [guan1 zi4 liang3 ge5 kou3] {gun1 zi6 loeng5 go3 hau2} /gouvernements qui parlent un double langage; politique de deux poids deux mesures (en appliquant des lois)/désavantage face au gouvernement/
+????f 官官相衛 官官相卫 [guan1 guan1 xiang1 wei4] {gun1 gun1 soeng1 wai6} /(expr.) fonctionnaires qui se couvrent ou se protègent les uns les autres/
 官式 官式 [guan1 shi4] {gun1 sik1} /fonctionnaire/
 官恩娜 官恩娜 [guan1 en1 nuo2] {gun1 jan1 naa4} /Ella Koon Yun-na, chanteuse et actrice hongkongaise/
-官校 官校 [guan1 xiao4] {gun1 haau6} /instruction publique/
-官洲 官洲 [guan1 zhou1] {gun1 zau1} /Guanzhou, région dans la ville de Guangzhou, Chine/
-官洲站 官洲站 [guan1 zhou1 zhan4] {gun1 zau1 zaam6} /station Guanzhou, station du métro de Canton, Chine/
-官立 官立 [guan1 li4] {gun1 laap6} /gouvernement/
-官立學校 官立学校 [guan1 li4 xue2 xiao4] {gun1 laap6 hok6 haau6} /instruction publique/
+官校 官校 [guan1 xiao4] {gun1 haau6} /école publique/
+官洲 官洲 [guan1 zhou1] {gun1 zau1} /Guanzhou, région dans la ville de Canton/
+官洲站 官洲站 [guan1 zhou1 zhan4] {gun1 zau1 zaam6} /station Guanzhou, station du métro de Canton/
+????f 官立 官立 [guan1 li4] {gun1 laap6} /public, publique; établi par le gouvernement/
+官立學校 官立学校 [guan1 li4 xue2 xiao4] {gun1 laap6 hok6 haau6} /école publique/
 官腔 官腔 [guan1 qiang1] {gun1 hong1} /jargon bureaucratique/
-定 定 [ding4] {ding6} /tranquille, calme, serein, paisible/en silence, silencieux/tranquillement, en silence, sereinement/calmer, apaiser, tranquiliser/ou, ou bien/confirmer/
-定係 定系 [ding4 xi4] {ding6 hai6} /ou, ou bien/
-定力 定力 [ding4 li4] {ding6 lik6} /force d'âme, force mentale/
-定啲嚟 定啲嚟 [ding4 di1 li2] {ding6 di1 lei4} /se calmer, puis travailler soigneusement/
-定必 定必 [ding4 bi4] {ding6 bit1} /devoir, falloir que/
-定方 定方 [ding4 fang1] {deng6 fong1} /endroit, lieu/espace/
-定晒形 定晒形 [ding4 shai4 xing2] {ding6 saai3 jing4} /forme finale, forme finalisée/trait de caractère qui ne change pas/avoir tellement peur qu'on se fige/rêvasser/
-定曬形 定晒形 [ding4 shai4 xing2] {ding6 saai3 jing4} /forme finale, forme finalisée/trait de caractère qui ne change pas/avoir tellement peur qu'on se fige/rêvasser/
-定計劃 定计划 [ding4 ji4 hua4] {ding6 gai3 waak6} /faire des projets/
-定過抬油 定过抬油 [ding4 guo4 tai2 you2] {ding6 gwo3 toi4 jau4} /calme et confiant, posé, être d'une calme olympien/
-定食 定食 [ding4 shi2] {ding6 sik6} /menu fixe/
-定驚 定惊 [ding4 jing1] {ding6 ging1} /se calmer/
-宛 宛 [wan3] {jyun2} /apparemment/comme si/
-宛轉 宛转 [wan3 zhuan3] {jyun2 zyun2} /indirectement/
-宜家家居 宜家家居 [Yi2 jia1 Jia1 ju1] {ji4 gaa1 gaa1 geoi1} /Ikea/
-宜得 宜得 [yi2 de5] {ji4 dak1} /attendre avec impatience/
-宜於 宜于 [yi2 yu2] {ji4 jyu1} /convenable pour, adapté à/
-客 客 [ke4] {haak3} /équipe visiteuse/
+定 定 [ding4] {ding6} /tranquille; calme; serein; paisible/stable/en silence; silencieux/tranquillement; en silence; sereinement/calmer; apaiser; tranquiliser/ou; ou bien/confirmer/
+定 定 [ding4] {deng6} /réserver/commander/
+????f 定係 定系 [ding4 xi4] {ding6 hai6} /(utilisé exclusivement dans les questions) ou; ou bien/
+定力 定力 [ding4 li4] {ding6 lik6} /maîtrise de soi/
+定啲嚟 定啲嚟 [ding4 di1 li2] {ding6 di1 lei4} /travailler soigneusement; faire quelque chose tranquillement/
+定必 定必 [ding4 bi4] {ding6 bit1} /devoir; falloir que/
+定方 定方 [ding4 fang1] {deng6 fong1} /endroit; lieu/espace/
+????f 定晒形 定晒形 [ding4 shai4 xing2] {ding6 saai3 jing4} /finaliser; approuver; homologuer/avoir tellement peur qu'on se fige/rêvasser; être en transe/
+????f 定曬形 定晒形 [ding4 shai4 xing2] {ding6 saai3 jing4} /finaliser; approuver; homologuer/avoir tellement peur qu'on se fige/rêvasser; être en transe/
+定計劃 定计划 [ding4 ji4 hua4] {ding6 gai3 waak6} /faire des projets; planifier/
+定過抬油 定过抬油 [ding4 guo4 tai2 you2] {ding6 gwo3 toi4 jau4} /calme et confiant; posé; être d'un calme olympien/
+????f 定食 定食 [ding4 shi2] {ding6 sik6} /(japanese-style set meal, with multiple courses on a tray)/
+定驚 定惊 [ding4 jing1] {ding6 ging1} /se calmer; se rasséréner; ne plus avoir peur/
+宛 宛 [wan3] {jyun2} /comme si/
+????f 宛轉 宛转 [wan3 zhuan3] {jyun2 zyun2} /évasif; avec tact/
+宜家家居 宜家家居 [yi2 jia1 jia1 ju1] {ji4 gaa1 gaa1 geoi1} /Ikea/
+宜得 宜得 [yi2 de5] {ji4 dak1} /attendre avec impatience; avoir hâte de/
+????f 宜於 宜于 [yi2 yu2] {ji4 jyu1} /convenable pour; adapté à/
+客 客 [ke4] {haak3} /visiteur/invité; convive/client/équipe visiteuse/
 客仔 客仔 [ke4 zi3] {haak3 zai2} /client/
-客商 客商 [ke4 shang1] {haak3 soeng1} /marchand/
-???? 客家佔地主 客家占地主 [ke4 jia1 zhan4 di4 zhu3] {haak3 gaa1 zim3 dei6 zyu2} /(expr. idiom.) act as if you own the place, the guest acts as host (idiom); to turn from passive to active behavior/(lit.) les Hakka viennent occuper de l'espace pour vivre/
-客村站 客村站 [ke4 cun1 zhan4] {haak3 cyun1 zaam6} /station Kecun, station du métro de Canton, Chine/
-客歲 客岁 [ke4 sui4] {haak3 seoi3} /l'année passée, l'année dernière/
-客觀 客观 [ke4 guan1] {haak3 gun1} /point de vue objectif/
+客商 客商 [ke4 shang1] {haak3 soeng1} /marchand ambulant/
+????c 客家佔地主 客家占地主 [ke4 jia1 zhan4 di4 zhu3] {haak3 gaa1 zim3 dei6 zyu2} /(expr. idiom.) act as if you own the place, the guest acts as host (idiom); to turn from passive to active behavior/(lit.) les Hakka deviennent propriétaires térriens/
+客村站 客村站 [ke4 cun1 zhan4] {haak3 cyun1 zaam6} /station Kecun, station du métro de Canton/
+客歲 客岁 [ke4 sui4] {haak3 seoi3} /l'année passée; l'année dernière/
+客觀 客观 [ke4 guan1] {haak3 gun1} /(point de vue) objectif; impartial/
 客觀真理 客观真理 [ke4 guan1 zhen1 li3] {haak3 gun1 zan1 lei5} /vérité objective/
-客貨車 客货车 [ke4 huo4 che1] {haak3 fo3 ce1} /minivan/
-客路 客路 [ke4 lu4] {haak3 lou6} /source de clientèle/
-客運大樓 客运大楼 [ke4 yun4 da4 lou2] {haak3 wan6 daai6 lau4} /terminal d'aéroport/
-宣佈 宣布 [xuan1 bu4] {syun1 bou3} /déclarer, annoncer, affirmer/
-宣傳 宣传 [xuan1 chuan2] {syun1 cyun4} /promouvoir, faire la publicité/promotion/
+客貨車 客货车 [ke4 huo4 che1] {haak3 fo3 ce1} /fourgon; fourgonnette/
+????f 客路 客路 [ke4 lu4] {haak3 lou6} /source de clientèle/
+????f 客運大樓 客运大楼 [ke4 yun4 da4 lou2] {haak3 wan6 daai6 lau4} /aérogare passagers; gare de voyageurs (d'une gare férroviaire, d'un port)/
+宣佈 宣布 [xuan1 bu4] {syun1 bou3} /déclarer; annoncer; affirmer/
+宣傳 宣传 [xuan1 chuan2] {syun1 cyun4} /promouvoir; faire la publicité/faire de la propagande/
 宣傳單張 宣传单张 [xuan1 chuan2 dan1 zhang1] {syun1 cyun4 daan1 zoeng1} /dépliant publicitaire/
-宣導 宣导 [xuan1 dao3] {syun1 dou6} /propagande/promotion, défense des intérêts, défense d'une cause/lobbysme, lobbyisme, lobbying/
-宣旨 宣旨 [xuan1 zhi3] {syun1 zi2} /annoncer les ordres de l'empereur/
-宣萱 宣萱 [xuan1 xuan1] {syun1 hyun1} /Jessica Hester Hsuan, aussic connue sous le nom de Suen Huen, actrice hongkongaise/
-宣言 宣言 [xuan1 yan2] {syun1 jin4} /énoncé, déclaration, affirmation/annonce/discours/
+????c 宣導 宣导 [xuan1 dao3] {syun1 dou6} /propagande/promotion; défense des intérêts; défense d'une cause/lobbysme; lobbyisme; lobbying/(guide through education?)/
+????f 宣旨 宣旨 [xuan1 zhi3] {syun1 zi2} /annoncer les ordres de l'empereur/
+宣萱 宣萱 [xuan1 xuan1] {syun1 hyun1} /Jessica Hester Hsuan, aussi connue sous le nom de Suen Huen, actrice hongkongaise/
+宣言 宣言 [xuan1 yan2] {syun1 jin4} /énoncé; déclaration; affirmation/
 室樂 室乐 [shi4 yue4] {sat1 lok6} /musique de chambre/
-宮保 宫保 [gong1 bao3] {gung1 bou2} /mode de cuisson «kung pao»/titre d'un fonctionnaire impérial Qing/
-宮燈 宫灯 [gong1 deng1] {gung1 dang1} /lanterne céleste, lanterne volante/lanternes utilisées dans les palais/
+????f 宮保 宫保 [gong1 bao3] {gung1 bou2} /mode de cuisson « kung pao »/(titre d'un fonctionnaire impérial de la dynastie Qing)/
+????f 宮燈 宫灯 [gong1 deng1] {gung1 dang1} /lanternes utilisées dans les palais/
 害 害 [hai4] {hoi6} /dommages/blessures/nocif, nocive/
 害人害物 害人害物 [hai4 ren2 hai4 wu4] {hoi6 jan4 hoi6 mat6} /blesser gravement/causer beaucoup de dégâts/
-害民 害民 [hai4 min2] {hoi6 man4} /nuire aux citoyens/
-害處 害处 [hai4 chu5] {hoi6 cyu3} /inconvénient, désavantage/
-家下 家下 [jia1 xia5] {gaa1 haa5} /maintenant, à cette heure, actuellement/
-家俬 家俬 [jia1 si1] {gaa1 si1} /meubles/
-家傳户曉 家传户晓 [jia1 chuan2 hu4 xiao3] {gaa1 cyun4 wu6 hiu2} /bien connue, populaire/
-家口 家口 [jia1 kou3] {gaa1 hau2} /nombre de membres de la famille/
-家喻户曉 家喻户晓 [jia1 yu4 hu4 xiao3] {gaa1 jyu6 wu6 hiu2} /bien connue/
-家嘈屋閉 家嘈屋闭 [jia1 cao2 wu1 bi4] {gaa1 cou4 uk1 bai3} /maison remplie du bruit des disputes, membres de la famille qui se disputent constamment/
-家天下 家天下 [jia1 tian1 xia4] {gaa1 tin1 haa6} /le monde t'appartient/régner sur le monde/
-家學 家学 [jia1 xue2] {gaa1 hok6} /connaissance transmise de génération en génération dans une famille/
-家家有本難唸的經 家家有本难念的经 [jia1 jia1 you3 ben3 nan2 nian4 de5 jing1] {gaa1 gaa1 jau5 bun2 naan4 nim6 dik1 ging1} /il y a des problèmes dans toutes les familles/
+????f 害民 害民 [hai4 min2] {hoi6 man4} /nuire aux citoyens; nuire au peuple/
+害處 害处 [hai4 chu5] {hoi6 cyu3} /mal; dommage; dégât/
+家下 家下 [jia1 xia5] {gaa1 haa5} /maintenant; à cette heure; actuellement/
+家俬 家俬 [jia1 si1] {gaa1 si1} /mobilier/
+家傳户曉 家传户晓 [jia1 chuan2 hu4 xiao3] {gaa1 cyun4 wu6 hiu2} /(expr.) bien connue; populaire/
+????f 家口 家口 [jia1 kou3] {gaa1 hau2} /nombre de membres de la famille/
+家喻户曉 家喻户晓 [jia1 yu4 hu4 xiao3] {gaa1 jyu6 wu6 hiu2} /(expr.) bien connue; populaire/
+????f 家嘈屋閉 家嘈屋闭 [jia1 cao2 wu1 bi4] {gaa1 cou4 uk1 bai3} /(expr.) maison remplie du bruit des disputes; membres de la famille qui se disputent constamment/
+????c 家天下 家天下 [jia1 tian1 xia4] {gaa1 tin1 haa6} /le monde t'appartient/régner sur le monde/
+????f 家學 家学 [jia1 xue2] {gaa1 hok6} /connaissance transmise de génération en génération dans une famille/
+????f 家家有本難唸的經 家家有本难念的经 [jia1 jia1 you3 ben3 nan2 nian4 de5 jing1] {gaa1 gaa1 jau5 bun2 naan4 nim6 dik1 ging1} /(expr.) il y a des problèmes dans toutes les familles/
 家小 家小 [jia1 xiao3] {gaa1 siu2} /ma femme et mes enfants/
-家山 家山 [jia1 shan1] {gaa1 saan1} /ville natale/
-家山有眼 家山有眼 [jia1 shan1 you3 yan3] {gaa1 saan1 jau5 ngaan5} /vos ancêtres veillent sur vous/
-家山發 家山发 [jia1 shan1 fa1] {gaa1 saan1 faat3} /avoir de la chance à cause du bon feng shui des tombes de ses ancêtres/
-家庭出身 家庭出身 [jia1 ting2 chu1 shen1] {gaa1 ting4 ceot1 san1} /antécédents familiaux/
-家庭用品 家庭用品 [Jia1 ting2 Yong4 pin3 ] {gaa1 ting4 jung6 ban2} /articles ménagers/
-家庭計劃 家庭计划 [jia1 ting2 ji4 hua4] {gaa1 ting4 gai3 waak6} /planification familiale/
+家山 家山 [jia1 shan1] {gaa1 saan1} /tombe ancestrale/ville natale/pays d'origine/
+????c 家山有眼 家山有眼 [jia1 shan1 you3 yan3] {gaa1 saan1 jau5 ngaan5} /(expr.) vos ancêtres veillent sur vous/
+????f 家山發 家山发 [jia1 shan1 fa1] {gaa1 saan1 faat3} /(fig.) avoir de la chance/(lit.) avoir de la chance à cause du bon feng shui des tombes de ses ancêtres/
+????f 家庭出身 家庭出身 [jia1 ting2 chu1 shen1] {gaa1 ting4 ceot1 san1} /antécédents familiaux; classe sociale de la famille/
+家庭用品 家庭用品 [jia1 ting2 yong4 pin3] {gaa1 ting4 jung6 ban2} /articles ménagers/
+家庭計劃 家庭计划 [jia1 ting2 ji4 hua4] {gaa1 ting4 gai3 waak6} /planification familiale; planning familial/
 家庭電器 家庭电器 [jia1 ting2 dian4 qi4] {gaa1 ting4 din6 hei3} /appareils électroménagers/
-家書 家书 [jia1 shu1] {gaa1 syu1} /lettre destinée à sa famille ou à chez soi/
+家書 家书 [jia1 shu1] {gaa1 syu1} /lettre destinée à la famille/lettre de la famille/
 家有一老，如有一寶 家有一老，如有一宝 [jia1 you3 yi1 lao3 , ru2 you3 yi4 bao3] {gaa1 jau5 jat1 lou5 jyu4 jau5 jat1 bou2} /il est bon d'avoir une personne âgée à la maison, parce qu'ils ont beaucoup d'exprérience et sagesse/
 家欄雞 家栏鸡 [jia1 lan2 ji1] {gaa1 laan1 gai1} /poulets appartenant à sa ferme/
 家法 家法 [jia1 fa3] {gaa1 faat3} /règles de la maison/(par extension) règles d'une communauté, d'un club, d'un groupe/
@@ -7566,7 +7567,7 @@
 廣東歌 广东歌 [Guang3 dong1 ge1] {gwong2 dung1 go1} /cantopop, musique chinoise de Hong Kong/
 廣東菜 广东菜 [Guang3 dong1 cai4] {gwong2 dung1 coi3} /cuisine cantonaise/
 廣東道 广东道 [Guang3 dong1 dao4] {gwong2 dung1 dou6} /Canton Road, rue située à Hong Kong/
-廣泛 广泛 [guang3 fan4] {gwong2 faan3} /répandu/
+廣泛 广泛 [guang3 fan4] {gwong2 faan6} /répandu/
 廣華醫院 广华医院 [guang3 hua2 yi1 yuan4] {gwong2 waa4 ji1 jyun2} /Kwong Wah Hospital, hôpital situé à Hong Kong/ 
 ???? 廣開才路 广开才路 [guang3 kai1 cai2 lu4] {gwong2 hoi1 coi4 lou6} /to attract talents and let the talents be widely employed/opportunities for talented individuals/
 廬山真面目 庐山真面目 [Lu2 Shan1 zhen1 mian4 mu4] {lou4 saan1 zan1 min6 muk6} /(expr. idiom.) vraie nature, nature véritable (de quelqu'un)/(lit.) la vraie face du Mont Lu/
@@ -15450,7 +15451,7 @@
 筆盒 笔盒 [bi3 he2] {bat1 hap6} /trousse d'écolier; étui à crayons/
 ????c 筆芯電 笔芯电 [bi3 xin1 dian4] {bat1 sam1 din6} /piles AA/a term to describe flat-chested females?/
 筆袋 笔袋 [bi3 dai4] {bat1 doi6} /trousse d'écolier; étui à crayons/
-筆記簿 笔记簿 [bi3 ji4 bu4] {bat1 gei3 bou6} /cahier/
+筆記簿 笔记簿 [bi3 ji4 bu4] {bat1 gei3 bou2} /cahier/
 筆錔 笔錔 [bi3 ta4] {bat1 taap3} /capuchon de stylo/
 ?????f 筆墨官司 笔墨官司 [bi3 mo4 guan1 si5] {bat1 mak6 gun1 si1} /Battle of words; written polemics/
 等一陣 等一阵 [deng3 yi2 zhen4] {dang2 jat1 zan6} /attendez un moment! attendez un instant!/
