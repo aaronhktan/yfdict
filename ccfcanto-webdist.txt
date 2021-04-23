@@ -6688,7 +6688,7 @@
 密率 密率 [mi4 lu:4] {mat6 leot2} /Milu, approximation de π par le mathématicien chinois Zu Chongzhi/
 ????c 密籠 密笼 [mi4 long2] {mat6 lung4} /fermé; bouché/
 ????c 密絲 密丝 [mi4 si1] {mat6 si1} /femme non mariée/(orig.) de l'anglais « miss » (« mademoiselle, madame »)/
-密質質 密质质 [mi4 zhi4 zhi4] {mat6 zat1 zat1} /très dense/serré; rempli à ras bord/
+????f 密質質 密质质 [mi4 zhi4 zhi4] {mat6 zat1 zat1} /très dense/(tiroir, valise, etc.) rempli à ras bord; plein à craquer/
 ????f 密鑼緊鼓 密锣紧鼓 [mi4 luo2 jin3 gu3] {mat6 lo4 gan2 gu2} /préparatifs frénétiques juste avant le commencement d'un évènement/
 ????f 密食當三番 密食当三番 [mi4 shi2 dang1 san1 fan1] {mat6 sik6 dong3 saam1 faan1} /(expr. idiom.) plusieurs petits gains s'additionnent pour faire une grande différence/(lit.) (du mah-jong) plusieurs petites victoires valent autant qu'une grande victoire/
 寇仇 寇仇 [kou4 chou2] {kau3 sau4} /(vieilli) ennemi/
@@ -6699,203 +6699,204 @@
 富裕 富裕 [fu4 yu4] {fu3 jyu6} /riche; prospère/
 富豪 富豪 [fu4 hao2] {fu3 hou4} /magnat; personne riche et puissante/
 富貴 富贵 [fu4 gui4] {fu3 gwai3} /riche/
-???? 富貴逼人 富贵逼人 [fu4 gui4 bi1 ren2] {fu3 gwai3 bik1 jan4} /utiliser sa fortune pour menacer les gens/
-富麗 富丽 [fu4 li4] {fu3 lai6} /splendide/
-寒 寒 [han2] {hon4} /effrayé/
-寒冬臘月 寒冬腊月 [han2 dong1 la4 yue4] {hon4 dung1 laap6 jyut6} /le mois le plus froid de l'hiver/
-寒削 寒削 [han2 xue1] {hon4 soek3} /froid et mauvais pour l'estomac/
-寒塵 寒尘 [han2 chen2] {hon4 can4} /pas présentable, avoir une mauvaise tenue/
+????c 富貴逼人 富贵逼人 [fu4 gui4 bi1 ren2] {fu3 gwai3 bik1 jan4} /utiliser sa fortune pour menacer les gens/
+富麗 富丽 [fu4 li4] {fu3 lai6} /splendide; somptueux; magnifique/
+寒 寒 [han2] {hon4} /froid/pauvre/effrayé/
+????f 寒冬臘月 寒冬腊月 [han2 dong1 la4 yue4] {hon4 dung1 laap6 jyut6} /le mois le plus froid de l'hiver; milieu de l'hiver/
+????c 寒削 寒削 [han2 xue1] {hon4 soek3} /(aliment) froid et mauvais pour l'estomac/
+寒塵 寒尘 [han2 chen2] {hon4 can4} /pas présentable; être mal habillé; être pauvrement vêtu/
 寒山寺 寒山寺 [han2 shan1 si4] {hon4 saan1 zi6} /Temple Hanshan, en Suzhou, Chine/
-???? 寒底 寒底 [han2 di3] {hon4 dai2} /physique with cold hands and feet/
+寒底 寒底 [han2 di3] {hon4 dai2} /(médecine traditionnelle chinoise) avoir froid/
 寒暑表 寒暑表 [han2 shu3 biao3] {hon4 syu2 biu1} /thermomètre/
 寒涼 寒凉 [han2 liang2] {hon4 loeng4} /(dans la médecine traditionnelle chinoise) froid et mauvais pour le corps/
-寒背 寒背 [han2 bei4] {hon4 bui3} /recroquevillé, avoir le dos voûté/cyphose/
-寒酸 寒酸 [han2suan1] {hon4 syun1} /miteux, minable/
-寒風 寒风 [han2 feng1] {hon4 fung1} /vent d'hiver froid/
-???? 寒飛 寒飞 [han2 fei1] {hon4 fei1} /a poor and pedantic hoodlum/
-寓於 寓于 [yu4 yu2] {jyu6 jyu1} /inclure/
-寡 寡 [gua3] {gwaa2} /sans goût, fade, insipide/
+寒背 寒背 [han2 bei4] {hon4 bui3} /recroquevillé; avoir le dos voûté/cyphose/
+寒酸 寒酸 [han2 suan1] {hon4 syun1} /miteux; minable/
+寒風 寒风 [han2 feng1] {hon4 fung1} /vent froid/
+寒飛 寒飞 [han2 fei1] {hon4 fei1} /gamin des rues pauvrement vêtu/
+????c 寓於 寓于 [yu4 yu2] {jyu6 jyu1} /inclure/
+寡 寡 [gua3] {gwaa2} /sans goût; fade; insipide/veuf, veuve/
 寡仔 寡仔 [gua3 zi3] {gwaa2 zai2} /homme célibataire/
 寡佬 寡佬 [gua3 lao3] {gwaa2 lou2} /homme célibataire/
-寡公 寡公 [gua3 gong1] {gwaa2 gung1} /veuf, homme dont l'épouse est morte/
+寡公 寡公 [gua3 gong1] {gwaa2 gung1} /veuf, homme dont la conjointe est morte/
 寡婆 寡婆 [gua3 po2] {gwaa2 po2} /veuve, femme dont le conjoint est mort/
-寡廉鮮恥 寡廉鲜耻 [gua3 lian2 xian3 chi3] {gwaa2 lim4 sin1 ci2} /sans gêne/éhonté/
+寡廉鮮恥 寡廉鲜耻 [gua3 lian2 xian3 chi3] {gwaa2 lim4 sin1 ci2} /(expr. idiom.) sans gêne; éhonté; effronté/
 寡母婆 寡母婆 [gua3 mu3 po2] {gwaa2 mou5 po2} /veuve, femme dont le conjoint est mort/
-???? 寡母婆咁多心 寡母婆咁多心 [gua3 mu3 po2 gan1 duo1 xin1] {gwaa2 mou5 po2 gam3 do1 sam1} /(expr. idiom.) indécis/
-寢食 寝食 [qin3 shi2] {cam2 sik6} /dormir et manger/
-寢食不安 寝食不安 [qin3 shi2 bu4 an1] {cam2 sik6 bat1 on1} /qui ne dort pas bien et ne mange pas bien/
-寥廓 寥廓 [liao2 kuo4] {liu4 kwok3} /sans limite/l'infini (du ciel)/
-實 实 [shi2] {sat6} /fermement, bien fort/dur, ferme/dense/
-實Q 实Q [shi2 Q] {sat6 kiu1} /agent de sécurité/(orig.) des deux premiers syllabes du mot anglais «security», sécurité/
-實心實意 实心实意 [shi2 xin1 shi2 yi4] {sat6 sam1 sat6 ji3} /honnête, sincère, authentique/
-???? 實斧實鑿 实斧实凿 [shi2 fu3 shi2 zao2] {sat6 fu2 sat6 zok6} /promised; for real/
-???? 實枳枳 实枳枳 [shi2 zhi3 zhi3] {sat6 zi2 zi2} /fully loaded/plugged tight/
-實淨 实淨 [shi2 cheng2] {sat6 zing6} /robuste, solide, stable/
-實牙實齒 实牙实齿 [shi2 ya2 shi2 chi3] {sat6 ngaa4 sat6 ci2} /(expr. idiom.) vrai pour de vrai, complètement vrai (pour décrire une affirmation ou énoncé)/(lit.) dents solides/
-實用性 实用性 [shi2 yong4 xing4] {sat6 jung6 sing3} /côté pratique/
-實穩 实稳 [shi2 wen3] {sat6 wan2} /sûrement, certainement/
-實行 实行 [shi2 xing2] {sat6 hang4} /imposer/effectuer, réaliser/implémenter/
-實趯趯 实趯趯 [shi2 ti4 ti4] {sat6 dek3 dek3} /dur, solide/
-實食冇黐牙 实食冇黐牙 [shi2 shi2 mao3 chi1 ya2] {sat6 sik6 mou5 ci1 ngaa4} /(expr. idiom.) sentiment que tout ira comme prévue, que le résultat sera conforme aux attentes/(lit.) manger sans que l'aliment colle aux dents/
-實鼓實鑿 实鼓实凿 [shi2 gu3 shi2 zao2] {sat6 gu2 sat6 zok6} /pour de vrai, authentique/
+????c 寡母婆咁多心 寡母婆咁多心 [gua3 mu3 po2 gan1 duo1 xin1] {gwaa2 mou5 po2 gam3 do1 sam1} /(expr. idiom.) indécis/
+寢食 寝食 [qin3 shi2] {cam2 sik6} /dormir et manger/(fig.) vie quotidienne/
+寢食不安 寝食不安 [qin3 shi2 bu4 an1] {cam2 sik6 bat1 on1} /(expr. idiom.) être très inquiet/(lit.) qui ne dort pas bien et ne mange pas bien/
+寥廓 寥廓 [liao2 kuo4] {liu4 kwok3} /sans limite/
+實 实 [shi2] {sat6} /sûrement; certainement/réalité/fermement; bien fort/dur; ferme/dense/
+實Q 实Q [shi2 Q] {sat6 kiu1} /agent de sécurité/(orig.) des deux premiers syllabes du mot anglais « security » (« sécurité »)/
+實心實意 实心实意 [shi2 xin1 shi2 yi4] {sat6 sam1 sat6 ji3} /(expr.) honnête; sincère; authentique/
+????f 實斧實鑿 实斧实凿 [shi2 fu3 shi2 zao2] {sat6 fu2 sat6 zok6} /(expr.) tout à fait vrai; vrai pour de vrai/
+????f 實枳枳 实枳枳 [shi2 zhi3 zhi3] {sat6 zat1 zat1} /(tiroir, valise, etc.) rempli à ras bord; plein à craquer/
+實淨 实淨 [shi2 cheng2] {sat6 zeng6} /robuste; solide; stable/
+實牙實齒 实牙实齿 [shi2 ya2 shi2 chi3] {sat6 ngaa4 sat6 ci2} /(expr. idiom.) de façon définitive/(lit.) dents solides/
+實用性 实用性 [shi2 yong4 xing4] {sat6 jung6 sing3} /praticité/
+實穩 实稳 [shi2 wen3] {sat6 wan2} /sûrement; certainement/
+實行 实行 [shi2 xing2] {sat6 hang4} /effectuer; réaliser/sûrement; certainement/
+實趯趯 实趯趯 [shi2 ti4 ti4] {sat6 dek3 dek3} /dur; solide/
+????f 實食冇黐牙 实食冇黐牙 [shi2 shi2 mao3 chi1 ya2] {sat6 sik6 mou5 ci1 ngaa4} /(expr. idiom.) sentiment que tout ira comme prévue; victoire certaine/(lit.) manger sans que l'aliment colle aux dents/
+????c 實鼓實鑿 实鼓实凿 [shi2 gu3 shi2 zao2] {sat6 gu2 sat6 zok6} /(expr.) pour de vrai; authentique/
 ????f 實冇死 实冇死 [shi2 mao3 si3] {sat6 mou5 sei2} /ne pas pouvoir se tromper (can't go wrong by doing something)/(lit.) sûrement ne pas avoir de morts/
 寧 宁 [ning2] {ning4} /préferer (un choix à un autre)/
-寧教人打仔，莫教人分妻 宁教人打仔，莫教人分妻 [ning2 jiao4 ren2 da3 zai3 , mo4 jiao4 ren2 fen1 qi1] {ning4 gaau3 jan4 daa2 zai2 mok6 gaau3 jan4 fan1 cai1} /enseigner aux autres de frapper leurs enfants plutôt que de divorcer/
-審判 审判 [shen3 pan4] {sam2 pun3} /verdict, jugement/juger, prononcer une sentence/
-審理 审理 [shen3 li3] {sam2 lei5} /examiner, interroger (droit)/
+????c 寧教人打仔，莫教人分妻 宁教人打仔，莫教人分妻 [ning2 jiao4 ren2 da3 zai3 , mo4 jiao4 ren2 fen1 qi1] {ning4 gaau3 jan4 daa2 zai2 mok6 gaau3 jan4 fan1 cai1} /(expr.) enseigner aux autres de frapper leurs enfants plutôt que de divorcer/
+審判 审判 [shen3 pan4] {sam2 pun3} /traduire en justice/
+審理 审理 [shen3 li3] {sam2 lei5} /(droit) entendre/
 審美 审美 [shen3 mei3] {sam2 mei5} /jugement esthétique/
-寫 写 [xie3] {se2} /faire un croquis/dessiner/
-寫低 写低 [xie3 di1] {se2 dai1} /noter/
-寫字枱 写字枱 [xie3 zi4 si4] {se2 zi6 toi4} /bureau, pupitre/
-寫字樓 写字楼 [xie3 zi4 lou2] {se2 zi6 lau4} /lieu de travail/
-寫成 写成 [xie3 cheng2] {se2 sing4} /composé, écrit (...d'une certaine manière)/
-寫明 写明 [xie3 ming2] {se2 ming4} /déclarer, affirmer/clarifier, expliquer/
+寫 写 [xie3] {se2} /écrire/faire un croquis/dessiner/
+寫低 写低 [xie3 di1] {se2 dai1} /noter; consigner/
+寫字枱 写字枱 [xie3 zi4 si4] {se2 zi6 toi2} /bureau; pupitre/
+寫字樓 写字楼 [xie3 zi4 lou2] {se2 zi6 lau4} /lieu de travail; immeuble de bureaux/
+寫成 写成 [xie3 cheng2] {se2 sing4} /composé; écrit (...d'une certaine manière)/
+寫明 写明 [xie3 ming2] {se2 ming4} /clarifier; expliquer (à l'écrit)/
 寫書 写书 [xie3 shu1] {se2 syu1} /écrire des livres/
-寫真 写真 [xie3 zhen1] {se2 zan1} /photographie de nu/
-寫給 写给 [xie3 gei3] {se2 kap1} /écrire (à quelqu'un)/
+寫真 写真 [xie3 zhen1] {se2 zan1} /photo; portrait/photographe érotique/
+寫給 写给 [xie3 gei3] {se2 kap1} /écrire à (quelqu'un)/
 寬敞 宽敞 [kuan1 chang5] {fun1 cong2} /spacieux/
 寰球 寰球 [huan2 qiu2] {waan4 kau4} /mondial/
-???? 寵幸 宠幸 [chong3 xing4] {cung2 hang6} /men in power showing special favor, usually sexual, to a lady/
+寵幸 宠幸 [chong3 xing4] {cung2 hang6} /favoriser (quelqu'un)/
 寵物小精靈 宠物小精灵 [chong3 wu4 xiao3 jing1 ling2] {cung2 mat6 siu2 zing1 ling4} /Pokémon, franchise de jeux vidéo populaire/
 寵物店 宠物店 [chong3 wu4 dian4] {cung2 mat6 dim3} /animalerie/
-寶刀 宝刀 [bao3 dao1] {bou2 dou1} /ancienne épée précieuse/
-???? 寶剎 宝刹 [bao3 cha4] {bou2 saat3} /Pagoda in a temple/
+????c 寶刀 宝刀 [bao3 dao1] {bou2 dou1} /ancienne épée précieuse/
+寶剎 宝刹 [bao3 cha4] {bou2 saat3} /pagode d'un temple/
 寶地 宝地 [bao3 di4] {bou2 dei6} /terre aux trésors/
-寶安中心站 宝安中心站 [bao3 an1 zhong1 xin1 zhan4] {bou2 on1 zung1 sam1 zaam6} /station Bao'an Central, station du métro de Canton, Chine/
-寶崗大道 宝岗大道 [bao3 gang3 da4 dao4] {bou2 gong1 daai6 dou6} /Avenue Baogang, rue à Guangzhou, Chine/
-寶物沉歸底 宝物沉归底 [bao3 wu4 chen2 gui1 di3] {bou2 mat6 cam4 gwai1 dai2} /le meilleur arrive à la fin/
-寶琳 宝琳 [bao3 lin2] {bou2 lam4} /Po Lam, endroit à Hong Kong:/
+寶安中心站 宝安中心站 [bao3 an1 zhong1 xin1 zhan4] {bou2 on1 zung1 sam1 zaam6} /station Bao'an Central, station du métro de Canton/
+寶崗大道 宝岗大道 [bao3 gang3 da4 dao4] {bou2 gong1 daai6 dou6} /Avenue Baogang, rue à Canton/
+????f 寶物沉歸底 宝物沉归底 [bao3 wu4 chen2 gui1 di3] {bou2 mat6 cam4 gwai1 dai2} /(expr.) le meilleur arrive à la fin/
+寶琳 宝琳 [bao3 lin2] {bou2 lam4} /Po Lam, quartier à Hong Kong/
 寶琳站 宝琳站 [bao3 lin2 zhan4] {bou2 lam4 zaam6} /station Po Lam, station du métro de Hong Kong/
-寶眷 宝眷 [bao3 juan4] {bou2 gyun3} /votre famille, votre famille estimée/
+寶眷 宝眷 [bao3 juan4] {bou2 gyun3} /(courtois) votre famille; votre famille estimée/
 寶石 宝石 [bao3 shi2] {bou2 sek6} /pierre précieuse/
 寶蓮寺 宝莲寺 [bao3 lian2 si4] {bou2 lin4 zi2} /Monastère Po Lin, monastère bouddhiste à Hong Kong/
-寶號 宝号 [bao3 hao4] {bou2 hou6} /(s'emploie dans des formules de politesse pour faire référence à un magasin ou société ou compagnie)/
+????f 寶號 宝号 [bao3 hao4] {bou2 hou6} /(s'emploie dans des formules de politesse pour faire référence à un magasin, une société ou une compagnie)/
 寶誕 宝诞 [bao3 dan4] {bou2 daan3} /commémoration/
-寶貝 宝贝 [bao3 bei4] {bou2 bui3} /mon trésor, mon chéri, ma chérie/
-寶達邨 宝达村 [bao3 da2 cun1] {bou2 taat3 cyun1} /cité Po Tat, habitation à loyer modéré de Hong Kong/
-寶麗萊 宝丽莱 [bao3 li4 lai2] {bou2 lai6 loi4} /Polaroid/
-寸 寸 [cun4] {cyun3} /arrogant, prétentieux/
-寸土必爭 寸土必争 [cun4 tu3 bi4 zheng1] {cyun3 tou2 bit1 zang1} /(expr. idiom.) deux ennemis qui tiennent ferme/(lit.) combattre pour un petit lopin de terre/
-???? 寸心 寸心 [cun4 xin1] {cyun3 sam1} /mere proof of my regard; This is as a small token of my feelings/
-寸斷 寸断 [cun4 duan4] {cyun3 dyun6} /briser petit à petit/
+寶貝 宝贝 [bao3 bei4] {bou2 bui3} /trésor/mon trésor; mon chéri, ma chérie; mon chou/(ironique) bon à rien/
+寶達邨 宝达村 [bao3 da2 cun1] {bou2 taat3 cyun1} /cité Po Tat, grand ensemble à Hong Kong/
+寶麗萊 宝丽莱 [bao3 li4 lai2] {bou2 lai6 loi4} /Polaroid, société américaine/
+寸 寸 [cun4] {cyun3} /(unité de longueur)/arrogant; prétentieux; altier/se moquer de; humilier/
+????f 寸土必爭 寸土必争 [cun4 tu3 bi4 zheng1] {cyun3 tou2 bit1 zang1} /(expr. idiom.) deux ennemis qui tiennent bon, qui refusent de céder/(lit.) se battre pour un petit lopin de terre/
+????c 寸心 寸心 [cun4 xin1] {cyun3 sam1} /mere proof of my regard; This is as a small token of my feelings/
+寸斷 寸断 [cun4 duan4] {cyun3 dyun6} /briser en petits morceaux/
 寸步 寸步 [cun4 bu4] {cyun3 bou6} /tout petit pas/
-寸草不留 寸草不留 [cun4 cao3 bu4 liu2] {cyun3 cou2 bat1 lau4} /brûler la terre, saler le sol, faire abreuver la terre de son sang, ne laisser plus rien/se raser la tête/tuer tout le monde et tout briser, annihiler, dévaster/(lit.) ne même pas laisser ni une brindille/
-寸草春暉 寸草春晖 [cun4 cao3 chun1 hui1] {cyun3 cou2 ceon1 fai1} /il est difficile de récompenser la bonté de ses parents/(lit.) comme l'herbe et le soleil printanier/
+????c 寸草不留 寸草不留 [cun4 cao3 bu4 liu2] {cyun3 cou2 bat1 lau4} /(expr. idiom.) brûler la terre; saler le sol; faire abreuver la terre de son sang; ne laisser plus rien/(lit.) ne même pas laisser ni une brindille/
+????f 寸草春暉 寸草春晖 [cun4 cao3 chun1 hui1] {cyun3 cou2 ceon1 fai1} /(expr. idiom.) il est difficile de récompenser la bonté de ses parents/(lit.) comme l'herbe et le soleil printanier/
 寺門 寺门 [si4 men2] {zi6 mun4} /temples/monastères/
-封 封 [feng1] {fung1} /fermer/barrer, fermer accès à/boucler/
-封嘴 封嘴 [feng1 zui3] {fung1 zeoi2} /ne rien dire/se taire/
-封相 封相 [feng1 xiang1] {fung1 soeng3} /être nommé premier ministre/
-封閉 封闭 [feng1 bi4] {fung1 bai3} /bloquer/
-射 射 [she4] {se6} /éjaculer/
-射住 射住 [she4 zhu4] {se6 zyu6} /s'occuper de, veiller sur, prendre soin de/
-射喱眼 射喱眼 [she4 li2 yan3] {se6 lei1 ngaan5} /strabisme, «loucher»/
-射擊 射击 [she4 ji1] {se6 gik1} /tir à l'arc/
-射波 射波 [she4 bo1] {se6 bo1} /faire semblant d'être malade/
-將 将 [jiang1] {zoeng1} /général (militaire)/titre pour un employé haut-placé/
-將功折罪 将功折罪 [jiang1 gong1 zhe2 zui4] {zoeng1 gung1 zit3 zeoi6} /assuager sa culpabilité par l'altruisme/
-將就 将就 [jiang1 jiu5] {zoeng1 zau6} /tolérer/
-將心比己 将心比己 [jiang1 xin1 bi3 ji3] {zoeng1 sam1 bei2 gei2} /comprendre, compatir avec/
-將軍澳 将军澳 [Jiang1 jun1 ao4] {zoeng1 gwan1 ou3} /Tseung Kwan O, endroit à Hong Kong/
-將養 将养 [jiang1 yang3] {zoeng1 joeng5} /repos/récupérer, se remettre/
-專 专 [zhuan1] {zyun1} /professionel/
-專上教育 专上教育 [zhuan1 shang4 jiao4 yu4] {zyun1 soeng6 gaau3 juk6} /éducation postsecondaire/
-專上院校 专上院校 [zhuan1 shang4 yuan4 xiao4] {zyun1 soeng6 jyun2 haau6} /établissement postsecondaire/
-專修 专修 [zhuan1 xiu1] {zyun1 sau1} /étudier (une majeure en université)/être diplômé en/
-專刊 专刊 [zhuan1 kan1] {zyun1 hon2} /édition spéciale, numéro spécial/
+封 封 [feng1] {fung1} /fermer; barrer; fermer accès à/sceller/
+封嘴 封嘴 [feng1 zui3] {fung1 zeoi2} /faire taire (quelqu'un)/
+????c 封相 封相 [feng1 xiang1] {fung1 soeng3} /être nommé premier ministre/
+封閉 封闭 [feng1 bi4] {fung1 bai3} /bloquer; fermer/boucher; sceller/
+射 射 [she4] {se6} /(arme à feu) tirer/(basket-ball, soccer, etc.) tirer/rayonner/éjaculer/s'occuper de; veiller sur; prendre soin de/
+射住 射住 [she4 zhu4] {se6 zyu6} /s'occuper de; veiller sur; prendre soin de/
+射喱眼 射喱眼 [she4 li2 yan3] {se6 lei1 ngaan5} /strabisme/
+射擊 射击 [she4 ji1] {se6 gik1} /tirer/
+射波 射波 [she4 bo1] {se6 bo1} /faire semblant d'être malade pour éviter le travail/(basket-ball, soccer, etc.) tirer/
+將 将 [jiang1] {zoeng1} /bientôt; tantôt/
+將 将 [jiang1] {zoeng3} /général (militaire)/(titre pour un employé haut-placé)/
+????f 將功折罪 将功折罪 [jiang1 gong1 zhe2 zui4] {zoeng1 gung1 zit3 zeoi6} /(expr.) expirer sa culpabilité par de bons actes/
+將就 将就 [jiang1 jiu5] {zoeng1 zau6} /tolérer; supporter; se contenter de/
+將心比己 将心比己 [jiang1 xin1 bi3 ji3] {zoeng1 sam1 bei2 gei2} /(expr.) se mettre à la place de (quelqu'un); comprendre; compatir avec/
+將軍澳 将军澳 [Jiang1 jun1 ao4] {zoeng1 gwan1 ou3} /Tseung Kwan O, baie à Hong Kong/
+將養 将养 [jiang1 yang3] {zoeng1 joeng5} /récupérer; se remettre/
+專 专 [zhuan1] {zyun1} /seulement/spécialisé/professionel/
+專上教育 专上教育 [zhuan1 shang4 jiao4 yu4] {zyun1 soeng6 gaau3 juk6} /enseignement supérieur/
+專上院校 专上院校 [zhuan1 shang4 yuan4 xiao4] {zyun1 soeng6 jyun2 haau6} /établissement d'enseignement supérieur/
+????f 專修 专修 [zhuan1 xiu1] {zyun1 sau1} /étudier (une majeure en université)/être diplômé en/
+專刊 专刊 [zhuan1 kan1] {zyun1 hon2} /édition spéciale; numéro spécial/
 專制 专制 [zhuan1 zhi4] {zyun1 zai3} /autoritaire/
 專機 专机 [zhuan1 ji1] {zyun1 gei1} /jet privé/
-專橫跋扈 专横跋扈 [zhuan1 heng4 ba2 hu4] {zyun1 waang4 bat6 wu6} /irraisonable, ridicule/
+????c 專橫跋扈 专横跋扈 [zhuan1 heng4 ba2 hu4] {zyun1 waang4 bat6 wu6} /déraisonable; insensé/
 專欄作家 专栏作家 [zhuan1 lan2 zuo4 jia1] {zyun1 laan4 zok3 gaa1} /chroniqueur/
-專注 专注 [zhuan1 zhu4] {zyun1 zyu3} /dévouement/
-專用 专用 [zhuan1yong4] {zyun1 jung6} /privé/réservé à l'usage de/
+專注 专注 [zhuan1 zhu4] {zyun1 zyu3} /absorbé; captivé/
+????f 專用 专用 [zhuan1yong4] {zyun1 jung6} /spécialisé; spécialement conçu/dédié; réservé à l'usage de (quelqu'un)/
 專登 专登 [zhuan1 deng1] {zyun1 dang1} /par exprès/
 專科醫生 专科医生 [zhuan1 ke1 yi1 sheng1] {zyun1 fo1 ji1 sang1} /spécialiste (médecin)/
-專線 专线 [zhuan1 xian4] {zyun1 sin3} /route spéciale/
-專線小巴 专线小巴 [zhuan1 xian4 xiao3 ba1] {zyun1 sin3 siu2 baa1} /minibus avec itinéraire prédéterminé/
-專訊 专讯 [zhuan1 xun4] {zyun1 seon3} /bulletin d'information, lettre d'information, newsletter/
-專長 专长 [zhuan1 chang2] {zyun1 coeng4} /compétence, expertise, savoir-faire/
+專線 专线 [zhuan1 xian4] {zyun1 sin3} /(transports) ligne dédiée/(téléphone) ligne directe/
+????f 專線小巴 专线小巴 [zhuan1 xian4 xiao3 ba1] {zyun1 sin3 siu2 baa1} /minibus avec itinéraire prédéterminé/
+????c 專訊 专讯 [zhuan1 xun4] {zyun1 seon3} /bulletin d'information, lettre d'information, newsletter/
+專長 专长 [zhuan1 chang2] {zyun1 coeng4} /spécialité; point fort/
 專門店 专门店 [zhuan1 men2 dian4] {zyun1 mun4 dim3} /magasin spécialisé/
-專電 专电 [zhuan1 dian4] {zyun1 din6} /dépêche (de presse)/
-專題報告 专题报告 [zhuan1 ti2 bao4 gao4] {zyun1 tai4 bou3 gou3} /rapport spécial/
-專題研究 专题研究 [zhuan1 ti2 yan2 jiu1] {zyun1 tai4 jin4 gau3} /étude de cas/
+????f 專電 专电 [zhuan1 dian4] {zyun1 din6} /(presse) dépêche spéciale/
+????f 專題報告 专题报告 [zhuan1 ti2 bao4 gao4] {zyun1 tai4 bou3 gou3} /(presse) dépêche spéciale/
+????c 專題研究 专题研究 [zhuan1 ti2 yan2 jiu1] {zyun1 tai4 jin4 gau3} /étude de cas/
 尊姓大名 尊姓大名 [zun1 xing4 da4 ming2] {zyun1 sing3 daai6 ming4} /votre nom/(honorifique) nom au complet/
-尊師重道 尊师重道 [zun1 shi1 zhong4 dao4] {zyun1 si1 zung6 dou6} /respecter les enseignants et la connaissances qu'ils transmettent/
-尊貴 尊贵 [zun1 gui4] {zyun1 gwai3} /client précieux/
-尋回 寻回 [xun2 hui2] {cam4 wui4} /trouvé/retrouvé/
+????f 尊師重道 尊师重道 [zun1 shi1 zhong4 dao4] {zyun1 si1 zung6 dou6} /(expr.) respecter les enseignants et la connaissances qu'ils transmettent/
+尊貴 尊贵 [zun1 gui4] {zyun1 gwai3} /(personne) honorable; respecté/
+尋回 寻回 [xun2 hui2] {cam4 wui4} /retrouver/
 尋日 寻日 [xun2 ri4] {cam4 jat6} /hier/
 尋晚 寻晚 [xun2 wan3] {cam4 maan5} /hier soir/
-尋晚黑 寻晚黑 [xun2 wan3 hei1] {cam4 maan5 hak1} /hier soir, la nuit dernière/
+尋晚黑 寻晚黑 [xun2 wan3 hei1] {cam4 maan5 hak1} /hier soir; la nuit dernière/
 尋根 寻根 [xun2 gen1] {cam4 gan1} /découvrir l'histoire de sa famille/
-尋根究底 寻根究底 [xun2 gen1 jiu1 di3] {cam4 gan1 gau3 dai2} /procéder à une enquête approfondie/
+尋根究底 寻根究底 [xun2 gen1 jiu1 di3] {cam4 gan1 gau3 dai2} /(expr.) procéder à une enquête approfondie; aller au fond de l'affaire/
 尋覓 寻觅 [xun2 mi4] {cam4 mik6} /chercher/
 對出 对出 [dui4 chu1] {deoi3 ceot1} /à l'extérieur/
-對唔住 对唔住 [dui4 n2 zhu4] {deoi3 m4 zyu6} /désolé(e)/pardon, excusez-moi/
-對埋 对埋 [dui4 mai2] {deoi3 maai4} /finir de corriger (les questions, les devoirs)/finir les derniers distiques/avoir fini de boire une bière/finir d'inspecter (une liste)/décevoir/
-對得住 对得住 [dui4 de5 zhu4] {deoi3 dak1 zyu6} /ne pas décevoir/traiter équitablement/mériter, à la hauteur de, digne de/
-對手 对手 [dui4 shou3] {deoi3 sau2} /paire de mains/
-對摳 对抠 [dui4 kou1] {deoi3 kau1} /mélange moitié moitié, mélange de deux quantités égales/
-對撼 对撼 [dui4 han4] {deoi3 ham6} /s'affronter
+對唔住 对唔住 [dui4 n2 zhu4] {deoi3 m4 zyu6} /désolé!/
+????c 對埋 对埋 [dui4 mai2] {deoi3 maai4} /finir de corriger (les questions, les devoirs)/finir les derniers distiques/avoir fini de boire une bière/finir d'inspecter (une liste)/décevoir/
+對得住 对得住 [dui4 de5 zhu4] {deoi3 dak1 zyu6} /ne pas décevoir; mériter; à la hauteur de; être digne de/ne pas avoir honte/
+對手 对手 [dui4 shou3] {deoi3 sau2} /adversaire; concurrent; rival/
+對摳 对抠 [dui4 kou1] {deoi3 kau1} /mélange moitié moitié; mélange de deux quantités égales/
+對撼 对撼 [dui4 han4] {deoi3 ham6} /s'affronter/
 對比 对比 [dui4 bi3] {deoi3 bei2} /comparer/
-對立統一 对立统一 [dui4 li4 tong3 yi1] {deoi3 laap6 tung2 jat1} /coïncidences des opposés (philosophie)/
-對胸衫 对胸衫 [dui4 xiong1 shan1] {deoi3 hung1 saam1} /cardigan, veste de laine, gilet de laine/
-???? 對落 对落 [dui4 luo4] {deoi3 lok6} /noun; here and down below/
-對話 对话 [dui4 hua4] {deoi3 waa6} /conversation/
-對頭人 对头人 [dui4 tou5 ren2] {deoi3 tau4 jan4} /adversaire/
-導師 导师 [dao3 shi1] {dou6 si1} /tutor, tutrice/
-導彈 导弹 [dao3 dan4] {dou6 daan2} /(fig.) à forte poitrine/(lit.) engin téléguidé/
-小 小 [xiao3] {siu2} /(vulgaire) merde, putain, putain de merde, tabarnac/(lit.) baiser/
+對立統一 对立统一 [dui4 li4 tong3 yi1] {deoi3 laap6 tung2 jat1} /(philosophie) coïncidence des opposés; coincidentia oppositorum/
+對胸衫 对胸衫 [dui4 xiong1 shan1] {deoi3 hung1 saam1} /cardigan; veste de laine/
+對落 对落 [dui4 luo4] {deoi3 lok6} /sous; en dessous/
+對話 对话 [dui4 hua4] {deoi3 waa6} /conversation; dialogue/
+對頭人 对头人 [dui4 tou5 ren2] {deoi3 tau4 jan4} /adversaire; concurrent; rival/
+導師 导师 [dao3 shi1] {dou6 si1} /tutor, tutrice; mentor/
+導彈 导弹 [dao3 dan4] {dou6 daan2} /missile guidé/
+小 小 [xiao3] {siu2} /petit/jeune/(euphémisme) baiser/
 小五金 小五金 [xiao3 wu3 jin1] {siu2 ng5 gam1} /ferrures/
-小人蛇 小人蛇 [xiao3 ren2 she2] {siu2 jan4 se4} /immigrants illégaux qui sont des enfants/
-小偷 小偷 [xiao3 tou1] {siu2 tau1} /voleur à la tire, pickpocket/
-小兒科 小儿科 [xiao3 er2 ke1] {siu2 ji4 fo1} /très facile, du gateau/
-小別 小别 [xiao3 bie2] {siu2 bit6} /partir un moment/
-小別勝新婚 小别胜新婚 [xiao3 bie2 sheng4 xin1 hun1] {siu2 bit6 sing3 san1 fan1} /(expr. idiom.) l'absence rend le coeur plus doux/
+????f 小人蛇 小人蛇 [xiao3 ren2 she2] {siu2 jan4 se4} /immigrants illégaux qui sont des enfants/
+小偷 小偷 [xiao3 tou1] {siu2 tau1} /voleur; cambrioleur/voleur à la tire; pickpocket/
+小兒科 小儿科 [xiao3 er2 ke1] {siu2 ji4 fo1} /très facile; du gateau/
+小別 小别 [xiao3 bie2] {siu2 bit6} /séparation temporaire (voir 小別勝新婚|小别胜新婚)/
+????f 小別勝新婚 小别胜新婚 [xiao3 bie2 sheng4 xin1 hun1] {siu2 bit6 sing3 san1 fan1} /(expr. idiom.) l'absence rend le coeur plus doux; l'éloignement renforce l'affection/
 小動作 小动作 [xiao3 dong4 zuo4] {siu2 dung6 zok3} /triche; truc; ruse; arnaque/petits mouvements/mauvaise habitude/
-小厴 小厣 [xiao3 yan3] {siu2 jim2} /partie inférieure de l'abdomen/
-小商品 小商品 [xiao3 shang1 pin3] {siu2 soeng1 ban2} /marchandises diverses/
-小喇叭 小喇叭 [xiao3 la3 ba1] {siu2 laa3 baa1} /petite trompette/(juron)/
-小器 小器 [xiao3 qi4] {siu2 hei3} /cupide/méchant/antipathique/
-小四喜 小四喜 [xiao3 si4 xi3] {siu2 sei3 hei2} /(dans un jeu de mah-jong) quatre moindres bénédictions/
-小姐 小姐 [xiao3 jie5] {siu2 ze2} /témoin/madame, mademoiselle/
-小字 小字 [xiao3 zi4] {siu2 zi6} /text en petits caractères/
+小厴 小厣 [xiao3 yan3] {siu2 jim2} /flancs, parties latérales du corps/
+????f 小商品 小商品 [xiao3 shang1 pin3] {siu2 soeng1 ban2} /petits produits; petites marchandises/
+小喇叭 小喇叭 [xiao3 la3 ba1] {siu2 laa3 baa1} /petite trompette/(gros mot, adoucissement de 屌哪媽|屌哪妈 « nique ta mère »)/
+小器 小器 [xiao3 qi4] {siu2 hei3} /avare; pingre/étroit d'esprit/
+小四喜 小四喜 [xiao3 si4 xi3] {siu2 sei3 hei2} /(mah-jong) quatre moindres bénédictions/
+小姐 小姐 [xiao3 jie5] {siu2 ze2} /madame; mademoiselle/prostituée/
+????f 小字 小字 [xiao3 zi4] {siu2 zi6} /texte en petits caractères/
 小孩 小孩 [xiao3 hai2] {siu2 haai4} /enfants/
-小學雞 小学鸡 [xiao3 xue2 ji1] {siu2 hok6 gai1} /enfants à l'école primaire/naïf/enfantin/
-小家 小家 [xiao3 jia1] {siu2 gaa1} /avare; pingre/méchant/antipathique/
-小家器 小家器 [xiao3 jia1 qi4] {siu2 gaa1 hei3} /petit appareil électroménager/
-小家子 小家子 [xiao3 jia1 zi5] {siu2 gaa1 zi2} /avare; pingre/
-小家種 小家种 [xiao3 jia1 zhong4] {siu2 gaa1 zung2} /avare; pingre/méchant/antipathique/
-小小的 小小的 [xiao3 xiao3 de5] {siu2 siu2 dik1} /petit/minuscule/trivial/
+小學雞 小学鸡 [xiao3 xue2 ji1] {siu2 hok6 gai1} /enfants à l'école primaire/enfantin; puéril/
+小家 小家 [xiao3 jia1] {siu2 gaa1} /avare; pingre/étroit d'esprit/
+????c 小家器 小家器 [xiao3 jia1 qi4] {siu2 gaa1 hei3} /petit appareil électroménager/
+小家子 小家子 [xiao3 jia1 zi5] {siu2 gaa1 zi2} /d'origines modestes/
+小家種 小家种 [xiao3 jia1 zhong4] {siu2 gaa1 zung2} /avare; pingre/étroit d'esprit/
+小小的 小小的 [xiao3 xiao3 de5] {siu2 siu2 dik1} /petit; minuscule/trivial/
 小小超 小小超 [xiao3 xiao3 chao1] {siu2 siu2 ciu1} /surnom de Richard Li Tzar-Kai, homme d'affaires et philanthrope hongkongais, fils de Li Ka-Shing/
 小山 小山 [xiao3 shan1] {siu2 saan1} /colline/
-小工 小工 [xiao3 gong1] {siu2 gung1} /main d'oevre non-qualifiée/
-小市民 小市民 [xiao3 shi4 min2] {siu2 si5 man4} /gens ordinaires, citoyens ordinaires/vulgum pecus/
-小康 小康 [xiao3kang1] {siu2 hong1} /relativement aisé, plutôt riche/
+????f 小工 小工 [xiao3 gong1] {siu2 gung1} /main-d'œuvre non-qualifiée; ouvriers non qualifiés/
+小市民 小市民 [xiao3 shi4 min2] {siu2 si5 man4} /gens ordinaires; citoyens ordinaires; vulgum pecus/
+小康 小康 [xiao3kang1] {siu2 hong1} /relativement aisé; plutôt riche/
 小引 小引 [xiao3 yin3] {siu2 jan5} /avant-propos/
-小心 小心 [xiao3 xin1] {siu2 sam1} /prudent/
+小心 小心 [xiao3 xin1] {siu2 sam1} /prudent; attentif/
 小心駛得萬年船 小心驶得万年船 [xiao3 xin5 shi3 de5 wan4 nian2 chuan2] {siu2 sam1 sai2 dak1 maan6 nin4 syun4} /(expr. idiom.) mieux vaut prévenir que guérir/(lit.) la prudence permet de manoeuvrer un navire dix mille ans/
-???? 小恩小惠 小恩小惠 [xiao3 en1 xiao3 hui4] {siu2 jan1 siu2 wai6} /Small favors for networking/
-小息 小息 [xiao3 xi2] {siu2 sik1} /se reposer un peu/
-小手 小手 [xiao3 shou3] {siu2 sau2} /voleur à la tire/
-???? 小數怕長計 小数怕长计 [xiao3 shu4 pa4 chang2 ji4] {siu2 sou3 paa3 coeng4 gai3} /chaque centime compte, il est possible d'économiser beaucoup d'argent petit à petit/chaque petit geste compte/les petites choses s'accumulent/
+????c 小恩小惠 小恩小惠 [xiao3 en1 xiao3 hui4] {siu2 jan1 siu2 wai6} /Small favors for networking/
+小息 小息 [xiao3 xi2] {siu2 sik1} /se reposer un peu/pause/récréation/
+小手 小手 [xiao3 shou3] {siu2 sau2} /pickpocket; voleur à la tire/
+????f 小數怕長計 小数怕长计 [xiao3 shu4 pa4 chang2 ji4] {siu2 sou3 paa3 coeng4 gai3} /(expr. idiom.) chaque centime compte, il est possible d'économiser beaucoup d'argent petit à petit/(expr. idiom.) les dépenses s'ajoutent au fil du temps; plusieurs petites dépenses coûteront cher/
 小明 小明 [xiao3 ming2] {siu2 ming4} /(nom d'une personne anonyme) Jean Dupont, Pierre Dupont, Marie Dupont, etc./
-小時 小时 [xiao3 shi2] {siu2 si4} /enfance/
+小時 小时 [xiao3 shi2] {siu2 si4} /heure (durée de temps)/enfance/
 小曲 小曲 [xiao3 qu3] {siu2 kuk1} /ballade/
-小月 小月 [xiao3 yue4] {siu2 jyut6} /mois comptant moins de 31 jours/fausse couche/avortement/
+????f 小月 小月 [xiao3 yue4] {siu2 jyut6} /mois comptant moins de 31 jours/fausse couche/avortement/
 小本經營 小本经营 [xiao3 ben3 jing1 ying2] {siu2 bun2 ging1 jing4} /petites entreprises/
-小業主 小业主 [xiao3 ye4 zhu3] {siu2 jip6 zyu2} /a small/ petty property owners/
-???? 小涌 小涌 [xiao3 yong3] {siu2 jung2} /Little Bay/
-小測 小测 [xiao3 ce4] {siu2 caak1} /test, interrogation/
+????f 小業主 小业主 [xiao3 ye4 zhu3] {siu2 jip6 zyu2} /propriétaire; logeur (small-scale property owner, maybe only renting out a room or a small house)/
+????c 小涌 小涌 [xiao3 yong3] {siu2 jung2} /Little Bay/
+小測 小测 [xiao3 ce4] {siu2 caak1} /test; quiz/
 小甜餅 小甜饼 [xiao3 tian2 bing3] {siu2 tim4 beng2} /biscuit/macaron/
-小生 小生 [xiao3 sheng1] {siu2 sang1} /jeunes acteurs/
-小百貨 小百货 [xiao3 bai3 huo4] {siu2 baak3 fo3} /marchandises diverses/
+小生 小生 [xiao3 sheng1] {siu2 sang1} /(opéra chinois) xiaoshang, personnage type/
+????f 小百貨 小百货 [xiao3 bai3 huo4] {siu2 baak3 fo3} /marchandises diverses; articles divers/
 小童 小童 [xiao3 tong2] {siu2 tung4} /enfant/
-小組 小组 [xiao3 zu3] {siu2 zou2} /petite équipe/
+小組 小组 [xiao3 zu3] {siu2 zou2} /petite équipe; petit groupe/
 小腸氣 小肠气 [xiao3 chang2 qi4] {siu2 coeng2 hei3} /hernie inguinale/
 小説 小说 [xiao3 shuo1] {siu2 syut3} /fiction/
-小豬 小猪 [xiao3 zhu1] {siu2 zyu1} /porcelet/petits cochons/
-小財唔出，大財唔入 小财唔出，大财唔入 [xiao3 cai2 n2 chu1 , da4 cai2 n2 ru4] {siu2 coi4 m4 ceot1 daai6 coi4 m4 jap6} /(expr. idiom.) il est impossible de devenir riche sans au moins un petit investissement/
-小販中心 小贩中心 [xiao3 fan4 zhong1 xin1] {siu2 faan2 zung1 sam1} /«hawker centre», aire de restauration en plein air/aire de restauration/
-小輪 小轮 [xiao3 lun2] {siu2 leon4} /ferry, traversiers/
+小豬 小猪 [xiao3 zhu1] {siu2 zyu1} /porcelet; cochonnet/
+小財唔出，大財唔入 小财唔出，大财唔入 [xiao3 cai2 n2 chu1 , da4 cai2 n2 ru4] {siu2 coi4 m4 ceot1 daai6 coi4 m4 jap6} /(expr. idiom.) il est impossible de devenir riche sans au moins un petit investissement; on n'a rien sans rien/
+小販中心 小贩中心 [xiao3 fan4 zhong1 xin1] {siu2 faan2 zung1 sam1} /« hawker centre », aire de restauration en plein air/aire de restauration/
+小輪 小轮 [xiao3 lun2] {siu2 leon4} /ferry; traversier/
 小轎車 小轿车 [xiao3 jiao4 che1] {siu2 giu2 ce1} /(voiture) berline/
 ???? 小造 小造 [xiao3 zao4] {siu2 zou6} /minimiser/ to have the second new year celebration in a year/
 小部 小部 [xiao3 bu4] {siu2 bou6} /radical Kangxi 42, 小/Khuddaka Nikāya, dernière partie du Sutta Piṭaka, un texte canonique du bouddhisme/
@@ -18205,6 +18206,7 @@
 誰人 谁人 [shei2 ren2] {seoi4 jan4} /qui/The Who, groupe rock britannique/
 課外活動 课外活动 [ke4 wai4 huo2 dong4] {fo3 ngoi6 wut6 dung6} /activité parascolaire/
 課文 课文 [ke4 wen2] {fo3 man4} /leçon, text (dans un manuel scolaire)/
+課間休息 课间休息 [ke4 jian1 xiu1 xi5] {fo3 gaan1 jau1 sik1} /pause/récréation/
 誼母 谊母 [yi4 mu3] {ji6 mou5} /marraine/
 誼父 谊父 [yi4 fu4] {ji6 fu6} /parrain/
 調位 调位 [diao4 wei4] {diu6 wai2} /changer de place; changer de siège/ton (d'un sinogramme)/
@@ -22611,4 +22613,5 @@
 廟號 庙号 [miao4 hao4] {miu6 hou6} /nom de temple; nom posthume donné aux souverains décédés/
 哦 哦 [o2] {o4} /d'accord; entendu; OK/
 撿破爛 捡破烂 [jian3 po4 lan4] {gim2 po3 laan6} /faire les poubelles/
+肝腸寸斷 肝肠寸断 [gan1 chang2 cun4 duan4] {gon1 coeng2 cyun3 dyun6} /(expr.) éperdu; inconsolable/(lit.) avoir le foie et les intestins brisés en petits morceaux/
 
