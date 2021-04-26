@@ -3633,7 +3633,7 @@
 右肴 右肴 [you4 yao2] {jau6 ngaau1} /droitier/
 右腦 右脑 [you4 nao3] {jau6 nou5} /hémisphère droit du cerveau/
 右軚 右軚 [you4 dai4] {jau6 taai5} /conduite à droite/
-????f 右軚車 右軚车 [you4 dai4 che1] {jau6 taai5 ce1} /voiture conçue pour la conduite à droite/
+????f 右軚車 右軚车 [you4 dai4 che1] {jau6 taai5 ce1} /voiture conçue pour la conduite à gauche; voiture avec le volant à droite/
 右面 右面 [you4 mian4] {jau6 min6} /côté droit/à droite/
 叵測 叵测 [po3 ce4] {po2 caak1} /imprévisible; insondable; incompréhensible (connotation négative)/
 叵耐 叵耐 [po3 nai4] {po2 noi6} /ne pas pouvoir supporter/
@@ -7196,58 +7196,58 @@
 ????f 川流不息 川流不息 [chuan1liu2bu4xi1] {cyun1 lau4 bat1 sik1} /(expr.) aller en un flot ininterrompu/(expr.) très fréquenté (restaurant, centre d'achat, etc.)/(lit.) comme un ruisseau qui coule sans interruption/
 ????f 州 州 [zhou1] {zau1} /préfecture; province; subdivision administrative/île dans une rivière/
 ????c 州官放火 州官放火 [zhou1 guan1 fang4 huo3] {zau1 gun1 fong3 fo2} /(expr. idiom.) dictature/
-巢𠵼𠵼 巢𠵼𠵼 [Chao2 meng4 meng4] {caau4 mang1 mang1} /ridé/froissé/fripé/
+巢𠵼𠵼 巢𠵼𠵼 [chao2 meng4 meng4] {caau4 mang1 mang1} /ridé/froissé/fripé/
 巢皮 巢皮 [chao2 pi2] {caau4 pei4} /ride; ridule/
-工 工 [gong1] {gung1} /unité de temps de travail, période de travail/
-工人房 工人房 [gong1 ren2 fang2] {gung1 jan4 fong2} /quartier des domestiques/
+????f 工 工 [gong1] {gung1} /travail/ouvrier/unité de temps de travail; période de travail/
+????c 工人房 工人房 [gong1 ren2 fang2] {gung1 jan4 fong2} /quartier des domestiques/quartier des ouvriers/
 工作小組 工作小组 [gong1 zuo4 xiao3 zu3] {gung1 zok3 siu2 zou2} /groupe de travail/
 工作證 工作证 [gong1 zuo4 zheng4] {gung1 zok3 zing3} /permis de travail/
-工商管理 工商管理 [gong1 shang1 guan3 li3] {gung1 soeng1 gun2 lei5} /direction des affaires, gestion des entreprises/
+????f 工商管理 工商管理 [gong1 shang1 guan3 li3] {gung1 soeng1 gun2 lei5} /administration des affaires; direction des affaires; gestion des enreprises/
 工場 工场 [gong1 chang3] {gung1 coeng4} /atelier/usine/
-工多藝熟 工多艺熟 [gong1 duo1 yi4 shu2] {gung1 do1 ngai6 suk6} /pratique est la mère du succès, la pratique rend parfait/
+????f 工多藝熟 工多艺熟 [gong1 duo1 yi4 shu2] {gung1 do1 ngai6 suk6} /(expr.) pratique est la mère du succès; la pratique rend parfait/
 工字形 工字形 [gong1 zi4 xing2] {gung1 zi6 jing4} /en forme de I/
-工尺 工尺 [gong1 che3] {gung1 cek3} /notation gongche, notation musicale pour opéras chinois/
-工展會 工展会 [gong1 zhan3 hui4] {gung1 zin2 wui2} /Hong Kong Brands & Products Expo, salon ou exposition de Hong Kong/
-工廠妹 工厂妹 [gong1 chang3 mei4] {gung1 cong2 mui1} /fille d'usine/
-工房 工房 [gong1 fang2] {gung1 fong4} /quarter des ouvriers/atelier/
+????f 工尺 工尺 [gong1 che3] {gung1 cek3} /notation gongche, notation musicale pour les opéras chinois/
+????c 工展會 工展会 [gong1 zhan3 hui4] {gung1 zin2 wui2} /Hong Kong Brands & Products Expo, salon de Hong Kong/
+????f 工廠妹 工厂妹 [gong1 chang3 mei4] {gung1 cong2 mui1} /ouvrière d'usine/
+工房 工房 [gong1 fang2] {gung1 fong4} /quartier des ouvriers/atelier/usine/
 工效 工效 [gong1 xiao4] {gung1 haau6} /rendement du travail/
 工業國家 工业国家 [gong1 ye4 guo2 jia1] {gung1 jip6 gwok3 gaa1} /pays développés/
-工業大廈 工业大厦 [gong1 ye4 da4 sha4] {gung1 jip6 daai6 haa6} /entreprise industrielle/
-工業行動 工业行动 [gong1 ye4 xing2 dong4] {gung1 jip6 hang4 dung6} /mesures industrielles/
+工業大廈 工业大厦 [gong1 ye4 da4 sha4] {gung1 jip6 daai6 haa6} /édifice industriel/
+????f 工業行動 工业行动 [gong1 ye4 xing2 dong4] {gung1 jip6 hang4 dung6} /mouvement industrielle; action collective industrielle (ex. grève)/
 工業邨 工业村 [gong1 ye4 cun1] {gung1 jip6 cyun1} /zone industrielle/
 工業部 工业部 [gong1 ye4 bu4] {gung1 jip6 bou6} /ministère de l'Industrie/
 工潮 工潮 [gong1 chao2] {gung1 ciu4} /grève/
-工科學生 工科学生 [gong1 ke1 xue2 sheng1] {gung1 fo1 hok6 saang1} /étudiants de l'ingénierie et technologie/
+????f 工科學生 工科学生 [gong1 ke1 xue2 sheng1] {gung1 fo1 hok6 saang1} /étudiants de l'ingénierie et technologie/
 工程公司 工程公司 [gong1 cheng2 gong1 si1] {gung1 cing4 gung1 si1} /société d'ingénierie/
-工程設計 工程设计 [gong1 cheng2 she4 ji4] {gung1 cing4 cit3 gai3} /conception technique/
-工程項目 工程项目 [gong1 cheng2 xiang4 mu4] {gung1 cing4 hong6 muk6} /projet de construction/
+????c 工程設計 工程设计 [gong1 cheng2 she4 ji4] {gung1 cing4 cit3 gai3} /conception technique/
+????c 工程項目 工程项目 [gong1 cheng2 xiang4 mu4] {gung1 cing4 hong6 muk6} /projet de construction/
 工聯會 工联会 [gong1 lian2 hui4] {gung1 lyun4 wui2} /Hong Kong Federation of Trade Unions, union syndicale de Hong Kong/
-工讀 工读 [gong1 du2] {gung1 duk6} /étudiant qui fait du travail à temps partiel/
+工讀 工读 [gong1 du2] {gung1 duk6} /étudiant qui travaille à temps partiel/
 工資 工资 [gong1 zi1] {gung1 zi1} /salaire/
 工資單 工资单 [gong1 zi1 dan1] {gung1 zi1 daan1} /bulletin de salaire; fiche de paie/
-左便 左便 [zuo3 bian4] {zo2 bin6} /côté gauche/
-左口魚 左口鱼 [zuo3 kou3 yu2] {zo2 hau2 jyu4} /flétan indien/
-左右 左右 [zuo3 you4] {zo2 jau6} /environ, à peu près/collaborateur direct/
-左右做人難 左右做人难 [zuo3 you4 zuo4 ren2 nan2] {zo2 jau6 zou6 jan4 naan4} /entre le marteau et l'enclume/
-左右為難 左右为难 [zuo3 you4 wei2 nan2] {zo2 jau6 wai4 naan4} /entre le marteau et l'enclume/
+左便 左便 [zuo3 bian4] {zo2 bin6} /côté gauche/à gauche/
+左口魚 左口鱼 [zuo3 kou3 yu2] {zo2 hau2 jyu4} /(genre de poissons) Pleuronectiformes/flétan indien/
+左右 左右 [zuo3 you4] {zo2 jau6} /environ; à peu près/
+左右做人難 左右做人难 [zuo3 you4 zuo4 ren2 nan2] {zo2 jau6 zou6 jan4 naan4} /(expr. idiom.) entre le marteau et l'enclume/(lit.) avoir des difficultés à gauche et à droite/
+左右為難 左右为难 [zuo3 you4 wei2 nan2] {zo2 jau6 wai4 naan4} /(expr. idiom.) entre le marteau et l'enclume/(lit.) avoir des difficultés à gauche et à droite/
 左㕭 左㕭 [zuo3 ao4] {zo2 jaau1} /gaucher/
 左𠰋 左𠰋 [Zuo3 qiu1] {zo2 jaau1} /gaucher/
 左手便 左手便 [zuo3 shou3 bian4] {zo2 sau2 bin6} /à gauche/
-左手嚟，右手去 左手嚟，右手去 [zuo3 shou3 li2 , you4 shou3 qu4] {zo2 sau2 lei4 jau6 sau2 heoi3} /(expr. idiom.) gaspiller son argent juste après l'avoir gagné/(lit.) qui vient de la main gauche et sort de la main droite/
-左搖右擺 左摇右摆 [zuo3 yao2 you4 bai3] {zo2 jiu4 jau6 baai2} /instable, se balancer, osciller/
+????f 左手嚟，右手去 左手嚟，右手去 [zuo3 shou3 li2 , you4 shou3 qu4] {zo2 sau2 lei4 jau6 sau2 heoi3} /(expr. idiom.) gaspiller son argent juste après l'avoir gagné; jeter l'argent par les fenêtres/(lit.) qui entre de la main gauche et sort de la main droite/
+????f 左搖右擺 左摇右摆 [zuo3 yao2 you4 bai3] {zo2 jiu4 jau6 baai2} /se balancer; osciller/
 左撓 左挠 [zuo3 nao2] {zo2 jaau1} /gaucher/
-左耳入右耳出 左耳入右耳出 [zuo3 er3 ru4 , you4 er3 chu1] {zo2 ji5 jap6 jau6 ji5 ceot1} /rentrer par une oreille et ressortir par l'autre/
-左行 左行 [zuo3 xing2] {zo2 haang1} /conduire à gauche/marcher à gauche/
-左證 左证 [zuo3 zheng4] {zo2 zing3} /témoin/preuve/
-左軚 左軚 [zuo3 dai4] {zo2 taai5} /conduire à gauche/
-左軚車 左軚车 [zuo3 dai4 che1] {zo2 taai5 ce1} /voiture conçue pour les pays ou l'on roule à gauche/
-左輔右弼 左辅右弼 [zuo3 fu3 you4 bi4] {zo2 fu6 jau6 bat6} /servir d'aide/
-左輪 左轮 [zuo3 lun2] {zo2 leon4} /revolver/
-左近 左近 [zuo3 jin4] {zo2 gan6} /aux environs de, près de, proche/
-左遷 左迁 [zuo3 qian1] {zo2 cin1} /rétrograder, reléguer/mettre au côté gauche/
-巧取豪奪 巧取豪夺 [qiao3 qu3 hao2 duo2] {haau2 ceoi2 hou4 dyut6} /(arch.) méthodes utilisées par persones riche pour escroquer les pauvres de leur argent/
-巧奪天工 巧夺天工 [qiao3 duo2 tian1 gong1] {haau2 dyut6 tin1 gung1} /savoir-faire d'excellence, artisanat splendide/
-巧妙 巧妙 [qiao3 miao4] {haau2 miu6} /ingénieux, astucieux/
+左耳入右耳出 左耳入右耳出 [zuo3 er3 ru4 , you4 er3 chu1] {zo2 ji5 jap6 jau6 ji5 ceot1} /(expr. idiom.) rentrer par une oreille et ressortir par l'autre/
+????f 左行 左行 [zuo3 xing2] {zo2 haang1} /conduire à gauche/marcher à gauche/(langue) qui s'écrit et se lit de gauche à droite/
+左證 左证 [zuo3 zheng4] {zo2 zing3} /preuve/
+????f 左軚 左軚 [zuo3 dai4] {zo2 taai5} /(voiture) avec le volant à gauche/
+????f 左軚車 左軚车 [zuo3 dai4 che1] {zo2 taai5 ce1} /voiture conçue pour les pays ou l'on roule à droite; voiture avec le volant à gauche/
+????c 左輔右弼 左辅右弼 [zuo3 fu3 you4 bi4] {zo2 fu6 jau6 bat6} /servir d'aide/
+左輪 左轮 [zuo3 lun2] {zo2 leon2} /revolver/
+左近 左近 [zuo3 jin4] {zo2 gan6} /aux environs de; près de; proche/
+左遷 左迁 [zuo3 qian1] {zo2 cin1} /(emploi) rétrograder/
+????f 巧取豪奪 巧取豪夺 [qiao3 qu3 hao2 duo2] {haau2 ceoi2 hou4 dyut6} /(expr. idiom.) méthodes utilisées par des personnes riches pour extorquer de l'argent aux pauvres/
+????f 巧奪天工 巧夺天工 [qiao3 duo2 tian1 gong1] {haau2 dyut6 tin1 gung1} /(expr.) artisanat splendide (magnificent worksmanship, splendid craftsmanship)/
+巧妙 巧妙 [qiao3 miao4] {haau2 miu6} /ingénieux; astucieux/
 巧言令色 巧言令色 [qiao3 yan2 ling4 se4] {haau2 jin4 ling6 sik1} /flatteries/
 巧遇 巧遇 [qiao3 yu4] {haau2 jyu6} /rencontrer par hasard, croiser, tomber sur/
 巧言令色 巧言令色 [qiao3 yan2 ling4 se4] {haau2 jin4 ling6 sik1} /(expr. idiom.) baratin et air flatteur/
