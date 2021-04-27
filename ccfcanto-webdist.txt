@@ -2551,10 +2551,10 @@
 冧歌 冧歌 [lin1 ge1] {lam1 go1} /chanson d'amour; chanson sentimentale/
 冧篷頭 冧篷头 [lin1 peng2 tou2] {lam1 pung4 tau4} /radical Kangxi 40 « 冖 »/
 冧酒 冧酒 [lin1 jiu3] {lam1 zau2} /rhum/(orig.) de l'anglais « rum » (« rhum »)/
-????c 冬大過年 冬大过年 [dong1 da4 guo4 nian5] {dung1 daai6 gwo3 nin4} /le solstice d'hiver est plus important que le Nouvel An chinois/
+????f 冬大過年 冬大过年 [dong1 da4 guo4 nian5] {dung1 daai6 gwo3 nin4} /le solstice d'hiver est plus important que le Nouvel An chinois/
 冬季 冬季 [dong1 ji4] {dung1 gwai3} /saison d'hiver/
 冬小麥 冬小麦 [dong1 xiao3 mai4] {dung1 siu2 mak6} /blé d'hiver/
-????c 冬瓜盅 冬瓜盅 [dong1 gua1 zhong1] {dung1 gwaa1 zung1} /soupe de courge cireuse servie dans une bouilloire/
+????f 冬瓜盅 冬瓜盅 [dong1 gua1 zhong1] {dung1 gwaa1 zung1} /soupe de courge cireuse servie dans une bouilloire (served in the vegetable, see pictures online)/
 冬瓜豆腐 冬瓜豆腐 [dong1 gua1 dou4 fu5] {dung1 gwaa1 dau6 fu6} /(expr. idiom.) malheur; mort (voir aussi 有乜冬瓜豆腐|有乜冬瓜豆腐)/(lit.) tofu de courge cireuse/
 冬甩 冬甩 [dong1 shuai3] {dung1 lat1} /beignet/
 冬菇 冬菇 [dong1 gu1] {dung1 gu1} /champignons séchés/
@@ -2566,12 +2566,12 @@
 冰格 冰格 [bing1 ge2] {bing1 gaak3} /bac à glaçons/congélateur; partie du réfrigérateur qui congèle/
 冰片糖 冰片糖 [bing1 pian4 tang2] {bing1 pin3 tong4} /vergeoise ou cassonnade chinoise en couches/
 冰糖 冰糖 [bing1 tang2] {bing1 tong4} /sucre candi/
-????c 冰魂雪魄 冰魂雪魄 [bing1 hun2 xue3 po4] {bing1 wan4 syut3 paak3} /incorruptible, quelqu'un qu'on ne peut pas acheter/
+????c 冰魂雪魄 冰魂雪魄 [bing1 hun2 xue3 po4] {bing1 wan4 syut3 paak3} /incorruptible; quelqu'un qu'on ne peut pas acheter/
 冶金工業 冶金工业 [ye3 jin1 gong1 ye4] {je5 gam1 gung1 jip6} /industrie métallurgique; secteur de métallurgie/
 冷 冷 [leng3] {laang1} /fil; laine/
 冷卻器 冷却器 [leng3 que4 qi4] {laang5 koek3 hei3} /glacière/
 冷嚫 冷嚫 [leng3 chen4] {laang5 can3} /s'enrhumer; prendre foid; attraper un rhume/
-????c 冷宮 冷宫 [leng3 gong1] {laang5 gung1} /(fig.) palais où un empereur met ses impératrices ou concubines non désirées/(lit.) palais froid/
+????f 冷宮 冷宫 [leng3 gong1] {laang5 gung1} /(fig.) palais où un empereur met ses impératrices ou concubines non désirées/(lit.) palais froid/
 冷巷 冷巷 [leng3 xiang4] {laang5 hong2} /ruelle/couloir; corridor/
 冷帽 冷帽 [leng3 mao4] {laang1 mou2} /tuque; bonnet de laine/
 冷待 冷待 [leng3 dai4] {laang5 doi6} /être froid avec quelqu'un; bouder quelqu'un; être en froid avec quelqu'un/
@@ -2588,7 +2588,7 @@
 冷飯菜汁 冷饭菜汁 [leng3 fan4 cai4 zhi1] {laang5 faan6 coi3 zap1} /restant (d'un repas)/(lit.) riz froid et jus de légumes/
 凈係 净系 [jing4 xi4] {zing6 hai6} /juste; seulement/
 凌厲 凌厉 [ling2 li4] {ling4 lai6} /rapide et violent/
-????c 凌駕於 凌驾于 [ling2 jia4 yu2] {ling4 gaa3 jyu1} /surpasser; surclasser/
+凌駕於 凌驾于 [ling2 jia4 yu2] {ling4 gaa3 jyu1} /surpasser; surclasser/
 凍 冻 [dong4] {dung3} /froid/(boisson) glacé/
 凍冰冰 冻冰冰 [dong4 bing1 bing1] {dung3 bing1 bing1} /glacial; très froid/
 凍啡 冻啡 [dong4 fei1] {dung3 fei1} /café glacé/
@@ -2615,7 +2615,7 @@
 凹位 凹位 [ao1 wei4] {nap1 wai2} /sillon/
 ????f 凹凸印 凹凸印 [ao1 tu1 yin4] {nap1 dat6 jan3} /embossage; mise en relief/
 凹凹凸凸 凹凹凸凸 [ao1 ao1 tu1 tu1] {nap1 nap1 dat6 dat6} /bosselé; irregulier; accidenté/
-????c 凹處 凹处 [ao1 chu4] {nap1 cyu3} /alcôve/
+????f 凹處 凹处 [ao1 chu4] {nap1 cyu3} /enfoncement (dent)/
 出 出 [chu1] {ceot1} /sortir/dehors/payer/
 出世紙 出世纸 [chu1 shi4 zhi3] {ceot1 sai3 zi2} /certificat de naissance/
 出主意 出主意 [chu1 zhu3 yi5] {ceot1 zyu2 ji3} /présenter une idée/
@@ -2626,13 +2626,13 @@
 出入 出入 [chu1 ru4] {ceot1 jap6} /différence; discordance; désaccord; divergence/entrer et sortir/
 出入口 出入口 [chu1ru4kou3] {ceot1 jap6 hau2} /importation et exportation/
 出入境 出入境 [chu1 ru4 jing4] {ceot1 jap6 ging2} /passer par la douane/
-????c 出入證 出入证 [chu1 ru4 zheng4] {ceot1 jap6 zing3} /visa d'entrée, document d'entrée (visa, or any kind of pass that allows entry and exit?)/
+????f 出入證 出入证 [chu1 ru4 zheng4] {ceot1 jap6 zing3} /badge d'employé; badge permettant d'entrer ou sortir d'un lieu/
 ????f 出公數 出公数 [chu1 gong1 shu4] {ceot1 gung1 sou3} /to expense; to claim (to make a company or workplace pay for somehting rather than yourself, verb)/
 出冊 出册 [chu1 ce4] {ceot1 caak3} /libérer; relâcher (un prisonnier)/
 出出入入 出出入入 [chu1 chu1 ru4 ru4] {ceot1 ceot1 jap6 jap6} /entrer et sortir/
 出前一丁 出前一丁 [chu1 qian2 yi4 ding1] {ceot1 cin4 jat1 ding1} /Demae Ramen, une marque de nouilles instantanées japonaise/
 出力 出力 [chu1 li4] {ceot1 lik6} /faire des efforts/
-????c 出勤率 出勤率 [chu1 qin2 lu:4] {ceot1 kan4 leot6} /taux de fréquentation/
+????f 出勤率 出勤率 [chu1 qin2 lu:4] {ceot1 kan4 leot2} /(attendance rate, for a school, work, churche, etc.)/
 出千 出千 [chu1 qian1] {ceot1 cin1} /(jeux d'argent) tricher; escroquer; arnaquer/
 出去 出去 [chu1 qu4] {ceot1 heoi3} /sortir; partir/
 出名 出名 [chu1 ming2] {ceot1 meng2} /célèbre; connu/
@@ -2646,7 +2646,7 @@
 出埠 出埠 [chu1 bu4] {ceot1 au6} /aller à l'étranger/
 出夜街 出夜街 [chu1 ye4 jie1] {ceot1 je6 gaai1} /sortir la nuit/
 ????c 出將入相 出将入相 [chu1 jiang4 ru4 xiang4] {ceot1 zoeng3 jap6 soeng3} /qui commande le militaire et gère le service civil au même temps (actually? or just a figure of speech? or having the ability to do it?)/
-????c 出山 出山 [chu1 shan1] {ceot1 saan1} /assumer un rôle important/
+????f 出山 出山 [chu1 shan1] {ceot1 saan1} /assumer un rôle important (of a master: to take on an important role, to help out)/
 出工 出工 [chu1 gong1] {ceot1 gung1} /se rendre au travail; aller travailler/
 ????f 出師表 出师表 [chu1 shi1 biao3] {ceot1 si1 biu2} /lettre écrite par Zhuge Liang (premier ministre du royaume Shu) destiné à Liu Chan (roi du royaume Shu) juste avant l'invasion du royaume Wei, lettre couramment utilisée comme matériel pédagogique/
 出年 出年 [chu1 nian2] {ceot1 nin2} /l'an prochain; l'année à venir/
@@ -2660,8 +2660,8 @@
 出水 出水 [chu1 shui3] {ceot1 seoi2} /(cuisine) blanchir/
 出水紙 出水纸 [chu1 shui3 zhi3] {ceot1 seoi2 zi2} /connaissement, le document matérialisant le contrat de transport maritime conclu entre le chargeur et le transporteur maritime/
 出汁 出汁 [chu1 zhi1] {ceot1 zap1} /très; extrêmement (voir 到出汁|到出汁)/
-????c 出污泥而不染 出污泥而不染 [chu1 wu1 ni2 er2 bu4 ran3] {ceot1 wu1 nai4 ji4 bat1 jim5} /(expr. idiom.) sortir indemne de la crasse; sortir d'une mauvaise situation sans être affectée/(expr. idiom.) rester intègre dans un environneent de corruption généralisée/(lit.) sortir de la terre sale sans avoir aucune tache/
-????c 出沒 出没 [chu1 mo4] {ceot1 mut6} /traîner; errer/
+????f 出污泥而不染 出污泥而不染 [chu1 wu1 ni2 er2 bu4 ran3] {ceot1 wu1 nai4 ji4 bat1 jim5} /(expr. idiom.) rester intègre dans un environneent de corruption généralisée/(lit.) sortir de la terre sale sans avoir aucune tache/
+????f 出沒 出没 [chu1 mo4] {ceot1 mut6} /traîner; errer/
 ????f 出沖 出冲 [chu1 chong1] {ceot1 cung1} /(mah-jong) jeter une tuile qui permet un adversaire de gagner une partie de mah-jong (voir aussi 出銃|出铳)/
 出火 出火 [chu1 huo3] {ceot1 fo2} /(fig.) (vulg.) éjaculer/(lit.) sortir du feu/
 出爾反爾 出尔反尔 [chu1 er3 fan3 er3] {ceot1 ji5 faan2 ji5} /(expr. idiom.) revenir sur sa parole; ne pas tenir sa promesse/
@@ -2687,21 +2687,21 @@
 ????f 出銃 出铳 [chu1 chong4] {ceot1 cung3} /(mah-jong) jeter une tuile qui permet un adversaire de gagner une partie de mah-jong (voir aussi 出沖|出冲)/
 ????f 出雙入對 出双入对 [chu1 shuang1 ru4 dui4] {ceot1 soeng1 jap6 deoi3} /(expr.) deux personnes qui sont toujours ensemble en public/
 出面 出面 [chu1 mian4] {ceot1 min6} /dehors/
-????c 出頭 出头 [chu1 tou2] {ceot1 tau4} /se libérer/avoir du succès; réussir; atteindre un but/prendre la défense de quelqu'un d'autre (?)/
-????c 出頭露面 出头露面 [chu1 tou2 lu4 mian4] {ceot1 tau4 lou6 min6} /paraître en public; être sous le feu des projecteurs/
+????f 出頭 出头 [chu1 tou2] {ceot1 tau4} /se libérer/avoir du succès; réussir; atteindre un but/prendre la défense de quelqu'un d'autre/
+????f 出頭露面 出头露面 [chu1 tou2 lu4 mian4] {ceot1 tau4 lou6 min6} /paraître en public; être sous le feu des projecteurs (voir aussi 拋頭露面|抛头露面)/
 出風頭 出风头 [chu1 feng1 tou5] {ceot1 fung1 tau4} /se mettre en avant; vouloir épater la galerie; se la jouer/
-????c 出馬 出马 [chu1 ma3] {ceot1 maa5} /participer; s'engager; s'impliquer/
+????f 出馬 出马 [chu1 ma3] {ceot1 maa5} /participer; s'engager; s'impliquer (to get involved)/
 ????f 出騷 出骚 [chu1 sao1] {ceot1 sou1} /monter un spectacle; jouer dans un spectacle/(orig.) de l'anglais « show », signifiant «spectacle», donc « sortir un spectacle »/
 出麻 出麻 [chu1 ma2] {ceot1 maa4} /avoir la rougeole/
 刀仔 刀仔 [dao1 zi3] {dou1 zai2} /petit couteau/
 ????f 刀仔鋸大樹 刀仔锯大树 [dao1 zi3 ju4 da4 shu4] {dou1 zai2 goe3 daai6 syu6} /(expr. idiom.) faire beaucoup de profits avec un petit investissement/(lit.) un petit couteau coupe un grand arbre/
-????c 刀光劍影 刀光剑影 [dao1 guang1 jian4 ying3] {dou1 gwong1 gim3 jing2} /(expr. idiom.) situation dangereuse; violente/(lit.) des reflets de lumière sur les couteaux et épées/
+????f 刀光劍影 刀光剑影 [dao1 guang1 jian4 ying3] {dou1 gwong1 gim3 jing2} /(expr. idiom.) situation dangereuse; violente/(expr. idiom.) situation intense; dispute animée/(lit.) des reflets de lumière sur les couteaux et épées/
 刀兵 刀兵 [dao1 bing1] {dou1 bing1} /armes/guerre/
 刀字邊 刀字边 [dao1 zi4 bian1] {dou1 zi6 bin1} /radical « couteau », 刀/
 刀柄 刀柄 [dao1 bing3] {dou1 beng3} /manche du couteau/poignée d'une épée/
 刁 刁 [diao1] {diu1} /(nourriture) fine bouche; difficile (voir aussi 刁喬扭擰|刁乔扭拧)/
-????c 刁僑扭擰 刁侨扭拧 [diao1 qiao2 niu3 ning2] {diu1 kiu4 nau2 ning6} /(expr.) hésiter entre deux choix/
-????c 刁喬扭擰 刁乔扭拧 [diao1 qiao2 niu3 ning2] {diu1 kiu4 nau2 ning6} /(expr.) hésiter entre deux choix/
+????c 刁僑扭擰 刁侨扭拧 [diao1 qiao2 niu3 ning2] {diu1 kiu4 nau2 ning6} /(expr.) hésiter entre deux choix/(expr. idiom.) ne pas vouloir faire quelque chose/
+????c 刁喬扭擰 刁乔扭拧 [diao1 qiao2 niu3 ning2] {diu1 kiu4 nau2 ning6} /(expr.) hésiter entre deux choix/(expr. idiom.) ne pas vouloir faire quelque chose/
 刁士 刁士 [diao1 shi4] {diu1 si6} /(tennis) égalité/(orig.) de l'anglais « deuce » (« égalité (tennis) »)/
 刁時 刁时 [diao1 shi2] {diu1 si4} /(tennis) égalité/(orig.) de l'anglais « deuce » (« égalité (tennis) »)/
 刁蠻 刁蛮 [diao1 man2] {diu1 maan4} /(femme ou enfant) autoritaire; obstiné/
@@ -2712,12 +2712,12 @@
 分得出 分得出 [fen1 de5 chu1] {fan1 dak1 ceot1} /qui peut être distingué/
 分我杯羹 分我杯羹 [fen1 wo3 bei1 geng1] {fan1 ngo5 bui1 gang1} /(expr. idiom.) partage de bénifices/(lit.) partager mon verre et ma cuillère/
 分散 分散 [fen1 san4] {fan1 saan2} /distraire/disperser; séparer; décentraliser/
-????c 分數 分数 [fen1 shu4] {fan1 sou3} /capable (?)/prévu, planifié (?)/plan; stratégie (?)/
+????f 分數 分数 [fen1 shu4] {fan1 sou3} /capable de gérer quelque chose (ex. I can handle it)/
 分數 分数 [fen1 shu4] {fan6 sou3} /(mathématiques) fraction/
 ????f 分甘同味 分甘同味 [fen1 gan1 tong2 wei4] {fan1 gam1 tung4 mei6} /partager le bonheur et les bonnes choses/
 分粉訓墳憤份 分粉训坟愤份 [fen1 fen3 xun4 fen2 fen4 fen4] {fan1 fan2 fan3 fan4 fan5 fan6} /(une expression qui démontre les six tons de cantonais)/
 分粉訓墳憤份忽發佛 分粉训坟愤份忽发佛 [fen1 fen3 xun4 fen2 fen4 fen4 hu1 fa1 fo2] {fan1 fan2 fan3 fan4 fan5 fan6 fat1 faat3 fat6} /(une expression qui démontre les neuf tons de cantonais)/
-????c 分線 分线 [fen1 xian4] {fan1 sin3} /bifurcation/
+分線 分线 [fen1 xian4] {fan1 sin3} /ligne de séparation/
 ????f 分豬肉 分猪肉 [fen1 zhu1 rou4] {fan1 zyu1 juk6} /(expr. idiom.) tout le monde reçoit un prix; chaque participant reçoit un prix, peu importe sa performance/(lit.) répartir le porc/
 分身乏術 分身乏术 [fen1 shen1 fa2 shu4] {fan1 san1 fat6 seot6} /(expr. idiom.) être très occupé avec le travail/
 分門別類 分门别类 [fen1 men2 bie2 lei4] {fan1 mun4 bit6 leoi6} /catégoriser; classifier/
@@ -2732,19 +2732,19 @@
 切勿 切勿 [qie4 wu4] {cit3 mat6} /(soutenu) ne pas/
 ????c 切奶 切奶 [qie4 nai3] {cit3 naai5} /forme de danse thaïlandaise/
 切絲 切丝 [qie1 si1] {cit3 si1} /couper en lanières/
-????c 切肉不離皮 切肉不离皮 [qie1 rou4 bu4 li2 pi2] {cit3 juk6 bat1 lei4 pei4} /(expr. idiom.) inséparable/(lit.) ne pas pouvoir séparer la peau de la viande/
+????f 切肉不離皮 切肉不离皮 [qie1 rou4 bu4 li2 pi2] {cit3 juk6 bat1 lei4 pei4} /(expr. idiom.) (personnes, famille) inséparable; qui se disputent mais sont très proches/(lit.) ne pas pouvoir séparer la peau de la viande/
 切菜 切菜 [qie1 cai4] {cit3 coi3} /couper les légumes/
 ????f 切身利益 切身利益 [qie4 shen1 li4 yi4] {cit3 san1 lei6 jik1} /interêt personnel; intérêt dans quelque chose qui affecte quelqu'un directement/
 ????f 切醋 切醋 [qie4 cu4] {cit3 cou3} /vinaigre rouge foncé chinois, originalement de la province de Zhejiang/
 切開 切开 [qie1 kai1] {cit3 hoi1} /couper; trancher; séparer quelque chose d'une autre/
-????c 切餸 切餸 [qie4 song4] {cit3 sung3} /couper les légumes (only vegetables, or could this be any kind of side food?)/
+切餸 切餸 [qie4 song4] {cit3 sung3} /couper les légumes; couper la viande/
 ????c 刉 刉 [ji1] {gei1} /couper/
-刑事 刑事 [xing2shi4] {jing4 si6} /criminel; pénal/
+刑事 刑事 [xing2 shi4] {jing4 si6} /criminel; pénal/
 ????f 刖刑 刖刑 [yue4 xing2] {jyut6 jing4} /châtiment de la Chine antique: couper les jambes de quelqu'un/
 列 列 [lie4] {lit6} /énumérer; lister/afficher; montrer/(classificateur pour les trains)/
 列斯 列斯 [lie4 Si1] {lit6 si1} /Leeds United Association Football Club/
 列祖列宗 列祖列宗 [lie4 zu3 lie4 zong1] {lit6 zou2 lit6 zung1} /ancêtres/
-????c 初一流流 初一流流 [chu1 yi1 liu2 liu2] {co1 jat1 lau4 lau4} /bonheur des fêtes du Nouvel An/
+????f 初一流流 初一流流 [chu1 yi1 liu2 liu2] {co1 jat1 lau4 lau4} /« bonheur des fêtes du Nouvel An » (suivi d'une remontrance de ne pas faire quelque chose de peu propice le jour du Nouvel An)/
 初不初 初不初 [chu1 bu4 chu1] {co1 bat1 co1} /au début/
 ????f 初交 初交 [chu1 jiao1] {co1 gaau1} /nouvelle connaissance; nouvelle rencontre/
 初初 初初 [chu1 chu1] {co1 co1} /au début/
@@ -10218,7 +10218,7 @@
 新屎坑 新屎坑 [xin1 shi3 keng1] {san1 si2 haang1} /(fig.) (vulg.) effet de mode, engouement passager/(lit.) nouvelle toilette/
 新巴 新巴 [Xin1 ba1] {san1 baa1} /New World First Bus Services Limited, société de transports en commun à Hong Kong/
 新年 新年 [xin1 nian2] {san1 nin4} /Nouvel An chinois/
-新年流流 新年流流 [xin1 nian2 liu2 liu2] {san1 nin4 lau4 lau4} /début du Nouvel An chinois/
+新年流流 新年流流 [xin1 nian2 liu2 liu2] {san1 nin4 lau4 lau4} /« bonheur des fêtes du Nouvel An » (suivi d'une remontrance de ne pas faire quelque chose de peu propice le jour du Nouvel An)/
 新年頭 新年头 [xin1 nian2 tou2] {san1 nin4 tau4} /début du Nouvel An chinois/
 新意思 新意思 [xin1 yi4 si5] {san1 ji3 si1} /nouvelle idée/nouvelle signification/
 新手 新手 [xin1 shou3] {san1 sau2} /nouvelle recrue, blanc-bec, débutant, néophyte, novice/
