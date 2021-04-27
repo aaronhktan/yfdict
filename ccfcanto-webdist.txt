@@ -7498,31 +7498,31 @@
 底細 底细 [di3 xi4] {dai2 sai3} /détails; informations confidentielles/
 ????f 底衫 底衫 [di3 shan1] {dai2 saam1} /maillot de corps; tricot de peau/
 底衫褲 底衫裤 [di3 shan1 ku4] {dai2 saam1 fu3} /sous-vêtements/
-底裙 底裙 [di3 qun2] {dai2 kwan4} /jupon/
-底褲 底裤 [di3 ku4] {dai2 fu3} /sous-vêtements/collants/caleçons/
-庖代 庖代 [pao2 dai4] {paau4 doi6} /remplacer (quelqu'un)/exercer les fonctions pour autrui/faire plus que ce qui est demandé/
+底裙 底裙 [di3 qun2] {dai2 kwan4} /(habillement) combinaison/
+底褲 底裤 [di3 ku4] {dai2 fu3} /sous-vêtement/caleçon; boxer/slip; culotte/
+????f 庖代 庖代 [pao2 dai4] {paau4 doi6} /remplacer (quelqu'un); exercer les fonctions d'autrui/
 店小二 店小二 [dian4 xiao3 er4] {dim3 siu2 ji2} /serveur (de restaurant)/
-店舖 店舖 [dian4 pu4] {dim3 pou3} /magasin/
-度 度 [du4] {dok6} /système/demander de l'argent de quelqu'un/
-度 度 [du4] {dou6} /où/là/là-bas/ici/degré/
-度假屋 度假屋 [du4 jia4 wu1] {dou6 gaa3 uk1} /villa, hôtel/
-度假村 度假村 [du4 jia4 cun1] {dou6 gaa3 cyun1} /centre de villégiature, village de vacances/
-度叔 度叔 [du4 shu1] {dok6 suk1} /cupide/
-度度 度度 [du4 du4] {dou6 dou6} /partout/n'import où/
-度德量力 度德量力 [duo2 de2 liang4 li4] {dok6 dak1 loeng6 lik6} /tenir compte de ses capacités pour décider si on est le candidat mieux adapté au poste/analyser sa force morale et intégrité/
-度橋 度桥 [du4 qiao2] {dok6 kiu4} /conspirer/préparer, planifier/
-度水 度水 [du4 shui3] {dok6 seoi2} /emprunter de l'argent/demander un prêt/demander de l'argent/
-度竅 度窍 [du4 qiao4] {dok6 kiu2} /penser aux idées/trouver une solution/
-度縮 度缩 [du4 suo1] {dok6 suk1} /cupide/
-度蜜月 度蜜月 [du4 mi4 yue4] {dou6 mat6 jyut6} /aller en lune de miel/
-度街 度街 [du4 jie1] {dou6 gaai1} /marcher dans la rue, passer devant des magasins/faire du lèche-vitrine/
-度身 度身 [du4 shen1] {dok6 san1} /(vêtements) sur mesure/
-度身訂做 度身定做 [du4 shen1 ding4 zuo4] {dok6 san1 deng6 zou6} /(vêtements) sur mesure/
-度身訂造 度身订造 [du4 shen1 ding4 zao4] {dok6 san1 deng6 zou6} /(vêtements) sur mesure/
-座地燈 座地灯 [zuo4 di4 deng1] {zo6 dei6 dang1} /lampadaire, lampe sur pied/
-座次 座次 [zuo4 ci4] {zo6 ci3} /ordre des sièges, plan de table, attribution des places/
-座火 座火 [zuo4 huo3] {zo6 fo2} /résistant au feu, ignifuge/
-座談 座谈 [zuo4 tan2] {zo6 taam4} /conférence/
+店舖 店舖 [dian4 pu4] {dim3 pou3} /magasin; boutique/
+度 度 [du4] {dok6} /système/emprunter (de l'argent)/
+度 度 [du4] {dou6} /où/là/là-bas/ici/degré/passer (son temps)/
+????f 度假屋 度假屋 [du4 jia4 wu1] {dou6 gaa3 uk1} /hôtel; appartement de vacances/
+度假村 度假村 [du4 jia4 cun1] {dou6 gaa3 cyun1} /centre de villégiature; village de vacances/
+度叔 度叔 [du4 shu1] {dok6 suk1} /avare; pingre; grippe-sou/
+度度 度度 [du4 du4] {dou6 dou6} /partout; n'import où/
+????f 度德量力 度德量力 [duo2 de2 liang4 li4] {dok6 dak1 loeng6 lik6} /(expr.) faire une estimation de ses capacités pour décider si on est le candidat mieux adapté au poste/(expr.) analyser sa force morale et intégrité/
+度橋 度桥 [du4 qiao2] {dok6 kiu2} /trouver une solution/planifier/
+度水 度水 [du4 shui3] {dok6 seoi2} /emprunter de l'argent/
+度竅 度窍 [du4 qiao4] {dok6 kiu2} /trouver une solution/
+度縮 度缩 [du4 suo1] {dok6 suk1} /avare; pingre; grippe-sou/
+度蜜月 度蜜月 [du4 mi4 yue4] {dou6 mat6 jyut6} /passer sa lune de miel/
+度街 度街 [du4 jie1] {dou6 gaai1} /marcher dans la rue; flâner dans la rue/faire du lèche-vitrine/
+度身 度身 [du4 shen1] {dok6 san1} /(vêtements) fait sur mesure/
+度身訂做 度身定做 [du4 shen1 ding4 zuo4] {dok6 san1 deng6 zou6} /(vêtements) fait sur mesure/
+度身訂造 度身订造 [du4 shen1 ding4 zao4] {dok6 san1 deng6 zou6} /(vêtements) fait sur mesure/
+座地燈 座地灯 [zuo4 di4 deng1] {zo6 dei6 dang1} /lampadaire; lampe sur pied/
+座次 座次 [zuo4 ci4] {zo6 ci3} /plan de table/
+座火 座火 [zuo4 huo3] {zo6 fo2} /résistant au feu; ignifuge/
+座談 座谈 [zuo4 tan2] {zo6 taam4} /avoir une discussion informelle/discussion informelle/
 座駕 座驾 [zuo4 jia4] {zo6 gaa3} /véhicule privé/
 座騎 座骑 [zuo4 qi2] {zo6 ke4} /moyens de transport (en particulier, des voitures ou les chevaux)/
 庪 庪 [gui3] {gei2} /garder/étagère de rangement/
