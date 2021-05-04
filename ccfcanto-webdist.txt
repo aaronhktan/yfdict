@@ -1109,7 +1109,7 @@
 交吉 交吉 [jiao1 ji2] {gaau1 gat1} /libre possession; vendre une maison inhabitée/(orig.) 空 signifiait « inoccupé » (donc, donner un immeuble inoccupé), mais est prononcé comme 凶 « diabolique, malheureux », donc on l'a remplacé par l'antonyme, 吉, « chanceux, heureux »/(lit.) livrer la fortune/
 交回 交回 [jiao1 hui2] {gaau1 wui4} /rendre; remettre; retourner (quelque chose à quelqu'un)/
 交學費 交学费 [jiao1 xue2 fei4] {gaau1 hok6 fai3} /payer des frais de scolarité/
-交帶 交带 [jiao1 dai4] {gaau1 daai3} /ordonner/responsable/rendre; remettre; retourner (quelque chose à quelqu'un)/
+????f 交帶 交带 [jiao1 dai4] {gaau1 daai3} /ordonner; donner des ordres/responsable/sens des responsabilités/passer le baton (to pass on or turn over work to somebodye else)/
 交心 交心 [jiao1 xin1] {gaau1 sam1} /se confier (à quelqu'un); parler à cœur ouvert; se vider le cœur/
 交投 交投 [jiao1 tou2] {gaau1 tau4} /transaction boursière/
 交換生 交换生 [jiao1 huan4 sheng1] {gaau1 wun6 sang1} /étudiant étranger, étudiante étrangère/
@@ -7998,56 +7998,56 @@
 急於 急于 [ji2 yu2] {gap1 jyu1} /avoir hâte de; être impatient de/
 急時抱佛腳 急时抱佛脚 [ji2 shi2 bao4 fo2 jiao3] {gap1 si4 pou5 fat6 goek3} /(expr. idiom.) remettre à plus tard; procrastiner/(lit.) en temps d'urgence, serrer les pieds de Bouddha/
 ????f 急流勇退 急流勇退 [ji2 liu2 yong3 tui4] {gap1 lau4 jung5 teoi3} /(expr.) prendre sa retraite au sommet de sa carrière; prendre sa retraite à l'apogée de sa carrière/
-急湍 急湍 [ji2 tuan1] {gap1 teon1} /rapides (partie d'un cours d'eau qui descend rapidement)/
+????f 急湍 急湍 [ji2 tuan1] {gap1 teon1} /rapides (partie d'un cours d'eau qui descend rapidement)/
 急症室 急症室 [ji2 zheng4 shi4] {gap1 zing3 sat1} /salle d'urgence/
-急起直追 急起直追 [ji2 qi3 zhi2 zhui1] {gap1 hei2 zik6 zeoi1} /travailler fort pour rattraper son retard/
-急跌 急跌 [ji2 die1] {gap1 dit3} /plonger, descendre brusquement/
-急風 急风 [ji2 feng1] {gap1 fung1} /typhon, cyclone tropical/
-急風暴雨 急风暴雨 [ji2 feng1 bao4 yu3] {gap1 fung1 bou6 jyu5} /bourrasque, rafale, orage soudain et intense/révolution, mouvement sociale/
-急驚風遇着慢郎中 急惊风遇着慢郎中 [ji2 jing1 feng1 yu4 zhao2 man4 lang2 zhong1] {gap1 ging1 fung1 jyu6 zoek6 maan6 long4 zung1} /(expr. idiom.) rater la date limite à cause d'une personne qui travaille de manière inefficace lors d'une urgence/(lit.) rencontrer un homme lent lors d'un ouragan/
-性上癮 性上瘾 [xing4 shang4 yin3] {sing3 soeng5 jan5} /dépendance au sexe, accro au sexe/
+????f 急起直追 急起直追 [ji2 qi3 zhi2 zhui1] {gap1 hei2 zik6 zeoi1} /travailler fort pour rattraper son retard (work hard to catch up to somebody else who is ahead)/
+急跌 急跌 [ji2 die1] {gap1 dit3} /plonger; baisser fortement; chuter; dégringoler/
+急風 急风 [ji2 feng1] {gap1 fung1} /bourrasque; rafale/typhon; cyclone tropical/
+急風暴雨 急风暴雨 [ji2 feng1 bao4 yu3] {gap1 fung1 bou6 jyu5} /violente tempête; orage soudain et intense/
+????c 急驚風遇着慢郎中 急惊风遇着慢郎中 [ji2 jing1 feng1 yu4 zhao2 man4 lang2 zhong1] {gap1 ging1 fung1 jyu6 zoek6 maan6 long4 zung1} /(expr. idiom.) rater la date limite à cause d'une personne qui travaille de manière inefficace lors d'une urgence/(lit.) rencontrer un homme lent lors d'un ouragan/
+性上癮 性上瘾 [xing4 shang4 yin3] {sing3 soeng5 jan5} /dépendance au sexe; accro au sexe/
 性傾向 性倾向 [xing4 qing1 xiang4] {sing3 king1 hoeng3} /orientation sexuelle/
-性命交關 性命交关 [xing4 ming4 jiao1 guan1] {sing3 ming6 gaau1 gwaan1} /très important, question de vie ou de mort, importance capitale/
+性命交關 性命交关 [xing4 ming4 jiao1 guan1] {sing3 ming6 gaau1 gwaan1} /(expr.) très important; question de vie ou de mort; importance capitale/
 性幻想 性幻想 [xing4 huan4 xiang3] {sing3 waan6 soeng2} /fantasme sexuel/
-性格 性格 [xing4 ge2] {sing3 gaak3} /personnalité, caractère, nature/
-性無能 性无能 [xing4 wu2 neng2] {sing3 mou4 nang4} /dysfonction sexuelle, impotence sexuelle/
+性格 性格 [xing4 ge2] {sing3 gaak3} /caractère; personnalité/
+性無能 性无能 [xing4 wu2 neng2] {sing3 mou4 nang4} /dysfonction sexuelle; impotence sexuelle/
 性玩具 性玩具 [xing4 wan2 ju4] {sing3 wun6 geoi6} /sex-toy/
-性質 性质 [xing4 zhi4] {sing3 zat1} /caractère, nature, essence/
-怨 怨 [yuan4] {jyun3} /grogner, maugréer, chialer/rancune, rancoeur/
+性質 性质 [xing4 zhi4] {sing3 zat1} /caractère; nature; essence/
+怨 怨 [yuan4] {jyun3} /se plaindre; grogner; maugréer; chialer; râler/rancune; rancoeur/
 怨唱 怨唱 [yuan4 chang4] {jyun3 coeng3} /se plaindre/rejeter la faute sur quelqu'un; en vouloir à quelqu'un/
-怨曲 怨曲 [yuan4 qu3] {jyun3 kuk1} /blues, genre musical/
-怨言 怨言 [yuan4yan2] {jyun3 jin4} /plainte, protestation/
+怨曲 怨曲 [yuan4 qu3] {jyun3 kuk1} /(genre musical) blues/
+怨言 怨言 [yuan4 yan2] {jyun3 jin4} /plainte/
 怪之得 怪之得 [guai4 zhi1 de5] {gwaai3 zi1 dak1} /pas étonnant que.../
 怪唔之得 怪唔之得 [guai4 n2 zhi1 de5] {gwaai3 m4 zi1 dak1} /pas étonnant que.../
 怪唔得 怪唔得 [guai4 n2 de5] {gwaai3 m4 dak1} /pas étonnant que.../
-怪形怪相 怪形怪相 [guai4 xing2 guai4 xiang4] {gwaai3 jing4 gwaai3 soeng3} /grotesque, laid, affreux/
+怪形怪相 怪形怪相 [guai4 xing2 guai4 xiang4] {gwaai3 jing4 gwaai3 soeng3} /grotesque; laid; affreux/
 怪病 怪病 [guai4 bing4] {gwaai3 beng6} /maladie étrange/
-怪石嶙峋 怪石嶙峋 [guai4 shi2 lin2 xun2] {gwaai3 sek6 leon4 seon1} /(expr. idiom.) (péj.) décharné et maigrichon/(lit.) roches étranges à côté l'un de l'autre/
-怪裡怪氣 怪里怪气 [guai4 li5 guai4 qi4] {gwaai3 leoi5 gwaai3 hei3} /tordu, homme ou femme bizarre, loufoque, excentrique, étrange, curieux/qui a l'air bizarre, qui paraît bizarre, qui a l'aspect étrange/
-怪談 怪谈 [guai4 tan2] {gwaai3 taam4} /histoires de famtôme/
+????c 怪石嶙峋 怪石嶙峋 [guai4 shi2 lin2 xun2] {gwaai3 sek6 leon4 seon1} /(expr. idiom.) (péj.) décharné et maigrichon/(lit.) roches étranges les uns à côté des autres/
+怪裡怪氣 怪里怪气 [guai4 li5 guai4 qi4] {gwaai3 leoi5 gwaai3 hei3} /(péj.) bizarre; étrange; curieux/(péj.) qui a l'air bizarre; d'aspect étrange/
+怪談 怪谈 [guai4 tan2] {gwaai3 taam4} /histoires de fantôme/
 ????f 怪責 怪责 [guai4 ze2] {gwaai3 zaak3} /rejeter la faute sur quelqu'un; en vouloir à quelqu'un/
 怪錯 怪错 [guai4 cuo4] {gwaai3 co3} /accuser à tort/
-怪雞 怪鸡 [guai4 ji1] {gwaai3 gai1} /(fam.) bizarre, étrange, curieux/
-怯頭怯腦 怯头怯脑 [qie4 tou2 qie4 nao3] {hip3 tau4 hip3 nou5} /nerveux, anxieux, peureux, timide/lâche, qui manque de courage/
-恃 恃 [shi4] {ci5} /agir sur/
-恃勢欺人 恃势欺人 [shi4 shi4 qi1 ren2] {ci5 sai3 hei1 jan4} /profiter de la situation, abuser de sa position pour tyranniser les autres/
-恃強凌弱 恃强凌弱 [shi4 qiang2 ling2 ruo4] {ci5 koeng4 ling4 joek6} /les plus forts tyrannisent les plus faibles/
-恃熟賣熟 恃熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /tirer profit de ses amis, exploiter sa famille ou ses proches/
-恃老賣老 恃老卖老 [shi4 lao3 mai4 lao3] {ci5 lou5 maai6 lou5} /personnes âgées qui méprisent les autres/
-恆安 恒安 [Heng2 An1] {hang4 on1} /Heng On, endroit à Hong Kong/
-恆河沙 恒河沙 [heng2 he2 sha1] {hang4 ho4 saa1} /beaucoup, 10^52/
+怪雞 怪鸡 [guai4 ji1] {gwaai3 gai1} /(fam.) bizarre; étrange; curieux/
+????c 怯頭怯腦 怯头怯脑 [qie4 tou2 qie4 nao3] {hip3 tau4 hip3 nou5} /nerveux; anxieux; peureux; timide/lâche; qui manque de courage/grossier; rustique/
+????f 恃 恃 [shi4] {ci5} /tirer profit de/
+????f 恃勢欺人 恃势欺人 [shi4 shi4 qi1 ren2] {ci5 sai3 hei1 jan4} /profiter de la situation; abuser de sa position pour tyranniser les autres/
+????f 恃強凌弱 恃强凌弱 [shi4 qiang2 ling2 ruo4] {ci5 koeng4 ling4 joek6} /(étant plus fort) tyranniser les plus faibles/
+????f 恃熟賣熟 恃熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /tirer profit de ses amis; exploiter sa famille ou ses proches; abuser de la gentillesse des personnes que l'on connaît/
+????f 恃老賣老 恃老卖老 [shi4 lao3 mai4 lao3] {ci5 lou5 maai6 lou5} /(expr.) personnes âgées qui méprisent les autres/
+恆安 恒安 [heng2 an1] {hang4 on1} /Heng On, grand ensemble situé à Hong Kong/
+恆河沙 恒河沙 [heng2 he2 sha1] {hang4 ho4 saa1} /beaucoup/(lit.) comme les grains de sable sur les rives du Gange/
 恆生指數 恒生指数 [heng2 sheng1 zhi3 shu4] {hang4 sang1 zi2 sou3} /Hang Seng, indice boursier de la bourse de Hong Kong/
 恆生銀行 恒生银行 [heng2 sheng1 yin2 hang2] {hang4 sang1 ngan4 hong4} /Hang Seng Bank, deuxième plus grande banque de Hong Kong/
-恆產 恒产 [heng2 chan3] {hang4 caan2} /biens réels/
-恆量 恒量 [heng2 liang4] {hang4 loeng6} /évaluer, jauger/peser/une constante/
-恆齒 恒齿 [heng2 chi3] {hang4 ci2} /dent permanente, dent définitive/
-恐嚇 恐吓 [kong3 he4] {hung2 haak3} /intimider, menacer/menace, avertissement/extorsion, chantage/
-恐怖 恐怖 [kong3 bu4] {hung2 bou3} /horrible/
+恆產 恒产 [heng2 chan3] {hang4 caan2} /biens immobiliers/
+恆量 恒量 [heng2 liang4] {hang4 loeng6} /(sciences) constante/
+恆齒 恒齿 [heng2 chi3] {hang4 ci2} /dent permanente; dent définitive/
+恐嚇 恐吓 [kong3 he4] {hung2 haak3} /intimider; menacer/menace; avertissement/extorsion; chantage/
+恐怖 恐怖 [kong3 bu4] {hung2 bou3} /horrible; terrifiant; effrayant/
 恐怖份子 恐怖份子 [kong3 bu4 fen4 zi3] {hung2 bou3 fan6 zi2} /terroriste/
-恐懼感 恐惧感 [kong3 ju4 gan3] {hung2 geoi6 gam2} /peur, frayeur/
-恕不奉陪 恕不奉陪 [shu4 bu4 feng4 pei2] {syu3 bat1 fung6 pui4} /désolé de ne pas pouvoir vous tenir compagnie/
-恕我直言 恕我直言 [shu4 wo3 zhi2 yan2] {syu3 ngo5 zik6 jin4} /désolé d'être honnête avec vous/
-恤金 恤金 [xu4 jin1] {seot1 gam1} /allocation d'assistance, allocation de secours, paiement de secours/indemnisation pour accident de travail, rente pour accident de travail/pension de survivant (Can.), pension de réversion (Fr.)/
+恐懼感 恐惧感 [kong3 ju4 gan3] {hung2 geoi6 gam2} /peur; frayeur/
+????f 恕不奉陪 恕不奉陪 [shu4 bu4 feng4 pei2] {syu3 bat1 fung6 pui4} /(expr.) désolé de ne pas pouvoir vous tenir compagnie/
+????f 恕我直言 恕我直言 [shu4 wo3 zhi2 yan2] {syu3 ngo5 zik6 jin4} /(expr.) permettez-moi de le dire franchement; à vrai dire.../
+????f 恤金 恤金 [xu4 jin1] {seot1 gam1} /indemnisation pour accident de travail; rente pour accident de travail/pension de survivant (Can.), pension de réversion (Fr.)/
 恤髮 恤发 [xu4 fa4] {seot1 faat3} /coupe de cheveux/
 恨 恨 [hen4] {han6} /vouloir, désirer/envier/regretter/avoir pitié de/
 恨不相逢未嫁時 恨不相逢未嫁时 [hen4 bu4 xiang1 feng2 wei4 jia4 shi2] {han6 bat1 soeng1 fung4 mei6 gaa3 si4} /vouloir trouver son seul véritable amour avant de se marier/
