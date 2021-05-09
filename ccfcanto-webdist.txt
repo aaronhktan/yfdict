@@ -8539,7 +8539,7 @@
 打仗 打仗 [da3 zhang4] {daa2 zoeng3} /faire la guerre/
 打仗仔 打仗仔 [da3 zhang4 zi3] {daa2 zoeng3 zai2} /(enfants) jouer au soldat/
 打令 打令 [da3 ling4] {daa1 ling2} /chéri/(orig.) de l'anglais « darling » (« chéri »)/
-打仰瞓 打仰瞓 [da3 yang3 fen4] {daa2 ngong5 fan3} /dormir sur le dos/
+打仰瞓 打仰瞓 [da3 yang3 fen4] {daa2 ngong5 fan3} /dormir sur le dos (voir aussi 打昂瞓|打昂瞓)/
 打估 打估 [da3 gu1] {daa2 gu2} /deviner une énigme/
 打低 打低 [da3 di1] {daa2 dai1} /battre; vaincre/
 打住家工 打住家工 [da3 zhu4 jia1 gong1] {daa2 zyu6 gaa1 gung1} /travailler comme nounou/travailler comme domestique/
@@ -8598,56 +8598,56 @@
 打打殺殺 打打杀杀 [da3 da3 sha1 sha1] {daa2 daa2 saat3 saat3} /violence/
 ????f 打掂 打掂 [da3 dian1] {daa2 dim1} /ériger verticalement; mettre debout/
 打掃 打扫 [da3 sao3] {daa2 sou3} /balayer/faire du rangement; nettoyer/
-打掣 打掣 [da3 che4] {daa2 zai3} /fermer le commutateur, mettre l'interrupteur en position marche/
-打救 打救 [da3 jiu4] {daa2 gau3} /sauver, secourir/venir au secours d'une personne/
-打敗仗 打败仗 [da3 bai4 zhang4] {daa2 baai6 zoeng3} /tomber malade/être vaincu/
-打斧頭 打斧头 [da3 fu3 tou5] {daa2 fu2 tau4} /détourner (les fonds de quelque chose), escroquer, garder une partie de l'argent que l'on est confié avec qui était censé être utilisé pour acheter quelque chose pour quelqu'un d'autre ou qui devait être partagé avec quelqu'un d'autre/
+????f 打掣 打掣 [da3 che4] {daa2 zai3} /fermer le commutateur; mettre l'interrupteur en position marche/
+????f 打救 打救 [da3 jiu4] {daa2 gau3} /sauver; secourir; venir au secours de quelqu'un/
+打敗仗 打败仗 [da3 bai4 zhang4] {daa2 baai6 zoeng3} /tomber malade/être vaincu; perdre une bataille/
+????f 打斧頭 打斧头 [da3 fu3 tou5] {daa2 fu2 tau4} /détourner (les fonds de quelque chose); escroquer; garder une partie de l'argent que l'on est confié avec, qui était censé être utilisé pour acheter quelque chose pour quelqu'un d'autre ou qui devait être partagé avec quelqu'un d'autre/
 打昂瞓 打昂瞓 [da3 ang2 fen4] {daa2 ngong5 fan3} /dormir sur le dos/
-打晒色 打晒色 [da3 shai4 se4] {daa2 saai3 sik1} /devenir chef, devenir leader/
-打格仔 打格仔 [da3 ge2 zi3] {daa2 gaak3 zai2} /pixéliser (une partie d'une image afin de rendre quelque chose méconnaissable/
-打棘 打棘 [da3 ji2] {daa2 kik1} /cheveux pleins de noeuds/cheveux entrelacés, entrecroisé/
-打機 打机 [da3 ji1] {daa2 gei1} /jouer des jeux vidéos/
-打機室 打机室 [da3 ji1 shi4] {daa2 gei1 sat1} /salle de jeux/
-打橫 打横 [da3 heng2] {daa2 waang4} /horizontal/irraisonable, irrationnel/
-打橫嚟 打横嚟 [da3 heng2 li2] {daa2 waang4 lei4} /irraisonable, irrationnel/
-打橫行 打横行 [da3 heng2 hang2] {daa2 waang4 hang4} /irraisonable, irrationel/(lit.) marcher horizontalement/
-打櫼 打櫼 [da3 jian1] {daa2 zim1} /couper la file, couper la queue/
-打死不離親兄弟 打死不离亲兄弟 [da3 si3 bu4 li2 qin1 xiong1 di4] {daa2 sei2 bat1 lei4 can1 hing1 dai6} /(expr. idiom.) bon sang ne peut mentir, la voix du sang est plus forte/(lit.) ne pas abandonner ses frères même en mourant/
-打死狗講價 打死狗讲价 [da3 si3 gou3 jiang3 jia4] {daa2 sei2 gau2 gong2 gaa3} /(expr. idiom.) exploiter une erreur commise par quelqu'un d'autre/(expr. idiom.) tactique commercial où un vendeur force un client à payer un prix plus haut quand il ne peut plus annuler le contrat/(lit.) discuter du prix après avoir tué le chien/
-打死纈 打死缬 [da3 si3 xie2] {daa2 sei2 lit3} /nouer un noeud mort/
-打比 打比 [da3 bi3] {daa2 bei2} /derby/Hong Kong Derby/
+打晒色 打晒色 [da3 shai4 se4] {daa2 saai3 sik1} /être chef; être leader; prendre les décisions/
+????f 打格仔 打格仔 [da3 ge2 zi3] {daa2 gaak3 zai2} /pixéliser (une partie d'une image afin de rendre quelque chose méconnaissable/
+????f 打棘 打棘 [da3 ji2] {daa2 kik1} /cheveux pleins de noeuds/(cheveux, câbles) entrelacés; entrecroisés; entre mêlés/
+打機 打机 [da3 ji1] {daa2 gei1} /(fig.) jouer des jeux vidéo/(lit.) frapper les machines/
+????c 打機室 打机室 [da3 ji1 shi4] {daa2 gei1 sat1} /salle de jeux/
+打橫 打横 [da3 heng2] {daa2 waang4} /horizontal/(fig.) déraisonnable; insensé/
+打橫嚟 打横嚟 [da3 heng2 li2] {daa2 waang4 lei4} /(fig.) déraisonnable; insensé/
+打橫行 打横行 [da3 heng2 hang2] {daa2 waang4 haang4} /faire ce que l'on veut; être incontrôlable/(lit.) marcher horizontalement/
+打櫼 打櫼 [da3 jian1] {daa2 zim1} /passer devant; resquiller; couper la file/
+????f 打死不離親兄弟 打死不离亲兄弟 [da3 si3 bu4 li2 qin1 xiong1 di4] {daa2 sei2 bat1 lei4 can1 hing1 dai6} /(expr. idiom.) bon sang ne peut mentir; la voix du sang est plus forte/(lit.) ne pas abandonner ses frères même en mourant/
+????f 打死狗講價 打死狗讲价 [da3 si3 gou3 jiang3 jia4] {daa2 sei2 gau2 gong2 gaa3} /(expr. idiom.) exploiter une erreur commise par quelqu'un d'autre/(expr. idiom.) tactique commercial où un vendeur force un client à payer un prix plus haut quand il ne peut plus annuler le contrat/(lit.) discuter du prix après avoir tué le chien/
+????f 打死纈 打死缬 [da3 si3 xie2] {daa2 sei2 lit3} /nouer un noeud mort/
+打比 打比 [da3 bi3] {daa2 bei2} /derby/Hong Kong Derby/(orig.) de l'anglais « derby (« derby »)/
 打比郡 打比郡 [da3 bi3 jun4] {daa2 bei2 gwan6} /Derbyshire, comté en Angleterre/
-打氣 打气 [da3 qi4] {daa2 hei3} /enthousiasmer, rendre quelqu'un excité/
-打沉 打沉 [da3 chen2] {daa2 cam4} /décourager, démoraliser/refuser, rejeter/
-打波 打波 [da3 bo1] {daa2 bo1} /jouer un jeu de ballon ou jouer un jeu de balle/
-打瀉茶 打泻茶 [da3 xie4 cha2] {daa2 se3 caa4} /(expr. idiom.) situation où le fiancé meurt avant de se marier/(lit.) renverser le thé/
-打爆機 打爆机 [da3 bao4 ji1] {daa2 baau3 gei1} /(fig.) terminer un jeu vidéo/(lit.) frapper la machine à ce qu'elle explose/
-???? 打爆油缸 打爆油缸 [da3 bao4 you2 gang1] {daa2 baau3 jau4 gong1} /(expr. idiom.) faire le plein/(lit.) frapper le réservoir à ce qu'il explose/
-打爛 打烂 [da3 lan4] {daa2 laan6} /briser, casser/détruire/
-打爛沙盤問到篤 打烂沙盘问到笃 [da3 lan4 sha1 pan2 wen4 dao4 du3] {daa2 laan6 saa1 pun4 man6 dou3 duk1} /(expr. idiom.) enquêter et tout découvrir/(expr. idiom.) aller au fond des choses/(lit.) briser tous les plats de sable et demander jusqu'au bout/
-打爛砂盆問到篤 打烂砂盆问到笃 [da3 lan4 sha1 pen2 wen4 dao4 du3] {daa2 laan6 saa1 pun4 man6 dou3 duk1} /(expr. idiom.) enquêter et tout découvrir/(expr. idiom.) aller au fond des choses/(lit.) briser tous les plats de sable et demander jusqu'au bout/
-打爛齋缽 打烂斋钵 [da3 lan4 zhai1 bo1] {daa2 laan6 zaai1 but3} /(expr. idiom.) présenter une mauvaise maîtrise de soi/(expr. idiom.) ne pas arriver à tenir à ses résolutions (du Nouvel an, etc.)/(expr. idiom.) briser son bol de légumes/
-打爛齋鉢 打烂斋鉢 [da3 lan4 zhai1 bo1] {daa2 laan6 zaai1 but3} /end a period of abstention (Lent, Ramadan, etc); break a resolution; to break a precept; to breach the principles/
-打牙鉸 打牙铰 [da3 ya2 jiao3] {daa2 ngaa4 gaau3} /(expr. idiom.) bavarder, placoter/(lit.) frapper la plaque dentaire/
-打牙骹 打牙骹 [da3 ya2 qiao1] {daa2 ngaa4 gaau3} /(expr. idiom.) bavarder, placoter/(lit.) frapper la plaque dentaire/
+????f 打氣 打气 [da3 qi4] {daa2 hei3} /enthousiasmer; rendre quelqu'un excité; encourager/gonfler; remplir avec de l'air/
+打沉 打沉 [da3 chen2] {daa2 cam4} /décourager; démoraliser/
+打波 打波 [da3 bo1] {daa2 bo1} /jouer un jeu de ballon; jouer un jeu de balle/
+打瀉茶 打泻茶 [da3 xie4 cha2] {daa2 se2 caa4} /renverser du thé/(fig.) situation où le fiancé meurt avant de se marier/
+打爆機 打爆机 [da3 bao4 ji1] {daa2 baau3 gei1} /(fig.) terminer un jeu vidéo/(lit.) frapper la machine jusqu'à ce qu'elle explose/
+????f 打爆油缸 打爆油缸 [da3 bao4 you2 gang1] {daa2 baau3 jau4 gong1} /(expr. idiom.) faire le plein/(lit.) frapper le réservoir à ce qu'il explose/
+打爛 打烂 [da3 lan4] {daa2 laan6} /briser; casser/
+????f 打爛沙盤問到篤 打烂沙盘问到笃 [da3 lan4 sha1 pan2 wen4 dao4 du3] {daa2 laan6 saa1 pun4 man6 dou3 duk1} /(expr. idiom.) enquêter et tout découvrir; aller au fond des choses/(lit.) briser tous les plats de sable et demander jusqu'au bout/
+????f 打爛砂盆問到篤 打烂砂盆问到笃 [da3 lan4 sha1 pen2 wen4 dao4 du3] {daa2 laan6 saa1 pun4 man6 dou3 duk1} /(expr. idiom.) enquêter et tout découvrir; aller au fond des choses/(lit.) briser tous les plats de sable et demander jusqu'au bout/
+????f 打爛齋缽 打烂斋钵 [da3 lan4 zhai1 bo1] {daa2 laan6 zaai1 but3} /(expr. idiom.) ne pas faire preuve d'une maîtrise de soi; ne pas arriver à tenir à ses résolutions (du Nouvel an, etc.)/(expr. idiom.) briser son bol de légumes/
+????f 打爛齋鉢 打烂斋鉢 [da3 lan4 zhai1 bo1] {daa2 laan6 zaai1 but3} /(expr. idiom.) ne pas faire preuve d'une maîtrise de soi; ne pas arriver à tenir à ses résolutions (du Nouvel an, etc.)/(expr. idiom.) briser son bol de légumes/
+打牙鉸 打牙铰 [da3 ya2 jiao3] {daa2 ngaa4 gaau3} /(expr. idiom.) bavarder; placoter/(lit.) frapper la plaque dentaire/
+打牙骹 打牙骹 [da3 ya2 qiao1] {daa2 ngaa4 gaau3} /(expr. idiom.) bavarder; placoter/(lit.) frapper la plaque dentaire/
 打甂爐 打甂炉 [da3 bian1 lu2] {daa2 bin1 lou4} /préparer ou manger une fondue chinoise/
-打生打死 打生打死 [da3 sheng1 da3 si3] {daa2 saang1 daa2 sei2} /(expr. idiom.) se battre jusqu'au bout/(lit.) se battre à la vie et à la mort/
-打白鴿轉 打白鸽转 [da3 bai2 ge1 zhuan3] {daa2 baak6 gaap3 zyun2} /(expr. idiom.) faire une promenade rapide/(expr. idiom.) faire un donut (dans sa voiture)/(lit.) faire un tour comme un pigeon/
-打真軍 打真军 [da3 zhen1 jun1] {daa2 zan1 gwan1} /(expr. idiom.) avoir des relations sexuelles sans préservatif/(lit.) être un vrai soldat/
-打眼色 打眼色 [da3 yan3 se4] {daa2 ngaan5 sik1} /(expr. idiom.) faire des sous-entendus avec ses yeux/(expr. idiom.) faire un clin d'oeil/
-打碟 打碟 [da3 die2] {daa2 dip6} /faire le travail d'un deejay/
-打秋風 打秋风 [da3 qiu1 feng1] {daa2 cau1 fung1} /(expr. idiom.) méthodes utilisés par des gens pauvres pour demander de l'argent/(expr. idiom.) demander de l'argent des membres de sa famille ou ses amis/(expr. idiom.) faire chanter avec des raisons inventées/(lit.) faire le vent d'automne/
-打秋丰 打秋丰 [da3 qiu1 feng1] {daa2 cau1 fung1} /(expr. idiom.) méthodes utilisés par des gens pauvres pour demander de l'argent/(expr. idiom.) demander de l'argent des membres de sa famille ou ses amis/(expr. idiom.) faire chanter avec des raisons inventées/(lit.) faire le vent d'automne/
-打種 打种 [da3 zhong3] {daa2 zung2} /élever, faire l'élevage/
-打突兀 打突兀 [da3 tu1 wu4] {daa2 dat6 ngat6} /surpris/horrifié/fixer d'un regard vide/
-打窒 打窒 [da3 zhi4] {daa2 zat6} /boucher, obstruer/suffoquer/
+????f 打生打死 打生打死 [da3 sheng1 da3 si3] {daa2 saang1 daa2 sei2} /(expr. idiom.) se battre jusqu'au bout/(expr. idiom.) travailler fort pour quelque chose/(lit.) se battre à la vie et à la mort/
+????f 打白鴿轉 打白鸽转 [da3 bai2 ge1 zhuan3] {daa2 baak6 gaap3 zyun2} /(expr. idiom.) faire une promenade rapide/(expr. idiom.) faire un donut (dans sa voiture)/(lit.) faire un tour comme un pigeon/
+????f 打真軍 打真军 [da3 zhen1 jun1] {daa2 zan1 gwan1} /(expr. idiom.) avoir des relations sexuelles sans préservatif/(lit.) être un vrai soldat/
+????f 打眼色 打眼色 [da3 yan3 se4] {daa2 ngaan5 sik1} /(expr. idiom.) faire des sous-entendus avec ses yeux/(expr. idiom.) faire un clin d'oeil/
+????f 打碟 打碟 [da3 die2] {daa2 dip6} /faire le travail d'un deejay; faire le DJ; faire tourner les platines comme un DJ/(lit.) frapper les disques/
+????f 打秋風 打秋风 [da3 qiu1 feng1] {daa2 cau1 fung1} /(expr. idiom.) demander de l'argent des membres de sa famille ou ses amis/(lit.) faire le vent d'automne/
+????f 打秋丰 打秋丰 [da3 qiu1 feng1] {daa2 cau1 fung1} /(expr. idiom.) demander de l'argent des membres de sa famille ou ses amis/(lit.) faire le vent d'automne/
+????f 打種 打种 [da3 zhong3] {daa2 zung2} /accoupler (un animal avec un autre)/
+打突兀 打突兀 [da3 tu1 wu4] {daa2 dat6 ngat6} /être surpris; être sidéré; être très étonné/être horrifié/fixer d'un regard vide/
+????c 打窒 打窒 [da3 zhi4] {daa2 zat6} /boucher, obstruer/suffoquer/
 打窿機 打窿机 [da3 long2 ji1] {daa2 lung1 gei1} /poinçonneuse (de document)/
-打簿 打簿 [da3 bu4] {daa2 bou2} /mettre les comptes à jour/
-打籠通 打笼通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter avant un évenement ou un jeu/(expr. idiom.) communiquer pour escroquer quelqu'un de leur argent/
-打聾通 打聾通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter avant un évenement ou un jeu/(expr. idiom.) communiquer pour escroquer quelqu'un de leur argent/
+????f 打簿 打簿 [da3 bu4] {daa2 bou2} /mettre son livret d'épargne à jour (to update one's passbook - to bring one's passbook to the bank and get an updated record of transactions printed into one's passbook)/
+????f 打籠通 打笼通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter avant un évenement ou un jeu/(expr. idiom.) communiquer pour escroquer quelqu'un de leur argent/
+????f 打聾通 打聾通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter avant un évenement ou un jeu/(expr. idiom.) communiquer pour escroquer quelqu'un de leur argent/
 打網球 打网球 [da3 wang3 qiu2] {daa2 mong5 kau4} /jouer au tennis/
 打纈 打缬 [da3 xie2] {daa2 lit3} /nouer/
-打聽 打听 [da3 ting5] {daa2 ting1} /enquêter sur, investiguer, examiner/
+打聽 打听 [da3 ting5] {daa2 ting3} /s'informer de; demander; poser des questions sur/
 打肊 打肊 [da3 yi4] {daa2 jik1} /avoir le hoquet, hoqueter/
 打腳骨 打脚骨 [da3 jiao3 gu3] {daa2 goek3 gwat1} /prix trop hauts, escroquerie, vol manifeste/
 打自己工，自己話事 打自己工，自己话事 [da3 zi4 ji5 gong1 , zi4 ji5 hua4 shi4] {daa2 zi6 gei2 gung1 zi6 gei2 waa6 si6} /(expr. idiom.) avoir l'autorité de prendre des décisions/(lit.) être travailleur indépendant, se diriger soi-même/
