@@ -8999,7 +8999,7 @@
 ????f 拖拖拉拉 拖拖拉拉 [tuo1 tuo1 la1 la1] {to1 to1 laai1 laai1} /(d'une relation) instable; houleuse/lent; qui a tendance à remettre les tâches à plus tard/
 拖板 拖板 [tuo1 ban3] {to1 baan2} /multiprise; prise multiple/
 拖泥帶水 拖泥带水 [tuo1 ni2 dai4 shui3] {to1 nai4 daai3 seoi2} /(expr. idiom.) bâclé; mal fait; peu soigné/
-????c 拖男帶女 拖男带女 [tuo1 nan2 dai4 nu:3] {to1 naam4 daai3 neoi5} /(expr. idiom.) avoir une vie dure/(lit.) emmener des fils et des filles/
+????c 拖男帶女 拖男带女 [tuo1 nan2 dai4 nu:3] {to1 naam4 daai3 neoi5} /(expr. idiom.) vivre une vie difficile/(lit.) emmener des fils et des filles/
 ????c 拖線 拖线 [tuo1 xian4] {to1 sin3} /multiprise; prise multiple/câble de remorquage/
 拖肥 拖肥 [tuo1 fei2] {to1 fei2} /caramel mou/(orig.) de l'anglais « toffee » (« caramel mou »)/
 拖肥糖 拖肥糖 [tuo1 fei2 tang2] {to1 fei4 tong4} /caramel mou/(orig.) de l'anglais « toffee » (« caramel mou »)/
@@ -9100,7 +9100,7 @@
 ????f 挨拼椅 挨拼椅 [ai1 pin1 yi3] {aai1 peng1 ji2} /chaise avec dossier/
 挨晚 挨晚 [ai1 wan3] {aai1 maan1} /soir; soirée/
 挨更抵夜 挨更抵夜 [ai1 geng4 di3 ye4] {ngaai4 gaang1 dai2 je6} /(expr. idiom.) travailler toute la nuit; passer une nuit blanche à travailler/(expr. idiom.) faire des heures supplémentaires/
-????f 挨生挨死 挨生挨死 [ai1 sheng1 ai1 si3] {ngaai4 saang1 ngaai4 sei2} /(expr. idiom.) travailler fort et vivre une vie dure/
+????f 挨生挨死 挨生挨死 [ai1 sheng1 ai1 si3] {ngaai4 saang1 ngaai4 sei2} /(expr. idiom.) travailler fort et vivre une vie difficile/
 挨齋 挨斋 [ai1 zhai1] {ngaai4 zaai1} /végétarien; qui ne mange pas de chair animale/
 挪亞方舟 挪亚方舟 [nuo2 ya4 fang1 zhou1] {no4 aa3 fong1 zau1} /Arche de Noé/
 挫傷 挫伤 [cuo4 shang1] {co3 soeng1} /bleu; contusion/
@@ -9146,33 +9146,34 @@
 ????f 捨身圖報 舍身图报 [she3 shen1 tu2 bao4] {se2 san1 tou4 bou3} /(expr. idiom.) rembourser une dette au prix de sa vie/
 ????f 捨近求遠 舍近求远 [she3 jin4 qiu2 yuan3] {se2 gan6 kau4 jyun5} /(expr. idiom.) rendre les choses plus compliquées; essayer de faire quelque chose d'impossible/(lit.) rejeter quelque chose de proche et chercher une chose lointaine/
 捯 捯 [dao2] {dou3, dou2} /enrouler la corde ou le fil/chercher; enquêter sur; investiguer/
-????f 捱世界 挨世界 [ai1 shi4 jie4] {ngaai4 sai3 gaai3} /(expr. idiom.) mener une vie difficile/(lit.) supporter le monde/
+????f 捱世界 挨世界 [ai1 shi4 jie4] {ngaai4 sai3 gaai3} /(expr. idiom.) vivre une vie difficile/(lit.) supporter le monde/
 捱夜 挨夜 [ai1 ye4] {ngaai4 je2} /(expr. idiom.) travailler tard le soir/(expr. idiom.) passer une nuit blanche/
-捱得 挨得 [ai1 de5] {ngaai4 dak1} /high endurance/
-捱更抵夜 挨更抵夜 [ai1 geng4 di3 ye4] {ngaai4 gaang1 dai2 je6} /(expr. idiom.) travailler toute la nuit, passer une nuit blanche à travailler/(expr. idiom.) faire des heures supplémentaires/
-捱生捱死 挨生捱死 [ai1 sheng1 ai2 si3] {ngaai4 sang1 ngaai4 sei2} /(expr. idiom.) vivre une vie dure/(expr. idiom.) travailler très fort/
+捱得 挨得 [ai1 de5] {ngaai4 dak1} /persévérant; tenace/
+捱更抵夜 挨更抵夜 [ai1 geng4 di3 ye4] {ngaai4 gaang1 dai2 je6} /(expr. idiom.) travailler toute la nuit; passer une nuit blanche à travailler/(expr. idiom.) faire des heures supplémentaires/
+捱生捱死 挨生捱死 [ai1 sheng1 ai2 si3] {ngaai4 saang1 ngaai4 sei2} /(expr. idiom.) vivre une vie difficile/(expr. idiom.) travailler très fort/
 捱穀種 挨谷种 [ai1 gu3 zhong3] {ngaai4 guk1 zung2} /(expr. idiom.) vivre de ses maigres épargnes/(lit.) supporter les graines de la valleé/
-捱義氣 挨义气 [ai1 yi4 qi5] {ngaai4 ji6 hei3} /(expr. idiom.) faire quelque chose par amitié/
+????f 捱義氣 挨义气 [ai1 yi4 qi5] {ngaai4 ji6 hei3} /(expr. idiom.) faire quelque chose par amitié ou par loyauté/
 捱餓 挨饿 [ai2 e4] {ngaai4 ngo6} /souffrir de faim/
-捱騾仔 挨骡仔 [ai1 luo2 zi3] {ngaai4 leoi4 zai2} /(expr. idiom.) travailler fort, trimer/(lit.) travailler comme un mule/
-捱麵包 挨面包 [ai1 mian4 bao1] {ngaai4 min6 baau1} /(expr. idiom.) devoir manger simple pour économiser son argent/(lit.) supporter le pain/
-捲土重來 卷土重来 [juan3 tu3 chong2 lai2] {gyun2 tou2 cung4 loi4} /revenir sur scène, retour sur scène, faire une remontée/
-捲煙 卷烟 [juan3 yan1] {gyun2 jin1} /cigarette, clope, smoke/cigare/
+捱騾仔 挨骡仔 [ai1 luo2 zi3] {ngaai4 leoi4 zai2} /(expr. idiom.) travailler fort; travailler dur; trimer/(lit.) travailler comme une mule/
+????f 捱麵包 挨面包 [ai1 mian4 bao1] {ngaai4 min6 baau1} /(expr. idiom.) devoir manger simplement pour économiser son argent/(lit.) supporter le pain/
+????f 捲土重來 卷土重来 [juan3 tu3 chong2 lai2] {gyun2 tou2 cung4 loi4} /revenir sur scène; faire une remontée/
+捲煙 卷烟 [juan3 yan1] {gyun2 jin1} /cigarette; clope; smoke/cigare/
 捲粉 卷粉 [juan3 fen3] {gyun2 fan2} /rouleau de nouille de riz, plat cantonais/
-捲閘 卷闸 [juan3 zha2] {gyun2 zaap6} /porte qui s'ouvre ou ferme en s'enroulant, comme une porte de garage/
-捳 捳 [yue4] {ngok6, ok6} /tenir fermement/
-捷泳 捷泳 [jie2 yong3] {zit3 wing6} /crawl, type de nage/
-捻死 捻死 [nian3 si3] {nin2 sei2} /écraser (un object petit ou insecte) à mort avec ses doigts/
-捽 捽 [zuo2] {zyut6, zeot1} /(pratique de deejay) scratch, modifier la vitesse de lecture d'un disque vinyle pour produire un effet sonore particulier/mourir soudainement, tomber raide mort/
-捽碟 捽碟 [cu4 die2] {zeot1 dip2} /(pratique de deejay) scratch, modifier la vitesse de lecture d'un disque vinyle pour produire un effet sonore particulier/
-掀起 掀起 [xian1 qi3] {hin1 hei2} /commencer/causer, déclencher, provoquer/
-掂 掂 [dian1] {dim6} /toucher, entrer en contact avec quelque chose/adéquat, qui correspond aux attentes/parfait, bien joué/capable, ingénieux, débrouillard/(particule pour indiquer une action passée)/
+????f 捲閘 卷闸 [juan3 zha2] {gyun2 zaap6} /porte qui s'ouvre ou ferme en s'enroulant, comme une porte de garage (or for a store when it closes)/
+????c 捳 捳 [yue4] {ngok6} /tenir fermement/
+捷泳 捷泳 [jie2 yong3] {zit3 wing6} /(type de nage) crawl/
+????f 捻死 捻死 [nian3 si3] {nin2 sei2} /écraser (un petit object ou insecte) à mort avec ses doigts/
+捽 捽 [zuo2] {zyut6, zeot1} /frotter/(musique) scratcher; modifier la vitesse de lecture d'un disque vinyle pour produire un effet sonore particulier/
+捽碟 捽碟 [cu4 die2] {zeot1 dip2} /(musique) scratcher; modifier la vitesse de lecture d'un disque vinyle pour produire un effet sonore particulier/
+掀起 掀起 [xian1 qi3] {hin1 hei2} /causer; déclencher; provoquer/soulever/
+掂 掂 [dian1] {dim3} /toucher; entrer en contact avec quelque chose/
+掂 掂 [dian1] {dim6} /adéquat; qui correspond aux attentes/parfait/capable; ingénieux; débrouillard/(particule pour indiquer une action passée)/
 掂筆甩 掂笔甩 [dian1 bi3 shuai3] {dim6 bat1 lat1} /parfaitement droit/
-掂路 掂路 [dian1 lu4] {dim6 lou6} /bon moyen, bonne façon/chemin droit/bonne route/
-掂過條蔗 掂过条蔗 [dian1 guo4 tiao2 zhe4] {dim6 gwo3 tiu4 ze3} /(expr. idiom.) bon moyen, bonne façon, bonne solution/(expr. idiom.) sans incident, sans problème, bien se passer/(lit.) plus droit que la canne à sucre/
-掂過碌蔗 掂过碌蔗 [dian1 guo4 lu4 zhe4] {dim6 gwo3 luk1 ze3} /(expr. idiom.) bon moyen, bonne façon, bonne solution/(expr. idiom.) sans incident, sans problème, bien se passer/(lit.) plus droit que la canne à sucre/
-掃 扫 [sao3] {sou3} /ranger, nettoyer, balayer/lire (un code QR ou autre code-barres)/
-掃地出門 扫地出门 [sao3 di4 chu1 men2] {sou3 dei6 ceot1 mun4} /(expr. idiom.) se faire virer de la maison, être mis à la porte sans rien/(expr. idiom.) se débarasser des mauvaises choses/(lit.) balayer les ordures de la maison/
+????c 掂路 掂路 [dian1 lu4] {dim6 lou6} /droit chemin; route droite/
+掂過條蔗 掂过条蔗 [dian1 guo4 tiao2 zhe4] {dim6 gwo3 tiu4 ze3} /(expr. idiom.) sans incident; sans problème; bien se passer/(lit.) mieux que la canne à sucre/
+掂過碌蔗 掂过碌蔗 [dian1 guo4 lu4 zhe4] {dim6 gwo3 luk1 ze3} /(expr. idiom.) sans incident; sans problème; bien se passer/(lit.) mieux que la canne à sucre/
+掃 扫 [sao3] {sou3} /ranger; nettoyer; balayer/lire (un code QR ou autre code-barres)/
+掃地出門 扫地出门 [sao3 di4 chu1 men2] {sou3 dei6 ceot1 mun4} /(expr. idiom.) se faire virer de la maison; être mis à la porte sans rien/(lit.) balayer les ordures de la maison/
 掃平 扫平 [sao3 ping2] {sou3 ping4} /écraser une rébellion, réprimer un soulèvement/
 掃毒 扫毒 [sao3 du2] {sou3 duk6} /brigade des stupéfiants/saisie (de drogue), rafle, opération antidrogue/
 掃灰水 扫灰水 [sao3 hui1 shui3] {sou3 fui1 seoi2} /blanchir à chaux/
