@@ -9123,7 +9123,7 @@
 捉棋 捉棋 [zhuo1 qi2] {zuk1 kei2} /jouer aux échecs/
 捉用神 捉用神 [zhuo1 yong4 shen2] {zuk1 jung6 san4} /deviner les intentions des autres/
 ????f 捉痛腳 捉痛脚 [zhuo1 tong4 jiao3] {zuk1 tung3 goek3} /(expr. idiom.) viser les points faibles des autres; exploiter les défauts des autres/(lit.) attraper le pied qui fait mal/
-捉緊 捉紧 [zhuo1 jin3] {zuk1 gan2} /tenir fermement; cramponner/
+捉緊 捉紧 [zhuo1 jin3] {zuk1 gan2} /tenir fermement; serrer; se cramponner/
 捉蟲 捉虫 [zhuo1 chong2] {zuk1 cung4} /(expr. idiom.) qui cherche des ennuis/(lit.) attraper des insectes/
 捉蟲入屎忽 捉虫入屎忽 [zhuo1 chong2 ru4 shi3 hu1] {zuk1 cung4 jap6 si2 fat1} /(expr. idiom.) chercher des ennuis/(lit.) attraper des insectes pour les mettre dans sa derrière/
 捉蟲入屎窟 捉虫入屎窟 [zhuo1 chong2 ru4 shi3 ku1] {zuk1 cung4 jap6 si2 fat1} /(expr. idiom.) chercher des ennuis/(lit.) attraper des insectes pour les mettre dans sa derrière/
@@ -9298,56 +9298,56 @@
 揈 揈 [] {gwang1} /chasser; repousser/
 描圖紙 描图纸 [miao2 tu2 zhi3] {miu4 tou4 zi2} /papier calque/
 提 提 [ti2] {tai4} /soulever; lever/promouvoir/proposer/mentionner/rappeler/retirer (de l'argent)/
-提出 提出 [ti2 chu1] {tai4 ceot1} /soulever, parler, discuter, traiter (d'un problème)/
-提前 提前 [ti2 qian2] {tai4 cin4} /avancer, porter à un moment plus tôt/
-提堂 提堂 [ti2 tang2] {tai4 tong4} /audition (droit)/comparaître devant le tribunal/
+提出 提出 [ti2 chu1] {tai4 ceot1} /soulever; parler; discuter; traiter (d'un problème)/
+提前 提前 [ti2 qian2] {tai4 cin4} /avancer; porter à un moment antérieur dans le temps/
+提堂 提堂 [ti2 tang2] {tai4 tong4} /comparaître devant le tribunal/
 提子乾 提子干 [ti2 zi5 gan1] {tai4 zi2 gon1} /raisin sec/
-提昇 提升 [ti2 sheng1] {tai4 sing1} /promouvoir, élever à un rang supérieur/surclasser, améliorer/
-提款咭 提款咭 [ti2 kuan3 ji1] {tai4 fun2 kaat1} /carte bancaire, carte bleue/
-提水 提水 [ti2 shui3] {tai4 seoi2} /signaler, donner un indice/
-提示 提示 [ti2 shi4] {tai4 si6} /conseil, astuce/conseiller, donner une astuce/
-提防 提防 [di1 fang2] {tai4 fong4} /être vigilant/
-提點 提点 [ti2 dian3] {tai4 dim2} /conseiller, donner une astuce/
-插 插 [cha1] {caap3} /gronder, réprimander, houspiller/avoir des relations sexuelles, faire l'amour/revendiquer un territoire/poignarder, donner un coup de couteau à/
-插戴 插戴 [cha1 dai4] {caap3 daai3} /parure de tête, ornement de tête (d'une femme)/porter (une parure) sur la tête/
-插旗 插旗 [cha1 qi2] {caap3 kei4} /(fig.) revendiquer un territoire, conquérir un pays, envahir un pays/(lit.) planter un drapeau/
-插水 插水 [cha1 shui3] {caap3 seoi2} /simulation (sport), flop (basketball), se jeter au sol dans le but de faire croire à l'arbitre qu'une faute a été commise/
-插燒仔 插烧仔 [cha1 shao1 zi3] {caap3 siu1 zai2} /(péj.) bâtard, enfant naturel/
-插秧機 插秧机 [cha1 yang1 ji1] {caap3 joeng1 gei1} /machine planteuse, machine pour transplanter de semis de riz/
+提昇 提升 [ti2 sheng1] {tai4 sing1} /promouvoir; monter en grade/surclasser; améliorer/
+提款咭 提款咭 [ti2 kuan3 ji1] {tai4 fun2 kaat1} /carte bancaire; carte bleue/
+提水 提水 [ti2 shui3] {tai4 seoi2} /signaler; donner un indice/
+提示 提示 [ti2 shi4] {tai4 si6} /conseil; astuce/conseiller; donner une astuce; signaler/rappel/rappeler/
+提防 提防 [di1 fang2] {tai4 fong4} /être vigilant; se méfier de; se prémunir contre/
+提點 提点 [ti2 dian3] {tai4 dim2} /conseiller; donner une astuce/rappeler/
+插 插 [cha1] {caap3} /insérer/gronder; réprimander; houspiller/avoir des relations sexuelles; faire l'amour/revendiquer un territoire (voir aussi 插旗|插旗)/poignarder; donner un coup de couteau à/
+????f 插戴 插戴 [cha1 dai4] {caap3 daai3} /parure de tête; ornement de tête (d'une femme)/
+插旗 插旗 [cha1 qi2] {caap3 kei4} /(fig.) revendiquer un territoire; conquérir un pays; envahir un pays/(lit.) planter un drapeau/
+插水 插水 [cha1 shui3] {caap3 seoi2} /simulation (sport); flop (basketball); se jeter au sol dans le but de faire croire à l'arbitre qu'une faute a été commise/plonger dans l'eau/
+插燒仔 插烧仔 [cha1 shao1 zi3] {caap3 siu1 zai2} /(péj.) enfant illégitime; bâtard/
+插秧機 插秧机 [cha1 yang1 ji1] {caap3 joeng1 gei1} /machine planteuse; machine pour transplanter de semis de riz/
 插翼難飛 插翼难飞 [cha1 yi4 nan2 fei1] {caap3 jik6 naan4 fei1} /(expr. idiom.) pas capable de s'évader/(lit.) qui ne volerait pas même si on ajoutait des ailes/
-插蘇 插苏 [cha1 su1] {caap3 sou1} /prise électrique, prise de courant/
-插足 插足 [cha1 zu2] {caap3 zuk1} /participer/
-揗 揗 [shun3] {tan4} /tremblant, frémissant/flâner, déambuler/errer, vagabonder/
-揗揗震 揗揗震 [shun3 shun3 zhen4] {tan4 tan2 zan3} /trembler, frémir (de peur ou de froid)/
-揗雞 揗鸡 [shun3 ji1] {tan4 gai1} /(expr. idiom.) paniqué, nerveux, anxieux/(lit.) poule tremblante/
-揙 揙 [bian1] {pin2} /battre, cogner, frapper/
-揚 扬 [yang2] {joeng4} /dire aux autres/rendre évident, rendre clair/
+插蘇 插苏 [cha1 su1] {caap3 sou1} /prise électrique; prise de courant/
+插足 插足 [cha1 zu2] {caap3 zuk1} /participer; être en cause/
+揗 揗 [shun3] {tan4} /tremblant; frémissant/flâner; déambuler; musarder/arpenter/
+揗揗震 揗揗震 [shun3 shun3 zhen4] {tan4 tan2 zan3} /trembler; frémir (de peur ou de froid)/
+揗雞 揗鸡 [shun3 ji1] {tan4 gai1} /(expr. idiom.) paniqué; nerveux; anxieux/(lit.) poule tremblante/
+????c 揙 揙 [bian1] {pin2} /battre; cogner; frapper/
+揚 扬 [yang2] {joeng4} /dire aux autres; répandre (des nouvelles)/
 揚州炒飯 扬州炒饭 [yang2 zhou1 chao3 fan4] {joeng4 zau1 caau2 faan6} /riz frit de Yangzhou, plat chinois/
-揚揚 扬扬 [yang2 yang2] {joeng4 joeng4} /ravi, content/victorieux/
-揚棄 扬弃 [yang2 qi4] {joeng4 hei3} /développer ce qui est utile et se débarasser du reste/jeter, se débarasser/
-揚眉吐氣 扬眉吐气 [yang2 mei2 tu3 qi4] {joeng4 mei4 tou3 hei3} /(expr. idiom.) pousser un soupir de soulagement après avoir subi une période stressante/(expr. idiom.) sentiment de fierté, joie après une réussite/(lit.) remonter les sourcils et respirer/
-換片 换片 [huan4 pian4] {wun6 pin2} /changer des couches/
-換畫 换画 [huan4 hua4] {wun6 waa2} /(fam.) (fig.) beaucoup changer de compain ou copine, changer de petit(e) ami(e) très vite/terminer l'exploitation d'un film et sortir un autre film/
+揚揚 扬扬 [yang2 yang2] {joeng4 joeng4} /ravi; très content/victorieux/
+????f 揚棄 扬弃 [yang2 qi4] {joeng4 hei3} /développer ce qui est utile et se débarasser du reste/
+????f 揚眉吐氣 扬眉吐气 [yang2 mei2 tu3 qi4] {joeng4 mei4 tou3 hei3} /(expr. idiom.) pousser un soupir de soulagement après avoir subi une période stressante/(expr. idiom.) sentiment de fierté; joie après une réussite/(lit.) remonter les sourcils et respirer/
+換片 换片 [huan4 pian4] {wun6 pin2} /changer les couches/
+????f 換畫 换画 [huan4 hua4] {wun6 waa2} /(fam.) (fig.) beaucoup changer de compain ou copine très vite; changer de petit ami très vite/terminer l'exploitation d'un film et sortir un autre film/
 換衫 换衫 [huan4 shan1] {wun6 saam1} /changer de vêtements/
-換轉 换转 [huan4 zhuan3] {wun6 zyun3} /échange/changement, transformation/se mettre à la place de quelqu'un d'autre, compatir avec quelqu'un d'autre/
+換轉 换转 [huan4 zhuan3] {wun6 zyun3} /échanger; changer/(fig.) se mettre à la place de quelqu'un d'autre; compatir avec quelqu'un d'autre/
 ????f 換肩 换肩 [huan4 jian1] {wun6 gin1} /to switch shoulders when carrying something heavy/
-揞住 揞住 [an3 zhu4] {ngam2 zyu6} /couvrir, recouvrir/
-揞住嘴笑 揞住嘴笑 [an3 zhu4 zui3 xiao4] {ngam2 zyu6 zeoi2 siu3} /rire dans ses mains, recouvrir sa bouche lorsque l'on rit/
+揞住 揞住 [an3 zhu4] {ngam2 zyu6} /couvrir; recouvrir/
+????f 揞住嘴笑 揞住嘴笑 [an3 zhu4 zui3 xiao4] {ngam2 zyu6 zeoi2 siu3} /rire dans ses mains; recouvrir sa bouche lorsque l'on rit; rire dans sa barbe/
 揞脈 揞脉 [an3 mai4] {ngam2 mak6} /prendre le pouls/
-揤 揤 [ji2] {zat1, zeot1} /frotter/masser pour faire pénétrer, frotter pour faire pénétrer/
-揦住 揦住 [la2 zhu4] {laa2 zyu6} /s'accrocher à, tenir fermement, serrer/
-揦埋 揦埋 [la2 mai2] {laa2 maai4} /combiner, mélanger/en général, en règle général/avoir l'air triste/ramasser/
-揦埋口面 揦埋口面 [la2 mai2 kou3 mian4] {laa2 maai4 hau2 min6} /avoir l'air triste/avoir mine renfrognée/
-揦屎上身 揦屎上身 [la2 shi3 shang4 shen1] {laa2 si2 soeng6 san1} /(expr. idiom.) (vul.) chercher des ennuis/(lit.) frotter lescrottes sur son corps/
-揦手 揦手 [la2 shou3] {laa2 sau2} /difficile à gérer/
-揦手唔成勢 揦手唔成势 [la2 shou3 n2 cheng2 shi4] {laa2 sau2 m4 sing4 sai3} /(expr. idiom.) dans un dilemme/(expr. idiom.) pas préparé, dans un piètre état/(lit.) prendre les mains mais ne pas arriver à se classer/
-揦脷 揦脷 [la2 li4] {laa2 lei6} /saveur forte, qui est trop salé ou piquant/(fig.) très cher/
-揦苴 揦苴 [la2 ju1] {laa5 zaa2} /sale, malpropre/qui n'est pas préparé, déorganisé/malhonnête, pas honorable, sale (moralement)/
-揦茜 揦茜 [la2 qian4] {laa2 sai1} /négligent, bâclé, étourdi/
-揦西 揦西 [la2 xi1] {laa2 sai1} /négligent, bâclé, étourdi/
-揦起塊面 揦起块面 [la2 qi3 kuai4 mian4] {laa2 hei2 faai3 min6} /avoir triste mine, avoir l'air mécontant/
-揦高肚皮 揦高肚皮 [la2 gao1 du4 pi2] {laa2 gou1 tou5 pei4} /(expr. idiom.) partager trop, partager tous ses secrets et informations trop intimes/
-揦鮓 揦鲊 [la2 zha3] {laa5 zaa2} /sale, malpropre/qui n'est pas préparé, désorganisé/malhonnête, pas honorable, sale (moralement)/
+????f 揤 揤 [ji2] {zat1, zeot1} /frotter/masser pour faire pénétrer; frotter pour faire pénétrer/
+揦住 揦住 [la2 zhu4] {laa2 zyu6} /s'accrocher à; tenir fermement; serrer; se cramponner/
+揦埋 揦埋 [la2 mai2] {laa2 maai4} /combiner; mélanger/en général; en règle général/tirer la gueule; bouder; avoir l'air mécontent/ramasser; ranger/
+揦埋口面 揦埋口面 [la2 mai2 kou3 mian4] {laa2 maai4 hau2 min6} /(expr.) tirer la gueule; bouder; avoir l'air mécontent/
+揦屎上身 揦屎上身 [la2 shi3 shang4 shen1] {laa2 si2 soeng6 san1} /(expr. idiom.) (vul.) chercher des ennuis/(lit.) frotter les excréments sur son corps/
+揦手 揦手 [la2 shou3] {laa2 sau2} /difficile à gérer (voir 揦手唔成勢|揦手唔成势)/
+????f 揦手唔成勢 揦手唔成势 [la2 shou3 n2 cheng2 shi4] {laa2 sau2 m4 sing4 sai3} /(expr. idiom.) être dans un dilemme; ne pas avoir les moyens de faire face à un problème/(lit.) irriter les mains mais ne pas arriver à se classer/
+揦脷 揦脷 [la2 li4] {laa2 lei6} /qui est trop salé ou piquant/(fig.) très cher/(lit.) qui irrite la langue/
+揦苴 揦苴 [la2 ju1] {laa2 zaa2} /sale; malpropre/qui n'est pas préparé; déorganisé/malhonnête; pas honorable, sale (moralement)/
+揦茜 揦茜 [la2 qian4] {laa2 sai1} /(personne) négligent; étourdi/(travail) bâclé/
+揦西 揦西 [la2 xi1] {laa2 sai1} /(personne) négligent; étourdi/(travail) bâclé/
+揦起塊面 揦起块面 [la2 qi3 kuai4 mian4] {laa2 hei2 faai3 min6} /tirer la gueule; bouder; avoir l'air mécontent/
+????c 揦高肚皮 揦高肚皮 [la2 gao1 du4 pi2] {laa2 gou1 tou5 pei4} /(expr. idiom.) partager trop, partager tous ses secrets et informations trop intimes/
+揦鮓 揦鲊 [la2 zha3] {laa2 zaa2} /sale; malpropre/qui n'est pas préparé; désorganisé/malhonnête; pas honorable; sale (moralement)/
 揩 揩 [kai1] {haai1} /tripoter, toucher ou caresser avec insistance/
 揭盅 揭盅 [jie1 zhong1] {kit3 zung1} /dévoiler, annoncer/
 揭露 揭露 [jie1 lu4] {kit3 lou6} /dévoiler, exposer/
