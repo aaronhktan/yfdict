@@ -9348,7 +9348,7 @@
 揦起塊面 揦起块面 [la2 qi3 kuai4 mian4] {laa2 hei2 faai3 min6} /tirer la gueule; bouder; avoir l'air mécontent/
 ????c 揦高肚皮 揦高肚皮 [la2 gao1 du4 pi2] {laa2 gou1 tou5 pei4} /(expr. idiom.) partager trop, partager tous ses secrets et informations trop intimes/
 揦鮓 揦鲊 [la2 zha3] {laa2 zaa2} /sale; malpropre/qui n'est pas préparé; désorganisé/malhonnête; pas honorable; sale (moralement)/
-揩 揩 [kai1] {haai1} /frôler/se défoncer; se droguer; s'enivrer (orig. de l'anglais « high »)/tripoter; toucher ou caresser avec insistance/
+揩 揩 [kai1] {haai1} /frôler/se défoncer; se droguer; s'enivrer (orig. de l'anglais « high »)/tripoter; peloter; toucher ou caresser avec insistance/
 揭盅 揭盅 [jie1 zhong1] {kit3 zung1} /dévoiler; annoncer/
 揭露 揭露 [jie1 lu4] {kit3 lou6} /dévoiler; exposer/
 揮 挥 [hui1] {fai1} /bagarre (orig.) de l'anglais « fight » (« bagarre »)/comparer/comparable/
@@ -9410,7 +9410,7 @@
 ????c 搏大膽 搏大胆 [bo2 da4 dan3] {bok3 daai6 daam2} /(expr. idiom.) charcher la bagarre; provoquer une bagarre/(lit.) risquer sa vesicule biliaire/
 搏大霧 搏大雾 [bo2 da4 wu4] {bok3 daai6 mou6} /(expr. idiom.) profiter d'une situation chaotique/(lit.) profiter d'un brouillard épais/
 搏彩 搏彩 [bo2 cai3] {bok3 coi2} /jouer des jeux d'argent; parier/tenter sa chance/
-????f 搏懵 搏懵 [bo2 meng3] {bok3 mung2} /(expr. idiom.) profiter d'une situation chaotique; tirer avantange d'une sale affaire/(expr. idiom.) tripoter; harceler sexuellement/
+????f 搏懵 搏懵 [bo2 meng3] {bok3 mung2} /(expr. idiom.) profiter d'une situation chaotique; tirer avantange d'une sale affaire/(expr. idiom.) tripoter; peloter; harceler sexuellement/
 搏拉 搏拉 [bo2 la1] {bok3 laai1} /risquer d'être arrêté par la police/
 搏殺 搏杀 [bo2 sha1] {bok3 saat3} /(fig.) jouer gros jeu/(fig.) travailler fort; travailler sans relâche/(lit.) tuer par surprise/
 ????f 搏炒 搏炒 [bo2 chao3] {bok3 caau2} /(fig.) risquer son travail; risquer son emploi/
@@ -9540,10 +9540,10 @@
 摩羅街 摩罗街 [mo2 luo2 jie1] {mo1 lo1 gaai1} /Lascar Row, rue située à Hong Kong/
 摩門教 摩门教 [mo2 men2 jiao4] {mo1 mun4 gaau3} /mormonisme/(orig.) de l'anglais « mormon » (« Mormon »)/
 ????f 摱車邊 摱车边 [man2 che1 bian1] {maan1 ce1 bin1} /(expr. idiom.) suivre quelqu'un et en tirer profit; bénéficier d'une autre personne/(expr. idiom.) réussir à peine (à faire quelque chose); réussir de justesse/(lit.) obtenir un voyage gratuit en s'accrochant au bord de l'autobus/ 
-摷 摷 [jiao3] {caau3} /chercher; fouiller/tripoter; harceler/
+摷 摷 [jiao3] {caau3} /chercher; fouiller/tripoter; peloter; harceler en touchant de manière inappropriée/
 摸不着頭腦 摸不着头脑 [mo1 bu4 zhao2 tou2 nao3] {mo2 bat1 zoek6 tau4 nou5} /(fig.) ne pas comprendre; être perplexe/(lit.) ne pas pouvoir toucher le cerveau/
 摸盲盲 摸盲盲 [mo1 mang2 mang2] {mo2 maang4 maang1} /collin-maillard, variante du jeu de loup où le chasseur a les yeux bandés/
-????f 摸身摸勢 摸身摸势 [mo1 shen1 mo1 shi4] {mo2 san1 mo2 sai3} /tripoter; harceler en touchant de manière inappropriée/
+????f 摸身摸勢 摸身摸势 [mo1 shen1 mo1 shi4] {mo2 san1 mo2 sai3} /tripoter; peloter; harceler en touchant de manière inappropriée/
 摸酒杯底 摸酒杯底 [mo1 jiu3 bei1 di3] {mo2 zau2 bui1 dai2} /(fig.) boire; boire de l'alcool/(lit.) toucher le fond du verre/
 ????f 摸門釘 摸门钉 [mo1 men2 ding1] {mo2 mun4 deng1} /(expr. idiom.) rendre visite à un ami qui n'est pas à la maison quand l'on y arrive/(expr. idiom.) visiter un magasin qui est déjà fermé quand l'on arrive/(lit.) toucher les clous de la porte/
 摹本 摹本 [mo2 ben3] {mou4 bun2} /copie; imitation; reproduction/
@@ -9699,57 +9699,57 @@
 擊傷 击伤 [ji1 shang1] {gik1 soeng1} /blesser/
 擊破 击破 [ji1 po4] {gik1 po3} /battre; vaincre; éliminer par la force/détruire/
 擋災 挡灾 [dang3 zai1] {dong2 zoi1} /éviter les désastres; empêcher les troubles/
-擋煞 挡煞 [dang3 sha1] {dong2 saat3} /empêcher les évènements maléfiques, éviter les évènements malchanceux/
+????c 擋煞 挡煞 [dang3 sha1] {dong2 saat3} /empêcher les évènements maléfiques; éviter les évènements malheureux/
 操兵 操兵 [cao1 bing1] {cou1 bing1} /défilé (militaire)/défiler/
-操刀 操刀 [cao1 dao1] {cou1 dou1} /opérer (chirurgie)/faire, se charger de, être responsable pour/chef, leader, responsable/
-操心 操心 [cao1 xin1] {cou1 sam1} /s'inquiéter de, s'en faire pour/(fam.) occupe-toi de tes oignons, mêle-toi de tes propres affaires/
+操刀 操刀 [cao1 dao1] {cou1 dou1} /opérer (chirurgie)/faire; se charger de; être responsable de (quelque chose)/
+操心 操心 [cao1 xin1] {cou1 sam1} /s'inquiéter de; s'en faire pour/
 擒上去 擒上去 [qin2 shang4 qu5] {kam4 soeng5 heoi3} /grimper sur (quelque chose)/
-擒上擒落 擒上擒落 [qin2 shang4 qin2 luo4] {kam4 soeng5 kam4 lok6} /grimper en haut (de quelque chose) puis descendre/qui monte et descend/
-擒擒青 擒擒青 [qin2 qin2 qing1] {kam4 kam4 cing1} /très urgent, pressant/rapidement, vite/
-擒樹 擒树 [qin2 shu4] {kam4 syu6} /grimper à l'arbre/
-擒賊先擒王 擒贼先擒王 [qin2 zei2 xian1 qin2 wang2] {kam4 caak6 sin1 kam4 wong4} /vaincre l'ennemi en capturant leur chef/(expr. idiom.) il faut bien comprendre la situation avant d'agir/
-擒青 擒青 [qin2 qing1] {kam4 ceng1} /très urgent, pressant/rapidement, vite/
-擒騎 擒骑 [qin2 qi2] {kam4 ke4} /(enfants) qui grimpent en haut de quelque puis descendent de manière espiègle ou déobéissant/ 
+????f 擒上擒落 擒上擒落 [qin2 shang4 qin2 luo4] {kam4 soeng5 kam4 lok6} /grimper en haut (de quelque chose) puis descendre/monter puis descendre/
+擒擒青 擒擒青 [qin2 qin2 qing1] {kam4 kam4 ceng1} /rapidement; vite; précipitamment/
+擒樹 擒树 [qin2 shu4] {kam4 syu6} /grimper à un arbre/
+擒賊先擒王 擒贼先擒王 [qin2 zei2 xian1 qin2 wang2] {kam4 caak6 sin1 kam4 wong4} /(expr. idiom.) vaincre l'ennemi en capturant leur chef/(expr. idiom.) il faut bien comprendre la situation avant d'agir/
+擒青 擒青 [qin2 qing1] {kam4 ceng1} /rapidement; vite; précipitamment/
+????f 擒騎 擒骑 [qin2 qi2] {kam4 ke4} /(enfant) agité; qui aime grimper partout/
 擒高擒低 擒高擒低 [qin2 gao1 qin2 di1] {kam4 gou1 kam4 dai1} /grimper en haut (de quelque chose) puis descendre/
-擔 担 [dan1] {daam1} /porter, soutenir quelque chose (particulièrement sur l'épaule)/
-擔仔麵 担仔面 [dan4 zai3 mian4] {daam3 zai2 min6} /nouilles Ta-a, ou nouilles danzi, nouilles taïwanaises/
-擔任 担任 [dan1 ren4] {daam1 jam6} /occuper le poste de, exercer les fonctions de/
-擔保 担保 [dan1 bao3] {daam1 bou2} /garantir, promettre/se porter garant de/
+擔 担 [dan1] {daam1} /porter; soutenir quelque chose (particulièrement sur l'épaule)/
+擔仔麵 担仔面 [dan4 zai3 mian4] {daam3 zai2 min6} /nouilles Ta-a; nouilles danzi, nouilles taïwanaises/
+擔任 担任 [dan1 ren4] {daam1 jam6} /occuper le poste de; exercer les fonctions de/
+擔保 担保 [dan1 bao3] {daam1 bou2} /garantir; promettre/se porter garant de/
 擔保信 担保信 [dan1 bao3 xin4] {daam1 bou2 seon3} /lettre de garantie/
-擔大旗 担大旗 [dan1 da4 qi2] {daam1 daai6 kei4} /(fig.) être le responsable, être le chef/(lit.) lever le grand drapeau/
-擔屎唔偷食 担屎唔偷食 [dan1 shi3 m2 tou1 shi2] {daam1 si2 m4 tau1 sik6} /(expr. idiom.) honnête, de bonne foi, intègre/(lit.) qui tient la merde mais qui n'en mange pas/
-擔屎都唔偷食 担屎都唔偷食 [dan1 shi3 dou1 n2 tou1 shi2] {daam1 si2 dou1 m4 tau1 sik6} /(expr. idiom.) honnête, de bonne foi, intègre/(lit.) qui tient la merde mais qui n'en mange pas/
-???? 擔幡買水 担幡买水 [dan1 fan1 mai3 shui3] {daam1 faan1 maai5 seoi2} /Chinese customs and ceremony led and conducted by the eldest son in the funeral of one's father /
-擔戴 担戴 [dan1 dai5] {daam1 daai3} /responsable, fiable, enthousiaste/
-擔挑 担挑 [dan1 tiao1] {daam3 tiu1} /palanche, rouleau de bois qui permet de porter deux fardeaux sur l'épaule/
-擔梯 担梯 [dan1 ti1] {daam1 tai1} /grimper à l'échelle/(fam.) (fig.) la note la plus basse de l'examen scolaire HKCEE (Hong Kong Certificate of Education Examination), maintenant désuet et remplacé par l'examen HKDSE (Hong Kong Diploma of Secondary Education, «Diplôme d'études secondaires à Hong Kong»)/
-擔正 担正 [dan1 zheng4] {daam1 zeng3} /jouer le premier rôle, être l'acteur ou actrice principal(e)/
-擔當 担当 [dan1 dang1] {daam1 dong1} /assumer la responsabilité/
-擔竿 担竿 [dan1 gan1] {daam1 gon1} /palanche, rouleau de bois qui permet de porter deux fardeaux sur l'épaule/
-擔綱 担纲 [dan1 gang1] {daam1 gong1} /jouer le premier rôle, être l'acteur ou actrice principal(e)/
+擔大旗 担大旗 [dan1 da4 qi2] {daam1 daai6 kei4} /(fig.) être le responsable; être le chef/(lit.) lever le grand drapeau/
+擔屎唔偷食 担屎唔偷食 [dan1 shi3 m2 tou1 shi2] {daam1 si2 m4 tau1 sik6} /(expr. idiom.) honnête; intègre/(lit.) qui tient la merde mais qui n'en mange pas/
+擔屎都唔偷食 担屎都唔偷食 [dan1 shi3 dou1 n2 tou1 shi2] {daam1 si2 dou1 m4 tau1 sik6} /(expr. idiom.) honnête; intègre/(lit.) qui tient la merde mais qui n'en mange pas/
+????c 擔幡買水 担幡买水 [dan1 fan1 mai3 shui3] {daam1 faan1 maai5 seoi2} /Chinese customs and ceremony led and conducted by the eldest son in the funeral of one's father /
+擔戴 担戴 [dan1 dai5] {daam1 daai3} /être responsable; être fiable/sens des responsabilités/
+擔挑 担挑 [dan1 tiao1] {daam3 tiu1} /palanche; rouleau de bois qui permet de porter deux fardeaux sur l'épaule/
+擔梯 担梯 [dan1 ti1] {daam1 tai1} /grimper à l'échelle/(fam.) (fig.) « H », la note la plus basse de l'examen scolaire HKCEE (Hong Kong Certificate of Education Examination)/
+擔正 担正 [dan1 zheng4] {daam1 zeng3} /jouer le premier rôle; être l'acteur principal ou l'actrice principale/
+擔當 担当 [dan1 dang1] {daam1 dong1} /assumer la responsabilité (de quelque chose)/
+擔竿 担竿 [dan1 gan1] {daam1 gon1} /palanche; rouleau de bois qui permet de porter deux fardeaux sur l'épaule/
+擔綱 担纲 [dan1 gang1] {daam1 gong1} /jouer le premier rôle; être l'acteur principal ou l'actrice principale/
 擔遮 担遮 [dan1 zhe1] {daam1 ze1} /tenir un parapluie/
-擔風險 担风险 [dan1 feng1 xian3] {daam1 fung1 him2} /assumer la responsabilité pour un risque/
-擔高頭 担高头 [dan1 gao1 tou5] {daam1 gou1 tau4} /lever la tête, regarder en haut/
+擔風險 担风险 [dan1 feng1 xian3] {daam1 fung1 him2} /(fig.) prendre un risque/
+擔高頭 担高头 [dan1 gao1 tou5] {daam1 gou1 tau4} /lever la tête; regarder en haut/
 擘一字 掰一字 [bai1 yi1 zi4] {maak3 jat1 zi6} /faire le grand écart/
-擘大個口得個窿 掰大个口得个窿 [bai1 da4 ge4 kou3 de2 ge4 long2] {maak3 daai6 go3 hau2 dak1 go3 lung1} /(expr. idiom.) bouche bée, abasourdi, frappé de stupeur/(lit.) qui ouvre grand la bouche et trouver qu'un trou/
+擘大個口得個窿 掰大个口得个窿 [bai1 da4 ge4 kou3 de2 ge4 long2] {maak3 daai6 go3 hau2 dak1 go3 lung1} /(expr. idiom.) bouche bée; abasourdi; frappé de stupeur/(lit.) qui ouvre grand la bouche et trouver qu'un trou/
 擘大口 掰大口 [bai1 da4 kou3] {maak3 daai6 hau2} /ouvrir grand la bouche/
-擘大口得個窿 掰大口得个窿 [bai1 da4 kou3 de2 ge4 long2] {maak3 daai6 hau2 dak1 go3 lung1} /(expr. idiom.) bouche bée, abasourdi, frappé de stupeur/(lit.) qui ouvre grand la bouche et trouver qu'un trou/
+擘大口得個窿 掰大口得个窿 [bai1 da4 kou3 de2 ge4 long2] {maak3 daai6 hau2 dak1 go3 lung1} /(expr. idiom.) bouche bée; abasourdi; frappé de stupeur/(lit.) qui ouvre grand la bouche et trouver qu'un trou/
 擘大眼 掰大眼 [bai1 da4 yan3] {maak3 daai6 ngaan5} /ouvrir grand les yeux/
-擘大眼瀨尿 掰大眼濑尿 [bai1 da4 yan3 lai4 niao4] {maak3 daai6 ngaan5 laai6 niu6} /(expr. idiom.) (vulg.) faire quelque chose en public sans savoir que l'action est impolie ou indécente/(lit.) ouvrir grand les yeux et se mouiller/
-擘大眼講大話 掰大眼讲大话 [bai1 da4 yan3 jiang3 da4 hua4] {maak3 daai6 ngaan5 gong2 daai6 waa6} /(expr. idiom.) mentir comme un arracheur de dents; mentir de manière éhontée/(expr. idiom.) quelqu'un qui ment sans scrupule/(lit.) ouvrir grand les yeux et mentir/
-擘梯 掰梯 [bai1 ti1] {maak3 tai1} /échelle transformable, échelle double, échelle composée de deux échelles adossées l'une à l'autre/
-擘網巾 掰网巾 [bai1 wang3 jin1] {maak3 mong5 gan1} /couper les ponts, se séparer, rompre les relations avec quelqu'un/
-擘面 擘面 [bo4 mian4] {maak3 min6} /couper les ponts, se séparer, rompre les relations avec quelqu'un/
+????f 擘大眼瀨尿 掰大眼濑尿 [bai1 da4 yan3 lai4 niao4] {maak3 daai6 ngaan5 laai6 niu6} /(expr. idiom.) (vulg.) faire quelque chose d'indécent en public effrontément/(lit.) ouvrir grand les yeux et se mouiller/
+擘大眼講大話 掰大眼讲大话 [bai1 da4 yan3 jiang3 da4 hua4] {maak3 daai6 ngaan5 gong2 daai6 waa6} /(expr. idiom.) mentir comme un arracheur de dents; mentir de manière éhontée/(lit.) ouvrir grand les yeux et mentir/
+????f 擘梯 掰梯 [bai1 ti1] {maak3 tai1} /échelle transformable; échelle double; échelle composée de deux échelles adossées l'une à l'autre/
+????c 擘網巾 掰网巾 [bai1 wang3 jin1] {maak3 mong5 gan1} /couper les ponts; se séparer; rompre les relations avec quelqu'un/
+????f 擘面 擘面 [bo4 mian4] {maak3 min2} /(fig.) couper les ponts; se séparer de manière acrimonieuse; rompre les relations avec quelqu'un/(lit.) démonter le visage/
 擘開 擘开 [bo4 kai1] {maak3 hoi1} /ouvrir; ouvrir grand/
-擘髀 掰髀 [bai1 bi4] {maak3 bei2} /s'asseoir avec les jambes écartées/
-據 据 [ju4] {geoi3} /preuve, quelque chose qui établit la véracité d'un fait/
-據我所知 据我所知 [ju4 wo3 suo3 zhi1] {geoi3 ngo5 so2 zi1} /d'après ce que je sais, d'après moi, de ce que je connais/
-據説 据说 [ju4 shuo1] {geoi3 syut3} /prétendument, censément/on dit que/
-據講 據讲 [ji3 jiang3] {geoi3 gong2} /prétendument, censément/on dit que/
-㩒住頭 㩒住头 [qin2 zhu4 tou2] {gam6 zyu6 tau4} /(faire quelque chose) sans lever la tête/se mettre au travail/être absorbé dans son travail/
-㩒機 㩒机 [qin2 ji1] {gam6 gei1} /(fig.) retirer de l'argent d'un guichet automatique/(lit.) appuyer sur la machine/
-㩒錢 㩒钱 [qin2 qian2] {gam6 cin2} /(fig.) retirer de l'argent d'un guichet automatique/(fig.) extorquer de l'argent à quelqu'un/(lit.) appuyer sur l'argent/
-㩒鐘 㩒钟 [qin2 zhong1] {gam6 zung1} /faire sonner la cloche/
+????f 擘髀 掰髀 [bai1 bi4] {maak3 bei2} /s'asseoir avec les jambes écartées/(fig.) (d'une femme) écarter les jambes (et avoir des relations sexuelles)/(fig.) prostituée/
+據 据 [ju4] {geoi3} /preuve; quelque chose qui établit la véracité d'un fait/
+據我所知 据我所知 [ju4 wo3 suo3 zhi1] {geoi3 ngo5 so2 zi1} /à ma connaissance; d'après ce que je sais; d'après moi/
+據説 据说 [ju4 shuo1] {geoi3 syut3} /on dit que; j'ai entendu dire que/
+據講 據讲 [ji3 jiang3] {geoi3 gong2} /on dit que; j'ai entendu dire que/
+㩒住頭 㩒住头 [qin2 zhu4 tou2] {gam6 zyu6 tau4} /se mettre au travail; s'affairer à (faire quelque chose)/être absorbé dans son travail/
+㩒機 㩒机 [qin2 ji1] {gam6 gei1} /(fig.) retirer de l'argent à un guichet automatique; retirer de l'argent à un distributeur automatique de billets/(lit.) appuyer sur la machine/
+㩒錢 㩒钱 [qin2 qian2] {gam6 cin2} /(fig.) retirer de l'argent à un guichet automatique; retirer de l'argent à un distributeur automatique de billets/(lit.) appuyer sur l'argent/
+㩒鐘 㩒钟 [qin2 zhong1] {gam6 zung1} /sonner à la porte/
 㩒鷓鴣 㩒鹧鸪 [qin2 zhe4 gu1] {gam6 ze3 gu1} /(expr. idiom.) arnaquer, escroquer quelqu'un/(expr. idiom.) faire chanter quelqu'un, extorquer, faire du chantage à quelqu'un/(lit.) appuyer sur la perdrix/ 
 擠 挤 [ji3] {zai1} /bousculer/mettre, placer, poser/
 擠喺 挤喺 [ji3 bei2] {zai1 hai2} /mettre, placer, poser (quelque part)/
