@@ -9848,55 +9848,56 @@
 攞苦嚟辛 攞苦嚟辛 [luo1 ku3 li2 xin1] {lo2 fu2 lei4 san1} /(expr.) chercher des ennuis/
 攞走 攞走 [luo1 zou3] {lo2 zau2} /saisir; s'emparer de; empoigner/emporter; porter hors d'un lieu/à emporter (nourriture, boisson, etc.) (voir aussi 拎走|拎走, 外賣|外卖)/
 攞錢 攞钱 [luo1 qian2] {lo2 cin2} /(fig.) retirer de l'argent à un guichet automatique; retirer de l'argent à un distributeur automatique de billets/demander de l'argent/
-攣 挛 [luan2] {lyun4} /courbé, tortueux/(péj.) homosexuel/
-攣弓 挛弓 [luan2 gong1] {lyun1 gung1} /courbé, tortueux/difforme/crochu/
-攣弓蝦米 挛弓虾米 [luan2 gong1 xia1 mi5] {lyun1 gung1 haa1 mai5} /(expr. idiom.) courbé, tortueux/(lit.) courbé comme une crevette/
-攣捐 挛捐 [luan2 juan1] {lyun1 gyun1} /courbé, tortueux/
+攣 挛 [luan2] {lyun1} /courbé; courbe; incurvé/(péj.) homosexuel/
+攣 挛 [luan2] {lyun4} /(muscle) se contracter/
+攣弓 挛弓 [luan2 gong1] {lyun1 gung1} /courbé; courbe; incurvé/crochu/
+攣弓蝦米 挛弓虾米 [luan2 gong1 xia1 mi5] {lyun1 gung1 haa1 mai5} /(expr. idiom.) courbé; courbe; incurvé/(lit.) courbé comme une crevette/
+攣捐 挛捐 [luan2 juan1] {lyun1 gyun1} /courbé; tortueux/
 攣毛 挛毛 [luan2 mao2] {lyun1 mou1} /cheveux bouclés/
 攤 摊 [tan1] {taan1} /s'allonger/faire une pause/s'allonger sur le lit/partager (le coût de quelque chose)/laisser refroidir/(classificateur pour les flaques d'eau)/
 攤凍 摊冻 [tan1 dong4] {taan1 dung3} /laisser refroidir quelque chose de chaud (comme un bol de soupe)/
-攤屍 摊尸 [tan1 shi1] {taan1 si1} /s'allonger sur le dos/savasana, posture du cadavre, posture de relaxation dans le yoga/
-攤攤腰 摊摊腰 [tan1 tan1 yao1] {taan1 taan1 jiu1} /tomber à plat sur terre, tomber de tout son long/douloureux/épuisé, fatigué/s'allonger, se reposer, faire une pause/
-攤牌 摊牌 [tan1 pai2] {taan1 paai2} /montrer, démontrer/révéler les tuiles d'une main gagnante (mah-jong)/confrontation, épreuve de force/
-攤直 摊直 [tan1 zhi2] {taan1 zik6} /(fig.) mort/(lit.) s'allonger à plat/
-攪 搅 [jiao3] {gaau2} /attiser, susciter une dispute inutile/
-攪三攪四 搅三搅四 [gao3 san1 gao3 si4] {gaau2 saam1 gaau2 sei3} /(expr. idiom.) semer la discorde, semer la zizanie, chercher à causer des disputes entre deux personnes en répandant des rumeurs/(lit.) mélanger trois mélanger quatre/
-攪事 搅事 [jiao3 shi4] {gaau2 si6} /créer des ennuis, susciter des problèmes/
-攪到咁大鑊 搅到咁大镬 [jiao3 dao4 gan1 da4 huo4] {gaau2 dou3 gam2 daai6 wok6} /(expr. idiom.) hors contrôle, désordre total, fouillis/(lit.) faire en sorte que ça devienne un grand wok/
-攪到滿天神佛 搅到满天神佛 [jiao3 dao4 man3 tian1 shen2 fo2] {gaau2 dou3 mun5 tin1 san4 fat6} /(expr. idiom.) faire une erreure et causer un grand problème/(lit.) faire en sorte que le ciel se remplit de dieux et bouddhas/
+攤屍 摊尸 [tan1 shi1] {taan1 si1} /s'allonger sur le dos/savasana, posture du cadavre, posture de relaxation dans le yoga/dormir; être paresseux/
+攤攤腰 摊摊腰 [tan1 tan1 yao1] {taan1 taan1 jiu1} /épuisé; fatigué/
+攤牌 摊牌 [tan1 pai2] {taan1 paai2} /(mah-jong) révéler les tuiles d'une main gagnante/(jeux de cartes) poser ses cartes sur la table; abattre ses cartes/confrontation; épreuve de force/
+????f 攤直 摊直 [tan1 zhi2] {taan1 zik6} /(fig.) (humoristique) casser sa pipe; mourir/(lit.) s'allonger à plat/
+攪 搅 [jiao3] {gaau2} /mélanger/faire/attiser le feu; semer la zizanie/
+????f 攪三攪四 搅三搅四 [gao3 san1 gao3 si4] {gaau2 saam1 gaau2 sei3} /(expr. idiom.) faire de mauvaises choses/(expr. idiom.) coucher avec beaucoup de personnes; visiter beaucoup de prosituées/(expr. idiom.) se créer des ennuis/
+攪事 搅事 [jiao3 shi4] {gaau2 si6} /créer des problèmes; semer la zizanie/
+攪到咁大鑊 搅到咁大镬 [jiao3 dao4 gan1 da4 huo4] {gaau2 dou3 gam2 daai6 wok6} /(expr. idiom.) hors contrôle; désordre total; pagaille/(lit.) faire en sorte que ça devienne un grand wok/
+攪到滿天神佛 搅到满天神佛 [jiao3 dao4 man3 tian1 shen2 fo2] {gaau2 dou3 mun5 tin1 san4 fat6} /(expr. idiom.) faire une erreur et causer un grand problème/(lit.) faire en sorte que le ciel se remplit de dieux et bouddhas/
 攪勻 搅匀 [jiao3 yun2] {gaau2 wan4} /bien mélanger/
-攪唔掂 搅唔掂 [jiao3 n2 dian1] {gaau2 m4 dim6} /ne pas réussir, échouer/impossible, infaisable/
-攪嘢 搅嘢 [jiao3 ye3] {gaau2 je5} /faire quelque chose/(fig.) relations sexuelles/(fig.) drôle/(fig.) intéressant/
-攪屎棍 搅屎棍 [jiao3 shi3 gun4] {gaau2 si2 gwan3} /(fig.) fauteur de troubles, perturbateur/(lit.) bâton pour mélanger la merde/
-攪得掂 搅得掂 [jiao3 de5 dian1] {gaau2 dak1 dim6} /aucun problème!/capable de faire quelque chose/
-攪手 搅手 [jiao3 shou3] {gaau2 sau2} /organisateur/
+攪唔掂 搅唔掂 [jiao3 n2 dian1] {gaau2 m4 dim6} /ne pas réussir; échouer/impossible; infaisable/
+攪嘢 搅嘢 [jiao3 ye3] {gaau2 je5} /se créer des ennuis; se créer des problèmes/(fam.) avoir des relations sexuelles; faire l'amour/
+攪屎棍 搅屎棍 [jiao3 shi3 gun4] {gaau2 si2 gwan3} /(fig.) fauteur de troubles; perturbateur/(lit.) bâton pour mélanger la merde/
+攪得掂 搅得掂 [jiao3 de5 dian1] {gaau2 dak1 dim6} /pas de problème!/capable de faire quelque chose/
+攪手 搅手 [jiao3 shou3] {gaau2 sau2} /organisateur; fondateur/
 攪拌 搅拌 [jiao3 ban4] {gaau2 bun6} /mélanger/
-攪拌器 搅拌器 [jiao3 ban4 qi4] {gaau2 bun6 hei3} /mélangeur électroménager, mixer, blender/
-攪掂 搅掂 [jiao3 dian1] {gaau2 dim1} /c'est fait, c'est fini!/c'est réglé/(fig.) tuer quelqu'un, assassiner quelqu'un/
-攪攪震 搅搅震 [jiao3 jiao3 zhen4] {gaau2 gaau2 zan3} /s'amuser (de manière espiègle)/traîner, se relâcher, ne pas faire son travail/
-攪是攪非 搅是搅非 [jiao3 shi4 jiao3 fei1] {gaau2 si6 gaau2 fei1} /(expr. idiom.) semer la discorde, semer la zizanie/(lit.) faire oui faire non/
-攪珠 搅珠 [jiao3 zhu1] {gaau2 zyu1} /tirer au sort/tirage au sort/
-攪生晒 搅生晒 [jiao3 sheng1 shai4] {gaau2 saang1 saai3} /chercher des ennuis, causer de troubles/
-攪笑 搅笑 [jiao3 xiao4] {gaau2 siu3} /drôle, comique, marrant, rigolo/
-攪腸痧 搅肠痧 [jiao3 chang2 sha1] {gaau2 coeng4 saa1} /colique, mal au ventre/
-攪錯 搅错 [jiao3 cuo4] {gaau2 co3} /commettre une erreure, faire une faute/avoir tort, ne pas avoir raison/
-攪風攪雨 搅风搅雨 [jiao3 feng1 jiao3 yu3] {gaau2 fung1 gaau2 jyu5} /(expr. idiom.) créer des ennuis, créer des troubles/(lit.) se mêler du vent et de la pluie/ 
-攪鬼 搅鬼 [jiao3 gui3] {gaau2 gwai2} /faire un coup fourré, utiliser des tactiques sournoises/
-攬 揽 [lan3] {laam5} /embrasser, faire un câlin/
+攪拌器 搅拌器 [jiao3 ban4 qi4] {gaau2 bun6 hei3} /mélangeur électroménager; mixer; blender/
+攪掂 搅掂 [jiao3 dian1] {gaau2 dim1} /c'est fait! c'est fini! c'est réglé!/(fig.) tuer quelqu'un; assassiner quelqu'un/
+????f 攪攪震 搅搅震 [jiao3 jiao3 zhen4] {gaau2 gaau2 zan3} /(fig.) créer des ennuis; créer des problèmes/(fig.) s'amuser (de manière espiègle)/
+攪是攪非 搅是搅非 [jiao3 shi4 jiao3 fei1] {gaau2 si6 gaau2 fei1} /(expr. idiom.) semer la discorde; semer la zizanie/(lit.) faire oui faire non/
+攪珠 搅珠 [jiao3 zhu1] {gaau2 zyu1} /tirer au sort/
+攪生晒 搅生晒 [jiao3 sheng1 shai4] {gaau2 saang1 saai3} /(fig.) créer des ennuis; créer des problèmes/
+攪笑 搅笑 [jiao3 xiao4] {gaau2 siu3} /drôle; comique; marrant; rigolo/
+攪腸痧 搅肠痧 [jiao3 chang2 sha1] {gaau2 coeng4 saa1} /colique; mal au ventre; iléus; troubles gastro-intestinaux/
+攪錯 搅错 [jiao3 cuo4] {gaau2 co3} /faire une erreur; faire une faute/avoir tort; ne pas avoir raison/
+攪風攪雨 搅风搅雨 [jiao3 feng1 jiao3 yu3] {gaau2 fung1 gaau2 jyu5} /(expr. idiom.) créer des ennuis; créer des problèmes/(lit.) se mêler du vent et de la pluie/ 
+????f 攪鬼 搅鬼 [jiao3 gui3] {gaau2 gwai2} /créer des ennuis; créer des problèmes/faire un coup fourré; utiliser des tactiques sournoises/
+攬 揽 [lan3] {laam5} /faire un câlin; se serrer dans les bras; prendre dans les bras; s'étreindre/
 攬上身 揽上身 [lan3 shang4 shen1] {laam2 soeng5 san1} /(fig.) se charger de/(lit.) se coller à son corps/
-攬住 揽住 [lan3 zhu4] {laam2 zyu6} /prendre dans ses bras, s'étreindre/mouler/s'agripper/
-攬住一齊死 揽住一齐死 [lan3 zhu4 yi1 ji4 si3] {laam5 zyu6 jat1 cai4 sei2} /(expr. idiom.) condamnés à connaître le même triste sort, condamnés à mourir ensemble/(fig.) mourir en s'étreignant/
-攬實 揽实 [lan3 shi2] {laam2 sat6} /s'étreindre, prendre dans ses bras/tenir fermement/
-攬枕 揽枕 [lan3 zhen3] {laam2 zam2} /traversin, polochon/
+攬住 揽住 [lan3 zhu4] {laam2 zyu6} /faire des câlins; se serrer dans les bras; prendre dans les bras; s'étreindre/
+????f 攬住一齊死 揽住一齐死 [lan3 zhu4 yi1 ji4 si3] {laam5 zyu6 jat1 cai4 sei2} /(expr. idiom.) condamnés à connaître le même triste sort; condamnés à mourir ensemble/(fig.) mourir en s'étreignant/
+攬實 揽实 [lan3 shi2] {laam2 sat6} /faire des câlins; s'étreindre; prendre dans les bras; se serrer dans les bras/tenir fermement/
+攬枕 揽枕 [lan3 zhen3] {laam2 zam2} /traversin; polochon/
 ????f 攬身攬勢 揽身揽势 [lan3 shen1 lan3 shi4] {laam2 san1 laam2 sai3} /s'étreindre et faire des câlins/
-攬頭 揽头 [lan3 tou2] {laam5 tau2} /agence maritime/contractuel, contractuelle/
+????c 攬頭 揽头 [lan3 tou2] {laam5 tau2} /agence maritime/contractuel, contractuelle/
 攬頸巾 揽颈巾 [lan3 jing3 jin1] {laam6 geng2 gan1} /porter une écharpe/
-𢺳唔番 𪮳唔番 [man2 wu2 fan1] {maan1 m4 faan1} /irréparable, qui ne peut pas être réparé/
-𢺳𢺳緊 𢺳𢺳紧 [man2 man2 jin3] {maan1 maan1 gan2} /juste assez, tout juste/arriver tout juste à joindre les deux bouts/
-𢺳車邊 𢺳车边 [man2 che1 bian1] {maan1 ce1 bin1} /(expr. idiom.) suivre, coller aux basques de quelqu'un et en tirer profit, bénéficier d'une autre personne/(expr. idiom.) réussir à peine/(lit.) obtenir un voyage gratuit en s'accrochant au bord de l'autobus/ 
+𢺳唔番 𢺳唔番 [man2 wu2 fan1] {maan1 m4 faan1} /irréparable; qui ne peut pas être réparé/
+????c 𢺳𢺳緊 𢺳𢺳紧 [man2 man2 jin3] {maan1 maan1 gan2} /juste assez; tout juste/arriver tout juste à joindre les deux bouts/
+????f 𢺳車邊 𢺳车边 [man2 che1 bian1] {maan1 ce1 bin1} /(expr. idiom.) suivre quelqu'un et en tirer profit; bénéficier d'une autre personne/(expr. idiom.) réussir à peine (à faire quelque chose); réussir de justesse/(lit.) obtenir un voyage gratuit en s'accrochant au bord de l'autobus/ 
 支 支 [zhi1] {zi1} /(classificateur pour les bouteilles)/bouteille/payer/
 支使 支使 [zhi1 shi3] {zi1 sai2} /ordonner quelqu'un à faire quelque chose/
-支援 支援 [zhi1 yuan2] {zi1 wun4} /aider, assister/
+支援 支援 [zhi1 yuan2] {zi1 wun4} /aider; secourir; soutenir/
 支支整整 支支整整 [zhi1 zhi1 zheng3 zheng3] {zi1 zi1 zing2 zing2} /prendre trop de temps pour se maquiller, s'habiller, etc., qui se soucie trop de son apparence/
 支整 支整 [zhi1 zheng3] {zi1 zing2} /prendre trop de temps pour se maquiller, s'habiller, etc., qui se soucie trop de son apparence/
 支氣管 支气管 [zhi1 qi4 guan3] {zi1 hei3 gun2} /bronches, conduits cartilagineux qui mènent aux poumons/
