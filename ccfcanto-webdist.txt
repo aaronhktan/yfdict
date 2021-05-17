@@ -4123,7 +4123,7 @@
 唔三唔四 唔三唔四 [n2 san1 wu2 si4] {m4 saam1 m4 sei3} /ni l'un ni l'autre/compromis qui ne convient à personne/dubitatif/louche/indécent/
 唔中用 唔中用 [n2 zhong1 yong4] {m4 zung1 jung6} /(personne) incapable, nul/
 唔似 唔似 [n2 shi4] {m4 ci5} /différent; qui ne ressemble à aucune autre/
-唔似樣 唔似样 [n2 shi4 yang4] {m4 ci5 joeng2} /scandaleux; choquant/
+唔似樣 唔似样 [n2 shi4 yang4] {m4 ci5 joeng2} /scandaleux; choquant/être complètement différent/
 唔使 唔使 [m2 shi3] {m4 sai2} /ne pas avoir besoin; ne pas être nécessaire/
 唔使做 唔使做 [m2 shi3 zuo4] {m4 sai2 zou6} /ne pas avoir besoin de faire quelque chose/
 唔使唔該 唔使唔该 [m2 shi3 wu2 gai1] {m4 sai2 m4 goi1} /pas besoin de dire merci/
@@ -9086,7 +9086,7 @@
 按計劃 按计划 [an4 ji4 hua4] {on3 gai3 waak6} /conformément au plan; comme prévu; selon le plan/selon le calendrier prévu; à temps/
 按金 按金 [an4 jin1] {on3 gam1} /acompte; avance/
 挑 挑 [tiao1] {tiu1} /(vulg.) va te faire foutre! merde! (voir aussi 屌|屌)/
-挑逗 挑逗 [tiao3 dou4] {tiu1 dau6} /draguer; séduire; flirter; faire la cour/
+挑逗 挑逗 [tiao3 dou4] {tiu1 dau6} /draguer; séduire; flirter/
 挑通眼眉 挑通眼眉 [tiao1 tong1 yan3 mei2] {tiu1 tung1 ngaan5 mei4} /(expr. idiom.) perspicace; observateur; vif d'esprit/(lit.) qui épile tous les sourcils/
 挑選 挑选 [tiao1 xuan3] {tiu1 syun2} /choisir; sélectionner/
 挖 挖 [wa1] {waat3} /creuser/persuader quelqu'un à changer d'emploi (voir aussi 挖角|挖角)/
@@ -9948,56 +9948,56 @@
 ????c 收話器 收话器 [shou1 hua4 qi4] {sau1 waa2 hei3} /récepteur téléphonique/
 收貨 收货 [shou1 huo4] {sau1 fo3} /réception de marchandise; réception des biens/
 ????f 收買人命 收买人命 [shou1 mai3 ren2 ming4] {sau1 maai5 jan4 meng6} /(expr. idiom.) tu pourrais tuer quelqu'un en faisant cela!/(lit.) acheter la vie d'une personne/
-收買人心 收买人心 [shou1 mai3 ren2 xin1] {sau1 maai5 jan4 sam1} /(expr. idiom.) acheter l'appui populaire/(lit.) acheter les coeurs des gens/
-收買佬 收买佬 [shou1 mai3 lao3] {sau1 maai5 lou2} /personne qui gagne sa vie en achetant de vieux appareils électroniques, les réparant, et les revendant/acheteur de ferraille/
-收費 收费 [shou1 fei4] {sau1 fai3} /frais, prix/
-收起 收起 [shou1 qi3] {sau1 hei2} /ranger, emballer (mettre de côté quelque chose, l'entroposer)/arrêter (de faire quelque chose), ça suffit/retirer (quelque chose que l'on a dit)/
+????f 收買人心 收买人心 [shou1 mai3 ren2 xin1] {sau1 maai5 jan4 sam1} /(expr. idiom.) acheter le support du public/(lit.) acheter les coeurs des gens/
+????f 收買佬 收买佬 [shou1 mai3 lao3] {sau1 maai5 lou2} /personne qui gagne sa vie en achetant de vieux appareils électroniques, les réparant, puis les revendant/acheteur de ferraille/
+收費 收费 [shou1 fei4] {sau1 fai3} /frais; prix/imposer des frais/
+收起 收起 [shou1 qi3] {sau1 hei2} /ranger (quelque chose)/arrêter (de faire quelque chose); ça suffit/retirer (quelque chose que l'on a dit)/
 收銀員 收银员 [shou1 yin2 yuan2] {sau1 ngan2 jyun4} /caissier, caissière/
-收銀處 收银处 [shou1 yin2 chu3] {sau1 ngan2 cyu5} /caissier, caissière/
-收錢 收钱 [shou1 qian2] {sau1 cin4} /recevoir un paiement/percevoir un paiement, encaisser un paiement/
-收陀地 收陀地 [shou1 tuo2 di4] {sau1 to4 dei2} /(fig.) extorquer une taxe de protection ou paiement de pizzo/
-收風 收风 [shou1 feng1] {sau1 fung1} /(expr. idiom.) apprendre, s'informer, avoir vent de/(expr. idiom.) découvrir quelque chose grâce à un informateur ou une informatrice/(lit.) recevoir du vent/
-改天換地 改天换地 [gai3 tian1 huan4 di4] {goi2 tin1 wun6 dei6} /(expr. idiom.) changer le monde/(fig.) révolution, rébellion/(fig.) grand changement, changement brusque/(fig.) refaire la nature/(lit.) réviser ciel et changer terre/
-改弦更張 改弦更张 [gai3 xian2 geng1 zhang1] {goi2 jin4 gang1 zoeng1} /(expr. idiom.) se réformer; tourner la page; prendre un nouveau départ; recommencer/(expr. idiom.) réformer, changer de politique/
-改換 改换 [gai3 huan4] {goi2 wun6} /échanger, troquer, substituer/
-改簿 改簿 [gai3 bu4] {goi2 bou2} /noter les devoirs/
-改良品種 改良品种 [gai3 liang2 pin3 zhong3] {goi2 loeng4 ban2 zung2} /cultivar amélioré, cultivar plus performant/
+????f 收銀處 收银处 [shou1 yin2 chu3] {sau1 ngan2 cyu5} /comptoir, surface où l'argent est échangé dans un magasin/
+收錢 收钱 [shou1 qian2] {sau1 cin4} /recevoir un paiement/percevoir un paiement; encaisser un paiement/
+????f 收陀地 收陀地 [shou1 tuo2 di4] {sau1 to4 dei2} /(fig.) extorquer une taxe de protection ou paiement de pizzo/
+收風 收风 [shou1 feng1] {sau1 fung1} 收到風 收到风 [shou1 dao4 feng1] {sau1 dou2 fung1} /(expr. idiom.) apprendre; être informé; avoir vent de/(expr. idiom.) découvrir quelque chose grâce à un informateur ou une informatrice/
+改天換地 改天换地 [gai3 tian1 huan4 di4] {goi2 tin1 wun6 dei6} /(expr. idiom.) changer le monde/(lit.) réviser le ciel et changer la terre/
+改弦更張 改弦更张 [gai3 xian2 geng1 zhang1] {goi2 jin4 gang1 zoeng1} /(expr. idiom.) se réformer; tourner la page; prendre un nouveau départ; recommencer/(expr. idiom.) réformer; changer de politique/
+改換 改换 [gai3 huan4] {goi2 wun6} /échanger; substituer; remplacer/
+改簿 改簿 [gai3 bu4] {goi2 bou2} /corriger les devoirs/
+改良品種 改良品种 [gai3 liang2 pin3 zhong3] {goi2 loeng4 ban2 zung2} /(agriculture) cultivar amélioré; cultivar plus performant/
 改變主意 改变主意 [gai3 bian4 zhu3 yi5] {goi2 bin3 zyu2 ji3} /changer d'avis/
-改轉 改转 [gai3 zhuan3] {goi2 zyun2} /changer à, devenir/
+改轉 改转 [gai3 zhuan3] {goi2 zyun3} /changer à; devenir/
 改錯帶 改错带 [gai3 cuo4 dai4] {goi2 co3 daai2} /ruban correcteur/
-攻其不備 攻其不备 [gong1 qi2 bu4 bei4] {gung1 kei4 bat1 bei6} /attaquer avant que l'ennemi soit préparé, prendre l'ennemi par surprise/
-攻勢 攻势 [gong1 shi4] {gung1 sai3} /attaquer/
-攻堅 攻坚 [gong1 jian1] {gung1 gin1} /attaquer les murailles, attaquer les fortifications/
-攻心 攻心 [gong1 xin1] {gung1 sam1} /(fig.) lancer une attaque psychologique, lancer une attaque émotionnelle/(fig.) démoraliser, décourager/(fig.) extorquer des aveux, convaincre quelqu'un à avouer/(lit.) attaquer au coeur/
-攻打四方城 攻打四方城 [gong1 da3 si4 fang1 cheng2] {gung1 daa2 sei3 fong1 sing4} /(fig.) jouer un jeu de mah-jong/(lit.) attaquer une ville carrée/
-攻擊 攻击 [gong1 ji1] {gung1 gik1} /monter à l'assaut, lancer une attaque, attaquer/
-攻無不克 攻无不克 [gong1 wu2 bu4 ke4] {gung1 mou4 bat1 hak1} /toujours vainqueur/
-攻鼻揦脷 攻鼻揦脷 [gong1 bi2 la2 li4] {gung1 bei6 laa2 lei6} /(fig.) odeur affreuse, qui irrite le nez et brûle la langue/
-放 放 [fang4] {fong3} /zoomer, agrandir, élargir/bannir, exiler/
-放下心頭大石 放下心头大石 [fang4 xia5 xin1 tou2 da4 shi2] {fong3 haa6 sam1 tau4 daai6 sek6} /(expr. idiom.) enlever un fardeau énorme de ses épaules, soulager ses inquiétudes/(lit.) enlever une grande roche de son esprit/
-放低 放低 [fang4 di1] {fong3 dai1} /poser, placer sur une surface, mettre à terre/lâcher/
-放低二兩 放低二两 [fang4 di1 er4 liang3] {fong3 dai1 ji6 loeng5} /(fig.) uriner, défequer/(lit.) dépenser un centime/
+????f 攻其不備 攻其不备 [gong1 qi2 bu4 bei4] {gung1 kei4 bat1 bei6} /(expr.) attaquer avant que l'ennemi soit préparé; prendre l'ennemi par surprise/
+攻勢 攻势 [gong1 shi4] {gung1 sai3} /offensive; attaque/
+攻堅 攻坚 [gong1 jian1] {gung1 gin1} /attaquer les murailles; attaquer les fortifications/
+????f 攻心 攻心 [gong1 xin1] {gung1 sam1} /(fig.) lancer une attaque psychologique; lancer une attaque émotionnelle; démoraliser; décourager/(médecine traditionnelle chinoise) être dans le coma à cause de troubles émotionnels/(lit.) attaquer au coeur/
+攻打四方城 攻打四方城 [gong1 da3 si4 fang1 cheng2] {gung1 daa2 sei3 fong1 sing4} /(fig.) jouer une partie de mah-jong/(lit.) attaquer une ville carrée/
+攻擊 攻击 [gong1 ji1] {gung1 gik1} /monter à l'assaut; lancer une attaque; attaquer/
+????f 攻無不克 攻无不克 [gong1 wu2 bu4 ke4] {gung1 mou4 bat1 hak1} /(expr.) être toujours vainqueur/
+攻鼻揦脷 攻鼻揦脷 [gong1 bi2 la2 li4] {gung1 bei6 laa2 lei6} /(expr.) (odeur) affreux; qui irrite le nez et brûle la langue/
+放 放 [fang4] {fong3} /libérer/faire paître/promener (son chien)/zoomer; agrandir; élargir (voir 放大|放大)/bannir; exiler/
+????f 放下心頭大石 放下心头大石 [fang4 xia5 xin1 tou2 da4 shi2] {fong3 haa6 sam1 tau4 daai6 sek6} /(expr. idiom.) enlever un fardeau énorme de ses épaules; soulager ses inquiétudes/(lit.) enlever une grande roche de son esprit/
+放低 放低 [fang4 di1] {fong3 dai1} /poser; placer sur une surface; mettre à terre/
+放低二兩 放低二两 [fang4 di1 er4 liang3] {fong3 dai1 ji6 loeng2} /(fig.) uriner/(lit.) dépenser un centime/
 放假 放假 [fang4 jia4] {fong3 gaa3} /prendre congé/partir en vacances/
-放光蟲 放光虫 [fang4 guang1 chong2] {fong3 gwong1 cung4} /luciole, mouche à feu/
-放入 放入 [fang4 ru4] {fong3 jap6} /mettre dedans, mettre à l'intérieur/ajouter/placer/
-放大 放大 [fang4 da4] {fong3 daai6} /zoomer, agrandir, élargir/
+放光蟲 放光虫 [fang4 guang1 chong2] {fong3 gwong1 cung4} /ver luisant; insectes bioluminescents/
+放入 放入 [fang4 ru4] {fong3 jap6} /mettre dedans; mettre à l'intérieur/
+放大 放大 [fang4 da4] {fong3 daai6} /zoomer; agrandir; élargir/
 放射科 放射科 [fang4 she4 ke1] {fong3 se6 fo1} /radiologie médicale/
-放工 放工 [fang4 gong1] {fong3 gung1} /finir de travailler, finir de bosser, rentrer chez soi/
-放心 放心 [fang4 xin1] {fong3 sam1} /soulager (ses inquiétudes)/t'en fais pas! ne t'inquiète pas!/
-放慢 放慢 [fang4 man4] {fong3 maan6} /ralentir/freiner/
-放數 放数 [fang4 shu4] {fong3 sou3} /prêter à usure/
-放晴 放晴 [fang4 qing2] {fong3 cing4} /(temps) ciel dégagé/(temps) s'éclaircir/
-放棄 放弃 [fang4 qi4] {fong3 hei3} /abandonner, cesser ou arrêter une activité/
+????f 放工 放工 [fang4 gong1] {fong3 gung1} /finir de travailler; finir de bosser; rentrer chez soi/
+放心 放心 [fang4 xin1] {fong3 sam1} /soulager (ses inquiétudes); être rassuré/t'en fais pas! ne t'inquiète pas!/
+放慢 放慢 [fang4 man4] {fong3 maan6} /ralentir/
+????f 放數 放数 [fang4 shu4] {fong3 sou3} /prêter à usure/
+放晴 放晴 [fang4 qing2] {fong3 cing4} /(temps) s'éclaircir/
+放棄 放弃 [fang4 qi4] {fong3 hei3} /renoncer à quelque chose; abandonner; cesser ou arrêter une activité/
 ????f 放榜 放榜 [fang4 bang3] {fong3 bong2} /publier des résultats d'examen; publier la liste des candidats acceptés/
-放水 放水 [fang4 shui3] {fong3 seoi2} /(fam.) (fig.) uriner/(fig.) faciliter une tâche, la rendre plus facile pour quelqu'un d'autre/(lit.) mettre de l'eau/
-放火 放火 [fang4 huo3] {fong3 fo2} /(fig.) créer une perturbation, semer le désordre/
-放炮 放炮 [fang4 pao4] {fong3 paau3} /tirer (une arme à feu, un pistolet)/crevaison, pneu crevé/faire sauter, faire exploser/
-放煙花 放烟花 [fang4 yan1 hua1] {fong3 jin1 faa1} /monter un spectacle de feu d'artifice/
-放熱 放热 [fang4 re4] {fong3 jit6} /produire de la chaleur, dégager de la chaleur/
+放水 放水 [fang4 shui3] {fong3 seoi2} /(fam.) (fig.) uriner/(fig.) laisser quelqu'un d'autre gagner un jeu/(lit.) mettre de l'eau/
+放火 放火 [fang4 huo3] {fong3 fo2} /mettre feu (à quelque chose)/
+放炮 放炮 [fang4 pao4] {fong3 paau3} /tirer (une arme à feu)/crevaison; pneu crevé/faire sauter; faire exploser/
+????c 放煙花 放烟花 [fang4 yan1 hua1] {fong3 jin1 faa1} /monter un spectacle de feu d'artifice/
+放熱 放热 [fang4 re4] {fong3 jit6} /produire de la chaleur; dégager de la chaleur/
 放狗 放狗 [fang4 gou3] {fong3 gau2} /promener le chien/
-放生 放生 [fang4 sheng1] {fong3 saang1} /libérer un animal/ne pas tenir quelqu'un responsable, ne pas fermer les yeux sur les fautes commises par quelqu'un/
-放生電 放生电 [fang4 sheng1 dian4] {fong3 saang1 din6} /flirter, draguer, séduire/(lit.) envoyer de l'électricité/
-放白鴿 放白鸽 [fang4 bai2 ge1] {fong3 baak6 gaap2} /(fig.) conspirer, comploter pour escroquer quelqu'un/(lit.) libérer les pigeons blancs/
+放生 放生 [fang4 sheng1] {fong3 saang1} /libérer un animal/
+放生電 放生电 [fang4 sheng1 dian4] {fong3 saang1 din6} /(fig.) flirter; draguer; séduire/(lit.) envoyer de l'électricité/
+????f 放白鴿 放白鸽 [fang4 bai2 ge1] {fong3 baak6 gaap2} /(fig.) conspirer pour escroquer quelqu'un/(lit.) libérer les pigeons blancs/
 放監 放监 [fang4 jian1] {fong3 gaam1} /sortir de prison/(fig.) sortir de l'école, finir de travailler/
 放紙鷂 放纸鹞 [fang4 zhi3 yao4] {fong3 zi2 jiu6} /faire voler un cerf-volant/
 放聲氣 放声气 [fang4 sheng1 qi4] {fong3 seng1 hei3} /(fig.) répandre des rumeurs/(fig.) permettre une fuite d'informations afin de jauger l'opinion publique/(lit.) relâcher un son du gaz/
