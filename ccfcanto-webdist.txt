@@ -2549,7 +2549,7 @@
 冧把 冧把 [lin1 ba3] {lam1 baa2} /chiffre; numéro/(par extension) numéro de téléphone/(orig.) de l'anglais « number » (« numéro; chiffre; nombre »)/
 冧檔 冧档 [lin1 dang4] {lam3 dong3} /(une entreprise, etc.) fermer; faire faillite/
 冧歌 冧歌 [lin1 ge1] {lam1 go1} /chanson d'amour; chanson sentimentale/
-冧篷頭 冧篷头 [lin1 peng2 tou2] {lam1 pung4 tau4} /radical Kangxi 40 « 冖 »/
+冧篷頭 冧篷头 [lin1 peng2 tou2] {lam1 pung4 tau4} /radical de Kangxi 40 « 冖 »/
 冧酒 冧酒 [lin1 jiu3] {lam1 zau2} /rhum/(orig.) de l'anglais « rum » (« rhum »)/
 ????f 冬大過年 冬大过年 [dong1 da4 guo4 nian5] {dung1 daai6 gwo3 nin4} /le solstice d'hiver est plus important que le Nouvel An chinois/
 冬季 冬季 [dong1 ji4] {dung1 gwai3} /saison d'hiver/
@@ -2868,7 +2868,7 @@
 剒 剒 [cuo4] {cok3} /tirer; exercer une force sur quelque chose/amener quelqu'un à révéler quelque chose par la ruse/
 剒住度氣 剒住度气 [cuo4 zhu4 du4 qi4] {co4 zyu6 dou6 hei3} /devoir supporter une chose désagréable/réprimer sa colère/
 剔 剔 [ti1] {tik1} /coche; √ (orig.) de l'anglais « tick », (« coche» )/trait relevé ou remontant de la calligraphie chinoise, « ㇀ »/
-剔手邊 剔手边 [ti1 shou3 bian1] {tik1 sau2 bin1} /radical Kangxi 64, la main « 扌»/
+剔手邊 剔手边 [ti1 shou3 bian1] {tik1 sau2 bin1} /radical de Kangxi 64, la main « 扌»/
 ????f 剖心 剖心 [pou1 xin1] {pau2 sam1} /ouvrir son coeur; parler avec son coeur/
 剖面圖 剖面图 [pou1 mian4 tu2] {pau2 min6 tou4} /image d'une coupe transversale (de quelque chose)/
 剛啱 刚啱 [gang1 yan1] {gong1 ngaam1} /justement; à ce moment/
@@ -6899,7 +6899,7 @@
 小輪 小轮 [xiao3 lun2] {siu2 leon4} /ferry; traversier/
 小轎車 小轿车 [xiao3 jiao4 che1] {siu2 giu2 ce1} /(voiture) berline/
 ????c 小造 小造 [xiao3 zao4] {siu2 zou6} /minimiser/ to have the second new year celebration in a year/
-小部 小部 [xiao3 bu4] {siu2 bou6} /radical Kangxi 42, « 小 »/Khuddaka Nikāya, dernière partie du Sutta Piṭaka, un texte canonique du bouddhisme/
+小部 小部 [xiao3 bu4] {siu2 bou6} /radical de Kangxi 42, « 小 »/Khuddaka Nikāya, dernière partie du Sutta Piṭaka, un texte canonique du bouddhisme/
 小隊 小队 [xiao3 dui4] {siu2 deoi2} /équipe; groupe/
 小電影 小电影 [xiao3 dian4 ying3] {siu2 din6 jing2} /court-métrage/film pornographique/
 小露寶 小露宝 [xiao3 lu4 bao3] {siu2 lou6 bou2} /Ganbare!! Robocon, série télévisée japonaise/
@@ -7550,7 +7550,7 @@
 廢事 废事 [fei4 shi4] {fai3 si6} /perte de temps/éviter de/
 廢棄物 废弃物 [fei4 qi4 wu4] {fai3 hei3 mat6} /détritus; déchets; ordures/
 ????f 廢話少講 废话少讲 [fei4 hua4 shao3 jiang3] {fai3 waa2 siu2 gong2} /(expr. idiom.) épargnez-nous ça; dites-le clairement/
-廣字頭 广字头 [guang3 zi4 tou2] {gwong2 zi6 tau4} /radical Kangxi 53, « 广 »/
+廣字頭 广字头 [guang3 zi4 tou2] {gwong2 zi6 tau4} /radical de Kangxi 53, « 广 »/
 廣島市 广岛市 [guang3 Dao3 shi4] {gwong2 dou2 si5} /Hiroshima, ville japonaise/
 廣州南站 广州南站 [guang3 zhou1 nan2 zhan4] {gwong2 zau1 naam4 zaam6} /Guangzhou South Railway Station, gare ferroviaire du sud de Canton/
 廣州撐粵語行動 广州撑粤语行动 [guang3 zhou1 cheng1 Yue4 yu3 xing2 dong4] {gwong2 zau1 caang1 jyut6 jyu5 hang4 dung6} /« Hold up Cantonese Movement », série de manifestations contre un changement de la langue de diffusion de la chaîne de télévision Guangzhou TV/
@@ -7657,7 +7657,7 @@
 彌敦道 弥敦道 [mi2 dun1 dao4] {nei4 deon1 dou6} /Nathan Road, rue située à Kowloon, Hong Kong/
 彎刀 弯刀 [wan1 dao1] {waan1 dou1} /machette/tulwar, lame courbée de l'Inde/yatagan, sabre turc/
 彎度 弯度 [wan1 du4] {waan1 dou6} /courbure/
-⺕ ⺕ [ji4] {gai3} /(clé des caractères chinois, radical Kangxi 58)/
+⺕ ⺕ [ji4] {gai3} /(clé des caractères chinois, radical de Kangxi 58)/
 ????f 形勢逼人 形势逼人 [xing2 shi4 bi1 ren2] {jing4 sai3 bik1 jan4} /(expr. idiom.) la situation est urgente/(lit.) situation qui change rapidement qui nous oblige à travailler plus fort/
 形式 形式 [xing2 shi4] {jing4 sik1} /forme/apparence/
 形式邏輯 形式逻辑 [xing2 shi4 luo2 ji5] {jing4 sik1 lo4 cap1} /logique/
@@ -8406,7 +8406,7 @@
 戴高帽 戴高帽 [dai4 gao1 mao4] {daai3 gou1 mou2} /(fig.) flatter/(lit.) porter un grand chapeau/
 戶外活動 户外活动 [hu4 wai4 huo2 dong4] {wu6 ngoi6 wut6 dung6} /activités en plein air/
 戶長 户长 [hu4 zhang3] {wu6 zoeng2} /propriétaire (de la maison)/chef de la famille/
-戽斗邊 戽斗边 [hu4 dou3 bian1] {fu3 dau2 bin1} /clé Kangxi 170: 阝(阜)/
+戽斗邊 戽斗边 [hu4 dou3 bian1] {fu3 dau2 bin1} /radical de Kangxi 170: 阝(阜)/
 ????f 戽被 戽被 [hu4 bei4] {fu3 pei5} /enlever ses couvertures lors du sommeil (habituellement pour parler des enfants)/
 ????f 房委會 房委会 [fang2 wei3 hui4] {fong4 wai2 wui2} /Hong Kong Housing Authority, le plus grand fournisseur de logement social à Hong Kong/
 房屋 房屋 [fang2 wu1] {fong4 uk1} /logement/
@@ -9590,7 +9590,7 @@
 撐檯腳 撑台脚 [cheng1 tai2 jiao3] {caang3 toi2 goek3} /(fig.) dîner (romantique); dîner avec une autre personne/(lit.) ramer le pied du table/
 ????f 撐船 撑船 [cheng1 chuan2] {caang1 syun4} /ramer (une chaloupe, un bateau); propulser un bateau/
 ????f 撐艇 撑艇 [cheng1 ting3] {caang1 teng5} /ramer (une chaloupe, un petit bateau); propulser un petit bateau/
-????f 撐艇仔 撑艇仔 [cheng1 ting3 zi3] {caang1 teng5 zai2} /ramer (une chaloupe, un petit bateau); propulser un petit bateau/clé Kangxi 162, « 辵 »/
+????f 撐艇仔 撑艇仔 [cheng1 ting3 zi3] {caang1 teng5 zai2} /ramer (une chaloupe, un petit bateau); propulser un petit bateau/radical de Kangxi 162, « 辵 »/
 撒鹽 撒盐 [sa3 yan2] {saat3 jim4} /saler; saupoudrer de sel/
 ????c 傷口撒鹽 伤口撒盐 [shang1 kou3 sa3 yan2] {soeng1 hau2 saa2 jim4} /(expr. idiom.) remuer le couteau dans la plaie; augmenter une douleur morale/(lit.) rajouter du sel dans la plaie/
 ????f 撕開 撕开 [si1 kai1] {si1 hoi1} /ouvrir quelque chose en déchirant/
@@ -10148,56 +10148,56 @@
 ????f 數碟底 数碟底 [shu4 die2 di3] {sou2 dip6 dai2} /(fig.) révéler les secrets de quelqu'un/(lit.) compter sous l'assiette/
 數碼暴龍 数码暴龙 [shu4 ma3 bao4 long2] {sou3 maa5 bou6 lung4} /Digimon, créatures numériques/
 數簿 数簿 [shu4 bu4] {sou3 bou2} /livre de comptes (finances)/
-數臭 数臭 [shu4 chou4] {sou2 cau3} /(fig.) réprimander, reprendre quelqu'un pour quelque chose/(fig.) parler aux autres des faiblesses de quelqu'un/(fig.) énumérer à quelqu'un chacun de ses défauts/(lit.) compter toutes les puanteurs/
-數說 数说 [shu3 shuo1] {sou2 syut3} /réprimander, reprendre quelqu'un pour quelque chose/
-???? 數還數，路還路 数还数，路还路 [shu4 hai2 shu4 , lu4 huan2 lu4] {sou3 waan4 sou3 lou6 waan4 lou6} /(expr. idiom.) les émotions et les finances doivent être séparées/(lit.) chiffres et chiffres, chemins avec chemins/
-???? 數還數路還路 数还数路还路 [shu4 hai2 shu4 lu4 huan2 lu4] {sou3 waan4 sou3 lou6 waan4 lou6} /(expr. idiom.) les émotions et les finances doivent être séparées/(lit.) chiffres et chiffres, chemins avec chemins/
-文不對題 文不对题 [wen2 bu4 dui4 ti2] {man4 bat1 deoi3 tai4} /hors de propos, sans rapport, pas pertinent, hors sujet/
-文件櫃 文件柜 [wen2 jian4 gui4] {man4 gin2 gwai6} /classeur, meuble de classement, meuble de rangement/
+????f 數臭 数臭 [shu4 chou4] {sou2 cau3} /(fig.) parler aux autres des points faibles de quelqu'un/(lit.) compter toutes les puanteurs/
+數說 数说 [shu3 shuo1] {sou2 syut3} /réprimander; reprendre/
+????f 數還數，路還路 数还数，路还路 [shu4 hai2 shu4 , lu4 huan2 lu4] {sou3 waan4 sou3 lou6 waan4 lou6} /(expr. idiom.) les émotions et les finances doivent être séparées/(lit.) chiffres et chiffres, chemins avec chemins/
+????f 數還數路還路 数还数路还路 [shu4 hai2 shu4 lu4 huan2 lu4] {sou3 waan4 sou3 lou6 waan4 lou6} /(expr. idiom.) les émotions et les finances doivent être séparées/(lit.) chiffres et chiffres, chemins avec chemins/
+文不對題 文不对题 [wen2 bu4 dui4 ti2] {man4 bat1 deoi3 tai4} /(expr.) hors de propos; sans rapport; pas pertinent; hors sujet/
+文件櫃 文件柜 [wen2 jian4 gui4] {man4 gin2 gwai6} /classeur; meuble de classement; meuble de rangement/
 文具舖 文具铺 [wen2 ju4 pu4] {man4 geoi6 pou2} /papeterie/
-文化中心 文化中心 [wen2 hua4 zhong1 xin1] {man4 faa3 zung1 sam1} /Centre culturel (de Hong Kong), lieu de spectacle/
+文化中心 文化中心 [wen2 hua4 zhong1 xin1] {man4 faa3 zung1 sam1} /Centre culturel (de Hong Kong)/lieu de spectacle/
 文匯報 文汇报 [wen2 hui4 bao4] {man4 wui6 bou3} /Wen Wei Po, journal de Hong Kong publié par le Bureau de liaison chinois/
 文字處理 文字处理 [wen2 zi4 chu3 li3] {man4 zi6 cyu2 lei5} /traitement de texte/
-文學作品 文学作品 [wen2 xue2 zuo4 pin3] {man4 hok6 zok3 ban2} /oeuvres littéraires/
-文學界 文学界 [wen2 xue2 jie4] {man4 hok6 gaai3} /cercles littéraires, monde littéraire/
-文房 文房 [wen2 fang2] {man4 fong2} /bureau, bibliothèque personnelle/
+文學作品 文学作品 [wen2 xue2 zuo4 pin3] {man4 hok6 zok3 ban2} /œuvres littéraires/
+文學界 文学界 [wen2 xue2 jie4] {man4 hok6 gaai3} /cercles littéraires; monde littéraire/
+文房 文房 [wen2 fang2] {man4 fong2} /bureau; bibliothèque personnelle/
 文明人 文明人 [wen2 ming2 ren2] {man4 ming4 jan4} /personne civilisée/
-文明國家 文明国家 [wen2 ming2 guo2 jia1] {man4 ming4 gwok3 gaa1} /pays civilisé, état civilisé/
+????f 文明國家 文明国家 [wen2 ming2 guo2 jia1] {man4 ming4 gwok3 gaa1} /pays civilisé; état civilisé/
 文武廟 文武庙 [wen2 wu3 miao4] {man4 mou5 miu2} /Temple Man Mo, temple dédié au dieu de la littérature Man Tai et au dieu Soldat Mo Tai/
 文沖 文冲 [wen2 chong1] {man4 cung1} /Wenchong, arrondissement de Canton/
-文白異讀 文白异读 [wen2 bai2 yi4 du2] {man4 baak6 ji6 duk6} /différences entre la prononciation littéraire et familière/ 
+????f 文白異讀 文白异读 [wen2 bai2 yi4 du2] {man4 baak6 ji6 duk6} /différences entre la prononciation littéraire et familière/ 
 文科 文科 [wen2 ke1] {man4 fo1} /arts libéraux/
-???? 文膽 文胆 [wen2 dan3] {man4 daam2} /a brain trust; a think tank; referring to those who come out with the plans and ideas/assistant, aide/
+文膽 文胆 [wen2 dan3] {man4 daam2} /assistant; conseiller/
 文華東方酒店 文华东方酒店 [wen2 hua2 dong1 fang1 jiu3 dian4] {man4 waa4 dung1 fong1 zau2 dim3} /Mandarin Oriental Hotel Group, groupe hôtelier international/
-???? 文藝片 文艺片 [wen2 yi4 pian4] {man4 ngai6 pin2} /art films/
+????c 文藝片 文艺片 [wen2 yi4 pian4] {man4 ngai6 pin2} /art films/
 文藝界 文艺界 [wen2 yi4 jie4] {man4 ngai6 gaai3} /cercles littéraires et artistiques/
-文雀 文雀 [wen2 que4] {man4 zoek3} /voleur, vol, cambrioleur/pickpocket, voleur à la tire/
-文雞 文鸡 [wen2 ji1] {man1 gai1} /(fam.) dollar, piasse/
+文雀 文雀 [wen2 que4] {man4 zoek3} /pickpocket; voleur à la tire/
+文雞 文鸡 [wen2 ji1] {man1 gai1} /(fam.) dollar; piasse/
 斑驢 斑驴 [ban1 lu:2] {baan1 leoi4} /quagga ou couagga, sous-espèce de zèbre éteinte/
-斗令 斗令 [dou4 ling4] {dau2 ling2} /ancienne pièce de cinq cents de Hong Kong/(fig.) un tout petit peu d'argent, très peu d'argent/(orig.) la pièce d'argent pesait trois candarins et six cashs, «斗» signifiant trois et «令» significant six dans un code secret de marchands/
-斗零 斗零 [dou4 ling2] {dau3 ling4} /ancienne pièce de cinq cents de Hong Kong/(fig.) un tout petit peu d'argent, très peu d'argent/(orig.) la pièce d'argent pesait trois candarins et six cashs, «斗» signifiant trois et «零» signifiant six dans un code secret de marchands/
-???? 料兆 料兆 [liao4 zhao4] {liu6 siu6} /ingredients/
-???? 斜喱眼 斜喱眼 [xie2 li2 yan3] {ce1 lei1 ngaan5} /verb; look sideways; skew; skew-eyed; slant; askance; askant/
-斜紋 斜纹 [xie2 wen2] {ce4 man4} /sergé, tissu croisé/
-斜路 斜路 [xie2 lu4] {ce4 lou6} /pente/
-斟 斟 [zhen1] {zam1} /discuter, parler de/parler à huis clos, parler en secret, parler en privé/
-斟吓 斟吓 [zhen1 xia4] {zam1 haa5} /(fig.) parler, discuter, bavarder/(lit.) verser (du thé) pour un moment/
+斗令 斗令 [dou4 ling4] {dau2 ling2} /ancienne pièce de cinq cents de Hong Kong/(fig.) un tout petit peu d'argent; très peu d'argent/(orig.) la pièce d'argent pesait trois candarins et six cashs, « 斗 » signifiant trois et « 令 » significant six dans un code secret de marchands/
+斗零 斗零 [dou4 ling2] {dau3 ling4} /ancienne pièce de cinq cents de Hong Kong/(fig.) un tout petit peu d'argent; très peu d'argent/(orig.) la pièce d'argent pesait trois candarins et six cashs, « 斗 » signifiant trois et « 零 » signifiant six dans un code secret de marchands/
+料兆 料兆 [liao4 zhao4] {liu6 siu6} /(cuisine) ingrédient/
+斜喱眼 斜喱眼 [xie2 li2 yan3] {ce1 lei1 ngaan5} /regarder de côté/
+斜紋 斜纹 [xie2 wen2] {ce4 man4} /sergé; tissu croisé/
+斜路 斜路 [xie2 lu4] {ce4 lou2} /pente; route escarpée/(fig.) voie du mal/
+斟 斟 [zhen1] {zam1} /discuter; parler de/verser/
+斟吓 斟吓 [zhen1 xia4] {zam1 haa5} /(fig.) parler; discuter; bavarder/(lit.) verser (du thé) pour un moment/
 斟掂 斟掂 [zhen1 dian1] {zam1 dim6} /(fig.) parvenir à un accord/(lit.) avoir fini de verser (un liquide)/
 斟水 斟水 [zhen1 shui3] {zam1 seoi2} /verser de l'eau/
-斟瀉 斟泻 [zhen1 xie4] {zam1 se2} /renverser, répandre un liquide par accident/
-斟生意 斟生意 [zhen1 sheng1 yi5] {zam1 saang1 ji3} /négocier, discuter affaires/
-斟盤 斟盘 [zhen1 pan2] {zam1 pun2} /(fig.) négocier, discuter affaires/(lit.) verser l'assiette/
-斟茶 斟茶 [zhen1 cha2] {zam1 caa4} /verser le thé, servir le thé/
-斟酌 斟酌 [zhen1 zhuo2] {zam1 zoek3} /réfléchir à, examiner les conséquences, considérer les possibilités/
+斟瀉 斟泻 [zhen1 xie4] {zam1 se2} /renverser; répandre un liquide par accident/
+????f 斟生意 斟生意 [zhen1 sheng1 yi5] {zam1 saang1 ji3} /négocier; discuter affaires/
+????f 斟盤 斟盘 [zhen1 pan2] {zam1 pun2} /(fig.) négocier; discuter affaires/(lit.) verser l'assiette/
+斟茶 斟茶 [zhen1 cha2] {zam1 caa4} /verser le thé; servir le thé/
+斟酌 斟酌 [zhen1 zhuo2] {zam1 zoek3} /réfléchir à; examiner les conséquences; considérer les possibilités/
 斧頭 斧头 [fu3 tou2] {fu2 tau2} /hache/
-斧頭打鑿鑿打木 斧头打凿凿打木 [fu3 tou5 da3 zao2 zao2 da3 mu4] {fu2 tau2 daa2 zok6 zok6 daa2 muk6} /(expr. idiom.) tout peut être vaincu/(lit.) hache frappe le ciseau, ciseau coupe le bois/
-斧頭邊 斧头边 [fu3 tou2 bian5] {fu2 tau4 bin1} /clé Kangxi 170, «阝»/
-斬件 斩件 [zhan3 jian4] {zaam2 gin2} /couper en petits morceaux/décomposer (un processus, un plan, etc.)/
-???? 斬倉 斩仓 [zhan3 cang1] {zaam2 cong1} /liquidation forcée/vendre ses actions à cause d'une chute de prix/
-斬到一頸血 斩到一颈血 [zhan3 dao4 yi1 jing3 xie3] {zaam2 dou3 jat1 geng2 hyut3} /(fig.) être arnaqué, escroqué/(lit.) tracher la gorge jusqu'à ce qu'elle saigne/
+????c 斧頭打鑿鑿打木 斧头打凿凿打木 [fu3 tou5 da3 zao2 zao2 da3 mu4] {fu2 tau2 daa2 zok6 zok6 daa2 muk6} /(expr. idiom.) tout peut être vaincu/(lit.) hache frappe le ciseau, ciseau coupe le bois/
+斧頭邊 斧头边 [fu3 tou2 bian5] {fu2 tau4 bin1} /radical de Kangxi 170, « 阝 »/
+斬件 斩件 [zhan3 jian4] {zaam2 gin2} /couper en petits morceaux/
+????f 斬倉 斩仓 [zhan3 cang1] {zaam2 cong1} /liquidation forcée/vendre ses actions à cause d'une chute de prix/
+斬到一頸血 斩到一颈血 [zhan3 dao4 yi1 jing3 xie3] {zaam2 dou3 jat1 geng2 hyut3} /(fig.) être arnaqué; escroqué/(lit.) couper la gorge jusqu'à ce qu'elle saigne/
 斬料 斩料 [zhan3 liao4] {zaam2 liu2} /acheter de siu mei (viande grillée cantonaise, comme le char siu) et l'apporter à la maison pour manger/
-???? 斬犯 斩犯 [zhan3 fan4] {zaam2 faan2} /criminel condamné à être décapité/
-斬獲 斩获 [zhan3 huo4] {zaam2 wok6} /résultat/acquisition, gain/réussite/
+斬犯 斩犯 [zhan3 fan4] {zaam2 faan2} /criminel condamné à être décapité/
+斬獲 斩获 [zhan3 huo4] {zaam2 wok6} /profit; gain/réussite/
 斬竹灣 斩竹湾 [zhan3 zhu2 wan1] {zaam2 zuk1 waan1} /Tsam Chuk Wan, une baie située à Hong Kong/
 斬纜 斩缆 [zhan3 lan3] {zaam2 laam6} /couper les cordes, particulièrement entre des bateaux/(fig.) arrêter une relation, mettre fin à une relation, couper les ponts, rompre les liens/(fig.) arrêter les frais, limiter le montant d'argent que l'on perd en bourse/(fig.) arrêter quelque chose en cours de réalisation/
 斬腳趾避沙蟲 斩脚趾避沙虫 [zhan3 jiao3 zhi3 bi4 sha1 chong2] {zaam2 goek3 zi2 bei6 saa1 cung4} /(expr. idiom.) prendre des mesures drastiques et excessives pour éviter une petit problème/(expr. idiom.) qui traite le symptôme mais ne guérit pas la maladie, qui ne résout pas le problème sous-jacent/(lit.) couper ses orteils pour éviter les insectes de sable/
@@ -13303,7 +13303,7 @@
 𤓓味 𤓓味 [luo2 wei4] {lo3 mei6} /odeur du feu; odeur de brûlé/
 爪 爪 [zhua3] {zaau2} /(d'un animal) serre; patte; griffe/
 爪哇語 爪哇语 [zhao3 wa1 yu3] {zaau2 waa1 jyu5} /(langue) javanais/
-爪部 爪部 [zhao3 bu4] {zaau2 bou6} /radical Kangxi 87; «爪»/
+爪部 爪部 [zhao3 bu4] {zaau2 bou6} /radical de Kangxi 87; « 爪 »/
 爬山单车 爬山单车 [pa2 shan1 dan1 che1] {paa4 saan1 daan1 ce1} /vélo tout terrain; vélo de montagne; vélo de randonnée/
 爬山單車 爬山单车 [pa2 shan1 dan1 che1] {paa4 saan1 daan1 ce1} /vélo tout terrain; vélo de montagne; vélo de randonnée/
 爬格仔 爬格仔 [pa2 ge2 zi3] {paa4 gaak3 zai2} /(fig.) vivre d'écriture; gagner sa vie en écrivant/(fig.) contribuer à un magazine, un journal/(fig.) exercises des doigts à la guitare/(lit.) grimper les boîtes/
@@ -13474,7 +13474,7 @@
 犬 犬 [quan3] {hyun2} /canin/canidé/
 犬子 犬子 [quan3 zi3] {hyun2 zi2} /(litt.) chiot/(litt., humble) mon fils/
 犬牙交錯 犬牙交错 [quan3 ya2 jiao1 cuo4] {hyun2 ngaa4 gaau1 co3} /(expr. idiom.) entrelacés; qui s'encastrent; qui s'imbriquent/(expr. idiom., fig.) (une situation) complexe; un fouillis/
-犬部 犬部 [quan3 bu4] {hyun2 bou6} /radical Kangxi 94, «犬»/
+犬部 犬部 [quan3 bu4] {hyun2 bou6} /radical de Kangxi 94, « 犬 »/
 犯人 犯人 [fan4 ren2] {faan6 jan4} /prisonnier, prisonnière; détenu, détenue/
 ????c 犯小人 犯小人 [fan4 xiao3 ren2] {faan6 siu2 jan2} /to be lacking in luck/to do bad things in order to reach your goals/
 犯忌 犯忌 [fan4 ji4] {faan6 gei6} /enfreindre un tabou/
@@ -13626,7 +13626,7 @@
 王 王 [wang2] {wong4} /(nom de famille chinois)/
 王傑 王杰 [wang2 jie2] {wong4 git6} /Dave Wong ou Wong Kit, chanteur hongkongais/
 王國興 王国兴 [wang2 guo2 xing1] {wong4 gwok3 hing1} /Wong Kwok-hing, ancien membre du Conseil Législatif de Hong Kong/
-王字邊 王字边 [wang2 zi4 bian1] {wong4 zi6 bin1} /clé Kangxi 96, « ⺩»/ 
+王字邊 王字边 [wang2 zi4 bian1] {wong4 zi6 bin1} /radical de Kangxi 96, « ⺩»/ 
 王孫 王孙 [wang2 sun1] {wong4 syun1} /membres de la famille royale, particulièrement les membres masculins/
 王家衞 王家卫 [wang2 jia1 wei4] {wong4 gaa1 wai6} /Wong Kar-wai, réalisateur, scénariste et producteur hongkongais/
 王悅 王悦 [wang2 yue4] {wong4 jyut6} /Wang Yue, fils aîné de Wang Dao, homme politique important de la dynastie Jin/
@@ -13897,7 +13897,7 @@
 生蟲枴杖 生虫拐杖 [sheng1 chong2 guai3 zhang4] {saang1 cung4 gwaai2 zoeng2} /(expr. idiom.) personne irresponsable/(lit.) canne infestée par des insectes/
 生蠔 生蚝 [sheng1 hao2] {saang1 hou4} /huître/
 生豬 生猪 [sheng1 zhu1] {saang1 zyu1} /cochon vivant/
-生部 生部 [sheng1 bu4] {saang1 bou6} /radical Kangxi 100, « 生 »/
+生部 生部 [sheng1 bu4] {saang1 bou6} /radical de Kangxi 100, « 生 »/
 生部 生部 [sheng1 bu4] {saang1 bou2} /étrange; bizarre; inhabituel/
 生鍟 生鍟 [sheng1 sheng1] {saang1 seng3} /rouiller/rouillé/
 生鏽 生锈 [sheng1 xiu4] {saang1 sau3} /rouiller/rouillé/
@@ -14127,7 +14127,7 @@
 病君 病君 [bing4 jun1] {beng6 gwan1} /(fam.) personne malade/(lit.) seigneur malade/
 病咗 病咗 [bing4 zuo5] {beng6 zo2} /tomber malade/
 病壞 病坏 [bing4 huai4] {beng6 waai2} /personne infirme/personne maladive; personne chétive/
-病字邊 病字边 [bing4 zi4 bian1] {beng6 zi6 bin1} /radicale Kangxi 104, « 疒 »/
+病字邊 病字边 [bing4 zi4 bian1] {beng6 zi6 bin1} /radicale de Kangxi 104, « 疒 »/
 病徵 病征 [bing4 zheng1] {beng6 zing1} /symptômes/
 病歿 病殁 [bing4 mo4] {beng6 mut6} /mourir d'une maladie/
 病貓 病猫 [bing4 mao1] {beng6 maau1} /(fig.) personne malade/(fig.) personne maladive; personne chétive/(lit.) chat malade/
@@ -17096,7 +17096,7 @@
 荃灣線 荃湾线 [quan2 wan1 xian4] {cyun4 waan1 sin3} /Tsuen Wan Line, une des lignes du métro de Hong Kong/
 荃灣西 荃湾西 [quan2 wan1 xi1] {cyun4 waan1 sai1} /Tsuen Wan West, région de Hong Kong/
 荃錦公路 荃锦公路 [quan2 jin3 gong1 lu4] {cyun4 gam2 gung1 lou6} /Tsuen Kam Road ou Route Twisk, rue de Hong Kong/
-草 草 [cao3] {cou2} /garçon; homme; de sexe masculin/mâle/clé de sinogramme; radicale Kangxi 140 « 艹 »/
+草 草 [cao3] {cou2} /garçon; homme; de sexe masculin/mâle/clé de sinogramme; radicale de Kangxi 140 « 艹 »/
 草創 草创 [cao3 chuang4] {cou2 cong3} /fonder; établir; créer/
 草地 草地 [cao3 di4] {cou2 dei6} /gazon; pelouse/pré; prairie/
 草地滾球 草地滚球 [cao3 di4 gun3 qiu2] {cou2 dei6 gwan2 kau4} /boulingrin/
@@ -17106,7 +17106,7 @@
 草簽 草签 [cao3 qian1] {cou2 cim1} /parapher/
 草羊 草羊 [cao3 yang2] {cou2 joeng4} /chèvre/
 草芥 草芥 [cao3 jie4] {cou2 gaai3} /sans valeur; sans importance/
-草花頭 草花头 [cao3 hua1 tou5] {cou2 faa1 tau2} /radicale Kangxi 140 « 艹 »/
+草花頭 草花头 [cao3 hua1 tou5] {cou2 faa1 tau2} /radicale de Kangxi 140 « 艹 »/
 草蜢 草蜢 [cao3 meng3] {cou2 maang5} /The Grasshopper, groupe de cantopop hongkongais/
 ????f 草頭王 草头王 [cao3 tou2 wang2] {cou2 tau4 wong4} /chef des bandits/
 ????f 草龍 草龙 [cao3 long2] {cou2 lung4} /lézard; scincidé/(fig.) cigarette dopée avec de l'héroïne/
