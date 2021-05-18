@@ -9821,7 +9821,7 @@
 ????c 攎 攎 [lu2] {lou4} /to take hold; to curb; to exercise restraint/
 攔河 拦河 [lan2 he2] {laan4 ho4} /construire un barrage sur une rivière; endiguer une rivière/
 攝 摄 [she4] {sip3} /fasciner/attirer/enfoncer; coincer; glisser (quelque chose) dans une espace étroite/magnétique/
-????f 攝位 摄位 [she4 wei4] {sip3 wai2} /obtenir un poste sans le mériter/s'infiltrer dans (une photo ou conversation)/piquer un siège; réussir à obtenir un siège; prendre le siège de quelu'un d'autre/couper la file/
+????f 攝位 摄位 [she4 wei4] {sip3 wai2} /obtenir un poste sans le mériter/s'infiltrer dans (une photo ou conversation)/piquer un siège; réussir à obtenir un siège; prendre le siège de quelqu'un d'autre/couper la file/
 攝嚫 摄嚫 [she4 chen4] {sip3 can3} /s'enrhumer; attraper un rhume/
 ????f 攝氏溫度計 摄氏温度计 [she4 shi4 wen1 du4 ji4] {sip3 si6 wan1 dou6 gai3} /thermomètre à échelle Celsius/
 ????f 攝灶罅 摄灶罅 [she4 zao4 xia4] {sip3 zou3 laa3} /(expr. idiom.) femme célibataire en âge de se marier ou qui est « trop vieille » pour se marier/(lit.) glissé entre les fentes de la cuisinière/ 
@@ -10089,7 +10089,7 @@
 散 散 [san4] {saan3} /éparpiller; disperser; séparer/diffuser; répandre/jeter; se débarasser de/(produit) en vrac/
 散ｂａｎｄ 散ｂａｎｄ [san4 b a n d] {saan3ｂａｎｄ} /dissoudre (un groupe)/
 散仔 散仔 [san3 zi3] {saan2 zai2} /(fam.) membre junior; membre subalterne; nouvel employé/(fam.) agent de police junior; policier subalterne; policier débutant/(fam.) personne qui se contente de suivre des ordres; d'obéir ses supérieurs; laquais/
-散子 散子 [san4 zi3] {saan2 zi2} /petite coupure; billets de banque et monnaie de faible valeur nominale/
+散子 散子 [san4 zi3] {saan2 zi2} /petite coupure; billets de banque de faible valeur nominale/
 ????f 散手 散手 [san3 shou3] {saan2 sau2} /savoir-faire unique; expertise unique/sanshou (« main libre »), sport de combat chinois/
 散收收 散收收 [san3 shou1 shou1] {saan2 sau1 sau1} /désordonné; en désordre; pas rangé/éparpillé un peu partout/
 散文家 散文家 [san3 wen2 jia1] {saan2 man4 gaa1} /essayiste; auteur d'essais/
@@ -10097,57 +10097,57 @@
 ????c 散更鑼 散更锣 [san4 geng1 luo2] {saan3 gaang1 lo4} /verb; alert or alarm sound from the night watch from 5am, to wake people up (used before clocks were introduced in China). It means it is very noisy, need everyone to know/
 散檔 散档 [san4 dang4] {saan3 dong3} /(évènement) prendre fin/mettre fin à une relation/se disperser; se séparer/faire faillite; fermer une entreprise/
 散水 散水 [san4 shui3] {saan3 seoi2} /(fig.) partir; s'en aller; se disperser/
-散紙 散纸 [san4 zhi3] {saan2 zi2} /petite coupure; billets de banque et monnaie de faible valeur nominale/
-散貨 散货 [san3 huo4] {saan3 fo3} /produit en vrac/brader; liquider; vendre à bas prix/
-散賣 散卖 [san4 mai4] {saan3 maai6} /vendre en vrac, vendre des produits qui ne sont pas emballés, vendre à la pièce ou à l'unité, vendre les différentes parties d'un produit séparément/
-散銀 散银 [san4 yin2] {saan2 ngan2} /petite coupure, billets de banque et monnaie de faible valeur nominale/
-敦款 敦款 [dun1 kuan3] {deon1 fun2} /se donner des airs, prendre des airs/être arrogant, prétentieux/ 
-敨 敨 [tou3] {tau2} /déplier, ouvrir quelque chose/faire une pause, se response, s'arrêter pour un moment/
-敬酒 敬酒 [jing4 jiu3] {ging3 zau2} /porter un toast, porter une santé, lever son verre à/
+散紙 散纸 [san4 zhi3] {saan2 zi2} /petite coupure; billets de banque de faible valeur nominale/
+散貨 散货 [san3 huo4] {saan3 fo3} /vrac; marchandises qui ne sont pas emballés/brader; liquider; vendre à bas prix/
+????f 散賣 散卖 [san4 mai4] {saan3 maai6} /vendre des produits qui ne sont pas emballés; vendre à la pièce ou à l'unité; vendre les différentes parties d'un produit séparément/
+散銀 散银 [san4 yin2] {saan2 ngan2} /petite monnaie; monnaie de faible valeur nominale/
+敦款 敦款 [dun1 kuan3] {deon1 fun2} /prendre des airs; être arrogant; être prétentieux/ 
+????c 敨 敨 [tou3] {tau2} /déplier; ouvrir quelque chose/faire une pause; se response; s'arrêter pour un moment/
+敬酒 敬酒 [jing4 jiu3] {ging3 zau2} /porter un toast; porter une santé; lever son verre à/
 敲擊樂器 敲击乐器 [qiao1 ji1 yue4 qi4] {haau1 gik1 ngok6 hei3} /instruments de percussion/
-敲骨吸髓 敲骨吸髓 [qiao1 gu3 xi1 sui3] {haau1 gwat1 kap1 seoi5} /(expr. idiom.) saigner quelqu'un à blanc, épuiser les ressources de quelqu'un/(lit.) casser les os et aspirer la moelle/
-???? 敲鼓邊 敲鼓边 [qiao1 gu3 bian1] {haau1 gu2 bin1} /noun; side stick/
-整亂 整乱 [zheng3 luan4] {zing2 lyun6} /gâcher, bousiller, foutre en l'air/(lit.) mettre en désordre/
-整備 整备 [zheng3 bei4] {zing2 bei6} /préparation, niveau de préparation/entretien, maintenance/réparation/installation, montage, assemblage/
+????f 敲骨吸髓 敲骨吸髓 [qiao1 gu3 xi1 sui3] {haau1 gwat1 kap1 seoi5} /(expr. idiom.) saigner quelqu'un à blanc; épuiser les ressources de quelqu'un/(lit.) casser les os et aspirer la moelle/
+????c 敲鼓邊 敲鼓边 [qiao1 gu3 bian1] {haau1 gu2 bin1} /noun; side stick/
+整亂 整乱 [zheng3 luan4] {zing2 lyun6} /gâcher; bousiller; foutre en l'air/(lit.) mettre en désordre/
+整備 整备 [zheng3 bei4] {zing2 bei6} /préparation; niveau de préparation/
 整傷 整伤 [zheng3 shang1] {zing2 soeng1} /blesser/
-整古 整古 [zheng3 gu3] {zing2 gu2} /taquiner, se moquer (de quelqu'un)/embêter, énerver/jouer un tour à (quelqu'un)/
-整古做怪 整古做怪 [zheng3 gu3 zuo4 guai4] {zing2 gu2 zou6 gwaai3} /(expr. idiom.) qui se comporte bizarrement, drôlement/(expr. idiom.) excentrique, farfelu/(expr. idiom.) jouer des tours, se comporter de manière espiègle/(lit.) jouer des tours et faire le bizarre/
-整嘢食 整嘢食 [zheng3 ye3 shi2] {zing2 je5 sik6} /cuisiner, faire la cuisine, cuire la nourriture/
+整古 整古 [zheng3 gu3] {zing2 gu2} /taquiner; se moquer (de quelqu'un)/embêter; énerver/jouer un tour à (quelqu'un)/
+整古做怪 整古做怪 [zheng3 gu3 zuo4 guai4] {zing2 gu2 zou6 gwaai3} /(expr. idiom.) qui se comporte bizarrement/(expr. idiom.) excentrique; farfelu/(expr. idiom.) jouer des tours; se comporter de manière espiègle/(lit.) jouer des tours et faire le bizarre/
+整嘢食 整嘢食 [zheng3 ye3 shi2] {zing2 je5 sik6} /cuisiner; faire la cuisine; cuire la nourriture/
 整嚫 整嚫 [zheng3 chen4] {zing2 can1} /blesser/
-整定 整定 [zheng3 ding4] {zing2 ding6} /destin, sort/prédestiné, inexorable/faire d'avance, préparer d'avance/
-整容 整容 [zheng3 rong2] {zing2 jung4} /subir une chirurgie plastique/
+整定 整定 [zheng3 ding4] {zing2 ding6} /destin; sort/prédestiné; inexorable/faire d'avance; préparer d'avance/
+????f 整容 整容 [zheng3 rong2] {zing2 jung4} /subir une chirurgie plastique/
 整日 整日 [zheng3 ri4] {zing2 jat6} /toute la journée/
 整機 整机 [zheng3 ji1] {zing2 gei1} /réparer un ordinateur ou une machine/
-整治 整治 [zheng3 zhi4] {zing2 zi6} /faire, travailler/
-整潔 整洁 [zheng3 jie2] {zing2 git3} /ordonné, bien rangé, propre/
-整爛 整烂 [zheng3 lan4] {zing2 laan6} /casser, briser, détruire/
-整編 整编 [zheng3 bian1] {zing2 pin1} /réorganiser (des troupes/
-整色整水 整色整水 [zheng3 se4 zheng3 shui3] {zing2 sik1 zing2 seoi2} /(fig.) feindre la sincérité, faire semblent d'être gentil/(fig.) feindre, faire semblant/
-整色水 整色水 [zheng3 se4 shui3] {zing2 sik1 seoi2} /(fig.) feindre la sincérité, faire semblent d'être gentil/(fig.) feindre, faire semblant/ 
-整蠱 整蛊 [zheng3 gu3] {zing2 gu2} /(expr. idiom.) jouer des jours à quelqu'un, être espiègle/
-整蠱作怪 整蛊作怪 [zheng3 gu3 zuo4 guai4] {zing2 gu2 zok3 gwaai3} /(expr. idiom.) jouer des tours à quelqu'un, être espiègle/
-整蠱做怪 整蛊做怪 [zheng3 gu3 zuo4 guai4] {zing2 gu2 zou6 gwaai3} /(expr. idiom.) jouer des tours à quelqu'un, être espiègle/
-整蠱弄怪 整蛊弄怪 [zheng3 gu3 nong4 guai4] {zing2 gu2 lung6 gwaai3} /(expr. idiom.) jouer des tours à quelqu'un, être espiègle/
+整治 整治 [zheng3 zhi4] {zing2 zi6} /réparer/
+整潔 整洁 [zheng3 jie2] {zing2 git3} /ordonné; bien rangé; propre/
+整爛 整烂 [zheng3 lan4] {zing2 laan6} /casser; briser; détruire/
+整編 整编 [zheng3 bian1] {zing2 pin1} /réorganiser (des troupes)/
+整色整水 整色整水 [zheng3 se4 zheng3 shui3] {zing2 sik1 zing2 seoi2} /(fig.) feindre la sincérité; faire semblent d'être gentil/(fig.) feindre; faire semblant/
+整色水 整色水 [zheng3 se4 shui3] {zing2 sik1 seoi2} /(fig.) feindre la sincérité; faire semblent d'être gentil/(fig.) feindre, faire semblant/ 
+整蠱 整蛊 [zheng3 gu3] {zing2 gu2} /(fig.) jouer des tours à quelqu'un; être espiègle/(fig.) taquiner; se moquer (de quelqu'un)/
+整蠱作怪 整蛊作怪 [zheng3 gu3 zuo4 guai4] {zing2 gu2 zok3 gwaai3} /(expr. idiom.) qui se comporte bizarrement/(expr. idiom.) excentrique; farfelu/(expr. idiom.) jouer des tours; se comporter de manière espiègle/(lit.) jouer des tours et faire le bizarre/
+整蠱做怪 整蛊做怪 [zheng3 gu3 zuo4 guai4] {zing2 gu2 zou6 gwaai3} /(expr. idiom.) qui se comporte bizarrement/(expr. idiom.) excentrique; farfelu/(expr. idiom.) jouer des tours; se comporter de manière espiègle/(lit.) jouer des tours et faire le bizarre/
+整蠱弄怪 整蛊弄怪 [zheng3 gu3 nong4 guai4] {zing2 gu2 lung6 gwaai3} /(expr. idiom.) jouer des tours à quelqu'un; être espiègle/
 整親 整亲 [zheng3 qin1] {zing2 can1} /blesser/être blessé/
 整車 整车 [zheng3 che1] {zing2 ce1} /réparer la voiture/
-???? 整飭整顿 整饬整顿 [zheng3 chi4 zheng3 dun4] {zing2 cik1 zing2 deon6} /verb; rectify; consolidate; in good order/
-整餸 整餸 [zheng3 song4] {zing2 sung3} /cuisiner, préparer un repas/
-整體 整体 [zheng3 ti3] {zing2 tai2} /dans l'ensemble, en général/
-整體觀念 整体观念 [zheng3 ti3 guan1 nian4] {zing2 tai2 gun1 nim6} /vision holistique, vision globale, concept global/
+????c 整飭整顿 整饬整顿 [zheng3 chi4 zheng3 dun4] {zing2 cik1 zing2 deon6} /verb; rectify; consolidate; in good order/
+整餸 整餸 [zheng3 song4] {zing2 sung3} /cuisiner; préparer un repas/
+整體 整体 [zheng3 ti3] {zing2 tai2} /dans son ensemble; en général/tout; l'ensemble/
+????f 整體觀念 整体观念 [zheng3 ti3 guan1 nian4] {zing2 tai2 gun1 nim6} /vision holistique; vision globale; concept global/
 整鬼 整鬼 [zheng3 gui3] {zing2 gwai2} /mais qu'est-ce que tu fais? qu'est-ce que tu fous là?/
-整鬼整怪 整鬼整怪 [zheng3 gui3 zheng3 guai4] {zing2 gwai2 zing2 gwaai3} /(expr. idiom.) être espiègle, jouer des tours à quelqu'un/(lit.) faire le fantôme et le bizarre/
-整鬼整馬 整鬼整马 [zheng3 gui3 zheng3 ma3] {zing2 gwai2 zing2 maa5} /(expr. idiom.) être espiègle, jouer des tours à quelqu'un/(lit.) faire le fantôme et le cheval/
-敵人 敌人 [di2 ren2] {dik6 jan4} /ennemi, adversaire/
+整鬼整怪 整鬼整怪 [zheng3 gui3 zheng3 guai4] {zing2 gwai2 zing2 gwaai3} /(expr. idiom.) être espiègle; jouer des tours à quelqu'un; se ridiculiser/(lit.) faire le fantôme et le bizarre/
+整鬼整馬 整鬼整马 [zheng3 gui3 zheng3 ma3] {zing2 gwai2 zing2 maa5} /(expr. idiom.) être espiègle; jouer des tours à quelqu'un/(lit.) faire le fantôme et le cheval/
+敵人 敌人 [di2 ren2] {dik6 jan4} /ennemi/
 數 数 [shu4] {sou2} /mathématiques/mathématique, qui est relatif aux mathématiques/
-數口 数口 [shu4 kou3] {sou3 hau2} /compétence mathématique/nombres, chiffres/mathématiques/calculs/prix/conditions/
+????c 數口 数口 [shu4 kou3] {sou3 hau2} /compétence mathématique/nombres; chiffres/mathématiques/calculs/prix/conditions/
 數學符號 数学符号 [shu4 xue2 fu2 hao4] {sou3 hok6 fu4 hou2} /symboles mathématiques/
-數尾 数尾 [shu4 wei3] {sou3 mei5} /somme due, reste à payer/
+????f 數尾 数尾 [shu4 wei3] {sou3 mei5} /somme due; montant qui reste à payer/
 數據機 数据机 [shu4 ju4 ji1] {sou3 geoi3 gei1} /modem/
-???? 數白欖 数白榄 [shu4 bai2 lan3] {sou2 baak6 laam5} /noun; Bak Lam is another form of speech presentation in Cantonese opera between performers and audience. More rhyme and phrase and melodies than just dialogue. Some people call it a Chinese rap ./
-數目字 数目字 [shu4 mu4 zi4] {sou3 muk6 zi6} /chiffres, nombres/
-???? 數碟底 数碟底 [shu4 die2 di3] {sou2 dip6 dai2} /révéler tous les secrets de quelqu'un/(lit.) compter sous l'assiette/
+????c 數白欖 数白榄 [shu4 bai2 lan3] {sou2 baak6 laam5} /noun; Bak Lam is another form of speech presentation in Cantonese opera between performers and audience. More rhyme and phrase and melodies than just dialogue. Some people call it a Chinese rap ./
+數目字 数目字 [shu4 mu4 zi4] {sou3 muk6 zi6} /chiffres; nombres/
+????f 數碟底 数碟底 [shu4 die2 di3] {sou2 dip6 dai2} /(fig.) révéler les secrets de quelqu'un/(lit.) compter sous l'assiette/
 數碼暴龍 数码暴龙 [shu4 ma3 bao4 long2] {sou3 maa5 bou6 lung4} /Digimon, créatures numériques/
-數簿 数簿 [shu4 bu4] {sou3 bou2} /comptes (finances)/
+數簿 数簿 [shu4 bu4] {sou3 bou2} /livre de comptes (finances)/
 數臭 数臭 [shu4 chou4] {sou2 cau3} /(fig.) réprimander, reprendre quelqu'un pour quelque chose/(fig.) parler aux autres des faiblesses de quelqu'un/(fig.) énumérer à quelqu'un chacun de ses défauts/(lit.) compter toutes les puanteurs/
 數說 数说 [shu3 shuo1] {sou2 syut3} /réprimander, reprendre quelqu'un pour quelque chose/
 ???? 數還數，路還路 数还数，路还路 [shu4 hai2 shu4 , lu4 huan2 lu4] {sou3 waan4 sou3 lou6 waan4 lou6} /(expr. idiom.) les émotions et les finances doivent être séparées/(lit.) chiffres et chiffres, chemins avec chemins/
