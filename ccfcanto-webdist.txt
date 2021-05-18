@@ -746,7 +746,7 @@
 中碼 中码 [zhong1 ma3] {zung1 maa5} /(vêtements) taille moyenne/
 中立國家 中立国家 [zhong1 li4 guo2 jia1] {zung1 laap6 gwok3 gaa1} /état neutre/
 中等 中等 [zhong1 deng3] {zung1 dang2} /normal; moyen/au milieu/
-中美關係 中美关系 [Zhong1 Mei3 guan1 xi5] {zung1 mei5 gwaan1 hai6} /relations sino-américaines/
+中美關係 中美关系 [zhong1 mei3 guan1 xi5] {zung1 mei5 gwaan1 hai6} /relations sino-américaines/
 中美高 中美高 [zhong1 mei3 gao1] {zung1 mei5 gou1} /techniques de pointe aux États-Unis et la Chine/
 ????f 中耕 中耕 [zhong1 geng1] {zung1 gaang1} /labour entre deux rangées de plantes/
 中肯 中肯 [zhong4 ken3] {zung3 hang2} /impartial; juste (en parlant d'une opinion)/
@@ -7231,7 +7231,7 @@
 左右做人難 左右做人难 [zuo3 you4 zuo4 ren2 nan2] {zo2 jau6 zou6 jan4 naan4} /(expr. idiom.) entre le marteau et l'enclume/(lit.) avoir des difficultés à gauche et à droite/
 左右為難 左右为难 [zuo3 you4 wei2 nan2] {zo2 jau6 wai4 naan4} /(expr. idiom.) entre le marteau et l'enclume/(lit.) avoir des difficultés à gauche et à droite/
 左㕭 左㕭 [zuo3 ao4] {zo2 jaau1} /gaucher/
-左𠰋 左𠰋 [Zuo3 qiu1] {zo2 jaau1} /gaucher/
+左𠰋 左𠰋 [zuo3 qiu1] {zo2 jaau1} /gaucher/
 左手便 左手便 [zuo3 shou3 bian4] {zo2 sau2 bin6} /à gauche/
 ????f 左手嚟，右手去 左手嚟，右手去 [zuo3 shou3 li2 , you4 shou3 qu4] {zo2 sau2 lei4 jau6 sau2 heoi3} /(expr. idiom.) gaspiller son argent juste après l'avoir gagné; jeter l'argent par les fenêtres/(lit.) qui entre de la main gauche et sort de la main droite/
 ????f 左搖右擺 左摇右摆 [zuo3 yao2 you4 bai3] {zo2 jiu4 jau6 baai2} /se balancer; osciller/
@@ -10199,55 +10199,55 @@
 斬犯 斩犯 [zhan3 fan4] {zaam2 faan2} /criminel condamné à être décapité/
 斬獲 斩获 [zhan3 huo4] {zaam2 wok6} /profit; gain/réussite/
 斬竹灣 斩竹湾 [zhan3 zhu2 wan1] {zaam2 zuk1 waan1} /Tsam Chuk Wan, une baie située à Hong Kong/
-斬纜 斩缆 [zhan3 lan3] {zaam2 laam6} /couper les cordes, particulièrement entre des bateaux/(fig.) arrêter une relation, mettre fin à une relation, couper les ponts, rompre les liens/(fig.) arrêter les frais, limiter le montant d'argent que l'on perd en bourse/(fig.) arrêter quelque chose en cours de réalisation/
-斬腳趾避沙蟲 斩脚趾避沙虫 [zhan3 jiao3 zhi3 bi4 sha1 chong2] {zaam2 goek3 zi2 bei6 saa1 cung4} /(expr. idiom.) prendre des mesures drastiques et excessives pour éviter une petit problème/(expr. idiom.) qui traite le symptôme mais ne guérit pas la maladie, qui ne résout pas le problème sous-jacent/(lit.) couper ses orteils pour éviter les insectes de sable/
+斬纜 斩缆 [zhan3 lan3] {zaam2 laam6} /couper les cordes, particulièrement entre des bateaux/(fig.) rompre avec quelqu'un; mettre fin à une relation; couper les ponts/(fig.) arrêter les frais; limiter le montant d'argent que l'on perd en bourse/(fig.) arrêter quelque chose en cours de réalisation/
+斬腳趾避沙蟲 斩脚趾避沙虫 [zhan3 jiao3 zhi3 bi4 sha1 chong2] {zaam2 goek3 zi2 bei6 saa1 cung4} /(expr. idiom.) prendre des mesures drastiques et excessives pour éviter une petit problème/(expr. idiom.) qui traite le symptôme mais ne guérit pas la maladie; qui ne résout pas le problème sous-jacent/(lit.) couper les orteils pour éviter les insectes de sable/
 斬頭 斩头 [zhan3 tou2] {zaam2 tau4} /décapitation/
-斬頭截尾 斩头截尾 [zhan3 tou2 jie2 wei3] {zaam2 tau4 zit6 mei5} /(expr. idiom.) enlever les parties superflues, enlever les parties indésirables/(lit.) couper la tête et raccourcir la queue/
-斯文敗類 斯文败类 [si1 wen2 bai4 lei4] {si1 man4 baai6 leoi6} /personne peu raffinée qui fait semblant d'être civilisée/
-斯文淡定 斯文淡定 [si1 wen5 dan4 ding4] {si1 man4 daam6 ding6} /calme, posé, raffiné, cultivé/
-斯斯文文 斯斯文文 [si1 si1 wen2 wen2] {si1 si1 man4 man4} /calme, posé, raffiné, cultivé/
+斬頭截尾 斩头截尾 [zhan3 tou2 jie2 wei3] {zaam2 tau4 zit6 mei5} /(expr. idiom.) enlever les parties superflues; enlever les parties indésirables/(lit.) couper la tête et raccourcir la queue/
+????f 斯文敗類 斯文败类 [si1 wen2 bai4 lei4] {si1 man4 baai6 leoi6} /(expr.) personne peu raffinée qui fait semblant d'être civilisée/
+斯文淡定 斯文淡定 [si1 wen5 dan4 ding4] {si1 man4 daam6 ding6} /calme; posé; raffiné; cultivé/
+斯斯文文 斯斯文文 [si1 si1 wen2 wen2] {si1 si1 man4 man4} /calme; posé; raffiné; cultivé/
 新世界 新世界 [xin1 shi4 jie4] {san1 sai3 gaai3} /le Nouveau Monde/New World Development, conglomérat hongkongais/
 新世界第一巴士服務有限公司 新世界第一巴士服务有限公司 [xin1 shi4 jie4 di4 yi1 ba1 shi4 fu2 wu4 you3 xian4 gong1 si1] {san1 sai3 gaai3 dai6 jat1 baa1 si2 fuk6 mou6 jau5 haan6 gung1 si1} /New World First Bus Services Limited, société de transports en commun à Hong Kong/
-新中國 新中国 [xin1 zhong1 guo2] {san1 zung1 gwok3} /«Nouvelle Chine»/(RPC) la Chine après l'établissement de la République Populaire de Chine en 1949/(Tw) Chine après la révolution chinoise de 1911/
+新中國 新中国 [xin1 zhong1 guo2] {san1 zung1 gwok3} /« Nouvelle Chine »/(RPC) la Chine après l'établissement de la République Populaire de Chine en 1949/(Tw) Chine après la révolution chinoise de 1911/
 新九龍 新九龙 [xin1 Jiu3 long2] {san1 gau2 lung4} /New Kowloon, région de Kowloon à Hong Kong/
 新亞書院 新亚书院 [xin1 ya4 shu1 yuan4] {san1 aa3 syu1 jyun2} /collège New Asia, une des collèges de l'Université chinoise de Hong Kong/
-新人 新人 [xin1 ren2] {san1 jan4} /nouveau membre, nouveau venu, nouvelle venue/
-新仇舊恨 新仇旧恨 [xin1 chou2 jiu4 hen4] {san1 sau4 gau6 han6} /nouvelles rancunes en plus des anciennes/haine profonde/
-新仔 新仔 [xin1 zai3] {san1 zai2} /nouvelle recrue, blanc-bec, débutant, néophyte, novice/
-新出 新出 [xin1 chu1] {san1 ceot1} /nouvelle sortie, nouvelle version, nouvelle parution/nouveau, récent/
+新人 新人 [xin1 ren2] {san1 jan4} /nouveau membre; nouveau venu, nouvelle venue/
+????f 新仇舊恨 新仇旧恨 [xin1 chou2 jiu4 hen4] {san1 sau4 gau6 han6} /(expr.) nouvelles rancunes en plus des anciennes/
+新仔 新仔 [xin1 zai3] {san1 zai2} /nouvelle recrue; blanc-bec; débutant; néophyte; novice/
+新出 新出 [xin1 chu1] {san1 ceot1} /nouvelle sortie; nouvelle version; nouvelle parution/nouveau; récent/
 新力 新力 [xin1 li4] {san1 lik6} /Sony, société multinationale japonaise/
 新加坡共和國 新加坡共和国 [xin1 jia1 po1 gong4 he2 guo2] {san1 gaa3 bo1 gung6 wo4 gwok3} /république de Singapour/
 新加坡航空 新加坡航空 [xin1 jia1 po1 hang2 kong1] {san1 gaa3 bo1 hong4 hung1} /Singapore Airlines, compagnie aérienne basée à Singapour/
-新區 新区 [xin1 qu1] {san1 keoi1} /nouvelle région, nouvelle zone/nouveau quartier/
-新嚟新豬肉 新嚟新猪肉 [xin1 li2 xin1 zhu1 rou4] {san1 lai2 san1 zyu1 juk6} /(expr. idiom.) bizuter le nouveau membre/(lit.) nouveau venu, nouvelle viande de porc/
-新地 新地 [xin1 di4] {san1 dei2} /coupe glacée, sundae/(orig.) de l'anglais «sundae»/
+新區 新区 [xin1 qu1] {san1 keoi1} /nouvelle région; nouvelle zone/nouveau quartier/
+????f 新嚟新豬肉 新嚟新猪肉 [xin1 li2 xin1 zhu1 rou4] {san1 lai4 san1 zyu1 juk6} /(expr. idiom.) bizuter le nouveau membre/(lit.) nouveau venu, nouvelle viande de porc/
+新地 新地 [xin1 di4] {san1 dei2} /coupe glacée; sundae/(orig.) de l'anglais « sundae »/
 新奇士 新奇士 [xin1 qi2 shi4] {san1 kei4 si6} /Sunkist, marque de boissons gazeuses/
-新女 新女 [xin1 nü3] {san1 neoi2} /nouvelle blonde, nouvelle petite-amie, nouvelle copine/
+新女 新女 [xin1 nu:3] {san1 neoi2} /nouvelle blonde; nouvelle petite-amie; nouvelle copine/
 新奶奶 新奶奶 [xin1 nai3 nai5] {san1 naai4 naai2} /mère du nouveau-marié/
 新姑爺 新姑爷 [xin1 gu1 ye5] {san1 gu1 je4} /nouveau beau-fils/
-新字體 新字体 [xin1 zi4 ti3] {san1 zi6 tai2} /Shinjitai, simplification des caractères chinois utilisés au Japon/
-新學 新学 [xin1 xue2] {san1 hok6} /nouvel apprentissage/récemment appris/
+新字體 新字体 [xin1 zi4 ti3] {san1 zi6 tai2} /Shinjitai, simplification des caractères chinois utilisée au Japon/
+????c 新學 新学 [xin1 xue2] {san1 hok6} /nouvel apprentissage/récemment appris/
 新宿區 新宿区 [Xin1 su4 qu1] {san1 suk1 keoi1} /Shinjuku, l'un des arrondissements de Tokyo/
-新屎坑 新屎坑 [xin1 shi3 keng1] {san1 si2 haang1} /(fig.) (vulg.) effet de mode, engouement passager/(lit.) nouvelle toilette/
+????f 新屎坑 新屎坑 [xin1 shi3 keng1] {san1 si2 haang1} /(expr. en suspens) (fam.) effet de mode; engouement passager/(lit.) nouvelle toilette (deuxième partie 三日香|三日香 « sent bon pendant les trois premiers jours »)/
 新巴 新巴 [Xin1 ba1] {san1 baa1} /New World First Bus Services Limited, société de transports en commun à Hong Kong/
 新年 新年 [xin1 nian2] {san1 nin4} /Nouvel An chinois/
 新年流流 新年流流 [xin1 nian2 liu2 liu2] {san1 nin4 lau4 lau4} /« bonheur des fêtes du Nouvel An » (suivi d'une remontrance de ne pas faire quelque chose de peu propice le jour du Nouvel An)/
-新年頭 新年头 [xin1 nian2 tou2] {san1 nin4 tau4} /début du Nouvel An chinois/
+新年頭 新年头 [xin1 nian2 tou2] {san1 nin4 tau2} /période de l'année entre le Nouvel An chinois et la fête des lanternes (le quinzième jour de la nouvelle année)/début du Nouvel An chinois/
 新意思 新意思 [xin1 yi4 si5] {san1 ji3 si1} /nouvelle idée/nouvelle signification/
-新手 新手 [xin1 shou3] {san1 sau2} /nouvelle recrue, blanc-bec, débutant, néophyte, novice/
+新手 新手 [xin1 shou3] {san1 sau2} /nouvelle recrue; blanc-bec; débutant; néophyte; novice/
 新抱 新抱 [xin1 bao4] {san1 pou5} /belle-fille/
-新曆年 新历年 [xin1 li4 nian2] {san1 lik6 nin4} /nouvelle année civile, Jour de l'an, Nouvel An du calendrier grégorien/
-新書 新书 [xin1 shu1] {san1 syu1} /nouveau livre/livre qui vient d'être publié/
-新正頭 新正头 [xin1 zheng4 tou2] {san1 zing1 tau2} /période de l'année entre le Nouvel An chinois et la fête des lanternes (le quinzième jour de la nouvelle année)/
-新淨 新淨 [xin1 cheng2] {san1 zing6} /en bonne condition, comme neuf/
-新潮 新潮 [xin1 chao2] {san1 ciu4} /à la mode, branché, tendance/
-新牌 新牌 [xin1 pai2] {san1 paai4} /nouveau conducteur, nouveau détenteur de permis/
-新牌仔 新牌仔 [xin1 pai2 zi3] {san1 paai4 zai2} /nouveau conducteur, nouveau détenteur de permis/
+????f 新曆年 新历年 [xin1 li4 nian2] {san1 lik6 nin4} /nouvelle année civile; Jour de l'an; Nouvel An du calendrier grégorien/calendrier grégorien/
+新書 新书 [xin1 shu1] {san1 syu1} /nouveau livre; livre qui vient d'être publié/
+新正頭 新正头 [xin1 zheng4 tou2] {san1 zing1 tau2} /période de l'année entre le Nouvel An chinois et la fête des lanternes (le quinzième jour de la nouvelle année)/premier mois de l'année lunaire/
+新淨 新淨 [xin1 cheng2] {san1 zing6} /en bonne condition; comme neuf/
+新潮 新潮 [xin1 chao2] {san1 ciu4} /à la mode; tendance; en vogue/
+????f 新牌 新牌 [xin1 pai2] {san1 paai4} /nouveau conducteur; nouveau détenteur de permis/
+????f 新牌仔 新牌仔 [xin1 pai2 zi3] {san1 paai4 zai2} /nouveau conducteur; nouveau détenteur de permis/
 新生事物 新生事物 [xin1 sheng1 shi4 wu4] {san1 saang1 si6 mat6} /nouvelles choses/
-新生力量 新生力量 [xin1 sheng1 li4 liang5] {san1 saang1 lik6 loeng6} /puissance émergente, force grandissante, étoile montante (personnes, pays, etc.)/
+新生力量 新生力量 [xin1 sheng1 li4 liang5] {san1 saang1 lik6 loeng6} /puissance émergente; force grandissante; étoile montante (personnes, pays, etc.)/
 新界區 新界区 [xin1 jie4 qu1] {san1 gaai3 keoi1} /Les Nouveaux Territoires, secteur de Hong Kong/
-新界地產和富大埔 新界地产和富大埔 [xin1 jie4 di4 chan3 he2 fu4 Da4 bu4] {san1 gaai3 dei6 caan2 wo6 fu3 daai6 bou3} /New Territories Realty Association Wofoo Tai Po Football Club, club de foot des Nouveaux Territoires de Hong Kong/
-新發家 新发家 [xin1 fa1 jia1] {san1 faat3 gaa1} /un nouveau-riche/
+新界地產和富大埔 新界地产和富大埔 [xin1 jie4 di4 chan3 he2 fu4 da4 bu4] {san1 gaai3 dei6 caan2 wo6 fu3 daai6 bou3} /New Territories Realty Association Wofoo Tai Po Football Club, club de foot des Nouveaux Territoires de Hong Kong/
+????f 新發家 新发家 [xin1 fa1 jia1] {san1 faat3 gaa1} /un nouveau-riche/
 新發明 新发明 [xin1 fa1 ming2] {san1 faat3 ming4} /nouvelle invention/
 新秀 新秀 [xin1 xiu4] {san1 sau3} /étoile montante, talent prometteur/
 新篇章 新篇章 [xin1 pian1 zhang1] {san1 pin1 zoeng1} /nouvelle page, nouveau chapitre, nouvelle période (de l'histoire ou de sa vie)/
