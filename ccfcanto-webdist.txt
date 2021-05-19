@@ -10172,7 +10172,7 @@
 ????c 文藝片 文艺片 [wen2 yi4 pian4] {man4 ngai6 pin2} /art films/
 文藝界 文艺界 [wen2 yi4 jie4] {man4 ngai6 gaai3} /cercles littéraires et artistiques/
 文雀 文雀 [wen2 que4] {man4 zoek3} /pickpocket; voleur à la tire/
-文雞 文鸡 [wen2 ji1] {man1 gai1} /(fam.) dollar; piasse/
+文雞 文鸡 [wen2 ji1] {man1 gai1} /(fam.) dollar; piasse; balle/
 斑驢 斑驴 [ban1 lu:2] {baan1 leoi4} /quagga ou couagga, sous-espèce de zèbre éteinte/
 斗令 斗令 [dou4 ling4] {dau2 ling2} /ancienne pièce de cinq cents de Hong Kong/(fig.) un tout petit peu d'argent; très peu d'argent/(orig.) la pièce d'argent pesait trois candarins et six cashs, « 斗 » signifiant trois et « 令 » significant six dans un code secret de marchands/
 斗零 斗零 [dou4 ling2] {dau3 ling4} /ancienne pièce de cinq cents de Hong Kong/(fig.) un tout petit peu d'argent; très peu d'argent/(orig.) la pièce d'argent pesait trois candarins et six cashs, « 斗 » signifiant trois et « 零 » signifiant six dans un code secret de marchands/
@@ -10398,56 +10398,56 @@
 ????f 明渠 明渠 [ming2 qu2] {ming4 keoi4} /drain découvert; fossé ouvert (nullah: an open, usually concrete-lined channel designed to allow rapid drainage of storm precipitation or industrial wastewater, essentially a canal that is dry most of the time)/
 明火 明火 [ming2 huo3] {ming4 fo2} /flamme ouverte/
 ????f 明火執仗 明火执仗 [ming2 huo3 zhi2 zhang4] {ming4 fo2 zap1 zoeng3} /(expr. idiom.) voler de façon éhontée/(expr. idiom.) faire de mauvaises choses effrontément/(lit.) prendre ses armes à flamme ouverte/
-明火打劫 明火打劫 [ming2 huo3 da3 jie2] {ming4 fo2 daa2 gip3} /(fig.) vol éhonté/(lit.) voler avec des torches et arms/
-明燈 明灯 [ming2 deng1] {ming4 dang1} /signal lumineux, balise, gyrophare/flambeau, phare, source d'inspiration/(fig.) une personne qui prédit l'avenir, voyant, diseur de bonne aventure/(fig.) une personne qui a toujours tort quand elle donne des conseils pour parier ou quand elle donne des astuces de jeu/
-???? 明爐 明炉 [ming2 lu2] {ming4 lou4} /faire cuire au barbecue/
+????f 明火打劫 明火打劫 [ming2 huo3 da3 jie2] {ming4 fo2 daa2 gip3} /(expr. idiom.) voler de façon éhontée/(lit.) voler avec des torches et armes/
+????f 明燈 明灯 [ming2 deng1] {ming4 dang1} /lumière brillante/(fig.) une personne qui a raison quand il prédit l'avenir/(fig.) (sarcastique) une personne qui a toujours tort quand il donne des conseils ou essaie de prédire l'avenir/
+????c 明爐 明炉 [ming2 lu2] {ming4 lou4} /faire cuire sur un feu charbon/
 明珠台 明珠台 [ming2 zhu1 tai2] {ming4 zyu1 toi4} /TVB Pearl, chaîne de télévision à Hong Kong/
-???? 明瓦 明瓦 [ming2 wa3] {ming4 ngaa5} /tuile ou bardeau fait de nacre/(nom de livre)/
-明目張膽 明目张胆 [ming2 mu4 zhang1 dan3] {ming4 muk6 zoeng1 daam2} /(expr. idiom.) éhonté, effronté, hardi/(expr. idiom.) de façon éhontée, hardie, impudente/(lit.) avec la vésicule biliaire en pleine vue/
-明知故犯 明知故犯 [ming2 zhi1 gu4 fan4] {ming4 zi1 gu3 faan6} /commettre un crime par exprès/se créer des ennuis par exprès/faire une faute par exprès/
-明確 明确 [ming2 que4] {ming4 kok3} /clair, évident, direct, précis/
-明碼 明码 [ming2 ma3] {ming4 maa5} /qui a le prix clairement indiqué/
-明碼實價 明码实价 [ming2 ma3 shi2 jia4] {ming4 maa5 sat6 gaa3} /qui a le prix clairement indiqué/
-明解 明解 [ming2 jie3] {ming4 gaai2} /comprendre/explication claire/
-???? 明鑒 明鉴 [ming2 jian4] {ming4 gaam3} /to clearly distinguish/
-昏頭轉向 昏头转向 [hun1 tou2 zhuan3 xiang4] {fan1 tau4 zyun2 hoeng3} /étoudi et confus, désorienté/
-易手 易手 [yi4 shou3] {jik6 sau2} /changer de mains, être vendu/
-易拉架 易拉架 [yi4 la1 jia4] {ji6 laai1 gaa3} /bannière rétractable/
+????c 明瓦 明瓦 [ming2 wa3] {ming4 ngaa5} /tuile ou bardeau fait de nacre/(nom de livre)/
+????f 明目張膽 明目张胆 [ming2 mu4 zhang1 dan3] {ming4 muk6 zoeng1 daam2} /(expr. idiom.) de façon éhontée; effrontément/(lit.) avec la vésicule biliaire en pleine vue/
+明知故犯 明知故犯 [ming2 zhi1 gu4 fan4] {ming4 zi1 gu3 faan6} /(expr.) commettre un crime par exprès/(expr.) faire une faute par exprès/
+明確 明确 [ming2 que4] {ming4 kok3} /clair; évident; explicite/
+????f 明碼 明码 [ming2 ma3] {ming4 maa5} /qui a le prix clairement indiqué/code pas chiffré/
+????f 明碼實價 明码实价 [ming2 ma3 shi2 jia4] {ming4 maa5 sat6 gaa3} /qui a le prix clairement indiqué/
+明解 明解 [ming2 jie3] {ming4 gaai2} /comprendre/
+????c 明鑒 明鉴 [ming2 jian4] {ming4 gaam3} /to clearly distinguish/
+昏頭轉向 昏头转向 [hun1 tou2 zhuan3 xiang4] {fan1 tau4 zyun2 hoeng3} /(expr.) étourdi et confus; désorienté/
+易手 易手 [yi4 shou3] {jik6 sau2} /changer de main; être vendu; passer d'un propriétaire à un autre/
+易拉架 易拉架 [yi4 la1 jia4] {ji6 laai1 gaa2} /bannière rétractable/
 易潔鑊 易洁镬 [yi4 jie2 huo4] {ji6 git3 wok6} /poêle antiadhésive/
-易燃 易燃 [yi4 ran2] {ji6 jin4} /combustible, inflammable/
-易話為 易话为 [yi4 hua4 wei2] {ji6 waa6 wai4} /(une personne) facile à travailler avec/(un problème) facile à résoudre/
-易過借火 易过借火 [yi4 guo4 jie4 huo3] {ji6 gwo3 ze3 fo2} /(fig.) facile, du gateau/(lit.) plus facile qu'emprunter un briquet/
-昔日 昔日 [xi1ri4] {sik1 jat6} /dans le passé, aux temps jadis/
-星 星 [xing1] {sing1} /planète/étincelle/célébrité, vedette/(fam.) gifler/
+易燃 易燃 [yi4 ran2] {ji6 jin4} /combustible; inflammable/
+易話為 易话为 [yi4 hua4 wei2] {ji6 waa6 wai4} /(personne) facile à travailler avec/(problème) facile à résoudre/
+易過借火 易过借火 [yi4 guo4 jie4 huo3] {ji6 gwo3 ze3 fo2} /(fig.) très facile; du gateau/(lit.) plus facile qu'emprunter un briquet/
+昔日 昔日 [xi1 ri4] {sik1 jat6} /dans le passé; autrefois; jadis/
+星 星 [xing1] {sing1} /planète/étincelle/vedette; célébrité; star/(fam.) gifler/
 星光大道 星光大道 [xing1 guang1 da4 dao4] {sing1 gwong1 daai6 dou6} /Avenue of Stars, rue près du Victoria Harbour, à Hong Kong/
 星光行 星光行 [xing1 guang1 xing2] {sing1 gwong1 hang4} /Star House, édifice près du Victoria Harbour, à Hong Kong/
 星加坡 星加坡 [Xing1 jia1 po1] {sing1 gaa3 bo1} /Singapore/
 星君 星君 [xing1 jun1] {sing1 gwan1} /vilain enfant/
 星君仔 星君仔 [xing1 jun1 zi3] {sing1 gwan1 zai2} /vilain enfant/
 星夜 星夜 [xing1 ye4] {sing1 je6} /nuit étoilée/
-星媽 星妈 [xing1 ma1] {sing1 maa1} /mère d'une célébrité/
+星媽 星妈 [xing1 ma1] {sing1 maa1} /mère d'une vedette/
 星展銀行 星展银行 [xing1 zhan3 yin2 hang2] {sing1 zin2 ngan4 hong4} /DBS Bank,banque singapourien/
-星座 星座 [xing1 zuo4] {sing1 zo6} /horoscope, zodiaque/
+星座 星座 [xing1 zuo4] {sing1 zo6} /constellation/signe du zodiaque/
 星探 星探 [xing1 tan4] {sing1 taam3} /dénicheur de talent/
-星散 星散 [xing1 san4] {sing1 saan3} /éparpillé/(lit.) éparpillé comme les étoiles/
-星星 星星 [xing1 xing5] {sing1 sing1} /étoile(s)/
-星星點點 星星点点 [xing1 xing1 dian3 dian3] {sing1 sing1 dim2 dim2} /de petits morceaux, quelque bouts/çà et là/
-星架坡 星架坡 [xing1 jia4 po1] {sing1 gaa2 bo1} /Singapour/
-星架波 星架波 [xing1 jia4 bo1] {sing1 gaa2 bo1} /Singapour/
-星河 星河 [xing1 he2] {sing1 ho4} /la Voie lactée/
-星洲 星洲 [Xing1 zhou1] {sing1 zau1} /Singapour/
+????f 星散 星散 [xing1 san4] {sing1 saan3} /éparpillé/(lit.) dispersé comme les étoiles/
+星星 星星 [xing1 xing5] {sing1 sing1} /étoile; étoiles/
+星星點點 星星点点 [xing1 xing1 dian3 dian3] {sing1 sing1 dim2 dim2} /quelque bouts/çà et là/
+星架坡 星架坡 [xing1 jia4 po1] {sing1 gaa3 bo1} /Singapour/
+星架波 星架波 [xing1 jia4 bo1] {sing1 gaa3 bo1} /Singapour/
+星河 星河 [xing1 he2] {sing1 ho4} /la Voie lactée (voir aussi 銀河|银河)/
+星洲 星洲 [xing1 zhou1] {sing1 zau1} /Singapour/
 星洲炒米 星洲炒米 [Xing1 zhou1 chao3 mi3] {sing1 zau1 caau2 mai5} /nouilles frites style Singapour/
 星火 星火 [xing1 huo3] {sing1 fo2} /étincelle/météore/(fig.) très urgent/
-星火燎原 星火燎原 [xing1 huo3 liao2 yuan2] {sing1 fo2 liu4 jyun4} /(expr. idiom.) il ne faut pas sous-estimer quelque chose qui semble insignifiant/Hunger Games: l'embrasement, livre écrit par Suzanna Collins/(lit.) une étincelle peut mettre feu à une prairie/
-星火計劃 星火计划 [xing1 huo3 Ji4 hua4] {sing1 fo2 gai3 waak6} /Spark Program, programme de développement social de la Chine/
+????f 星火燎原 星火燎原 [xing1 huo3 liao2 yuan2] {sing1 fo2 liu4 jyun4} /(expr. idiom.) il ne faut pas sous-estimer quelque chose qui semble insignifiant/Hunger Games: l'embrasement, livre écrit par Suzanna Collins/(lit.) une étincelle peut mettre feu à une prairie/
+星火計劃 星火计划 [xing1 huo3 ji4 hua4] {sing1 fo2 gai3 waak6} /Spark Program, programme de développement social de la Chine/
 星球 星球 [xing1 qiu2] {sing1 kau4} /planète/
-星盤 星盘 [xing1 pan2] {sing1 pun4} /astrolabe/
-???? 星羅棋佈 星罗棋布 [xing1 luo2 qi2 bu4] {sing1 lo4 kei4 bou3} /un peut partout, éparpillé un peu partout/
+星盤 星盘 [xing1 pan2] {sing1 pun2} /astrolabe/
+????c 星羅棋佈 星罗棋布 [xing1 luo2 qi2 bu4] {sing1 lo4 kei4 bou3} /un peut partout; éparpillé un peu partout/
 星辰錶 星辰表 [xing1 chen2 biao3] {sing1 san4 biu1} /Citizen, entreprise japonaise d'horlogerie/
-星運 星运 [xing1 yun4] {sing1 wan6} /horoscope, zodiaque/
-星鐵 星铁 [xing1 tie3] {sing1 tit3} /fer galvanisé/
-映眼 映眼 [ying4 yan3] {jing2 ngaan5} /aveuglant, éblouisasnt/
-映衰 映衰 [ying4 shuai1] {jing2 seoi1} /nuire à quelqu'un d'autre/faire honte à (sa famille, son pays, etc.)/
+????f 星運 星运 [xing1 yun4] {sing1 wan6} /vie après une carrière dans le monde du divertissement/
+星鐵 星铁 [xing1 tie3] {sing1 tit3} /fer galvanisé/zinc/
+映眼 映眼 [ying4 yan3] {jing2 ngaan5} /aveuglant; éblouisasnt/
+映衰 映衰 [ying4 shuai1] {jing2 seoi1} /faire honte à (sa famille, son pays, etc.); ternir l'image de/
 春光 春光 [chun1 guang1] {ceon1 gwong1} /(fam.) (vulg.) (d'une femme) montrer rapidement ses culottes/ 
 春子 春子 [chun1 zi5] {ceon1 zi2} /(fam.) testicules/
 春孳 春孳 [chun1 zi1] {ceon1 zi1} /ovule de poule/
