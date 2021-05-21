@@ -10719,7 +10719,7 @@
 ????f 有案可查 有案可查 [you3 an4 ke3 cha2] {jau5 on3 ho2 caa4} /(expr.) bien documenté; qui peut être vérifié/
 ????f 有樣學樣 有样学样 [you3 yang4 xue2 yang4] {jau5 joeng2 hok6 joeng2} /(fig.) imiter le comportement des autres/(lit.) s'il y a un comportement, on apprendra à imiter ce comportement/ 
 ????c 有機 有机 [you3 ji1] {jau5 gei1} /organique/????avoir la chance de; avoir l'occasion de/ 
-????f 有機可乘 有机可乘 [you3 ji1 ke3 cheng2] {jau5 gei1 ho2 sing4} /on peut profiter de l'occasion (there is an opportunity to exploit - usually to do something bad)/
+????f 有機可乘 有机可乘 [you3 ji1 ke3 cheng2] {jau5 gei1 ho2 sing4} /il y a une faille que l'on peut exploiter (there is an opportunity or loophole to exploit - usually to do something bad)/
 有機肥料 有机肥料 [you3 ji1 fei2 liao4] {jau5 gei1 fei4 liu2} /engrais organique/
 ????f 有權有勢 有权有势 [you3 quan2 you3 shi4] {jau5 kyun4 jau5 sai3} /avoir le pouvoir et l'autorité/
 有殺冇賠 有杀冇赔 [you3 sha1 mao3 pei2] {jau5 saat3 mou5 pui4} /(expr.) inviolable; que l'on ne doit jamais violer/
@@ -10741,7 +10741,7 @@
 有癮 有瘾 [you3 yin3] {jau5 jan5} /intéressant; amusant; agréable/être accro (à quelque chose)/
 有的放矢 有的放矢 [you3 di4 fang4 shi3] {jau5 dik1 fong3 ci2} /(expr. idiom.) avoir un objectif clair/(lit.) décocher une flèche en visant une cible/ 
 有益 有益 [you3 yi4] {jau5 jik1} /bénéfique/bon pour la santé; sain/
-????f 有眼無珠 有眼无珠 [you3 yan3 wu2 zhu1] {jau5 ngaan5 mou4 zyu1} /(expr. idiom.) aveugle à quelque chose qui devrait être évident/(lit.) avoir les yeux mais ne pas pouvoir voir/
+????f 有眼無珠 有眼无珠 [you3 yan3 wu2 zhu1] {jau5 ngaan5 mou4 zyu1} /(expr. idiom.) aveugle à quelque chose qui devrait être évident; ne pas être perspicace/(lit.) avoir les yeux mais ne pas pouvoir voir/
 有着數 有着数 [you3 zhao1 shu4] {jau5 zoek6 sou3} /avantageux; bénéfique/
 有睇頭 有睇头 [you3 di4 tou2] {jau5 tai2 tau4} /(livre) qui mérite d'être lu/(série télévisée, film) qui mérite d'être vu/(attraction touriste, paysage) qui vaut le détour/
 有碗話碗，有碟話碟 有碗话碗，有碟话碟 [you3 wan3 hua4 wan3 , you3 die2 hua4 die2] {jau5 wun2 waa6 wun2 jau5 dip6 waa6 dip6} /(expr. idiom.) parler franchement/(lit.) parler du bol si on l'a, parler de l'assiette du on l'a/
@@ -10751,52 +10751,54 @@
 有米 有米 [you3 mi3] {jau5 mai5} /(fam.) riche/(lit.) avoir du riz/
 有約 有约 [you3 yue1] {jau5 joek3} /avoir un rendez-vous/
 ????f 有紋有路 有纹有路 [you3 wen2 you3 lu4] {jau5 man4 jau5 lou6} /(expr.) parler de manière convaincante; cohérente; fluide/(expr.) faire quelque chose de manière organisée/
-有聲氣 有声气 [you3 sheng1 qi4] {jau5 seng1 hei3} /avoir des nouvelles (sur un sujet ou une personne)/avoir une bonne chance de réussir/(situation) prometteuse/
-有著數 有着数 [you3 zhao1 shu4] {jau5 zoek6 sou3} /avantageux, bénéfique/
+????f 有聲氣 有声气 [you3 sheng1 qi4] {jau5 seng1 hei3} /avoir de bonnes nouvelles (au sujet d'une affaire ou une personne)/avoir une bonne chance de réussir/(situation) prometteuse/
+有著數 有着数 [you3 zhao1 shu4] {jau5 zoek6 sou3} /avantageux; bénéfique/
 ????f 有落 有落 [you3 luo4] {jau5 lok6} /(s'emploie pour dire à un chauffeur d'autobus qu'il y a quelqu'un qui veut débarquer à la prochaine station)/
-有蓋 有盖 [you3 gai4] {jau5 goi3} /couvert, recouvert, avoir un couvercle dessus/
-有血性 有血性 [you3 xue4 xing4] {jau5 hyut3 sing3} /avoir une conscience/
+有蓋 有盖 [you3 gai4] {jau5 goi3} /couvert; recouvert; avoir un couvercle dessus/
+????c 有血性 有血性 [you3 xue4 xing4] {jau5 hyut3 sing3} /avoir une conscience/
 有行 有行 [you3 xing2] {jau5 hong4} /avoir une bonne chance de réussir/(situation) prometteuse/
-有術 有术 [you3 shu4] {jau5 seot6} /avoir une solution, avoir une bonne façon de faire quelque chose/
-有言在先 有言在先 [you3 yan2 zai4 xian1] {jau5 jin4 zoi6 sin1} /avertir au préalable, prévenir/
+有術 有术 [you3 shu4] {jau5 seot6} /avoir une solution; avoir une bonne façon de faire quelque chose/
+有言在先 有言在先 [you3 yan2 zai4 xian1] {jau5 jin4 zoi6 sin1} /(expr.) avertir au préalable; prévenir/
 有計劃 有计划 [you3 ji4 hua4] {jau5 gai3 waak6} /avoir un plan/
-有諗頭 有谂头 [you3 shen3 tou2] {jau5 nam2 tau4} /avoir une bonne idée/avoir beaucoup de bonnes idées/
-有講有笑 有讲有笑 [you3 jiang3 you3 xiao4] {jau5 gong2 jau5 siu3} /s'amuser en bavardant, passer un moment à rire et à bavarder/
+有諗頭 有谂头 [you3 shen3 tou2] {jau5 nam2 tau4} /avoir beaucoup de bonnes idées/
+????f 有講有笑 有讲有笑 [you3 jiang3 you3 xiao4] {jau5 gong2 jau5 siu3} /(expr. idiom.) passer un moment à bavarder/(lit.) avoir des paroles et des rires/
 有賭未為輸 有赌未为输 [you3 du3 wei4 wei2 shu1] {jau5 dou2 mei6 wai4 syu1} /(expr. idiom.) si l'on a toujours de l'argent à jouer, on n'a pas encore perdu/
-有賴 有赖 [you3 lai4] {jau5 laai6} /compter sur, reposer sur/
-有路 有路 [you3 lu4] {jau5 lou6} /(fam.) avoir une liaison, une aventure/ 
-有路數 有路数 [you3 lu4 shu4] {jau5 lou6 sou3} /connaître les ficelles du métier/
-有蹺蹊 有跷蹊 [you3 qiao1 qi5] {jau5 kiu2 kai1} /il y a quelque chose de louce, il y a quelque chose de suspect/
+有賴 有赖 [you3 lai4] {jau5 laai6} /reposer sur; compter sur; dépendre de/
+有路 有路 [you3 lu4] {jau5 lou6} /(fam.) avoir une liaison; avoir une aventure/ 
+有路數 有路数 [you3 lu4 shu4] {jau5 lou6 sou3} /connaître les ficelles du métier; avoir les moyens de faire quelque chose/
+有蹺蹊 有跷蹊 [you3 qiao1 qi5] {jau5 kiu2 kai1} /il se passe quelque chose de louche; il y a quelque chose de suspect ici/
 有身己 有身己 [you3 shen1 ji3] {jau5 san1 gei2} /enceinte/
 有身紀 有身纪 [you3 shen1 ji4] {jau5 san1 gei2} /enceinte/
-有辣有唔辣 有辣有唔辣 [you3 la4 you3 n2 la4] {jau5 laat6 jau5 m4 laat6} /(fig.) en avoir pour tous les goûts/(fig.) avoir des avantages et des inconvénients/(fig.) il y des moments désagréables et des moments moins désagréables d'un projet/(lit.) il y a des piquants et des pas piquants/ 
+????f 有辣有唔辣 有辣有唔辣 [you3 la4 you3 n2 la4] {jau5 laat6 jau5 m4 laat6} /(fig.) en avoir pour tous les goûts/(fig.) avoir des avantages et des inconvénients/(fig.) il y des moments désagréables et des moments moins désagréables d'un projet/(lit.) il y a des piquants et des pas piquants/ 
 有運 有运 [you3 yun4] {jau5 wan6} /avoir de la chance/
+有運行 有运行 [you3 yun4 xing2] {jau5 wan6 haang4} /avoir de la chance/
 有道德 有道德 [you3 dao4 de2] {jau5 dou6 dak1} /faire preuve d'intégrité morale/
 有錢 有钱 [you3 qian2] {jau5 cin2} /riche/
-有錢出錢，有力出力 有钱出钱，有力出力 [you3 qian2 chu1 qian2 , you3 li4 chu1 li4] {jau5 cin2 ceot1 cin2 jau5 lik6 ceot1 lik6} /(expr. idiom.) apporter ce que l'on peut, faire ce que l'on peut, faire de son mieux/(lit.) si l'on a de l'argent l'on donne de l'argent; si l'on a de la force l'on utilise sa force/ 
+????f 有錢出錢，有力出力 有钱出钱，有力出力 [you3 qian2 chu1 qian2 , you3 li4 chu1 li4] {jau5 cin2 ceot1 cin2 jau5 lik6 ceot1 lik6} /(expr. idiom.) donner ce que l'on peut; faire tout ce que l'on peut pour aider/(lit.) si l'on a de l'argent on donne de l'argent — si l'on a de la force on utilise sa force/
 有錢駛得鬼推磨 有钱驶得鬼推磨 [you3 qian2 shi3 de5 gui3 tui1 mo2] {jau5 cin2 sai2 dak1 gwai2 teoi1 mo4} /(expr. idiom.) l'argent fait tourner le monde; avec l'argent, tout est possible/(lit.) avec l'argent on peut forcer un fantôme à pousser une meule/ 
-有關 有关 [you3 guan1] {jau5 gwaan1} /qui concerne, concernant (un sujet)/
-有關方面 有关方面 [you3 guan1 fang1 mian4] {jau5 gwaan1 fong1 min6} /parties intéressées, personnes intéressées/
+有關 有关 [you3 guan1] {jau5 gwaan1} /concerné; touché; en cause/pertinent/avoir à voir avec; être en rapport avec; concerner/
+有關方面 有关方面 [you3 guan1 fang1 mian4] {jau5 gwaan1 fong1 min6} /parties intéressées; personnes intéressées/
 有限小數 有限小数 [you3 xian4 xiao3 shu4] {jau5 haan6 siu2 sou3} /décimale finie/
-有陣時 有阵时 [you3 zhen4 shi2] {jau5 zan6 si4} /parfois, quelquefois/
-有隙可乘 有隙可乘 [you3 xi4 ke3 cheng2] {jau5 kwik1 ho2 sing4} /(fig.) il y a une faille que l'on peut exploiter/(lit.) il y a une fissure par laquelle on peut passer/ 
-有面 有面 [you3 mian4] {jau5 min6} /avoir un rang social élevé/avoir une bonne réputation/
-有頭冇尾 有头冇尾 [you3 tou2 mao3 wei3] {jau5 tau4 mou5 mei5} /(fig.) ne pas terminer une tâche/(lit.) avoir une tête mais pas de queue/
-有頭威，冇尾陣 有头威，冇尾阵 [you3 tou2 wei1 , mao3 wei3 zhen4] {jau5 tau4 wai1 mou5 mei5 zan6} /(expr. idiom.) bien commencer mais vite s'essoufler/
-有頭威冇尾陣 有头威冇尾阵 [you3 tou2 wei1 mao3 wei3 zhen4] {jau5 tau4 wai1 mou5 mei5 zan6} /(expr. idiom.) bien commencer mais vite s'essoufler/
-有頭有路 有头有路 [you3 tou2 you3 lu4] {jau5 tau4 jau5 lou6} /parler bien, s'exprimer bien/raisonnable, organisé, méthodique/
-有頭有面 有头有面 [you3 tou2 you3 mian4] {jau5 tau4 jau5 min2} /riche, célèbre, qui a bonne réputation/
-有頭毛冇人想生鬎鬁 有头毛冇人想生瘌痢 [you3 tou2 mao2 mao3 ren2 xiang3 sheng1 la4 li5] {jau5 tau4 mou4 mou5 jan4 soeng2 saang1 laat6 lei1} /(expr. idiom.) ne pas avoir de choix, ne pas avoir autre choix/(lit.) personne avec des cheveux ne veut contracter le favus/
-有頭髮邊個想做癩痢 有头发边个想做癞痢 [you3 tou2 fa5 bian1 ge4 xiang3 zuo4 lai4 li4] {jau5 tau4 faat3 bin1 go3 soeng2 zou6 laat3 lei1} /(expr. idiom.) ne pas avoir de choix, ne pas avoir autre choix/(lit.) personne avec des cheveux ne veut contracter le favus/
-有風駛盡𢃇 有风驶尽𢃇 [you3 feng1 shi3 jin4 li5] {jau5 fung1 sai2 zeon6 lei5} /(expr. idiom.) exploiter au maximum, tirer profit de quelque chose jusqu'à ce qu'il ne reste plus d'argent à faire/(lit.) utiliser le vent pour naviguer en voilier/  
-有驚無險 有惊无险 [you3 jing1 wu2 xian3] {jau5 ging1 mou4 him2} /(expr. idiom.) plus de peur que de mal, fausse alerte/(lit.) plus effrayant que dangereux/
+有陣時 有阵时 [you3 zhen4 shi2] {jau5 zan6 si4} /parfois; quelquefois/
+????f 有隙可乘 有隙可乘 [you3 xi4 ke3 cheng2] {jau5 kwik1 ho2 sing4} /(fig.) il y a une faille que l'on peut exploiter (there is an opportunity or loophole to exploit - usually to do something bad)/(lit.) il y a une fissure par laquelle on peut passer/ 
+有面 有面 [you3 mian4] {jau5 min2} /avoir un rang social élevé; avoir une bonne réputation/
+有頭冇尾 有头冇尾 [you3 tou2 mao3 wei3] {jau5 tau4 mou5 mei5} /(fig.) ne pas terminer une tâche; bien commencer mais vite s'essoufler/(fig.) avoir un début mais pas une fin/(lit.) avoir une tête mais pas de queue/
+有頭威，冇尾陣 有头威，冇尾阵 [you3 tou2 wei1 , mao3 wei3 zhen4] {jau5 tau4 wai1 mou5 mei5 zan6} /(expr. idiom.) bien commencer mais vite s'essoufler; abandonner à mi-chemin/
+有頭威冇尾陣 有头威冇尾阵 [you3 tou2 wei1 mao3 wei3 zhen4] {jau5 tau4 wai1 mou5 mei5 zan6} /(expr. idiom.) bien commencer mais vite s'essoufler; abandonner à mi-chemin/
+有頭有路 有头有路 [you3 tou2 you3 lu4] {jau5 tau4 jau5 lou6} /bien parler; bien s'exprimer/raisonnable; organisé; méthodique/
+有頭有面 有头有面 [you3 tou2 you3 mian4] {jau5 tau4 jau5 min2} /riche; célèbre; qui a bonne réputation/
+有頭毛冇人想生鬎鬁 有头毛冇人想生瘌痢 [you3 tou2 mao2 mao3 ren2 xiang3 sheng1 la4 li5] {jau5 tau4 mou4 mou5 jan4 soeng2 saang1 laat6 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
+????f 有頭髮邊個想做癩痢 有头发边个想做癞痢 [you3 tou2 fa5 bian1 ge4 xiang3 zuo4 lai4 li4] {jau5 tau4 faat3 bin1 go3 soeng2 zou6 laat3 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
+????f 有風駛盡𢃇 有风驶尽𢃇 [you3 feng1 shi3 jin4 li5] {jau5 fung1 sai2 zeon6 lei5} /(expr. idiom.) exploiter au maximum; tirer profit de quelque chose jusqu'à ce qu'il ne reste plus d'argent à faire/(lit.) utiliser le vent pour naviguer en voilier/  
+有驚無險 有惊无险 [you3 jing1 wu2 xian3] {jau5 ging1 mou4 him2} /(expr. idiom.) plus de peur que de mal; fausse alerte/(lit.) plus effrayant que dangereux/
 有骨 有骨 [you3 gu3] {jau5 gwat1} /(fig.) remarque passive-aggressive, qui semble innocent mais qui est en réalité une insulte ou une critique/(lit.) avoir des os/
-有鬼 有鬼 [you3 gui3] {jau5 gwai2} /hanté/
-有麝自然香 有麝自然香 [you3 she4 zi4 ran2 xiang1] {jau5 se6 zi6 jin4 hoeng1} /à bon vin il ne faut point de bouchon; à bon vin point d'enseigne; les bonnes choses n'ont pas besoin d'être vantées/(lit.) un cerf porte-musc est naturellement aromatique/ 
+有鬼 有鬼 [you3 gui3] {jau5 gwai2} /(fig.) y avoir quelque chose de louche; y avoir quelque chose qui cloche; y avoir quelque chose de suspect/(lit.) avoir des fantômes/
+有鬼用 有鬼用 [you3 gui3 yong4] {jau5 gwai2 jung6} /(fig.) ne servir à rien/
+????f 有麝自然香 有麝自然香 [you3 she4 zi4 ran2 xiang1] {jau5 se6 zi6 jin4 hoeng1} /(expr. idiom.) le vrai talent se fait connaître soi-même; on n'a pas besoin de se vanter d'un vrai talent/(lit.) un cerf porte-musc est naturellement aromatique/ 
 朊毒體 朊毒体 [ruan3 du2 ti3] {jyun2 duk6 tai2} /prion/
-服務中心 服务中心 [fu2 wu4 zhong1 xin1] {fuk6 mou6 zung1 sam1} /secteur des services/
+服務中心 服务中心 [fu2 wu4 zhong1 xin1] {fuk6 mou6 zung1 sam1} /centre de services/
 服務行業 服务行业 [fu2 wu4 hang2 ye4] {fuk6 mou6 hong4 jip6} /secteur des services/
-服裝 服装 [fu2 zhuang1] {fuk6 zong1} /tenue, habit/
+服裝 服装 [fu2 zhuang1] {fuk6 zong1} /vêtement; tenue; habit; costume/
 朗尼 朗尼 [lang3 ni2] {long5 nei4} /Wayne Rooney, footballeur anglais/
 朗屏 朗屏 [lang3 ping2] {long5 ping4} /Long Ping, station du métro de Hong Kong/
 朗拿度 朗拿度 [lang3 na2 du4] {long5 naa4 dou6} /Ronaldo Luís Nazário de Lima, footballeur brésilien/
