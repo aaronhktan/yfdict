@@ -11199,28 +11199,28 @@
 ????f 棉胎 棉胎 [mian2 tai1] {min4 toi1} /couette en coton/
 ????f 棉衲 棉衲 [mian2 na4] {min4 naap6} /veste avec doublure de coton/
 ????f 棉褸 棉褛 [mian2 lu:3] {min4 lau1} /veste en coton/
-棉豆 棉豆 [mian2 dou4] {min4 dau2} /haricots beurre/
+棉豆 棉豆 [mian2 dou4] {min4 dau2} /haricot de Lima; Phaseolus lunatus/
 棋士 棋士 [qi2 shi4] {kei4 si6} /joueur professionnel d'échecs/
-棋屎 棋屎 [qi2 shi3] {kei4 si2} /not skilled enough, losing every time/
-棋差一着 棋差一着 [qi2 cha1 yi1 zhao1] {kei4 caa1 jat1 zoek6} /(proverb) someone skills are not good enough/
-棋迷 棋迷 [qi2 mi2] {kei4 mai4} /amateur d'échecs/
-棍 棍 [gun4] {gwan3} /escroc, arnaqueur/
+????f 棋屎 棋屎 [qi2 shi3] {kei4 si2} /joueur (d'échecs) inexperimenté qui perd souvent/
+棋差一着 棋差一着 [qi2 cha1 yi1 zhao1] {kei4 caa1 jat1 zoek6} /(expr.) faire une faute; faire une erreur/
+????f 棋迷 棋迷 [qi2 mi2] {kei4 mai4} /enthousiaste d'échecs; amateur d'échecs/
+棍 棍 [gun4] {gwan3} /baton/escroc; arnaqueur/
 棍波 棍波 [gun4 bo1] {gwan3 bo1} /transmission manuelle/
-棍騙 棍骗 [gun4 pian4] {gwan3 pin3} /escroquer, arnaquer/
-棒打鴛鴦 棒打鸳鸯 [bang4 da3 yuan1 yang1] {paang5 daa2 jyun1 joeng1} /(fig.) séparer un couple heureux/(lit.) frapper une paire de canards avec une massue/ 
-棖雞 枨鸡 [cheng2 ji1] {caang4 gai1} /(fam.) femme acariâtre, farouche, déraisonnable/
-棖雞婆 枨鸡婆 [cheng2 ji1 po2] {caam4 gai1 po4} /(fam.) femme acariâtre, farouche, déraisonnable/
-棗紅 枣红 [zao3 hong2] {zou2 hung4} /couleur prune/
-棗紅色 枣红色 [zao3 hong2 se4] {zou2 hung4 sik1} /couleur prune/
-棘手 棘手 [ji2 shou3] {gik1 sau2} /difficile/
-棚 棚 [peng2] {paang4} /(classificateur pour un ensemble de dents)/ 
-棚寮 棚寮 [peng2 liao2] {paang4 liu4} /cabanon/cabane temporaire pour ouvriers/ 
-???? 棚尾拉箱 棚尾拉箱 [peng2 wei3 la1 xiang1] {paang4 mei5 laai1 soeng1} /packing up in a rush after a show / activity finished; to flee after a defeat/
-棟 栋 [dong4] {dung3} /mettre debout/
-棟宇 栋宇 [dong4 yu3] {dung6 jyu5} /maison, édifice/
-棟樑 栋梁 [dong4 liang2] {dung6 loeng4} /pilier de l'État/colonne, pilier/
+棍騙 棍骗 [gun4 pian4] {gwan3 pin3} /escroquer; arnaquer/
+????f 棒打鴛鴦 棒打鸳鸯 [bang4 da3 yuan1 yang1] {paang5 daa2 jyun1 joeng1} /(fig.) séparer un couple heureux/(lit.) frapper une paire de canards avec une massue/ 
+棖雞 枨鸡 [cheng2 ji1] {caang4 gai1} /(fam.) femme acariâtre; femme déraisonnable; mégère/
+棖雞婆 枨鸡婆 [cheng2 ji1 po2] {caam4 gai1 po4} /(fam.) femme acariâtre; femme déraisonnable; mégère/
+棗紅 枣红 [zao3 hong2] {zou2 hung4} /couleur prune; pourpre foncé/
+棗紅色 枣红色 [zao3 hong2 se4] {zou2 hung4 sik1} /couleur prune; pourpre foncé/
+棘手 棘手 [ji2 shou3] {kik1 sau2} /(fig.) (problème) difficile; épineux; délicat/
+????f 棚 棚 [peng2] {paang4} /(classificateur pour un ensemble de dents)/ 
+????f 棚寮 棚寮 [peng2 liao2] {paang4 liu4} /cabanon/cabane temporaire pour ouvriers/
+????c 棚尾拉箱 棚尾拉箱 [peng2 wei3 la1 xiang1] {paang4 mei5 laai1 soeng1} /(expr. idiom.) se défiler/
+棟 栋 [dong4] {dung6} /mettre debout/
+棟宇 栋宇 [dong4 yu3] {dung6 jyu5} /maison; édifice/
+棟樑 栋梁 [dong4 liang2] {dung6 loeng4} /pilier de l'État/panne faîtière; poutre de faîte/
 棟篤笑 栋笃笑 [dong4 du3 xiao4] {dung6 duk1 siu3} /stand-up/
-???? 棠棣 棠棣 [tang2 di4] {tong4 dai6} /japanese kerria (flower); timber from Prunus japonica/
+棠棣 棠棣 [tang2 di4] {tong4 dai6} /(espèce d'arbres) Prunus Japonica/
 棡 㭎 [gang1] {gong1} /chêne/
 森巴舞 森巴舞 [sen1 ba1 wu3] {sam1 baa1 mou5} /(danse) samba/
 棯仔 棯仔 [ren3 zi3] {nim1 zai2} /Rose Myrtle, plante à fleurs/
