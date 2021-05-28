@@ -11748,32 +11748,32 @@
 氠 氠 [shen1] {san1} /(désuet) xénon/
 氣來氣喘 气来气喘 [qi4 lai2 qi4 chuan3] {hei3 loi4 hei3 cyun2} /(expr.) essouflé; à bout de souffle/
 氣候 气候 [qi4 hou4] {hei3 hau6} /(fig.) climat; situation/tendance/
-氣勢磅礴 气势磅礴 [qi4 shi4 pang2 bo2] {hei3 sai3 bong6 bok3} /magnifique; splendide; à couper le souffle/
-氣味 气味 [qi4 wei4] {hei3 mei6} /odeur; fragrance/sentir de; relever de; avoir des relents de/
-氣味相投 气味相投 [qi4 wei4 xiang1 tou2] {hei3 mei6 soeng1 tau4} /(expr. idiom.) faire la paire; être issus de la même moule/
-氣咳 气咳 [qi4 ke2] {hei3 kat1} /essouflé; à bout de souffle/incapable de respirer/éprouvant; laborieux/tellement énervé que l'on a du mal à respirer/
-氣度不凡 气度不凡 [qi4 du4 bu4 fan2] {hei3 dou6 bat1 faan4} /(expr. idiom.) posséder une patience ou tolérance extraordinaire/
-氣數已盡 气数已尽 [qi4 shu5 yi3 jin4] {hei3 sou3 ji5 zeon6} /(quelque chose) dont les jours sont comptés/
-氣氛 气氛 [qi4 fen1] {hei3 fan1} /situation/
+氣勢磅礴 气势磅礴 [qi4 shi4 pang2 bo2] {hei3 sai3 bong6 bok3} /(expr.) magnifique; splendide; à couper le souffle/
+????f 氣味 气味 [qi4 wei4] {hei3 mei6} /odeur; fragrance/sentir de; relever de; avoir des relents de/
+????f 氣味相投 气味相投 [qi4 wei4 xiang1 tou2] {hei3 mei6 soeng1 tau4} /(expr. idiom.) faire la paire; être issus de la même moule/
+氣咳 气咳 [qi4 ke2] {hei3 kat1} /essouflé; à bout de souffle/incapable de respirer/éprouvant; laborieux/
+????c 氣度不凡 气度不凡 [qi4 du4 bu4 fan2] {hei3 dou6 bat1 faan4} /(expr. idiom.) posséder une patience ou tolérance extraordinaire/
+????f 氣數已盡 气数已尽 [qi4 shu5 yi3 jin4] {hei3 sou3 ji5 zeon6} /(quelque chose) dont les jours sont comptés/
+氣氛 气氛 [qi4 fen1] {hei3 fan1} /atmosphère; ambiance/
 氣焰 气焰 [qi4 yan4] {hei3 jim6} /arrogance; vanité; orgueil; fanfaronnade/
-氣焰囂張 气焰嚣张 [qi4 yan4 xiao1 zhang1] {hei3 jim6 hiu1 zoeng1} /gonflé d'orgueil; arrogance insupportable/
-氣窗 气窗 [qi4 chuang1] {hei3 coeng1} /vasistas; imposte vitrée; peite fenêtre en dessus d'autres fenêtres/
-氣羅氣喘 气罗气喘 [qi4 luo2 qi4 chuan3] {hei3 lo4 hei3 cyun2} /essouflé; à bout de souffle/
+氣焰囂張 气焰嚣张 [qi4 yan4 xiao1 zhang1] {hei3 jim6 hiu1 zoeng1} /gonflé d'orgueil; d'une arrogance insupportable/
+????f 氣窗 气窗 [qi4 chuang1] {hei3 coeng1} /vasistas; imposte vitrée; peite fenêtre en dessus d'autres fenêtres/
+氣羅氣喘 气罗气喘 [qi4 luo2 qi4 chuan3] {hei3 lo4 hei3 cyun2} /(expr.) essouflé; à bout de souffle/
 氣象學家 气象学家 [qi4 xiang4 xue2 jia1] {hei3 zoeng6 hok6 gaa1} /météorologiste/
-氣質 气质 [qi4 zhi4] {hei3 zat1} /qualité de l'air/disposition; tempérament/
+氣質 气质 [qi4 zhi4] {hei3 zat1} /disposition; tempérament/
 氣運 气运 [qi4 yun4] {hei3 wan6} /sort; destin/
-氣頂 气顶 [qi4 ding3] {hei3 ding2} /rancœur; rancune/bouchon de réservoir; bouchon de carburant/
+????f 氣頂 气顶 [qi4 ding3] {hei3 ding2} /être très irrité; être très fâché mais devoir retenir sa colère/bouchon de réservoir; bouchon de carburant/
 氣順 气顺 [qi4 shun4] {hei6 seon6} /à l'aise; content; confortable/n'avoir rien contre; n'avoir aucune objection/
 氣體燃料 气体燃料 [qi4 ti3 ran2 liao4] {hei3 tai2 jin4 liu2} /combustible gazeux/
-氣魄 气魄 [qi4 po4] {hei3 paak3} /splendeur; majesté/
+氣魄 气魄 [qi4 po4] {hei3 paak3} /splendeur; majesté/vision audacieuse/
 氧化作用 氧化作用 [yang3 hua4 zuo4 yong4] {joeng5 faa3 zok3 jung6} /oxidation/
-氧化銅 氧化铜 [yang3 hua4 tong2] {joeng5 faa3 tung4} /chlorure de cuivre/
-氧化鐵 氧化铁 [yang3 hua4 tie3] {joeng5 faa3 tit3} /oxide de fer/
+氧化銅 氧化铜 [yang3 hua4 tong2] {joeng5 faa3 tung4} /oxyde de cuivre (II); oxyde cuivreux/
+氧化鐵 氧化铁 [yang3 hua4 tie3] {joeng5 faa3 tit3} /oxyde de fer/
 氨水 氨水 [an1 shui3] {on1 seoi2} /ammoniaque/
-水 水 [shui3] {seoi2} /(fam.) pognon; fric; argent/qui/quelqu'un/(classificateur pour une cargaison)/
-水上人 水上人 [shui3 shang4 ren2] {seoi2 soeng6 jan4} /boat-people/pêcheurs/
+水 水 [shui3] {seoi2} /eau/(fam.) pognon; fric; argent/(classificateur pour une cargaison)/
+水上人 水上人 [shui3 shang4 ren2] {seoi2 soeng6 jan4} /peuple des bateaux/pêcheurs/
 水上單車 水上单车 [shui3 shang4 dan1 che1] {seoi2 soeng6 daan1 ce1} /pédalo/
-水上新娘 水上新娘 [shui3 shang4 xin1 niang2] {seoi2 soeng6 san1 noeng4} /femme de la Chine continentale qui s'est mariée avec un pêcheur hongkongais (orig. elles n'avaient pas le droit de résider à Hong Kong; en raison de cela, elles vivaient sur les bateaux des pêcheurs, d'où le nom «jeune mariée sur l'eau»)/
+????f 水上新娘 水上新娘 [shui3 shang4 xin1 niang2] {seoi2 soeng6 san1 noeng4} /femme de la Chine continentale qui s'est mariée avec un pêcheur hongkongais/(orig.) elles n'avaient pas le droit de résider à Hong Kong — en raison de cela, elles vivaient sur les bateaux des pêcheurs, d'où le nom « jeune mariée sur l'eau »)/
 水上電單車 水上电单车 [shui3 shang4 dian4 dan1 che1] {seoi2 soeng6 din6 daan1 ce1} /jet-ski/
 水中 水中 [shui3 zhong1] {seoi2 zung1} /dans l'eau/
 水乳交融 水乳交融 [shui3 ru3 jiao1 rong2] {seoi2 jyu5 gaau1 jung4} /(expr. idiom.) en parfaite harmonie/(lit.) comme se mélangent l'eau et le lait/
@@ -11782,19 +11782,19 @@
 水利 水利 [shui3 li4] {seoi2 lei6} /conservation de l'eau/irrigation/
 水力發電廠 水力发电厂 [shui3 li4 fa1 dian4 chang3] {seoi2 lik6 faat3 din6 cong2} /centrale hydroélectrique/
 水力資源 水力资源 [shui3 li4 zi1 yuan2] {seoi2 lik6 zi1 jyun4} /ressources hydroélectriques/
-水務署 水务署 [shui3 wu4 shu3] {seoi2 mou6 cyu5} /«Water Supplies Department»  (Département de l'approvisionnement en eau) de Hong Kong/
-水勢 水势 [shui3 shi4] {seoi2 sai3} /écoulement de l'eau/
+水務署 水务署 [shui3 wu4 shu3] {seoi2 mou6 cyu5} /« Water Supplies Department »  (« Département de l'approvisionnement en eau ») de Hong Kong/
+????f 水勢 水势 [shui3 shi4] {seoi2 sai3} /écoulement de l'eau/????rise and fall of floodwater levels/
 水勼油 水勼油 [shui3 jiu1 you2] {seoi2 kau1 jau4} /(expr. idiom.) incompatible/(expr. idiom.) ne pas s'entendre (avec quelqu'un); s'entendre comme chien et chat/(lit.) comme mélanger de l'eau et de l'huile/
 水口 水口 [shui3 kou3] {seoi2 hau2} /Shui Hau, localité de Hong Kong/
-水吧 水吧 [shui3 ba1] {seoi2 baa1} /bar; comptoir où se servent les boissons/
-水喉 水喉 [shui3 hou2] {seoi2 hau4} /robinet/conduite d'eau/(argot) riche; (ex. 有支水喉射住 «avoir du soutien financier»)/
+????f 水吧 水吧 [shui3 ba1] {seoi2 baa1} /bar; comptoir où se servent les boissons/
+水喉 水喉 [shui3 hou2] {seoi2 hau4} /robinet/conduite d'eau/(argot) riche/
 水喉水 水喉水 [shui3 hou2 shui3] {seoi2 hau4 seoi2} /l'eau du robinet/
 水喉通 水喉通 [shui3 hou2 tong1] {seoi2 hau4 tung1} /conduite d'eau en métal/
 水喉鐵 水喉铁 [shui3 hou2 tie3] {seoi2 hau4 tit3} /conduite d'eau/
 水嘢 水嘢 [shui3 ye3] {seoi2 je5} /camelote; produit de mauvaise qualité/
 水土流失 水土流失 [shui3 tu3 liu2 shi1] {seoi2 tou2 lau4 sat1} /érosion du sol/
-水圳 水圳 [shui3 zhen4] {seoi2 zan3} /canal d'irrigation/nulla/
-???? 水垽 水垽 [shui3 yin4] {seoi2 ngan6} /dépôt calcaire; tartre/sédiment/
+水圳 水圳 [shui3 zhen4] {seoi2 zan3} /canal d'irrigation/
+????c 水垽 水垽 [shui3 yin4] {seoi2 ngan6} /dépôt calcaire; tartre/sédiment/
 水塘 水塘 [shui3 tang2] {seoi2 tong4} /réservoir; bassin de retenue; lac de barrage/
 ????f 水尾 水尾 [shui3 wei3] {seoi2 mei5} /le restant (en particulier les produits qui n'ont pas été vendus)/rater la chance de faire un profit/
 水平線 水平线 [shui3 ping2 xian4] {seoi2 ping4 sin3} /ligne horizontale/
