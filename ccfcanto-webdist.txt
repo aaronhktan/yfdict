@@ -11849,12 +11849,12 @@
 水蟹 水蟹 [shui3 xie4] {seoi2 haai5} /crabe/
 水警 水警 [shui3 jing3] {seoi2 ging2} /Marine Region de la police de Hong Kong, police portuaire et garde-côtes/
 水豆腐 水豆腐 [shui3 dou4 fu5] {seoi2 dau6 fu6} /tofu soyeux/
-???? 水貨客 水货客 [shui3 huo4 ke4] {seoi2 fo3 haak3} /exportateur parallèle; personne qui achète des produits de plus haute qualité ou qui sont moins chers à Hoing Kong qu'en Chine pour les revendre en Chine continentale/
+????f 水貨客 水货客 [shui3 huo4 ke4] {seoi2 fo3 haak3} /exportateur parallèle; personne qui achète des produits de plus haute qualité ou qui sont moins chers à Hong Kong qu'en Chine pour les revendre en Chine continentale/
 水路 水路 [shui3 lu4] {seoi2 lou6} /route maritime; voie maritime/
 水車 水车 [shui3 che1] {seoi2 ce1} /roue à eau/camion de pompier/
 水退 水退 [shui3 tui4] {seoi2 teoi3} /marée basse/
 水過鴨背 水过鸭背 [shui3 guo4 ya1 bei4] {seoi2 gwo3 aap3 bui3} /(expr. idiom.)qui n'écoute pas en classe et ne rappelle rien de ce qui est enseigné/
-水酒 水酒 [shui3 jiu3] {seoi2 zau2} /(formule de politesse; s'emploie d'un hôte en parlant de son propre vin) vin aqueux/
+????f 水酒 水酒 [shui3 jiu3] {seoi2 zau2} /(formule de politesse, s'emploie d'un hôte en parlant de son propre vin) vin aqueux/
 水門 水门 [shui3 men2] {seoi2 mun4} /vanne; porte d'écluse/
 水險 水险 [shui3 xian3] {seoi2 him2} /assurance maritime/
 水電費 水电费 [shui3 dian4 fei4] {seoi2 din6 fai3} /facture d'électricité et d'eau/
@@ -11862,24 +11862,25 @@
 水靜鵝飛 水静鹅飞 [shui3 jing4 e2 fei1] {seoi2 zing6 ngo4 fei1} /(expr. idiom.) déserté; abandonné; peu fréquenté; (affaires) qui se tournent au ralenti/
 水靴 水靴 [shui3 xue1] {seoi2 hoe1} /botte en caoutchouc; botte de pluie/
 水鞋 水鞋 [shui3 xie2] {seoi2 haai4} /botte en caoutchouc; botte de pluie/
-水頭 水头 [shui3 tou2] {seoi2 tau4} /argent; ressources financières/
-水鬼升城隍 水鬼升城隍 [shui3 gui3 sheng1 cheng2 huang5] {seoi2 gwai2 sing1 sing4 wong4} /(expr. idiom.) qui réussit dans le monde sans le mériter/(lit.) fantôme de la rivière promu à dieu d'une ville/
-水鬼隊 水鬼队 [shui3 gui3 dui4] {seoi2 gwai2 deoi2} /équipe de plongeurs des forces spéciales du « Special Duties Unit » de la police de Hong Kong/
+水頭 水头 [shui3 tou2] {seoi2 tau4} /(fig.) argent; ressources financières/
+????f 水鬼升城隍 水鬼升城隍 [shui3 gui3 sheng1 cheng2 huang5] {seoi2 gwai2 sing1 sing4 wong4} /(expr. idiom.) qui réussit dans le monde sans le mériter/(lit.) fantôme de la rivière promu à dieu d'une ville/
+????f 水鬼隊 水鬼队 [shui3 gui3 dui4] {seoi2 gwai2 deoi2} /équipe de plongeurs des forces spéciales du « Special Duties Unit » de la police de Hong Kong/
 水魚 水鱼 [shui3 yu2] {seoi2 jyu2} /tortues Trionychidae, tortues ayant une carapace molle/(fig.) personne crédule; idiot/
 水鴨 水鸭 [shui3 ya1] {seoi2 aap3} /canard sauvage/
-水黃皮 水黄皮 [shui3 huang2 pi2] {seoi2 wong4 pei2} /(plante) karanj; karanja; arbre de pongolote/ 
+水黃皮 水黄皮 [shui3 huang2 pi2] {seoi2 wong4 pei2} /(espèce de plantes) karanj; karanja; arbre de pongolote; Millettia pinnata/
 水龍捲 水龙卷 [shui3 long2 juan3] {seoi2 lung4 gyun2} /trombe marine/
-永字八法 永字八法 [yong3 zi4 ba1 fa3] {wing5 zi6 baat3 faat3} /les huit traits du mot yong (永); le mot contient les huits traits de base des sinogrammes de l'écriture chinois/
-永恆 永恒 [yong3 heng2] {wing5 hang4} /toujours; à jamais/
+????f 永字八法 永字八法 [yong3 zi4 ba1 fa3] {wing5 zi6 baat3 faat3} /les huit traits du mot yong (永) — le mot contient les huits traits de base des sinogrammes de l'écriture chinois/
+永恆 永恒 [yong3 heng2] {wing5 hang4} /toujours; à jamais/éternel; perpétuel/
 永泰站 永泰站 [yong3 tai4 zhan4] {wing5 taai3 zaam6} /Yongtai Station, station du métro de Canton/
-永誌不忘 永志不忘 [yong3 zhi4 bu2 wang4] {wing5 zi3 bat1 mong4} /inoubliable/
+????c 永誌不忘 永志不忘 [yong3 zhi4 bu2 wang4] {wing5 zi3 bat1 mong4} /inoubliable/
 氹 氹 [dang4] {tam3} /remonter le moral/plaire (à quelqu'un)/attirer; piéger/
 氹 氹 [dang4] {tam5} /flaque d'eau/creux/fossé/fosse d'aisances/
-氹氹轉 凼凼转 [dang4 dang4 zhuan3] {tam4 tam4 zyun3} /(fig.) très occupé; débordé de travail/(terrain de jeu) tourniquet/
-氾濫 泛滥 [fan4 lan4] {faan3 laam6} /inonder/déborder/(fig.) hors contrôle/
+氹氹轉 凼凼转 [dang4 dang4 zhuan3] {tam4 tam2 zyun3} /(fig.) très occupé; débordé de travail/
+????f 氹氹轉 凼凼转 [dang4 dang4 zhuan3] {tam4 tam4 zyun3} /(terrain de jeu) tourniquet/
+????f 氾濫 泛滥 [fan4 lan4] {faan3 laam6} /inonder; déborder/(fig.) se répandre hors contrôle/
 汀九 汀九 [ting1 jiu3] {ting1 gau2} /Ting Kau, région de Hong Kong/
 汁 汁 [zhi1] {zap1} /sauce/
-汁都撈埋 汁都捞埋 [zhi1 dou1 lao1 mai2] {zap1 dou1 lou1 maai4} /(expr. idiom.) garder tous les avantages pour soi; tout prendre pour soi/(fig.) tout manger/(lit.) mélanger toute la sauce/
+????c 汁都撈埋 汁都捞埋 [zhi1 dou1 lao1 mai2] {zap1 dou1 lou1 maai4} /(expr. idiom.) garder tous les avantages pour soi; tout prendre pour soi/(fig.) tout manger/(lit.) mélanger toute la sauce/
 求 求 [qiu2] {kau4} /supplier; implorer/
 求仁得仁 求仁得仁 [qiu2 ren2 de2 ren2] {kau4 jan4 dak1 jan4} /rêve devenu réalité/
 求偶 求偶 [qiu2 ou3] {kau4 ngau5} /faire la cour à quelqu'un; courtiser/
@@ -11888,14 +11889,14 @@
 求其 求其 [qiu2 qi2] {kau4 kei4} /sans soin; avec négligence; aveuglément; n'importe comment/(indifférence) ça m'est égal; c'est comme tu veux/
 求實 求实 [qiu2 shi2] {kau4 sat6} /faire preuve de pragmatisme; chercher des résultats réalistes/
 求求其其 求求其其 [qiu2 qiu5 qi2 qi2] {kau4 kau4 kei4 kei4} /sans soin; avec négligence; aveuglément; n'importe comment/
-求簽 求签 [qiu2 qian1] {kau4 cim1} /dire l'avenir par tirage au sort/
-求見 求见 [qiu2 jian4] {kau4 gin3} /demander une audience à/
-求親 求亲 [qiu2 qin1] {kau4 can1} /faire sa demande en mariage/
-???? 求降 求降 [qiu2 xiang2] {kau4 hong4} /to beg to surrender/
+????f 求簽 求签 [qiu2 qian1] {kau4 cim1} /prédire l'avenir par tirage au sort à un temple/
+????f 求見 求见 [qiu2 jian4] {kau4 gin3} /demander une audience à/
+????f 求親 求亲 [qiu2 qin1] {kau4 can1} /faire une demande en mariage/
+????f 求降 求降 [qiu2 xiang2] {kau4 hong4} /to beg to surrender/
 汆水 汆水 [cuan1 shui3] {mei6 seoi2} /plonger dans l'eau/
 汗宿 汗宿 [han4 su4] {hon6 suk1} /odeur de la sueur/
 汗漬 汗渍 [han4 zi4] {hon6 zik1} /tache de sueur/
-汗青 汗青 [han4 qing1] {hon6 cing1} /lamelles de bambou (servant de surface d'écriture dans la Chine antique)/chroniques; annales; documents historiques/
+????f 汗青 汗青 [han4 qing1] {hon6 cing1} /lamelles de bambou (servant de surface d'écriture dans la Chine antique)/chroniques; annales; documents historiques/
 江南大道 江南大道 [jiang1 nan2 da4 dao4] {gong1 naam4 daai6 dou6} /Jiangnan Dadao, grande route de Canton/ 
 江南西站 江南西站 [jiang1 nan2 xi1 zhan4] {gong1 naam4 sai1 zaam6} /Jiangnanxi Station, station du métro de Canton/
 江城 江城 [jiang1 cheng2] {gong1 sing4} /Jiangcheng, localité de Guangdong, en Chine/
