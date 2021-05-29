@@ -11948,16 +11948,16 @@
 沖涼 冲凉 [chong1 liang2] {cung1 loeng4} /se doucher; prendre une douche/se baigner/
 沖涼房 冲凉房 [chong1 liang2 fang2] {cung1 loeng4 fong2} /salle de bain/toilettes/
 沖涼缸 冲凉缸 [chong1 liang2 gang1] {cung1 loeng4 gong1} /baignoire/
-???? 沖淡水 冲淡水 [chong1 dan4 shui3] {cung1 taam5 seoi2} /to be a 'wet blanket'/
+????f 沖淡水 冲淡水 [chong1 dan4 shui3] {cung1 taam5 seoi2} /refroidir l'ardeur; gâcher la fête de quelqu'un; décourager quelqu'un/
 沖滾水 冲滚水 [chong1 gun3 shui3] {cung1 gwan2 seoi2} /ajouter de l'eau bouillante/
-沖破 冲破 [chong1 po4] {cung1 po3} /franchir, percer (les défenses d'un ennemi)/surmonter (des obstacles)/briser, rompre avec la tradition/
+沖破 冲破 [chong1 po4] {cung1 po3} /franchir; percer (les défenses d'un ennemi)/surmonter (des obstacles)/briser; rompre avec la tradition/
 沖茶 冲茶 [chong1 cha2] {cung1 caa4} /faire du thé/
-???? 沖菜 冲菜 [chong1 cai4] {cung1 coi3} /preserved kale head; preserved turnip; preserved vegetable/
+????c 沖菜 冲菜 [chong1 cai4] {cung1 coi3} /preserved kale head; preserved turnip; preserved vegetable/
 沙井蓋 沙井盖 [sha1 jing3 gai4] {saa1 zeng2 goi3} /plaque d'égout/
 沙冚 沙冚 [sha1 ka4] {saa1 kam2} /garde-boue (de vélo)/
 沙包 沙包 [sha1 bao1] {saa1 baau1} /punching-ball; sac de frappe/
 沙化 沙化 [sha1 hua4] {saa1 faa3} /sofa; canapé/
-沙哩弄銃 沙哩弄铳 [sha1 li5 nong4 chong4] {saa4 li1 lung6 cung3} /(expr.) gâcher; bousiller/
+沙哩弄銃 沙哩弄铳 [sha1 li5 nong4 chong4] {saa4 li1 lung6 cung3} /(expr.) gâcher; bousiller/(expr.) agir imprudemment/
 沙嗲 沙嗲 [sha1 die1] {saa1 de1} /saté/
 沙嗲醬 沙嗲酱 [sha1 die1 jiang4] {saa1 de1 zoeng3} /saté; sauce saté/
 沙地阿拉伯 沙地阿拉伯 [sha1 di4 A1 la1 bo2] {saa1 dei6 aa3 laai1 baak3} /Arabie Saoudite/
@@ -11965,29 +11965,29 @@
 沙塘口山 沙塘口山 [sha1 tang2 kou3 shan1] {saa1 tong4 hau2 saan1} /Bluff Island, île de Hong Kong/ 
 沙塵白攉 沙尘白攉 [sha1 chen2 bai2 huo1] {saa1 can4 baak6 fok3} /(expr.) arrogant et prétentieux/
 沙塵白霍 沙尘白霍 [sha1 chen2 bai2 huo4] {saa1 can4 baak6 fok3} /(expr.) arrogant et prétentieux/
-沙展 沙展 [sha1 zhan3] {saa1 zin2} /sergent (orig. de l'anglais « sergeant », avec le même sens)/
+沙展 沙展 [sha1 zhan3] {saa1 zin2} /sergent/(orig.) de l'anglais « sergeant » (« sergent »)/
 沙梨 沙梨 [sha1 li2] {saa1 lei4} /nashi; nachi; poire japonaise/
 沙沙滾 沙沙滚 [sha1 sha1 gun3] {saa4 saa4 gwan2} /(relation amoureuse) tromper/faire de l'échangisme/(personne) peu fiable/(faire quelque chose avec) négligence/
-沙沙聲 沙沙声 [sha1 sha1 sheng1] {saa4 saa2 seng1} /(onomatopée de l'eau gargouillant)/bruit de froissement; bruissement; froufrou/
+????f 沙沙聲 沙沙声 [sha1 sha1 sheng1] {saa4 saa2 seng1} /(onomatopée de l'eau gargouillant)/bruit de froissement; bruissement; froufrou/
 沙河粉 沙河粉 [sha1 he2 fen3] {saa1 ho4 fan2} /shahe fen; he fen; nouilles plates à base de riz/
 沙漠之舟 沙漠之舟 [sha1 mo4 zhi1 zhou1] {saa1 mok6 zi1 zau1} /(fig.) chameau/(lit.) navire du désert/
 沙灘波 沙滩波 [sha1 tan1 bo1] {saa1 taan1 bo1} /ballon de plage/
 沙灘老鼠 沙滩老鼠 [sha1 tan1 lao3 shu3] {saa1 taan1 lou5 syu2} /(fig.) voleur sur la plage/(lit.) rats de la plage/
-沙煲 沙煲 [sha1 bao1] {saa1 bou1} /marmite de grès; pot de terre/
-沙煲兄弟 沙煲兄弟 [sha1 bao1 xiong1 di5] {saa1 bou1 hing1 dai6} /(expr. idiom.) être comme des frères; s'aimer comme des frères/(lit.) comme deux frères la même marmite/
-沙田區 沙田区 [sha1 tian2 qu1] {saa1 tin4 keoi1} /district de Sha Tin, une des dix-huit districts de Hong Kong/
+????f 沙煲 沙煲 [sha1 bao1] {saa1 bou1} /marmite de grès; pot de terre/
+????f 沙煲兄弟 沙煲兄弟 [sha1 bao1 xiong1 di5] {saa1 bou1 hing1 dai6} /(expr. idiom.) être comme des frères; s'aimer comme des frères/(lit.) comme deux frères la même marmite/
+沙田區 沙田区 [sha1 tian2 qu1] {saa1 tin4 keoi1} /District de Sha Tin, l'un des dix-huit districts de Hong Kong/
 沙田圍 沙田围 [sha1 tian2 wei2] {saa1 tin4 wai4} /Sha Tin Wai, nom d'un village situé à Hong Kong/
 沙田柚 沙田柚 [sha1 tian2 you4] {saa1 tin4 jau2} /pomelo Shatian/
 沙田海 沙田海 [sha1 tian2 hai3] {saa1 tin4 hoi2} /Sha Tin Hoi ou Tide Cove, petite baie à Hong Kong/
 沙田路 沙田路 [sha1 tian2 lu4] {saa1 tin4 lou6} /Sha Tin Road, autoroute à Hong Kong/
 沙田馬場 沙田马场 [sha1 tian2 ma3 chang3] {saa1 tin4 maa5 coeng4} /Hippodrome de Sha Tin/
-沙甸 沙甸 [sha1 dian4] {saa1 din1} /(poisson) sardine/
-沙甸魚 沙甸鱼 [sha1 dian4 yu2] {saa1 din1 jyu2} /(poisson) sardine/
-沙盤 沙盘 [sha1 pan2] {saa1 pun4} /(militaire) bac à sable; modèle servant à reproduire à l'échelle la topographie d'un terrain/(terrain de jeu) bac à sable; carré de sable/
-沙示 沙示 [sha1 shi4] {saa1 si6} /(boisson) salsepareille, boisson non alcoolisé semblable à la racinette/ 
+沙甸 沙甸 [sha1 dian4] {saa1 din1} /(poisson) sardine/(orig.) de l'anglais « sardine » (« sardine »)/
+沙甸魚 沙甸鱼 [sha1 dian4 yu2] {saa1 din1 jyu2} /(poisson) sardine/(orig.) de l'anglais « sardine » (« sardine »)/
+????f 沙盤 沙盘 [sha1 pan2] {saa1 pun4} /????(militaire) bac à sable; modèle servant à reproduire à l'échelle la topographie d'un terrain/(terrain de jeu) bac à sable; carré de sable/
+????f 沙示 沙示 [sha1 shi4] {saa1 si6} /(boisson) salsepareille, boisson non alcoolisé semblable à la racinette/ 
 沙粉 沙粉 [sha1 fen3] {saa1 fan2} /poudre d'émeri/
 沙糖 沙糖 [sha1 tang2] {saa1 tong4} /sucre granulé/
-沙紙 沙纸 [sha1 zhi3] {saa1 zi2} /papier abrasif/(fig.) diplôme; certificat d'achèvement/
+沙紙 沙纸 [sha1 zhi3] {saa1 zi2} /papier de verre; papier abrasif/(fig.) diplôme; certificat d'achèvement/
 沙翁 沙翁 [sha1 weng1] {saa1 jung1} /beignets frits chinois/
 沙膠 沙膠 [sha1 hao2] {saa1 gaau1} /effaceur; efface-encre; stylo permettant d'effacer une encre/
 沙膽 沙胆 [sha1 dan3] {saa1 daam2} /(fig.) courageux; audacieux; hardi/(lit.) tripes de sable/
@@ -11997,7 +11997,7 @@
 沙虱 沙虱 [sha1 shi1] {saa1 sat1} /aoûtat/
 沙蟬 沙蝉 [sha1 chan2] {saa1 sim4} /cigale/
 沙蟹 沙蟹 [sha1 xie4] {saa1 haai5} /Stud à cinq cartes, variante du poker/
-沙蟹桌 沙蟹桌 [sha1 xie4 zhuo1] {saa1 haai5 coek3} /table de blackjack; table de poker/
+沙蟹桌 沙蟹桌 [sha1 xie4 zhuo1] {saa1 haai5 coek3} /table de blackjack; table de poker/(lit.) table de crabe de sable/
 沙面 沙面 [sha1 mian4] {saa1 min6} /Île Shamian, île dans le centre-ouest de Canton, concession franco-britannique entre le dix-neuvième et vingtième siècle/
 沙頭角海 沙头角海 [sha1 tou2 jiao3 hai3] {saa1 tau4 gok3 hoi2} /Sha Tau Kok Hoi ou Starling Inlet (lit. « crique des étourneaux »), crique à Hong Kong/
 河 河 [he2] {ho4} /canal/ruisseau/fleuve/rivière/
