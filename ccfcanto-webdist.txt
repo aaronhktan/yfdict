@@ -8686,7 +8686,7 @@
 打鑼 打锣 [da3 luo2] {daa2 lo2} /(fig.) chercher quelqu'un/faire retentir le gong/
 ????f 打鑼都搵唔到 打锣都揾唔到 [da3 luo2 dou1 wen3 n2 dao4] {daa2 lo2 dou1 wan2 m4 dou2} /(expr. idiom.) chercher partout mais ne pas arriver à trouver ce que l'on cherche/(lit.) ne pas arriver à trouver ce que l'on recherche même en faisant retentir le gong/
 打關斗 打关斗 [da3 guan1 dou4] {daa2 gwaan1 dau2} /faire un saut périlleux/
-打雀噉眼 打雀啖眼 [da3 que4 dan4 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) regarder attentivement; fixer d'un regard/(lit.) regarder comme un oiseau/
+打雀噉眼 打雀啖眼 [da3 que4 dan4 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) regarder attentivement; fixer du regard/(lit.) regarder comme un oiseau/
 打電報 打电报 [da3 dian4 bao4] {daa2 din6 bou3} /envoyer un télégramme/
 打電腦遊戲 打电脑游戏 [da3 dian4 nao3 you2 xi4] {daa2 din6 nou5 jau4 hei3} /jouer des jeux vidéos sur PC/
 打震 打震 [da3 zhen4] {daa2 zan3} /trembler; frémir/
@@ -12098,55 +12098,55 @@
 泣不成聲 泣不成声 [qi4 bu4 cheng2 sheng1] {jap1 bat1 sing4 sing1} /(expr.) fondre en larmes; sangloter/
 泥塵 泥尘 [ni2 chen2] {nai4 can4} /poussière/
 泥屋 泥屋 [ni2 wu1] {nai4 uk1} /hutte de terre/
-泥水 泥水 [ni2 shui3] {nai4 seoi2} /eau boueuse/
+泥水 泥水 [ni2 shui3] {nai4 seoi2} /eau boueuse/maçonnerie/
 泥水佬 泥水佬 [ni2 shui3 lao3] {nai4 seoi2 lou2} /maçon/
-???? 泥氹 泥凼 [ni2 dang4] {nai4 tam5} /a mud pit/mud puddle/
+????c 泥氹 泥凼 [ni2 dang4] {nai4 tam5} /mud pit/flaque de boue/
 泥湴 泥湴 [ni2 ban4] {nai4 baan6} /boue/
 泥磚 泥砖 [ni2 zhuan1] {nai4 zyun1} /(brique) adobe/
-???? 泥肉 泥肉 [ni2 rou4] {nai4 juk6} /the layer of arable soil/
+????f 泥肉 泥肉 [ni2 rou4] {nai4 juk6} /couche de sol arable/
 泥膠 泥膠 [ni2 hao2] {nai4 gaau1} /pâte à modeler/
-泥菩薩過江 泥菩萨过江 [ni2 pu2 sa4 guo4 jiang1] {nai4 pou4 saat3 gwo3 gong1} /(expr. idiom.) incapable de sauver soi-même et encore même les autres/(lit.) Bouddha en argile traversant la rivière/
-泥蚶 泥蚶 [ni2 han1] {nai4 ham1} /Tegillarca granosa, espèce de mollusques bivalves/
-泥蝦 泥虾 [ni2 xia1] {nai4 haa1} /Metapenaeus ensis, espèce de crevettes/
-泥路 泥路 [ni2 lu4] {nai4 lou6} /chemin de terre/
-???? 泥頭 泥头 [ni2 tou2] {nai4 tau4} /a dumper/
+????f 泥菩薩過江 泥菩萨过江 [ni2 pu2 sa4 guo4 jiang1] {nai4 pou4 saat3 gwo3 gong1} /(expr. en suspens) incapable de sauver soi-même et encore même les autres/(lit.) Bouddha en argile traversant la rivière (deuxième partie 自身難保|自身难保 « incapable de se sauver lui-même »)/
+泥蚶 泥蚶 [ni2 han1] {nai4 ham1} /(espèce de mollusques bivalves) Tegillarca granosa/
+泥蝦 泥虾 [ni2 xia1] {nai4 haa1} /(espèce de crevettes) Metapenaeus ensis/
+????f 泥路 泥路 [ni2 lu4] {nai4 lou6} /chemin de terre/
+????c 泥頭 泥头 [ni2 tou2] {nai4 tau4} /a dumper/
 泥頭車 泥头车 [ni2 tou2 che1] {nai4 tau4 ce1} /camion benne/
 泥鯭 泥鯭 [ni2 meng3] {nai4 maang1} /sigan; picot; Siganus, genre de poissons/
-???? 泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /taxi illégal où le chauffeur de taxi attend plusieurs personnes (qui ne se connaissent pas) ayant la même destination, ce qui lui permet de réduire les prix qu'il demande des passagers/
-???? 泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(espèce de canard élevée sur la terre ferme, sans accès à l'eau)/(fig.) (personne) sale/(dirty car?) (mixed race?)/
-???? 注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /précautions/question nécessitant une attention particulière/
-注視 注视 [zhu4 shi4] {zyu3 si6} /faire attention à/fixer d'un regard; regarder avec insistance; lorgner/
+????f 泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /taxi illégal où le chauffeur de taxi attend plusieurs personnes (qui ne se connaissent pas) ayant la même destination, ce qui lui permet de réduire les prix qu'il demande des passagers/
+????c 泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(espèce de canard élevée sur la terre ferme, sans accès à l'eau)/(fig.) (personne) sale/????(dirty car?) (mixed race?)/
+????c 注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /précautions/question nécessitant une attention particulière/
+注視 注视 [zhu4 shi4] {zyu3 si6} /fixer du regard; regarder avec insistance; lorgner; dévisager; scruter/faire attention à/
 泮塘 泮塘 [pan4 tang2] {pun3 tong6} /Pun Tong, localité de Canton en Chine/
-泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, localité de Canton en Chine/Panshui, village de Guangxi/(vieilli) étang situé devant une école/
+????c 泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, localité de Canton en Chine/Panshui, village de Guangxi/(vieilli) étang situé devant une école/
 泮溪 泮溪 [pan4 xi1] {pun3 kai1} /Panxi, ruisseau de Canton en Chine/
 泰國國際航空公司 泰国国际航空公司 [tai4 guo2 guo2 ji4 hang2 kong1 gong1 si1] {taai3 gwok3 gwok3 zai3 hong4 hung1 gung1 si1} /Thai Airways International, compagnie aérienne nationale de Thaïlande/
 泰山 泰山 [tai4 shan1] {taai3 saan1} /mont Tai, situé dans la province de Shandong en Chine/Tarzan, personnage de fiction/
-泰山壓卵 泰山压卵 [tai4 shan1 ya1 luan3] {taai3 saan1 aat3 leon2} /(expr. idiom.) être complètement surclassé ou surpassé/(lit.) comme le mont Tai écrasant un œuf/
-泰然處之 泰然处之 [tai4 ran2 chu3 zhi1] {taai3 jin4 cyu2 zi1} /(idiom.) prendre (quelque chose) calmement; ne pas perdre son calme/
+????f 泰山壓卵 泰山压卵 [tai4 shan1 ya1 luan3] {taai3 saan1 aat3 leon2} /(expr. idiom.) être complètement surclassé/(lit.) comme le mont Tai écrasant un œuf/
+????f 泰然處之 泰然处之 [tai4 ran2 chu3 zhi1] {taai3 jin4 cyu2 zi1} /(idiom.) prendre (quelque chose) calmement; garder son sang-froid/
 泰王國 泰王国 [tai4 wang2 guo2] {taai3 wong4 gwok3} /royaume de Thaïlande/
 泳池 泳池 [yong3 chi2] {wing6 ci4} /piscine/
 泳灘 泳滩 [yong3 tan1] {wing6 taan1} /plage de baignade/
-𣲷懦 𣲷懦 [ni4 nuo4] {nap6 no6} /lent; mou, molle/indécis, hésitant/procrastinateur/
+𣲷懦 𣲷懦 [ni4 nuo4] {nap6 no6} /lent; indécis; hésitant/
 𣲷黐黐 𣲷黐黐 [ni4 li2 li2] {nap6 ci1 ci1} /collant; gluant/
 洋剪 洋剪 [yang2 jian3] {joeng4 zin2} /ciseaux de tailleur/
-洋奴哲學 洋奴哲学 [yang2 nu2 zhe2 xue2] {joeng4 nou4 zit3 hok6} /(politique) « slavish comprador philosophy » (« culte des produits et technologies étrangers »)/ 
+????f 洋奴哲學 洋奴哲学 [yang2 nu2 zhe2 xue2] {joeng4 nou4 zit3 hok6} /(politique) « slavish comprador philosophy » (« culte des produits et technologies étrangers »)/ 
 洋桃 洋桃 [yang2 tao2] {joeng4 tou2} /carambole/
 洋樓 洋楼 [yang2 lou2] {joeng4 lau2} /(vieilli) édifice de style occidental/
-洋為中用 洋为中用 [yang2 wei2 zhong1 yong4] {joeng4 wai4 zung1 jung6} /(idiom.) se servir des produits étrangers pour améliorer la Chine (orig. de Mao Zedong, « 古为今用，洋为中用 », (« s'en servir du passé pour améliorer le présent, s'en servir de l'étranger pour améliorer la Chine »)/
+????f 洋為中用 洋为中用 [yang2 wei2 zhong1 yong4] {joeng4 wai4 zung1 jung6} /(idiom.) se servir des produits étrangers pour améliorer la Chine/(orig.) de Mao Zedong, « 古为今用，洋为中用 », (« s'en servir du passé pour améliorer le présent, s'en servir de l'étranger pour améliorer la Chine »)/
 洋燭 洋烛 [yang2 zhu2] {joeng4 zuk1} /bougie/
-洋行 洋行 [yang2 hang2] {joeng4 hong2} /(vieilli) société de commerce qui fait affaire avec l'étranger/(vieilli) société étrangère/
-洋財 洋财 [yang2 cai2] {joeng4 coi4} /aubaine; rentrée d'argent imprévue/
-洋酒 洋酒 [yang2 jiu3] {joeng4 zau2} /liqueurs ou spiritueux étrangers/
-洗地 洗地 [xi3 di4] {sai2 dei6} /nettoyer son plancher; laver son plancher/(fig.) blanchir; mettre (quelqu'un) hors de cause/(fig.) étouffer une affaire; cacher une affaire (souvent criminelle)/(fig.) cesser temporairement une opération criminelle en prévision d'une descente de police/
-洗塵 洗尘 [xi3 chen2] {sai2 can4} /(fig.) préparer un dîner de bienvenue pour quelqu'un venant de très loin/(lit.) laver pour enlever la poussière/ 
-洗大餅 洗大饼 [xi3 da4 bing3] {sai2 daai6 beng2} /(fig.) laver la vaisselle (comme emploi); travailler en tant que plongeur/
-洗太平地 洗太平地 [xi3 tai4 ping2 di4] {sai2 taai3 ping4 dei6} /grand nettoyage/(fig.) sévir contre (la toxicomanie, la prostitution, etc.)/(fig.) faire une descente de police/
-洗底 洗底 [xi3 di3] {sai2 dai2} /(criminel) tourner la page; blanchir son nom; passer à autre chose/
-洗手 洗手 [xi3 shou3] {sai2 sau2} /se laver les mains/(fig.) (gangster) prendre sa retraite; (criminel) tourner la page/
-洗手盤 洗手盘 [xi3 shou3 pan2] {sai2 sau2 pun4} /évier/lavabo/
-洗水衫 洗水衫 [xi3 shui3 shan1] {sai2 seoi2 saam1} /(fig.) vêtements de tous les jours/(lit.) vêtements pour se laver les mains/
+????f 洋行 洋行 [yang2 hang2] {joeng4 hong2} /(vieilli) société de commerce qui fait affaire avec l'étranger/(vieilli) société étrangère/
+????f 洋財 洋财 [yang2 cai2] {joeng4 coi4} /aubaine; rentrée d'argent imprévue/
+洋酒 洋酒 [yang2 jiu3] {joeng4 zau2} /liqueurs ou spiritueux (d'occident)/
+????f 洗地 洗地 [xi3 di4] {sai2 dei6} /nettoyer son plancher; laver son plancher/(fig.) étouffer une affaire; cacher une affaire (criminelle)/(fig.) cesser temporairement une opération criminelle en prévision d'une descente de police/
+????f 洗塵 洗尘 [xi3 chen2] {sai2 can4} /(fig.) préparer un dîner de bienvenue pour quelqu'un venant de très loin/(lit.) laver pour enlever la poussière/ 
+????f 洗大餅 洗大饼 [xi3 da4 bing3] {sai2 daai6 beng2} /(fig.) laver la vaisselle (comme emploi); travailler en tant que plongeur/
+????f 洗太平地 洗太平地 [xi3 tai4 ping2 di4] {sai2 taai3 ping4 dei6} /grand nettoyage/(fig.) sévir contre (la toxicomanie, la prostitution, etc.)/(fig.) faire une descente de police/
+????f 洗底 洗底 [xi3 di3] {sai2 dai2} /(criminel) tourner la page; blanchir son nom; passer à autre chose/
+????f 洗手 洗手 [xi3 shou3] {sai2 sau2} /se laver les mains/????(fig.) (gangster) prendre sa retraite; (criminel) tourner la page/
+洗手盤 洗手盘 [xi3 shou3 pan2] {sai2 sau2 pun4} /lavabo/évier/
+洗水衫 洗水衫 [xi3 shui3 shan1] {sai2 seoi2 saam1} /(fig.) vêtements de tous les jours/
 洗濕個頭 洗湿个头 [xi3 chi4 ge5 tou2] {sai2 sap1 go3 tau4} /(expr. idiom.) (situation) on a déjà commencé et on devrait aller jusqu'au bout/(lit.) la tête est déjà mouillé/
-洗白白 洗白白 [xi3 bai2 bai2] {sai2 baak6 baak6} /(enfantin) heure du bain/
+洗白白 洗白白 [xi3 bai2 bai2] {sai2 baak6 baak6} /(enfantin) prendre un bain/
 洗碗碟機 洗碗碟机 [xi3 wan3 die2 ji1] {sai2 wun2 dip6 gei1} /lave-vaisselle/
 洗米 洗米 [xi3 mi3] {sai2 mai5} /rincer le riz/
 洗粉 洗粉 [xi3 fen3] {sai2 fan2} /détergent de lessive en poudre/
@@ -14770,7 +14770,7 @@
 睡鋪 睡铺 [shui4 pu4] {seoi6 pou1} /couchette/
 睽異 睽异 [kui2 yi4] {kwai4 ji6} /être en désaccord; avoir des opinions différentes/ 
 ????c 瞀里 瞀里 [mao4 li3] {mau6 lei5} /dumb/
-瞄 瞄 [miao2] {miu4} /fixer d'un regard; lorgner; regarder avec insistance/jeter un coup d'œil/
+瞄 瞄 [miao2] {miu4} /fixer du regard; lorgner; regarder avec insistance/jeter un coup d'œil/
 瞄準 瞄准 [miao2 zhun3] {miu4 zeon2} /viser/
 瞇埋眼 眯埋眼 [mi1 mai2 yan3] {mei1 maai4 ngaan5} /fermer les yeux/
 瞌埋眼 瞌埋眼 [ke1 mai2 yan3] {hap1 maai4 ngaan5} /fermer les yeux/
