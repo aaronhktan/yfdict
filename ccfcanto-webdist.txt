@@ -11850,7 +11850,7 @@
 水警 水警 [shui3 jing3] {seoi2 ging2} /Marine Region de la police de Hong Kong, police portuaire et garde-côtes/
 水豆腐 水豆腐 [shui3 dou4 fu5] {seoi2 dau6 fu6} /tofu soyeux/
 ????f 水貨客 水货客 [shui3 huo4 ke4] {seoi2 fo3 haak3} /exportateur parallèle; personne qui achète des produits de plus haute qualité ou qui sont moins chers à Hong Kong qu'en Chine pour les revendre en Chine continentale/
-水路 水路 [shui3 lu4] {seoi2 lou6} /route maritime; voie maritime/
+水路 水路 [shui3 lu4] {seoi2 lou6} /route maritime/
 水車 水车 [shui3 che1] {seoi2 ce1} /roue à eau/camion de pompier/
 水退 水退 [shui3 tui4] {seoi2 teoi3} /marée basse/
 水過鴨背 水过鸭背 [shui3 guo4 ya1 bei4] {seoi2 gwo3 aap3 bui3} /(expr. idiom.)qui n'écoute pas en classe et ne rappelle rien de ce qui est enseigné/
@@ -12250,54 +12250,54 @@
 海心沙 海心沙 [hai3 xin1 sha1] {hoi2 sam1 saa1} /Haixinsha Island, île de Canton en Chine/
 海怡半島 海怡半岛 [hai3 yi2 ban4 dao3] {hoi2 ji4 bun3 dou2} /South Horizons, grand ensemble situé à Hong Kong/
 海怪 海怪 [hai3 guai4] {hoi2 gwaai3} /monstre des mers; monstre marin/
-海旁 海旁 [hai3 pang2] {hoi2 pong4} /au bord de l'eau; sur les quais/
-海棠 海棠 [hai3 tang2] {hoi2 tong4} /cognassier du Japon/
+海旁 海旁 [hai3 pang2] {hoi2 pong4} /berge; rive; bord de la mer; bord de l'eau/
+海棠 海棠 [hai3 tang2] {hoi2 tong4} /(espèce d'arbres) cognassier du Japon; Malus spectabilis/
 海水魚 海水鱼 [hai3 shui3 yu2] {hoi2 seoi2 jyu4} /poisson de mer/
-海洋公園 海洋公园 [Hai3 yang2 Gong1 yuan2] {hoi2 joeng4 gung1 jyun4} /Ocean Park Hong Kong, parc de loisirs situé à Hong Kong/
-海涵 海涵 [hai3 han2] {hoi2 haam4} /(formule de politesse) pardonnez nos défauts/
-海港城 海港城 [hai3 gang3 cheng2] {hoi2 gong2 sing4} /Harbour City, centre d'achats de Hong Kong/
+海洋公園 海洋公园 [hai3 yang2 gong1 yuan2] {hoi2 joeng4 gung1 jyun4} /Ocean Park Hong Kong, parc de loisirs situé à Hong Kong/
+????f 海涵 海涵 [hai3 han2] {hoi2 haam4} /(formule de politesse) pardonnez nos défauts/
+海港城 海港城 [hai3 gang3 cheng2] {hoi2 gong2 sing4} /Harbour City, centre d'achats situé à Hong Kong/
 海灣大橋 海湾大桥 [hai3 wan1 da4 qiao2] {hoi2 waan1 daai6 kiu4} /pont San Francisco à Oakland ou Bay Bridge, pont reliant San Francisco à Oakland qui traverse la baie de San Francisco/
 海灣航空公司 海湾航空公司 [hai3 wan1 hang2 kong1 gong1 si1] {hoi2 waan1 hong4 hung1 gung1 si1} /Gulf Air, compagnie aérienne nationale de Bahreïn/
-海燕 海燕 [hai3 yan4] {hoi2 jin3} /pétrel; oiseau de mer/
+海燕 海燕 [hai3 yan4] {hoi2 jin3} /(famille d'oiseaux de mer) Hydrobatidae; pétrels-tempête/
 海珠廣場 海珠广场 [hai3 zhu1 guang3 chang3] {hoi2 zyu1 gwong2 coeng4} /Haizhu Square, jardin publique de Canton/
 海珠廣場站 海珠广场站 [hai3 zhu1 guang3 chang3 zhan4] {hoi2 zyu1 gwong2 coeng4 zaam6} /Haizhu Square Station, station du métro de Canton/
-海皮 海皮 [hai3 pi2] {hoi2 pei4} /côte; rivage/(fam.) (mandarin) content (orig. de l'anglais « happy »)/
-海芒果 海芒果 [hai3 mang2 guo3] {hoi2 mong1 gwo2} /Cerberus manghas, ou faux manguier/
+海皮 海皮 [hai3 pi2] {hoi2 pei4} /côte; rivage; bord de mer/
+海芒果 海芒果 [hai3 mang2 guo3] {hoi2 mong1 gwo2} /(espèce d'arbres) Cerberus manghas; faux manguier/
 海菜 海菜 [hai3 cai4] {hoi2 coi3} /goémon; algue comestible/
-海葬 海葬 [hai3 zang4] {hoi2 zong3} /sépulture en mer/
+????f 海葬 海葬 [hai3 zang4] {hoi2 zong3} /obsèques en mer; enterrement en mer/sépulture en mer/
 海蛇 海蛇 [hai3 she2] {hoi2 se4} /serpent de mer; serpent marin/
-海路 海路 [hai3 lu4] {hoi2 lou6} /voie maritime/
-海逸酒店 海逸酒店 [hai3 yi4 jiu3 dian4] {hoi2 jat6 zau2 dim3} /Harbour Plaza, hôtel de Hong Kong/
+海路 海路 [hai3 lu4] {hoi2 lou6} /route maritime/
+海逸酒店 海逸酒店 [hai3 yi4 jiu3 dian4] {hoi2 jat6 zau2 dim3} /Harbour Plaza, hôtel situé à Hong Kong/
 海運大廈 海运大厦 [hai3 yun4 da4 sha4] {hoi2 wan6 daai6 haa6} /Ocean Terminal, terminal de ferry et centre d'achats situé à Hong Kong/
-海邊 海边 [hai3 bian1] {hoi2 bin1} /côtier; littoral/
+海邊 海边 [hai3 bian1] {hoi2 bin1} /côtier; littoral/bord de mer; bord de l'eau/
 海金沙 海金沙 [hai3 jin1 sha1] {hoi2 gam1 saa1} /Lygodium japonicum; fougère grimpante du Japon; espèce de fougère originaire de l'Asie de l'Est/
-海鏡 海镜 [hai3 jing4] {hoi2 geng3} /espèce de mollusque avec un coquillage translucide/
-海關人員 海关人员 [hai3 guan1 ren2 yuan2] {hoi2 gwaan1 jan4 jyun4} /agents des douanes/
+????c 海鏡 海镜 [hai3 jing4] {hoi2 geng3} /espèce de mollusque avec un coquillage translucide/
+海關人員 海关人员 [hai3 guan1 ren2 yuan2] {hoi2 gwaan1 jan4 jyun4} /agent des douanes/
 海關檢查 海关检查 [hai3 guan1 jian3 cha2] {hoi2 gwaan1 gim2 caa4} /contrôle douanier/
 海鮮價 海鲜价 [hai3 xian1 jia4] {hoi2 sin1 gaa3} /(fig.) prix variable; prix fluctuant/(lit.) prix des fruits de mer/
-海鮮舫 海鲜舫 [hai3 xian1 fang3] {hoi2 sin1 fong2} /restaurant de fruits de mer flottant/
+????f 海鮮舫 海鲜舫 [hai3 xian1 fang3] {hoi2 sin1 fong2} /restaurant de fruits de mer flottant/
 海鮮酒家 海鲜酒家 [hai3 xian1 jiu3 jia1] {hoi2 sin1 zau2 gaa1} /restaurant de fruits de mer/
 浸 浸 [jin4] {zam3} /noyer/inonder/inondation/
-浸大 浸大 [jin4 da4] {zam3 daai6} /Hong Kong Baptist University (université baptiste de Hong Kong en français), université d'héritage chrétien à Hong Kong/
+浸大 浸大 [jin4 da4] {zam3 daai6} /Hong Kong Baptist University (« université baptiste de Hong Kong »), université d'héritage chrétien à Hong Kong/
 浸會醫院 浸会医院 [jin4 hui4 yi1 yuan4] {zam3 wui2 ji1 jyun2} /Hong Kong Baptist Hospital, hôpital de Hong Kong/
 浸死 浸死 [jin4 si3] {zam3 sei2} /noyer/
 浸水 浸水 [jin4 shui3] {zam3 seoi2} /immerger (dans l'eau)/
-浸溫泉 浸温泉 [jin4 wen1 quan2] {zam3 wan1 cyun4} /se détendre dans une source d'eau chaude/
+????f 浸溫泉 浸温泉 [jin4 wen1 quan2] {zam3 wan1 cyun4} /se détendre dans une source d'eau chaude/
 浸禮 浸礼 [jin4 li3] {zam3 lai5} /baptême/
-浸豬籠 浸猪笼 [jin4 zhu1 long2] {zam3 zyu1 lung4} /supplice pratiqué en Chine antique pour punir les hommes adultères, consistant à les forcer à l'intérieur d'une cage pour cochons, puis immerger la cage dans l'eau pour noyer l'homme/
-浸鹹水 浸咸水 [jin4 xian2 shui3] {zam3 haam4 seoi2} /(fig.) étudier à l'étranger/(lit.) s'immerger dans de l'eau salée/
+????f 浸豬籠 浸猪笼 [jin4 zhu1 long2] {zam3 zyu1 lung4} /supplice pratiqué en Chine antique pour punir les hommes adultères, consistant à les forcer à l'intérieur d'une cage pour cochons, puis immerger la cage dans l'eau pour noyer l'homme/
+????f 浸鹹水 浸咸水 [jin4 xian2 shui3] {zam3 haam4 seoi2} /(fig.) étudier à l'étranger/(lit.) s'immerger dans de l'eau salée/
 涂謹申 涂谨申 [tu2 jin3 shen1] {tou4 gan2 san1} /James To Kun-sun, homme politique hongkongais/
 消化作用 消化作用 [xiao1 hua4 zuo4 yong4] {siu1 faa3 zok3 jung6} /digestion/
-消失 消失 [xiao1 shi1] {siu1 sat1} /disparaître/disparition/
-消毒碗櫃 消毒碗柜 [xiao1 du2 wan3 gui4] {siu1 duk6 wun2 gwai6} /placard de désinfection, appareil ménager qui sert à désinfecter des bols et ustensils/
-消滅 消灭 [xiao1 mie4] {siu1 mit6} /détruire/
+消失 消失 [xiao1 shi1] {siu1 sat1} /disparaître/
+????f 消毒碗櫃 消毒碗柜 [xiao1 du2 wan3 gui4] {siu1 duk6 wun2 gwai6} /placard de désinfection, appareil ménager qui sert à désinfecter des bols et ustensils/
+消滅 消灭 [xiao1 mie4] {siu1 mit6} /éliminer/s'éteindre; périr/
 消滯 消滞 [xiao1 zhi4] {siu1 zai6} /faciliter la digestion/
 消食 消食 [xiao1 shi2] {siu1 sik6} /faciliter la digestion/
 消磨 消磨 [xiao1 mo2] {siu1 mo4} /passer du temps/
-消耗 消耗 [xiao1 hao4] {siu1 hou3} /consommer/dépenser (de l'argent)/passer (du temps)/
+消耗 消耗 [xiao1 hao4] {siu1 hou3} /consommer/dépenser (de l'argent)/passer (du temps)/brûler (des calories)/
 消費 消费 [xiao1 fei4] {siu1 fai3} /consommation; dépenses/dépenser/
 消費者委員會 消费者委员会 [xiao1 fei4 zhe3 wei3 yuan2 hui4] {siu1 fai3 ze2 wai2 jyun4 wui2} /Consumer Council, organisme gouvernemental de défense des consommateurs de Hong Kong/
-消閑 消闲 [xiao1 xian2] {siu1 haan4} /(adj.) pour passer le temps; de loisir/
+????f 消閑 消闲 [xiao1 xian2] {siu1 haan4} /(adj.) pour passer le temps; de loisir/
 消防喉 消防喉 [xiao1 fang2 hou2] {siu1 fong4 hau4} /lance à eau; lance d'incendie/
 消防喉轆 消防喉辘 [xiao1 fang2 hou2 lu4] {siu1 fong4 hau4 luk1} /lance à eau; lance d'incendie/
 消防站 消防站 [xiao1 fang2 zhan4] {siu1 fong4 zaam6} /caserne de pompiers/
