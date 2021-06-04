@@ -10078,7 +10078,7 @@
 ????f 教育方針 教育方针 [jiao4 yu4 fang1 zhen1] {gaau3 juk6 fong1 zam1} /principe directeur de l'enseignement/
 ????f 教育統籌委員會 教育统筹委员会 [jiao4 yu4 tong3 chou2 wei3 yuan2 hui4] {gaau3 juk6 tung2 cau4 wai2 jyun4 wui2} /Education Commission of Hong Kong, commission établie pour conseiller le gouvernement sur les questions d'enseignement/
 教育質量 教育质量 [jiao4 yu4 zhi4 liang4] {gaau3 juk6 zat1 loeng6} /qualité de l'éducation/
-教育體制 教育体制 [jiao4 yu4 ti3 zhi4] {gaau3 juk6 tai2 zai3} /système scolaire/
+教育體制 教育体制 [jiao4 yu4 ti3 zhi4] {gaau3 juk6 tai2 zai3} /système scolaire; système éducatif/
 教誨 教诲 [jiao4 hui4] {gaau3 fui3} /doctrine/enseigner; instruire/
 教路 教路 [jiao4 lu4] {gaau3 lou6} /enseigner; partager son expertise; donner des conseils/
 教門 教门 [jiao4 men2] {gaau3 mun4} /secte; confession; dénomination (religieux)/
@@ -12333,7 +12333,7 @@
 淚眼 泪眼 [lei4 yan3] {leoi6 ngaan5} /yeux larmoyants; yeux lacrymaux/
 ????f 淝低 淝低 [fei2 di1] {fe4 dai1} /tirer (une arme à feu)/abattre (avec une arme à feu)/
 ????f 淡出 淡出 [dan4 chu1] {daam6 ceot1} /s'estomper (de nos mémoires)/(cinéma) fondu de fermeture; fondu vers le noir/se retirer de la politique/arrêter le cinéma/
-淡口 淡口 [dan4 kou3] {daam6 hau2} /sans goût; sans saveur/
+淡口 淡口 [dan4 kou3] {taam5 hau2} /sans goût; sans saveur/
 淡奶 淡奶 [dan4 nai3] {taam5 naai5} /lait évaporé/
 淡市 淡市 [dan4 shi4] {daam6 si5} /(affaires) tourner au ralenti/
 ????f 淡月 淡月 [dan4 yue4] {daam6 jyut6} /un mois où les affaires tournent au ralenti/
@@ -12348,42 +12348,42 @@
 淨麵 淨面 [cheng2 mian4] {zing6 min6} /nouilles nature; nouilles sans sauce/
 淨含量 净含量 [jing4 han2 liang4] {zing6 ham4 loeng6} /poids net/
 ????f 淫賊 淫贼 [yin2 zei2] {jam4 caak6} /(sexualité) pervers/
-???? 淬礪 淬砺 [cui4 li4] {ceoi3 lai6} /to work hard and with stamina/
-淮鹽 淮盐 [huai2 yan2] {waai4 jim4} /sel de table de la rivière Huai, souvent mélangé avec cinq épices/
-深 深 [shen1] {sam1} /profondeur/imprévisible/
+????c 淬礪 淬砺 [cui4 li4] {ceoi3 lai6} /to work hard and with stamina/
+淮鹽 淮盐 [huai2 yan2] {waai4 jim4} /sel de table de la rivière Huai, souvent mélangé avec les cinq épices (五香粉|五香粉)/
+深 深 [shen1] {sam1} /profondeur/complexe; difficile/(abréviation) Shenzhen/
 深仇大恨 深仇大恨 [shen1 chou2 da4 hen4] {sam1 sau4 daai6 han6} /haine profonde/
-深入 深入 [shen1 ru4] {sam1 jap6} /entrer dans; pénétrer à fond/approfondi/
+深入 深入 [shen1 ru4] {sam1 jap6} /entrer dans; pénétrer/approfondi/
 深入研究 深入研究 [shen1 ru4 yan2 jiu1] {sam1 jap6 jin4 gau3} /étude approfondie/
 深切治療部 深切治疗部 [shen1 qie4 zhi4 liao2 bu4] {sam1 cit3 zi6 liu4 bou6} /unité de soins intensifs/
 深刻 深刻 [shen1 ke4] {sam1 hak1} /inoubliable/impressionant/
 深呼吸 深呼吸 [shen1 hu1 xi1] {sam1 fu1 kap1} /respiration profonde/
 深圳經濟特區 深圳经济特区 [Shen1 zhen4 jing1 ji4 te4 qu1] {sam1 zan3 ging1 zai3 dak6 keoi1} /zone économique spéciale de Shenzhen/
-深居簡出 深居简出 [shen1 ju1 jian3 chu1] {sam1 geoi1 gaan2 ceot1} /(expr. idiom.) vivre en retrait; vivre en reclus/
+????f 深居簡出 深居简出 [shen1 ju1 jian3 chu1] {sam1 geoi1 gaan2 ceot1} /(expr. idiom.) vivre en retrait; vivre en reclus/
 深有同感 深有同感 [shen1 you3 tong2 gan3] {sam1 jau5 tung4 gam2} /(expr.) compatir avec/(lit.) se sentir le même au profond/
-深水 深水 [shen1 shui3] {sam1 seoi2} /eau profonde/
-深水埗區 深水埗区 [shen1 shui3 bu4 qu1] {sam1 seoi2 bou2 keoi1} /Sham Shui Po, un des dix-huit districts de Hong Kong/ 
-深水灣 深水湾 [shen1 shui3 wan1] {sam1 seoi2 waan1} /Deep Water Bay (« baie des eaux profondes »), quartier résidentielle de Hong Kong/
+深水 深水 [shen1 shui3] {sam1 seoi2} /eaux profondes/
+深水埗區 深水埗区 [shen1 shui3 bu4 qu1] {sam1 seoi2 bou2 keoi1} /Sham Shui Po, l'un des dix-huit districts de Hong Kong/ 
+深水灣 深水湾 [shen1 shui3 wan1] {sam1 seoi2 waan1} /Deep Water Bay (« baie des eaux profondes »), quartier résidentiel de Hong Kong/
 深灰 深灰 [shen1 hui1] {sam1 fui1} /gris foncé/
-???? 深省 深省 [shen1 xing3] {sam1 sing2} /enlighten; to reflect upon/wake up to a sharp awareness of the truth/
-深睛凸額 深睛凸额 [shen1 jing1 tu2 e2] {sam1 zing1 dat6 ngaak6} /(fig.) (inj.) laid, laide/(lit.) yeux enfoncés et front bombé/
+????c 深省 深省 [shen1 xing3] {sam1 sing2} /enlighten; to reflect upon/wake up to a sharp awareness of the truth/
+????f 深睛凸額 深睛凸额 [shen1 jing1 tu2 e2] {sam1 zing1 dat6 ngaak6} /(fig.) (inj.) laid/(lit.) yeux enfoncés et front bombé/
 深筆字 深笔字 [shen1 bi3 zi4] {sam1 bat1 zi6} /caractère chinois traditionnel/
 深紅 深红 [shen1 hong2] {sam1 hung4} /rouge foncé; cramoisi/
 深藍色 深蓝色 [shen1 lan2 se4] {sam1 laam4 sik1} /bleu foncé/bleu marin/
-深藏不露 深藏不露 [shen1 cang2 bu4 lu4] {sam1 cong4 bat1 lou6} /(expr.) cacher ses talents; ne pas se vanter ou fanfaronner/(lit.) cacher profondément et ne pas montrer/
+????c 深藏不露 深藏不露 [shen1 cang2 bu4 lu4] {sam1 cong4 bat1 lou6} /(expr.) cacher ses talents; ne pas se vanter ou fanfaronner/(lit.) cacher profondément et ne pas montrer/
 深衣 深衣 [shen1 yi1] {sam1 ji1} /Shenyi, vêtement traditionnel pour hommes de la Chine ancienne/
-深造 深造 [shen1 zao4] {sam1 cou3 } /poursuivre des études supérieures; poursuivre des études avancées; continuer ses études/
-淵源 渊源 [yuan1 yuan2] {jyun1 jyun4} /liens historiques/liens de parenté/
-淵痛 渊痛 [yuan1 tong4] {jyun1 tung3} /douloureux; courbaturé; avoir mal/
+????f 深造 深造 [shen1 zao4] {sam1 cou3} /poursuivre des études; poursuivre des études avancées; continuer ses études/
+淵源 渊源 [yuan1 yuan2] {jyun1 jyun4} /origine; source/
+淵痛 渊痛 [yuan1 tong4] {jyun1 tung3} /douloureux; courbaturé; faire mal/
 混亂 混乱 [hun4 luan4] {wan6 lyun6} /désordre; chaos/en désordre; chaotique/
 混合器 混合器 [hun4 he2 qi4] {wan6 hap6 hei3} /(appareil industriel) mélangeur; mixer; malaxeur; agitateur/
 混吉 混吉 [hun4 ji2] {wan6 gat1} /(fig.) faire perdre le temps de quelqu'un d'autre/(fig.) se mêler aux affaires des autres/(lit.) mélanger la chance/
-混帳 混帐 [hun4 zhang4] {wan6 zoeng3} /(inj.) (vulg.) enculé; salaud; crétin; connard/
+混帳 混帐 [hun4 zhang4] {wan6 zoeng3} /(inj.) (vulg.) enculé; enfoiré; salaud; crétin; connard/
 混沌 混沌 [hun4 dun4] {wan6 deon6} /chaos primordial/confus; embrouillé; stupide; idiot/simple d'esprit; innocent/
 混頻器 混频器 [hun4 pin2 qi4] {wan6 pan4 hei3} /(électronique) mélangeur, circuit permettant de combiner plusieurs signaux/
 混鬧 混闹 [hun4 nao4] {wan6 naau6} /en faire un pataquès; faire toute un histoire/
-混水摸魚 混水摸鱼 [hun2 shui3 mo1 yu2] {wan6 seoi2 mo2 jyu4} /(expr. idiom.) profiter d'une situation confuse; pêcher en eau trouble/
+????f 混水摸魚 混水摸鱼 [hun2 shui3 mo1 yu2] {wan6 seoi2 mo2 jyu4} /(expr. idiom.) profiter d'une situation confuse; pêcher en eau trouble/
 淹尖 淹尖 [yan1 jian1] {jim1 zim1} /exigeant; pointilleux/
-淺 浅 [qian3] {cin2} /facile; simple/
+淺 浅 [qian3] {cin2} /peu profond/facile; simple/
 淺斟低唱 浅斟低唱 [qian3 zhen1 di1 chang4] {cin2 zam1 dai1 coeng3} /(expr. idiom.) se détendre de manière sophistiquée/(lit.) siroter du vin et chanter doucement/
 淺水灣 浅水湾 [qian3 shui3 wan1] {cin2 seoi2 waan1} /Baie de Repulse, ou Repulse Bay, quartier de Hong Kong/
 淺窄 浅窄 [qian3 zhai3] {cin2 zaak3} /étroit; (pièce) exiguë/
@@ -12391,13 +12391,13 @@
 淺藍 浅蓝 [qian3 lan2] {cin2 laam4} /bleu pâle; bleu clair/
 淺顯易懂 浅显易懂 [qian3 xian3 yi4 dong3] {cin2 hin2 ji6 dung2} /(expr.) facile à comprendre/(lit.) facile à montrer, facile à comprendre/
 添 添 [tian1] {tim1} /plus/aussi/(particule pour souligner un affirmation)/
-添枝加葉 添枝加叶 [tian1 zhi1 jia1 ye4] {tim1 zi1 gaa1 jip6} /(expr. idiom.) enjoliver (une histoire); ajouter des détails/(lit.) ajouter des branches et des feuilles/
-添補 添补 [tian1 bu5] {tim1 bou2} /réapprovisionner/(fig.) réembaucher; réengager/
-添食 添食 [tian1 shi2] {tim1 sik6} /(vieilli) remplir à nouveau son bol/(fig.) ajouter plus de nourriture au bol à nourriture d'un animal de compagnie/(fig.) faire quelque chose à nouveau/(fig.) refaire quelque chose depuis le début/(fig.) tourner plus d'épisodes pour une série télévisée; tourner plus de films dans une série/(fig.) répéter une série d'actions rentables pour gagner encore plus d'argent/
+添枝加葉 添枝加叶 [tian1 zhi1 jia1 ye4] {tim1 zi1 gaa1 jip6} /(expr. idiom.) enjoliver une histoire; ajouter des détails; embellir une histoire/(lit.) ajouter des branches et des feuilles/
+添補 添补 [tian1 bu5] {tim1 bou2} /remplir à nouveau/
+????f 添食 添食 [tian1 shi2] {tim1 sik6} /(vieilli) remplir à nouveau son bol à riz/(fig.) ajouter plus de nourriture au bol à nourriture d'un animal de compagnie/(fig.) faire quelque chose à nouveau/(fig.) refaire quelque chose depuis le début/(fig.) tourner plus d'épisodes pour une série télévisée; tourner plus de films dans une série/(fig.) répéter une série d'actions rentables pour gagner encore plus d'argent/
 添飯 添饭 [tian1 fan4] {tim1 faan6} /deuxième portion de riz/remplir à nouveau son bol à riz; ajouter du riz à son bol/
-添馬 添马 [tian1 ma3] {tim1 maa5} /Tamar, ancienne base navale brittanique à Hong Kong/
-添馬艦 添马舰 [tian1 ma3 jian4] {tim1 maa5 laam6} /HMS Tamar, un navire transport de troupes brittanique/
-淼茫 淼茫 [miao3 mang2] {miu5 mong4} /flou; indistinct/(espoir) ténu/(avenir) incertain/s'étendre à perte de vue/
+添馬 添马 [tian1 ma3] {tim1 maa5} /Tamar, ancienne base navale britannique à Hong Kong/
+添馬艦 添马舰 [tian1 ma3 jian4] {tim1 maa5 laam6} /HMS Tamar, un navire transport de troupes britannique/
+淼茫 淼茫 [miao3 mang2] {miu5 mong4} /flou; indistinct/(espoir) ténu; faible/(avenir) incertain/s'étendre à perte de vue/
 清 清 [qing1] {cing1} /se débarrasser de; éliminer; enlever; retirer/ranger/propre; net/dynastie Qing/
 清一色 清一色 [qing1 yi1 se4] {cing1 jat1 sik1} /main accomplie de mah-jong composée de tuiles d'une suite de tuiles de la même couleur/monochrome/monocorde/
 清么九 清么九 [qing1 yao1 jiu3] {cing1 mo1 gau2} /une des façons de gagner une partie de Mah-jong/
