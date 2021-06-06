@@ -1467,7 +1467,7 @@
 佘詩曼 佘诗曼 [she2 shi1 man4] {se4 si1 maan6} /Charmaine Sheh, une actrice hongkongaise/
 佛廟 佛庙 [fo2 miao4] {fat6 miu6} /temple bouddhiste/
 佛手 佛手 [fo2 shou3] {fat6 sau2} /main de Bouddha, un agrume aromatique/
-佛手柑 佛手柑 [Fo2 shou3 gan1] {fat6 sau2 gam1} /main de Bouddha, un agrume aromatique/
+佛手柑 佛手柑 [fo2 shou3 gan1] {fat6 sau2 gam1} /main de Bouddha, un agrume aromatique/
 佛誕 佛诞 [fo2 dan4] {fat6 daan3} /l'anniversaire de Bouddha/
 ????f 佛都有火 佛都有火 [fo2 dou1 you3 huo3] {fat6 dou1 jau5 fo2} /(fig.) quelque chose ou quelqu'un qui met en colère même les personnes les plus paisibles/(lit.) (quelque chose) qui met Bouddha en colère/
 作供 作供 [zuo4 gong1] {zok3 gung1} /témoigner; porter témoin/
@@ -6142,6 +6142,7 @@
 ????c 好得 好得 [hao3 de5] {hou2 dak1} /très bien/beau, belle; séduisant/grâce à/heureusement; par chance/
 好得多 好得多 [hao3 de5 duo1] {hou2 dak1 do1} /beaucoup mieux/
 好得滯 好得滞 [hao3 de5 zhi4] {hou2 dak1 zai6} /trop bon/
+????f 好心 好心 [hao3 xin1] {hou2 sam1} /(exprime une légère désapprobation)/
 ????c 好心地 好心地 [hao3 xin1 di4] {hou2 sam1 dei2} /gentil; sympathique/avoir bon coeur/
 好心情 好心情 [hao3 xin1 qing2] {hou2 sam1 cing4} /de bonne humeur/
 好心有好報 好心有好报 [hao3 xin1 you3 hao3 bao4] {hou2 sam1 jau5 hou2 bou3} /la générosité sera récompensée/
@@ -7041,7 +7042,7 @@
 屎橋 屎桥 [shi3 qiao2] {si2 kiu2} /(fam.) mauvais plan; mauvaise idée/ 
 屎波 屎波 [shi3 bo1] {si2 bo1} /(fam.) piètre tentative/mauvais; mal (en quelque chose)/
 屎淋尿瀨 屎淋尿濑 [shi3 lin2 niao4 lai4] {si2 lam4 niu6 laai6} /(expr. idiom.) très surpris; très choqué; très effrayé/(lit.) faire caca et pisser/
-屎片 屎片 [shi3 pian4] {si2 pin3} /couche (pour bébé)/
+屎片 屎片 [shi3 pian4] {si2 pin2} /couche (pour bébé)/
 屎皮 屎皮 [shi3 pi2] {si2 pei4} /de mauvaise qualité/
 屎眼 屎眼 [shi3 yan3] {si2 ngaan5} /anus; trou de cul/
 屎窟 屎窟 [shi3 ku1] {si2 fat1} /derrière; fesses/
@@ -12399,53 +12400,53 @@
 添馬艦 添马舰 [tian1 ma3 jian4] {tim1 maa5 laam6} /HMS Tamar, un navire transport de troupes britannique/
 淼茫 淼茫 [miao3 mang2] {miu5 mong4} /flou; indistinct/(espoir) ténu; faible/(avenir) incertain/s'étendre à perte de vue/
 清 清 [qing1] {cing1} /se débarrasser de; éliminer; enlever; retirer/ranger/propre; net/dynastie Qing/
-清一色 清一色 [qing1 yi1 se4] {cing1 jat1 sik1} /main accomplie de mah-jong composée de tuiles d'une suite de tuiles de la même couleur/monochrome/monocorde/
+????f 清一色 清一色 [qing1 yi1 se4] {cing1 jat1 sik1} /main accomplie de mah-jong composée de tuiles d'une suite de tuiles de la même couleur/monochrome/monocorde/
 清么九 清么九 [qing1 yao1 jiu3] {cing1 mo1 gau2} /une des façons de gagner une partie de Mah-jong/
 清亮 清亮 [qing1 liang5] {cing1 loeng6} /clair/illuminé; baigné de lumière/
-清倉 清仓 [qing1 cang1] {cing1 cong1} /liquider ses stocks; tout vendre/
+清倉 清仓 [qing1 cang1] {cing1 cong1} /liquider son stock; tout vendre/
 清光 清光 [qing1 guang1] {cing1 gwong1} /(après un verbe) ne laissant rien; tout; complètement; entièrement/
-清冷 清冷 [qing1 leng3] {cing1 laang5} /désolé; desert/
-清君側 清君侧 [qing1 jun1 ce4] {cing1 gwan1 zak1} /éliminer les ministres corrupteurs de l'empereur (utilisé comme prétexte de rébellion)/
+清冷 清冷 [qing1 leng3] {cing1 laang5} /frais; un peu froid/désolé; desert/
+????f 清君側 清君侧 [qing1 jun1 ce4] {cing1 gwan1 zak1} /éliminer les ministres corrupteurs de l'empereur (utilisé comme prétexte de rébellion)/
 清吧 清吧 [qing1 ba5] {cing1 baa1} /pub; bar/
 清平 清平 [qing1 ping2] {cing1 ping4} /Cheongpyeong, village en Corée du Sud/Qingping, nom de plusieurs villes et villages en Chine/
 清心 清心 [qing1 xin1] {cing1 sam1} /avoir l'esprit tranquille/avoir un cœur pur/
-清數 清数 [qing1 shu4] {cing1 sou3} /payer une dette/
+清數 清数 [qing1 shu4] {cing1 sou3} /payer une dette; rembourser une dette/
 清明 清明 [qing1 ming2] {cing1 ming4} /(fig.) nettoyage de tombes (s'emploie généralement dans la construction 清明節|清明节, la fête de Qingming)/(lit.) pureté de lumière/
 清明上河圖 清明上河图 [qing1 ming2 shang4 he2 tu2] {cing1 ming4 soeng6 ho4 tou4} /Le Jour de Qingming au bord de la rivière, peinture célèbre illustrant le jour de Qingming pendant la dynastie Song/
 清明節 清明节 [qing1 ming2 jie2] {cing1 ming4 zit3} /Qingmingjie, fête de Qingming; fête consacrée à l'entretien des tombes familiales et l'observation de la piété filiale/
 清景 清景 [qing1 jing3] {cing1 ging2} /élégant; raffiné/
 清暑 清暑 [qing1 shu3] {cing1 syu2} /(médecine traditionnelle chinoise) qui enlève la chaleur interne; qui réduit l'inflammation ou la fièvre; qui retire la chaleur estivale/
 清水灣 清水湾 [qing1 shui3 wan1] {cing1 seoi2 waan1} /Clear Water Bay (« baie des eaux claires »), baie et plage à Hong Kong/
-清清楚楚 清清楚楚 [qing1 qing5 chu3 chu3] {cing1 cing1 co2 co2} /parfaitement clair; bien expliqué; succinct/
+清清楚楚 清清楚楚 [qing1 qing5 chu3 chu3] {cing1 cing1 co2 co2} /tout à fait clair; bien expliqué; succinct/
 清清白白 清清白白 [qing1 qing1 bai2 bai2] {cing1 cing1 baak6 baak6} /innocent; pure/honnête; sincère/pas coupable/
 清減 清减 [qing1 jian3] {cing1 gaam2} /perdre du poids; maigrir/
-清湯寡水 清汤寡水 [qing1 tang1 gua3 shui3] {cing1 tong1 gwaa2 seoi2} /(expr.) soupe fade, très liquide/
-清漆 清漆 [qing1 qi1] {cing1 cat1} /vernisser/
-清甜 清甜 [qing1 tian2] {cing1 tim4} /(aliment, en particulier des fruits ou boissons) frais et doux/
+????f 清湯寡水 清汤寡水 [qing1 tang1 gua3 shui3] {cing1 tong1 gwaa2 seoi2} /(expr.) soupe fade, très liquide/
+清漆 清漆 [qing1 qi1] {cing1 cat1} /vernis/
+????f 清甜 清甜 [qing1 tian2] {cing1 tim4} /(aliment, en particulier des fruits ou boissons) frais et doux/
 清白 清白 [qing1 bai2] {cing1 baak6} /innocent; pas coupable/
-清真寺 清真寺 [qing1zhen1si4] {cing1 zan1 zi2} /Kowloon Masjid and Islamic Centre, l'une des cinq principales mosquées à Hong Kong/
+清真寺 清真寺 [qing1zhen1si4] {cing1 zan1 zi2} /mosquée/(en particulier) Kowloon Masjid and Islamic Centre, l'une des cinq principales mosquées à Hong Kong/
 清真教 清真教 [qing1 zhen1 jiao4] {cing1 zan1 gaau3} /(religion) islam/
-清規戒律 清规戒律 [qing1 gui1 jie4 lu:4] {cing1 kwai1 gaai3 leot6} /tabou; restriction/
-清談 清谈 [qing1 tan2] {cing1 taam4} /paroles creuses; paroles en l'air/
-清醒 清醒 [qing1 xing3] {cing1 sing2} /lucide; sérieux; sensé; sobre/
-???? 渙渙 涣涣 [huan4 huan4] {wun6 wun6} /overflowing (from a flood)/
+清規戒律 清规戒律 [qing1 gui1 jie4 lu:4] {cing1 kwai1 gaai3 leot6} /tabou; restriction (souvent religieux)/
+清談 清谈 [qing1 tan2] {cing1 taam4} /bavarder/paroles creuses; paroles en l'air/
+清醒 清醒 [qing1 xing3] {cing1 sing2} /lucide; sérieux; sensé; sobre/conscient/
+????c 渙渙 涣涣 [huan4 huan4] {wun6 wun6} /overflowing (from a flood)/
 減實 减实 [jian3 shi2] {gaam2 sat6} /prix final après une réduction/
-減租減息 减租减息 [jian3 zu1 jian3 xi1] {gaam2 zou1 gaam2 sik1} /réduire le loyer et réduire le taux d'intérêt (généralement associé avec la politique du Parti communiste chinois)/
+????f 減租減息 减租减息 [jian3 zu1 jian3 xi1] {gaam2 zou1 gaam2 sik1} /réduire le loyer et réduire le taux d'intérêt (généralement associé avec la politique du Parti communiste chinois)/
 減筆字 减笔字 [jian3 bi3 zi4] {gaam2 bat1 zi6} /caractères chinois simplifiés/
 減肥 减肥 [jian3 fei2] {gaam2 fei4} /perdre du poids/être sur un régime alimentaire/
 減輕 减轻 [jian3 qing1] {gaam2 heng1} /alléger; soulager; réduire/
-減除 减除 [jian3 chu2] {gaam2 ceoi4} /éliminer/réduire/soustraire/déduire (des impôts)/
-渜 渜 [nuan3] {nan1} /selles liquides/
-渜 渜 [nuan3] {nyun5} /eau chaude/
-渠道 渠道 [qu2 dao4] {keoi4 dou6} /canalisation; tuyau d'évacuation/égout/voie de communication/
+減除 减除 [jian3 chu2] {gaam2 ceoi4} /éliminer/réduire/soustraire/déduire (de son salaire, etc.)/
+????c 渜 渜 [nuan3] {nan1} /selles liquides/
+????c 渜 渜 [nuan3] {nyun5} /eau chaude/
+渠道 渠道 [qu2 dao4] {keoi4 dou6} /fossé d'écoulement/égout/fossé d'irrigation/voie (de communication)/
 渡 渡 [du4] {dou6} /passer du temps/
 渡海小輪 渡海小轮 [du4 hai3 xiao3 lun2] {dou6 hoi2 siu2 leon4} /ferry; traversier/
 渡蜜月 渡蜜月 [du4 mi4 yue4] {dou6 mat6 jyut6} /passer sa lune de miel (quelque part)/
-渡頭 渡头 [du4 tou2] {dou6 tau4} /jetée; quai/embarcadère; gare maritime; station de ferry ou traversier/gué/
+????f 渡頭 渡头 [du4 tou2] {dou6 tau4} /embarcadère; station de ferry ou traversier/
 渣 渣 [zha1] {zaa1} /restes/résidu/miettes/(de boisson ou liquide) lie/de mauvaise qualité/mauvais en...; pas doué pour.../
-渣斗 渣斗 [zha1 dou3] {zaa2 dau2} /inutile/incompétent/mauvaise performance/faible/
+渣斗 渣斗 [zha1 dou3] {zaa2 dau2} /inutile/incompétent/
 渣甸山 渣甸山 [zha1 dian4 shan1] {zaa1 din6 saan1} /Jardine's Lookout (« belvédère de Jardine »), montagne et quartier résidentiel de Hong Kong/
-渣都冇 渣都冇 [zha1 dou1 mao3] {zaa1 dou1 mou5} /(expr.) rien qui reste/(lit.) même pas avoir de miettes/
+渣都冇 渣都冇 [zha1 dou1 mao3] {zaa1 dou1 mou5} /(expr.) plus rien/(lit.) même pas avoir de miettes/
 渦流 涡流 [wo1 liu2] {gwo1 lau4} /tourbillon d'eau/
 渦輪機 涡轮机 [wo1 lun2 ji1] {wo1 leon4 gei1} /turbine hydraulique/
 測字 测字 [ce4 zi4] {caak1 zi6} /divination par l'analyse des caractères chinois/
@@ -13591,7 +13592,7 @@
 獨係 独系 [du2 xi4] {duk6 hai6} /seulement; juste/
 獨具一格 独具一格 [du2 ju4 yi1 ge2] {duk6 geoi6 jat1 gaak3} /unique; hors pair; sans pareil/
 獨到之處 独到之处 [du2 dao4 zhi1 chu4] {duk6 dou3 zi1 cyu3} /particularité; caractéristique particulière/
-????c 獨善其身 独善其身 [du2 shan4 qi2 shen1] {duk6 sin6 kei4 san1} /préserver l'intégrité personnelle/narcissique; être intéressé seulement par soi-même; ne penser qu'à soi-même/
+????c 獨善其身 独善其身 [du2 shan4 qi2 shen1] {duk6 sin6 kei4 san1} /être égoïste; ne penser qu'à soi-même/
 獨家村 独家村 [du2 jia1 cun1] {duk6 gaa1 cyun1} /ermite; reclus/
 獨市生意 独市生意 [du2 shi4 sheng1 yi5] {duk6 si5 saang1 ji3} /monopole/
 獨幕劇 独幕剧 [du2 mu4 ju4] {duk6 mok6 kek6} /pièce en un acte/
@@ -18138,7 +18139,7 @@
 ????f 試吓 试吓 [shi4 xia4] {si3 haa5} /tente le coup! essaie-le!/
 試味 试味 [shi4 wei4] {si3 mei6} /goûter; examiner la saveur de quelquec chose/
 試味道 试味道 [shi4 wei4 dao4] {si3 mei6 dou6} /goûter; examiner la saveur de quelque chose/
-試問 试问 [shi4 wen4] {si3 man6} /nous voudrions vous demander... puis-je vous demander.../
+????f 試問 试问 [shi4 wen4] {si3 man6} /nous voudrions vous demander... puis-je vous demander... (utilisé dans les questions rhétoriques)/
 試試 试试 [shi4 shi5] {si2 si3 } /essayer; tenter/
 試身 试身 [shi4 shen1] {si3 san1} /essayer (un vêtement)/
 試身室 试身室 [shi4 shen1 shi4] {si3 san1 sat1} /cabine d'essayage/
