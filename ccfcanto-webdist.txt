@@ -12430,7 +12430,7 @@
 清談 清谈 [qing1 tan2] {cing1 taam4} /bavarder/paroles creuses; paroles en l'air/
 清醒 清醒 [qing1 xing3] {cing1 sing2} /lucide; sérieux; sensé; sobre/conscient/
 ????c 渙渙 涣涣 [huan4 huan4] {wun6 wun6} /overflowing (from a flood)/
-減實 减实 [jian3 shi2] {gaam2 sat6} /prix final après une réduction/
+減實 减实 [jian3 shi2] {gaam2 sat6} /prix final après une ou plusieurs réductions de prix/
 ????f 減租減息 减租减息 [jian3 zu1 jian3 xi1] {gaam2 zou1 gaam2 sik1} /réduire le loyer et réduire le taux d'intérêt (généralement associé avec la politique du Parti communiste chinois)/
 減筆字 减笔字 [jian3 bi3 zi4] {gaam2 bat1 zi6} /caractères chinois simplifiés/
 減肥 减肥 [jian3 fei2] {gaam2 fei4} /perdre du poids/être sur un régime alimentaire/
@@ -12450,10 +12450,10 @@
 渦流 涡流 [wo1 liu2] {gwo1 lau4} /tourbillon d'eau/
 渦輪機 涡轮机 [wo1 lun2 ji1] {wo1 leon4 gei1} /turbine hydraulique/
 測字 测字 [ce4 zi4] {caak1 zi6} /divination par l'analyse des caractères chinois/
-港 港 [gang3] {gong2} /(abbréviation de Hong Kong)/
+港 港 [gang3] {gong2} /(abréviation de Hong Kong)/
 港人治港 港人治港 [gang3 ren2 zhi4 gang3] {gong2 jan4 zi6 gong2} /(politique) que Hong Kong soit gouverné par le peuple hongkongais/
 港大 港大 [gang3 da4] {gong2 daai6} /(fam.) Université de Hong Kong/
-港女 港女 [gang3 nu:3] {gong2 neoi2} /(inj.) (péj.) stéréotype d'une Hongkongaise matérialiste, hédoniste, arrogante/
+港女 港女 [gang3 nu:3] {gong2 neoi2} /(inj.) (péj.) stéréotype d'une Hongkongaise matérialiste, hédoniste, arrogante/Hongkongaise/
 港姐 港姐 [gang3 jie3] {gong2 ze2} /Miss Hong Kong, concours de beauté féminin à Hong Kong/
 港安醫院 港安医院 [gang3 an1 yi1 yuan4] {gong2 on1 ji1 jyun2} /Hong Kong Adventist Hospital, hôpital privé à Hong Kong/
 港客 港客 [gang3 ke4] {gong2 haak3} /clients de Hong Kong/touristes hongkongais/Hongkongais, Hongkongaise/
@@ -12461,43 +12461,43 @@
 港式 港式 [gang3 shi4] {gong2 sik1} /style hongkongais/
 港漫 港漫 [gang3 man4] {gong2 maan6} /bandes dessinées hongkongaises/
 港澳碼頭 港澳码头 [gang3 ao4 ma3 tou5] {gong2 ou3 maa5 tau4} /Hong Kong-Macau Ferry Pier (« embarcadère de ferry Hong Kong-Macau »)/
-港燦 港灿 [gang3 can4] {gong2 caan3} /(expression utilisée en Chine pour désigner les hongkongais qui travaillent en Chine)/
+????f 港燦 港灿 [gang3 can4] {gong2 caan3} /(péj.) (expression utilisée en Chine pour désigner les hongkongais qui travaillent en Chine) (voir aussi 阿燦|啊灿)/
 港獨 港独 [gang3 du2] {gong2 duk6} /mouvement d'indépendance de Hong Kong/
 港產片 港产片 [gang3 chan3 pian4] {gong2 caan2 pin3} /film hongkongais/
 港督 港督 [gang3 du1] {gong2 duk1} /gouverneur de Hong Kong (tête du gouvernement hongkongais pendant l'époque coloniale)/
 港督府 港督府 [gang3 du1 fu3] {gong2 duk1 fu2} /Government House (« résidence du gouvernement »), résidence officielle du gouverneur de Hong Kong pendant l'époque coloniale/
 港紙 港纸 [gang3 zhi3] {gong2 zi2} /(monnaie) billet de Hong Kong/dollar de Hong Kong/
-???? 港觀 港观 [gang3 guan1] {gong2 gun1} /vue depuis le port (de Hong Kong)/
-港鐵公司 港铁公司 [Gang3 tie3 gong1 si1] {gong2 tit3 gung1 si1} /MTR Corporation Limited, entreprise hongkongais qui gère le métro de Hong Kong/
-渲染 渲染 [xuan4 ran3] {syun3 jim5} /ajouter de l'encre ou de la peinture à une peinture chinoise/exagérer; embellir (une histoire)/
-渳 渳 [mi3] {mai5} /siroter/
-渴 渴 [ke3] {hot3} /désirer; avoir envie/
+????c 港觀 港观 [gang3 guan1] {gong2 gun1} /vue depuis le port (de Hong Kong)/
+港鐵公司 港铁公司 [gang3 tie3 gong1 si1] {gong2 tit3 gung1 si1} /MTR Corporation Limited, entreprise hongkongais qui gère le métro de Hong Kong/
+????f 渲染 渲染 [xuan4 ran3] {syun3 jim5} /ajouter de l'encre ou de la peinture à une peinture chinoise/exagérer; embellir (une histoire)/
+????c 渳 渳 [mi3] {mai5} /siroter/
+渴 渴 [ke3] {hot3} /(avoir) soif/désirer; avoir envie/
 渴仰 渴仰 [ke3 yang3] {hot3 joeng5} /admirer; tenir en haute estime/
-渴市 渴市 [ke3 shi4] {hot3 si5} /demande plus forte que l'offre/
-渴念 渴念 [ke3 nian4] {hot3 nim6} /désirer; vouloir/manquer à quelqu'un beaucoup/
+????f 渴市 渴市 [ke3 shi4] {hot3 si5} /demande plus forte que l'offre/
+渴念 渴念 [ke3 nian4] {hot3 nim6} /manquer à quelqu'un beaucoup/
 游乾水 游干水 [you2 gan1 shui3] {jau4 gon1 seoi2} /(fig.) jouer une partie de mah-jong/(lit.) nager dans de l'eau sèche/
 游水池 游水池 [you2 shui3 chi2] {jau4 seoi2 ci4} /piscine/
-游水褲 游水裤 [you2 shui3 ku4] {jau4 seoi2 fu3} /maillot de bain/
+????f 游水褲 游水裤 [you2 shui3 ku4] {jau4 seoi2 fu3} /maillot de bain (masculin)/
 游牧民族 游牧民族 [you2 mu4 min2 zu2] {jau4 muk6 man4 zuk6} /nomades/
 游興 游兴 [you2 xing4] {jau4 hing3} /envie de voyager/
-游船 游船 [you2 chuan2] {jau4 syun4} /navire de croisière/
+游船 游船 [you2 chuan2] {jau4 syun4} /bateau de plaisance/
 游行示威 游行示威 [you2 xing2 shi4 wei1] {jau4 hang4 si6 wai1} /manifestation; protestation/
 游説 游说 [you2 shui4] {jau4 syut3} /faire du lobbying; faire campagne/persauder/
-游車河 游车河 [you2 che1 he2] {jau4 ce1 ho2} /aller faire un tour en voiture; conduire pour le plaisir/
-渾厚 浑厚 [hun2 hou4] {wan4 hau5} /simple et honnête/belle voix grave/musique retentissante/
-湊 凑 [cou4] {cau3} /garder des enfants/faire du baby-sitting/
-湊仔 凑仔 [cou4 zi3] {cau3 zai2} /garde d'enfants; soins aux enfants/
+游車河 游车河 [you2 che1 he2] {jau4 ce1 ho2} /aller faire un tour en voiture; faire une balade en voiture/
+????c 渾厚 浑厚 [hun2 hou4] {wan4 hau5} /simple et honnête/belle voix grave/musique retentissante/????(calligraphie) vigoureux/
+湊 凑 [cou4] {cau3} /garder des enfants/faire du baby-sitting/élever (un enfant)/
+湊仔 凑仔 [cou4 zi3] {cau3 zai2} /prendre soin d'un enfant; s'occuper d'un enfant; élever un enfant/
 湊仔婆 凑仔婆 [cou4 zi3 po2] {cau3 zai2 po2} /nounou; nourrice/
 湊啱 凑啱 [cou4 yan1] {cau3 ngaam1} /par hasard; par coïncidence/
-湊埋 凑埋 [cou4 mai2] {cau3 maai4} /assembler; monter; mettre ensemble/rassembler; ramasser; recueillir/garder; prendre soin de quelqu'un/
+????c 湊埋 凑埋 [cou4 mai2] {cau3 maai4} /assembler; monter; mettre ensemble/rassembler; ramasser; recueillir/garder; prendre soin de quelqu'un/
 湊夠一個好字 凑够一个好字 [cou4 gou4 yi2 ge5 hao3 zi4] {cau3 gau3 jat1 go3 hou2 zi6} /(expr.) avoir une fille et un fils/(lit.) assembler le mot « 好 » (à partir des mots « 女 » (fille) et  « 子 », (fils))/
 湊蹺 凑跷 [cou4 qiao1] {cau3 kiu2} /par hasard; par coïncidence/
 湖岸 湖岸 [hu2 an4] {wu4 ngon6} /bord du lac; rive du lac/
 湖水藍 湖水蓝 [hu2 shui3 lan2] {wu4 seoi2 laam4} /bleu pâle/bleu turquoise/(lit.) bleu des eaux du lac/
-湧 涌 [yong3] {jung2} /affluer; arriver en masse/
+湧 涌 [yong3] {jung2} /jaillir; surgir/affluer; arriver en masse/
 湧入 涌入 [yong3 ru4] {jung2 jap6} /affluer; arriver en masse/
 湨 湨 [ju2] {gwik1} /rivière Jushui, rivière de Hebei en Chine/
-湯 汤 [tang1] {tong1} /(nom de famille chinois)/
+湯 汤 [tang1] {tong1} /soupe/eau chaude/(nom de famille chinois)/
 湯丸 汤丸 [tang1 wan2] {tong1 jyun2} /tangyuan, dessert chinois; des boulettes de farine de riz gluant consommées dans une soupe d'eau sucrée/
 湯寶如 汤宝如 [tang1 bao3 ru2] {tong1 bou2 jyu4} /Karen Tong Po Yue, actrice et chanteuse hongkongaise/
 湯底 汤底 [tang1 di3] {tong1 dai2} /base de soupe; bouillon/
