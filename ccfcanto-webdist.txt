@@ -12648,25 +12648,24 @@
 ????f 潭仔 潭仔 [tan2 zi3] {taam4 zai2} /Tan Chai, Tan Tsai ou Tan Jai, chaîne hongkongaise de restaurants de nouilles/
 潮 潮 [chao2] {ciu4} /à la mode; populaire; tendance/
 ????f 潮州柑 潮州柑 [chao2 zhou1 gan1] {ciu4 zau1 gam1} /mandarine de Chaozhou/(fig.) visage grêlé/
-???? 潮州粉果 潮州粉果 [chao2 zhou1 fen3 guo3] {ciu4 zau1 fan2 gwo2} /dumplings dans le style de Chaozhou/
-???? 潮州粉粿 潮州粉粿 [chao2 zhou1 fen3 guo3] {ciu4 zau1 fan2 gwo2} /dumplings dans le style de Chaozhou/
-???? 潮州粥 潮州粥 [chao2 zhou1 zhou1] {ciu4 zau1 zuk1} /congee dans le style de Chaozhou/
+????f 潮州粉果 潮州粉果 [chao2 zhou1 fen3 guo3] {ciu4 zau1 fan2 gwo2} /dumplings dans le style de Chaozhou/
+????f 潮州粉粿 潮州粉粿 [chao2 zhou1 fen3 guo3] {ciu4 zau1 fan2 gwo2} /dumplings dans le style de Chaozhou/
+????f 潮州粥 潮州粥 [chao2 zhou1 zhou1] {ciu4 zau1 zuk1} /congee dans le style de Chaozhou/
 潮州菜 潮州菜 [chao2 zhou1 cai4] {ciu4 zau1 coi3} /cuisine de Chaozhou (ou Teochow)/
 潮州話 潮州话 [chao2 zhou1 hua4] {ciu4 zau1 waa2} /(dialecte) Teochew; dialecte minnan parlé à Guangdong/
-潮州话 潮州话 [chao2 zhou1 hua4] {ciu4 zau1 waa2} /(dialecte) Teochew; dialecte minnan parlé à Guangdong/
 潮流興 潮流兴 [chao2 liu2 xing1] {ciu4 lau4 hing1} /tendance; à la mode; populaire/
 潮爆 潮爆 [chao2 bao4] {ciu4 baau3} /tendance; à la mode; populaire/
-潲 潲 [shao4] {saau3} /eaux grasses; déchets donnés comme nourriture aux porcs/
-潲水 潲水 [shao4 shui3] {saau3 seoi2} /eaux grasses/déchets donnés comme nourriture aux porcs/
-???? 潺 潺 [chan2] {saan4} /1. weak; thin 2. remains/trouble/
-潺菜 潺菜 [chan2 cai4] {saan4 coi3} /Basella alba; baselle; épinard de Malabar/
-澄清 澄清 [cheng2 qing1] {cing4 cing1} /clarifier; expliquer clairement/purifier/
-澇災 涝灾 [lao4 zai1] {lou6 zoi1} /mauvaise récolte causée par une inondation/
-澗 涧 [jian4] {gaan3} /ruisseau; rivière de montagne/
-澤國 泽国 [ze2 guo2] {zaak6 gwok3} /région qui regorge de lacs et rivières/plaines d'inondation/zone inondée/
+????f 潲 潲 [shao4] {saau3} /eaux grasses; déchets donnés comme nourriture aux porcs/
+????f 潲水 潲水 [shao4 shui3] {saau3 seoi2} /eaux grasses/déchets donnés comme nourriture aux porcs/
+????c 潺 潺 [chan2] {saan4} /1. weak; thin 2. remains/trouble/
+潺菜 潺菜 [chan2 cai4] {saan4 coi3} /(espèce de plantes) Basella alba; baselle; épinard de Malabar/
+澄清 澄清 [cheng2 qing1] {cing4 cing1} /clarifier; expliquer clairement/
+????f 澇災 涝灾 [lao4 zai1] {lou6 zoi1} /mauvaise récolte causée par une inondation/
+澗 涧 [jian4] {gaan3} /ruisseau ou rivière de montagne/
+????f 澤國 泽国 [ze2 guo2] {zaak6 gwok3} /région qui regorge de lacs et rivières/plaines d'inondation/zone inondée/
 澱粉質 淀粉质 [dian4 fen3 zhi4] {din6 fan2 zat1} /amidon/
-澳 澳 [ao4] {ou3} /(abbréviation de Macao)/(abbréviation de l'Australie)/
-澳大利亞人 澳大利亚人 [Ao4 da4 li4 ya4 ren2] {ou3 daai6 lei6 aa3 jan4} /Australien, Australienne/
+澳 澳 [ao4] {ou3} /(abréviation de Macao)/(abréviation de l'Australie)/
+澳大利亞人 澳大利亚人 [ao4 da4 li4 ya4 ren2] {ou3 daai6 lei6 aa3 jan4} /Australien, Australienne/
 澳州 澳州 [ao4 zhou1] {ou3 zau1} /(pays) Australie/
 澳洲聯邦銀行 澳洲联邦银行 [ao4 zhou1 lian2 bang1 yin2 hang2] {ou3 zau1 lyun4 bong1 ngan4 hong4} /Commonwealth Bank, banque australienne/
 澳洲航空 澳洲航空 [ao4 zhou1 hang2 kong1] {ou3 zau1 hong4 hung1} /Qantas, compagnie aérienne australienne/
@@ -12686,19 +12685,19 @@
 激奮 激奋 [ji1 fen4] {gik1 fan5} /encourager; inciter; provoquer; pousser (quelqu'un à faire quelque chose)/
 激嬲 激嬲 [ji1 niao3] {gik1 nau1} /mettre (quelqu'un d'autre) en colère; énerver; agacer; exaspérer/
 激將法 激将法 [ji1 jiang4 fa3] {gik1 zoeng3 faat3} /provoquer/utiliser la psychologie inversée/
-激情 激情 [ji1 qing2] {gik1 cing4} /ferveur; émotion intense/
+激情 激情 [ji1 qing2] {gik1 cing4} /ferveur; passion; émotion intense/
 激揚 激扬 [ji1 yang2] {gik1 joeng4} /faire remonter (le moral); encourager/inspirant; excitant/
 激死 激死 [ji1 si3] {gik1 sei2} /frustrant; énervant/mettre (quelqu'un d'autre) en colère; énerver; agacer/
 激死人 激死人 [ji1 si3 ren2] {gik1 sei2 jan4} /(expr.) très frustrant; énervant/(lit.) tellement énervant que ça me tue/
 激氣 激气 [ji1 qi4] {gik1 hei3} /fâché; en colère/énervé; irrité/
-激烈 激烈 [ji1 lie4] {gik1 lit6} /(compétition) féroce; acharné/véhément; passioné/(douleur) vive; aiguë/
-???? 激㷫 激㷫 [ji1 qing3] {gik1 hing3} /enrager/
-???? 激素 激素 [ji1 su4] {gik1 sou3} /hormone/catalyst ?/
-激親 激亲 [ji1 qin1] {gik1 can1} /furieux; être mis en colère (par quelqu'un d'autre); rendu fou (par quelqu'un d'autre)/
+激烈 激烈 [ji1 lie4] {gik1 lit6} /(compétition) féroce; acharné/(douleur) vive; aiguë/
+激㷫 激㷫 [ji1 qing3] {gik1 hing3} /enrager; mettre en colère/
+激素 激素 [ji1 su4] {gik1 sou3} /hormone/
+????f 激親 激亲 [ji1 qin1] {gik1 can1} /furieux; être mis en colère (par quelqu'un d'autre); rendu fou (par quelqu'un d'autre)/
 激進派 激进派 [ji1 jin4 pai4] {gik1 zeon3 paai3} /(politique) les radicaux; les extrémistes/
 濁 浊 [zhuo2] {zuk6} /s'étouffer/(voix) rauque/(liquide) boueux; trouble/(fig.) confus; embrouillé/
 濁親 浊亲 [zhuo2 qin1] {zuk6 can1} /s'étouffer/
-澀滯 涩滞 [se4 zhi4] {sap1 zai6} /(écriture) ne pas être fluide; ne pas couler; difficile à comprendre ou à lire/(personne) méchant; difficile; énervant/
+澀滯 涩滞 [se4 zhi4] {sap1 zai6} /(écriture) ne pas être fluide; ne pas couler; difficile à comprendre ou à lire/(situation) mauvaise; difficile (voir aussi 濕滯|濕滞)/
 濕 湿 [shi1] {sap1} /(fam.) facile; insignifiant/(fam.) excité sexuellement; lascif/(fam.) passer à tabac; tabasser; rouer de coups; péter la gueule à quelqu'un/
 濕地公園 湿地公园 [shi1 di4 gong1 yuan2] {sap1 dei6 gung1 jyun2} /Hong Kong Wetland Park, un parc zoologique de Hong Kong/
 濕坺坺 濕坺坺 [chi4 bo4 bo4] {sap1 pet6 pet6} /humide/mouillé; trempé/
