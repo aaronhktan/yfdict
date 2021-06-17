@@ -664,6 +664,7 @@
 世界銀行集團 世界银行集团 [shi4 jie4 yin2 hang2 ji2 tuan2] {sai3 gaai3 ngan4 hong4 zaap6 tyun4} /Groupe de la Banque mondiale/
 世紀之戰 世纪之战 [shi4 ji4 zhi1 zhan4] {sai3 gei2 zi1 zin3} /combat ou bataille du siècle/
 世貿中心 世贸中心 [shi4 sao4 zhong1 xin1] {sai3 mau6 zung1 sam1} /World Trade Center/
+????f 世態炎涼 世态炎凉 [shi4 tai4 yan2 liang2] {sai3 taai3 jim4 loeng4} /(expr. idiom.) les gens sont seulement gentils si l'on a du succès (voir aussi 人情冷暖|人情冷暖)/(lit.) le monde est chaud et froid/
 丟低 丢低 [diu1 di1] {diu6 dai1} /laisser de côté/(fig.) rouillé; n'avoir plus l'habitude/
 丟假 丢假 [diu1 jia3] {diu1 gaa2} /s'humilier; se ridiculiser; perdre la face/
 丟卒保車 丢卒保车 [diu1 zu2 bao3 ju1] {diu1 zeot1 bou2 ce1} /(xiangqi, echecs chinois) sacrifier le pion plus faible (un cheval) pour garder un pion plus fort (le chariot)/
@@ -1175,6 +1176,7 @@
 ????f 人情 人情 [ren2 qing2] {jan4 cing4} /émotion humaine/service; faveur; aide prêté à quelqu'un/cadeau de mariage monétaire/
 ????f 人情紙咁薄 人情纸咁薄 [ren2 qing2 zhi3 gan1 bo2] {jan4 cing4 zi2 gam3 bok6} /(expr. idiom.) ne vous attendez pas à ce que les autres soient gentils (voir aussi 人情薄過紙|人情薄过纸)/(lit.) la morale humaine est mince comme du papier/
 人情薄過紙 人情薄过纸 [ren2 qing2 bo2 guo4 zhi3] {jan4 cing4 bok6 gwo3 zi2} /(expr. idiom.) ne vous attendez pas à ce que les autres soient gentils (voir aussi 人情紙咁薄|人情纸咁薄)/(lit.) la morale humaine est plus mince que du papier/
+????f 人情冷暖 人情冷暖 [ren2 cing2 leng3 nuan3] {jan4 cing4 laang5 nyun5} /(expr. idiom.) les gens vous traitent différement selon votre classe sociale (voir aussi 世態炎涼|世态炎凉)/(lit) les relations humaines sont froides et chaudes/
 人手 人手 [ren2 shou3] {jan4 sau2} /main-d'oeuvre; effectif/fait à la main/
 ????f 人才輩出 人才辈出 [ren2 cai2 bei4 chu1] {jan4 coi4 bui3 ceot1} /y avoir beaucoup de personnes talentueuses/
 人日 人日 [ren2 ri4] {jan4 jat6} /Renri; la fête des humains, qui tombe le sept du premier mois du calendrier chinois/
@@ -5103,7 +5105,7 @@
 埃及人 埃及人 [Ai1 ji2 ren2] {aai1 kap6 jan4} /Égyptien, Égyptienne/
 埋 埋 [mai2] {maai4} /complété; réglé/rejoindre/aussi; également/et/
 埋位 埋位 [mai2 wei4] {maai4 wai2} /prendre sa place; se mettre à table/se préparer/
-????f 埋便 埋便 [mai2 bian4] {maai4 bin6} /côté proche; bord intérieur (the 'inner side' of something, ex. on a couch = closer to the backrest as opposed to the part where your feet dangle off of; in a car = closer to the middle of the car as opposed to the sides)/
+????f 埋便 埋便 [mai2 bian4] {maai4 bin6} /côté proche; bord intérieur (the 'inner side' of something, ex. on a couch = closer to the backrest as opposed to the part where your feet dangle off of; in a car = closer to the middle of the car as opposed to the sides)/à l'intérieur/près de/
 埋去 埋去 [mai2 qu4] {maai4 heoi3} /se rapprocher; s'approcher; aller plus près/
 埋口 埋口 [mai2 kou3] {maai4 hau2} /fermer une plaie/(vielli) fermer boutique; mettre la clé sous la porte/
 埋單 埋单 [mai2 dan1] {maai4 daan1} /l'addition, s'il vous plaît!/subir les conséquences de ses actes/(vocabulaire de gang) tuer quelqu'un/
@@ -12797,55 +12799,55 @@
 火鑽 火钻 [huo3 zuan4] {fo2 zyun3} /rubis/
 火頭 火头 [huo3 tou2] {fo2 tau4} /(personne) perturbateur; cause de problèmes/flamme/contrôle de la température (cuisinière, fourneau, chaudière, etc.)/colère/cuisinier; chef cuisinier/incendiaire; personne qui cause une incendie/propriétaire d'une maison qui a pris feu/
 火頭軍 火头军 [huo3 tou2 jun1] {fo2 tau4 gwan1} /cuisinier de l'armée/cuisinier; chef cuisinier/
-火頸 火颈 [huo3 jing3] {fo2 geng2} /irasible; coléreux/
+火頸 火颈 [huo3 jing3] {fo2 geng2} /irascible; coléreux/
 火麒麟 火麒麟 [huo3 qi2 lin2] {fo2 kei4 leon4} /Sensual Unicorn Magazine, magazine hongkongais de fiction érotique/
 火麻仁 火麻仁 [huo3 ma2 ren2] {fo2 maa4 jan4} /graine de chanvre; chènevis/
-灰 灰 [hui1] {fui1} /triste; découragé; démoralisé/
+灰 灰 [hui1] {fui1} /gris/triste; découragé; démoralisé (voir aussi 灰心|灰心)/
 灰匙 灰匙 [hui1 chi2] {fui1 ci4} /(outil) truelle/
 灰士 灰士 [hui1 shi4] {fiu1 si2} /(électrique) fusible/(orig.) de l'anglais « fuse » (« fusible »)/
 灰心 灰心 [hui1 xin1] {fui1 sam1} /découragé; démoralisé/
-灰斗 灰斗 [hui1 dou3] {fui1 dau3} /(outil) trémie à cendre/
-灰水 灰水 [hui1 shui3] {fui1 seoi2} /soude; soude caustique/eau grise/peinture grise/
+????c 灰斗 灰斗 [hui1 dou3] {fui1 dau2} /brouette qui sert à transporter du ciment/
+????c 灰水 灰水 [hui1 shui3] {fui1 seoi2} /eau de chaux Ca(OH)2/lait de chaux; blanc de chaux/
 灰鼠 灰鼠 [hui1 shu3] {fui1 syu2} /écureil (gris)/
-???? 灶窟 灶窟 [zao4 ku1] {zou3 fat1} /stovetop burner/
-灶蝦 灶虾 [zao4 xia1] {cou3 haa1} /Rhaphidophoridae; sauterelles cavernicoles/ 
+????c 灶窟 灶窟 [zao4 ku1] {zou3 fat1} /stovetop burner/
+灶蝦 灶虾 [zao4 xia1] {cou3 haa1} /Rhaphidophoridae; sauterelles cavernicoles/
 灶頭 灶头 [zao4 tou5] {zou3 tau4} /cuisinière; fourneau de cuisine/
 灼 灼 [zhuo2] {zoek3} /bouillir/faire cuire à l'eau; faire bouillir/
-???? 灼低 灼低 [zhuo2 di1] {coek3 dai1} /abattre; achever; faire tomber/tabasser/
+????c 灼低 灼低 [zhuo2 di1] {coek3 dai1} /abattre; achever; tuer/tabasser; rouer de coups/
 灼傷 灼伤 [zhuo2 shang1] {coek3 soeng1} /brûlure/
-災瘟 灾瘟 [zai1 wen1] {zoi1 wan1} /(inj.) (s'emploie pour montrer sa colère envers quelqu'un ou en parlant d'une personne qui porte malheur)/(lit.) dieu de la pestilence/ 
+????f 災瘟 灾瘟 [zai1 wen1] {zoi1 wan1} /(inj.) (s'emploie pour montrer sa colère envers quelqu'un ou en parlant d'une personne qui porte malheur)/(lit.) dieu de la pestilence/ 
 災星 災星 [zai1 xing1] {zoi1 sin1} /objet céleste qui porte malheur/
 災難指令系統 灾难指令系统 [zai1 nan4 zhi3 ling4 xi4 tong3] {zoi1 naan6 zi2 ling6 hai6 tung2} /Système de commandement des interventions/
 炎暑 炎暑 [yan2 shu3] {jim4 syu2} /jours chauds et paresseux; canicule; été chaud/
-炎涼 炎凉 [yan2 liang2] {jim4 loeng4} /chaud et froid/snobisme; vanité/
-炒 炒 [chao3] {caau2} /se disputer; se quereller/gagner par une grande marge/avoir un accident de voiture; percuter quelque chose avec sa voiture/(finance) spéculer/renvoyer; licencier; virer; congédier/échouer/obtenir de mauvais résultats/
+炎涼 炎凉 [yan2 liang2] {jim4 loeng4} /chaud et froid/(fig.) snobisme; vanité (voir aussi 世態炎涼|世态炎凉 et 人情冷暖|人情冷暖)/
+????f 炒 炒 [chao3] {caau2} /se disputer; se quereller/gagner par une grande marge/avoir un accident de voiture; percuter quelque chose avec sa voiture/(finance) spéculer/renvoyer; licencier; virer; congédier/échouer/obtenir de mauvais résultats/
 炒友 炒友 [chao3 you3] {caau2 jau5} /(finances) spéculateur/
 炒埋一碟 炒埋一碟 [chao3 mai2 yi4 die2] {caau2 maai4 jat1 dip6} /(expr. idiom.) ramasser; rassembler/(expr. idiom.) mélanger; combiner/(lit.) tout frire dans un plat/
-炒樓 炒楼 [chao3 lou2] {caau2 lau4} /spéculation immobilière/
+炒樓 炒楼 [chao3 lou2] {caau2 lau2} /spéculation immobilière/
 炒河 炒河 [chao3 he2] {caau2 ho2} /shahe fen; nouilles à base de riz chinoises/
-炒燶 炒㶶 [chao3 nong2] {caau2 nung1} /(fig.) perdre de l'argent en spéculation/(lit.) brûler pendant la friture/
+????f 炒燶 炒㶶 [chao3 nong2] {caau2 nung1} /(fig.) perdre de l'argent en spéculation/(lit.) brûler pendant la friture/
 炒米粉 炒米粉 [chao3 mi3 fen3] {caau2 mai5 fan2} /shahe fen; nouilles à base de riz chinoises/
 炒米餅 炒米饼 [chao3 mi3 bing3] {caau2 mai5 beng2} /biscuits à la farine de riz chinois/
 炒粉 炒粉 [chao3 fen3] {caau2 fan2} /shahe fen; nouilles à base de riz chinoises/
 炒粿條 炒粿条 [chao3 guo3 tiao2] {caau2 gwo2 tiu4} /char kway teow, plat de nouilles de l'Asie du Sud-Est/
-炒老板魷魚 炒老板鱿鱼 [chao3 lao3 ban3 you2 yu2] {caau2 lou5 baan2 jau4 jyu2} /(expr. idiom.) démissionner de son emploi/(lit.) frire le calmar du patron/
-炒老細魷魚 炒老细鱿鱼 [chao3 lao3 xi4 you2 yu2] {caau2 lou5 sai3 jau4 jyu2} /(expr. idiom.) démissionner de son emploi/(lit.) frire le calmar du patron/
+炒老板魷魚 炒老板鱿鱼 [chao3 lao3 ban3 you2 yu2] {caau2 lou5 baan2 jau4 jyu2} /(expr. idiom.) démissionner/(lit.) frire le calmar du patron/
+炒老細魷魚 炒老细鱿鱼 [chao3 lao3 xi4 you2 yu2] {caau2 lou5 sai3 jau4 jyu2} /(expr. idiom.) démissionner/(lit.) frire le calmar du patron/
 炒菜鏟 炒菜铲 [chao3 cai5 chan3] {caau2 coi3 caan2} /spatule de cuisine/
 炒蝦拆蟹 炒虾拆蟹 [chao3 xia1 chai1 xie4] {caau2 haa1 caak3 haai5} /(expr. idiom.) jurer; dire des gros mots/(lit.) frire les crevettes et ouvrir les crabes/
 炒貴刁 炒贵刁 [chao3 gui4 diao1] {caau2 gwai3 diu1} /char kway teow, plat de nouilles de l'Asie du Sud-Est/
 炒買炒賣 炒买炒卖 [chao3 mai3 chao3 mai4] {caau2 maai5 caau2 maai6} /(finances) spéculer/
-炒賣 炒卖 [chao3 mai4] {caau2 maai6} /flipper; acheter une maison et la revendre à profit/
-炒車 炒车 [chao3 che1] {caau2 ce1} /accident de voiture/
+????f 炒賣 炒卖 [chao3 mai4] {caau2 maai6} /flipper; acheter une maison et la revendre à profit/
+炒車 炒车 [chao3 che1] {caau2 ce1} /accident de voiture; accident de la route/
 炒金 炒金 [chao3 jin1] {caau2 gam1} /spéculer sur l'or/
 炒鑊 炒镬 [chao3 huo4] {caau2 wok6} /wok/
 炒魷 炒鱿 [chao3 you2] {caau2 jau4} /(fig.) renvoyer; licencier; congédier; virer/(lit.) frire un calmar/
 炒魷魚 炒鱿鱼 [chao3 you2 yu2] {caau2 jau4 jyu2} /calmar frit/(fig.) renvoyer; licencier; congédier; virer/
 炒麪 炒麪 [chao3 mian4] {caau2 min6} /nouilles sautées/
-炒黃牛 炒黄牛 [chao3 huang2 niu2] {caau2 wong4 ngau4} /(expr. idiom.) revendre des billets au marché noir/(lit.) sauter un bœuf jaune/
-???? 炕沙 炕沙 [kang4 sha1] {hong3 saa1} /stranded (boat)/to reach a deadlock/搁浅?/
-炖冬菇 炖冬菇 [dun4 dong1 gu1] {dan6 dung1 gu1} /(expr. idiom.) être rétrogradé/(lit.) ragoût aux champignons/(orig.) quand les policiers à Hong Kong étaient rétrogradés, ils portaient un chapeau en forme de champignon/
+????f 炒黃牛 炒黄牛 [chao3 huang2 niu2] {caau2 wong4 ngau4} /(expr. idiom.) revendre des billets au marché noir/(lit.) sauter un bœuf jaune/
+????c 炕沙 炕沙 [kang4 sha1] {hong3 saa1} /(navire) s'ensabler/
+????f 炖冬菇 炖冬菇 [dun4 dong1 gu1] {dan6 dung1 gu1} /(expr. idiom.) être rétrogradé/(lit.) ragoût aux champignons/(orig.) quand les policiers à Hong Kong étaient rétrogradés, ils portaient un chapeau en forme de champignon/
 炙熱 炙热 [zhi4 re4] {zek3 jit6} /brûlant/
-????f 炫示 炫示 [xuan4 shi4] {jyun6 si6} /montrer; s'étaler/
+????f 炫示 炫示 [xuan4 shi4] {jyun6 si6} /montrer; faire l'étalage de quelque chose/
 炭火 炭火 [tan4 huo3] {taan3 fo2} /feu de charbon/
 炭畫 炭画 [tan4 hua4] {taan3 waa2} /dessin au fusain; croquis au fusain; fusain/
 炭筆 炭笔 [tan4 bi3] {taan3 bat1} /(ustensile de dessin) fusain/
