@@ -356,7 +356,7 @@
 七窮六絕 七穷六绝 [qi1 qiong2 liu4 jue2] {cat1 kung4 luk6 zyut6} /(fig.) désespéré/(fig.) pauvre; indigent/(fig.) découragé; triste/(lit.) sept pauvres, six désespérés/
 七絃琴 七弦琴 [qi1 xian2 qin2] {cat1 jin4 kam4} /guqin, un instrument à cordes pincées de la famille de cithares/
 七行詩 七行诗 [qi1 hang2 shi1] {cat1 hong4 si1} /septain/
-????f 七言詩 七言诗 [qi1 yan2 shi1] {cat1 jin4 si1} /poème chinois dont les vers consistent de sept mots/
+????f 七言詩 七言诗 [qi1 yan2 shi1] {cat1 jin4 si1} /poème chinois dont chaque vers compte sept mots/
 ????f 七除八扣 七除八扣 [qi1 chu2 ba1 kou4] {cat1 ceoi4 baat3 kau3} /(expr. idiom.) rabais en plus d'un autre rabais/(lit.) sept enlevé, huit réductions/
 七零八落 七零八落 [qi1 ling2 ba1 luo4] {cat1 ling4 baat3 lok6} /des choses éparpillées ici et là; en désordre/(lit.) sept bouts, huit qui chutent/
 七顛八倒 七颠八倒 [qi1 dian1 ba1 dao3] {cat1 din1 baat3 dou2} /(fig.) gâcher; ruiner; bousiller/(fig.) en désordre/(lit.) verser sept ou huit fois/
@@ -956,7 +956,7 @@
 亂噏廿四 乱噏廿四 [luan4 xi1 nian4 si4] {lyun6 ngap1 jaa6 sei3} /(expr. idiom.) dire des bêtises; dire n'importe quoi/(lit.) dire des bêtises de vingt-quatre/
 亂嚟 乱嚟 [luan4 li2] {lyun2 lei4} /(faire quelque chose) imprudemment; sans y réféchir/(faire quelque chose) d'une manière désorganisée/
 亂子 乱子 [luan4 zi5] {lyun6 zi2} /dispute/désordre/
-亂揈 乱轰 [luan4 hong1] {lyun6 gwang1} /dépenser trop d'argent; dépenser avec excès/
+亂揈 乱轰 [luan4 hong1] {lyun6 gwang1} /dépenser trop d'argent; dépenser avec excès; jeter de l'argent par les fenêtres (voir aussi 濕水狗上岸|濕水狗上岸)/
 亂晒坑 乱晒坑 [luan4 shai4 keng1] {lyun6 saai3 haang1} /gâcher (quelque chose)/en désordre; désorganisé/chaotique/
 亂晒籠 乱晒笼 [luan4 shai4 long2] {lyun6 saai3 lung4} /en désordre; désorganisé/chaotique/
 亂用 乱用 [luan4 yong4] {lyun6 jung6} /utiliser quelque chose sans lire les instructions ou sans savoir comment l'utiliser/
@@ -2964,7 +2964,7 @@
 加人工 加人工 [jia1 ren2 gong1] {gaa1 jan4 gung1} /augmenter; augmenter le salaire de quelqu'un/
 ????c 加以 加以 [jia1 yi3] {gaa1 ji5} /(mathématiques) plus/
 加侖 加仑 [jia1 lun2] {gaa1 leon2} /gallon/(orig.) de l'anglais « gallon » (« gallon »)/
-加元 加元 [Jia1 yuan2] {gaa1 jyun4} /dollar canadien/
+加元 加元 [jia1 yuan2] {gaa1 jyun4} /dollar canadien/
 加加埋埋 加加埋埋 [jia1 jia1 mai2 mai2] {gaa1 gaa1 maai4 maai4} /au total/
 加埋 加埋 [jia1 mai2] {gaa1 maai4} /ajouter ensemble/
 ????f 加大碼 加大码 [jia1 da4 ma3] {gaa1 daai6 maa5} /très grande taille; XL/
@@ -3674,7 +3674,7 @@
 ????f 各適其適 各適其適 [ge4 di2 qi2 di2] {gok3 sik1 kei4 sik1} /(expr.) chacun fait ce qui lui plaît/
 各項 各项 [ge4 xiang4] {gok3 hong6} /chaque objet/chaque type/
 各顯神通 各显神通 [ge4 xian3 shen2 tong1] {gok3 hin2 san4 tung1} /(expr.) chacun montre son propre aptitude unique (voir aussi 八仙過海，各顯神通|八仙过海，各显神通)/
-合乎 合乎 [he2 hu1] {hap6 fu4} /qui correspond à; qui est conforme à; qui va ensemble avec/
+合乎 合乎 [he2 hu1] {hap6 fu4} /qui correspond (aux faits)/qui est conforme (aux normes)/
 合乎邏輯 合乎逻辑 [he2 hu1 luo2 ji5] {hap6 fu4 lo4 cap1} /logique; rationnel/
 ????f 合份 合份 [he2 fen4] {gaap3 fan2} /mutualiser les moyens/
 ????c 合作企業 合作企业 [he2 zuo4 qi3 ye4] {hap6 zok3 kei5 jip6} /entreprise coopérative (exists but hard to explain: company where multiple people pool together resources and build a company together, while also contributing in their own area of expertise, expected to be a long-term partnership rather than a single investment)/
@@ -4229,7 +4229,7 @@
 唔慌 唔慌 [n2 huang1] {m4 fong1} /ne pas avoir besoin de s'en faire; ne pas avoir besoin de s'inquiéter/peu probable; improbable/
 唔憂 唔忧 [n2 you1] {m4 jau1} /ne pas avoir besoin de s'en faire; ne pas avoir besoin de s'inquiéter/
 ????f 唔打唔相識 唔打唔相识 [n2 da3 n2 xiang1 shi2] {m4 daa2 m4 soeng1 sik1} /(expr. idiom.) l'on ne devient pas amis sans avoir résolu nos différends/(lit.) ne pas devenir amis avant de se battre/
-唔打得埋 唔打得埋 [n2 da3 de5 mai2] {m4 daa2 dak1 maai4} /(expr.) (personnes) incomptaibles; qui ne s'entendent pas/
+唔打得埋 唔打得埋 [n2 da3 de5 mai2] {m4 daa2 dak1 maai4} /(expr.) (personnes) incompatibles; qui ne s'entendent pas/
 唔打緊 唔打紧 [n2 da3 jin3] {m4 daa2 gan2} /(réponse à des excuses) t'en fais pas; ce n'est rien; ce n'est pas grave/
 唔抵 唔抵 [n2 di3] {m4 dai2} /ne pas valoir la peine; ne pas valoir le coup/
 唔抵得 唔抵得 [n2 di3 de2] {m4 dai2 dak1} /jaloux, envieux (de quelqu'un)/ne pas pouvoir supporter/
@@ -4746,8 +4746,8 @@
 嚟緊 嚟紧 [li2 jin3] {lei4 gan2} /en train de venir/
 嚟自 嚟自 [li2 zi4] {lei4 zi6} /provenir de; venir de/
 ????f 嚡嚡聲 嚡嚡声 [hai4 hai4 sheng1] {haai4 haai2 seng1} /(onomatopée d'un soupir)/
-????f 嚡澀澀 嚡涩涩 [hai4 se4 se4] {haai4 saap3 saap3} /rêche; rugueux/(aliment) dure; coriace/
-????f 嚡熠熠 嚡熠熠 [hai4 yi4 yi4] {haai4 saap6 saap6} /rêche; rugueux/(aliment) dure; coriace/
+????f 嚡澀澀 嚡涩涩 [hai4 se4 se4] {haai4 saap3 saap3} /rêche; rugueux/(aliment) dur; coriace/
+????f 嚡熠熠 嚡熠熠 [hai4 yi4 yi4] {haai4 saap6 saap6} /rêche; rugueux/(aliment) dur; coriace/
 嚤佗 嚤佗 [mo1 tuo2] {mo1 to4} /moteur/(orig.) de l'anglais « motor » (« moteur »)/
 𡃁仔 𡃁仔 [liang4 zai3] {leng1 zai2} /enfant; adolescent/
 𡃁ken 𡃁ken [liang4 keng1] {leng1 keng1} /jeune homme/
@@ -8181,8 +8181,8 @@
 愛情故事 爱情故事 [ai4 qing2 gu4 shi5] {oi3 cing4 gu3 si6} /histoire d'amour/
 ????f 愛撫 爱抚 [ai4 fu3] {oi3 fu2} /toucher pendant les préliminaires; caresser sexuellement/effleurer; caresser/
 愛民邨 爱民村 [ai4 min2 cun1] {oi3 man4 cyun1} /Oi Man Estate, grand ensemble de Hong Kong/
-愛沙尼亞人 爱沙尼亚人 [Ai4 sha1 ni2 ya4 ren2] {oi3 saa1 nei4 aa3 jan4} /Estonien, Estonienne/
-愛沙尼亞語 爱沙尼亚语 [Ai4 sha1 ni2 ya4 yu3] {oi3 saa1 nei4 aa3 jyu5} /langue estonienne/
+愛沙尼亞人 爱沙尼亚人 [ai4 sha1 ni2 ya4 ren2] {oi3 saa1 nei4 aa3 jan4} /Estonien, Estonienne/
+愛沙尼亞語 爱沙尼亚语 [ai4 sha1 ni2 ya4 yu3] {oi3 saa1 nei4 aa3 jyu5} /langue estonienne/
 愛迪達 爱迪达 [ai4 di2 da2] {oi3 dik6 daat6} /Adidas/
 愛錫 爱锡 [ai4 xi1] {oi3 sek3} /chérir; tenir beaucoup à; prendre soin de/dorloter; gâter; choyer/
 ????f 愛靚唔愛命 爱靓唔爱命 [ai4 jing4 m2 ai4 ming4] {oi3 leng3 m4 oi3 meng6} /(expr. idiom.) poursuivre la beauté aux dépens de sa santé/(lit.) aimer la beauté, ne pas aimer sa vie/
