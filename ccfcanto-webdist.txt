@@ -120,7 +120,7 @@
 一定會 一定会 [yi1 ding4 hui4] {jat1 ding6 wui5} /sûrement; certainement/
 一家大細 一家大细 [yi1 jia1 da4 xi4] {jat1 gaa1 daai6 sai3} /toute la famille (y compris les parents, grand-parents, enfants, etc.)/(lit.) une famille des grands et petits/
 ????f 一將功成萬骨枯 一将功成万骨枯 [yi1 jiang4 gong1 cheng2 wan4 gu3 ku1] {jat1 zoeng3 gung1 sing4 maan6 gwat1 fu1} /la renommée d'un général repose sur le meurtre de dix mille personnes/(expr. idiom.) la réussite de quelqu'un nécessite un sacrifice d'un grand nombre de personnes/
-一對一 一对一 [yi1 dui4 yi1] {jat1 deoi3 jat1} /tête-à-tête; one-on-one/un contre un/
+一對一 一对一 [yi1 dui4 yi1] {jat1 deoi3 jat1} /un contre un/
 一小時 一小时 [yi1 xiao3 shi2] {jat1 siu2 si4} /une heure/
 ????f 一就一，二就二 一就一，二就二 [yi2 jiu4 yi1 , er4 jiu4 er4] {jat1 zau6 jat1 ji6 zau6 ji6} /(expr.) dire les choses clairement; être précis et direct/(lit.) si c'est un, c'est un, si c'est deux, c'est deux/
 一局 一局 [yi1 ju2] {jat1 guk6} /une partie (d'un jeu)/
@@ -12901,53 +12901,53 @@
 烏啄啄 乌啄啄 [wu1 zhuo2 zhuo2] {wu1 doeng1 doeng1} /stupide; idiot; lent/étourdi; distrait/
 ????f 烏喱單刀 乌喱单刀 [wu1 li2 dan1 dao1] {wu1 lei1 daan1 dou1} /(expr. idiom.) (lieu) dans un désordre; désordonné/
 烏喱馬扠 乌喱马叉 [wu1 li2 ma3 cha1] {wu1 lei1 maa5 caa1} /(écriture) malpropre; difficilement lisible/
-烏垂垂 乌垂垂 [wu1 chui2 chui2] {wu1 seoi4 seoi4} /distrait; étourdi; embrouillé/
+烏垂垂 乌垂垂 [wu1 chui2 chui2] {wu1 soe2 soe4} /distrait; étourdi; embrouillé; lent; stupide/
 烏搲 乌搲 [wu1 gua1] {wu1 we2} /être mal vêtu/
-烏溪沙 乌溪沙 [wu1 xi1 sha1] {wu1 kai1 saa1} /Wu Kai Sha, une partie de Sha Tin, un des dix-huit districts de Hong Kong/
-烏煙 乌烟 [wu1 yan1] {wu1 jin1} /fumée noire/opium/mofette/
-烏煙瘴氣 乌烟瘴气 [wu1 yan1 zhang4 qi4] {wu1 jin1 zoeng3 hei3} /(expr. idoim.) air sale; air enfumé/
+烏溪沙 乌溪沙 [wu1 xi1 sha1] {wu1 kai1 saa1} /Wu Kai Sha, une partie de Sha Tin, l'un des dix-huit districts de Hong Kong/
+????c 烏煙 乌烟 [wu1 yan1] {wu1 jin1} /fumée noire/
+????f 烏煙瘴氣 乌烟瘴气 [wu1 yan1 zhang4 qi4] {wu1 jin1 zoeng3 hei3} /(expr. idiom.) air sale; air enfumé/
 烏燈黑火 乌灯黑火 [wu1 deng1 hei1 huo3] {wu1 dang1 hak1 fo2} /(expr.) noir complet; noir total/(lit.) lumière noire feu noir/
-烏眉瞌睡 乌眉瞌睡 [wu1 mei2 ke1 shui4] {wu1 mei4 hap1 seoi6} /(expr. idiom.) épuisé; fatigué; somnolent/(expr. idiom.) découragé; démoralisé/(expr. idiom.) cogner des clous; lutter contre le sommeil/(expr. idiom.) s'assoupir/
+烏眉瞌睡 乌眉瞌睡 [wu1 mei2 ke1 shui4] {wu1 mei4 hap1 seoi6} /(expr. idiom.) épuisé; fatigué; somnolent/(expr. idiom.) cogner des clous; lutter contre le sommeil; s'assoupir (attention! en cantonais, ce mot est un adjectif)/
 烏蠅 乌蝇 [wu1 ying2] {wu1 jing1} /(insecte) mouche/
 烏蠅拍 乌蝇拍 [wu1 ying2 pai1] {wu1 jing1 paak3} /tapette à mouches/
-烏蠅摟馬尾 乌蝇搂马尾 [wu1 ying2 lou3 ma3 wei3] {wu1 jing1 lau1 maa5 mei5} /(expr. en suspens) rompre une relation; rompre un partnenariat; se divorcer; se séparer à cause de différences irréconcilables/
+????f 烏蠅摟馬尾 乌蝇搂马尾 [wu1 ying2 lou3 ma3 wei3] {wu1 jing1 lau1 maa5 mei5} /(expr. en suspens) rompre une relation; rompre un partnenariat; se divorcer; se séparer à cause de différences irréconcilables (où aucune des deux personne impliquées n'en sort gagnant)/(lit.) mouche sur une queue de cheval (deuxième partie 一拍兩散|一拍兩散 « un coup et les deux se dispersent »)/
 烏豆 乌豆 [wu1 dou4] {wu1 dau2} /haricots noirs/
-烏頭 乌头 [wu1 tou2] {wu1 tau4} /(poisson) mulet cabot; mulet à grosse tête/(médecine traditionnelle chinoise) rhizome de l'aconit/
-烏鴉口 乌鸦口 [wu1 ya1 kou3] {wu1 aa1 hau2} /(fig.) une personne qui porte la poisse; une personne pessimiste; une personne qui joue les cassandre/(lit.) bouche de corbeau/
-烏龍事 乌龙事 [wu1 long2 shi4] {wu1 lung2 si6} /choses stupides/erreurs stupides/affaire confuse/
+烏頭 乌头 [wu1 tou2] {wu1 tau4} /(espèce de poissons) mulet cabot; mulet à grosse tête/(médecine traditionnelle chinoise) rhizome de l'aconit/
+????f 烏鴉口 乌鸦口 [wu1 ya1 kou3] {wu1 aa1 hau2} /(fig.) personne qui dit des choses peu propices qui se passent par la suite; personne qui porte la poisse (a person who jinxes things, usually not maliciously)/(lit.) bouche de corbeau/
+????c 烏龍事 乌龙事 [wu1 long2 shi4] {wu1 lung2 si6} /choses stupides/erreurs stupides/affaire confuse/
 烏龍波 乌龙波 [wu1 long2 bo1] {wu1 lung2 bo1} /but contre son camp; autobut/
 ????f 烏龍王 乌龙王 [wu1 long2 wang2] {wu1 lung2 wong4} /personne étourdie; personne désorientée/personne stupide; idiot; imbécile/
-烘底 烘底 [hong1 di3] {hong3 dai2} /toaster; faire griller/frire, cuire, ou réchauffer le côté inférieur/
+????f 烘底 烘底 [hong1 di3] {hong3 dai2} /faire griller; toaster une tranche de pain/frire, cuire ou réchauffer le côté inférieur d'un sandwich/
 烚吓烚吓 烚吓烚吓 [xia2 xia4 xia2 xia4] {saap6 haa5 saap6 haa5} /(fig.) lent; stupide; étourdi/
 烚熟狗頭 烚熟狗头 [xia2 shu2 gou3 tou2] {saap6 suk6 gau2 tau4} /(expr. idiom.) sourire bêtement/(lit.) tête de chien cuite à l'eau/(orig.) la tête cuite à l'eau montre les dents du chien, comme un sourire stupide/
-烚蛋 烚蛋 [xia2 dan4] {hap6 daan2} /oeuf dur/
-烤麪包 烤麪包 [kao3 mian4 bao1] {haau1 min6 baau1} /toast; pain grillé/
-焗 焗 [ju2] {guk6} /(lieu, chambre, salle, etc.) étouffant/contraindre; forcer (quelqu'un à faire quelque chose)/faire cuire au four/faire rôtir à feu doux/
+烚蛋 烚蛋 [xia2 dan4] {saap6 daan2} /oeuf dur/
+烤麪包 烤麪包 [kao3 mian4 bao1] {haau1 min6 baau1} /pain grillé; toast/
+????f 焗 焗 [ju2] {guk6} /(lieu, chambre, salle, etc.) étouffant/contraindre; forcer (quelqu'un à faire quelque chose)/faire cuire au four/faire rôtir à feu doux/
 焗住 焗住 [ju2 zhu4] {guk6 zyu6} /(lieu, chambre, salle, etc.) étouffant/n'avoir pas d'autre choix... (que de faire quelque chose); être contraint de faire quelque chose; être mis au pied du mur/
-焗傷風 焗伤风 [ju2 shang1 feng1] {guk6 soeng1 fung1} /s'enrhumer à cause de la transpiration excessive/
+????c 焗傷風 焗伤风 [ju2 shang1 feng1] {guk6 soeng1 fung1} /s'enrhumer à cause de la transpiration excessive/s'enrhumer à cause d'une insolation/
 焗暑 焗暑 [ju2 shu3] {guk6 syu2} /avoir une insolation; avoir un coup de chaleur/
-焗死 焗死 [ju2 si3] {guk6 sei2} /suffoquer; asphyxier/mourir de l'inhalation de fumée/
+????f 焗死 焗死 [ju2 si3] {guk6 sei2} /suffoquer; asphyxier/mourir de l'inhalation de fumée/
 焗汗 焗汗 [ju2 han4] {guk6 hon6} /suer; transpirer/
-焗漆 焗漆 [ju2 qi1] {guk6 cat1} /faire cuire l'émail/
-焗熱 焗热 [ju2 re4] {guk6 jit6} /chauffer; réchauffer/
+????c 焗漆 焗漆 [ju2 qi1] {guk6 cat1} /faire cuire l'émail/
+????f 焗熱 焗热 [ju2 re4] {guk6 jit6} /chauffer; réchauffer/(temps) étouffant/
 焗爐 焗炉 [ju2 lu2] {guk6 lou4} /(cuisine) four/
-焗盅 焗盅 [ju2 zhong1] {guk6 zung1} /gaiwan, tasse à couvercle servant pour les infusions de thé/
-???? 焗腳 焗脚 [ju2 jiao3] {guk6 goek3} /(noun) a foot treatment/cover the foot?/uncomfortable shoe due to it being too small?/
-焗茶 焗茶 [ju2 cha2] {guk6 caa4} /faire du thé/
+????f 焗盅 焗盅 [ju2 zhong1] {guk6 zung1} /gaiwan, tasse à couvercle servant à infuser du thé/
+????c 焗腳 焗脚 [ju2 jiao3] {guk6 goek3} /(noun) a foot treatment/cover the foot?/uncomfortable shoe due to it being too small?/
+焗茶 焗茶 [ju2 cha2] {guk6 caa4} /faire du thé; infuser du thé/
 焗薯 焗薯 [ju2 shu3] {guk6 syu4} /pomme de terre au four/
-焗親 焗亲 [ju2 qin1] {guk6 can1} /avoir une insolation; avoir un coup de chaleur/suffoquer/
-焗豬扒飯 焗猪扒饭 [ju2 zhu1 ba1 fan4] {guk6 zyu1 paa4 faan6} /riz à la côtelette de porc cuite au four/
+????f 焗親 焗亲 [ju2 qin1] {guk6 can1} /avoir une insolation; avoir un coup de chaleur/
+????f 焗豬扒飯 焗猪扒饭 [ju2 zhu1 ba1 fan4] {guk6 zyu1 paa4 faan6} /riz à la côtelette de porc cuite au four/
 焗雨 焗雨 [ju2 yu3] {guk6 jyu5} /temps chaud et humide avant une averse/
-焙火爐 焙火炉 [bei4 huo3 lu2] {bui6 fo2 lou4} /se chauffer près d'un feu/
+????f 焙火爐 焙火炉 [bei4 huo3 lu2] {bui6 fo2 lou4} /se chauffer près d'un feu/
 焚化爐 焚化炉 [fen2 hua4 lu2] {fan4 faa3 lou4} /incinérateur/
-無上裝 无上装 [wu2 shang4 zhuang1] {mou4 soeng6 zong1} /aux seins nus/torse nu/
-???? 無主孤魂 无主孤魂 [wu2 zhu3 gu1 hun2] {mou4 zyu2 gu1 wan4} /(expr. idiom.) âme solitaire/
-無事 无事 [wu2 shi4] {mou4 si6} /ça va! je vais bien!/
+無上裝 无上装 [wu2 shang4 zhuang1] {mou4 soeng6 zong1} /(d'une femme) aux seins nus/
+????c 無主孤魂 无主孤魂 [wu2 zhu3 gu1 hun2] {mou4 zyu2 gu1 wan4} /(expr. idiom.) âme solitaire/(lit.) âme solitaire sans maître/
+無事 无事 [wu2 shi4] {mou5 si6} /ça va! je vais bien! (voir aussi 冇事|冇事)/
 無人問津 无人问津 [wu2 ren2 wen4 jin1] {mou4 jan4 man6 zeon1} /(expr. idiom.) qui n'intéresse personne/(lit.) personne ne pose des questions/
-無他 无他 [wu2 ta1] {mou4 taa1} /pour aucune autre raison; pour la simple raison que; pour la seule raison que/sans lui/
-無分 无分 [wu2 fen1] {mou4 fan1} /aucune différence; aucune distinction/pauvre; sans le sou/zéro points/
+無他 无他 [wu2 ta1] {mou4 taa1} /pour aucune autre raison; pour la simple raison que; pour la seule raison que/
+????c 無分 无分 [wu2 fen1] {mou4 fan1} /aucune différence; aucune distinction/pauvre; sans le sou/zéro points/
 無利可圖 无利可图 [wu2 li4 ke3 tu2] {mou4 lei6 ho2 tou4} /peu rentable/
-???? 無助於 无助于 [wu2 zhu4 yu2] {mou4 zo6 jyu1} /qui n'aide pas à (faire quelque chose); qui ne contribue à l'effort/
+????c 無助於 无助于 [wu2 zhu4 yu2] {mou4 zo6 jyu1} /qui n'aide pas à (faire quelque chose); qui ne contribue à l'effort/
 無動於衷 无动于衷 [wu2 dong4 yu2 zhong1] {mou4 dung6 jyu1 cung1} /indifférent; insensible; à l'écart/
 無千無萬 无千无万 [wu2 qian1 wu2 wan4] {mou4 cin1 mou4 maan6} /innombrable/
 無印良品 无印良品 [wu2 yin4 liang2 pin3] {mou4 jan3 loeng4 ban2} /Muji, enseigne de magasins japonais/
@@ -17813,7 +17813,7 @@
 裏海 里海 [li3 hai3] {lei5 hoi2} /mer Caspienne/
 裏邊 里边 [li3 bian5] {lei5 bin1} /dedans/à l'intérieur/
 裏面 里面 [li3 mian4] {leoi5 min6} /dedans/à l'intérieur/
-裏頭 里头 [li3 tou5] {lei5 tau4} /dedans/à l'intérieur/
+裏頭 里头 [li3 tou5] {leoi5 tau4} /dans; dedans/à l'intérieur/dans (un groupe); parmi (les membres d'un groupe)/
 裒斂 裒敛 [pou2 lian3] {pau4 lim5} /exploiter les masses; exploiter le peuple/amasser une fortune par l'extorsion/
 裒輯 裒辑 [pou2 ji2] {pau4 cap1} /compiler (des données); réunir des documents à partir de plusieurs sources/
 裕如 裕如 [yu4 ru2] {jyu6 jyu4} /aisément; sans difficulté; facilement; sans effort/
