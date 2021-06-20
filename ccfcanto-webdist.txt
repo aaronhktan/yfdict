@@ -1356,7 +1356,7 @@
 伊波拉病毒 伊波拉病毒 [yi1 bo1 la1 bing4 du2] {ji1 bo1 laai1 beng6 duk6} /virus Ebola/
 伊麪 伊面 [yi1 mian4] {ji1 min6} /nouilles yi mein/
 伊麵 伊面 [yi1 mian4] {ji1 min6} /nouilles yi mein/
-伏低 伏低 [fu2 di1] {buk6 dai1} /s'étendre; s'allonger à terre/
+伏低 伏低 [fu2 di1] {buk6 dai1} /s'étendre; s'allonger par terre/
 伏兒人 伏儿人 [fu2 r5 ren2] {fuk6 ji4 jan4} /cache-cache/
 伏匿匿 伏匿匿 [fu2 ni4 ni4] {buk6 nei1 nei1} /cache-cache/jouer à cache-cache/
 休养所 休养所 [xiu1 yang3 suo3] {jau1 joeng5 so2} /sanatorium/
@@ -2837,7 +2837,7 @@
 削平 削平 [xue1 ping2] {soek3 ping4} /réprimer; assujettir/lisser une surface (avec un couteau)/
 前世唔修 前世唔修 [qian2 shi4 wu2 xiu1] {cin4 sai3 m4 sau1} /(expr. idiom.) être malchanceux/(lit.) avoir fait du mal dans sa vie antérieure/
 ????f 前世撈亂骨頭 前世捞乱骨头 [qian2 shi4 lao1 luan4 gu3 tou5] {cin4 sai3 lou1 lyun6 gwat1 tau4} /(expr. idiom.) être ennemis jurés; avoir une haine mutuelle qui persiste pendant longtemps/(lit.) dans une vie antérieure, leurs os se sont mélangés/
-????c 前仆后繼 前仆后继 [qian2 pu1 hou4 ji4] {cin4 puk1 hau6 gai3} /(fig.) (militaire) se battre avec courage/(lit.) ceux en avant tombent à terre, mais ceux à l'arrière continuent d'avancer/
+????c 前仆后繼 前仆后继 [qian2 pu1 hou4 ji4] {cin4 puk1 hau6 gai3} /(fig.) (militaire) se battre avec courage/(lit.) ceux en avant tombent par terre, mais ceux à l'arrière continuent d'avancer/
 前便 前便 [qian2 bian4] {cin4 bin6} /en avant; devant/devant; face avant/
 前個排 前个排 [qian2 ge4 pai2] {cin4 go3 paai4} /il y a quelque temps; il y a un certain temps/
 前列腺癌 前列腺癌 [qian2 lie4 xian4 ai2] {cin4 lit6 sin3 ngaam4} /cancer de la prostate/
@@ -9843,7 +9843,7 @@
 攞嚟辛苦 攞嚟辛苦 [luo1 li2 xin1 ku3] {lo2 lei4 san1 fu2} /(expr.) chercher des ennuis/
 攞彩 攞彩 [luo1 cai3] {lo2 coi2} /crâner; frimer; faire de l'esbroufe; se la péter; se péter les bretelles/sauver la face; sauver les apparences/réussir; bien s'en sortir/
 ????f 攞意頭 攞意头 [luo1 yi4 tou2] {lo2 ji3 tau4} /faire quelque chose pour conjurer le mauvais sort (ex. toucher du bois)/
-????f 攞景 攞景 [luo1 jing3] {lo2 ging2} /(fig.) frapper quelqu'un qui est déjà à terre; insulter ou profiter de quelqu'un qui est dans une situation désavantagée/(lit.) composer une photo/
+????f 攞景 攞景 [luo1 jing3] {lo2 ging2} /(fig.) frapper un ennemi à terre; insulter ou profiter de quelqu'un qui est dans une situation désavantagée/(lit.) composer une photo/
 攞獎 攞奖 [luo1 jiang3] {lo2 zoeng2} /recevoir un prix; être accordé un prix/
 ????f 攞着數 攞着数 [luo1 zhao1 shu4] {lo2 zoek6 sou3} /profiter de quelqu'un; exploiter quelqu'un/tirer profit d'une situation/
 ????f 攞籌 攞筹 [luo1 chou2] {lo2 cau4} /prendre un ticket ou numéro pour faire la queue/
@@ -10005,7 +10005,7 @@
 放紙鷂 放纸鹞 [fang4 zhi3 yao4] {fong3 zi2 jiu2} /faire voler un cerf-volant/
 放聲氣 放声气 [fang4 sheng1 qi4] {fong3 seng1 hei3} /(fig.) répandre des rumeurs/(fig.) permettre une fuite d'informations afin de jauger l'opinion publique/(lit.) relâcher un son du gaz/
 放膽 放胆 [fang4 dan3] {fong3 daam2} /agir avec confiance/
-放落 放落 [fang4 luo4] {fong3 lok6} /poser; placer sur une surface; mettre à terre/mettre dedans/
+放落 放落 [fang4 luo4] {fong3 lok6} /poser; placer sur une surface; mettre par terre/mettre dedans/
 放葫蘆 放葫芦 [fang4 hu2 lu5] {fong3 wu4 lou2} /(fig.) bluffer; se vanter; exagérer/(lit.) relâcher la calebasse/(orig.) des faux médicaments vendus par des charlatans dans des calebasses/
 ????f 放虎歸山 放虎归山 [fang4 hu3 gui1 shan1] {fong3 fu2 gwai1 saan1} /(expr. idiom.) créer les conditions idéales pour une catastrophe; faire quelque chose qui risque de causer des ennuis à l'avenir/(lit.) laisser un tigre retourner à sa montagne/
 放蚊 放蚊 [fang4 wen2] {fong3 man1} /bâiller/
@@ -13057,47 +13057,47 @@
 煙鏟 烟铲 [yan1 chan3] {jin1 caan2} /gros fumeur/
 煙韌 烟韧 [yan1 ren4] {jin1 ngan6} /comportement intime/intime/
 煙骨 烟骨 [yan1 gu3] {jin1 gwat1} /pétiole d'une feuille de tabac/
-煞尾科 煞尾科 [sha1 wei3 ke1] {saat3 mei5 fo2} /fin/épilogue/
-煞掣 煞掣 [sha1 che4] {saat3 zai3} /(voiture) freiner/(voiture) freins/
+煞尾科 煞尾科 [sha1 wei3 ke1] {saat3 mei5 fo2} /fin/
+煞掣 煞掣 [sha1 che4] {saat3 zai3} /(voiture) freiner/
 煞攤 煞摊 [sha1 tan1] {saat3 taan1} /terminer; finir; compléter/
-煞科 煞科 [sha1 ke1] {saat3 fo1} /fin/épilogue/
-煞食 煞食 [sha1 shi2] {saat3 sik6} /efficace/puissant; fort/
+煞科 煞科 [sha1 ke1] {saat3 fo1} /fin/
+煞食 煞食 [sha1 shi2] {saat3 sik6} /efficace; puissant; fort/
 煠熟狗頭 煠熟狗头 [ye4 shu2 gou3 tou2] {zaa3 suk6 gau2 tau4} /(expr. idiom.) sourire bêtement/(lit.) (rire comme une) tête de chien frite à l'huile/(voir aussi 烚熟狗頭|烚熟狗头)/
 煠蛋 煠蛋 [ye4 dan4] {saap6 daan2} /œuf dur/
 煣 煣 [rou3] {jau2} /plier du bois avec la chaleur/
-煤屎 煤屎 [mei2 shi3] {mui4 si2} /suite; cendres/créosote de goudrons de houille/
+煤屎 煤屎 [mei2 shi3] {mui4 si2} /suie; cendres/
 煤氣喉 煤气喉 [mei2 qi4 hou2] {mui4 hei3 hau4} /conduite de gaz/
 煤氣燈 煤气灯 [mei2 qi4 deng1] {mui4 hei3 dang1} /lampe à gaz/
-煤氣爐 煤气炉 [mei2 qi4 lu2] {mui4 hei3 lou4} /cuisière à gaz/four à gaz/
-煤氣罐 煤气罐 [mei2 qi4 guan4] {mui4 hei3 gun3} /réservoir de gaz/jerrican; bidon d'essence/
-煤爐 煤炉 [mei2 lu2] {mui4 lou4} /cuisinère à gaz/four à gaz/four à charbon/
-煤粉 煤粉 [mei2 fen3] {mui4 fan2} /poussière de charbon/
+????f 煤氣爐 煤气炉 [mei2 qi4 lu2] {mui4 hei3 lou4} /cuisière à gaz/four à gaz/
+????f 煤氣罐 煤气罐 [mei2 qi4 guan4] {mui4 hei3 gun3} /bonbonne de gaz combustible/
+????f 煤爐 煤炉 [mei2 lu2] {mui4 lou4} /cuisinère à gaz/four à charbon/
+????f 煤粉 煤粉 [mei2 fen3] {mui4 fan2} /poussière de charbon/
 照 照 [zhao4] {ziu3} /continuer (à faire quelque chose) en dépit (des circonstances)/illuminer/prendre soin de quelqu'un; s'occuper de quelqu'un/selon (des instructions, le manuel, les règles, etc.)/
 照X光 照X光 [zhao4 X guang1] {ziu3 ik1 si4 gwong1} /faire une radio/
-照住 照住 [zhao4 zhu4] {ziu3 zyu6} /prendre soin de quelqu'un/
-???? 照單執藥 照单执藥 [zhao4 dan1 zhi2 shuo4] {ziu3 daan1 zap1 joek6} /pack according to list/follow instructions/
+照住 照住 [zhao4 zhu4] {ziu3 zyu6} /prendre soin de quelqu'un/soutenir quelqu'un/protéger quelqu'un/
+????c 照單執藥 照单执藥 [zhao4 dan1 zhi2 shuo4] {ziu3 daan1 zap1 joek6} /pack according to list/follow instructions/
 照我所知 照我所知 [zhao4 wo3 suo3 zhi1] {ziu3 ngo5 so2 zi1} /pour autant que je sache; à ma connaissance/
-照明燈 照明灯 [zhao4 ming2 deng1] {ziu3 ming4 dang1} /lumière/lampe frontale/lumière des projecteurs/
-照板煮碗 照板煮碗 [zhao4 ban3 zhu3 wan3] {ziu3 baan2 zyu2 wun2} /(expr. idiom.) faire comme toujours; continuer à faire comme on l'a toujours fait; suivre les sentiers battus/(expr. idiom.) imiter; copier/
-照殺 照杀 [zhao4 sha1] {ziu3 saat3} /(fig.) faire quelque chose ou accepter quelque chose en dépit de conditions non-idéales/
+照明燈 照明灯 [zhao4 ming2 deng1] {ziu3 ming4 dang1} /lumière/lampe frontale/
+照板煮碗 照板煮碗 [zhao4 ban3 zhu3 wan3] {ziu3 baan2 zyu2 wun2} /(expr. idiom.) faire comme toujours; continuer à faire comme on l'a toujours fait; suivre les sentiers battus/
+????f 照殺 照杀 [zhao4 sha1] {ziu3 saat3} /(fig.) faire quelque chose ou accepter quelque chose en dépit de conditions défavorables/
 照燒 照烧 [zhao4 shao1] {ziu3 siu1} /(cuisine japonaise) teriyaki/
-照田雞 照田鸡 [zhao4 tian2 ji1] {ziu3 tin4 gai1} /chercher des grenouilles avec sa lampe de poche/(fig.) exposer une liaison amoureuse/(fig.) utiliser une lampe de poche pour exposer des personnes se livrant à des actes sexuels dans un lieu public dans la nuit/(fig.) dire la bonne aventure en examinant les paumes ou le visage/
+????f 照田雞 照田鸡 [zhao4 tian2 ji1] {ziu3 tin4 gai1} /chercher des grenouilles avec sa lampe de poche/(fig.) exposer une liaison amoureuse/(fig.) utiliser une lampe de poche pour exposer des personnes se livrant à des actes sexuels dans un lieu public dans la nuit/(fig.) dire la bonne aventure en examinant les paumes ou le visage/
 照肺 照肺 [zhao4 fei4] {ziu3 fai3} /faire une radio de sa poitrine/réprimander un subordonné/
-照計 照计 [zhao4 ji4] {ziu3 gai3} /habituellement; normalement/logiquement/
-照起 照起 [zhao4 qi3] {ziu3 hei2} /(fig.) prendre (quelqu'un) sous son aile; prendre soin de quelqu'un/(fig.) prendre une photo de quelqu'un/
+照計 照计 [zhao4 ji4] {ziu3 gai3} /d'habitude; habituellement; normalement/
+照起 照起 [zhao4 qi3] {ziu3 hei2} /(fig.) prendre (quelqu'un) sous son aile; prendre soin de quelqu'un/
 照鏡 照镜 [zhao4 jing4] {ziu3 geng3} /se regarder dans le miroir/faire une radio/
 照頭淋 照头淋 [zhao4 tou2 lin2] {ziu3 tau4 lam4} /se mouiller la tête/
 煩囂 烦嚣 [fan2 xiao1] {faan4 hiu1} /bruyant et énervant/
-煩惱 烦恼 [fan2 nao3] {faan4 nou5} /inquiét/tracassé/stressé/
+煩惱 烦恼 [fan2 nao3] {faan4 nou5} /inquiet/tracassé/stressé/
 煩懣 烦懑 [fan2 men4] {faan4 mun6} /triste; démoralisé; inquiet/
-煪 煪 [qiu2] {cau1} /fumer/brûlé (par le feu)/
+????c 煪 煪 [qiu2] {cau1} /fumer/brûlé (par le feu)/
 煲 煲 [bao1] {bou1} /fumer des cigarettes/nœud papillon/faire bouillir/faire quelque chose pendant longtemps/
 煲仔 煲仔 [bao1 zi3] {bou1 zi2} /(récipient de cuisine) cocotte; pot de terre cuite/
-煲仔飯 煲仔饭 [bao1 zi3 fan4] {bou1 zai2 faan6} /genre de repas asiatique cuit dans une cocotte, avec du riz, des légumes et de la viande (en anglais, « claypot rice »)/
-煲冇米粥 煲冇米粥 [bao1 mao3 mi3 zhou1] {bou1 mou5 mai5 zuk1} /(expr. idiom.) parler de choses ou plans qui n'aboutissent à rien/(lit.) faire du congee sans riz/
+????f 煲仔飯 煲仔饭 [bao1 zi3 fan4] {bou1 zai2 faan6} /genre de repas asiatique cuit dans une cocotte, avec du riz, des légumes et de la viande (en anglais, « claypot rice »)/
+????f 煲冇米粥 煲冇米粥 [bao1 mao3 mi3 zhou1] {bou1 mou5 mai5 zuk1} /(expr. idiom.) parler de choses ou de plans qui n'aboutissent à rien/(lit.) faire du congee sans riz/
 煲冬瓜 煲冬瓜 [bao1 dong1 gua1] {bou1 dung1 gwaa1} /(très fam.) mandarin, « putonghua », langue officielle de la Chine/(orig.) de la prononciation en mandarin de 普通話|普通话, « putonghua » (« langue standard »)/(lit.) faire bouillir une courge cireuse/
-煲劇 煲剧 [bao1 ju4] {bou1 kek6} /(fig.) binge-watcher un roman-savon ou soap opera; regarder en un temps court plusieurs épisodes d'un soap opera/(lit.) faire bouillir un soap opera/
-煲呔 煲呔 [bao1 dai1] {bou1 taai1} /nœud papillon/(orig.) imitant la prononciation du mot anglais « bowtie » (en français, « nœud papillon »)/
+????f 煲劇 煲剧 [bao1 ju4] {bou1 kek6} /(fig.) binge-watcher un roman-savon ou soap opera; regarder en un temps court plusieurs épisodes d'un soap opera/(lit.) faire bouillir un soap opera/
+煲呔 煲呔 [bao1 dai1] {bou1 taai1} /nœud papillon/(orig.) imitant la prononciation du mot anglais « bowtie » (« nœud papillon »)/
 煲水 煲水 [bao1 shui3] {bou1 seoi2} /bouillir de l'eau/(fig.) (nouvelles) fausses; inventées/
 煲水新聞 煲水新闻 [bao1 shui3 xin1 wen2] {bou1 seoi2 san1 man4} /(expr. idiom.) fausses nouvelles; rumeurs; ragots; calomnies; « fake news »/(lit.) nouvelles à l'eau bouillante/
 煲湯 煲汤 [bao1 tang1] {bou1 tong1} /faire une soupe/
@@ -19251,7 +19251,7 @@
 輪流 轮流 [lun2 liu2] {leon4 lau4} /se relayer/à tour de rôle/
 ????f 輪籌 轮筹 [lun2 chou2] {leon4 cau4} /prendre son ticket et faire la queue; prendre son numéro et faire la queue/
 輪軚 轮軚 [lun2 dai4] {leon4 taai1} /pneu (d'une voiture)/
-????f 輸到貼地 输到贴地 [shu1 dao4 tie1 di4] {syu1 dou3 tip3 dei2} /(expr. idiom.) être anéanti; être abattu; subir une défaite terrible/(lit.) perdre jusqu'à se mettre à terre/
+????f 輸到貼地 输到贴地 [shu1 dao4 tie1 di4] {syu1 dou3 tip3 dei2} /(expr. idiom.) être anéanti; être abattu; subir une défaite terrible/(lit.) perdre jusqu'à se mettre par terre/
 輸氧 输氧 [shu1 yang3] {syu1 joeng5} /oxygénothérapie/
 ????f 輸硬 输硬 [shu1 ying4] {syu1 ngaang6} /être sûr de perdre; n'avoir aucune chance de gagner/
 ????f 輸蝕 输食 [shu1 shi2] {syu1 sit6} /(fig.) rater sa chance; manquer une belle occasion/(fig.) subir une perte/(fig.) être désavantagé/(fig.) être incapable de concurrencer; être incapable de rivaliser/
