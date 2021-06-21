@@ -4676,7 +4676,7 @@
 𠼮求 𠼮求 [ai3 qiu2] {ngai1 kau4} /supplier/
 ????f 嘟咭 嘟咭 [du1 ji1] {dut1 kaat1} /effectuer un paiement avec une carte, particulièrement un paiement sans contact/(orig.) onomatopée pour le bip d'une machine de paiement + l'anglais « card » (« carte »)/
 嘩 哗 [hua1] {waa1} /oh!/waouh!/
-????f 嘩嘩聲 哗哗声 [hua1 hua1 sheng1] {waa1 waa1 seng1} /(onomatopée pour une réaction quand on est surpris, étonné, ou excité)/
+????f 嘩嘩聲 哗哗声 [hua1 hua1 sheng1] {waa1 waa1 seng1} /(onomatopée pour une réaction quand on est surpris, étonné ou excité)/
 嘩鬼 哗鬼 [hua1 gui3] {waa1 gwai2} /(enfant) espiègle; vilain/
 嘮嘈 唠嘈 [lao2 cao2] {lou4 cou4} /être bruyant/
 嘰咕 叽咕 [ji1 gu1] {gei1 gu1} /parler doucement; chuchoter; murmurer/
@@ -8620,7 +8620,7 @@
 ????f 打死纈 打死缬 [da3 si3 xie2] {daa2 sei2 lit3} /nouer un noeud mort/
 打比 打比 [da3 bi3] {daa2 bei2} /derby/Hong Kong Derby/(orig.) de l'anglais « derby (« derby »)/
 打比郡 打比郡 [da3 bi3 jun4] {daa2 bei2 gwan6} /Derbyshire, comté en Angleterre/
-????f 打氣 打气 [da3 qi4] {daa2 hei3} /enthousiasmer; rendre quelqu'un excité; encourager/gonfler; remplir avec de l'air/
+????f 打氣 打气 [da3 qi4] {daa2 hei3} /enthousiasmer; encourager/gonfler; remplir avec de l'air/
 打沉 打沉 [da3 chen2] {daa2 cam4} /décourager; démoraliser/
 打波 打波 [da3 bo1] {daa2 bo1} /jouer un jeu de ballon; jouer un jeu de balle/
 打瀉茶 打泻茶 [da3 xie4 cha2] {daa2 se2 caa4} /renverser du thé/(fig.) situation où le fiancé meurt avant de se marier/
@@ -13152,51 +13152,51 @@
 熱咖啡 热咖啡 [re4 ka1 fei1] {jit6 gaa3 fe1} /café chaud/
 熱啤 热啤 [re4 pi2] {jit6 be1} /urine/(lit.) bière chaude/
 熱天 热天 [re4 tian1] {jit6 tin1} /journée chaude/
-熱巧克力 热巧克力 [re4 qiao3 ke4 li4] {jit6 haau2 hak1 lik6} /(écrit; chinois standard) chocolat chaud/
+熱巧克力 热巧克力 [re4 qiao3 ke4 li4] {jit6 haau2 hak1 lik6} /(mandarin) chocolat chaud (voir aussi 熱朱古力|热朱古力)/
 熱帶植物 热带植物 [re4 dai4 zhi2 wu4] {jit6 daai3 zik6 mat6} /plantes tropicales/
 熱帶氣候 热带气候 [re4 dai4 qi4 hou4] {jit6 daai3 hei3 hau6} /climat tropical/
-熱朱古力 热朱古力 [re4 zhu1 gu3 li4] {jit6 zyu1 gu1 lik1} /(cantonais) chocolat chaud/
+熱朱古力 热朱古力 [re4 zhu1 gu3 li4] {jit6 zyu1 gu1 lik1} /chocolat chaud/
 熱核 热核 [re4 he2] {jit6 hat6} /thermonucléaire/
 熱核反應 热核反应 [re4 he2 fan3 ying4] {jit6 hat6 faan2 jing3} /réaction thermonucléaire/
 熱氣 热气 [re4 qi4] {jit6 hei3} /(médecine traditionnelle chinoise) chaleur interne/
-熱氣飯 热气饭 [re4 qi4 fan4] {jit6 hei3 faan6} /(expr. idiom.) quelque chose qui est difficile à faire/(expr. idiom.) quelque chose qui causera des problèmes à l'avenir/(lit.) du riz qui entrainera la chaleur interne/
+熱氣飯 热气饭 [re4 qi4 fan4] {jit6 hei3 faan6} /(expr. idiom.) quelque chose qui est difficile à faire/(expr. idiom.) quelque chose qui causera des problèmes à l'avenir/(lit.) du riz qui causera la chaleur interne/
 熱水壺 热水壶 [re4 shui3 hu2] {jit6 seoi2 wu2} /bouilloire/
 熱水爐 热水炉 [re4 shui3 lu2] {jit6 seoi2 lou4} /chauffe-eau/
-熱滯 热滞 [re4 zhi4] {jit6 zai6} /indigestion/
+熱滯 热滞 [re4 zhi4] {jit6 zai6} /(médecine traditionnelle chinoise) indigestion causée par un excès de la chaleur interne/
 熱潮 热潮 [re4 chao2] {jit6 ciu4} /mode; tendance; engouement/
-熱烈 热烈 [re4 lie4] {jit6 lit6} /chaleureusement/enthousiaste/
+熱烈 热烈 [re4 lie4] {jit6 lit6} /chaleureux; enthousiaste/
 熱烈歡迎 热烈欢迎 [re4 lie4 huan1 ying2] {jit6 lit6 fun1 jing4} /acueillir chaleureusement/accueil chaleureux; bienvenue chaleureuse/
 熱疿 热痱 [re4 fei4] {jit6 fai2} /miliaire cutanée; inflammation due à la chaleur/
 熱痱 热痱 [re4 fei4] {jit6 fai2} /miliaire cutanée; inflammation due à la chaleur/
-熱癪 热癪 [re4 ji1] {jit6 zik1} /indigestion/
+熱癪 热癪 [re4 ji1] {jit6 zik1} /(médecine traditionnelle chinoise) indigestion causée par un excès de la chaleur interne/
 熱線電話 热线电话 [re4 xian4 dian4 hua4] {jit6 sin3 din6 waa2} /(téléphone) ligne directe/
 熱腥 热腥 [re4 xing1] {jit6 seng1} /pétrichor; l'odeur dans l'air suite à une pluie estivale/
 熱膨脹 热膨胀 [re4 peng2 zhang4] {jit6 paang4 zoeng3} /dilatation thermique/
-熱衷於 热衷於 [re4 zhong1 yu2] {jit6 cung1 jyu1} /passioné par; enthousiaste de (quelque chose)/
-熱賣價 热卖价 [re4 mai4 jia4] {jit6 maai6 gaa3} /prix bas/(lit.) prix à vendre chaud/
+熱衷於 热衷於 [re4 zhong1 yu2] {jit6 cung1 jyu1} /passioné de; enthousiaste de (quelque chose)/
+熱賣價 热卖价 [re4 mai4 jia4] {jit6 maai6 gaa3} /bas prix; prix intéressant/(lit.) prix à vendre chaud/
 熱身運動 热身运动 [re4 shen1 yun4 dong4] {jit6 san1 wan6 dung6} /exercice d'échauffement/
-熱辣辣 热辣辣 [re4 la1 la1] {jit6 laat6 laat6} /brûlant; chaud bouillant/
-熱量 热量 [re4 liang4] {jit6 loeng6} /calorie/
+熱辣辣 热辣辣 [re4 la1 la1] {jit6 laat6 laat6} /brûlant; chaud; bouillant/
+????f 熱量 热量 [re4 liang4] {jit6 loeng6} /valeur calorifique; quantité de calories dans un aliment/
 熱門話題 热门话题 [re4 men2 hua4 ti2] {jit6 mun2 waa6 tai4} /sujet d'actualité; sujet brûlant/
 熱頭 热头 [re4 tou5] {jit6 tau2} /(fig.) le soleil/(lit.) tête chaude/
 熱風 热风 [re4 feng1] {jit6 fung1} /air chaud/vent chaud/
-熱風爐 热风炉 [re4 feng1 lu2] {jit6 fung1 lou4} /(métallurgie) haut-fourneau/chaudière/
-熱騰騰 热腾腾 [re4 teng1 teng1] {jit6 tang4 tang4} /brûlant; chaud bouillant/(fig.) ambiance animée/(fig.) ému/
-㷫烚烚 㷫烚烚 [qing3 xia2 xia2] {hing3 hap6 hap6} /(fig.) furieux; fou de rage/(fig.) marché chaud/(fig.) excité sexuellement; chaud/
-㷫過火屎 㷫过火屎 [qing3 guo4 huo3 shi3] {hing3 gwo3 fo2 si2} /(expr. idiom.) furieux; fou de rage/(lit.) plus chaud que les braises/
-㷫過焫雞 㷫过焫鸡 [qing3 guo4 ruo4 ji1] {hing3 gwo3 naat3 gai1} /(expr. idiom.) furieux; fou de rage/(lit.) plus chaud qu'un fer à souder/
-熹微 熹微 [xi1 wei1] {hei1 mei4} /premières lueurs du jour/
+熱風爐 热风炉 [re4 feng1 lu2] {jit6 fung1 lou4} /(métallurgie) haut-fourneau/
+熱騰騰 热腾腾 [re4 teng1 teng1] {jit6 tang4 tang4} /brûlant; bien chaud; bouillant/(fig.) ambiance animée/
+????f 㷫烚烚 㷫烚烚 [qing3 xia2 xia2] {hing3 hap6 hap6} /(fig.) fou furieux; fou de rage; enragé/????(fig.) marché chaud/(fig.) excité sexuellement; chaud/
+㷫過火屎 㷫过火屎 [qing3 guo4 huo3 shi3] {hing3 gwo3 fo2 si2} /(expr. idiom.) fou furieux; fou de rage; enragé/(lit.) plus chaud que les braises/
+㷫過焫雞 㷫过焫鸡 [qing3 guo4 ruo4 ji1] {hing3 gwo3 naat3 gai1} /(expr. idiom.) fou furieux; fou de rage; enragé/(lit.) plus chaud qu'un fer à souder/
+????f 熹微 熹微 [xi1 wei1] {hei1 mei4} /premières lueurs du jour/
 燃燒室 燃烧室 [ran2 shao1 shi4] {jin4 siu1 sat1} /chambre de combustion/
 燈油火蠟 灯油火蜡 [deng1 you2 huo3 la4] {dang1 jau4 fo2 laap6} /(expr.) dépenses quotidiennes/(lit.) lumière huile feu cire/
 燈火輝煌 灯火辉煌 [deng1 huo3 hui1 huang2] {dang1 fo2 fai1 wong4} /(lieu) resplendissant et animé; brillament éclairé et florissant/
-燈盞花 灯盏花 [deng1 zhan3 hua1] {dang1 zaan2 faa1} /marguerite; marguerite commune; pâquerette/(lit.) fleur (en forme d') ampoule/
+燈盞花 灯盏花 [deng1 zhan3 hua1] {dang1 zaan2 faa1} /(espèce de fleurs) Erigeron breviscapus/(lit.) fleur (en forme d') ampoule/
 燈籠椒 灯笼椒 [deng1 long5 jiao1] {dang1 lung4 ziu1} /poivron/(lit.) poivre en forme de lanterne céleste/
-燈紅酒綠 灯红酒绿 [deng1 hong2 jiu3 lu:4] {dang1 hung4 zau2 luk6} /(expr. idiom.) festin; fêtes; bacchanale/(expr. idiom.) environnement corrompu/(lit.) lanternes rouges, vins verts/
+????f 燈紅酒綠 灯红酒绿 [deng1 hong2 jiu3 lu:4] {dang1 hung4 zau2 luk6} /(expr. idiom.) festin; fêtes; bacchanale; fête débridée/(lit.) lanternes rouges, vins verts/
 燈膽 灯胆 [deng1 dan3] {dang1 daam2} /ampoule électrique/
 燈芯拎成鐵 灯芯拎成铁 [deng1 xin1 lin1 cheng2 tie3] {dang1 sam1 ling1 sing4 tit3} /(expr. idiom.) après un long voyage (ou après longtemps), même un poids léger devient un fardeau/(lit.) porter une mèche de lampe jusqu'à ce qu'elle devienne du métal/
-燈飾 灯饰 [deng1 shi4] {dang1 sik1} /installations lumineuses; décorations lumineuses (ex. les lumières de Noël)/
+燈飾 灯饰 [deng1 shi4] {dang1 sik1} /installations lumineuses; décorations lumineuses (ex. guirlande lumineuse de Noël)/
 燉冬菇 燉冬菇 [du4 dong1 gu1] {dan6 dung1 gu1} /(expr. idiom.) être rétrogradé/(lit.) ragoût aux champignons/(orig.) quand les policiers à Hong Kong étaient rétrogradés, ils portaient un chapeau en forme de champignon/
-燉品 燉品 [du4 pin3] {dan6 ban2} /ragoûts/mets cuit dans une bain-marie/
+????c 燉品 燉品 [du4 pin3] {dan6 ban2} /ragoûts/mets mijoté; mets cuit longtemps à petit feu/
 燉奶 燉奶 [du4 nai3] {dan6 naai5} /panna cotta, dessert italien/
 燉盅 燉盅 [du4 zhong1] {dan6 zung1} /(cuisine) bain-marie, récipient contenant le liquide chaud qui sert à chauffer un mets/
 燉蛋 燉蛋 [du4 dan4] {dan6 daan2} /œuf cuit à la vapeur/
@@ -16003,7 +16003,7 @@
 綿羊仔 绵羊仔 [mian2 yang2 zi3] {min4 joeng2 zai2} /vélomoteur; cyclomoteur/
 ????c 緉 緉 [liang3] {loeng5, loeng6} /a pair of/
 緊密 紧密 [jin3 mi4] {gan2 mat6} /inséparable/étroit/
-緊張 紧张 [jin3 zhang1] {gan2 zoeng1} /nerveux; tendu/excité/
+緊張 紧张 [jin3 zhang1] {gan2 zoeng1} /nerveux; tendu/
 緊張大師 紧张大师 [jin3 zhang1 da4 shi1] {gan2 zoeng1 daai6 si1} /peureux; trouillard; personne craintive/surnom pour Alfred Hitchcock/
 緊要事 紧要事 [jin3 yao4 shi4] {gan2 jiu3 si6} /question urgente; affaire urgente/
 ????c 緊鑼密鼓 紧锣密鼓 [jin3 luo2 mi4 gu3] {gan2 lo4 mat6 gu2} /busy for preparation; great fanfare; wildly beating gongs and drums; intense publicity campaign in preparation for some sinister undertaking/
@@ -16497,7 +16497,7 @@
 肉碎 肉碎 [rou4 sui4] {juk6 seoi3} /hachis de viande; viande hachée/
 肉粒 肉粒 [rou4 li4] {juk6 lap1} /viande en dés; viande en cubes/acrochordon; molluscum pendulum; polype fibroépithélial; tétine/
 ????f 肉絲炒麵 肉丝炒面 [rou4 si1 chao3 mian4] {juk6 si1 caau2 min6} /chow mein au bœuf en lanières/
-肉緊 肉紧 [rou4 jin3] {juk6 gan2} /être très préoccupé par; se soucier beaucoup de/très impatient; très excité; très enthousiaste/
+肉緊 肉紧 [rou4 jin3] {juk6 gan2} /être très préoccupé par; se soucier beaucoup de/très impatient; très enthousiaste/
 肉色 肉色 [rou4 se4] {juk6 sik1} /couleur pêche; couleur chair/
 肉蟹 肉蟹 [rou4 xie4] {juk6 haai5} /Scylla serrata; crabe des palétuviers; crabe de mangrove/
 肉赤 肉赤 [rou4 chi4] {juk6 cek3} /réticent (à faire quelque chose)/peiner; faire mal; faire de la peine; attrister/(note d'usage: cette expression s'emploie généralement pour une situation où quelqu'un doit dépenser de l'argent ou se séparer d'un objet de valeur/(lit.) faire mal à la chair/
