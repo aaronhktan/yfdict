@@ -3317,10 +3317,10 @@
 印尼人 印尼人 [yin4 ni2 ren2] {jan3 nei4 jan4} /Indonésien, Indonésienne/
 印度神油 印度神油 [yin4 du4 shen2 you2] {jan3 dou6 san4 jau4} /« Indian God Lotion », lotion de dieu indien, un type de lotion qui prétend améliorer la performance sexuelle/
 印水紙 印水纸 [yin4 shui3 zhi3] {jan3 seoi2 zi2} /buvard/
-????f 印花 印花 [yin4 hua1] {jan3 faa1} /coupon/imprimé floral/
+????f 印花 印花 [yin4 hua1] {jan3 faa1} /timbre fiscal/imprimé floral/
 ????c 印鑑 印鉴 [yin4 jian4] {jan3 gaam3} /sceau d'encre; tampon/
 危危乎 危危乎 [wei1 wei1 hu1] {ngai4 ngai4 fu4} /précaire; très dangereux; déséquilibré; instable/
-危急 危急 [wei1 ji2] {ngai4 gap1} /dangereux; critique/
+危急 危急 [wei1 ji2] {ngai4 gap1} /dangereux; critique; grave/
 危言聳聽 危言耸听 [wei1 yan2 song3 ting1] {ngai4 jin4 sung2 ting1} /être alarmisme; crier au loup/
 危險性 危险性 [wei1 xian3 xing4] {ngai4 him2 sing3} /danger; risque/
 即係 即系 [ji2 xi4] {zik1 hai6} /signifier; vouloir dire/c'est-à-dire/
@@ -13098,52 +13098,52 @@
 煲冬瓜 煲冬瓜 [bao1 dong1 gua1] {bou1 dung1 gwaa1} /(très fam.) mandarin, « putonghua », langue officielle de la Chine/(orig.) de la prononciation en mandarin de 普通話|普通话, « putonghua » (« langue standard »)/(lit.) faire bouillir une courge cireuse/
 ????f 煲劇 煲剧 [bao1 ju4] {bou1 kek6} /(fig.) binge-watcher un roman-savon ou soap opera; regarder en un temps court plusieurs épisodes d'un soap opera/(lit.) faire bouillir un soap opera/
 煲呔 煲呔 [bao1 dai1] {bou1 taai1} /nœud papillon/(orig.) imitant la prononciation du mot anglais « bowtie » (« nœud papillon »)/
-煲水 煲水 [bao1 shui3] {bou1 seoi2} /bouillir de l'eau/(fig.) (nouvelles) fausses; inventées/
+煲水 煲水 [bao1 shui3] {bou1 seoi2} /bouillir de l'eau/(fig.) (nouvelles) fausses; inventées; exagérées/
 煲水新聞 煲水新闻 [bao1 shui3 xin1 wen2] {bou1 seoi2 san1 man4} /(expr. idiom.) fausses nouvelles; rumeurs; ragots; calomnies; « fake news »/(lit.) nouvelles à l'eau bouillante/
-煲湯 煲汤 [bao1 tang1] {bou1 tong1} /faire une soupe/
+煲湯 煲汤 [bao1 tang1] {bou1 tong1} /faire de la soupe/
 煲無米粥 煲无米粥 [bao1 wu2 mi3 zhou1] {bou1 mou4 mai5 zuk1} /(expr. idiom.) parler de choses ou plans qui n'aboutissent à rien/(lit.) faire du congee sans riz/
 煲煙 煲烟 [bao1 yan1] {bou1 jin1} /fumer/
 煲燶粥 煲㶶粥 [bao1 nong2 zhou1] {bou1 nung1 zuk1} /brûler le congee/(fig.) parler très longtemps au téléphone/
-煲粥 煲粥 [bao1 zhou1] {bou1 zuk1} /faire le congee/(fig.) parler très longtemps au téléphone/
+煲粥 煲粥 [bao1 zhou1] {bou1 zuk1} /faire du congee/(fig.) parler très longtemps au téléphone/
 煲老藕 煲老藕 [bao1 lao3 ou3] {bou1 lou5 ngau5} /(fig.) (d'un jeune homme) avoir une relation amoureuse avec une femme beaucoup plus âgée/(lit.) faire bouillir une vieille racine de lotus/
 煲腍 煲腍 [bao1 ren3] {bou1 nam4} /faire cuire (quelque chose) jusqu'à ce qu'il soit tendre/
 煲茶 煲茶 [bao1 cha2] {bou1 caa4} /faire du thé/
 煲藥 煲藥 [bao1 shuo4] {bou1 joek6} /faire bouillir des racines pour la médecine traditionnelle chinoise/
-煲蠟 煲蜡 [bao1 la4] {bou1 laap6} /« ébullition de cire » (en anglais, « wax boiling »), forme de divertissement qui consiste à faire bouillir de la cire dans une boîte en métal, y ajouter des accélérateurs de feu, puis verser de l'eau dedans pour créer une énorme boule de feu/
-煲針 煲针 [bao1 zhen1] {bou1 zam1} /désinfecter les aiguilles/
-煲電話粥 煲电话粥 [bao1 dian4 hua4 zhou1] {bou1 din6 waa2 zuk1} /parler longtemps au téléphone/
+????f 煲蠟 煲蜡 [bao1 la4] {bou1 laap6} /« ébullition de cire » (en anglais, « wax boiling »), forme de divertissement de la fête de la mi-automne qui consiste à faire bouillir de la cire dans une boîte en métal, y ajouter des accélérateurs de feu, puis verser de l'eau dedans pour créer une énorme boule de feu/
+煲針 煲针 [bao1 zhen1] {bou1 zam1} /désinfecter les aiguilles/(lit.) faire bouillir les aiguilles/
+煲電話粥 煲电话粥 [bao1 dian4 hua4 zhou1] {bou1 din6 waa2 zuk1} /(expr. idiom.) parler longtemps au téléphone/(lit.) préparer du congee au téléphone/
 煲飯 煲饭 [bao1 fan4] {bou1 faan6} /cuire le riz/
-煽風點火 煽风点火 [shan1 feng1 dian3 huo3] {sin3 fung1 dim2 fo2} /(expr. idiom.) semer la zizanie/(lit.) attiser le feu/
+煽風點火 煽风点火 [shan1 feng1 dian3 huo3] {sin3 fung1 dim2 fo2} /(expr. idiom.) semer la zizanie; souffler sur les braises; aggraver une situation/(lit.) attiser le feu/
 熄 熄 [xi1] {sik1} /éteindre (un appareil électronique, une lumière, etc.)/(ordinateur) arrêter/
-熄匙 熄匙 [xi1 chi2] {sik1 ci4} /éteindre le contact; couper le contact; éteindre le moteur (d'une voiture)/
+????f 熄匙 熄匙 [xi1 chi2] {sik1 si4} /couper le contact; éteindre le contact; éteindre le moteur (d'une voiture)/
 熄機 熄机 [xi1 ji1] {sik1 gei1} /(ordinateur) arrêter/éteindre (un appareil électronique)/
 熊人 熊人 [xiong2 ren2] {hung4 jan2} /(fam.) ours/
-熊仔餅 熊仔饼 [xiong2 zi3 bing3] {hung4 zai2 beng2} /Koala's March, biscuits japonais fourrés à la crème au chocolat/
-熊貓 熊猫 [xiong2 mao1] {hung4 maau1} /panda/(fam.) personne en manque de sommeil, avec des poches sous ses yeux/
+????f 熊仔餅 熊仔饼 [xiong2 zi3 bing3] {hung4 zai2 beng2} /Koala's March, biscuits japonais fourrés à la crème au chocolat/
+????f 熊貓 熊猫 [xiong2 mao1] {hung4 maau1} /panda/????(fam.) personne en manque de sommeil, avec des poches sous ses yeux/
 熒光 荧光 [ying2 guang1] {jing4 gwong1} /(lumière, écran) fluorescent/
 蒸氣機 蒸气机 [zheng1 qi4 ji1] {zing1 hei3 gei1} /machine à vapeur/
 蒸水蛋 蒸水蛋 [zheng1 shui3 dan4] {zing1 seoi2 daan2} /œufs cuits à la vapeur/
 蒸汽 蒸汽 [zheng1 qi4] {zing1 hei3} /vapeur d'eau/
 蒸汽火車 蒸汽火车 [zheng1 qi4 huo3 che1] {zing1 hei3 fo2 ce1} /train à vapeur/
 蒸汽船 蒸汽船 [zheng1 qi4 chuan2] {zing1 hei3 syun4} /bateau à vapeur/
-蒸生瓜 蒸生瓜 [zheng1 sheng1 gua1] {zing1 saang1 gwaa1} /(fig.) (personne) immature; enfantin; puéril/(fig.) (personne) stupide; lent/(lit.) cuire un melon à la vapeur/
+蒸生瓜 蒸生瓜 [zheng1 sheng1 gua1] {zing1 saang1 gwaa1} /(fig.) (personne) immature; enfantin; puéril/(fig.) (personne) stupide; lent/(lit.) faire cuire un melon à la vapeur/
 蒸發 蒸发 [zheng1 fa1] {zing1 faat3} /évaporer/(fig.) (personne) disparaître/
 蒸發器 蒸发器 [zheng1 fa1 qi4] {zing1 faat3 hei3} /évaporateur/
 蒸發皿 蒸发皿 [zheng1 fa1 min3] {zing1 faat3 ming5} /plat d'évaporation/
-???? 熟人買破鑊 熟人买破镬 [shou2 ren2 mai3 po4 huo4] {suk6 jan4 maai5 po3 wok6} /to be tricked by someone who is supposed to be a friend/
-熟口熟面 熟口熟面 [shu2 kou3 shu2 mian4] {suk6 hau2 suk6 min6} /visage familier/(lit.) bouche familière; visage familier/
-熟口面 熟口面 [shu2 kou3 mian4] {suk6 hau2 min6} /visage familier/(lit.) bouche et visage familier/
-熟客仔 熟客仔 [shou2 ke4 zi3] {suk6 haak3 zai2} /habitué; client régulier/
-熟性 熟性 [shu2 xing4] {suk6 sing3} /suivre les consignes; suivre les instructions; faire ce qui est demandé/(personne) raisonnable; sensé/(personne) facile à soudoyer; facile à acheter/
-???? 熟檔 熟档 [shu2 dang4] {suk6 dong3} /to know something well; to be the expert in something /
+????c 熟人買破鑊 熟人买破镬 [shou2 ren2 mai3 po4 huo4] {suk6 jan4 maai5 po3 wok6} /to be tricked by someone who is supposed to be a friend/
+????f 熟口熟面 熟口熟面 [shu2 kou3 shu2 mian4] {suk6 hau2 suk6 min6} /(visage, personne) paraître familier/(lit.) bouche familière; visage familier/
+????f 熟口面 熟口面 [shu2 kou3 mian4] {suk6 hau2 min6} /(visage, personne) paraître familier/(lit.) bouche et visage familier/
+熟客仔 熟客仔 [shou2 ke4 zi3] {suk6 haak3 zai2} /habitué; client régulier; chaland/
+????c 熟性 熟性 [shu2 xing4] {suk6 sing3} /suivre les consignes; suivre les instructions; faire ce qui est demandé/faire preuve de tact/(personne) facile à soudoyer; facile à acheter/
+熟檔 熟档 [shu2 dang4] {suk6 dong3} /(personne) expérimenté; qui est expert en quelque chose/
 熟油 熟油 [shu2 you2] {suk6 jau4} /huile cuite/
-熟煙 熟烟 [shou2 yan1] {suk6 jin1} /tabac préparé d'une manière traditionnelle chinoise/
-???? 熟肉 熟肉 [shu2 rou4] {suk6 juk6} /viande cuite/(fig.) subbed anime/
-熟落 熟落 [shou2 luo2] {suk6 lok6} /spécialiste; personne expérimentée/
-熟行 熟行 [shu2 hang2] {suk6 hong4} /spécialiste dans un domaine; personne expérimentée dans un domaine/
-熟面口 熟面口 [shu2 mian4 kou3] {suk6 min6 hau2} /visage familier/
-熟食檔 熟食档 [shou2 shi2 dang4] {suk6 sik6 dong3} /stand de nourriture préparée/
-熟鹽 熟盐 [shou2 yan2] {suk6 jim4} /sel de table; sel raffiné/
+????f 熟煙 熟烟 [shou2 yan1] {suk6 jin1} /tabac préparé d'une manière traditionnelle chinoise/
+????f 熟肉 熟肉 [shu2 rou4] {suk6 juk6} /viande cuite/????(fam.) anime, manga, film ou jeu japonais qui a été sous-titré en chinois/
+熟落 熟落 [shou2 luo2] {suk6 lok6} /(personne) expérimenté; qui est expert en quelque chose/
+熟行 熟行 [shu2 hang2] {suk6 hong4} /(personne) expérimenté (dans un domaine); qui est expert (dans un domaine en particulier)/
+????f 熟面口 熟面口 [shu2 mian4 kou3] {suk6 min6 hau2} /(visage, personne) paraître familier/
+????f 熟食檔 熟食档 [shou2 shi2 dang4] {suk6 sik6 dong3} /stand de nourriture préparée/
+????c 熟鹽 熟盐 [shou2 yan2] {suk6 jim4} /sel de table; sel raffiné/
 熠熟狗頭 熠熟狗头 [yi4 shu2 gou3 tou2] {saap6 suk6 gau2 tau4} /(expr. idiom.) personne qui sourit bêtement/(lit.) tête de chien cuite à l'eau/(voir aussi 烚熟狗頭|烚熟狗头)/
 熨衫 熨衫 [yun4 shan1] {tong3 saam1} /(vêtements) repasser/
 熨衫板 熨衫板 [yun4 shan1 ban3] {tong3 saam1 baan2} /planche à repasser/
