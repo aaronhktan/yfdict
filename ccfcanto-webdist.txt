@@ -3201,7 +3201,7 @@
 千嬌百媚 千娇百媚 [qian1 jiao1 bai3 mei4] {cin1 giu1 baak3 mei6} /(femme) belle et charmante/
 ????f 千層糕 千层糕 [qian1 ceng2 gao1] {cin1 cang4 gou1} /gâteau ou patisserie avec plusieurs couches/
 千山萬水 千山万水 [qian1 shan1 wan4 shui3] {cin1 saan1 maan6 seoi2} /(expr. idiom.) voyage long et dur/(lit.) mille montagnes et dix-mille eaux/
-????f 千揀萬揀,揀着個爛燈盞 千拣万拣,拣着个烂灯盏 [qian1 jian3 wan4 jian3 , jian3 zhe5 ge4 lan4 deng1 zhan3] {cin1 gaan2 maan6 gaan2 ,gaan2 zoek6 go3 laan6 dang1 zaan2} /(expr. idiom.) après plusieurs séries de décisions, choisir la pire des choix/(lit.) mille choix, dix-mille choix, choisir l'ampoule grillée/
+????f 千揀萬揀，揀着個爛燈盞 千拣万拣，拣着个烂灯盏 [qian1 jian3 wan4 jian3 , jian3 zhe5 ge4 lan4 deng1 zhan3] {cin1 gaan2 maan6 gaan2 ,gaan2 zoek6 go3 laan6 dang1 zaan2} /(expr. idiom.) après plusieurs séries de décisions, choisir la pire des choix/(lit.) mille choix, dix-mille choix, choisir l'ampoule grillée/
 千斤 千斤 [qian1 jin1] {cin1 gan1} /unité de mesure équivalent à 500kg/(par extension) très lourd/
 千祁 千祁 [qian1 qi2] {cin1 kei4} /absolument; devoir/
 千祈 千祈 [qian1 qi2] {cin1 kei4} /absolument; devoir/
@@ -7989,7 +7989,7 @@
 急 急 [ji2] {gap1} /avoir besoin d'évacuer des excréments; avoir besoin de chier; avoir besoin de déféquer/avoir besoin d'uriner; avoir besoin de pisser/
 急不及待 急不及待 [ji2 bu4 ji2 dai4] {gap1 bat1 kap6 doi6} /(expr.) avoir hâte de; être impatient de/
 急凍 急冻 [ji2 dong4] {gap1 dung3} /geler; congeler; surgeler/gelé; congelé; surgelé/
-急凍食物 急冻食物 [ji2 dong4 shi2 wu4] {gap1 dung3 sik6 mat6} /aliment congelé/
+????f 急凍食物 急冻食物 [ji2 dong4 shi2 wu4] {gap1 dung3 sik6 mat6} /aliment congelé; aliment surgelé/
 ????f 急到爆缸 急到爆缸 [ji2 dao4 bao4 gang1] {gap1 dou3 baau3 gong1} /(expr. idiom.) très urgent; qui a besoin d'être résolu immédiatement/(lit.) se sentir comme si l'on explosait quand on a besoin d'aller aux toilettes/
 急口令 急口令 [ji2 kou3 ling4] {gap1 hau2 ling6} /virelangue; casse-langue; fourchelangue/
 急就章 急就章 [ji2 jiu4 zhang1] {gap1 zau6 zoeng1} /improvisation; faire quelque chose de manière précipitée/(lit.) rédaction écrite rapidement/
@@ -10779,7 +10779,7 @@
 有錢 有钱 [you3 qian2] {jau5 cin2} /riche/
 ????f 有錢出錢，有力出力 有钱出钱，有力出力 [you3 qian2 chu1 qian2 , you3 li4 chu1 li4] {jau5 cin2 ceot1 cin2 jau5 lik6 ceot1 lik6} /(expr. idiom.) donner ce que l'on peut; faire tout ce que l'on peut pour aider/(lit.) si l'on a de l'argent on donne de l'argent — si l'on a de la force on utilise sa force/
 有錢駛得鬼推磨 有钱驶得鬼推磨 [you3 qian2 shi3 de5 gui3 tui1 mo2] {jau5 cin2 sai2 dak1 gwai2 teoi1 mo4} /(expr. idiom.) l'argent fait tourner le monde; avec l'argent, tout est possible/(lit.) avec l'argent on peut forcer un fantôme à pousser une meule/ 
-有關 有关 [you3 guan1] {jau5 gwaan1} /concerné; touché; en cause/pertinent/avoir à voir avec; être en rapport avec; concerner/
+有關 有关 [you3 guan1] {jau5 gwaan1} /concerné; touché; en cause/pertinent/avoir à voir avec; être en rapport avec; concerner; avoir rapport à; être lié à/
 有關方面 有关方面 [you3 guan1 fang1 mian4] {jau5 gwaan1 fong1 min6} /parties intéressées; personnes intéressées/
 有限小數 有限小数 [you3 xian4 xiao3 shu4] {jau5 haan6 siu2 sou3} /décimale finie/
 有陣時 有阵时 [you3 zhen4 shi2] {jau5 zan6 si4} /parfois; quelquefois/
@@ -13191,7 +13191,7 @@
 燈火輝煌 灯火辉煌 [deng1 huo3 hui1 huang2] {dang1 fo2 fai1 wong4} /(lieu) resplendissant et animé; brillament éclairé et florissant/
 燈盞花 灯盏花 [deng1 zhan3 hua1] {dang1 zaan2 faa1} /(espèce de fleurs) Erigeron breviscapus/(lit.) fleur (en forme d') ampoule/
 燈籠椒 灯笼椒 [deng1 long5 jiao1] {dang1 lung4 ziu1} /poivron/(lit.) poivre en forme de lanterne céleste/
-????f 燈紅酒綠 灯红酒绿 [deng1 hong2 jiu3 lu:4] {dang1 hung4 zau2 luk6} /(expr. idiom.) festin; fêtes; bacchanale; fête débridée/(lit.) lanternes rouges, vins verts/
+????f 燈紅酒綠 灯红酒绿 [deng1 hong2 jiu3 lu:4] {dang1 hung4 zau2 luk6} /(expr. idiom.) festin; fêtes; bacchanale; fête débridée (avec une connotation d'immoralité)/(lit.) lanternes rouges, vins verts/
 燈膽 灯胆 [deng1 dan3] {dang1 daam2} /ampoule électrique/
 燈芯拎成鐵 灯芯拎成铁 [deng1 xin1 lin1 cheng2 tie3] {dang1 sam1 ling1 sing4 tit3} /(expr. idiom.) après un long voyage (ou après longtemps), même un poids léger devient un fardeau/(lit.) porter une mèche de lampe jusqu'à ce qu'elle devienne du métal/
 燈飾 灯饰 [deng1 shi4] {dang1 sik1} /installations lumineuses; décorations lumineuses (ex. guirlande lumineuse de Noël)/
@@ -14260,7 +14260,7 @@
 發木獨 发木独 [fa1 mu4 du2] {faat3 muk6 duk6} /distrait; étourdi; hébété/
 發水 发水 [fa1 shui3] {faat3 seoi2} /inonder/(fig.) gonfler (les statistiques, etc.)/
 發水樓 发水楼 [fa1 shui3 lou2] {faat3 seoi2 lau4} /(expr.) logement, appartement ou édifice dont la superficie annoncée est plus grande qu'elle ne l'est en réalité/(lit.) édifice gonflé/
-發泡膠盒 发泡胶盒 [fa1 pao4 jiao1 he2] {faat3 pou5 gaau1 hap2} /contenant polystyrène; contenant de styromousse; boîte en styromousse/
+????f 發泡膠盒 发泡胶盒 [fa1 pao4 jiao1 he2] {faat3 pou5 gaau1 hap2} /contenant polystyrène; contenant de styromousse; boîte en styromousse/
 發熱絲 发热丝 [fa1 re4 si1] {faat3 jit6 si1} /élément chauffant/
 發燒友 发烧友 [fa1 shao1 you3] {faat3 siu1 jau5} /fan; passioné; adepte/accro; fou; mordu (de quelque chose)/
 發爛渣 发烂渣 [fa1 lan4 zha1] {faat3 laan6 zaa2} /piquer une crise; s'emporter; se mettre en colère; se fâcher/
@@ -16497,7 +16497,7 @@
 肉碎 肉碎 [rou4 sui4] {juk6 seoi3} /hachis de viande; viande hachée/
 肉粒 肉粒 [rou4 li4] {juk6 lap1} /viande en dés; viande en cubes/acrochordon; molluscum pendulum; polype fibroépithélial; tétine/
 ????f 肉絲炒麵 肉丝炒面 [rou4 si1 chao3 mian4] {juk6 si1 caau2 min6} /chow mein au bœuf en lanières/
-肉緊 肉紧 [rou4 jin3] {juk6 gan2} /être très préoccupé par; se soucier beaucoup de/très impatient; très enthousiaste/
+肉緊 肉紧 [rou4 jin3] {juk6 gan2} /être très préoccupé par; se soucier beaucoup de/
 肉色 肉色 [rou4 se4] {juk6 sik1} /couleur pêche; couleur chair/
 肉蟹 肉蟹 [rou4 xie4] {juk6 haai5} /Scylla serrata; crabe des palétuviers; crabe de mangrove/
 肉赤 肉赤 [rou4 chi4] {juk6 cek3} /réticent (à faire quelque chose)/peiner; faire mal; faire de la peine; attrister/(note d'usage: cette expression s'emploie généralement pour une situation où quelqu'un doit dépenser de l'argent ou se séparer d'un objet de valeur/(lit.) faire mal à la chair/
@@ -16703,14 +16703,14 @@
 膠叉 膠叉 [hao2 cha1] {gaau1 caa1} /fourchette en plastique/
 膠喉 胶喉 [Jiao1 hou2] {gaau1 hau4} /tuyau d'arrosage en plastique/
 膠喉 膠喉 [hao2 hou2] {gaau1 hau4} /tuyau d'arrosage en plastique/
-膠套 膠套 [hao2 tao4] {gaau1 tou3} /couvercle en plastique; pochette en plastique; fourreau en plastique/sac en plastique/
+膠套 膠套 [hao2 tao4] {gaau1 tou3} /pochette en plastique/sac en plastique/
 膠拖 膠拖 [hao2 tuo1] {gaau1 to1} /tongs en plastique; tongs en caoutchouc/
 膠擦 膠擦 [hao2 ca1] {gaau1 caat3} /gomme; gomme à effacer/
 膠杯 胶杯 [jiao1 bei1] {gaau1 bui1} /gobelet en plastique/
 膠枱布 膠枱布 [hao2 si4 bu4] {gaau1 toi2 bou3} /nappe en plastique/
 膠桶 膠桶 [hao2 tong3] {gaau1 tung2} /seau en plastique/
 膠樽 膠樽 [hao2 zun1] {gaau1 zeon1} /bouteille en plastique/
-膠盒 膠盒 [hao2 he2] {gaau1 hap6} /boîte en plastique/
+膠盒 膠盒 [hao2 he2] {gaau1 hap2} /boîte en plastique/
 膠眼鏡 膠眼镜 [hao2 yan3 jing4] {gaau1 ngaan5 geng2} /lunettes en plastique/
 膠碟 膠碟 [hao2 die2] {gaau1 dip6} /assiettes en plastique/
 膠紙 胶纸 [jiao1 zhi3] {gaau1 zi2} /ruban adhésif; scotch/
@@ -18655,7 +18655,7 @@
 ????f 貴夾唔飽 贵夹唔饱 [gui4 jia1 n2 bao3] {gwai3 gaap3 m4 baau2} /(expr.) (repas ou nourriture) coûteux et pas très nourrissant/
 貴妃牀 贵妃床 [gui4 fei1 chuang2] {gwai3 fei1 cong4} /banquette traditionelle en bois/
 貴妃蚌 贵妃蚌 [gui4 fei1 bang4] {gwai3 fei1 pong5} /(espèce de mollusques) Mactra antiquata/
-????f 貴姓名 贵姓名 [gui4 xing4 ming2] {gwai3 sing3 ming4} /(poli) votre nom/
+????f 貴姓名 贵姓名 [gui4 xing4 ming2] {gwai3 sing3 ming4} /(poli) votre nom (voir aussi 小姓|小姓)/
 ????f 貴庚 贵庚 [gui4 geng1] {gwai3 gang1} /(poli) votre âge/
 ????c 貴格 贵格 [gui4 ge2] {gwai3 gaak3} /upmarket; high-end; opulent; plush; sumptuous/
 貴細 贵细 [gui4 xi4] {gwai3 sai3} /poli; délicat; gracieux; cultivé/
