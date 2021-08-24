@@ -63,7 +63,7 @@
 一元方程 一元方程 [yi1 yuan2 fang1 cheng2] {jat1 jyun4 fong1 cing4} /équation à une inconnue/équation du second degré/
 一兆 一兆 [yi1 zhao4] {jat1 siu6} /(échelle longue) billion; (échelle courte) trillion; 1 000 000 000/
 一共 一共 [yi1 gong4] {jat1 gung6} /somme/en total/
-一凹一凸 一凹一凸 [yi1 ao1 yi1 tu1] {jat1 nap1 jat1 dat6} /(personnes) compatibles/rugueux; bosselé; rêche/(lit.) un qui a creux, un qui saillit/
+一凹一凸 一凹一凸 [yi1 ao1 yi1 tu1] {jat1 nap1 jat1 dat6} /(personnes) compatibles/rugueux; bosselé; rêche/(lit.) un qui a creux, un qui fait saillie/
 一分 一分 [yi1 fen4] {jat1 fan1} /une minute/un point/un centime/
 一分一秒 一分一秒 [yi1 fen1 yi1 miao3] {jat1 fan1 jat1 miu5} /au fil des temps; au fil du temps/
 ????f 一分錢一分貨 一分钱一分货 [yi1 fen1 qian2 yi1 fen1 huo4] {jat1 fan1 cin4 jat1 fan1 fo3} /(expr. idiom.) vous obtenez ce que vous payez/(lit.) une marchandise pour chaque centime/
@@ -7343,7 +7343,7 @@
 師範 师范 [shi1 fan4] {si1 faan6} /école normale (voir aussi 師範學校|师范学校)/
 師範學校 师范学校 [shi1 fan4 xue2 xiao4] {si1 faan6 hok6 haau6} /école normale; institut pédagogique/
 席不暇暖 席不暇暖 [xi2 bu4 xia2 nuan3] {zik6 bat1 haa6 nyun5} /(expr. idiom.) très occupé/(lit.) ne pas s'asseoir assez longtemps pour chauffer la siège/
-席卷一空 席卷一空 [xi2 juan3 yi1 kong1] {zik6 gyun2 jat1 hung1} /(expr.) tout prendre; tout voler/
+席卷一空 席卷一空 [xi2 juan3 yi1 kong1] {zik6 gyun2 jat1 hung1} /(expr.) tout prendre; tout voler; rafler/
 席地 席地 [xi2 di4] {zik6 dei6} /s'asseoir par terre/
 席次 席次 [xi2 ci4] {zik6 ci3} /plan de table/
 席豐履厚 席丰履厚 [xi2 feng1 lu:3 hou4] {zik6 fung1 lei5 hau5} /(expr. idiom.) se dorloter; vivre une vie confortable/
@@ -11390,7 +11390,7 @@
 橫亘 横亘 [heng2 gen4] {waang4 gang2} /(litt.) enjamber/
 ????f 橫切面 横切面 [heng2 qie1 mian4] {waang4 cit3 min6} /coupe transversale/
 橫咗 橫咗 [guang1 zuo5] {waang1 zo2} /rater; ne pas réussir/
-????f 橫𠶧 横𠶧 [heng2 dian1] {waang4 dim6} /il est inévitable que; de toute façon; étant donné que/
+????f 橫𠶧 横𠶧 [heng2 dian1] {waang4 dim6} /puisque; comme; de toute façon; étant donné que/
 橫巷 横巷 [heng2 xiang4] {waang4 hong2} /petite ruelle/
 ????f 橫徵暴斂 横征暴敛 [heng2 zheng1 bao4 lian3] {waang4 zing1 bou6 lim5} /(expr. idiom.) imposer des taxes exorbitantes/
 橫手 橫手 [guang1 shou3] {waang4 sau2} /(fig.) sales tours; choses illégales (voir 出橫手|出橫手 et 使橫手|使橫手)/
