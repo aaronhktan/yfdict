@@ -9511,7 +9511,7 @@
 搵錢 揾钱 [wen4 qian2] {wan2 cin2} /gagner de l'argent; faire de l'argent/tourner un profit; réaliser un profit/
 搶劫犯 抢劫犯 [qiang3 jie2 fan4] {coeng2 gip3 faan6} /voleur; cambrioleur/
 ????f 搶包山 抢包山 [qiang3 bao1 shan1] {coeng2 baau1 saan1} /Cheung Chau Bun Festival (« fête des petits pains de Cheung Chau »), tradition de l'île de Cheung Chau qui consiste à grimper sur des tours de bambou décorée avec de petits pains/
-????f 搶嘢 抢嘢 [qiang3 ye3] {coeng2 je5} /voler par la force; prendre par la force/
+????f 搶嘢 抢嘢 [qiang3 ye3] {coeng2 je5} /voler par la force; prendre par la force; prendre de force/
 ????f 搶手貨 抢手货 [qiang3 shou3 huo4] {coeng2 sau2 fo3} /meilleure vente; best-seller; l'article le plus populaire/
 搶火 抢火 [qiang3 huo3] {coeng2 fo2} /embrasement éclair; embrasement généralisé éclair; flashover/
 搶鏡 抢镜 [qiang3 jing4] {coeng2 geng3} /voler la vedette; accaparer l'attention du public/
@@ -10031,7 +10031,7 @@
 故 故 [gu4] {gu3} /donc; par conséquent/décédé/
 故仔 故仔 [gu4 zi3] {gu2 zai2} /petite histoire; fable; conte/
 故鄉 故乡 [gu4 xiang1] {gu3 hoeng1} /ville natale/
-????f 效力 效力 [xiao4 li4] {haau6 lik6} /puissance; force/effet/servir; travailler pour (une organisation ou entreprise); s'acquitter de certaines obligations envers un organisation/
+????f 效力 效力 [xiao4 li4] {haau6 lik6} /effet/efficacité/servir; travailler pour (une organisation ou entreprise); s'acquitter de certaines obligations envers un organisation/
 效能 效能 [xiao4 neng2] {haau6 nang4} /efficacité/
 ????f 效顰 效颦 [xiao4 pin2] {haau6 pan4} /crudely imitate (something)/
 ????c 啟稟 启禀 [qi3 bing3] {kai2 ban2} /rendre compte à quelqu'un/
@@ -14483,9 +14483,9 @@
 ????f 監熱食 监热食 [jian1 re4 shi2] {gaam3 jit6 sik6} /manger tant que (le repas) est chaud/
 監犯 监犯 [jian1 fan4] {gaam1 faan2} /prisonnier; détenu/
 監生 监生 [jian4 sheng1] {gaam3 sang1} /vivant; toujours en vie/avec force/
-監硬 监硬 [jian1 ying4] {gaam1 ngaang6} /forcefully; without consent (spoken)/
+監硬 监硬 [jian1 ying4] {gaam1 ngaang6} /astreindre; contraindre; obliger/
 ????f 監粗來 监粗来 [jian1 cu1 lai2] {gaam3 cou1 lei4} /faire par la force; forcer/ 
-????f 監粗嚟 监粗嚟 [jian1 cu1 li2] {gaam3 cou1 lai2} /faire par la force; forcer/
+????f 監粗嚟 监粗嚟 [jian1 cu1 li2] {gaam3 cou1 lei4} /faire par la force; forcer/
 監護病房 监护病房 [jian1 hu4 bing4 fang2] {gaam1 wu6 beng6 fong2} /unité de soins intensifs/
 監頭 监头 [jian1 tou2] {gaam1 tau2} /gardien de prison/
 盤 盘 [pan2] {pun4} /territoire/chantier (de construction)/questionner; interroger/
@@ -17917,7 +17917,7 @@
 西岸 西岸 [xi1 an4] {sai1 ngon6} /partie ouest du Bund de Shanghai/côte ouest/
 西布朗 西布朗 [xi1 bu4 lang2] {sai1 bou3 long5} /West Bromwich, ville britannique/
 西斜 西斜 [xi1 xie2] {sai1 ce4} /(chambre ou appartement) orienté ouest; avoir les fenêtres du côté ouest/
-????f 西斜熱 西斜热 [xi1 xie2 re4] {sai1 ce4 jit6} /chauffement causé par un coucher de soleil/
+????f 西斜熱 西斜热 [xi1 xie2 re4] {sai1 ce4 jit6} /chauffement causé par un coucher du soleil/
 西方國家 西方国家 [xi1 fang1 guo2 jia1] {sai1 fong1 gwok3 gaa1} /pays occidentaux/
 西曬 西晒 [xi1 shai4] {sai1 saai3} /(chambre ou appartement) orienté ouest; avoir les fenêtres du côté ouest/
 西梅 西梅 [xi1 mei2] {sai1 mui2} /pruneau/
@@ -18064,7 +18064,7 @@
 計條數 计条数 [ji4 tiao2 shu4] {gai3 tiu4 sou3} /calculer/
 計正 计正 [ji4 zheng4] {gai3 zing3} /normalement; habituellement/raisonnablement; avec raison; logiquement/
 計落 计落 [ji4 luo4] {gai3 lok6} /tout bien considéré; tout compte fait; somme toute/
-討 讨 [tao3] {tou2} /inviter/provoquer/demander/réprimer par force/dénoncer; condamner/épouser une femme/discuter/étudier/supplier; implorer/
+討 讨 [tao3] {tou2} /inviter/provoquer/demander/réprimer par la force/dénoncer; condamner/épouser une femme/discuter/étudier/supplier; implorer/
 討價 讨价 [tao3 jia4] {tou2 gaa3} /marchander; négocier un prix/
 討價還價 讨价还价 [tao3jia4huan2jia4] {tou2 gaa3 waan4 gaa3} /(expr.) marchander; négocier un prix/
 ????f 訓導主任 训导主任 [xun4 dao3 zhu3 ren4] {fan3 dou6 zyu2 jam6} /doyen des étudiants (d'une école primaire ou secondaire)/
@@ -18399,13 +18399,13 @@
 警員 警员 [jing3 yuan2] {ging2 jyun4} /policier, policière/
 ????f 警崗 警岗 [jing3 gang1] {ging2 gong1} /guérite de police (police post, like the ones that are the size of a telephone box)/
 警惕 警惕 [jing3 ti4] {ging2 tik1} /milieux policiers/
-警界 警界 [jing3 jie4] {ging2 gaai3} /police force/
+????c 警界 警界 [jing3 jie4] {ging2 gaai3} /forces de police/
 警署 警署 [jing3 shu3] {ging2 cyu5} /commisariat de police; poste de police/
 警花 警花 [jing3 hua1] {ging2 faa1} /jolie policière/
 警衞 警卫 [jing3 wei4] {ging2 wai6} /agent de sécurité/
 警覺性 警觉性 [jing3 jue2 xing4] {ging2 gok3 sing3} /vigilance/
 警長 警长 [jing3 zhang3] {ging2 zoeng2} /sergent/
-警隊 警队 [jing3 dui4] {ging2 deoi2} /force policière/
+警隊 警队 [jing3 dui4] {ging2 deoi2} /forces de police/
 警隊博物館 警队博物馆 [jing3 dui4 bo2 wu4 guan3] {ging2 deoi2 bok3 mat6 gun2} /The Police Museum of Hong Kong (« Musée de la Police de Hong Kong »)/
 譯本 译本 [yi4 ben3] {jik6 bun2} /traduction (d'un livre)/
 譯碼 译码 [yi4 ma3] {jik6 maa5} /déchiffrer; décoder/décodage/
@@ -18717,7 +18717,7 @@
 賞金 赏金 [shang3 jin1] {soeng2 gam1} /récompense financière; récompense monétaire/
 賞鑒 赏鉴 [shang3 jian4] {soeng2 gaam3} /apprécier une œuvre d'art/
 賞面 赏面 [shang3 mian4] {soeng2 min6} /faire l'honneur (à quelqu'un)/
-賠償 赔偿 [pei2 chang2] {pui4 soeng4} /réparations/compensation; indemnisation/
+賠償 赔偿 [pei2 chang2] {pui4 soeng4} /compensation; indemnisation/
 ????c 賠湯藥 赔汤药 [pei2 tang1 yao4] {pui4 tong1 joek6} /to compensate someone for their injuries by paying for their medical fee/
 賠率 赔率 [pei2 lu:4] {pui4 leot2} /cotes de paris/
 賢德 贤德 [xian2 de2] {jin4 dak1} /vertueux; au grand cœur/
@@ -22371,7 +22371,7 @@
 黃子華 黄子华 [huang2 zi3 hua2] {wong4 zi2 waa4} /Dayo Wong Tze Wah, acteur et chanteur hongkongais/
 黃宗澤 黄宗泽 [huang2 zong1 ze2] {wong4 zung1 zaak6} /Bosco Wong Chung-chak, acteur et chanteur hongkongais/
 黃家駒 黄家驹 [huang2 jia1 ju1] {wong4 gaa1 keoi1} /Wong Ka Kui, chanteur hongkongais/
-黃昏 黄昏 [huang2 hun1] {wong4 fan1} /crépuscule/couchée du soleil/
+黃昏 黄昏 [huang2 hun1] {wong4 fan1} /crépuscule/coucher du soleil/
 黃朝百晏 黄朝百晏 [huang2 chao2 bai3 yan4] {wong4 ziu1 baak3 ngaan3} /(expr.) (faire la) grasse matinée/(lit.) matin jaune après-midi blanc/
 黃毓民 黄毓民 [huang2 yu4 min2] {wong4 juk1 man4} /Raymond Wong Yuk-man, politicien hongkongais/
 ????f 黃泡仔 黄泡仔 [huang2 pao1 zi3] {wong4 paau1 zai2} /homme atteint d'œdème/
