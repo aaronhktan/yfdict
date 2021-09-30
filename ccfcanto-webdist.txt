@@ -1250,7 +1250,7 @@
 今次 今次 [jin1 ci4] {gam1 ci3} /cette fois-ci/
 今鋪 今铺 [jin1 pu4] {gam1 pou1} /cette fois-ci/
 介乎 介乎 [jie4 hu1] {gaai3 fu4} /entre/
-介紹人 介绍人 [jie4 shao4 ren2] {gaai3 siu6 jan4} /personne qui recommande ou qui présente quelqu'un/entremetteur, entremetteuse/
+????f 介紹人 介绍人 [jie4 shao4 ren2] {gaai3 siu6 jan4} /personne qui recommande ou qui présente quelqu'un/entremetteur, entremetteuse/
 介紹信 介绍信 [jie4 shao4 xin4] {gaai3 siu6 seon3} /lettre de référence; lettre de recommendation/
 仔 仔 [zi3] {zai2} /fils/copain; petit ami/
 仔乸 仔乸 [zi3 na2] {zai2 naa2} /mère et fils/
@@ -1563,7 +1563,7 @@
 來之不易 来之不易 [lai2 zhi1 bu4 yi4] {loi4 zi1 bat1 ji6} /(expr. idiom.) difficile; durement gagné/(lit.) qui ne vient pas facilement/
 來人 来人 [lai2 ren2] {loi4 jan4} /(expression utilisée pour appeler un(e) domestique)/messager/
 ????f 來勢 来势 [lai2 shi4] {loi4 sai3} /force d'un objet en approche/
-????f 來料加工 来料加工 [lai2 liao4 jia1 gong1] {loi4 liu2 gaa1 gung1} /préparer une commande avec du matériau fourni par le client/
+????f 來料加工 来料加工 [lai2 liao4 jia1 gong1] {loi4 liu2 gaa1 gung1} /traiter une commande avec du matériau fourni par le client/
 來檬 来檬 [lai2 meng2] {loi4 mung1} /citrus aurantiifolia, le limettier/
 來歷 来历 [lai2 li4] {loi4 lik6} /origine; histoire (de quelqu'un ou quelque chose)/
 來源 来源 [lai2 yuan2] {loi4 jyun4} /venir de; être issu de; être originaire de; provenir de/origine; source; provenance/
@@ -1656,7 +1656,7 @@
 保持者 保持者 [bao3 chi2 zhe3] {bou2 ci4 ze2} /le responsable de la tenue des registres/
 保溫杯 保温杯 [bao3 wen1 bei1] {bou2 wan1 bui1} /bouteille isotherme; bouteille thermos/
 保育員 保育员 [bao3 yu4 yuan2] {bou2 juk6 jyun4} /gouvernante; travailleur de la garderie/
-保薦 保荐 [bao3 jian4] {bou2 zin3} /recommander; soutenir (quelqu'un)/
+保薦 保荐 [bao3 jian4] {bou2 zin3} /recommander (quelqu'un)/
 保衞 保卫 [bao3 wei4] {bou2 wai6} /défendre/
 保證書 保证书 [bao3 zheng4 shu1] {bou2 zing3 syu1} /lettre de garantie/
 保護裝置 保护装置 [bao3 hu4 zhuang1 zhi4] {bou2 wu6 zong1 zi3} /équipement de protection/
@@ -16192,7 +16192,7 @@
 美心西餅 美心西饼 [mei3 xin1 xi1 bing3] {mei5 sam1 sai1 beng2} /Maxim's Cakes, chaîne de boulangeries hongkongaise/
 美籍華人 美籍华人 [mei3 ji2 hua2 ren2] {mei5 zik6 waa4 jan4} /Sino-américain, Sino-américaine/
 ????f 美育 美育 [mei3 yu4] {mei5 juk6} /Aesthetic education; art education/
-美言 美言 [mei3 yan2] {mei5 jin4} /recommander (quelqu'un)/belles paroles; beaux mots/
+????f 美言 美言 [mei3 yan2] {mei5 jin4} /recommander (quelqu'un)/belles paroles; beaux mots/
 美麗華酒店 美丽华酒店 [mei3 li4 hua2 jiu3 dian4] {mei5 lai6 waa4 zau2 dim3} /The Mira Hong Kong, hôtel situé à Hong Kong/
 ????c 羒 羒 [fen2] {fan1, fan4} /a white Ram; an ewe (a fully matured female sheep)/
 ????c 羕 羕 [yang4] {joeng6} /flowing water/
@@ -17226,7 +17226,7 @@
 落去 落去 [luo4 qu4] {lok6 heoi3} /descendre/(en particulier) descendre l'escalier/
 落口供 落口供 [luo4 kou3 gong4] {lok6 hau2 gung1} /(police) recueillir une déclaration/
 落吧 落吧 [luo4 ba5] {lok6 baa1} /aller au bar/
-????f 落單 落单 [luo4 dan1] {lok6 daan1} /commander (quelque chose); passer une commande/(restauration) prendre une commande; noter une commande/
+????f 落單 落单 [luo4 dan1] {lok6 daan1} /faire une commande; commander (quelque chose); passer une commande/(en particulier) commander à manger; commander de la nourriture/
 落嘴頭 落嘴头 [luo4 zui3 tou2] {lok6 zeoi2 tau4} /essayer de persuader; essayer de convaincre; essayer d'amadouer (quelqu'un)/
 ????f 落嚟 落嚟 [luo4 li2] {lok6 lai4} /descendre (et venir vers le locuteur)/descends! (vers moi!)/
 ????f 落堂 落堂 [luo4 tang2] {lok6 tong4} /(d'une classe) terminer/
