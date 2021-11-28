@@ -7269,7 +7269,7 @@
 差皮 差皮 [cha1 pi2] {caa1 pei4} /mauvais; de mauvaise qualité/
 ????f 差餉 差饷 [chai1 xiang3] {caai1 hoeng2} /(Hong Kong) « Rates », une taxe d'habitation à Hong Kong/
 差館 差馆 [chai1 guan3] {caai1 gun2} /poste de police; commissariat de police/
-已 已 [yi3] {ji5} /(indique une action faite dans le passé) déjà/
+已 已 [yi3] {ji5} /(indique une action faite par le passé) déjà/
 巴伐洛堤 巴伐洛堤 [ba1 fa2 luo4 di1] {baa1 fat6 lok3 tai4} /Pavarotti, ténor italien/
 巴喳 巴喳 [ba1 zha1] {baa1 zaa1} /(femme) trop bavard; déraisonnable; bruyant/
 巴士佬 巴士佬 [ba1 shi4 lao3] {baa1 si2 lou2} /(fam.) (un peu péj.) conducteur d'autobus/
@@ -7699,11 +7699,11 @@
 影醜 影丑 [ying3 chou3] {jing2 cau2} /entacher l'image de; faire honte à; ruiner sa réputation/
 往常 往常 [wang3 chang2] {wong5 soeng4} /comme toujours; comme d'habitude/
 往往 往往 [wang3 wang3] {wong5 wong5} /parfois, de temps à l'autre, de temps en temps/
-往日 往日 [wang3 ri4] {wong5 jat6} /dans le passé; par la passé; autrefois; jadis/
-往時 往时 [wang3 shi2] {wong5 si4} /le passé/dans le passé; par le passé; autrefois; jadis/
+往日 往日 [wang3 ri4] {wong5 jat6} /dans le passé; par le passé; autrefois; jadis/
+往時 往时 [wang3 shi2] {wong5 si4} /le passé/dans le passé; autrefois; jadis/
 往灣洲 往湾洲 [wang3 wan1 zhou1] {wong5 waan1 zau1} /Wong Wan Chau ou « Double Island », île de Hong Kong/
-往陣 往阵 [wang3 zhen4] {wong5 zan2} /dans le passé; par le passé; autrefois/
-往陣時 往阵时 [wang3 zhen4 shi2] {wong5 zan6 si4} /dans le passé; par le passé; autrefois/
+往陣 往阵 [wang3 zhen4] {wong5 zan2} /dans le passé; autrefois/
+往陣時 往阵时 [wang3 zhen4 shi2] {wong5 zan6 si4} /dans le passé; autrefois/
 ????f 待慢 待慢 [dai4 man4] {doi6 maan6} /négliger (quelqu'un); faire attendre les gens; fournir un mauvais service/
 待薄 待薄 [dai4 bo2] {doi6 bok6} /maltraiter; traiter injustement/
 ????f 徇眾要求 徇众要求 [xun4 zhong4 yao1 qiu2] {seon1 zung3 jiu1 kau4} /(expr.) comme les gens ont voulu/
@@ -7989,7 +7989,7 @@
 急 急 [ji2] {gap1} /avoir besoin d'évacuer des excréments; avoir besoin de chier; avoir besoin de déféquer/avoir besoin d'uriner; avoir besoin de pisser/
 急不及待 急不及待 [ji2 bu4 ji2 dai4] {gap1 bat1 kap6 doi6} /(expr.) avoir hâte de; être impatient de/
 急凍 急冻 [ji2 dong4] {gap1 dung3} /geler; congeler; surgeler/gelé; congelé; surgelé/
-????f 急凍食物 急冻食物 [ji2 dong4 shi2 wu4] {gap1 dung3 sik6 mat6} /aliment congelé; aliment surgelé/
+急凍食物 急冻食物 [ji2 dong4 shi2 wu4] {gap1 dung3 sik6 mat6} /produit alimentaire surgelé/
 ????f 急到爆缸 急到爆缸 [ji2 dao4 bao4 gang1] {gap1 dou3 baau3 gong1} /(expr. idiom.) très urgent; qui a besoin d'être résolu immédiatement/(lit.) se sentir comme si l'on explosait quand on a besoin d'aller aux toilettes/
 急口令 急口令 [ji2 kou3 ling4] {gap1 hau2 ling6} /virelangue; casse-langue; fourchelangue/
 急就章 急就章 [ji2 jiu4 zhang1] {gap1 zau6 zoeng1} /improvisation; faire quelque chose de manière précipitée/(lit.) rédaction écrite rapidement/
@@ -18426,7 +18426,7 @@
 ????f 讀破字膽 读破字胆 [du2 po4 zi4 dan3] {duk6 po3 zi6 daam2} /(fig.) lire un mot complètement de travers; mal lire un mot/(lit.) mal lire un mot à tel point que la vésicule biliaire du mot éclate/ 
 讀者來信 读者来信 [du2 zhe3 lai2 xin4] {duk6 ze2 loi4 seon3} /courrier des lecteurs/
 讀者群 读者群 [du2 zhe3 qun2] {duk6 ze2 kwan4} /lectorat/
-讀過 读过 [du2 guo4] {duk6 gwo3} /avoir déjà lu dans le passé/
+讀過 读过 [du2 guo4] {duk6 gwo3} /avoir déjà lu par le passé/
 讀默 读默 [du2 mo4] {duk6 mak6} /(exercice scolaire) dictée/
 變化無常 变化无常 [bian4 hua4 wu2 chang2] {bin3 faa3 mou4 soeng4} /en constante évolution/
 變心 变心 [bian4 xin1] {bin3 sam1} /cesser d'aimer quelqu'un/cesser d'être fidèle/
