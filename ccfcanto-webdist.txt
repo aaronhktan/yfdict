@@ -2636,7 +2636,7 @@
 出力 出力 [chu1 li4] {ceot1 lik6} /faire des efforts/
 ????f 出勤率 出勤率 [chu1 qin2 lu:4] {ceot1 kan4 leot2} /(attendance rate, for a school, work, churche, etc.)/
 出千 出千 [chu1 qian1] {ceot1 cin1} /(jeux d'argent) tricher; escroquer; arnaquer/
-出去 出去 [chu1 qu4] {ceot1 heoi3} /sortir; partir/
+出去 出去 [chu1 qu4] {ceot1 heoi3} /sortir (de l'intérieur à l'extérieur); partir/
 出名 出名 [chu1 ming2] {ceot1 meng2} /célèbre; connu/
 出嘢 出嘢 [chu1 ye3] {ceot1 je5} /(rare) réaliser quelque chose; créer quelque chose/(vulg.) (fig.) éjaculer/(lit.) sortir une chose/
 出嚟 出嚟 [chu1 li2] {ceot1 lei4} /sortir/
@@ -8579,7 +8579,7 @@
 打埋 打埋 [da3 mai2] {daa2 maai4} /avec; inclus/
 打壞 打坏 [da3 huai4] {daa2 waai6} /briser/(péj.) (du physique) faible; déformé/
 ????f 打大交 打大交 [da3 da4 jiao1] {daa2 daai6 gaau1} /se battre avec quelqu'un (to get into a big fight)/
-打大翻 打大翻 [da3 da4 fan1] {daa2 daai6 faan1} /faire un saut périlleux/
+????f 打大翻 打大翻 [da3 da4 fan1] {daa2 daai6 faan1} /faire un saut périlleux/(voir aussi 打關斗|打關斗 – 打大翻 implique un plus grand mouvement ou un tournement plus impressionnant que 打關斗)/
 打大赤肋 打大赤肋 [da3 da4 chi4 le1] {daa2 daai6 cek3 laak3} /torse nu/aux seins nus/
 打大赤腳 打大赤脚 [da3 da4 chi4 jiao3] {daa2 daai6 cek3 goek3} /marcher pieds nus; enlever ses souliers/
 打天下 打天下 [da3 tian1 xia4] {daa2 tin1 haa6} /prendre contrôle d'un pays/conquérir un pays/ouvrir une entreprise/
@@ -8595,20 +8595,20 @@
 打工 打工 [da3 gong1] {daa2 gung1} /travailler; être employé/
 ????c 打工皇帝 打工皇帝 [da3 gong1 huang2 di4] {daa2 gung1 wong4 dai3} /(fig.) entrepreneur autodidacte/(fig.) employé(e) très bien rénuméré(e)/(lit.) employé-roi/
 ????f 打得少 打得少 [da3 de5 shao3] {daa2 dak1 siu2} /qui mérite d'être tabassé/
-????c 打得更多夜又長 打得更多夜又长 [da3 de5 geng4 duo1 ye4 you4 zhang3] {daa2 dak1 gaang1 do1 je6 jau6 coeng4} /(expr. idiom.) parler des choses inutiles est une perte de temps/(lit.) la nuit reste longue même en frappant plus de choses/
+????c 打得更多夜又長 打得更多夜又长 [da3 de5 geng4 duo1 ye4 you4 zhang3] {daa2 dak1 gaang1 do1 je6 jau6 coeng4} /(expr. idiom.) parler de choses inutiles est une perte de temps/(lit.) la nuit reste longue même en frappant plus de choses/
 打思噎 打思噎 [da3 si1 ye1] {daa2 si1 jik1} /hoqueter; avoir le hoquet/
 打思肊 打思肊 [da3 si1 yi4] {daa2 si1 jik1} /hoqueter; avoir le hoquet/
-打打殺殺 打打杀杀 [da3 da3 sha1 sha1] {daa2 daa2 saat3 saat3} /violence/
+打打殺殺 打打杀杀 [da3 da3 sha1 sha1] {daa2 daa2 saat3 saat3} /violence/(lit.) frappe-frappe-tue-tue/
 ????f 打掂 打掂 [da3 dian1] {daa2 dim1} /ériger verticalement; mettre debout/
 打掃 打扫 [da3 sao3] {daa2 sou3} /balayer/faire du rangement; nettoyer/
 ????f 打掣 打掣 [da3 che4] {daa2 zai3} /fermer le commutateur; mettre l'interrupteur en position marche/
 ????f 打救 打救 [da3 jiu4] {daa2 gau3} /sauver; secourir; venir au secours de quelqu'un/
 打敗仗 打败仗 [da3 bai4 zhang4] {daa2 baai6 zoeng3} /tomber malade/être vaincu; perdre une bataille/
-????f 打斧頭 打斧头 [da3 fu3 tou5] {daa2 fu2 tau4} /détourner (les fonds de quelque chose); escroquer; garder une partie de l'argent que l'on est confié avec, qui était censé être utilisé pour acheter quelque chose pour quelqu'un d'autre ou qui devait être partagé avec quelqu'un d'autre/
+????f 打斧頭 打斧头 [da3 fu3 tou5] {daa2 fu2 tau4} /détourner (les fonds de quelque chose); escroquer; garder une partie de l'argent que l'on est confié avec qui était censé être utilisé pour acheter quelque chose pour quelqu'un d'autre ou qui devait être partagé avec quelqu'un d'autre/(lit.) frapper la hache/
 打昂瞓 打昂瞓 [da3 ang2 fen4] {daa2 ngong5 fan3} /dormir sur le dos/
 打晒色 打晒色 [da3 shai4 se4] {daa2 saai3 sik1} /être chef; être leader; prendre les décisions/
 ????f 打格仔 打格仔 [da3 ge2 zi3] {daa2 gaak3 zai2} /pixéliser (une partie d'une image afin de rendre quelque chose méconnaissable/
-????f 打棘 打棘 [da3 ji2] {daa2 kik1} /cheveux pleins de noeuds/(cheveux, câbles) entrelacés; entrecroisés; entre mêlés/
+????f 打棘 打棘 [da3 ji2] {daa2 kik1} /(cheveux, câbles) entrelacés; entrecroisés; entre mêlés; plein de nœuds/
 打機 打机 [da3 ji1] {daa2 gei1} /(fig.) jouer des jeux vidéo/(lit.) frapper les machines/
 ????c 打機室 打机室 [da3 ji1 shi4] {daa2 gei1 sat1} /salle de jeux/
 打橫 打横 [da3 heng2] {daa2 waang4} /horizontal/(fig.) déraisonnable; insensé/
@@ -8688,7 +8688,8 @@
 打鑊金 打镬金 [da3 huo4 jin1] {daa2 wok6 gam1} /(expr. idiom.) tabasser; rouer de coups; péter la gueule à quelqu'un/(lit.) battre le wok/
 打鑼 打锣 [da3 luo2] {daa2 lo2} /(fig.) chercher quelqu'un/faire retentir le gong/
 ????f 打鑼都搵唔到 打锣都揾唔到 [da3 luo2 dou1 wen3 n2 dao4] {daa2 lo2 dou1 wan2 m4 dou2} /(expr. idiom.) chercher partout mais ne pas arriver à trouver ce que l'on cherche/(lit.) ne pas arriver à trouver ce que l'on recherche même en faisant retentir le gong/
-打關斗 打关斗 [da3 guan1 dou4] {daa2 gwaan1 dau2} /faire un saut périlleux/
+打關斗 打关斗 [da3 guan1 dou4] {daa2 gwaan1 dau2} /faire une culbute/faire un saut périlleux/(rarement) faire la roue/(voir aussi 打大翻|打大翻)/
+打筋斗 打筋斗 [da3 jin1 dou3] {daa2 gwaan1 dau2} /faire une culbute/faire un saut périlleux/(rarement) faire la roue/(voir aussi 打大翻|打大翻)/
 打雀噉眼 打雀啖眼 [da3 que4 dan4 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) regarder attentivement; fixer du regard/(lit.) regarder comme un oiseau/
 打電報 打电报 [da3 dian4 bao4] {daa2 din6 bou3} /envoyer un télégramme/
 打電腦遊戲 打电脑游戏 [da3 dian4 nao3 you2 xi4] {daa2 din6 nou5 jau4 hei3} /jouer des jeux vidéos sur PC/
@@ -14532,7 +14533,7 @@
 ????c 直筆甩 直笔甩 [zhi2 bi3 shuai3] {zik6 bat1 lat1} /(se tenir) droit/straight to the point?/
 ????f 直落 直落 [zhi2 luo4] {zik6 lok6} /(fig.) sans pause; sans interruption (s'emploie habituellement en parlant d'une série d'activités pendant une soirée, ex. manger puis écouter un film sans prendre une pause entre les deux activités)/(fam.) (fig.) avoir des relations sexuelles après un rancard/(lit.) descendre en flèche/
 直覺 直觉 [zhi2 jue2] {zik6 gok3} /réflexe; instinct/intuition/sixième sens/
-直資 直资 [zhi2 zi1] {zik6 zi1} /Direct Subsidy Scheme, programme de subventions pour le système d'éducation de Hong Kong/
+直資 直资 [zhi2 zi1] {zik6 zi1} /Direct Subsidy Scheme, programme de subventions pour le système éducatif de Hong Kong/
 ????f 直身裙 直身裙 [zhi2 shen1 qun2] {zik6 san1 kwan4} /(noun) a straight skirt; narrow straight dress/
 直通巴士 直通巴士 [zhi2 tong1 ba1 shi4] {zik6 tung1 baa1 si2} /autobus express; autobus direct/
 直通車 直通车 [zhi2 tong1 che1] {zik6 tung1 ce1} /train direct entre Canton et Hong Kong/train direct/(politique) continuité des fonctions législatives des gouvernements hongkongais et macanais après la rétrocession à la Chine/
@@ -20423,7 +20424,7 @@
 ????c 關帝廟 关帝庙 [Guan1 di4 miao4] {gwaan1 dai3 miu6} /Temple Of Guan Yu/Guangdi/
 關德興 关德兴 [guan1 de2 xing1] {gwaan1 dak1 hing1} /Kwan Tak-Hing, acteur hongkongais/
 關心妍 关心妍 [guan1 xin1 yan2] {gwaan1 sam1 jin4} /Jade Kwan Sum Yin, chanteuse hongkongaise/
-關斗 关斗 [guan1 dou4] {gwaan1 dau3} /saut périlleux/
+關斗 关斗 [guan1 dou4] {gwaan1 dau3} /culbute/saut périlleux/(rarement) (gymnastique) roue/
 關注 关注 [guan1 zhu4] {gwaan1 zyu3} /faire attention à/suivre sur un réseau social/
 關節痛 关节痛 [guan1 jie2 tong4] {gwaan1 zit3 tung3} /arthralgie; douleur articulaire/
 關詠荷 关咏荷 [guan1 yong3 he2] {gwaan1 wing6 ho4} /Esther Kwan Wing Ho, actrice hongkongaise/
