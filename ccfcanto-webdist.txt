@@ -1543,9 +1543,9 @@
 使到 使到 [shi3 dao4] {sai2 dou3} /causer/
 使命感 使命感 [shi3 ming4 gan3] {si3 ming6 gam2} /vocation/
 使唔使 使唔使 [shi3 m2 shi3] {sai2 m4 sai2} /est-ce qu'on a besoin de; est-ce qu'il est nécessaire de.../
-使女 使女 [shi3 nu:3] {si2 neoi5} /(vieilli) servante/
-使婆 使婆 [shi3 po2] {sai2 po4} /servante; domestique/
-使媽 使妈 [shi3 ma1] {sai2 maa1} /(vieilli) servante; domestique/
+使女 使女 [shi3 nu:3] {si2 neoi5} /(vieilli) servante; bonne/
+使婆 使婆 [shi3 po2] {si2 po4} /servante; domestique; bonne/
+使媽 使妈 [shi3 ma1] {si2 maa1} /(vieilli) servante; domestique; bonne/
 使𢃇 使𢃇 [shi3] {sai2 lei2} /faire de la voile/
 ????f 使橫手 使橫手 [shi3 guang1 shou3] {sai2 waang4 sau2} /utiliser des méthodes sournoises/
 ????f 使牛 使牛 [shi3 niu2] {sai2 ngau4} /utiliser des bœufs pour labourer les terres/
@@ -4233,7 +4233,7 @@
 唔打緊 唔打紧 [n2 da3 jin3] {m4 daa2 gan2} /(réponse à des excuses) t'en fais pas; ce n'est rien; ce n'est pas grave/
 唔抵 唔抵 [n2 di3] {m4 dai2} /ne pas valoir la peine; ne pas valoir le coup/
 唔抵得 唔抵得 [n2 di3 de2] {m4 dai2 dak1} /jaloux, envieux (de quelqu'un)/ne pas pouvoir supporter/
-????c 唔抵得諗 唔抵得谂 [wu2 di3 de2 shen3] {m4 dai2 dak1 lam2} /refuser d'être à un désavantage/(
+????c 唔抵得諗 唔抵得谂 [wu2 di3 de2 shen3] {m4 dai2 dak1 lam2} /refuser d'être à un désavantage/
 ????c 唔抵得頸 唔抵得颈 [n2 di3 de2 jing3] {m4 dai2 dak1 geng2} /susceptible, narcissiste/ne pas pouvoir réprimer sa colère/
 唔拘 唔拘 [n2 ju1] {m4 keoi1} /ça ne me dérange pas; ça m'est égal/ça me ferait plaisir/
 唔捨得 唔舍得 [n2 she3 de5] {m4 se2 dak1} /peu disposé à abandonner quelque chose/ne pas vouloir (faire quelque chose)/
@@ -7437,7 +7437,7 @@
 年糕 年糕 [nian2 gao1] {nin4 gou1} /niangao, gâteau de l'an, gâteau de riz parfumé au haricot rouge et longane consommé au Nouvel An chinois/
 年紀輕輕 年纪轻轻 [nian2 ji4 qing1 qing1] {nin4 gei2 heng1 heng1} /jeune/
 年花 年花 [nian2 hua1] {nin4 faa1} /fleurs du Nouvel An chinois/
-????f 年鑒 年鉴 [nian2 jian4] {nin4 gaam3} /publication annuelle recueillant des statistiques, l'histoire, nouvelles, etc. d'une ville ou province/
+????f 年鑒 年鉴 [nian2 jian4] {nin4 gaam3} /annuaire, (en particulier) une publication annuelle recueillant des statistiques, l'histoire, nouvelles, etc. d'une ville ou province/
 年青人 年青人 [nian2 qing1 ren2] {nin4 cing1 jan4} /adolescents; les jeunes/
 年齡限制 年龄限制 [nian2 ling2 xian4 zhi4] {nin4 ling4 haan6 zai3} /limite d'âge/
 幸福 幸福 [xing4 fu2] {hang6 fuk1} /bonheur; bien-être/
@@ -8993,7 +8993,7 @@
 拓展 拓展 [tuo4 zhan3] {tok3 zin2} /(affaires) élarger; développer/
 ????f 拔刀相助 拔刀相助 [ba2 dao1 xiang1 zhu4] {bat6 dou1 soeng1 zo6} /(expr. idiom.) apporter son aide à lutter contre l'injustice/(idiom.) tirer une épée pour aider/
 ????c 拔地而起 拔地而起 [ba2 di4 er2 qi3] {bat6 dei6 ji4 hei2} /se lever soudainement de la terre/
-拔草 拔草 [ba2 cao3] {bat6 cou2} /désherber; arracher les mauvaises herbes/
+拔草 拔草 [ba2 cao3] {bat6 cou2} /désherber; sarcler; arracher les mauvaises herbes/
 拔蘭地 拔兰地 [ba2 lan2 di4] {bat6 laan4 dei6} /brandy; eau-de-vie/(orig.) de l'anglais « brandy »/
 ????f 拖卡 拖卡 [tuo1 ka3] {to1 kaa1} /deux autobus de la même ligne qui arrivent l'un après l'autre; deux autobus de la même ligne qui deviennent regroupés à cause du trafic/dépanneuse; remorque/
 拖友 拖友 [tuo1 you3] {to1 jau2} /(fam.) petit ami, petite amie; copain, copine; chum; blonde/
@@ -11428,7 +11428,7 @@
 ????c 檳榔芋 槟榔芋 [bing1 lang2 yu4] {ban1 long4 wu6} /taro/
 檳榔薯 槟榔薯 [bin1 lang2 shu3] {ban1 long4 syu4} /patate douce à chair pourpre/
 檸檬 柠檬 [ning2 meng2] {ning4 mung1} /limon/
-檸檬雜飲 柠檬杂饮 [ning2 meng2 za2 yin3] {ning4 mung1 zaap6 jam2} /sirop de limon, sirop de limonade, boisson à base de sucre, d'eau pétillante, et de sirop de sucre/
+檸檬雜飲 柠檬杂饮 [ning2 meng2 za2 yin3] {ning4 mung1 zaap6 jam2} /sirop de limon; sirop de limonade; boisson à base de sucre, d'eau pétillante, et de sirop de sucre/
 檸水 柠水 [ning2 shui3] {ning4 seoi2} /(Can.) limonade (Fr.) citronnade/
 檸茶 柠茶 [ning2 cha2] {ning4 caa4} /thé au citron/
 櫃 柜 [gui4] {gwai6} /armoire/conteneur d'expédition/comptoir (d'accueil, de service à la clientèle, etc.)/
@@ -18907,7 +18907,7 @@
 ????f 趁手 趁手 [chen4 shou3] {can3 sau2} /à votre convenance; lorsque vous avez la chance; pendant que vous y êtes/
 趁熱食 趁热食 [chen4 re4 shi2] {can3 jit6 sik6} /manger tant que c'est chaud; manger pendant que c'est chaud/
 趁熱鬧 趁热闹 [chen4 re4 nao4] {can3 jit6 naau6} /se joindre à la fête/
-????f 趁風使𢃇 趁风使𢃇 [chen4 feng1 shi3 li3] {can3 fung1 sai2 lei5} /(expr. idiom.) (connotation négative) opportuniste; s'adapter aux circonstances; profiter de la situation/(lit.) voguer selon les vents/
+????f 趁風使𢃇 趁风使𢃇 [chen4 feng1 shi3 li3] {can3 fung1 sai2 lei5} /(expr. idiom.) (connotation négative) opportuniste; s'adapter aux circonstances; profiter de la situation/(lit.) disposer les voiles de son navire selon les vents/
 趁高興 趁高兴 [chen4 gao1 xing4] {can3 gou1 hing3} /se joindre à la fête/
 超 超 [chao1] {ciu1} /très/plus que/lorgner; regarder longuement; fixer; dévisager/lunettes de soleil/super; génial/(equivalent to pffft; used to dismiss something)/
 ????c 超人一等 超人一等 [chao1 ren2 yi1 deng3] {ciu1 jan4 jat1 dang2} /to consider oneself's above the others; to be better at something compared to others; to be superior above others/
@@ -21234,7 +21234,7 @@
 順暢 顺畅 [shun4 chang4] {seon6 coeng3} /aisément; facilement; sans entrave/sans problème; sans obstacle; sans heurt/(écriture) fluide/
 順檔 顺档 [shun4 dang4] {seon6 dong3} /sans incident; sans heurt; sans problème; sans obstacle/
 順風順水 顺风顺水 [shun4 feng1 shun4 shui3] {seon6 fung1 seon6 seoi2} /(expr. idiom.) tout va bien; il n'y a pas de difficultés/
-順風駛𢃇 顺风驶𢃇 [chen4 feng1 shi3 li3] {seon6 fung1 sai2 lei5} /(expr. idiom.) (connotation négative) opportuniste; s'adapter aux circonstances; profiter de la situation/(lit.) voguer selon les vents/
+順風駛𢃇 顺风驶𢃇 [chen4 feng1 shi3 li3] {seon6 fung1 sai2 lei5} /(expr. idiom.) (connotation négative) opportuniste; s'adapter aux circonstances; profiter de la situation/(lit.) disposer ses voiles de son navire selon les vents/
 須要 须要 [xu1yao4] {seoi1 jiu3} /devoir; avoir besoin de/
 預 预 [yu4] {jyu6} /d'avance/prévoir; s'attendre à; anticiper/compter sur (quelqu'un); inclure (quelqu'un)/
 預先 预先 [yu4 xian1] {jyu6 sin1} /pré-/
@@ -21484,7 +21484,7 @@
 食尾糊 食尾糊 [shi2 wei3 hu2] {sik6 mei5 wu4} /(mah-jong) gagner la dernière partie d'une série de jeux de mah-jong/(lit.) manger le dernier gruau/
 食屎 食屎 [shi2 shi3] {sik6 si2} /(vulg.) dégage! va te faire foutre!/(fig.) (vulg.) être dans la merde; être dans le pétrin; avoir des ennuis/(lit.) mangez de la merde!/
 食屎屙飯 食屎屙饭 [shi2 shi3 e1 fan4] {sik6 si2 o1 faan6} /(expr. idiom.) (connotation négative) faire les choses d'une manière inhabituelle; faire les choses d'une manière illogique/(lit.) manger de la merde et déféquer du riz/
-????c 食屎食着豆 食屎食着豆 [shi2 shi3 shi2 zhe5 dou4] {sik6 si2 sik6 zoek6 dau2} /(literally: to come across a bean whilst eating shit); an expression to describe when someone gets a windfall through sheer fluke / luck (with a disdainful connotation)/
+????f 食屎食着豆 食屎食着豆 [shi2 shi3 shi2 zhe5 dou4] {sik6 si2 sik6 zoek6 dau2} /(expr. idiom.) (péj.) (situation où) une personne sans talent parvient à réussir quelque chose/(lit.) trouver un haricot en mangeant de la merde/
 ????f 食得咸魚抵得渴 食得咸鱼抵得渴 [shi2 de5 xian2 yu2 di3 de2 ke3] {sik6 dak1 haam4 jyu4 dai2 dak1 hot3} /(expr. idiom.) il faut assumer les conséquences de ses actes/(lit.) si vous mangez du poisson salé il faut tolérer le soif/
 ????f 食得唔好嘥 食得唔好嘥 [shi2 de5 n2 hao3 sai1] {sik6 dak1 m4 hou2 saai1} /(expr.) ne pas gaspiller de la nourriture/(lit.) si c'est comestible, on ne devrait pas le gaspiller/
 食得㗎 食得㗎 [shi2 de5 jia4] {sik6 dak1 gaa3} /c'est comestible/
