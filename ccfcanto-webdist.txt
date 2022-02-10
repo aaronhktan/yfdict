@@ -18837,7 +18837,7 @@
 ????f 走數 走数 [zou3 shu4] {zau2 sou3} /ne pas payer une dette; ne pas rembourser une dette/(fig.) rompre une promesse/
 ????c 走歸左 走归左 [zou3 gui1 zuo3] {zau2 gwai1 zo2} /to go astray; to fall into the wrong path; to be misguided; to be misled; to go off the track; to take a wrong step in life/
 ????f 走油 走油 [zou3 you2] {zau2 jau4} /faire frire (en particulier, technique de cuisson où l'on ne submerge l'aliment dans l'huile que pour un instant)/(nourriture grasse) rancir/(of varnished furniture) to lose its shine; to lose its polish/
-????f 走法律罅 走法律罅 [zou3 fa3 lu:4 xia4] {zau2 faat3 leot6 laa3} /(expr.) exploiter une vide juridique; contourner une loi/(lit.) exploiter une faille juridique/
+????f 走法律罅 走法律罅 [zou3 fa3 lu:4 xia4] {zau2 faat3 leot6 laa3} /(expr.) exploiter un vide juridique; contourner une loi/(lit.) exploiter une fente juridique/
 走漏風聲 走漏风声 [zou3 lou4 feng1 sheng1] {zau2 lau6 fung1 sing1} /(expr.) révéler des informations; divulguer un secret/
 走火 走火 [zou3 huo3] {zau2 fo2} /prendre feu/échapper à un incendie/étinceler/faire court-circuiter/tirer (une arme à feu) par accident/(fig.) (vulg.) éjaculer prématurément/
 走火入魔 走火入魔 [zou3 huo3 ru4 mo2] {zau2 fo2 jap6 mo1} /(expr. idiom.) être obsédé; aller trop loin/
@@ -20260,8 +20260,8 @@
 ????f 閃緞 闪缎 [shan3 duan4] {sim2 dyun6} /a type of scintillating silk/
 閃縮 闪缩 [shan3 suo1] {sim2 suk1} /furtif; évasif/
 閃耀 闪耀 [shan3 yao4] {sim2 jiu6} /étinceler/
-閃閃令 闪闪令 [shan3 shan3 ling4] {sim2 sim2 ling6} /étincelant/
-閃閃發光 闪闪发光 [shan3 shan3 fa1 guang1] {sim2 sim2 faat3 gwong1} /étinceler/
+閃閃令 闪闪令 [shan3 shan3 ling4] {sim2 sim2 ling3} /étincelant; reluisant/
+閃閃發光 闪闪发光 [shan3 shan3 fa1 guang1] {sim2 sim2 faat3 gwong1} /étinceler; reluiser/
 閃閃縮縮 闪闪缩缩 [shan3 shan3 suo1 suo1] {sim2 sim2 suk1 suk1} /furtivement; en cachette; évasivement/
 閃電結婚 闪电结婚 [shan3 dian4 jie2 hun1] {sim2 din6 git3 fan1} /(expr.) mariage précipité/(lit.) mariage éclair/
 閉幕 闭幕 [bi4 mu4] {bai3 mok6} /(évènement) clôturer; mettre fin; venir à sa fin/
