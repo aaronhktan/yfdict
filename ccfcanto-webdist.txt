@@ -19274,7 +19274,7 @@
 轉堂 转堂 [zhuan3 tang2] {zyun3 tong4} /changer de cours/
 轉工 转工 [zhuan3 gong1] {zyun2 gung1} /changer d'emploi; changer de travail/
 轉左 转左 [zhuan3 zuo3] {zyun3 zo2} /tourner à gauche/
-轉帳 转帐 [zhuan3 zhang4] {zyun2 zoeng3} /virer; transférer de l'argent/
+轉帳 转帐 [zhuan3 zhang4] {zyun2 zoeng3} /transférer de l'argent; virer des fonds/
 轉彎 转弯 [zhuan3 wan1] {zyun2 waan1} /tourner (à gauche, à droite, etc.)/(fig.) changer d'avis/
 ????f 轉性 转性 [zhuan3 xing4] {zyun2 sing3} /changer sa nature; changer de caractère; changer sa disposition/
 轉眼間 转眼间 [zhuan3 yan3 jian1] {zyun2 ngaan5 gaan1} /(expr. idiom.) en un clin d'œil; en un rien de temps/
@@ -19579,7 +19579,7 @@
 ????c 過態 过态 [guo4 tai4] {gwo3 taai3} /autoritaire; dominateur/excessif/
 過慮 过虑 [guo4 lu:4] {gwo3 leoi6} /s'inquiéter trop/
 ????c 過手 过手 [guo4 shou3] {gwo3 sau2} /passing of money from one to another (slang)/
-過數 过数 [guo4 shu4] {gwo3 sou3} /transférer de l'argent/
+過數 过数 [guo4 shu4] {gwo3 sou3} /transférer de l'argent; virer des fonds/
 過樹榕 过树榕 [guo4 shu4 rong2] {gwo3 syu6 jung4} /(espèce de serpents) Ptyas korros/
 過橋 过桥 [guo4 qiao2] {gwo3 kiu4} /traverser un pont/
 過橋 过桥 [guo4 qiao2] {gwo3 kiu2} /(fig.) exploiter quelqu'un; escroquer quelqu'un/(fig.) tromper quelqu'un; duper quelqu'un/
@@ -19587,7 +19587,7 @@
 過檔 过档 [guo4 dang4] {gwo3 dong3} /changer d'emploi/
 過氣 过气 [guo4 qi4] {gwo3 hei3} /démodé; vieillot; ringard/
 ????f 過氣老倌 过气老倌 [guo4 qi4 lao3 guan1] {gwo3 hei3 lou5 gun1} /(célébrité) ringard; dépassé; démodé; fini/
-????f 過水 过水 [guo4 shui3] {gwo3 seoi2} /(fig.) soudouyer; acheter/(fig.) transférer de l'argent; payer/(technique de cuisson) rincer un aliment cuit (habituellement des nouilles) sous l'eau froide avant de le cuire une deuxième fois/(fig.) (mah-jong) abandonner la possibilité de compléter une main/(lit.) rincer sous l'eau/
+????f 過水 过水 [guo4 shui3] {gwo3 seoi2} /(fig.) soudouyer; acheter/(fig.) transférer de l'argent; payer; virer des fonds/(technique de cuisson) rincer un aliment cuit (habituellement des nouilles) sous l'eau froide avant de le cuire une deuxième fois/(fig.) (mah-jong) abandonner la possibilité de compléter une main/(lit.) rincer sous l'eau/
 過水濕腳 过水湿脚 [guo4 shui3 shi1 jiao3] {gwo3 seoi2 sap1 goek3} /(fig.) malverser; détourner; dilapider/(lit.) se mouiller les pieds en traversant dans l'eau/
 過江龍 过江龙 [guo4 jiang1 long2] {gwo3 gong1 lung4} /(fig.) câble de démarrage; câbles d'appoint; câbles volants/(fig.) étranger qui a un grand impact sur les affaires locales/(lit.) dragon qui traverse l'eau/
 過河卒 过河卒 [guo4 he2 zu2] {gwo3 ho4 zeot1} /(xiangqi) pion qui peut avancer mais ne peut pas reculer/(lit.) pion qui a franchi la rivière (et donc ne peut plus reculer)/
