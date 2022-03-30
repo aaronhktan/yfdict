@@ -851,11 +851,11 @@
 乜嘢話 乜嘢话 [mie1 ye3 hua4] {mat1 je5 waa2} /qu'as-tu dit?/
 乜春 乜春 [mie1 chun1] {mat1 ceon1} /quoi?/qu'est-ce que tu racontes?/
 乜東東 乜东东 [mie1 dong1 dong1] {mat1 dung1 dung1} /qu'est-ce que c'est?; c'est quoi ça?/
-乜水 乜水 [mie1 shui3] {me1 seoi2} /qui/machin; bidule (quelqu'un dont l'on a oublié le nom)/untel; unetelle/
+乜水 乜水 [mie1 shui3] {mat1 seoi2} /qui?/
 乜滯 乜滞 [mie1 zhi4] {mat1 zai6} /pas beaucoup; peu/
 乜花款 乜花款 [mie1 hua1 kuan3] {mat1 faa1 fun2} /gadget; truc/un style/
 乜說話 乜说话 [mie1 shuo1 hua4] {me1 syut3 waa6} /pas de problème; bienvenue/pas du tout!; de quoi tu parles?/
-乜誰 乜谁 [mie1 shui2] {mat1 seoi2} /qui/machin; bidule (quelqu'un dont le nom on a oublié)/untel; unetelle/
+乜誰 乜谁 [mie1 shui2] {mat1 seoi2} /qui?/
 乜都 乜都 [mie1 dou1] {me1 dou1} /tout est (ex. 乜都可以, tout est possible)/
 ????f 乜都假 乜都假 [mie1 dou1 jia3] {mat1 dou1 gaa2} /(quelque chose) est nécessaire; il faut qu'on fasse (quelque chose)/quoi qu'il en soit, on devrait faire quelque chose en premier/
 乜都得 乜都得 [mie1 dou1 de5] {mat1 dou1 dak1} /tout est possible/c'est comme tu veux/
@@ -1095,8 +1095,8 @@
 ????f 亞福 亚福 [ya4 fu2] {aa3 fuk1} /(vieilli) expression pour appeler une domestique ou serveur/(dans un conte, nom générique pour un sot ou une personne stupide)/(lit.) un chanceux/
 ????f 亞細 亚细 [ya4 xi4] {aa3 sai3} /appellation donnée à quelqu'un qui est petit/appellation donnée au benjamin de la famille/
 亞細安 亚细安 [ya4 xi4 an1] {aa3 sai3 on1} /l'Association des nations de l'Asie du Sud-Est, ANASE, ASEAN/
-????f 亞茂 亚茂 [ya4 mao4] {aa3 mau6} /(pantonyme pour désigner une personne dont le nom on a oublié) Monsieur Untel, Duschmol/personne stupide; imbécile; idiot/
-????f 亞誰 亚谁 [ya4 shui2] {aa3 seoi4} /(pantonyme pour désigner une personne dont le nom on a oublié) Monsieur Untel, Duschmol/
+????f 亞茂 亚茂 [ya4 mao4] {aa3 mau6} /(pantonyme pour désigner une personne dont le nom on a oublié ou dont on ne connaît pas le nom) Monsieur Untel, Madame Unetelle; Duchmol; Machin/personne stupide; imbécile; idiot/
+????f 亞誰 亚谁 [ya4 shui2] {aa3 seoi4} /(pantonyme pour désigner une personne dont le nom on a oublié ou dont on ne connaît pas le nom) Monsieur Untel, Madame Unetelle; Duchmol; Machin/
 亞頭 亚头 [ya4 tou2] {aa3 tau4} /patron; chef/
 亞駝 亚驼 [ya4 tuo2] {aa3 to4} /(péj.) bossu/
 亡命 亡命 [wang2 ming4] {mong4 ming6} /mettre sa vie en danger pour quelque chose/fuir/s'évader d'un prison/
@@ -20453,8 +20453,8 @@
 阻街 阻街 [zu3 jie1] {zo2 gaai1} /bloquer la route; bloquer la voie/
 阻頭阻勢 阻头阻势 [zu3 tou2 zu3 shi4] {zo2 tau4 zo2 sai3} /(expr.) être dans le passage de quelqu'un/
 阿ｓｉｒ 阿ｓｉｒ [a5 s i r] {aa3ｓｉｒ} /(titre de politesse) monsieur le policier/(orig.) de l'anglais « sir » (« monsieur »)/
-阿乜人 啊乜人 [a5 mie1 ren2] {aa3 mat1 jan4} /Monsieur Untel, Madame Unetelle; Machin; mot utilisé pour désigner une personne dont on a oublié le nom ou dont on ne connaît pas le nom/
-阿乜水 啊乜水 [a5 mie1 shui3] {aa3 mat1 seoi2} /Monsieur Untel, Madame Unetell; Machin; mot utilisé pour désigner une personne dont on a oublié le nom ou dont on ne connaît pas le nom/
+阿乜人 啊乜人 [a5 mie1 ren2] {aa3 mat1 jan4} /(pantonyme pour désigner une personne dont le nom on a oublié ou dont on ne connaît pas le nom) Monsieur Untel, Madame Unetelle; Duchmol; Machin/
+阿乜水 啊乜水 [a5 mie1 shui3] {aa3 mat1 seoi2} /(pantonyme pour désigner une personne dont le nom on a oublié ou dont on ne connaît pas le nom) Monsieur Untel, Madame Unetelle; Duchmol; Machin/
 阿二 啊二 [a5 er4] {aa3 ji2} /seconde épouse; seconde femme/amante; maîtresse/(lit.) madame numéro deux/
 阿仔 啊仔 [a5 zi3] {aa3 zai2} /appellation donnée à un fils; appellation donnée à un enfant de sexe masculin/
 阿仙奴 啊仙奴 [a5 xian1 nu2] {aa3 sin1 nou4} /Arsenal, club de football anglais/
@@ -20492,7 +20492,7 @@
 阿斗官 阿斗官 [a1 dou3 guan1] {aa3 dau2 gun1} /brebis galeuse; personne qui fait honte à la famille/
 阿昌族 阿昌族 [a1 chang1 zu2] {aa3 coeng1 zuk6} /Achang; Ngac'ang; Maingtha, groupe ethnique/
 阿星 啊星 [a5 xing1] {aa3 sing1} /Indien; Pakistanais/(orig.) du nom de famille « Singh », d'où 阿星|啊星 aa3 sing1 « monsieur Singh »/
-阿某某 啊某某 [a5 mou3 mou3] {aa3 mau5 mau5} /Monsieur Untel, Madame Unetell; Machin; mot utilisé pour désigner une personne dont on a oublié le nom ou dont on ne connaît pas le nom/
+阿某某 啊某某 [a5 mou3 mou3] {aa3 mau5 mau5} /(pantonyme pour désigner une personne dont le nom on a oublié ou dont on ne connaît pas le nom) Monsieur Untel, Madame Unetelle; Duchmol; Machin/
 阿森一族 阿森一族 [a1 sen1 yi4 zu2] {aa3 sam1 jat1 zuk6} /Les Simpson, série télévisée américaine/
 阿母 阿母 [a1 mu3] {aa3 mou5 } /maman; mère/
 ????f 阿燦 啊灿 [a5 can4] {aa3 caan3} /(péj.) appellation donné aux nouveaux immigrants originaires de la Chine continentale/
