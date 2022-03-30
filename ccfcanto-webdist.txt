@@ -8198,7 +8198,7 @@
 感動 感动 [gan3 dong4] {gam2 dung6} /émouvant; touchant/
 感化官 感化官 [gan3 hua4 guan1] {gam2 faa3 gun1} /agent de probation, agente de probation/
 ????f 感慨 感慨 [gan3 kai3] {gam2 koi3} /regretter/être mélancolique en pensant au passé/
-感暑 感暑 [gan3 shu3] {gam2 syu2} /insolation; coup de chaleur/
+感暑 感暑 [gan3 shu3] {gam2 syu2} /avoir une insolation; souffrir d'une insolation; avoir un coup de chaleur/
 感歎 感叹 [gan3 tan4] {gam2 taan3} /lamenter; pousser un soupir/
 感歎號 感叹号 [gan3 tan4 hao4] {gam2 taan3 hou6} /point d'exclamation/
 感荷 感荷 [gan3 he4] {gam2 ho6} /apprécier/
@@ -11160,7 +11160,7 @@
 梅開二度 梅开二度 [mei2 kai1 er4 du4] {mui4 hoi1 ji6 dou6} /(expr. idiom.) réussir une deuxième fois/(expr. idiom.) marquer un deuxième but lors d'une partie de football/(expr. idiom.) se remarier/(lit.) fleur de prune éclosant une deuxième fois/
 梗 梗 [geng3] {gang2} /tige (d'une plante)/certainement/bien sûr/
 梗係 梗系 [geng3 xi4] {gang2 hai6} /bien sûr; sans doute; sans question/
-????f 梗房 梗房 [geng3 fang2] {gang2 fong2} /chambre subdivisée en plusieurs parties par des murs en brique ou béton qui sont ensuite louées séparément/
+梗房 梗房 [geng3 fang2] {gang2 fong2} /chambre subdivisée en plusieurs parties par des murs en brique ou béton qui sont ensuite louées séparément/
 梗有 梗有 [geng3 you3] {gang2 jau5} /bien sûr qu'il y en a/
 梗板 梗板 [geng3 ban3] {gang2 baan2} /têtu; obstiné/rigide; stricte; inflexible/ 
 梗頸 梗颈 [geng3 jing3] {gang2 geng2} /tenace; insistant; têtu/rebelle/
@@ -12934,7 +12934,7 @@
 ????f 焗 焗 [ju2] {guk6} /(lieu, chambre, salle, etc.) étouffant/contraindre; forcer (quelqu'un à faire quelque chose)/faire cuire au four/faire rôtir à feu doux/
 焗住 焗住 [ju2 zhu4] {guk6 zyu6} /(lieu, chambre, salle, etc.) étouffant/n'avoir pas d'autre choix... (que de faire quelque chose); être contraint de faire quelque chose; être mis au pied du mur/
 ????c 焗傷風 焗伤风 [ju2 shang1 feng1] {guk6 soeng1 fung1} /s'enrhumer à cause de la transpiration excessive/s'enrhumer à cause d'une insolation/
-焗暑 焗暑 [ju2 shu3] {guk6 syu2} /avoir une insolation; avoir un coup de chaleur/
+焗暑 焗暑 [ju2 shu3] {guk6 syu2} /avoir une insolation; souffrir d'un insolation; avoir un coup de chaleur/
 ????f 焗死 焗死 [ju2 si3] {guk6 sei2} /suffoquer; asphyxier/mourir de l'inhalation de fumée/
 焗汗 焗汗 [ju2 han4] {guk6 hon6} /suer; transpirer/
 ????c 焗漆 焗漆 [ju2 qi1] {guk6 cat1} /faire cuire l'émail/
@@ -12944,7 +12944,7 @@
 ????c 焗腳 焗脚 [ju2 jiao3] {guk6 goek3} /(noun) a foot treatment/cover the foot?/uncomfortable shoe due to it being too small?/
 焗茶 焗茶 [ju2 cha2] {guk6 caa4} /faire du thé; infuser du thé/
 焗薯 焗薯 [ju2 shu3] {guk6 syu4} /pomme de terre au four/
-????f 焗親 焗亲 [ju2 qin1] {guk6 can1} /avoir une insolation; avoir un coup de chaleur/
+焗親 焗亲 [ju2 qin1] {guk6 can1} /avoir une insolation; souffrir d'une insolation; avoir un coup de chaleur/
 ????f 焗豬扒飯 焗猪扒饭 [ju2 zhu1 ba1 fan4] {guk6 zyu1 paa4 faan6} /riz à la côtelette de porc cuite au four/
 焗雨 焗雨 [ju2 yu3] {guk6 jyu5} /temps chaud et humide avant une averse/
 ????f 焙火爐 焙火炉 [bei4 huo3 lu2] {bui6 fo2 lou4} /se chauffer près d'un feu/
@@ -16926,8 +16926,8 @@
 𦧲飯應 𦧲饭应 [fan4 ying1] {loe1 faan6 jing3} /(fig.) accepter sans hésitation/(lit.) recracher du riz pour répondre/
 舞 舞 [wu3] {mou5} /danser/jouer/
 舞台劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre/
-????f 舞女 舞女 [wu3 nu:3] {mou5 neoi2} /danseuse/(taxi dancer?)/hôtesse d'un night-club/strip-teaseuse/escorte (de sexe féminin)/
-????f 舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /hôtesse d'un night-club/strip-teaseuse/
+????f 舞女 舞女 [wu3 nu:3] {mou5 neoi2} /danseuse/hôtesse d'un night-club; entraîneuse/strip-teaseuse/escorte (de sexe féminin)/
+????f 舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /hôtesse d'un night-club; entraîneuse/strip-teaseuse/
 ????c 舞文弄墨 舞文弄墨 [wu3 wen2 nong4 mo4] {mou5 man4 lung6 mak6} /(positive or negative connotation? does it have to do with the law?) show off literary skill; to play with words/
 舞男 舞男 [wu3 nan2] {mou5 naam4} /gigolo; escorte (de sexe masculin)/
 舞臺劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre/
@@ -17112,8 +17112,8 @@
 ????f 茶粿 茶粿 [cha2 guo3] {caa4 gwo2} /dumpling de riz gluant/
 茶羹 茶羹 [cha2 geng1] {caa4 gang1} /cuillère à thé/
 茶腳 茶脚 [cha2 jiao3] {caa4 goek3} /restes de thé/marc de thé/
-????f 茶芥 茶芥 [cha2 jie4] {caa4 gaai3} /cover charge at a Cantonese restaurant, calculated per person/(lit.) thé et wasabi/
-????f 茶位 茶位 [cha2 wei4] {caa4 wai2} /cover charge at a Cantonese restaurant, calculated per person/
+????f 茶芥 茶芥 [cha2 jie4] {caa4 gaai3} /frais d'entrée (pour un restaurant cantonais)/(lit.) thé et wasabi/
+????f 茶位 茶位 [cha2 wei4] {caa4 wai2} /frais d'entrée (pour un restaurant cantonais)/
 茶隔 茶隔 [cha2 ge2] {caa4 gaak3} /passoire à thé/
 茶餐廳 茶餐厅 [cha2 can1 ting1] {caa4 caan1 teng1} /Cha chaan teng; café de style Hong Kong/
 茸茸 茸茸 [rong2 rong2] {jung4 jung4} /duveteux; doux et épais/
@@ -17813,6 +17813,7 @@
 ????f 被竇 被窦 [bei4 dou4] {pei5 dau6} /inside the blanket (spoken) (cozy space under a blanket)/
 被袋 被袋 [bei4 dai4] {pei5 doi2} /housse de couette/
 被鋪 被铺 [bei4 pu4] {pei5 pou1} /literie; couvertures et matelas/
+被人水 被人水 [bei4 ren2 shui3] {bei6 jan4 seoi2} /(fam.) être arnaqué; être escroqué/
 裁 裁 [cai2] {coi4} /licencier; congédier; virer/décider/juge; magistrat/
 裁判 裁判 [cai2 pan4] {coi4 pun3} /(droit) sentence; peine/(droit) magistrat/
 裁判法院 裁判法院 [cai2 pan4 fa3 yuan4] {coi4 pun3 faat3 jyun2} /Magistrates' Courts (« cour des magistrats »)/
@@ -20530,7 +20531,7 @@
 阿跛 啊跛 [a5 bo3] {aa3 bai1} /appellation donné à une personne qui boite; boiteux/
 阿頭 啊头 [a5 tou2] {aa3 tau2} /patron; chef; leader/
 ????f 阿駝行路 啊駝行路 [a5 chi2 xing2 lu4] {aa3 to2 haang4 lou6} /(expr. en suspens) moyen; passable; adéquat/(lit.) monsieur le bossu traverse la rue (deuxième partie 中中哋|中中哋 zung1 zung1 dei2 « moyen », jeu de mots avec 舂舂哋|舂舂哋 zung1 zung1 dei2 « avoir l'air de presque tomber à chaque instant »)/
-????f 阿麗 阿利 [a1 li4] {aa3 lai6} /hôtesse de boîte de nuit; prostituée/
+????f 阿麗 阿利 [a1 li4] {aa3 lai6} /hôtesse d'un night-club; entraîneuse/prostituée/
 ????f 陀 陀 [tuo2] {to4} /armer (d'une arme à feu)/(doublé) pris de vertige; avoir la tête qui tourne/(utilisé dans les translittérations de noms Bouddhistes)/
 陀地 陀地 [tuo2 di4] {to4 dei2} /taxe de protection; pizzo; racket de protection/membre de gang/
 陀地費 陀地费 [tuo2 di4 fei4] {to4 dei6 fai3} /taxe de protection; pizzo; racket de protection/
