@@ -1181,7 +1181,7 @@
 ????f 人才輩出 人才辈出 [ren2 cai2 bei4 chu1] {jan4 coi4 bui3 ceot1} /y avoir beaucoup de personnes talentueuses/
 人日 人日 [ren2 ri4] {jan4 jat6} /Renri; la fête des humains, qui tombe le sept du premier mois du calendrier chinois/
 人有三衰六旺 人有三衰六旺 [ren2 you3 san1 shuai1 liu4 wang4] {jan4 jau5 saam1 seoi1 luk6 wong6} /(expr. idiom.) vicissitudes de la vie; les défis et bonnes fortunes vécus au cours d'une vie; les hauts et les bas (voir aussi 三衰六旺)/(lit.) les gens vivent trois malheurs et six bonheurs au cours d'une vie/
-????f 人有我有 人有我有 [ren2 you3 wo3 you3] {jan4 jau5 ngo5 jau5} /(expr. idiom.) (humble) avoir quelque chose tout comme les autres/(lit.) les autres en ont, moi j'en ai aussi/
+????f 人有我有 人有我有 [ren2 you3 wo3 you3] {jan4 jau5 ngo5 jau5} /(expr. idiom.) rivaliser les voisins; vouloir quelque chose parce que les autres l'ont et non par besoin/(lit.) les autres en ont, moi j'en ai aussi/
 ????f 人有失手，馬有失蹄 人有失手，马有失蹄 [ren2 you3 shi1 shou3，ma3 you3 shi1 ti2] {jan4 jau5 sat1 sau2，maa5 jau5 sat1 tai4} /(expr. idiom.) l'erreur est humaine; on fait tous des erreurs/(lit.) les humains font des erreurs, tout comme les chevaux trébuchent/
 人板 人板 [ren2 ban3] {jan4 baan2} /(personne) mauvais exemple (voir aussi 人|人办)/
 ????f 人比人，比死人 人比人，比死人 [ren2 bi3 ren2 , bi3 si3 ren2] {jan4 bei2 jan4 bei2 sei2 jan4} /(expr. idiom.) tout le monde est unique, donc ça ne sert à rien de se comparer aux autres/(lit.) si tu te compares avec les autres, tu vas te comparer jusqu'à la mort/
@@ -13958,7 +13958,7 @@
 甩繩馬騮 甩绳马骝 [shuai3 sheng2 ma3 liu2] {lat1 sing2 maa1 lau1} /(expr. idiom.) enfant hors contrôle/(lit.) singe sans laisse/
 甩肺 甩肺 [shuai3 fei4] {lat1 fai3} /(fig.) très grave/(lit.) poumouns qui tombent/
 甩色 甩色 [shuai3 se4] {lat1 sik1} /déteindre; perdre sa couleur/
-????c 甩褲 甩裤 [shuai3 ku4] {lat1 fu3} /falling pants (spoken)/take off pants/to be extremely humiliated/
+????f 甩褲 甩裤 [shuai3 ku4] {lat1 fu3} /(fig.) être complètement humilié/(lit.) avoir des pantalons qui tombent/
 ????f 甩身 甩身 [shuai3 shen1] {lat1 san1} /(fig.) rompre une relation toxique/(fig.) s'échapper (à un mariage, un emploi, etc.)/(fig.) se sortir d'une mauvaise situation/(fig.) se tirer d'affaire/(lit.) tomber de son corps/
 甩難 甩难 [shuai3 nan2] {lat1 naan6} /(fig.) se sortir d'une mauvaise situation/(fig.) se tirer d'affaire/(lit.) des défis qui tombent/
 甩頭髮 甩头发 [shuai3 tou2 fa5] {lat1 tau4 faat3} /perdre ses cheveux/
@@ -22621,7 +22621,7 @@
 ????c 龍蟠虎踞 龙蟠虎踞 [long2 pan2 hu3 ju4] {lung4 pun4 fu2 geoi3} /a terrain of strategic importance/location with dangerous terrain/
 ????f 龍運巴士 龙运巴士 [long2 yun4 ba1 shi4] {lung4 wan6 baa1 si2} /Long Win Bus, compagnie d'autobus hongkongaise/
 龍門 龙门 [long2 men2] {lung4 mun4} /(football) filets/(football) gardien de but/porte du succès/célébrité; renommée; gloire/
-龍頭 龙头 [long2 tou2] {lung4 tau4} /tête du dragon/robinet/(fig.) tête de la queue/(fig.) patron; chef; leader/
+????f 龍頭 龙头 [long2 tou2] {lung4 tau4} /tête du dragon/robinet/(fig.) tête de la queue/(fig.) patron; chef; leader/(fig.) leader du marché/
 龍顏 龙颜 [long2 yan2] {lung4 ngaan4} /visage de l'empereur/
 ????f 龍鬚糖 龙须糖 [long2 xu1 tang2] {lung4 sou1 tong2} /(confiserie) barbe à dragon, confiserie similaire à la barbe à papa/
 龍鬚草 龙须草 [long2 xu1 cao3] {lung4 sou1 cou2} /(espèce de plantes) Eulaliopsis binata/
