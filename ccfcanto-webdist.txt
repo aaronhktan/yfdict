@@ -7867,7 +7867,7 @@
 心散 心散 [xin1 san3] {sam1 saan2} /distrait; préoccupé/
 ????f 心曲 心曲 [xin1 qu3] {sam1 kuk1} /être le plus intérieur; esprit intérieur/
 心機 心机 [xin1 ji1] {sam1 gei1} /dévouement; effort/attention; concentration/
-心水 心水 [xin1 shui3] {sam1 seoi2} /idée; pensée/état d'esprit/
+心水 心水 [xin1 shui3] {sam1 seoi2} /idée; pensée/état d'esprit/préférence; goût (pour quelque chose)/
 心水清 心水清 [xin1 shui3 qing1] {sam1 seoi2 cing1} /lucide; qui conçoit les choses clairement; qui connaît les détails/
 ????f 心涼 心凉 [xin1 liang2] {sam1 loeng4} /jubiler du malheur des autres/
 心淡 心淡 [xin1 dan4] {sam1 taam5} /découragé; démoralisé/
@@ -13103,7 +13103,7 @@
 煲冬瓜 煲冬瓜 [bao1 dong1 gua1] {bou1 dung1 gwaa1} /(très fam.) mandarin, « putonghua », langue officielle de la Chine/(orig.) de la prononciation en mandarin de 普通話|普通话, « putonghua » (« langue standard »)/(lit.) faire bouillir une courge cireuse/
 ????f 煲劇 煲剧 [bao1 ju4] {bou1 kek6} /(fig.) binge-watcher un roman-savon ou soap opera; regarder en un temps court plusieurs épisodes d'un soap opera/(lit.) faire bouillir un soap opera/
 煲呔 煲呔 [bao1 dai1] {bou1 taai1} /nœud papillon/(orig.) imitant la prononciation du mot anglais « bowtie » (« nœud papillon »)/
-煲水 煲水 [bao1 shui3] {bou1 seoi2} /bouillir de l'eau/(fig.) (nouvelles) fausses; inventées; exagérées/
+煲水 煲水 [bao1 shui3] {bou1 seoi2} /bouillir de l'eau/(fig.) (nouvelles) fausses; inventées; exagérées; dramatisées/
 煲水新聞 煲水新闻 [bao1 shui3 xin1 wen2] {bou1 seoi2 san1 man4} /(expr. idiom.) fausses nouvelles; rumeurs; ragots; calomnies; « fake news »/(lit.) nouvelles à l'eau bouillante/
 煲湯 煲汤 [bao1 tang1] {bou1 tong1} /faire de la soupe/
 煲無米粥 煲无米粥 [bao1 wu2 mi3 zhou1] {bou1 mou4 mai5 zuk1} /(expr. idiom.) parler de choses ou plans qui n'aboutissent à rien/(lit.) faire du congee sans riz/
@@ -14728,7 +14728,7 @@
 睇樓 睇楼 [di4 lou2] {tai2 lau2} /visiter une maison ou un appartement (avant de l'acheter ou louer)/
 ????f 睇檔 睇档 [di4 dang4] {tai2 dong3} /tenir le magasin; garder le magasin/tenir le stand; garder le stand/
 睇死 睇死 [di4 si3] {tai2 sei2} /(fig.) prévoir un échec; s'attendre à ce que quelqu'un échoue/(fig.) regarder de haut; dénigrer; mépriser/
-睇水 睇水 [di4 shui3] {tai2 seoi2} /surveiller; veiller; monter la garde; faire le guet/
+????f 睇水 睇水 [di4 shui3] {tai2 seoi2} /surveiller; veiller; monter la garde; faire le guet (souvent lors d'un activité clandestin)/
 睇水色 睇水色 [di4 shui3 se4] {tai2 seoi2 sik1} /observer la situation/
 睇法 睇法 [di4 fa3] {tai2 faat3} /opinion; avis; point de vue/
 睇波 睇波 [di4 bo1] {tai2 bo1} /regarder le foot; regarder un match de basket; regarder un match de n'importe quel sport avec un ballon/
@@ -21426,7 +21426,7 @@
 飛機裇 飞机裇 [fei1 ji1 xu1] {fei1 gei1 seot1} /veste; blousonn/
 飛機頭 飞机头 [fei1 ji1 tou2] {fei1 gei1 tau4} /(coiffure) Pompadour; rockabilly; coupe avec une houppe rehaussée sur le front tenue par la brillantine/(lit.) tête à l'avion/
 飛毛腿 飞毛腿 [fei1 mao2 tui3] {fei1 mou4 teoi2} /(fig.) personne qui peut courir très vite/(lit.) pied à plumes volantes/
-????f 飛水 飞水 [fei1 shui3] {fei1 seoi2} /faire cuire à l'eau bouillante pendant un instant/
+????f 飛水 飞水 [fei1 shui3] {fei1 seoi2} /faire cuire à l'eau bouillante pendant un instant; blanchir; ébouillanter/
 飛沙走奶 飞沙走奶 [fei1 sha1 zou3 nai3] {fei1 saa1 zau2 naai5} /(café) noir; sans lait ni sucre/(thé) sans lait ni sucre/(lit.) sucre qui vole et lait qui marche/
 飛滋 飞滋 [fei1 zi1] {fei1 zi1} /aphte; ulcère buccale/
 飛發 飞发 [fei1 fa1] {fei1 faat3} /couper les cheveux/
