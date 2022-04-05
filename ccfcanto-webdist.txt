@@ -1286,6 +1286,7 @@
 代理 代理 [dai4 li3] {doi6 lei5} /représentant; agent/remplacer (quelqu'un) pendant une courte durée/
 代言人 代言人 [dai4 yan2 ren2] {doi6 jin4 jan4} /porte-parole/
 代辦所 代办所 [dai4 ban4 suo3] {doi6 baan6 so2} /agence/
+????f 代購 代购 [dai4 gou4] {doi6 kau3} /acheter un produit qui n'est disponible que dans une certaine région géographique pour quelqu'un d'autre/
 ????f 令人難忘 令人难忘 [ling4 ren2 nan2 wang4] {ling6 jan4 naan4 mong4} /faire de l'effet (à quelqu'un); faire une grande impression (à quelqu'un)/(lit.) faire en sorte que l'on soit difficile d'oublier/
 令到 令到 [ling4 dao4] {ling6 dou3} /causer; amener (quelqu'un à faire quelque chose)/rendre (quelqu'un triste, etc.)/
 令嬡 令嫒 [ling4 ai4] {ling6 oi3} /(soutenu) votre fille/
@@ -11880,6 +11881,7 @@
 水鴨 水鸭 [shui3 ya1] {seoi2 aap3} /canard sauvage/
 水黃皮 水黄皮 [shui3 huang2 pi2] {seoi2 wong4 pei2} /(espèce de plantes) karanj; karanja; arbre de pongolote; Millettia pinnata/
 水龍捲 水龙卷 [shui3 long2 juan3] {seoi2 lung4 gyun2} /trombe marine/
+水泥磚 水泥砖 [shui3 ni2 zhuan1] {seoi1 nai4 zyun1} /parpaing; bloc de béton/
 ????f 永字八法 永字八法 [yong3 zi4 ba1 fa3] {wing5 zi6 baat3 faat3} /les huit traits du mot yong (永) — le mot contient les huits traits de base des sinogrammes de l'écriture chinois/
 永恆 永恒 [yong3 heng2] {wing5 hang4} /toujours; à jamais/éternel; perpétuel/
 永泰站 永泰站 [yong3 tai4 zhan4] {wing5 taai3 zaam6} /Yongtai Station, station du métro de Canton/
@@ -15040,7 +15042,8 @@
 社會福利 社会福利 [she4 hui4 fu2 li4] {se5 wui2 fuk1 lei6} /action sociale; assistance sociale/
 ????f 社會福利署 社会福利署 [she4 hui4 fu2 li4 shu3] {se5 wui2 fuk1 lei6 cyu5} /Ministère de l'aide sociale (du gouvernement de Hong Kong/
 社民連 社民连 [she4 min2 lian2] {se5 man4 lin4} /Ligue des sociaux-démocrates de Hong Kong/
-社論 社论 [she4lun4] {se5 leon6} /(journal) éditorial/
+社論 社论 [she4 lun4] {se5 leon6} /(journal) éditorial/
+????f 社畜 社畜 [she4 chu4] {se5 cuk1} /(fig.) (humoristique ou péj.) esclave salarié; personne qui se dédie au travail et sacrifie son santé mentale/(lit.) bétail de la société/
 祈禱文 祈祷文 [qi2 dao3 wen2] {kei4 tou2 man4} /prières/
 祈請 祈请 [qi2 qing3] {kei4 cing2} /supplier; prier/
 祓魔師 祓魔师 [fu2 mo2 shi1] {fat1 mo1 si1} /exorciste/
@@ -15305,6 +15308,7 @@
 空口講白話 空口讲白话 [kong1 kou3 jiang3 bai2 hua5] {hung1 hau2 gong2 baak6 waa2} /(expr. idiom.) faire des promesses vides/
 空寥寥 空寥寥 [kong1 liao2 liao2] {hung1 liu1 liu1} /vide; qui ne contient rien/
 ????f 空心老倌 空心老倌 [kong1 xin1 lao3 guan1] {hung1 sam1 lou5 gun1} /(fig.) personne incompétente; personne qui prétend être douée en quelque chose mais qui en réalité ne possède aucune compétence dans ce domaine/
+空心磚 空心磚 [kong1 xin1 zhuan1] {hung1 sam1 zyun1} /parpaing; bloc de béton/
 空手掉空臂 空手掉空臂 [kong1 shou3 diao4 kong1 bi4] {hung1 sau2 diu6 hung1 bei3} /rien à faire/rien à porter dans les bras/
 空框框 空框框 [kong1 kuang4 kuang5] {hung1 kwaang1 kwaang1} /vide; qui ne contient rien/
 空殼公司 空壳公司 [kong1 ke2 gong1 si1] {hung1 hok3 gung1 si1} /société écran/
@@ -18447,6 +18451,7 @@
 變種人 变种人 [bian4 zhong3 ren2] {bin3 zung2 jan4} /(personne) mutant/(univers Marvel) mutant/
 變遷 变迁 [bian4 qian1] {bin3 cin1} /changer; subir des changements/
 變音 变音 [bian4 yin1] {bin3 jam1} /changer de ton/changer de voix/
+????f 變磚 变砖 [bian4 zhuan1] {bin3 zyun1} /(technologie) être briqué; être en panne/(lit.) devenir une brique/
 變音符號 变音符号 [bian4 yin1 fu2 hao4] {bin3 jam1 fu4 hou2} /diacritique/
 變音記號 变音记号 [bian4 yin1 ji4 hao4] {bin3 jam1 gei3 hou6} /(musique) figure d'altération/
 ????c 讓 让 [rang4] {joeng6} /céder; concéder/ 
