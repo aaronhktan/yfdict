@@ -546,7 +546,7 @@
 下文 下文 [xia4 wen2] {haa6 man4} /(nouvelles) développements; faits nouveaux/
 下晏 下晏 [xia4 yan4] {haa6 aan3} /l'après-midi/
 下晝 下昼 [xia4 zhou4] {haa6 zau3} /l'après-midi/
-下欄 下栏 [xia4 lan2] {haa6 laan4} /pourboire/restants; nourriture qui reste d'un repas/
+下欄 下栏 [xia4 lan2] {haa6 laan4} /pourboire/restants; nourriture qui reste d'un repas; restes de nourriture/
 下氣 下气 [xia4 qi4] {haa6 hei3} /(médecine traditionnelle chinoise) calmer l'énergie interne/(se présenter, faire quelque chose) d'une manière timide/se calmer/
 ????f 下水船 下水船 [xia4 shui3 chuan2] {haa6 seoi2 syun4} /bateau en aval/cargaison suivante/
 下火 下火 [xia4 huo3] {haa6 fo2} /(médecine traditionnelle chinoise) diminuer la chaleur interne/
@@ -22754,4 +22754,16 @@
 上網代理 上网代理 [shang4 wang3 dai4 li3] {soeng5 mong5 doi6 lei5} /(informatique) proxy réseau/
 ????f 上足電 上足电 [shang4 zu2 dian4] {soeng5 zuk1 din6} /(fam.) avoir pris assez de la drogue (voir aussi 上電|上电)/
 上面落嚟 上面落嚟 [shang4 mian5 luo4 li2] {soeng6 min6 lok6 lei4} /(fam.) (d'une personne originaire de la Chine continentale) venir à Hong Kong/(lit.) descendre d'en haut/
+下星期見 下星期见 [xia4 xing1 qi1 jian4] {haa6 sing1 kei4 gin3} /(fam.) on se voit la semaine prochaine!/
+????f 下欄錢 下栏钱 [xia4 lan2 qian2] {haa6 laan4 cin2} /(fam.) argent supplémentaire gagné par le personnel d'un restaurant en vendant les restes de nourriture/(fam.) pourboire; service/
+不可數的 不可数的 [bu4 ke3 shu3 de5] {bat1 ho2 sou2 dik1} /innombrable/
+不安全 不安全 [bu4 an1quan2] {bat1 on1 cyun4} /dangereux/
+不小心 不小心 [bu4 xiao3 xin1] {bat1 siu2 sam1} /par accident/avec négligence/
+不懂 不懂 [bu4 dong3] {bat1 dung2} /ne pas savoir; ne pas connaître/ne pas comprendre/
+不明白 不明白 [bu4 ming2bai5] {bat1 ming4 baak6} /ne pas comprendre/
+不是的 不是的 [bu4 shi4de5] {bat1 si6 dik1} /non/
+不正 不正 [bu4 zheng4] {bat1 zing3} /malhonnête/indécent/
+不知幾... 不知几... [bu4 zhi1 ji3…] {bat1 zi1 gei2…} /très; tellement; autant; extrêmement (voir aussi 唔知幾|唔知几)/
+????c 不醉無歸 不醉无归 [bu4 zui4 wu2 gui1] {bat1 zeoi3 mou4 gwai1} /(expr. idiom.) (used to urge friends to drink until they are drunk)/
+不需 不需 [bu4 xu1] {bat1 seoi1} /non nécessaire; superflu/
 
