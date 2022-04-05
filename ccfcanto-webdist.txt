@@ -531,7 +531,7 @@
 下午茶 下午茶 [xia4 wu3 cha2] {haa6 ng5 caa4} /thé de l'après-midi/
 下半場 下半场 [xia4 ban4 chang3] {haa6 bun3 coeng4} /deuxième moitié (d'un jeu, d'un sport, d'une partie)/
 下半晝 下半昼 [xia4 ban4 zhou4] {haa6 bun3 zau3} /après-midi/
-下去 下去 [xia4qu4] {haa6 heoi3} /descendre (d'un étage à un autre)/
+下去 下去 [xia4 qu4] {haa6 heoi3} /descendre (d'un étage à un autre)/
 下咽 下咽 [xia4 yan4] {haa6 jin3} /avaler/
 下啖氣 下啖气 [xia4 dan4 qi4] {haa6 daam6 hei3} /avaler sa colère; réprimer sa colère/
 下嫁 下嫁 [xia4 jia4] {haa6 gaa3} /se marier/
@@ -22743,4 +22743,15 @@
 ????f 三陪 三陪 [san1 pei2] {saam1 pui4} /hôtesse de night-club; entraîneuse/(lit.) trois accompagnements/(orig.) l'hôtesse accompagne l'homme de trois façons : manger, boire, avoir des relations sexuelles/
 三點畢露 三点毕露 [san1 dian3 bi4lu4] {saam1 dim2 bat1 lou6} /(fig.) nudité frontale/(lit.) montrer les trois points (les mamelons et organes sexuels)/
 三點盡露 三点尽露 [san1 dian3 jin4 lu4] {saam1 dim2 zeon6 lou6} /(fig.) nudité frontale/(lit.) montrer les trois points (les mamelons et organes sexuels)/
+上一個嘅 上一个嘅 [shang4 yi1 ge5 ge3] {soeng6 jat1 go3 ge3} /du précédent/
+????c 上卡啦 上卡啦 [shang4 ka3 la5] {soeng5 kaa1 laa4} /(fam.) colorer/(orig.) de l'anglais « color »/
+????f 上屋搬下屋，唔見一籮穀 上屋搬下屋，唔见一箩谷 [shang4 wu1 ban1 xia4 wu1, n2 jian4 yi1 luo2 gu3] {soeng6 uk1 bun1 haa6 uk1, m4 gin3 jat1 lo4 guk1} /(expr. idiom.) on perd toujours quelque chose quand on déménage/(lit.) même si on ne déménage qu'un étage supérieur à un étage inférieur, on perd toujours (quelque chose qui vaut) un panier de céréales/
+????c 上莊 上庄 [shang4 zhuang1] {soeng5 zong1} /devenir membre d'une société (étudiante)/
+????c 上莊 上庄 [shang4 zhuang1] {soeng6 zong1} /membre d'une séance précédente d'une société/
+????f 上期 上期 [shang4 qi1] {soeng6 kei4} /période (de temps) précédente; exercice précédent/avance; acompte (notez que ce mot s'emploie généralement en parlant du loyer)/
+????f 上枱 上台 [shang4 tai2] {soeng5 toi2} /(d'un plat) être servi/(fig.) monter un coup contre (quelqu'un)/(lit.) monter sur la table/
+上檯 上台 [shang4 tai2] {soeng5 toi4} /monter sur scène/arriver au pouvoir; accéder au pouvoir/
+上網代理 上网代理 [shang4 wang3 dai4 li3] {soeng5 mong5 doi6 lei5} /(informatique) proxy réseau/
+????f 上足電 上足电 [shang4 zu2 dian4] {soeng5 zuk1 din6} /(fam.) avoir pris assez de la drogue (voir aussi 上電|上电)/
+上面落嚟 上面落嚟 [shang4 mian5 luo4 li2] {soeng6 min6 lok6 lei4} /(fam.) (d'une personne originaire de la Chine continentale) venir à Hong Kong/(lit.) descendre d'en haut/
 
