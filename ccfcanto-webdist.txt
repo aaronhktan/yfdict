@@ -43,6 +43,7 @@
 一來到 一来到 [yi1 lai2 dao4] {jat1 lei4 dou3} /dès l'arrivée (de quelqu'un)/
 一便 一便 [yi1 bian4] {jat1 bin6} /à part; séparément/(exprime la simultanéité) pendant que; tout en/
 一係 一系 [yi1 xi4] {jat1 hai6} /soit... soit.../(pour faire une suggestion) « qu'en est-il de... » ou « pourquoi pas… »/
+一係...一係 一系...一系 [yi1 xi4… yi1 xi4] {jat1 hai6… jat1 hai6} /soit... soit.../
 一個 一个 [yi1 ge5] {jat1 go3} /un, une/
 一個一個 一个一个 [yi1 ge5 yi1 ge5] {jat1 go3 jat1 go3} /un par un/
 一個中國 一个中国 [yi1 ge4 zhong1 guo2] {jat1 go3 zung1 gwok3} /politique d'une seule Chine/
@@ -3243,7 +3244,7 @@
 半日 半日 [ban4 ri4] {bun3 jat6} /demi-journée/
 半晝 半昼 [ban4 zhou4] {bun3 zau3} /demi-journée/
 半條人命 半条人命 [ban4 tiao2 ren2 ming4] {bun3 tiu4 jan4 meng6} /(expr. idiom.) s'épuiser au travail; se tuer au travail; être surchargé de travail/(lit.) moitié d'une vie humaine (= être à moitié mort)/
-半生熟 半生熟 [ban4 sheng1 shou2] {bun3 saang1 suk6} /mi-cuit/
+半生熟 半生熟 [ban4 sheng1 shou2] {bun3 saang1 suk6} /mi-cuit/(viande) cuit à point/
 半肥瘦 半肥瘦 [ban4 fei2 shou4] {bun3 fei4 sau3} /(viande) pas trop maigre et pas trop gras/
 半途而廢 半途而废 [ban4 tu2 er2 fei4] {bun3 tou4 ji4 fai3} /(expr.) abandonner à mi-chemin/
 ????f 半鹹半淡 半鹹半淡 [ban4 jian3 ban4 dan4] {bun3 haam4 bun3 taam5} /(expr. idiom.) ne pas avoir maîtrisé une langue ou une habileté/(lit.) entre salée et fade/
@@ -10421,7 +10422,7 @@
 易潔鑊 易洁镬 [yi4 jie2 huo4] {ji6 git3 wok6} /poêle antiadhésive/
 易燃 易燃 [yi4 ran2] {ji6 jin4} /combustible; inflammable/
 易話為 易话为 [yi4 hua4 wei2] {ji6 waa6 wai4} /(personne) facile à travailler avec/(problème) facile à résoudre/
-易過借火 易过借火 [yi4 guo4 jie4 huo3] {ji6 gwo3 ze3 fo2} /(fig.) très facile; du gateau/(lit.) plus facile qu'emprunter un briquet/
+易過借火 易过借火 [yi4 guo4 jie4 huo3] {ji6 gwo3 ze3 fo2} /(fig.) très facile; du gateau; simple comme bonjour/(lit.) plus facile qu'emprunter un briquet/
 昔日 昔日 [xi1 ri4] {sik1 jat6} /dans le passé; autrefois; jadis/
 星 星 [xing1] {sing1} /planète/étincelle/vedette; célébrité; star/(fam.) gifler/
 星光大道 星光大道 [xing1 guang1 da4 dao4] {sing1 gwong1 daai6 dou6} /Avenue of Stars, rue près du Victoria Harbour, à Hong Kong/
@@ -18961,7 +18962,7 @@
 趯 趯 [ti4] {dek3} /sauter/expulser/s'enfuir/
 趯更 趯更 [ti4 geng4] {dek3 gaang1} /s'enfuir/sécher le travail/
 趯路 趯路 [ti4 lu4] {dek3 lou2} /s'enfuir/
-足以 足以 [zu2yi3] {zuk1 ji5} /assez; suffisant/
+足以 足以 [zu2 yi3] {zuk1 ji5} /assez; suffisant/
 ????c 足水 足水 [zu2 shui3] {zuk1 seoi2} /to be satisfied and content; complacent/
 足球員 足球员 [zu2 qiu2 yuan2] {zuk1 kau4 jyun4} /footballeur/
 足部 足部 [zu2 bu4] {zuk1 bou6} /pied/de pied/
@@ -22665,4 +22666,21 @@
 ????f Ｕｎ身Ｕｎ勢 Ｕｎ身Ｕｎ势 [Ｕｎ shen1Ｕｎ shi4] {an3 san1 an3 sai3} /se déhancher/
 Ｖａｎ仔 Ｖａｎ仔 [Ｖａｎ zi3] {wen1 zai2} /fourgonnette; camionnette/minivan/
 ????f ＸＯ醬 ＸＯ酱 [ＸＯ jiang4] {ik1 si4 ou1 zoeng3} /sauce XO, sauce épicée aux fruits de mer d'origine cantonaise/
+一人行一步 一人行一步 [yi1 ren2 xing2 yi1 bu4] {jat1 jan4 haang4 jat1 bou6} /(exr.) trouver un compromis/(lit.) chaque personne avance d'un pas/
+????f 一個崩都冇少到 一个崩都冇少到 [yi1 ge5 beng1 dou1 mao3 shao3 dao4] {jat1 go3 bang1 dou1 mou5 siu2 dou3} /(expr. idiom.) montant d'argent exactement comme prévu/(lit.) même pas un sou qui manque/
+一個碼 一个码 [yi1 ge5 ma3] {jat1 go3 maa5} /(vêtements) taille unique/
+????c 一個願打，一個願捱 一个愿打，一个愿捱 [yi1 ge5 yuan4 da3, yi1 ge5 yuan4 ai2] {jat1 go3 jyun6 daa2, jat1 go3 jyun6 ngaai4} /(compatible couple? does it imply abuse or is it just a humourous expression?) both parties are willing; one likes to hit whilst the other is willing to suffer [written and colloquial]/
+????f 一劈屎 一劈屎 [yi1 pi1 shi3] {jat1 pek3 si2} /un tas de crottes/(fig.) un bon à rien/(fig.) objet ou travail de mauvaise qualité/
+????f 一劈泥 一劈泥 [yi1 pi1 ni2] {jat1 pek3 nai4} /un tas de terre/(fig.) un bon à rien/(fig.) objet ou travail de mauvaise qualité/
+一句唔該使死人 一句唔该使死人 [yi1 ju4 wu2 gai1 shi3 si3 ren2] {jat1 geoi3 m4 goi1 sai2 sei2 jan4} /(expr. idiom.) profiter de quelqu'un; trop exiger de quelqu'un sans les récompenser de manière appropriée/(lit.) dire « merci » puis user quelqu'un à mort/
+一字咁淺 一字咁钱 [yi1 zi4 gan1 qian2] {jat1 zi6 gam3 cin2} /(expr. idiom.) très facile; du gâteau; simple comme bonjour/(lit.) facile comme le mot « un »/
+一家便宜兩家著 一家便宜两家着 [yi1 jia1 bian4 yi2 liang3 jia1 zhe5] {jat1 gaa1 pin4 ji4 loeng5 gaa1 zoek6} /(expr. idiom.) situation gagnant-gagnant/
+????f 一實 一实 [yi1 shi2] {jat1 sat6} /certainement/
+一干嘢 一干嘢 [yi1 gan1 ye3] {jat1 gon1 je5} /(fig.) mille dollars/
+一年中 一年中 [yi1 nian2 zhong1] {jat1 nin4 zung1} /pendant la période d'un an; en un an/
+一成熟 一成熟 [yi1 cheng2 shu2] {jat1 sing4 suk6} /(viande) saignant/(voir aussi) 全生|全生/ 
+????c 一抽二 一抽二 [yi1 chou1 er4] {jat1 cau1 ji6} /to fight one against two [colloquial]/
+????f 一抽二ｌｕｎ 一抽二ｌｕｎ [yi1 chou1 er4ｌｕｎ] {jat1 cau1 ji6 lang3} /????to be carrying many bags/(fig.) avoir beaucoup d'obligations familiales/
+????f 一抽二ｌｕｎｇ 一抽二ｌｕｎｇ [yi1 chou1 er4ｌｕｎｇ] {jat1 cau1 ji6 lang3} /????to be carrying many bags/(fig.) avoir beaucoup d'obligations familiales/
+一拃 一拃 [yi1 zha3] {jat1 zaa6} /une poignée de (quelque chose)/
 
