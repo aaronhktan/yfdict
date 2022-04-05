@@ -6971,6 +6971,7 @@
 尼龍絲襪 尼龙丝袜 [ni2 long2 si1 wa4] {nei4 lung4 si1 mat6} /bas en nylon/
 尾 尾 [wei3] {mei5} /fin (d'une histoire, film, etc.)/dernier/
 尾二 尾二 [wei3 er4] {mei5 ji6} /avant-dernier/
+????c 尾水 尾水 [wei3 shui3] {mei5 seoi2} /quelque chose qui prend fin/
 尾喉 尾喉 [wei3 hou2] {mei5 hau4} /(mécanique) silencieux/
 尾場 尾场 [wei3 chang3] {mei5 coeng4} /dernier spectacle/dernière partie (d'un jeu)/
 尾尾屎 尾尾屎 [wei3 wei3 shi3] {mei1 mei1 si2} /le dernier/
@@ -8831,6 +8832,7 @@
 抄牌 抄牌 [chao1 pai2] {caau1 paai4} /imposer une amende pour une infraction au code de la route/
 抆 抆 [wen4] {man2} /essuyer/
 ????f 抆屎 抆屎 [wen3 shi3] {man2 si2} /nettoyer les fesses; s'essuyer le derrière/
+????f 抆水 抆水 [wen3 shui3] {man3 seoi2} /de peu; de justesse; par une marge très petite/ne pas suffire; ne pas être assez; être juste sous une limite; être légèrement sous-qualifié/
 ????f 抇 抇 [hu2] {wat6} /creuser/
 把口唔收 把口唔收 [ba3 kou3 wu2 shou1] {baa2 hau3 m4 sau1} /(expr.) parler sans filtre/(expr.) impoli; grossier/
 ????c 把家 把家 [ba3 jia1] {baa2 gaa1} /gérer les affaires domestiques; gérer un ménage/
@@ -10387,6 +10389,7 @@
 昆侖 昆仑 [kun1 lun2] {kwan1 leon4} /cordillère du Kunlun, chaîne de montagnes en Asie/
 昆市 昆市 [kun1 shi4] {kwan1 si5} /Quincy, ville de Massachusetts/ 
 昆布 昆布 [kun1 bu4] {kwan1 bou3} /(médecine traditionnelle chinoise) kelp, espèce d'algue/
+????f 昆水 昆水 [kun1 shui3] {kwan1 seoi2} /escroquer quelqu'un de son argent/
 昇降機 升降机 [sheng1 jiang4 ji1] {sing1 gong3 gei1} /ascenseur/
 昌崗站 昌岗站 [chang1 gang3 zhan4] {coeng1 gong1 zaam6} /Changgang Station, station du métro de Canton/
 昌隆 昌隆 [chang1 long2] {coeng1 lung4} /prospère; florissant/
@@ -11951,6 +11954,7 @@
 沒關係 没关系 [mei2 guan1 xi5] {mut6 gwaan1 hai6} /sans rapport (avec)/(formule de politesse) ce n'est pas grave! ne t'inquiète pas!/
 ????f 沓 沓 [da2] {daap6} /(s'emploie pour dire que la grande aiguille d'une horloge pointe sur un nombre, ex. 沓三 « pointer sur le trois » signifie « ...h15 » 沓三过半子 « pointer sur le trois et demi » signifie « ...h17 » ou « ...h18 »)/
 ????f 沓正 沓正 [da2 zheng4] {daap6 zeng3} /précisément; exactement/heure pile; précisément à telle ou telle heure/heure pile; « ...h00 »/
+沓水 沓水 [da2 shui3] [daap6 seoi2] /riche (voir aussi 疊水|叠水)/
 沖廁 冲厕 [chong1 ce4] {cung1 ci3} /(toilette) tirer la chasse d'eau/
 沖曬 冲晒 [chong1 shai4] {cung1 saai3} /(photographie) développer et imprimer/
 沖涼 冲凉 [chong1 liang2] {cung1 loeng4} /se doucher; prendre une douche/se baigner/
@@ -17987,6 +17991,7 @@
 ????f 見高就拜見低就踩 见高就拜见低就踩 [jian4 gao1 jiu4 bai4 jian5 di1 jiu4 cai3] {gin3 gou1 zau6 baai3 gin3 dai1 zau6 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
 ????f 見高拜見低踩 见高拜见低踩 [jian4 gao1 bai4 jian5 di1 cai3] {gin3 gou1 baai3 gin3 dai1 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
 見鬼 见鬼 [jian4 gui3] {gin3 gwai2} /mince! merde!/va te faire voir! va te faire foutre!/(lit.) voir un fantôme/
+????f 見財化水 见财化水 [jian4 cai2 hua4 shui3] {gin3 coi4 faa3 seoi2} /ne pas arriver à gagner une somme d'argent que l'on allait bientôt recevoir/(lit.) voir les richesses se transformer en eau/
 規模 规模 [gui1 mo2] {kwai1 mou4} /échelle; portée; étendue (d'une action)/
 規畫 规画 [gui1 hua4] {kwai1 waak6} /planifier/plan; projet/
 ????f 親兄弟 亲兄弟 [qin1 xiong1 di4] {can1 hing1 dai6} /frère de sang (pas dans le sens figuré)/
