@@ -1290,6 +1290,7 @@
 ????f 令人難忘 令人难忘 [ling4 ren2 nan2 wang4] {ling6 jan4 naan4 mong4} /faire de l'effet (à quelqu'un); faire une grande impression (à quelqu'un)/(lit.) faire en sorte que l'on soit difficile d'oublier/
 令到 令到 [ling4 dao4] {ling6 dou3} /causer; amener (quelqu'un à faire quelque chose)/rendre (quelqu'un triste, etc.)/
 令嬡 令嫒 [ling4 ai4] {ling6 oi3} /(soutenu) votre fille/
+令尊 令尊 [ling4 zun1] {ling6 zyun1} /(honor.) père/
 以 以 [yi3] {ji5} /donc/
 以上 以上 [yi3 shang4] {ji5 soeng6} /au dessus/plus haut/
 以下 以下 [yi3 xia4] {ji5 haa6} /en dessous/plus bas/
@@ -16932,8 +16933,8 @@
 𦧲飯應 𦧲饭应 [fan4 ying1] {loe1 faan6 jing3} /(fig.) accepter sans hésitation/(lit.) recracher du riz pour répondre/
 舞 舞 [wu3] {mou5} /danser/jouer/
 舞台劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre/
-????f 舞女 舞女 [wu3 nu:3] {mou5 neoi2} /danseuse/hôtesse d'un night-club; entraîneuse/strip-teaseuse/escorte (de sexe féminin)/
-????f 舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /hôtesse d'un night-club; entraîneuse/strip-teaseuse/
+????f 舞女 舞女 [wu3 nu:3] {mou5 neoi2} /danseuse/hôtesse d'une boîte de nuit; entraîneuse/strip-teaseuse/escorte (de sexe féminin)/
+????f 舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /hôtesse d'une boîte de nuit; entraîneuse/strip-teaseuse/
 ????c 舞文弄墨 舞文弄墨 [wu3 wen2 nong4 mo4] {mou5 man4 lung6 mak6} /(positive or negative connotation? does it have to do with the law?) show off literary skill; to play with words/
 舞男 舞男 [wu3 nan2] {mou5 naam4} /gigolo; escorte (de sexe masculin)/
 舞臺劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre/
@@ -20539,7 +20540,7 @@
 阿跛 啊跛 [a5 bo3] {aa3 bai1} /appellation donné à une personne qui boite; boiteux/
 阿頭 啊头 [a5 tou2] {aa3 tau2} /patron; chef; leader/
 ????f 阿駝行路 啊駝行路 [a5 chi2 xing2 lu4] {aa3 to2 haang4 lou6} /(expr. en suspens) moyen; passable; adéquat/(lit.) monsieur le bossu traverse la rue (deuxième partie 中中哋|中中哋 zung1 zung1 dei2 « moyen », jeu de mots avec 舂舂哋|舂舂哋 zung1 zung1 dei2 « avoir l'air de presque tomber à chaque instant »)/
-????f 阿麗 阿利 [a1 li4] {aa3 lai6} /hôtesse d'un night-club; entraîneuse/prostituée/
+????f 阿麗 阿利 [a1 li4] {aa3 lai6} /hôtesse d'une boîte de nuit; entraîneuse/prostituée/
 ????f 陀 陀 [tuo2] {to4} /armer (d'une arme à feu)/(doublé) pris de vertige; avoir la tête qui tourne/(utilisé dans les translittérations de noms Bouddhistes)/
 陀地 陀地 [tuo2 di4] {to4 dei2} /taxe de protection; pizzo; racket de protection/membre de gang/
 陀地費 陀地费 [tuo2 di4 fei4] {to4 dei6 fai3} /taxe de protection; pizzo; racket de protection/
@@ -22644,6 +22645,7 @@
 ????f 龍鬚糖 龙须糖 [long2 xu1 tang2] {lung4 sou1 tong2} /(confiserie) barbe à dragon, confiserie similaire à la barbe à papa/
 龍鬚草 龙须草 [long2 xu1 cao3] {lung4 sou1 cou2} /(espèce de plantes) Eulaliopsis binata/
 龍鼓灘 龙鼓滩 [long2 gu3 tan1] {lung4 gu2 taan1} /Lung Kwu Tan, région de Hong Kong/
+龜 龟 [gui1] {gwai1} /(péj.) flic; police/(fam.) (vulg.) pénis (voir 龜頭|龟头)/(péj.) être lâche; être peureux/
 龜婆 龟婆 [gui1 po2] {gwai1 po2} /tenancière de bordel/
 龜背 龟背 [gui1 bei4] {gwai1 bui3} /gilet matelassé/déviation de la colonne vertébrale/
 龜苓膏 龟苓膏 [gui1 ling2 gao1] {gwai1 ling4 gou1} /guīlínggāo, gelée fabriquée à l'aide de poudre de plastrons de tortues et d'herbes médicinales/
@@ -22748,7 +22750,7 @@
 ????c 三年唔發市，發市當三年 三年唔发市，发市当三年 [san1 nian2 wu2 fa1 shi4, fa1 shi4 dang1 san1 nian2] {saam1 nin4 m4 faat3 si5, faat3 si5 dong3 saam1 nin4} /to have an unexpectedly huge upturn / win after a long period of downturn [colloquial]/
 三度板斧 三度板斧 [san1 du4 ban3 fu3] {saam1 dou6 baan2 fu2} /(expr. idiom.) n'avoir que quelques manières de résoudre un problème; n'avoir que très peu de compétences/(lit.) (n'avoir que) trois coups de hache/
 三成熟 三成熟 [san1 cheng2 shu2] {saam1 sing4 suk6} /(viande) saignant/(lit.) cuit à trente pourcent/
-????f 三陪 三陪 [san1 pei2] {saam1 pui4} /hôtesse de night-club; entraîneuse/(lit.) trois accompagnements/(orig.) l'hôtesse accompagne l'homme de trois façons : manger, boire, avoir des relations sexuelles/
+????f 三陪 三陪 [san1 pei2] {saam1 pui4} /hôtesse d'une boîte de nuit; entraîneuse/(lit.) trois accompagnements/(orig.) l'hôtesse accompagne l'homme de trois façons : manger, boire, avoir des relations sexuelles/
 三點畢露 三点毕露 [san1 dian3 bi4lu4] {saam1 dim2 bat1 lou6} /(fig.) nudité frontale/(lit.) montrer les trois points (les mamelons et organes sexuels)/
 三點盡露 三点尽露 [san1 dian3 jin4 lu4] {saam1 dim2 zeon6 lou6} /(fig.) nudité frontale/(lit.) montrer les trois points (les mamelons et organes sexuels)/
 上一個嘅 上一个嘅 [shang4 yi1 ge5 ge3] {soeng6 jat1 go3 ge3} /du précédent/
@@ -22943,4 +22945,36 @@
 信用卡號碼 信用卡号码 [xin4 yong4 ka3 hao4 ma3] {seon3 jung6 kaat1 hou6 maa5} /numéro de carte de crédit/
 修頓球場 修顿球场 [xiu1 dun4 qiu2 chang3] {sau1 deon6 kau4 coeng4} /Southorn Playground, établissement sportif à Hong Kong/
 ????c 俾人屌到撻皮 俾人屌到挞皮 [bi3 ren2 diao3 dao4 ta4 pi2] {bei2 jan4 diu2 dou3 taat3 pei4} /(expr.) être roué de coups; être tabassé/
+俾人燉 俾人炖 [bi3 ren2 dun4] {bei2 jan4 dan6} /être rétrogradé (voir aussi 燉冬菇|燉冬菇 dan6 dung1 gu1)/
+俾人睇死 俾人睇死 [bi3 ren2 di4 si3] {bei2 jan4 tai2 sei2} /(fig.) être méprisé/
+????f 俾人賣豬仔 俾人卖猪仔 [bi3 ren2 mai4 zhu1 zai3] {bei2 jan4 maai6 zyu1 zai2} /(fig.) être victime de la traite des personnes; être vendu comme coolie (voir aussi 賣豬仔|卖猪仔)/(lit.) être vendu comme un cochon/
+俾人飛 俾人飞 [bi3 ren2 fei1] {bei2 jan4 fei1} /(fig.) se faire poser un lapin (voir aussi 放飛機|放飞机)/
+俾人食咗隻豬 俾人食咗只猪 [bi3 ren2 shi2 zuo5 zhi1 zhu1] {bei2 jan4 sik6 zo2 zek3 zyu1} /(fam.) perdre sa virginité/(lit.) avoir son cochon mangé/
+????f 俾鬼迷 俾鬼迷 [bi3 gui3 mi2] {bei2 gwai2 mai4} /être ensorcelé (par un esprit malveillant)/
+俾龜逗 俾龟逗 [bi3 gui1 dou4] {bei2 gwai1 dau6} /(fam.) être arrêté et fouillé par la police/
+倀雞 伥鸡 [chang1 ji1] {caang4 gai1} /(fam.) femme farouche; mégère; femme acariâtre/
+倀雞婆 伥鸡婆 [chang1 ji1 po2] {coeng1 gai1 po2} /(fam.) femme farouche; mégère; femme acariâtre/
+倒入 倒入 [dao4 ru4] {dou2 jap6} /verser/
+倒及 倒及 [dao4 ji2] {dou3 kap6} /(fam.) sous-occlusion; prognathisme; avoir une mâchoire saillante/
+????c 倔住晒 倔住晒 [jue2 zhu4 shai4] {gwat6 zyu6 saai3} /to be under the constant glare of others; to be constantly under the watchful eyes of others/
+????c 借女 借女 [jie4 nu:3] {ze3 neoi2} /borrowing of prostitutes between brothels/(lit.) emprunt des filles/
+????f 借過橋 借过桥 [jie4 guo4 qiao2] {ze3 gwo3 kiu4} /prendre (quelque chose) comme excuse; employer (quelque chose) comme excuse/(lit.) emprunter (quelque chose) pour traverser le pont/
+????c 借馬 借马 [jie4 ma3] {ze3 maa5} /borrowing of members between triad gangs/(lit.) emprunt des chevaux/
+????c 做ＰＲ 做ＰＲ [zuo4ＰＲ] {zou6 pi1 aa1 lou4} /être porte-parole; être employé comme le représantant des relations publiques/(fig.) travailler comme hôtesse de boîte de nuit/
+????f 做乜撚嘢 做乜撚嘢 [zuo4 mie1 nian3 ye3] {zou6 mat1 lan2 je5} /mais qu'est-ce que tu fous? tu fais quoi bordel?/
+做企台 做企台 [zuo4 qi3 tai2] {zou6 kei5 toi2} /travailler comme serveur, travailler comme serveuse/
+????c 做出面 做出面 [zuo4 chu1 mian4] {zou6 ceot1 min2} /(fam.) to do something so manifestly that it is obvious to all/
+????f 做到一隻屐咁 做到一只屐咁 [zuo4 dao4 yi1 zhi1 lu:3 gan1] {zou6 dou3 jat1 zek3 kek6 gam2} /(expr. idiom.) travailler comme un chien/(lit.) travailler comme un sabot/
+????f 做到隻積咁 做到只积咁 [zuo4 dao4 zhi1 ji1 gan1] {zou6 dou3 zek3 zik1 gam2} /(expr. idiom.) travailler comme un chien/(lit.) travailler comme un cric/
+做勢 做势 [zuo4 shi4] {zou6 sai3} /(fam.) jouer la comédie; se donne des airs/
+做咗 做咗 [zuo4 zuo5] {zou6 zo2} /avoir fait/être devenu/
+????f 做場好戲 做场好戏 [zuo4 chang3 hao3 xi4] {zou6 coeng4 hou2 hei3} /(fam.) faire bonne figure; faire semblant (et être convaincant)/(lit.) monter un bon spectacle/
+????f 做場戲 做场戏 [zuo4 chang3 xi4] {zou6 coeng4 hei3} /(fam.) faire semblant (et être convaincant); réussir à tromper quelqu'un/(lit.) monter un spectacle/
+做小姐 做小姐 [zuo4 xiao3 jie5] {zou6 siu2 ze2} /(fam.) être hôtesse d'une boîte de nuit/(fam.) être une prostituée/
+做盛行 做盛行 [zuo4 sheng4 xing2] {zou6 sing6 hong4} /(poli) que faites-vous dans la vie?/
+????f 做阿四 做啊四 [zuo4 a5 si4] {zou6 aa3 sei3} /être un servant, une servant; être une bonne/(fig.) être une personne sans importance, qui fait les travaux serviles/
+????f 做齣好戲睇 做出好戏睇 [zuo4 chu1 hao3 xi4 di4] {zou6 ceot1 hou2 hei3 tai2} /(expr. idiom.) faire bonne figure; faire semblant (et être convaincant)/(lit.) monter un bon spectacle/
+健身中心 健身中心 [jian4 shen1 zhong1 xin1] {gin6 san1 zung1 sam1} /centre de conditionnement physique/
+健身活動 健身活动 [jian4 shen1 huo2 dong4] {gin6 san1 wut6 dung6} /exercice; activités sportives; activités physiques/
+偷柴 偷柴 [tou1 chai2] {tau1 caai4} /(fam.) bander; avoir une érection du pénis/(lit.) voler du bois de chauffage/
 
