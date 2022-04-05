@@ -1049,7 +1049,7 @@
 ????f 五窮六絕 五穷六绝 [wu3 qiong2 liu4 jue2] {ng5 kung4 luk6 zyut6} /désespéré/(HK) hors saison (utilisé par l'industrie du cinéma pour décrire les mois entre avril et juin)/(lit.) pauvre en mai, impasse en juin/
 五花茶 五花茶 [wu3 hua1 cha2] {ng5 faa1 caa4} /tisane infusée de cinq types de fleurs/
 ????f 五蛇羹 五蛇羹 [wu3 she2 geng1] {ng5 se4 gang1} /soupe faite avec cinq types de serpents/
-????c 五行欠打 五行欠打 [wu3 xing2 qian4 da3] {ng5 hang4 him3 daa2} /(enfant) déobéissant; vilain/
+五行欠打 五行欠打 [wu3 xing2 qian4 da3] {ng5 hang4 him3 daa2} /(fam.) canaille; crapule/(fam.) (enfant) déobéissant; vilain/
 五行欠水 五行欠水 [wu3 xing2 qian4 shui3] {ng5 hang4 him3 seoi2} /ne pas avoir d'argent; être pauvre; être indigent/
 五行缺水 五行缺水 [wu3 xing2 que1 shui3] {ng5 hang4 kyut3 seoi2} /ne pas avoir d'argent; être pauvre; être indigent/
 五邑 五邑 [wu3 yi4] {ng5 jap1} /Wuyi, une région située dans le delta de la rivière des Perles qui inclut les cinq comptés de Heshan, Xinhui, Taishan, Kaiping, et Enping/
@@ -9517,6 +9517,7 @@
 ????f 搵著數 揾着数 [wen3 zhao1 shu4] {wan2 zoek6 sou3} /chercher une manière de se donner un avantage/exploiter quelqu'un; abuser de la gentillesse de quelqu'un/
 搵銀 揾银 [wen3 yin2] {wan2 ngan2} /gagner de l'argent; faire de l'argent/gagner sa vie/
 搵錢 揾钱 [wen4 qian2] {wan2 cin2} /gagner de l'argent; faire de l'argent/tourner un profit; réaliser un profit/
+搵五姑娘 揾五姑娘 [wen4 wu3 gu1 niang5] {wan2 ng5 gu1 noeng2} /(fam.) (d'un homme) se masturber/(lit.) chercher mademoiselle cinq/
 搶劫犯 抢劫犯 [qiang3 jie2 fan4] {coeng2 gip3 faan6} /voleur; cambrioleur/
 ????f 搶包山 抢包山 [qiang3 bao1 shan1] {coeng2 baau1 saan1} /Cheung Chau Bun Festival (« fête des petits pains de Cheung Chau »), tradition de l'île de Cheung Chau qui consiste à grimper sur des tours de bambou décorée avec de petits pains/
 ????f 搶嘢 抢嘢 [qiang3 ye3] {coeng2 je5} /voler par la force; prendre par la force; prendre de force/
@@ -10477,7 +10478,7 @@
 昧水 昧水 [mei4 shui3] {mui6 seoi2} /plonger dans l'eau/
 ????c 昧水舂牆 昧水舂墙 [mei4 shui3 chong1 qiang2] {mei6 seoi2 zung1 coeng4} /(expr. idiom.) déterminé, résolu, obstiné/(lit.) plonger dans l'eau et heurter des murs/
 昨早 昨早 [zuo2 zao3] {zok6 zou2} /hier matin/
-是但 是但 [shi4 dan4] {si6 daan6} /bâclé, fait n'importe comment; fait sans soin/ça m'est égal; comme tu veux/
+是但 是但 [shi4 dan4] {si6 daan6} /bâclé; à la va-vite; peu soigné/ça m'est égal; c'est comme tu veux/
 是必 是必 [shi4 bi4] {si6 bit1} /certainement; sûrement/devoir; être nécessaire/
 是日 是日 [shi4 ri4] {si6 jat6} /(soutenu) aujourd'hui/(quelque chose) du jour/
 是日例湯 是日例汤 [shi4 ri4 li4 tang1] {si6 jat6 lai6 tong1} /soupe du jour/
@@ -22810,4 +22811,20 @@
 亂過亂葬崗 乱过乱葬岗 [luan4 guo4 luan4 zang4 gang3] {lyun6 gwo3 lyun6 zong3 gong1} /(expr. idiom.) (fam.) chaotique/(expr. idiom.) (fam.) en désordre/(expr. idiom.) (fam.) foutu en l'air/(lit.) plus désordonné qu'un tertre funéraire/
 ????c 了番出嚟 了番出嚟 [le5 fan1 chu1 li2] {liu1 faan1 ceot1 lei4} /to dig it back out; to fish it back out; to bring up something from the past/
 了鼻屎 了鼻屎 [le5 bi2 shi3] {liu1 bei6 si2} /se curer le nez/
+事九旦旦 事九旦旦 [shi4 jiu3 dan4 dan4] {si6 gau1 daan6 daan6} /(vulg.) je m'en fiche; ça m'est égal/(vulg.) bâclé; à la va-vite; peu soigné/
+事鳩旦旦 事鸠旦旦 [shi4 jiu3 dan4 dan4] {si6 gau1 daan6 daan6} /(vulg.) je m'en fiche; ça m'est égal/(vulg.) bâclé; à la va-vite; peu soigné/
+事事關心 事事关心 [shi4 shi4 guan1 xin1] {si6 si6 gwaan1 sam1} /s'intéresser à tout/
+事但 事但 [shi4 dan4] {si6 daan6} /bâclé; à la va-vite; peu soigné/ça m'est égal; c'est comme tu veux/
+事旦 事旦 [shi4 dan4] {si6 daan6} /bâclé; à la va-vite; peu soigné/ça m'est égal; c'est comme tu veux/
+事蹟 事迹 [shi4 ji4] {si6 zik1} /réussite; exploit/
+二個字 二个字 [er4 ge4 zi4] {ji6 go3 zi6} /dix minutes/deux caractères/
+????c 二廚 二厨 [er4 chu2] {ji6 cyu2} /sous-chef/
+????c 二廠 二厂 [er4 chang3] {ji6 cong2} /(fam.) maîtresse; amante/(fam.) deuxième femme/(lit.) deuxième usine/
+????f 二手書店 二手书店 [er4 shou3 shu1 dian4] {ji6 sau2 syu1 dim3} /boutique de livres d'occasion/
+????c 二路元帥 二路元帅 [er4 lu4 yuan2shuai4] {ji6 lou6 jyun4 seoi3} /(Triade, mafia chinoise) second; bras droit/
+五姑娘 五姑娘 [wu3 gu1 niang5] {ng5 gu1 noeng2} /(fam.) (d'un homme) la main utilisée pour se masturber/(lit.) mademoiselle cinq/
+五成熟 五成熟 [wu3 cheng2 shu2] {ng5 sing4 suk6} /(steak) cuit à point/(lit.) cuit à cinquante pour cent/
+五行欠炳 五行欠炳 [wu3 xing2 qian4 bing3] {ng5 hang4 him3 bing2} /(fam.) canaille; crapule/(fam.) (enfant) déobéissant; vilain/
+亞士匹靈 亚士匹灵 [ya4 shi4 pi3 ling2] {aa3 si6 pat1 ling4} /aspirine/
+亞洲式 亚洲式 [ya4 zhou1 shi4] {aa3 zau1 sik1} /style asiatique/
 
