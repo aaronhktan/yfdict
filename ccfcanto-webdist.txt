@@ -1352,7 +1352,7 @@
 伊利近街 伊利近街 [yi1 li4 jin4 jie1] {ji1 lei6 gan6 gaai1} /rue Elgin, une rue située à Central, Hong Kong/
 伊士 伊士 [yi1 shi4] {ji1 si6} /levure/(orig.) de l'anglais « yeast », levure/
 伊府麵 伊府面 [yi1 fu3 mian4] {ji1 fu2 min6} /nouilles yi mein, également appelés e-fu/
-伊挹 伊挹 [yi1 yi4] {ji1 jap1} /relation amoureuse secrète/
+伊挹 伊挹 [yi1 yi4] {ji1 jap1} /se peloter; se livrer à des caresses intimes/
 伊撈七 伊捞七 [yi1 lao1 qi1] {ji1 laau4 cat1} /généralement/
 伊斯蘭教 伊斯兰教 [yi1 si1 lan2 jiao4] {ji1 si1 laan4 gaau3} /islam/islamique/
 伊朗伊斯蘭共和國 伊朗伊斯兰共和国 [yi1 lang3 yi1 si1 lan2 gong4 he2 guo2] {ji1 long5 ji1 si1 laan4 gung6 wo4 gwok3} /la république islamique d'Iran/
@@ -1597,8 +1597,9 @@
 依據 依据 [yi1 ju4] {ji1 geoi3} /être conforme à/selon/
 依時 依时 [yi1 shi2] {ji1 si4} /à l'heure/
 依時依候 依时依候 [yi1 shi2 yi1 hou4] {ji1 si4 ji1 hau6} /à l'heure/
-????c 依牙鬆槓 依牙松杠 [yi1 ya2 song1 gang4] {ji1 ngaa4 sung1 gung3} /(to speak out of turn?)/(lit.) montrer ses dents et son menton/
-????c 依牙鬆鋼 依牙松钢 [yi1 ya2 song1 gang1] {ji1 ngaa4 sung1 gong3} /(to speak out of turn?)/(lit.) montrer ses dents et son menton/
+????c 依牙鬆槓 依牙松杠 [yi1 ya2 song1 gang4] {ji1 ngaa4 sung1 gung3} /(to speak out of turn? to heckle?)/(lit.) montrer ses dents et son menton/
+????c 依牙鬆鋼 依牙松钢 [yi1 ya2 song1 gang1] {ji1 ngaa4 sung1 gong3} /(to speak out of turn? to heckle?)/(lit.) montrer ses dents et son menton/
+????c 依牙鬆弶 依牙松弶 [yi1 ya2 song1 jiang4] {ji1 ngaa4 sung1 gong3} /(to speak out of turn? to heckle?)/(lit.) montrer ses dents et son menton/
 依足 依足 [yi1 zu2] {ji1 zuk1} /suivre les règles précisément comme elles sont écrites; faire quelque chose à la lettre/
 ????c 依鬱 依郁 [yi1 yu4] {ji1 juk1} /malheur; (bad change?)/
 侯斯頓 侯斯顿 [hou2 si1 dun4] {hau4 si1 deon6} /Houston, une ville de l'état de Texas dans le États-Unis/
@@ -4071,7 +4072,7 @@
 咿咿哦哦 咿咿哦哦 [yi1 yi1 o2 o2] {ji4 ji1 o4 o4} /parler sans arrêt des choses qui n'ont pas d'importance/se plaindre sans arrêt/
 ????f 咿咿喐喐 咿咿喐喐 [yi1 yi1 yu4 yu4] {ji1 ji1 juk1 juk1} /(enfant) être incapable de rester immobile/
 ????f 咿喐 咿喐 [yi1 yu4] {ji1 juk1} /premier signe de difficulté/
-????f 咿挹 咿挹 [yi1 yi4] {ji1 jap1} /être dans une relation amoureuse secrète/
+咿挹 咿挹 [yi1 yi4] {ji1 jap1} /se peloter; se livrer à des caresses intimes/
 咿排 咿排 [yi1 pai2] {ji1 paai4} /récemment; dernièrement (voir aussi 呢排|呢排)/
 咿牌 咿牌 [yi1 pai2] {ji1 paai4} /récemment; dernièrement (voir aussi 呢排|呢排)/
 ????f 咿郁 咿郁 [yi1 yu4] {ji1 juk1} /premier signe de difficulté/
@@ -22912,4 +22913,33 @@
 你鐘意點就點 你钟意点就点 [ni3 zhong1 yi4 dian3 jiu4 dian3] {nei5 zung1 ji3 dim2 zau6 dim2} /(expr.) c'est comme tu veux/(lit.) comme tu l'aimes, ce sera comme ça/
 ????c 你隻嘢 你只嘢 [ni3 zhi1 ye3] {nei5 zek3 je5} /(deuxième personne du singulier) canaille!/
 你鹵味 你卤味 [ni3 lu3 wei4] {nei5 lou5 mei2} /(euphémisme pour 你老母|你老母 nei5 lou5 mou2 « nique ta mère »)/
+佢死佢賤 佢死佢贱 [qu2 si3 qu2 jian4] {keoi4 sei2 keoi4 zin6} /(expr.) je m'en fous de lui/(lit.) qu'il meure ou qu'il chute dans son statut social/
+????c 佳人有約 佳人有约 [jia1 ren2 you3 yue1] {gaai1 jan4 jau5 joek3} /(d'une femme) avoir un rendez-vous romantique/
+使用方便 使用方便 [shi3 yong4 fang1 bian4] {si2 jung6 fong1 bin6} /facile à utiliser; simple d'utilisation/
+使高興 使高兴 [shi3 gao1 xing4] {si2 gou1 hing3} /rendre heureux/
+使黑錢 使黑钱 [shi3 hei1 qian2] {sai2 hak1 cin2} /blanchir (de l'argent) (voir aussi 洗黑錢|洗黑钱)/
+來路菜 来路菜 [lai2 lu5 cai4] {loi4 lou2 coi3} /(fig.) femme de l'étranger/(lit.) légumes importés/
+????c 例餐 例餐 [li4 can1] {lai6 caan1} /meals of the day/
+依依鵝鵝 依依鹅鹅 [yi1 yi1 e2 e2] {ji4 ji1 ngo4 ngo4} /ne pas arrêter de se plaindre; chialer; râler/
+依泣 依泣 [yi1 qi4] {ji1 jap1} /se peloter; se livrer à des caresses intimes/
+便秘藥 便秘药 [bian4 mi4 yao4] {bin6 bei3 joek6} /médicaments pour la constipation/
+????c 便餐桌 便餐桌 [bian4 can1 zhuo1] {bin6 caan1 coek3} /a fold out food tray; a luncheonette, lunch counter [written and colloquial]/
+係乜東東 系乜东东 [xi4 mie1 dong1 dong1] {hai6 mat1 dung1 dung1} /(humoristique) qu'est-ce que c'est?/
+係又噏唔係又噏 系又噏唔系又噏 [xi4 you4 xi1 wu2 xi4 you4 xi1] {hai6 jau6 ap1 m4 hai6 jau6 ap1} /(expr.) parler même si on ne comprend pas la situation/(lit.) ne pas arrêter de parler s'il l'est ou s'il ne l'est pas/
+係又點唔係又點啫 系又点唔系又点啫 [xi4 you4 dian3 wu2 xi4 you4 dian3 zhe3] {hai6 jau6 dim2 m4 hai6 jau6 dim2 ze1} /(expr.) ça ne change rien/(lit.) s'il l'est ou il ne l'est pas, qu'est-ce que ça change?/
+係咁先 系咁先 [xi4 gan1 xian1] {hai6 gam2 sin1} /à tout à l'heure!/
+係咩 系咩 [xi4 mie1] {hai6 me1} /vraiment? (exprime l'étonnement ou la doute)/
+????f 係唔係先 系唔系先 [xi4 n2 xi4 xian1] {hai6 m4 hai6 sin1} /..., non? (note : employé à la fin d'une question pour exprimer que le locuteur s'attend à ce que la personne à qui la question se pose soit d'accord avec lui)/
+????f 係喇 系喇 [xi4 la3] {hai6 laa1} /oui; bien sûr (note : exprime une certaine détermination)/
+????c 係噉啦 系啖啦 [xi4 dan4 la5] {hai6 gam2 laa1} /so be it; let it be this way; that's a deal [colloquial]/
+????c 保健中心 保健中心 [bao3 jian4 zhong1 xin1] {bou2 gin6 zung1 sam1} /health centre; wellness centre [written and colloquial]/
+????f 保守地說 保守地说 [bao3 shou3 di4 shuo1] {bou2 sau2 dei6 syut3} /conservatively speaking; to understate/
+????c 保守行為 保守行为 [bao3 shou3 xing2 wei2] {bou2 sau2 hang4 wai4} /conservative behaviour; a binding over (conservative as in prudent or politically?)/
+保安員 保安员 [bao3 an1 yuan2] {bou2 on1 jyun4} /agent de sécurité/
+保持平衡 保持平衡 [bao3 chi2 ping2 heng2] {bou2 ci4 ping4 hang4} /garder son équilibre/
+????f 俠盜 侠盗 [xia2 dao4] {hap6 dou6} /brigand au grand cœur/
+????f 信友 信友 [xin4 you3] {seon3 jau5} /correspondant; ami à qui on écrit des lettres/
+信用卡號碼 信用卡号码 [xin4 yong4 ka3 hao4 ma3] {seon3 jung6 kaat1 hou6 maa5} /numéro de carte de crédit/
+修頓球場 修顿球场 [xiu1 dun4 qiu2 chang3] {sau1 deon6 kau4 coeng4} /Southorn Playground, établissement sportif à Hong Kong/
+????c 俾人屌到撻皮 俾人屌到挞皮 [bi3 ren2 diao3 dao4 ta4 pi2] {bei2 jan4 diu2 dou3 taat3 pei4} /(expr.) être roué de coups; être tabassé/
 
