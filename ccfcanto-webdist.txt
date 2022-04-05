@@ -296,7 +296,7 @@
 一陣風 一阵风 [yi1 zhen4 feng1] {jat1 zan6 fung1} /brise; vent/
 一隅 一隅 [yi1 yu2] {jat1 jyu4} /un endroit; un coin/
 一隻屐 一只屐 [yi1 zhi1 ji1] {jat1 zek3 kek6} /(fig.) un visage triste/(fig.) misérable/(fig.) être surmené; surchargé de travail/(lit.) comme une semelle/
-一隻屐噉 一只屐啖 [yi1 zhi1 ji1 dan4] {jat1 zek3 kek6 gam2} /(fig.) avoir l'air démoralisé; triste/(lit.) comme une semelle/
+一隻屐噉 一只屐啖 [yi1 zhi1 ji1 dan4] {jat1 zek3 kek6 gam2} /(fig.) avoir l'air démoralisé; triste/(fig.) être épuisé; être lessivé/(lit.) comme une semelle/
 一隻牛 一只牛 [yi1 zhi1 niu2] {jat1 zek3 ngau4} /(fig.) travailleur; dévoué; dédié au travail/(lit.) un taureau/
 一隻狗噉 一只狗啖 [yi1 zhi1 gou3 dan4] {jat1 zek3 gau2 gam2} /(se comporter) comme un chien/(fig.) travailler fort/
 一雙 一双 [yi1 shuang1] {jat1 soeng1} /une paire (de souliers, etc.)/
@@ -2478,7 +2478,7 @@
 ????f 冇陰功 冇阴功 [mao3 yin1 gong1] {mou5 jam1 gung1} /cruel; sans-coeur/poor you! how pitiful!/
 冇雷公咁遠 冇雷公咁远 [mao3 Lei2 gong1 gan1 yuan3] {mou5 leoi4 gung1 gam3 jyun5} /trop loin/
 冇面 冇面 [mao3 mian4] {mou5 min6} /perdre la face; être humilié/
-????f 冇面俾 冇面俾 [mao3 mian4 bi3] {mou5 min2 bei2} /ne pas favoriser quelqu'un (to not give any special favours to somebody)/refuser de céder; refuser de compromettre/
+????f 冇面俾 冇面俾 [mao3 mian4 bi3] {mou5 min2 bei2} /ne pas favoriser quelqu'un (to not give any special favours to somebody)/refuser de céder; refuser de faire des compromis/
 冇鞋挽屐走 冇鞋挽屐走 [mao3 xie2 wan3 ji1 zou3] {mou5 haai4 waan5 kek6 zau2} /(expr. idiom.) partir précipitamment/(lit.) si vous n'avez pas de chaussures, prenez des sabots et partez/
 ????f 冇頭烏蠅 冇头乌蝇 [mao3 tou2 wu1 ying2] {mou5 tau4 wu1 jing4} /(expr. idiom.) (personne) qui n'a pas de plan; qui fait plusieurs choses sans objectif concret/(lit.) mouche sans tête/
 冇鬼用 冇鬼用 [mao3 gui3 yong4] {mou5 gwai2 jung6} /(fam.) inutile/
@@ -22705,4 +22705,29 @@
 一碌鳩 一碌鸠 [yi1 lu4 jiu1] {jat1 luk1 gau1} /(vulg.) bite; queue; pénis/(vulg.) idiot; imbécile; crétin/
 一萬銀 一万银 [yi1 wan4 yin2] {jat1 maan6 ngan4} /dix-mille dollars/
 一筆 一笔 [yi1 bi3] {jat1 bat1} /(fig.) grosse somme (d'argent) (voir aussi 一筆錢|一笔钱)/
+一粒臣 一粒臣 [yi1 li4 chen2] {jat1 lap1 san2} /dix cents hongkongais/
+一粒鐘 一粒钟 [yi1 li4 zhong1] {jat1 lap1 zung1} /une heure/
+????f 一腳踏幾船 一脚踏几船 [yi1 jiao3 ta4 ji3 chuan2] {jat1 goek3 daap6 gei2 syun4} /(expr. idiom.) avoir plusieurs amants/(lit.) avoir le pied sur deux bateaux/
+????f 一舊 一旧 [yi1 jiu4] {jat1 gau6} /(classificateur des objets boueux ou grumeleux, ex. riz, crottes) morceau; grumeau/(classificateur des objets d'une taille moyenne, ex. pierre, tronçon d'arbre)/
+一舊木 一旧木 [yi1 jiu4 mu4] {jat1 gau6 muk6} /(fig.) (personne) lent d'esprit; stupide/(lit.) un tronçon/
+一草嘢 一草嘢 [yi1 cao3 ye3] {jat1 cou2 je5} /dix dollars hongkongais/
+一蚊 一蚊 [yi1 wen2] {jat1 man1} /(fam.) un dollar/
+一蚊雞 一蚊鸡 [yi1 wen2 ji1] {jat1 man1 gai1} /(fam.) un dollar/
+一蟹不如一蟹 一蟹不如一蟹 [yi1 xie4 bu4 ru2 yi1 xie4] {jat1 haai5 bat1 jyu4 jat1 haai5} /(expr. idiom.) s'empirer; aller de mal en pis/(lit.) chaque crabe est plus petit que le précédent/
+????f 一試便知龍與鳯 一试便知龙与鳯 [yi1 shi4 bian4 zhi1 long2 yu3 feng4] {jat1 si3 bin6 zi1 lung4 jyu5 fung6} /(expr. idiom.) c'est au pied du mur qu'on voit le maçon; à l'œuvre on connaît l'artisan; on peut différencier quelque chose de bonne qualité et quelque chose de mauvaise qualité en l'essayant/(lit.) dès qu'on l'essaie on différencie le dragon et le phénix/
+????c 一鑊炒起 一镬炒起 [yi1 huo4 chao3 qi3] {jat1 wok6 caau2 hei2} /an utter failure; a catastrophe; a disastrous defeat; a fiasco; to have nothing much left; to destroy (to betray?)/
+一隻二隻 一只二只 [yi1 zhi1 er4 zhi1] {jat1 zek3 ji6 zek3} /(fam.) chacun d'entre vous (note d'usage : s'utilise généralement en grondant plusieurs enfants)/
+一隻屐 一只屐 [yi1 zhi1 lv3] {jat1 zek3 kek6} /(fig.) avoir l'air démoralisé; triste/(fig.) être épuisé; être lessivé (voir aussi 做到一隻屐咁|做到一只屐咁)/(lit.) une semelle/
+一點正 一点正 [yi1 dian3 zheng4] {jat1 dim2 zing3} /une heure pile/treize heures pile/
+丁屎 丁屎 [ding1 shi3] {ding1 si2} /(fam.) un tout petit peu/
+七吓七吓 七吓七吓 [qi1 xia4 qi1 xia4] {cat1 haa5 cat1 haa5} /(vulg.) con comme une bite; bête à manger du foin; profondément cave (voir aussi 𨳍吓𨳍吓|𨳍吓𨳍吓)/
+七咕碌 七咕碌 [qi1 gu1 lu4] {cat1 gu1 luk1} /(vulg.) con; connard (voir aussi 𨳍咕碌|𨳍咕碌)/
+七成熟 七成熟 [qi1 cheng2 shu2] {cat1 sing4 suk6} /cuit à point/(lit.) cuit à soixante-dix pourcent/
+七碌 七碌 [qi1 lu4] {cat1 luk1} /(vulg.) con; connard (voir aussi 𨳍碌|𨳍碌)/
+𨳍吓𨳍吓 𨳍吓𨳍吓 [qi1 xia4 qi1 xia4] {cat1 haa5 cat1 haa5} /(vulg.) con comme une bite; bête à manger du foin; profondément cave/
+𨳍咕碌 𨳍咕碌 [qi1 gu1 lu4] {cat1 gu1 luk1} /(vulg.) con; connard/
+𨳍碌 𨳍碌 [qi1 lu4] {cat1 luk1} /(vulg.) con; connard/
+柒吓柒吓 柒吓柒吓 [qi1 xia4 qi1 xia4] {cat1 haa5 cat1 haa5} /(vulg.) con comme une bite; bête à manger du foin; profondément cave/
+柒咕碌 柒咕碌 [qi1 gu1 lu4] {cat1 gu1 luk1} /(vulg.) con; connard/
+柒碌 柒碌 [qi1 lu4] {cat1 luk1} /(vulg.) con; connard/
 
