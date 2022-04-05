@@ -4750,7 +4750,7 @@
 ????f 嚡熠熠 嚡熠熠 [hai4 yi4 yi4] {haai4 saap6 saap6} /rêche; rugueux/(aliment) dur; coriace/
 嚤佗 嚤佗 [mo1 tuo2] {mo1 to4} /moteur/(orig.) de l'anglais « motor » (« moteur »)/
 𡃁仔 𡃁仔 [liang4 zai3] {leng1 zai2} /enfant; adolescent/
-𡃁ken 𡃁ken [liang4 keng1] {leng1 keng1} /jeune homme/
+𡃁ken 𡃁ken [liang4 keng1] {leng1 keng1} /gars; jeune homme/(péj.) jeune homme bon à rien/
 𡃁妹 𡃁妹 [liang4 mei4] {leng1 mui1} /petite fille/
 𡃁模 𡃁模 [liang4 mo2] {leng1 mou4} /jeune mannequin/
 ????c 嚪 嚪 [dan4] {daam6} /bouchée/
@@ -7190,6 +7190,7 @@
 嶺南文化 岭南文化 [ling3 nan2 wen2 hua4] {ling5 naam4 man4 faa3} /culture Lingnan, culture de la région sud-est de la Chine/
 ????c 巀 巀 [jie2] {zit6} /escarpé, abrupt/(nom d'une montagne)/
 巉眼 巉眼 [chan2 yan3] {caan4 ngaan5} /trop lumineux; trop ensoleillé/
+𥋇眼 𥋇眼 [zhang3 yan3] {caang4 ngaan5} /trop lumineux; trop ensoleillé/
 巋巍 岿巍 [kui1 wei1] {kwai1 ngai4} /imposant; immense; haut/
 巋然 岿然 [kui1 ran2] {kwai1 jin4} /imposant; immense; haut/
 巖巉 岩巉 [yan2 chan2] {ngaam4 caam4} /irregulier; difforme; asymétrique/
@@ -22650,4 +22651,18 @@
 肝腸寸斷 肝肠寸断 [gan1 chang2 cun4 duan4] {gon1 coeng2 cyun3 dyun6} /(expr.) éperdu; inconsolable/(lit.) avoir le foie et les intestins brisés en petits morceaux/
 ????f 搵快錢 揾快钱 [wen3 kuai4 qian2] {wan2 faai3 cin2} /faire de l'argent facile (insinue souvent une méthode criminelle)/
 ????f 櫈𩩍 櫈𩩍 [deng4 ping1] {dang6 peng1} /dossier (de chaise)/
+氹 氹 [shan2] {tam3} /amadouer; persuader/
+????f 氹死人 氹死人 [shan2 si3 ren2] {tam3 sei2 jan4} /to speak in a charming manner; to display great relish by someone's actions or words; to be won over by something cute [colloquial]/
+氹鬼食豆腐 氹鬼食豆腐 [shan2 gui3 shi2 dou4 fu5] {tam3 gwai2 sik6 dau6 fu6} /(expr. idiom.) mensonge qui est facile à détecter/(lit.) amener un fantôme à manger du tofu par la ruse/
+靚ｋｅｎｔ 靓ｋｅｎｔ [jing4 ｋｅｎｔ] {leng1 keng1} /gars; jeune homme/(péj.) jeune homme bon à rien/
+Ａ字膊 Ａ字膊 [A5 zi4 bo2] {ei1 zi6 bok3} /(fig.) personne qui fuit ses responsabilités; personne qui donne son travail aux autres/(lit.) épaules en forme de « A »/
+ＢＢ仔 ＢＢ仔 [ＢＢ zi3] {bi4 bi1 zai2} /bébé/
+????f ＭＫ仔 ＭＫ仔 [Ｍ K zai3] {em1 kei1 zai2} /(péj.) a Mong Kok youngster; a youngster who embraces the Mong Kok punk culture, typically someone who follow trends blindly to the extent that they exhibit poor tastes or bad mannerism; describes idle youngsters that wanders around in the streets of Mong Kok [colloquial]/
+Ｏ嘴 Ｏ嘴 [Ｏ zui3] {ou1 zeoi2} /(fig.) être très surpris/(lit.) avoir la bouche en forme de « O »/
+????f Ｓｅｔ頭 Ｓｅｔ头 [s e t tou2] {set1 tau4} /coiffer les cheveux (to style one's hair)/
+Ｔ恤衫 Ｔ恤衫 [t5 xu4 shan3] {ti1 seot1 saam1} /t-shirt/
+ｕｎ腳 ｕｎ脚 [ｕｎ jiao3] {an3 goek3} /gigoter; faire bouger les jambes lorsqu'on est anxieux ou impatient/
+????f Ｕｎ身Ｕｎ勢 Ｕｎ身Ｕｎ势 [Ｕｎ shen1Ｕｎ shi4] {an3 san1 an3 sai3} /se déhancher/
+Ｖａｎ仔 Ｖａｎ仔 [Ｖａｎ zi3] {wen1 zai2} /fourgonnette; camionnette/minivan/
+????f ＸＯ醬 ＸＯ酱 [ＸＯ jiang4] {ik1 si4 ou1 zoeng3} /sauce XO, sauce épicée aux fruits de mer d'origine cantonaise/
 
