@@ -839,7 +839,7 @@
 乒鈴𠾴唥 乒鈴𠾴唥 [] {ping1 ling1 baang4 laang4} /(onomatopée pour quelque chose qui tombe)/
 乖乖 乖乖 [guai1 guai5] {gwaai1 gwaai1} /(enfant) sage; bien-élevé/
 乖乖仔 乖乖仔 [guai1 guai5 zi3] {gwaai1 gwaai1 zai2} /fils sage/
-乖乖女 乖乖女 [guai1 guai5 nü3] {gwaai1 gwaai1 neoi5} /fille sage/
+乖乖女 乖乖女 [guai1 guai5 nu:3] {gwaai1 gwaai1 neoi5} /fille sage/
 乖仔 乖仔 [guai1 zi3] {gwaai1 zai2} /fils sage; fils bien-élevé/
 乖女 乖女 [guai1 nü3] {gwaai1 neoi5} /fille sage; fille bien-élevée/
 乖舛 乖舛 [guai1 chuan3] {gwaai1 cyun2} /malheureux/erreur; faute/
@@ -22771,4 +22771,20 @@
 不知幾... 不知几... [bu4 zhi1 ji3…] {bat1 zi1 gei2…} /très; tellement; autant; extrêmement (voir aussi 唔知幾|唔知几)/
 ????c 不醉無歸 不醉无归 [bu4 zui4 wu2 gui1] {bat1 zeoi3 mou4 gwai1} /(expr. idiom.) (used to urge friends to drink until they are drunk)/
 不需 不需 [bu4 xu1] {bat1 seoi1} /non nécessaire; superflu/
+????c 丙一身 丙一身 [bing3 yi1 shen1] {bing2 jat1 san1} /(fam.) tabasser; rouer de coups/
+????c 丙一鑊 丙一镬 [bing3 yi1 huo4] {bing2 jat1 wok6} /(fam.) tabasser; rouer de coups/
+????c 丙到豬頭咁 丙到猪头咁 [bing3 dao4 zhu1 tou2 gan1] {bing2 dou3 zyu1 tau4 gam2} /(expr. idiom.) être tabassé; être couvert de bleus/(lit.) être tabassé et avoir l'air d'une tête de cochon/
+????c 丙到隻嘢咁 丙到只嘢咁 [bing3 dao4 zhi1 ye3 gan1] {bing2 dou3 zek3 je5 gam2} /(expr. idiom.) être tabassé; être couvert de bleus/(lit.) être tabassé et avoir l'air de quelque chose/
+????c 丙到隻狗咁 丙到只狗咁 [bing3 dao4 zhi1 gou3 gan1] {bing2 dou3 zek3 gau2 gam2} /(expr. idiom.) être tabassé; être couvert de bleus/(lit.) être tabassé et avoir l'air d'un chien/
+????c 丙到飛起 丙到飞起 [bing3 dao4 fei1 qi3] {bing2 dou3 fei1 hei2} /(fam.) tabasser; rouer de coups/(lit.) frapper jusqu'à ce qu'il vole/
+????c 丙鑊 丙镬 [bing3 huo4] {bing2 wok6} /(fam.) tabasser; rouer de coups/
+????c 丙鑊甘 丙镬甘 [bing3 huo4 gan1] {bing2 wok6 gam1} /(fam.) tabasser; rouer de coups/
+丟士 丢士 [diu1 shi4] {diu1 si6} /(tennis) égalité/(orig.) de l'anglais « deuce » (« égalité (tennis) »)/
+????f 中文口語化 中文口语化 [zhong1 wen2 kou3 yu3 hua4] {zung1 man4 hau2 jyu5 faa3} /chinois oral/
+????f 中碼衫 中码衫 [zhong1 ma3 shan1] {zung1 maa5 saam1} /vêtement de taille moyenne/
+????f 中碼褲 中码裤 [zhong1 ma3 ku4] {zung1 maa5 fu3} /pantalons de taille moyenne/
+????f 中等身材 中等身材 [zhong1 deng3 shen1cai2] {zung1 dang2 san1 coi4} /corpulence moyenne/
+中頭獎 中头奖 [zhong1 tou2 jiang3] {zung3 tau4 zoeng2} /obtenir la premièer place; remporter la première place/(fam.) (humoristique) avoir de la merde d'oiseau sur la tête/
+主流意見 主流意见 [zhu3 liu2 yi4 jian4] {zyu2 lau4 ji3 gin3} /opinion majoritaire; idée courante/
+????f 乖乖地 乖乖地 [guai1 guai5 di4] {gwaai1 gwaai1 dei2} /(d'un enfant) docilement; d'une manière sage/
 
