@@ -5940,7 +5940,7 @@
 太座 太座 [tai4 zuo4] {taai3 zo6} /(soutenu) femme; épouse; conjointe/
 ????f 太歲頭上動土 太岁头上动土 [tai4 sui4 tou2 shang5 dong4 tu3] {taai3 seoi3 tau4 soeng6 dung6 tou2} /(expr. idiom.) énerver quelqu'un en position de force/(lit.) causer des ennuis en sautant sur la tête d'un dieu de la terre/
 太空 太空 [tai4 kong1] {taai3 hung1} /(cosmologie) espace/
-太空人 太空人 [tai4 kong1 ren2] {taai3 hung1 jan4} /(expr. idiom) immigrant/(lit.) astronaute; cosmonaute; taïkonaute; spationaute; vyomanaute; voyageur de l'espace/
+太空人 太空人 [tai4 kong1 ren2] {taai3 hung1 jan4} /(Hong Kong) homme qui reste à Hong Kong quand sa femme et ses enfants émigrent à un autre pays/(lit.) astronaute; cosmonaute; taïkonaute; spationaute; vyomanaute; voyageur de l'espace/
 太空穿梭機 太空穿梭机 [tai4 kong1 chuan1 suo1 ji1] {taai3 hung1 cyun1 so1 gei1} /astronef; vaisseau spatial/
 太空衫 太空衫 [tai4 kong1 shan1] {taai3 hung1 saam1} /combinaison spatiale/
 太空褸 太空褛 [tai4 kong1 lü3] {taai3 hung1 lau1} /parka; doudoune/(lit.) manteau spatial/
@@ -6120,7 +6120,7 @@
 好友 好友 [hao3 you3] {hou2 jau5} /bon ami; ami proche/
 ????c 好口 好口 [hao3 kou3] {hou2 hau2} /baratineur; beau parleur/
 好叻 好叻 [hao3 le4] {hou2 lek1} /intelligent; brillant/bon; doué/
-好呀 好呀 [hao3 ya5] {hou2 aa3} /bien; OK/
+好呀 好呀 [hao3 ya5] {hou2 aa3} /bien; OK; d'accord/
 好味 好味 [hao3 wei4] {hou2 mei6} /délicieux; goûteux/
 好命水 好命水 [hao3 ming4 shui3] {hou2 meng6 seoi2} /avoir de la chance/
 好唔好 好唔好 [hao3 n2 hao3] {hou2 m4 hou2} /ça vous va? cela vous convient? qu'en pensez-vous?/
@@ -9500,6 +9500,7 @@
 ????f 搲銀 搲银 [gua1 yin2] {we2 ngan2} /gagner de l'argent en faisant tout et n'importe quoi/
 搵 揾 [wen4] {wan2} /trouver/chercher/gagner (de l'argent); gagner sa vie (voir aussi 搵兩餐|揾两餐)/
 搵丁 揾丁 [wen3 ding1] {wan2 ding1} /escroquer; arnaquer/
+搵食 揾食 [wen3 shi2] {wan2 sik6} /(fig.) gagner sa vie/(lit.) trouver de quoi manger/
 ????c 搵世界 揾世界 [wen3 shi4 jie4] {wan2 sai3 gaai3} /chercher un emploi/gagner sa vie/
 搵位 揾位 [wen3 wei4] {wan2 wai2} /trouver une place (à un restaurant, etc.)/
 搵兩餐 揾两餐 [wen3 liang3 can1] {wan2 loeng5 caan1} /(fam.) gagner sa vie/(lit.) trouver deux repas/
@@ -19307,7 +19308,7 @@
 轟 轰 [hong1] {gwang1} /bombarder/bruit fort/grondement (de tonnerre)/
 轟動 轰动 [hong1 dong4] {gwang1 dung6} /faire sensation/
 辛勞 辛劳 [xin1 lao2] {san1 lou4} /travailler soigneusement; travailler dur; travailler fort/
-????f 辛苦搵嚟自在食 辛苦揾嚟自在食 [xin1 ku3 wen3 li2 zi4 zai5 shi2] {san1 fu2 wan2 lei4 zi6 zoi6 sik6} /(expr. idiom.) travailler fort pour gagner sa vie/(lit.) travailler dur pour trouver de quoi manger/
+????f 辛苦搵嚟自在食 辛苦揾嚟自在食 [xin1 ku3 wen3 li2 zi4 zai5 shi2] {san1 fu2 wan2 lei4 zi6 zoi6 sik6} /(expr. idiom.) on travaille fort afin de se permettre d'acheter de la nourriture délicieuse (note : c'est une expression souvent employée quand on a un repas coûteux)/(lit.) travailler fort pour manger confortablement/
 辛酸 辛酸 [xin1 suan1] {san1 syun1} /triste; douloureux/difficile; pénible/
 辟暑 辟暑 [bi4 shu3] {pik1 syu2} /combattre la chaleur/
 ????f 辟腥 辟腥 [pi4 xing1] {pik1 seng1} /éliminer une odeur de poisson/
