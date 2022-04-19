@@ -542,7 +542,7 @@
 下情上達 下情上达 [xia4 qing2 shang4 da2] {haa6 cing4 soeng6 daat6} /mettre ses supérieurs au courant de la situation des subordonées/
 下懷 下怀 [xia4 huai2] {haa6 waai4} /(litt.) désirs/
 下扒 下扒 [xia4 ba1] {haa6 paa4} /menton/
-????f 下扒輕輕 下扒轻轻 [xia4 ba1 qing1 qing1] {haa6 paa4 hing1 hing1} /qui fait des promesses à la légère; qui fait des promesses mais ne les tient pas/
+????f 下扒輕輕 下扒轻轻 [xia4 ba1 qing1 qing1] {haa6 paa4 hing1 hing1} /(fig.) qui fait des promesses facilement mais ne les tient pas; qui fait des promesses sans réfléchir/(lit.) menton léger/
 下文 下文 [xia4 wen2] {haa6 man4} /(nouvelles) développements; faits nouveaux/
 下晏 下晏 [xia4 yan4] {haa6 aan3} /l'après-midi/
 下晝 下昼 [xia4 zhou4] {haa6 zau3} /l'après-midi/
@@ -550,7 +550,7 @@
 下氣 下气 [xia4 qi4] {haa6 hei3} /(médecine traditionnelle chinoise) calmer l'énergie interne/(se présenter, faire quelque chose) d'une manière timide/se calmer/
 ????f 下水船 下水船 [xia4 shui3 chuan2] {haa6 seoi2 syun4} /bateau en aval/cargaison suivante/
 下火 下火 [xia4 huo3] {haa6 fo2} /(médecine traditionnelle chinoise) diminuer la chaleur interne/
-????f 下爬輕輕 下爬轻轻 [xia4 pa2 qing1 qing1] {haa6 paa4 heng1 heng1} /quelqu'un qui fait des promesses à la légère/
+????f 下爬輕輕 下爬轻轻 [xia4 pa2 qing1 qing1] {haa6 paa4 heng1 heng1} /(fig.) qui fait des promesses facilement mais ne les tient pas; qui fait des promesses sans réfléchir/(lit.) menton léger/
 下班時間 下班时间 [xia4 ban1 shi2 jian1] {haa6 baan1 si4 gaan3} /fin de la journée de travail; l'heure quand on a fini de travailler/
 下環 下环 [xia4 huan2] {haa6 waan4} /ancien nom pour une région près de Wan Chai et Causeway Bay de Hong Kong/région de Macau/
 下盤 下盘 [xia4 pan2] {haa6 pun2} /partie inférieure du corps/(sport, jeux d'argent) outsider/
@@ -3525,7 +3525,7 @@
 口淡淡 口淡淡 [kou3 dan4 dan4] {hau2 taam5 taam5} /ne pas avoir envie de manger; ne pas avoir d'appétit/
 口渴 口渴 [kou3 ke3] {hau2 hot3} /avoir soif/
 口爽 口爽 [kou3 shuang3] {hau2 song2} /dire quelque chose sans y réfléchir/
-????f 口爽荷包垃 口爽荷包垃 [kou3 shuang3 he2 bao1 la1] {hau2 song2 ho4 baau1 laap6} /faire des promesses en l'air au lieu de payer/
+????f 口爽荷包垃 口爽荷包垃 [kou3 shuang3 he2 bao1 la1] {hau2 song2 ho4 baau1 laap6} /(expr.) faire des promesses en l'air au lieu de payer/
 口甜舌滑 口甜舌滑 [kou3 tian2 she2 hua2] {hau2 tim4 sit6 waat6} /(expr. idiom.) flatteur; mielleux/(lit.) bouche douce, langue lisse/
 口疏 口疏 [kou3 shu1] {hau2 so1} /(fig.) qui ne sait pas tenir sa langue/
 口痕 口痕 [kou3 hen2] {hau2 han4} /(fig.) avoir un petit creux/(fig.) moulin à paroles; bavard/(lit.) bouche qui démange/
@@ -3544,12 +3544,12 @@
 口角 口角 [kou3 jiao3] {hau2 gok3} /coin de la bouche/disputer/dispute/
 ????f 口語化 口语化 [kou3 yu3 hua4] {hau2 jyu5 faa3} /(registre, langage) (to colloquialise) rendre familier/
 口說無憑 口说无凭 [kou3 shuo1 wu2 ping2] {hau2 syut3 mou4 pang4} /la parole ne peut pas servir de preuve/
-????f 口輕 口轻 [kou3 qing1] {hau2 heng1} /qui fait de vaines promesses; qui fait des promesses creuses; qui ne tient pas ses promesses/
-口輕輕 口轻轻 [kou3 qing1 qing1] {hau2 heng1 heng1} /qui fait de vaines promesses; qui fait des promesses creuses; qui ne tient pas ses promesses/
+????f 口輕 口轻 [kou3 qing1] {hau2 heng1} /(fig.) qui fait de vaines promesses; qui fait des promesses creuses; qui ne tient pas ses promesses/(lit.) bouche légère/
+口輕輕 口轻轻 [kou3 qing1 qing1] {hau2 heng1 heng1} /(fig.) qui fait de vaines promesses; qui fait des promesses creuses; qui ne tient pas ses promesses/(lit.) bouche légère/
 口部 口部 [kou3 bu4] {hau2 bou6} /oral/la bouche/
 口震震 口震震 [kou3 zhen4 zhen4] {hau2 zan3 zan3} /balbutiant; (s'exprimer) en hésitant/
 口面 口面 [kou3 mian4] {hau2 min6} /expression (de visage)/visage/
-????f 口響 口响 [kou3 xiang3] {hau2 hoeng2} /qui fait de vaines promesses; qui ne tient pas ses promesses/
+????f 口響 口响 [kou3 xiang3] {hau2 hoeng2} /(fig.) qui ne tient pas ses promesses/(lit.) bouche bruyante/
 口頭 口头 [kou3 tou2] {hau2 tau4} /verbalement/
 口黑面黑 口黑面黑 [kou3 hei1 mian4 hei1] {hau2 hak1 min6 hak1} /avoir l'air mécontent/
 口齒 口齿 [kou3 chi3] {hau2 ci2} /articulation; énonciation/capacité de parler/crédibilité; fiabilité/promesse/
@@ -19257,7 +19257,7 @@
 輕秤 轻秤 [qing1 cheng4] {heng1 cing3} /léger; pas lourd/à faible densité/
 ????c 輕裝上陣 轻装上阵 [qing1 zhuang1 shang4 zhen4] {hing1 zong1 soeng5 zan6} /go into battle with a light pack; to move forward with one's burdens discarded/
 輕言 轻言 [qing1 yan2] {hing1 jin4} /(fig.) abandonner facilement/(fig.) parler sans réfléchir/(lit.) paroles légères/
-輕諾寡信 轻诺寡信 [qing1 nuo4 gua3 xin4] {hing1 nok6 gwaa2 seon3} /(expr.) faire des promesses à la légère; faire des promesses et ne pas les tenir/
+輕諾寡信 轻诺寡信 [qing1 nuo4 gua3 xin4] {hing1 nok6 gwaa2 seon3} /(expr.) qui fait des promesses facilement et ne pas les tenir; qui fait des promesses sans réfléchir/
 ????f 輕身 轻身 [qing1 shen1] {hing1 san1} /léger; pas lourd/voyager léger/(litt.) sans respect pour sa dignité/
 輕鐵 轻铁 [qing1 tie3] {hing1 tit3} /métro léger/(en particulier) le Métro léger de Hong Kong/
 輕軌 轻轨 [qing1 gui3] {hing1 gwai2} /métro léger/
@@ -23158,4 +23158,44 @@
 捽㷫 捽㷫 [zuo2 qing3] {zeot1 hing3} /énerver; exaspérer; mettre en colère/
 ????f 卡曲衫 卡曲衫 [ka3 qu1 shan1] {kaa1 kuk1 saam1} /paletot d'auto/(orig.) de l'anglais « car coat » (« manteau à voiture »)/
 ????f 卡樂Ｂ 卡乐Ｂ [ka3 le4Ｂ] {kaa1 lok6 bi1} /Calbee, entreprise japonaise spécalisée dans la production de produits de grignotage, en particulier les croustilles/
+????c 印像深刻 印像深刻 [yin4 xiang4 shen1ke4] {jan3 zoeng6 sam1 hak1} /to have a deep impression on something/
+????f 印度炒麵 印度炒面 [yin4 du4 chao3 mian4] {jan3 dou6 caau2 min6} /mee goring, mi goreng, nouilles frites malaisiennes/
+厚𢱕𢱕 厚𢱕𢱕 [hou4 da1 da1] {hau5 dap6 dap6} /très épais/
+原因係因為 原因系因为 [yuan2 yin1 xi4 yin1 wei4] {jyun4 jan1 hai6 jan1 wai6} /(expr.) c'est parce que.../
+原因很簡單 原因很简单 [yuan2 yin1 hen3 jian3 dan1] {jyun4 jan1 han2 gaan2 daan1} /(expr.) l'explication est très simple; la raison pour laquelle ceci s'est produit est très simple/
+????c 去ｈｅａ 去ｈｅａ [qu4ｈｅａ] {heoi3 he3} /(fam.) to chill out/
+去Ｋ 去Ｋ [qu4Ｋ] {heoi3 kei1} /(fam.) faire du karaoké/
+????f 去九龍塘 去九龙塘 [qu4 jiu3 long2 tang2] {heoi3 gau2 lung4 tong4} /(fam.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/(lit.) aller à Kowloon Tong (région de Hong Kong où il y avait autrefois beaucoup de love hotels)/
+去仆街 去仆街 [qu4 pu1jie1] {heoi3 puk1 gaai1} /(vulg.) va te faire foutre!/
+????c 去八吓 去八吓 [qu4 ba1 xia4] {heoi3 baat3 haa5} /(fam.) chercher des potins/
+????c 去去去 去去去 [qu4 qu4 qu4] {heoi3 heoi3 heoi3} /go go go/
+????f 去夜街 去夜街 [qu4 ye4 jie1] {heoi3 je6 gaai1} /sortir très tard le soir (pour s'amuser)/
+????f 去威 去威 [qu4 wei1] {heoi3 wai1} /sortir et bien s'amuser/
+去死啦 去死啦 [qu4 si3 la5] {heoi3 sei2 laa1} /(vulg.) va te faire voir!/(lit.) va mourir!/
+去水 去水 [qu4 shui3] {heoi3 seoi2} /enlever de l'eau/
+????f 去街市買餸有價講呀 去街市買餸有价讲呀 [qu4 jie1 shi4 mai3 song4 you3 jia4 jiang3 ya5] {heoi3 gaai1 si5 maai5 jau5 gaa3 gong2 aa3} /(expr. idiom.) je ne négocierai pas/(lit.) tu penses marchander à un marché de légumes?/
+去覺覺豬 去觉觉猪 [qu4 jue2 jue2 zhu1] {heoi3 gaau4 gaau2 zyu1} /(enfantin) c'est l'heure d'aller au lit!/(lit.) va faire le cochon qui dort!/
+去閰羅王處報到 去閰罗王处报到 [qu4 ju2 luo2 wang2 chu3 bao4dao4] {heoi3 jim4 lo4 wong4 syu2 bou3 dou3} /(par euphémisme) mourir/(lit.) signaler son arrivé chez le roi Yanluo (dieu de l'enfer)/
+參加活動 参加活动 [can1 jia1 huo2 dong4] {caam1 gaa1 wut6 dung6} /participer aux activités/
+????c 叉雙腳埋嚟 叉双脚埋嚟 [cha1 shuang1 jiao3 mai2 li2] {caa1 soeng1 goek3 maai4 lai4} /(fig.) intervenir/
+反肚 反肚 [fan3 du4] {faan2 tou5} /(par euphémisme) (se dit habituellement des poissons) mourir/(fig.) (d'un véhicule) capoter; être renversé sens dessus dessous/(lit.) avoir le ventre en haut/
+反艇 反艇 [fan3 ting3] {faan2 teng5} /(par plaisanterie) mourir/(fig.) (d'un navire) capoter; être renversé sens dessus dessous/
+反轉咗 反转咗 [fan3 zhuan3 zuo3] {faan2 zyun3 zo2} /être sens dessus dessous/être à l'envers/
+叠友 叠友 [die2 you3] {daap6 jau2} /(d'une triade) avoir beaucoup de membres/
+????c 叠崩 叠崩 [die2 beng1] {daap6 bang1} /(fam.) riche/
+????c 叠碼 叠码 [die2 ma3] {daap6 maa5} /jetons de poker/
+????c 叠碼仔 叠码仔 [die2 ma3 zi3] {daap6 maa5 zai2} /casino chips seller (dead chips? loan shark? triad? illegal?)/
+????c 叠米 叠米 [die2 mi3] {daap6 mai5} /(fam.) riche/
+????f 口寡 口寡 [kou3 gua3] {hau2 gwaa2} /(fam.) perdre l'appétit parce que la nourriture est tellement fade/
+????f 口慷慷 口慷慷 [kou3 kang1 kang1] {hau2 hong2 hong2} /(fig.) qui fait des promesses sans réfléchir; qui ne pense pas à comment tenir une promesse après l'avoir faite/
+????c 口衰 口衰 [kou3 shuai1] {hau2 seoi1} /(fig.) qui dit souvent les mauvaises choses au mauvais moment (par exprès?)/(lit.) mauvaise bouche/
+????c 口語字詞識別 口语字词识别 [kou3yu3 zi4ci2 shi2bie2] {hau2 jyu5 zi6 ci4 sik1 bit6} /the differentiation of the written words from the spoken form/
+古惑女 古惑女 [gu3 huo4 nv3] {gu2 waak6 neoi2} /(fam.) membre d'un gang de sexe féminin/
+古肅 古肃 [gu3 su4] {gu2 suk1} /conservateur; vieux jeu; qui a des idées démodées/habituellement silencieux; taciturne; réticent/
+古蠱仔 古蛊仔 [gu3 huo4 zi3] {gu2 waak6 zai2} /(fam.) membre d'un gang de sexe masculin/
+只需要 只需要 [zhi3 xu1 yao4] {zi2 seoi1 jiu3} /a seulement besoin de/
+????f 叫人 叫人 [jiao4 ren2] {giu3 jan4} /saluer quelqu'un en utilisant les appellations appropriées (note : se dit habituellement des personnes plus jeunes qui accueillent un membre de la famille ou un invité en utilisant une appellation qui indique un certain niveau de respect)/dire à quelqu'un (de faire quelque chose)/
+叭叭聲 叭叭声 [ba1 ba1 sheng1] {baa4 baa2 seng1} /(expr.) précipitamment; en toute hâte/
+叮呤噹啷 叮呤当啷 [ding1 ling4 dang1 lang1] {ding1 ling1 dong1 long1} /(onomatopée d'un tintement)/
+可食用 可食用 [ke3 shi2yong4] {ho2 sik6 jung6} /comestible/
 
