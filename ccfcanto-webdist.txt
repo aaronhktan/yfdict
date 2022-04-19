@@ -2671,7 +2671,7 @@
 ????f 出沒 出没 [chu1 mo4] {ceot1 mut6} /traîner; errer/
 ????f 出沖 出冲 [chu1 chong1] {ceot1 cung1} /(mah-jong) jeter une tuile qui permet un adversaire de gagner une partie de mah-jong (voir aussi 出銃|出铳)/
 出火 出火 [chu1 huo3] {ceot1 fo2} /(fig.) (vulg.) éjaculer/(lit.) sortir du feu/
-出爾反爾 出尔反尔 [chu1 er3 fan3 er3] {ceot1 ji5 faan2 ji5} /(expr. idiom.) revenir sur sa parole; ne pas tenir sa promesse/
+出爾反爾 出尔反尔 [chu1 er3 fan3 er3] {ceot1 ji5 faan2 ji5} /(expr. idiom.) revenir sur sa parole; rompre une promesse/
 出版業 出版业 [chu1 ban3 ye4] {ceot1 baan2 jip6} /industrie de l'édition; secteur de l'édition/
 出版界 出版界 [chu1 ban3 jie4] {ceot1 baan2 gaai3} /industrie de l'édition; secteur de l'édition/
 出生 出生 [chu1 sheng1] {ceot1 saang1} /naître; être né/
@@ -3429,7 +3429,7 @@
 反仰 反仰 [fan3 yang3] {faan2 ngong5} /s'allonger sur le dos/
 ????f 反作用力 反作用力 [fan3 zuo4 yong4 li4] {faan2 zok3 jung6 lik6} /(physique) réaction; force qui s'oppose à une autre force/
 反動 反动 [fan3 dong4] {faan2 dung6} /réactionnaire/
-反口覆舌 反口复舌 [fan3 kou3 fu4 she2] {faan2 hau2 fuk1 sit6} /(expr. idiom.) revenir sur sa parole; ne pas tenir une promesse/(lit.) renverser la bouche et revenir sur la langue/
+反口覆舌 反口复舌 [fan3 kou3 fu4 she2] {faan2 hau2 fuk1 sit6} /(expr. idiom.) revenir sur sa parole; rompre une promesse/(lit.) renverser la bouche et revenir sur la langue/
 反射定律 反射定律 [fan3 she4 ding4 lu:4] {faan2 se6 ding6 leot6} /loi de la réflexion (de lumière)/
 反應器 反应器 [fan3 ying4 qi4] {faan2 jing3 hei3} /réacteur/
 反抗 反抗 [fan3 kang4] {faan2 kong3} /se rébeller; se révolter/
@@ -3504,7 +3504,7 @@
 口多多 口多多 [kou3 duo1 duo1] {hau2 do1 do1} /loquace, bavard/
 口多身賤 口多身贱 [kou3 duo1 shen1 jian4] {hau2 do1 san1 zin6} /(expr. idiom.) quelqu'un qui dit du mal sur les autres mènera une vie difficile/
 口密 口密 [kou3 mi4] {hau2 mat6} /bouche cousue, quelqu'un qui n'aime pas parler, qqn qui garde bien des secrets/
-口惠而實不至 口惠而实不至 [kou3 hui4 er2 shi2 bu4 zhi4] {hau2 wai6 ji4 sat6 bat1 zi3} /faire une promesse verbale mais ne rien faire après/
+口惠而實不至 口惠而实不至 [kou3 hui4 er2 shi2 bu4 zhi4] {hau2 wai6 ji4 sat6 bat1 zi3} /(expr.) faire une promesse verbale mais ne rien faire après/
 ????f 口拙 口拙 [kou3 zhuo1] {hau2 zyut3} /être socialement maladroit; ne pas bien communiquer/
 ????f 口授 口授 [kou3 shou4] {hau2 sau6} /enseigner verbalement; enseigner à l'oral/
 口擘擘 口掰掰 [kou3 bai1 bai1] {hau2 maak3 maak3} /bouche bée/haleter/
@@ -5973,7 +5973,7 @@
 失憶 失忆 [shi1 yi4] {sat1 jik1} /amnésie/
 失手 失手 [shi1 shou3] {sat1 sau2} /commettre une erreur; faire une erreur/
 失打 失打 [shi1 da3] {sat1 daa2} /(photographie) obturateur/(orig.) de l'anglais « shutter » (« obturateur »)/
-????c 失拖 失拖 [shi1 tuo1] {sat1 to1} /séparation; rupture (romantique)/manquer à un engagement; manquer un rendez-vous/manquer à une promesse/
+????c 失拖 失拖 [shi1 tuo1] {sat1 to1} /séparation; rupture (romantique)/manquer à un engagement; manquer un rendez-vous/rompre une promesse/
 ????f 失敗乃成功之母 失败乃成功之母 [shi1 bai4 nai3 cheng2 gong1 zhi1 mu3] {sat1 baai6 naai5 sing4 gung1 zi1 mou5} /(expr.) l'échec est la mère du succès/
 ????f 失敬 失敬 [shi1 jing4] {sat1 ging3} /(excuse) pardonnez mon impertinence!/
 失物 失物 [shi1 wu4] {sat1 mat6} /objets perdus/
@@ -7769,7 +7769,7 @@
 得人怕 得人怕 [de2 ren2 pa4] {dak1 jan4 paa3} /effrayant; qui fait peur/
 得人驚 得人惊 [de2 ren2 jing1] {dak1 jan4 geng1} /effrayant; qui fait peur; terrifiant/
 得個吉 得个吉 [de2 ge4 ji2] {dak1 go3 gat1} /(expr. idiom.) sortir sans rien; faire quelque chose en vain; faire quelque chose pour rien/(lit.) n'avoir qu'un « 吉 »/
-????f 得個講字 得个讲字 [de2 ge4 jiang3 zi4] {dak1 go3 gong2 zi6} /(expr. idiom.) qui ne tient pas ses promesses; qui parle sans agir/(lit.) n'avoir que des paroles/
+????f 得個講字 得个讲字 [de2 ge4 jiang3 zi4] {dak1 go3 gong2 zi6} /(expr. idiom.) qui ne tient pas ses promesses; qui parle sans agir/(lit.) n'avoir que la parole/
 得償所願 得偿所愿 [de2 chang2 suo3 yuan4] {dak1 soeng4 so2 jyun6} /obtenir que l'on a souhaité/
 得切 得切 [de5 qie4] {dak1 cit3} /à temps/
 得咗 得咗 [de5 zuo5] {dak1 zo2} /c'est fait/réussi/
@@ -14120,7 +14120,7 @@
 當面 当面 [dang1 mian4] {dong1 min2} /face à face; en personne/
 ????f 當頭 当头 [dang1 tou2] {dong1 tau4} /plein sur la tête; droit sur la tête/right overhead; at the time when/
 ????f 當頭棒喝 当头棒喝 [dang1 tou2 bang4 he4] {dong1 tau4 paang5 hot3} /(expr. idiom.) avertissement; coup de semonce/(lit.) frappé sur la tête par un bâton et être crié dessus/
-????f 當食生菜 当食生菜 [dang1 shi2 sheng1 cai4] {dong1 sik6 saang1 coi3} /(expr. idiom.) faire de fausses promesses (voir aussi 誓願當食生菜|誓愿当食生菜)/(lit.) comme manger de la laitue/
+????f 當食生菜 当食生菜 [dang1 shi2 sheng1 cai4] {dong1 sik6 saang1 coi3} /(expr. idiom.) faire de promesses vides (voir aussi 誓願當食生菜|誓愿当食生菜)/(lit.) comme manger de la laitue/
 當黑 当黑 [dang1 hei1] {dong1 hak1} /avoir de la malchance/
 畸士 畸士 [ji1 shi4] {kei1 si2} /affaire; enquête (policier)/(orig.) de l'anglais « case », « affaire, cas »/ 
 畸形 畸形 [ji1 xing2] {kei1 jing4} /(médecine) malformation; déformation/bizarre; anormal/
@@ -15309,7 +15309,7 @@
 空中巴士 空中巴士 [kong1 zhong1 ba1 shi4] {hung1 zung1 baa1 si2} /Airbus, société européenne/
 空中服務員 空中服务员 [kong1 zhong1 fu2 wu4 yuan2] {hung1 zung1 fuk6 mou6 jyun4} /agent de bord/
 ????f 空口無憑 空口无凭 [kong1 kou3 wu2 ping2] {hung1 hau2 mou4 pang4} /(expr. idiom.) il est facile de parler; les paroles n'ont aucune valeur, on a besoin de plus de preuves/
-空口講白話 空口讲白话 [kong1 kou3 jiang3 bai2 hua5] {hung1 hau2 gong2 baak6 waa2} /(expr. idiom.) faire des promesses vides/
+空口講白話 空口讲白话 [kong1 kou3 jiang3 bai2 hua5] {hung1 hau2 gong2 baak6 waa2} /(expr. idiom.) faire de promesses vides/(lit.) bouche vide qui ne dit que du charabia/
 空寥寥 空寥寥 [kong1 liao2 liao2] {hung1 liu1 liu1} /vide; qui ne contient rien/
 ????f 空心老倌 空心老倌 [kong1 xin1 lao3 guan1] {hung1 sam1 lou5 gun1} /(fig.) personne incompétente; personne qui prétend être douée en quelque chose mais qui en réalité ne possède aucune compétence dans ce domaine/
 空心磚 空心磚 [kong1 xin1 zhuan1] {hung1 sam1 zyun1} /parpaing; bloc de béton/
@@ -18234,12 +18234,12 @@
 誓不罷休 誓不罢休 [shi4 bu4 ba4 xiu1] {sai6 bat1 baa6 jau1} /jurer de ne pas arrêter; jurer de ne pas abandonner/
 ????c 誓神劈願 誓神劈愿 [shi4 shen2 pi1 yuan4] {sai6 san4 pek3 jyun6} /to swear a solemn oath/
 誓願 誓愿 [shi4 yuan4] {sai6 jyun6} /prêter serment/
-????f 誓願當食生菜 誓愿当食生菜 [shi4 yuan4 dang1 shi2 sheng1 cai4] {sai6 jyun6 dong3 sik6 saang1 coi3} /(expr. idiom.) faire une promesse à la légère/(lit.) prêter serment comme si l'on mangeait de la laitue/
+????f 誓願當食生菜 誓愿当食生菜 [shi4 yuan4 dang1 shi2 sheng1 cai4] {sai6 jyun6 dong3 sik6 saang1 coi3} /(expr. idiom.) faire une promesse sans intention de le tenir/(lit.) prêter serment comme si l'on mangeait de la laitue/
 ????f 誘供 诱供 [you4 gong4] {jau5 gung1} /amener quelqu'un à faire des aveux/
 誘姦 诱奸 [you4 jian1] {jau5 gaan1} /séduire; amener quelqu'un à avoir des rapports sexuels/
 語源學 语源学 [yu3 yuan2 xue2] {jyu5 jyun4 hok6} /étymologie/
 語言 语言 [yu3 yan2] {jyu5 jin4} /langue/linguistique/
-語調 语调 [yu3diao4] {jyu5 diu6} /ton; intonation (de la voix)/
+語調 语调 [yu3 diao4] {jyu5 diu6} /ton; intonation (de la voix)/
 語體文 语体文 [yu3 ti3 wen2] {jyu5 tai2 man4} /écrits vernaculaires/
 誤傳 误传 [wu4 chuan2] {ng6 cyun4} /répandre de fausses informations; mésinformer; déformer les faits/
 說到尾 说到尾 [shuo1 dao4 wei3] {syut3 dou3 mei5} /somme toute; tout compte fait; dans l'ensemble/
@@ -18346,7 +18346,7 @@
 講實 讲实 [jiang3 shi2] {gong2 sat6} /confirmer/
 講就易，做就難 讲就易，做就难 [jiang3 jiu4 yi4 , zuo4 jiu4 nan2] {gong2 zau6 ji6 zou6 zau6 naan4} /(expr. idiom.) plus vite dit que fait/(lit.) le dire est facile, le faire est difficile/
 ????c 講得出就講 讲得出就讲 [jiang3 de2 chu1 jiu4 jiang3] {gong2 dak1 ceot1 zau6 gong2} /speak carelessly/
-講得口響 讲得口响 [jiang3 de5 kou3 xiang3] {gong2 dak1 hau2 hoeng2} /dire ce que l'on veut entendre; faire de promesses vides/(lit.) parler de manière que l'on puisse entendre/
+講得口響 讲得口响 [jiang3 de5 kou3 xiang3] {gong2 dak1 hau2 hoeng2} /(expr. idiom.) dire ce que l'on veut entendre; faire de promesses vides/(lit.) parler de manière que l'on puisse entendre/
 ????c 講心啫 讲心啫 [jiang3 xin1 ze1] {gong2 sam1 ze1} /to treat a person with sincerity; be loyal in friendship; to carry one's heart upon one's sleeve; to confide in someone/
 ????f 講心嗰句 讲心嗰句 [jiang3 xin1 g5? ju4] {gong2 sam1 go2 geoi3} /pour être honnête/
 講情 讲情 [jiang3 qing2] {gong2 cing4} /intercéder; solliciter pour quelqu'un; plaider en faveur de quelqu'un/
@@ -19257,7 +19257,7 @@
 輕秤 轻秤 [qing1 cheng4] {heng1 cing3} /léger; pas lourd/à faible densité/
 ????c 輕裝上陣 轻装上阵 [qing1 zhuang1 shang4 zhen4] {hing1 zong1 soeng5 zan6} /go into battle with a light pack; to move forward with one's burdens discarded/
 輕言 轻言 [qing1 yan2] {hing1 jin4} /(fig.) abandonner facilement/(fig.) parler sans réfléchir/(lit.) paroles légères/
-輕諾寡信 轻诺寡信 [qing1 nuo4 gua3 xin4] {hing1 nok6 gwaa2 seon3} /(expr.) qui fait des promesses facilement et ne pas les tenir; qui fait des promesses sans réfléchir/
+輕諾寡信 轻诺寡信 [qing1 nuo4 gua3 xin4] {hing1 nok6 gwaa2 seon3} /(expr.) qui fait des promesses facilement et ne les tient pas; qui fait des promesses sans réfléchir/
 ????f 輕身 轻身 [qing1 shen1] {hing1 san1} /léger; pas lourd/voyager léger/(litt.) sans respect pour sa dignité/
 輕鐵 轻铁 [qing1 tie3] {hing1 tit3} /métro léger/(en particulier) le Métro léger de Hong Kong/
 輕軌 轻轨 [qing1 gui3] {hing1 gwai2} /métro léger/
@@ -20266,7 +20266,7 @@
 ????c 門釘 门钉 [men2 ding1] {mun4 deng1} /doornail; decorative nails on the door panel/
 門鉸 门铰 [men2 jiao3] {mun4 gaau2} /charnière de porte/
 門鐘 门钟 [men2 zhong1] {mun4 zung1} /sonnette/
-門面話 门面话 [men2 mian5 hua4] {mun4 min6 waa2} /belles paroles; paroles creux; promesses en l'air/
+門面話 门面话 [men2 mian5 hua4] {mun4 min6 waa2} /(fig.) belles paroles; paroles creuses; promesses en l'air/(lit.) paroles d'apparence/
 閂 闩 [shuan1] {saan1} /fermer/arrêter/barrer/éteindre; fermer/
 閂冷氣 闩冷气 [shuan1 leng3 qi4] {saan1 laang5 hei3} /éteindre la climatisation/
 閂埋門 闩埋门 [shuan1 mai2 men2] {saan1 maai4 mun4} /fermer la porte/
