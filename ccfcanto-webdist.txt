@@ -16934,12 +16934,12 @@
 舖頭 铺头 [pu4 tou2] {pou3 tau2} /magasin; boutique/
 𦧲飯應 𦧲饭应 [fan4 ying1] {loe1 faan6 jing3} /(fig.) accepter sans hésitation/(lit.) recracher du riz pour répondre/
 舞 舞 [wu3] {mou5} /danser/jouer/
-舞台劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre/
+????f 舞台劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre (qui inclut de la danse et du chant)/
 ????f 舞女 舞女 [wu3 nu:3] {mou5 neoi2} /danseuse/hôtesse d'une boîte de nuit; entraîneuse/strip-teaseuse/escorte (de sexe féminin)/
 ????f 舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /hôtesse d'une boîte de nuit; entraîneuse/strip-teaseuse/
 ????c 舞文弄墨 舞文弄墨 [wu3 wen2 nong4 mo4] {mou5 man4 lung6 mak6} /(positive or negative connotation? does it have to do with the law?) show off literary skill; to play with words/
 舞男 舞男 [wu3 nan2] {mou5 naam4} /gigolo; escorte (de sexe masculin)/
-舞臺劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre/
+????f 舞臺劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre (qui inclut de la danse et du chant)/
 舞蹈 舞蹈 [wu3 dao3] {mou5 dou6} /danse/choréographie/
 ????f 舞麒麟 舞麒麟 [wu3 qi2 lin2] {mou5 kei4 leon4} /Unicorn dance/
 舟楫 舟楫 [zhou1 ji2] {zau1 zip3} /vaisseaux; navires; bateaux/
@@ -22654,11 +22654,11 @@
 龜苓膏 龟苓膏 [gui1 ling2 gao1] {gwai1 ling4 gou1} /guīlínggāo, gelée fabriquée à l'aide de poudre de plastrons de tortues et d'herbes médicinales/
 龜蛋 龟蛋 [gui1 dan4] {gwai1 daan2} /(fig.) connard/(lit.) œuf de tortue/
 槍替 枪替 [qiang1 ti4] {coeng1 tai3} /passer un examen à la place de quelqu'un d'autre/
-槍手 枪手 [qiang1 shou3] {coeng1 sau2} /tireur, homme armé/passer un examen à la place de quelqu'un d'autre/
+槍手 枪手 [qiang1 shou3] {coeng1 sau2} /tireur; homme armé/passer un examen à la place de quelqu'un d'autre/
 免息 免息 [mian3 xi1] {min5 sik} /(finance) sans intérêt/
-想著 想着 [xiang3 zhe] {soeng2 zoek6} /garder à l'esprit, tenir compte de/n'oubliez pas de.../
-累死累活 累死累活 [lei4 si3 lei4 huo2] {leoi6 sei2 leoi6 wut6} /travailler jusqu'à l'épuisement, se tuer au travail/faire du surmenage/
-鶴 鹤 [he4] {hok2} /(fig.) maigrichon, tout maigre/(lit.) grue/
+想著 想着 [xiang3 zhe] {soeng2 zoek6} /garder à l'esprit; tenir compte de/n'oubliez pas de.../
+累死累活 累死累活 [lei4 si3 lei4 huo2] {leoi6 sei2 leoi6 wut6} /travailler jusqu'à l'épuisement; se tuer au travail/faire du surmenage/
+鶴 鹤 [he4] {hok2} /(fig.) maigrichon; tout maigre/(lit.) grue/
 滯銷貨 滞销货 [zhi4 xiao1 huo4] {zai6 siu1 fo3} /produit invendable/
 故稱 故称 [gu4 cheng1] {gu3 cing1} /d'où le nom/
 照壁 照壁 [zhao4 bi4] {ziu3 bik1} /mur en face d'une entrée à une cour, servant à empêcher les esprits malfaiteurs d'y entrer (voir aussi 影壁|影壁 et 蕭牆|萧墙)/
@@ -23183,8 +23183,8 @@
 反轉咗 反转咗 [fan3 zhuan3 zuo3] {faan2 zyun3 zo2} /être sens dessus dessous/être à l'envers/
 叠友 叠友 [die2 you3] {daap6 jau2} /(d'une triade) avoir beaucoup de membres/
 ????c 叠崩 叠崩 [die2 beng1] {daap6 bang1} /(fam.) riche/
-????c 叠碼 叠码 [die2 ma3] {daap6 maa5} /jetons de poker/
-????c 叠碼仔 叠码仔 [die2 ma3 zi3] {daap6 maa5 zai2} /casino chips seller (dead chips? loan shark? triad? illegal?)/
+叠碼 叠码 [die2 ma3] {daap6 maa5} /jetons de poker/
+????c 叠碼仔 叠码仔 [die2 ma3 zi3] {daap6 maa5 zai2} /(argot de casino) jeune homme chargé d'attirer des clients pour un casino à Macao, qui prête de l'argent à des taux d'usure dans ces casinos (note : ces personnes sont souvent associées avec les triades macanaises ou des activités illégales)/(lit.) vendeur de jetons de poker/
 ????c 叠米 叠米 [die2 mi3] {daap6 mai5} /(fam.) riche/
 ????f 口寡 口寡 [kou3 gua3] {hau2 gwaa2} /(fam.) perdre l'appétit parce que la nourriture est tellement fade/
 ????f 口慷慷 口慷慷 [kou3 kang1 kang1] {hau2 hong2 hong2} /(fig.) qui fait des promesses sans réfléchir; qui ne pense pas à comment tenir une promesse après l'avoir faite/
@@ -23199,7 +23199,7 @@
 叮呤噹啷 叮呤当啷 [ding1 ling4 dang1 lang1] {ding1 ling1 dong1 long1} /(onomatopée d'un tintement)/
 可食用 可食用 [ke3 shi2 yong4] {ho2 sik6 jung6} /comestible/
 台姐 台姐 [tai2 jie3] {toi4 ze1} /(argot des chauffeurs de taxi) répartiteur de taxis de sexe féminin/
-????c 台戲 台戏 [tai2 xi4] {toi4 hei3} /spectacle/pièce de théâtre/
+????f 台戲 台戏 [tai2 xi4] {toi4 hei3} /pièce de théâtre (qui inclut de la danse et du chant)/
 ????f 台鑒 台鉴 [tai2 jian4] {toi4 gaam3} /(dans une lettre) (très soutenu) pour votre lecture/
 吃光 吃光 [chi1 guang1] {hek3 gwong1} /avoir tout mangé/
 吃東西 吃东西 [chi1 dong1 xi5] {hek3 dung1 sai1} /manger quelque chose/prendre un repas/
@@ -23228,4 +23228,24 @@
 ????f 含蕉 含蕉 [han2 jiao1] {ham4 ziu1} /(vulg.) (exprime le mépris) pratiquer une fellation; sucer/(vulg.) (personne) baisé; foutu/(lit.) sucer une banane/
 吱吱斟 吱吱斟 [zhi1 zhi1 zhen1] {zi4 zi4 zam4} /(fam.) chuchoter; parler bas/
 ????c 吸格 吸格 [xi1 ge2] {kap3 gaak3} /utiliser un chèque sans provision pour frauder/
+????c 吹一輪水 吹一轮水 [chui1 yi1 lun2 shui3] {ceoi1 jat1 leon4 seoi2} /jaser/
+吹乒乓 吹乒乓 [chui1 ping1 pang1] {ceoi1 bing1 bam1} /(fam.) (vieilli) (exprime une indifférence) et alors? pis après?/
+????c 吹唔漲 吹唔涨 [chui1 wu2 zhang3] {ceoi1 m4 zoeng3} /(expr.) ne pas être affecté par les actions ou paroles de quelqu'un/
+????c 吹式士風 吹式士风 [chui1 shi4 shi4 feng1] {ceoi1 sik1 si6 fung1} /(fam.) utiliser un cône en papier pour sniffer de la drogue/(lit.) jouer du saxophone/
+????f 吹得我漲 吹得我涨 [chui1 de5 wo3 zhang3] {ceoi1 dak1 ngo5 zoeng3} /(fam.) (exprime une indifférence) et alors? je m'en fiche!/
+吹得我漲，拉得我長 吹得我涨，拉得我长 [chui1 de5 wo3 zhang3, la1 de5 wo3 zhang3] {ceoi1 dak1 ngo5 zoeng3, laai1 dak1 ngo5 coeng4} /(expr.) (exprime une indifférence) et alors? je m'en fiche/
+????f 吹水唔抹咀 吹水唔抹咀 [chui1 shui3 wu2 mo3 ju3] {ceoi1 seoi2 m4 maat3 zeoi2} /(expr. idiom.) dire des conneries/(lit.) souffler de l'eau et ne pas essuyer les lèvres/
+吹波仔 吹波仔 [chui1 bo1 zi3] {ceoi1 bo1 zai2} /(fam.) souffler dans le ballon; passer un test d'alcoolémie/(lit.) souffler un ballon/
+吹波波 吹波波 [chui1 bo1 bo1] {ceoi1 bo1 bo1} /(fam.) souffler dans le ballon; passer un test d'alcoolémie/(lit.) souffler un ballon/
+????f 吹行晒 吹行晒 [chui1 xing2 shai4] {ceoi1 hang4 saai3} /(d'une rumeur) qui s'est répandu partout/
+吽吽豆豆 吽吽豆豆 [ou2 ou2 dou4 dou4] {ngau6 ngau6 dau6 dau6} /(expr.) (personne) très ennuyeux/(expr.) (personne) sans énergie; léthargique/(personne) perdu dans ses pensées; être dans la lune; être distrait/
+吽豆 吽豆 [ou2 dou4] {ngau6 dau6} /(personne) perdu dans ses pensées; être dans la lune; être distrait/(personne) sans énergie; léthargique/(personne) très ennuyeux/
+????c 呃飯食 呃饭食 [e4 fan4 shi5] {aak1 faan6 sik6} /(expr.) se relâcher dans son travail; se laisser aller dans son travail/(lit.) tromper pour avoir du riz à manger/
+呃騙 呃骗 [e4 pian4] {aak1 pin3} /escroquer; arnaquer/duper; tromper/
+????c 告到甩褲為止 告到甩裤为止 [gao4 dao4 shuai3 ku4 wei2zhi3] {gou3 dou3 lat1 fu3 wai4 zi2} /to sue someone and not let them get away/
+????f 呢世 呢世 [ne5 shi4] {ni1 sai3} /le restant de ses jours; le reste de sa vie/toute sa vie/(lit.) cette vie/
+呢保 呢保 [ne5 bao3] {li1 bou2} /étiquette/(orig.) de l'anglais « label » (« étiquette »)/
+呢道 呢道 [ne5 dao4] {ni1 dou6} /ici/
+呢邊 呢边 [ne5 bian1] {ni1 bin1} /par ici/de ce côté/
+????c 周圍貢 周围贡 [zhou1 wei2 gong4] {zau1 wai4 gung3} /to go around everywhere/
 
