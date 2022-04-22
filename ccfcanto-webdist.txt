@@ -4413,7 +4413,7 @@
 啤梨 啤梨 [pi2 li2] {be1 lei2} /poire/
 啤牌 啤牌 [pi2 pai2] {pe1 paai2} /cartes à jouer/
 啦啦亂 啦啦乱 [la2 la2 luan4] {laa4 laa2 lyun6} /en désordre/
-啦啦林 啦啦林 [la2 la2 lin2] {laa4 laa4 lam4} /rapidement; vite/
+啦啦林 啦啦林 [la2 la2 lin2] {laa4 laa4 lam4} /rapidement; vite/dépêche-toi!/
 啦啦聲 啦啦声 [la2 la2 sheng1] {laa4 laa2 seng1} /rapidement; vite; précipitamment/
 ????f 啪丸 啪丸 [pa1 wan2] {paak1 jyun2} /consommer des drogues sous forme de pilule/
 啪紐 啪纽 [pa1 niu3] {baak1 nau2} /boutonner des boutons pression/
@@ -19657,7 +19657,7 @@
 遠洋運輸 远洋运输 [yuan3 yang2 yun4 shu1] {jyun5 joeng4 wan6 syu1} /Cosco Shipping, armateur chinois/transport maritime/
 適合 适合 [shi4 he2] {sik1 hap6} /convenir; aller bien/
 遭劫 遭劫 [zao1 jie2] {zou1 gip3} /se faire voler/
-遭殃 遭殃 [zao1 yang1] {zou1 joeng1} /subir une malheur/
+遭殃 遭殃 [zao1 yang1] {zou1 joeng1} /subir un malheur/
 遮 遮 [zhe1] {ze1} /bloquer; couvrir/dissimuler; cacher/parapluie/
 ????f 遮手影 遮手影 [zhe1 shou3 ying3] {ze1 sau2 jing2} /situation où l'on bloque la lumière avec la main quand l'on écrit; situation où l'ombre de sa main tombe sur la partie du papier où l'on essaie d'écrire/
 遮打道 遮打道 [zhe1 da3 dao4] {ze1 daa2 dou6} /Chater Road, rue de Hong Kong/
@@ -21378,7 +21378,7 @@
 風俗習慣 风俗习惯 [feng1 su2 xi2 guan4] {fung1 zuk6 zaap6 gwaan3} /(expr.) us et coutumes/
 風頭十足 风头十足 [feng1 tou2 shi2 zu2] {fung1 tau4 sap6 zuk1} /être à l'honneur; être en vedette/
 風信 风信 [feng1 xin4] {fung1 seon3} /(litt.) vent saisonnier/nouvelles/
-????f 風吹草動 风吹草动 [feng1 chui1 cao3 dong4] {fung1 ceoi1 cou2 dung6} /(expr. idiom.) signe de problème; signe de difficulté/(lit.) soufflement du vent et bruissement de l'herbe/
+????f 風吹草動 风吹草动 [feng1 chui1 cao3 dong4] {fung1 ceoi1 cou2 dung6} /(expr. idiom.) il y a des nuages à l'horizon; signes de trouble; signes de problèmes/(lit.) soufflement du vent et bruissement de l'herbe/
 風吹雞蛋殼 风吹鸡蛋壳 [feng1 chui1 ji1 dan4 ke2] {fung1 ceoi1 gai1 daan2 hok3} /(expr.) plaie d'argent n'est pas mortelle; l'argent n'est pas tout/(lit.) (l'argent, c'est comme) une coquille d'œuf qui peut être facilement emportée par le vent/
 ????f 風吹雞蛋殼，財散人安樂 风吹鸡蛋壳，财散人安乐 [feng1 chui1 ji1 dan4 ke2，cai2 san4 ren2 an1 le4] {fung1 ceoi1 gai2 daan2 hok3，coi4 saan3 jan4 on1 lok6} /(expr. idiom.) plaie d'argent n'est pas mortelle; l'argent n'est pas tout/(lit.) (l'argent, c'est comme) une coquille d'œuf qui peut être facilement emportée par le vent, l'on est plus content quand nos richesses sont dispersées/
 風塵中人 风尘中人 [feng1 chen2 zhong1 ren2] {fung1 can4 zung1 jan4} /(expr.) prostituée/
@@ -22814,7 +22814,7 @@
 鳩支孖碌 鸠支孖碌 [jiu3 zhi1 ma1 lu4] {gau1 zi1 maa1 luk1} /(inj.) (vulg.) con; extrêmement stupide/
 乞兒兜度嗱飯食 乞儿兜度嗱饭食 [qi3 er2 dou1 du4 na2 fan4shi5] {hat1 ji1 dau1 dou6 naa2 faan6 sik6} /(expr. idiom.) exploiter les personnes défavorisées/(lit.) voler du riz du bol d'un mendiant/
 ????c 乸乸地 乸乸地 [na3 na3 di4] {naa2 naa2 dei2} /(péj.) (d'un homme) efféminé/
-乸口乸面 乸口乸面 [na3 kou3 na3 mian4] {naa2 hau2 naa2 min6} /se renfrogner; avoir l'air mécontent/
+乸口乸面 乸口乸面 [na3 kou3 na3 mian4] {naa2 hau2 naa2 min6} /(fam.) se renfrogner; avoir l'air mécontent/
 ????c 亂打亂撞 乱打乱撞 [luan4 da3 luan4 zhuang4] {lyun6 daa2 lyun6 zong6} /to act blindly without thinking; to blindly stumble one's way through; to go about blindly and haphazardly (did the person succeed?)/
 ????c 亂撞一通 乱撞一通 [luan4 zhuang4 yi1 tong4] {lyun6 zong6 jat1 tung1} /to act blindly without thinking; to blindly stumble one's way through; to go about blindly and haphazardly [written and colloquial]/
 亂晒龍 乱晒龙 [luan4 shai4 long2] {lyun6 saai3 lung4} /(fam.) chaotique/(fam.) en désordre/(fam.) foutu en l'air/
@@ -23374,4 +23374,31 @@
 ????f 㗎嚊 㗎嚊 [jia4 pi4] {gaa3 be6} /(vieilli) (particule modale utilisé pour déclarer ou affirmer quelque chose)/
 㗎頭 㗎头 [jia4 tou2] {gaa4 tau4} /(inj.) (péj.) Jap; Japonais, Japonaise/
 𠸎埋 𠸎埋 [na2 mai2] {naa1 maai4} /et/avec/
+????c 嗌乜春呀 嗌乜春呀 [ai4 mie1 chun1 ya5] {aai3 mat1 ceon1 aa3} /(fam.) c'est quoi ce vacarme? pouquoi tout le monde crie ici? qu'est-ce que vous discutez tellement fort?/
+嗌外賣 嗌外卖 [ai4 wai4mai4] {aai3 ngoi6 maai6} /commander à emporter/
+嗒得杯落 嗒得杯落 [da1 de5 bei1 luo4] {daap1 dak1 bui1 lok6} /(fam.) (d'une femme) sexy; canon/
+????f 嗒晒糖 嗒晒糖 [da1 shai4 tang2] {daap1 saai3 tong4} /(fam.) entiché; amoureux/(fam.) lascif/
+嗰個嘢 嗰个嘢 [g5? ge4 ye3] {go2 go3 je5} /cette chose-là/(péj.) cette personne-là; ce type-là/
+嗰樣 嗰样 [ge3 yang4] {go2 joeng6} /de cette façon-là/
+嗰部 嗰部 [ge3 bu4] {go2 bou6} /(d'un film, d'un livre, ou d'une machine) ce ... là/
+嗰隻嘢 嗰只嘢 [ge3 zhi1 ye3] {go2 zek3 je5} /(péj.) cette personne-là; ce type-là/
+????c 嗰隻蟹 嗰只蟹 [ge3 zhi1 xie4] {go2 zek3 haai5} /cette crabe-là/(péj.) cette femme-là/
+嗱口嗱面 嗱口嗱面 [na2 kou3 na2 mian4] {naa2 hau2 naa2 min6} /(fam.) se renfrogner; avoir l'air mécontent/
+嗱嗱林 嗱嗱林 [na2 na2 lin2] {naa4 naa4 lam4} /rapidement; vite/dépêche-toi!/
+嗱嗱淋 嗱嗱淋 [na2 na2 lin2] {naa4 naa4 lam4} /rapidement; vite/dépêche-toi!/
+嗱嗱臨 嗱嗱临 [na2 na2 lin2] {naa4 naa4 lam4} /rapidement; vite/dépêche-toi!/
+嗱屎上身 嗱屎上身 [na2 shi3 shang4 shen1] {naa2 si2 soeng5 san1} /(expr. idiom.) chercher des ennuis/(lit.) mettre de merde sur le corps/
+????c 嗱手唔成勢 嗱手唔成势 [na2 shou3 wu2 cheng2 shi4] {naa4 sau2 m4 sing4 sai3} /to be in a dilemma; to be unable to cope with a problem; to be all over the place; to be unprepared to deal with a situation [colloquial]/
+嗱林 嗱林 [na2 lin2] {naa4 lam4} /rapidement; vite/dépêche-toi!/
+嗱西 嗱西 [na2 xi1] {naa2 sai1} /(personne) négligeant; qui fait n'importe quoi; qui fait un travail bâclé/
+????c 嗱起 嗱起 [na2 qi3] {naa4 hei2} /to pull up; to roll up; to pick up [colloquial]/
+????c 嗲少兩句 嗲少两句 [dia3 shao3 liang3 ju4] {de1 siu2 loeng5 geoi3} /enough with the talking; cut the crap; enough with nonsense [colloquial]/
+嗲幾句 嗲几句 [dia3 ji3 ju4] {de1 gei2 geoi3} /(fam.) bavarder; jaser/
+????f 嗲掂 嗲掂 [dia3 dian1] {de2 dim6} /(fam.) régler un problème/(fam.) réussir à passer de la pommade à quelqu'un/
+????f 𠺘 𠺘 [lang3] {long2} /rincer/faire tourner (un liquide)/
+????f 嘅喇 嘅喇 [ge3 la3] {ge3 laa2} /(particule modale utilisée pour affirmer quelque chose)/
+嘅嚊 嘅嚊 [ge3 pi4] {ge3 be6} /(vieilli) (particule modale utilisé pour déclarer ou affirmer quelque chose)/
+嘈到拆天 嘈到拆天 [cao2 dao4 chai1 tian1] {cou4 dou3 caak3 tin1} /(expr. idiom.) très bruyant/(lit.) assez bruyant pour faire tomber le ciel/
+嘉年華會 嘉年华会 [jia1 nian2 hua2 hui4] {gaa1 nin4 waa4 wui2} /carnaval/
+嘞嘞聲 嘞嘞声 [le1 le5 sheng1] {laak4 laak2 seng1} /(d'une langue étrangère) parler couramment/
 
