@@ -4686,7 +4686,7 @@
 嘮嘈 唠嘈 [lao2 cao2] {lou4 cou4} /être bruyant/
 嘰咕 叽咕 [ji1 gu1] {gei1 gu1} /parler doucement; chuchoter; murmurer/
 ????f 嘰哩咕嚕 叽哩咕噜 [ji1 li5 gu1 lu1] {gei1 li1 gu1 lou1} /(personne) qui n'articule pas clairement ses mots; qui parle indistinctement; qui est incompréhensible/
-嘰嘰趷趷 叽叽趷趷 [ji1 ji1 he2 he2] {gi4 gi1 gat6 gat6} /énervant; embêtant/balbutier; bégayer; bredouiller/se plaindre/
+嘰嘰趷趷 叽叽趷趷 [ji1 ji1 he2 he2] {gi4 gi1 gat6 gat6} /(fam.) se plaindre; chialer; râler/
 嘰趷 叽趷 [ji1 he2] {gei1 gat6} /balbutier; bégayer; bredouiller/se plaindre/
 嘲笑 嘲笑 [chao2 xiao4] {zaau1 siu3} /se moquer de; rire de; ridiculiser/
 嘴 嘴 [zui3] {zeoi2} /bouche/bec/embrasser/
@@ -23401,4 +23401,17 @@
 嘈到拆天 嘈到拆天 [cao2 dao4 chai1 tian1] {cou4 dou3 caak3 tin1} /(expr. idiom.) très bruyant/(lit.) assez bruyant pour faire tomber le ciel/
 嘉年華會 嘉年华会 [jia1 nian2 hua2 hui4] {gaa1 nin4 waa4 wui2} /carnaval/
 嘞嘞聲 嘞嘞声 [le1 le5 sheng1] {laak4 laak2 seng1} /(d'une langue étrangère) parler couramment/
+嘢可以亂食，說話唔可以亂講 嘢可以乱食，说话唔可以乱讲 [ye3 ke3 yi3 luan4 shi2, shuo1 hua4 wu2 ke3 yi3 luan4 jiang3] {je5 ho2 ji5 lyun6 sik6, syut3 waa6 m4 ho2 ji5 lyun6 gong2} /(expr. idiom.) réfléchissez avant de parler/(lit.) on peut manger toutes sortes de choses, mais on ne peut pas dire toutes sortes de choses/
+嘥心機捱眼訓 嘥心机捱眼训 [sai1 xin1 ji1 ai2 yan3 xun4] {saai1 sam1 gei1 ngaai4 ngaan5 fan3} /(expr. idiom.) perte de temps et d'énergie/(lit.) gaspiller son attention et supporter l'envie de dormir/
+????f 嘥腳力 嘥脚力 [sai1 jiao3 li4] {saai1 goek3 lik6} /(fig.) perdre du temps ou d'énergie en marchant quelque part/(lit.) gaspiller l'énergie des pieds/
+????f 嘥電 嘥电 [sai1 dian4] {saai1 din6} /gaspiller de l'électricité/qui gaspille de l'électricité; énergivore/
+噓噓聲 嘘嘘声 [xu1 xu1 sheng1] {hoe4 hoe2 seng1} /très rapidement; très vite/
+𠼮 𠼮 [] {ngai1} /supplier; implorer/
+𠼮 𠼮 [] {ai1} /supplier; implorer/
+嘮囌 唠苏 [lao2 su1] {lou4 sou1} /se plaindre; chialer; râler/plainte/
+嘰嘰咭咭 叽叽咭咭 [ji1 ji1 ji1 ji1] {gi4 gi1 gat6 gat6} /(fam.) se plaindre; chialer; râler/
+嘰屹 叽屹 [ji1 yi4] {gi1 gat6} /(fam.) se plaindre; chialer; râler/
+????f 嘴𠴕𠴕 嘴𠴕𠴕 [zui3 miao4 miao4] {zeoi2 miu2 miu2} /to sneer; to curl the lip with disdain or dissatisfaction/
+????f 嘴廟廟 嘴庙庙 [zui3 miao4 miao4] {zeoi2 miu2 miu2} /to sneer; to curl the lip with disdain or dissatisfaction/
+噍低 噍低 [jiao4 di1] {zeu6 dai1} /(fam.) terrasser; assommer; sonner/
 
