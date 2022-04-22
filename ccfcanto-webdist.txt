@@ -21580,6 +21580,8 @@
 ????f 食鹽多過你食米 食盐多过你食米 [shi2 yan2 duo1 guo4 ni3 shi2 mi3] {sik6 jim4 do1 gwo3 nei5 sik6 mai5} /(expr. idiom.) je suis beaucoup plus experimenté que toi!/(lit.) j'ai mangé plus de sel que tu aies mangé du riz!/
 食齋 食斋 [shi2 zhai1] {sik6 zaai1} /être végétarien/(fig.) ne pas avoir de relations sexuelles/
 食螺絲 食螺丝 [shi2 luo2 si1] {sik6 lo4 si1} /(fig.) marmonner; parler entre ses dents; parler indistinctement/(lit.) manger des vis/
+食𩜠𩜠 食𩜠𩜠 [shi2 mum5 mum5] {sik6 mam1 mam1} /(enfantin) manger/
+食ｍｕｍ ｍｕｍ 食ｍｕｍ ｍｕｍ [shi2 mum5 mum5] {sik6 mam1 mam1} /(enfantin) manger/
 飢荒 饥荒 [ji1 huang5] {gei1 fong1} /famine/
 飯剷頭 饭铲头 [fan4 chan3 tou2] {faan6 caan2 tau4} /(espèce de serpents) Naja atra/
 飯團 饭团 [fan4 tuan2] {faan6 tyun4} /onigiri, plat japonais consistant en une boulette de riz enveloppée d'une algue/
@@ -23348,4 +23350,28 @@
 啞子食黃蓮 哑子食黄莲 [ya3 zi5 shi2 huang2 lian2] {aa2 zi2 sik6 wong4 lin4} /(expr. en suspens) souffrir en silence/(lit.) garçon mange des graines de savoyane chinoise (deuxième partie 有苦自己知|有苦自己知 « connaître l'amertume seul »)/
 啤仔 啤仔 [pi2 zi3] {bi1 zai2} /bébé/petit garçon/
 啤啤房 啤啤房 [pi2 pi2 fang2] {bi4 bi1 fong2} /chambre du bébé/
+啤灰 啤灰 [pi2 hui1] {be1 fui1} /(fam.) prendre de l'héroïne/
+????f 啤酒妹 啤酒妹 [pi2 jiu3 mei4] {be1 zau2 mui} /(fam.) jeune femme en tenue légère qui vend de la bière/
+????f 啪針 啪针 [pa1 zhen1] {paak1 zam1} /(fam.) injecter un médicament/(fam.) se piquer; s'injecter une drogue/
+????c 啱啱碰著剛剛 啱啱碰着刚刚 [yan1 yan1 peng4 zhe5 gang1 gang1] {ngaam1 ngaam1 pung3 zoek6 gong1 gong1} /coincidentally as luck would have it [colloquial]/
+𠵿牌 𠵿牌 [pi1 pai2] {pe1 paai2} /cartes à jouer/
+????c 喃嘸費 喃呒费 [nan2 fu3 fei4] {naam4 mo4 fai3} /fees for having sex with a night club hostess [colloquial]/
+????f 喉住 喉住 [hou2 zhu4] {hau4 zyu6} /regarder longuement quelque chose que l'on désire/
+喉琴 喉琴 [hou2 qin2] {hau4 kam4} /impatient; pressé/anxieux/
+喪玩 丧玩 [sang4 wan2] {song3 waan2} /(fam.) s'amuser beaucoup/
+????c 單力 单力 [dan1 li4] {daan1 lik6} /sole effort [colloquial]/
+單思 单思 [dan1 si1] {daan1 si1} /amour non partagé/
+喱埋 喱埋 [li2 mai2] {lei1 maai4} /se cacher/
+喳喳淋 喳喳淋 [cha1 cha5 lin2] {zaa4 zaa4 lam4} /dépêche-toi!/
+喺呢度 喺呢度 [xi3 ne5 du4] {hai2 ni1 dou6} /ici; c'est ici/
+喺呢處 喺呢处 [xi3 ne5 chu3] {hai2 ni1 syu3} /ici; c'est ici/
+喺嗰處 喺嗰处 [xi3 g5? chu3] {hai2 go2 syu3} /là-bas; c'est là-bas/
+喺埋一齊 喺埋一齐 [xi3 mai2 yi1qi2] {hai2 maai4 jat1 cai4} /être ensemble/
+喺邊度 喺边度 [xi3 bian1 du4] {hai2 bin1 dou6} /où? où est-il?/
+????c 喺邊度Ｗｅｔ 喺边度Ｗｅｔ [xi3 bian1 du4Ｗｅｔ] {hai2 bin1 dou6 wet1} /where are (you, we) hanging out? [colloquial]/
+????f 㗎嘛 㗎嘛 [jia4 ma5] {gaa3 maa3} /(particule modale utilisée pour déclarer ou affirmer quelque chose)/
+????f 㗎嘞 㗎嘞 [jia4 lei5] {gaa3 laak3} /(particule modale utilisée pour affirmer vigoureusement quelque chose)/
+????f 㗎嚊 㗎嚊 [jia4 pi4] {gaa3 be6} /(vieilli) (particule modale utilisé pour déclarer ou affirmer quelque chose)/
+㗎頭 㗎头 [jia4 tou2] {gaa4 tau4} /(inj.) (péj.) Jap; Japonais, Japonaise/
+𠸎埋 𠸎埋 [na2 mai2] {naa1 maai4} /et/avec/
 
