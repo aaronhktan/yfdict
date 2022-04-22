@@ -4281,7 +4281,7 @@
 唔知醜 唔知丑 [n2 zhi1 chou3] {m4 zi1 cau2} /éhonté/
 唔知醜字點寫 唔知丑字点写 [n2 zhi1 chou3 zi4 dian3 xie3] {m4 zi1 cau2 zi6 dim2 se2} /(expr. idiom.) éhonté/(lit.) ne pas savoir comment s'écrit le caractère « laid »/
 ????c 唔禁 唔禁 [n2 jin4] {m4 kam1} /(d'un objet) pas durable/(personne) ne pas pouvoir supporter/
-唔等使 唔等使 [n2 deng3 shi3] {m4 dang2 sai2} /inutile/
+唔等使 唔等使 [n2 deng3 shi3] {m4 dang2 sai2} /inutile; qui ne sert à rien/
 唔算 唔算 [n2 suan4] {m4 syun3} /ne pas être considéré comme/
 ????c 唔算數 唔算数 [wu2 suan4 shu4] {m4 syun3 sou3} /revenir sur sa parole/
 唔精神 唔精神 [n2 jing1 shen5] {m4 zing1 san4} /être fatigué; être sans énergie/
@@ -23323,4 +23323,29 @@
 ????c 唔客氣 唔客气 [wu2 ke4 qi5] {m4 haak3 hei3} /accepter un cadeau, une service avec enthousiasme/
 唔得切 唔得切 [n2 de5 qie4] {m4 dak1 cit3} /(fam.) (ne pas terminer une tâche) pas à temps; trop tard/
 唔明白 唔明白 [n2 ming2 bai2] {m4 ming4 baak6} /ne pas comprendre/
+唔洗死 唔洗死 [wu2 xi3 si3] {m4 sai2 sei2} /(expr. idiom.) c'est pas si mal; ce n'est pas si grave/(lit.) il ne faut pas mourir/
+唔清楚嘅 唔清楚嘅 [wu2 qing1 chu5 ge3] {m4 cing1 co2 ge3} /pas clair; incompréhensible/
+唔畀 唔畀 [wu2 bi4] {m4 bei2} /ne pas permettre; ne pas autoriser/
+????f 唔發火當我流 唔发火当我流 [wu2 fa1 huo3 dang1 wo3 liu2] {m4 faat3 fo2 dong3 ngo5 lau4} /(expr. idiom.) (cette expression s'utilise pour se plaindre que personne ne prend le locuteur au sérieux)/(lit.) on pense que je suis de basse qualité sauf quand je me mets en colère ou deviens violent/
+????f 唔發火當病貓 唔发火当病猫 [wu2 fa1huo3 dang1 bing4 mao1] {m4 faat3 fo2 dong3 beng6 maau1} /(expr. idiom.) (cette expression s'utilise pour se plaindre que personne ne prend le locuteur au sérieux)/(lit.) on pense que je suis un chat malade sauf quand je me mets en colère ou deviens violent/
+????f 唔睇僧面都睇佛面 唔睇僧面都睇佛面 [wu2 di4 seng1 mian4 dou1 di4 fo2 mian4] {m4 tai2 zang1 min6 dou1 tai2 fat6 min6} /(expr. idiom.) même si l'on ne respecte pas quelqu'un, il faut prendre en compte les autres qui le respectent/(lit.) même si l'on ne voit pas le visage du moine, on doit voir le visage de Bouddha/
+唔稱 唔称 [wu2 cheng1] {m4 can3} /ne pas être compatible; ne pas aller avec; ne pas convenir/
+唔等洗 唔等洗 [wu2 deng3 xi3] {m4 dang2 sai2} /inutile; qui ne sert à rien (voir aussi 唔等使|唔等使)/
+????f 唔要罷就 唔要罢就 [n2 yao4 ba5 jiu4] {m4 jiu3 baa6 zau6} /si tu ne le veux pas, très bien!/
+唔見得 唔见得 [n2 jian4 de5] {m4 gin3 dak1} /peu probable; probablement pas/pas forcément/
+????f 唔該嗮 唔该嗮 [wu2 gai1 sai4] {m4 goi1 saai3} /merci beaucoup (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un service plutôt qu'un cadeau ou objet)/
+唔該嗮你 唔该嗮你 [wu2 gai1 sai4 ni3] {m4 goi1 saai3 nei5} /merci beaucoup (pour ce que vous avez fait) (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un service plutôt qu'un cadeau ou objet)/
+唔該晒你 唔该晒你 [wu2 gai1 shai4 ni3] {m4 goi1 saai3 nei5} /merci beaucoup (pour ce que vous avez fait) (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un service plutôt qu'un cadeau ou objet)/
+????f 唔識轉膊 唔识转膊 [n2 shi2 zhuan3 bo2] {m4 sik1 zyun3 bok3} /(expr. idiom.) qui ne peut pas s'adapter/(lit.) ne pas pouvoir changer d'épaule/
+唔順 唔顺 [n2 shun4] {m4 seon6} /être mécontent; être contrarié/
+????c 唧魚蛋 唧鱼蛋 [ji1 yu2 dan4] {zik1 jyu4 daan2} /to squeeze a woman's breast; to make cotton buds in prison service [colloquial]/
+唯你是問 唯你是问 [wei2 ni3 shi4 wen4] {wai4 nei5 si6 man6} /(expr.) ce sera de ta faute! tu seras responsable des conséquences!/
+????f 唱生哂 唱生哂 [chang4 sheng1 shen3] {coeng3 saang1 saai3} /(fig.) faire courir une rumeur partout; répandre une rumeur partout/
+????f 問候你老母 问候你老母 [wen4 hou4 ni3 lao3 mu3] {man6 hau6 nei5 lou5 mou2} /(par euphémisme) (vulg.) nique ta mère/(lit.) saluer ta mère/
+????f 問候你老豆 问候你老豆 [wen4hou4 ni3 lao3 dou4] {man6 hau6 nei5 lou5 dau6} /(par euphémisme) (vulg.) nique ton père/(lit.) saluer ton père/
+????f 問非所答 问非所答 [wen4 fei1 suo3 da2] {man6 fei1 so2 daap3} /donner une réponse non pertinente; répondre n'importe comment/
+????f 啞仔食黃蓮 哑仔食黄莲 [ya3 zi3 shi2 huang2 lian2] {aa2 zai2 sik6 wong4 lin4} /(expr. en suspens) souffrir en silence/(lit.) garçon mange des graines de savoyane chinoise (deuxième partie 有苦自己知|有苦自己知 « connaître l'amertume seul »)/
+啞子食黃蓮 哑子食黄莲 [ya3 zi5 shi2 huang2 lian2] {aa2 zi2 sik6 wong4 lin4} /(expr. en suspens) souffrir en silence/(lit.) garçon mange des graines de savoyane chinoise (deuxième partie 有苦自己知|有苦自己知 « connaître l'amertume seul »)/
+啤仔 啤仔 [pi2 zi3] {bi1 zai2} /bébé/petit garçon/
+啤啤房 啤啤房 [pi2 pi2 fang2] {bi4 bi1 fong2} /chambre du bébé/
 
