@@ -5130,7 +5130,7 @@
 ????f 埋站 埋站 [mai2 zhan4] {maai4 zaam6} /s'approcher du prochain arrêt (train, bus, etc.)/
 ????f 埋籠 埋笼 [mai2 long2] {maai4 lung4} /(volaille, bétail, etc.) rentrer dans la cage la nuit/
 ????f 埋街 埋街 [mai2 jie1] {maai4 gaai1} /toucher terre/(vieilli) femme des bateaux qui s'épouse avec une homme qui vit sur terre/
-????f 埋街食井水 埋街食井水 [mai2 jie1 shi2 jing3 shui3] {maai4 gaai1 sik6 zeng2 seoi2} /(expr. idiom.) vivre sans stress/(expr. idiom.) prendre une retraite anticipée/(expr. idiom.) se marier à une famille plus riche/(des prostituées) se marier/(lit.) toucher terre et boire l'eau de puits/
+????f 埋街食井水 埋街食井水 [mai2 jie1 shi2 jing3 shui3] {maai4 gaai1 sik6 zeng2 seoi2} /(expr. idiom.) (des prostituées) se marier/(expr. idiom.) se marier à quelqu'un d'une famille plus riche/(lit.) toucher terre et boire l'eau de puits/
 ????c 埋身 埋身 [mai2 shen1] {maai4 san1} /se rapprocher physiquement/devenir intime/développer une relation intime avec des intentions cachées/
 ????f 埋閘 埋闸 [mai2 zha2] {maai4 zaap6} /(boutique, magasin) fermer pour la journée/
 埋頭埋腦 埋头埋脑 [mai2 tou2 mai2 nao3] {maai4 tau4 maai4 nou5} /(expr. idiom.) s'immerger dans; être absorbé par quelque chose; être dévoué à quelque chose/(lit.) enfouir sa tête et enfouir son cerveau/
@@ -20080,7 +20080,7 @@
 錘仔 锤仔 [chui2 zi3] {ceoi4 zai2} /marteau/
 錘煉 锤炼 [chui2 lian4] {ceoi4 lin6} /marteler/polir/tempérer/peaufiner/
 錘頭 锤头 [chui2 tou2] {ceoi4 tau4} /tête de marteau/(fig.) poing/
-錢七 钱七 [qian2 qi1] {cin4 cat1} /vieille bagnole/
+錢七 钱七 [qian2 qi1] {cin4 cat1} /vieille bagnole; vieux clou/
 錢嘉樂 钱嘉乐 [qian2 jia1 le4] {cin4 gaa1 lok6} /Chin Ka-Lok, acteur hongkongais/
 錢小豪 钱小豪 [qian2 xiao3 hao2] {cin4 siu2 hou4} /Chin Siu-ho, acteur hongkongais/
 錢穆 钱穆 [qian2 Mu4] {cin4 muk6} /Ch'ien Mu ou Qian Mu, historien chinois du vingtième siècle/
@@ -23434,10 +23434,10 @@
 ????f 四二六 四二六 [si4 er4 liu4] {sei3 ji6 luk6} /exécuteur d'une triade/
 四個小時 四个小时 [si4 ge4 xiao3 shi2] {sei3 go3 siu2 si4} /quatre heures (durée)/
 四八九 四八九 [si4 ba1 jiu3] {sei3 baat3 gau2} /leader d'une triade/
-????c 四六七零九三九四 四六七零九三九四 [si4 liu4 qi1 ling2 jiu3 san1jiu3 si4] {sei3 luk6 cat1 ling4 gau2 saam1 gau2 sei3} /describes a guy who go out to fool around with women, such as visiting prostitutes and having affairs etc [colloquial]/
+????c 四六七零九三九四 四六七零九三九四 [si4 liu4 qi1 ling2 jiu3 san1 jiu3 si4] {sei3 luk6 cat1 ling4 gau2 saam1 gau2 sei3} /(fam.) coureur de jupons; homme qui a des relations sexuelles et liaisons avec beaucoup de femmes, prostituées, etc./
 ????c 四味 四味 [si4 wei4] {sei3 mei6} /four types of flavours [written and colloquial]/
 ????c 四味 四味 [si4 wei4] {sei3 mei2} /four types of sexual services, foot licking; fellatio, anilingus and sexual intercourse [colloquial]/
-????f 四四聲 四四声 [si4 si4 sheng1] {sei3 sei3 seng1} /(expression employée pour dire que le locuteur n'aime pas le numéro quatre, parce que la prononciation en cantonais ressemble à la prononciation du mot « mourir »)/
+????f 四四聲 四四声 [si4 si4 sheng1] {sei3 sei3 seng1} /(expression employée pour dire que le locuteur n'aime pas le numéro quatre  四|四 sei6, parce que la prononciation en cantonais ressemble à la prononciation du mot 死|死 sei2 « mourir »)/
 ????f 四圍蒲 四围蒲 [si4 wei2 pu2] {sei3 wai4 pou4} /to hang out around different places; to go out and about [colloquial]/
 ????f 四眼龜 四眼龟 [si4 yan3 gui1] {sei3 ngaan5 gwai1} /(fam.) (péj.) binoclard; nom péjoratif pour une personne qui porte des lunettes/(lit.) tortue à quatre yeux/
 四萬 四万 [si4 wan4] {sei3 maan6} /quarante-mille/(fig.) grand sourire/
@@ -23451,4 +23451,28 @@
 ????f 圈外人 圈外人 [quan1 wai4 ren2] {hyun1 ngoi6 jan4} /étranger; personne qui ne travaille pas dans le même secteur ou qui n'est pas connu dans un certain secteur/
 國有國法家有家規 国有国法家有家规 [guo2 you3 guo2 fa3 jia1 you3 jia1 gui1] {gwok3 jau5 gwok3 faat3 gaa1 jau5 gaa1 kwai1} /(expr. idiom.) il faut suivre les règles qu'on a établies/(lit.) les pays ont leurs lois, et les familles ont leurs règles/
 國際標準 国际标准 [guo2 ji4 biao1 zhun3] {gwok3 zai3 biu1 zeon2} /norme internationale/
+????c 圓圓地 圆圆地 [yuan2 yuan2 di4] {jyun4 jyun4 dei2} /very round [colloquial]/
+圖書店 图书店 [tu2 shu5 dian4] {tou4 syu1 dim3} /librarie; commerce où l'on vend des livres/
+在哪 在哪 [zai4 na3] {zoi6 naa5} /(soutenu) où/
+????f 在讀書 在读书 [zai4 du2 shu1] {zoi6 duk6 syu1} /être en train de lire un livre/être en train de poursuivre ses études/
+地下錢莊 地下钱庄 [di4 xia5 qian2 zhuang1] {dei6 haa6 cin4 zong1} /(fig.) banque illégale/(lit.) banque sous-terraine/
+地區代號 地区代号 [di4 qu1 dai4 hao4] {dei6 keoi1 doi6 hou6} /indicatif; préfixe d'un numéro de téléphone qui correspond à sa situation géographique/
+地底泥 地底泥 [di4 di3 ni2] {dei6 dai2 nai4} /(fig.) bon-à-rien; personne sans valeur/(fig.) personne méprisée; personne odieuse/(lit.) terre sous le sol/
+地方名 地方名 [di4 fang5 ming2] {dei6 fong1 meng2} /nom de lieu; toponyme/
+地產代理 地产代理 [di4 chan3 dai4 li3] {dei6 caan2 doi6 lei5} /agent immobilier/
+地除 地除 [di4 chu2] {dei6 ceoi4} /(vieilli) (Canton) savoir/
+????f 地頭龍 地头龙 [di4 tou2 long2] {dei6 tau4 lung4} /(fig.) personne puissante dans une certain région/(lit.) dragon principal de la terre/
+坎頭埋牆 坎头埋墙 [kan3 tou2 mai2 qiang2] {ham2 tau2 maai4 coeng4} /(expr. idiom.) être très frustré; passer sa colère sur quelqu'un/(lit.) se conger la tête contre les murs/
+????c 坐幾籠 坐几笼 [zuo4 ji3 long2] {co5 gei2 lung4} /passer quelques années en prison/
+????c 坐廟 坐庙 [zuo4 miao4] {co5 miu2} /(fam.) position du chevauchement; amazone; position sexuelle où la femme chevauche l'homme/(lit.) s'asseoir sur le temple/
+????c 坐盤 坐盘 [zuo4 pan2] {co5 pun2} /to hold a position (financial?)/
+坐蓮 坐莲 [zuo4 lian2] {co5 lin4} /(fam.) position du chevauchement; amazone; position sexuelle où la femme chevauche l'homme/(lit.) s'asseoir sur le lotus/
+????f 坑渠水 坑渠水 [keng1 qu2 shui3] {haang1 keoi4 seoi2} /eaux d'égout; eaux usées/(fig.) congee salé à l'azuki/
+坡妹 坡妹 [po1 mei4] {bo1 mui1} /(fam.) jeunes femmes singapouriennes/
+垃雜嘢 垃杂嘢 [la1 za2 ye3] {laap6 zaap6 je5} /bric-à-brac; diverses petites choses/grignotine; en-cas/
+型爆鏡 型爆镜 [xing2 bao4 jing4] {jing4 baau3 geng3} /(fam.) (fig.) très chic/(lit.) chic à faire exploser le miroir/
+????c 城市長 城市长 [cheng2 shi4 zhang3] {sing4 si5 zoeng2} /maire/
+埋來 埋来 [mai2 lai2] {maai4 lai4} /venez plus près/
+埋來 埋来 [mai2 lai2] {maai4 lei4} /venez plus près/
+????f 埋街飲井水 埋街饮井水 [mai2 jie1 yin3 jing3 shui3] {maai4 gaai1 jam2 zeng2 seoi2} /(expr. idiom.) (des prostituées) se marier/(expr. idiom.) se marier à quelqu'un d'une famille plus riche/(lit.) toucher terre et boire l'eau de puits/
 
