@@ -2100,7 +2100,7 @@
 光明頂 光明顶 [guang1 ming2 ding3] {gwong1 ming4 deng2} /(montagne de la Chine)/(une émission de radio du Hong Kong Commercial Radio Channel)/
 光暈 光晕 [guang1 yun4] {gwong1 wan4} /halo/
 光暗掣 光暗掣 [guang1 an4 che4] {gwong1 ngam3 zai3} /variateur de lumière/
-????c 光棍佬教仔 光棍佬教仔 [guang1 gun5 lao3 jiao4 zi3] {gwong1 gwan3 lou2 gaau3 zai2} /(expr. idiom.) ne pas être avide/(lit.) un homme célibataire qui enseigne son fils/
+????c 光棍佬教仔 光棍佬教仔 [guang1 gun5 lao3 jiao4 zi3] {gwong1 gwan3 lou2 gaau3 zai2} /(expr. idiom.) ne pas être cupide/(lit.) un homme célibataire qui enseigne son fils/
 ????f 光棍遇着冇皮柴 光棍遇着冇皮柴 [guang1 gun5 yu4 zhao2 mao3 pi2 chai2] {gwong1 gwan3 jyu6 zoek6 mou5 pei4 caai4} /(expr. idiom.) un pauvre qui essaie d'extorquer de l'argent aux pauvres/(lit.) branche sans feuilles rencontre du bois de chauffage sans écorce/
 光油 光油 [guang1 you2] {gwong1 jau4} /vernis/
 光猛 光猛 [guang1 meng3] {gwong1 maang5} /lumineux; bien éclairé/
@@ -5537,7 +5537,7 @@
 大唔透 大唔透 [da4 n2 tou4] {daai6 m4 tau3} /immature; enfantin; puérile/
 大問題 大问题 [da4 wen4 ti2] {daai6 man6 tai4} /gros problème; pétrin/
 大喉 大喉 [da4 hou2] {daai6 hau4} /un des trois styles de chant de l'opéra cantonais/
-????f 大喉欖 大喉榄 [da4 hou2 lan3] {daai6 hau4 laam5} /cupide; avide/gourmand; qui a un grand appétit/
+????f 大喉欖 大喉榄 [da4 hou2 lan3] {daai6 hau4 laam5} /cupide; avide d'argent/gourmand; qui a un grand appétit/
 大喊十 大喊十 [da4 han3 shi2] {daai6 haam3 sap6} /(fig.) pleurnicheur; pleurnichard/
 大單 大单 [da4 dan1] {daai6 daan1} /à grande échelle/gros problème; catastrophe; désastre/
 大嘢 大嘢 [da4 ye3] {daai6 je5} /arrogant; hautain; orgueilleux/
@@ -5675,7 +5675,7 @@
 大牙 大牙 [da4 ya2] {daai6 ngaa4} /molaire/
 大牛 大牛 [da4 niu2] {daai6 ngau4} /(fig.) billet de 500 dollars de Hong Kong/(lit.) grand bœuf/
 大狀 大状 [da4 zhuang4] {daai6 zong6} /avocat/
-????c 大王眼 大王眼 [da4 wang2 yan3] {daai6 wong4 ngaan5} /(fig.) cupide; avide/
+????c 大王眼 大王眼 [da4 wang2 yan3] {daai6 wong4 ngaan5} /(fig.) cupide; avide d'argent/
 大班 大班 [da4 ban1] {daai6 baan1} /personne riche; personne influente; chef d'entreprise/grand groupe (de personnes)/
 大球場 大球场 [da4 qiu2 chang3] {daai6 kau4 coeng4} /le Hong Kong Stadium, principal stade de sport de Hong Kong/
 大環山 大环山 [da4 huan2 shan1] {daai6 waan4 saan1} /Tai Wan Shan, montagne de Hong Kong/
@@ -5772,7 +5772,7 @@
 大豆芽 大豆芽 [da4 dou4 ya2] {daai6 dau2 ngaa4} /germe de soja; Kongnamul/
 大豆芽菜 大豆芽菜 [da4 dou4 ya2 cai4] {daai6 dau2 ngaa4 coi3} /germe de soja; Kongnamul/
 大象腳 大象脚 [da4 xiang4 jiao3] {daai6 zoeng6 goek3} /(expr. idiom.) grosses jambes (particulièrement pour décrire les femmes)/(lit.) jambes d'un éléphant/
-大貪 大贪 [da4 tan1] {daai6 taam1} /cupide; avide/
+大貪 大贪 [da4 tan1] {daai6 taam1} /cupide; avide d'argent/
 大賽 大赛 [da4 sai4] {daai6 coi3} /grand concours/
 ????f 大路元帥 大路元帅 [da4 lu4 yuan2 shuai4] {daai6 lou6 jyun4 seoi3} /chef d'une triade hongkongaise/
 大車 大车 [da4 che1] {daai6 ce1} /grande voiture/voiture pleine de.../ingénieur naval/
@@ -6366,7 +6366,7 @@
 婦孺 妇孺 [fu4 ru2] {fu5 jyu4} /femmes et enfants/
 婦科醫生 妇科医生 [fu4 ke1 yi1 sheng1] {fu5 fo1 ji1 sang1} /gynécologue/
 婦道 妇道 [fu4 dao5] {fu5 dou6} /féminité/femmes/
-婪劣 婪劣 [lan2 lie4] {laam4 lyut6} /cupide; avide; rapace/
+婪劣 婪劣 [lan2 lie4] {laam4 lyut6} /cupide; avide d'argent; rapace/
 婷婷 婷婷 [ting2 ting2] {ting4 ting4} /(femme) belle; élégante/
 媌 媌 [miao2] {maau4} /belle/(arch.) prostituée/
 媒人婆 媒人婆 [mei2 ren2 po2] {mui4 jan4 po4} /entremetteuse; marieuse/
@@ -20972,7 +20972,7 @@
 電子錶 电子表 [dian4 zi3 biao3] {din6 zi2 biu1} /montre électrique/
 電子電路 电子电路 [dian4 zi3 dian4 lu4] {din6 zi2 din6 lou6} /circuit électronique/
 電工學 电工学 [dian4 gong1 xue2] {din6 gung1 hok6} /génie électrique; électrotechnique/
-電影明星 电影明星 [dian4 ying3 ming2 xing1] {din6 jing2 sing1} /star de cinéma/
+電影明星 电影明星 [dian4 ying3 ming2 xing1] {din6 jing2 sing1} /star de cinéma; vedette de cinéma/
 電影業 电影业 [dian4 ying3 ye4] {din6 jing2 jip6} /industrie cinématographique/
 電心 电心 [dian4 xin1] {din6 sam1} /pile; batterie (voir aussi 電芯|电芯)/
 電掣 电掣 [dian4 che4] {din6 zai3} /commutateur; interrupteur/
@@ -21476,7 +21476,7 @@
 ????f 食七咁食 食七咁食 [shi2 qi1 gan1 shi2] {sik6 cat1 gam2 sik6} /(expr. idiom.) s'empiffrer; manger avidement; se goinfrer/(lit.) manger comme le sept (les Cantonais organisent un banquet après sept jours de deuil)/
 ????f 食七噉食 食七噉食 [shi2 qi1 dan4 shi2] {sik6 cat1 gam2 sik6} /(expr. idiom.) s'empiffrer; manger avidement; se goinfrer/(lit.) manger comme le sept (les Cantonais organisent un banquet après sept jours de deuil)/
 食井水 食井水 [shi2 jing3 shui3] {sik6 zeng2 seoi2} /(fig.) (d'une prostituée) se marier (voir aussi 埋街飲井水|埋街饮井水)/(fig.) (peuple des bateaux) épouser un homme qui vit sur de la terre ferme/(fig.) se marier à une personne de classe sociale supérieure/(lit.) manger de l'eau de puits/
-????f 食人唔𦧲骨 食人唔𦧲骨 [shi2 ren2 wu2 luo2 gu3] {sik6 jan4 m4 loe1 gwat1} /(expr. idiom.) impitoyable et avide/(lit.) manger les personnes et ne pas rechracher les os/
+????f 食人唔𦧲骨 食人唔𦧲骨 [shi2 ren2 wu2 luo2 gu3] {sik6 jan4 m4 loe1 gwat1} /(expr. idiom.) impitoyable et rapace/(lit.) manger les personnes et ne pas rechracher les os/
 食人族 食人族 [shi2 ren2 zu2] {sik6 jan4 zuk6} /groupe de cannibales/
 ????f 食人隻車 食人只车 [shi2 ren2 zhi1 che1] {sik6 jan4 zek3 geoi1} /(expr. idiom.) exploiter quelqu'un/(expr. idiom.) être très avare/(lit.) manger la voiture de quelqu'un/
 食住上 食住上 [shi2 zhu4 shang4] {sik6 zyu6 soeng5} /(fig.) profiter d'une occasion; saisir l'occasion/(lit.) pouvoir manger/
@@ -21670,7 +21670,7 @@
 餓 饿 [e4] {ngo6} /faim/avoir faim/
 ????f 餓死老婆燻臭屋 饿死老婆熏臭屋 [e4 si3 lao3 po5 xun1 chou4 wu1] {ngo6 sei2 lou5 po4 fan1 cau3 uk1} /(expr. idiom.) homme incapable de gagner assez d'argent pour sa famille/(lit.) affamer sa femme et remplir la maison d'une sale odeur/
 ????f 餓狗搶屎 饿狗抢屎 [e4 gou3 qiang3 shi3] {ngo6 gau2 coeng2 si2} /(expr. idiom.) se ruer vers des objets qui ne valent pas grand chose/(lit.) chien faim se bat pour la merde/
-餓狼 饿狼 [e4 lang2] {ngo6 long4} /(fig.) personne avide/(lit.) loup avide/
+餓狼 饿狼 [e4 lang2] {ngo6 long4} /(fig.) personne rapace/(lit.) loup rapace/
 ????f 餓過飢 饿过饥 [e4 guo4 ji1] {ngo6 gwo3 gei1} /(fig.) voir très faim/(fig.) avoir tellement faim que l'on n'a plus faim/
 ????c 餓鬼投胎 饿鬼投胎 [e4 gui3 tou2 tai1] {ngo6 gwai2 tau4 toi1} /(expr. idiom.) avoir très faim/(expr. idiom.) eat with no manners, large mouthfuls and too quickly (slang)/(lit.) (manger) comme un fantôme affamé qui est réincarné/
 餘味 余味 [yu2 wei4] {jyu4 mei6} /impression durable; forte impression; bonne impression/bon arrière-goût/
@@ -23530,4 +23530,22 @@
 夠班 够班 [gou4 ban1] {gau3 baan1} /(fam.) être compétent; être qualifié/
 ????f 夠義氣 够义气 [gou4 yi4 qi5] {gau3 ji6 hei3} /être fidèle à ses amis/
 夠雷 够雷 [gou4 lei2] {gau3 leoi4} /être fidèle à ses amis/
+大人有大量 大人有大量 [da4 ren5 you3 da4 liang4] {daai6 jan4 jau5 daai6 loeng6} /(expr.) (expression utilisée pour demander pardon)/(lit.) un grand homme a un grand pardon/
+????c 大佬輩 大佬辈 [da4 lao3 bei4] {daai6 lou2 bui3} /triad members with a high status who are the big brothers of a triad gang [colloquial]/
+????c 大劈友 大劈友 [da4 pi1 you3] {daai6 pek3 jau2} /(fam.) combat de rue/
+????f 大卡士 大卡士 [da4 ka3 shi4] {daai6 kaa1 si2} /distribution prestigieuse; casting des stars/(orig.) de l'anglais « cast » (« distribution, casting »)/
+大叠水 大叠水 [da4 die2 shui3] {daai6 daap6 seoi2} /(fam.) riche/(lit.) avoir un tas d'eau/
+????f 大咬 大咬 [da4 yao3] {daai6 ngaau5} /(fig.) cupide; avide d'argent/(lit.) mordre grandement/
+大嗌 大嗌 [da4 ai4] {daai6 aai3} /crier haut et fort/
+大嘆特嘆 大叹特叹 [da4 tan4 te4 tan4] {daai6 taan3 dak6 taan3} /(expr. idiom.) profiter de la vie; se la couler douce/(lit.) grande décontraction, décontraction spéciale/
+大㗰 大㗰 [da4 cong2] {daai6 saai1} /énorme perte; énorme gaspillage/
+大圈 大圈 [da4 quan1] {daai6 hyun1} /(toponyme) (fig.) Canton/(fam.) membres des triades chinoises qui commettent des crimes à Hong Kong ou à Macao/
+大地圖 大地图 [da4 di4 tu2] {daai6 dei6 tou4} /atlas/grande carte/
+????c 大地震 大地震 [da4 di4 zhen4] {daai6 dei6 zan3} /grand tremblement de terre/(fig.) grand changement; grand bouleversement/
+????f 大場面 大场面 [da4 chang3 mian4] {daai6 coeng4 min2} /occasion importante; grand évènement/
+????c 大奸狗 大奸狗 [da4 jian1 gou3] {daai6 gaan1 gau2} /(fig.) traître/(lit.) chien traître/
+????f 大山婆 大山婆 [da4 shan1 po2] {daai6 saan1 po4} /(fig.) grande femme corpulente/(lit.) grand montagne femme/
+????f 大差 大差 [da4 cha1] {daai6 caai1} /grande force de police/
+????c 大底 大底 [da4 di3] {daai6 dai2} /tous les membres des triades à part les membres juniors/
+大懶蛇 大懒蛇 [da4 lan3 she2] {daai6 laan5 se4} /(fam.) (fig.) feignasse/(lit.) grand serpent paresseux/
 
