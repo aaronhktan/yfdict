@@ -4992,6 +4992,7 @@
 在 在 [zai4] {zoi6} /sur/dans/à/être (vivant)/
 在在 在在 [zai4 zai4] {zoi6 zoi6} /ici/
 在家 在家 [zai4 jia1] {zoi6 gaa1} /à la maison/
+在家工作 在家工作 [zai4 jia1 gong1 zuo4] {zoi6 gaa1 gung1 zok3} /travail à domicile; télétravail/
 ????c 在心 在心 [zai4 xin1] {zoi6 sam1} /dans son coeur/
 ????f 在意 在意 [zai4 yi4] {zoi6 ji3} /attacher de l'importance à; prendre au cœur; prêter attention à (souvent utilisé au négatif)/
 ????f 在所不惜 在所不惜 [zai4 suo3 bu4 xi1] {zoi6 so2 bat1 sik1} /(expr.) déterminé à faire quelque chose, peu importe le moyen/
@@ -10292,6 +10293,7 @@
 新鮮人 新鲜人 [xin1 xian1 ren2] {san1 sin1 jan4} /(fig.) étudiant ou étudiante de première année/(lit.) gens frais/
 新鮮滾熱辣 新鲜滚热辣 [xin1 xian1 gun3 re4 la4] {san1 sin1 gwan2 jit6 laat6} /(expr. idiom.) dernier; récemment lancé (produit)/(expr. idiom.) dernières (nouvelles, informations)/(lit.) fraîchement bouilli, chaud et qui brûle/
 新鮮熱辣 新鲜热辣 [xin1 xian1 re4 la4] {san1 sin1 jit6 laat6} /(expr. idiom.) dernier; récemment lancé (produit)/(expr. idiom.) dernières (nouvelles, informations)/(lit.) fraîche, chaud et qui brûle/
+????f 新常 新常 [xin1 chang2] {san1 soeng4} /(néologisme) nouvelle normalité/
 斷 断 [duan4] {dyun6} /absolutement (pas); certainement (pas)/
 斷 断 [duan4] {tyun5} /arrêter/casser/rompre/quitter (une dépendance); surmonter une dépendance/rendre son dernier souffle; arrêter de respirer/
 ????f 斷代史 断代史 [duan4 dai4 shi3] {dyun6 doi6 si2} /histoire dynastique/
@@ -19647,6 +19649,7 @@
 遙控 遥控 [yao2 kong4] {jiu4 hung3} /télécommande/contrôler à distance/
 ????f 遙控撻車 遥控挞车 [yao2 kong4 ta4 che1] {jiu4 hung3 taat3 ce1} /démarrer une voiture à distance/
 ????f 遙相呼應 遥相呼应 [yao2 xiang1 hu1 ying4] {jiu4 soeng1 fu1 jing3} /coordonner à distance/
+遙距工作 遥距工作 [yao2 ju4 gong1 zuo4] {jiu4 keoi5 gung1 zok3} /télétravail/
 遞 递 [di4] {dai6} /remettre/progressivement; étape par étape/
 遞時 遞时 [dai4 shi2] {dai6 si4} /une autre fois; à l'avenir; plus tard/
 ????f 遠交近攻 远交近攻 [yuan3 jiao1 jin4 gong1] {jyun5 gaau1 gan6 gung1} /(expr.) se rapprocher des pays lointains et attaquer les pays proches/
