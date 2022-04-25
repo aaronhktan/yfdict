@@ -5190,6 +5190,7 @@
 ????f 執雞 执鸡 [zhi2 ji1] {zap1 gai1} /(expr. idiom.) profiter d'une manne; tirer profit d'une situation inattendue/(expr. idiom.) (football) cherry picking/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule/
 執頭執尾 执头执尾 [zhi2 tou2 zhi2 wei3] {zap1 tau4 zap1 mei5} /(expr.) régler les derniers détails/(expr.) faire des petits boulots/
 執齊 执齐 [zhi2 qi2] {zap1 cai4} /avoir fini de faire ses valises/avoir tout rangé/
+????f 執屋 执屋 [zhi2 wu1] {zap1 uk1} /faire le ménage de la maison/
 基 基 [ji1] {gei1} /homosexuel; gay/(orig.) de l'anglais « gay » (« homosexuel, gay »)/
 基圍蝦 基围虾 [ji1 wei2 xia1] {gei1 wai4 haa1} /crevette d'élevage/
 ????c 基本國策 基本国策 [ji1 ben3 guo2 ce4] {gei1 bun2 gwok3 caak3} /politique nationale de base/
@@ -16969,7 +16970,7 @@
 色情影片 色情影片 [se4 qing2 ying3 pian4] {sik1 cing4 jing2 pin2} /film pornographique/
 色情電影 色情电影 [se4 qing2 dian4 ying3] {sik1 cing4 din6 jing2} /film pornographique/
 色水 色水 [se4 shui3] {sik1 seoi2} /couleur/(apparence) style; look/
-色狼 色狼 [se4 lang2] {sik1 long4} /débauché; pervers; obsédé sexuel/violeur/
+色狼 色狼 [se4 lang2] {sik1 long4} /violeur; homme qui a commis un viol/pervers; homme atteint de perversion sexuelle/
 色目人 色目人 [se4 mu4 ren2] {sik1 muk6 jan4} /Semu, nom d'une caste établie sous la dynastie Yuan en Chine/
 艷陽 艳阳 [yan4 yang2] {jim6 joeng4} /soleil radieux; soleil brillant/
 艷陽天 艳阳天 [yan4 yang2 tian1] {jim6 joeng4 tin1} /belle journée ensoleillée/
@@ -23601,4 +23602,26 @@
 ????f 奀得滯 奀得滞 [en1 de5 zhi4] {ngan1 dak1 zai6} /(en marchandant) (exprime que le vendeur voudrait un peu plus d'argent)/(lit.) (la somme d'argent que vous m'offrez est) trop peu/
 ????c 奄乾 奄干 [yan3 gan1] {jim1 gon1} /to be squeezed dry bit by bit; to suffer many small losses, eventually amounting to a large loss over a period of time [colloquial]/
 奄尖聲悶 奄尖声闷 [yan3 jian1 sheng1 men4] {jim1 zim1 seng1 mun6} /(expr. idiom.) difficile; dur à satisfaire/
+奇難雜症 奇难杂症 [qi2 nan2 za2 zheng4] {kei4 naan4 zaap6 zing3} /maladies rares et difficiles à traiter/(fig.) problème difficile à résoudre/
+????c 奈...唔何 奈...唔何 [nai4… wu2 he2] {noi6…m4 ho4} /…cannot intervene, interfere, stop whatever … is doing in anyway; simply can't do anything to … [colloquial]/
+????f 契姐 契姐 [qi4 jie3] {kai3 ze2} /god sister; sworn sister [written and colloquial]/
+套料 套料 [tao4 liao4] {tou3 liu2} /(fig.) amener quelqu'un à révéler de l'information/
+????c 女ｋｅｅｐｅｒ 女ｋｅｅｐｅｒ [nu:3ｋｅｅｐｅｒ] {neoi2 ki1 paa2} /(fam.) tenancière de bordel/
+女人湯圓 女人汤圆 [nu:3 ren5 tang1 yuan2] {neoi5 jan4 tong1 jyun2} /(expr.) don Juan; séducteur; tombeur/(lit.) tang yuan des femmes/
+????f 女同志 女同志 [nu:3 tong2 zhi4] {neoi5 tung4 zi3} /lesbienne; femme homosexuelle/camarade (communiste) de sexe féminin/
+女帽 女帽 [nu:3 mao4] {neoi5 mou2} /chapeau de femme/
+女色狼 女色狼 [nu:3 se4 lang2] {neoi5 sik1 long4} /violeuse; femme qui a commis un viol/perverse; femme atteinte de perversion sexuelle/
+女英雄 女英雄 [nu:3 ying1 xiong2] {neoi5 jing1 hung4} /héroïne; femme courageuse/
+????c 女魔頭 女魔头 [nu:3 mo2 tou2] {neoi5 mo1 tau4} /a villainess [written and colloquial]/a bitch [colloquial]/
+奶屎忽 奶屎忽 [nai3 shi3 hu1] {laai2 si2 fat1} /(fam.) (fig.) flatter; lécher les bottes de quelqu'un/(lit.) lécher les fesses/
+奶白色 奶白色 [nai3 bai2 se4] {naai5 baak6 sik1} /blanc laiteux/
+????f 奶粉錢 奶粉钱 [nai3 fen3 qian2] {naai5 fan2 cin2} /(expr.) l'argent pour nourrir et scolariser son enfant/(lit.) l'argent de lait en poudre/
+奶西 奶西 [nai3 xi1] {laai2 sai1} /(sexualité) (vulg.) faire un cunnilingus/(fig.) s'attirer des ennuis/(lit.) lécher la chatte/
+????c 奶西仔 奶西仔 [nai3 xi1 zi3] {laai2 sai1 zai2} /little bastard [colloquial]/
+奶閪 奶閪 [nai3 se1] {laai2 hai1} /(sexualité) (vulg.) faire un cunnilingus/(fig.) s'attirer des ennuis/(lit.) lécher la chatte/
+????c 奶閪仔 奶閪仔 [nai3 se1 zi3] {laai2 hai1 zai2} /little bastard [colloquial]/
+????f 奶鞋底 奶鞋底 [nai3 xie2 di3] {naai5 haai4 dai2} /(fig.) ne pas arriver à flatter quelqu'un; essayer de lécher les bottes de quelqu'un et échouer/(lit.) lécher la semelle/
+她們自己 她们自己 [ta1 men5 zi4 ji3] {taa1 mun4 zi6 gei2} /(à l'écrit) elles-mêmes/
+她自己 她自己 [ta1 zi4 ji3] {taa1 zi6 gei2} /(à l'écrit) elle-même/
+好Ｙｅａｈ 好Ｙｅａｈ [hao3Ｙｅａｈ] {hou2 je1} /(fam.) chic; cool; en vogue/
 
