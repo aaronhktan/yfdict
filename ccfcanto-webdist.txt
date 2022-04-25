@@ -5466,7 +5466,7 @@
 夜香 夜香 [ye4 xiang1] {je6 hoeng1} /(fig.) excrément humain; matières fécales/(lit.) parfum de la nuit/
 夜鬼 夜鬼 [ye4 gui3] {je6 gwai2} /(fig.) couche-tard; nocatambule/(lit.) fantôme de la nuit/
 夜麻麻 夜麻麻 [ye4 ma2 ma2] {je6 maa1 maa1} /très tard dans la nuit/
-夠𦢊 够𦢊 [gou4 bao2] {gau3 pok1} /avoir le courage (de faire quelque chose); avoir le cran (de faire quelque chose)/
+夠𦢊 够𦢊 [gou4 bao2] {gau3 pok1} /(fam.) avoir le courage (de faire quelque chose); avoir le cran (de faire quelque chose)/
 夠 够 [gou4] {gau3} /assez; suffisant/aussi; également/
 夠ｐｏｗｅｒ 夠ｐｏｗｅｒ [gou4 p5 o5 w5 e5 r5] {gau3 p5 o5 w5 e5 r5} /puissant/
 夠勁 够劲 [gou4 jin4] {gau3 ging6} /(personne) fort; vigoureux; robuste/(goût, odeur, etc.) fort/
@@ -23498,4 +23498,36 @@
 ????F 填數 填数 [tian2 shu4] {tin4 sou3} /régler une dette; payer une dette/remettre en place de l'argent que l'on a pris en secret/
 ????f 填氹 填氹 [tian2 dang4] {tin4 tam5} /régler une dette; payer une dette/remettre en place de l'argent que l'on a pris en secret/
 ????c 壓低的 压低的 [ya1 di1 de5] {aat3 dai1 dik1} /suppressed; lowered; driven down [written]/
+????c 壓力盤 压力盘 [ya1 li4 pan2] {aat3 lik6 pun4} /pressure plate [written and colloquial]/
+壓搾 压榨 [ya1 zha4] {aat3 zaa3} /presser (pour extraire un liquide)/(fig.) exploiter (quelqu'un)/
+壓榨者 压榨者 [ya1 zha4 zhe3] {aat3 zaa3 ze2} /oppresseur/
+壓爛 压烂 [ya1 lan4] {aat3 laan6} /écrabouillé; écrasé/
+士啤呔 士啤呔 [shi4 pi2 dai1] {si6 be1 taai1} /roue de secours/(fig.) panse; brioche/(orig.) de l'anglais « spare tire » (« roue de secours »)/
+士鉢恤 士钵恤 [shi4 bo1 xu4] {si6 but3 seot1} /maillot de sport/(orig.) de l'anglais « sport shirt » (« chemise de sport »)/
+????f 外傭 外佣 [wai4 yong1] {ngoi6 jung4} /employé de maison de l'étranger/
+多事幹 多事干 [duo1 shi4 gan4] {do1 si6 gon3} /(fam.) curieux; indiscret; fouineur/
+多口水 多口水 [duo1 kou3 shui3] {do1 hau2 seoi2} /(fam.) (fig.) bavard; qui aime parler/(lit.) beaucoup de salive/
+多咀 多咀 [duo1 ju3] {do1 zeoi2} /(fam.) (fig.) parler quand il ne devrait pas parler; parler hors de propos/(lit.) beaucoup de bouche/
+????c 多多事實 多多事实 [duo1 duo1 shi4 shi2] {do1 do1 si6 sat6} /troublesome; overly demanding; to talk too much [colloquial]/to make excuses/
+????c 多好 多好 [duo1 hao3] {do1 hou2} /so good; how good [written]/
+多層泊車場 多层泊车场 [duo1 ceng2 bo2 che1 chang3] {do1 cang4 paak3 ce1 coeng4} /garage à étages; stationnement étagé/
+多年以來 多年以来 [duo1 nian2 yi3 lai2] {do1 nin4 ji5 loi4} /depuis de nombreuses années (et jusqu'à maintenant)/
+????c 多得嗮 多得嗮 [duo1 de2 sai4] {do1 dak1 saai3} /thanks to [colloquial]/
+????c 多水 多水 [duo1 shui3] {do1 seoi2} /to have a lot of water or to be juicy, especially when used in a sexual context to describe a woman [colloquial]/
+????c 多謝你咁好介紹 多谢你咁好介绍 [duo1 xie4 ni3 gan1 hao3 jie4shao4] {do1 ze6 nei5 gam3 hou2 gaai3 siu6} /thanks for your great suggestion [colloquial]/
+多謝嗮 多谢嗮 [duo1 xie4 sai4] {do1 ze6 saai3} /merci beaucoup (pour un cadeau) (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un cadeau ou objet plutôt qu'une service)/
+多謝嗮你 多谢嗮你 [duo1 xie4 sai4 ni3] {do1 ze6 saai3 nei5} /merci beaucoup (à vous) (pour un cadeau) (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un cadeau ou objet plutôt qu'une service)/
+多謝晒 多谢晒 [duo1 xie4 shai4] {do1 ze6 saai3} /merci beaucoup (pour un cadeau) (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un cadeau ou objet plutôt qu'une service)/
+多謝曬 多谢晒 [duo1xie4 shai4] {do1 ze6 saai3} /merci beaucoup (pour un cadeau) (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un cadeau ou objet plutôt qu'une service)/
+多鳩餘 多鸠余 [duo1 jiu1 yu2] {do1 gau1 jyu4} /(vulg.) inutile; superflu/
+????c 夜吹 夜吹 [ye4 chui1] {je6 ceoi1} /conversation nocturne/
+夜媽媽 夜妈妈 [ye4 ma1 ma5] {je6 maa1 maa1} /très tard le soir; en pleine nuit; au milieu de la nuit/
+夠ｐｏｐ 够ｐｏｐ [gou4ｐｏｐ] {gau3 pok1} /(fam.) avoir le courage (de faire quelque chose); avoir le cran (de faire quelque chose)/
+夠ｐｏｗｅｒ 够ｐｏｗｅｒ [gou4ｐｏｗｅｒ] {gau3 paau1 aa2} /(fam.) être assez puissant pour faire quelque chose/(fam.) avoir assez de pouvoir pour faire quelque chose/
+夠力 够力 [gou4 li4] {gau3 lik6} /(fam.) être assez puissant pour faire quelque chose/(fam.) avoir assez de pouvoir pour faire quelque chose/
+夠喉 够喉 [gou4 hou2] {gau3 hau4} /(fam.) être satisfait/(fam.) assouvir une envie; assouvir un désir/
+夠有凸 够有凸 [gou4 you3 tu1] {gau3 jau5 dat6} /(fam.) plus qu'assez; bien assez/
+夠班 够班 [gou4 ban1] {gau3 baan1} /(fam.) être compétent; être qualifié/
+????f 夠義氣 够义气 [gou4 yi4 qi5] {gau3 ji6 hei3} /être fidèle à ses amis/
+夠雷 够雷 [gou4 lei2] {gau3 leoi4} /être fidèle à ses amis/
 
