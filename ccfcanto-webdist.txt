@@ -23329,6 +23329,7 @@
 ????c 唔客氣 唔客气 [wu2 ke4 qi5] {m4 haak3 hei3} /accepter un cadeau, une service avec enthousiasme/
 唔得切 唔得切 [n2 de5 qie4] {m4 dak1 cit3} /(fam.) (ne pas terminer une tâche) pas à temps; trop tard/
 唔明白 唔明白 [n2 ming2 bai2] {m4 ming4 baak6} /ne pas comprendre/
+唔死一身潺 唔死一身潺 [wu2 si3 yi1 shen1 chan2] {m4 sei2 jat1 san1 saan4} /(expr. idiom.) tu vas souffrir beaucoup (cette expression est utilisée comme menace)/
 唔洗死 唔洗死 [wu2 xi3 si3] {m4 sai2 sei2} /(expr. idiom.) c'est pas si mal; ce n'est pas si grave/(lit.) il ne faut pas mourir/
 唔清楚嘅 唔清楚嘅 [wu2 qing1 chu5 ge3] {m4 cing1 co2 ge3} /pas clair; incompréhensible/
 唔畀 唔畀 [wu2 bi4] {m4 bei2} /ne pas permettre; ne pas autoriser/
@@ -23544,6 +23545,7 @@
 大嘆特嘆 大叹特叹 [da4 tan4 te4 tan4] {daai6 taan3 dak6 taan3} /(expr. idiom.) profiter de la vie; se la couler douce/(lit.) grande décontraction, décontraction spéciale/
 大㗰 大㗰 [da4 cong2] {daai6 saai1} /énorme perte; énorme gaspillage/
 大圈 大圈 [da4 quan1] {daai6 hyun1} /(toponyme) (fig.) Canton/(fam.) membres des triades chinoises qui commettent des crimes à Hong Kong ou à Macao/
+大圈仔 大圈仔 [da4 quan1 zi3] {daai6 hyun1 zai2} /(fam.) membres des triades chinoises qui commettent des crimes à Hong Kong ou à Macao/
 大地圖 大地图 [da4 di4 tu2] {daai6 dei6 tou4} /atlas/grande carte/
 ????c 大地震 大地震 [da4 di4 zhen4] {daai6 dei6 zan3} /grand tremblement de terre/(fig.) grand changement; grand bouleversement/
 ????f 大場面 大场面 [da4 chang3 mian4] {daai6 coeng4 min2} /occasion importante; grand évènement/
@@ -23674,4 +23676,28 @@
 孖Ｔ 孖Ｔ [ma1Ｔ] {maa1 ti1} /(courses hippiques) pari mutuel de type triplé gagnant/
 孖吉 孖吉 [ma1 ji2] {maa1 gat1} /(nom de triade chinoise) 14K/
 ????f 孖必 孖必 [ma1 bi4] {maa1 bit1} /patrouille effectuée par deux policiers ensemble/
+????f 孖咇 孖咇 [ma1 bi4] {maa1 bit1} /patrouille effectuée par deux policiers ensemble/
+孖煙囪 孖烟囱 [ma1 yan1 cong1] {maa1 jin1 tung1} /caleçons/(lit.) cheminées jumelles/
+????f 孤男寡女 孤男寡女 [gu1 nan2 gua3 nv3] {gu1 naam4 gwaa2 neoi5} /(expr.) un homme et une femme qui sont ensemble quelque part sans autres personnes (connotation suggestive)/
+孭周身債 孭周身债 [mie1 zhou1 shen1 zhai4] {me1 zau1 san1 zaai3} /(expr. idiom.) lourdement endetté/(lit.) porter des dettes partout sur le corps/
+????c 孭鐵 孭铁 [mie1 tie3] {me1 tit3} /(fig.) être policier/(lit.) porter du métal/
+學到 学到 [xue2 dao4] {hok6 dou2} /appris; (quelque chose) que l'on a appris/
+它們自己 它们自己 [ta1men5 zi4ji3] {taa1 mun4 zi6 gei2} /eux-mêmes (en parlant d'objets inanimés)/
+定要 定要 [ding4 yao4] {ding6 jiu3} /(vous voulez x) ou (y)?/
+????c 家基冷 家基冷 [jia1 ji1 leng3] {gaa1 gei1 laang5} /one's own people [colloquial, Chiu-Chow / Teochew dialect] (family, or ethnicity, or other?)/
+密瓜 密瓜 [mi4 gua1] {mat6 gwaa1} /melon miel/cantaloup/
+????f 富家子 富家子 [fu4 jia1zi5] {fu3 gaa1 zi2} /fils d'une famille riche/
+寒夜 寒夜 [han2 ye4] {hon4 je6} /nuit froide/
+實Ｑ 实Ｑ [shi2 Q] {sat6 kiu1} /agent de sécurité/(orig.) de l'anglais « security » (« sécurité »)/
+????c 實驗品 实验品 [shi2 yan4 pin3] {sat6 jim6 ban2} /échantillon; petit exemplaire d'un produit/
+????f 寸到嘔 寸到呕 [cun4 dao4 ou3] {cyun3 dou3 au2} /(expr.) être très arrogant/(lit.) arrogant à faire vomir (les autres)/
+寸到無倫 寸到无伦 [cun4 dao4 wu2 lun2] {cyun3 dou3 mou4 leon4} /(expr.) être très arrogant/
+寸到飛起 寸到飞起 [cun4 dao4 fei1 qi3] {cyun3 dou3 fei1 hei2} /(expr.) être très arrogant/(lit.) arrogant à se faire voler/
+????f 寸得起 寸得起 [cun4 de5 qi3] {cyun3 dak1 hei2} /être arrogant mais avoir les exploits pour le justifier/
+寸過馬撚 寸过马撚 [cun4 guo4 ma3 nian3] {cyun3 gwo3 maa5 lan2} /(expr.) (vulg.) être très arrogant/(lit.) plus arrogant que la bite du cheval/
+????c 封老毛 封老毛 [feng1 lao3 mao2] {fung1 lou5 mou4} /(fam.) (fig.) offrir une enveloppe rouge (lors des célébrations du Nouvel An chinois)/
+????f 封艇 封艇 [feng1 ting3] {fung1 teng5} /(argot des chauffeurs de taxi) se faire confisquer son taxi/(lit.) reboucher la barque/
+????c 射嘢 射嘢 [she4 ye3] {se6 je5} /(fam.) éjaculer/
+專業知識 专业知识 [zhuan1 ye4 zhi1 shi5] {zyun1 jip6 zi1 sik1} /connaissance spécialisée/
+對ｌｉｎ好大 对ｌｉｎ好大 [dui4ｌｉｎ hao3 da4] {deoi3 lin4 hou2 daai6} /(fam.) avoir de gros seins/
 
