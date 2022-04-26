@@ -7030,7 +7030,7 @@
 屋苑 屋苑 [wu1 yuan4] {uk1 jyun2} /grand ensemble; cité/
 屋邨 屋村 [wu1 cun1] {uk1 cyun1} /grand ensemble; cité/
 屌你 屌你 [diao3 ni3] {diu2 nei5} /(vulg.) va te faire foutre; va te faire enculer/
-屌你老母 屌你老母 [diao3 ni3 lao3 mu3] {diu2 nei5 lou5 mou2} /(très vulg.) (sans équivalent direct, plus vulgaire que « va te faire foutre », « va te faire enculer »)/
+屌你老母 屌你老母 [diao3 ni3 lao3 mu3] {diu2 nei5 lou5 mou2} /(très vulg.) (sans équivalent direct, plus vulgaire que « nique ta mère »)/
 屌那媽 屌那妈 [diao3 na4 ma1] {diu2 naa5 maa1} /(très vulg.) (sans équivalent direct, plus vulgaire que « va te faire foutre », « va te faire enculer »)/(lit.) nique ta mère/
 ????f 屌閪 屌閪 [diao3 se1] {diu2 hai1} /baiser un vagin/
 屍身 尸身 [shi1 shen1] {si1 san1} /cadavre/
@@ -14799,6 +14799,7 @@
 瞌埋眼 瞌埋眼 [ke1 mai2 yan3] {hap1 maai4 ngaan5} /fermer les yeux/
 瞌眼瞓 瞌眼瞓 [ke1 yan3 xun4] {hap1 ngaan5 fan3} /(fig.) avoir sommeil; avoir envie de dormir/(lit.) fermer les yeux et (vouloir) dormir/
 瞎話 瞎话 [xia1 hua4] {hat6 waa6} /mensonge/dire des bêtises/
+瞓覺 瞓觉 [fen4 jiao4] {fan3 gaau3} /dormir; se coucher; aller au lit/
 瞓低 瞓低 [fen4 di1] {fan3 dai1} /s'allonger; se coucher/
 ????f 瞓厲頸 瞓厉颈 [fen4 li4 jing3] {fan3 lai2 geng2} /(verb) get a sore neck; get a stiff neck/
 瞓唔著 瞓唔着 [fen4 n2 zhao2] {fan3 m4 zoek6} /être incapable de trouver le sommeil/
@@ -23669,7 +23670,7 @@
 媾仔 媾仔 [gou4 zi3] {kau1 zai2} /(fam.) draguer un homme/
 ????f 媾女王 媾女王 [gou4 nu:3 wang2] {kau1 neoi2 wong4} /(fam.) don Juan; homme séducteur/(lit.) roi des dragueurs/
 ????f 嫌三嫌四 嫌三嫌四 [xian2 san1 xian2 si4] {jim4 saam1 jim4 sei3} /(expr. idiom.) être difficile; être dur à satisfaire; se plaindre des moindres détails/(lit.) se plaindre du trois et du quatre/
-嬉皮仕 嬉皮仕 [xi1pi2 shi4] {hei1 pei4 si6} /hippie; hippy/(orig.) de l'anglais « hippie » (« hippie, hippy »)/
+嬉皮仕 嬉皮仕 [xi1 pi2 shi4] {hei1 pei4 si6} /hippie; hippy/(orig.) de l'anglais « hippie » (« hippie, hippy »)/
 ????f 子彈人 子弹人 [zi3 dan4 ren2] {zi2 daan2 jan4} /(fam.) (fig.) homme qui atteint l'orgasme très (ou trop) vite/(lit.) homme (qui est comme une) balle (d'une arme à feu)/
 ????f 子母電話 子母电话 [zi5 mu3 dian4 hua4] {zi2 mou2 din6 waa2} /téléphone sans fil avec une base/(lit.) téléphone mère-fils/
 孖Ｑ 孖Ｑ [ma1] {maa1 kiu1} /(courses hippiques) pari mutuel de type jumelé gagnant/
@@ -23700,4 +23701,51 @@
 ????c 射嘢 射嘢 [she4 ye3] {se6 je5} /(fam.) éjaculer/
 專業知識 专业知识 [zhuan1 ye4 zhi1 shi5] {zyun1 jip6 zi1 sik1} /connaissance spécialisée/
 對ｌｉｎ好大 对ｌｉｎ好大 [dui4ｌｉｎ hao3 da4] {deoi3 lin4 hou2 daai6} /(fam.) avoir de gros seins/
+????f 對人冇嘢 对人冇嘢 [dui4 ren2 mao3 ye3] {deoi3 jan4 mou5 je5} /(fig.) ne pas avoir des sentiments romantiques pour quelqu'un/
+對呀 对呀 [dui4 ya5] {deoi3 aa3} /c'est vrai; c'est bien ça/
+????c 對大奶奶 对大奶奶 [dui4 da4 nai3nai5] {deoi3 daai6 naai5 naai5} /(fam.) de gros seins/
+????f 對正 对正 [dui4 zheng4] {deoi3 zeng3} /directement en face/être parfaitement aligné avec (quelque chose); être sur une même ligne droite (avec quelque chose)/
+????f 對死 对死 [dui4 si3] {deoi3 sei2} /(mah-jong) impasse; situation où personne ne peut continuer le jeu/
+小你 小你 [xiao3 ni3] {siu2 nei5} /(adoucissement de 屌你|屌你 diu2 nei5, « va te faire foutre »)/
+小你屎忽 小你屎忽 [xiao3 ni3 shi3 hu1] {siu2 nei5 si2 fat1} /(adoucissement de 屌你屎忽|屌你屎忽, « va te faire enculer »)/
+????f 小商人 小商人 [xiao3 shang1 ren2] {siu2 soeng1 jan4} /a small trader [written and colloquial]/
+小圓點 小圆点 [xiao3 yuan2 dian3] {siu2 jyun4 dim2} /point; petite symbole ronde/
+小姓 小姓 [xiao3 xing4] {siu2 sing3} /(humble) mon nom de famille est.../
+小學校 小学校 [xiao3 xue2 xiao4] {siu2 hok6 haau6} /petite école/(rare) école primaire/
+????f 小菊花 小菊花 [xiao3 ju2 hua1] {siu2 guk1 faa1} /(fam.) petit trou de cul/(lit.) petit chrysanthème/
+小超 小超 [xiao3 chao1] {siu2 ciu1} /(surnom de Victor Li Tzar-kuoi, fils de Li Ka-Shing, magnat des affaires hongkongais)/
+小門 小门 [xiao3 men2] {siu2 mun4} /(cricket) guichet/porte secondaire; petite porte/
+小鳩 小鸠 [xiao3 jiu1] {siu2 gau1} /(adoucissement de 屌鳩|屌鸠 diu2 gau1)/
+????f 少個崩都唔得 少个崩都唔得 [shao3 ge4 beng1 dou1 n2 de5] {siu2 go3 bang1 dou1 m4 dak1} /(expr. idiom.) je ne vais pas accepter moins d'argent; je vous fais mon meilleur prix/(lit.) même pas un cent de moins/
+少條毛 少条毛 [shao3 tiao2 mao2] {siu2 tiu4 mou4} /(fig.) être blessé ou endommagé de quelque manière que ce soit/(lit.) avoir perdu un poil/
+????c 少等 少等 [shao3 deng3] {siu2 dang2} /un petit moment; quelques instants/
+就噉 就啖 [jiu4 dan4] {zau6 gam2} /juste comme ça/tout simplement/
+屌你娘親 屌你娘亲 [diao3 ni3 niang2 qin1] {diu2 nei5 noeng4 can1} /(vulg.) nique ta mère/
+????f 屌你老尾冚家剷 屌你老尾冚家铲 [diao3 ni3 lao3 wei3 ka4 jia1 chan3] {diu2 nei5 lou5 mei5 ham6 gaa1 caan2} /(très vulg.) nique ta mère, connard!/
+????f 屌你老母個仆街仔 屌你老母个仆街仔 [diao3 ni3 lao3 mu3 ge4 pu1 jie1 zi3] {diu2 nei5 lou5 mou2 go3 puk1 gaai1 zai2} /(très vulg.) nique ta mère, connard!/
+????f 屌你老母個仆街冚家鏟 屌你老母个仆街冚家铲 [diao3 ni3 lao3 mu3 ge4 pu1jie1 ka4 jia1 chan3] {diu2 nei5 lou5 mou2 go3 puk1 gaai1 ham6 gaa1 caan2} /(très vulg.) nique ta mère, putain de connard!/
+????f 屌你老母撚鳩閪柒未撚屌過呀 屌你老母撚鸠閪柒未撚屌过呀 [diao3 ni3 lao3 mu3 nian3 jiu1 se1 qi1 wei4 nian3 diao3 guo4 ya5] {diu2 nei5 lou5 mou2 lan2 gau1 hai1 cat6 mei6 lan2 diu2 gwo3 aa3} /(très vulg.) nique ta putain de mère!/(lit.) nique ta mère qui ne s'est jamais faite niquer/
+????f 屌你老母爛花閪 屌你老母烂花閪 [diao3 ni3 lao3 mu3 lan4 hua1 se1] {diu2 nei5 lou5 mou2 laan6 faa1 hai1} /(très vulg.) nique ta sale putain de mère!/(lit.) nique le vagin qui empeste de ta mère/
+????f 屌你老母臭閪 屌你老母臭閪 [diao3 ni3 lao3 mu3 chou4 se1] {diu2 nei5 lou5 mou2 cau3 hai1} /(très vulg.) nique ta sale putain de mère!/(lit.) nique le vagin qui empeste de ta mère/
+屌你鹵味 屌你卤味 [diao3 ni3 lu3 wei4] {diu2 nei5 lou5 mei2} /(vulg.) (par euphémisme) nique ta mère (voir 屌你老母|屌你老母 diu2 nei5 lou5 mou2)/
+????f 屌到你閪痕 屌到你閪痕 [diao3 dao4 ni3 se1 hen2] {diu2 dou3 nei5 hai1 han4} /(vulg.) va te faire foutre, sale con!/(lit.) va te faire niquer jusqu'à ton vagin démange/
+????f 屌撚你老母臭閪 屌撚你老母臭閪 [diao3 nian3 ni3 lao3 mu3 chou4 se1] {diu2 lan2 nei5 lou5 mou2 cau3 hai1} /(très vulg.) nique ta sale putain de mère!/(lit.) nique le vagin qui empeste de ta mère/
+????f 屌柒你老母個閪 屌柒你老母个閪 [diao3 qi1 ni3 lao3 mu3 ge4 se1] {diu2 cat6 nei5 lou5 mou2 go3 hai1} /(très vulg.) nique ta mère!/
+????f 屌柒爆你老尾個閪 屌柒爆你老尾个閪 [diao3 qi1 bao4 ni3 lao3 wei3 ge4 se1] {diu2 cat6 baau3 nei5 lou5 mei5 go3 hai1} /(très vulg.) (par euphémisme) nique ta sale putain de mère!/
+屌開 屌开 [diao3 kai1] {diu2 hoi1} /(vulg.) va te faire foutre!/
+????f 屌鳩撚柒你個冚家仱 屌鸠撚柒你个冚家仱 [diao3 jiu1 nian3 qi1 ni3 ge4 ka4 jia1 qian2] {diu2 gau1 lan2 cat6 nei5 go3 ham6 gaa1 ling1} /(vulg.) va te faire foutre, sale con!/
+????f 屎坑公賣草紙 屎坑公卖草纸 [shi3 keng1 gong1 mai4 cao3 zhi3] {si2 haang1 gung1 maai6 cou2 zi2} /(expression utilisée pour encourager quelqu'un à être honnête et agir avec intégrité, même si personne ne le surveille)/(lit.) préposé de toilettes vend vend du papier toilette/(orig.) Par le passé, en Chine et à Hong Kong, le papier toilette n'était pas offert gratuitement. Les employées responsables pour les toilettes mettait donc du papier toilette à vendre près de l'entrée des toilettes sans le surveiller, dans l'espoir que les clients soient honnêtes et paient ce qu'ils allaient utiliser/
+????f 屎坑橋 屎坑桥 [shi3 keng1 qiao2] {si2 haang1 kiu2} /(fig.) mauvaise idée; mauvais plan/(fig.) truc ou ruse qui ne trompe personne/(lit.) truc de toilette/
+????f 屎塌蓋 屎塌盖 [shi3 ta1 gai4] {si2 taap3 goi3} /couvercle de toilette/(fig.) (coiffure) coupe « Beatles »/
+????c 屎屎忽忽 屎屎忽忽 [shi3 shi3 hu1 hu1] {si2 si2 fat1 fat1} /qui ne parvient pas à prendre une décision/
+????c 屎忽佬 屎忽佬 [shi3 hu1 lao3] {si2 fat1 lou2} /(vulg.) connard; enfoiré/
+屎忽撞棍 屎忽撞棍 [shi3 hu1 zhuang4 gun4] {si2 fat1 zong6 gwan3} /(expr. idiom.) (un peu vulg.) par pure chance/(lit.) bâton qui frappe les fesses/
+屎忽花 屎忽花 [shi3 hu1 hua1] {si2 fat1 faa1} /(vulg.) fesses/
+????c 屎樣 屎样 [shi3 yang4] {si2 joeng2} /shit looking; ugly looking; bad looking [colloquial] (person? or object? or both?)/
+屎款 屎款 [shi3 kuan3] {si2 fun2} /(d'une personne) laid; mal habillé/
+????c 屎眼藏毒 屎眼藏毒 [shi3 yan3 cang2 du2] {si2 ngaan5 cong4 duk6} /(fam.) cacher de la drogue dans son anus/
+屎窟罅 屎窟罅 [shi3 ku1 xia4] {si2 fat1 laa3} /raie des fesses/
+屎開 屎开 [shi3 kai1] {si2 hoi1} /(vulg.) fous le camp!/
+????f 屎餅 屎饼 [shi3 bing3] {si2 beng2} /(fam.) avoir l'air tabassé; être amoché/(lit.) (avoir l'air d'un) biscuit de merde/
+展銷中心 展销中心 [zhan3 xiao1 zhong1 xin1] {zin2 siu1 zung1 sam1} /parc des expositions/
 
