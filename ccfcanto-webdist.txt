@@ -7770,7 +7770,7 @@
 得 得 [de5] {dak1} /OK; o.k.; okay; d'accord/oui/possible; faisable; réalisable/
 得人怕 得人怕 [de2 ren2 pa4] {dak1 jan4 paa3} /effrayant; qui fait peur/
 得人驚 得人惊 [de2 ren2 jing1] {dak1 jan4 geng1} /effrayant; qui fait peur; terrifiant/
-得個吉 得个吉 [de2 ge4 ji2] {dak1 go3 gat1} /(expr. idiom.) sortir sans rien; faire quelque chose en vain; faire quelque chose pour rien/(lit.) n'avoir qu'un « 吉 »/
+得個吉 得个吉 [de2 ge4 ji2] {dak1 go3 gat1} /(expr. idiom.) sortir sans rien; faire quelque chose en vain; faire quelque chose pour rien/(lit.) n'avoir qu'un « 吉 »/(orig.) le mot 空 (« rien, vide ») est considéré comme un mot qui porte malheur, il est donc remplacé par 吉 (« chance, de bon augure »)/
 ????f 得個講字 得个讲字 [de2 ge4 jiang3 zi4] {dak1 go3 gong2 zi6} /(expr. idiom.) qui ne tient pas ses promesses; qui parle sans agir/(lit.) n'avoir que la parole/
 得償所願 得偿所愿 [de2 chang2 suo3 yuan4] {dak1 soeng4 so2 jyun6} /obtenir que l'on a souhaité/
 得切 得切 [de5 qie4] {dak1 cit3} /à temps/
@@ -23820,10 +23820,32 @@
 很久不見 很久不见 [hen3 jiu3 bu4 jian4] {han2 gau2 bat1 gin3} /(à l'écrit) (expr.) ça fait longtemps qu'on ne s'est pas vus!/
 ????c 後台硬朗 后台硬朗 [hou4 tai2 ying4 lang5] {hau6 toi4 ngaang6 long5} /(expr. idiom.) someone who has powerful or influential figures to back them up [colloquial]/
 ????c 後庭藏毒 后庭藏毒 [hou4 ting2 cang2 du2] {hau6 ting4 cong4 duk6} /cacher des drogues dans l'anus/
-後果堪虞 后果堪虞 [hou4guo3 kan1yu2] {hau6 gwo2 ham1 jyu4} /(expr. idiom.) conséquences inquiétantes/
+後果堪虞 后果堪虞 [hou4 guo3 kan1 yu2] {hau6 gwo2 ham1 jyu4} /(expr. idiom.) conséquences inquiétantes/
 後欄 后栏 [hou4 lan2] {hau6 laan1} /porte de derrière (d'une boutique)/(fig.) anus/
 後浪 后浪 [hou4 lang4] {hau6 long6} /(fig.) la nouvelle génération/(lit.) la nouvelle vague/
 ????f 得一想二 得一想二 [de5 yi1 xiang3 er4] {dak1 jat1 soeng2 ji6} /(expr. idiom.) cupide; toujours vouloir plus/(lit.) avoir un penser à deux/
 ????f 得些好意須回首 得些好意须回首 [de5 xie1 hao3 yi4 xu1 hui2 shou3] {dak1 se1 hou2 ji3 seoi1 wui4 sau2} /(expr. idiom.) ne tire pas sur la corde/
 ????f 得些好意須回手 得些好意须回手 [de5 xie1 hao3 yi4 xu1 hui2 shou3] {dak1 se1 hou2 ji3 seoi1 wui4 sau2} /(expr. idiom.) ne tire pas sur la corde/
+得個桔 得个桔 [de5 ge4 ju2] {dak1 go3 gat1} /(expr. idiom.) sortir sans rien; faire quelque chose en vain; faire quelque chose pour rien/(lit.) n'avoir qu'un « 吉 »/(orig.) le mot 空 (« rien, vide ») est considéré comme un mot qui porte malheur, il est donc remplacé par 吉 (« chance, de bon augure ») ou 桔 (homophone de « 吉 »)/
+得個樣 得个样 [de5 ge4 yang4] {dak1 go3 joeng2} /(expr.) personne qui en apparence riche ou puissant mais ne l'est pas en réalité/(lit.) n'avoir que l'apparence/
+得個睇字 得个睇字 [de5 ge4 di4 zi4] {dak1 go3 tai2 zi6} /(expr. idiom.) (d'un objet) qui ne sert à rien mais qui est joli/(expr. idiom.) que l'on peut voir mais ne pas toucher/(lit.) n'avoir que le mot « regarder »/
+????c 得㗎啦你 得㗎啦你 [de5 jia4 la5 ni3] {dak1 gaa3 laa1 nei5} /that's so effing good of you ! so you think you are so effing great! (used to express one's discontentment at someone's actions or words) [colloquial]/
+????f 得㗎喇 得㗎喇 [de5 jia4 la3] {dak1 gaa2 laa3} /t'en fais pas/aucun problème; OK/ça va aller/ça suffira/
+????f 得㗎嘞 得㗎嘞 [de5 jia4 lei5] {dak1 gaa2 laak3} /t'en fais pas/aucun problème; OK/ça va aller/ça suffira/
+得未呀 得未呀 [de5 wei4 ya5] {dak1 mei6 aa3} /es-tu prêt? êtes-vous prêts?/est-ce que c'est prêt?/
+從考 从考 [cong2 kao3] {cung4 haau2} /repasser un examen/
+循環再用 循环再用 [xun2 huan2 zai4 yong4] {ceon4 waan4 zoi3 jung6} /recycler/
+徬徨 徬徨 [pang2 huang2] {pong4 wong4} /hésiter; être indécis/être anxieux; être inquiet; être troublé/
+????c 德字堆 德字堆 [de2 zi4 dui1] {dak1 zi6 deoi1} /groupe Tak, sous-groupe de la triade 14K/
+德涅斯特河沿岸共和國 德涅斯特河沿岸共和国 [de2 nie4 si1 te4 he2 yan2 an4 gong4 he2 guo2] {dak1 nip6 si1 dak6 ho4 jyun4 ngon6 gung6 wo4 gwok3} /(État) Transnistrie/
+心ｕｐ 心ｕｐ [xin1 yi4] {sam1 ap1} /(fam.) triste; mécontent; peiné/
+????c 心知 心知 [xin1 zhi1] {sam1 zi1} /to know something already without being told explicitly [colloquial]/
+心臟疾病 心脏疾病 [xin1 zang4 ji2 bing4] {sam1 zong6 zat6 beng6} /maladie cardiaque/
+心臟病發作 心脏病发作 [xin1 zang4 bing4 fa1 zuo4] {sam1 zong6 beng6 faat3 zok3} /infarctus; crise cardiaque/
+????f 心要熱,頭要冷 心要热,头要冷 [xin1 yao4 re4, tou5 yao4 leng3] {sam1 jiu3 jit6, tau4 jiu3 laang5} /(expr. idiom.) on devrait aborder chaque tâche avec de l'enthousiasme et de la passion, mais aussi d'une manière logique/(lit.) le cœur doit être chaud, la tête doit être froid/
+????c 心驚驚 心惊惊 [xin1 jing1 jing1] {sam1 geng1 geng1} /to feel nervous [colloquial] (afraid? nervous?)/
+????f 忍屎忍尿好過忍你 忍屎忍尿好过忍你 [ren3 shi3 ren3 niao4 hao3 guo4 ren3 ni3] {jan2 si2 jan2 niu6 hou2 gwo3 jan2 nei5} /(expr. idiom.) je ne peux plus te supporter!/(lit.) je préférerais retenir ma merde et ma pisse plutôt que de te supporter/
+????f 忠忠直直終須乞食 忠忠直直终须乞食 [zhong1 zhong1 zhi2 zhi2 zhong1 xu1 qi3 shi2] {zung1 zung1 zik6 zik6 zung1 seoi1 hat1 sik6} /(expr. idiom.) être trop honnête ne mène qu'à la pauvreté/
+快槍手 快枪手 [kuai4 qiang1 shou5] {faai3 coeng1 sau2} /(fam.) (fig.) homme qui atteint l'orgasme trop vite/(lit.) tireur rapide/
+????c 忿巢 忿巢 [fen4 chao2] {fan5 caau4} /mécontent; triste; morose/
 
