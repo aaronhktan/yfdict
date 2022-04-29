@@ -8656,8 +8656,9 @@
 ????c 打窒 打窒 [da3 zhi4] {daa2 zat6} /boucher, obstruer/suffoquer/
 打窿機 打窿机 [da3 long2 ji1] {daa2 lung1 gei1} /poinçonneuse (de document)/
 ????f 打簿 打簿 [da3 bu4] {daa2 bou2} /mettre son livret d'épargne à jour (to update one's passbook - to bring one's passbook to the bank and get an updated record of transactions printed into one's passbook)/
-????f 打籠通 打笼通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter avant un évenement ou un jeu/(expr. idiom.) communiquer pour escroquer quelqu'un de leur argent/
-????f 打聾通 打聾通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter avant un évenement ou un jeu/(expr. idiom.) communiquer pour escroquer quelqu'un de leur argent/
+????f 打籠通 打笼通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter; conspirer/(expr. idiom.) communiquer et travailler avec quelqu'un pour escroquer quelqu'un d'autre de leur argent/
+????f 打聾通 打聾通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter; conspirer/(expr. idiom.) communiquer et travailler avec quelqu'un pour escroquer quelqu'un d'autre de leur argent/
+????f 打龍通 打龙通 [da3 long2 tong1] {daa2 lung4 tung1} /(expr. idiom.) comploter; conspirer/(expr. idiom.) communiquer et travailler avec quelqu'un pour escroquer quelqu'un d'autre de leur argent/
 打網球 打网球 [da3 wang3 qiu2] {daa2 mong5 kau4} /jouer au tennis/
 打纈 打缬 [da3 xie2] {daa2 lit3} /nouer/
 打聽 打听 [da3 ting5] {daa2 ting3} /s'informer de; demander; poser des questions sur/
@@ -18094,7 +18095,7 @@
 討價還價 讨价还价 [tao3jia4huan2jia4] {tou2 gaa3 waan4 gaa3} /(expr.) marchander; négocier un prix/
 ????f 訓導主任 训导主任 [xun4 dao3 zhu3 ren4] {fan3 dou6 zyu2 jam6} /doyen des étudiants (d'une école primaire ou secondaire)/
 訓練有素 训练有素 [xun4 lian4 you3 su4] {fan3 lin6 jau5 sou3} /bien formé/bien entraîné/
-訓覺 训觉 [xun4 jue2] {fan3 gaau3} /dormir; se coucher/
+訓覺 训觉 [xun4 jue2] {fan3 gaau3} /dormir; coucher/
 託付 托付 [tuo1 fu4] {tok3 fu6} /confier (un objet, une tâche, une personne) à (quelqu'un)/
 託兒所 托儿所 [tuo1 er2 suo3] {tok3 ji4 so2} /garderie; crèche/
 託福 托福 [tuo1 fu2] {tok3 fuk1} /TOEFL; « test of English as a foreign language » (« test d'anglais langue étrangère »)/
@@ -23939,12 +23940,42 @@
 ????c 打一身 打一身 [da3 yi1 shen1] {daa2 jat1 san1} /(fam.) tabasser; rouer de coups/
 打佢老母 打佢老母 [da3 qu2 lao3 mu3] {daa2 keoi4 lou5 mou2} /(adoucissement de 屌你老母|屌你老母 « nique sa mère »)/
 打個突 打个突 [da3 ge4 tu1] {daa2 go3 dat6} /(fam.) être étonné; être surpris/
-????f 打到亞媽都唔認得 打到亚妈都唔认得 [da3 dao4 ya4 ma1 dou1 wu2 ren4 de5] {daa2 dou3 aa3 maa1 dou1 m4 jing6 dak1} /(expr. idiom.) être en très mauvais état après avoir été attaqué/(lit.) frapper jusqu'à ce sa mère ne le connaît plus/
-打到塊嘢咁 打到块嘢咁 [da3 dao4 kuai4 ye3 gan1] {daa2 dou3 faai3 je5 gam2} /(expr. idiom.) être en très mauvais état après avoir été attaqué/
+????f 打到亞媽都唔認得 打到亚妈都唔认得 [da3 dao4 ya4 ma1 dou1 wu2 ren4 de5] {daa2 dou3 aa3 maa1 dou1 m4 jing6 dak1} /(expr. idiom.) être en très mauvais état après avoir été attaqué; passé à tabac; réduit en bouillie/(lit.) frapper jusqu'à ce sa mère ne le connaît plus/
+打到塊嘢咁 打到块嘢咁 [da3 dao4 kuai4 ye3 gan1] {daa2 dou3 faai3 je5 gam2} /(expr. idiom.) être en très mauvais état après avoir été attaqué; passé à tabac; réduit en bouillie/
 ????c 打到寸唔起為止 打到寸唔起为止 [da3 dao4 cun4 wu2 qi3 wei2 zhi3] {daa2 dou3 cyun3 m4 hei2 wai4 zi2} /(expr. idiom.) tabasser quelqu'un jusqu'à ce qu'il ne peut plus se défendre/
-????c 打到撻皮 打到挞皮 [da3 dao4 ta4 pi2] {daa2 dou3 taat3 pei4} /(expr. idiom.) tabassé; roué de coups/
-????c 打到死狗咁 打到死狗咁 [da3 dao4 si3 gou3 gan1] {daa2 dou3 sei2 gau2 gam2} /(expr. idiom.) être en mauvais état après avoir été attaqué/(lit.) attaquer jusqu'à avoir l'air d'un chien mort/
+????c 打到撻皮 打到挞皮 [da3 dao4 ta4 pi2] {daa2 dou3 taat3 pei4} /(expr. idiom.) passé à tabac; réduit en bouillie/
+????c 打到死狗咁 打到死狗咁 [da3 dao4 si3 gou3 gan1] {daa2 dou3 sei2 gau2 gam2} /(expr. idiom.) être en mauvais état après avoir été attaqué; passé à tabac; réduit en bouillie/(lit.) attaquer jusqu'à avoir l'air d'un chien mort/
 ????c 打到瞓直 打到瞓直 [da3 dao4 xun4 zhi2] {daa2 dou3 fan3 zik6} /(expr. idiom.) tabasser; rouer de coups/
 ????c 打到粒聲都冇 打到粒声都冇 [da3 dao4 li4 sheng1 dou1 mao3] {daa2 dou3 lap1 seng1 dou1 mou5} /(expr. idiom.) tabasser; rouer de coups/(lit.) frapper jusqu'à ce que'il ne fait plus de bruit/
-打到豬頭咁 打到猪头咁 [da3 dao4 zhu1 tou2 gan1] {daa2 dou3 zyu1 tau4 gam2} /(expr. idiom.) être tabassé; être couvert de bleus/(lit.) être tabassé et avoir l'air d'une tête de cochon/
+打到豬頭咁 打到猪头咁 [da3 dao4 zhu1 tou2 gan1] {daa2 dou3 zyu1 tau4 gam2} /(expr. idiom.) passé à tabac; être couvert de bleus; réduit en bouillie/(lit.) être tabassé et avoir l'air d'une tête de cochon/
 ????f 打到走夾唔透有氣冇訂透 打到走夹唔透有气冇订透 [da3 dao4 zou3 jia1 wu2 tou4 you3 qi4 mao3 ding4 tou4] {daa2 dou3 zau2 gaap3 m4 tau3 jau5 hei3 mou5 deng6 tau3} /(expr. idiom.) tabasser; rouer de coups/(lit.) frapper jusqu'à ce qu'il s'enfuit et n'a pas le temps de se reposer/
+????c 打到開花 打到开花 [da3 dao4 kai1 hua1] {daa2 dou3 hoi1 faa1} /(expr. idiom.) passé à tabac; réduit en bouillie/(lit.) battu à fleurir/
+????c 打到頭都爆咁滯 打到头都爆咁滞 [da3 dao4 tou2 dou1 bao4 gan1 zhi4] {daa2 dou3 tau4 dou1 baau3 gam3 zai6} /(expr. idiom.) passé à tabac; réduit en bouillie/(lit.) battu jusqu'à avoir la tête qui explose/
+打啤 打啤 [da3 pi2] {daa4 bi1} /(Malaysie ou Singapour) mais/
+打圈 打圈 [da3 quan1] {daa2 hyun1} /faire des cercles; tourner en cercle/encercler; tracer un cercle autour de quelque chose/
+打壁球 打壁球 [da3 bi4qiu2] {daa2 bik1 kau4} /jouer au squash/
+????f 打完 打完 [da3 wan2] {daa2 jyun4} /avoir fini de jouer/avoir fini de frapper/avoir terminé son appel téléphonique/
+打巢 打巢 [da3 chao2] {daa2 caau4} /vaincre; défaire/
+????c 打得少砑仆街 打得少砑仆街 [da3 de5 shao3 ya4 pu1 jie1] {daa2 dak1 siu2 ngaa6 puk1 gaai1} /not had enough of beating yet, bastard? [colloquial]/
+????c 打打 打打 [da3 da3] {daa2 daa2} /you are in need of a beating (used in a playful manner) [colloquial]/
+????c 打摏 打摏 [da3 chong1] {daa2 zong1} /to hit a wooden pile/to eat something after taking drugs/to have sex [colloquial]/
+打晒骰 打晒骰 [da3 shai4 tou2] {daa2 saai3 sik1} /être chef; être leader; prendre les décisions (voir aussi 打晒色|打晒色)/
+打機癮 打机瘾 [da3 ji1 yin3] {daa2 gei1 jan5} /dépendance au jeu vidéo/
+打機發燒友 打机发烧友 [da3 ji1 fa1 shao1 you3] {daa2 gei1 faat3 siu1 jau2} /fan de jeux vidéo; passionné de jeux vidéo; mordu des jeux vidéo/
+????f 打爛咗 打烂咗 [da3 lan4 zuo5] {daa2 laan6 zo2} /avoir brisé quelque chose en plusieurs morceaux/
+打睡 打睡 [da3 shui4] {daa2 seoi6} /coucher; dormir/
+打自己工 打自己工 [da3 zi4 ji5 gong1] {daa2 zi6 gei2 gung1} /être indépendant; être un travailleur autonome/
+????c 打謝 打谢 [da3 xie4] {daa2 ze6} /to beat up; to kill [colloquial]/
+????c 打貓 打猫 [da3 mao1] {daa2 maau1} /grignoter/
+打返轉頭 打返转头 [da3 fan3 zhuan3 tou2] {daa2 faan1 zyun3 tau4} /faire marche arrière; revenir sur ses pas/
+????c 打通晒 打通晒 [da3 tong1 shai4] {daa2 tung1 saai3} /to facilitate something by bribery [colloquial]/
+打通關係 打通关系 [da3 tong1 guan1 xi5] {daa2 tung1 gwaan1 hai6} /soudoyer les fonctionnaires/
+打鑊堅 打镬坚 [da3 huo4 jian1] {daa2 wok6 gin1} /(fam.) (fig.) tabasser; rouer de coups; réduire en bouillie/
+????f 打鑼都搵唔倒 打锣都揾唔倒 [da3 luo2 dou1 wen3 wu2 dao4] {daa2 lo2 dou1 wan2 m4 dou2} /(expr. idiom.) ne pas réussir à trouver quelqu'un même après avoir consacré bien des efforts/(lit.) ne pas réussir à trouver même en frappant le gong/
+打開本書 打开本书 [da3 kai1ben3 shu1] {daa2 hoi1 bun2 syu1} /ouvrir un livre/
+打雀 打雀 [da3 que4] {daa2 zoek2} /jouer au mah-jong (voir aussi 打麻雀|打麻雀)/
+打雀咁眼 打雀咁眼 [da3 que4 gan1 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) fixer; garder le regard sur quelqu'un ou quelque chose (d'une manière grossière)/
+????f 打雀噉眼 打雀噉眼 [da3 que4 dan4 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) fixer; garder le regard sur quelqu'un ou quelque chose (d'une manière grossière)/
+打魚蛋 打鱼蛋 [da3 yu2 dan4] {daa2 jyu4 daan2} /(fam.) (fig.) peloter les seins d'une femme/(lit.) frapper les œufs de poisson/
+打鳩 打鸠 [da3 jiu1] {daa2 gau1} /(vulg.) (fig.) tabasser; rouer de coups; réduire en bouillie/
+
