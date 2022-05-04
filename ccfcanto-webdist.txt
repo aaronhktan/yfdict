@@ -9020,7 +9020,7 @@
 拖肥 拖肥 [tuo1 fei2] {to1 fei2} /caramel mou/(orig.) de l'anglais « toffee » (« caramel mou »)/
 拖肥糖 拖肥糖 [tuo1 fei2 tang2] {to1 fei4 tong4} /caramel mou/(orig.) de l'anglais « toffee » (« caramel mou »)/
 ????f 拖艔 拖艔 [tuo1 dou2] {to1 dou2} /bateau passager toué par un autre navire/
-????f 拖落水 拖落水 [tuo1 luo4 shui3] {to1 lok6 seoi2} /(expr. idiom.) entraîner quelqu'un dans quelque chose/(lit.) traîner sous l'eau/
+????f 拖落水 拖落水 [tuo1 luo4 shui3] {to1 lok6 seoi2} /(expr. idiom.) entraîner quelqu'un dans quelque chose (connotation d'activité illicite ou risqué)/(lit.) traîner sous l'eau/
 拖蘇 拖苏 [tuo1 su1] {to1 sou1} /multiprise; prise multiple/
 拖頭 拖头 [tuo1 tou2] {to1 tau2} /camion; semi-remorque; poids lourd/
 拖頭佬 拖头佬 [tuo1 tou2 lao3] {to1 tau4 lou2} /chauffeur de camion; camionneur/
@@ -24000,4 +24000,27 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 扮老醒 扮老醒 [ban4 lao3 xing3] {baan6 lou5 sing2} /to act as if one is so smart and knows it all [colloquial]/
 扮蠢 扮蠢 [ban4 chun3] {baan6 ceon2} /jouer au con; faire semblant d'être stupide et de ne pas savoir quelque chose/
 ????c 扮豪 扮豪 [ban4 hao2] {baan6 hou4} /faire semblant d'être riche/
+????f 扯ｌｉｎ旗 扯ｌｉｎ旗 [che3ｌｉｎ qi2] {ce2 lin4 kei4} /(fam.) to have one's nipple get stiff [colloquial]/
+????f 扯唔埋攔 扯唔埋拦 [che3 wu2 mai2 lan2] {ce2 m4 maai4 laan1} /(d'un sujet de conversation) sans aucun rapport/
+扯晒旗 扯晒旗 [che3 shai4 qi2] {ce2 saai3 kei4} /(fam.) bander; avoir une érection du pénis/(lit.) hisser le drapeau/
+扯罷啦 扯罢啦 [che3 ba5 la5] {ce2 baa2 laa1} /(fam.) casse-toi!/
+扯落水 扯落水 [che3 luo4shui3] {ce2 lok6 seoi2} /(expr. idiom.) entraîner quelqu'un dans quelque chose (connotation d'activité illicite ou risqué) (voir aussi 拖落水|拖落水)/(lit.) traîner sous l'eau/
+批㬹 批㬹 [pi1 zheng1] {pai1 zaang1} /donner un coup de coude à/
+批踭 批踭 [pi1 zheng1] {pai1 zaang1} /donner un coup de coude à/
+技人 技人 [ji4 ren2] {gei6 jan4} /(fam.) cycliste/
+????m 抄字典 抄字典 [chao1 zi4 dian3] {caau1 zi6 din2} /fouiller dans le dictionnaire/copier d'un dictionnaire/
+抄字典 抄字典 [chao1 zi4 dian3] {caau3 zi6 din2} /fouiller dans le dictionnaire/copier d'un dictionnaire/
+抄醒 抄醒 [chao1 xing3] {caau3 seng2} /réveiller (quelqu'un)/
+????c 把乜春 把乜春 [ba3 mie1 chun1] {baa2 mat1 ceon1} /what's the point [colloquial]/
+把口瑯過油 把口琅过油 [ba3 kou3 lang2 guo4 you2] {baa2 hau2 long2 gwo3 jau4} /(expr. idiom.) mielleux; sucré; doucereux; faussement aimable/(lit.) avoir la bouche plus lisse que de l'huile/
+把托 把托 [ba3 tuo1] {baa2 tok3} /(d'une action) inutile; qui ne sert à rien/
+把撚 把撚 [ba3 nian3] {baa2 lan2} /(vulg.) (d'une action) inutile; qui ne sert à rien/
+把春 把春 [ba3 chun1] {baa2 ceon1} /(d'une action) inutile; qui ne sert à rien/
+把鬼火 把鬼火 [ba3 gui3 huo3] {baa2 gwai2 fo2} /(fam.) fou furieux; fou de rage; enragé/
+????f 抖木 抖木 [dou3 mu4] {dau2 muk6} /faire de la menuiserie/(fam.) (fig.) mal conduire (sur la route)/
+抖木佬 抖木佬 [dou3 mu4 lao3] {dau2 muk6 lou2} /(fam.) (fig.) chauffard/(lit.) gars qui fait de la menuiserie/
+????m 抬橋 抬桥 [tai2 qiao2] {toi4 kiu4} /to assist a candidate's election activities; to help someone's campaign [colloquial]/
+????m 抵你冇仔生 抵你冇仔生 [di3 ni3 mao3 zi3 sheng1] {dai2 nei5 mou5 zai2 saang1} /(inj.) que tu n'aies pas d'enfants et que tu le mériteras!/
+????c 抵你生仔冇屎忽 抵你生仔冇屎忽 [di3 ni3 sheng1 zi3 mao3 shi3 hu1] {dai2 nei5 saang1 zai2 mou5 si2 fat1} /(inj.) que tes enfants n'aient pas de fesses!/
+????f 抹乾淨 抹干净 [mo3 gan1 jing4] {maat3 gon1 zeng6} /essuyer (jusqu'à ce que la surface soit propre)/
 
