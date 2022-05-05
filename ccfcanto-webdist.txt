@@ -12351,7 +12351,7 @@
 淒慘 淒惨 [qi1 can3] {cai1 caam2} /misérable; tragique; triste/
 淒涼 凄凉 [qi1 liang2] {cai1 loeng4} /misérable; triste/
 淒清 凄清 [qi1 qing1] {cai1 cing1} /misérable; triste/
-????f 淘古井 淘古井 [tao2 gu3 jing3] {tou4 gu2 zeng2} /(fam.) (fig.) sortir avec ou se marier avec une vieille veuve/(lit.) draguer un vieux puits/
+????f 淘古井 淘古井 [tao2 gu3 jing3] {tou4 gu2 zeng2} /(fam.) (fig.) sortir avec ou se marier avec une vieille veuve pour son argent/(lit.) draguer un vieux puits/
 淚眼 泪眼 [lei4 yan3] {leoi6 ngaan5} /yeux larmoyants; yeux lacrymaux/
 ????f 淝低 淝低 [fei2 di1] {fe4 dai1} /tirer (une arme à feu)/abattre (avec une arme à feu)/
 ????f 淡出 淡出 [dan4 chu1] {daam6 ceot1} /s'estomper (de nos mémoires)/(cinéma) fondu de fermeture; fondu vers le noir/se retirer de la politique/arrêter le cinéma/
@@ -24076,4 +24076,34 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 掂當 掂当 [dian1 dang1] {dim6 dong3} /approprié; convenable/adéquat/
 掂檔 掂档 [dian1 dang4] {dim6 dong3} /approprié; convenable/adéquat/
 掃乾淨 扫干净 [sao3 gan1 jing4] {sou3 gon1 zeng6} /épousseter/balayer; passer le balai/(fig.) tout manger (voir aussi 一乾二凈|一干二干)/
+????f 掃場 扫场 [sao3 chang3] {sou3 coeng4} /to raid and disrupt a business venue, club, shop etc by force [colloquial]/
+掃把頭 扫把头 [sao4 ba3 tou2] {sou3 baa2 tau4} /tête de balai/(fig.) (fam.) personne avec les cheveux en bataille/(fig.) (fam.) personne avec une coupe de cheveux qui ressemble à un balai/
+????c 掃硬 扫硬 [sao3 ying4] {sou3 ngaang6} /to totally wipe out or eliminate [colloquial]/
+????f 掏古井 掏古井 [tao1 gu3 jing3] {tou4 gu2 zeng2} /(fam.) (fig.) sortir avec ou se marier avec une vieille veuve pour son argent/(lit.) draguer un vieux puits/
+掗住個位 挜住个位 [ya4 zhu4 ge4 wei4] {ngaa6 zyu6 go3 wai2} /garder une place (pour quelqu'un)/occuper de l'espace/
+????f 掘草皮 掘草皮 [jue2 cao3 pi2] {gwat6 cou2 pei4} /gagner de l'argent en pariant sur des courses hippiques/
+????c 掛單和尚 挂单和尚 [gua4 dan1 he2 shang5] {gwaa3 daan1 wo4 soeng2} /to go to someone else house just to get a meal [colloquial]/
+????m 掟包糯米雞 掟包糯米鸡 [zheng3 bao1 nuo4 mi3 ji1] {deng3 baau1 no6 mai5 gai1} /to offload one's troubles to someone else [colloquial]/
+掠低 掠低 [lu:e4 di1] {loek1 dai1} /(argot des triades) tuer/
+????f 掠水王 掠水王 [lu:e4 shui3 wang2] {loek1 seoi2 wong4} /(fig.) personne qui a fait de l'argent frauduleusement ou de manière amorale/
+????f 掠錢 掠钱 [lu:e4 qian2] {loek1 cin2} /vendre à un prix très élevé; vendre à un prix déraisonnable/
+????c 接痕 接痕 [jie1 hen2] {zip3 han4} /crease marks [colloquial]/
+????c 推人 推人 [tui1 ren2] {teoi1 jan4} /to push someone [written and colloquial]/
+????f 推牆 推墙 [tui1 qiang2] {teoi1 coeng4} /literally: to push a wall; to have sex up against a wall [colloquial]/
+推骰 推骰 [tui1 tou2] {teoi1 sik1} /(nom d'un jeu de dé)/
+掹炮 掹炮 [meng1 pao4] {mang1 paau3} /(fam.) sortir une arme/
+掹牙 掹牙 [meng1 ya2] {mang1 ngaa4} /(fam.) se faire arracher une dent/
+掹車邊 掹车边 [meng1 che1 bian1] {maang1 ce1 bin1} /(expr. idiom.) suivre quelqu'un et en tirer profit; bénéficier d'une autre personne/(expr. idiom.) réussir à peine (à faire quelque chose); réussir de justesse/(lit.) obtenir un voyage gratuit en s'accrochant au bord de l'autobus/
+𢯎痕 𢯎痕 [yao2 hen2] {aau1 han4} /gratter (pour faire cesser une démangeaison)/
+揀卒 拣卒 [jian3 zu2] {gaan2 zeot1} /choisir la bonne personne (pour faire quelque chose)/
+揀蜶 拣蜶 [jian3 suo4] {gaan2 zeot1} /choisir la bonne personne (pour faire quelque chose)/
+插圖作者 插图作者 [cha1 tu2 zuo4 zhe3] {caap3 tou4 zok3 ze2} /illustrateur, illustratrice/
+????f 插眼 插眼 [cha1 yan3] {caap3 ngaan5} /piquer quelqu'un dans l'œil/
+????c 插血為盟 插血为盟 [cha1 xue4 wei2 meng2] {caap3 hyut3 wai4 mang4} /to prick one's finger for blood to use in a ceremony to make an oath [colloquial]/
+插針都唔入 插针都唔入 [cha1 zhen1 dou1 wu2 ru4] {caap3 zam1 dou1 m4 jap6} /(expr. idiom.) (d'un lieu) bondé; plein à craquer/(lit.) on ne peut même pas insérer une aiguille/
+????f 揞住良心 揞住良心 [an3 zhu4 liang2 xin1] {ngam2 zyu6 loeng4 sam1} /(expr. idiom.) agir contre sa conscience/(lit.) couvrir sa consicence/
+揦鮓手段 揦鲊手段 [la2 zha3 shou3 duan4] {laa5 zaa2 sau2 dyun6} /(fam.) sales tours; sales coups/
+揩嘢 揩嘢 [kai1 ye3] {haai1 je5} /(fam.) prendre de la drogue; planer; se défoncer/(fam.) s'attirer de gros ennuis/
+揩粉 揩粉 [kai1 fen3] {haai1 fan2} /(fam.) (fig.) prendre de l'héroïne/(orig.) de l'anglais « get high » (« planer, défoncer »), d'où 揩粉|揩粉 haai1 fan2 « poudre pour planer »/
+揩草 揩草 [kai1 cao3] {haai1 cou2} /(fam.) (fig.) fumer du cannabis/(orig.) de l'anglais « get high » (« planer, défoncer »), d'où 揩草|揩草 haai1 cou2 « herbe pour planer »/
 
