@@ -3339,7 +3339,7 @@
 即時 即时 [ji2 shi2] {zik1 si4} /immédiatement/(nouvelles) en direct/
 即晚 即晚 [ji2 wan3] {zik1 maan5} /ce soir/le soir même/
 ????f 即景生情 即景生情 [ji2 jing3 sheng1 qing2] {zik1 ging2 sang1 cing4} /(expr. idiom.) cette scène fait penser aux mémoires du passé/
-即管 即管 [ji2 guan3] {zik1 gun2} /vas-y; n'hésite pas/
+????f 即管 即管 [ji2 guan3] {zik1 gun2} /à sa guise; c'est comme tu veux (et ça ne changera pas le résultat)/(faire quelque chose) puisque l'on a rien à perdre de toute façon/
 即系 即系 [ji2 xi4] {zik1 hai6} /signifier; vouloir dire/c'est-à (-dire)/
 即食麵 即食面 [ji2 shi2 mian4] {zik1 sik6 min6} /nouilles instantanées/
 卵生 卵生 [luan3 sheng1] {leon2 saang1} /oviparité/
@@ -9406,7 +9406,7 @@
 㨘牛王 擤牛王 [xing3 niu2 wang2] {saang2 ngau4 wong4} /réclamer ce qui appartient à quelqu'un d'autre/faire chanter; extorquer/
 𢱑子 𢱑子 [wa1 zi] {waa2 zi2} /jeu des osselets (joué avec de petites pierres)/
 ????c 𢱑石仔 𢱑石仔 [wa1 shi2 zai3] {waa2 sek6 zai2} /jouer aux osselets (avec de petites pierres)/
-𢱕濕 𢱕湿 [da1 shi1] {dap6 sap1} /se faire tremper par la pluie; être mouillé par la pluie/
+????f 𢱕濕 𢱕湿 [da1 shi1] {dap6 sap1} /se faire tremper par la pluie; être mouillé par la pluie/
 𢱕金龜 𢱕金龟 [da1 jin1 gui1] {dap6 gam1 gwai1} /(fam.) demander de l'argent de sa femme/(lit.) frapper la tortue dorée/
 ????f 𢱕骨 𢱕骨 [da1 gu3] {dap6 gwat1} /masser; pétrir les muscles avec les mains/
 搈 搈 [rong2] {ngung2} /pousser/
@@ -24070,7 +24070,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 捉路 捉路 [zhuo1 lu4] {zuk1 lou6} /to see through an opponent's strategy; to guess the opponent's strategy/
 捉墨魚 捉墨鱼 [zhuo1 mo4 yu2] {zuk1 mak6 jyu4} /(fig.) attraper les véhicules dont les émissions polluantes dépassent les limites (voir aussi 墨魚站|墨鱼站)/(lit.) attraper les seiches/
 ????f 捋鬍鬚 捋胡须 [lu:3 hu2 xu1] {lyut3 wu4 sou1} /se caresser la barbe/
-????f 捐山㝫 捐山㝫 [juan1 shan1 long2] {gyun1 saan1 lung1} /passer par un tunnel sous une montagne/nom de jeu d'enfants, semblable à cache-cache/
+????f 捐山㝫 捐山㝫 [juan1 shan1 long2] {gyun1 saan1 lung1} /passer par un tunnel sous une montagne/(nom de jeu d'enfants, semblable à cache-cache)/
 ????c 掂咗 掂咗 [dian1 zuo3] {dim6 zo2} /(d'un problème) résolu; réglé/(d'une tâche ou projet) terminé; fini/
 掂晒 掂晒 [dian1 shai4] {dim6 saai3} /(d'un problème) tout résolu; tout réglé/(d'une tâche ou projet) tout terminé; tout fini/
 掂當 掂当 [dian1 dang1] {dim6 dong3} /approprié; convenable/adéquat/
@@ -24106,4 +24106,46 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 揩嘢 揩嘢 [kai1 ye3] {haai1 je5} /(fam.) prendre de la drogue; planer; se défoncer/(fam.) s'attirer de gros ennuis/
 揩粉 揩粉 [kai1 fen3] {haai1 fan2} /(fam.) (fig.) prendre de l'héroïne/(orig.) de l'anglais « get high » (« planer, défoncer »), d'où 揩粉|揩粉 haai1 fan2 « poudre pour planer »/
 揩草 揩草 [kai1 cao3] {haai1 cou2} /(fam.) (fig.) fumer du cannabis/(orig.) de l'anglais « get high » (« planer, défoncer »), d'où 揩草|揩草 haai1 cou2 « herbe pour planer »/
+揭開本書 揭开本书 [jie1 kai1 ben3 shu1] {kit3 hoi1 bun2 syu1} /ouvrir un livre/
+揮軍 挥军 [hui1 jun1] {fai1 gwan1} /mener une armée/
+????m 揸ｌｉｆｔ人 揸ｌｉｆｔ人 [zha1ｌｉｆｔ ren2] {zaa1ｌｉｆｔ jan4} /liftier/
+揸旗 揸旗 [zha1 qi2] {zaa1 kei4} /(fig.) être responsable de/(lit.) tenir le drapeau/
+????m 揼低 揼低 [beng5 di1] {dap6 dai1} /to knock down [colloquial]/
+????f 揼死 揼死 [beng5 si3] {dap6 sei2} /tuer quelqu'un en laissant tomber quelque chose sur lui/
+????f 揼濕 揼湿 [beng5 shi1] {dap6 sap1} /se faire tremper par la pluie; être mouillé par la pluie/
+揼濕衫 揼湿衫 [beng5 shi1 shan1] {dap6 sap1 saam1} /(fig.) se faire tremper par la pluie; être mouillé par la pluie/(lit.) avoir les vêtements mouillés par la pluie/
+揼濕身 揼濕身 [beng5 chi4 shen1] {dap6 sap1 san1} /(fig.) se faire tremper par la pluie; être mouillé par la pluie/(lit.) avoir les vêtements mouillés par la pluie/
+揼爛 揼烂 [beng5 lan4] {dap6 laan6} /fracasser; briser en plusieurs morceaux/
+????m 揼石仔 揼石仔 [beng5 shi2 zi3] {dap6 sek6 zai2} /jouer au mah-jong/
+揼落地 揼落地 [beng5 luo4 di4] {dam2 lok6 dei6} /jeter par terre/
+????f 揼開 揼开 [beng5 kai1] {dam2 hoi1} /jeter/
+𢱑子 𢱑子 [wa1 zi5] {waa2 zi2} /(nom de jeu d'enfants)/
+𢱕 𢱕 [beng5] {dap6} /frapper/laisser tomber; laisser échapper/se mouiller (voir 𢱕濕|𢱕湿)/
+𢱕爛 𢱕烂 [beng5 lan4] {dap6 laan6} /fracasser; briser en plusieurs morceaux/
+𢱕骨 𢱕骨 [beng5 gu3] {dap6 gwat1} /masser/
+????f 搏紅顏一笑 搏红颜一笑 [bo2 hong2 yan2 yi1 xiao4] {bok3 hung4 ngaan4 jat1 siu3} /(expr. idiom.) rendre une femme heureuse/(lit.) faire sourire une belle femme/
+????m 搞串個ｐａｒｔｙ 搞串个ｐａｒｔｙ [gao3 chuan4 ge4ｐａｒｔｙ] {gaau2 cyun3 go3 paa1 ti4} /(fam.) gâcher la fête; gâcher une soirée/(fam.) causer des ennuis; semer la pagaille/
+搞乜春呀 搞乜春呀 [gao3 mie1 chun1 ya5] {gaau2 mat1 ceon1 aa3} /(fam.) mais que diable fais-tu? mais que diable se passe-t-il?/
+搞乜鬼呀 搞乜鬼呀 [gao3 mie1 gui3 ya5] {gaau2 mat1 gwai2 aa3} /(fam.) mais que diable fais-tu? mais que diable se passe-t-il?/
+????f 搞住 搞住 [gao3 zhu4] {gaau2 zyu6} /déranger quelqu'un sans arrêt/
+搞到一鑊泡 搞到一镬泡 [gao3 dao4 yi1 huo4 pao4] {gaau2 dou3 jat1 wok6 pou5} /(fam.) foutre en l'air; faire échouer quelque chose/(lit.) faire en sorte que l'on a on wok rempli de bulles/
+搞喎 搞㖞 [gao3 wai1] {gaau2 wo5} /gâcher; ruiner; gâter/
+搞妥 搞妥 [gao3 tuo3] {gaau2 to5} /régler; résoudre/
+搞妥晒 搞妥晒 [gao3 tuo3 shai4] {gaau2 to5 saai3} /régler complètement; résoudre complètement/
+????m 搞寸個ｐａｒｔｙ 搞寸个ｐａｒｔｙ [gao3 cun4 ge4ｐａｒｔｙ] {gaau2 cyun3 go3 paa1 ti4} /(fam.) gâcher la fête; gâcher une soirée/(fam.) causer des ennuis; semer la pagaille/
+搞屎搞棍 搞屎搞棍 [gao3 shi3 gao3 gun4] {gaau2 si2 gaau2 gwan3} /(fam.) semer la pagaille; répandre le désordre/(lit.) remuer les crottes, remuer le bâton/
+搞彎 搞弯 [gao3 wan1] {gaau2 waan1} /gâcher; ruiner; gâter/
+搞得有聲有色 搞得有声有色 [gao3 de5 you3 sheng1 you3 se4] {gaau2 dak1 jau5 seng1 jau5 sik1} /(expr. idiom.) faire réussir (une fête, une soirée, un évènement/(lit.) faire en sorte qu'il y ait des sons et des couleurs/
+搞成噉 搞成啖 [gao3 cheng2 dan4] {gaau2 sing4 gam2} /(expr. idiom.) gâcher; ruiner; faire échouer quelque chose; avoir de mauvais résultats/(lit.) avoir un résultat comme ça/
+????f 搞搞震冇幫襯 搞搞震冇帮衬 [gao3 gao3 zhen4 mao3 bang1chen4] {gaau2 gaau2 zan3 mou5 bong1 can3} /entrer dans une boutique et déranger les travailleurs sans rien acheter/(fig.) causer des ennuis; déranger quelqu'un et lui faire perdre son temps/
+????f 搞撚錯 搞撚错 [gao3 nian3 cuo4] {gaau2 lan2 co3} /(vulg.) tu te fous de ma gueule, ou quoi? (you've got to be fucking kidding me!)/
+????f 搞是攪非 搞是搅非 [gao3 shi4 jiao3 fei1] {gaau2 si6 gaau2 fei1} /(expr. idiom.) semer la pagaille; provoquer des disputes entre des personnes/
+????m 搞正 搞正 [gao3 zheng4] {gaau2 zeng3} /régler; résoudre/tuer/
+搭橋舖路 搭桥铺路 [da1 qiao2 pu4 lu4] {daap3 kiu4 pou1 lou6} /(expr. idiom.) ouvrir la voie; préparer le terrain/(lit.) construire des ponts et paver les routes/
+????f 搭爹 搭爹 [da1 die1] {daap3 de1} /to butt in on a conversation; to suddenly join a conversation [colloquial]/
+搭的 搭的 [da1 di1] {daap3 dik1} /prendre le taxi/
+????f 搵來講 揾来讲 [wen3 lai2 jiang3] {wan2 lai4 gong2} /(expr.) trouver des piètres excuses (pour son comportement)/(expr.) trouver quelque chose à dire just pour le dire (note : se dit habituellement des critiques ou des rumeurs peu flatteuses)/
+搵快錢 揾快钱 [wen3 kuai4 qian2] {wan2 faai3 cin2} /(fig.) s'enrichir rapidement (note : connotation d'activités illicites ou malhonnêtes)/(lit.) trouver de l'argent rapide/
+????f 搵日 揾日 [wen3 ri4] {wan2 jat6} /trouver le temps (de faire quelque chose) un jour (note : ce mot n'implique pas que le locuteur veut vraiment fixer une date, mais il s'agit plutôt d'une formule de politesse, semblable à l'anglais « let's get together someday! »)/(lit.) trouver un jour/
+????c 搵條命仔較飛 揾条命仔较飞 [wen3 tiao2 ming4 zi3 jiao4 fei1] {wan2 tiu4 meng6 zai2 gaau3 fei1} /(expr. idiom.) mettre sa vie en danger/
 
