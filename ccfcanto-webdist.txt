@@ -18957,7 +18957,7 @@
 越秀公園站 越秀公园站 [yue4 xiu4 gong1 yuan2 zhan4] {jyut6 sau3 gung1 jyun4 zaam6} /Yuexiu Park Station, station du métro de Canton/
 越秀山 越秀山 [yue4 xiu4 shan1] {jyut6 sau3 saan1} /Yuexiu Hill, colline à Canton/
 越語 越语 [yue4 yu3] {jyut6 jyu5} /(langue) vietnamien/
-????f 越軌 越轨 [yue4 gui3] {jyut6 gwai2} /dérailler/sortir de la ligne/deviate (sexually)/
+越軌 越轨 [yue4 gui3] {jyut6 gwai2} /dérailler/(fig.) aller au-delà du raisonnable; dépasser les bornes; mal se comporter/(fig.) (en particulier) tromper; être infidèle à son partenaire/
 趌腳 趌脚 [ji2 jiao3] {gat6 goek3} /marcher sur la pointe des pieds/
 ????c 趍 趍 [qu1] {ceoi1} /hasten/
 趑車轉 趑车转 [zi1 che1 zhuan3] {zi1 ce1 zyun2} /tourner sur lui-même/
@@ -23266,6 +23266,7 @@
 咁就差唔多 咁就差唔多 [gan1 jiu4 cha1 n2 duo1] {gam2 zau6 caa1 m4 do1} /(expr. idiom.) c'est mieux comme ça/(lit.) ça y est presque/
 咁橋 咁桥 [gan1 qiao2] {gam3 kiu2} /quelle coïncidence!/par hasard; il se trouve que.../
 ????f 咁都得 咁都得 [gan1 dou1 de5] {gam2 dou1 dak1} /(exprime de la désapprobation et de l'étonnement) mais c'est vraiment comme ça? je n'en reviens pas! c'est insupportable! c'est horrible!/
+????f 咁都好講一餐 咁都好讲一餐 [gan1 dou1 hao3 jiang3 yi1 can1] {gam2 dou1 hou2 gong2 jat1 caan1] /(expr.) pas la peine d'en faire tout un fromage!/
 咁鬼 咁鬼 [gan1 gui3] {gam3 gwai2} /(fam.) tellement; si/
 咕𠱸 咕𠱸 [gu1 chen2] {gu1 seon2} /coussin/(orig.) de l'anglais « cushion » (« coussin »)/
 咕順 咕顺 [gu1 shun4] {gu1 seon2} /coussin/(orig.) de l'anglais « cushion » (« coussin »)/
@@ -24173,4 +24174,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 撚頭 撚头 [nian3 tou2] {lan2 tau4} /(vulg.) tête de nœud/
 撞到 撞到 [zhuang4 dao4] {zong6 dou2} /rentrer dans; heurter; cogner/croiser; rencontrer par hasard; tomber sur quelqu'un par hasard/
 ????f 撞到滿天星 撞到满天星 [zhuang4 dao4 man3 tian1 xing1] {zong6 dou3 mun5 tin1 sing1} /(expr. idiom.) se cogner la tête très fort/(lit.) se cogner jusqu'à voir les étoiles couvrir le ciel/
+????f 撞親 撞亲 [zhuang4 qin1] {zong6 can1} /rentrer dans (quelque chose) et se blesser; heurter; se cogner (une partie du corps)/
+????f 撞嚫 撞嚫 [zhuang4 chen4] {zong6 can1} /rentrer dans (quelque chose) et se blesser; heurter; se cogner (une partie du corps)/
+????f 撞死馬咁 撞死马咁 [zhuang4 si3 ma3 gan1] {zong6 sei2 maa5 gam2} /(expr. idiom.) être très pressé/(lit.) avoir heurté un cheval mort/
 
