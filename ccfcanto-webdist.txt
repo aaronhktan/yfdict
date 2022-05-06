@@ -9636,7 +9636,7 @@
 ????f 撞衫 撞衫 [zhuang4 shan1] {zong6 saam1} /porter la même tenue qu'une autre personne, situation gênante/
 撞見 撞见 [zhuang4 jian4] {zong6 gin3} /tomber sur quelqu'un; croiser quelqu'un/
 撞邪 撞邪 [zhuang4 xie2] {zong2 ce4} /possédé (par un esprit maléfique)/(fig.) avoir de la malchance/(fig.) mince! zut!/
-撞闆 撞板 [zhuang4 ban3] {zong6 baan2} /(expr. idiom.) faire une grave erreur/(lit.) frapper la planche/
+撞闆 撞板 [zhuang4 ban3] {zong6 baan2} /(fig.) rencontrer des difficultés/(fig.) échouer; rater; ne pas réussir/(lit.) frapper la planche/
 撞面 撞面 [zhuang4 mian4] {zong6 min6} /tomber sur quelqu'un; croiser quelqu'un/
 ????c 撞頭 撞头 [zhuang4 tou2] {zong6 tau4} /se cogner la tête/
 撞鬼 撞鬼 [zhuang4 gui3] {zong2 gwai2} /possédé (par un esprit maléfique)/(fig.) avoir de la malchance/(fig.) mince! zut!/
@@ -9662,7 +9662,7 @@
 ????f 撫躬自問 抚躬自问 [fu3 gong1 zi4 wen4] {fu2 gung1 zi6 man6} /(expr.) interoger sa conscience; examiner sa conscience/
 撬 撬 [qiao4] {giu6} /chercher à recruter/(chasseur de tête) recruter; persuader quelqu'un à changer d'emploi/
 ????f 撬墻腳 撬墙脚 [qiao4 qiang2 jiao3] {giu6 coeng4 goek3} /(expr. idiom.) piquer son petit ami; piquer sa petite amie/(lit.) voler le grand pied/
-????f 撬牆腳 撬墙脚 [qiao4 qiang2 jiao3] {giu6 coeng4 goek3} /(expr. idiom.) piquer son petit ami; piquer sa petite amie/(lit.) voler le grand pied/
+????f 撬牆腳 撬墙脚 [qiao4 qiang2 jiao3] {giu6 coeng4 goek3} /(expr. idiom.) piquer le petit ami d'autrui; piquer la petite amie d'autrui/(lit.) voler le grand pied/
 ????f 播放 播放 [bo1 fang4] {bo3 fong3} /(d'un dispositif électronique) lire de la musique; jouer de la musique/
 播越 播越 [bo1 yue4] {bo3 jyut6} /être exilé/
 撮寫 撮写 [cuo1 xie3] {cyut3 se2} /abréviation/
@@ -24177,4 +24177,26 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 撞親 撞亲 [zhuang4 qin1] {zong6 can1} /rentrer dans (quelque chose) et se blesser; heurter; se cogner (une partie du corps)/
 ????f 撞嚫 撞嚫 [zhuang4 chen4] {zong6 can1} /rentrer dans (quelque chose) et se blesser; heurter; se cogner (une partie du corps)/
 ????f 撞死馬咁 撞死马咁 [zhuang4 si3 ma3 gan1] {zong6 sei2 maa5 gam2} /(expr. idiom.) être très pressé/(lit.) avoir heurté un cheval mort/
+撞瘀 撞瘀 [zhuang4 yu1] {zong6 jyu2} /se faire un bleu/
+撞闆 撞板 [zhuang4 ban3] {zong6 baan2} /(fig.) rencontrer des difficultés/(fig.) échouer; rater; ne pas réussir/(lit.) frapper la planche/
+撩交嗌 撩交嗌 [liao1 jiao1 ai4] {liu4 gaau1 aai3} /chercher chicane; chercher querelle/
+????f 撩女仔 撩女仔 [liao1 nu:3 zai3] {liu4 neoi5 zai2} /faire la cour; flirter; draguer/se moquer d'une femme; harceler une femme verbalement/
+????f 撬長腳 撬长脚 [qiao4 zhang3 jiao3] {giu6 coeng4 goek3} /(expr. idiom.) piquer le petit ami d'autrui; piquer la petite amie d'autrui/(lit.) voler le grand pied/
+????m 撻出嚟 挞出嚟 [ta4 chu1 li2] {taat1 ceot1 lei4} /to steal something; stolen [colloquial]/
+????c 撻大佬朵 挞大佬朵 [ta4 da4lao3 duo3] {taat1 daai6 lou2 do2} /to invoke the name of one's triad big brother or boss in order to get protection or to make an impression [colloquial]/
+撻車 挞车 [ta4 che1] {taat1 ce1} /démarrer une voiture/
+????f 擒嚟擒去 擒嚟擒去 [qin2 li4 qin2 qu4] {kam4 lei4 kam4 heoi3} /grimper par-ci par-là (se dit souvent des enfants)/
+擒賊 擒贼 [qin2 zei2] {kam4 caak6} /attraper un voleur/
+????m 擔保書 担保书 [dan1 bao3 shu1] {daam1 bou2 syu1} /a letter of gurantee [written and colloquial]/
+????f 擘大對腳 擘大对脚 [bo4 da4 dui4 jiao3] {maak3 daai6 deoi3 goek3} /ouvrir ses jambes/
+????f 擘爛髀 擘烂髀 [bo4 lan4 bi4] {maak3 laan6 bei2} /(fam.) (d'une femme) facile; de mœurs légères/(lit.) qui a ouvert ses jambes jusqu'à ce qu'elles se brisent/
+擝噌 擝噌 [meng5 ceng1] {mang2 zang2} /irrité; énervé; à bout de nerfs/anxieux; nerveux; stressé; inquiet/
+????c 擦一餐 擦一餐 [ca1 yi1 can1] {caat3 jat1 caan1} /to enjoy a satisfying meal; to stuff oneself full; to have a feast of a meal [colloquial]/
+擦鞋狗 擦鞋狗 [ca1 xie2 gou3] {caat3 haai4 gau2} /(fam.) (inj.) lèche-bottes; flatteur/(lit.) chien qui cire les chaussures/
+擦餐勁 擦餐劲 [ca1 can1 jin4] {caat3 caan1 ging6} /(fam.) s'en mettre plein la panse; bien manger; ripailler; faire bonne chère/
+擰走 拧走 [ning2 zou3] {ning1 zau2} /(plat) à emporter/emporter/s'emparer de (quelque chose)/
+擰走 拧走 [ning2 zou3] {ling1 zau2} /(plat) à emporter/emporter/s'emparer de (quelque chose)/
+擳人 擳人 [zhi4 ren2] {zit1 jan4} /chatouiller quelqu'un/
+????f 擸架生 擸架生 [lie4 jia4 sheng1] {laap3 gaa2 caang1} /(fig.) prendre ses outils ou armes/
+????c 擺彩 摆彩 [bai3 cai3] {baai2 coi2} /to compete for reputation [colloquial]/
 
