@@ -9449,11 +9449,11 @@
 搞 搞 [gao3] {gaau2} /embêter; harceler/se créer des ennuis; se créer des problèmes/
 ????f 搞三搞四 搞三搞四 [gao3 san1 gao3 si4] {gaau2 saam1 gaau2 sei3} /(expr. idiom.) faire de mauvaises choses/(expr. idiom.) coucher avec beaucoup de personnes; visiter beaucoup de prosituées/(expr. idiom.) se créer des ennuis/(lit.) mélanger trois et quatre/
 搞乜鬼 搞乜鬼 [gao3 mie1 gui3] {gaau2 mat1 gwai2} /qu'est-ce que tu fais? que faites-vous?/mais qu'est-ce qui se passe ici?/mais qu'est-ce qui te prend?/
-搞亂檔 搞乱档 [gao3 luan4 dang4] {gaau2 lyun6 dong3} /(expr. idiom.) (fam.) semer la zizanie; semer la discorde/(expr. idiom.) (fam.) se créer des ennuis; se créer des problèmes/
-搞事 搞事 [gao3 shi4] {gaau2 si6} /(fam.) semer la zizanie; semer la discorde/(fam.) se créer des ennuis; se créer des problèmes/
+搞亂檔 搞乱档 [gao3 luan4 dang4] {gaau2 lyun6 dong3} /(expr. idiom.) (fam.) semer la pagaille; provoquer le désordre/
+搞事 搞事 [gao3 shi4] {gaau2 si6} /(fam.) causer des ennuis; créer de problèmes/
 搞作 搞作 [gao3 zuo4] {gaau2 zok3} /projet; tâche/spectacle; show/
 ????f 搞出人命 搞出人命 [gao3 chu1 ren2 ming4] {gaau2 ceot1 jan4 meng6} /causer une perte de vie/(fam.) tomber enceinte/
-搞出個大頭佛 搞出个大头佛 [gao3 chu1 ge4 da4 tou2 fo2] {gaau2 ceot1 go3 daai6 tau4 fat6} /(expr. idiom.) avoir des ennuis/
+搞出個大頭佛 搞出个大头佛 [gao3 chu1 ge4 da4 tou2 fo2] {gaau2 ceot1 go3 daai6 tau4 fat6} /(expr. idiom.) causer des ennuis; créer de problèmes/(expr. idiom.) avoir des ennuis/(lit.) finir par créer une grande tête de Bouddha/
 搞到 搞到 [gao3 dao4] {gaau2 dou3} /finir par; avoir pour conséquence de; avoir pour résultat/
 搞唔掂 搞唔掂 [gao3 n2 dian1] {gaau2 m4 dim6} /qui ne peut pas être accompli/qui n'est pas possible; impossible; infaisable/ne pas pouvoir faire quelque chose/
 搞𠶧 搞𠶧 [gao3 dian1] {gaau2 dim6} /c'est fait! mission accomplie!/
@@ -9464,7 +9464,7 @@
 搞掂 搞掂 [gao3 dian4] {gaau2 dim6} /c'est fait! c'est fini! c'est réglé!/(fig.) tuer quelqu'un, assassiner quelqu'un/
 ????f 搞搞震 搞搞震 [gao3 gao3 zhen4] {gaau2 gaau2 zan3} /jouer; s'amuser; s'ébattre/faire des espiègleries; semer la discorde/
 搞笑 搞笑 [gao3 xiao4] {gaau2 siu3} /plaisanter/
-搞邊科 搞边科 [gao3 bian1 ke1] {gaau2 bin1 fo1} /mais qu'est-ce que tu fais? (exprime la surprise)/mais qu'est-ce qui se passe?/
+搞邊科 搞边科 [gao3 bian1 ke1] {gaau2 bin1 fo1} /mais qu'est-ce que tu fais? (exprime la surprise)/
 搞錯 搞错 [gao3 cuo4] {gaau2 co3} /quoi! comment! ridicule! (expression de désapprobation, indignation, surprise)/commettre une erreur; faire une faute/
 搞風搞雨 搞风搞雨 [gao3 feng1 gao3 yu3] {gaau2 fung1 gaau2 jyu5} /(expr. idiom.) se créer des ennuis; se créer des problèmes/(lit.) se mêler du vent et de la pluie/
 搞鬼 搞鬼 [gao3 gui3] {gaau2 gwai2} /jouer des tours/
@@ -18820,7 +18820,7 @@
 賽果 赛果 [sai4 guo3] {coi3 gwo2} /résultat de jeu; résultat du match/
 贈券 赠券 [zeng4 quan4] {zang6 hyun3} /bon cadeau; chèque-cadeau/
 ????c 贈慶 赠慶 [zeng4 qiang1] {zang6 hing3} /to participate in the fun of a celebrated event/
-????m 贈興 赠兴 [zeng4 xing1] {zang6 hing3} /fêter (quelque chose) avec quelqu'un/se moquer de quelqu'un; gâcher sa joie/
+????m 贈興 赠兴 [zeng4 xing1] {zang6 hing3} /fêter (quelque chose) avec quelqu'un/se moquer de quelqu'un; gâcher sa joie (voir aussi 攞景定贈興|攞景定赠兴)/
 ????f 贈言 赠言 [zeng4 yan2] {zang6 jin4} /derniers conseils (parting advice)/
 ????f 贈閱 赠阅 [zeng4 yue4] {zang6 jyut6} /(maison d'édition) donner un livre ou un exemplaire de magazine gratuit/
 贊同 赞同 [zan4 tong2] {zaan3 tung4} /approuver/se mettre d'accord/
@@ -23725,7 +23725,7 @@
 屌你娘親 屌你娘亲 [diao3 ni3 niang2 qin1] {diu2 nei5 noeng4 can1} /(vulg.) nique ta mère/
 ????f 屌你老尾冚家剷 屌你老尾冚家铲 [diao3 ni3 lao3 wei3 ka4 jia1 chan3] {diu2 nei5 lou5 mei5 ham6 gaa1 caan2} /(très vulg.) nique ta mère, connard!/
 ????f 屌你老母個仆街仔 屌你老母个仆街仔 [diao3 ni3 lao3 mu3 ge4 pu1 jie1 zi3] {diu2 nei5 lou5 mou2 go3 puk1 gaai1 zai2} /(très vulg.) nique ta mère, connard!/
-????f 屌你老母個仆街冚家鏟 屌你老母个仆街冚家铲 [diao3 ni3 lao3 mu3 ge4 pu1jie1 ka4 jia1 chan3] {diu2 nei5 lou5 mou2 go3 puk1 gaai1 ham6 gaa1 caan2} /(très vulg.) nique ta mère, putain de connard!/
+????f 屌你老母個仆街冚家鏟 屌你老母个仆街冚家铲 [diao3 ni3 lao3 mu3 ge4 pu1 jie1 ka4 jia1 chan3] {diu2 nei5 lou5 mou2 go3 puk1 gaai1 ham6 gaa1 caan2} /(très vulg.) nique ta mère, putain de connard!/
 ????f 屌你老母撚鳩閪柒未撚屌過呀 屌你老母撚鸠閪柒未撚屌过呀 [diao3 ni3 lao3 mu3 nian3 jiu1 se1 qi1 wei4 nian3 diao3 guo4 ya5] {diu2 nei5 lou5 mou2 lan2 gau1 hai1 cat6 mei6 lan2 diu2 gwo3 aa3} /(très vulg.) nique ta putain de mère!/(lit.) nique ta mère qui ne s'est jamais faite niquer/
 ????f 屌你老母爛花閪 屌你老母烂花閪 [diao3 ni3 lao3 mu3 lan4 hua1 se1] {diu2 nei5 lou5 mou2 laan6 faa1 hai1} /(très vulg.) nique ta sale putain de mère!/(lit.) nique le vagin qui empeste de ta mère/
 ????f 屌你老母臭閪 屌你老母臭閪 [diao3 ni3 lao3 mu3 chou4 se1] {diu2 nei5 lou5 mou2 cau3 hai1} /(très vulg.) nique ta sale putain de mère!/(lit.) nique le vagin qui empeste de ta mère/
@@ -24131,8 +24131,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 搞住 搞住 [gao3 zhu4] {gaau2 zyu6} /déranger quelqu'un sans arrêt/
 搞到一鑊泡 搞到一镬泡 [gao3 dao4 yi1 huo4 pao4] {gaau2 dou3 jat1 wok6 pou5} /(fam.) foutre en l'air; faire échouer quelque chose/(lit.) faire en sorte que l'on a on wok rempli de bulles/
 搞喎 搞㖞 [gao3 wai1] {gaau2 wo5} /gâcher; ruiner; gâter/
-搞妥 搞妥 [gao3 tuo3] {gaau2 to5} /régler; résoudre/
-搞妥晒 搞妥晒 [gao3 tuo3 shai4] {gaau2 to5 saai3} /régler complètement; résoudre complètement/
+搞妥 搞妥 [gao3 tuo3] {gaau2 to5} /régler; résoudre; arranger/
+搞妥晒 搞妥晒 [gao3 tuo3 shai4] {gaau2 to5 saai3} /régler complètement; résoudre complètement; tout arranger/
 ????m 搞寸個ｐａｒｔｙ 搞寸个ｐａｒｔｙ [gao3 cun4 ge4ｐａｒｔｙ] {gaau2 cyun3 go3 paa1 ti4} /(fam.) gâcher la fête; gâcher une soirée/(fam.) causer des ennuis; semer la pagaille/
 搞屎搞棍 搞屎搞棍 [gao3 shi3 gao3 gun4] {gaau2 si2 gaau2 gwan3} /(fam.) semer la pagaille; répandre le désordre/(lit.) remuer les crottes, remuer le bâton/
 搞彎 搞弯 [gao3 wan1] {gaau2 waan1} /gâcher; ruiner; gâter/
@@ -24140,8 +24140,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 搞成噉 搞成啖 [gao3 cheng2 dan4] {gaau2 sing4 gam2} /(expr. idiom.) gâcher; ruiner; faire échouer quelque chose; avoir de mauvais résultats/(lit.) avoir un résultat comme ça/
 ????f 搞搞震冇幫襯 搞搞震冇帮衬 [gao3 gao3 zhen4 mao3 bang1chen4] {gaau2 gaau2 zan3 mou5 bong1 can3} /entrer dans une boutique et déranger les travailleurs sans rien acheter/(fig.) causer des ennuis; déranger quelqu'un et lui faire perdre son temps/
 ????f 搞撚錯 搞撚错 [gao3 nian3 cuo4] {gaau2 lan2 co3} /(vulg.) tu te fous de ma gueule, ou quoi? (you've got to be fucking kidding me!)/
-????f 搞是攪非 搞是搅非 [gao3 shi4 jiao3 fei1] {gaau2 si6 gaau2 fei1} /(expr. idiom.) semer la pagaille; provoquer des disputes entre des personnes/
-????m 搞正 搞正 [gao3 zheng4] {gaau2 zeng3} /régler; résoudre/tuer/
+????f 搞是攪非 搞是搅非 [gao3 shi4 jiao3 fei1] {gaau2 si6 gaau2 fei1} /(expr. idiom.) semer la zizanie; provoquer des disputes entre des personnes/
+????m 搞正 搞正 [gao3 zheng4] {gaau2 zeng3} /régler; résoudre; arranger/tuer/
 搭橋舖路 搭桥铺路 [da1 qiao2 pu4 lu4] {daap3 kiu4 pou1 lou6} /(expr. idiom.) ouvrir la voie; préparer le terrain/(lit.) construire des ponts et paver les routes/
 ????f 搭爹 搭爹 [da1 die1] {daap3 de1} /to butt in on a conversation; to suddenly join a conversation [colloquial]/
 搭的 搭的 [da1 di1] {daap3 dik1} /prendre le taxi/
@@ -24167,7 +24167,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 撈起啦 捞起啦 [lao1 qi3 la5] {lou1 hei2 laa1} /(fam.) (fig.) s'enrichir; devenir riche; prospérer/(lit.) retirer de l'eau/
 ????f 撈起啦你 捞起啦你 [lao1 qi3 la5 ni3] {lou1 hei2 laa1 nei5} /(fam.) (fig.) tu as vraiment réussi! (se dit surtout en parlant de sa situation financière)/
 ????f 撈邊瓣 捞边瓣 [lao1 bian1 ban4] {laau4 bin1 faan6} /(fam.) que faites-vous dans la vie?/
-????f 撐到恆 撑到恒 [cheng1 dao4 heng2] {caang3 dou3 hang4} /(d'une personne) tenir bon; ne pas céder/
+????f 撐到恆 撑到恒 [cheng1 dao4 heng2] {caang3 dou3 hang4} /(d'une personne) tenir bon; ne pas céder; supporter quelque chose de long et pénible/
 ????f 撐行 撑行 [cheng1 xing2] {caang3 hang4} /(d'une personne) tenir bon; ne pas céder/
 ????f 撚蛋 撚蛋 [nian3 dan4] {lan2 daan2} /(vulg.) fucking bastard [colloquial] (tabarnak d'ostie de con? putain de con?)/
 撚開 撚开 [nian3 kai1] {lan2 hoi1} /(vulg.) va te faire foutre!/
@@ -24199,4 +24199,37 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 擳人 擳人 [zhi4 ren2] {zit1 jan4} /chatouiller quelqu'un/
 ????f 擸架生 擸架生 [lie4 jia4 sheng1] {laap3 gaa2 caang1} /(fig.) prendre ses outils ou armes/
 ????c 擺彩 摆彩 [bai3 cai3] {baai2 coi2} /to compete for reputation [colloquial]/
+????m 擺老門 摆老门 [bai3 lao3 men2] {baai2 lou5 mun4} /to set up a trap to trick someone [colloquial]/
+????f 擺薄落 摆薄落 [bai3 bo2 luo4] {baai2 bok6 lok1} /to set a road block; to set up a speed trap [colloquial]/
+????f 擺街邊 摆街边 [bai3 jie1 bian1] {baai2 gaai1 bin1} /(d'un vendeur à la sauvette) vendre ses produits au bord de la route/
+????c 擺門 摆门 [bai3 men2] {baai2 mun4} /to set up a trap to trick someone [colloquial]/
+????f 擺陣 摆阵 [bai3 zhen4] {baai2 zan6} /se mettre en formation de combat/(fig.) préparer un lieu pour un évènement en plaçant des objets dans un agencement particulier/
+????c 攝人魅力 摄人魅力 [she4 ren2 mei4 li4] {sip3 jan4 mei6 lik6} /breathtaking charm [written and colloquial]/
+????m 攝石人 摄石人 [she4 shi2 ren2] {sip3 sek6 jan4} /someone who tries to hog the limelight [colloquial]/
+攝高枕頭 摄高枕头 [she4 gao1 zhen3 tou5] {sip3 gou1 zam2 tau4} /(expr. idiom.) réfléchir soigneusement; réfléchir longuement/(lit.) insérer quelque chose sous l'oreiller pour le soulever/
+????m 攞位 攞位 [luo2 wei4] {lo1 wai6} /to position one's camera to take a photograph at a certain angle; to take the place / seat [colloquial]/
+????m 攞去填海 攞去填海 [luo2 qu4 tian2 hai3] {lo2 heoi3 tin4 hoi2} /(expr. idiom.) faire quelque chose qui ne sert à rien/
+????f 攞晒彩 攞晒彩 [luo2 shai4 cai3] {lo2 saai3 coi2} /gagner toute la gloire/
+????f 攞景定贈興 攞景定赠兴 [luo1 jing3 ding4 zeng4 xing1] {lo2 ging2 ding6 zang6 hing3} /(expr. idiom.) tu te moques de moi? t'as vraiment pas besoin de remuer le couteau dans la plaie, hein.../(lit.) tu prends le paysage (=tu me félicites) ou tu fêtes (=tu es sarcastique)?/
+????f 攞曬彩 攞晒彩 [luo2 shai4 cai3] {lo2 saai3 coi2} /gagner toute la gloire/
+????f 攞著數 攞着数 [luo2 zhao1 shu4] {lo2 zoek6 sou3} /profiter (d'une situation)/
+攞鏡 攞镜 [luo2 jing4] {lo2 geng3} /prendre des photos/
+????m 攪串個ｐａｒｔｙ 搅串个ｐａｒｔｙ [jiao3 chuan4 ge4ｐａｒｔｙ] {gaau2 cyun3 go3 paa1 ti4} /(fam.) gâcher la fête; gâcher une soirée/(fam.) causer des ennuis; semer la pagaille/
+攪乜春呀 搅乜春呀 [jiao3 mie1 chun1 ya5] {gaau2 mat1 ceon1 aa3} /(fam.) mais que diable fais-tu? mais que diable se passe-t-il?/
+攪乜鬼呀 搅乜鬼呀 [jiao3 mie1 gui3 ya5] {gaau2 mat1 gwai2 aa3} /(fam.) mais que diable fais-tu? mais que diable se passe-t-il?/
+攪亂檔 搅乱档 [jiao3 luan4 dang4] {gaau2 lyun6 dong3} /(expr. idiom.) (fam.) semer la pagaille; provoquer le désordre/
+攪出個大頭佛 搅出个大头佛 [jiao3 chu1 ge4 da4 tou2 fo2] {gaau2 ceot1 go3 daai6 tau4 fat6} /(expr. idiom.) causer des ennuis; créer de problèmes/(expr. idiom.) avoir des ennuis/(lit.) finir par créer une grande tête de Bouddha/
+攪到一鑊泡 搅到一镬泡 [jiao3 dao4 yi1 huo4 pao4] {gaau2 dou3 jat1 wok6 pou5} /(fam.) foutre en l'air; faire échouer quelque chose/(lit.) faire en sorte que l'on a on wok rempli de bulles/
+攪喎 搅㖞 [jiao3 wai1] {gaau2 wo5} /gâcher; ruiner; gâter/
+攪妥 搅妥 [jiao3 tuo3] {gaau2 to5} /régler; résoudre; arranger/
+攪妥晒 搅妥晒 [jiao3 tuo3 shai4] {gaau2 to5 saai3} /régler complètement; résoudre complètement; tout arranger/
+????m 攪寸個ｐａｒｔｙ 搅寸个ｐａｒｔｙ [jiao3 cun4 ge4ｐａｒｔｙ] {gaau2 cyun3 go3 paa1 ti4} /(fam.) gâcher la fête; gâcher une soirée/(fam.) causer des ennuis; semer la pagaille/
+攪屎攪棍 搅屎搅棍 [jiao3 shi3 jiao3 gun4] {gaau2 si2 gaau2 gwan3} /(fam.) semer la pagaille; répandre le désordre/(lit.) remuer les crottes, remuer le bâton/
+攪彎 搅弯 [jiao3 wan1] {gaau2 waan1} /gâcher; ruiner; gâter/
+攪得有聲有色 搅得有声有色 [jiao3 de5 you3 sheng1 you3 se4] {gaau2 dak1 jau5 seng1 jau5 sik1} /(expr. idiom.) faire réussir (une fête, une soirée, un évènement/(lit.) faire en sorte qu'il y ait des sons et des couleurs/
+????f 攪撚錯 搅撚错 [jiao3 nian3 cuo4] {gaau2 lan2 co3} /(vulg.) tu te fous de ma gueule, ou quoi? (you've got to be fucking kidding me!)/
+????f 攪攪震冇幫襯 搅搅震冇帮衬 [jiao3 jiao3 zhen4 mao3 bang1chen4] {gaau2 gaau2 zan3 mou5 bong1 can3} /entrer dans une boutique et déranger les travailleurs sans rien acheter/(fig.) causer des ennuis; déranger quelqu'un et lui faire perdre son temps/
+????m 攪正 搅正 [jiao3 zheng4] {gaau2 zeng3} /régler; résoudre; arranger/tuer/
+攪邊科 搅边科 [jiao3 bian1 ke1] {gaau2 bin1 fo1} /mais qu'est-ce que tu fais? (exprime la surprise)/
+????m 攬住死 揽住死 [lan3 zhu4 si3] {laam2 zyu6 sei2} /to get into trouble together [colloquial]/
 
