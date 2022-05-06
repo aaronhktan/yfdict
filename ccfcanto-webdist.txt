@@ -158,7 +158,7 @@
 一把火 一把火 [yi1 ba3 huo3] {jat1 baa2 fo2} /(fig.) être en colère/(lit.) une torche/
 一拍行 一拍行 [yi1 pai1 xing2] {jat1 paak3 haang4} /deux personnes qui se promènent côte à côte/
 ????f 一招半式 一招半式 [yi1 zhao1 ban4 shi4] {jat1 ziu1 bun3 sik1} /(fig.) quelqu'un qui connaît un peu de quelque chose/(lit.) qui connait une moitié d'un art martial/
-????c 一撇嘢 一撇嘢 [yi1 pie3 ye3] {jat1 pit3 je5} /(fam.) mille dollars (voir aussi 一撇水|一撇水)/(fig.) une partie de quelque chose/(fig.) quelque chose qui se passe en ce moment/(lit.) un trait de quelque chose/
+一撇嘢 一撇嘢 [yi1 pie3 ye3] {jat1 pit3 je5} /(fam.) mille dollars (voir aussi 一撇水|一撇水)/(lit.) un trait de quelque chose/
 一撇水 一撇水 [yi1 pie3 shui3] {jat1 pit3 seoi2} /(fig.) mille dollars/(lit.) un trait d'eau/
 一擔擔 一担担 [yi1 dan1 dan4] {jat1 daam3 daam1} /similaire/identique/bonnet blanc, blanc bonnet/
 一支公 一支公 [yi1 zhi1 gong1] {jat1 zi1 gung1} /un homme solitaire/
@@ -18820,7 +18820,7 @@
 賽果 赛果 [sai4 guo3] {coi3 gwo2} /résultat de jeu; résultat du match/
 贈券 赠券 [zeng4 quan4] {zang6 hyun3} /bon cadeau; chèque-cadeau/
 ????c 贈慶 赠慶 [zeng4 qiang1] {zang6 hing3} /to participate in the fun of a celebrated event/
-????c 贈興 赠兴 [zeng4 xing1] {zang6 hing3} /to congratulate someone; to celebrate with someone8/
+????m 贈興 赠兴 [zeng4 xing1] {zang6 hing3} /fêter (quelque chose) avec quelqu'un/se moquer de quelqu'un; gâcher sa joie/
 ????f 贈言 赠言 [zeng4 yan2] {zang6 jin4} /derniers conseils (parting advice)/
 ????f 贈閱 赠阅 [zeng4 yue4] {zang6 jyut6} /(maison d'édition) donner un livre ou un exemplaire de magazine gratuit/
 贊同 赞同 [zan4 tong2] {zaan3 tung4} /approuver/se mettre d'accord/
@@ -24148,4 +24148,29 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 搵快錢 揾快钱 [wen3 kuai4 qian2] {wan2 faai3 cin2} /(fig.) s'enrichir rapidement (note : connotation d'activités illicites ou malhonnêtes)/(lit.) trouver de l'argent rapide/
 ????f 搵日 揾日 [wen3 ri4] {wan2 jat6} /trouver le temps (de faire quelque chose) un jour (note : ce mot n'implique pas que le locuteur veut vraiment fixer une date, mais il s'agit plutôt d'une formule de politesse, semblable à l'anglais « let's get together someday! »)/(lit.) trouver un jour/
 ????c 搵條命仔較飛 揾条命仔较飞 [wen3 tiao2 ming4 zi3 jiao4 fei1] {wan2 tiu4 meng6 zai2 gaau3 fei1} /(expr. idiom.) mettre sa vie en danger/
+搵水 揾水 [wen3 shui3] {wan2 seoi2} /(fig.) gagner sa vie/(lit.) chercher de l'eau/
+????c 搵鬼幫手 揾鬼帮手 [wen3 gui3 bang1 shou5] {wan2 gwai2 bong1 sau2} /(expr. idiom.) ne pas réussir à trouver quelqu'un qui peut aider/(lit.) ne trouver que des fantômes pour aider/
+????c 搵鬼幫襯 揾鬼帮衬 [wen3 gui3 bang1 chen4] {wan2 gwai2 bong1 can3} /(expr. idiom.) (d'une boutique) ne pas avoir assez de clients/(lit.) n'avoir que des fantômes comme clients/
+????c 搵鬼買 揾鬼买 [wen3 gui3 mai3] {wan2 gwai2 maai5} /(expr. idiom.) (d'une boutique) ne pas avoir assez de clients/(lit.) n'avoir que des fantômes qui achètent/
+????c 搶走票源 抢走票源 [qiang3 zou3 piao4 yuan2] {coeng2 zau2 piu3 jyun4} /attirer la base électorale de quelqu'un d'autre/
+????c 摩頂 摩顶 [mo2 ding3] {mo1 deng2} /to have a haircut; to hold onto one's shares until they reach their highest expected value [colloquial]/
+摵甩 摵甩 [she4 shuai3] {mit1 lat1} /décoller; enlever/peler/
+????m 摸蜆 摸蚬 [mo1 xian3] {mo2 hin2} /to grope a woman's genitals [colloquial]/
+撇嘢 撇嘢 [pie1 ye3] {pit3 je5} /(fam.) mille dollars/
+撇水 撇水 [pie1 shui3] {pit3 seoi2} /(fam.) mille dollars/
+????f 㨴起鑊蓋 㨴起镬盖 [jian4 qi3 huo4 gai4] {kin2 hei2 wok6 goi3} /retirer le couvercle du wok/
+㨴開本書 㨴开本书 [jian4 kai1 ben3 shu1] {kin2 hoi1 bun2 syu1} /ouvrir un livre/
+撈亂 捞乱 [lao1 luan4] {lou1 lyun6} /mélanger (de façon désordonnée)/confondre (deux choses)/
+????f 撈偏 捞偏 [lao1 pian1] {lou1 pin1} /gagner sa vie des activités illicites/
+????f 撈唔掂 捞唔掂 [lao1 wu2 dian1] {laau4 m4 dim6} /(fig.) ne pas réussir à gagner sa vie/(lit.) ne pas réussir à attraper (assez de poissons)/
+撈起啦 捞起啦 [lao1 qi3 la5] {lou1 hei2 laa1} /(fam.) (fig.) s'enrichir; devenir riche; prospérer/(lit.) retirer de l'eau/
+????f 撈起啦你 捞起啦你 [lao1 qi3 la5 ni3] {lou1 hei2 laa1 nei5} /(fam.) (fig.) tu as vraiment réussi! (se dit surtout en parlant de sa situation financière)/
+????f 撈邊瓣 捞边瓣 [lao1 bian1 ban4] {laau4 bin1 faan6} /(fam.) que faites-vous dans la vie?/
+????f 撐到恆 撑到恒 [cheng1 dao4 heng2] {caang3 dou3 hang4} /(d'une personne) tenir bon; ne pas céder/
+????f 撐行 撑行 [cheng1 xing2] {caang3 hang4} /(d'une personne) tenir bon; ne pas céder/
+????f 撚蛋 撚蛋 [nian3 dan4] {lan2 daan2} /(vulg.) fucking bastard [colloquial] (tabarnak d'ostie de con? putain de con?)/
+撚開 撚开 [nian3 kai1] {lan2 hoi1} /(vulg.) va te faire foutre!/
+撚頭 撚头 [nian3 tou2] {lan2 tau4} /(vulg.) tête de nœud/
+撞到 撞到 [zhuang4 dao4] {zong6 dou2} /rentrer dans; heurter; cogner/croiser; rencontrer par hasard; tomber sur quelqu'un par hasard/
+????f 撞到滿天星 撞到满天星 [zhuang4 dao4 man3 tian1 xing1] {zong6 dou3 mun5 tin1 sing1} /(expr. idiom.) se cogner la tête très fort/(lit.) se cogner jusqu'à voir les étoiles couvrir le ciel/
 
