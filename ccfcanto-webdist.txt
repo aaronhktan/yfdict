@@ -862,7 +862,7 @@
 ????f 乜都假 乜都假 [mie1 dou1 jia3] {mat1 dou1 gaa2} /(quelque chose) est nécessaire; il faut qu'on fasse (quelque chose)/quoi qu'il en soit, on devrait faire quelque chose en premier/
 乜都得 乜都得 [mie1 dou1 de5] {mat1 dou1 dak1} /tout est possible/c'est comme tu veux/
 乜野 乜野 [mie1 ye3] {mat1 je5} /quoi?/hein?/tous (en parlant d'une catégorie de choses)/(pantonyme pour un object dont on a oublié le nom) machin; truc; bidule/
-????c 乜頭乜路 乜头乜路 [mie1 tou2 mie1 lu4] {mat1 tau4 mat1 lou6} /(where is this from? where did you hear this from? what is your background?)/
+????m 乜頭乜路 乜头乜路 [mie1 tou2 mie1 lu4] {mat1 tau4 mat1 lou6} /(where is this from? where did you hear this from? what is your background?)/
 乜鬼 乜鬼 [mie1 gui3] {mat1 gwai2} /(pour exprimer son exaspération) mais qu'est-ce que.../
 九 九 [jiu3] {gau2} /(vulg.) connard; salaud/
 九七年 九七年 [jiu3 qi1 nian2] {gau2 cat1 nin4} /l'année 1997, l'année de la rétrocession de Hong Kong à la Chine/
@@ -943,11 +943,11 @@
 乾瑤柱 干瑶柱 [gan1 yao2 zhu4] {gon1 jiu4 cyu5} /conpoy; pétoncle séché/
 乾萌萌 干萌萌 [gan1 meng2 meng2] {gon1 mang4 mang4} /(aliment) sec et dur/
 乾衣機 干衣机 [gan1 yi1 ji1] {gon1 ji1 gei1} /sèche-linge; séchoir/
-乾電 干电 [gan1 dian4] {gon1 din6} /pile sèche/
+乾電 干电 [gan1 dian4] {gon1 din6} /pile sèche/électricité en courant continu/
 乾電池 干电池 [gan1 dian4 chi2] {gon1 din6 ci4} /pile sèche/
-乾骾骾 干鲠鲠 [gan1 geng3 geng3] {gon1 kang2 kang2} /(aliment) sec et difficil à avaler/
+乾骾骾 干鲠鲠 [gan1 geng3 geng3] {gon1 kang2 kang2} /(aliment) sec et difficile à avaler/
 乾鯁 干鲠 [gan1 geng3] {gon1 kang2} /(aliment) sec et difficil à avaler/
-乾鯁鯁 干鲠鲠 [gan1 geng3 geng3] {gon1 kang2 kang2} /(aliment) sec et difficil à avaler/
+乾鯁鯁 干鲠鲠 [gan1 geng3 geng3] {gon1 kang2 kang2} /(aliment) sec et difficile à avaler/
 亂 乱 [luan4] {lyun6} /désordre/
 亂七八糟 乱七八糟 [luan4 qi1 ba1 zao1] {lyun6 cat1 baat3 zou1} /(expr. idiom.) désordre total/(lit.) désordre à sept huit pourri/
 亂作一團 乱作一团 [luan4 zuo4 yi1 tuan2] {lyun6 zok3 jat1 tyun4} /faire un gâchis; créer une situation chaotique/
@@ -1120,7 +1120,7 @@
 交更 交更 [jiao1 geng1] {gaau1 gaang1} /changement de quart; changement de poste/
 交水費 交水费 [jiao1 shui3 fei4] {gaau1 seoi2 fai3} /(fig.) (fam.) uriner/(lit.) payer la facture d'eau/
 交界處 交界处 [jiao1 jie4 chu4] {gaau1 gaai3 cyu3} /intersection des voies; croisement; carrefour/
-????f 交相輝映 交相辉映 [jiao1 xiang1 hui1 ying4] {gaau1 soeng1 fai1 jing2} /(expr.)(un objet) qui fait ressortir la beauté de quelque chose d'autre quand ils sont placés ensemble/
+????f 交相輝映 交相辉映 [jiao1 xiang1 hui1 ying4] {gaau1 soeng1 fai1 jing2} /(expr.) (un objet) qui fait ressortir la beauté de quelque chose d'autre quand ils sont placés ensemble/
 交租 交租 [jiao1 zu1] {gaau1 zou1} /payer le loyer/
 ????f 交足功課 交足功课 [jiao1 zu2 gong1 ke4] {gaau1 zuk1 gung1 fo3} /bien faire son travail; finir tout son travail et en faire un peu plus/(lit.) soumettre tous ses devoirs/
 交通事故 交通事故 [jiao1 tong1 shi4 gu4] {gaau1 tung1 si6 gu3} /accident de la route; accident de voiture/
@@ -9510,7 +9510,7 @@
 搵周公 揾周公 [wen3 Zhou1 Gong1] {wan2 zau1 gung1} /(fig.) dormir/(lit.) chercher le dieu des rêves/
 搵嘢做 揾嘢做 [wen3 ye3 zuo4] {wan2 je5 zou6} /chercher quelque chose à faire/(fig.) chercher un emploi/
 ????f 搵嚟講 揾嚟讲 [wen3 li2 jiang3] {wan2 lei4 gong2} /(fig.) (péj.) combler le silence; trouver quelque chose à dire (s'emploie pour décrire une personne qui aime critiquer)/(fig.) n'avoir qu'une piètre excuse pour expliquer sa conduite/
-????f 搵嚟辛苦 揾嚟辛苦 [wen3 li2 xin1 ku3] {wan2 lei4 san1 fu2} /(expr. idiom.) chercher les ennuis; se créer de problèmes/
+????f 搵嚟辛苦 揾嚟辛苦 [wen3 li2 xin1 ku3] {wan2 lei4 san1 fu2} /(expr. idiom.) chercher des ennuis; se créer de problèmes/
 搵工 揾工 [wen3 gong1] {wan2 gung1} /chercher un emploi/
 搵朝唔得晚 揾朝唔得晚 [wen3 chao2 n2 de5 wan3] {wan2 ziu1 m4 dak1 maan5} /(expr. idiom.) ne pas avoir assez d'argent pour ses dépenses/(lit.) trouver le matin n'est pas assez pour la soirée/
 ????f 搵着數 揾着数 [wen3 zhao1 shu4] {wan2 zoek6 sou3} /chercher une manière de se donner un avantage/exploiter quelqu'un; abuser de la gentillesse de quelqu'un/
@@ -24232,4 +24232,20 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 攪正 搅正 [jiao3 zheng4] {gaau2 zeng3} /régler; résoudre; arranger/tuer/
 攪邊科 搅边科 [jiao3 bian1 ke1] {gaau2 bin1 fo1} /mais qu'est-ce que tu fais? (exprime la surprise)/
 ????m 攬住死 揽住死 [lan3 zhu4 si3] {laam2 zyu6 sei2} /to get into trouble together [colloquial]/
+????c 攬硬 揽硬 [lan3 ying4] {laam5 ngaang6} /to fully support; to protect [colloquial]/
+????f 攬頭攬頸 揽头揽颈 [lan3 tou2 lan3 jing3] {laam2 tau4 laam2 geng2} /(expr. idiom.) être de très bons amis/(lit.) serrer la tête et le cou dans les mains/
+𢺳 𢺳 [] {maan1} /tenir fermement; s'accrocher à/tirer/remédier; réparer ses erreurs/
+????c 支嘢 支嘢 [zhi1 ye3] {zi1 je5} /(fam.) pénis/
+????c 支蕭 支萧 [zhi1 xiao1] {zi1 siu1} /(fam.) pénis/
+攰到死 攰到死 [gui4 dao4 si3] {gui6 dou3 sei2} /(fig.) épuisé; lessivé; très fatigué/(lit.) fatigué à mourir/
+????c 攰奶奶 攰奶奶 [gui4 nai3 nai5] {gui6 naai4 naai4} /(fig.) épuisé; lessivé; très fatigué/
+????f 收靚 收靓 [shou1 jing4] {sau1 leng1} /recruter un membre dans un gang/
+????f 收嘢 收嘢 [shou1 ye3] {sau1 je5} /(en donnant un coup de poing à quelqu'un) prends ça!/
+????c 收尾一個 收尾一个 [shou1 wei3 yi1 ge5] {sau1 mei1 jat1 go3} /le dernier/
+????c 收尾一日 收尾一日 [shou1 wei3 yi1 ri4] {sau1 mei1 jat1 jat6} /le dernier jour/
+收爹 收爹 [shou1 die1] {sau1 de1} /(vulg.) ta gueule! tais-toi! ferme-la!/
+????f 收租佬 收租佬 [shou1 zu1 lao3] {sau1 zou1 lou2} /propriétaire; proprio; personne à qui on paye le loyer/(fig.) personne à qui on paye un pot-de-vin ou un pizzo (racket de protection)/
+收虧 收亏 [shou1 kui1] {sau1 kwai1} /accepter des pots-de-vin/
+????c 收韁 收缰 [shou1 jiang1] {sau1 goeng1} /arrêtez de vous battre!/
+????f 收順啲 收顺啲 [shou1 shun4 di1] {sau1 seon6 di1} /(en marchandant) on peu baisser un peu le prix?/
 
