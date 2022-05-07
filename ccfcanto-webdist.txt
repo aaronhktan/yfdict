@@ -4655,7 +4655,7 @@
 嘍打 喽打 [lou5 da3] {lau3 daa2} /chercher la bagarre/
 嘔 呕 [ou3] {au2} /dégoûtant; dégueulasse/
 嘔奶 呕奶 [ou3 nai3] {au2 naai5} /(bébé) vomir du lait/
-嘔心 呕心 [ou3 xin1] {au2 sam1} /(fig.) dégoutant/(fig.) faire un grand effort; mettre tous ses efforts; s'efforcer/(lit.) vomir le cœur/
+嘔心 呕心 [ou3 xin1] {au2 sam1} /(fig.) dégoutant/(fig.) faire un grand effort; mettre tous ses efforts; donner son maximum/(lit.) vomir le cœur/
 嘔浪 呕浪 [ou3 lang4] {au2 long6} /avoir le mal de mer/(lit.) vomir des vagues/
 ????f 嘔血 呕血 [ou3 xue4] {au2 hyut3} /(fig.) être en colère; être fâché/(fig.) être épuisé; être très fatigué/(lit.) vomir du sang/
 嘔電 呕电 [ou3 dian4] {au2 din6} /(fig.) énervant/(lit.) vomir de l'électricité/
@@ -10577,7 +10577,7 @@
 暖粒粒 暖粒粒 [nuan3 li4 li4] {nyun5 lap1 lap1} /douillet; bien au chaud/
 ????c 暗中摸索 暗中摸索 [an4 zhong1 mo1 suo3] {am3 zung1 mo2 sok3} /(expr.) tâtonner dans l'obscurité/
 暗事 暗事 [an4 shi4] {am3 si6} /acte illégal; acte illicite/(lit.) affaires obscures/
-暗啞抵 暗哑抵 [an4 ya3 di3] {am3 aa2 dai2} /souffrir en silence/
+????f 暗啞抵 暗哑抵 [an4 ya3 di3] {am3 aa2 dai2} /en secret; en cachette/souffrir en silence/sans s'attribuer le mérite (pour quelque chose que l'on a fait)/
 ????f 暗度陳倉 暗度陈仓 [an4 du4 chen2 cang1] {am3 dou6 can4 cong1} /(expr.) faire quelque chose en faisant semblant de faire autre chose/
 暗格 暗格 [an4 ge2] {am3 gaak3} /compartiment secret/
 暗渠 暗渠 [an4 qu2] {am3 keoi4} /buse; tuyau d'évacuation; égout/
@@ -22827,7 +22827,7 @@
 亂過亂葬崗 乱过乱葬岗 [luan4 guo4 luan4 zang4 gang3] {lyun6 gwo3 lyun6 zong3 gong1} /(expr. idiom.) (fam.) chaotique/(expr. idiom.) (fam.) en désordre/(expr. idiom.) (fam.) foutu en l'air/(lit.) plus désordonné qu'un tertre funéraire/
 ????c 了番出嚟 了番出嚟 [le5 fan1 chu1 li2] {liu1 faan1 ceot1 lei4} /to dig it back out; to fish it back out; to bring up something from the past/
 了鼻屎 了鼻屎 [le5 bi2 shi3] {liu1 bei6 si2} /se curer le nez/
-事九旦旦 事九旦旦 [shi4 jiu3 dan4 dan4] {si6 gau1 daan6 daan6} /(vulg.) je m'en fiche; ça m'est égal/(vulg.) bâclé; à la va-vite; peu soigné/
+事九旦旦 事九旦旦 [shi4 jiu3 dan4 dan4] {si6 gau2 daan6 daan6} /(adoucissement de 事鳩旦旦|事鸠旦旦)/(vulg.) je m'en fiche; ça m'est égal/(vulg.) bâclé; à la va-vite; peu soigné/
 事鳩旦旦 事鸠旦旦 [shi4 jiu3 dan4 dan4] {si6 gau1 daan6 daan6} /(vulg.) je m'en fiche; ça m'est égal/(vulg.) bâclé; à la va-vite; peu soigné/
 事事關心 事事关心 [shi4 shi4 guan1 xin1] {si6 si6 gwaan1 sam1} /s'intéresser à tout/
 事但 事但 [shi4 dan4] {si6 daan6} /bâclé; à la va-vite; peu soigné/ça m'est égal; c'est comme tu veux/
@@ -23236,7 +23236,7 @@
 ????f 含蕉 含蕉 [han2 jiao1] {ham4 ziu1} /(vulg.) (exprime le mépris) pratiquer une fellation; sucer/(vulg.) (personne) baisé; foutu/(lit.) sucer une banane/
 吱吱斟 吱吱斟 [zhi1 zhi1 zhen1] {zi4 zi4 zam4} /(fam.) chuchoter; parler bas/
 ????c 吸格 吸格 [xi1 ge2] {kap3 gaak3} /utiliser un chèque sans provision pour frauder/
-????c 吹一輪水 吹一轮水 [chui1 yi1 lun2 shui3] {ceoi1 jat1 leon4 seoi2} /jaser/
+????c 吹一輪水 吹一轮水 [chui1 yi1 lun2 shui3] {ceoi1 jat1 leon4 seoi2} /bavarder; jaser; placoter/
 吹乒乓 吹乒乓 [chui1 ping1 pang1] {ceoi1 bing1 bam1} /(fam.) (vieilli) (exprime une indifférence) et alors? pis après?/
 ????c 吹唔漲 吹唔涨 [chui1 wu2 zhang3] {ceoi1 m4 zoeng3} /(expr.) ne pas être affecté par les actions ou paroles de quelqu'un/
 ????c 吹式士風 吹式士风 [chui1 shi4 shi4 feng1] {ceoi1 sik1 si6 fung1} /(fam.) utiliser un cône en papier pour sniffer de la drogue/(lit.) jouer du saxophone/
@@ -23401,7 +23401,7 @@
 嗱西 嗱西 [na2 xi1] {naa2 sai1} /(personne) négligeant; qui fait n'importe quoi; qui fait un travail bâclé/
 ????c 嗱起 嗱起 [na2 qi3] {naa4 hei2} /to pull up; to roll up; to pick up [colloquial]/
 ????c 嗲少兩句 嗲少两句 [dia3 shao3 liang3 ju4] {de1 siu2 loeng5 geoi3} /enough with the talking; cut the crap; enough with nonsense [colloquial]/
-嗲幾句 嗲几句 [dia3 ji3 ju4] {de1 gei2 geoi3} /(fam.) bavarder; jaser/
+嗲幾句 嗲几句 [dia3 ji3 ju4] {de1 gei2 geoi3} /(fam.) bavarder; jaser; placoter/
 ????f 嗲掂 嗲掂 [dia3 dian1] {de2 dim6} /(fam.) régler un problème/(fam.) réussir à passer de la pommade à quelqu'un/
 ????f 𠺘 𠺘 [lang3] {long2} /rincer/faire tourner (un liquide)/
 ????f 嘅喇 嘅喇 [ge3 la3] {ge3 laa2} /(particule modale utilisée pour affirmer quelque chose)/
@@ -24298,5 +24298,29 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 星期尾 星期尾 [xing1 qi1 wei3] {sing1 kei4 mei5} /end of the week [colloquial]/
 ????f 春光乍洩 春光乍泄 [chun1 guang1 zha4 xie4] {ceon1 gwong1 zaa3 sit3} /(expr.) le soleil du printemps accompagne le paysage printanier/(fig.) laisser entrevoir quelque chose d'intime (ex. sous-vêtements, partie du corps, etc.)/
 ????m 春心動 春心动 [chun1 xin1 dong4] {ceon1 sam1 dung6} /(fig.) s'enticher; s'amouracher; s'éprendre de quelqu'un/(fig.) être excité; être sexuellement excité/
-
+是九旦旦 是九旦旦 [shi4 jiu3 dan4 dan4] {si6 gau2 daan3 daan3} /(adoucissement de 事鳩旦旦|事鸠旦旦)/(vulg.) je m'en fiche; ça m'est égal/(vulg.) bâclé; à la va-vite; peu soigné/
+是嗎 是吗 [shi4 ma5] {si6 maa3} /(à l'écrit) c'est vrai?/(à l'écrit) n'est-ce pas? non?/
+是是但但 是是但但 [shi4 shi4 dan4 dan4] {si6 si6 daan6 daan6} /ça m'est égal/(travail) bâclé; peu soigné; à la va-vite/(faire quelque chose) sans enthousiasme; à contrecœur/
+是狗彈彈 是狗弹弹 [shi4 gou3 dan4 dan4] {si6 gau2 daan2 daan2} /(adoucissement de 事鳩旦旦|事鸠旦旦)/(vulg.) je m'en fiche; ça m'est égal/(vulg.) bâclé; à la va-vite; peu soigné/
+是非鬼 是非鬼 [shi4 fei1 gui3] {si6 fei1 gwai2} /(péj.) commère; personne qui aime médire d'autrui/
+是麼 是么 [shi4 me5] {si6 mo1} /(à l'écrit) c'est vrai?/(à l'écrit) n'est-ce pas? non?/
+晏啲 晏啲 [yan4 di1] {aan3 di1} /plus tard/
+晒嘢 晒嘢 [shai4 ye3] {saai3 je5} /se pavaner; péter de la broue; crâner; frimer/
+晒招 晒招 [shai4 zhao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
+晒蕉 晒蕉 [shai4 jiao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
+????f 晒行馬 晒行马 [shai4 xing2 ma3] {saai3 hang4 maa5} /(d'une triade chinoise) faire une démonstration de force/
+????f 晒馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter un bordel/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/(lit.) visiter l'écurie/
+晚風 晚风 [wan3 feng1] {maan5 fung1} /brise du soir/
+普通知識 普通知识 [pu3 tong1 zhi1 shi5] {pou2 tung1 zi1 sik1} /connaissances générales/
+????c 暗中控制 暗中控制 [an4 zhong1 kong4 zhi4] {am3 zung1 hung3 zai3} /to manipulate; to control in secret [written and colloquial]/
+????f 暗啞底 暗哑底 [an4 ya3 di3] {am3 aa2 dai2} /en secret; en cachette/souffrir en silence/sans s'attribuer le mérite (pour quelque chose que l'on a fait)/
+暗殺者 暗杀者 [an4 sha1 zhe3] {am3 saat3 ze2} /assassin/
+????f 暗花 暗花 [an4 hua1] {am3 faa1} /(fig.) caisse noire; réserve d'argent pour des activités illicites/(fig.) prime offerte par un gang pour accomplir une mission (en particulier, pour assassiner quelqu'un)/
+景轟 㬌轰 [jing3 hong1] {ging2 gwang2} /il y a une anguille sous roche; il y a quelque chose qui ne colle pas/
+㬌轟 㬌轰 [jing4 hong1] {ging2 gwang2} /il y a une anguille sous roche; il y a quelque chose qui ne colle pas/
+????f 曬冷 晒冷 [shai4 leng3] {saai3 laang1} /(poker) faire tapis/(fig.) tout miser; tenter le tout pour le tout; mettre le paquet/(fig.) faire une démonstration de force; montrer (quelque chose qui démonstre son pouvoir ou son importance)/
+曬嘢 晒嘢 [shai4 ye3] {saai3 je5} /se pavaner; péter de la broue; crâner; frimer/
+曬料 晒料 [shai4 liao4] {saai3 liu2} /se pavaner; péter de la broue; crâner; frimer/
+曬蕉 晒蕉 [shai4 jiao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
+????f 曬行馬 晒行马 [shai4 xing2 ma3] {saai3 hang4 maa5} /(d'une triade chinoise) faire une démonstration de force/
 
