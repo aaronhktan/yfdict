@@ -10734,7 +10734,8 @@
 有料到 有料到 [you3 liao4 dao4] {jau5 liu2 dou3} /(fig.) compétent; capable; expert/(fig.) trouver des renseignements; trouver un indice/(lit.) réussir à obtenir de choses/
 有日 有日 [you3 ri4] {jau5 jat6} /un jour; un de ces jours/
 ????f 有早知，冇乞兒 有早知，冇乞儿 [you3 zao3 zhi1 , mao3 qi3 er2] {jau5 zou2 zi1 mou5 hat1 ji1} /(expr. idiom.) si on savait les conséquences, on aurait fait les choses différemment; après coup, tout est évident/(lit.) si on aurait su plus tôt, on ne serait pas de mendiants/ 
-????c 有景轟 有景轰 [you3 jing3 hong1] {jau5 ging2 gwang1} /louche; suspect/
+????f 有景轟 有景轰 [you3 jing3 hong1] {jau5 ging2 gwang2} /(expr.) il y a une anguille sous roche; il y a quelque chose qui ne colle pas/
+????f 有㬌轟 有㬌轰 [you3 jing3 hong1] {jau5 ging2 gwang2} /(expr.) il y a une anguille sous roche; il y a quelque chose qui ne colle pas/
 ????c 有根蔃 有根蔃 [you3 gen1 jiang4] {jau5 gan1 koeng2} /(fig.) étayé par des preuves/(lit.) avoir les racines/
 ????f 有案可查 有案可查 [you3 an4 ke3 cha2] {jau5 on3 ho2 caa4} /(expr.) bien documenté; qui peut être vérifié/
 ????f 有樣學樣 有样学样 [you3 yang4 xue2 yang4] {jau5 joeng2 hok6 joeng2} /(fig.) imiter le comportement des autres/(lit.) s'il y a un comportement, on apprendra à imiter ce comportement/ 
@@ -23060,7 +23061,7 @@
 冇幾可 冇几可 [mao3 ji3 ke3] {mou5 gei2 ho2} /rarement; peu souvent/
 冇幾可 冇几可 [mao3 ji3 ke3] {mou5 gei2 ho4} /rarement; peu souvent/
 ????f 冇得找 冇得找 [mao3 de5 zhao3] {mou5 dak1 zaau2} /ne pas avoir les pièces pour faire de la monnaie/
-冇得揮 冇得挥 [mao3 de5 hui1] {mou5 dak1 fai1} /inégalable; sans égal; hors pair/ne pas pouvoir rivaliser avec/(orig.) de l'anglais « fight » (« se battre »); donc « ne pas pouvoir se battre avec eux »/
+冇得揮 冇得挥 [mao3 de5 hui1] {mou5 dak1 fai1} /(expr.) inégalable; sans égal; hors pair/(expr.) ne pas pouvoir rivaliser avec/(orig.) de l'anglais « fight » (« se battre »), donc « ne pas pouvoir se battre avec eux »/
 冇心 冇心 [mao3 xin1] {mou5 sam1} /par accident/ne pas être d'humeur (à faire quelque chose)/
 冇戲睇 冇戏睇 [mao3 xi4 di4] {mou5 hei3 tai2} /rien à voir ici/
 冇晒面 冇晒面 [mao3 shai4 mian4] {mou5 saai3 min2} /être humilié; avoir perdu la face/
@@ -24316,8 +24317,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 暗啞底 暗哑底 [an4 ya3 di3] {am3 aa2 dai2} /en secret; en cachette/souffrir en silence/sans s'attribuer le mérite (pour quelque chose que l'on a fait)/
 暗殺者 暗杀者 [an4 sha1 zhe3] {am3 saat3 ze2} /assassin/
 ????f 暗花 暗花 [an4 hua1] {am3 faa1} /(fig.) caisse noire; réserve d'argent pour des activités illicites/(fig.) prime offerte par un gang pour accomplir une mission (en particulier, pour assassiner quelqu'un)/
-景轟 㬌轰 [jing3 hong1] {ging2 gwang2} /il y a une anguille sous roche; il y a quelque chose qui ne colle pas/
-㬌轟 㬌轰 [jing4 hong1] {ging2 gwang2} /il y a une anguille sous roche; il y a quelque chose qui ne colle pas/
+景轟 㬌轰 [jing3 hong1] {ging2 gwang2} /il y a une anguille sous roche; il y a quelque chose qui ne colle pas (voir aussi 有景轟|有景轟)/
+㬌轟 㬌轰 [jing4 hong1] {ging2 gwang2} /il y a une anguille sous roche; il y a quelque chose qui ne colle pas (voir aussi 有㬌轟|有㬌轰)/
 ????f 曬冷 晒冷 [shai4 leng3] {saai3 laang1} /(poker) faire tapis/(fig.) tout miser; tenter le tout pour le tout; mettre le paquet/(fig.) faire une démonstration de force; montrer (quelque chose qui démonstre son pouvoir ou son importance)/
 曬嘢 晒嘢 [shai4 ye3] {saai3 je5} /se pavaner; péter de la broue; crâner; frimer/
 曬料 晒料 [shai4 liao4] {saai3 liu2} /se pavaner; péter de la broue; crâner; frimer/
@@ -24348,3 +24349,27 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 有啲渣嗱 有啲渣嗱 [you3 di1 zha1 na2] {jau5 di1 zaa1 naa4} /to have a degree of certainty; to have some gurantee [colloquial]/
 有啲驚 有啲惊 [you3 di1 jing1] {jau5 di1 geng1} /avoir un peu peur de/appréhender; craindre/
 ????f 有嘢就講，有屁就放 有嘢就讲，有屁就放 [you3 ye3 jiu4 jiang3, you3 pi4 jiu4 fang4] {jau5 je5 zau6 gong2, jau5 pei3 zau6 fong3} /(expr . idiom.) accouche! dis ce que tu veux dire, on n'a pas toute la journée!/(lit.) si tu as quelque chose à dire, dis-le, si tu as un pet, pète-le/
+????f 有境 有境 [you3 jing4] {jau5 ging2} /(fig.) avoir de bonnes perspectives; avoir un grand potentiel/
+????m 有得找 有得找 [you3 de2 zhao3] {jau5 dak1 zaau2} /capable de faire de la monnaie/
+有得揮 有得挥 [you3 de2 hui1] {jau5 dak1 fai1} /(expr.) être capable de rivaliser; être de force égale (voir aussi 冇得揮|冇得挥)/(orig.) de l'anglais « fight » (« se battre »), donc « être capable de se battre avec eux »/
+有得震冇得瞓 有得震冇得瞓 [you3 de2 zhen4 mao3 de5 xun4] {jau5 dak1 zan3 mou5 dak1 fan3} /(expr. idiom.) avoir très peur; être très effrayé/(lit.) pouvoir trembler mais ne pas pouvoir dormir/
+有排受 有排受 [you3 pai2 shou4] {jau5 paai4 sau6} /souffrir pendant longtemps/
+????f 有文有路 有文有路 [you3 wen2 you3 lu4] {jau5 man4 jau5 lou6} /(d'une personne) savoir de quoi on parle; bien connaître le sujet/(parler) clairement et bien organiser ses idées/
+有㬌 有㬌 [you3 jing4] {jau5 ging2} /(fig.) avoir de bonnes perspectives; avoir un grand potentiel/
+????f 有殺錯，冇放過 有杀错，冇放过 [you3 sha1 cuo4, mao3 fang4 guo4] {jau5 saat3 co3, mou5 fong3 gwo3} /(expr. idiom.) on n'est jamais trop prudent; mieux vaut punir tous les suspects que de laisser échapper un criminel/(expr. idiom.) on devrait tous les punir (ou choisir, ou récompenser, etc.) afin de ne pas en manquer une/(lit.) y avoir un innocent que l'on a tué, mais pas de criminels que l'on a laissé échapper/
+????f 有氣冇訂透 有气冇订透 [you3 qi4 mao3 ding4 tou4] {jau5 hei3 mou5 deng6 tau2} /(expr. idiom.) être très occupé/(lit.) avoir un souffle mais n'avoir nulle part pour le respirer/
+有牌爛仔 有牌烂仔 [you3 pai2 lan4 zai3] {jau5 paai4 laan6 zai2} /(péj.) policier/(lit.) gredin avec une licence/
+有理由 有理由 [you3 li3 you2] {jau5 lei5 jau4} /être justifié; avoir ses raisons/
+????m 有環境 有环境 [you3 huan2 jing4] {jau5 waan4 ging2} /(d'un chauffeur de taxi) avoir des clients/
+????f 有異性冇人性 有异性冇人性 [you3 yi4 xing4 mao3 ren2 xing5] {jau5 ji6 sing3 mou5 jan4 sing3} /(expr. idiom.) (d'une personne hétérosexuelle) ne plus faire attention à ses amis quand l'on a trouvé un petit ami ou petite amie/(lit.) avoir l'autre sexe, ne pas avoir la compassion/
+????f 有眼袋 有眼袋 [you3 yan3 dai4] {jau5 ngaan5 doi2} /avoir des poches sous les yeux; avoir des valises sous les yeux; avoir des cernes sous les yeux/
+有禮 有礼 [you3 li3] {jau5 lai5} /poli; courtois/
+????f 有籮 有箩 [you3 luo2] {jau5 lo1} /(fam.) avoir un beau cul/(lit.) avoir un beau panier/
+????f 有背㬌人士 有背㬌人士 [you3 bei4 jing4 ren2 shi4] {jau5 bui3 ging2 jan4 si6} /(par euphémisme) personne qui a des relations avec les triades/
+????c 有蕉食 有蕉食 [you3 jiao1 shi2] {jau5 ziu1 sik6} /(d'un chauffuer de taxi) avoir des clients/(lit.) avoir des bananes à manger/
+????f 有趣味 有趣味 [you3 qu4 wei4] {jau5 ceoi3 mei6} /intéressant; qui plaît/
+????f 有辣有唔辣 有辣有唔辣 [you3 la4 you3 wu2 la4] {jau5 laat6 jau5 m4 laat6} /(expr. idiom.) avoir des avantages et des inconvénients/(expr. idiom.) avoir quelque chose pour tous les goûts; avoir quelque chose pour tous/(lit.) y avoir ceux qui sont piquants et ceux qui ne sont pas piquants/
+有運行 有运行 [you3 yun4 xing2] {jau5 wan6 haang4} /avoir de la chance/
+有金執 有金执 [you3 jin1 zhi2] {jau5 gam1 zap1} /(fig.) il y a de l'argent facile à se faire/(lit.) on peut ramasser de l'or par terre/
+有錢佬 有钱佬 [you3 qian2 lao3] {jau5 cin2 lou2} /(fam.) homme riche/
+????f 有頭威，冇頭陣 有头威，冇头阵 [you3 tou5 wei1, mao3 tou2 zhen4] {jau5 tau4 wai1, mou5 tau4 zan6} /(expr. idiom.) avoir un bon départ mais finir mal/
