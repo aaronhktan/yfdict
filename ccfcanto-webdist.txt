@@ -245,7 +245,7 @@
 ????f 一箸夾中 一箸夹中 [yi1 zhu4 jia1 zhong1] {jat1 zyu6 gaap3 zung1} /(expr. idiom.) quelqu'un qui devine juste du premier coup/(lit.) saisir exactement avec les baguettes/
 一粒嘢 一粒嘢 [yi1 li4 ye3] {jat1 lap1 je5} /(classificateur pour des petites choses) (ex. poussière, riz, gouttes d'eau)/
 一粒神 一粒神 [yi1 li4 shen2] {jat1 nap1 san4} /une pièce de dix centimes/
-一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /(fam.) inspecteur de probation dans le Hong Kong Police Force/(orig.) les inspecteurs de probations ont une petite fleur sur leur badges/(lit.) une petite fleur/
+一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /(fam.) inspecteur de probation dans le Hong Kong Police Force (orig.) les inspecteurs de probation ont une petite fleur sur leur badges/(lit.) une petite fleur/
 一統天下 一统天下 [yi1 tong3 tian1 xia4] {jat1 tung2 tin1 haa6} /unifier le pays/
 一經 一经 [yi1 jing1] {jat1 ging1} /dès que/une fois que/
 一群 一群 [yi1 qun2] {jat1 kwan4} /(classificateur pour décrire les groupes)/
@@ -10856,7 +10856,7 @@
 木偶戲 木偶戏 [mu4 ou3 xi4] {muk6 ngau5 hei3} /spectacle de marionnettes/
 木口木面 木口木面 [mu4 kou3 mu4 mian4] {muk6 hau2 muk6 min6} /(fig.) qui a un visage impassible; qui a un visage sans expression/(lit.) bouche en bois, visage en bois/ 
 木吉他 木吉他 [mu4 ji2 ta5] {muk6 gat1 taa1} /guitare acoustique/(orig.) de l'anglais « guitar », d'où « guitare en bois », ou guitare acoustique/
-????f 木嘴 木嘴 [mu4 zui3] {muk1 zeoi2} /(fig.) sot; idiot; stupide; imbécile/(fig.)qui n'a aucun sense d'humour/(lit.) bouche en bois/
+????f 木嘴 木嘴 [mu4 zui3] {muk1 zeoi2} /(fig.) sot; idiot; stupide; imbécile/(fig.) qui n'a aucun sense d'humour/(lit.) bouche en bois/
 木屋 木屋 [mu4 wu1] {muk6 uk1} /maison en bois/ 
 木方 木方 [mu4 fang1] {muk6 fong1} /poutre en bois/
 木木獨獨 木木独独 [mu4 mu4 du2 du2] {muk6 muk6 duk6 duk6} /(personne) ennuyeux; passif; inintéressant/(personne) qui ne réagit pas; qui est ailleurs/(nourriture) fade; sans goût/
@@ -24373,3 +24373,29 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 有金執 有金执 [you3 jin1 zhi2] {jau5 gam1 zap1} /(fig.) il y a de l'argent facile à se faire/(lit.) on peut ramasser de l'or par terre/
 有錢佬 有钱佬 [you3 qian2 lao3] {jau5 cin2 lou2} /(fam.) homme riche/
 ????f 有頭威，冇頭陣 有头威，冇头阵 [you3 tou5 wei1, mao3 tou2 zhen4] {jau5 tau4 wai1, mou5 tau4 zan6} /(expr. idiom.) avoir un bon départ mais finir mal/
+有風駛盡𢃇 有风驶尽利 [you3 feng1 shi3 jin4 li4] {jau5 fung1 sai2 zeon6 lei5} /(expr. idiom.) bien profiter d'une bonne situation/
+有風駛盡利 有风驶尽利 [you3 feng1 shi3 jin4 li4] {jau5 fung1 sai2 zeon6 lei6} /(expr. idiom.) bien profiter d'une bonne situation/
+有風駛盡巾里 有风驶尽巾里 [you3 feng1 shi3 jin4 jin1 li3] {jau5 fung1 sai2 zeon6 gan1 lei5} /(expr. idiom.) bien profiter d'une bonne situation/
+有風駛盡里 有风驶尽里 [you3 feng1 shi3 jin4 li3] {jau5 fung1 sai2 zeon6 lei5} /(expr. idiom.) bien profiter d'une bonne situation/
+有鬼用 有鬼用 [you3 gui3 yong4] {jau5 gwai2 jung6} /(très fam.) complètement inutile/
+????f 有麝自然香 有麝自然香 [you3 she4 zi4 ran5 xiang1] {jau5 se6 zi6 jin4 hoeng1} /(expr. idiom.) du vrai talent sera reconnu sans avoir besoin de l'annoncer partout/(lit.) le musc aura une odeur naturelle/
+朋輩壓力 朋辈压力 [peng2 bei4 ya1 li4] {pang4 bui3 aat3 lik6} /pression sociale; influence sociale/
+????f 望就係咁望 望就系咁望 [wang4 jiu4 xi4 gan1 wang4] {mong6 zau6 hai6 gam2 mong6} /(expr. idiom.) on espère que ce sera le cas; on espère que tout va bien se passer (mais ce n'est pas très probable)/(lit.) quand on le regarde, on le regarde comme ça/
+????m 期數 期数 [qi1 shu4] {kei4 sou3} /installments; period within which repayment of a debt os calculated; one's workplace in prison [written and colloquial]/
+木咀 木咀 [mu4 ju3] {muk1 zeoi2} /(fig.) sot; idiot; stupide; imbécile/(fig.) qui n'a aucun sense d'humour/(lit.) bouche en bois/
+木瓜鮮奶 木瓜鲜奶 [mu4 gua1 xian1 nai3] {muk6 gwaa1 sin1 naai5} /smoothie à la papaye/
+????f 未夠喉 未够喉 [wei4 gou4 hou2] {mei6 gau3 hau4} /(fig.) rester sur sa faim; ne pas être satisfait; en vouloir plus/
+????f 未夠秤 未够秤 [wei4 gou4 cheng4] {mei6 gau3 cing3} /(fig.) trop jeune; ne pas avoir l'âge de faire quelque chose/(fig.) ne pas avoir assez d'expérience (pour faire quelque chose)/(lit.) un poids qui n'est pas suffisant/
+????f 未戒奶 未戒奶 [wei4 jie4 nai3] {mei6 gaai3 naai5} /(fig.) puéril; manquer de maturité; immature/(lit.) ne pas avoir été sevré/
+????f 未撚屌過呀 未撚屌过呀 [wei4 nian3 diao3 guo4 ya5] {mei6 lan2 diu2 gwo3 aa3} /(vulg.) (exprime de la colère et de l'irritation)/(lit.) tu ne t'es pas encore fait niquer?/
+未驚過 未惊过 [wei4 jing1 guo4] {mei6 geng1 gwo3} /(fig.) je n'ai pas peur!/(lit.) n'avoir jamais eu peur/
+????f 一柴 一柴 [yi1 chai2] {jat1 caai4} /(fam.) (Hong Kong) policier senior/(lit.) chevron unique/
+????f 朱柴 朱柴 [zhu1 chai2] {zyu1 caai4} /(fam.) (Hong Kong) policier senior (voir aussi 一柴|一柴)/(lit.) chevron unique, avec le « 一 » (« un, unique ») changé en « 朱 » (« un, unique » en l'argot des triades)/
+????f 朱粒 朱粒 [zhu1 li4] {zyu1 lap1} /(fam.) (Hong Kong) inspecteur de probation dans le Hong Kong Police Force (voir aussi 一粒花|一粒花)/(orig.) les inspecteurs de probation ont une petite fleur sur leur badges/(lit.) une (classificateur des fleurs), avec le « 一 » (« un, unique ») changé en « 朱 » (« un, unique » en l'argot des triades)/
+????f 朱粒水泡 朱粒水泡 [zhu1 li4 shui3 pao4] {zyu1 lap1 seoi2 pou5} /a senior assistant police commission [colloquial]/
+????f 李三腳 李三脚 [li3 san1 jiao3] {lei5 saam1 goek3} /(surnom de Bruce Lee)/(lit.) M. Lee à trois pieds/
+李超人 李超人 [li3 chao1 ren2] {lei5 ciu1 jan4} /(surnom de Li Ka-shing, homme d'affaires hongkongais)/
+????f 杏色加橙色 杏色加橙色 [xing4 se4 jia1 cheng2 se4] {hang6 sik1 gaa1 caang2 sik1} /(vulg.) (adoucissement de 冚家鏟|冚家铲, « que toute ta famille meure »)/
+東華 东华 [dong1 hua2] {dung1 waa4} /(dans les noms d'entreprises) de la Chine de l'Est/(nom de lieu à Hong Kong)/
+????m 板石 板石 [ban3 shi2] {baan2 sek6} /slab-stone [written and colloquial]/
+
