@@ -16,8 +16,8 @@
 # - S'il y a plusieurs traductions possibles pour un sens, séparez-les avec un point-virgule
 # - S'il faut utiliser les mots <quelque chose> ou <quelqu'un>, écrivez <quelque chose> et <quelqu'un>, ne les abrégez pas!
 # - Si un mot a une forme masculin et féminin, écris-les l'une après l'autre: un, une
-# - Pour une traduction litérale, mets-la après les autres définitions et ajoute un (lit.) devant la traduction
-# - En parenthèses: (expr. idiom.), (arch.), (vieilli), (n.m.), (n.f), (classificateur), (orig.), (nom de famille), (litt.), (fam.)
+# - Pour une traduction littérale, mets-la après les autres définitions et ajoute un (lit.) devant la traduction
+# - En parenthèses: (expr. idiom.), (arch.), (vieilli), (n.m.), (n.f), (classificateur), (orig.), (nom de famille), (litt.), (soutenu), (fam.), (très fam.), (vulg.), (fig.), (expr.)
 
 一不小心 一不小心 [yi1 bu5 xiao3 xin1] {jat1 bat1 siu2 sam1} /par accident; dans un moment d'inattention/
 一世人 一世人 [yi1 shi4 ren2] {jat1 sai3 jan4} /toute la vie (de quelqu'un); la vie entière; pour toute une vie/(syn.) 一輩子|一輩子[yi1 bei4 zi5]/
@@ -11605,7 +11605,7 @@
 死光槍 死光枪 [si3 guang1 qiang1] {sei2 gwong1 coeng1} /pistolet à rayons/
 死八婆 死八婆 [si3 ba1 po2] {sei2 baat3 po4} /(vulg.) connasse; pétasse/
 ????c 死冤 死冤 [si3 yuan1] {sei2 jyun1} /to pester incessantly; to cling to obstinately; to make insistent demands from somebody; to squabble endlessly over trivial matters/
-死剩把口 死剩把口 [si3 sheng4 ba3 kou3] {sei2 zing6 baa2 hau2} /(expr. idiom.) (personne) ergoteuse; qui cherche la chicane/(expr. idiom.) qui parle trop/(lit.) (une personne) morte dont la bouche continue à parler/
+死剩把口 死剩把口 [si3 sheng4 ba3 kou3] {sei2 zing6 baa2 hau2} /(expr. idiom.) (personne) ergoteuse; qui cherche la chicane; qui refuse d'admettre que l'on a tort/(expr. idiom.) qui parle trop/(lit.) (une personne) morte dont la bouche continue à parler/
 ????c 死口咬實 死口咬实 [si3 kou3 yao3 shi2] {sei2 hau2 ngaau5 sat6} /s'accrocher aux vieilles opinions/
 死咁 死咁 [si3 gan1] {sei2 gam3} /(fam.) (fig.) obstinément; assidûment/(fig.) très; extrêmement/(lit.) à mort/
 死咕咕 死咕咕 [si3 gu1 gu5] {sei2 gu4 gu4} /(personne) inflexible; rigide/sans énergie; atone; mou/
@@ -22886,7 +22886,7 @@
 令妹 令妹 [ling4 mei4] {ling6 mui6} /(poli) votre sœur cadette/
 仲狼過華秀隻狗 仲狼过华秀只狗 [zhong4 lang2 guo4 hua2 xiu4 zhi1 gou3] {zung6 long4 gwo3 waa4 sau3 zek3 gau2} /(expr. idiom.) excessivement violent; très cruel/(lit.) plus vicieux que le chien de Waa Sau/
 仲精過冇尾蛇 仲精过冇尾蛇 [zhong4 jing1 guo4 mao3 wei3 she2] {zung6 zeng1 gwo3 mou5 mei5 se4} /(expr. idiom.) très futé/(lit.) plus futé qu'un serpent sans queue/
-企埋一邊 企埋一边 [qi3 mai2 yi1bian1] {kei5 maai4 jat1 bin1} /se tenir debout d'un côté/
+企埋一邊 企埋一边 [qi3 mai2 yi1 bian1] {kei5 maai4 jat1 bin1} /se tenir debout d'un côté/
 伊館 伊馆 [yi1 guan3] {ji1 gun2} /Queen Elizabeth Stadium, établissement sportif à Hong Kong (nom complet 伊利沙伯體育館|伊利沙伯体育馆)/
 伏伏跳 伏伏跳 [fu2 fu2 tiao4] {buk6 buk6 tiu3} /(cœur) battre/
 伙頭將軍 伙头将军 [huo3 tou2 jiang1jun1] {fo2 tau2 zoeng1 gwan1} /(fam.) chef cuisinier/
@@ -23353,7 +23353,7 @@
 唯你是問 唯你是问 [wei2 ni3 shi4 wen4] {wai4 nei5 si6 man6} /(expr.) ce sera de ta faute! tu seras responsable des conséquences!/
 ????f 唱生哂 唱生哂 [chang4 sheng1 shen3] {coeng3 saang1 saai3} /(fig.) faire courir une rumeur partout; répandre une rumeur partout/
 ????f 問候你老母 问候你老母 [wen4 hou4 ni3 lao3 mu3] {man6 hau6 nei5 lou5 mou2} /(par euphémisme) (vulg.) nique ta mère/(lit.) saluer ta mère/
-????f 問候你老豆 问候你老豆 [wen4hou4 ni3 lao3 dou4] {man6 hau6 nei5 lou5 dau6} /(par euphémisme) (vulg.) nique ton père/(lit.) saluer ton père/
+????f 問候你老豆 问候你老豆 [wen4 hou4 ni3 lao3 dou4] {man6 hau6 nei5 lou5 dau6} /(par euphémisme) (vulg.) nique ton père/(lit.) saluer ton père/
 ????f 問非所答 问非所答 [wen4 fei1 suo3 da2] {man6 fei1 so2 daap3} /donner une réponse non pertinente; répondre n'importe comment/
 ????f 啞仔食黃蓮 哑仔食黄莲 [ya3 zi3 shi2 huang2 lian2] {aa2 zai2 sik6 wong4 lin4} /(expr. en suspens) souffrir en silence/(lit.) garçon mange des graines de savoyane chinoise (deuxième partie 有苦自己知|有苦自己知 « connaître l'amertume seul »)/
 啞子食黃蓮 哑子食黄莲 [ya3 zi5 shi2 huang2 lian2] {aa2 zi2 sik6 wong4 lin4} /(expr. en suspens) souffrir en silence/(lit.) garçon mange des graines de savoyane chinoise (deuxième partie 有苦自己知|有苦自己知 « connaître l'amertume seul »)/
@@ -24473,4 +24473,30 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 死口臭 死口臭 [si3 kou3 chou4] {sei2 hau2 cau3} /describes someone who always says annoying, irritating, rude, or provocative things [colloquial]/
 死咗 死咗 [si3 zuo5] {sei2 zo2} /mort; décédé/
 ????f 死埋一邊啦 死埋一边啦 [si3 mai2 yi1 bian1 la5] {sei2 maai4 jat1 bin1 laa1} /(expr.) fous-moi le camp! va te faire foutre!/(lit.) meurs au bord de la route!/
+????c 死好過 死好过 [si3 hao3 guo4] {sei2 hou2 gwo3} /mieux vaut mourir que.../
+死姣婆 死姣婆 [si3 jiao1 po2] {sei2 haau4 po4} /(inj.) femme facile; salope; libertine/
+????f 死婆 死婆 [si3 po2] {sei2 po2} /(inj.) pétasse; salope; garce; pute; chienne/(terme d'affection pour sa petite amie ou sa femme)/
+死性 死性 [si3 xing5] {sei2 sing3} /têtu; entêté; obstiné/mauvaises habitudes/
+死扑街 死扑街 [si3 pu1 jie1] {sei2 puk1 gaai1} /(vulg.) connard; con; enfoiré/
+死柒開 死柒开 [si3 qi1 kai1] {sei2 cat6 hoi1} /(vulg.) va te faire foutre!/(lit.) va mourir à part, tête de nœud!/
+死淨把口 死净把口 [si3 jing4 ba3 kou3] {sei2 zing6 baa2 hau2} /(expr. idiom.) (personne) ergoteuse; qui cherche la chicane; qui refuse d'admettre que l'on a tort/(expr. idiom.) qui parle trop/(lit.) (une personne) morte dont la bouche continue à parler/
+????f 死碼 死码 [si3 ma3] {sei2 maa5} /dead chips, gambling chips that cannot be exchanged for money which must be used within the casino [written and colloquial]/
+死老嘢 死老嘢 [si3 lao3 ye3] {sei2 lou5 je5} /(inj.) vieux con/
+死肥佬 死肥佬 [si3 fei2 lao3] {sei2 fei4 lou2} /(inj.) (d'un homme) gros; baleine; patapouf/
+死肥閪 死肥閪 [si3 fei2 se1] {sei2 fei4 hai1} /(vulg.) (d'une femme) gros conne; baleine; truie/
+????m 死艇 死艇 [si3 ting3] {sei2 teng5} /véhicule en panne/(en particulier) taxi en panne/
+死變態佬 死变态佬 [si3 bian4 tai4 lao3] {sei2 bin3 taai3 lou2} /(inj.) pervers; homme libertin; obsédé sexuel; débauché/
+死豬 死猪 [si3 zhu1] {sei2 zyu1} /(dormir comme) un loir; (dormir comme) une marmotte/(lit.) (dormir comme) un cochon mort/
+????f 死賤種 死贱种 [si3 jian4 zhong3] {sei2 zin6 zung2} /(inj.) personne méprisable; homme (ou femme) vil/
+死開 死开 [si3 kai1] {sei2 hoi1} /(très fam. ou vulg.) fous-moi le camp! va te faire foutre!/
+死開啲啦 死开啲啦 [si3 kai1 di1 la5] {sei2 hoi1 di1 laa1} /(très fam. ou vulg.) fous-moi le camp! va te faire foutre!/
+????m 死魚 死鱼 [si3 yu2] {sei2 jyu4} /poisson mort/(fig.) épuisé; lessivé/(fig.) femme qui ne réagit pas pendant les rapports sexuels/
+死鳩開 死鸠开 [si3 jiu1 kai1] {sei2 gau1 hoi1} /(vulg.) fous-moi le camp! va te faire foutre!/
+????f 殺人如麻 杀人如麻 [sha1 ren2 ru2 maa4] {saat3 jan4 jyu4 maa4} /(expr. idiom.) décimer; tuer en masse/(lit.) tuer les gens comme faucher du lin/
+????f 殺你 杀你 [sha1 ni3] {saat3 nei5} /(fig.) marché conclu (comme le dit un encanteur ou commissaire-priseur)/
+????f 殺到 杀到 [sha1 dao4] {saat3 dou3} /ça arrive! (note : cette expression est employée pour dire que quelque chose d'urgent et d'inquiétant arrive bientôt)/
+????m 殺馬 杀马 [sha1 ma3] {saat3 maa5} /(fig.) obtenir ce que l'on veut; parvenir à ses fins/(lit.) tuer le cheval/
+????f 毆幾多棍 殴几多棍 [ou1 ji3 duo1 gun4] {au2 gei2 do1 gwan3} /(expr.) (menace) tu veux te faire frapper combien de fois?/
+毆幾多碌 殴几多碌 [ou1 ji3 duo1 lu4] {au2 gei2 do1 luk1} /(expr.) (menace) tu veux te faire frapper combien de fois?/
+????c 毆打某人 殴打某人 [ou1 da3 mou3 ren2] {au2 daa2 mau5 jan4} /tabasser quelqu'un/
 
