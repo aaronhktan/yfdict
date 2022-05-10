@@ -11828,7 +11828,7 @@
 水文學 水文学 [shui3 wen2 xue2] {seoi2 man4 hok6} /hydrologie/
 水斗 水斗 [shui3 dou3] {seoi2 dau2} /de mauvaise qualité/
 水晶體 水晶体 [shui3 jing1 ti3] {seoi2 zing1 tai2} /(anatomie) cristallin; lentille située dans le globe de l'oeil/
-????f 水枱 水枱 [shui3 si4] {seoi2 toi4} /table de préparation d'aliments avec de l'eau en dessus qui sert à la nettoyer continuellement/
+????f 水枱 水枱 [shui3 si4] {seoi2 toi4} /table de préparation d'aliments avec de l'eau qui coule dessus qui sert à la nettoyer continuellement/
 水柿 水柿 [shui3 shi4] {seoi2 ci2} /kaki; plaquemine/
 ????f 水桶 水桶 [shui3 tong3] {seoi2 tung2} /seau (qui sert à contenir de l'eau)/
 ????f 水榭 水榭 [shui3 xie4] {seoi2 ze6} /pavillon (petit bâtiment) à bord de l'eau/
@@ -12925,7 +12925,7 @@
 烏搲 乌搲 [wu1 gua1] {wu1 we2} /être mal vêtu/
 烏溪沙 乌溪沙 [wu1 xi1 sha1] {wu1 kai1 saa1} /Wu Kai Sha, une partie de Sha Tin, l'un des dix-huit districts de Hong Kong/
 ????c 烏煙 乌烟 [wu1 yan1] {wu1 jin1} /fumée noire/
-????f 烏煙瘴氣 乌烟瘴气 [wu1 yan1 zhang4 qi4] {wu1 jin1 zoeng3 hei3} /(expr. idiom.) air sale; air enfumé/
+????f 烏煙瘴氣 乌烟瘴气 [wu1 yan1 zhang4 qi4] {wu1 jin1 zoeng3 hei3} /(expr.) air sale; air enfumé/
 烏燈黑火 乌灯黑火 [wu1 deng1 hei1 huo3] {wu1 dang1 hak1 fo2} /(expr.) noir complet; noir total/(lit.) lumière noire feu noir/
 烏眉瞌睡 乌眉瞌睡 [wu1 mei2 ke1 shui4] {wu1 mei4 hap1 seoi6} /(expr. idiom.) épuisé; fatigué; somnolent/(expr. idiom.) cogner des clous; lutter contre le sommeil; s'assoupir (attention! en cantonais, ce mot est un adjectif)/
 烏蠅 乌蝇 [wu1 ying2] {wu1 jing1} /(insecte) mouche/
@@ -24494,9 +24494,34 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 死鳩開 死鸠开 [si3 jiu1 kai1] {sei2 gau1 hoi1} /(vulg.) fous-moi le camp! va te faire foutre!/
 ????f 殺人如麻 杀人如麻 [sha1 ren2 ru2 maa4] {saat3 jan4 jyu4 maa4} /(expr. idiom.) décimer; tuer en masse/(lit.) tuer les gens comme faucher du lin/
 ????f 殺你 杀你 [sha1 ni3] {saat3 nei5} /(fig.) marché conclu (comme le dit un encanteur ou commissaire-priseur)/
-????f 殺到 杀到 [sha1 dao4] {saat3 dou3} /ça arrive! (note : cette expression est employée pour dire que quelque chose d'urgent et d'inquiétant arrive bientôt)/
+????f 殺到 杀到 [sha1 dao4] {saat3 dou3} /ça arrive! (note : cette expression est employée pour dire que quelque chose d'urgent et d'inquiétant se passera bientôt)/
 ????m 殺馬 杀马 [sha1 ma3] {saat3 maa5} /(fig.) obtenir ce que l'on veut; parvenir à ses fins/(lit.) tuer le cheval/
 ????f 毆幾多棍 殴几多棍 [ou1 ji3 duo1 gun4] {au2 gei2 do1 gwan3} /(expr.) (menace) tu veux te faire frapper combien de fois?/
-毆幾多碌 殴几多碌 [ou1 ji3 duo1 lu4] {au2 gei2 do1 luk1} /(expr.) (menace) tu veux te faire frapper combien de fois?/
+????f 毆幾多碌 殴几多碌 [ou1 ji3 duo1 lu4] {au2 gei2 do1 luk1} /(expr.) (menace) tu veux te faire frapper combien de fois?/
 ????c 毆打某人 殴打某人 [ou1 da3 mou3 ren2] {au2 daa2 mau5 jan4} /tabasser quelqu'un/
+毆跛 殴跛 [ou1 bo3] {au2 bai1} /briser; casser (une jambe, un bras)/
+每一天 每一天 [mei3 yi1 tian1] {mui5 jat1 tin1} /tous les jours; chaque jour/
+每個 每个 [mei3 ge5] {mui5 go3} /chaque; chacun/
+比較少 比较少 [bi3 jiao4 shao3] {bei2 gaau3 siu2} /pas beaucoup; relativement peu/
+比較新 比较新 [bi3 jiao4 xin1] {bei2 gaau3 san1} /relativement nouveau/
+比較鍾意 比较钟意 [bi3 jiao4 zhong1 yi4] {bei2 gaau3 zung1 ji3} /aimer bien/
+????f 毛都未生齊 毛都未生齐 [mao2 dou1 wei4 sheng1 qi2] {mou4 dou1 mei6 saang1 cai4} /(inj.) (expr. idiom.) jeune et inexpérimenté/(lit.) ne pas encore s'avoir fait pousser tous les cheveux/
+水房 水房 [shui3 fang2] {seoi2 fong4} /(surnom de la triade Wo On Lok)/
+水撥水 水拨水 [shui3 bo1 shui3] {seoi2 but6 seoi2} /liquide lave-glace/
+水甴曱 水甴曱 [shui3 zha2 yue1] {seoi2 gaat6 zaat2} /dytiques (Dytiscidae), famille d'insectes/
+????f 水檯 水台 [shui3 tai2] {seoi2 toi2} /table de préparation d'aliments avec de l'eau qui coule dessus qui sert à la nettoyer continuellement/
+水煮 水煮 [shui3 zhu3] {seoi2 zyu2} /(d'une aliment) bouilli; cuite dans de l'eau bouillante/
+水費站 水费站 [shui3 fei4 zhan4] {seoi2 fai3 zaam6} /(argot des chauffeurs de taxi) toilettes/
+????c 水頭足 水头足 [shui3 tou2 zu2] {seoi2 tau4 zuk1} /a large amount of money [colloquial]/
+????m 水飯房 水饭房 [shui3 fan4 fang2] {seoi2 faan6 fong4} /(fam.) cellule d'isolement/(lit.) salle à l'eau et au riz/
+????c 求番支好籤 求番支好签 [qiu2 fan1 zhi1 hao3 qian1] {kau4 faan1 zi1 hou2 cim1} /to seek advice from an experienced person; to seek help from an eminent person [colloquial]/
+汎濫 泛滥 [fan4 lan4] {faan3 laam6} /inonder/déborder/(fig.) hors de contrôle/
+????m 江湖地位 江湖地位 [jiang1 hu2 di4 wei4] {gong1 wu4 dei6 wai6} /position, power, status in the underworld or society [written and colloquial]/
+????m 江湖情 江湖情 [jiang1 hu2 qing2] {gong1 wu4 cing4} /a feeling of loyalty or affiliation to fellow triad members or close friends [written and colloquial]/
+????m 江湖救急 江湖救急 [jiang1 hu2 jiu4 ji2] {gong1 wu4 gau3 gap1} /help and assistance for a fellow triad member or a close friend in difficulties [written and colloquial]/
+????f 江湖道義 江湖道义 [jiang1 hu2 dao4 yi4] {gong1 wu4 dou6 ji6} /code d'honneur des triades ou du monde criminel/
+????f 污煙障氣 污烟障气 [wu1 yan1 zhang4 qi4] {wu1 jin1 zoeng3 hei3} /(expr.) air sale; air enfumé/
+汽車酒店 汽车酒店 [qi4 che1 jiu3 dian4] {hei3 ce1 zau2 dim3} /motel/
+汽車旅館 汽车旅馆 [qi4 che1 lu:3 guan3] {hei3 ce1 leoi5 gun2} /motel/
+沒良心 没良心 [mei2 liang2 xin1] {mut6 loeng4 sam1} /(fig.) sans cœur; impitoyable; cruel/(lit.) ne pas avoir de consience/
 
