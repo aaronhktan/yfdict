@@ -14386,7 +14386,7 @@
 白鱔 白鳝 [bai2 shan4] {baak6 sin5} /anguille/Anguille du Japon/
 白鴿 白鸽 [bai2 ge1] {baak6 gaap2} /pigeon/colombe/
 白鴿眼 白鸽眼 [bai2 ge1 yan3] {baak6 gap3 ngaan5} /(fig.) regard de mépris; regard dédaigneux/(lit.) yeux de pigeon/
-白鴿籠 白鸽笼 [bai2 ge1 long2] {baak6 gaap3 lung4} /pigeonnier/(fig.) radar; cinémomètre; appareil servant à mesurer la vitesse des automobiles/
+????f 白鴿籠 白鸽笼 [bai2 ge1 long2] {baak6 gaap3 lung4} /pigeonnier/(fig.) cinémomètre photographique; appareil qui prend une photo des voitures qui font un excès de vitesse/
 ????f 白鼻哥 白鼻哥 [bai2 bi2 ge1] {baak6 bei6 go1} /(personnage type de l'opéra cantonais) clown ou méchant (avec le nez peint en blanc)/(fig.) personne qui a raté un examen/(fig.) coureur de jupons, don Juan/
 ????f 百上加斤 百上加斤 [bai3 shang4 jia1 jin1] {baak3 soeng6 gaa1 gan1} /mettre de l'huile sur le feu; faire empirer la situation/
 百事 百事 [bai3 shi4] {baak3 si6} /Pepsi, boisson gazeuse/
@@ -14937,7 +14937,15 @@
 砂布 砂布 [sha1 bu4] {saa1 bou3} /toile d'émeri/
 砂煲 砂煲 [sha1 bao1] {saa1 bou1} /pot en terre cuite/
 砂煲兄弟 砂煲兄弟 [sha1 bao1 xiong1 di5] {saa1 bou1 hing1 dai6} /(expr. idiom.) ami proche; comme un frère; copains comme cochons; être à tu et à toi/(lit.) frères d'un pot en terre cuite/
-砂煲罌罉 砂煲罂罉 [sha1 bao1 ying1 cang1] {saa1 bou1 ngaang1 caang1} /(fig.) batterie de cuisine; ustensiles de cuisine/
+沙煲罌撐 沙煲罂撑 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
+沙煲罌罉 沙煲罂罉 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
+沙煲罌𦉘 沙煲罂𦉘 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
+沙煲甖罉 沙煲甖罉 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
+沙煲甖𦉘 沙煲甖𦉘 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
+砂煲罌罉 砂煲罂罉 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
+砂煲罌𦉘 砂煲罂𦉘 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
+砂煲甖罉 砂煲甖罉 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
+砂煲甖𦉘 砂煲甖𦉘 [sha1 bao1 ying1 cheng1] {saa1 bou1 aang1 caang1} /(expr.) batterie de cuisine; ustensiles de cuisine/(lit.) casserole en terre cuite, pot et marmite/
 ????c 砂盆 砂盆 [sha1 pen2] {saa1 pun4} /(noun) a sand tray; a clay pot/
 砂糖 砂糖 [sha1 tang2] {saa1 tong4} /sucre/
 砌 砌 [qi4] {cai3} /monter un coup contre quelqu'un; piéger/frapper; heurter/résoudre un problème/
@@ -24524,4 +24532,20 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 汽車酒店 汽车酒店 [qi4 che1 jiu3 dian4] {hei3 ce1 zau2 dim3} /motel/
 汽車旅館 汽车旅馆 [qi4 che1 lu:3 guan3] {hei3 ce1 leoi5 gun2} /motel/
 沒良心 没良心 [mei2 liang2 xin1] {mut6 loeng4 sam1} /(fig.) sans cœur; impitoyable; cruel/(lit.) ne pas avoir de consience/
+衝浪 冲浪 [chong1 lang4] {cung1 long6} /surfer; faire du surf/surf/surfer sur Internet/
+沖浪 冲浪 [chong1 lang4] {cung1 long6} /surfer; faire du surf/surf/surfer sur Internet/
+????c 沖涼涼 冲凉凉 [chong1liang2 liang2] {cung1 loeng4 loeng1} /(enfantin) prendre une douche/
+????c 沖涼鋪 冲凉铺 [chong1 liang2 pu4] {cung1 loeng4 pou2} /a bath house [colloquial]/
+沖盃茶 冲杯茶 [chong1 bei1 cha2] {cung1 bui1 caa4} /faire une tasse de thé/
+沙ｐｏｐ 沙ｐｏｐ [sha1ｐｏｐ] {saa1 pok1} /(fam.) téméraire; imprudent/
+沙ｐｏｋ 沙ｐｏｋ [sha1ｐｏｋ] {saa1 pok1} /(fam.) téméraire; imprudent/
+沙冧 沙冧 [sha1 lin2] {saa3 lam1} /présenter ses excuses; faire ses excuses/
+耍冧 耍冧 [shua3 lin2] {saa3 lam1} /présenter ses excuses; faire ses excuses/
+唦冧 唦冧 [sha1 lin2] {saa3 lam1} /présenter ses excuses; faire ses excuses/
+沙律醬 沙律酱 [sha1 lu:4 jiang4] {saa1 leot2 zoeng3} /sauce pour salade (ex. sauce César, vinaigrette, etc.)/
+沙泥 沙泥 [sha1 ni2] {saa1 nai4} /vase; sol sablonneux/
+沙灘巾 沙滩巾 [sha1 tan1 jin1] {saa1 taan1 gan1} /serviette de plage/
+沙門魚 沙门鱼 [sha1men2 yu2] {saa1 mun4 jyu2} /(rare) saumon (voir aussi 三文魚|三文鱼)/
+沙龍快相 沙龙快相 [sha1 long2 kuai4 xiang1] {saa1 lung4 faai3 soeng2} /(fig.) cinémomètre photographique; appareil qui prend une photo des voitures qui font un excès de vitesse/
+????f 油水地 油水地 [you2 shui5 di4] {jau4 seoi2 dei6} /(fig.) endroit qui offre beaucoup de possibilités de faire de l'argent/(lit.) terre à gains/
 
