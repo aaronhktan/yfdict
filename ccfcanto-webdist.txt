@@ -13215,7 +13215,7 @@
 燈膽 灯胆 [deng1 dan3] {dang1 daam2} /ampoule électrique/
 燈芯拎成鐵 灯芯拎成铁 [deng1 xin1 lin1 cheng2 tie3] {dang1 sam1 ling1 sing4 tit3} /(expr. idiom.) après un long voyage (ou après longtemps), même un poids léger devient un fardeau/(lit.) porter une mèche de lampe jusqu'à ce qu'elle devienne du métal/
 燈飾 灯饰 [deng1 shi4] {dang1 sik1} /installations lumineuses; décorations lumineuses (ex. guirlande lumineuse de Noël)/
-燉冬菇 燉冬菇 [du4 dong1 gu1] {dan6 dung1 gu1} /(expr. idiom.) être rétrogradé/(lit.) ragoût aux champignons/(orig.) quand les policiers à Hong Kong étaient rétrogradés, ils portaient un chapeau en forme de champignon/
+燉冬菇 炖冬菇 [du4 dong1 gu1] {dan6 dung1 gu1} /(expr. idiom.) être rétrogradé/(lit.) ragoût aux champignons/(orig.) quand les policiers à Hong Kong étaient rétrogradés, ils portaient un chapeau en forme de champignon/
 ????c 燉品 燉品 [du4 pin3] {dan6 ban2} /ragoûts/mets mijoté; mets cuit longtemps à petit feu/
 燉奶 燉奶 [du4 nai3] {dan6 naai5} /panna cotta, dessert italien/
 ????f 燉盅 燉盅 [du4 zhong1] {dan6 zung1} /(cuisine) bain-marie chinoise en porcelaine, ensemble de deux récipients : un récipient qui contient du liquide chaud qui sert à chauffer un mets, et l'autre récipient qui contient le mets/
@@ -24676,4 +24676,26 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 照版煮碗 照版煮碗 [zhao4 ban3 zhu3 wan3] {ziu3 baan2 zyu2 wun2} /(expr. idiom.) faire comme toujours; continuer à faire comme on l'a toujours fait; suivre les sentiers battus/
 照顧自己 照顾自己 [zhao4 gu5 zi4 ji3] {ziu3 gu3 zi6 gei2} /prendre soin de soi/
 煩死 烦死 [fan2 si3] {faan4 sei2} /être très énervé/chiant; très énervant/
+煲老茄 煲老茄 [bao1 lao3 qie2] {bou1 lou5 ke2} /(fig.) (d'une jeune femme) sortir avec un homme beaucoup plus âgé/(lit.) faire bouillir une vieille aubergine/
+????c 煲起 煲起 [bao1 qi3] {bou1 hei2} /to completely destroy, crush one's enemy [colloquial]/
+????m 蒸發作用 蒸发作用 [zheng1 fa1 zuo4 yong4] {zing1 faat3 zok3 jung6} /evaporation [written and colloquial]/
+????c 熟地方 熟地方 [shu2 di4 fang1] {suk6 dei6 fong1} /a familiar place [written and colloquial]/
+????m 熟架步 熟架步 [shu2 jia4 bu4] {suk6 gaa3 bou6} /to know one's way round; to know what one is doing [colloquial]/
+熟片 熟片 [shu2 pian4] {suk6 pin2} /(argot cinématique) film terminé; film achevé (voir aussi 生片|生片)/(lit.) film cuit/
+熟過頭 熟过头 [shu2 guo4 tou2] {suk6 gwo3 tau4} /trop cuit/
+熬底 熬底 [ao2 di3] {ngaau4 dai2} /(fig.) se dégonfler; manquer de courage/
+熬老襯 熬老衬 [ao2 lao3 chen4] {ngaau4 lou5 can3} /(expr.) (péj.) gagner sa vie honnêtement (expression utilisée par des criminels pour se moquer des criminels repentis)/
+熱死 热死 [re4 si3] {jit6 sei2} /(fam.) très chaud; trop chaud/
+????c 熱燈 热灯 [re4 deng1] {jit6 dang1} /a heat lamp [written and colloquial]/
+燉冬菰 炖冬菰 [dun4 dong1 gu1] {dan6 dung1 gu1} /(expr. idiom.) être rétrogradé (voir aussi 燉冬菇|炖冬菇)/(lit.) ragoût aux champignons/(orig.) quand les policiers à Hong Kong étaient rétrogradés, ils portaient un chapeau en forme de champignon/
+燒你收簿 烧你收簿 [shao1 ni3 shou1 bu4] {siu1 nei5 sau1 bou6} /(adoucissement de 屌你老母|屌你老母 « nique ta mère »)/
+????f 燒到⋯嗰疊 烧到⋯嗰叠 [shao1 dao4… ge3 die2] {siu1 dou3… go2 daap6} /(expr.) entraîner quelqu'un dans quelque chose qui ne le concernait pas/
+燒到我嗰疊 烧到我嗰叠 [shao1 dao4 wo3 ge3 die2] {siu1 dou3 ngo5 go2 daap6} /(expr.) m'entraîner (dans quelque chose)/
+????f 燒台炮 烧台炮 [shao1 tai2 pao4] {siu1 toi4 paau3} /(fig.) se mettre en colère et frapper le poing sur la table/
+????c 燒黃紙 烧黄纸 [shao1 huang2 zhi3] {siu1 wong4 zi2} /to swear an oath and become sworn brothers [colloquial] (voir aussi 斬雞頭燒黄紙|斩鸡头烧黄纸)/
+燕頷虎鬚 燕颔虎须 [yan4 han4 hu3 xu1] {jin3 ham4 fu2 sou1} /(expr. idiom.) avoir l'air riche et puissant/(lit.) avoir le menton de l'hirondelle et les moustaches du tigre/
+燙衫 烫衫 [tang4 shan1] {tong3 saam1} /repasser des vêtements/
+燙衫板 烫衫板 [tang4 shan1 ban3] {tong3 saam1 baan2} /planche à repasser/
+營商 营商 [ying2 shang1] {jing4 soeng1} /gérer une entreprise/
+????c 營業部 营业部 [ying2 ye4 bu4] {jing4 jip6 bou6} /sales department [written and colloquial]/
 
