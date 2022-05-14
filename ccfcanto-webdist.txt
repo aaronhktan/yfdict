@@ -1655,7 +1655,7 @@
 保姆車 保姆车 [bao3 mu3 che1] {bou2 mou5 ce1} /mini-autobus scolaire; « nanny-van » (« fourgon nounou »)/fourgon appartenant à une célébrité/
 保存期 保存期 [bao3 cun2 qi1] {bou2 cyun4 kei4} /durée de conservation/
 保安局 保安局 [bao3 an1 ju2] {bou2 on1 guk6} /Bureau de la sécurité de Hong Kong/
-保安費 保安费 [bao3 an1 fei4] {bou2 on1 fai3} /paiement de pizzo; paiement de protection; racket de protection/
+????f 保安費 保安费 [bao3 an1 fei4] {bou2 on1 fai3} /taxe de protection/
 保密 保密 [bao3 mi4] {bou2 mat6} /garder un secret/
 保持中立 保持中立 [bao3 chi2 zhong1 li4] {bou2 ci4 zung1 laap6} /rester neutre/
 保持者 保持者 [bao3 chi2 zhe3] {bou2 ci4 ze2} /le responsable de la tenue des registres/
@@ -1665,7 +1665,7 @@
 保衞 保卫 [bao3 wei4] {bou2 wai6} /défendre/
 保證書 保证书 [bao3 zheng4 shu1] {bou2 zing3 syu1} /lettre de garantie/
 保護裝置 保护装置 [bao3 hu4 zhuang1 zhi4] {bou2 wu6 zong1 zi3} /équipement de protection/
-保護費 保护费 [bao3 hu4 fei4] {bou2 wu6 fai3} /taxe de protection; pizzo; racket de protection/
+????f 保護費 保护费 [bao3 hu4 fei4] {bou2 wu6 fai3} /taxe de protection/
 保障 保障 [bao3 zhang4] {bou2 zoeng3} /protection/protéger/
 保險公司 保险公司 [bao3 xian3 gong1 si1] {bou2 him2 gung1 si1} /compagnie d'assurance/
 保險業 保险业 [bao3 xian3 ye4] {bou2 him2 jip6} /secteur de l'assurance; industrie de l'assurance/
@@ -9926,7 +9926,7 @@
 ????f 支路 支路 [zhi1 lu4] {zi1 lou6} /route secondaire; embranchement (chemin ou rue)/
 支離破碎 支离破碎 [zhi1li2po4sui4] {zi1 lei4 po3 seoi3} /fragmenté/déchiqueté/désagrégé/
 收 收 [shou1] {sau1} /entreposer/garder/
-????f 收保護費 收保护费 [shou1 bao3 hu4 fei4] {sau1 bou2 wu6 fai3} /demander un paiement de pizzo; demander la taxe de protection; extorquer de l'argent aux commerçants ou entreprises/ 
+????f 收保護費 收保护费 [shou1 bao3 hu4 fei4] {sau1 bou2 wu6 fai3} /demander la taxe de protection; extorquer de l'argent aux commerçants ou entreprises/ 
 收信 收信 [shou1 xin4] {sau1 seon3} /recevoir une lettre/
 收信人 收信人 [shou1 xin4 ren2] {sau1 seon3 jan4} /destinataire (d'une lettre)/
 收到 收到 [shou1 dao4] {sau1 dou3} /reçu; avoir reçu quelque chose/
@@ -9952,7 +9952,7 @@
 收款 收款 [shou1 kuan3] {sau1 fun2} /percevoir le paiement; encaisser les paiements/recouvrement; action d'obtenir le paiement/paiement; versement/
 ????c 收水 收水 [shou1 shui3] {sau1 seoi2} /(fig.) réduire le budget; réduire les fonds alloués/(fig.) percevoir le paiement; encaisser les paiements/(fig.) (légume ou fruit) se dessécher/(fam.) (fig.) ménopause/(lit.) retirer de l'eau/
 ????f 收火 收火 [shou1 huo3] {sau1 fo2} /(fig.) se calmer; ne plus être en colère/(lit.) apaiser le feu/
-收片 收片 [shou1 pian4] {sau1 pin2} /paiement de pizzo; taxe de protection/
+????f 收片 收片 [shou1 pian4] {sau1 pin2} /taxe de protection/
 ????f 收皮 收皮 [shou1 pi2] {sau1 pei4} /(fig.) (vulg.) foutez le camp! va te faire foutre!/(lit.) emballer sa peau/(orig.) du jeu d'argent fan-tan, qui se termine en enroulant une natte de bambou—les pauvres utilisaient cette natte pour recouvrir les cadavres, d'où le sens de « mourir comme un pauvre », et donc « va te faire foutre »/
 收益 收益 [shou1 yi4] {sau1 jik1} /(finance) bénéfices/
 ????f 收視 收视 [shou1 shi4] {sau1 si6} /cotes d'écoute/regarder la télévision; écouter la télévision/
@@ -9973,7 +9973,7 @@
 收銀員 收银员 [shou1 yin2 yuan2] {sau1 ngan2 jyun4} /caissier, caissière/
 ????f 收銀處 收银处 [shou1 yin2 chu3] {sau1 ngan2 cyu5} /comptoir, surface où l'argent est échangé dans un magasin/
 收錢 收钱 [shou1 qian2] {sau1 cin4} /recevoir un paiement/percevoir un paiement; encaisser un paiement/
-????f 收陀地 收陀地 [shou1 tuo2 di4] {sau1 to4 dei2} /(fig.) extorquer une taxe de protection ou paiement de pizzo/
+????f 收陀地 收陀地 [shou1 tuo2 di4] {sau1 to4 dei2} /(fig.) extorquer une taxe de protection/
 收風 收风 [shou1 feng1] {sau1 fung1} 收到風 收到风 [shou1 dao4 feng1] {sau1 dou2 fung1} /(expr. idiom.) apprendre; être informé; avoir vent de/(expr. idiom.) découvrir quelque chose grâce à un informateur ou une informatrice/
 改天換地 改天换地 [gai3 tian1 huan4 di4] {goi2 tin1 wun6 dei6} /(expr. idiom.) changer le monde/(lit.) réviser le ciel et changer la terre/
 改弦更張 改弦更张 [gai3 xian2 geng1 zhang1] {goi2 jin4 gang1 zoeng1} /(expr. idiom.) se réformer; tourner la page; prendre un nouveau départ; recommencer/(expr. idiom.) réformer; changer de politique/
@@ -20560,8 +20560,8 @@
 ????f 阿駝行路 啊駝行路 [a5 chi2 xing2 lu4] {aa3 to2 haang4 lou6} /(expr. en suspens) moyen; passable; adéquat/(lit.) monsieur le bossu traverse la rue (deuxième partie 中中哋|中中哋 zung1 zung1 dei2 « moyen », jeu de mots avec 舂舂哋|舂舂哋 zung1 zung1 dei2 « avoir l'air de presque tomber à chaque instant »)/
 ????f 阿麗 阿利 [a1 li4] {aa3 lai6} /hôtesse d'une boîte de nuit; entraîneuse/prostituée/
 ????f 陀 陀 [tuo2] {to4} /armer (d'une arme à feu)/(doublé) pris de vertige; avoir la tête qui tourne/(utilisé dans les translittérations de noms Bouddhistes)/
-陀地 陀地 [tuo2 di4] {to4 dei2} /taxe de protection; pizzo; racket de protection/membre de gang/
-陀地費 陀地费 [tuo2 di4 fei4] {to4 dei6 fai3} /taxe de protection; pizzo; racket de protection/
+????f 陀地 陀地 [tuo2 di4] {to4 dei2} /taxe de protection/membre d'un gang/
+陀地費 陀地费 [tuo2 di4 fei4] {to4 dei6 fai3} /(fig.) taxe de protection/
 陀槍 陀枪 [tuo2 qiang1] {to4 coeng1} /équipé d'armes à feu; armé/
 陀螺儀 陀螺仪 [tuo2 luo2 yi2] {to4 lo4 ji4} /gyroscope/
 陀衰家 陀衰家 [tuo2 shuai1 jia1] {to4 seoi1 gaa1} /brebis galeuse; personne qui fait honte à la famille/
@@ -22852,7 +22852,7 @@
 五行欠炳 五行欠炳 [wu3 xing2 qian4 bing3] {ng5 hang4 him3 bing2} /(fam.) canaille; crapule/(fam.) (enfant) déobéissant; vilain/
 亞士匹靈 亚士匹灵 [ya4 shi4 pi3 ling2] {aa3 si6 pat1 ling4} /aspirine/
 亞洲式 亚洲式 [ya4 zhou1 shi4] {aa3 zau1 sik1} /style asiatique/
-????f 交保護費 交保护费 [jiao1 bao3 hu4 fei4] {gaau1 bou2 wu6 fai3} /payer du pizzo; payer une taxe de protection/
+????f 交保護費 交保护费 [jiao1 bao3 hu4 fei4] {gaau1 bou2 wu6 fai3} /payer une taxe de protection/
 ????f 交個波俾你 交个波俾你 [jiao1 ge4 bo1 bi3 ni3] {gaau1 go3 bo1 bei2 nei5} /(expr. idiom.) vous laisser du travail; avoir fini sa part et à vous de faire le reste (to hand off a project, responsibility, etc. to you)/(lit.) vous donner la balle/
 ????f 交功課 交功课 [jiao1 gong1 ke4] {gaau1 gung1 fo3} /remettre les devoirs/(fig.) accomplir ses tâches; finir son travail/(vulg.) (rare) avoir des relations sexuelles comme une obligation/
 交朋結友 交朋结友 [jiao1 peng2 jie2 you3] {gaau1 pang4 git3 jau2} /se faire des amis/
@@ -22860,7 +22860,7 @@
 人一 人一 [ren2 yi1] {jan4 jat1} /(nom d'étoile) 2 Pegasi/
 人又老，錢又冇 人又老，钱又冇 [ren2 you4 lao3, qian2 you4 mao3] {jan4 jau6 lou5, cin2 jau6 mou5} /(expr.) être vieux et pauvre/
 人哋嘅 人哋嘅 [ren2 di4 ge3] {jan4 dei6 ge3} /(quelque chose) des autres/
-人心肉造 人心肉造 [ren2xin1 rou4 zao4] {jan4 sam1 juk6 zou6} /(expr. idiom.) même les personnes les plus cruelles ont un peu de sympathie/(lit.) le coeur humain est fait de chair/
+人心肉造 人心肉造 [ren2 xin1 rou4 zao4] {jan4 sam1 juk6 zou6} /(expr. idiom.) même les personnes les plus cruelles ont un peu de sympathie/(lit.) le coeur humain est fait de chair/
 ????f 人死不能復生 人死不能复生 [ren2 si3 bu4 neng2 fu4 sheng1] {jan4 sei2 bat1 nang4 fuk6 sang1} /(expr.) les défunts ne peuvent pas revenir à la vie (note : cette expression s'utilise généralement pour encourager quelqu'un à accepter la mort de quelqu'un et de mettre fin à leur deuil, ou de ne pas se suicider)/(lit.) quand une personne meurt, il ne peut pas revenir à vie/
 ????f 人無千日好，花無百日紅 人无千日好，花无百日红 [ren2 wu2 qian1 ri4 hao3, hua1 wu2 bai3 ri4 hong2] {jan4 mou4 cin1 jat6 hou2, faa1 mou4 baak3 jat6 hung4} /(fig.) toutes les bonnes choses ont une fin/(lit.) les personnes ne sont heureux mille jours, les fleurs ne restent pas rouge cent jours/
 ????f 人肉 人肉 [ren2 rou4] {jan4 juk6} /chair humaine/(pop.) faire des recherches « à la chair humaine »; crowdsourcer des informations privées de quelqu'un sur Internet afin de les publier; « doxxer » (voir aussi 人肉搜索|人肉搜索)/
@@ -24254,7 +24254,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 收尾一個 收尾一个 [shou1 wei3 yi1 ge5] {sau1 mei1 jat1 go3} /le dernier/
 ????c 收尾一日 收尾一日 [shou1 wei3 yi1 ri4] {sau1 mei1 jat1 jat6} /le dernier jour/
 收爹 收爹 [shou1 die1] {sau1 de1} /(vulg.) ta gueule! tais-toi! ferme-la!/
-????f 收租佬 收租佬 [shou1 zu1 lao3] {sau1 zou1 lou2} /propriétaire; proprio; personne à qui on paye le loyer/(fig.) personne à qui on paye un pot-de-vin ou un pizzo (racket de protection)/
+????f 收租佬 收租佬 [shou1 zu1 lao3] {sau1 zou1 lou2} /propriétaire; proprio; personne à qui on paye le loyer/(fig.) personne à qui on paye un pot-de-vin ou une taxe de protection/
 收虧 收亏 [shou1 kui1] {sau1 kwai1} /accepter des pots-de-vin/
 ????c 收韁 收缰 [shou1 jiang1] {sau1 goeng1} /arrêtez de vous battre!/
 ????f 收順啲 收顺啲 [shou1 shun4 di1] {sau1 seon6 di1} /(en marchandant) on peu baisser un peu le prix?/
@@ -24698,4 +24698,29 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 燙衫板 烫衫板 [tang4 shan1 ban3] {tong3 saam1 baan2} /planche à repasser/
 營商 营商 [ying2 shang1] {jing4 soeng1} /gérer une entreprise/
 ????c 營業部 营业部 [ying2 ye4 bu4] {jing4 jip6 bou6} /sales department [written and colloquial]/
+????f 爆冷格 爆冷格 [bao4 leng3 ge2] {baau3 laang5 gaak3} /(fig.) cambrioler un lieu lorsque les occupants ne sont pas là/
+????c 爆口響 爆口响 [bao4 kou3 xiang3] {baau3 hau2 hoeng2} /to disclose a secret [colloquial] (=爆響口?)/
+????f 爆大冷 爆大冷 [bao4 da4 leng3] {baau3 daai6 laang5} /(fig.) (sports ou courses hippiques) défaite très inattendue/
+????c 爆大嘢 爆大嘢 [bao4 da4 ye3] {baau3 daai6 je5} /to expose a big scandal [colloquial]/
+????f 爆熱格 爆热格 [bao4 re4 ge2] {baau3 jit6 gaak3} /(fig.) cambrioler un lieu lorsque les occupants sont là/
+????f 爆鑊大嘢 爆镬大嘢 [bao4 huo4 da4 ye3] {baau3 wok6 daai6 je5} /(fig.) dénoncer un grand scandale/
+????c 爆鑊杰嘢 爆镬杰嘢 [bao4 huo4 jie2 ye3] {baau3 wok6 git6 je5} /to expose a big scandal [colloquial]/
+????m 爆陰毒 爆阴毒 [bao4 yin1 du2] {baau3 jam1 duk6} /to use underhand ways to harm someone; to reveal someone's insidious plans [colloquial]/
+????m 爆馬欄 爆马栏 [bao4 ma3 lan2] {baau3 maa5 laan4} /(fig.) loger à l'hôtel/(fig.) visiter un bordel/
+????m 爆馬欖 爆马榄 [bao4 ma3 lan3] {baau3 maa5 laam5} /(fig.) loger à l'hôtel/(fig.) visiter un bordel/
+????m 爆馬纜 爆马缆 [bao4 ma3 lan3] {baau3 maa5 laam6} /(fig.) loger à l'hôtel/(fig.) visiter un bordel/
+????f 爛命一條 烂命一条 [lan4 ming4 yi1 tiao2] {laan6 meng6 jat1 tiu4} /(expr. idiom.) n'avoir rien accompli pendant sa vie et n'avoir rien à perdre/(lit.) vie brisée/
+????c 爛瓦 烂瓦 [lan4 wa3] {laan6 ngaa5} /(fig.) chat/(lit.) tuile brisée/
+爛笪 烂笪 [lan4 da2] {laan6 daat3} /(fig.) sans scrupules; sans principes/
+????f 爛賭鬼 烂赌鬼 [lan4 du3 gui3] {laan6 dou2 gwai2} /(fam.) accro au jeu; joueur compulsif/
+𤓓味 𤓓味 [𤓓5 wei4] {lo3 mei6} /horrible odeur de brûlé/
+????f 爭口氣 争口气 [zheng1 kou3 qi4] {zaang1 hau2 hei3} /(expr. idiom.) travailler pour prouver sa valeur; chercher à obtenir l'admiration des autres/
+????f 爭一口氣 争一口气 [zheng1 yi1 kou3 qi4] {zaang1 jat1 hau2 hei3} /(expr. idiom.) travailler pour prouver sa valeur; chercher à obtenir l'admiration des autres/
+爭些少 争些少 [zheng1 xie1 shao3] {zaang1 se1 siu2} /presque; qui manque un peu; légèrement insuffisant/
+????f 爭地盤 争地盘 [zheng1 di4 pan2] {zaang1 dei6 pun4} /se battre pour un territoire/
+爭好遠 争好远 [zheng1 hao3 yuan3] {zaang1 hou2 jyun5} /très différent/loin du compte; très en dessous des espérances/très insuffisant/
+????m 爭返啖氣 争返啖气 [zheng1 fan3 dan4 qi4] {zaang1 faan1 daam6 hei3} /(expr. idiom.) redorer son blason; rétablir sa réputation/(lit.) se battre pour récupérer son souffle/
+????m 爭風呷醋 争风呷醋 [zheng1 feng1 xia1 cu4] {zang1 fung1 haap3 cou3} /to compete for affection [colloquial]/
+????f 片費 片费 [pian4 fei4] {pin2 fai3} /(fam.) somme d'argent payé pour le pizzo; taxe de protection/
+????m 片車 片车 [pian4 che1] {pin2 ce1} /to race cars [colloquial] (legal or illegal?)/
 
