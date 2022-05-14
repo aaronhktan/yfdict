@@ -12919,7 +12919,7 @@
 烏劣劣 乌劣劣 [wu1 lie4 lie4] {wu1 lyut1 lyut1} /noir foncé/
 ????c 烏卒卒 乌卒卒 [wu1 cu4 cu4] {wu1 zeot1 zeot1} /noir; noir foncé/????dans l'obscurité/????(fig.) méconnaître; ignorer; être laissé dans l'ignorance/
 烏啄啄 乌啄啄 [wu1 zhuo2 zhuo2] {wu1 doeng1 doeng1} /stupide; idiot; lent/étourdi; distrait/
-????f 烏喱單刀 乌喱单刀 [wu1 li2 dan1 dao1] {wu1 lei1 daan1 dou1} /(expr. idiom.) (lieu) dans un désordre; désordonné/
+????f 烏喱單刀 乌喱单刀 [wu1 li2 dan1 dao1] {wu1 lei1 daan1 dou1} /(expr. idiom.) (lieu) désordonné; en désordre/
 烏喱馬扠 乌喱马叉 [wu1 li2 ma3 cha1] {wu1 lei1 maa5 caa1} /(écriture) malpropre; difficilement lisible/
 烏垂垂 乌垂垂 [wu1 chui2 chui2] {wu1 soe2 soe4} /distrait; étourdi; embrouillé; lent; stupide/
 烏搲 乌搲 [wu1 gua1] {wu1 we2} /être mal vêtu/
@@ -21613,7 +21613,7 @@
 飯量 饭量 [fan4 liang4] {faan6 loeng6} /appétit/
 飯鏟 饭铲 [fan4 chan3] {faan6 caan2} /shakushi; shamoji; spatule pour servir le riz/spatule/
 飯鏟頭 饭铲头 [fan4 chan3 tou2] {faan6 caan2 tau4} /(espèce de serpents) Naja atra/
-飲 饮 [yin3] {jam2} /boire/boisson; breuvage/assister à un banquet/
+????f 飲 饮 [yin3] {jam2} /boire/boisson; breuvage/assister à un banquet (en particulier, une réception de mariage)/
 飲到大大地 饮到大大地 [yin3 dao4 da4 da4 di4] {jam2 dou3 daai6 daai2 dei2} /(expr. idiom.) être un peu ivre; avoir la tête qui tourne/(lit.) boire jusqu'à se sentir un peu grand/
 飲勝 饮胜 [yin3 sheng4] {jam2 sing3} /santé! tchin-tchin!/
 飲勝佢 饮胜渠 [yin3 sheng4 qu2] {jam2 sing3 keoi5} /santé! tchin-tchin!/
@@ -24624,4 +24624,28 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 激死老豆搵山拜 激死老豆揾山拜 [ji1 si3 lao3 dou4 wen3 shan1 bai4] {gik1 sei2 lou5 dau6 wan2 saan1 baai3} /(expr. idiom.) mettre son père en colère avec son insolence; rendre son père fou furieux/(lit.) rendre son père tellement fâché qu'il meure prématuérément et l'on doit rendre visite à sa tombe dans les tombes ancestrales/
 ????f 激漲法 激涨法 [ji1 zhang3 fa3] {gik1 zoeng3 faat3} /(fig.) méthode pour inciter quelqu'un à faire quelque chose en se moquant de lui/
 ????f 激脹法 激胀法 [ji1 zhang4 fa3] {gik1 zoeng3 faat3} /(fig.) méthode pour inciter quelqu'un à faire quelque chose en se moquant de lui/
+激鬼氣 激鬼气 [ji1 gui3 qi4] {gik1 gwai2 hei3} /chiant; très énervant/
+????c 濕九 湿九 [shi1 jiu3] {sap1 gau2} /low class; vulgar [colloquial]/
+????c 濕九仔 湿九仔 [shi1 jiu3 zi3] {sap1 gau2 zai2} /little shit [colloquial]/
+濕濕哋 湿湿哋 [shi1 shi1 di4] {sap1 sap1 dei2} /un peu mouillé/
+????p 瀨大鑊 濑大镬 [lai4 da4 huo4] {laai6 daai6 wok6} /(fam.) se mettre dans le pétrin; faire une erreur et causer des problèmes/
+????f 瀨尿 濑尿 [lai4 niao4] {laai6 niu6} /mouiller; uriner par accident/
+????f 瀨屎忽 濑屎忽 [lai4 shi3 hu1] {laai6 si2 fat1} /(fam.) pétrin; grand problème/
+瀨鑊 濑镬 [lai4 huo4] {laai6 wok6} /(fam.) se mettre dans le pétrin; faire une erreur et causer des problèmes/
+????c 灣月 湾月 [wan1 yue4] {waan1 jyut6} /éventail/
+????f 火柴人 火柴人 [huo3 chai2 ren2] {fo2 caai4 jan4} /bonhomme allumette; bonhomme en bâtonnets/(lit.) bonhomme en bois de chauffage/
+火車路 火车路 [huo3 che1 lu4] {fo2 ce1 lou6} /voie ferrée/
+????c 炒一鑊熟 炒一镬熟 [chao3 yi1 huo4 shu2] {caau2 jat1 wok6 suk6} /(expr.) (fam.) tabasser; rouer de coups/(lit.) faire frire tout un wok jusqu'à ce que (son contenu soit) cuit/
+炒咗一鑊 炒咗一镬 [chao3 zuo3 yi1 huo4] {caau2 zo2 jat1 wok6} /(expr.) (fam.) gâcher; rater; foutre en l'air/(lit.) avoir fait frire un wok/
+????c 炒嘢 炒嘢 [chao3 ye3] {caau2 je5} /to argue with; to fight with; to have sex; to make out [colloquial]/
+????f 炒大鑊 炒大镬 [chao3 da4 huo4] {caau2 daai6 wok6} /(fig.) avoir une grosse dispute/(lit.) faire frire un grand wok/
+????f 炒孖展 炒孖展 [chao3 ma1 zhan3] {caau2 maa1 zin2} /(fam.) spéculer avec des achats sur marge/(orig.) de l'anglais « margin » (« marge ») avec 炒|炒 significant « spéculer » dans son sens figuré/
+炒起 炒起 [chao3 qi3] {caau2 hei2} /(fig.) se disputer/(fig.) tabasser; rouer de coups/(lit.) faire frire/
+????f 炒鑊勁 炒镬劲 [chao3 huo4 jin4] {caau2 wok6 ging6} /(fig.) avoir une grosse dispute/(fig.) y avoir un gros accident de route/(lit.) faire frire un wok d'une manière puissante/
+炮房 炮房 [pao4 fang2] {paau3 fong3} /chambre d'une prostituée/
+????m 為人為己 为人为己 [wei2 ren2 wei2 ji3] {wai4 jan4 wai4 gei2} /for the sake of oneself and others [written and colloquial]/
+????m 為荷 为荷 [wei2 he2] {wai4 ho4} /(formule de politesse dans la lettre)/
+烏厘單刀 乌厘单刀 [wu1 li2 dan1 dao1] {wu1 lei1 daan1 dou1} /(expr. idiom.) (lieu) désordonné; en désordre (voir aussi 烏喱單刀|乌喱单刀)/
+烏吓烏吓 乌吓乌吓 [wu1 xia4 wu1 xia4] {wu1 haa5 wu1 haa5} /(expr. idiom.) (à cause de la fatigue) abruti; étourdi/
+????f 烏喱馬杈 乌喱马杈 [wu1 li2 ma3 cha1] {wu1 lei1 maa5 caa5} /(expr. idiom.) (de l'écriture) du gribouillis; en pattes de mouche; dont les traits, caractères, ou lettres son mal formés/
 
