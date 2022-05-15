@@ -8045,7 +8045,7 @@
 ????f 恃 恃 [shi4] {ci5} /tirer profit de; profiter de (to take advantage of one's background to do something; to abuse something to get an advantage)/
 ????f 恃勢欺人 恃势欺人 [shi4 shi4 qi1 ren2] {ci5 sai3 hei1 jan4} /profiter de la situation; abuser de sa position pour tyranniser les autres/
 ????f 恃強凌弱 恃强凌弱 [shi4 qiang2 ling2 ruo4] {ci5 koeng4 ling4 joek6} /(étant plus fort) tyranniser les plus faibles/
-????f 恃熟賣熟 恃熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /profiter de ses amis; exploiter sa famille ou ses proches; abuser de la gentillesse des personnes que l'on connaît/
+恃熟賣熟 恃熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /(expr. diom.) profiter de ses amis; exploiter sa famille ou ses proches; abuser de la gentillesse des personnes que l'on connaît/
 ????f 恃老賣老 恃老卖老 [shi4 lao3 mai4 lao3] {ci5 lou5 maai6 lou5} /(expr.) personnes âgées qui méprisent les autres/
 恆安 恒安 [heng2 an1] {hang4 on1} /Heng On, grand ensemble situé à Hong Kong/
 恆河沙 恒河沙 [heng2 he2 sha1] {hang4 ho4 saa1} /beaucoup/(lit.) comme les grains de sable sur les rives du Gange/
@@ -13425,8 +13425,8 @@
 牛力 牛力 [niu2 li4] {ngau4 lik6} /(fig.) une grande force/(lit.) force d'un boeuf/
 牛唔飲水唔撳得牛頭低 牛唔饮水唔揿得牛头低 [niu2 n2 yin3 shui3 n2 qin4 de5 niu2 tou2 di1] {ngau4 m4 jam2 seoi2 m4 gam6 dak1 ngau4 tau4 dai1} /(expr. idiom.) une personne ne peut pas être contrainte de faire quelque chose qu'il ou elle ne veut pas/(lit.) si un bœuf ne veut pas boire de l'eau, one ne peut pas faire abaisser sa tête/
 牛唔飲水點撳得牛頭低 牛唔饮水点揿得牛头低 [niu2 n2 yin3 shui3 dian3 qin4 de5 niu2 tou2 di1] {ngau4 m4 jam2 seoi2 dim2 gam6 dak1 ngau4 tau4 dai1} /(expr. idiom.) une personne ne peut pas être contrainte de faire quelque chose qu'il ou elle ne veut pas/(lit.) si un bœuf ne veut pas boire de l'eau, comment peut-on faire abaisser sa tête?/
-牛噍牡丹 牛噍牡丹 [niu2 jiao4 mu3 dan5] {ngau4 ziu6 maau5 daan1}  /(expr. en suspens) comme donner de la confiture aux cochons/(lit.) comme une vache mastiquant une pivoine (deuxième partie 唔知花定草|唔知花定草 « ne sachant pas faire la différence entre une fleur ou de l'herbe »)/
-牛嚼牡丹 牛嚼牡丹 [niu2 jue2 mu3 dan5] {ngau4 ziu6 maau5 daan1} /(expr. en suspens) comme donner de la confiture aux cochons/(lit.) comme une vache mastiquant une pivoine (deuxième partie 唔知花定草|唔知花定草 « ne sachant pas faire la différence entre une fleur ou de l'herbe »)/
+????f 牛噍牡丹 牛噍牡丹 [niu2 jiao4 mu3 dan5] {ngau4 ziu6 maau5 daan1} /(expr. en suspens) comme donner de la confiture aux cochons; être une personne qui manque de discernement, souvent en parlant de la nourriture; ne pas avoir un palais délicat/(lit.) comme une vache mastiquant une pivoine (deuxième partie 唔知花定草|唔知花定草 « ne sachant pas faire la différence entre une fleur ou de l'herbe »)/
+????f 牛嚼牡丹 牛嚼牡丹 [niu2 jue2 mu3 dan5] {ngau4 ziu6 maau5 daan1} /(expr. en suspens) comme donner de la confiture aux cochons; être une personne qui manque de discernement, souvent en parlant de la nourriture; ne pas avoir un palais délicat/(lit.) comme une vache mastiquant une pivoine (deuxième partie 唔知花定草|唔知花定草 « ne sachant pas faire la différence entre une fleur ou de l'herbe »)/
 牛奶糖 牛奶糖 [niu2 nai3 tang2] {ngau4 naai5 tong2} /bonbon au lait (ex. 大白兔奶糖|大白兔奶糖 « bonbons au lait du grand lapin blanc », « White Rabbit » en anglais)/
 牛尾 牛尾 [niu2 wei3] {ngau4 mei5} /queue de bœuf/
 牛屎 牛屎 [niu2 shi3] {ngau4 si2} /bouse de vache/(fig.) voyou; homme mal élevé/
@@ -24723,4 +24723,31 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 爭風呷醋 争风呷醋 [zheng1 feng1 xia1 cu4] {zang1 fung1 haap3 cou3} /to compete for affection [colloquial]/
 ????f 片費 片费 [pian4 fei4] {pin2 fai3} /(fam.) somme d'argent payé pour le pizzo; taxe de protection/
 ????m 片車 片车 [pian4 che1] {pin2 ce1} /to race cars [colloquial] (legal or illegal?)/
+????m 片過 片过 [pian4 guo4] {pin2 gwo3} /to have a fight [colloquial] (physical or not? bad fight or not?)/
+片開 片开 [pian4 kai1] {pin3 hoi1} /casse-toi! va te faire voir!/
+????m 片餐飽 片餐饱 [pian4 can1 bao3] {pin2 caan1 baau2} /to gulp down the food; to get stuck into one's food [colloquial]/
+????m 牙屎斬斬 牙屎斩斩 [ya2 shi3 zhan3 zhan3] {ngaa4 si2 zaam2 zaam2} /to boost; to brag [colloquial]/
+牙擦蘇 牙擦苏 [ya2 ca1 su1] {ngaa4 caat3 sou1} /(fam.) vantard; fanfaron; personne qui a l'habitude de se vanter/
+????f 牛𡁻牡丹 牛𡁻牡丹 [niu2 𡁻5 mu3 dan5] {ngau4 ziu6 maau5 daan1} /(expr. en suspens) comme donner de la confiture aux cochons; être une personne qui manque de discernement, souvent en parlant de la nourriture; ne pas avoir un palais délicat/(lit.) comme une vache mastiquant une pivoine (deuxième partie 唔知花定草|唔知花定草 « ne sachant pas faire la différence entre une fleur ou de l'herbe »)/
+牛油刀 牛油刀 [niu2 you2 dao1] {ngau4 jau4 dou1} /couteau à beurre/
+牛油多士 牛油多士 [niu2you2 duo1shi4] {ngau4 jau4 do1 si2} /toast beurré/
+????f 牛記笠記 牛记笠记 [niu2 ji4 li4 ji4] {ngau4 gei3 lap1 gei3} /vêtements décontractés (souvent un combo t-shirt et jeans)/
+牠們自己 它们自己 [ta1 men5 zi4 ji3] {taa1 mun4 zi6 gei2} /eux-mêmes (animaux)/
+特別是 特别是 [te4 bie2 shi4] {dak6 bit6 si6} /(à l'écrit) particulièrement; en particulier/
+恃熟賣熟 特熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /(expr. idiom.) profiter de ses amis; exploiter sa famille ou ses proches; abuser de la gentillesse des personnes que l'on connaît/
+狒狒地 狒狒地 [fei4fei4 di4] {fat1 fat1 dei2} /(fam.) fou; cinglé; toqué/
+????f 狗上瓦坑 狗上瓦坑 [gou3 shang4 wa3 keng1] {gau2 soeng5 ngaa5 haang1} /(expr. idiom.) (expression utilisée pour accuser quelqu'un d'avoir une liaison)/(lit.) chien sur le toit/
+????f 狗不理 狗不理 [gou3 bu4 li3] {gau2 bat1 lei5} /petit pain farci de viande de porc et de légumes, spécialité de la ville de Tianjian/
+????m 狗屎佬 狗屎佬 [gou3 shi3 lao3] {gau2 si2 lou2} /(fam.) connard; salaud/(lit.) crotte de chien/
+狗王 狗王 [gou3 wang2] {gau2 wong4} /(fig.) équipe chargée d'attraper des camelots; équipe chargée d'attraper des vendeurs à la sauvette/(lit.) roi des chiens/
+狗笠 狗笠 [gou3 li4] {gau2 lap1} /(fam.) capote; préservatif/
+狗話 狗话 [gou3 hua4] {gau2 waa2} /(fam.) conneries; du n'importe quoi/(lit.) paroles de chien/
+????m 狗話連篇 狗话连篇 [gou3 hua4 lian2 pian1] {gau2 waa6 lin4 pin1} /full of bullshit / nonsense [colloquial]/
+????c 狗閪 狗閪 [gou3 se1] {gau2 hai1} /(vulg.) connard; con; enfoiré/(lit.) vagin de chienne/
+狗頸圈 狗颈圈 [gou3 jing3 quan1] {gau2 geng2 hyun1} /collier de chien/
+狼死 狼死 [lang2 si3] {long4 sei2} /impitoyable; cruel/avare; cupide/effronté; sans gêne/
+????m 狼膽 狼胆 [lang2 dan3] {long4 daam2} /(d'une personne) audacieux; osé/
+狼過華秀 狼过华秀 [lang2 guo4 hua2 xiu4] {long4 gwo3 waa4 sau3} /(expr. idiom.) très cruel; impitoyable (voir 狼過華秀隻狗|狼过华秀只狗)/
+狼過華秀雙狗 狼过华秀双狗 [lang2 guo4 hua2 xiu4 shuang1 gou3] {long4 gwo3 waa4 sau3 soeng1 gau2} /(expr. idiom.) très cruel; impitoyable (voir 狼過華秀隻狗|狼过华秀只狗)/
+????m 猛毛 猛毛 [meng3 mao2] {maang5 mou4} /to pick and choose customers instead of accepting customers indiscriminately [colloquial]/
 
