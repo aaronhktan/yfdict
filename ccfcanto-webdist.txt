@@ -14298,7 +14298,7 @@
 發矛 发矛 [fa1 mao2] {faat3 maau4} /paniquer; être effrayé/devenir fou; perdre la raison/
 ????f 發窮惡 发穷恶 [fa1 qiong2 e4] {faat3 kung4 ok3} /se mettre en colère à cause de son pauvreté; être irrité par ses difficultés financières/
 發糕 发糕 [fa1 gao1] {faat3 gou1} /gateau éponge cuit à la vapeur, patisserie chinoise consommée lors des célébrations du Nouvel An chinois/
-發羊吊 发羊吊 [fa1 yang2 diao4] {faat3 joeng4 diu3} /faire une crise d'épilepsie/épilepsie/
+發羊吊 发羊吊 [fa1 yang2 diao4] {faat3 joeng4 diu3} /(fam.) faire une crise d'épilepsie/(fam.) épilepsie/
 發老脾 发老脾 [fa1 lao3 pi2] {faat3 lou5 pei4} /piquer une crise/se mettre en colère; s'emporter; se fâcher/s'énerver/
 發脾氣 发脾气 [fa1 pi2 qi4] {faat3 pei4 hei3} /se mettre en colère; s'emporter; se fâcher/piquer une crise/s'énerver/
 發腳 发脚 [fa1 jiao3] {faat3 goek3} /commencer à courir/
@@ -23210,7 +23210,7 @@
 ????f 口慷慷 口慷慷 [kou3 kang1 kang1] {hau2 hong2 hong2} /(fig.) qui fait des promesses sans réfléchir; qui ne pense pas à comment tenir une promesse après l'avoir faite/
 ????c 口衰 口衰 [kou3 shuai1] {hau2 seoi1} /(fig.) qui dit souvent les mauvaises choses au mauvais moment (par exprès?)/(lit.) mauvaise bouche/
 ????c 口語字詞識別 口语字词识别 [kou3yu3 zi4ci2 shi2bie2] {hau2 jyu5 zi6 ci4 sik1 bit6} /the differentiation of the written words from the spoken form/
-古惑女 古惑女 [gu3 huo4 nv3] {gu2 waak6 neoi2} /(fam.) membre d'un gang de sexe féminin/
+古惑女 古惑女 [gu3 huo4 nu:3] {gu2 waak6 neoi2} /(fam.) membre d'un gang de sexe féminin/
 古肅 古肃 [gu3 su4] {gu2 suk1} /conservateur; vieux jeu; qui a des idées démodées/habituellement silencieux; taciturne; réticent/
 古蠱仔 古蛊仔 [gu3 huo4 zi3] {gu2 waak6 zai2} /(fam.) membre d'un gang de sexe masculin/
 只需要 只需要 [zhi3 xu1 yao4] {zi2 seoi1 jiu3} /a seulement besoin de/
@@ -23693,7 +23693,7 @@
 ????f 孖必 孖必 [ma1 bi4] {maa1 bit1} /patrouille effectuée par deux policiers ensemble/
 ????f 孖咇 孖咇 [ma1 bi4] {maa1 bit1} /patrouille effectuée par deux policiers ensemble/
 孖煙囪 孖烟囱 [ma1 yan1 cong1] {maa1 jin1 tung1} /caleçons/(lit.) cheminées jumelles/
-????f 孤男寡女 孤男寡女 [gu1 nan2 gua3 nv3] {gu1 naam4 gwaa2 neoi5} /(expr.) un homme et une femme qui sont ensemble quelque part sans autres personnes (connotation suggestive)/
+????f 孤男寡女 孤男寡女 [gu1 nan2 gua3 nu:3] {gu1 naam4 gwaa2 neoi5} /(expr.) un homme et une femme qui sont ensemble quelque part sans autres personnes (connotation suggestive)/
 孭周身債 孭周身债 [mie1 zhou1 shen1 zhai4] {me1 zau1 san1 zaai3} /(expr. idiom.) lourdement endetté/(lit.) porter des dettes partout sur le corps/
 ????m 孭鐵 孭铁 [mie1 tie3] {me1 tit3} /(fig.) être policier/(lit.) porter du métal/
 學到 学到 [xue2 dao4] {hok6 dou2} /appris; (quelque chose) que l'on a appris/
@@ -24848,4 +24848,30 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 痾茄 疴茄 [ke1 qie2] {o1 ke1} /(fam.) déféquer/
 ????f 痾鎖鏈 疴锁链 [ke1 suo3 lian4] {o1 so2 lin2} /(fig.) être constipé et déféquer pendant longtemps/(lit.) évacuer des chaînes/
 瘀痕 瘀痕 [yu1 hen2] {jyu2 han4} /bleu; ecchymose/
+????m 瘟仔 瘟仔 [wen1 zi3] {wan1 zai2} /to try to pick up a guy [colloquial]/
+????m 瘟女 瘟女 [wen1 nu:3] {wan1 neoi2} /to try to pick up a girl [colloquial]/
+????f 瘦田冇人耕，耕開有人爭 瘦田冇人耕，耕开有人争 [shou4 tian2 mao3 ren2 geng1, geng1 kai1 you3 ren2 zheng1] {sau3 tin4 mou5 jan4 gaang1, gaang1 hoi1 jau5 jan4 zaang1} /(expr. idiom.) quelque chose qui au début n'est pas populaire, mais provoque un grand engouement quand quelqu'un s'y intéresse/(lit.) personne ne veut travailler une terre aride, mais quand est le champ est travaillé plusieurs personnes se battront pour l'avoir/
+瘦骨柴 瘦骨柴 [shou4 gu3 chai2] {sau3 gwat1 caai4} /(expr. idiom.) émacié; décharné; chétif; n'avoir que la peau sur les os (voir aussi 瘦骨如柴|瘦骨如柴)/(lit.) os maigres comme des brindilles/
+癡心 痴心 [chi1 xin1] {ci1 sam1} /amour aveugle; amour déraisonné/
+癡纏 痴缠 [chi1 chan2] {ci1 cin4} /(d'une personne, souvent un petit ami, petite amie, conjoint, conjointe) collant; possessif/
+????m 癩蝦蟆想食天鵝肉 癞虾蟆想食天鹅肉 [lai4 ha2 ma2 xiang3 shi2 tian1 e2 rou4] {laai3 haa1 maa4 soeng2 sik6 tin1 ngo4 juk6} /(expr. idiom.) draguer quelqu'un qui est trop beau ou belle; draguer quelqu'un qui est hors de sa portée/(lit.) crapaud qui veut manger la viade du cygne/
+????m 癮到 瘾到 [yin3 dao4] {jan5 dou3} /to feel the urge to take drugs inorder to satisfy an addiction [colloquial]/
+????c 癮嚟 瘾嚟 [yin3 li4] {jan5 lei4} /to feel the urge to take drugs inorder to satisfy an addiction [colloquial]/
+????m 癲癲得得 癫癫得得 [dian1 dian1 de5 de5] {din1 din1 dak1 dak1} /(expr.) fou; cinglé; dingue/
+發ｔｉ騰 发ｔｉ腾 [fa1ｔｉ teng2] {faat3 ti4 tang4} /paniquer; avoir une crise d'angoisse/
+發Ｔ騰 发Ｔ腾 [fa1 T5 teng2] {faat3 ti4 tang4} /paniquer; avoir une crise d'angoisse/
+????f 發個豬頭 发个猪头 [fa1 ge4 zhu1 tou2] {faat3 go3 zyu1 tau4} /(expr. idiom.) devenir très riche/
+發個輪 发个轮 [fa1 ge4 lun2] {faat3 go3 leon4} /(vieilli) donner un coup de fil à quelqu'un/(lit.) faire tourner la roue (faisant référence au cadran téléphonique)/
+發台瘟 发台瘟 [fa1 tai2 wen1] {faat3 toi4 wan1} /(fig.) (d'un comédien) avoir le trac/(lit.) avoir le délire de la scène/
+發大 发大 [fa1 da4] {faat3 daai6} /(d'une entreprise) se développer/(d'un objet) augmenter de volume/
+發晒呆 发晒呆 [fa1 shai4 dai1] {faat3 saai3 ngoi4} /(fig.) être perdu dans ses pensées; avoir la tête ailleurs/
+發狼捩 发狼捩 [fa1 lang2 lie4] {faat3 long1 lai2} /se déchaîner; entrer dans une rage; se mettre en colère; s'emporter; se fâcher/
+發現新大陸 发现新大陆 [fa1 xian4 xin1 da4 lu4] {faat3 jin6 san1 daai6 luk6} /(expr. idiom.) découvrir quelque chose de nouveau et intéressant/(lit.) découvrir le Nouveau Monde/
+????m 發甩 发甩 [fa1 shuai3] {faat3 lat1} /to go crazy; to make meaningless remark [colloquial]/
+????c 發癩 发癞 [fa1 lai4] {faat3 laai3} /to have leprosy / scabies [colloquial]/
+發羊弔 发羊吊 [fa1 yang2 diao4] {faat3 joeng4 diu3} /(fam.) faire une crise d'épilepsie/(fam.) épilepsie/
+發羊癲閒 发羊癫间 [fa1 yang2 dian1 jian1] {faat3 joeng4 din1 gaan3} /(fam.) faire une crise d'épilepsie/(fam.) épilepsie/
+發羊癲風 发羊癫风 [fa1 yang2 dian1 feng1] {faat3 joeng4 din1 fung1} /(fam.) faire une crise d'épilepsie/(fam.) épilepsie/
+發羊角風 发羊角风 [fa1 yang2 jiao3 feng1] {faat3 joeng4 gok3 fung1} /(fam.) faire une crise d'épilepsie/(fam.) épilepsie/
+????c 發老姣 发老姣 [fa1 lao3 jiao1] {faat3 lou5 haau4} /for an old woman to be act promiscuously / flirtatiously [colloquial]/
 
