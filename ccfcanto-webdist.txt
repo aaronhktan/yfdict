@@ -14421,7 +14421,7 @@
 的士站 的士站 [di1 shi4 zhan4] {dik1 si2 zaam6} /station de taxi/
 的式 的式 [de5 shi4] {dik1 sik1} /minuscule; petit/
 的當 的当 [di2 dang4] {dik1 dong3} /en effet; effectivement/précis; exact; correct/approprié; acceptable/
-的的骰骰 的的骰骰 [di2 di2 tou2 tou2] {dik1 dik1 sik1 sik1} /minuscule; petit/
+的的骰骰 的的骰骰 [di2 di2 tou2 tou2] {dik1 dik1 sik1 sik1} /(d'un objet) petit et mignon/
 的確涼 的确涼 [di2 que4 liang2] {dik1 kok3 loeng4} /Dacron, textile synthétique/
 的而且確 的而且确 [de5 er2 qie3 que4] {dik1 ji4 ce2 kok3} /en effet; effectivement/
 的色 的色 [de5 se4] {dik1 sik1} /minuscule; petit/
@@ -14552,7 +14552,7 @@
 直板 直板 [zhi2 ban3] {zik6 baan2} /parfaitement droit; pas courbé/
 直程 直程 [zhi2 cheng2] {zik6 cing4} /vraiment; en réalité; en fait/exactement; justement/sans doute/
 直笛 直笛 [zhi2 di2] {zik6 dek2} /flûte à bec/
-????c 直筆甩 直笔甩 [zhi2 bi3 shuai3] {zik6 bat1 lat1} /(se tenir) droit/straight to the point?/
+????f 直筆甩 直笔甩 [zhi2 bi3 shuai3] {zik6 bat1 lat1} /(se tenir) droite/(route) droite/
 ????f 直落 直落 [zhi2 luo4] {zik6 lok6} /(fig.) sans pause; sans interruption (s'emploie habituellement en parlant d'une série d'activités pendant une soirée, ex. manger puis écouter un film sans prendre une pause entre les deux activités)/(fam.) (fig.) avoir des relations sexuelles après un rancard/(lit.) descendre en flèche/
 直覺 直觉 [zhi2 jue2] {zik6 gok3} /réflexe; instinct/intuition/sixième sens/
 直資 直资 [zhi2 zi1] {zik6 zi1} /Direct Subsidy Scheme, programme de subventions pour le système éducatif de Hong Kong/
@@ -24899,4 +24899,28 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 啲咁多 啲咁多 [di1 gan1 duo1] {dit1 gam3 doe1} /juste un petit peu; un tantinet/
 ????m 的咁大 的咁大 [de5 gan1 da4] {dik1 gam3 daai1} /tiny; small [colloquial]/
 ????f 的士錢 的士钱 [di2 shi4 qian2] {dik1 si2 cin2} /(fig.) somme d'argent donnée à une prositutée si le client décide qu'il ne veut pas ses services après qu'elle est venue le voir/(lit.) argent de taxi/
+的時候 的时候 [de5 shi2 hou5] {dik1 si4 hau6} /(à l'écrit) quand/
+的的式式 的的式式 [de5 de5 shi4 shi4] {dik1 dik1 sik1 sik1} /(d'un objet) petit et mignon/
+????m 皆不 皆不 [jie1 bu4] {gaai1 bat1} /(à l'écrit) non plus; tous ne sont pas.../
+皆無 皆无 [jie1 wu2] {gaai1 mou4} /rien/
+????f 皇家飯 皇家饭 [huang2 jia1 fan4] {wong4 gaa1 faan6} /(fig.) repas en prison (voir aussi 食皇家飯|食皇家饭)/(lit.) repas royal/
+皇牌 皇牌 [huang2 pai2] {wong4 paai2} /(fig.) atout; moyen de réussir/(lit.) roi (carte à jouer)/
+皮肉錢 皮肉钱 [pi2 rou4 qian2] {pei4 juk6 cin2} /(fig.) argent gagné de la prostitution/(lit.) argent de la peau et de la chair/
+盈虧平衡點 盈亏平衡点 [ying2 kui1 ping2 heng2 dian3] {jing4 kwai1 ping4 hang4 dim2} /(expr.) seuil de rentabilité/
+盡地一舖 尽地一铺 [jin4 di4 yi1 pu4] {zeon6 dei6 jat1 pou1} /(expr.) tenter le tout pour le tout; mettre le paquet (dans une situation désespérée)/
+盡早 尽早 [jin4 zao3] {zeon6 zou2} /dès que possible; le plus tôt possible/
+𥄫住 𥄫住 [ji2 zhu4] {gap6 zyu6} /avoir un œil sur; surveiller (quelque chose) attentivement/
+????f 𥄫嘢 𥄫嘢 [ji2 ye3] {gap6 je5} /espionner; agir en voyeur/
+????m 目錄表 目录表 [mu4 lu4 biao3] {muk6 luk6 biu2} /catalogue (d'une boutique)/
+盲中中 盲中中 [mang2 zhong1 zhong1] {maang4 zung1 zung1} /(fig.) (faire quelque chose) aveuglément; sans réfléchir; sans comprendre/
+盲字都唔識多隻 盲字都唔识多只 [mang2 zi4 dou1 n2 shi2 duo1 zi4] {maang4 zi6 dou1 m4 sik1 do1 zi6} /(expr. idiom.) analphabète; illetré/
+盲拳打死老師父 盲拳打死老师父 [mang2 quan2 da3 si3 lao3 shi1 fu5] {maang4 kyun4 daa2 sei2 lou5 si1 fu2} /(expr. idiom.) vaincre quelqu'un avec beaucoup plus d'experience par pur hasard/
+盲炳 盲炳 [mang2 bing3] {maang4 bing2} /imbécile; crétin; idiot/personne inutile; bon à rien/
+直畢甩 直毕甩 [zhi2 bi4 shuai3] {zik6 bat1 lat1} /(se tenir) droite/(route) droite/
+相嗌唔好口 相嗌唔好口 [xiang1 ai4 wu2 hao3 kou3] {soeng1 aai3 m4 hou2 hau2} /(expr. idiom.) œil pour œil rendra le monde aveugle; expression utilisée pour demander que l'on cesse de se disputer/
+????f 省到一面屁 省到一面屁 [sheng3 dao4 yi1 mian4 pi4] {saang2 dou3 jat1 min6 pei3} /(expr. idiom.) être sévèrement réprimandé; se faire crier dessus/(lit.) avoir la face couverte de pets/
+省招牌 省招牌 [sheng3 zhao1 pai5] {saang2 ziu1 paai4} /(expr. idiom.) améliorer la réputation d'une entreprise/(lit.) polir l'affiche/
+看門狗 看门狗 [kan1 men2 gou3] {hon1 mun4 gau2} /chien de garde; molosse/
+????m 真朵 真朵 [zhen1 duo3] {zan1 do2} /a powerful person or gang who has been successfully invoked by someone for protection [colloquial]/
+????f 真空上陣 真空上阵 [zhen1 kong1 shang4 zhen4] {zan1 hung1 soeng5 zan6} /(fam.) (expr. idiom.) ne pas porter de brassière et porter des vêtements révélateurs, de manière que les bouts de sein sont mi-visibles/
 
