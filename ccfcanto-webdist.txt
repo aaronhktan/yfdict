@@ -14721,7 +14721,7 @@
 睇吓 睇吓 [di4 xia4] {tai2 haa3} /jeter un coup d'œil; regarder pour un moment/ça dépend de.../
 睇唔入眼 睇唔入眼 [di4 m2 ru4 yan3] {tai2 m4 jap6 ngaan5} /(expr. idiom.) qui ne plaît pas/(lit.) regarder mais ne pas entrer dans l'œil/
 睇唔起 睇唔起 [di4 n2 qi3] {tai2 m4 hei2} /mépriser; regarder de haut/
-睇唔過眼 睇唔过眼 [di4 m2 guo4 yan3] {tai2 m4 gwo3 ngaan5} /(expr. idiom.) ne pas pouvoir supporter; désapprouver; voir d'un mauvais œil/(lit.) ne pas pouvoire laisser passer par les yeux/
+睇唔過眼 睇唔过眼 [di4 m2 guo4 yan3] {tai2 m4 gwo3 ngaan5} /(fig.) voir d'un mauvais œil; ne pas pouvoir supporter; trouver quelque chose inacceptable/(lit.) ne pas pouvoir laisser passer sous les yeux/
 睇唔開 睇唔开 [di4 n2 kai1] {tai2 m4 hoi1} /(fig.) incapable d'accepter une mauvaise nouvelle ou une mauvaise situation; incapable de progresser; être obsédé par des ennuis/
 睇啱 睇啱 [di4 yan1] {tai2 ngaam1} /choisir; préférer une option parmi plusieurs/
 睇嚟 睇嚟 [di4 li2] {tai2 lai4} /avoir l'air; paraître/
@@ -24928,4 +24928,24 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 眼啤啤 眼啤啤 [yan3 pi2 pi2] {ngaan5 be1 be1} /regarder du coin de l'œil avec méfiance, dédain, désapprobation/fixer du regard/
 ????f 眼尾都唔望 眼尾都唔望 [yan3 wei3 dou1 wu2 wang4] {ngaan5 mei5 dou1 m4 mong6} /(expr. idiom.) faire la tête à quelqu'un/(expr. idiom.) (d'une personne) être sans intérêt pour quelqu'un; ignorer quelqu'un sans le faire exprès/(lit.) ne pas regarder même du coin des yeux/
 ????f 眼屎乾淨盲 眼屎干净盲 [yan3 shi3 gan1 jing4 mang2] {ngaan5 si2 gon1 zeng6 maang4} /(expr. idiom.) ignorer quelque chose volontairement; faire comme si l'on ne connaissait pas quelque chose pour être plus heureux/(lit.) être aveugle mais sans chassie/
+眼盲嘅 眼盲嘅 [yan3 mang2 ge3] {ngaan5 maang4 ge3} /aveugle; privé du sens de la vue (mais on dit souvent tout simplement 盲|盲)/
+睇下 睇下 [di4 xia4] {tai2 haa6} /jeter un coup d'œil/
+睇唔過 睇唔过 [di4 m2 guo4] {tai2 m4 gwo3} /(fig.) voir d'un mauvais œil; ne pas pouvoir supporter; trouver quelque chose inacceptable (voir aussi 睇唔過眼|睇唔过眼)/(lit.) ne pas pouvoir regarder/
+????m 睇在...份上 睇在...份上 [di4 zai4… fen4 shang5] {tai2 zoi6… fan6 soeng5} /faire quelque chose dans l'intérêt de (quelqu'un)/
+????m 睇得開 睇得开 [di4 de5 kai1] {tai2 dak1 hoi1} /to be able to look on the brightside; to be able to face and accept an issue calmly [colloquial]/
+睇情形 睇情形 [di4 qing2 xing5] {tai2 cing4 jing4} /selon les circonstances/
+????m 睇扒 睇扒 [di4 ba1] {tai2 paa4} /better watch out!; better be careful!; wise up! (given as an advice or warning) [colloquial]/
+????m 睇爬 睇爬 [di4 pa2] {tai2 paa4} /better watch out!; better be careful!; wise up! (given as an advice or warning) [colloquial]/
+????f 睇相佬呃你十年八年 睇相佬呃你十年八年 [di4 xiang1 lao3 e4 ni3 shi2 nian2 ba1 nian2] {tai2 soeng3 lou2 aak1 nei5 sap6 nin4 baat3 nin4} /(expr. idiom.) tu peux te fier à moi (mais pas les autres, ils sont des menteurs!)/(lit.) un diseur de bonne aventure peut te tromper pendant dix ou huit ans/
+????m 睇肉 睇肉 [di4 rou4] {tai2 juk6} /écouter un programme qui contient beaucoup de nudité (pornographie? ou juste émission télévisée?)/
+睇餸食飯，睇燭喃嘸 睇餸食饭，睇烛喃呒 [di4 song4 shi2 fan4, di4 zhu2 nan2 fu3] {tai2 sung3 sik6 faan6, tai2 zuk1 naam4 mo4} /(expr. idiom.) s'adapter aux circonstances/(expr. idiom.) vivre selon ses moyens/(lit.) regarder les plats en prenant un repas, regarder la bougie en faisant ses prières/
+????m 睇騷 睇骚 [di4 sao1] {tai2 sou1} /assister à un spectacle/
+????f 睬你都生臭狐 睬你都生臭狐 [cai3 ni3 dou1 sheng1 chou4 hu2] {coi2 nei5 dou1 saang1 cau3 wu4} /(expr. idiom.) (ironique) c'est ça; je n'ai pas le temps pour t'écouter dire ces bêtises; je m'en bats les couilles/(lit.) si je faisais attention à toi j'aurais des aisselles qui puent/
+????m 瞄準線 瞄准线 [miao2 zhun3 xian4] {miu4 zeon2 sin3} /line of sight; aiming line [written and colloquial]/
+瞓落床 瞓落床 [xun4 luo4 chuang2] {fan3 lok6 cong4} /s'allonger sur le lit/
+𥋇眼 𥋇眼 [𥋇5 yan3] {caang4 ngaan5} /trop lumineux; trop ensoleillé/
+矇眼仔 蒙眼仔 [meng2 yan3 zi3] {mung4 ngaan5 zai2} /(fig.) garçon stupide; gamin stupide/(lit.) garçon qui louche/
+矖招 矖招 [xi3 zhao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
+矖馬 矖马 [xi3 ma3] {saai3 maa5} /(argot des triades) démonstration de force par une triade chinoise/
+????f 知唔知個死字點寫 知唔知个死字点写 [zhi1 n2 zhi1 ge4 si3 zi4 dian3 xie3] {zi1 m4 zi1 go3 sei2 zi6 dim2 se2} /(expr. idiom.) (comme avertissement) c'est vraiment dangereux, ce que tu es en train de faire maintenant; c'est vraiment irresponsable!/(expr. idiom.) (comme menace) tu veux mourir?/(lit.) sais-tu comment s'écrit le caractère « mourir »?/
 
