@@ -9402,7 +9402,8 @@
 揸雞腳 揸鸡脚 [zha1 ji1 jiao3] {zaa1 gai1 goek3} /(expr. idiom.) viser les points faibles des autres; exploiter les défauts des autres/(lit.) tenir les pattes de poulet/
 揸頸就命 揸颈就命 [zha1 jing3 jiu4 ming4] {zaa1 geng2 zau6 meng6} /avaler une insulte; réprimer sa colère; rester silencieux face à l'humiliation/
 ????c 揹帶 背带 [bei1 dai4] {bui3 daai2} /bandoulière; sangle; courroie/
-揼時間 揼时间 [beng5 shi2 jian1] {dam1 si4 gaan3} /gagner du temps; jouer la montre/
+揼時間 揼时间 [beng5 shi2 jian1] {dam1 si4 gaan3} /prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/temporiser; chercher à gagner du temps; atermoyer/qui prend du temps/(sports) jouer la montre/
+????f 揼波鐘 揼波钟 [beng5 bo1 zhong1] {dam1 bo1 zung1} /prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/temporiser; chercher à gagner du temps; atermoyer/faire perdre son temps à quelqu'un/
 ????f 揼波拿 揼波拿 [beng5 bo1 na2] {dam1 bo1 laa4} /tombola, jeu d'argent dans laquelle on gagne un lot en nature/
 揼骨 揼骨 [beng5 gu3] {dap6 gwat1} /masser; pétrir les muscles avec les mains/
 ????c 㨘到立立呤 擤到立立呤 [xing3 dao4 li4 li4 ling4] {saang2 dou3 laap6 laap6 ling4} /polir; brunir/????(expr. idiom.) être pris comme bouc émissaire/
@@ -14891,11 +14892,11 @@
 矮仔 矮仔 [ai3 zi5] {ngai2 zai2} /petite personne/
 矮仔多計 矮仔多计 [ai3 zi5 duo1 ji4] {ngai2 zai2 do1 gai2} /(expr.) les petites personnes sont futées; les petites personnes ont beaucoup d'idées/
 矮凳仔 矮凳仔 [ai3 deng4 zi3] {ngai2 dang3 zai2} /tabouret/
-矮凸凸 矮凸凸 [ai3 tu1 tu1] {ai2 dat1 dat1} /très petit/très court/
-矮𠱂𠱂 矮𠱂𠱂 [Ai3 tu1 tu1] {ai2 dat1 dat1} /très petit/très court/
+矮凸凸 矮凸凸 [ai3 tu1 tu1] {ai2 dat1 dat1} /(d'une personne) très petit/
+矮𠱂𠱂 矮𠱂𠱂 [ai3 tu1 tu1] {ai2 dat1 dat1} /(d'une personne) très petit/
 矮矮細細 矮矮细细 [ai3 ai3 xi4 xi4] {ai2 ai2 sai3 sai3} /petite et courte/
 矮細 矮细 [ai3 xi4] {ngai2 sai3} /petite et courte/
-矮腯腯 矮腯腯 [ai3 tu2 tu2] {ai2 dat1 dat1} /très petit/très court/
+矮腯腯 矮腯腯 [ai3 tu2 tu2] {ai2 dat1 dat1} /(d'une personne) très petit/
 矮躉 矮趸 [ai3 dun3] {ai2 dan2} /(type d'autobus)/trapu/
 矯飾 矫饰 [jiao3 shi4] {giu2 sik1} /(litt.) dissimuler ou cacher une erreur/
 石 石 [shi2] {sek6} /roche; pierre/minerai/(nom de famille chinois)/(unité de mesure pour les céréales)/
@@ -24947,5 +24948,29 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 矇眼仔 蒙眼仔 [meng2 yan3 zi3] {mung4 ngaan5 zai2} /(fig.) garçon stupide; gamin stupide/(lit.) garçon qui louche/
 矖招 矖招 [xi3 zhao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
 矖馬 矖马 [xi3 ma3] {saai3 maa5} /(argot des triades) démonstration de force par une triade chinoise/
-????f 知唔知個死字點寫 知唔知个死字点写 [zhi1 n2 zhi1 ge4 si3 zi4 dian3 xie3] {zi1 m4 zi1 go3 sei2 zi6 dim2 se2} /(expr. idiom.) (comme avertissement) c'est vraiment dangereux, ce que tu es en train de faire maintenant; c'est vraiment irresponsable!/(expr. idiom.) (comme menace) tu veux mourir?/(lit.) sais-tu comment s'écrit le caractère « mourir »?/
+????f 知唔知個死字點寫 知唔知个死字点写 [zhi1 wu2 zhi1 ge4 si3 zi4 dian3 xie3] {zi1 m4 zi1 go3 sei2 zi6 dim2 se2} /(expr. idiom.) (comme avertissement) c'est vraiment dangereux, ce que tu es en train de faire maintenant; c'est vraiment irresponsable!/(expr. idiom.) (comme menace) tu veux mourir?/(lit.) sais-tu comment s'écrit le caractère « mourir »?/
+????f 知唔知個醜字點寫 知唔知个丑字点写 [zhi1 wu2 zhi1 ge4 chou3 zi4 dian3 xie3] {zi1 m4 zi1 go3 cau2 zi6 dim2 se2} /(expr. idiom.) tu n'as pas honte?/(lit.) sais-tu comment s'écrit le caractère « honte »?/
+????c 知唔知埞呀 知唔知埞呀 [zhi1 n2 zhi1 di3 ya5] {zi1 m4 zi1 deng6 aa3} /do you know what you are doing (said in a hostile tone) [colloquial]/
+????f 知埞 知埞 [zhi1 di3] {zi1 deng6} /rester à sa place; connaître sa place/savoir ce que l'on fait; connaître les règles du jeu/
+知士 知士 [zhi1 shi4] {zi1 si2} /fromage (voir aussi 芝士|芝士)/(orig.) de l'anglais « cheese » (« fromage »)/
+知錯 知错 [zhi1 cuo4] {zi1 co3} /reconnaître ses erreurs/
+短倉 短仓 [duan3 cang1] {dyun2 cong1} /(finances) vente à découvert/
+????m 短癮 短瘾 [duan3 yin3] {dyun2 jan5} /a brief pleasure; a brief sex session [colloquial]/
+矮𠱂𠱂 矮𠱂𠱂 [ai3 𠱂5 𠱂5] {ai2 dat1 dat1} /(d'une personne) très petit/
+矮得得 矮得得 [ai3 de5 de5] {ai2 dak1 dak1} /(d'une personne) très petit/
+????f 石地塘鐵掃把 石地塘铁扫把 [shi2 di4 tang2 tie3 sao4 ba3] {sek6 dei6 tong4 tit3 sou3 baa2} /(expr. en suspens) deux personnes ou partis de force égale qui se disputent et refusent de faire des compromis/(lit.) balayer l'aire de battage avec un balai en métal (deuxième partie 硬碰硬|硬碰硬 ou 硬打硬|硬打硬 « dur frappe dur »)/
+泵時間 泵时间 [beng4 shi2 jian1] {dam1 si4 gaan3} /prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/temporiser; chercher à gagner du temps; atermoyer/qui prend du temps/(sports) jouer la montre/
+????f 泵波鐘 泵波钟 [beng4 bo1 zhong1] {dam3 bo1 zung1} /prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/temporiser; chercher à gagner du temps; atermoyer/faire perdre son temps à quelqu'un/
+泵泵吓 泵泵吓 [beng4 beng4 xia4] {dam1 dam1 haa5} /remettre à plus tard; différer; procrastiner/
+????m 砌十鑊八鑊 砌十镬八镬 [qi4 shi2 huo4 ba1 huo4] {cai3 sap6 wok6 baat3 wok6} /(fam.) (expr.) coucher avec quelqu'un plusieurs fois/
+????c 砍埋 砍埋 [kan3 mai2] {ham2 maai4} /to bang into [colloquial]/
+????f ????p 硬嘢 硬嘢 [ying4 ye3] {ngaang6 je5} /objet solide/(fig.) pièce de monnaie; monnaie (note : dans le contexte des enveloppes rouges, cette locution indique que c'est un cadeau mesquin)/(personne) qui n'est pas très commode; qui est difficile à traiter/(situation) qui est difficile à régler/(alcool) fort/
+????m 硬崩崩 硬崩崩 [ying4 beng1 beng1] {ngaang6 bang1 bang1} /(d'une personne?) unyielding; blunt [colloquial]/
+????c 硬抄本 硬抄本 [ying4 chao1 ben3] {ngaang6 caau1 bun2} /a hard copy [written and colloquial]/
+硬掘掘 硬掘掘 [ying4 jue2 jue2] {ngaang6 gwak6 gwak6} /(d'un objet) très dur/
+????f 硬晒 硬晒 [ying4 shai4] {ngaang6 saai3} /(d'un objet) dur; rigide; résistant/(fam.) (d'un pénis) en érection/
+硬榾榾 硬榾榾 [ying4 gu3 gu3] {ngaang6 gwak6 gwak6} /(d'un objet) très dur/
+碌ｃａｒｄ 碌ｃａｒｄ [lu4ｃａｒｄ] {luk1 kaat1} /payer par carte de crédit/
+碌Ｌｉｎｇ 碌Ｌｉｎｇ [lu4Ｌｉｎｇ] {luk1 ling1} /jouer au bowling/(orig.) 碌|碌 « faire rouler » + ling de l'anglais « (bowling) lane » (« piste de bowling »)/
+碌嘢 碌嘢 [lu4 ye3] {luk1 je5} /(fam.) nouille; queue; bite; pénis/(lit.) (chose qui ressemble à) une tige/
 
