@@ -15476,7 +15476,7 @@
 ????c 笠記 笠记 [li4 ji4] {lap1 gei3} /pull; tricot/(noun) unknown brand???/
 笠高帽 笠高帽 [li4 gao1 mao4] {lap1 gou1 mou2} /(fig.) flatter/
 符合 符合 [fu2 he2] {fu4 hap6} /remplir les conditions/
-符弗 符弗 [fu2 fu2] {fu4 fit1} /truc; astuce; moyen ingénieux; filon/
+符弗 符弗 [fu2 fu2] {fu4 fit1} /solution; moyen de régler un problème/
 符水 符水 [fu2 shui3] {fu4 seoi2} /eau bénite/
 第一個 第一个 [di4 yi1 ge4] {dai6 jat1 go3} /premier/le premier/
 第一名 第一名 [di4 yi1 ming2] {dai6 jat1 ming4} /première place/
@@ -15504,7 +15504,7 @@
 第四 第四 [di4 si4] {dai6 sei3} /quatrième/le quatrième/
 第尾 第尾 [di4 wei3] {dai6 mei1} /dernière place/
 第度 第度 [di4 du4] {dai6 dou6} /ailleurs; autre part; un autre endroit/
-第日 第日 [di4 ri4] {dai6 jat6} /une autre fois; une autre occasion; la prochaine fois/le lendemain; le jour suivant/plus tard/à l'avenir/le deuxième jour/
+第日 第日 [di4 ri4] {dai6 jat6} /une autre fois; une autre occasion; la prochaine fois/le lendemain; le jour suivant/plus tard/à l'avenir/
 第時 第时 [di4 shi2] {dai6 si4} /prochaine fois/à l'avenir/plus tard/
 第樣 第样 [di4 yang4] {dai6 joeng6, dai6 joeng2} /une autre sorte; un autre genre; un autre type/autre; différent/
 第次 第次 [di4 ci4] {dai6 ci3} /prochaine fois/
@@ -20306,7 +20306,7 @@
 閃電結婚 闪电结婚 [shan3 dian4 jie2 hun1] {sim2 din6 git3 fan1} /(expr.) mariage précipité/(lit.) mariage éclair/
 閉幕 闭幕 [bi4 mu4] {bai3 mok6} /(évènement) clôturer; mettre fin; venir à sa fin/
 閉幕典禮 闭幕典礼 [bi4 mu4 dian3 li3] {bai3 mok6 din2 lai5} /cérémonie de clôture/
-閉翳 闭翳 [bi4 yi4] {bai3 ai3} /triste; mélancolique; abattu; misérable; inquiet; troublé/
+閉翳 闭翳 [bi4 yi4] {bai3 ai3} /triste; mélancolique; abattu; misérable/inquiet; anxieux; troublé/
 開 开 [kai1] {hoi1} /ouvrir/mettre en marche; allumer/faire bouillir/éclore; fleurir/commencer/fonder/(réunion, évènement) tenir; organiser/tirer (une arme à feu)/autre part; ailleurs/extérieur/(grammaire) (marqueur de l'aspect habituel)/
 開便 开便 [kai1 bian4] {hoi1 bin6} /côté extérieur/
 開信刀 开信刀 [kai1 xin4 dao1] {hoi1 seon3 dou1} /coupe-papier/
@@ -25009,7 +25009,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 移民監 移民监 [yi2 min2 jian1] {ji4 man4 gaam1} /(fam.) (fig.) obligation de rester dans un pays quelconque pendant une certaine période de temps afin d'obtenir un permis de résident permanent (connotation négative)/(lit.) prison d'immigration/
 種下 种下 [zhong3 xia4] {zung2 haa6} /semer (des graines)/
 ????c 種蟲 种虫 [zhong3 chong2] {zung2 cung4} /to create trouble [colloquial]/
-空氣質素 空气质素 [kong1 qi4 zhi4su4] {hung1 hei3 zat1 sou3} /qualité de l'air/
+空氣質素 空气质素 [kong1 qi4 zhi4 su4] {hung1 hei3 zat1 sou3} /qualité de l'air/
 ????c 穿咗 穿咗 [chuan1 zuo3] {cyun1 zo2} /to let out a secret [colloquial]/
 ????c 穿州過省 穿州过省 [chuan1 zhou1 guo4 sheng3] {cyun1 zau1 gwo3 saang2} /to maintain good connections all across [colloquial]/
 窒住晒 窒住晒 [zhi4 zhu4 shai4] {zat6 zyu6 saai3} /(fam.) interrompre quelqu'un continuellement/
@@ -25023,3 +25023,28 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 童子軍跳彈床 童子军跳弹床 [tong2 zi3 jun1 tiao4 dan4 chuang2] {tung4 zi2 gwan1 tiu3 daan6 cong4} /(expr. en suspens) (vulg.) je m'en câlisse; je m'en bats les couilles; je m'en fiche; c'est comme tu veux/(lit.) scouts qui sautent sur le trampoline (deuxième partie 是鳩但|是鸠但 « je m'en câlisse, je m'en bats les couilles »)/(orig.) la deuxième partie 是鳩但|是鸠但 si6 gaau1 daan6 « je m'en câlisse, je m'en bats les couilles » est une jeu de mots - elle est prononcée comme l'anglais « scout » + le cantonais « sauter », qui donne la première partie de la locution (« des scouts qui sautent sur le trampoline »)/
 ????f 童軍跳彈床 童军跳弹床 [tong2 jun1 tiao4 dan4 chuang2] {tung4 gwan1 tiu3 daan6 cong4} /(expr. en suspens) (vulg.) je m'en câlisse; je m'en bats les couilles; je m'en fiche; c'est comme tu veux/(lit.) scouts qui sautent sur le trampoline (deuxième partie 是鳩但|是鸠但 « je m'en câlisse, je m'en bats les couilles »)/(orig.) la deuxième partie 是鳩但|是鸠但 si6 gaau1 daan6 « je m'en câlisse, je m'en bats les couilles » est une jeu de mots - elle est prononcée comme l'anglais « scout » + le cantonais « sauter », qui donne la première partie de la locution (« des scouts qui sautent sur le trampoline »)/
 競爭激烈 竞争激烈 [jing4 zheng1 ji1 lie4] {ging6 zang1 gik1 lit6} /concurrence acharnée; concurrence féroce/
+竹升女 竹升女 [zhu2 sheng1 nu:3] {zuk1 sing1 neoi2} /fille d'origine chinoise qui a grandi à l'étranger/
+笑到轆地 笑到辘地 [xiao4 dao4 lu4 di4] {siu3 dou3 luk1 dei2} /(expr. idiom.) très drôle; à se tordre de rire/(lit.) rire à s'en rouler par terre/
+????f 笑淫淫 笑淫淫 [xiao4 yin2 yin2] {siu3 jam4 jam4} /sourire d'une manière louche; sourire d'une manière lubrique/
+笑爆咀 笑爆咀 [xiao4 bao4 ju3] {siu3 baau3 zeoi2} /(fig.) éclater de rire/(lit.) rire à s'exploser la bouche/
+笠水 笠水 [li4 shui3] {lap1 seoi2} /avoir peur de quelque chose/
+符ｆｉｔ 符ｆｉｔ [fu2ｆｉｔ] {fu4 fit1} /solution; moyen de régler un problème (voir aussi 符弗|符弗)/
+符碌 符碌 [fu2 lu4] {fu4 luk1} /(fam.) par pur hasard/(lit.) de l'anglais « fluke » (« coup de chance extraordinaire »)/
+笨柒 笨柒 [ben4 qi1] {ban6 cat6} /(vulg.) con; cave; schnock/(lit.) nœud (de pénis) stupide/
+笨實 笨实 [ben4 shi2] {ban6 sat6} /(adoucissement de 笨柒|笨柒 « con, cave, schnock »)/
+笨豬跳 笨猪跳 [ben4 zhu1 tiao4] {ban6 zyu1 tiu3} /saut à l'élastique/
+笨頭笨腦 笨头笨脑 [ben4 tou2 ben4 nao3] {ban6 tau4 ban6 nou5} /(expr.) lent d'esprit; stupide/(lit.) tête stupide cerveau stupide/
+第一周 第一周 [di4 yi1 zhou1] {dai6 jat1 zau1} /la première semaine/
+????m 第一獎 第一奖 [di4 yi1 jiang3] {dai6 jat1 zoeng2} /first prize [written and colloquial]/
+????c 第三繭 第三茧 [di4 san1 jian3] {dai6 saam1 gaan2} /the third conviction [colloquial]/
+第二日 第二日 [di4 er4 ri4] {dai6 ji6 jat6} /une autre fois; une autre occasion; la prochaine fois (voir aussi 第日|第日)/le lendemain; le jour suivant/plus tard/à l'avenir/le deuxième jour/
+等下 等下 [deng3 xia4] {dang2 haa5} /attends un peu/bientôt; dans un instant; un peu plus tard/
+等如 等如 [deng3 ru2] {dang2 jyu4} /égal à/
+等我 等我 [deng3 wo3] {dang2 ngo5} /attends-moi!/
+????m 答必 答必 [da2 bi4] {daap6 bit1} /(Malaysie et Singpour) mais; toutefois/
+算你好彩 算你好彩 [suan4 ni3 hao3 cai3] {syun3 nei5 hou2 coi2} /(expr.) estime-toi heureux/
+算啦 算啦 [suan4 la5] {syun3 laa1} /ce n'est pas grave; t'en fais pas/
+????c 篤出嚟 笃出嚟 [du3 chu1 li2] {duk1 ceot1 lei4} /to rat on someone; to point someone out as the guilty party [colloquial]/
+????f 篤尿 笃尿 [du3 niao4] {duk1 niu6} /urine (souvent dans la forme 痾篤尿|疴笃尿 « uriner », qui est en cantonais verbe 痾|疴 « excréter » + classificateur 篤|笃 + nom 尿|尿 « urine »)/
+篤屎 笃屎 [du3 shi3] {duk1 si2} /crotte; excrément (souvent dans la forme 痾篤屎|疴笃屎 « déféquer », qui est en cantonais verbe 痾|疴 « excréter » + classificateur 篤|笃 + nom 屎|屎 « crotte »)/
+????f 篤灰 笃灰 [du3 hui1] {duk1 fui1} /dénoncer; cafter; balancer (connotation de trahison)/
