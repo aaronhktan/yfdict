@@ -6410,7 +6410,7 @@
 子女 子女 [zi3 nu:3] {zi2 neoi5} /enfants; progéniture; descendance/
 ????f 子姜 子姜 [zi3 jiang1] {zi2 goeng1} /jeune gingembre (young ginger)/
 子孫 子孙 [zi3 sun1] {zi2 syun1} /enfants et petits-enfants; progéniture; descendance/
-子孫根 子孙根 [zi3 sun1 gen1] {zi2 syun1 gan1} /(vulgaire ou humoristique) pénis/
+子孫根 子孙根 [zi3 sun1 gen1] {zi2 syun1 gan1} /(vulg. ou humoristique) pénis/
 子宮外孕 子宫外孕 [zi3 gong1 wai4 yun4] {zi2 gung1 ngoi6 jan6} /grossesse extra-utérine/
 子宮癌 子宫癌 [zi3 gong1 ai2] {zi2 gung1 ngaam4} /cancer de l'utérus/
 子弟兵 子弟兵 [zi3 di4 bing1] {zi2 dai6 bing1} /(notre) armée/
@@ -16090,7 +16090,7 @@
 縮細 缩细 [suo1 xi4] {suk1 sai3} /réduire; diminuer/
 縮編 缩编 [suo1 bian1] {suk1 pin1} /réduire le personnel; réduire les effectifs/raccourcir; abréger/
 縮聚 缩聚 [suo1 ju4] {suk1 zeoi6} /(chimie) polymérisation par condensation; polycondensation/
-縮開 缩开 [suo1 kai1] {suk1 hoi1} /éviter; contourner/écartez-vous! pousse-toi!/(vulgaire) casse-toi! allez vous faire voir!/
+縮開 缩开 [suo1 kai1] {suk1 hoi1} /éviter; contourner/écartez-vous! pousse-toi!/(vulg.) casse-toi! allez vous faire voir!/
 縮頭縮腦 缩头缩脑 [suo1 tou2 suo1 nao3] {suk1 tau4 suk1 nou5} /(expr. idiom.) lâche; peureux; timide/(expr. idiom.) fuir ses responsabilités/(lit.) rétracter sa tête rétracter son cerveau/
 縮頭龜 缩头龟 [suo1 tou2 gui1] {suk1 tau4 gwai1} /(fig.) lâche; peureux/(fig.) personne qui fuit ses responsabilités/(fig.) personne peu fiable/(lit.) tortue dont la tête se rétracte/
 縮骨 缩骨 [suo1 gu3] {suk1 gwat1} /être égoïste; profiter des autres/réduire les dépenses/
@@ -25073,3 +25073,28 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 紅湯 红汤 [hong2 tang1] {hung4 tong1} /(soupe) bortsch; bortch/
 紅白 红白 [hong2 bai2] {hung4 baak6} /rouge et blanc/(fig.) vicissitudes de la vie; évènements heureux et malheureux dans la vie/(fig.) (en particulier) noces et funérailles (voir 紅白事|红白事)/
 紅紅 红红 [hong2 hong2] {hung2 hung4} /très rouge/
+????c 紅錢 红钱 [hong2 qian2] {hung4 cin2} /prime annuelle/
+????m 紅雞 红鸡 [hong2 ji1] {hung4 gai1} /(Hong Kong) taxi rouge; taxi qui est actif seulement sur l'île de Hong Kong et Kowloon/héroïne rouge/
+納戈爾諾-卡拉巴赫 纳戈尔诺-卡拉巴赫 [na4 ge1 er3 nuo4 ka3 la1 ba1he4] {naap6 gwo1 ji5 nok6 kaa1 laai1 baa1 haak1} /Haut-Karabagh; république d'Artsakh/
+????f 索Ｋ 索Ｋ [suo3 Ｋ] {sok3 kei1} /(toxicomanie) utiliser la kétamine/
+索鼻 索鼻 [suo3 bi2] {sok3 bei6} /(fam.) (d'une femme) attirante; sexy/
+紫心丸 紫心丸 [zi3 xin1 wan2] {zi2 sam1 jyun2} /(fam.) barbituriques/(lit.) comprimé violet (en forme de) cœur/
+????m 紫籌股 紫筹股 [zi3 chou2 gu3] {zi2 cau4 gu2} /purple chip stock, with the capital from Mainland China invested in blue chip companies [written and colloquial]/
+????m 紮棍 扎棍 [za1 gun4] {zaat3 gwan3} /to be beaten up as a punishment for breaking triad rules [colloquial]/
+細摩 细摩 [xi4 mo2] {sai3 mo1} /J.P Morgan, banque d'investissement/
+????f 細旗 细旗 [xi4 qi2] {sai3 kei4} /(argot des chauffeurs de taxi) (fig.) passager de taxi qui ne traverse qu'une très courte distance et dont le tarif de taxi est donc très bas/(lit.) petit drapeau/
+????f 細蓉 细蓉 [xi4 yong4] {sai3 jung2} /petit bol de nouilles wonton/
+????f 細用 细用 [xi4 yong4] {sai3 jung2} /petit bol de nouilles wonton (voir aussi 細蓉|细蓉)/
+????m 細馬 细马 [xi4 ma3] {sai3 maa5} /police patrol [colloquial] (moto?)/
+????f 終須有日龍穿鳯 终须有日龙穿鳯 [zhong1 xu1 you3 ri4 long2 chuan1 feng4] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6} /(expr. idiom.) tout le monde aura sa chance de réussir (voir aussi 終須有日龍穿鳳|终须有日龙穿凤)/
+結婚酒 结婚酒 [jie2 hun1 jiu3] {git3 fan1 zau2} /banquet de mariage/
+????c 結拜細佬 结拜细佬 [jie2 bai4 xi4 lao3] {git3 baai3 sai3 lou2} /one's younger 'sworn' brother (who have sworn an oath of loyalty together) [colloquial]/
+給你 给你 [gei3 ni3] {kap1 nei5} /te donner/vous donner/
+????m 綁死 绑死 [bang3 si3] {bong2 sei2} /to have one's shares locked up in the stock or currency market and being unable to sell due to low prices resulting in too great a loss if sold [colloquial]/
+綠豆仔 绿豆仔 [lu:4 dou4 zi3] {luk6 dau2 zai2} /(fam.) chlordiazépoxide/(lit.) petit haricot mungo/(orig.) ainsi nommé à cause de la couleur et forme des comprimés/
+網誌作者 网志作者 [wang3 zhi4 zuo4 zhe3] {mong5 zi3 zok3 ze2} /blogueur; auteur d'un blog/
+縮撚開 缩撚开 [suo1 nian3 kai1] {suk1 lan2 hoi1} /(vulg.) casse-toi! va te faire foutre!/
+????c 縮番條槓 缩番条杠 [suo1 fan1 tiao2 gang4] {suk1 faan1 tiu4 gong3} /to chicken out; to go back on one's word [colloquial]/
+????f 縮開你條撚 缩开你条撚 [suo1 kai1 ni3 tiao2 nian3] {suk1 hoi1 nei5 tiu4 lan2} /(vulg.) casse-toi! va te faire foutre!/(lit.) mets ta bite à part!/
+繑住 繑住 [qiao1 zhu4] {kiu5 zyu6} /s'emmêler/
+????c 繑後 繑后 [qiao1 hou4] {hiu1 hau6} /to fast forward [colloquial]/
