@@ -245,7 +245,7 @@
 ????f 一箸夾中 一箸夹中 [yi1 zhu4 jia1 zhong1] {jat1 zyu6 gaap3 zung1} /(expr. idiom.) quelqu'un qui devine juste du premier coup/(lit.) saisir exactement avec les baguettes/
 一粒嘢 一粒嘢 [yi1 li4 ye3] {jat1 lap1 je5} /(classificateur pour des petites choses) (ex. poussière, riz, gouttes d'eau)/
 一粒神 一粒神 [yi1 li4 shen2] {jat1 nap1 san4} /une pièce de dix centimes/
-一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /(fam.) inspecteur de probation dans le Hong Kong Police Force (orig.) les inspecteurs de probation ont une petite fleur sur leur badges/(lit.) une petite fleur/
+一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /(fam.) inspecteur de probation dans le Hong Kong Police Force/(lit.) une petite fleur/(orig.) les inspecteurs de probation ont une petite fleur sur leur badges/
 一統天下 一统天下 [yi1 tong3 tian1 xia4] {jat1 tung2 tin1 haa6} /unifier le pays/
 一經 一经 [yi1 jing1] {jat1 ging1} /dès que/une fois que/
 一群 一群 [yi1 qun2] {jat1 kwan4} /(classificateur pour décrire les groupes)/
@@ -25046,5 +25046,30 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 算啦 算啦 [suan4 la5] {syun3 laa1} /ce n'est pas grave; t'en fais pas/
 ????c 篤出嚟 笃出嚟 [du3 chu1 li2] {duk1 ceot1 lei4} /to rat on someone; to point someone out as the guilty party [colloquial]/
 ????f 篤尿 笃尿 [du3 niao4] {duk1 niu6} /urine (souvent dans la forme 痾篤尿|疴笃尿 « uriner », qui est en cantonais verbe 痾|疴 « excréter » + classificateur 篤|笃 + nom 尿|尿 « urine »)/
-篤屎 笃屎 [du3 shi3] {duk1 si2} /crotte; excrément (souvent dans la forme 痾篤屎|疴笃屎 « déféquer », qui est en cantonais verbe 痾|疴 « excréter » + classificateur 篤|笃 + nom 屎|屎 « crotte »)/
+????f 篤屎 笃屎 [du3 shi3] {duk1 si2} /crotte; excrément (souvent dans la forme 痾篤屎|疴笃屎 « déféquer », qui est en cantonais verbe 痾|疴 « excréter » + classificateur 篤|笃 + nom 屎|屎 « crotte »)/
 ????f 篤灰 笃灰 [du3 hui1] {duk1 fui1} /dénoncer; cafter; balancer (connotation de trahison)/
+篤痰 笃痰 [du3 tan2] {duk1 taam4} /mucosité; glaire/
+????f 篤鼻哥 笃鼻哥 [du3 bi2 ge1] {duk1 bei6 go1} /(fig.) se faire admettre quelque part sans devoir payer grâce à son statut ou son réseau social/(lit.) se montrer le nez du doigt/
+籌旗 筹旗 [chou2 qi2] {cau4 kei4} /lever des fonds; collecter des fonds/
+籮Ｐｅｔ 箩Ｐｅｔ [luo2 pi1] {lo1 pet1} /(fam.) fesses/
+????c 籮拔 箩拔 [luo2 ba2] {lo1 bat6} /Robert; a fool; a sucker [colloquial]/
+籮柚 箩柚 [luo2 you4] {lo4 jau2} /(fam.) fesses/
+籮霸 箩霸 [luo2 ba4] {lo1 baa3} /(fam.) femme fessue; femme au gros cul/
+米字旗 米字旗 [mi3 zi4 qi2] {mai5 zi6 kei4} /(fam.) drapeau du Royaume-Uni, Union Jack/
+????f 米王 米王 [mi3 wang2] {mai5 wong4} /congee (nature)/
+米田共 米田共 [mi3 tian2 gong4] {mai5 tin4 gung6} /(par euphémisme) crotte; excrément/(orig.) du caractère 糞|粪 « crotte, excrément », dont la variante traditionnelle est composée des trois caractères 米, 田 et 共/
+????f 粉筆字 粉笔字 [fen3 bi3 zi4] {fan2 bat1 zi6} /mot écrit avec de la craie/(fig.) quelque chose que l'on souhaite oublier; quelque chose que l'on veut laisser dans le passé/
+????c 粒嗲 粒嗲 [li4 dia3] {nap1 de1} /a remark; an utterance [colloquial]/
+粒臣 粒臣 [li4 chen2] {nap1 san2} /(Hong Kong) 10 cents/
+粒花 粒花 [li4 hua1] {nap1 faa1} /(fam.) inspecteur de probation dans le Hong Kong Police Force (voir aussi 一粒花|一粒花)/(lit.) une petite fleur/(orig.) les inspecteurs de probation ont une petite fleur sur leur badges/
+粒鐘 粒钟 [li4 zhong1] {nap1 zung1} /heure (unité de mesure de temps)/
+????f 粗口橫飛 粗口横飞 [cu1 kou3 heng2 fei1] {cou1 hau2 waang4 fei1} /(expr. idiom.) jurer beaucoup; dire beaucoup de gros mots/(lit.) faire envoler des jurons partout/
+粵英字典 粤英字典 [yue4 ying1 zi4 dian3] {jyut6 jing1 zi6 din2} /dictionnaire cantonais-anglais/
+????f 糧地官 粮地官 [liang2 di4 guan1] {loeng4 dei6 gun1} /(fig.) chômeur; sans-emploi/(lit.) fonctionnaire qui fait l'arpentage/
+糴佬 籴佬 [di2 lao3] {dek6 lou2} /s'enfuir (voir aussi 趯佬|趯佬)/
+紅地氈 红地毡 [hong2 di4 zhan1] {hung4 dei6 zin1} /tapis rouge; tapis de couleur rouge/(fig.) tapis rouge/
+????m 紅堂 红堂 [hong2 tang2] {hung4 tong4} /a triad judicial hearing [colloquial] (judicial? or just a meeting?)/
+紅毛鬼 红毛鬼 [hong2 mao2 gui3] {hung4 mou4 gwai2} /(péj.) Occidental, Occidentale/(lit.) fantôme aux cheveux rouges/
+紅湯 红汤 [hong2 tang1] {hung4 tong1} /(soupe) bortsch; bortch/
+紅白 红白 [hong2 bai2] {hung4 baak6} /rouge et blanc/(fig.) vicissitudes de la vie; évènements heureux et malheureux dans la vie/(fig.) (en particulier) noces et funérailles (voir 紅白事|红白事)/
+紅紅 红红 [hong2 hong2] {hung2 hung4} /très rouge/
