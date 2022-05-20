@@ -22744,7 +22744,7 @@
 一粒鐘 一粒钟 [yi1 li4 zhong1] {jat1 lap1 zung1} /une heure/
 ????f 一腳踏幾船 一脚踏几船 [yi1 jiao3 ta4 ji3 chuan2] {jat1 goek3 daap6 gei2 syun4} /(expr. idiom.) avoir plusieurs amants/(lit.) avoir le pied sur deux bateaux/
 ????f 一舊 一旧 [yi1 jiu4] {jat1 gau6} /(classificateur des objets boueux ou grumeleux, ex. riz, crottes) morceau; grumeau/(classificateur des objets d'une taille moyenne, ex. pierre, tronçon d'arbre)/
-一舊木 一旧木 [yi1 jiu4 mu4] {jat1 gau6 muk6} /(fig.) (personne) lent d'esprit; stupide/(lit.) un tronçon/
+一舊木 一旧木 [yi1 jiu4 mu4] {jat1 gau6 muk6} /(fig.) personne lent d'esprit; personne stupide; imbécile; crétin/(lit.) un tronçon/
 一草嘢 一草嘢 [yi1 cao3 ye3] {jat1 cou2 je5} /dix dollars hongkongais/
 一蚊 一蚊 [yi1 wen2] {jat1 man1} /(fam.) un dollar/
 一蚊雞 一蚊鸡 [yi1 wen2 ji1] {jat1 man1 gai1} /(fam.) un dollar/
@@ -25198,4 +25198,29 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 臭妹 臭妹 [chou4 mei4] {cau3 mui1} /(péj.) (d'une jeune femme) petite salope; pétasse/
 ????f 臭罌出臭草 臭罂出臭草 [chou4 ying1 chu1 chou4 cao3] {cau3 aang1 ceot1 cau3 cou2} /(expr. idiom.) (insulte) que grandir dans une famille de faible status social produise une personne de mauvais caractère n'a rien d'étonnant; les chiens ne font pas des chats (avec une connotation négative); la pomme ne tombe jamais loin de l'arbre (avec une connotation négative)/(lit.) un pot qui pue fait pousser de l'herbe qui pue/
 ????f 臭豬頭有盟鼻菩薩 臭猪头有盟鼻菩萨 [chou4 zhu1 tou2 you3 meng2 bi2 pu2 sa4] {cau3 zyu1 tau4 jau5 mang4 bei6 pou4 saat3} /(expr. idiom.) tous les goûts sont dans la nature; toute chose trouve quelqu'un pour l'apprécier/(lit.) pour chaque une tête de porc qui pue il y a un Bodhisattva avec le nez bouché/
+臭鳩 臭鸠 [chou4 jiu1] {cau3 gau1} /(vulg.) personne énervante; chieur/(lit.) bite puante/
+與你無關 与你无关 [yu3 ni3 wu2 guan1] {jyu5 nei5 mou4 gwaan1} /(à l'écrit) cela ne te regarde pas/
+舊同事 旧同事 [jiu4 tong2 shi4] {gau6 tung4 si6} /ancien collègue/
+舊情人 旧情人 [jiu4 qing2 ren2] {gau6 cing4 jan4} /ex; personne avec qui on a eu des relations amoureuses/
+舊愛 旧爱 [jiu4 ai4] {gau6 oi3} /ex; personne avec qui on a eu des relations amoureuses/
+舊木 旧木 [jiu4 mu4] {gau6 muk6} /(fam.) une personne lent d'esprit (voir aussi 一舊木|一旧木)/
+舊水 旧水 [jiu4 shui3] {gau6 seoi2} /(fam.) (après une chiffre) cent dollars (ex. 三舊水|三旧水 « trois cents dollars »)/
+舊鞋 旧鞋 [jiu4 xie2] {gau6 haai4} /(fam.) (fig.) (d'une femme) ex; personne avec qui on a eu des relations amoureuses/(lit.) vieux souliers/
+舊飯 旧饭 [jiu4 fan4] {gau6 faan6} /(fam.) personne stupide; imbécile; crétin (voir 一舊飯|一旧饭)/
+????c 舐屎忽 舐屎忽 [shi4 shi3 hu1] {saai5 si2 fat1} /to get into trouble; to get into difficulties [colloquial]/
+舖頭仔 铺头仔 [pu4 tou2 zi3] {pou3 tau2 zai2} /petit magasin/
+𦧲 𦧲 [] {loe1} /cracher/
+𦧲 𦧲 [] {loe2} /embêter; importuner; ennuyer/
+????m 𦧲飯應 𦧲饭应 [𦧲5 fan4 ying1] {loe2 faan6 jing3} /(expr. idiom.) accepter immédiatement/(lit.) accepter (tellement vite que) l'on crache le riz dans la bouche/
+船上 船上 [chuan2 shang4] {syun4 soeng6} /à bord; sur un navire/
+????f 船頭驚鬼，船尾驚賊 船头惊鬼，船尾惊贼 [chuan2 tou2 jing1 gui3, chuan2 wei3 jing1 zei2] {syun4 tau4 geng1 gwai2, syun4 mei5 geng1 caak6} /(expr. idiom.) irrésolu; être trop prudent et incapable de prendre des décisions/(lit.) y avoir des fantômes devant le bateau et des voleurs derrière le bateau/
+????f 良心當狗肺 良心当狗肺 [liang2 xin1 dang1 gou3 fei4] {loeng4 sam1 dong3 gau2 fai3} /(expr. idiom.) cracher dans la soupe; mordre la main nourricière; se montrer ingrat envers quelqu'un qui lui aide/(lit.) prendre la conscience pour les poumons d'un chien/
+????f 色中餓鬼 色中饿鬼 [se4 zhong1 e4 gui3] {sik1 zung1 ngo6 gwai2} /(fig.) homme lubrique; satyre/(lit.) fantôme qui a faim de sexe/
+????c 芝麻綠官 芝麻绿官 [zhi1 ma5 lu:4 guan1] {zi1 maa4 luk6 gun1} /a low ranking official [colloquial]/
+????c 花披 花披 [hua1 pi1] {faa1 pei1} /to divide up the loot, booty, profits from a crime [colloquial]/
+????c 花棚 花棚 [hua1 peng2] {faa1 paang4} /a vice den; a brothel [colloquial]/
+????c 花腰 花腰 [hua1 yao1] {faa1 jiu1} /(fam.) agent de police/
+????f 花花碌碌 花花碌碌 [hua1 hua1 lu4lu4] {faa1 faa1 luk1 luk1} /chamarré; multicolore; bigarré (avec une connotation d'être tape-à-l'œil)/
+????m 花葉格子 花叶格子 [hua1 ye4 ge2 zi5] {faa1 jip6 gaak3 zi2} /(fam.) banque/
+????c 苛求高 苛求高 [ke1 qiu2 gao1] {ho1 kau4 gou1} /to be very demanding [written and colloquial]/
 
