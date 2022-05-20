@@ -17084,7 +17084,7 @@
 苦於 苦于 [ku3 yu2] {fu2 jyu1} /souffrir de/
 苦瓜 苦瓜 [ku3 gua1] {fu2 gwaa1} /concombre amer/(fig.) personne malheureuse; personne très triste/(fig.) personne qui souffre/
 苦瓜乾 苦瓜干 [ku3 gua1 gan1] {fu2 gwaa1 gon1} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) concombre amer séché/
-苦瓜乾噉口面 苦瓜干啖口面 [ku3 gua1 gan1 dan4 kou3 mian4] {fu2 gwaa1 gon1 gam2 hau2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir une expression faciale comme un concombre amer séché/
+苦瓜乾噉口面 苦瓜干噉口面 [ku3 gua1 gan1 dan4 kou3 mian4] {fu2 gwaa1 gon1 gam2 hau2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; avoir un air lugubre/(lit.) avoir une expression faciale comme un concombre amer séché/
 苦瓜噉口面 苦瓜啖口面 [ku3 gua1 dan4 kou3 mian4] {fu2 gwaa1 gam2 hau2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir une expression faciale comme un concombre amer/
 苦瓜噉嘅面 苦瓜啖嘅面 [ku3 gua1 dan4 ge2 mian4] {fu2 gwaa1 gam2 ge3 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir une expression faciale comme un concombre amer/
 苦瓜噉面 苦瓜啖面 [ku3 gua1 dan4 mian4] {fu2 gwaa1 gam2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir un visage comme un concombre amer/
@@ -17414,6 +17414,7 @@
 薄英英 薄英英 [bo2 ying1 ying1] {bok6 jing1 jing1} /trop mince; trop fin/
 薄荷 薄荷 [bo4he5] {bok6 ho4} /menthe/
 薄荷糖 薄荷糖 [bo4 he5 tang2] {bok6 ho4 tong2} /bonbon à la menthe; pastille à la menthe/
+薑 姜 [jiang1] {goeng1} /gingembre/(fig.) courage/
 ????f 薑汁撞奶 姜汁撞奶 [jiang1 zhi1 zhuang4 nai3] {goeng1 zap1 zong6 naai5} /lait caillé au gingembre, dessert cantonais/
 ????f 薑醋 姜醋 [jiang1 cu4] {goeng1 cou3} /pieds de cochon au gingembre et au vinaigre, plat cantonais souvent préparé pour les femmes qui viennent d'accoucher/
 薯仔 薯仔 [shu3 zai3] {syu4 zai2} /patate/idiot; imbécile/personne sans importance/personne qui porte des vêtements démodés/
@@ -25223,4 +25224,28 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 花花碌碌 花花碌碌 [hua1 hua1 lu4lu4] {faa1 faa1 luk1 luk1} /chamarré; multicolore; bigarré (avec une connotation d'être tape-à-l'œil)/
 ????m 花葉格子 花叶格子 [hua1 ye4 ge2 zi5] {faa1 jip6 gaak3 zi2} /(fam.) banque/
 ????c 苛求高 苛求高 [ke1 qiu2 gao1] {ho1 kau4 gou1} /to be very demanding [written and colloquial]/
+苦瓜乾咁樣 苦瓜干咁样 [ku3 gua1 gan1 gan1 yang4] {fu2 gwaa1 gon1 gam2 joeng2} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; avoir un air lugubre/(lit.) avoir une expression faciale comme un concombre amer séché/
+苦瓜乾噉樣 苦瓜干噉样 [ku3 gua1 gan1 gan1 yang4] {fu2 gwaa1 gon1 gam2 joeng2} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; avoir un air lugubre/(lit.) avoir une expression faciale comme un concombre amer séché/
+英美 英美 [ying1 mei3] {jing1 mei5} /le Royaume-Uni et les États-Unis/
+????c 茄喱 茄喱 [qie2 li2] {ke1 le1} /an unimportant person [colloquial]/
+茄湯 茄汤 [qie2 tang1] {ke2 tong1} /soupe à la tomate/
+茄輪 茄轮 [qie2 lun2] {ke1 leon2} /baiser profond (voir aussi 打茄輪|打茄轮, « rouler une pelle »)/
+茄醬 茄酱 [qie2 jiang4] {ke2 zoeng3} /ketchup/sauce tomate/
+????m 茅躉 茅趸 [mao2 dun3] {maau4 dan2} /an attempt to trick or deceive the referee [colloquial] (person who does this?)/
+茶具文物館 茶具文物馆 [cha2 ju4 wen2 wu4 guan3] {caa4 geoi6 man4 mat6 gun2} /musée de thé de la maison Flagstaff à Hong Kong/
+茶室 茶室 [cha2 shi4] {caa4 sat1} /salon de thé/
+????f 茶瓜送飯 茶瓜送饭 [cha2 gua1 song4 fan4] {caa4 gwaa1 sung3 faan6} /(expr. en suspens) mauvaise personne/(lit.) (comme) manger un cornichon avec du riz (quelque chose qu'on faisait quand on était malade) (deuxième partie 好人有限|好人有限 « une personne en bonne santé a ses limites »)/
+草食性動物 草食性动物 [cao3 shi2 xing4 dong4 wu4] {cou2 sik6 sing3 dung6 mat6} /herbivore; animal qui se nourrit d'herbe ou de végétaux/
+莉莉四十 莉莉四十 [li4 li4 si4shi2] {lei6 lei6 sei3 sap6} /(drogue) (surnom de sécobarbital)/
+莊士敦道 庄士敦道 [zhuang1 shi4 dun1 dao4] {zong1 si6 deon1 dou6} /Johnston Road, rue à Hong Kong/
+莎莎 莎莎 [sha1 sha1] {saa1 saa1} /Sa Sa International Holdings, compagnie hongkongaise de produits cosmétiques/
+????f 莫薑 莫姜 [mo4 jiang1] {mok6 goeng1} /(fig.) timide; lâche; dégonflé/(lit.) qui n'a pas de gingembre/
+莫財 莫财 [mo4 cai2] {mok6 coi4} /être pauvre/
+????f 菊普 菊普 [ju2 pu3] {guk1 pou2} /thé pu-erh au chrysanthème/
+華仔 华仔 [hua2 zi3] {waa4 zai2} /(surnom de Andy Lau, acteur et chanteur hongkongais)/
+著埋一條褲 着埋一条裤 [zhe5 mai2 yi1 tiao2 ku4] {zoek3 maai4 jat1 tiu4 fu3} /(expr. idiom.) être dans le même bateau; être dans la même situation/(lit.) porter les mêmes pantalons/
+着埋一條褲 着埋一条裤 [zhe5 mai2 yi1 tiao2 ku4] {zoek3 maai4 jat1 tiu4 fu3} /(expr. idiom.) être dans le même bateau; être dans la même situation/(lit.) porter les mêmes pantalons/
+????m 著紅鞋 着红鞋 [zhe5 hong2 xie2] {zoek3 hung4 haai4} /(fig.) to steal the girl friend, wife of one's friend; to betray someone [colloquial] (to become an informer for police?)/(lit.) porter les chaussures rouges/
+著草鞋 着草鞋 [zhe5 cao3 xie2] {zoek3 cou2 haai4} /(fig.) se cacher; entrer dans la clandestinité/(lit.) porter des chaussures d'herbe/
+????c 著褲 着裤 [zhe5 ku4] {zoek3 fu3} /porter des pantalons/(fig.) être condamné; être inculpé/
 
