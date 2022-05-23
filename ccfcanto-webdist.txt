@@ -17911,7 +17911,7 @@
 褪出 褪出 [tui4 chu1] {tan3 ceot1} /sortir; partir; quitter/
 褪後 褪后 [tun4 hou4] {tan3 hau6} /reculer; reculer d'un pas/
 褪腸頭 褪肠头 [tui4 chang2 tou2] {tan3 coeng2 tau4} /prolapsus rectal/
-褪舦 褪舦 [tui4 tai4] {tan3 taai5} /(fig.) changement d'avis/(lit.) faire reculer la voiture/
+褪舦 褪舦 [tui4 tai4] {tan3 taai5} /(fig.) changer d'avis; décider de ne pas faire quelque chose que l'on avait l'intention de faire/(lit.) faire reculer la voiture/
 褪車 褪车 [tui4 che1] {tan3 ce1} /faire reculer la voiture/
 褪遲 褪迟 [tui4 chi2] {tan3 ci4} /reporter; remettre à plus tard/
 褫職 褫职 [chi3 zhi2] {ci2 zik1} /démettre de ses fonctions/
@@ -22228,7 +22228,7 @@
 鱷魚淚 鳄鱼泪 [e4 yu2 lei4] {ngok6 jyu4 leoi6} /(fig.) larmes de crocodile; manifestation émotionnelle fausse afin de tromper/(lit.) larmes de crococile/
 鱷魚潭 鳄鱼潭 [e4 yu2 tan2] {ngok6 jyu4 taam4} /(fig.) endroit dangereux/(fig.) Hong Kong Stock Exchange; SEHK; HKSE/(lit.) étang de crocodiles/
 鱷魚頭 鳄鱼头 [e4 yu2 tou2] {ngok6 jyu4 tau4} /(fig.) personne sans pitié/(lit.) tête de crocodile/
-鱷魚頭老襯底 鳄鱼头老衬底 [e4 yu2 tou2 lao3 chen4 di3] {ngok6 jyu4 tau4 lou5 can3 dai2} /(expr. idiom.) qui a l'air intelligent mais qui se laisse facilement duper/(lit.) tête de requin, dessus d'un pigeon/
+鱷魚頭老襯底 鳄鱼头老衬底 [e4 yu2 tou2 lao3 chen4 di3] {ngok6 jyu4 tau4 lou5 can3 dai2} /(expr. idiom.) qui a l'air intelligent mais qui se laisse facilement duper/(lit.) tête de crocodile, dessus d'un pigeon/
 鳥取縣 鸟取县 [niao3 qu3 xian4] {niu5 ceoi2 jyun6} /préfecture de Tottori, préfecture du Japon/
 鳩 鸠 [jiu1] {gau1} /(vulg.) pénis/(vulg.) stupide/
 ????f 鳩嗚 鸠呜 [jiu1 wu1] {gau1 wu1} /(même hongkongais) shopping; magasinage/(orig.) de la prononciation du mot 購物|购物 « shopping; magasinage » en mandarin (gou4 wu4), rendu célèbre lors des manifestations « Occupy Central » par une femme chinoise anti-manifestations qui avait oublié la prononciation du mot en cantonais/
@@ -25298,3 +25298,28 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 蛇去邊 蛇去边 [she2 qu4 bian1] {se4 heoi3 bin1} /where are you going to hang out [colloquial]/
 ????f 蛋家婆摸蜆 蛋家婆摸蚬 [dan4 jia1po2 mo1 xian3] {daan2 gaa1 po4 mo2 hin2} /(expr. en suspens) avoir renoncé dans la vie; être sans espoir/(lit.) comme une femme Tanka qui pêche des palourdes (deuxième partie 第篩|第筛 dai6 sai1 « autre tamis », jeu de mots avec 第世|第世 dai6 sai3 « (on ne peut qu'attendre) la prochaine vie »)/
 ????c 蝕綽 蚀绰 [shi2 chuo4] {sik6 coek3} /to lose; to be cheated [colloquial]/
+蝴蝶粉 蝴蝶粉 [hu2 die2 fen3] {wu4 dip6 fan2} /(pâte alimentaire) farfalle/
+????c 蟹仔 蟹仔 [xie4 zi3] {haai5 zai2} /(fam.) (fig.) vagin/(lit.) petit crabe/
+????c 蟹咗 蟹咗 [xie4 zuo3] {haai5 zo2} /(fam.) (fig.) mort/
+????f 蟹民 蟹民 [xie4 min2] {haai5 man4} /(fig.) personne qui a acheté des actions en bourse qui ont baissé de valeur; personne qui ne veut pas vendre ses actions qui ont baissé de valeur/(lit.) peuple crabe/
+????f 行Ｑ開 行Ｑ开 [xing2 Q5] {haang4 kiu1 hoi1} /(vulg.) casse-toi! va te faire foutre!/
+????f 行先一步 行先一步 [xing2 xian1 yi1 bu4] {haang4 sin1 jat1 bou6} /(par euphémisme) rendre l'âme; mourir; déceder/(lit.) faire un pas (avant quelqu'un d'autre)/
+行必 行必 [xing2 bi4] {haang4 bit1} /patrouiller; faire une patrouille/(orig.) 行|行 « marcher » + 必|必 bit1 de l'anglais « beat » (« rhythme, battement »)/
+行老文 行老文 [xing2 lao3 wen2] {haang4 lou5 man4} /(fig.) pratiquer le vol à la tire/
+????m 行老正 行老正 [xing2 lao3 zheng4] {haang4 lou5 zeng3} /(fig.) tricher (au jeu)/
+行返轉頭 行返转头 [xing2 fan3 zhuan3 tou2] {haang4 faan1 zyun3 tau4} /revenir sur ses pas; refaire le trajet en sens invers/
+????f 街尾 街尾 [jie2 wei3] {gaai1 mei5} /bout de la rue/
+????f 街鐘 街钟 [jie1 zhong1] {gaai1 zung1} /(fig.) taux horaire d'une entraîneuse d'une boîte de nuit (pour la faire sortir de la boîte de nuit et avoir des rapports sexuels avec lui)/(lit.) heure à la rue/
+????m 街鐘宵夜殺馬 街钟宵夜杀马 [jie1 zhong1 xiao1 ye4 sha1 ma3] {gaai1 zung1 siu1 je6 saat3 maa5} /(fig.) sortir une entraîneuse d'une boîte de nuit, prendre un repas avec lui, puis avoir des rapports sexuels avec lui/(lit.) heure à la rue, manger une collation de minuit, et tuer le cheval/
+????c 衰乜嘢 衰乜嘢 [shuai1 mie1 ye3] {seoi1 mat1 je5} /'what did you get in for?' (a question usually asked to prisoners), 'what crime did you commit?' [colloquial]/
+????c 衰到冇人有 衰到冇人有 [shuai1 dao4 mao3 ren2 you3] {seoi1 dou3 mou5 jan4 jau5} /extremely nasty; terrible beyond belief [colloquial]/
+????c 衰到冇得頂 衰到冇得顶 [shuai1 dao4 mao3 de5 ding3] {seoi1 dou3 mou5 dak1 ding2} /extremely nasty; terrible beyond belief [colloquial]/
+????c 衰款 衰款 [shuai1 kuan3] {seoi1 fun2} /nasty looking; bad character / quality [colloquial]/
+????m 衰相 衰相 [shuai1 xiang1] {seoi1 soeng3} /a terrible state; an ugly face [colloquial]/
+????f 衰邊瓣 衰边瓣 [shuai1 bian1 ban4] {seoi1 bin1 faan6} /'what did you get in for?' (a question usually asked to prisoners), 'what crime did you commit?' [colloquial]/
+袖口鏈扣 袖口链扣 [xiu4 kou3 lian4 kou4] {zau6 hau2 lin2 kau3} /bouton de manchette/
+被殺 被杀 [bei4 sha1] {bei3 saat3} /être tué/
+????f 被譽為 被誉为 [bei4 yu4 wei2] {bei3 jyu6 wai4} /être acclamé; être très apprécié (comme étant...)/
+????f 補習天王 补习天王 [bu3 xi2 tian1 wang2] {bou2 zaap6 tin1 wong4} /(fig.) répétiteur ou professeur particulier très célèbre ou populaire/(lit.) roi des cours complémentaires/
+????f 補飛 补飞 [bu3 fei1] {bou2 fei1} /(fig.) refaire quelque chose (après une tentative échouée)/
+褪軚 褪軚 [tui4 dai4] {tan3 taai5} /(fig.) changer d'avis; décider de ne pas faire quelque chose que l'on avait l'intention de faire/(lit.) faire reculer la voiture/
