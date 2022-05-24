@@ -12369,6 +12369,7 @@
 淡滅滅 淡灭灭 [dan4 mie4 mie4] {taam5 mit6 mit6} /fade; sans goût/
 淡茂茂 淡茂茂 [dan4 mao4 mao4] {taam5 mau6 mau6} /fade; sans goût/
 ????f 淡菜 淡菜 [dan4 cai4] {daam6 coi3} /dried mussel/
+????f 淡過水鬼尿 淡过水鬼尿 [dan2 gwo4 shui3 gui3 niao4] {taam5 gwo3 seoi2 gwai2 niu6} /(expr. idiom.) (soupe, bière, café, autre boisson) trop liquide; trop léger; fade/(lit.) plus fade que l'urine d'un fantôme d'eau/
 淥 渌 [lu4] {luk6} /faire cuire à eau/(cuisine) blanchir/ébouillanter; brûler/
 ????f 淥親 渌亲 [lu4 qin1] {luk6 can1} /ébouillanter; brûler/
 淨係 淨系 [cheng2 xi4] {zing6 hai6} /seulement; simplement/
@@ -25405,7 +25406,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 豬頭喇叭咀 猪头喇叭咀 [zhu1 tou2 la3 ba5 ju3] {zyu1 tau4 laa3 baa1 zeoi2} /(expr. idiom.) visage roué de coups/(lit.) tête de cochon, bouche de trompette/
 ????f 豬髧兜 猪髧兜 [zhu1 dan4 dou1] {zyu1 dam3 dau1} /(fig.) gros idiot obèse/(lit.) comme la peau tombante du porc/
 ????c 豬鳩 猪鸠 [zhu1 jiu1] {zyu1 gau1} /(vulg.) connard; salaud/
-????m 貓尿 猫尿 [mao1 niao4] {maau1 niu6} /tears [colloquial] (淡過貓尿?)/
+????m 貓尿 猫尿 [mao1 niao4] {maau1 niu6} /tears [colloquial] (淡過貓尿?) (voir aussi 淡過水鬼尿|淡过水鬼尿)/
 ????m 貓機 猫机 [mao1 ji1] {maau1 gei1} /a device used to detect mobile short wave radio used by taxi and truck drivers [colloquial] (poste CB?)/
 負擔得起 负担得起 [fu4 dan1 de5 qi3] {fu6 daam1 dak1 hei2} /pouvoir se payer quelque chose; être en mesure de payer quelque chose/
 ????m 財產所有人 财产所有人 [cai2 chan3 suo3 you3 ren2] {coi4 caan2 so2 jau5 jan4} /property owner [written and colloquial]/
@@ -25424,3 +25425,26 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 買贏 买赢 [mai3 ying2] {maai5 jeng4} /to bet that someone or something will win [written and colloquial]/
 買鐘 买钟 [mai3 zhong1] {maai5 zung1} /(fig.) payer pour passer la nuit (et avoir des rapports sexuels) avec une entraîneuse d'une boîte de nuit/(lit.) acheter l'heure/
 ????c 買餅 买饼 [mai3 bing3] {maai5 beng2} /acheter des biscuits/(argot des chauffeurs de taxi) aller à Yuen Long (quartier de Hong Kong)/
+????f 貼佬 贴佬 [tie1 lao3] {tip3 lou2} /(fam.) (fig.) (d'une femme mariée) donner de l'argent à son amant/
+????f 貼錢買難受 贴钱买难受 [tie1 qian2 mai3 nan2 shou4] {tip3 cin2 maai5 naan4 sau6} /(expr. idiom.) acheter quelque chose que l'on regrette d'avoir acheté; payer pour un service qui nous rend moins heureux que l'on était avant de l'avoir acheté/(lit.) payer et acheter de la misère/
+賀咭 贺咭 [he4 ji1] {ho6 kaat1} /(rare) carte de vœux (voir aussi 賀卡|贺卡)/
+賀生日 贺生日 [he4 sheng1 ri5] {ho6 saang1 jat6} /fêter un anniversaire/
+賄款 贿款 [hui4 kuan3] {kui2 fun2} /pot-de-vin/
+????f 賊臧 贼臧 [zei2 zang1] {caak6 zong1} /biens volés; marchandises volées/
+賓周仔 宾周仔 [bin1 zhou1 zi3] {ban1 zau1 zai2} /(fam.) pénis/
+賓墟咁嘅場面 宾墟咁嘅场面 [bin1 xu1 gan1 ge3 chang3 mian4] {ban1 heoi1 gam2 ge3 coeng4 min2} /(expr. idiom.) grand rassemblement de personnes (souvent à une fête ou à un banquet)/(lit.) une situation comme dans le film Ben-Hur/
+????f 賠你條命 赔你条命 [pei2 ni3 tiao2 ming4] {pui4 nei5 tiu4 meng6} /(sarcastique) mais bien sur je vais te rembourser/(lit.) je te rembourse ta vie/
+????c 賠水 赔水 [pei2 shui3] {pui4 seoi2} /to pay back money to compensate for damages, losses [colloquial]/
+賠起 赔起 [pei2 qi3] {pui4 hei2} /être capable de rembourser ses dettes/
+????m 賣檯 卖台 [mai4 tai2] {maai6 toi2} /to sell or sub-contract a space to another business; to sell the right to product, trademark, license [colloquial]/
+????m 賣血 卖血 [mai4 xue4] {maai6 hyut3} /être tellement pauvre que l'on doit vendre son sang pour survivre/
+賣鹹蛋 卖咸蛋 [mai4 xian2 dan4] {maai6 haam4 daan2} /(par euphémisme) mourir; déceder/(lit.) vendre des œufs salés/
+????c 賤友 贱友 [jian4 you3] {zin6 jau5} /personne méprisable; pourriture; vaurien/
+????c 賤格下流 贱格下流 [jian4 ge2 xia4 liu2] {zin6 gaak3 haa6 lau4} /(expr. idiom.) (personne) méprisable/
+????c 賤格佬 贱格佬 [jian4 ge2 lao3] {zin6 gaak3 lou2} /personne méprisable; pourriture; vaurien/
+賤泥 贱泥 [jian4 ni2] {zin6 nai4} /(fig.) personne méprisable; pourriture; vaurien/(lit.) terre méprisable/
+????f 賤物鬥窮人 贱物斗穷人 [jian4 wu4 dou4 qiong2 ren2] {zin6 mat6 dau3 kung4 jan4} /(expr. idiom.) situation où les prix sont bas mais les personnes sont très pauvres/
+????m 賤狗 贱狗 [jian4 gou3] {zin6 gau2} /(fig.) personne méprisable; pourriture; vaurien/(lit.) chien méprisable/
+????c 賤閪 贱閪 [jian4 se1] {zin6 hai1} /(vulg.) sale pute; connasse/(lit.) vagin méprisable/
+????f 賴鞋底 赖鞋底 [lai4 xie2 di3] {laai2 haai4 dai2} /(fig.) ne pas réussir à lécher les bottes de quelqu'un; lécher les bottes de la mauvaise personne/(lit.) lécher la semelle/
+????m 赤柱年華 赤柱年华 [chi4 zhu4 nian2 hua2] {cek3 cyu5 nin4 waa4} /(fig.) temps passé à la prison Stanley à Hong Kong/(fig.) mineur; personne mineure (dans le contexte de l'abus sexuel sur mineur)/
