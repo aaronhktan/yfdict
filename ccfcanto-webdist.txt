@@ -4107,8 +4107,8 @@
 ????f 哽 哽 [geng3] {ngang2} /(an object) to press against a body part and cause discomfort (eg. rock in shoe, bumpy chair, etc.)/
 哽耳 哽耳 [geng3 er3] {ang2 ji5} /(expr. idiom.) (quelque chose) que l'on ne veut pas entendre/(lit.) qui gratte les oreilles/
 唂咕 唂咕 [gu3 gu1] {guk1 gu2} /cacao/
-????f 唂精上脑 唂精上脑 [gu1 jing1 shang4 nao3] {guk1 zing1 soeng5 nou5} /(expr. idiom.) qui est excité (sexuellement)/(lit.) qui a le sperme qui entre dans le cerveau/
-唂精上腦 唂精上脑 [gu1 jing1 shang4 nao3] {guk1 zing1 soeng5 nou5} /qui se sent tout excité (sexuellement)/(lit.) qui a le sperme qui entre dans le cerveau/
+????f 唂精上脑 唂精上脑 [gu1 jing1 shang4 nao3] {guk1 zing1 soeng5 nou5} /(expr. idiom.) (d'une homme) qui est sexuellement insatisfait parce qu'il n'a pas eu de rapports sexuels depuis longtemps/(lit.) qui a le sperme qui entre dans le cerveau/
+????f 唂精上腦 唂精上脑 [gu1 jing1 shang4 nao3] {guk1 zing1 soeng5 nou5} /(expr. idiom.) (d'une homme) qui est sexuellement insatisfait parce qu'il n'a pas eu de rapports sexuels depuis longtemps/(lit.) qui a le sperme qui entre dans le cerveau/
 唆使 唆使 [suo1 shi3] {so1 sai2} /inciter; provoquer; encourager/
 唆擺 唆摆 [suo1 bai3] {so1 baai2} /inciter; provoquer; encourager/
 唇紅齒白 唇红齿白 [chun2 hong2 chi3 bai2] {seon4 hung4 ci2 baak6} /(expr. idiom.) (personne) beau, belle/(lit.) lèvres rouges et dents blanches/
@@ -15660,7 +15660,7 @@
 粉碎 粉碎 [fen3 sui4] {fan2 seoi3} /briser; fracasser; briser en morceaux/
 粉竇 粉窦 [fen3 dou4] {fan2 dau6} /repaire de drogués où l'on prend de l'héroïne/
 粉粿 粉粿 [fen3 guo3] {fan2 gwo2} /jiaozi de chaozhou; « Teochew dumpling »/
-粉腸 粉肠 [fen3 chang2] {fan2 coeng2} /chitterlings; tripes; intestin grêle du porc/(vulg.) con; connard; tête de nœud/(vulg.) vaurien; fainéant/
+粉腸 粉肠 [fen3 chang2] {fan2 coeng2} /chitterlings; tripes; intestin grêle du porc/(vulg.) con; connard; tête de nœud/(vulg.) bon à rien; fainéant/
 ????c 粉角 粉角 [fen3 jiao3] {fan2 gok2} /Kudzu/
 粉飾昇平 粉饰升平 [fen3 shi4 sheng1 ping2] {fan2 sik1 sing1 ping4} /faire semblant que tout va bien/
 粉飾太平 粉饰太平 [fen3 shi4 tai4 ping2] {fan2 sik1 taai3 ping4} /faire semblant que tout va bien/
@@ -16759,7 +16759,7 @@
 膠體溶液 胶体溶液 [jiao1 ti3 rong2 ye4] {gaau1 tai2 jung4 jik6} /solution colloïdale; sol/
 膨脹 膨胀 [peng2 zhang4] {paang4 zoeng3} /se gonfler/(pain) faire lever/
 ?????f 膳費 膳费 [shan4 fei4] {sin6 fai3} /Meal charge; board expenses/
-膶腸 膶肠 [ren4 chang2] {jeon2 coeng2} /saucisse chinoise de foie de porc/saucisse chinoise de foie de canard/
+膶腸 膶肠 [run4 chang2] {jeon2 coeng2} /saucisse chinoise de foie de porc/saucisse chinoise de foie de canard/
 膽大心細 胆大心细 [dan3 da4 xin1 xi4] {daam2 daai6 sam1 sai3} /courageux et prudent/
 ????f 膽機 胆机 [dan3 ji1] {daam2 gei1} /amplificateur à tubes; amplificateur à soupapes/
 膽正命平 胆正命平 [dan3 zheng4 ming4 ping2] {daam2 zeng3 meng6 peng4} /(expr.) prêt à mourir pour la justice/
@@ -25372,4 +25372,29 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 講嘢有骨 讲嘢有骨 [jiang3 ye3 you3 gu3] {gong2 je5 jau5 gwat1} /(expr. idiom.) il y a un sens caché dans ces paroles; c'est un compliment traître (backhanded compliment)/(lit.) ces paroles ont des os/
 ????m 講多無謂 讲多无谓 [jiang3 duo1 wu2 wei4] {gong2 do1 mou4 wai6} /(expr.) continuer à en parler ne sert à rien/
 ????m 講得清楚 讲得清楚 [jiang3 de5 qing1 chu5] {gong2 dak1 cing1 co2} /to speak clearly; to explain something clearly [written and colloquial] (clearly as in enunciating or explanation, or both?)/
-????f 講極都唔明 讲极都唔明 [jiang3 ji2 dou1 wu2 ming2] {gong2 gik6 dou1 m4 ming4} /(expr. idiom.) ne pas arriver à se faire comprendre par (quelqu'un)/(lit.) avoir beau parler mais ne pas arriver à se se faire comprendre par quelqu'un/
+????f 講極都唔明 讲极都唔明 [jiang3 ji2 dou1 wu2 ming2] {gong2 gik6 dou1 m4 ming4} /(expr. idiom.) ne pas arriver à se faire comprendre par (quelqu'un)/(lit.) avoir beau parler mais ne pas arriver à se faire comprendre par quelqu'un/
+講聲對唔住 讲声对唔住 [jiang3 sheng1 dui4 n2 zhu4] {gong2 seng1 deoi3 m4 zyu6} /présenter ses excuses; s'excuser (moins sérieux que 道歉|道歉)/
+講講 讲讲 [jiang3 jiang3] {gong2 gong2} /parler (brièvement) (de quelque chose)/
+講鬼話 讲鬼话 [jiang3 gui3 hua4] {gong2 gwai2 waa2} /(fig.) dire des bêtises; raconter n'importe quoi/(lit.) parler la langue des fantômes/
+謝玉堂 谢玉堂 [xie4 yu4 tang2] {ze6 juk6 tong4} /Xie Yutang, homme politique chinois/
+????f 識...老鼠 识...老鼠 [shi2 lao3 shu3] {sik1 lou5 syu2} /(fig.) ne pas connaître quelqu'un qui prétend être célèbre/(lit.) connaître le souris (de quelqu'un)/
+????m 識ｄｏ 识ｄｏ [shi2 do] {sik1 du1} /'Smart - knows what to do' (usually said in a complimentary way to describe someone who knows how to behave appropriately in a certain situation or is very skilful in handling tricky circumstances); to be tactful; to be suave; to know the right way to proceed [colloquial]/
+????f 識少少，扮代表 识少少，扮代表 [shi2 shao3 shao3, ban4 dai4 biao3] {sik1 siu2 siu2, baan6 doi6 biu2} /(expr.) (une personne) qui sait seulement un peu mais qui fait semblant de tout savoir/(lit.) savoir un peu, faire semblant de tout représenter/
+譭謗 毁谤 [hui3 bang4] {wai2 pong3} /calomnier; diffamer/
+????m 護衛犬 护卫犬 [hu4 wei4 quan3] {wu6 wai6 hyun2} /chien de garde; molosse/
+????f 讀勝 读胜 [du2 sheng4] {duk6 sing3} /(par euphémisme) lire/(par euphémisme) étudier/(orig.) le mot 書|书 syu1 (« livre ») est considéré malchanceux par les joueurs puisqu'il est prononcé de la même façon que 輸|输 syu1 (« perdre »), donc on a remplacé le mot malchanceux avec son antonyme, 勝|胜 (« victoire »)/
+????f 讀完 读完 [du2 wan2] {duk6 jyun4} /après avoir fini de lire/lu/finir ses études/
+讀緊書 读紧书 [du2 jin3 shu1] {duk6 gan2 syu1} /être en train de lire (un livre, un magazine)/étudier; se spécialiser en; faire un majeur en (quelque chose)/
+讀贏 读赢 [du2 ying2] {duk6 jeng4} /(par euphémisme) lire/(par euphémisme) étudier/(orig.) le mot 書|书 syu1 (« livre ») est considéré malchanceux par les joueurs puisqu'il est prononcé de la même façon que 輸|输 syu1 (« perdre »), donc on a remplacé le mot malchanceux avec son antonyme, 贏|赢 (« gagner »)/
+????f 變態婆 变态婆 [bian4 tai4 po2] {bin3 taai3 po4} /(d'une femme) perverse; obsédé sexuel/
+????f 谷精上腦 谷精上脑 [gu3 jing1 shang4 nao3] {guk1 zing1 soeng5 nou5} /(expr. idiom.) (d'une homme) qui est sexuellement insatisfait parce qu'il n'a pas eu de rapports sexuels depuis longtemps/(lit.) qui a le sperme qui entre dans le cerveau/
+????f 豆皮佬 豆皮佬 [dou4 pi2 lao3] {dau6 pei4 lou2} /homme au visage grêlé/
+豈有此理 岂有此理 [qi3 you3 ci3 li3] {hei2 jau5 ci2 lei5} /(expr.) c'est ridicule!/
+豈勢咁 岂势咁 [qi3 shi4 gan1] {hei2 sai3 gam2} /continuellement; sans cesse/extrêmement; de toutes ses forces/
+????c 豬丙 猪丙 [zhu1 bing3] {zyu1 bing2} /idiot; imbécile; crétin/
+????c 豬仔Ｐｌａｎ 猪仔Ｐｌａｎ [zhu1 zai3 plan] {zyu1 zai2 plen1} /insurance scheme specifically tailored for children [colloquial]/
+????f 豬咁蠢 猪咁蠢 [zhu1 gan1 chun3] {zyu1 gam3 ceon2} /(fig.) très stupide/(lit.) stupide comme un porc/
+豬屎𩿞 豬屎𩿞 [zhu1 shi3 𩿞5] {zyu1 si2 zaa2} /(espèce d'oiseaux) Shama dayal; Copsychus saularis/
+豬標 猪标 [zhu1 biao1] {zyu1 biu1} /(fig.) idiot; imbécile; crétin/
+豬油包 猪油包 [zhu1 you2 bao1] {zyu1 jau4 baau1} /(fam.) (fig.) (une personne) qui fait tout très lentement/(lit.) brioche à lard/
+豬泵兜 猪泵兜 [zhu1 beng4 dou1] {zyu1 dam3 dau1} /(fig.) idiot; imbécile; crétin/
