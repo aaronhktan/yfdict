@@ -18706,7 +18706,7 @@
 ????f 買定 买定 [mai3 ding4] {maai5 ding6} /acheter à l'avance/(jeux d'argent) pari confirmé; pari qui ne peut pas être retiré/
 買少見少 买少见少 [mai3 shao3 jian4 shao3] {maai5 siu2 gin3 siu2} /(expr. idiom.) devenir de plus en plus rare/(lit.) acheter moins, voir moins/
 買手 买手 [mai3 shou3] {maai5 sau2} /acheteur/agent d'approvisionnement/
-????c 買棺材唔知埞 买棺材唔知埞 [mai3 guan1 cai5 n2 zhi1 di1] {maai5 gun1 coi4 m4 zi1 deng6} /(don't know where to buy a coffin); to act recklessly/
+????f 買棺材唔知埞 买棺材唔知埞 [mai3 guan1 cai5 wu2 zhi1 di1] {maai5 gun1 coi4 m4 zi1 deng6} /(expr. idiom.) vous n'avez aucune idée quelles seront les conséquences de vos actions; vous agissez de manière irréfléchie/(lit.) ne pas savoir où acheter son cercueil/
 買殼 买壳 [mai3 ke2] {maai5 hok3} /(fig.) prise de contrôle inversée/(lit.) acheter une coquille (= une société écran)/
 ????c 買水 买水 [mai3 shui3] {maai5 seoi2} /'buying water', a ceremony carried out by the eldest son for a dead parent/
 買燕梳 买燕梳 [mai3 yan4 shu1] {maai5 jin3 so1} /(fam.) prendre une assurance; souscrire une assurance; acheter une assurance/(orig.) 燕梳|燕梳 jin3 so1 de l'anglais « insurance » (« assurance »)/
@@ -25397,4 +25397,30 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 豬屎𩿞 豬屎𩿞 [zhu1 shi3 𩿞5] {zyu1 si2 zaa2} /(espèce d'oiseaux) Shama dayal; Copsychus saularis/
 豬標 猪标 [zhu1 biao1] {zyu1 biu1} /(fig.) idiot; imbécile; crétin/
 豬油包 猪油包 [zhu1 you2 bao1] {zyu1 jau4 baau1} /(fam.) (fig.) (une personne) qui fait tout très lentement/(lit.) brioche à lard/
-豬泵兜 猪泵兜 [zhu1 beng4 dou1] {zyu1 dam3 dau1} /(fig.) idiot; imbécile; crétin/
+????f 豬泵兜 猪泵兜 [zhu1 beng4 dou1] {zyu1 dam3 dau1} /(fig.) gros idiot obèse/(lit.) comme la peau tombante du porc/
+豬肉佬 猪肉佬 [zhu1 rou4 lao3] {zyu1 juk6 lou2} /boucher/(en particulier) charcutier/
+????f 豬肉刀 猪肉刀 [zhu1 rou4 dao1] {zyu1 juk6 dou1} /couteau de boucher/
+豬肉舖 猪肉铺 [zhu1 rou4 pu4] {zyu1 juk6 pou2} /boucherie/(lit.) boutique de viande de porc/
+豬肺 猪肺 [zhu1 fei4] {zyu1 fai3} /poumon de porc/
+????f 豬頭喇叭咀 猪头喇叭咀 [zhu1 tou2 la3 ba5 ju3] {zyu1 tau4 laa3 baa1 zeoi2} /(expr. idiom.) visage roué de coups/(lit.) tête de cochon, bouche de trompette/
+????f 豬髧兜 猪髧兜 [zhu1 dan4 dou1] {zyu1 dam3 dau1} /(fig.) gros idiot obèse/(lit.) comme la peau tombante du porc/
+????c 豬鳩 猪鸠 [zhu1 jiu1] {zyu1 gau1} /(vulg.) connard; salaud/
+????m 貓尿 猫尿 [mao1 niao4] {maau1 niu6} /tears [colloquial] (淡過貓尿?)/
+????m 貓機 猫机 [mao1 ji1] {maau1 gei1} /a device used to detect mobile short wave radio used by taxi and truck drivers [colloquial] (poste CB?)/
+負擔得起 负担得起 [fu4 dan1 de5 qi3] {fu6 daam1 dak1 hei2} /pouvoir se payer quelque chose; être en mesure de payer quelque chose/
+????m 財產所有人 财产所有人 [cai2 chan3 suo3 you3 ren2] {coi4 caan2 so2 jau5 jan4} /property owner [written and colloquial]/
+????f 貨櫃佬 货柜佬 [huo4 gui4 lao3] {fo3 gwai6 lou2} /(fam.) chauffeur de véhicule articulé/
+貪口𡙁 贪口𡙁 [tan1 kou3 shuang3] {taam1 hau2 song2} /(fig.) parler sans réfléchir/
+????f 貪字得個貧 贪字得个贫 [tan1 zi4 de2 ge4 pin2] {taam1 zi6 dak1 go3 pan4} /(expr. idiom.) être cupide ne mène qu'à la pauvreté/(lit.) le caractère « cupide » mène au caractère « pauvreté »/
+????m 貴人事忙 贵人事忙 [gui4 ren2 shi4 mang2] {gwai3 jan4 si6 mong4} /(expr. idiom.) qui est toujours occupé/
+????f 貴利佬 贵利佬 [gui4 li4 lao3] {gwai3 lei2 lou2} /(fam.) usurier/(lit.) type d'un taux d'intérêt élevé/
+????f 買ｆｕｌｌ鐘 买ｆｕｌｌ钟 [mai3 full zhong1] {maai5 fu1 zung1} /(fig.) payer pour passer la nuit (et avoirs des rapports sexuels) avec une entraîneuse d'une boîte de nuit (voir aussi 買全鐘|买全钟)/(lit.) acheter l'heure complète/
+買全鐘 买全钟 [mai3 quan2 zhong1] {maai5 cyun4 zung1} /(fig.) payer pour passer la nuit (et avoir des rapports sexuels) avec une entraîneuse d'une boîte de nuit/(lit.) acheter l'heure complète/
+????f 買大 买大 [mai3 da4] {maai5 daai6} /(fam.) déféquer/(argot des casinos) miser sur la combinaison « passe » dans le jeu Sic bo/
+????f 買大細 买大细 [mai3 da4 xi4] {maai5 daai6 sai3} /(jeu de casino) Sic bo/jouer au jeu de casino Sic bo/
+????f 買定離手 买定离手 [mai3 ding4 li2 shou3] {maai5 ding6 lei4 sau2} /(dans un casino, locution utilisée par un croupier) place your bets and hands off the table [colloquial]/
+????f 買板唔知埞 买板唔知埞 [mai3 ban3 n2 zhi1 di3] {maai5 baan2 m4 zi1 deng6} /(expr. idiom.) vous n'avez aucune idée quelles seront les conséquences de vos actions; vous agissez de manière irréfléchie/(lit.) ne pas savoir où acheter les planches (pour son cercueil)/
+買樓 买楼 [mai3 lou2] {maai5 lau2} /acheter un bien immobilier; acheter une maison; acheter un appartement/
+????c 買贏 买赢 [mai3 ying2] {maai5 jeng4} /to bet that someone or something will win [written and colloquial]/
+買鐘 买钟 [mai3 zhong1] {maai5 zung1} /(fig.) payer pour passer la nuit (et avoir des rapports sexuels) avec une entraîneuse d'une boîte de nuit/(lit.) acheter l'heure/
+????c 買餅 买饼 [mai3 bing3] {maai5 beng2} /acheter des biscuits/(argot des chauffeurs de taxi) aller à Yuen Long (quartier de Hong Kong)/
