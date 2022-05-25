@@ -19110,6 +19110,7 @@
 踩单车 踩单车 [cai3 dan1 che1] {caai2 daan1 ce1} /faire du vélo/
 ????c 踩台 踩台 [cai3 tai2] {caai2 toi4} /stage rehearsal/
 踩單車 踩单车 [cai3 dan1 che1] {caai2 daan1 ce1} /faire du vélo/
+踩單車 踩单车 [cai3 dan1 che1] {jaai2 daan1 ce1} /faire du vélo/
 踩嚫條尾 踩嚫条尾 [cai3 chen4 tiao2 wei3] {caai2 can3 tiu4 mei5} /(expr. idiom.) offenser quelqu'un/(lit.) marcher sur la queue de quelqu'un/
 ????c 踩地盤 踩地盘 [cai3 di4 pan2] {caai2 dei6 pun4} /to step into one's sphere of influence and to be of a threat to their benefits (or conflicts with their interests)/
 ????f 踩場 踩场 [cai3 chang3] {caai2 coeng4} /provoking by entering enemy's turf or area of control (spoken)/
@@ -25472,4 +25473,28 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 跎槍 跎枪 [tuo2 qiang1] {to4 coeng1} /porter une arme/armé; muni d'une arme/(par extension) travailler comme policier/
 跎炮 跎炮 [tuo2 pao4] {to4 paau3} /porter une arme/armé; muni d'une arme/(par extension) travailler comme policier/
 跎鐵 跎铁 [tuo2 tie3] {to4 tit3} /porter une arme/armé; muni d'une arme/(par extension) travailler comme policier/
-????f 跑山 跑山 [pao3 shan1] {paau2 saan1} /courir sur les collines ou les montagnes; faire du jogging sur les collines ou les montagnes/(fig.) amasser des fonds de toute urgence pour rembourser une dette/
+????f 跑山 跑山 [pao3 shan1] {paau2 saan1} /courir sur les collines ou les montagnes; faire du jogging sur les collines ou les montagnes/(fig.) amasser des fonds de toute urgence pour rembourser une dette/Marlboro, marque américaine de cigarettes/
+跑山牌 跑山牌 [pao3 shan1 pai2] {paau2 saan1 paai4} /Marlboro, marque américaine de cigarettes/
+????m 跑晒山 跑晒山 [pao3 shai4 shan1] {paau2 saai3 saan1} /courir sur les collines ou les montagnes; faire du jogging sur les collines ou les montagnes/(fig.) amasser des fonds de toute urgence pour rembourser une dette/
+????m 跑私鐘 跑私钟 [pao3 si1 zhong1] {paau2 si1 zung1} /(fig.) travailler comme prostituée (voir aussi 走私鐘|走私钟)/
+????m 跑鐘 跑钟 [pao3 zhong1] {paau2 zung1} /(fig.) travailler comme prostituée (voir aussi 走私鐘|走私钟)/
+????m 跑鐘妹 跑钟妹 [pao3 zhong1 mei4] {paau2 zung1 mui1} /(fig.) prostituée/
+????f 跟大佬 跟大佬 [gen1 da4 lao3] {gan1 daai6 lou2} /to be a follower of a triad leader [colloquial]/
+跟得夫人 跟得夫人 [gen1 de5 fu1 ren5] {gan1 dak1 fu1 jan4} /femme qui suit son mari partout/
+????m 跣一鑊 跣一镬 [xian3 yi1 huo4] {sin2 jat1 wok6} /to set someone up; to trick someone [colloquial] (跣佢一鑊?)/
+????f 路邊雞 路边鸡 [lu4 bian1 ji1] {lou6 bin1 gai1} /(fam.) (fig.) prostituée qui sollicite des passants sur la rue/(lit.) poulet au bord de la rue/
+????f 跳海 跳海 [tiao4 hai3] {tiu3 hoi2} /se noyer dans la mer/(lit.) sauter dans la mer/
+????c 踎兜 踎兜 [mou2 dou1] {mau1 dau1} /très pauvre; avoir de la difficulté à joindre les deux bouts (voir aussi 兜踎|兜踎)/
+踎凳 踎凳 [mou2 deng4] {mau1 dang3} /(fam.) (fig.) être en prison/(lit.) s'accroupir sur une chaise/
+????f 䟴腳 䟴脚 [zhen4 jiao3] {ngan3 goek3} /gigoter (to bounce one's leg while sitting down)/(fig.) profiter de la vie/
+䟴䟴吓 䟴䟴吓 [zhen4 zhen4 xia4] {ngan3 ngan3 haa5} /gigoter/se tortiller/
+????m 䟴身䟴勢 䟴身䟴势 [zhen4 shen1 zhen4 shi4] {ngan3 san1 ngan3 sai3} /to act in a low class manner [colloquial]/
+踢入會 踢入会 [ti1 ru4 hui4] {tek3 jap6 wui2} /(fig.) obliger quelqu'un à se joindre à une triade par force/
+????m 踩上門 踩上门 [cai3 shang4 men2] {caai2 soeng5 mun4} /empiéter sur le territoire d'autrui/
+踮腳 踮脚 [dian3 jiao3] {dim2 goek3} /marcher sur la pointe des pieds/
+踹單車 踹单车 [chuai4 dan1 che1] {caai2 daan1 ce1} /faire du vélo/
+踹單車 踹单车 [chuai4 dan1 che1] {jaai2 daan1 ce1} /faire du vélo/
+𨂾 𨂾 [𨂾5] {naam3} /enjamber/tous les deux (jours, semaines, etc.)/
+𨂾光黑 𨂾光黑 [𨂾5 guang1 hei1] {naam3 gwong1 haak1} /soir; crépuscule; coucher du soleil/
+𨃩 𨃩 [xian4] {sin3} /(personne, objet) glisser/(véhicule) déraper/
+????c 蹺口杉手 跷口杉手 [qiao1 kou3 shan1 shou3] {kiu5 hau2 caam5 sau2} /difficult to deal with [colloquial] (person? situation?)/
