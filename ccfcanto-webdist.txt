@@ -19152,7 +19152,7 @@
 身材苗條 身材苗条 [shen1 ca2 miao2 tiao5] {san1 coi4 miu4 tiu5} /avoir une silhouette mince/
 ????f 身受 身受 [shen1 shou4] {san1 sau6} /vivre; éprouver (experience personally)/
 身壯力健 身壮力健 [shen1 zhuang4 li4 jian4] {san1 zong3 lik6 gin6} /(vœu du Nouvel An chinois) je vous souhaite la bonne santé/
-身嬌肉貴 身娇肉贵 [shen1 jiao1 rou4 gui4] {san1 giu1 juk6 gwai3} /(fig.) personne de la haute société/(lit.) gâter le corps et avoir la peau coûteuse/
+身嬌肉貴 身娇肉贵 [shen1 jiao1 rou4 gui4] {san1 giu1 juk6 gwai3} /(fig.) (personne) de la haute société/(lit.) gâter le corps et avoir la peau coûteuse/
 ????f 身家 身家 [shen1 jia1] {san1 gaa1} /richesse personnelle; fortune personnelle/antécédent familial/one and one's family/
 ????f 身家性命 身家性命 [shen1 jia1 xing4 ming4] {san1 gaa1 sing3 ming6} /(expr.) sécurité personelle et de sa famille/
 ????c 身家清白 身家清白 [shen1 jia1 qing1 bai2] {san1 gaa1 cing1 baak6} /(fig.) d'une bonne famille/(lit.) famille pure et blanche/
@@ -19329,7 +19329,7 @@
 轟 轰 [hong1] {gwang1} /bombarder/bruit fort/grondement (de tonnerre)/
 轟動 轰动 [hong1 dong4] {gwang1 dung6} /faire sensation/
 辛勞 辛劳 [xin1 lao2] {san1 lou4} /travailler soigneusement; travailler dur; travailler fort/
-????f 辛苦搵嚟自在食 辛苦揾嚟自在食 [xin1 ku3 wen3 li2 zi4 zai5 shi2] {san1 fu2 wan2 lei4 zi6 zoi6 sik6} /(expr. idiom.) on travaille fort afin de se permettre d'acheter de la nourriture délicieuse (note : c'est une expression souvent employée quand on a un repas coûteux)/(lit.) travailler fort pour manger confortablement/
+????f 辛苦搵嚟自在食 辛苦揾嚟自在食 [xin1 ku3 wen3 li2 zi4 zai5 shi2] {san1 fu2 wan2 lei4 zi6 zoi6 sik6} /(expr. idiom.) on travaille fort afin de se permettre d'acheter de la nourriture délicieuse (note : c'est une expression souvent employée quand on prend un repas coûteux)/(lit.) travailler fort pour manger confortablement/
 辛酸 辛酸 [xin1 suan1] {san1 syun1} /triste; douloureux/difficile; pénible/
 辟暑 辟暑 [bi4 shu3] {pik1 syu2} /combattre la chaleur/
 ????f 辟腥 辟腥 [pi4 xing1] {pik1 seng1} /éliminer une odeur de poisson/
@@ -25498,3 +25498,32 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 𨂾光黑 𨂾光黑 [𨂾5 guang1 hei1] {naam3 gwong1 haak1} /soir; crépuscule; coucher du soleil/
 𨃩 𨃩 [xian4] {sin3} /(personne, objet) glisser/(véhicule) déraper/
 ????c 蹺口杉手 跷口杉手 [qiao1 kou3 shan1 shou3] {kiu5 hau2 caam5 sau2} /difficult to deal with [colloquial] (person? situation?)/
+蹺妙 跷妙 [qiao1 miao4] {kiu2 miu6} /ingénieux; astucieux/
+躝屍吉路 躝尸吉路 [lan2 shi1 ji2 lu4] {laan1 si1 gat6 lou6} /(vulg.) casse-toi! va te faire foutre!/
+躝撚開 躝撚开 [lan2 nian3 kai1] {laan1 lan2 hoi1} /(vulg.) casse-toi! va te faire foutre!/
+身驕肉貴 身骄肉贵 [shen1 jiao1 rou4 gui4] {san1 giu1 juk6 gwai3} /(fig.) (personne) de la haute société/(lit.) gâter le corps et avoir la peau coûteuse/
+車飛 车飞 [che1 fei1] {ce1 fei1} /titre de transport; billet de transport; ticket de transport/
+軟嘢 软嘢 [ruan3 ye3] {jyun5 je5} /(fam.) billets de banque/
+????m 軟抄本 软抄本 [ruan3 chao1 ben3] {jyun5 caau1 bun2} /copie électronique/
+較非 较非 [jiao4 fei1] {gaau3 fei1} /créer des ennuis pour quelqu'un/mettre quelqu'un en danger/risquer (quelque chose)/
+????f 輸乾輸淨 输干输净 [shu1 gan1 shu1 jing4] {syu1 gon1 syu1 zeng6} /(expr. idiom.) (jeu) se faire plumer; se faire lessiver; perdre tout son argent/
+輸到揸兜 输到揸兜 [shu1 dao4 zha1 dou1] {syu1 dou3 zaa1 dau1} /(expr. idiom.) (jeu) se faire plumer; se faire lessiver; perdre tout son argent/
+????m 輸到褲穿窿 输到裤穿窿 [shu1 dao4 ku4 chuan1 long2] {syu1 dou3 fu3 cyun1 lung1} /to lose all of one's face [colloquial]/
+????c 輸咗成條街 输咗成条街 [shu1 zuo3 cheng2 tiao2 jie1] {syu1 zo2 sing4 tiu4 gaai1} /to lose by a mile [colloquial]/
+????f 輸面 输面 [shu1 mian4] {syu1 min2} /chances de perdre; probabilité de perdre/
+轉成 转成 [zhuan3 cheng2] {zyun2 sing4} /devenir; se transformer en; se changer en/
+????f 辛苦搵嚟志在食 辛苦揾嚟志在食 [xin1 ku3 wen3 li4 zhi4 zai4 shi2] {san1 fu2 wan2 lei4 zi3 zoi6 sik6} /(expr. idiom.) on travaille fort afin de se permettre d'acheter de la nourriture délicieuse (note : c'est une expression souvent employée quand on prend un repas coûteux)/(lit.) travailler fort pour manger confortablement/
+????f 辣低 辣低 [la4 di1] {laat3 dai1} /(fig.) abattre; tuer à l'aide (une personne, ou rarement, un animal) d'une arme à feu/
+辣撻貓 辣挞猫 [la4 ta5 mao1] {laat6 taat3 maau1} /(fig.) porc; personne sale; personne qui a une mauvaise hygiène/(lit.) chat sale/
+辣興 辣兴 [la4 xing1] {laat3 hing3} /(fig.) provoquer; inciter à réagir violemment/
+辣㷫 辣㷫 [la4 xing1] {laat3 hing3} /(fig.) provoquer; inciter à réagir violemment/
+辣著 辣着 [la4 zhe5] {laat3 zoek6} /(fig.) provoquer; inciter à réagir violemment/
+農夫市場 农夫市场 [nong2 fu1 shi4 chang3] {nung4 fu1 si5 coeng4} /marché fermier/
+????m 巡場 巡场 [xun2 chang3] {ceon4 coeng4} /to watch over a gambling den; to make an inspection tour around a site [written and colloquial] (be a bouncer?)/
+????f 返上嚟 返上嚟 [fan3 shang4 li2] {faan1 soeng5 lai4} /remonter (et aller vers le locuteur)/
+????f 返入嚟 返入嚟 [fan3 ru4 li2] {faan1 jap6 lai4} /entrer de nouveau (et aller vers le locuteur)/
+????f 返出嚟 返出嚟 [fan3 chu1 li2] {faan1 ceot1 lai4} /sortir de nouveau (et aller vers le locuteur)/
+????f 返埋嚟 返埋嚟 [fan3 mai2 li2] {faan1 maai4 lai4} /entrer de nouveau (et aller vers le locuteur)/
+????f 返落嚟 返落嚟 [fan3 luo4 li2] {faan1 lok6 lai4} /redescendre (et aller vers le locuteur)/
+????f 返過嚟 返过嚟 [fan3 guo4 li2] {faan1 gwo3 lai4} /revenir (vers le locuteur)/
+????f 返鄉下執牛屎啦 返乡下执牛屎啦 [fan3 xiang1 xia4 zhi2 niu2 shi3 la5] {faan1 hoeng1 haa2 zap1 ngau4 si2 laa1} /(inj.) retourne d'où tu viens, pèquenaud!/(lit.) retourne à ton village et ramasse les crottes de vache!/
