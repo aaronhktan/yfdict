@@ -19748,7 +19748,7 @@
 邊防部隊 边防部队 [bian1 fang2 bu4 dui4] {bin1 fong4 bou6 deoi6} /gardes-frontière/
 邊根 便根 [bian1 gen1] {bin1 gan1} /sur le bord; près du bord/
 邋遢 邋遢 [la1 ta5] {laat6 taat3} /sale; malpropre/
-邋遢貓 邋遢猫 [la1 ta5 mao1] {laat6 taat3 maau1} /(fig.) enfant crasseux; enfant sale/(lit.) chat malpropre/
+邋遢貓 邋遢猫 [la1 ta5 mao1] {laat6 taat3 maau1} /(fig.) porc; personne sale; personne qui a une mauvaise hygiène/(lit.) chat malpropre/
 邏輯思維 逻辑思维 [luo2 ji5 si1 wei2] {lo4 cap1 si1 wai4} /pensée logique; raisonnement logique/
 邏輯性 逻辑性 [luo2 ji2 xing4] {lo4 cap1 sing3} /logique/
 那打素醫院 那打素医院 [na4 da3 su4 yi1 yuan4] {naa6 daa2 sou3 ji1 jyun2} /Alice Ho Miu Ling Nethersole Hospital, hôpital de Hong Kong/
@@ -25018,6 +25018,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 窒住晒 窒住晒 [zhi4 zhu4 shai4] {zat6 zyu6 saai3} /(fam.) interrompre quelqu'un continuellement/
 ????c 窒住條氣 窒住条气 [zhi4 zhu4 tiao2 qi4] {zat6 zyu6 tiu4 hei3} /to put someone off [colloquial]/
 窮鬼 穷鬼 [qiong2 gui3] {kung4 gwai2} /(péj.) clochard; mendiant/(lit.) fantôme pauvre/
+????f 窮到褲穿窿 穷到裤穿窿 [shu1 dao4 ku4 chuan1 long2] {syu1 dou3 fu3 cyun1 lung1} /(expr. idiom.) être très pauvre/(lit.) pauvre au point d'avoir un pantalon avec des trous/
 窿㝫罅罅 窿㝫罅罅 [long2 long2 xia4 xia4] {lung1 lung1 laa3 laa3} /coins et recoins (voir aussi 窿窿罅罅|窿窿罅罅)/
 ????f 立架撐 立架撑 [li4 jia4 cheng1] {laap6 gaa3 caang1} /(fig.) prendre ses outils ou armes (voir aussi 擸架撐|擸架撑)/
 ????f 立架生 立架生 [li4 jia4 sheng1] {laap6 gaa3 caang1} /(fig.) prendre ses outils ou armes (voir aussi 擸架撐|擸架撑)/
@@ -25527,3 +25528,23 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 返落嚟 返落嚟 [fan3 luo4 li2] {faan1 lok6 lai4} /redescendre (et aller vers le locuteur)/
 ????f 返過嚟 返过嚟 [fan3 guo4 li2] {faan1 gwo3 lai4} /revenir (vers le locuteur)/
 ????f 返鄉下執牛屎啦 返乡下执牛屎啦 [fan3 xiang1 xia4 zhi2 niu2 shi3 la5] {faan1 hoeng1 haa2 zap1 ngau4 si2 laa1} /(inj.) retourne d'où tu viens, pèquenaud!/(lit.) retourne à ton village et ramasse les crottes de vache!/
+????c 返開嚟 返开嚟 [fan3 kai1 li2] {faan1 hoi1 lai4} /to come back over here [colloquial]/
+迷妳 迷奶 [mi2 nai3] {mai4 nei5} /mini/(orig.) de l'anglais « mini » (« mini »)/
+????f 追債 追债 [zhui1 zhai4] {zeoi1 zaai3} /pousser quelqu'un à rembourser une dette/(lit.) poursuivre une dette/
+????c 追入 追入 [zhui1 ru4] {zeoi1 jap6} /to raise the stakes; to jump on a band wagon; to buy a rising stock [colloquial]/
+????c 追到 追到 [zhui1 dao4] {zeoi1 dou2} /to catch up with; to gain on [written and colloquial]/
+????f 追到天腳底 追到天脚底 [zhui1 dao4 tian1 jiao3 di3] {zeoi1 dou3 tin1 goek3 dai2} /(expr. idiom.) pourchasser (quelqu'un) jusqu'au bout du monde/(lit.) pourchasser jusqu'aux pieds du ciel/
+????f 追劇 追剧 [zhui1 ju4] {zeoi1 kek6} /regarder régulièrement une série télévisée/se faire tous les épisodes d'une série; regarder une série télévisée d'un coup/
+退化疾病 退化疾病 [tui4 hua4 ji2 bing4] {teoi3 faa3 zat6 beng6} /maladie dégénérative/
+????f 送俾我都唔吼啦 送俾我都唔吼啦 [song4 bi3 wo3 dou1 wu2 hou3 la5] {sung3 bei2 ngo5 dou1 m4 hau1 laa1} /(expr. idiom.) je ne le voudrais pas même si on me le donnait gratuitement/
+????f 送入鬼門關 送入鬼门关 [song4 ru4 gui3 men2 guan1] {sung3 jap6 gwai2 mun4 gwaan1} /(par euphémisme) tuer/(lit.) livrer (quelqu'un) au contrôle des fantômes/
+????f 逄凶化吉 逄凶化吉 [pang2 xiong1 hua4 ji2] {fung4 hung1 faa3 gat1} /(expr. idiom.) changer la malchance en la chance/(lit.) tomber sur la malchance et la changer en la chance/
+????c 逐客 逐客 [zhu2 ke4] {zuk6 haak3} /to expel guests; to evict guests [written and colloquial] (in the court? lobbyists, diplomats?)/
+????c 通常版 通常版 [tong1 chang2 ban3] {tung1 soeng4 baan2} /version standard; édition normale/
+通風報訊 通风报讯 [tong1 feng1 bao4 xun4] {tung1 fung1 bou3 seon3} /révéler des informations/fournir des informations/
+????m 逞英雄 逞英雄 [cheng3 ying1 xiong2] {cing2 jing1 hung4} /to pose as a hero; to act heroic [written and colloquial] (real or fake?)/
+速度限制 速度限制 [su4 du4 xian4 zhi4] {cuk1 dou6 haan6 zai3} /limite de vitesse/
+速速磅唔好兩頭望 速速磅唔好两头望 [su4 su4 bang4 wu2 hao3 liang3 tou2 wang4] {cuk1 cuk1 bong6 m4 hou2 loeng5 tau4 mong6} /(expr. idiom.) (utilisé pour encourager un client à payer plus vite)/(lit.) pesez vite, ne regardez pas des deux côtés!/
+????f 速速磅水 速速磅水 [su4 su4 bang4 shui3] {cuk1 cuk1 bong6 seoi2} /(expr. idiom.) (utilisé pour encourager un client à payer plus vite)/(lit.) pesez vite l'eau/
+週圍 周围 [zhou1 wei2] {zau1 wai4} /environs; alentours/tout autour/partout/
+逼挾 逼挟 [bi1 xie2] {bik1 gip6} /serré; exigu/
