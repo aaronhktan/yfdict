@@ -7435,7 +7435,7 @@
 年初七 年初七 [nian2 chu1 qi1] {nin4 co1 cat1} /septième jour du Nouvel An chinois/
 年初二 年初二 [nian2 chu1 er4] {nin4 co1 ji6} /deuxième jour du Nouvel An chinois/
 年利 年利 [nian2 li4] {nin4 lei6} /taux d'intérêt annuel/
-年卅晚 年卅晚 [nian2 sa4 wan3] {nin4 saa1 maan5} /veille du Nouvel An chinois/
+年卅晚 年卅晚 [nian2 sa4 wan3] {nin4 saa1 maan5} /réveillon du Nouvel An chinois/
 年宵 年宵 [nian2 xiao1] {nin4 siu1} /Nouvel An chinois/
 ????f 年宵市場 年宵市场 [nian2 xiao1 shi4 chang3] {nin4 siu1 si5 coeng4} /marché du Nouvel An chinois; foire du Nouvel An chinois/
 ????f 年宵花市 年宵花市 [nian2 xiao1 hua1 shi4] {nin4 siu1 faa1 si5} /foire du Nouvel An chinois; marché aux fleurs du Nouvel An chinois/
@@ -23011,6 +23011,7 @@
 傻ｇａｐ 傻ｇａｐ [sha3ｇａｐ] {so4 gap1} /(inj.) pétasse; femme stupide/
 傻傻更更 傻傻更更 [sha3 sha3 geng1 geng1] {so4 so4 gang1 gang1} /(fam.) stupide; bête; idiot/
 ????c 元蹄 元蹄 [yuan2 ti2] {jyun4 tai4} /a trotter; a pig hoof (is this the hock, or the lower part of the foot?)/
+元旦前夕 元旦前夕 [yuan2 dan4 chu2 xi4] {jyun4 daan3 ceoi4 zik6} /réveillon du Nouvel An (du calendrier grégorien)/
 ????f 充實自己 充实自己 [chong1 shi2 zi4 ji3] {cung1 sat6 zi6 gei2} /s'enrichir culturellement/
 充炮艇 充炮艇 [chong1 pao4 ting3] {cung1 paau3 teng5} /(fam.) (fig.) bluffer; se donner des airs; faire semblant d'être plus important ou de savoir plus que l'on est en réalité/
 充生晒 充生晒 [chong1 sheng1 shai4] {cung1 saang1 saai3} /(fam.) (fig.) (vieilli) bluffer; se donner des airs; faire semblant d'être plus important ou de savoir plus que l'on est en réalité/
@@ -23811,6 +23812,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 幫唔落 帮唔落 [bang1 wu2 luo4] {bong1 m4 lok6} /incapable d'aider/
 ????c 幫幫 帮帮 [bang1 bang1] {bong1 bong1} /donner un coup de main/
 年紀大 年纪大 [nian2 ji4 da4] {nin4 gei2 daai6} /âgé; qui est d'un âge avancé/
+年三十晚 年三十晚 [nian2 saan1 shi2 wan3] {nin4 saam1 sap6 maan5} /réveillon du Nouvel An chinois/
 ????f 幼稚園學生 幼稚园学生 [you4 zhi4 yuan2 xue2 sheng5] {jau3 zi6 jyun2 hok6 saang1} /enfant en école maternelle/
 ????c 幼稚園畢業生 幼稚园毕业生 [you4 zhi4 yuan2 bi4 ye4 sheng1] {jau3 zi6 jyun2 bat1 jip6 sang1} /kindergarten graduate [written and colloquial]/
 幾十年 几十年 [ji3 shi2 nian2] {gei2 sap6 nin4} /quelques décennies/
@@ -25673,3 +25675,26 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 阿婆賽跑 阿婆赛跑 [a1 po2 sai4 pao3] {aa3 po4 coi3 paau2} /(expr. en suspens) tout le monde s'enfuira/(lit.) comme des vieilles dames qui font la course (deuxième partie 老閪都走|老閪都走 « même les vieilles chattes (vulg.) s'en vont »)/
 阿寶 阿宝 [a1 bao3] {aa3 bou2} /Finn l'humain (personnage de la série d'animation américaine Adventure Time)/
 阿毛 阿毛 [a1 mao2] {aa3 mou4} /(impoli) vieillarde/
+阿生 阿生 [a1 sheng1] {aa3 saang1} /(à quelqu'un que l'on ne connaît pas) monsieur/
+????c 阿蟲介紹嚟 阿虫介绍嚟 [a1 chong2 jie4 shao4 li4] {aa3 cung4 gaai3 siu6 lai4} /I've been sent here (without saying the name or someone who have invited themselves and turned up to an event or a place); no one sent me [colloquial]/
+????c 阿蟲介紹我嚟 阿虫介绍我嚟 [a1 chong2 jie4shao4 wo3 li4] {aa3 cung4 gaai3 siu6 ngo5 lai4} /I've been sent here (without saying the name or someone who have invited themselves and turned up to an event or a place); no one sent me [colloquial]/
+????f 阿頂 阿顶 [a1 ding3] {aa3 ding2} /(fam.) chef de triade/
+????m 阿飛的 阿飞的 [a1 fei1 de5] {aa3 fei1 dik1} /dude [written]/
+????m 阿馬 阿马 [a1 ma3] {aa3 maa5} /Armagh, a place in Northen Ireland [written and colloquial]; an alternative form to阿媽, mom, grandma, amah (an older female servant) [colloquial]/
+陀仔 陀仔 [tuo2 zi3] {to4 zai2} /(d'une femme) enceinte/
+????c 陀手能腳 陀手能脚 [tuo2 shou3 neng2 jiao3] {to4 sau2 nang4 goek3} /clumsy; to be a burden to others whose freedom are restrained as a result [colloquial]/
+陀炮 陀炮 [tuo2 pao4] {to4 paau3} /porter une arme/armé; muni d'une arme/(par extension) travailler comme policier/
+????f 陀累 陀累 [tuo2 lei3] {to4 leoi6} /(fam.) entraîner quelqu'un dans quelque chose qui ne lui regardait pas/
+????f 陣腳未打好 阵脚未打好 [zhen4 jiao3 wei4 da3 hao3] {zan6 goek3 mei6 daa2 hou2} /(expr. idiom.) être pris au dépourvu; prendre de court/
+除了之外 除了之外 [chu2 le5 zhi1 wai4] {ceoi4 liu5 zi1 ngoi6} /à part (quelque chose); sauf (quelque chose)/
+除夕夜 除夕夜 [chu2 xi1 ye4] {ceoi4 zik6 je6} /réveillon du Nouvel An chinois/(rarement) réveillon du jour de l'an (du calendrier grégorien)/
+????m 除邪隊 除邪队 [chu2 xie2 dui4] {ceoi4 ce4 deoi2} /a special unit in the police force set to combat crimes related to drugs, prostitution, gambling and vice dens [colloquial]/
+陰質嘢 阴质嘢 [yin1 zhi4 ye3] {jam1 zat1 je5} /actes immoraux; pêchés/
+????c 隊硬嘢 队硬嘢 [dui4 ying4 ye3] {deoi6 ngaang6 je5} /a strong, hard core team/
+????c 隊硬嘢 队硬嘢 [dui4 ying4 ye3] {deoi2 ngaang6 je5} /to stomach, down something very strong [colloquial]/
+隊酒 队酒 [dui4 jiu3] {deoi2 zau2} /(fig.) boire à l'excès; consommer beaucoup de boissons alcoolisés sur une courte période de temps/
+隻ｄｕｐ 只ｄｕｐ [zhi1 dup] {zek3 dap1} /(fam.) combat singulier/
+????c 隻ｌｉｎ好大 只ｌｉｎ好大 [zhi1ｌｉｎ hao3 da4] {zek3 lin4 hou2 daai6} /a large pair of nipples [colloquial] (nipples or boobs?) (lin4 or lin1?)/
+????f 隻嘢 只嘢 [zhi1 ye3] {zek3 je5} /cette chose-là (généralement un animal)/(péj.) cette personne-là (dont le nom j'ai oublié); tartempion/
+雀粟 雀粟 [que4 su4] {zoek3 suk1} /nourriture pour oiseaux/
+????c 隻鍊隻 只炼只 [zhi1 lian4 zhi1] {zek3 lin6 zek3} /combat singulier/
