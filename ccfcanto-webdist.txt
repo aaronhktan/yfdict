@@ -245,7 +245,7 @@
 ????f 一箸夾中 一箸夹中 [yi1 zhu4 jia1 zhong1] {jat1 zyu6 gaap3 zung1} /(expr. idiom.) quelqu'un qui devine juste du premier coup/(lit.) saisir exactement avec les baguettes/
 一粒嘢 一粒嘢 [yi1 li4 ye3] {jat1 lap1 je5} /(classificateur pour des petites choses) (ex. poussière, riz, gouttes d'eau)/
 一粒神 一粒神 [yi1 li4 shen2] {jat1 nap1 san4} /une pièce de dix centimes/
-一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /(fam.) inspecteur de probation dans le Hong Kong Police Force/(lit.) une petite fleur/(orig.) les inspecteurs de probation ont une petite fleur sur leur badges/
+一粒花 一粒花 [yi1 li4 hua1] {jat1 nap1 faa1} /(fam.) inspecteur en probation dans le Hong Kong Police Force/(lit.) une petite fleur/(orig.) les inspecteurs en probation ont une petite fleur sur leur badges/
 一統天下 一统天下 [yi1 tong3 tian1 xia4] {jat1 tung2 tin1 haa6} /unifier le pays/
 一經 一经 [yi1 jing1] {jat1 ging1} /dès que/une fois que/
 一群 一群 [yi1 qun2] {jat1 kwan4} /(classificateur pour décrire les groupes)/
@@ -667,6 +667,7 @@
 世紀之戰 世纪之战 [shi4 ji4 zhi1 zhan4] {sai3 gei2 zi1 zin3} /combat ou bataille du siècle/
 世貿中心 世贸中心 [shi4 sao4 zhong1 xin1] {sai3 mau6 zung1 sam1} /World Trade Center/
 ????f 世態炎涼 世态炎凉 [shi4 tai4 yan2 liang2] {sai3 taai3 jim4 loeng4} /(expr. idiom.) les gens sont seulement gentils si l'on a du succès (voir aussi 人情冷暖|人情冷暖)/(lit.) le monde est chaud et froid/
+????f 世事難料 世事难料 [shi4 shi4 nan2 liao4] {sai3 si6 naan4 liu6} /(expr. idiom.) la vie est pleine d'incertitudes/
 丟低 丢低 [diu1 di1] {diu6 dai1} /laisser de côté/(fig.) rouillé; n'avoir plus l'habitude/
 丟假 丢假 [diu1 jia3] {diu1 gaa2} /s'humilier; se ridiculiser; perdre la face/
 丟卒保車 丢卒保车 [diu1 zu2 bao3 ju1] {diu1 zeot1 bou2 ce1} /(xiangqi, echecs chinois) sacrifier le pion plus faible (un cheval) pour garder un pion plus fort (le chariot)/
@@ -4376,8 +4377,8 @@
 商業電台 商业电台 [shang1 ye4 dian4 tai2] {soeng1 jip6 din6 toi4} /Commercial Radio, une station de radio hongkongaise/
 啈 啈 [heng1] {hang1} /(son d'un soupir)/
 ????f 啋過你 啋过你 [cai1 guo4 ni3] {coi1 gwo3 nei5} /(fam.) (réponse à quelque chose de tabou, de mauvais augure) ne dis pas ça!/
-????f 啋過你把口 啋过你把口 [cai1 guo4 ni3 ba3 kou3] {coi1 gwo3 nei5 baa2 hau2} /(fam.) (réponse à quelque chose de tabou, de mauvais augure) ne dis pas ça!/
-????f 啋過你把衰口 啋过你把衰口 [cai1 guo4 ni3 ba3 shuai1 kou3] {coi1 gwo3 nei5 baa2 seoi1 hau2} /(fam.) ne dis pas cela! (en réponse à une déclaration négative, impoli, ou infortuné)/
+????f 啋過你把口 啋过你把口 [cai1 guo4 ni3 ba3 kou3] {coi1 gwo3 nei5 baa2 hau2} /(fam.) (réponse à une remarque taboue, de mauvais augure) ne dis pas ça!/
+????f 啋過你把衰口 啋过你把衰口 [cai1 guo4 ni3 ba3 shuai1 kou3] {coi1 gwo3 nei5 baa2 seoi1 hau2} /(fam.) (réponse à une remarque taboue, de mauvais augure) ne dis pas ça!/
 問 问 [wen4] {man6} /demander; poser des questions/questionner/
 ????f 問候 问候 [wen4 hou4] {man6 hau6} /transmettre ses amitiés (to send one's regards to)/
 問卜 问卜 [wen4 bu3] {man6 buk1} /divination/
@@ -5532,8 +5533,8 @@
 大千世界 大千世界 [da4 qian1 shi4 jie4] {daai6 cin1 sai3 gaai3} /cosmologie Bouddhiste/
 大受歡迎 大受欢迎 [da4 shou4 huan1 ying2] {daai6 sau6 fun1 jing4} /très populaire/
 大口環 大口环 [da4 kou3 huan2] {daai6 hau2 waan4} /(Hong Kong) (fig.) imbécile; fou; cinglé/(orig.) du nom de l'hôpital « The Duchess of Kent Children's Hospital at Sandy Bay »/
-大吉利事 大吉利事 [da4 ji2 li4 shi4] {daai6 gat1 lai6 si6} /(expression pour souhaiter la bonne chance) croisons les doigts; touche du bois; que Dieu vous bénisse/
-大吉利是 大吉利是 [da4 ji2 li4 shi4] {daai6 gat1 lai6 si6} /(expression pour souhaiter la bonne chance) croisons les doigts; touche du bois; que Dieu vous bénisse/
+????f 大吉利事 大吉利事 [da4 ji2 li4 shi4] {daai6 gat1 lai6 si6} /(fam.) (réponse à une remarque ou un évènement tabou, de mauvais augure pour conjurer le mauvais sort) touchons du bois; croisons les doigts/
+????f 大吉利是 大吉利是 [da4 ji2 li4 shi4] {daai6 gat1 lai6 si6} /(fam.) (réponse à une remarque ou un évènement tabou, de mauvais augure pour conjurer le mauvais sort) touchons du bois; croisons les doigts/
 大同 大同 [da4 tong2] {daai6 tung4} /Grande Unité, concepte d'une utopie chinoise dans la philosophie confucéenne/
 大命 大命 [da4 ming4] {daai6 meng6} /(fig.) chanceux; qui l'a échappé belle/(lit.) grande vie/
 大唔透 大唔透 [da4 n2 tou4] {daai6 m4 tau3} /immature; enfantin; puérile/
@@ -24411,7 +24412,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 未驚過 未惊过 [wei4 jing1 guo4] {mei6 geng1 gwo3} /(fig.) je n'ai pas peur!/(lit.) n'avoir jamais eu peur/
 ????f 一柴 一柴 [yi1 chai2] {jat1 caai4} /(fam.) (Hong Kong) policier senior/(lit.) chevron unique/
 ????f 朱柴 朱柴 [zhu1 chai2] {zyu1 caai4} /(fam.) (Hong Kong) policier senior (voir aussi 一柴|一柴)/(lit.) chevron unique, avec le « 一 » (« un, unique ») changé en « 朱 » (« un, unique » en l'argot des triades)/
-????f 朱粒 朱粒 [zhu1 li4] {zyu1 lap1} /(fam.) (Hong Kong) inspecteur de probation dans le Hong Kong Police Force (voir aussi 一粒花|一粒花)/(orig.) les inspecteurs de probation ont une petite fleur sur leur badges/(lit.) une (classificateur des fleurs), avec le « 一 » (« un, unique ») changé en « 朱 » (« un, unique » en l'argot des triades)/
+????f 朱粒 朱粒 [zhu1 li4] {zyu1 lap1} /(fam.) (Hong Kong) inspecteur en probation dans le Hong Kong Police Force (voir aussi 一粒花|一粒花)/(orig.) les inspecteurs en probation ont une petite fleur sur leur badges/(lit.) une (classificateur des fleurs), avec le « 一 » (« un, unique ») changé en « 朱 » (« un, unique » en l'argot des triades)/
 ????f 朱粒水泡 朱粒水泡 [zhu1 li4 shui3 pao4] {zyu1 lap1 seoi2 pou5} /a senior assistant police commission [colloquial]/
 ????f 李三腳 李三脚 [li3 san1 jiao3] {lei5 saam1 goek3} /(surnom de Bruce Lee)/(lit.) M. Lee à trois pieds/
 李超人 李超人 [li3 chao1 ren2] {lei5 ciu1 jan4} /(surnom de Li Ka-shing, homme d'affaires hongkongais)/
@@ -25068,7 +25069,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 粉筆字 粉笔字 [fen3 bi3 zi4] {fan2 bat1 zi6} /mot écrit avec de la craie/(fig.) quelque chose que l'on souhaite oublier; quelque chose que l'on veut laisser dans le passé/
 ????c 粒嗲 粒嗲 [li4 dia3] {nap1 de1} /a remark; an utterance [colloquial]/
 粒臣 粒臣 [li4 chen2] {nap1 san2} /(Hong Kong) 10 cents/
-粒花 粒花 [li4 hua1] {nap1 faa1} /(fam.) inspecteur de probation dans le Hong Kong Police Force (voir aussi 一粒花|一粒花)/(lit.) une petite fleur/(orig.) les inspecteurs de probation ont une petite fleur sur leur badges/
+粒花 粒花 [li4 hua1] {nap1 faa1} /(fam.) inspecteur en probation dans le Hong Kong Police Force (voir aussi 一粒花|一粒花)/(lit.) une petite fleur/(orig.) les inspecteurs en probation ont une petite fleur sur leur badges/
 粒鐘 粒钟 [li4 zhong1] {nap1 zung1} /heure (unité de mesure de temps)/
 ????f 粗口橫飛 粗口横飞 [cu1 kou3 heng2 fei1] {cou1 hau2 waang4 fei1} /(expr. idiom.) jurer beaucoup; dire beaucoup de gros mots/(lit.) faire envoler des jurons partout/
 粵英字典 粤英字典 [yue4 ying1 zi4 dian3] {jyut6 jing1 zi6 din2} /dictionnaire cantonais-anglais/
@@ -25158,7 +25159,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 聰明聽話 聪明听话 [cong1 ming5 ting1 hua4] {cung1 ming4 teng1 waa6} /intelligent et obéissant (se dit des enfants)/
 ????c 聽仆街 听仆街 [ting1 pu1 jie1] {ting3 puk1 gaai1} /to provoke trouble [colloquial]/
 ????m 肉食公司 肉食公司 [rou4 shi5 gong1 si1] {juk6 sik6 gung1 si1} /a meat company; a butcher's shop [written and colloquial]/
-肉食性動物 肉食性动物 [rou4 shi5 xing4 dong4 wu4] {juk6 sik6 sing3 dung6 mat6} /carnivore; animel qui mange de la viande/
+肉食性動物 肉食性动物 [rou4 shi5 xing4 dong4 wu4] {juk6 sik6 sing3 dung6 mat6} /carnivore; animal qui mange de la viande/
 ????c 肚癮 肚瘾 [du4 yin3] {tou5 jan5} /craving [colloquial]/
 ????f 肥嘟嘟 肥嘟嘟 [fei2 du1 du1] {fei4 dyut1 dyut1} /(fam.) grassouillet; potelé (connotation positive)/
 肥妹 肥妹 [fei2 mei4] {fei4 mui1} /grosse fille; fille obèse/
@@ -25698,3 +25699,27 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 隻嘢 只嘢 [zhi1 ye3] {zek3 je5} /cette chose-là (généralement un animal)/(péj.) cette personne-là (dont le nom j'ai oublié); tartempion/
 雀粟 雀粟 [que4 su4] {zoek3 suk1} /nourriture pour oiseaux/
 ????c 隻鍊隻 只炼只 [zhi1 lian4 zhi1] {zek3 lin6 zek3} /combat singulier/
+雙工 双工 [shuang1 gong1] {soeng1 gung1} /(canal de communication) duplex; qui transporte l'information dans les deux sens/
+雙龍出海 双龙出海 [shuang1 long2 chu1 hai3] {soeng1 lung4 ceot1 hoi2} /(fig.) utiliser les deux mains à la fois en les s'éloignant de la torse (ex. donner un coup de poing avec les deux mains)/(fig.) (en particulier) (d'un gardien de but) attraper le ballon avec les deux mains/(fig.) (de deux personnes ou choses) faire la même action; commencer la même tâche (ex. deux bateaux voguant sur les flots, deux personnes qui commencent un projet)/(lit.) deux dragons sortant de l'océan/
+雜崩能 杂崩能 [za2 beng1 neng2] {zaap6 bang1 lang1} /bric-à-brac; objets divers/
+雜崩冷 杂崩冷 [za2 beng1 leng3] {zaap6 bang1 lang1} /bric-à-brac; objets divers/
+雜差房 杂差房 [za2 chai1 fang2] {zaap6 caai1 fong4} /bureau du Criminal Investigation Department d'un poste de police; bureau des détectives en civil d'un poste de police/
+雜食性動物 杂食性动物 [za2 shi2 xing4 dong4 wu4] {zaap6 sik6 sing3 dung6 mat6} /omnivore; animal qui se nourrit de tout/
+????m 雞仔架步 鸡仔架步 [ji1 zai3 jia4 bu4] {gai1 zai2 gaa3 bou6} /a vice den with young prostitutes [colloquial]/
+????m 雞帳 鸡帐 [ji1 zhang4] {gai1 zoeng3} /money owed for prostitute services such as from the lending of prostitutes from another brothel [colloquial]/
+雞毛蒜皮 鸡毛蒜皮 [ji1 mao2 suan4 pi2] {gai1 mou4 syun3 pei4} /(expr. idiom.) affaires sans grande importance/(lit.) plumes de poulet et peau d'ail/
+????f 雞精書 鸡精书 [ji1 jing1 shu1] {gai1 zing1 syu1} /(fig.) guide d'étude pour une matière scolaire qui contient des informations brièvement résumées/(lit.) livre de bouillon de volaille/
+雞胸肉 鸡胸肉 [ji1 xiong1 rou4] {gai1 hung1 juk6} /(viande de) poitrine de poulet/
+????f 雞飯 鸡饭 [ji1 fan4] {gai1 faan6} /plat de riz avec du poulet (ex. riz avec du poulet sur le côté, riz frit au poulet, etc.)/
+難料 难料 [nan2 liao4] {naan4 liu6} /difficile à prévoir (voir 世事難料|世事难料)/
+????m 難開下道 难开下道 [nan2 kai1 xia4 dao4] {naan4 hoi1 haa6 dou6} /a street in Kowloon Tong well known for its hourly love hotel in Hong Kong, used as a pun when talking about women who are reluctant to have sex [colloquial]/
+雨刷水 雨刷水 [yu3 shua1 shui3] {jyu5 caat3 seoi2} /liquide lave-glace/
+雨褸佬 雨褛佬 [yu3 lu:3 lao3] {jyu5 lau1 lou2} /(fam.) (fig.) exhibitionniste; homme qui dévoile ses organes génitaux en public/(lit.) homme (avec un) imperméable/
+雨褸怪客 雨褛怪客 [yu3 lu:3 guai4 ke4] {jyu5 lau1 gwaai3 haak3} /(fam.) (fig.) exhibitionniste; homme qui dévoile ses organes génitaux en public/(lit.) client étrange (avec un) imperméable/
+雪糕佬 雪糕佬 [xue3 gao1 lao3] {syut3 gou1 lou2} /marchand de glace/(fig.) membre de la Commission indépendante contre la corruption (ICAC)/
+????m 雪道 雪道 [xue3 dao4] {syut3 dou6} /piste de ski (ski alpin ou ski de fond)/
+????f 雲英雞 云英鸡 [yun2 ying1 ji1] {wan4 jing1 gai1} /(fam.) prostituée vierge/
+零舍唔同 零舍唔同 [ling2 she3 n2 tong2] {ling4 se2 m4 tung4} /(expr.) sans pareil; sans égal; incomparable/
+????f 雷粒 雷粒 [lei2 li4] {leoi4 lap1} /(argot policier) inspecteur de police/(orig.) les insignes des inspecteurs de police ont deux points, d'où le nom « deux points »/
+電人 电人 [dian4 ren2] {din6 jan4} /donner une décharge électrique (à quelqu'un)/(fig.) faire de l'œil; tenter de séduire quelqu'un; draguer/
+電子字典 电子字典 [dian4 zi3 zi4 dian3] {din6 zi2 zi6 din2} /dictionnaire électronique/
