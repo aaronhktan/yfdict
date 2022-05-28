@@ -21603,7 +21603,7 @@
 食飽飯等屎屙 食饱饭等屎屙 [shi2 bao3 fan4 deng3 shi3 e1] {sik6 baau2 faan6 dang2 si2 o1} /(expr. idiom.) n'avoir rien à faire/(lit.) manger à sa faim et attendre pour déféquer/
 食餬 食糊 [shi2 hu2] {sik6 wu4} /(fig.) gagner une partie de mah-jong/(lit.) manger du gruau/
 食鬼 食鬼 [shi2 gui3] {sik6 gwai2} /Pac-Man, jeu vidéo/
-????f 食鹽多過你食米 食盐多过你食米 [shi2 yan2 duo1 guo4 ni3 shi2 mi3] {sik6 jim4 do1 gwo3 nei5 sik6 mai5} /(expr. idiom.) je suis beaucoup plus experimenté que toi!/(lit.) j'ai mangé plus de sel que tu aies mangé du riz!/
+????f 食鹽多過你食米 食盐多过你食米 [shi2 yan2 duo1 guo4 ni3 shi2 mi3] {sik6 jim4 do1 gwo3 nei5 sik6 mai5} /(expr. idiom.) j'ai beaucoup d'expeérience dans la vie que toi/(lit.) j'ai mangé plus de sel que tu aies mangé du riz/
 食齋 食斋 [shi2 zhai1] {sik6 zaai1} /être végétarien/(fig.) ne pas avoir de relations sexuelles/
 食螺絲 食螺丝 [shi2 luo2 si1] {sik6 lo4 si1} /(fig.) marmonner; parler entre ses dents; parler indistinctement/(lit.) manger des vis/
 食𩜠𩜠 食𩜠𩜠 [shi2 mum5 mum5] {sik6 mam1 mam1} /(enfantin) manger/
@@ -23253,6 +23253,7 @@
 吞噗 吞噗 [tun1 pu1] {tan1 pok1} /(fam.) se relâcher dans son travail; se laisser aller dans son travail/
 吧喳 吧喳 [ba5 zha1] {baa1 zaa1} /(fam.) (femme) déraisonnable; bruyant; acariâtre/
 ????f 含住先 含住先 [han2 zhu4 xian1] {ham4 zyu6 sin1} /(fam.) tais-toi et va t'en!/
+含住金鎖匙出世 含住金鎖锁出世 [han2 zhu4 jin1 suo3 shi5 ceot1 sai3] {ham4 zyu6 gam1 so2 si4 ceot1 sai3} /(expr. idiom.) né avec une cuillère d'argent dans la bouche (voir aussi 食飽無憂米|食饱无忧米)/(lit.) né avec un clé en or dans la bouche/
 含冤受屈 含冤受屈 [han2 yuan1 shou4 qu1] {ham4 jyun1 sau6 wat1} /(expr.) se sentir lésé/
 ????f 含撚啦你 含捻啦你 [han2 nian3 la5 ni3] {ham4 lan2 laa1 nei5} /(vulg.) (exprime le mépris) va donc sucer une bite!/
 ????f 含蕉 含蕉 [han2 jiao1] {ham4 ziu1} /(vulg.) (exprime le mépris) pratiquer une fellation; sucer/(vulg.) (personne) baisé; foutu/(lit.) sucer une banane/
@@ -25798,3 +25799,28 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 食唔曬 食唔晒 [shi2 wu2 shai4] {sik6 m4 saai3} /ne pas être capable de finir son assiette; ne pas être capable de tout manger/
 ????m 食四方飯 食四方饭 [shi2 si4 fang1 fan4] {sik6 sei3 fong1 faan6} /(expr. idiom.) gagner sa vie de plusieurs façons/(expr. idiom.) gagner sa vie en se déplaceant partout dans le monde/(lit.) manger le riz des quatre points cardinaux/
 食大煙 食大烟 [shi2 da4 yan1] {sik6 daai6 jin1} /fumer de l'opium/
+食完 食完 [shi2 wan2] {sik6 jyun4} /finir de manger/
+食屎大 食屎大 [shi2 shi3 da4] {sik6 si2 daai6} /(fig.) être stupide/(lit.) avoir grandi en mangeant des crottes/
+食屎狗 食屎狗 [shi2 shi3 gou3] {sik6 si2 gau2} /(fig.) (d'une personne) connard; cave; idiot; imbécile; abruti/(lit.) chien qui mange des crottes/
+食屎痾飯 食屎疴饭 [shi2 shi3 ke1 fan4] {sik6 si2 o1 faan6} /(expr. idiom.) (connotation négative) faire les choses d'une manière inhabituelle; faire les choses d'une manière illogique/(lit.) manger de la merde et déféquer du riz/
+????c 食屎食懵咗 食屎食懵咗 [shi2 shi3 shi2 meng3 zuo3] {sik6 si2 sik6 mung2 zo2} /(expr. idiom.) perdre la boule; devenir fou/(lit.) manger des crottes au point de devenir fou/
+????f 食撻 食挞 [shi2 ta4] {sik6 taat1} /(fam.) (fig.) faire un cunnilingus/(lit.) manger une tarte/
+食檬檬 食檬檬 [shi2 meng2 meng2] {sik6 mung1 mung1} /(enfantin) manger (voir aussi 食𩜠𩜠|食𩜠𩜠)/
+????c 食水幾深 食水几深 [shi2 shui3 ji3 shen1] {sit6 seoi2 gei2 sam1} /(expr. idiom.) prélever des prix très élevés/
+????f 食洋腸 食洋肠 [shi2 yang2 chang2] {sik6 joeng4 coeng2} /(fam.) (fig.) (d'une femme d'origine chinoise) sortir avec un homme occidental (en particulier, un Blanc)/(lit.) manger de la saucisse d'outre-mer/
+????f 食牛肉乾 食牛肉干 [shi2 niu2 rou4 gan1] {sik6 ngau4 juk6 gon1} /(fam.) (fig.) avoir une contravention de stationnement/(lit.) manger du bœuf séché/
+????m 食硬 食硬 [shi2 ying4] {sik6 ngaang6} /to be confident in defeating someone; a sure win [colloquial]/
+????f 食草 食草 [shi2 cao3] {sik6 cou2} /(fam.) (fig.) fumer du pot; fumer d'herbe; fumer du cannabis/(lit.) manger de l'herbe/
+????f 食蓮子羮 食莲子羮 [shi2 lian2 zi3 geng1] {sik6 lin4 zi2 gang1} /(expr. idiom.) être abattu; être tué par une balle/(lit.) manger la cuillère à la graine de lotus/
+????m 食豬 食猪 [shi2 zhu1] {sik6 zyu1} /manger du porc/(fam.) (fig.) faire perdre sa virginité à une femme non mariée/
+食鏍絲 食鏍丝 [shi2 luo2 si1] {sik6 lo4 si1} /(fam.) (fig.) bégayer/(lit.) manger des vis/
+????m 食陀地 食陀地 [shi2 tuo2 di4] {sik6 to4 dei2} /to make a living from collecting protection money in an area which is under the control of one's gang [colloquial]/
+食雪糕 食雪糕 [shi2 xue3 gao1] {sik6 syut3 gou1} /manger de la crème glacée/(fam.) (fig.) faire une fellation/
+????f 食飽無憂米 食饱无忧米 [shi2 bao3 wu2 you1 mi3] {sik6 baau2 mou4 jau1 mai5} /(expr. idiom.) vivre une vie confortable; ne pas avoir du mal à joindre les deux bouts (mais pas être très riche non plus)/(lit.) manger du riz sans souci/
+????f 食飽飯冇屎痾 食饱饭冇屎疴 [shi2 bao3 fan4 mao3 shi3 ke1] {sik6 baau2 faan6 mou5 si2 o1} /(expr. idiom.) n'avoir rien de mieux à faire; avoir trop de temps à perdre/(lit.) manger du riz et ne pas avoir de crottes à évacuer/
+食香腸 食香肠 [shi2 xiang1 chang2] {sik6 hoeng1 coeng2} /manger une saucisse/(fam.) (fig.) faire une fellation/
+????f 食鹽多過你食米，行橋多過你行路 食盐多过你食米，行桥多过你行路 [shi2 yan2 duo1 guo4 ni3 shi2 mi3, xing2 qiao2 duo1 guo4 ni3 xing2 lu4] {sik6 jim4 do1 gwo3 nei5 sik6 mai5, hang4 kiu4 do1 gwo3 nei5 hang4 lou6} /(expr. idiom.) j'ai beaucoup plus d'expérience dans la vie que toi/(lit.) j'ai mangé plus de sel que tu aies mangé de riz, j'ai parcouru plus de distance sur de ponts que tu aies marché dans la rue/
+飲到啤啤乎 饮到啤啤乎 [yin3 dao4 pi2 pi2 hu1] {jam2 dou3 be4 be1 fu4} /(expr. idiom.) ivre mort/
+飲到大大哋 饮到大大哋 [yin3 dao4 da4 da4 di4] {jam2 dou3 daai6 daai2 dei2} /(expr. idiom.) être un peu ivre; avoir la tête qui tourne/(lit.) boire jusqu'à se sentir un peu grand/
+????f 飽肚食 饱肚食 [bao3 du4 shi2] {baau2 tou5 sik6} /(prendre des médicaments) le ventre plein (voir aussi 空肚食|空肚食)/
+????f 空肚食 空肚食 [kong1 du4 shi2] {hung1 tou5 sik6} /(prendre des médicaments) à jeun (voir aussi 飽肚食|饱肚食)/
