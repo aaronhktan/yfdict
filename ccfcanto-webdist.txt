@@ -2244,7 +2244,8 @@
 兩粒 两粒 [liang3 li4] {loeng5 nap1} /(classificateur pour deux petits morceaux de quelque chose)/
 兩粵 两粤 [liang3 yue4] {loeng5 jyut6} /Liangguang, les provinces actuelles du Guangdong (à l'est) et du Guangxi (à l'ouest)/
 兩重性 两重性 [liang3 chong2 xing4] {loeng5 cung4 sing3} /(philosophie) dualité/
-兩頭唔到岸 两头唔到岸 [liang3 tou2 n2 dao4 an4] {loeng5 tau4 m4 dou3 ngon6} /(expr. idiom.) être dans une situation perdant-perdant; être dans une situation inextricable; se retrouver entre le marteau et l'enclume/(lit.) ne pas arriver aux côtes dans les deux directions/
+兩頭唔到岸 两头唔到岸 [liang3 tou2 wu2 dao4 an4] {loeng5 tau4 m4 dou3 ngon6} /(expr. idiom.) être dans une situation perdant-perdant; être dans une situation inextricable; se retrouver entre le marteau et l'enclume/(lit.) ne pas arriver aux côtes dans les deux directions/
+兩頭唔到地 两头唔到地 [liang3 tou2 wu2 dao4 di4] {loeng5 tau4 m4 dou3 dei6} /(expr. idiom.) être dans une situation perdant-perdant; être dans une situation inextricable; se retrouver entre le marteau et l'enclume/(lit.) ne pas arriver aux côtes dans les deux directions/
 兩頭蛇 两头蛇 [liang3 tou2 she2] {loeng5 tau4 se4} /(fig.) personne déloyale, opportuniste/(lit.) un serpent à deux têtes/
 兩點 两点 [liang3 dian3] {loeng5 dim2} /deux points/2h/14h/
 八 八 [ba1] {baat3} /fouineur/
@@ -3446,7 +3447,7 @@
 ????f 反轉豬肚 反转猪肚 [fan3 zhuan3 zhu1 du3] {faan2 zyun3 zyu1 tou5} /(expr. idiom.) (des amis) devenir des ennemis après une dispute/(lit.) retourner l'estomac d'un cochon/
 ????f 反轉豬肚就係屎 反转猪肚就系屎 [fan3 zhuan3 zhu1 du3 jiu4 xi4 shi3] {faan2 zyun3 zyu1 tou5 zau6 hai6 si2} /(expr. idiom.) (des amis) devenir des ennemis après une dispute/(lit.) après avoir retourné l'estomac d'un cochon, c'est de la merde/
 反轉豬肚就是屎 反转猪肚就是屎 [fan3 zhuan3 zhu1 du3 jiu4 shi4 shi3] {faan2 zyun3 zyu1 tou5 zau6 si6 si2} /(expr. idiom.) (des amis) devenir des ennemis après une dispute/(lit.) après avoir retourné l'estomac d'un cochon, c'est de la merde/
-反面 反面 [fan3 mian4] {faan2 min2} /couper les ponts; rompre les relations avec quelqu'un/
+反面 反面 [fan3 mian4] {faan2 min2} /couper les ponts; rompre les relations avec quelqu'un/(moins sévère) se disputer; ne pas s'entendre avec quelqu'un/
 反面教材 反面教材 [fan3 mian4 jiao4 cai2] {faan2 min6 gaau3 coi4} /(expr.) exemple à ne pas suivre/
 ????f 反領 反领 [fan3 ling3] {faan2 leng5} /col remonté/
 反骨 反骨 [fan3 gu3] {faan2 gwat1} /traître; déloyal; infidèle/
@@ -7504,7 +7505,8 @@
 ????f 床上戲 床上戏 [chuang2 shang4 xi4] {cong4 soeng5 hei3} /scène de sexe (dans un film)/
 床下底 床下底 [chuang2 xia4 di3] {cong4 haa6 dai2} /sous le lit/
 床架 床架 [chuang2 jia4] {cong4 gaa2} /cadre de lit/
-床薦 床荐 [chuang2 jian4] {cong4 zin3} /matelas/
+床薦 床荐 [chuang2 jian4] {cong4 din3} /matelas/
+床墊 床垫 [chuang2 jian4] {cong4 din3} /matelas/
 床褥 床褥 [chuang2 ru4] {cong4 juk2} /matelas/
 床鋪 床铺 [chuang2 pu4] {cong4 pou1} /literie/lit/
 ????f 床頭打交床尾和 床头打交床尾和 [chuang2 tou2 da3 jiao1 chuang2 wei3 he2] {cong4 tau4 daa2 gaau1 cong4 mei5 wo6} /(expr. idiom.) petit désaccord entre un couple; taquineries entre un couple/(lit.) se disputer à la tête du lit, se réconcilier au pied du lit/
@@ -7515,7 +7517,7 @@
 ????f 底衫 底衫 [di3 shan1] {dai2 saam1} /maillot de corps; tricot de peau/
 底衫褲 底衫裤 [di3 shan1 ku4] {dai2 saam1 fu3} /sous-vêtements/
 底裙 底裙 [di3 qun2] {dai2 kwan4} /(habillement) combinaison/
-底褲 底裤 [di3 ku4] {dai2 fu3} /sous-vêtement/caleçon; boxer/slip; culotte/
+????f 底褲 底裤 [di3 ku4] {dai2 fu3} /sous-vêtement (qui couvre la taille)/caleçon; boxer/slip; culotte/
 ????f 庖代 庖代 [pao2 dai4] {paau4 doi6} /remplacer (quelqu'un); exercer les fonctions d'autrui/
 店小二 店小二 [dian4 xiao3 er4] {dim3 siu2 ji2} /serveur (de restaurant)/
 店舖 店舖 [dian4 pu4] {dim3 pou3} /magasin; boutique/
@@ -25032,6 +25034,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 童軍跳彈床 童军跳弹床 [tong2 jun1 tiao4 dan4 chuang2] {tung4 gwan1 tiu3 daan6 cong4} /(expr. en suspens) (vulg.) je m'en câlisse; je m'en bats les couilles; je m'en fiche; c'est comme tu veux/(lit.) scouts qui sautent sur le trampoline (deuxième partie 是鳩但|是鸠但 « je m'en câlisse, je m'en bats les couilles »)/(orig.) la deuxième partie 是鳩但|是鸠但 si6 gaau1 daan6 « je m'en câlisse, je m'en bats les couilles » est une jeu de mots - elle est prononcée comme l'anglais « scout » + le cantonais « sauter », qui donne la première partie de la locution (« des scouts qui sautent sur le trampoline »)/
 競爭激烈 竞争激烈 [jing4 zheng1 ji1 lie4] {ging6 zang1 gik1 lit6} /concurrence acharnée; concurrence féroce/
 竹升女 竹升女 [zhu2 sheng1 nu:3] {zuk1 sing1 neoi2} /fille d'origine chinoise qui a grandi à l'étranger/
+竹席 竹席 [zhu2 xi2] {zuk1 zek6} /natte de bambou/
 笑到轆地 笑到辘地 [xiao4 dao4 lu4 di4] {siu3 dou3 luk1 dei2} /(expr. idiom.) très drôle; à se tordre de rire/(lit.) rire à s'en rouler par terre/
 ????f 笑淫淫 笑淫淫 [xiao4 yin2 yin2] {siu3 jam4 jam4} /sourire d'une manière louche; sourire d'une manière lubrique/
 笑爆咀 笑爆咀 [xiao4 bao4 ju3] {siu3 baau3 zeoi2} /(fig.) éclater de rire/(lit.) rire à s'exploser la bouche/
@@ -25748,4 +25751,4 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 面懵膏 面懵膏 [mian4 meng3 gao1] {min6 mung2 gou1} /(to have) a thick skin [colloquial]/
 面阻阻 面阻阻 [mian4 zu3 zu3] {min6 zo2 zo2} /(fig.) bouder; refuser de parler à quelqu'un/(lit.) visage gauche-gauche/
 鞋拾拾 鞋拾拾 [xie2 shi2 shi2] {haai4 saap6 saap6} /rêche; rugueux/(aliment) dur; coriace/
-????m 音樂臺 音乐台 [yin1yue4 tai2] {jam1 ngok6 toi4} /music station [written and colloquial] (radio?) (stage?)/
+????m 音樂臺 音乐台 [yin1 yue4 tai2] {jam1 ngok6 toi4} /music station [written and colloquial] (radio?) (stage?)/
