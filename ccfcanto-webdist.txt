@@ -21502,7 +21502,7 @@
 ????f 食七咁食 食七咁食 [shi2 qi1 gan1 shi2] {sik6 cat1 gam2 sik6} /(expr. idiom.) s'empiffrer; manger avidement; se goinfrer/(lit.) manger comme le sept (les Cantonais organisent un banquet après sept jours de deuil)/
 ????f 食七噉食 食七噉食 [shi2 qi1 dan4 shi2] {sik6 cat1 gam2 sik6} /(expr. idiom.) s'empiffrer; manger avidement; se goinfrer/(lit.) manger comme le sept (les Cantonais organisent un banquet après sept jours de deuil)/
 食井水 食井水 [shi2 jing3 shui3] {sik6 zeng2 seoi2} /(fig.) (d'une prostituée) se marier (voir aussi 埋街飲井水|埋街饮井水)/(fig.) (peuple des bateaux) épouser un homme qui vit sur de la terre ferme/(fig.) se marier à une personne de classe sociale supérieure/(lit.) manger de l'eau de puits/
-????f 食人唔𦧲骨 食人唔𦧲骨 [shi2 ren2 wu2 luo2 gu3] {sik6 jan4 m4 loe1 gwat1} /(expr. idiom.) impitoyable et rapace/(lit.) manger les personnes et ne pas rechracher les os/
+????f 食人唔𦧲骨 食人唔𦧲骨 [shi2 ren2 wu2 luo2 gu3] {sik6 jan4 m4 loe1 gwat1} /(expr. idiom.) impitoyable et rapace (voir aussi 食人唔𦧲骨|食人唔𦧲骨)/(lit.) manger les gens et ne pas recracher les os/
 食人族 食人族 [shi2 ren2 zu2] {sik6 jan4 zuk6} /groupe de cannibales/
 ????f 食人隻車 食人只车 [shi2 ren2 zhi1 che1] {sik6 jan4 zek3 geoi1} /(expr. idiom.) exploiter quelqu'un/(expr. idiom.) être très avare/(lit.) manger la voiture de quelqu'un/
 食住上 食住上 [shi2 zhu4 shang4] {sik6 zyu6 soeng5} /(fig.) profiter d'une occasion; saisir l'occasion/(lit.) pouvoir manger/
@@ -21607,7 +21607,7 @@
 食齋 食斋 [shi2 zhai1] {sik6 zaai1} /être végétarien/(fig.) ne pas avoir de relations sexuelles/
 食螺絲 食螺丝 [shi2 luo2 si1] {sik6 lo4 si1} /(fig.) marmonner; parler entre ses dents; parler indistinctement/(lit.) manger des vis/
 食𩜠𩜠 食𩜠𩜠 [shi2 mum5 mum5] {sik6 mam1 mam1} /(enfantin) manger/
-食ｍｕｍ ｍｕｍ 食ｍｕｍ ｍｕｍ [shi2 mum5 mum5] {sik6 mam1 mam1} /(enfantin) manger/
+食ｍｕｍ ｍｕｍ 食ｍｕｍ ｍｕｍ [shi2 mum5 mum5] {sik6 mam1 mam1} /(enfantin) manger (voir aussi 食𩜠𩜠|食𩜠𩜠)/
 飢荒 饥荒 [ji1 huang5] {gei1 fong1} /famine/
 飯剷頭 饭铲头 [fan4 chan3 tou2] {faan6 caan2 tau4} /(espèce de serpents) Naja atra/
 飯團 饭团 [fan4 tuan2] {faan6 tyun4} /onigiri, plat japonais consistant en une boulette de riz enveloppée d'une algue/
@@ -24626,6 +24626,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 滾水借歪 滚水借歪 [gun3 shui3 jie4 wai1] {gwan2 seoi2 ze3 me2} /get out of the way, coming through! [colloquial] (register of language?)/
 ????c 滾滾地 滚滚地 [gun3 gun3 di4] {gwan2 gwan2 dei2} /moody; depressed [colloquial]/
 漏口 漏口 [lou4 kou3] {lau6 hau2} /bégayer/
+????f 漏網之魚 漏网之鱼 [lou4 wang3 zhi1 yu2] {lau6 mong5 zi1 jyu4} /(expr. idiom.) (d'un criminel) passer entre les mailles du filet/(lit.) poisson qui échappe au filet/
 漢語語法 汉语语法 [han4 yu3 yu3 fa3] {hon3 jyu5 jyu5 faat3} /grammaire chinoise/
 ????f 漫畫書 漫画书 [man4 hua4 shu1] {maan6 waa2 syu1} /bande dessinée (en forme de livre)/
 ????f 潮州音樂 潮州音乐 [chao2 zhou1 yin1 yue4] {ciu4 zau1 jam1 ngok6} /(expr. en suspens) faire cavalier seul; régler un problème tout seul; se débrouiller tout seul/(expr. en suspens) (à un restaurant chacun paye sa part; partager l'addition/(lit.) musique de Chaozhou (deuxième partie 自己顧自己|自己顾自己 « chacun se débrouille tout seul »)/(orig.) la deuxième partie de l'expression en suspens (prononcé « zi6 gei2 gu3 zi6 gei2 ») imite le son du suona, instrument chinois utilisé dans la musique de Chaozhou/
@@ -25773,3 +25774,27 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 願你 愿你 [yuan4 ni3] {jyun6 nei5} /j'espère que tu.../j'aurais voulu que.../
 ????f 顧住收尾嗰兩年 顾住收尾嗰两年 [gu4 zhu5 shou1 wei3 ge3 liang3 nian2] {gu3 zyu6 sau1 mei5 go2 loeng5 nin4} /(expr. idiom.) tu me le payeras cher! tu récolteras ce que tu sèmes!/(lit.) fais attention pendant les deux dernières années de ta vie!/
 風塵女子 风尘女子 [feng1 chen2 nu:3 zi3] {fung1 can4 neoi5 zi2} /(expr.) prostituée/
+風車花 风车花 [feng1 che1 hua1] {fung1 ce1 faa1} /(genre de plantes) passiflore; Passiflora/
+????f 飛出手指罅 飞出手指罅 [fei1 chu1 shou3 zhi3 xia4] {fei1 ceot1 sau2 zi2 laa3} /(expr. idiom.) (personne, en particulier un criminel) passer entre les mailles du filet (voir aussi 漏網之魚|漏网之鱼)/(expr. idiom.) (plus rare) perdre le contrôle (d'une situation que l'on croyait être réglée)/(lit.) voler entre les doigts/
+????m 飛咇 飞咇 [fei1 bi4] {fei1 bit1} /(fig.) être négligent pendant sa patrouille/(lit.) voler pendant la patrouille/
+????f 飛好 飞好 [fei1 hao3] {fei1 hou2} /finir de se faire couper les cheveux/
+????f 飛好髮 飞好发 [fei1 hao3 fa4] {fei1 hou2 faat3} /finir de se faire couper les cheveux/
+????f 飛屎 飞屎 [fei1 shi3] {fei1 si2} /réputation; prestige; dignité/(orig.) de l'anglais « face » (« réputation, prestige, dignité »), lui-même un emprunt du chinois 面|面 « visage, face, réputation, prestige »/
+????m 飛撲 飞扑 [fei1 pu1] {fei1 pok3} /to swoop [written and colloquial]/
+飛行人 飞行人 [fei1 xing2 ren2] {fei1 hang4 jan4} /pilote (plus souvent 飛行員|飞行员)/
+飛髮鐠 飞发镨 [fei1 fa4 pu3] {fei1 faat3 pou2} /salon de coiffure/
+食ｍｏｎｍｏｎ 食ｍｏｎｍｏｎ [shi2 mon5 mon5] {sik6 mung1 mung1} /(enfantin) manger (voir aussi 食𩜠𩜠|食𩜠𩜠)/
+食ｍｕｍｍｕｍ 食ｍｕｍｍｕｍ [shi2m u m m u m] {sik6 mung1 mung1} /(enfantin) manger (voir aussi 食𩜠𩜠|食𩜠𩜠)/
+????f 食ｐｏｒｔ 食ｐｏｒｔ [shi2 port5] {sik6 pot1} /(fig.) être l'objet d'une plainte; être l'objet d'une réclamation/(lit.) manger une plainte/(orig.) 食|食 « manger » + deuxième syllabe de l'anglais « report » (« plainte, réclamation »)/
+ｐｏｒｔ ｐｏｒｔ [port5] {pot1} /déposer une plainte/(orig) deuxième syllabe de l'anglais « report » (« plainte, réclamation »)/
+????c 食ｔｅａ 食ｔｅａ [shi2 tea5] {sik6 ti1} /to have tea / snack [colloquial]/
+食人唔ｌｕｒ骨 食人唔ｌｕｒ骨 [shi2 ren2 wu2 lur5 gu3] {sik6 jan4 m4 loe1 gwat1} /(expr. idiom.) impitoyable et rapace (voir aussi 食人唔𦧲骨|食人唔𦧲骨)/(lit.) manger les gens et ne pas recracher les os/
+食人者 食人者 [shi2 ren2 zhe3] {sik6 jan4 ze2} /anthropophage; cannibal; mangeur d'hommes/
+????f 食到盡 食到尽 [shi2 dao4 jin4] {sik6 dou6 zeon6} /(fig.) exploiter une situation au maximum/(lit.) manger le tout possible/
+????f 食北姑 食北姑 [shi2 bei3 gu1] {sik6 bak1 gu1} /(fam.) (fig.) avoir des relations sexuelles avec une prostituée de la Chine continentale/(lit.) manger des champignons du nord/
+????m 食咗屎 食咗屎 [shi2 zuo5 shi3] {sik6 zo2 si2} /(fam.) (fig.) perdre la boule; devenir fou/(fam.) (fig.) avoir mauvaise haleine/(lit.) avoir mangé des crottes/
+食咗蒜頭 食咗蒜头 [shi2 zuo5 suan4 tou2] {sik6 zo2 syun3 tau4} /(fam.) (fig.) être vantard/(lit.) avoir mangé de l'ail/
+????f 食唔晒 食唔晒 [shi2 wu2 shai4] {sik6 m4 saai3} /ne pas être capable de finir son assiette; ne pas être capable de tout manger/
+????f 食唔曬 食唔晒 [shi2 wu2 shai4] {sik6 m4 saai3} /ne pas être capable de finir son assiette; ne pas être capable de tout manger/
+????m 食四方飯 食四方饭 [shi2 si4 fang1 fan4] {sik6 sei3 fong1 faan6} /(expr. idiom.) gagner sa vie de plusieurs façons/(expr. idiom.) gagner sa vie en se déplaceant partout dans le monde/(lit.) manger le riz des quatre points cardinaux/
+食大煙 食大烟 [shi2 da4 yan1] {sik6 daai6 jin1} /fumer de l'opium/
