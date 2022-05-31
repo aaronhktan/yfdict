@@ -21180,7 +21180,7 @@
 面巾紙 面巾纸 [mian4 jin1 zhi3] {min6 gan1 zi2} /mouchoir en papier/
 面懵 面懵 [mian4 meng3] {min6 mung2} /stupide; étourdi; lent d'esprit/gêné; embarrassé/timide/
 面懵心精 面懵心精 [mian4 meng3 xin1 jing1] {min6 mung2 sam1 zeng1} /(expr. idiom.) feindre l'ignorance; faire semblant d'être stupide mais être intelligent/(lit.) visage stupide cœur rusé/
-面懵懵 面懵懵 [mian4 meng3 meng3] {min6 mung2 mung2} /stupide; étourdi; lent d'esprit/gêné; embarrassé/timide/
+面懵懵 面懵懵 [mian4 meng3 meng3] {min6 mung2 mung2} /gêné; qui a honte/avoir l'air stupide; avoir l'air étourdi/timide/
 面書 面书 [mian4 shu1] {min6 syu1} /Facebook, réseau social/(orig.) du nom de la société, « face » (« visage ») 面|面 et « book » (« livre ») 書|书/
 面木木 面木木 [mian4 mu4 mu4] {min6 muk6 muk6} /expression vide; regard vide/
 ????f 面毛 面毛 [mian4 mao2] {min6 mou4} /poils fins sur le visage/
@@ -25569,6 +25569,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 過檯 过台 [guo4 tai2] {gwo3 toi2} /for a night hostess to move across to another table in order to meet more clients [colloquial]/
 過火位 过火位 [guo4 huo3 wei4] {gwo3 fo2 wai2} /(fig.) aller trop loin; aller au-delà du raisonnable/
 過面 过面 [guo4 mian4] {gwo3 min2} /(fig.) passer d'une triade à une autre/
+過癮 过瘾 [guo4 yin3] {gwo3 jan5} /(fam.) (activité) amusant/(fam.) (activité) agréable/(fam.) (plus généralement) (activité, film, jeu, chanson, etc.) bon/
 還拖 还拖 [hai2 tuo1] {waan4 to1} /se défendre; faire une contre-attaque/
 還要 还要 [hai2 yao4] {waan4 jiu3} /vouloir encore plus/toujours avoir besoin de (faire quelque chose, d'avoir quelque chose)/
 ????c 邊個阿媽生你㗎 边个阿妈生你㗎 [bian1 ge4 a1 ma1 sheng1 ni3 jia4] {bin1 go3 aa3 maa1 sang1 nei5 gaa3} /(expr. idiom.) (inj.) pour qui tu te prends?/(lit.) quelle mère t'a donné naissance?/
@@ -25848,3 +25849,27 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 騰嚟騰去 腾嚟腾去 [teng2 li2 teng2 qu4] {tang4 lei4 tang4 heoi3} /(expr. idiom.) être très occupé/(lit.) se déplacer rapidement par-ci par-là/
 ????f 揗嚟揗去 揗嚟揗去 [xun2 li2 xun2 qu4] {tan4 lei4 tan4 heoi3} /(expr. idiom.) être très occupé/(lit.) se déplacer rapidement par-ci par-là/
 騰雞 腾鸡 [teng2 ji1] {tang4 gai1} /(fam.) (fig.) paniquer; perdre la tête; prendre peur/
+????m 騷料 骚料 [sao1 liao4] {sou1 liu2} /(fam.) montrer son talent/(fam.) jouer les durs/(lit.) 騷|骚 sou1 de l'anglais « show » (« montrer ») + 料|料 « matériel, chose, qualification »/
+????f 驚你有牙呀 惊你有牙呀 [jing1 ni3 you3 ya2 ya5] {geng1 nei5 jau5 ngaa4 aa4} /(expr. idiom.) je n'ai pas peur de toi!/(lit.) j'ai peur que tu aies des dents/
+????f 驚到打尿震 惊到打尿震 [jing1 dao4 da3 niao4 zhen4] {geng1 dou3 daa2 niu6 zan3} /(expr. idiom.) avoir très peur; être terrifié/(lit.) trembler (de peur) comme si on venait d'uriner/
+????f 驚到標尿 惊到标尿 [jing1 dao4 biao1 niao4] {geng1 dou3 biu1 niu6} /(expr. idiom.) avoir très peur; être terrifié/(lit.) avoir tellement peur que l'on se mouille/
+????c 驚到發軟蹄 惊到发软蹄 [jing1 dao4 fa1 ruan3 ti2] {geng1 dou3 faat3 jyun5 tai4} /(expr. idiom.) avoir très peur; être terrifié/(lit.) avoir tellement peur que les pattes deviennent molles/
+驚到鼻哥窿都冇肉 惊到鼻哥窿都冇肉 [jing1 dao4 bi2 ge1 long2 dou1 mao3 rou4] {geng1 dou3 bei6 go1 lung1 dou1 mou5 juk6} /(expr. idiom.) avoir très peur; être terrifié/(lit.) avoir tellement peur que le nez n'a plus de chair/
+????c 驟忌 骤忌 [zhou4 ji4] {zau6 gei6} /tabou/
+????c 骨精友 骨精友 [gu3 jing1 you3] {gwat1 zing1 jau2} /someone who visits dodgy massage parlour on a frequent basis [colloquial]/
+????c 高攀唔起 高攀唔起 [gao1 pan1 wu2 qi3] {gou1 paan1 m4 hei2} /to be not good enough to be a match up to the standards of someone, especially in a situation where a man feels that he is not good enough for a woman [colloquial]/
+高檔嘢 高档嘢 [gao1 dang4 ye3] {gou1 dong3 je5} /produits de luxe; produits de bonne qualité/
+????f 高腳七 高脚七 [gao1 jiao3 qi1] {gou1 goek3 cat1} /(fig.) personne grande; personne de haute taille/
+髧兜 髧兜 [dan4 dou1] {dam3 dau1} /(fam.) idiot; imbécile; crétin (voir aussi 豬髧兜|猪髧兜)/
+????c 髧落嚟 髧落嚟 [dan4 luo4 li2] {dam3 lok6 lai4} /faire tomber quelque chose (par accident)/
+????c 髧落地 髧落地 [dan4 luo4 di4] {dam3 lok6 dei6} /faire tomber quelque chose par terre (par accident)/
+????f 髮根 发根 [fa4 gen1] {faat3 gan1} /racines des cheveux; racine d'un poil/
+????c 鬆尾鬆翼 松尾松翼 [song1 wei3 song1 yi4] {sung1 mei5 sung1 jik6} /(expr. idiom.) qui se croit très bon en quelque chose mais qui est en réalité inexpérimenté/
+鬚後水 须后水 [xu1 hou4 shui3] {sou1 hau6 seoi2} /après-rasage; after-shave/
+鬚鉋 须鉋 [xu1 bao4] {sou1 paau2} /rasoir/
+????m 鬥拋 斗抛 [dou4 pao1] {dau3 paau1} /to show off one's moves before a fight; to argue using foul language [colloquial]/
+????f 鬧臭 闹臭 [nao4 chou4] {naau6 cau3} /gronder (quelqu'un) en public (afin de lui faire honte)/
+????c 鬧通街 闹通街 [nao4 tong1 jie1] {naau6 tung1 gaai1} /to quarrel so loud that everyone can hear; something that has been made known to everyone [colloquial]/
+????f 鬼叫...咩 鬼叫...咩 [gui3 jiao4… mie1] {gwai2 giu3… me1} /(expr. idiom.) (c'est) tout à cause de (quelqu'un); (quelqu'un et quelque chose) sont la raison pour laquelle tout s'est passé comme ça/(lit.) personne ne (lui) a dit de.../
+鬼咁過癮 鬼咁过瘾 [gui3 gan1 guo4 yin3] {gwai2 gam3 gwo3 jan5} /(fam.) (activité) très amusant/(fam.) (activité) très agréable/(fam.) (plus généralement) (activité, film, jeu, chanson, etc.) très bon/
+鬼咁長氣 鬼咁长气 [gui3 gan1 zhang3 qi4] {gwai2 gam3 coeng4 hei3} /(fam.) (de quelque chose que quelqu'un dit) interminable; trop long/
