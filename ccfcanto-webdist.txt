@@ -22247,7 +22247,7 @@
 鳳凰衛視 凤凰卫视 [feng4 huang2 Wei4 shi4] {fung6 wong4 wai6 si6} /Phoenix Satellite Television, société chinoise de télévision/
 鳳姐 凤姐 [feng4 jie3] {fung6 ze2} /prostituée/
 鳳梨酥 凤梨酥 [feng4 li2 su1] {fung6 lei4 sou1} /gâteau à ananas, patisserie taïwanaise/
-????f 鳳竇 凤窦 [feng4 dou4] {fung6 dau3} /a one-woman brothel/
+????f 鳳竇 凤窦 [feng4 dou4] {fung6 dau3} /bordel avec une seule femme/
 鴆毒 鸩毒 [zhen4 du2] {zam6 duk6} /(litt.) vin empoisonné/
 鴆酒 鸩酒 [zhen4 jiu3] {zam6 zau2} /(litt.) vin empoisonné/
 ????c 鴛盟 鸳盟 [yuan1 meng2] {jyun1 mang4} /vœu entre deux amoureux/
@@ -22836,8 +22836,8 @@
 ????c 九反地 九反地 [jiu3 fan3 di4] {gau2 faan2 dei6} /a place known for where riots or stir ups often occurs (needs verification)/
 九展 九展 [jiu3 zhan3] {gau2 zin2} /Kowloonbay International Trade & Exhibition Centre, parc des expositions hongkongais/
 九彩 九彩 [jiu3 cai3] {gau2 coi2} /(fig.) très; extrêmement (note d'usage : souvent utilisé pour exprimer un effet négatif)/(lit.) neuf couleurs/
-九支孖碌 九支孖碌 [jiu3 zhi1 ma1 lu4] {gau2 zi1 maa1 luk1} /(inj.) (vulg.) con; extrêmement stupide/
-鳩支孖碌 鸠支孖碌 [jiu3 zhi1 ma1 lu4] {gau1 zi1 maa1 luk1} /(inj.) (vulg.) con; extrêmement stupide/
+九支孖碌 九支孖碌 [jiu3 zhi1 ma1 lu4] {gau2 zi1 maa1 luk1} /(expr. idiom.) (adoucissement de 鳩支孖碌|鸠支孖碌 « très con, très cave »)/
+鳩支孖碌 鸠支孖碌 [jiu3 zhi1 ma1 lu4] {gau1 zi1 maa1 luk1} /(expr. idiom.) (vulg.) (d'une personne) très con; très cave; très énervant; très agaçant/
 乞兒兜度嗱飯食 乞儿兜度嗱饭食 [qi3 er2 dou1 du4 na2 fan4shi5] {hat1 ji1 dau1 dou6 naa2 faan6 sik6} /(expr. idiom.) exploiter les personnes défavorisées/(lit.) voler du riz du bol d'un mendiant/
 ????c 乸乸地 乸乸地 [na3 na3 di4] {naa2 naa2 dei2} /(péj.) (d'un homme) efféminé/
 乸口乸面 乸口乸面 [na3 kou3 na3 mian4] {naa2 hau2 naa2 min6} /(fam.) se renfrogner; avoir l'air mécontent/
@@ -24364,7 +24364,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 有事鐘無艷，無事夏迎春 有事钟无艳，无事夏迎春 [you3 shi4 zhong1 wu2 yan4, wu2 shi4 xia4 ying2 chun1] {jau5 si6 zung1 mou4 jim6, mou4 si6 haa6 jing4 ceon1} /(expr. idiom.) tu ne viens me chercher que quand tu a besoin d'aide/(lit.) quand il y a un problème, on appelle Zhong Wuyan (la femme laide mais très intelligente de l'empereur Xuan de l'État Qi), mais quand tout va bien on appelle Xia Yingchun (la très jolie concubine de l'empereur)/
 有今日 有今日 [you3 jin1 ri4] {jau5 gam1 jat6} /(d'un évènement désagréable) bien fait pour toi! tu l'as bien mérité!/
 ????f 有你冇我 有你冇我 [you3 ni3 mao3 wo3] {jau5 nei5 mou5 ngo5} /(expr. idiom.) je n'accepte pas de faire des compromis; je ne vais pas céder/(lit.) avoir toi ne pas avoir moi/
-????c 有冇帶袋 有冇带袋 [you3 mao3 dai4 dai4] {jau5 mou5 daai3 doi6} /(fam.) tu a une capote?/
+????c 有冇帶袋 有冇带袋 [you3 mao3 dai4 dai4] {jau5 mou5 daai3 doi2} /(fam.) tu as une capote?/
 ????f 有冇料到 有冇料到 [you3 mao3 liao4 dao4] {jau5 mou5 liu6 dou3} /est-ce qu'il ou elle est qualifié? est-ce qu'il ou elle a les compétences nécessaires?/est-ce qu'il ou elle est doué en (quelque chose)?/
 ????m 有分寸 有分寸 [you3 fen1 cun5] {jau5 fan1 cyun3} /être calme; être mesuré; être modéré; être réfléchi/
 有創意 有创意 [you3 chuang4 yi4] {jau5 cong3 ji3} /créatif; novateur; innovant/
@@ -25873,3 +25873,31 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 鬼叫...咩 鬼叫...咩 [gui3 jiao4… mie1] {gwai2 giu3… me1} /(expr. idiom.) (c'est) tout à cause de (quelqu'un); (quelqu'un et quelque chose) sont la raison pour laquelle tout s'est passé comme ça/(lit.) personne ne (lui) a dit de.../
 鬼咁過癮 鬼咁过瘾 [gui3 gan1 guo4 yin3] {gwai2 gam3 gwo3 jan5} /(fam.) (activité) très amusant/(fam.) (activité) très agréable/(fam.) (plus généralement) (activité, film, jeu, chanson, etc.) très bon/
 鬼咁長氣 鬼咁长气 [gui3 gan1 zhang3 qi4] {gwai2 gam3 coeng4 hei3} /(fam.) (de quelque chose que quelqu'un dit) interminable; trop long/
+鬼城 鬼城 [gui3 cheng2] {gwai2 sing4} /ville fantôme/
+????c 鬼崇 鬼崇 [gui3 chong2] {gwai2 sung4} /(fam.) furtivement; secrètement/
+????c 鬼鬼崇崇 鬼鬼崇崇 [gui3 gui3 chong2 chong2] {gwai2 gwai2 sung4 sung4} /(fam.) furtivement; secrètement/
+????m 魔鬼托世 魔鬼托世 [mo2 gui3 tuo1 shi4] {mo1 gwai2 tok3 sai3} /describes someone of extraordinary talent [written and colloquial]/
+鳩噏 鸠噏 [jiu1 xi1] {gau1 ap1} /(vulg.) dire des bêtises; dire du n'importe quoi/
+鳩支孖碌 鸠支孖碌 [jiu1 zhi1 ma1 lu4] {gau1 zi1 maa1 luk1} /(expr. idiom.) (vulg.) (d'une personne) très con; très cave; très énervant; très agaçant/
+????f 鳩毛 鸠毛 [jiu1 mao2] {gau1 mou4} /(vulg.) poil du pubis d'un homme/
+????f 鳩毛放紙鷂 鸠毛放纸鹞 [jiu1 mao2 fang4 zhi3 yao4] {gau1 mou4 fong3 zi2 jiu2} /(expr. en suspens) (vulg.) prendre un gros risque/(lit.) utiliser des poils du pubis pour voler un cerf-volant (deuxième partie 博到盡|博到尽 bok3 dou3 zeon6 « tout risquer », jeu de mots avec 駁到盡|驳到尽 bok3 dou3 zeon6 « devoir lier beaucoup (de poils de pubis) ensemble »)/
+鳩笠 鸠笠 [jiu1 li4] {gau1 lap1} /(fam.) (vulg.) capote; préservatif/
+????f 鳯竇 鳯窦 [feng4 dou4] {fung6 dau3} /bordel avec une seule femme (voir aussi 鳳竇|凤窦)/
+????f 鴉烏婆 鸦乌婆 [ya1 wu1 po2] {aa1 wu1 po2} /(fig.) (d'une femme) vieille sorcière; vieille bique; vieille mégère; femme laide et acariâtre/personnage (vieille femme menaçante, comme Baba Yaga) qu'on menace d'appeler pour enlever les vilains enfants/
+????f 鴛鴦房 鸳鸯房 [yuan1 yang5 fang2] {jyun1 joeng1 fong2} /suite nuptiale/
+????m 鴛鴦腳 鸳鸯脚 [yuan1 yang5 jiao3] {jyun1 joeng1 goek3} /a type of flying kicks style in martial arts [colloquial] (one foot bigger than the other?)/
+鵝頸橋 鹅颈桥 [e2 jing3 qiao2] {ngo4 geng2 kiu4} /(surnom du Canal Road Flyover à Hong Kong)/(surnom de la région autour du Canal Road Flyover à Hong Kong, près de Causeway Bay)/
+????c 𪁐姐 𪁐姐 [li2 jie3] {fung6 ze2} /prostituée (voir aussi 鳳姐|凤姐)/
+????m 鹹水大鱷 咸水大鳄 [xian2 shui3 da4 e4] {haam4 seoi2 daai6 ngok6} /a foreign swindler [colloquial] (specifically speculator in financial market?)/(lit.) crococile d'eau de mer/
+????m 鹹淡場 咸淡场 [xian2 dan4 chang3] {haam4 taam5 coeng4} /a business that is slightly dodgy [colloquial]/
+????f 鹹濕仔 咸湿仔 [xian2 shi1 zi3] {haam4 sap1 zai2} /(fig.) jeune homme libertin; jeune homme qui est un obsédé sexuel/(lit.) jeune homme salé mouillé/
+????c 鹹濕故仔 咸湿故仔 [xian2 shi1 gu4 zi3] {haam4 sap1 gu2 zai2} /(fig.) histoires érotiques/(lit.) histoire salée mouillée/
+鹹濕相 咸湿相 [xian2 shi1 xiang1] {haam4 sap1 soeng2} /(fig.) photos pornographiques/(lit.) photo salée mouillée/
+鹹濕笑話 咸湿笑话 [xian2 shi1 xiao4 hua5] {haam4 sap1 siu3 waa2} /(fig.) blagues indécentes/(lit.) blague salé mouillé/
+鹹碟 咸碟 [xian2 die2] {haam4 dip2} /(fig.) DVD pornographique/(lit.) disque salé/
+????f 鹹菜西裝 咸菜西装 [xian2 cai4 xi1 zhuang1] {haam4 coi3 sai1 zong1} /(fig.) costume (d'un homme) froissé/(lit.) costume (comme des) légumes salés/
+????f 麵包坊 面包坊 [mian4 bao1 fang1] {min6 baau1 fong1} /boulangerie/
+????f 麻Ｑ煩 麻Ｑ烦 [ma2 q5 fan2] {maa4 kiu1 faan4} /(adoucissement de 麻鳩煩|麻鸠烦 « très chiante, très énervante »)/
+麻撚煩 麻撚烦 [ma2 nian3 fan2] {maa4 lan2 faan4} /(vulg.) (d'une personne) très chiante; très énervante/(vulg.) (d'une tâche) pénible; embêtant/
+麻撚鳩煩 麻撚鸠烦 [ma2 nian3 jiu1 fan2] {maa4 lan2 gau1 faan4} /(vulg.) (d'une personne) très chiante; très énervante/(vulg.) (d'une tâche) pénible; embêtant/
+麻甩妹 麻甩妹 [ma2 shuai3 mei4] {maa4 lat1 mui1} /(impoli) appellation pour une jeune femme/
