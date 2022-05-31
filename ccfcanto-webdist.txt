@@ -19984,7 +19984,7 @@
 金櫻子 金樱子 [jin1 ying1 zi5] {gam1 jing1 zi2} /(espèce de rosier) Rosa laevigata, rosier des Cherokees/
 金毛 金毛 [jin1 mao2] {gam1 mou1} /cheveux blonds/blond; personne dont les cheveux sont de la couleur blonde/
 金牌 金牌 [jin1 pai2] {gam1 paai4} /médaille d'or/de très bonne qualité; de premier choix/
-金牌獎 金牌奖 [jin1 pai2 jiang3] {gam1 paai4 zoeng2} /médaille d'or/premier prix/
+金牌獎 金牌奖 [jin1 pai2 jiang3] {gam1 paai4 zoeng2} /médaille d'or/premier prix; prix octroyé à la personne qui obtient la première place/
 金牛 金牛 [Jin1 niu2] {gam1 ngau4} /(fig.) billet de mille dollars de Hong Kong/(lit.) taureau en or/
 ????f 金盤洗手 金盘洗手 [jin1 pan2 xi3 shou3] {gam1 pun4 sai2 sau2} /retire from mafia or gangster/(fig.) prendre sa retraite/(lit.) laver ses mains dans un lavabo en or/
 ????f 金睛火眼 金睛火眼 [jin1 jing1 huo3 yan3] {gam1 zing1 fo2 ngaan5} /(fig.) très fatigué/(fig.) travailler très tard dans la nuit/(fig.) être très concentré/(lit.) avoir une globe oculaire en or et les yeux de feu/
@@ -21709,7 +21709,7 @@
 ????f 餲堪堪 餲堪堪 [ai4 kan1 kan1] {ngaat3 ham1 ham1} /odeur d'urine; puanteur d'urine/
 餵人奶 喂人奶 [wei4 ren2 nai3] {wai3 jan4 naai5} /nourrir de lait/(en particulier) allaiter/
 ????f 餵奶 喂奶 [wei4 nai3] {wai3 naai5} /nourrir de lait/(en particulier) allaiter/
-????f 餵老虎機 喂老虎机 [wei4 lao3 hu3 ji1] {wai3 lou5 fu2 gei1} /(fig.) dépenser beaucoup d'argent sur une machine à sous/(fig.) mettre de l'argent dans un parcomètre/(lit.) nourrir la machine du tigre (=machine à sous)/
+????f 餵老虎機 喂老虎机 [wei4 lao3 hu3 ji1] {wai3 lou5 fu2 gei1} /(fig.) dépenser beaucoup d'argent en jouant à une machine à sous/(fig.) mettre des pièces dans le parcmètre/(lit.) nourrir la machine du tigre (=machine à sous)/
 餵飼 喂饲 [wei4 si4] {wai3 zi6} /nourrir (des animaux)/
 餸 餸 [song4] {sung3} /plat; plat d'accompagnement; plat autre que le riz/
 餸菜 餸菜 [song4 cai4] {sung3 coi3} /plat d'accompagnement; plat autre que le riz/
@@ -21854,7 +21854,7 @@
 馬料水 马料水 [ma3 liao4 shui3] {maa5 liu6 seoi2} /Ma Liu Shui, région de Hong Kong/
 ????f 馬會 马会 [ma3 hui4] {maa5 wui2} /jockey club/
 馬棚 马棚 [ma3 peng2] {maa5 paang4} /écurie/
-????f 馬標 马标 [ma3 biao1] {maa5 biu1} /(courses hippiques) sorte de billet de loterie des courses hippiques de Hong Kong/
+????m 馬標 马标 [ma3 biao1] {maa5 biu1} /(courses hippiques) sorte de billet de loterie des courses hippiques de Hong Kong/
 馬檻 马槛 [ma3 kan3] {maa5 laam2} /bordel; maison close/
 ????f 馬死落地行 马死落地行 [ma3 si3 lao4 di4 xing2] {maa5 sei2 lok6 dei6 haang4} /(expr. idiom.) tirer le meilleur parti d'une mauvaise situation; persévérer face à l'adversité/(lit.) descendre du cheval mort et continuer à marcher/
 馬灣 马湾 [ma3 wan1] {maa5 waan1} /Ma Wan, île de Hong Kong/
@@ -21892,7 +21892,7 @@
 馴獸師 驯兽师 [xun4 shou4 shi1] {seon4 sau3 si1} /dompteur; dresseur d'animaux/
 駁 驳 [bo2] {bok3} /attacher; relier; connecter/
 ????c 駁口 驳口 [bo2 kou3] {bok3 hau2} /jointure/
-駁咀駁舌 驳咀驳舌 [bo2 ju3 bo2 she2] {bok3 zeoi2 bok3 sit6} /se disputer; se quereller/répliquer/
+駁咀駁舌 驳咀驳舌 [bo2 ju3 bo2 she2] {bok3 zeoi2 bok3 sit6} /répliquer; riposter; répondre insolemment/
 駁嘴 驳嘴 [bo2 zui3] {bok3 zeoi2} /se disputer; se quereller/répliquer/
 駁火 驳火 [bo2 huo3] {bok3 fo2} /échanger des coups de feu/
 ????c 駁腳 驳脚 [bo2 jiao3] {bok3 goek3} /intermédiaire; entremise/
@@ -25824,3 +25824,27 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 飲到大大哋 饮到大大哋 [yin3 dao4 da4 da4 di4] {jam2 dou3 daai6 daai2 dei2} /(expr. idiom.) être un peu ivre; avoir la tête qui tourne/(lit.) boire jusqu'à se sentir un peu grand/
 ????f 飽肚食 饱肚食 [bao3 du4 shi2] {baau2 tou5 sik6} /(prendre des médicaments) le ventre plein (voir aussi 空肚食|空肚食)/
 ????f 空肚食 空肚食 [kong1 du4 shi2] {hung1 tou5 sik6} /(prendre des médicaments) à jeun (voir aussi 飽肚食|饱肚食)/
+????c 養草皮 养草皮 [yang3 cao3 pi2] {joeng5 cou2 pei4} /(fig.) perdre de l'argent en faisant des paris hippiques/(lit.) élever du gazon/
+????f 餓死老婆瘟臭屋 饿死老婆瘟臭屋 [e4 si3 lao3 po5 wen1 chou4 wu1] {ngo6 sei2 lou5 po4 wan1 cau3 uk1} /(expr. idiom.) (d'un homme marié) avoir du mal à joindre les deux bouts/(lit.) (ne pas gagner assez d'argent et) faire mourir sa femme d'inanition et remplir la maison de la peste/
+餓死老婆薰臭屋 饿死老婆熏臭屋 [e4 si3 lao3 po5 xun1 chou4 wu1] {ngo6 sei2 lou5 po4 fan1 cau3 uk1} /(expr. idiom.) (d'un homme marié) avoir du mal à joindre les deux bouts/(lit.) (ne pas gagner assez d'argent et) faire mourir sa femme d'inanition et remplir la maison de la peste/
+????c 餵老虎 喂老虎 [wei4 lao3 hu3] {wai3 lou5 fu2} /(fig.) mettre des pièces dans le parcmètre (voir aussi 餵老虎機|喂老虎机)/(lit.) nourrir le tigre/
+????f 餵飽 喂饱 [wei4 bao3] {wai3 baau2} /(fam.) (fig.) satisfaire sexuellement/(lit.) nourrir à ne plus avoir faim/
+????f 饌死你 馔死你 [zhuan4 si3 ni3] {zaang6 sei2 nei5} /(fam.) (formule pour exprimer que la personne à qui le locuteur s'adresse a trop mangé et ne devrait pas continuer à manger tant)/(lit.) tu t'empiffres à mort/
+????f 饌飽 馔饱 [zhuan4 bao3] {zaang6 baau2} /manger jusqu'à ne plus avoir faim/
+首獎 首奖 [shou3 jiang3] {sau2 zoeng2} /premier prix; prix octroyé à la personne qui obtient la première place/
+????f 香港黃金海岸 香港黄金海岸 [xiang1 gang3 huang2 jin1 hai3 an4] {hoeng1 gong2 wong4 gam1 hoi2 ngon6} /Hong Kong Gold Coast, grand ensemble de luxe privé à Hong Kong/
+馬交佬 马交佬 [ma3 jiao1 lao3] {maa5 gaau1 lou2} /(fam.) type de Macau; gars de Macau; mec macanais; Macanais/
+????f 馬永貞 马永贞 [ma3 yong3 zhen1] {maa5 wing5 zing1} /Ma Wing-jing, artiste martial de la dynastie Qing, notamment l'objet du film hongkongais « Hero »/
+馬特洪峰 马特洪峰 [ma3 te4 hong2 feng1] {maa5 dak6 hung4 fung1} /Cervin, sommet des Alpes/
+馬狂螂 马狂螂 [ma3 kuang2 lang2] {maa5 kwong4 long4} /(ordre des insectes) mantoptères, Mantodea/mante religieuse/
+馬票 马票 [ma3 piao4] {maa5 biu1} /(courses hippiques) sorte de billet de loterie des courses hippiques de Hong Kong (voir aussi 馬標|马标)/
+馬蒂尼 马蒂尼 [ma3 di4 ni2] {maa5 dai3 nei4} /(cocktail) martini (voir aussi 馬天尼|马天尼)/
+馬天尼 马天尼 [ma3 tian1 ni2] {maa5 tin1 nei4} /(cocktail) martini/
+馬騮屎忽 马骝屎忽 [ma3 liu2 shi3 hu1] {maa5 lau1 si2 fat1} /(fig.) (péj.) (du visage, vêtements, maquillage) cramoisi; écarlate/(lit.) comme les fesses d'un singe/
+駁咀 驳咀 [bo2 ju3] {bok3 zeoi2} /répliquer; riposter; répondre insolemment/
+????m 駐場 驻场 [zhu4 chang3] {zyu3 coeng4} /resident; stationed [written and colloquial] (watch over a place as a triad?)/
+????f 騰上騰落 腾上腾落 [teng2 shang4 teng2 luo4] {tang4 soeng5 tang4 lok6} /(expr. idiom.) être très occupé (et monter et descendre plusieurs fois)/(lit.) se déplacer rapidement en haut et en bas/
+????f 揗上揗落 揗上揗落 [xun2 shang4 xun2 luo4] {tan4 soeng5 tan4 lok6} /(expr. idiom.) être très occupé (et monter et descendre plusieurs fois)/(lit.) se déplacer rapidement en haut et en bas/
+????f 騰嚟騰去 腾嚟腾去 [teng2 li2 teng2 qu4] {tang4 lei4 tang4 heoi3} /(expr. idiom.) être très occupé/(lit.) se déplacer rapidement par-ci par-là/
+????f 揗嚟揗去 揗嚟揗去 [xun2 li2 xun2 qu4] {tan4 lei4 tan4 heoi3} /(expr. idiom.) être très occupé/(lit.) se déplacer rapidement par-ci par-là/
+騰雞 腾鸡 [teng2 ji1] {tang4 gai1} /(fam.) (fig.) paniquer; perdre la tête; prendre peur/
