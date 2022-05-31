@@ -22484,7 +22484,7 @@
 黐家 黐家 [chi1 jia1] {ci1 gaa1} /casanier; pantouflard/(lit.) qui colle à la maison/
 黐湆 黐湆 [chi1 qi4] {ci1 nap6} /collant; gluant/
 黐牙 黐牙 [chi1 ya2] {ci1 ngaa4} /(aliment) collant/(lit.) qui colle aux dents/
-黐立立 黐立立 [chi1 li4 li4] {ci1 lap6 lap6} /collant; gluant/
+黐立立 黐立立 [chi1 li4 li4] {ci1 lap6 lap6} /poisseux; collant; gluant/
 黐筋 黐筋 [chi1 jin1] {ci1 gan1} /(fig.) fou; cinglé; barjot; dingue; fêlé/(lit.) avoir les muscles collants/
 黐綫 黐线 [chi1 xian4] {ci1 sin3} /(fig.) fou; cinglé; barjot; dingue; fêlé/(lit.) avoir les fils collants/
 黐線佬 黐线佬 [chi1 xian4 lao3] {ci1 sin3 lou2} /fou; cinglé; dément (de sexe masculin)/
@@ -23402,7 +23402,7 @@
 ????c 喺邊度Ｗｅｔ 喺边度Ｗｅｔ [xi3 bian1 du4Ｗｅｔ] {hai2 bin1 dou6 wet1} /where are (you, we) hanging out? [colloquial]/
 ????f 㗎嘛 㗎嘛 [jia4 ma5] {gaa3 maa3} /(particule modale utilisée pour déclarer ou affirmer quelque chose)/
 ????f 㗎嘞 㗎嘞 [jia4 lei5] {gaa3 laak3} /(particule modale utilisée pour affirmer vigoureusement quelque chose)/
-????f 㗎嚊 㗎嚊 [jia4 pi4] {gaa3 be6} /(vieilli) (particule modale utilisé pour déclarer ou affirmer quelque chose)/
+????f 㗎嚊 㗎嚊 [jia4 pi4] {gaa3 be6} /(vieilli) (particule modale utilisée pour déclarer ou affirmer quelque chose)/
 㗎頭 㗎头 [jia4 tou2] {gaa4 tau4} /(inj.) (péj.) Jap; Japonais, Japonaise/
 𠸎埋 𠸎埋 [na2 mai2] {naa1 maai4} /et/avec/
 ????c 嗌乜春呀 嗌乜春呀 [ai4 mie1 chun1 ya5] {aai3 mat1 ceon1 aa3} /(fam.) c'est quoi ce vacarme? pouquoi tout le monde crie ici? qu'est-ce que vous discutez tellement fort?/
@@ -25900,4 +25900,26 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 麻Ｑ煩 麻Ｑ烦 [ma2 q5 fan2] {maa4 kiu1 faan4} /(adoucissement de 麻鳩煩|麻鸠烦 « très chiante, très énervante »)/
 麻撚煩 麻撚烦 [ma2 nian3 fan2] {maa4 lan2 faan4} /(vulg.) (d'une personne) très chiante; très énervante/(vulg.) (d'une tâche) pénible; embêtant/
 麻撚鳩煩 麻撚鸠烦 [ma2 nian3 jiu1 fan2] {maa4 lan2 gau1 faan4} /(vulg.) (d'une personne) très chiante; très énervante/(vulg.) (d'une tâche) pénible; embêtant/
-麻甩妹 麻甩妹 [ma2 shuai3 mei4] {maa4 lat1 mui1} /(impoli) appellation pour une jeune femme/
+麻甩妹 麻甩妹 [ma2 shuai3 mei4] {maa4 lat1 mui1} /(très impoli) appellation pour une jeune femme/
+????c 麻甩鬼 麻甩鬼 [ma2 shuai3 gui3] {maa4 lat1 gwai2} /(très impoli) appellation pour un homme/
+麻鳩煩 麻鸠烦 [ma2 jiu1 fan2] {maa4 gau1 faan4} /(vulg.) (d'une personne) très chiante; très énervante/(vulg.) (d'une tâche) pénible; embêtant/
+????m 黃紙兄弟 黄纸兄弟 [huang2 zhi3 xiong1 di5] {wong4 zi2 hing1 dai6} /(argot des triades?) sworn brothers [colloquial]/
+黃腳立 黄脚立 [huang2 jiao3 li4] {wong4 goek3 laap6} /(fam.) agent de circulation/
+黃賭毒 黄赌毒 [huang2 du3 du2] {wong4 dou2 duk6} /(expr.) prostitution, jeux d'argent, drogue/(lit.) jaune, pari, poison/
+黎克特制 黎克特制 [li2 ke4 te4 zhi4] {lai4 hak1 dak6 zai3} /échelle de Richter/
+????f 黐咩筋 黐咩筋 [chi1 mie1 jin1] {ci1 me1 gan1} /(fam.) qu'est-ce qui te prend?/(lit.) quel tendon te colle?/
+黐撚線 黐撚线 [chi1 nian3 xian4] {ci1 lan2 sin3} /(vulg.) complètement cinglé; complètement dingue; complètement fou/
+黐線仔 黐线仔 [chi1 xian4 zi3] {ci1 sin3 zai2} /(d'un jeune homme ou un enfant) cinglé; dingue; fou/
+黐肺 黐肺 [chi1 fei4] {ci1 fai3} /(acte médical) pleurodèse/(fig.) extrêmement; très (connotation négative)/
+????f 熱到黐肺 热到黐肺 [re4 dao4 chi1 fei4] {jit6 dou3 ci1 fai3} /(fig.) (d'un lieu) très chaud/(lit.) chaud à faire coller les poumouns/
+????f 痛到黐肺 痛到黐肺 [tong4 dao4 chi1 fei4] {tung3 dou3 ci1 fai3} /(fig.) faire très mal/(lit.) douloureux à faire coller les poumouns/
+黐鳩線 黐鸠线 [chi1 jiu1 xian4] {ci1 gau1 sin3} /(vulg.) complètement cinglé; complètement dingue; complètement fou/
+黐黐立立 黐黐立立 [chi1 chi1 li4 li4] {ci1 ci1 lap6 lap6} /(expr.) poisseux; collant; gluant (voir aussi 黐立立|黐立立)/
+????f 黑勢力 黑势力 [hei1 shi4li5] {hak1 sai3 lik6} /(fig.) forces d'une triade; forces criminelles/(lit.) forces noires/
+????f 黑布朦頭 黑布朦头 [hei1 bu4 meng2 tou2] {hak1 bou3 mung4 tau4} /(expr.) couvrir la tête avec du tissu noir (se dit généralement des criminels qui sont arrêtés par la police qui veulent garder l'identité du criminel secrète)/
+????f 黑白天鵝 黑白天鹅 [hei1 bai2 tian1 e2] {hak1 baak6 tin1 ngo4} /(expr. en suspens) harceler continuellement; tanner; ne cesser de rappeler quelqu'un de faire quelque chose/(lit.) cygne noir et blanc (deuxième partie 日哦夜哦|日哦夜哦 jat6 ngo4 je6 ngo4 « harceler continuellement », jeu de mots avec 天鵝|天鹅 tin1 ngo4 « cygne » et 日哦|日哦 jat6 ngo4 « harceler pendant la journée »)/
+黑白相 黑白相 [hei1 bai2 xiang1] {hak1 baak6 soeng2} /photo en noir et blanc/
+????m 黑過鑊屎 黑过镬屎 [hei1 guo4 huo4 shi3] {hak1 gwo3 wok6 si2} /(expr. idiom.) (d'un visage) très noir; très sale/(expr. idiom.) avoir l'air mécontent; avoir l'air fâché/(lit.) plus noir que l'incrustation au fond d'un wok/
+????f 黑過鬼 黑过鬼 [hei1 guo4 gui3] {hak1 gwo3 gwai2} /(fig.) avoir très mauvaise fortune/(lit.) plus noir qu'un fantôme/
+????c 黑道大哥大 黑道大哥大 [hei1 dao4 da4 ge1 da4] {hak1 dou6 daai6 go1 daai6} /chef d'une triade/
+????c 黑道大鱷 黑道大鳄 [hei1 dao4 da4 e4] {hak1 dou6 daai6 ngok6} /(fig.) personne très puissante dans le monde criminel/(lit.) grand crocodile du monde noir/
