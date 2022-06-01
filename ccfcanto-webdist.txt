@@ -8846,7 +8846,7 @@
 抄牌 抄牌 [chao1 pai2] {caau1 paai4} /imposer une amende pour une infraction au code de la route/
 抆 抆 [wen4] {man2} /essuyer/
 ????f 抆屎 抆屎 [wen3 shi3] {man2 si2} /nettoyer les fesses; s'essuyer le derrière/
-????f 抆水 抆水 [wen3 shui3] {man3 seoi2} /de peu; de justesse; par une marge très petite/ne pas suffire; ne pas être assez; être juste sous une limite; être légèrement sous-qualifié/
+????f 抆水 抆水 [wen3 shui3] {man3 seoi2} /de peu; de justesse; par une marge très petite (exprime l'idée que c'est une situation indésirable)/ne pas suffire; ne pas être assez; être juste sous une limite; être légèrement sous-qualifié/
 ????f 抇 抇 [hu2] {wat6} /creuser/
 把口唔收 把口唔收 [ba3 kou3 wu2 shou1] {baa2 hau3 m4 sau1} /(expr.) parler sans filtre/(expr.) impoli; grossier/
 ????c 把家 把家 [ba3 jia1] {baa2 gaa1} /gérer les affaires domestiques; gérer un ménage/
@@ -22704,7 +22704,7 @@
 肝腸寸斷 肝肠寸断 [gan1 chang2 cun4 duan4] {gon1 coeng2 cyun3 dyun6} /(expr.) éperdu; inconsolable/(lit.) avoir le foie et les intestins brisés en petits morceaux/
 ????f 搵快錢 揾快钱 [wen3 kuai4 qian2] {wan2 faai3 cin2} /faire de l'argent facile (insinue souvent une méthode criminelle)/
 ????f 櫈𩩍 櫈𩩍 [deng4 ping1] {dang6 peng1} /dossier (de chaise)/
-氹 氹 [shan2] {tam3} /tromper; duper; berner/entraîner; amener (quelqu'un à faire quelque chose)/
+氹 氹 [shan2] {tam3} /tromper; duper; berner/entraîner; amener (quelqu'un à faire quelque chose)/remonter le moral (de quelqu'un); rendre quelqu'un content/
 ????f 氹死人 氹死人 [shan2 si3 ren2] {tam3 sei2 jan4} /to speak in a charming manner; to display great relish by someone's actions or words; to be won over by something cute [colloquial]/
 氹鬼食豆腐 氹鬼食豆腐 [shan2 gui3 shi2 dou4 fu5] {tam3 gwai2 sik6 dau6 fu6} /(expr. idiom.) mensonge qui est facile à détecter/(lit.) amener un fantôme à manger du tofu par la ruse/
 靚ｋｅｎｔ 靓ｋｅｎｔ [jing4 ｋｅｎｔ] {leng1 keng1} /gars; jeune homme/(péj.) jeune homme bon à rien/
@@ -23440,8 +23440,8 @@
 ????f 嘥腳力 嘥脚力 [sai1 jiao3 li4] {saai1 goek3 lik6} /(fig.) perdre du temps ou d'énergie en marchant quelque part/(lit.) gaspiller l'énergie des pieds/
 ????f 嘥電 嘥电 [sai1 dian4] {saai1 din6} /gaspiller de l'électricité/qui gaspille de l'électricité; énergivore/
 噓噓聲 嘘嘘声 [xu1 xu1 sheng1] {hoe4 hoe2 seng1} /très rapidement; très vite/
-𠼮 𠼮 [] {ngai1} /supplier; implorer/
-𠼮 𠼮 [] {ai1} /supplier; implorer/
+𠼮 𠼮 [𠼮] {ngai1} /supplier; implorer/
+𠼮 𠼮 [𠼮] {ai1} /supplier; implorer/
 嘮囌 唠苏 [lao2 su1] {lou4 sou1} /se plaindre; chialer; râler/plainte/
 嘰嘰咭咭 叽叽咭咭 [ji1 ji1 ji1 ji1] {gi4 gi1 gat6 gat6} /(fam.) se plaindre; chialer; râler/
 嘰屹 叽屹 [ji1 yi4] {gi1 gat6} /(fam.) se plaindre; chialer; râler/
@@ -25940,4 +25940,64 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 龍頭元帥 龙头元帅 [long2 tou2 yuan2 shuai4] {lung4 tau4 jyun4 seoi3} /chef d'une triade/
 龍頭大佬 龙头大佬 [long2 tou2 da4 lao3] {lung4 tau4 daai6 lou2} /chef d'une triade/(lit.) patron de la tête du dragon/
 ????c 龍頭大哥 龙头大哥 [long2 tou2 da4 ge1] {lung4 tau4 daai6 go1} /chef d'une triade/(lit.) grand frère de la tête du dragon/
-????c 龍頭家族 龙头家族 [long2tou2 jia1 zu2] {lung4 tau4 gaa1 zuk6} /famille et amis du chef d'une triade/
+????c 龍頭家族 龙头家族 [long2 tou2 jia1 zu2] {lung4 tau4 gaa1 zuk6} /famille et amis du chef d'une triade/
+𠱓 𠱓 [gui3] {ngai1} /supplier/
+????m 𠹌 𠹌 [neng3] {lan2} /rare/(vulg.) bite; queue; pénis/
+????m 𠹌 𠹌 [neng3] {lang1} /rare/(vulg.) bite; queue; pénis/
+????m 𠹌 𠹌 [neng3] {lang3} /rare/(vulg.) bite; queue; pénis/
+????m 𠹌 𠹌 [neng3] {nang3} /rare/(vulg.) bite; queue; pénis/
+𠺘 𠺘 [lang4] {long2} /rincer/
+𢭃 𢭃 [duan3] {dau3} /toucher/
+????f 𢭃 𢭃 [duan3] {dau6} /recevoir/gagner de l'argent facile (ton réprobateur)/(en particulier) recevoir des enveloppes rouges (pendant les célébrations du Nouvel An chinois) (voir aussi 𢭃利是|𢭃利是)/(police) enquêter/(en particulier) (police) vérifier l'identité de quelqu'un (voir aussi 畀龜逗|畀龟逗)/soulever quelque chose; soutenir (un poids)/
+𢭃利是 𢭃利是 [duan3 li4 shi4] {dau6 lai6 si6} /recevoir des enveloppes rouges (pendant les célébrations du Nouvel An chinois)/
+𢭃利是 𢭃利是 [duan3 li4 shi4] {dau6 lei6 si6} /recevoir des enveloppes rouges (pendant les célébrations du Nouvel An chinois)/
+𢳆 𢳆 [ao4] {ngou4} /secouer/se balancer/
+𣎴 𣎴 [dun3] {dan2} /stump of a tree/block of wood / stone/brick of porcelain clay/ # adapted from cc-cedict
+????f 𤗈 𤗈 [xie4] {sip3} /insérer (dans une fente)/(plus généralement) faire rentrer quelque chose dans un petit espace/
+𤜯 𤜯 [cha1] {kap6} /mordre/
+𤜯 𤜯 [cha1] {gap6} /mordre/
+𦢊 𦢊 [bao2] {pok1} /ampoule/bulle/(fig.) cran; courage/
+𧨾 𧨾 [shan2] {tam3} /tromper; duper; berner (voir aussi 氹|氹)/entraîner; amener (quelqu'un à faire quelque chose)/remonter le moral (de quelqu'un); rendre quelqu'un content/
+𨀤 𨀤 [lei4] {leoi1} /(personner) enfoncer la tête (quelque part)/(personne) se lover; se pelotonner/(personne) s'écrouler; s'effondrer/
+𪙛 𪙛 [ni4] {nak1} /dents cariées/bégayer; parler en balbutiant; parler mal (une langue) (voir aussi 𪙛𠸉|𪙛𠸉)/
+𪙛 𪙛 [ni4] {lak1} /dents cariées/bégayer; parler en balbutiant; parler mal (une langue) (voir aussi 𪙛𠸉|𪙛𠸉)/
+黎明 黎明 [li2 ming2] {lai4 ming4} /Leon Lai, acteur et chanteur hongkongais/
+踭 踭 [zheng1] {zaang1} /coude/talon, partie postérieure du pied/talon, partie d'une chaussure/
+老布殊 老布殊 [lao3 bu4 shu1] {lou5 bou3 syu4} /George H. W. Bush/(lit.) vieux Bush/
+𤘅 𤘅 [ya2] {ngaa4} /bébé/jeune enfant/
+𢪎 𢪎 [xue1] {faak3} /fouetter (une personne)/(cuisine) fouetter; battre/
+𢪎蛋 𢪎蛋 [xue1 dan4] {faak3 daan2} /(cuisine) battre des œufs/
+拉布 拉布 [la1 bu4] {laai1 bou3} /(Hong Kong) faire de l'obstruction parlementaire; faire de l'obstructionnisme/
+華夫 华夫 [hua2 fu1] {waa4 fu1} /gaufre/
+小布殊 小布殊 [xiao3 bu4 shu1] {siu2 bou3 syu4} /George W. Bush/(lit.) petit Bush/
+乳酪 乳酪 [ru3 lao4] {jyu5 lok6} /fromage/yogourt; yaourt/
+𢆡 𢆡 [𢆡5] {nin1} /sein/mamelon; bout de sein/
+𢆡頭 𢆡头 [𢆡 tou2] {nin1 tau4} /mamelon; bout de sein/
+𠍁 𠍁 [𠍁5] {man3} /de peu; de justesse; par une marge très petite (exprime l'idée que c'est une situation indésirable)/ne pas suffire; ne pas être assez; être juste sous une limite; être légèrement sous-qualifié/
+𠍁水 𠍁水 [𠍁5 shui3] {man3 seoi2} /de peu; de justesse; par une marge très petite (exprime l'idée que c'est une situation indésirable)/ne pas suffire; ne pas être assez; être juste sous une limite; être légèrement sous-qualifié/
+????f 𠝹 𠝹 [𠝹5] {gaai3} /couper (du papier, de la peau) avec un couteau ou des ciseaux/(fig.) draguer une fille pour une aventure d'un soir/
+????f 𠝹女 𠝹女 [𠝹5 nu:3] {gaai3 neoi2} /(fig.) draguer une fille pour une aventure d'un soir/
+𠱁 𠱁 [𠱁5] {tam3} /tromper; duper; berner (voir aussi 氹|氹)/entraîner; amener (quelqu'un à faire quelque chose)/remonter le moral (de quelqu'un); rendre quelqu'un content/
+𠸉 𠸉 [𠸉5] {kak1} /bloquer; boucher/
+𪙛𠸉 𪙛𠸉 [ni4 𠸉5] {lak1 kak1} /bégayer; parler en balbutiant; parler mal (une langue)/
+𠸑 𠸑 [𠸑5] {soek3} /(de la nourriture) mou mais avec un peu d'élasticité (connotation positive)/
+𠺪 𠺪 [𠺪5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'une manière négligeante/(faire quelque chose) sans se précipiter; ne pas être pressé/(tâche) facile/(personne) paresseux; indolent/
+hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'une manière négligeante/(faire quelque chose) sans se précipiter; ne pas être pressé/(tâche) facile/(personne) paresseux; indolent/
+𠺪 𠺪 [𠺪5] {hi1} /perdre son temps; tuer le temps/(faire quelque chose) d'une manière négligeante/(faire quelque chose) sans se précipiter; ne pas être pressé/(tâche) facile/(personne) paresseux; indolent/
+????f 𡁻 𡁻 [𡁻5] {ziu6} /mastiquer; mâcher/(fig.) frapper (quelqu'un)/(fig.) avoir des relations sexuelles avec une femme/
+𡁻 𡁻 [𡁻5] {zeu6} /mastiquer; mâcher/(fig.) frapper (quelqu'un)/(fig.) avoir des relations sexuelles avec une femme/
+????f 𡃇 𡃇 [𡃇5] {bai6} /mince! zut! (voir aussi 弊|弊)/
+𡃴 𡃴 [𡃴5] {ceoi4} /odeur désagréable/
+𢞵 𢞵 [𢞵5] {fit1} /frapper avec un bâton; frapper avec un fouet; fouetter/
+𢯎 𢯎 [𢯎5] {ngaau1} /gratter (pour faire cesser une démangeaison)/
+𢯎 𢯎 [𢯎5] {aau1} /gratter (pour faire cesser une démangeaison)/
+𢺳 𪮳 [𢺳5] {maan1} /tirer/tenir fermement quelque chose; cramponner/
+𤷪 𤷪 [𤷪5] {mang2} /irrité; énervé/fâché; en colère/impatient/
+𥄫 𥄫 [𥄫5] {gap6} /avoir un œil sur; surveiller (quelque chose) attentivement/
+????m 𥈲 𥈲 [𥈲5] {kip1} /avoir un œil sur; surveiller (quelque chose) attentivement/contrôler/garder/
+𦧲 𦧲 [𦧲5] {loe1} /cracher/
+????f 𦧲 𦧲 [𦧲5] {loe2} /ennuyer; agacer; importuner (en collant quelqu'un)/
+𨂽 𨂽 [𨂽5] {dam6} /taper du pied/
+𨋢 䢂 [𨋢5] {lip1} /ascenseur/(orig.) de l'anglais « lift » (« ascenseur »)/
+𩜠 𩜠 [𩜠5] {mam1} /(enfantin) riz (voir aussi 食𩜠𩜠|食𩜠𩜠)/(par extension) nourriture pour animal domestique/
+𩺬 𩺬 [𩺬5] {zeoi1} /murène/
