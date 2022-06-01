@@ -21552,7 +21552,7 @@
 食檸檬 食柠檬 [shi2 ning2 meng2] {sik6 ning4 mung1} /(fig.) être rejeté (par une fille, par une femme)/(lit.) manger un citron/
 食欲不振 食欲不振 [shi2 yu4 bu4 zhen4] {sik6 juk6 bat1 zan3} /manque d'appétit/anorexie/
 ????f 食死貓 食死猫 [shi2 si3 mao1] {sik6 sei2 maau1} /(expr. idiom.) porter le chapeau; prendre la responsabilité pour les actes de quelqu'un d'autre/(lit.) manger un chat mort/
-食水 食水 [shi2 shui3] {sik6 seoi2} /eau potable/tirant d'eau du navire (voir aussi 吃水|吃水)/
+????f 食水 食水 [shi2 shui3] {sik6 seoi2} /eau potable/tirant d'eau du navire (voir aussi 吃水|吃水)/(fig.) grands profits; grands marges/
 食水深 食水深 [shi2 shui3 shen1] {sik6 seoi2 sam1} /(fig.) faire d'énormes bénéfices; gagner d'énormes profits/(lit.) manger d'eaux profondes/
 食波餅 食波饼 [shi2 bo1 bing3] {sik6 bo1 beng2} /(fig.) être frappé par un ballon (de soccer, de basket-ball, etc.)/(lit.) manger un biscuit à ballon/
 食滯 食滞 [shi2 zhi4] {sik6 zai6} /trop manger et avoir une indigestion/
@@ -22049,7 +22049,7 @@
 鬆弛 松弛 [song1 chi2] {sung1 ci4} /(peau) qui s'affaisse/
 ????f 鬆懈 松懈 [song1 xie4] {sung1 haai6} /laxiste/distrait; avoir baissé la garde/
 鬆毛狗 松毛狗 [song1 mao2 gou3] {sung1 mou4 gau2} /chow-chow, race de chien originaire de Mongolie/
-????c 鬆毛鬆翼 松毛松翼 [song1 mao2 song1 yi4] {sung1 mou4 sung1 jik6} /happy as a bird (slang)/
+鬆毛鬆翼 松毛松翼 [song1 mao2 song1 yi4] {sung1 mou4 sung1 jik6} /(expr. idiom.) qui se croit très bon en quelque chose mais qui est en réalité inexpérimenté (voir aussi 鬆毛鬆翼|松毛松翼)/
 鬆緊 松紧 [song1 jin3] {sung1 gan2} /tension; élasticité/
 鬆馳 松驰 [song1 chi2] {sung1 ci4} /(usage déconseillé) (peau) qui s'affaisse (voir aussi 鬆弛|松弛)/
 ????f 鬆骨 松骨 [song1 gu3] {sung1 gwat1} /technique de massage avec deux mains/(humoristique) frapper/
@@ -25581,6 +25581,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 邊撚度 边撚度 [bian1 nian3 du4] {bin1 lan2 dou6} /(vulg.) où/
 ????f 郁下 郁下 [yu4 xia4] {juk1 haa5} /(fig.) très facilement; toujours; fréquemment; (d'une action) facilement déclenchée/(lit.) au moindre mouvement/
 ????f 郁吓 郁吓 [yu4 xia4] {juk1 haa5} /(fig.) très facilement; toujours; fréquemment; (d'une action) facilement déclenchée/(lit.) au moindre mouvement/
+????f 鬱結 郁结 [yu4 jie2] {wat1 git3} /triste; se sentir insatisfait (émotionellement)/
 ????c 郊遊地區 郊游地区 [jiao1 you2 di4 qu1] {gaau1 jau4 dei6 keoi1} /countryside area; excursions, trekking locations [written and colloquial]/
 ????f 都好 都好 [dou1 hao3] {dou1 hou2} /passable; adéquat/tous bons; tous les choix sont bons/(點都好|点都好) ça m'est égal/(點都好|点都好) quoiqu'il arrive/(無論...都好|无论...都好) quoiqu'il arrive/
 ????f 都好啦 都好啦 [dou1 hao3 la5] {dou1 hou2 laa1} /oui, ça va; tous les choix me semblent bons/
@@ -25798,7 +25799,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 食人者 食人者 [shi2 ren2 zhe3] {sik6 jan4 ze2} /anthropophage; cannibal; mangeur d'hommes/
 ????f 食到盡 食到尽 [shi2 dao4 jin4] {sik6 dou6 zeon6} /(fig.) exploiter une situation au maximum/(lit.) manger le tout possible/
 ????f 食北姑 食北姑 [shi2 bei3 gu1] {sik6 bak1 gu1} /(fam.) (fig.) avoir des relations sexuelles avec une prostituée de la Chine continentale/(lit.) manger des champignons du nord/
-????m 食咗屎 食咗屎 [shi2 zuo5 shi3] {sik6 zo2 si2} /(fam.) (fig.) perdre la boule; devenir fou/(fam.) (fig.) avoir mauvaise haleine/(lit.) avoir mangé des crottes/
+食咗屎 食咗屎 [shi2 zuo5 shi3] {sik6 zo2 si2} /(fam.) (fig.) perdre la boule; devenir fou/(fam.) (fig.) avoir mauvaise haleine/(lit.) avoir mangé des crottes/
 食咗蒜頭 食咗蒜头 [shi2 zuo5 suan4 tou2] {sik6 zo2 syun3 tau4} /(fam.) (fig.) être vantard/(lit.) avoir mangé de l'ail/
 ????f 食唔晒 食唔晒 [shi2 wu2 shai4] {sik6 m4 saai3} /ne pas être capable de finir son assiette; ne pas être capable de tout manger/
 ????f 食唔曬 食唔晒 [shi2 wu2 shai4] {sik6 m4 saai3} /ne pas être capable de finir son assiette; ne pas être capable de tout manger/
@@ -25808,13 +25809,13 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 食屎大 食屎大 [shi2 shi3 da4] {sik6 si2 daai6} /(fig.) être stupide/(lit.) avoir grandi en mangeant des crottes/
 食屎狗 食屎狗 [shi2 shi3 gou3] {sik6 si2 gau2} /(fig.) (d'une personne) connard; cave; idiot; imbécile; abruti/(lit.) chien qui mange des crottes/
 食屎痾飯 食屎疴饭 [shi2 shi3 ke1 fan4] {sik6 si2 o1 faan6} /(expr. idiom.) (connotation négative) faire les choses d'une manière inhabituelle; faire les choses d'une manière illogique/(lit.) manger de la merde et déféquer du riz/
-????c 食屎食懵咗 食屎食懵咗 [shi2 shi3 shi2 meng3 zuo3] {sik6 si2 sik6 mung2 zo2} /(expr. idiom.) perdre la boule; devenir fou/(lit.) manger des crottes au point de devenir fou/
+食屎食懵咗 食屎食懵咗 [shi2 shi3 shi2 meng3 zuo3] {sik6 si2 sik6 mung2 zo2} /(expr. idiom.) perdre la boule; devenir fou/(lit.) manger des crottes au point de devenir fou/
 ????f 食撻 食挞 [shi2 ta4] {sik6 taat1} /(fam.) (fig.) faire un cunnilingus/(lit.) manger une tarte/
 食檬檬 食檬檬 [shi2 meng2 meng2] {sik6 mung1 mung1} /(enfantin) manger (voir aussi 食𩜠𩜠|食𩜠𩜠)/
-????c 食水幾深 食水几深 [shi2 shui3 ji3 shen1] {sit6 seoi2 gei2 sam1} /(expr. idiom.) prélever des prix très élevés/
+????f 食水幾深 食水几深 [shi2 shui3 ji3 shen1] {sit6 seoi2 gei2 sam1} /(expr. idiom.) prélever des prix très élevés avec de marges importantes/
 ????f 食洋腸 食洋肠 [shi2 yang2 chang2] {sik6 joeng4 coeng2} /(fam.) (fig.) (d'une femme d'origine chinoise) sortir avec un homme occidental (en particulier, un Blanc)/(lit.) manger de la saucisse d'outre-mer/
 ????f 食牛肉乾 食牛肉干 [shi2 niu2 rou4 gan1] {sik6 ngau4 juk6 gon1} /(fam.) (fig.) avoir une contravention de stationnement/(lit.) manger du bœuf séché/
-????m 食硬 食硬 [shi2 ying4] {sik6 ngaang6} /to be confident in defeating someone; a sure win [colloquial]/
+????f 食硬 食硬 [shi2 ying4] {sik6 ngaang6} /être certain de vaincre quelqu'un; être sûr de gagner/
 ????f 食草 食草 [shi2 cao3] {sik6 cou2} /(fam.) (fig.) fumer du pot; fumer d'herbe; fumer du cannabis/(lit.) manger de l'herbe/
 ????f 食蓮子羮 食莲子羮 [shi2 lian2 zi3 geng1] {sik6 lin4 zi2 gang1} /(expr. idiom.) être abattu; être tué par une balle/(lit.) manger la cuillère à la graine de lotus/
 ????m 食豬 食猪 [shi2 zhu1] {sik6 zyu1} /manger du porc/(fam.) (fig.) faire perdre sa virginité à une femme non mariée/
@@ -25829,7 +25830,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 飲到大大哋 饮到大大哋 [yin3 dao4 da4 da4 di4] {jam2 dou3 daai6 daai2 dei2} /(expr. idiom.) être un peu ivre; avoir la tête qui tourne/(lit.) boire jusqu'à se sentir un peu grand/
 ????f 飽肚食 饱肚食 [bao3 du4 shi2] {baau2 tou5 sik6} /(prendre des médicaments) le ventre plein (voir aussi 空肚食|空肚食)/
 ????f 空肚食 空肚食 [kong1 du4 shi2] {hung1 tou5 sik6} /(prendre des médicaments) à jeun (voir aussi 飽肚食|饱肚食)/
-????c 養草皮 养草皮 [yang3 cao3 pi2] {joeng5 cou2 pei4} /(fig.) perdre de l'argent en faisant des paris hippiques/(lit.) élever du gazon/
+養草皮 养草皮 [yang3 cao3 pi2] {joeng5 cou2 pei4} /(fig.) perdre de l'argent en faisant des paris hippiques/(lit.) élever du gazon/
 ????f 餓死老婆瘟臭屋 饿死老婆瘟臭屋 [e4 si3 lao3 po5 wen1 chou4 wu1] {ngo6 sei2 lou5 po4 wan1 cau3 uk1} /(expr. idiom.) (d'un homme marié) avoir du mal à joindre les deux bouts/(lit.) (ne pas gagner assez d'argent et) faire mourir sa femme d'inanition et remplir la maison de la peste/
 餓死老婆薰臭屋 饿死老婆熏臭屋 [e4 si3 lao3 po5 xun1 chou4 wu1] {ngo6 sei2 lou5 po4 fan1 cau3 uk1} /(expr. idiom.) (d'un homme marié) avoir du mal à joindre les deux bouts/(lit.) (ne pas gagner assez d'argent et) faire mourir sa femme d'inanition et remplir la maison de la peste/
 ????c 餵老虎 喂老虎 [wei4 lao3 hu3] {wai3 lou5 fu2} /(fig.) mettre des pièces dans le parcmètre (voir aussi 餵老虎機|喂老虎机)/(lit.) nourrir le tigre/
@@ -25847,7 +25848,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 馬天尼 马天尼 [ma3 tian1 ni2] {maa5 tin1 nei4} /(cocktail) martini/
 馬騮屎忽 马骝屎忽 [ma3 liu2 shi3 hu1] {maa5 lau1 si2 fat1} /(fig.) (péj.) (du visage, vêtements, maquillage) cramoisi; écarlate/(lit.) comme les fesses d'un singe/
 駁咀 驳咀 [bo2 ju3] {bok3 zeoi2} /répliquer; riposter; répondre insolemment/
-????m 駐場 驻场 [zhu4 chang3] {zyu3 coeng4} /resident; stationed [written and colloquial] (watch over a place as a triad?)/
+????f 駐場 驻场 [zhu4 chang3] {zyu3 coeng4} /garder (un lieu)/(d'un chanteur, etc.) faire un spectacle à un lieu pendant longtemps (ex. mois ou années)/
 ????f 騰上騰落 腾上腾落 [teng2 shang4 teng2 luo4] {tang4 soeng5 tang4 lok6} /(expr. idiom.) être très occupé (et monter et descendre plusieurs fois)/(lit.) se déplacer rapidement en haut et en bas/
 ????f 揗上揗落 揗上揗落 [xun2 shang4 xun2 luo4] {tan4 soeng5 tan4 lok6} /(expr. idiom.) être très occupé (et monter et descendre plusieurs fois)/(lit.) se déplacer rapidement en haut et en bas/
 ????f 騰嚟騰去 腾嚟腾去 [teng2 li2 teng2 qu4] {tang4 lei4 tang4 heoi3} /(expr. idiom.) être très occupé/(lit.) se déplacer rapidement par-ci par-là/
@@ -25857,23 +25858,23 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 驚你有牙呀 惊你有牙呀 [jing1 ni3 you3 ya2 ya5] {geng1 nei5 jau5 ngaa4 aa4} /(expr. idiom.) je n'ai pas peur de toi!/(lit.) j'ai peur que tu aies des dents/
 ????f 驚到打尿震 惊到打尿震 [jing1 dao4 da3 niao4 zhen4] {geng1 dou3 daa2 niu6 zan3} /(expr. idiom.) avoir très peur; être terrifié/(lit.) trembler (de peur) comme si on venait d'uriner/
 ????f 驚到標尿 惊到标尿 [jing1 dao4 biao1 niao4] {geng1 dou3 biu1 niu6} /(expr. idiom.) avoir très peur; être terrifié/(lit.) avoir tellement peur que l'on se mouille/
-????c 驚到發軟蹄 惊到发软蹄 [jing1 dao4 fa1 ruan3 ti2] {geng1 dou3 faat3 jyun5 tai4} /(expr. idiom.) avoir très peur; être terrifié/(lit.) avoir tellement peur que les pattes deviennent molles/
+????f 驚到發軟蹄 惊到发软蹄 [jing1 dao4 fa1 ruan3 ti2] {geng1 dou3 faat3 jyun5 tai4} /(expr. idiom.) avoir très peur; être terrifié/(lit.) avoir tellement peur que les pattes deviennent molles/
 驚到鼻哥窿都冇肉 惊到鼻哥窿都冇肉 [jing1 dao4 bi2 ge1 long2 dou1 mao3 rou4] {geng1 dou3 bei6 go1 lung1 dou1 mou5 juk6} /(expr. idiom.) avoir très peur; être terrifié/(lit.) avoir tellement peur que le nez n'a plus de chair/
-????c 驟忌 骤忌 [zhou4 ji4] {zau6 gei6} /tabou/
-????c 骨精友 骨精友 [gu3 jing1 you3] {gwat1 zing1 jau2} /someone who visits dodgy massage parlour on a frequent basis [colloquial]/
-????c 高攀唔起 高攀唔起 [gao1 pan1 wu2 qi3] {gou1 paan1 m4 hei2} /to be not good enough to be a match up to the standards of someone, especially in a situation where a man feels that he is not good enough for a woman [colloquial]/
+????f 驟忌 骤忌 [zhou4 ji4] {zaau6 gei6} /éviter quelque chose parce que c'est tabou (voir aussi 棹忌|棹忌)/(interjection) oh non! zut! mince!/
+????m 骨精友 骨精友 [gu3 jing1 you3] {gwat1 zing1 jau2} /someone who visits dodgy massage parlour on a frequent basis [colloquial] (sexual connotation)/
+????f 高攀唔起 高攀唔起 [gao1 pan1 wu2 qi3] {gou1 paan1 m4 hei2} /ne pas pouvoir rivaliser avec quelqu'un; ne pas être assez bon pour quelqu'un (se dit particulièrement d'une personne qui veut sortir avec quelqu'un d'autre)/
 高檔嘢 高档嘢 [gao1 dang4 ye3] {gou1 dong3 je5} /produits de luxe; produits de bonne qualité/
 ????f 高腳七 高脚七 [gao1 jiao3 qi1] {gou1 goek3 cat1} /(fig.) personne grande; personne de haute taille/
 髧兜 髧兜 [dan4 dou1] {dam3 dau1} /(fam.) idiot; imbécile; crétin (voir aussi 豬髧兜|猪髧兜)/
 ????c 髧落嚟 髧落嚟 [dan4 luo4 li2] {dam3 lok6 lai4} /faire tomber quelque chose (par accident)/
-????c 髧落地 髧落地 [dan4 luo4 di4] {dam3 lok6 dei6} /faire tomber quelque chose par terre (par accident)/
+????m 髧落地 髧落地 [dan4 luo4 di4] {dam3 lok6 dei6} /faire tomber quelque chose par terre (par accident)/to dangle on the floor (ex. curtains, coat hanging off a chair, etc.)/
 ????f 髮根 发根 [fa4 gen1] {faat3 gan1} /racines des cheveux; racine d'un poil/
-????c 鬆尾鬆翼 松尾松翼 [song1 wei3 song1 yi4] {sung1 mei5 sung1 jik6} /(expr. idiom.) qui se croit très bon en quelque chose mais qui est en réalité inexpérimenté/
+鬆尾鬆翼 松尾松翼 [song1 wei3 song1 yi4] {sung1 mei5 sung1 jik6} /(expr. idiom.) qui se croit très bon en quelque chose mais qui est en réalité inexpérimenté (voir aussi 鬆毛鬆翼|松毛松翼)/
 鬚後水 须后水 [xu1 hou4 shui3] {sou1 hau6 seoi2} /après-rasage; after-shave/
 鬚鉋 须鉋 [xu1 bao4] {sou1 paau2} /rasoir/
-????m 鬥拋 斗抛 [dou4 pao1] {dau3 paau1} /to show off one's moves before a fight; to argue using foul language [colloquial]/
+????m 鬥拋 斗抛 [dou4 pao1] {dau3 paau1} /to show off one's moves before a fight; to argue using foul language [colloquial]/to raise the stakes, to feign having good cards and increase the stakes (even if you don't)/
 ????f 鬧臭 闹臭 [nao4 chou4] {naau6 cau3} /gronder (quelqu'un) en public (afin de lui faire honte)/
-????c 鬧通街 闹通街 [nao4 tong1 jie1] {naau6 tung1 gaai1} /to quarrel so loud that everyone can hear; something that has been made known to everyone [colloquial]/
+????m 鬧通街 闹通街 [nao4 tong1 jie1] {naau6 tung1 gaai1} /to quarrel so loud that everyone can hear; something that has been made known to everyone [colloquial]/(person) who is very argumentative, who has argued with many people on the street/
 ????f 鬼叫...咩 鬼叫...咩 [gui3 jiao4… mie1] {gwai2 giu3… me1} /(expr. idiom.) (c'est) tout à cause de (quelqu'un); (quelqu'un et quelque chose) sont la raison pour laquelle tout s'est passé comme ça/(lit.) personne ne (lui) a dit de.../
 鬼咁過癮 鬼咁过瘾 [gui3 gan1 guo4 yin3] {gwai2 gam3 gwo3 jan5} /(fam.) (activité) très amusant/(fam.) (activité) très agréable/(fam.) (plus généralement) (activité, film, jeu, chanson, etc.) très bon/
 鬼咁長氣 鬼咁长气 [gui3 gan1 zhang3 qi4] {gwai2 gam3 coeng4 hei3} /(fam.) (de quelque chose que quelqu'un dit) interminable; trop long/
@@ -25889,13 +25890,13 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 鳯竇 鳯窦 [feng4 dou4] {fung6 dau3} /bordel avec une seule femme (voir aussi 鳳竇|凤窦)/
 ????f 鴉烏婆 鸦乌婆 [ya1 wu1 po2] {aa1 wu1 po2} /(fig.) (d'une femme) vieille sorcière; vieille bique; vieille mégère; femme laide et acariâtre/personnage (vieille femme menaçante, comme Baba Yaga) qu'on menace d'appeler pour enlever les vilains enfants/
 ????f 鴛鴦房 鸳鸯房 [yuan1 yang5 fang2] {jyun1 joeng1 fong2} /suite nuptiale/
-????m 鴛鴦腳 鸳鸯脚 [yuan1 yang5 jiao3] {jyun1 joeng1 goek3} /a type of flying kicks style in martial arts [colloquial] (one foot bigger than the other?)/
+????v 鴛鴦腳 鸳鸯脚 [yuan1 yang5 jiao3] {jyun1 joeng1 goek3} /avoir un pied plus grand que l'autre/a type of flying kicks style in martial arts [colloquial]/
 鵝頸橋 鹅颈桥 [e2 jing3 qiao2] {ngo4 geng2 kiu4} /(surnom du Canal Road Flyover à Hong Kong)/(surnom de la région autour du Canal Road Flyover à Hong Kong, près de Causeway Bay)/
 ????c 𪁐姐 𪁐姐 [li2 jie3] {fung6 ze2} /prostituée (voir aussi 鳳姐|凤姐)/
 ????m 鹹水大鱷 咸水大鳄 [xian2 shui3 da4 e4] {haam4 seoi2 daai6 ngok6} /a foreign swindler [colloquial] (specifically speculator in financial market?)/(lit.) crococile d'eau de mer/
 ????m 鹹淡場 咸淡场 [xian2 dan4 chang3] {haam4 taam5 coeng4} /a business that is slightly dodgy [colloquial]/
 ????f 鹹濕仔 咸湿仔 [xian2 shi1 zi3] {haam4 sap1 zai2} /(fig.) jeune homme libertin; jeune homme qui est un obsédé sexuel/(lit.) jeune homme salé mouillé/
-????c 鹹濕故仔 咸湿故仔 [xian2 shi1 gu4 zi3] {haam4 sap1 gu2 zai2} /(fig.) histoires érotiques/(lit.) histoire salée mouillée/
+????v 鹹濕故仔 咸湿故仔 [xian2 shi1 gu4 zi3] {haam4 sap1 gu2 zai2} /(fig.) histoires érotiques (mais pas trop explicite)/(lit.) histoire salée mouillée/
 鹹濕相 咸湿相 [xian2 shi1 xiang1] {haam4 sap1 soeng2} /(fig.) photos pornographiques/(lit.) photo salée mouillée/
 鹹濕笑話 咸湿笑话 [xian2 shi1 xiao4 hua5] {haam4 sap1 siu3 waa2} /(fig.) blagues indécentes/(lit.) blague salé mouillé/
 鹹碟 咸碟 [xian2 die2] {haam4 dip2} /(fig.) DVD pornographique/(lit.) disque salé/
@@ -25904,8 +25905,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 麻Ｑ煩 麻Ｑ烦 [ma2 q5 fan2] {maa4 kiu1 faan4} /(adoucissement de 麻鳩煩|麻鸠烦 « très chiant, très énervant »)/
 麻撚煩 麻撚烦 [ma2 nian3 fan2] {maa4 lan2 faan4} /(vulg.) (d'une personne) très chiant; très énervant/(vulg.) (d'une tâche) pénible; embêtant/
 麻撚鳩煩 麻撚鸠烦 [ma2 nian3 jiu1 fan2] {maa4 lan2 gau1 faan4} /(vulg.) (d'une personne) très chiant; très énervant/(vulg.) (d'une tâche) pénible; embêtant/
-麻甩妹 麻甩妹 [ma2 shuai3 mei4] {maa4 lat1 mui1} /(très impoli) appellation pour une jeune femme/
-????c 麻甩鬼 麻甩鬼 [ma2 shuai3 gui3] {maa4 lat1 gwai2} /(très impoli) appellation pour un homme/
+麻甩妹 麻甩妹 [ma2 shuai3 mei4] {maa4 lat1 mui1} /(très impoli) appellation pour une jeune femme/(péj.) obsédée sexuelle; femme libertine/
+麻甩鬼 麻甩鬼 [ma2 shuai3 gui3] {maa4 lat1 gwai2} /(très impoli) appellation pour un homme/(péj.) obsédé sexuel; homme libertin/
 麻鳩煩 麻鸠烦 [ma2 jiu1 fan2] {maa4 gau1 faan4} /(vulg.) (d'une personne) très chiant; très énervant/(vulg.) (d'une tâche) pénible; embêtant/
 ????m 黃紙兄弟 黄纸兄弟 [huang2 zhi3 xiong1 di5] {wong4 zi2 hing1 dai6} /(argot des triades?) sworn brothers [colloquial]/
 黃腳立 黄脚立 [huang2 jiao3 li4] {wong4 goek3 laap6} /(fam.) agent de circulation/
@@ -25923,14 +25924,16 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 黑布朦頭 黑布朦头 [hei1 bu4 meng2 tou2] {hak1 bou3 mung4 tau4} /(expr.) couvrir la tête avec du tissu noir (se dit généralement des criminels qui sont arrêtés par la police qui veulent garder l'identité du criminel secrète)/
 ????f 黑白天鵝 黑白天鹅 [hei1 bai2 tian1 e2] {hak1 baak6 tin1 ngo4} /(expr. en suspens) harceler continuellement; tanner; ne cesser de rappeler quelqu'un de faire quelque chose/(lit.) cygne noir et blanc (deuxième partie 日哦夜哦|日哦夜哦 jat6 ngo4 je6 ngo4 « harceler continuellement », jeu de mots avec 黑白|黑白 « noir et blanc » 天鵝|天鹅 tin1 ngo4 « cygne » et 哦|哦 jat6 ngo4 « harceler »)/
 黑白相 黑白相 [hei1 bai2 xiang1] {hak1 baak6 soeng2} /photo en noir et blanc/
-????m 黑過鑊屎 黑过镬屎 [hei1 guo4 huo4 shi3] {hak1 gwo3 wok6 si2} /(expr. idiom.) (d'un visage) très noir; très sale/(expr. idiom.) avoir l'air mécontent; avoir l'air fâché/(lit.) plus noir que l'incrustation au fond d'un wok/
+????f 黑過鑊屎 黑过镬屎 [hei1 guo4 huo4 shi3] {hak1 gwo3 wok6 si2} /(expr. idiom.) (d'un visage) très noir; très sale/(expr. idiom.) avoir l'air mécontent; avoir l'air fâché/(lit.) plus noir que l'incrustation au fond d'un wok/
+????f 黑過鑊撈 黑过镬捞 [hei1 guo4 huo4 lao1] {hak1 gwo3 wok6 lou6} /(expr. idiom.) (d'un visage) très noir; très sale/(expr. idiom.) avoir l'air mécontent; avoir l'air fâché/(lit.) plus noir que l'incrustation sur la face extérieure d'un wok/
 ????f 黑過鬼 黑过鬼 [hei1 guo4 gui3] {hak1 gwo3 gwai2} /(fig.) avoir très mauvaise fortune/(lit.) plus noir qu'un fantôme/
-????c 黑道大哥大 黑道大哥大 [hei1 dao4 da4 ge1 da4] {hak1 dou6 daai6 go1 daai6} /chef d'une triade/
-????c 黑道大鱷 黑道大鳄 [hei1 dao4 da4 e4] {hak1 dou6 daai6 ngok6} /(fig.) personne très puissante dans le monde criminel/(lit.) grand crocodile du monde noir/
-????m 黑醋汁 黑醋汁 [hei1 cu4 zhi1] {hak1 cou3 zap1} /vinaigre balsamique/
-????m 默默無言 默默无言 [mo4 mo4 wu2 yan2] {mak6 mak6 mou4 jin4} /(expr.) sans rien dire/
+黑道大哥大 黑道大哥大 [hei1 dao4 da4 ge1 da4] {hak1 dou6 daai6 go1 daai6} /chef d'une triade/
+黑道大鱷 黑道大鳄 [hei1 dao4 da4 e4] {hak1 dou6 daai6 ngok6} /(fig.) personne très puissante dans le monde criminel/(lit.) grand crocodile du monde noir/
+????v 黑醋汁 黑醋汁 [hei1 cu4 zhi1] {hak1 cou3 zap1} /vinaigre noir/vinaigre balsamique/sauce Worcestershire/
+喼汁 喼汁 [jie2 zhi1] {gip1 zap1} /sauce Worcestershire/
+????v 默默無言 默默无言 [mo4 mo4 wu2 yan2] {mak6 mak6 mou4 jin4} /(expr.) ne rien dire (connotation d'un peu de tristesse)/
 點樣做 点样做 [dian3 yang4 zuo4] {dim2 joeng2 zou6} /comment faire quelque chose/comment gérer (une situation)/
-????m 點止咁簡單 点止咁简单 [dian3 zhi3 gan1 jian3 dan1] {dim2 zi2 gam3 gaan2 daan1} /(expr.) c'est pas si simple/
+點止咁簡單 点止咁简单 [dian3 zhi3 gan1 jian3 dan1] {dim2 zi2 gam3 gaan2 daan1} /(expr.) c'est pas si simple/
 ????f 點相 点相 [dian3 xiang1] {dim2 soeng3} /(fig.) être identifié par un membre d'une triade (pour la vengeance)/(lit.) montrer le visage du doigt/
 ????f 點錯相 点错相 [dian3 cuo4 xiang1] {dim2 co3 soeng3} /(fig.) (d'un membre d'une triade) identifier la mauvaise personne/(lit.) montrer le mauvais visage du doigt/
 ????f 豉椒炒魷 豉椒炒鱿 [shi4 jiao1 chao3 you2] {si6 ziu1 caau2 jau4} /(expr. idiom.) être congédié; être licencié; être viré/(lit.) calmar frit à la sauce au poivre et aux haricots noirs/
@@ -25939,8 +25942,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 齧齒動物 啮齿动物 [nie4 chi3 dong4 wu4] {jit6 ci2 dung6 mat6} /rongeur (voir aussi 嚙齒動物|啮齿动物)/
 ????c 龍頭元帥 龙头元帅 [long2 tou2 yuan2 shuai4] {lung4 tau4 jyun4 seoi3} /chef d'une triade/
 龍頭大佬 龙头大佬 [long2 tou2 da4 lao3] {lung4 tau4 daai6 lou2} /chef d'une triade/(lit.) patron de la tête du dragon/
-????c 龍頭大哥 龙头大哥 [long2 tou2 da4 ge1] {lung4 tau4 daai6 go1} /chef d'une triade/(lit.) grand frère de la tête du dragon/
-????c 龍頭家族 龙头家族 [long2 tou2 jia1 zu2] {lung4 tau4 gaa1 zuk6} /famille et amis du chef d'une triade/
+龍頭大哥 龙头大哥 [long2 tou2 da4 ge1] {lung4 tau4 daai6 go1} /chef d'une triade/(lit.) grand frère de la tête du dragon/
+龍頭家族 龙头家族 [long2 tou2 jia1 zu2] {lung4 tau4 gaa1 zuk6} /famille et amis du chef d'une triade/
 𠱓 𠱓 [gui3] {ngai1} /supplier/
 ????m 𠹌 𠹌 [neng3] {lan2} /rare/(vulg.) bite; queue; pénis/
 ????m 𠹌 𠹌 [neng3] {lang1} /rare/(vulg.) bite; queue; pénis/
