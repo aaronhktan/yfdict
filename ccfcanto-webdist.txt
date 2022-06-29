@@ -2445,7 +2445,7 @@
 冇研究 冇研究 [mao3 yan2 jiu1] {mou5 jin4 gau3} /ne pas avoir examiné de plus près/ça m'est égal/
 冇穿冇爛 冇穿冇烂 [mao3 chuan1 mao3 lan4] {mou5 cyun1 mou5 laan6} /(fig.) tout va bien; ça va bien/(lit.) sans trous, pas brisé/
 冇符 冇符 [mao3 fu2] {mou5 fu4} /ne pas avoir de solution; ne plus savoir quoi faire/
-冇米粥 冇米粥 [mao3 mi3 zhou1] {mou5 mai5 zuk1} /(expr. idiom.) plan qui va échouer; plan qui mènera à rien/(lit.) congee sans riz/
+冇米粥 冇米粥 [mao3 mi3 zhou1] {mou5 mai5 zuk1} /(expr. idiom.) plan qui va échouer; action qui ne mènera à rien/(lit.) congee sans riz/
 冇精神 冇精神 [mao3 jing1 shen5] {mou5 zing1 san4} /se sentir fatigué/
 冇紋冇路 冇纹冇路 [mao3 wen2 mao3 lu4] {mou5 man4 mou5 lou6} /(fig.) insensé; illogique/(lit.) ne pas avoir de ligne ni de chemin/
 冇紋路 冇纹路 [mao3 wen2 lu5] {mou5 man4 lou6} /déraisonnable; illogique/
@@ -13953,6 +13953,7 @@
 生雞 生鸡 [sheng1 ji1] {sang1 gai1} /coq/
 生雞精 生鸡精 [sheng1 ji1 jing1] {sang1 gai1 zing1} /(fig.) dragueur; obsédé sexuel/(lit.) semence de coq/
 生飛螆 生飞螆 [sheng1 fei1 ci4] {saang1 fei1 zi1} /avoir des ulcères de la bouche/
+生痱螆 生痱螆 [sheng1 fei4 ci4] {saang1 fei1 zi1} /avoir des ulcères de la bouche/
 生骨大頭菜 生骨大头菜 [sheng1 gu3 da4 tou2 cai4] {saang1 gwat1 daai6 tau4 coi3} /(expr. en suspens) enfant gâté/(lit.) faire pousser une plante toute dure (= une mauvaise plante ou une plante pas savoureuse)/
 生鬼 生鬼 [sheng1 gui3] {saang1 gwai2} /(fig.) drôle; marrant; hilarant/(fig.) intéressant; captivant; attirant/(lit.) donner naissance aux esprits/
 生魚 生鱼 [sheng1 yu2] {saang1 jyu2} /(poissons) Channidae; têtes-de-serpent/
@@ -21476,6 +21477,7 @@
 ????f 飛水 飞水 [fei1 shui3] {fei1 seoi2} /faire cuire à l'eau bouillante pendant un instant; blanchir; ébouillanter/
 飛沙走奶 飞沙走奶 [fei1 sha1 zou3 nai3] {fei1 saa1 zau2 naai5} /(café) noir; sans lait ni sucre/(thé) sans lait ni sucre/(lit.) sucre qui vole et lait qui marche/
 飛滋 飞滋 [fei1 zi1] {fei1 zi1} /aphte; ulcère buccale/
+痱滋 痱滋 [fei4 zi1] {fei1 zi1} /aphte; ulcère buccale/
 飛發 飞发 [fei1 fa1] {fei1 faat3} /couper les cheveux/
 ????f 飛的 飞的 [fei1 de5] {fei1 dik1} /to speed or race off in a taxi/
 飛砂走石 飞砂走石 [fei1 sha1 zou3 shi2] {fei1 saa1 zau2 sek6} /(fig.) vent violent/(fig.) situation chaotique/(lit.) sable qui vole et roches qui marchent/
