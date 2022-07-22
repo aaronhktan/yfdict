@@ -985,7 +985,7 @@
 事實 事实 [shi4 shi2] {si6 sat6} /réalité; vérité/
 事幹 事干 [shi4 gan4] {si6 gon3} /une question (de quelque chose); affaire/utilisé pour demander « qu'est-ce qu'il y a? » ou « pourquoi? »/
 ????f 事後孔明 事后孔明 [shi4 hou4 kong3 ming2] {si6 hau6 hung2 ming4} /(advice given after the event has already occurred; hindsight advice)/
-????f 事急馬行田 事急马行田 [shi4 ji2 ma3 xing2 tian2] {si6 gap1 maa5 haang4 tin4} /(personne) être capable de s'adapter à une situation urgente; être souple; être réactif/(orig.) dans un jeu d'échecs chinois, le cheval se déplace en forme de 日 - se déplacer en 田 est illégal/(lit.) dans une situation d'urgence, le cheval se déplace en 田/
+????f 事急馬行田 事急马行田 [shi4 ji2 ma3 xing2 tian2] {si6 gap1 maa5 haang4 tin4} /(personne) être capable de s'adapter à une situation d'urgence; être souple; être réactif/(orig.) dans un jeu d'échecs chinois, le cheval se déplace en forme de 日 - se déplacer en 田 est illégal/(lit.) dans une situation d'urgence, le cheval se déplace en 田/
 事發 事发 [shi4 fa1] {si6 faat3} /incident qui s'est produit; incident qui a eu lieu/
 事頭 事头 [shi4 tou2] {si6 tau2} /patron; chef/
 事頭婆 事头婆 [shi4 tou2 po2] {si6 tau4 po4} /patronne ou cheffe (pour femmes seulement)/(humoristique) terme qui désigne la reine du Royaume-Uni, actuellement Élisabeth II/
@@ -2468,8 +2468,8 @@
 冇記性 冇记性 [mao3 ji4 xing5] {mou5 gei3 sing3} /avoir une mauvaise mémoire/
 冇話 冇话 [mao3 hua4] {mou5 waa6} /jamais/
 冇譜 冇谱 [mao3 pu3] {mou5 pou2} /absurde; ridicule; incroyable; bizarre/
-冇走盞 冇走盏 [mao3 zou3 zhan3] {mou5 zau2 zaan2} /dans le sac; facile; garanti/inflexible/
-冇走趲 冇走趱 [mao3 zou3 zan3] {mou5 zau2 zaan2} /dans le sac; facile; garanti/inflexible (voir aussi 冇走盞|冇走盏)/
+????m 冇走盞 冇走盏 [mao3 zou3 zhan3] {mou5 zau2 zaan2} /dans le sac; facile; garanti/inflexible/n'avoir aucune marge de manœuvre; devoir être un succès/
+????m 冇走趲 冇走趱 [mao3 zou3 zan3] {mou5 zau2 zaan2} /dans le sac; facile; garanti/inflexible (voir aussi 冇走盞|冇走盏)/n'avoir aucune marge de manœuvre; devoir être un succès/
 冇走雞 冇走鸡 [mao3 zou3 ji1] {mou5 zau2 gai1} /(expr. idiom.) dans le sac; facile; garanti/(lit.) le poulet ne peut pas se fuir/
 冇辦法 冇办法 [mao3 ban4 fa3] {mou5 baan6 faat3} /il n'y à rien à faire; on ne peut rien y faire; ne pas avoir de solution/
 冇醒起 冇醒起 [mao3 xing3 qi3] {mou5 sing2 hei2} /oublier/
@@ -3878,7 +3878,7 @@
 ????f 呃飲呃食 呃饮呃食 [e4 yin3 e4 shi2] {aak1 jam2 aak1 sik6} /(to get a free meal by tricking somebody or just taking advantage of a situation, e.g. pretending to be a member of another team to take the food at their celebration, or taking food from a celebration for a cause that you don't care about)/(to take something without somebody else's permission, e.g. taking a small item from a shop)/
 呃鬼 呃鬼 [e4 gui3] {aak1 gwai2} /(expr. idiom.) mentir; tromper; duper/(lit.) duper un fantôme/
 ????f 呃鬼食豆腐 呃鬼食豆腐 [e4 gui3 shi2 dou4 fu5] {aak1 gwai2 sik6 dau6 fu6} /(expr. idiom.) mensonge qui est facile à détecter/(lit.) amener un fantôme à manger du tofu par la ruse/
-????f 呆板 呆板 [dai1 ban3] {ngoi4 baan2} /(personne) rigide; inflexible/
+????m 呆板 呆板 [dai1 ban3] {ngoi4 baan2} /(personne) rigide; inflexible/
 呆鈍 呆钝 [dai1 dun4] {ngoi4 deon6} /stupide; bête; mentalement lent/
 呈現 呈现 [cheng2 xian4] {cing4 jin6} /apparaître; se montrer/
 告 告 [gao4] {gou3} /poursuivre en justice; attaquer en justice/annoncer/dénoncer/
@@ -9042,7 +9042,7 @@
 拗氣 拗气 [niu4 qi4] {aau3 hei3} /se disputer; se quereller/
 拗腰 拗腰 [ao3 yao1] {aau2 jiu1} /se pencher en arrière/
 拗頸 拗颈 [ao4 jing3] {aau3 geng2} /se disputer; se quereller; être en désaccord/têtu; entêté; obstiné; ergoteur; chicanier/
-拘 拘 [ju1] {keoi1} /arrêter; interpeller; prendre quelqu'un prisonnier/inflexible; rigide; qui refuse de changer d'idées/limiter; contraindre/
+拘 拘 [ju1] {keoi1} /arrêter; interpeller; prendre quelqu'un prisonnier/inflexible; intraitable; qui refuse de changer d'idées/limiter; contraindre/
 ????f 拚死無大害 拚死无大害 [pan4 si3 wu2 da4 hai4] {pun2 sei2 mou4 daai6 hoi6} /(expr. idiom.) tout risquer parce que l'on a rien à perdre; tout miser; aller à fond/
 拚爛 拚烂 [pan4 lan4] {pun2 laan2} /s'en foutre; se laisser aller; agir de manière insouciante; s'en battre les couilles de (quelque chose)/
 招人仇口 招人仇口 [zhao1 ren2 chou2 kou3] {ziu1 jan4 sau4 hau2} /se faire des ennemis/(lit.) déranger les autres et provoquer la haine/
@@ -11182,7 +11182,7 @@
 梗係 梗系 [geng3 xi4] {gang2 hai6} /bien sûr; sans doute; sans question/
 梗房 梗房 [geng3 fang2] {gang2 fong2} /chambre subdivisée en plusieurs parties par des murs en brique ou béton qui sont ensuite louées séparément/
 梗有 梗有 [geng3 you3] {gang2 jau5} /bien sûr qu'il y en a/
-梗板 梗板 [geng3 ban3] {gang2 baan2} /têtu; obstiné/rigide; stricte; inflexible/ 
+????c 梗板 梗板 [geng3 ban3] {gang2 baan2} /têtu; obstiné/rigide; stricte; sévère; inflexible/ 
 梗頸 梗颈 [geng3 jing3] {gang2 geng2} /tenace; insistant; têtu/rebelle/
 梘 枧 [jian3] {gaan2} /savon/soude; soude caustique/
 梘水 枧水 [jian3 shui3] {gaan2 seoi2} /solution de carbonate de potassium, ingrédient de nouilles instantanées hongkongais/ 
@@ -11608,7 +11608,7 @@
 死仔 死仔 [si3 zi3] {sei2 zai2} /(vulg.) mauvais fils/(lit.) fils mort/ 
 死仔乾 死仔干 [si3 zi3 gan1] {sei2 zai2 gon1} /(vulg.) mauvais garçon; vilain enfant/
 死仔包 死仔包 [si3 zi3 bao1] {sei2 zai2 baau1} /(vulg.) mauvais garçon; vilain enfant/
-死估估 死估估 [si3 gu1 gu1] {sei2 gu4 gu4} /(personne) rigide; inflexible/sans énergie; atone; mou/
+????f 死估估 死估估 [si3 gu1 gu1] {sei2 gu4 gu4} /(personne) rigide; inflexible; incapable de s'adapter à une nouvelle situation; qui refuse de changer sa façon de faire les choses/sans énergie; atone; mou/
 死佬 死佬 [si3 lao3] {sei2 lou2} /(inj.) bon-à-rien; fainéant/(affectueux) (expression utilisée par une femme pour faire référence à son époux)/(lit.) homme mort/
 死做爛做 死做烂做 [si3 zuo4 lan4 zuo4] {sei2 zou6 laan6 zou6} /(expr.) travailler sans cesse; se tuer au travail/
 死光 死光 [si3 guang1] {sei2 gwong1} /rayon de la mort/
@@ -11618,7 +11618,7 @@
 死剩把口 死剩把口 [si3 sheng4 ba3 kou3] {sei2 zing6 baa2 hau2} /(expr. idiom.) (personne) ergoteuse; qui cherche la chicane; qui refuse d'admettre que l'on a tort/(expr. idiom.) qui parle trop/(lit.) (une personne) morte dont la bouche continue à parler/
 ????c 死口咬實 死口咬实 [si3 kou3 yao3 shi2] {sei2 hau2 ngaau5 sat6} /s'accrocher aux vieilles opinions/
 死咁 死咁 [si3 gan1] {sei2 gam3} /(fam.) (fig.) obstinément; assidûment/(fig.) très; extrêmement/(lit.) à mort/
-死咕咕 死咕咕 [si3 gu1 gu5] {sei2 gu4 gu4} /(personne) inflexible; rigide/sans énergie; atone; mou/
+死咕咕 死咕咕 [si3 gu1 gu5] {sei2 gu4 gu4} /(personne) rigide; inflexible; incapable de s'adapter à une nouvelle situation; qui refuse de changer sa façon de faire les choses/sans énergie; atone; mou/
 死咗條心 死咗条心 [si3 zuo5 tiao2 xin1] {sei2 zo2 tiu4 sam1} /(expr. idiom.) abandonner; se rendre; perdre espoir/(lit.) coeur mort/
 ????c 死唔去 死唔去 [si3 n2 qu4] {sei2 m4 heoi3} /qui ne meurt pas/
 ????c 死唔斷氣 死唔断气 [si3 n2 duan4 qi4] {sei2 m4 tyun5 hei3} /(expr. idiom.) atone; mou; sans énergie/(expr. idiom.) par intermittence/(expr. idiom.) (personne, entreprise) à bout de souffle/(vulg.) (expression utilisée pour souhaiter que quelqu'un meure ayant du mal à respirer)/
@@ -11626,7 +11626,7 @@
 死啦 死啦 [si3 la5] {sei2 laa1} /zut! mince! flûte!/(vulg.) merde! putain! esti!/
 死女包 死女包 [si3 nu:3 bao1] {sei2 neoi2 baau1} /(vulg.) mauvaise fille; vilain enfant/
 ????f 死妹釘 死妹钉 [si3 mei4 ding1] {sei2 mui1 deng1} /(vulg.) chipie; garce; bitch (généralement utilisée pour parler d'une jeune femme ou petite fille)/
-死實 死实 [si3 shi2] {sei2 sat6} /irréparable/inflexible; qui ne peut pas être changé/
+????m 死實 死实 [si3 shi2] {sei2 sat6} /irréparable/inflexible; qui ne peut pas être changé/
 死屍 死尸 [si3 shi1] {sei2 si1} /cadavre/
 ????f 死得其所 死得其所 [si3 de2 qi2 suo3] {sei2 dak1 kei4 so2} /(expr. idiom.) mourir d'une mort digne/
 死得眼閉 死得眼闭 [si3 de2 yan3 bi4] {sei2 dak1 ngaan5 bai3} /(expr. idiom.) mourir heureux; mourir en paix/(lit.) mourir avec les yeux fermés/
@@ -14011,7 +14011,7 @@
 由上而下 由上而下 [you2 shang4 er2 xia4] {jau4 soeng6 ji4 haa6} /de haut en bas/
 由來已久 由来已久 [you2 lai2 yi3 jiu3] {jau4 loi4 ji5 gau2} /de longue date; qui remonte loin/
 由始至終 由始至终 [you2 shi3 zhi4 zhong1] {jau4 ci2 zi3 zung1} /du début à la fin/
-由得 由得 [you2 de5] {jau4 dak1} /laisser; permettre/
+由得 由得 [you2 de5] {jau5 dak1} /laisser; permettre/
 由淺入深 由浅入深 [you2 qian3 ru4 shen1] {jau4 cin2 jap6 sam1} /de facile à difficile/
 由細到大 由细到大 [you2 xi4 dao4 da4] {jau4 sai3 dou3 daai6} /de petit à grand/
 由頭到尾 由头到尾 [you2 tou2 dao4 wei3] {jau4 tau4 dou3 mei5} /du début à la fin/
@@ -14984,7 +14984,7 @@
 砵蘭街 砵兰街 [bo1 lan2 jie1] {but1 laan4 gaai1} /Portland Street, rue de Hong Kong/
 砵酒 砵酒 [bo1 jiu3] {but3 zau2} /(vin) porto/
 硝化 硝化 [xiao1 hua4] {siu1 faa3} /nitration/
-硬 硬 [ying4] {ngaang6} /dur; solide; ferme/inflexible; têtu/inévitable; inéluctable; certain/
+硬 硬 [ying4] {ngaang6} /dur; solide; ferme/inflexible; têtu; obstiné/inévitable; inéluctable; certain/
 硬件 硬件 [ying4 jian4] {ngaang6 gin2} /matériel informatique; hardware/infrastructure/
 ????f 硬係 硬系 [ying4 xi4] {ngaang2 hai6} /faire quelque chose en dépit de l'opposition de quelqu'un d'autre; s'obstiner à faire quelque chose ou la faire d'une manière déconseillée/n'avoir aucune autre choix que de faire quelque chose d'une certaine manière/
 硬倔倔 硬倔倔 [ying4 jue4 jue4] {ngaang6 gwat6 gwat6} /très dur; très ferme; très solide/
@@ -14995,7 +14995,7 @@
 硬掙 硬挣 [ying4 zheng5] {ngaang6 zeng6} /robuste; solide; à toute épreuve/
 硬晒舦 硬晒舦 [ying4 shai4 tai4] {ngaang6 saai3 taai5} /(fig.) arriver à une impasse; n'avoir aucune façon de résoudre le problème/(lit.) ne pas pouvoir tourner le volant/
 硬晒軚 硬晒軚 [ying4 shai4 dai4] {ngaang6 saai3 taai5} /(fig.) arriver à une impasse; n'avoir aucune façon de résoudre le problème/(lit.) ne pas pouvoir tourner le volant/
-硬板 硬板 [ying4 ban3] {ngaang6 baan2} /inflexible; intraitable; rigide/
+硬板 硬板 [ying4 ban3] {ngaang6 baan2} /inflexible; intraitable/
 硬橋硬馬 硬桥硬马 [ying4 qiao2 ying4 ma3] {ngaang6 kiu4 ngaang6 maa5} /(expr. idiom.) avoir une véritable compétence/(expr. idiom.) être déterminé; être résolu/(lit.) pont dur, cheval dur/
 硬淨 硬淨 [ying4 cheng2] {ngaang6 zeng6} /robuste; solide; à toute épreuve/
 硬紙板 硬纸板 [ying4 zhi3 ban3] {ngaang6 zi2 baan2} /carton/
@@ -15003,7 +15003,7 @@
 ????f 硬身 硬身 [ying4 shen1] {ngaang6 san1} /(people only?) rigid; strong and robust; stiff/
 硬頸 硬颈 [ying4 jing3] {ngaang6 geng2} /ostiné; têtu; entêté/
 硬食 硬食 [ying4 shi2] {ngaang6 sik6} /(fig.) être forcé d'accepter quelque chose; devoir serrer les dents/
-硬骨頭 硬骨头 [ying4 gu3 tou5] {ngaang6 gwat1 tau4} /personne inflexible/
+????m 硬骨頭 硬骨头 [ying4 gu3 tou5] {ngaang6 gwat1 tau4} /personne inflexible; personne résolue; personne déterminée/
 碌 碌 [lu4] {luk1} /médiocre; banal/(classificateur pour les objets cylindriques, ex. du bambou ou un bâton)/rouler/(informatique) faire rouler; faire glisser (sur un écran)/année (en prison)/(de l'anglais « look », regarder, voir) regarder/(vulg.) pénis/
 碌咭 碌咭 [lu4 ji1] {luk1 gat1} /glisser la carte (de crédit)/
 碌地 碌地 [lu4 di4] {luk1 dei6} /rouler par terre/
@@ -23374,7 +23374,7 @@
 ????f 唔該嗮 唔该嗮 [wu2 gai1 sai4] {m4 goi1 saai3} /merci beaucoup (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un service plutôt qu'un cadeau ou objet)/
 唔該嗮你 唔该嗮你 [wu2 gai1 sai4 ni3] {m4 goi1 saai3 nei5} /merci beaucoup (pour ce que vous avez fait) (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un service plutôt qu'un cadeau ou objet)/
 唔該晒你 唔该晒你 [wu2 gai1 shai4 ni3] {m4 goi1 saai3 nei5} /merci beaucoup (pour ce que vous avez fait) (note : le cantonais utilise deux mots différents pour exprimer le concept de « merci », et celui-ci est utilisé pour exprimer sa gratitude pour un service plutôt qu'un cadeau ou objet)/
-????f 唔識轉膊 唔识转膊 [n2 shi2 zhuan3 bo2] {m4 sik1 zyun3 bok3} /(expr. idiom.) qui ne peut pas s'adapter/(lit.) ne pas pouvoir changer d'épaule/
+????f 唔識轉膊 唔识转膊 [n2 shi2 zhuan3 bo2] {m4 sik1 zyun3 bok3} /(expr. idiom.) qui a de la difficulté à s'adapter aux circonstances; qui refuse de changer sa façon de faire les choses/(lit.) ne pas pouvoir changer d'épaule/
 唔順 唔顺 [n2 shun4] {m4 seon6} /être mécontent; être contrarié/
 ????c 唧魚蛋 唧鱼蛋 [ji1 yu2 dan4] {zik1 jyu4 daan2} /to squeeze a woman's breast; to make cotton buds in prison service [colloquial]/
 唯你是問 唯你是问 [wei2 ni3 shi4 wen4] {wai4 nei5 si6 man6} /(expr.) ce sera de ta faute! tu seras responsable des conséquences!/
@@ -24379,7 +24379,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 有啲驚 有啲惊 [you3 di1 jing1] {jau5 di1 geng1} /avoir un peu peur de/appréhender; craindre/
 ????f 有嘢就講，有屁就放 有嘢就讲，有屁就放 [you3 ye3 jiu4 jiang3, you3 pi4 jiu4 fang4] {jau5 je5 zau6 gong2, jau5 pei3 zau6 fong3} /(expr . idiom.) accouche! dis ce que tu veux dire, on n'a pas toute la journée!/(lit.) si tu as quelque chose à dire, dis-le, si tu as un pet, pète-le/
 ????f 有境 有境 [you3 jing4] {jau5 ging2} /(fig.) avoir de bonnes perspectives; avoir un grand potentiel/
-????m 有得找 有得找 [you3 de2 zhao3] {jau5 dak1 zaau2} /capable de faire de la monnaie/
+????m 有得找 有得找 [you3 de2 zhao3] {jau5 dak1 zaau2} /y avoir de la monnaie à rendre/
 有得揮 有得挥 [you3 de2 hui1] {jau5 dak1 fai1} /(expr.) être capable de rivaliser; être de force égale (voir aussi 冇得揮|冇得挥)/(orig.) de l'anglais « fight » (« se battre »), donc « être capable de se battre avec eux »/
 有得震冇得瞓 有得震冇得瞓 [you3 de2 zhen4 mao3 de5 xun4] {jau5 dak1 zan3 mou5 dak1 fan3} /(expr. idiom.) avoir très peur; être très effrayé/(lit.) pouvoir trembler mais ne pas pouvoir dormir/
 有排受 有排受 [you3 pai2 shou4] {jau5 paai4 sau6} /souffrir pendant longtemps/
