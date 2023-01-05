@@ -2978,7 +2978,7 @@
 ????f 加害於 加害于 [jia1 hai4 wu1] {gaa1 hoi6 jyu1} /monter un coup contre; piéger/
 加幣 加币 [jia1 bi4] {gaa1 bai6} /dollar canadienne/
 ????f 加底 加底 [jia1 di3] {gaa1 dai2} /(fig.) ajouter un aliment de base à un repas (to add the 'base food', like white rice, to a meal, to make it look bigger)/(lit.) ajouter de base/
-加把口 加把口 [jia1 ba3 kou3] {gaa1 baa2 hau2} /interrompre; intervenir; prendre la parole/(lit.) ajouter sa bouche/
+加把口 加把口 [jia1 ba3 kou3] {gaa1 baa2 hau2} /interrompre; couper la parole à quelqu'un/(lit.) ajouter sa bouche/
 加拿大人 加拿大人 [jia1 na2 da4 ren2] {gaa1 naa4 daai6 jan4} /Canadien, Canadienne/
 加拿大元 加拿大元 [jia1 na2 da4 yuan2] {gaa1 naa4 daai6 jyun4} /dollar canadien/
 加拿大最高法院 加拿大最高法院 [jia1 na2 da4 zui4 gao1 fa3 yuan4] {gaa1 naa4 daai6 zeoi3 gou1 faat3 jyun2} /Cour suprême du Canada/
@@ -8950,8 +8950,8 @@
 ????f 抽頭 抽头 [chou1 tou2] {cau1 tau4} /(fig.) prendre un petit montant de chaque gain de jeu; prendre le rake (au poker)/(véhicule) dépasser; doubler/
 ????c 抾 抾 [qie4] {gip3, keoi1} /capturer/expulser, repousser, chasser, faire partir/
 拃 拃 [zha3] {zaa6} /une poignée (de quelque chose)/un groupe (de personnes)/arrêter; obstruer; bloquer/
-拃亂戈柄 拃乱戈柄 [zha2 luan4 ge1 bing3] {zaa6 lyun6 gwo1 beng3} /(expr.) interrompre quelqu'un pendant qu'il parle (voir aussi 拃亂歌柄|拃乱歌柄)/
-拃亂歌柄 拃乱歌柄 [zha2 luan4 ge1 bing3] {zaa6 lyun6 go1 beng3} /(expr.) interrompre quelqu'un pendant qu'il parle/
+拃亂戈柄 拃乱戈柄 [zha2 luan4 ge1 bing3] {zaa6 lyun6 gwo1 beng3} /(expr.) interrompre quelqu'un pendant qu'il parle; couper la parole à quelqu'un (voir aussi 拃亂歌柄|拃乱歌柄)/
+拃亂歌柄 拃乱歌柄 [zha2 luan4 ge1 bing3] {zaa6 lyun6 go1 beng3} /(expr.) interrompre quelqu'un pendant qu'il parle; couper la parole à quelqu'un/
 拆 拆 [chai1] {caak3} /ouvrir; déchirer/démonter/démolir/résoudre un problème/
 拆家 拆家 [chai1 jia1] {caak3 gaa1} /distributeur/trafiquant de drogue/
 ????c 拆招 拆招 [chai1 zhao1] {caak3 ziu1} /contrer; parer; riposter/
@@ -9487,7 +9487,8 @@
 搭句說話 搭句说话 [da1 ju4 shuo1 hua4] {daap3 geoi3 syut3 waa6} /passer un message; transmettre un message/
 ????c 搭單 搭单 [da1 dan1] {daap3 daan1} /ajouter quelque chose à sa commande/
 (faire quelque chose) en passant/
-????f 搭嗲 搭嗲 [da1 dia3] {daap3 de2} /s'immiscer dans une conversation; interrompre une conversation/
+????f 搭爹 搭爹 [da1 dia3] {daap3 de2} /interrompre une conversation/
+????f 搭嗲 搭嗲 [da1 dia3] {daap3 de2} /interrompre une conversation/
 搭夠 搭够 [da1 gou4] {daap3 gau3} /compenser; contrebalancer/
 搭客 搭客 [da1 ke4] {daap3 haak3} /passager; voyageur/
 搭枱 搭枱 [da1 si4] {daap3 toi2} /partager une table (à restaurant, café) avec un inconnu/
