@@ -561,7 +561,7 @@
 下賤 下贱 [xia4 jian4] {haa6 zin6} /ignoble; méprisable; vil/femme infidèle/femme aux moeurs légères/
 下述 下述 [xia4 shu4] {haa6 seot6} /quelque chose expliqué ci-dessous/
 下逐客令 下逐客令 [xia4 zhu2 ke4 ling4] {haa6 zuk6 haak3 ling6} /mettre (quelqu'un) à la porte/
-下部 下部 [xia4 bu4] {haa6 bou6} /en bas; sous/
+下部 下部 [xia4 bu4] {haa6 bou6} /partie inférieure/
 下里巴人 下里巴人 [xia4 li3 ba1 ren2] {haa6 lei5 baa1 jan4} /art ou littérature qui attire le plus petit dénominateur commun/
 下間 下间 [xia4 jian1] {haa6 gaan3} /le ... suivant (pour désigner les restaurants, maisons, magasins, écoles, etc.)/(arch.) la cuisine/
 下降 下降 [xia4 jiang4] {haa6 gong3} /descendre/qui descend/
@@ -1413,7 +1413,7 @@
 低B 低B [di1 B] {dai1 bi1} /(inj.) stupide/
 低B仔 低B仔 [di1 B zi3] {dai1 bi1 zai2} /(inj.) un idiot; un connard/
 低人一等 低人一等 [di1 ren2 yi1 deng3] {dai1 jan4 jat1 dang2} /(fig.) inférieur aux autres/(lit.) en dessous des autres personnes par un rang/
-低位 低位 [di1 wei4] {dai1 wai6} /bas prix (d'une action); prix inférieure à ce que l'on attendrait/(d'un plan d'eau) faible niveau d'eau (voir aussi 低水位|低水位)/
+低位 低位 [di1 wei4] {dai1 wai6} /bas prix (d'une action); prix plus bas que prévu/(d'un plan d'eau) faible niveau d'eau (voir aussi 低水位|低水位)/
 ????f 低威 低威 [di1 wei1] {dai1 wai1} /se sentir inférieur/
 ????f 低年級 低年级 [di1 nian2 ji2] {dai1 nin4 kap1} /(école) classe inférieure (ex. première année, cours préparatoire)/
 低微 低微 [di1 wei1] {dai1 mei4} /humble; (d'origine) modeste; d'une classe sociale inférieure/
@@ -5161,7 +5161,7 @@
 執媽 执妈 [zhi2 ma1] {zap1 maa1} /sage-femme/
 ????c 執字粒 执字粒 [zhi2 zi4 li4] {zap1 zi6 lap1} /réviser, modifier, identifier des fautes à corriger dans un texte/composer; mettre en page/(lit.) repérer des mots/
 ????f 執屍 执尸 [zhi2 shi1] {zap1 si1} /enlever un cadavre (to clear away, to put away a dead body)/
-????f 執平嘢 执平嘢 [zhi2 ping2 ye3] {zap1 peng4 je5} /acheter des produits bon marché; acheter de produis à bas prix/
+????f 執平嘢 执平嘢 [zhi2 ping2 ye3] {zap1 peng4 je5} /acheter des produits bon marché; acheter de produits à un prix avantageux/
 執床 执床 [zhi2 chuang2] {zap1 cong4} /faire le lit/
 執房 执房 [zhi2 fang2] {zap1 fong2} /ranger la chambre; nettoyer la pièce/
 執手 执手 [zhi2 shou3] {zap1 sau2} /tenir la main/
@@ -7405,9 +7405,9 @@
 干諾道 干诺道 [gan1 nuo4 dao4] {gon1 nok6 dou6} /Connaught Road, rue située à Hong Kong/
 干諾道中 干诺道中 [gan1 nuo4 dao4 zhong1] {gon1 nok6 dou6 zung1} /Connaught Road Central, rue située à Hong Kong/
 干邑酒 干邑酒 [gan1 yi4 jiu3] {gon1 jap1 zau2} /cognac/
-平 平 [ping2] {peng4} /bon marché; pas cher; à bas prix/
+平 平 [ping2] {peng4} /bon marché; pas cher; à bas prix; à un prix avantageux/
 平 平 [ping2] {ping4} /plat; plan/
-平到笑 平到笑 [ping2 dao4 xiao4] {peng4 dou3 siu3} /(expr. idiom.) très bon marché; à très bas prix/(lit.) tellement bon marché qu'on rit/
+平到笑 平到笑 [ping2 dao4 xiao4] {peng4 dou3 siu3} /(expr. idiom.) très bon marché; à très bas prix; à un prix très avantageux/(lit.) tellement bon marché qu'on rit/
 平喉 平喉 [ping2 hou2] {ping4 hau4} /un des trois styles de chant de l'opéra cantonais, habituellement voix mâle/
 ????f 平地一聲雷 平地一声雷 [ping2 di4 yi1 sheng1 lei2] {ping4 dei6 jat1 sing1 leoi4} /(expr. idiom.) popularité soudaine; ascension fulgurante/(expr. idiom.) ascension soudaine de statut social/(expr. idiom.) grand changement heureux et soudain/(lit.) tonnerre soudaine sur du terrain plat/
 平均速度 平均速度 [ping2 jun1 su4 du4] {ping4 gwan1 cuk1 dou6} /vitesse moyenne/
@@ -7424,7 +7424,7 @@
 ????f 平板玻璃 平板玻璃 [ping2 ban3 bo1 li5] {ping4 baan2 bo1 lei1} /verre en feuille; plaque de verre/
 平權 平权 [ping2 quan2] {ping4 kyun4} /égalité des droits/
 平治 平治 [ping2 zhi4] {ping4 zi6} /Mercedes-Benz, constructeur allemand d'automobiles/
-平沽 平沽 [ping2 gu1] {peng4 gu1} /vendre à bas prix/
+平沽 平沽 [ping2 gu1] {peng4 gu1} /vendre à bas prix; vendre à un prix avantageux/
 ????c 平添 平添 [ping2 tian1] {ping4 tim1} /ajouter naturellement/
 ????f 平穩 平稳 [ping2 wen3] {ping4 wan2} /stable/en douceur; sans heurt/
 ????c 平等互惠 平等互惠 [ping2 deng3 hu4 hui4] {ping4 dang2 wu6 wai6} /symbiose; association mutuellement profitable/
@@ -8895,10 +8895,10 @@
 抱怨 抱怨 [bao4 yuan4] {pou5 jyun3} /se plaindre de; chialer; grommeler/
 抱歉 抱歉 [bao4 qian4] {pou5 hip3} /s'excuser; présenter ses excuses/pardonnez-moi/
 ????f 抱腳 抱脚 [bao4 jiao3] {pou5 goek3} /chaussures parfaitement à sa taille/
-抵 抵 [di3] {dai2} /pas cher; bon marché; à bas prix/supporter/mériter/
+抵 抵 [di3] {dai2} /pas cher; bon marché; à bas prix; à prix avantageux/supporter/mériter/
 ????f 抵冷 抵冷 [di3 leng3] {dai2 laang5} /supporter le froid (en particulier si l'on a pas porté assez de vêtements)/
 ????f 抵冷貪瀟湘 抵冷贪潇湘 [di3 leng3 tan1 Xiao1 xiang1] {dai2 laang5 taam1 siu1 soeng1} /supporter le froid (et porter moins de vêtements) pour faire joli/
-????f 抵到爛 抵到烂 [di3 dao4 lan4] {dai2 dou3 laan6} /très bon marché; à très bas prix/
+????f 抵到爛 抵到烂 [di3 dao4 lan4] {dai2 dou3 laan6} /très bon marché; à très bas prix; à un prix très avantageux/
 抵力 抵力 [di3 li4] {dai2 lik6} /exigeant; fatigant; ardu/
 ????f 抵命 抵命 [di3 ming4] {dai2 meng6} /payer de sa vie (utilisé surtout pour décrire une situation criminelle, comme une vengeance meurtrière, un deal de drogue mal tourné, une dette non payée, etc.)/
 抵埗 抵埗 [di3 bu4] {dai2 bou6} /arriver; parvenir à sa destination/
@@ -13206,7 +13206,7 @@
 熱腥 热腥 [re4 xing1] {jit6 seng1} /pétrichor; l'odeur dans l'air suite à une pluie estivale/
 熱膨脹 热膨胀 [re4 peng2 zhang4] {jit6 paang4 zoeng3} /dilatation thermique/
 熱衷於 热衷於 [re4 zhong1 yu2] {jit6 cung1 jyu1} /passioné de; enthousiaste de (quelque chose)/
-熱賣價 热卖价 [re4 mai4 jia4] {jit6 maai6 gaa3} /bas prix; prix intéressant/(lit.) prix à vendre chaud/
+熱賣價 热卖价 [re4 mai4 jia4] {jit6 maai6 gaa3} /bas prix; prix avantageux; prix intéressant/(lit.) prix à vendre chaud/
 熱身運動 热身运动 [re4 shen1 yun4 dong4] {jit6 san1 wan6 dung6} /exercice d'échauffement/
 熱辣辣 热辣辣 [re4 la1 la1] {jit6 laat6 laat6} /brûlant; chaud; bouillant/
 ????f 熱量 热量 [re4 liang4] {jit6 loeng6} /valeur calorifique; quantité de calories dans un aliment/
@@ -14580,7 +14580,7 @@
 相同 相同 [xiang1 tong2] {soeng1 tung4} /similaire; semblable/même; identique/
 相商 相商 [xiang1 shang1] {soeng1 soeng1} /consulter; discuter/
 ????c 相好 相好 [xiang1 hao3] {soeng1 hou2} /amant; maîtresse/avoir une liaison/to like each other?/
-相宜 相宜 [xiang1 yi2] {soeng1 ji4} /à bas prix; pas cher/acceptable; approprié; convenable/
+相宜 相宜 [xiang1 yi2] {soeng1 ji4} /à bas prix; à prix avantageux; pas cher/acceptable; approprié; convenable/
 相對 相对 [xiang1 dui4] {soeng1 deoi3} /relatif; en comparaison/relativement; assez; plutôt/opposé/face à face/
 相對性 相对性 [xiang1 dui4 xing4] {soeng1 deoi3 sing3} /(physique) principe de relativité/(philosophie) relativisme/
 相對誤差 相对误差 [xiang1 dui4 wu4 cha1] {soeng1 deoi3 ng6 caa1} /(analyse numérique) erreur relative/
@@ -18783,7 +18783,7 @@
 賣唱 卖唱 [mai4 chang4] {maai6 coeng3} /chanter pour gagner sa vie/
 賣埠 卖埠 [mai4 bu4] {maai6 fau6} /vendre à l'étranger/
 賣報紙 卖报纸 [mai4 bao4 zhi3] {maai6 bou3 zi2} /vendre des journaux/(vieilli) publier dans un journal/
-賣大包 卖大包 [mai4 da4 bao1] {maai6 daai6 baau1} /(fig.) vendre en solde; vendre à très bas prix/(lit.) vendre de grands pains/
+賣大包 卖大包 [mai4 da4 bao1] {maai6 daai6 baau1} /(fig.) vendre en solde; vendre à très bas prix; liquider/(lit.) vendre de grands pains/
 賣好 卖好 [mai4 hao3] {maai6 hou2} /(fig.) s'attirer les bonnes grâces de quelqu'un; se gagner la faveur de quelqu'un/(lit.) vendre bien/
 賣官鬻爵 卖官鬻爵 [mai4 guan1 yu4 jue2] {maai6 gun1 juk6 zoek3} /(expr. idiom.) gouvernement corrompu/(lit.) vendre des postes et des titres/
 賣得 卖得 [mai4 de2] {maai6 dak1} /se vendre comme des petits pains; se vendre facilement/
@@ -18965,7 +18965,7 @@
 超任 超任 [chao1 ren4] {ciu1 jam6} /Super Nintendo Entertainment System; SNES; Super Famicom; Super NES; SNES/
 超小型 超小型 [chao1 xiao3 xing2] {ciu1 siu2 jing4} /subminiature/
 超然 超然 [chao1 ran2] {ciu1 jin4} /distant; réservé; froid/
-超筍價 超笋价 [chao1 sun3 jia4] {ciu1 seon2 gaa3} /très bas prix; aubaine/
+超筍價 超笋价 [chao1 sun3 jia4] {ciu1 seon2 gaa3} /très bas prix; prix très avantageux; aubaine/
 超級電腦 超级电脑 [chao1 ji2 dian4 nao3] {ciu1 kap1 din6 nou5} /superordinateur/
 超能膠 超能膠 [chao1 neng2 hao2] {ciu1 nang4 gaau1} /superglue; cyanoacrylate; adhésif très puissant/
 超額完成 超额完成 [chao1 e2 wan2 cheng2] {ciu1 ngaak6 jyun4 sing4} /dépasser les attentes/
@@ -19073,7 +19073,7 @@
 ????f 路遙知馬力 路遥知马力 [lu4 yao2 zhi1 ma3 li4] {lou6 jiu4 zi1 maa5 lik6} /(expr. en suspens) on ne connaît les compétences de quelqu'un qu'après un bout de temps/(lit.) la distance teste la force du cheval (deuxième partie 日久見人心|日久见人心 le passage du temps révèle le cœur)/
 跳入 跳入 [tiao4 ru4] {tiu3 jap6} /sauter dans/
 跳槽 跳槽 [tiao4 cao2] {tiu3 cou4} /changer d'emploi; changer de travail; accepter un poste dans une autre compagnie dans la même industrie/
-跳樓價 跳楼价 [tiao4 lou2 jia4] {tiu3 lau4 gaa3} /(fig.) très bas prix/(lit.) prix qui sautent d'un immeuble/
+跳樓價 跳楼价 [tiao4 lou2 jia4] {tiu3 lau4 gaa3} /(fig.) très bas prix; prix très avantageux/(lit.) prix qui sautent d'un immeuble/
 ????f 跳樓貨 跳楼货 [tiao4 lou2 huo4] {tiu3 lau2 fo3} /distress merchandise (marchandises vendues à très bas prix lors d'une vente de faillite)/
 跳欄 跳栏 [tiao4 lan2] {tiu3 laan4} /(sport) course de haies/
 跳灰 跳灰 [tiao4 hui1] {tiu3 fui1} /Jumping Ash, film hongkongais/
@@ -20566,7 +20566,7 @@
 啊茂啊寿 阿茂阿壽 [a5 mao4 a shou4] {aa3 mau6 aa3 sau6} /(expr.) n'importe qui; Pierre, Paul, ou Jacques/(lit.) imbécile, idiot/
 阿保阿勝 阿保阿胜 [a5 bao3 a5 sheng4] {aa3 bou2 aa3 sing3} /(expr.) n'importe qui; Pierre, Paul, ou Jacques/(lit.) (noms de personnages sans importance dans les opéras cantonais)/
 ????f 阿茂整餅 啊茂整饼 [a5 mao4 zheng3 bing3] {aa3 mau6 zing2 beng2} /(expr. en suspens) faire quelque chose d'inutile; faire une bêtise/(lit.) personne stupide fait des gâteaux (deuxième partie 冇嗰樣整嗰樣|冇嗰样整嗰样 créant des nouvelles formes sans moule)/
-????f 阿蘭賣豬 阿兰卖猪 [a1 lan2 mai4 zhu1] {aa3 laan4 maai6 zyu1} /(expr. idiom.) être astreint de vendre quelque chose à très bas prix après avoir raté la chance de le vendre à un prix plus élevé/(lit.) Monsieur Lan vend des cochons/
+????f 阿蘭賣豬 阿兰卖猪 [a1 lan2 mai4 zhu1] {aa3 laan4 maai6 zyu1} /(expr. idiom.) être obligé de vendre quelque chose à très bas prix après avoir raté la chance de le vendre à un prix plus élevé/(lit.) Monsieur Lan vend des cochons/
 阿蛇 啊蛇 [a5 she2] {aa3 se4} /appellation donnée à un policier/appellation donnée à un enseignant de sexe masculin/(orig.) de l'anglais « sir » (« monsieur »)/
 阿諾舒華辛力加 阿诺舒华辛力加 [a1 nuo4 shu1 hua2 xin1 li4 jia1] {aa3 nok6 syu1 waa4 san1 lik6 gaa1} /Arnold Schwarzenegger, acteur et homme politique austro-américain/
 阿謬 啊谬 [a5 miu4] {aa3 mau6} /personne stupide/
