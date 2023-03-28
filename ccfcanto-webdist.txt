@@ -11420,7 +11420,7 @@
 橫亘 横亘 [heng2 gen4] {waang4 gang2} /(litt.) enjamber/
 ????f 橫切面 横切面 [heng2 qie1 mian4] {waang4 cit3 min6} /coupe transversale/
 橫咗 橫咗 [guang1 zuo5] {waang1 zo2} /rater; ne pas réussir/
-????f 橫𠶧 横𠶧 [heng2 dian1] {waang4 dim6} /puisque; comme; de toute façon; étant donné que/
+????f 橫𠶧 横𠶧 [heng2 dian1] {waang4 dim6} /puisque... autant (faire quelue chose); comme; de toute façon; étant donné que/
 橫巷 横巷 [heng2 xiang4] {waang4 hong2} /petite ruelle/
 ????f 橫徵暴斂 横征暴敛 [heng2 zheng1 bao4 lian3] {waang4 zing1 bou6 lim5} /(expr. idiom.) imposer des taxes exorbitantes/
 橫手 橫手 [guang1 shou3] {waang4 sau2} /(fig.) sales tours; choses illégales (voir 出橫手|出橫手 et 使橫手|使橫手)/
@@ -13129,7 +13129,7 @@
 ????f 煲仔飯 煲仔饭 [bao1 zi3 fan4] {bou1 zai2 faan6} /genre de repas asiatique cuit dans une cocotte, avec du riz, des légumes et de la viande (en anglais, « claypot rice »)/
 ????f 煲冇米粥 煲冇米粥 [bao1 mao3 mi3 zhou1] {bou1 mou5 mai5 zuk1} /(expr. idiom.) parler de choses ou de plans qui n'aboutissent à rien/(lit.) faire du congee sans riz/
 煲冬瓜 煲冬瓜 [bao1 dong1 gua1] {bou1 dung1 gwaa1} /(très fam.) mandarin, « putonghua », langue officielle de la Chine/(orig.) de la prononciation en mandarin de 普通話|普通话, « putonghua » (« langue standard »)/(lit.) faire bouillir une courge cireuse/
-????f 煲劇 煲剧 [bao1 ju4] {bou1 kek6} /(fig.) binge-watcher un roman-savon ou soap opera; regarder en un temps court plusieurs épisodes d'un soap opera/(lit.) faire bouillir un soap opera/
+????f 煲劇 煲剧 [bao1 ju4] {bou1 kek6} /(fig.) binge-watcher un roman-savon ou soap opera; regarder un roman-savon en rafale; regarder en un temps court plusieurs épisodes d'un soap opera/(lit.) faire bouillir un soap opera/
 煲呔 煲呔 [bao1 dai1] {bou1 taai1} /nœud papillon/(orig.) imitant la prononciation du mot anglais « bowtie » (« nœud papillon »)/
 煲水 煲水 [bao1 shui3] {bou1 seoi2} /bouillir de l'eau/(fig.) (nouvelles) fausses; inventées; exagérées; dramatisées/
 煲水新聞 煲水新闻 [bao1 shui3 xin1 wen2] {bou1 seoi2 san1 man4} /(expr. idiom.) fausses nouvelles; rumeurs; ragots; calomnies; « fake news »/(lit.) nouvelles à l'eau bouillante/
@@ -25552,7 +25552,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 追入 追入 [zhui1 ru4] {zeoi1 jap6} /to raise the stakes; to jump on a band wagon; to buy a rising stock [colloquial]/
 ????c 追到 追到 [zhui1 dao4] {zeoi1 dou2} /to catch up with; to gain on [written and colloquial]/
 ????f 追到天腳底 追到天脚底 [zhui1 dao4 tian1 jiao3 di3] {zeoi1 dou3 tin1 goek3 dai2} /(expr. idiom.) pourchasser (quelqu'un) jusqu'au bout du monde/(lit.) pourchasser jusqu'aux pieds du ciel/
-????f 追劇 追剧 [zhui1 ju4] {zeoi1 kek6} /regarder régulièrement une série télévisée/se faire tous les épisodes d'une série; regarder une série télévisée d'un coup/
+????f 追劇 追剧 [zhui1 ju4] {zeoi1 kek6} /regarder régulièrement une série télévisée/(fig.) binge-watcher une série télévisée; regarder une série télévisée en rafale; regarder en un temps court plusieurs épisodes d'une série télévisée/
 退化疾病 退化疾病 [tui4 hua4 ji2 bing4] {teoi3 faa3 zat6 beng6} /maladie dégénérative/
 ????f 送俾我都唔吼啦 送俾我都唔吼啦 [song4 bi3 wo3 dou1 wu2 hou3 la5] {sung3 bei2 ngo5 dou1 m4 hau1 laa1} /(expr. idiom.) je ne le voudrais pas même si on me le donnait gratuitement/
 ????f 送入鬼門關 送入鬼门关 [song4 ru4 gui3 men2 guan1] {sung3 jap6 gwai2 mun4 gwaan1} /(par euphémisme) tuer/(lit.) livrer (quelqu'un) au contrôle des fantômes/
