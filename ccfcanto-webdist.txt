@@ -15,7 +15,7 @@
 # - Séparez les différents sens avec une barre oblique, sans espaces avant ou après le signe de ponctuation
 # - S'il y a plusieurs traductions possibles pour un sens, séparez-les avec un point-virgule
 # - S'il faut utiliser les mots <quelque chose> ou <quelqu'un>, écrivez <quelque chose> et <quelqu'un>, ne les abrégez pas!
-# - Si un mot a une forme masculin et féminin, écris-les l'une après l'autre: un, une
+# - Si un mot a une forme masculin et féminin, écris-les une après l'autre: un, une
 # - Pour une traduction littérale, mets-la après les autres définitions et ajoute un (lit.) devant la traduction
 # - En parenthèses: (expr. idiom.), (arch.), (vieilli), (n.m.), (n.f), (classificateur), (orig.), (nom de famille), (litt.), (soutenu), (fam.), (très fam.), (vulg.), (fig.), (expr.)
 
@@ -561,7 +561,7 @@
 下賤 下贱 [xia4 jian4] {haa6 zin6} /ignoble; méprisable; vil/femme infidèle/femme aux moeurs légères/
 下述 下述 [xia4 shu4] {haa6 seot6} /quelque chose expliqué ci-dessous/
 下逐客令 下逐客令 [xia4 zhu2 ke4 ling4] {haa6 zuk6 haak3 ling6} /mettre (quelqu'un) à la porte/
-下部 下部 [xia4 bu4] {haa6 bou6} /partie inférieure/
+下部 下部 [xia4 bu4] {haa6 bou6} /partie inférieure; dessous/
 下里巴人 下里巴人 [xia4 li3 ba1 ren2] {haa6 lei5 baa1 jan4} /art ou littérature qui attire le plus petit dénominateur commun/
 下間 下间 [xia4 jian1] {haa6 gaan3} /le ... suivant (pour désigner les restaurants, maisons, magasins, écoles, etc.)/(arch.) la cuisine/
 下降 下降 [xia4 jiang4] {haa6 gong3} /descendre/qui descend/
