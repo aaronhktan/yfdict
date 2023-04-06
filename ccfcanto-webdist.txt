@@ -203,8 +203,8 @@
 一氧化碳中毒 一氧化碳中毒 [yi1 yang3 hua4 tan4 zhong4 du2] {jat1 joeng5 faa3 taan3 zung1 duk6} /intoxication au monoxyde de carbone/
 一池春水 一池春水 [yi1 chi2 chun1 shui3] {jat1 ci4 ceon1 seoi2} /un étang de printemps; eau calme/
 一池秋水 一池秋水 [yi1 chi2 qiu1 shui3] {jat1 ci4 cau1 seoi2} /étang d'automne; eau calme (voir aussi 一池春水|一池春水)/
-????f 一決勝負 一决胜负 [yi1 jue2 sheng4 fu4] {jat1 kyut3 sing3 fu6} /to have a show-down; to have a confrontation to see who is better/
-????f 一決高低 一决高低 [yi1 jue2 gao1 di1] {jat1 kyut3 gou1 dai1} /to have a show-down; to have a confrontation to see who is better/
+一決勝負 一决胜负 [yi1 jue2 sheng4 fu4] {jat1 kyut3 sing3 fu6} /épreuve de force; bataille finale/
+一決高低 一决高低 [yi1 jue2 gao1 di1] {jat1 kyut3 gou1 dai1} /épreuve de force; bataille finale/
 一沉百踩 一沉百踩 [yi1 chen2 bai3 cai3] {jat1 cam4 baak3 caai2} /(expr. idiom.) quand quelqu'un perd son pouvoir ou authorité, il ou elle est malmené(e) par les autres/(lit.) dès que l'on coule, on est piétiné cent fois/
 一派 一派 [yi1 pai4] {jat1 paai3} /faction; bloc/catégorie; type (de choses ou personnes similaires)/
 一流 一流 [yi1 liu2] {jat1 lau4} /première qualité; première classe/
@@ -403,7 +403,7 @@
 三幾 三几 [san1 ji3] {saam1 gei2} /environ trois/
 三度空間 三度空间 [san1 du4 kong1 jian1] {saam1 dou6 hung1 gaan1} /trois dimensions/
 三心兩意 三心两意 [san1 xin1 liang3 yi4] {saam1 sam1 loeng5 ji3} /(expr. idiom.) indécis/(expr. idiom.) inconstant; capricieux/(lit.) trois coeurs, deux opinions/
-????f 三思 三思 [san1 si1] {saam3 si1} /(façon de dire à quelqu'un d'y réfléchir soigneusement avant d'agir)/
+????f 三思 三思 [san1 si1] {saam3 si1} /bien réfléchir/(lit.) réfléchir trois fois
 三急 三急 [san1 ji2] {saam1 gap1} /les trois besoins naturels - uriner, déféquer, péter/
 三扒兩撥 三扒两拨 [san1 ba1 liang3 bo1] {saam1 paa4 loeng5 but6} /(expr. idiom.) (personne) qui est très éfficace; qui travaille rapidement/(fig.) vite, rapide/
 三方 三方 [san1 fang1] {saam1 fong1} /trois côtés/tripartite/trilatéral/
@@ -975,7 +975,7 @@
 亂龍 乱龙 [luan4 long2] {lyun2 lung4} /désorganisé; chaotique (voir aussi 亂籠|乱笼)/
 了不得 了不得 [liao3 bu5 de5] {liu5 bat1 dak1} /fantastique; extraordinaire; génial/terrible; affreux/
 了哥 了哥 [liao3 ge1] {liu1 go1} /(famille d'oiseaux) mainates/
-????f 了望 了望 [liao4 wang4] {liu5 mong6} /regarder d'une position élevée; regarder du haut; regarder en bas/
+????f 了望 了望 [liao4 wang4] {liu5 mong6} /observer d'une position élevée; observer du haut/
 事 事 [shi4] {si6} /affaire/problème/
 ????f 事不關己，己不勞心 事不关己，己不劳心 [shi4 bu4 guan1 ji3, ji3 bu4 lao2 xin1] {si6 bat1 gwaan1 gei2, gei2 bat1 lou4 sam1} /(fig.) ne pas se soucier des affaires des autres/(lit.) si cela ne me regarde pas, je ne devrais pas m'inquiéter/
 事主 事主 [shi4 zhu3] {si6 zyu2} /victime (de crime, d'un accident)/
@@ -1113,7 +1113,7 @@
 交吉 交吉 [jiao1 ji2] {gaau1 gat1} /libre possession; vendre une maison inhabitée/(orig.) 空 signifiait « inoccupé » (donc, donner un immeuble inoccupé), mais est prononcé comme 凶 « diabolique, malheureux », donc on l'a remplacé par l'antonyme, 吉, « chanceux, heureux »/(lit.) livrer la fortune/
 交回 交回 [jiao1 hui2] {gaau1 wui4} /rendre; remettre; retourner (quelque chose à quelqu'un)/
 交學費 交学费 [jiao1 xue2 fei4] {gaau1 hok6 fai3} /payer des frais de scolarité/
-????f 交帶 交带 [jiao1 dai4] {gaau1 daai3} /ordonner; donner des ordres/responsable/sens des responsabilités/passer le baton (to pass on or turn over work to somebodye else)/
+????f 交帶 交带 [jiao1 dai4] {gaau1 daai3} /ordonner; donner des ordres/responsable/sens des responsabilités/passer le baton (to pass on or turn over work to somebodye else)/donner une mise à jour
 交心 交心 [jiao1 xin1] {gaau1 sam1} /se confier (à quelqu'un); parler à cœur ouvert; se vider le cœur/
 交投 交投 [jiao1 tou2] {gaau1 tau4} /transaction boursière/
 交換生 交换生 [jiao1 huan4 sheng1] {gaau1 wun6 sang1} /étudiant étranger, étudiante étrangère/
@@ -1176,7 +1176,7 @@
 人心肉做 人心肉做 [ren2 xin1 rou4 zuo4] {jan4 sam1 juk6 zou6} /(expr. idiom.) même les personnes les plus cruelles ont un peu de sympathie/(lit.) le coeur humain est fait de chair/
 人心隔肚皮 人心隔肚皮 [ren2 xin1 ge2 du4 pi2] {jan4 sam1 gaak3 tou5 pei4} /(expr. idiom.) l'habit ne fait pas le moine; il est impossible de juger d'après les apparences; il est difficile de connaître la vraie nature de quelqu'un/
 ????c 人急智生 人急智生 [ren2 ji2 zhi4 sheng1] {jan4 gap1 zi3 sang1} /rapidité d'esprit lors d'une situation d'urgence/
-????f 人情 人情 [ren2 qing2] {jan4 cing4} /émotion humaine/service; faveur; aide prêté à quelqu'un/cadeau de mariage monétaire/
+????f 人情 人情 [ren2 qing2] {jan4 cing4} /émotion humaine/service; faveur; aide prêté à quelqu'un/cadeau de mariage monétaire/relation humaine
 ????f 人情紙咁薄 人情纸咁薄 [ren2 qing2 zhi3 gan1 bo2] {jan4 cing4 zi2 gam3 bok6} /(expr. idiom.) ne vous attendez pas à ce que les autres soient gentils (voir aussi 人情薄過紙|人情薄过纸)/(lit.) la morale humaine est mince comme du papier/
 人情薄過紙 人情薄过纸 [ren2 qing2 bo2 guo4 zhi3] {jan4 cing4 bok6 gwo3 zi2} /(expr. idiom.) ne vous attendez pas à ce que les autres soient gentils (voir aussi 人情紙咁薄|人情纸咁薄)/(lit.) la morale humaine est plus mince que du papier/
 ????f 人情冷暖 人情冷暖 [ren2 cing2 leng3 nuan3] {jan4 cing4 laang5 nyun5} /(expr. idiom.) les gens vous traitent différement selon votre classe sociale (voir aussi 世態炎涼|世态炎凉)/(lit) les relations humaines sont froides et chaudes/
@@ -1415,7 +1415,7 @@
 低人一等 低人一等 [di1 ren2 yi1 deng3] {dai1 jan4 jat1 dang2} /(fig.) inférieur aux autres/(lit.) en dessous des autres personnes par un rang/
 低位 低位 [di1 wei4] {dai1 wai6} /bas prix (d'une action); prix plus bas que prévu/(d'un plan d'eau) faible niveau d'eau (voir aussi 低水位|低水位)/
 ????f 低威 低威 [di1 wei1] {dai1 wai1} /se sentir inférieur/
-????f 低年級 低年级 [di1 nian2 ji2] {dai1 nin4 kap1} /(école) classe inférieure (ex. première année, cours préparatoire)/
+低年級 低年级 [di1 nian2 ji2] {dai1 nin4 kap1} /(école) classe inférieure (ex. première année, cours préparatoire)/
 低微 低微 [di1 wei1] {dai1 mei4} /humble; (d'origine) modeste; d'une classe sociale inférieure/
 低於 低于 [di1 yu2] {dai1 jyu1} /moins/sous; en dessous/
 ????f 低格 低格 [di1 ge2] {dai1 gaak3} /mauvaise personne (person with bad character)/
@@ -1431,8 +1431,8 @@
 低飛 低飞 [di1 fei1] {dai1 fei1} /voler à basse altitude/
 住喺 住喺 [zhu4 bei2] {zyu6 hai2} /vivre à (un endroit)/
 住埋 住埋 [zhu4 mai2] {zyu6 maai4} /vivre avec (quelqu'un)/
-????f 住宅單位 住宅单位 [zhu4 zhai2 dan1 wei4] {zyu6 zaak6 daan1 wai2} /unité résidentiel (dans un appartement)/
-????f 住客會所 住客会所 [zhu4 ke4 hui4 suo3] {zyu6 haak3 wui6 so2} /salle de jeux; salle partagée entre plusieurs locataires dans un immeuble/
+????f 住宅單位 住宅单位 [zhu4 zhai2 dan1 wei4] {zyu6 zaak6 daan1 wai2} /unité résidentiel (dans un appartement); l'endroit où quelqu'un habite/
+????f 住客會所 住客会所 [zhu4 ke4 hui4 suo3] {zyu6 haak3 wui6 so2} /salle de jeux; salle partagée entre plusieurs locataires dans un immeuble; salle commune/
 住家工 住家工 [zhu4 jia1 gong1] {zyu6 gaa1 gung1} /nounou/employé de maison/
 住家男人 住家男人 [zhu4 jia1 nan2 ren5] {zyu6 gaa1 naam4 jan4} /père au foyer; homme au foyer/
 住家菜 住家菜 [zhu4 jia1 cai4] {zyu6 gaa1 coi3} /plats faits maison/
@@ -1497,7 +1497,7 @@
 作美 作美 [zuo4 mei3] {zok3 mei5} /coopérer; rendre plus facile/
 作詞 作词 [zuo4 ci2] {zok3 ci4} /écrire les paroles (d'une chanson)/
 作詩 作诗 [zuo4 shi1] {zok3 si1} /écrire un poème/
-????f 作賊心虛 作贼心虚 [zuo4 zei2 xin1 xu1] {zok3 caak6 sam1 heoi1} /(expr. idiom.) (un criminel) qui se sent anxieux parce qu'il sait qu'il est coupable/
+????f 作賊心虛 作贼心虚 [zuo4 zei2 xin1 xu1] {zok3 caak6 sam1 heoi1} /(expr. idiom.) (un criminel) qui se sent anxieux parce qu'il sait qu'il est coupable; avoir mauvaise conscience/
 作賤 作贱 [zuo4 jian5] {zok3 zin6} /torturer; dégrader; faire souffrir/
 作賤自己 作贱自己 [zuo4 jian4 zi4 ji3] {zok3 zin6 zi6 gei2} /se torturer/
 作賽 作赛 [zuo4 sai4] {zok3 coi3} /participer à un concours; (sport) se battre/
@@ -1656,7 +1656,7 @@
 保姆車 保姆车 [bao3 mu3 che1] {bou2 mou5 ce1} /mini-autobus scolaire; « nanny-van » (« fourgon nounou »)/fourgon appartenant à une célébrité/
 保存期 保存期 [bao3 cun2 qi1] {bou2 cyun4 kei4} /durée de conservation/
 保安局 保安局 [bao3 an1 ju2] {bou2 on1 guk6} /Bureau de la sécurité de Hong Kong/
-????f 保安費 保安费 [bao3 an1 fei4] {bou2 on1 fai3} /taxe de protection/
+????f 保安費 保安费 [bao3 an1 fei4] {bou2 on1 fai3} /frais de protection/
 保密 保密 [bao3 mi4] {bou2 mat6} /garder un secret/
 保持中立 保持中立 [bao3 chi2 zhong1 li4] {bou2 ci4 zung1 laap6} /rester neutre/
 保持者 保持者 [bao3 chi2 zhe3] {bou2 ci4 ze2} /le responsable de la tenue des registres/
