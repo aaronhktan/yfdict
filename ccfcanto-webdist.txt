@@ -2283,7 +2283,7 @@
 公一份婆一份 公一份婆一份 [gong1 yi2 fen4 po2 yi2 fen4] {gung1 jat1 fan6 po4 jat1 fan6} /(expr. idiom.) une situation où les dépenses sont partagées entre mari et femme/(lit.) au mari une part, à la femme une part/
 ????f 公主病 公主病 [gong1 zhu3 bing4] {gung1 zyu2 beng6} /syndrome de la princesse/
 公主道 公主道 [gong1 zhu3 dao4] {gung1 zyu2 dou3} /rue Princess Margaret, une rue de Hong Kong/
-公事 公事 [gong1 shi4] {gung1 si6} /affaires reliées au travail/documents officiels/
+公事 公事 [gong1 shi4] {gung1 si6} /affaires liées au travail/documents officiels/
 公事包 公事包 [gong1 shi4 bao1] {gung1 si6 baau1} /porte-documents/
 公事喼 公事喼 [gong1 shi4 ji2] {gung1 si6 gip1} /porte-documents/
 公仔 公仔 [gong1 zai3] {gung1 zai2} /poupée/
@@ -4576,7 +4576,7 @@
 㗎妹 㗎妹 [jia4 mei4] {gaa4 mui1} /(inj.) (péj.) Japonaise/
 㗎話 㗎话 [jia4 hua4] {gaa4 waa2} /(inj.) (péj.) langue japonaise/
 𠸎埋 𠸎埋 [na2 mai2] {naa1 maai4} /et/
-𠸎耕 𠸎耕 [na2 geng1] {naa1 gaang1} /être lié avec (quelque chose)/
+𠸎耕 𠸎耕 [na2 geng1] {naa1 gaang1} /lié, connexe/
 ????c 嗋 嗋 [xie2] {hip3} /respirer/
 嗌交 嗌交 [ai4 jiao1] {aai3 gaau1} /se disputer; se quereller/
 嗌嘢食 嗌嘢食 [ai4 ye3 shi2] {aai3 je5 sik6} /commander de la nourriture/
@@ -5625,7 +5625,7 @@
 ????f 大把世界 大把世界 [da4 ba3 shi4 jie4] {daai6 baa2 sai3 gaai3} /(fam.) avoir de bonnes chances de gagner beaucoup d'argent/
 ????f 大押 大押 [da4 ya1] {daai6 aat3} /boutique de prêteur sur gages; mont-de-piété/
 大拍賣 大拍卖 [da4 pai1 mai4] {daai6 paak3 maai6} /grande vente aux enchères/soldes; vente à prix réduit/
-大拿拿 大拿拿 [da4 na2 na2] {daai6 naa4 naa4} /grand montant de quelque chose (habituellement lié avec l'argent)/
+大拿拿 大拿拿 [da4 na2 na2] {daai6 naa4 naa4} /grand montant de quelque chose (habituellement concernant de l'argent)/
 ????f 大掃除 大扫除 [da4 sao3 chu2] {daai6 sou3 ceoi4} /grand nettoyage avant le Nouvel An chinois/
 大掣 大掣 [da4 che4] {daai6 zai3} /commutateur principal/
 ????c 大搞 大搞 [da4 gao3] {daai6 gaau2} /faire une grande chose/monter une grande fête/
@@ -10808,7 +10808,7 @@
 有錢 有钱 [you3 qian2] {jau5 cin2} /riche/
 ????f 有錢出錢，有力出力 有钱出钱，有力出力 [you3 qian2 chu1 qian2 , you3 li4 chu1 li4] {jau5 cin2 ceot1 cin2 jau5 lik6 ceot1 lik6} /(expr. idiom.) donner ce que l'on peut; faire tout ce que l'on peut pour aider/(lit.) si l'on a de l'argent on donne de l'argent — si l'on a de la force on utilise sa force/
 有錢駛得鬼推磨 有钱驶得鬼推磨 [you3 qian2 shi3 de5 gui3 tui1 mo2] {jau5 cin2 sai2 dak1 gwai2 teoi1 mo4} /(expr. idiom.) l'argent fait tourner le monde; avec l'argent, tout est possible/(lit.) avec l'argent on peut forcer un fantôme à pousser une meule/ 
-有關 有关 [you3 guan1] {jau5 gwaan1} /concerné; touché; en cause/pertinent/avoir à voir avec; être en rapport avec; concerner; avoir rapport à; être lié à/
+有關 有关 [you3 guan1] {jau5 gwaan1} /concerné; touché; en cause/pertinent; connexe/avoir à voir avec; être en rapport avec; concerner; avoir rapport à; être lié à/
 有關方面 有关方面 [you3 guan1 fang1 mian4] {jau5 gwaan1 fong1 min6} /parties intéressées; personnes intéressées/
 有限小數 有限小数 [you3 xian4 xiao3 shu4] {jau5 haan6 siu2 sou3} /décimale finie/
 有陣時 有阵时 [you3 zhen4 shi2] {jau5 zan6 si4} /parfois; quelquefois/
