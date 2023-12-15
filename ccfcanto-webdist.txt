@@ -15378,7 +15378,7 @@
 窗友 窗友 [chuang1 you3] {coeng1 jau2} /camarade de classe/
 窗口位 窗口位 [chuang1 kou3 wei4] {coeng1 hau2 wai2} /siège fenêtre/
 ????f 窗枝 窗枝 [chuang1 zhi1] {coeng1 zi1} /barres de sécurité pour fenêtres/
-????c 窗紗 窗纱 [chuang1 sha1] {coeng1 saa1} /net curtains/
+窗紗 窗纱 [chuang1 sha1] {coeng1 saa1} /voilage; rideau semi-transparent/
 ????f 窗花 窗花 [chuang1 hua1] {coeng1 faa1} /barres de sécurité pour fenêtres/
 ????c 窗鈎 窗钩 [chuang1 gou1] {coeng1 ngau1} /window stops; window latch; window hook/
 窗門 窗门 [chuang1 men2] {coeng1 mun2} /fenêtre/
@@ -15393,12 +15393,12 @@
 窮到燶 穷到㶶 [qiong2 dao4 nong2] {kung4 dou3 nung1} /(fig.) très pauvre/(lit.) pauvre jusqu'au point d'être brûlé/
 ????f 窮則思變 穷则思变 [qiong2 ze2 si1 bian4] {kung4 zak1 si1 bin3} /(expr.) la pauvreté fait naître le désir pour le changement/(lit.) la pauvreté incite les gens à penser au changement/
 ????c 窮巷 穷巷 [qiong2 xiang4] {kung4 hong6} /no way to go; a blind alley/
-????c 窺測 窥测 [kui1 ce4] {kwai1 cak1} /spy out/(verb) to peep; to glimpse/
+窺測 窥测 [kui1 ce4] {kwai1 cak1} /fouiller dans; mettre son nez dans/jeter un coup d'œil; regarder furtivement/
 窺見 窥见 [kui1 jian4] {kwai1 gin3} /entrevoir/
 窿窿罅罅 窿窿罅罅 [long2 long2 xia4 xia4] {lung1 lung1 laa3 laa3} /coins et recoins/
-????c 窿罅 窿罅 [long2 xia4] {lung1 laa3} /secret place/
+窿罅 窿罅 [long2 xia4] {lung1 laa3} /coins et recoins/cachette/
 窿路 窿路 [long2 lu4] {lung1 lou6} /méthode; moyen/
-竇 窦 [dou4] {dau3} /cachette/repaire; tanière/
+竇 窦 [dou4] {dau3} /cachette/repaire; tanière/nid (d'oiseau)/fourmilière/ruche/habitat d'un insecte/
 竇口 窦口 [dou4 kou3] {dau3 hau2} /repaire; tanière/repaire; lieu où se réunissent les malfaiteurs/
 竇唯 窦唯 [dou4 wei2] {dau6 wai4} /Dou Wei, musicien chinois/
 ????f 竊國 窃国 [qie4 guo2] {sit3 gwok3} /usurper le pouvoir de l'État/
