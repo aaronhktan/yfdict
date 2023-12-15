@@ -2777,6 +2777,7 @@
 ????f 判決書 判决书 [pan4 jue2 shu1] {pun3 kyut3 syu1} /(droit) décision écrite; jugement écrit/
 判罪 判罪 [pan4 zui4] {pun3 zeoi6} /reconnaître quelqu'un coupable; déclarer quelqu'un coupable/
 判頭 判头 [pan4 tou2] {pun3 tau2} /employé contractuel/
+判官 判官 [pan4 guan1] {pun3 gun1} /juge/magistrat/juge internale; juge des Enfers/
 別 别 [bie2] {bit6} /ne pas/partir/
 別具匠心 别具匠心 [bie2 ju4 jiang4 xin1] {bit6 geoi6 zoeng6 sam1} /(expr.) faire preuve d'ingénuité/
 ????f 別有風味 别有风味 [bie2 you3 feng1 wei4] {bit6 jau5 fung1 mei6} /(expr.) (architecture, aliments, etc.) distinctif/
@@ -14099,7 +14100,7 @@
 番鬼蒲桃 番鬼蒲桃 [fan1 gui3 pu2 tao5] {faan1 gwai2 pou4 tou2} /fruit du jamalac/
 ????c 番鴨 番鸭 [fan1 ya1] {faan1 aap3} /musk duck (spoken)/foreign or imported duck/
 ????f 畫公仔唔使畫出腸 画公仔唔使画出肠 [hua4 gong1 zai3 m2 shi3 hua4 chu1 chang2] {waak6 gung1 zai2 m4 sai2 waak6 ceot1 coeng2} /(expr. idiom.) pas besoin d'expliquer davantage; pas besoin d'en dire plus; déjà comprendre/(lit.) quand on dessine une personne, pas besoin de dessiner ses intestins/
-????f 畫公仔畫出腸 画公仔画出肠 [hua4 gong1 zai3 hua4 chu1 chang2] {waak6 gung1 zai2 waak6 ceot1 coeng4} /(expr. idiom.) dire une évidence/(expr. idiom.) trop d'informations; donner trop de détails/(lit.) dessiner les intestins quand on dessine une personne/
+????f 畫公仔畫出腸 画公仔画出肠 [hua4 gong1 zai3 hua4 chu1 chang2] {waak6 gung1 zai2 waak6 ceot1 coeng4} /(expr. idiom.) dire une évidence/(expr. idiom.) donner trop d'informations; expliquer chaque détail/(lit.) dessiner les intestins quand on dessine une personne/
 畫則 画则 [hua4 ze2] {waak6 zik1} /dessiner/
 畫則師 画则师 [hua4 ze2 shi1] {waak6 zak1 si1} /architecte/
 畫匠 画匠 [hua4 jiang4] {waa2 zoeng6} /peintre artisan/(péj.) mauvais peintre/
@@ -14802,6 +14803,7 @@
 ????f 睩 睩 [lu4] {luk1} /rolling (eyes)/
 ????f 睬你都傻 睬你都傻 [cai3 ni3 dou1 sha3] {coi2 nei5 dou1 so4} /(un peu vulg.) je m'en fiche (de ton opinion)/(lit.) je serais un idiot si je me souciais de ton opinion/
 ????f 睬佢都傻 睬渠都傻 [cai3 qu2 dou1 sha3] {coi2 keoi5 dou1 so4} /(un peu vulg.) je m'en fiche (de son opinion)/(lit.) je serais un idiot si je me souciais de son opinion/
+睩眼 睩眼 [lu4 yan3] {luk1 ngaan5} /avoir les yeux grand ouverts/
 睡不著 睡不着 [shui4 bu5 zhao2] {seoi6 bat1 zoek6} /être incapable de trouver le sommeil/
 睡夢 睡梦 [shui4 meng4] {seoi6 mung6} /rêve (pendant le sommeil)/sommeil/
 ????f 睡眼惺忪 睡眼惺忪 [shui4 yan3 xing1 song1] {seoi6 ngaan5 sing1 sung1} /(expr. idiom.) yeux lourds de sommeil/
@@ -15304,8 +15306,8 @@
 程翔 程翔 [cheng2 xiang2] {cing4 coeng4} /Ching Cheong, journaliste emprisonné en Chine/
 稍為 稍为 [shao1 wei2] {saau2 wai4} /un peu; légèrement/
 稍遜一籌 稍逊一筹 [shao1 xun4 yi1 chou2] {saau2 seon3 jat1 cau4} /légèrement inférieure/
-稟神 禀神 [bing3 shen2] {ban2 san4} /marmonner dans sa barbe/
-????c 稟神咁聲 禀神咁声 [bing3 shen2 gan1 sheng1] {ban2 san4 gam2 seng1} /(slang with figurative meaning) complaining; grumbling/
+稟神 禀神 [bing3 shen2] {ban2 san4} /grommeler; parler dans sa barbe/
+稟神咁聲 禀神咁声 [bing3 shen2 gan1 sheng1] {ban2 san4 gam2 seng1} /grommeler; parler dans sa barbe/
 稟神都冇句真 禀神都冇句真 [bing3 shen2 du1 mao3 ju4 zhen1] {ban2 san4 dou1 mou5 geoi3 zan1} /(expr. idiom.) mythomane/(lit.) mentir même en priant/
 ????c 種 种 [zhong3] {zung2} /(noun) 1. courage; 2. guts; 3. to vaccinate/
 種子田 种子田 [zhong3 zi5 tian2] {zung2 zi2 tin4} /pépinière/
@@ -15378,7 +15380,7 @@
 窗友 窗友 [chuang1 you3] {coeng1 jau2} /camarade de classe/
 窗口位 窗口位 [chuang1 kou3 wei4] {coeng1 hau2 wai2} /siège fenêtre/
 ????f 窗枝 窗枝 [chuang1 zhi1] {coeng1 zi1} /barres de sécurité pour fenêtres/
-窗紗 窗纱 [chuang1 sha1] {coeng1 saa1} /voilage; rideau semi-transparent/
+窗紗 窗纱 [chuang1 sha1] {coeng1 saa1} /voilage; rideau filet; rideau semi-transparent/
 ????f 窗花 窗花 [chuang1 hua1] {coeng1 faa1} /barres de sécurité pour fenêtres/
 ????c 窗鈎 窗钩 [chuang1 gou1] {coeng1 ngau1} /window stops; window latch; window hook/
 窗門 窗门 [chuang1 men2] {coeng1 mun2} /fenêtre/
@@ -17406,6 +17408,7 @@
 蕩 荡 [dang4] {dong6} /flâner; errer; se balader/
 蕩失 荡失 [dang4 shi1] {dong6 sat1} /se perdre; s'égarer/
 蕩失路 荡失路 [dang4 shi1 lu4] {dong6 sat1 lou6} /se perdre; s'égarer/
+盪失路 荡失路 [dang4 shi1 lu4] {dong6 sat1 lou6} /se perder; s'égarer/
 ????f 蕩平 荡平 [dang4 ping2] {dong6 ping4} /(how is this used in a sentence?) To mop up and quell; to suppress and wipe out; to clear away; to sweep off/
 蕩街 荡街 [dang4 jie1] {dong6 gaai1} /magasiner; faire du lèche-vitrine; faire les magasins/
 蕭崗站 萧岗站 [xiao1 gang3 zhan4] {siu1 gong1 zaam6} /Xiaogang station, station du métro de Canton/
@@ -17674,6 +17677,7 @@
 血海深仇 血海深仇 [xue4 hai3 shen1 chou2] {hyut3 hoi2 sam1 sau4} /(expr. idiom.) haine profonde/(lit.) vengeance d'une mer de sang/ 
 血糖 血糖 [xue4 tang2] {hyut3 tong4} /glycémie; taux de sucre dans le sang/
 血肉之軀 血肉之躯 [xue4 rou4 zhi1 qu1] {hyut3 juk6 zi1 keoi1} /(expr.) enveloppe charnelle; corps humain/
+????f 血盆大口 血盆大口 [xue4 pen2 da4 kou3] {hyut3 pun4 daai6 hau2} /(expr. idiom.) gueule sanglante grande ouverte/(lit.) bouche grande comme une cuvette sacrificatoire/
 行 行 [hang2] {hong4} /entreprise; compagnie; société; boîte/industrie/profession; carrière/ligne; rang; rangée/
 行一步睇一步 行一步睇一步 [xing2 yi2 bu4 di4 yi2 bu4] {haang4 jat1 bou6 tai2 jat1 bou6} /(expr. idiom.) y aller petit à petit/(expr. idiom.) prendre les choses comme elles viennent; ne pas avoir de plan à long terme/(lit.) faire un pas, regarder un pas/ 
 行人天橋 行人天桥 [xing2 ren2 tian1 qiao2] {hang4 jan4 tin1 kiu4} /passerelle; pont qui ne sert qu'aux piétons/
@@ -20632,7 +20636,7 @@
 ????f 陰聲細氣 阴声细气 [yin1 sheng1 xi4 qi4] {jam1 seng1 sai3 hei3} /(expr.) parler d'un voix douce (connotation négative, personne louche ou sinistre)/
 陰謀家 阴谋家 [yin1 mou2 jia1] {jam1 mau4 gaa1} /conspirateur/
 陰陰凍 阴阴冻 [yin1 yin1 dong4] {jam1 jam1 dung3} /froid; frette; frais/
-陰陰嘴笑 阴阴嘴笑 [yin1 yin1 zui3 xiao4] {jam1 jam1 zeoi2 siu3} /(expr. idiom.) ricaner/(expr. idiom.) sourire en coin/(lit.) rire d'une bouche en pénombre/
+陰陰嘴笑 阴阴嘴笑 [yin1 yin1 zui3 xiao4] {jam1 jam1 zeoi2 siu3} /(expr. idiom.) rire sous sa barbe; rire en cachette/(lit.) rire d'une bouche en pénombre/
 陰陰地 阴阴地 [yin1 yin1 di4] {jam1 jam1 dei2} /(temps) couvert; sombre; nuageux/d'une manière louche; d'une manière suspecte; d'une manière sinistre/tranquillement; sans faire du bruit/
 陰陰天 阴阴天 [yin1 yin1 tian1] {jam1 jam1 tin1} /(temps) couvert; sombre; nuageux/
 ????c 陰陰沉沉 阴阴沉沉 [yin1 yin1 chen2 chen2] {jam1 jam1 cam4 cam4} /préoccupé; sombre; glauque/
@@ -21726,6 +21730,7 @@
 饑餓 饥饿 [ji1 e4] {gei1 ngo6} /faim; famine/
 ????f 饑饉三十 饥馑三十 [ji1 jin3 san1 shi2] {gei1 gan2 saam1 sap6} /Famine events, localized events of voluntary fasting for 30 or 40 hours depending on the region to raise money and awareness for world hunger./
 饒沃 饶沃 [rao2 wo4] {jiu4 juk1} /sol fertile/
+饑寒交迫 饥寒交迫 [ji1 han2 jiao1 po4] {gei1 hon4 gaau1 bik1} /(expr. idiom.) être très pauvre/(lit.) souffrir de la faim et du froid/
 ????c 饒讓 饶让 [rao2 rang4] {jiu4 joeng6} /tolerance and concession; to let off; to excuse; to have mercy on; to reprieve/
 首創精神 首创精神 [shou3 chuang4 jing1 shen2] {sau2 cong3 zing1 san4} /esprit avant-gardiste; esprit pionner; esprit créatif/
 ????f 首惡 首恶 [shou3 e4] {sau2 ok3} /the chief criminal; main culprit/
@@ -26009,3 +26014,5 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 𨋢 䢂 [𨋢5] {lip1} /ascenseur/(orig.) de l'anglais « lift » (« ascenseur »)/
 𩜠 𩜠 [𩜠5] {mam1} /(enfantin) riz (voir aussi 食𩜠𩜠|食𩜠𩜠)/(par extension) nourriture pour animal domestique/
 𩺬 𩺬 [𩺬5] {zeoi1} /murène/
+渺無人煙 渺无人烟 [miao3 wu2 ren2 yan1] {miu5 mou4 jan4 jin1] /(expr. idiom.) isolé et inhabité/
+蟒蛇 蟒蛇 [mang3 she2] {mong5 se4} /python/
