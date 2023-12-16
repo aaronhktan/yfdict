@@ -12944,7 +12944,7 @@
 烏眉瞌睡 乌眉瞌睡 [wu1 mei2 ke1 shui4] {wu1 mei4 hap1 seoi6} /(expr. idiom.) épuisé; fatigué; somnolent/(expr. idiom.) cogner des clous; lutter contre le sommeil; s'assoupir (attention! en cantonais, ce mot est un adjectif)/
 烏蠅 乌蝇 [wu1 ying2] {wu1 jing1} /(insecte) mouche/
 烏蠅拍 乌蝇拍 [wu1 ying2 pai1] {wu1 jing1 paak3} /tapette à mouches/
-????f 烏蠅摟馬尾 乌蝇搂马尾 [wu1 ying2 lou3 ma3 wei3] {wu1 jing1 lau1 maa5 mei5} /(expr. en suspens) rompre une relation; rompre un partnenariat; se divorcer; se séparer à cause de différences irréconcilables (où aucune des deux personne impliquées n'en sort gagnant)/(lit.) mouche sur une queue de cheval (deuxième partie 一拍兩散|一拍兩散 « un coup et les deux se dispersent »)/
+????f 烏蠅摟馬尾 乌蝇搂马尾 [wu1 ying2 lou3 ma3 wei3] {wu1 jing1 lau1 maa5 mei5} /(expr. en suspens) rompre une relation; rompre un partnenariat; se divorcer; se séparer à cause de différences irréconcilables (un situation où aucune des deux personne impliquées n'en sort gagnant)/(lit.) mouche sur une queue de cheval (deuxième partie 一拍兩散|一拍兩散 « un coup et les deux se dispersent »)/
 烏豆 乌豆 [wu1 dou4] {wu1 dau2} /haricots noirs/
 烏頭 乌头 [wu1 tou2] {wu1 tau4} /(espèce de poissons) mulet cabot; mulet à grosse tête/(médecine traditionnelle chinoise) rhizome de l'aconit/
 ????f 烏鴉口 乌鸦口 [wu1 ya1 kou3] {wu1 aa1 hau2} /(fig.) personne qui dit des choses peu propices qui se passent par la suite; personne qui porte la poisse (a person who jinxes things, usually not maliciously)/(lit.) bouche de corbeau/
@@ -15686,7 +15686,7 @@
 粗口爛舌 粗口烂舌 [cu1 kou3 lan4 she2] {cou1 hau2 laan6 sit6} /(expr.) vulgaire; grossier/
 粗嚡 粗嚡 [cu1 hai4] {cou1 haai4} /rugueux/
 粗心大意 粗心大意 [cu1 xin1 da4 yi4] {cou1 sam1 daai6 ji3} /(expr.) négligent/
-????c 粗手粗腳 粗手粗脚 [cu1 shou3 cu1 jiao3] {cou1 sau2 cou1 goek3} /to handle something in a very rough careless manner/rude/clumsy/
+????f 粗手粗腳 粗手粗脚 [cu1 shou3 cu1 jiao3] {cou1 sau2 cou1 goek3} /(expr.) pataud; qui a des mouvements maladroits/
 粗暴 粗暴 [cu1 bao4] {cou1 bou6} /brutal; violent/
 粗生 粗生 [cu1 sheng1] {cou1 sang1} /(plante) résistant; rustique/
 粗生粗養 粗生粗养 [cu1 sheng1 cu1 yang3] {cou1 saang1 cou1 joeng5} /no need to pay much attention during the growing period/
@@ -22729,6 +22729,7 @@
 Ｖａｎ仔 Ｖａｎ仔 [Ｖａｎ zi3] {wen1 zai2} /fourgonnette; camionnette/minivan/
 ????f ＸＯ醬 ＸＯ酱 [ＸＯ jiang4] {ik1 si4 ou1 zoeng3} /sauce XO, sauce épicée aux fruits de mer d'origine cantonaise/
 一人行一步 一人行一步 [yi1 ren2 xing2 yi1 bu4] {jat1 jan4 haang4 jat1 bou6} /(expr.) trouver un compromis/(lit.) chaque personne avance d'un pas/
+一人少句 一人少句 [yi1 ren2 shao3 ju4] {jat1 jan4 siu2 geoi3} /(expr.) arrêtez de vous disputer!/
 ????f 一個崩都冇少到 一个崩都冇少到 [yi1 ge5 beng1 dou1 mao3 shao3 dao4] {jat1 go3 bang1 dou1 mou5 siu2 dou3} /(expr. idiom.) montant d'argent exactement comme prévu/(lit.) même pas un sou qui manque/
 一個碼 一个码 [yi1 ge5 ma3] {jat1 go3 maa5} /(vêtements) taille unique/
 ????c 一個願打，一個願捱 一个愿打，一个愿捱 [yi1 ge5 yuan4 da3, yi1 ge5 yuan4 ai2] {jat1 go3 jyun6 daa2, jat1 go3 jyun6 ngaai4} /(compatible couple? does it imply abuse or is it just a humourous expression?) both parties are willing; one likes to hit whilst the other is willing to suffer [written and colloquial]/
@@ -25237,7 +25238,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 舐屎忽 舐屎忽 [shi4 shi3 hu1] {saai5 si2 fat1} /to get into trouble; to get into difficulties [colloquial]/
 舖頭仔 铺头仔 [pu4 tou2 zi3] {pou3 tau2 zai2} /petit magasin/
 𦧲 𦧲 [] {loe1} /cracher/
-𦧲 𦧲 [] {loe2} /embêter; importuner; ennuyer/
+𦧲 𦧲 [] {loe2} /harceler (quelqu'un pour avoir quelque chose); casser les pieds (de quelqu'un pour avoir quelque chose)/
 ????m 𦧲飯應 𦧲饭应 [𦧲5 fan4 ying1] {loe2 faan6 jing3} /(expr. idiom.) accepter immédiatement/(lit.) accepter (tellement vite que) l'on crache le riz dans la bouche/
 船上 船上 [chuan2 shang4] {syun4 soeng6} /à bord; sur un navire/
 ????f 船頭驚鬼，船尾驚賊 船头惊鬼，船尾惊贼 [chuan2 tou2 jing1 gui3, chuan2 wei3 jing1 zei2] {syun4 tau4 geng1 gwai2, syun4 mei5 geng1 caak6} /(expr. idiom.) irrésolu; être trop prudent et incapable de prendre des décisions/(lit.) y avoir des fantômes devant le bateau et des voleurs derrière le bateau/
