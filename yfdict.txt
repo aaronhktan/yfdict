@@ -1581,7 +1581,7 @@
 例 例 [li4] {lai6} /exemple/réglementations/cas/
 例水 例水 [li4 shui3] {lai6 seoi2} /soupe ou boisson gratuite offerte avec l'achat d'un repas/(lit.) l'eau habituelle/
 例湯 例汤 [li4 tang1] {lai6 tong1} /soupe du jour/
-????f 例牌 例牌 [li4 pai2] {lai6 paai2} /(pour commander un repas ou une boisson) même chose que d'habitude/
+????f 例牌 例牌 [li4 pai2] {lai6 paai2} /(pour commander un repas ou une boisson) même chose que d'habitude/(d'un plat) ordinaire; rien de spécial/
 ????f 例牌菜 例牌菜 [li4 pai2 cai4] {lai6 paai4 coi3} /ordinary dish; dish that is always at any restaurant (eg. spaghetti at any italian restaurant)/
 例規 例规 [li4 gui1] {lai6 kwai1} /réglementations/
 侍仔 侍仔 [shi4 zi3] {si6 zai2} /garçon; garçon de café; serveur/
@@ -12024,7 +12024,7 @@
 沙粉 沙粉 [sha1 fen3] {saa1 fan2} /poudre d'émeri/
 沙糖 沙糖 [sha1 tang2] {saa1 tong4} /sucre granulé/
 沙紙 沙纸 [sha1 zhi3] {saa1 zi2} /papier de verre; papier abrasif/(fig.) diplôme; certificat d'achèvement/
-沙翁 沙翁 [sha1 weng1] {saa1 jung1} /beignets frits chinois/
+沙翁 沙翁 [sha1 weng1] {saa1 jung1} /beignets frits chinois recouverts de cristaux de sucre raffiné/
 沙膠 沙膠 [sha1 hao2] {saa1 gaau1} /effaceur; efface-encre; stylo permettant d'effacer une encre/
 沙膽 沙胆 [sha1 dan3] {saa1 daam2} /(fig.) courageux; audacieux; hardi/(lit.) tripes de sable/
 沙煲咁大個膽 沙煲咁大个胆 [sha1 bao1 gan1 da4 ge4 dan3] {saa1 bou1 gam3 daai6 go3 daam2} /(expr.) courageux; audacieux; hardi/(lit.) tripes aussi grands qu'une marmite de grès/
@@ -13423,6 +13423,7 @@
 牙齒印 牙齿印 [ya2 chi3 yin4] {ngaa4 ci2 jan3} /(fig.) rancunes; vieux comptes/(lit.) empreinte dentaire/
 牙齒當金使 牙齿当金使 [ya2 chi3 dang1 jin1 shi3] {ngaa4 ci2 dong3 gam1 sai2} /(expr. idiom.) fiable; digne de confiance/(lit.) utiliser ses dents (= paroles) comme de l'or/
 牙齒痕 牙齿痕 [ya2 chi3 hen2] {ngaa4 ci2 han4} /(fig.) parler sans fin; babiller; jacasser/(lit.) avoir des dents qui démangent/
+牙箍 牙箍 [ya2 gu1] {ngaa4 ku1} /broches; brackets vestibulaires/
 牛 牛 [niu2] {ngau4} /déraisonnable; obstiné/
 牛一 牛一 [niu2 yi1] {ngau4 jat1} /(vieilli) anniversaire/
 牛丸 牛丸 [niu2 wan2] {ngau4 jyun2} /boulette de bœuf asiatique/
@@ -18765,7 +18766,7 @@
 賓州 宾州 [bin1 zhou1] {ban1 zau1} /Pennsylvanie, État des États-Unis/(fam.) pénis; bite; queue/
 賓州仔 宾州仔 [bin1 Zhou1 zi3] {ban1 zau1 zai2} /Pennsylvanien/(fam.) pénis; bite; queue/
 賓舟 宾舟 [bin1 zhou1] {ban1 zau1} /(fam.) pénis; bite; queue/
-賓館 宾馆 [bin1 guan3] {ban1 gun2} /motel; hôtel/
+賓館 宾馆 [bin1 guan3] {ban1 gun2} /motel (en cantonais, ce mot a une connotation négative)/
 賜教 赐教 [ci4 jiao4] {ci3 gaau3} /(courtois) (expression utilisée pour demander des conseils, de l'éducation, etc.)/(lit.) condescendre à enseigner/
 賞 赏 [shang3] {soeng2} /récompenser/apprécier/faire l'honneur (à quelqu'un)/
 ????f 賞罰分明 赏罚分明 [shang3 fa2 fen1 ming2] {soeng2 fat6 fan1 ming4} /(expr.) sanctionner et récompenser de manière juste/
@@ -19412,6 +19413,7 @@
 返轉頭 返转头 [fan3 zhuan3 tou2] {faan1 zyun3 tau4} /retourner; revenir en arrière/
 返頭婆 返头婆 [fan3 tou2 po2] {faan1 tau4 po2} /femme remariée/
 返頭嫁 返头嫁 [fan3 tou2 jia4] {faan1 tau4 gaa3} /(d'une femme) se remarier/
+????f 返聘 返聘 [fan3 pin4] {faan2 ping3} /embaucher une personne qui a déjà pris sa retraite (se dit généralement d'une personne qui retourne travailler chez le même employeur)/
 迢迢 迢迢 [tiao2 tiao2] {tiu4 tiu4} /reculé; lointain; éloigné/
 迪士尼 迪士尼 [Di2shi4ni2] {dik6 si6 nei4} /The Walt Disney Company; Disney/Disneyland/
 迫人 迫人 [po4 ren2] {bik1 jan4} /bondé; plein de monde; plein/
