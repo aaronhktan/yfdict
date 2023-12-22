@@ -11977,7 +11977,7 @@
 沒關係 没关系 [mei2 guan1 xi5] {mut6 gwaan1 hai6} /sans rapport (avec)/(formule de politesse) ce n'est pas grave! ne t'inquiète pas!/
 ????f 沓 沓 [da2] {daap6} /(s'emploie pour dire que la grande aiguille d'une horloge pointe sur un nombre, ex. 沓三 « pointer sur le trois » signifie « ...h15 » 沓三过半子 « pointer sur le trois et demi » signifie « ...h17 » ou « ...h18 »)/
 ????f 沓正 沓正 [da2 zheng4] {daap6 zeng3} /précisément; exactement/heure pile; précisément à telle ou telle heure/heure pile; « ...h00 »/
-沓水 沓水 [da2 shui3] [daap6 seoi2] /riche (voir aussi 疊水|叠水)/
+沓水 沓水 [da2 shui3] {daap6 seoi2} /riche (voir aussi 疊水|叠水)/
 沖廁 冲厕 [chong1 ce4] {cung1 ci3} /(toilette) tirer la chasse d'eau/
 沖曬 冲晒 [chong1 shai4] {cung1 saai3} /(photographie) développer et imprimer/
 沖涼 冲凉 [chong1 liang2] {cung1 loeng4} /se doucher; prendre une douche/se baigner/
@@ -23305,7 +23305,7 @@
 咁就差唔多 咁就差唔多 [gan1 jiu4 cha1 n2 duo1] {gam2 zau6 caa1 m4 do1} /(expr. idiom.) c'est mieux comme ça/(lit.) ça y est presque/
 咁橋 咁桥 [gan1 qiao2] {gam3 kiu2} /quelle coïncidence!/par hasard; il se trouve que.../
 ????f 咁都得 咁都得 [gan1 dou1 de5] {gam2 dou1 dak1} /(exprime de la désapprobation et de l'étonnement) mais c'est vraiment comme ça? je n'en reviens pas! c'est insupportable! c'est horrible!/
-????f 咁都好講一餐 咁都好讲一餐 [gan1 dou1 hao3 jiang3 yi1 can1] {gam2 dou1 hou2 gong2 jat1 caan1] /(expr.) pas la peine d'en faire tout un fromage!/
+????f 咁都好講一餐 咁都好讲一餐 [gan1 dou1 hao3 jiang3 yi1 can1] {gam2 dou1 hou2 gong2 jat1 caan1} /(expr.) pas la peine d'en faire tout un fromage!/
 咁鬼 咁鬼 [gan1 gui3] {gam3 gwai2} /(fam.) tellement; si/
 咕𠱸 咕𠱸 [gu1 chen2] {gu1 seon2} /coussin/(orig.) de l'anglais « cushion » (« coussin »)/
 咕順 咕顺 [gu1 shun4] {gu1 seon2} /coussin/(orig.) de l'anglais « cushion » (« coussin »)/
@@ -26018,5 +26018,5 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 𩜠 𩜠 [𩜠5] {mam1} /(enfantin) riz (voir aussi 食𩜠𩜠|食𩜠𩜠)/(par extension) nourriture pour animal domestique/
 𩺬 𩺬 [𩺬5] {zeoi1} /murène/
 滘 滘 [jiao4] {gaau3} /(nom de lieu) tributaire; affluent/
-渺無人煙 渺无人烟 [miao3 wu2 ren2 yan1] {miu5 mou4 jan4 jin1] /(expr. idiom.) isolé et inhabité/
+渺無人煙 渺无人烟 [miao3 wu2 ren2 yan1] {miu5 mou4 jan4 jin1} /(expr. idiom.) isolé et inhabité/
 蟒蛇 蟒蛇 [mang3 she2] {mong5 se4} /python/
