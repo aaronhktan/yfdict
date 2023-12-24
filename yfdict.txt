@@ -3296,7 +3296,8 @@
 南蓮園池 南莲园池 [nan2 lian2 yuan2 chi2] {naam4 lin4 jyun4 ci4} /Nan Lian Garden, jardin chinois classique à Kowloon, Hong Kong/
 南音 南音 [nan2 yin1] {naam4 jam1} /Naamyam cantonais, une tradition de chant/
 南風 南风 [nan2 feng1] {naam4 fung1} /vent du sud/
-南風窗 南风窗 [nan2 feng1 chuang1] {naam4 fung1 coeng1} /South Reviews, magazine bihebdomadaire de politique et économique de Guangzhou/
+南風窗 南风窗 [nan2 feng1 chuang1] {naam4 fung1 coeng1} /South Reviews, magazine bihebdomadaire de politique et économique de Canton/
+南海 南海 [nan2 hai3] {naam4 hoi2} /Nanhai, districte de la ville de Foshan, Chine/
 博亂 博乱 [bo2 luan4] {bok3 lyun6} /(expr. idiom.) profiter d'une situation confuse; pêcher en eau trouble/
 博寮洲 博寮洲 [bo2 liao2 zhou1] {bok3 liu4 zau1} /Île de Lamma, Hong Kong/
 博愛醫院 博爱医院 [bo2 ai4 yi1 yuan4] {bok3 ngoi3 ji1 jyun2} /Hôpital Pok Oi, hôpital à Hong Kong/
@@ -5508,7 +5509,7 @@
 大仔 大仔 [da4 zi3] {daai6 zai2} /fils aîné; premier-né/
 大件事 大件事 [da4 jian4 shi4] {daai6 gin6 si6} /affaire sérieuse; situation grave/
 大份 大份 [da4 fen4] {daai6 fan6} /grande partie/
-大佛寺 大佛寺 [da4 fo2 si4] {daai6 fat6 zi2} /Temple Dafo (lit.) temple du Grand Bouddha, temple situé dans la ville de Guangzhou/
+大佛寺 大佛寺 [da4 fo2 si4] {daai6 fat6 zi2} /Temple Dafo (lit.) temple du Grand Bouddha, temple situé dans la ville de Canton/
 大佬 大佬 [da4 lao3] {daai6 lou2} /frère aîné; grand frère/gestionnaire; patron/directeur; chef; leader/
 大使大食 大使大食 [da4 shi3 da4 shi2] {daai6 sai2 daai6 sik6} /(expr.) jeter l'argent par les fenêtres et gaspiller sa nourriture/
 大信封 大信封 [da4 xin4 feng1] {daai6 seon3 fung1} /(fig.) lettre de congédiement/(lit.) grande enveloppe/
@@ -12281,7 +12282,7 @@
 海外僑胞 海外侨胞 [hai3 wai4 qiao2 bao1] {hoi2 ngoi6 kiu4 baau1} /Chinois d'outre-mer; Chinois expatriés/
 海富中心 海富中心 [hai3 fu4 zhong1 xin1] {hoi2 fu3 zung1 sam1} /Admiralty Centre, immeuble de bureaux situé à Hong Kong/
 海峽兩岸 海峡两岸 [hai3 xia2 liang3 an4] {hoi2 haap6 loeng5 ngon6} /inter-détroit (république populaire de Chine et Taïwan)/
-海幢寺 海幢寺 [hai3 chuang2 si4] {hoi2 tong4 zi6} /Monastère Hoi Tong, monastère bouddhiste situé à Guangzhou/
+海幢寺 海幢寺 [hai3 chuang2 si4] {hoi2 tong4 zi6} /Monastère Hoi Tong, monastère bouddhiste situé à Canton/
 海底隧道 海底隧道 [hai3 di3 sui4 dao4] {hoi2 dai2 seoi6 dou6} /Cross-Harbour Tunnel (Tunnel de la traversée du détroit), tunnel routier de Hong Kong/
 海心沙 海心沙 [hai3 xin1 sha1] {hoi2 sam1 saa1} /Haixinsha Island, île de Canton en Chine/
 海怡半島 海怡半岛 [hai3 yi2 ban4 dao3] {hoi2 ji4 bun3 dou2} /South Horizons, grand ensemble situé à Hong Kong/
