@@ -4345,6 +4345,8 @@
 唔駛客氣 唔驶客气 [n2 shi3 ke4 qi5] {m4 sai2 haak3 hei3} /(formule de politesse) de rien; bienvenue; il n'y a pas de quoi; je vous en prie/(formule de politesse) merci de nous avoir accueilli; merci de votre hospitalité (mais non merci)/faites comme chez vous; servez-vous!/
 ????f 唔鹹唔淡 唔鹹唔淡 [n2 jian3 n2 dan4] {m4 haam4 m4 taam5} /(expr. idiom.) ne pas avoir maîtrisé une langue ou une habileté/(lit.) ni salé ni fade/
 唔黐家 唔黐家 [n2 chi1 jia1] {m4 ci1 gaa1} /(fig.) qui n'est jamais à la maison/(fig.) pas proche avec sa famille/(lit.) ne pas coller à la maison/
+唔ｇｕｒ 唔ｇｕｒ [wu2 ju2] [goe4] /ne pas être satisfait; avoir des objections/
+唔啹 唔啹 [wu2 ju2] [m4 goe4] /ne pas être satisfait; avoir des objections/
 ????c 唗 唗 [dou1] {dau1} /it is an expression for saying hello or sighing/
 唞 唞 [dou3] {tau2} /avoir le souffle coupé/faire une pause/
 唞吓 唞吓 [dou3 xia4] {tau2 haa5} /faire une pause/
@@ -4456,6 +4458,7 @@
 𠵿牌 𠵿牌 [pi1 pai2] {pe1 paai2} /cartes à jouer/
 ????f 啫啫 啫啫 [ze1 ze1] {zoe1 zoe1} /(enfantin) pénis/méthode de cuisson cantonaise, se servant d'une casserole chaude pour cuire la nourriture (voir aussi 啫啫煲|啫啫煲)/
 ????f 啫啫煲 啫啫煲 [ze1 ze1 bao1] {zoe1 zoe1 bou1} /méthode de cuisson cantonaise, se servant d'une casserole chaude pour cuire la nourriture/
+啫啫聲 啫啫声 [ze1 ze1 sheng1] {ze4 ze2 seng1} /grésillement/
 啫屐 啫屐 [ze1 ji1] {ze1 kek6} /veste/(orig.) de l'anglais « jacket » (« veste »)/
 喂 喂 [wei4] {wai2} /(téléphonie) allô/
 喂 喂 [wei4] {wai3} /hé/
@@ -10320,6 +10323,7 @@
 斷斷 断断 [duan4 duan4] {dyun3 dyun3} /absolument (pas)/
 斷正 断正 [duan4 zheng4] {tyun5 zeng3} /(fig.) pris en flagrant délit; se faire prendre la main dans le sac/(lit.) casser au bon endroit/
 ????f 斷片 断片 [duan4 pian4] {tyun5 pin2} /fragment; passage/morceau/pause pendant le visionnement d'un film à cause de difficultés techniques/(fig.) trou noir; trou de mémoire (dû à la drogue ou l'alcool)/
+斷片酒 断片酒 [duan4 pian4 jiu3] {tyun5 pin2 zau2} /(surnom de Four Loko, boisson alcoolisée)/
 ????f 斷癮 断瘾 [duan4 yin3] {tyun5 jan5} /quitter une dépendance/
 ????f 斷碼 断码 [duan4 ma3] {tyun5 maa5} /(vêtements) qui n'est pas offerte dans toutes les tailles/(vêtements) qui n'est plus disponible qu'en certaines tailles/
 ????c 斷窮根 断穷根 [duan4 qiong2 gen1] {dyun6 kung4 gan1} /échapper à la pauvreté/
@@ -16181,7 +16185,7 @@
 ????f 罨爛 罨烂 [yan3 lan4] {ap1 laan6} /leave something covered up too long to be rotten/
 罨耷 罨耷 [yan3 da1] {ap1 daap3} /(endroit) délabré; humide; mal aéré/
 罩 罩 [zhao4] {zaau3} /couvercle/couverture/(fig.) (vieilli) soutien-gorge/
-????f 罩籬 罩篱 [zhao4 li2] {zaau3 lei1} /passoire en bambou/(wire strainer for frying?)/
+罩籬 罩篱 [zhao4 li2] {zaau3 lei1} /passoire/(en particulier) (ustensile de cuisine) passoire à long manche; passoire à fondue chinoise (voir aussi 笊籬|笊篱)/
 罩袍 罩袍 [zhao4 pao2] {zaau3 pou4} /burqa; burka; bourka/
 罪不容誅 罪不容诛 [zui4 bu4 rong2 zhu1] {zeoi6 bat1 jung4 zyu1} /(expr.) la mort est trop douce pour quelqu'un qui a commis un tel crime/
 罪孽深重 罪孽深重 [zui4 nie4 shen1 zhong4] {zeoi6 jip6 sam1 zung6} /immonde; vicieux/
@@ -17023,8 +17027,8 @@
 芥辣 芥辣 [jie4 la4] {gaai3 laat6} /wasabi/moutarde/
 芥醬 芥酱 [jie4 jiang4] {gaai3 zoeng3} /moutarde/
 芫茜 芫茜 [yan2 qian4] {jyun4 sai1} /coriandre/
-芫荽 芫荽 [yan2sui5] {jyun4 seoi1} /coriandre/
-芬達 芬达 [Fen1 da2] {fan1 daat6} /Fanta, marque commerciale de soda allemande/
+芫荽 芫荽 [yan2 sui5] {jyun4 seoi1} /coriandre/
+芬達 芬达 [fen1 da2] {fan1 daat6} /Fanta, marque commerciale de soda allemande/
 花 花 [hua1] {faa1} /fleur/fleuri; couvert de fleurs/de sexe féminin; femme/embelli; orné; fleuri/chargé; trop orné; bigarré/coloré; multicolore; polychrome/rayé/érafler; égratigner/gribouiller/(vision) trouble; flou; indistinct/dépenser; gaspiller (de l'argent)/pré-vente/impudique; luxurieux; lubrique/petite fleur sur l'épaulette d'un policier indiquant son rang/(nom de famille chinois)/
 ????f 花么 花么 [hua1 me5] {faa1 jiu1} /A term in Mahjong 'all terminals and honours hand'/
 花仔 花仔 [hua1 zi3] {faa1 zai2} /garçon d'honneur/
@@ -18007,6 +18011,8 @@
 西風 西风 [xi1 feng1] {sai1 fung1} /vent d'ouest/
 ????f 西餅 西饼 [xi1 bing3] {sai1 beng2} /gâteau occidental/patisserie occidentale/
 西餐房 西餐房 [xi1 can1 fang2] {sai1 caan1 fong2} /restaurant occidental/
+西柚 西柚 [xi1 you4] {sai1 jau2} /pamplemousse/
+西柚汁 西柚汁 [xi1 you4 zhi1] {sai1 jau2 zap1} /jus de pamplemousse/
 要生要死 要生要死 [yao4 sheng1 yao4 si3] {jiu3 sang1 jiu3 sei2} /(expr. idiom.) être hystérique/(lit.) vouloir naître, vouloir mourir/
 要素 要素 [yao4 su4] {jiu3 sou3} /élément clé; facteur essentiel/
 ????f 要靚唔要命 要靓唔要命 [yao4 jing4 n2 yao4 ming4] {jiu3 leng3 m4 jiu3 meng6} /(expr. idiom.) (personne) prêt à sacrifier sa santé pour la beauté/(lit.) vouloir la beauté, ne pas vouloir la vie/
@@ -22157,6 +22163,7 @@
 鬼鼠 鬼鼠 [gui3 shu3] {gwai2 syu2} /(fig.) furtif/(fig.) discrètement; en douce/(lit.) fantôme souris/
 鬼婆 鬼婆 [gui3 po2] {gwai2 po4} /(péj.) femme blanche; femme caucasienne; Occidentale/(lit.) femme fantôme/
 鬼佬 鬼佬 [gui3 lao3] {gwai2 lou2} /(péj.) personne blanche; personne caucasienne; gweilo; Occidental/(lit.) personne fantôme/
+鬼唔知 鬼唔知 [gui3 wu1 zhi1] {gwai2 m4 zi1} /(expr.) tout le monde le sait; cela va sans dire/
 魁北克法文 魁北克法文 [kui2 bei3 ke4 fa3 wen2] {fui1 bak1 haak1 faat3 man4} /français québécois/
 魁省 魁省 [kui2 sheng3] {fui1 saang2} /Québec, province du Canada/
 魂 魂 [hun2] {wan4} /âme/esprit (national)/
@@ -22363,7 +22370,7 @@
 鹹酸 咸酸 [xian2 suan1] {haam4 syun1} /aliments conservés dans une solution vinaigrée/
 ????f 鹹酸菜 咸酸菜 [xian2 suan1 cai4] {haam4 syun1 coi3} /légumes marinés; légumes au vinaigre/
 ????f 鹹餸 鹹餸 [jian3 song4] {haam4 sung3} /plat d'accompagnement; plats autre que le riz/(lit.) plats d'accompagnement salés/
-鹹魚 咸鱼 [xian2 yu2] {haam4 jyu2} /poisson salé/(fig.) cadavre/
+鹹魚 咸鱼 [xian2 yu2] {haam4 jyu2} /poisson salé/(argot) passager d'un autobus/(fig.) cadavre/
 鹹魚白菜 咸鱼白菜 [xian2 yu2 bai2 cai4] {haam4 jyu4 baak6 coi3} /poisson salé et chou chinois/(fig.) repas simple/
 鹹魚翻生 咸鱼翻生 [xian2 yu2 fan1 sheng1] {haam4 jyu2 faan1 saang1} /(expr. idiom.) réussir après un échec/(expr. idiom.) l'échapper belle/(lit.) poisson salé revenant à la vie/
 鹹鹹地 咸咸地 [xian2 xian2 di4] {haam4 haam2 dei2} /un peu salé/
@@ -23645,6 +23652,7 @@
 失去平衡 失去平衡 [shi1 qu4 ping2 heng2] {sat1 heoi3 ping4 hang4} /perdre l'équilibre/
 失心瘋 失心疯 [shi1 xin1 feng1] {sat1 sam1 fung1} /(fam.) devenir fou; perdre la raison/
 ????m 失豬 失猪 [shi1 zhu1] {sat1 zyu1} /(d'une femme) perdre sa virginité/
+失身酒 失身酒 [shi1 shen1 jiu3] {sat1 san1 zau2} /(surnom de Four Loko, boisson alcoolisée)/
 ????f 奀啲 奀啲 [en1 di1] {ngan1 di1} /(en marchandant) un peu plus d'argent, peut-être?/(lit.) c'est très peu, non?/
 ????f 奀得滯 奀得滞 [en1 de5 zhi4] {ngan1 dak1 zai6} /(en marchandant) (exprime que le vendeur voudrait un peu plus d'argent)/(lit.) (la somme d'argent que vous m'offrez est) trop peu/
 ????m 奄乾 奄干 [yan3 gan1] {jim1 gon1} /to be squeezed dry bit by bit; to suffer many small losses, eventually amounting to a large loss over a period of time [colloquial]/
@@ -24277,6 +24285,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 攪邊科 搅边科 [jiao3 bian1 ke1] {gaau2 bin1 fo1} /mais qu'est-ce que tu fais? (exprime la surprise)/
 ????m 攬住死 揽住死 [lan3 zhu4 si3] {laam2 zyu6 sei2} /to get into trouble together [colloquial]/
 ????c 攬硬 揽硬 [lan3 ying4] {laam5 ngaang6} /to fully support; to protect [colloquial]/
+揽炒 揽炒 [lan3 chao3] {laam2 caau2} /chercher la destruction mutuelle/
 ????f 攬頭攬頸 揽头揽颈 [lan3 tou2 lan3 jing3] {laam2 tau4 laam2 geng2} /(expr. idiom.) être de très bons amis/(lit.) serrer la tête et le cou dans les mains/
 𢺳 𢺳 [] {maan1} /tenir fermement; s'accrocher à/tirer/remédier; réparer ses erreurs/
 支嘢 支嘢 [zhi1 ye3] {zi1 je5} /(fam.) pénis (voir aussi 枝嘢|枝嘢)/
@@ -25899,6 +25908,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 鬼崇 鬼崇 [gui3 chong2] {gwai2 sung4} /(fam.) furtivement; secrètement/
 ????c 鬼鬼崇崇 鬼鬼崇崇 [gui3 gui3 chong2 chong2] {gwai2 gwai2 sung4 sung4} /(fam.) furtivement; secrètement/
 ????m 魔鬼托世 魔鬼托世 [mo2 gui3 tuo1 shi4] {mo1 gwai2 tok3 sai3} /describes someone of extraordinary talent [written and colloquial]/
+魔芋 魔芋 [mo2 yu2] {mo1 wu6} /konjac/
 鳩噏 鸠噏 [jiu1 xi1] {gau1 ap1} /(vulg.) dire des bêtises; dire du n'importe quoi/
 鳩支孖碌 鸠支孖碌 [jiu1 zhi1 ma1 lu4] {gau1 zi1 maa1 luk1} /(expr. idiom.) (vulg.) (d'une personne) très con; très cave; très énervant; très agaçant/
 ????f 鳩毛 鸠毛 [jiu1 mao2] {gau1 mou4} /(vulg.) poil du pubis d'un homme/
@@ -25988,6 +25998,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 𢪎 𢪎 [xue1] {faak3} /fouetter (une personne)/(cuisine) fouetter; battre/
 𢪎蛋 𢪎蛋 [xue1 dan4] {faak3 daan2} /(cuisine) battre des œufs/
 拉布 拉布 [la1 bu4] {laai1 bou3} /(Hong Kong) faire de l'obstruction parlementaire; faire de l'obstructionnisme/
+拉闊 拉阔 [la1 kuo4] {laai1 fut3} /en direct; en concert; en performance; devant public/
 華夫 华夫 [hua2 fu1] {waa4 fu1} /gaufre/
 小布殊 小布殊 [xiao3 bu4 shu1] {siu2 bou3 syu4} /George W. Bush/(lit.) petit Bush/
 乳酪 乳酪 [ru3 lao4] {jyu5 lok6} /fromage/yogourt; yaourt/
@@ -26021,6 +26032,13 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 𨋢 䢂 [𨋢5] {lip1} /ascenseur/(orig.) de l'anglais « lift » (« ascenseur »)/
 𩜠 𩜠 [𩜠5] {mam1} /(enfantin) riz (voir aussi 食𩜠𩜠|食𩜠𩜠)/(par extension) nourriture pour animal domestique/
 𩺬 𩺬 [𩺬5] {zeoi1} /murène/
-滘 滘 [jiao4] {gaau3} /(nom de lieu) tributaire; affluent/
+滘 滘 [jiao4] {gaau3} /(dans les noms de lieu) tributaire; affluent/
 渺無人煙 渺无人烟 [miao3 wu2 ren2 yan1] {miu5 mou4 jan4 jin1} /(expr. idiom.) isolé et inhabité/
+渺茫 渺茫 [miao3 mang2] {miu5 mong4} /(chances) être minces; être faibles/
 蟒蛇 蟒蛇 [mang3 she2] {mong5 se4} /python/
+ｇｕｒ ｇｕｒ [ju2] [goe4] /(souvent dans la forme négative, voir 唔ｇｕｒ|唔ｇｕｒ) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
+啹 啹 [ju2] [goe4] /(souvent dans la forme négative, voir 唔啹|唔啹) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
+𢤹 𢤹 [ju2] [goe4] /(rare, voir ｇｕｒ|ｇｕｒ ou 啹|啹) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
+笊籬 笊篱 [zhao4 li5] {zaau3 lei1} /passoire/(en particulier) (ustensile de cuisine) passoire à long manche; passoire à fondue chinoise/
+篱 篱 [li2] {lei1} /passoire/
+醃鹹魚 腌咸魚 [yan1 xian2 yu2] {jip3 haam4 jyu2} /(expr. idiom.) suer à grosses gouttes; transpirer beaucoup/(lit.) faire mariner du poisson salé/
