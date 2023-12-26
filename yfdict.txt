@@ -4367,6 +4367,7 @@
 唱片騎師 唱片骑师 [chang4 pian1 qi2 shi1] {coeng3 pin2 ke4 si1} /disc jockey; DJ/(orig.) 唱片|唱片 « disque compact; CD » et 騎師|骑师 « jockey; cavalier professionel »/
 唱衰 唱衰 [chang4 shuai1] {coeng3 seoi1} /médire; diffamer; calomnier/
 ????c 唱龍舟 唱龙舟 [chang4 long2 zhou1] {coeng3 lung4 zau1} /chanter les chants folkloriques des bateaux-dragons/
+唱Ｋ唱Ｋ [chang4 k] {coeng3 kei1} /chanter du karaoké/
 唸口簧 唸口簧 [nian4 kou3 huang2] {nim6 hau2 wong2} /réciter un texte sans comprendre son sens/
 唸口黃 唸口黄 [nian4 kou3 huang2] {nim6 hau2 wong2} /réciter un texte sans comprendre son sens/
 唸書 念书 [nian4 shu1] {nim6 syu1} /étudier/lire à haute voix/aller à l'école/
@@ -6994,6 +6995,7 @@
 ????f 尾禡 尾祃 [wei3 ma4] {mei5 ngaa4} /Weiya, souper (Can.) ou dîner (Fr.) de fin d'année pour employés/
 尾車 尾车 [wei3 che1] {mei5 ce1} /dernier bus; dernière voiture; dernier train/
 尾龍骨 尾龙骨 [wei3 long2 gu3] {mei5 lung4 gwat1} /coccyx/
+尾站 尾站 [wei3 zhan4] {mei5 zaam5} /terminus; dernier arrêt sur une voie ferrée ou en bus/
 尿壺 尿壶 [niao4 hu2] {niu6 wu2} /urinoir; pot de chambre/
 尿道炎 尿道炎 [niao4 dao4 yan2] {niu6 dou6 jim4} /urétrite; inflammation de l'urètre/
 尿酸 尿酸 [niao4 suan1] {niu6 syun1} /acide urique/
@@ -16392,6 +16394,7 @@
 老衲 老衲 [lao3 na4] {lou5 naap6} /vieux moine bouddhiste/
 ????f 老襟 老襟 [lao3 jin1] {lou5 kam1} /the name two or multiple male address each other if they have sexual relationship with the same woman (spoken)/
 老襯 老衬 [lao3 chen4] {lou5 can3} /personne crédule; candide/(fig.) jeune marié/(fig.) gens mariés; couples mariés/
+老襯亭 老衬亭 [lao3 chen4 ting2] {lou5 can3 ting4} /(argot) Peak Tower, centre commercial situé sur le pic Victoria à Hong Kong/
 老西 老西 [lao3 xi1] {lou5 sai1} /complet; costume; complet-veston; costard; veston-cravate/
 老規矩 老规矩 [lao3 gui1 ju5] {lou5 kwai1 geoi2} /vieilles coutumes; usage; convenance/
 老親 老亲 [lao3 qin1] {lou5 can1} /parents âgés/proches âgés/
@@ -16962,6 +16965,7 @@
 ????c 舌尖上的粵語 舌尖上的粤语 [she2 jian1 shang4 de5 yue4 yu3] {sit3 zim1 soeng6 dik1 jyut6 jyu5} /« Introduction à la langue cantonaise », vidéo en ligne qui porte sur l'histoire de la langue cantonaise par rapport au mandarin et si l'on devrait la consider une langue ou une dialecte chinois/
 ????c 舌苔 舌苔 [she2 tai1] {sit6 toi1} /(médecine traditionelle chinoise) coating on tongue/
 ????c 舍監 舍监 [she4 jian1] {se3 gaam1} /Warden of a school dormitory/
+舐 舐 [shi4] {lem2} /lécher/
 舐犢 舐犊 [shi4 du2] {saai5 duk6} /amour parental/
 舒伯特 舒伯特 [shu1 bo2 te4] {syu1 baak3 dak6} /Franz Schubert, compositeur autrichien/
 舒利亞 舒利亚 [shu1 li4 ya4] {syu1 lei6 aa3} /Alan Shearer, footballeur international anglais/
