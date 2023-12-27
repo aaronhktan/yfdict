@@ -3608,6 +3608,7 @@
 召妓 召妓 [zhao4 ji4] {ziu6 gei6} /appeler des prostituées/
 召開 召开 [zhao4 kai1] {ziu6 hoi1} /convoquer; tenir ou organiser (une conférence)/
 召集 召集 [zhao4 ji2] {ziu6 zaap6} /convoquer; réunir des personnes/
+叮叮 叮叮 [ding1 ding1] {ding1 ding1} /(Hong Kong) tramway; tram; trolleybus/
 叮叮糖 叮叮糖 [ding1 ding1 tang2] {ding1 ding1 tong2} /Deuk Deuk Tong, un bonbon traditionnel/
 叮囑 叮嘱 [ding1 zhu3] {ding1 zuk1} /avertir plusieurs fois/
 可不是嗎 可不是吗 [ke3 bu5 shi4 ma5] {ho2 bat1 si6 maa1} /absolument; oui; c'est clair/
@@ -7394,6 +7395,7 @@
 帽峰山 帽峰山 [mao4 feng1 shan1] {mou6 fung1 saan1} /Maofengshan, montagne située à Canton/
 ????c 幍 幍 [qia4] {tou1} /chapeau en tissu de la Chine ancienne/
 ????f 幕前 幕前 [mu4 qian2] {mok6 cin4} /sur scène (par opposition aux coulisses)/
+幕門 幕门 [mu4 men2] {mok6 mun4} /portes palières; portes de quai; portes automatiques situées sur le bord d'un quai de métro/
 ????f 幡然悔悟 幡然悔悟 [fan1 ran2 hui3 wu4] {faan1 jin4 fui3 ng6} /(expr.) soudainement voir son erreur et se repentir/
 幢 幢 [chuang2] {zong6} /(classificateur pour édifices)/
 幧 幧 [qiao1] {ciu1} /(arch.) morceau de tissu pour attacher les cheveux d'un homme/chapeau/
@@ -18672,7 +18674,7 @@
 財政監督 财政监督 [cai2 zheng4 jian1 du1] {coi4 zing3 gaam1 duk1} /surveillance financière/
 財政赤字 财政赤字 [cai2 zheng4 chi4 zi4] {coi4 zing3 cek3 zi6} /déficit financier/
 財政預算 财政预算 [cai2 zheng4 yu4 suan4] {coi4 zing3 jyu6 syun3} /budget financier; enveloppe financière/
-????f 財氣 财气 [cai2 qi4] {coi4 hei3} /luck in making money/
+????f 財氣 财气 [cai2 qi4] {coi4 hei3} /avoir de la chance en gagnant de l'argent/
 財爺 财爷 [Cai2 ye2] {coi4 je4} /(fig.) Secrétaire aux Finances de Hong Kong/(lit.) grand-père de la richesse/
 財產 财产 [cai2 chan3] {coi4 caan2} /richesse; fortune; prospérité/
 財產保險 财产保险 [cai2 chan3 bao3 xian3] {coi4 caan2 bou2 him2} /assurance de biens/
@@ -18683,8 +18685,8 @@
 ????f 財路 财路 [cai2 lu4] {coi4 lou6} /chance de gagner de l'argent/
 ????f 財運 财运 [cai2 yun4] {coi4 wan6} /luck for making money; luck for wealth/
 ????f 財運亨通 财运亨通 [cai2 yun4 heng1 tong1] {coi4 wan6 hang1 tung1} /luck and prosperity in making money/
-????c 財金 财金 [cai2 jin1] {coi4 gam1} /finance and banking/
-????c 貢 贡 [gong4] {gung3} /wander around with no aim (Cantonese)/
+????c 財金 财金 [cai2 jin1] {coi4 gam1} /la finance et la banque/
+貢 贡 [gong4] {gung3} /flâner; errer/
 ????f 貢奉 贡奉 [gong4 feng4] {gung3 fung6} /enshrine and worship; consecrate; present tribute to an imperial court/
 ????c 貣 貣 [te4] {tik1} /to ask for a loan; to beg/
 ????f 貧下中農 贫下中农 [pin2 xia4 zhong1 nong2] {pan4 haa6 zung1 nung4} /paysan de classe inférieure et de classe moyenne/
@@ -19374,8 +19376,9 @@
 辦事機構 办事机构 [ban4 shi4 ji1 gou4] {baan6 si6 gei1 kau3} /organe administratif/
 辦公桌 办公桌 [ban4 gong1 zhuo1] {baan6 gung1 coek3} /bureau; table de bureau/
 ????f 辦公設備 办公设备 [ban4 gong1 she4 bei4] {baan6 gung1 cit3 bei6} /appareil bureautique (this term implies some degree of technology eg. laptop yes, overhead projector yes, cable or pencil no)/
+辦公時間 办公时间 [ban4 gong1 shi2 jian1] {baan6 gung1 si4 gaan3} /heures de bureau/heures d'ouverture; heures de travail/
 辦法 办法 [ban4 fa3] {baan6 faat3} /solution; mesure; procédé/
-????c 辦館 办馆 [ban4 guan3] {baan6 gun2} /a sundries store (grocery store as well? how large were these?)/
+????f 辦館 办馆 [ban4 guan3] {baan6 gun2} /petit magasin qui vend de l'alcool et du tabac; tabagie/(par extension) magasin d'articles divers/
 辨別 辨别 [bian4 bie2] {bin6 bit6} /distinguer; différencier/
 辭典機 辞典机 [ci2 dian3 ji1] {ci4 din2 gei1} /(appareil électronique) dictioninaire électronique/
 辭工 辞工 [ci2 gong1] {ci4 gung1} /démissionner/
@@ -19400,7 +19403,7 @@
 迎候 迎候 [ying2 hou4] {jing4 hau6} /accueillir; recevoir; attendre l'arrivé de quelqu'un/
 迎合 迎合 [ying2 he2] {jing4 hap6} /flatter (une opinion publique); satisfaire (aux besoins de quelqu'un)/
 迎春 迎春 [ying2 chun1] {jing4 ceon1} /accueillir le printemps/(fleur) jasmin d'hiver/
-????c 迎賓館 迎宾馆 [ying2 bin1 guan3] {jing4 ban1 gun2} / a guest hotel; a guest house/
+????c 迎賓館 迎宾馆 [ying2 bin1 guan3] {jing4 ban1 gun2} /motel/maison d'hôtes/
 迎迓 迎迓 [ying2 ya4] {jing4 ngaa6} /accueillir; recevoir/
 迎面 迎面 [ying2mian4] {jing4 min6} /(du vent) souffler au visage/
 近住 近住 [jin4 zhu4] {gan6 zyu6} /près de/
