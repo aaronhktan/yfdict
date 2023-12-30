@@ -11020,7 +11020,7 @@
 ????f 板 板 [ban3] {baan2} /planche/palette (pour marchandises)/(quantité) une palette (de marchandises)/
 板仔 板仔 [ban3 zi3] {baan2 zai2} /skateur; skater; planchiste/
 板斧 板斧 [ban3 fu3] {baan2 fu2} /large hache de guerre/(fig.) truc ingénieux; astuce; solution/(fig.) compétences; habiletés/
-????f 板間房 板间房 [ban3 jian1 fang2] {baan2 gaan3 fong2} /chambre subdivisée en plusieurs parties par de planches en bois qui sont ensuite louées séparément/
+????f 板間房 板间房 [ban3 jian1 fang2] {baan2 gaan3 fong2} /appartement subdivisée en plusieurs chambres par des planches en bois qui sont ensuite louées séparément (voir aussi 籠屋|笼屋, 棺材房|棺材房)/
 ????f 板障 板障 [ban3 zhang4] {baan2 zoeng3} /planches en bois utilisées pour diviser une chambre en plusieurs parties/diploé, tissu spongieux et osseux situé entre les deux lames interne et externe d’os compact/
 板頸 板颈 [ban3 jing3] {baan2 geng2} /(fig.) obstiné; têtu/
 枇杷果 枇杷果 [pi2 pa5 guo3] {pei4 paa4 gwo2} /(fruit) nèfle du Japon; bibace; bibasse; fruit de l'arbre Eriobotrya japonica/
@@ -11270,6 +11270,7 @@
 ????f 棹忌 棹忌 [zhao4 ji4] {zaau6 gei6} /éviter de faire quelque chose en raison d'une superstition/avoir peur de quelque chose à cause d'une superstition/
 ????f 棺材本 棺材本 [guan1 cai2 ben3] {gun1 coi4 bun2} /fonds pour payer ses funérailles/
 棺材舖 棺材铺 [guan1 cai5 pu4] {gun1 coi4 pou2} /magasin de cercueils/(fam.) ICAC (commission indépendante anticorruption de Hong Kong)/
+棺材房 棺材房 [guan1 cai5 fang2] {gun1 coi4 fong2} /(en particulier, à Hong Kong) « cabine-cercueil »; appartement subdivisé d'une superficie minuscule, souvent de moins de dix mètres carrés (voir aussi 籠屋|笼屋, 板間房|板间房)/
 椅墊 椅垫 [yi3 dian4] {ji2 zin3} /coussin de siège/
 椅手 椅手 [yi3 shou3] {ji2 sau2} /accoudoir/
 ????f 椅披 椅披 [yi3 pi1] {ji2 pei1} /housse de chaise en tissu/
@@ -15574,12 +15575,12 @@
 策劃者 策划者 [ce4 hua4 zhe3] {caak3 waak6 ze2} /planificateur/
 策略 策略 [ce4 lu:e4] {caak3 loek6} /stratégie; plan d'action/
 策騎 策骑 [ce4 qi2] {caak3 ke4} /monter à cheval/
-筲箕 筲箕 [shao1ji1] {saau1 gei1} /passoire/
+筲箕 筲箕 [shao1 ji1] {saau1 gei1} /passoire/écumoire/
 筲箕灣 筲箕湾 [shao1 ji1 wan1] {saau1 gei1 waan1} /Shau Kei Wan, ville de Hong Kong/
 筷子基 筷子基 [kuai4 zi5 ji1] {faai3 zi2 gei1} /Fai Chi Kei, région de Macao/
-????f 筷子架 筷子架 [kuai4 zi5 jia4] {faai3 zi2 gaa2} /porte-baguettes (for one pair of chopsticks)/
-????f 筷子筒 筷子筒 [kuai4 zi5 tong3] {faai3 zi2 tung2} /a cylindrical chopstick holder (like a pencil or pen holder)/
-????c 節令 节令 [jie2 ling4] {zit3 ling6} /Seasonal/
+????f 筷子架 筷子架 [kuai4 zi5 jia4] {faai3 zi2 gaa2} /porte-baguettes; support pour une paire de baguettes/
+????f 筷子筒 筷子筒 [kuai4 zi5 tong3] {faai3 zi2 tung2} /pot cylindrique à baguettes; contenant cylindrique à baguettes/
+????m 節令 节令 [jie2 ling4] {zit3 ling6} /Seasonal/
 節儉 节俭 [jie2 jian3] {zit3 gim6} /économe; frugal/
 ????f 節哀 节哀 [jie2 ai1] {zit3 oi1} /réprimer son chagrin (cette expression s'utilise en présentant ses condoléances)/
 節瓜 节瓜 [jie2 gua1] {zit3 gwaa1} /courge cireuse/
@@ -15588,7 +15589,7 @@
 節約 节约 [jie2 yue1] {zit3 joek3} /économiser; épargner/
 節約能源 节约能源 [jie2 yue1 neng2 yuan2] {zit3 joek3 nang4 jyun4} /économies d'énergie/
 節育 节育 [jie2 yu4] {zit3 juk6} /contraception/
-箅 箅 [bi4] {bei3} /pannier vapeur en bambou/
+箅 箅 [bi4] {bei3} /panier vapeur en bambou/
 箍 箍 [gu1] {ku1} /sauver (une relation)/avoir (un appareil dentaire)/appareil dentaire/cerceau/étrangler/
 箍煲 箍煲 [gu1 bao1] {ku1 bou1} /(fig.) sauver une relation/
 ????f 箍牙 箍牙 [gu1 ya2] {ku1 ngaa4} /avoir un appareil dentaire/
@@ -15597,8 +15598,8 @@
 箍頸黨 箍颈党 [gu1 jing3 dang3] {ku1 geng2 dong2} /voleur ou voleuse qui étrangle ses victimes/
 ????c 箕斗 箕斗 [ji1 dou3] {gei1 dau2} /(industrie minière) skip/empreinte digitale/constellations; false reputation????/
 算 算 [suan4] {syun3} /calculer/être considéré comme/laisser tomber/
-????c 算你夠運 算你够运 [suan4 ni3 gou4 yun4] {syun3 nei5 gau3 wan6} /estime-toi heureux/
-????c 算係 算系 [suan4 xi4] {syun3 hai6} /(être) probablement/
+????f 算你夠運 算你够运 [suan4 ni3 gou4 yun4] {syun3 nei5 gau3 wan6} /estime-toi heureux/
+算係 算系 [suan4 xi4] {syun3 hai6} /(être) probablement/peut être considéré comme/
 算吧啦 算吧啦 [suan4 ba5 la5] {syun3 baa1 laa1} /laisse tomber/
 算好 算好 [suan4 hao3] {syun3 hou2} /pourrait être pire; pas mal; acceptable/calculé; déjà calculé/
 算式 算式 [suan4 shi4] {syun3 sik1} /(mathématiques) équation/
@@ -15658,9 +15659,9 @@
 簽賬 签账 [qian1 zhang4] {cim1 zoeng3} /payer part carte de crédit; payer par carte bancaire/
 簿仔 簿仔 [bu4 zi3] {bou2 zai2} /livret; carnet; petit cahier/livret d'épargne; carnet de banque/
 籌備 筹备 [chou2 bei4] {cau4 bei6} /préparer; prendre des dispositions/
-????f 籠屋 笼屋 [long2 wu1] {lung4 nguk1} /cage home; bedspace/
+????f 籠屋 笼屋 [long2 wu1] {lung4 uk1} /(en particulier, à Hong Kong) « maison-cage », appartement subdivisé d'une superficie minuscule, souvent de moins de dix mètres carrés (voir aussi 棺材房|棺材房, 板間房|板间房)/
 籠裏雞作反 笼里鸡作反 [long2 li3 ji1 zuo4 fan3] {lung4 leoi5 gai1 zok3 faan2} /(expr. idiom.) conflit interne/(lit.) les poules dans la cage se révoltent/
-????c 籠𨋢 笼𨋢 [] {lung4 lip1} /industrial elevator/
+????f 籠𨋢 笼𨋢 [lung2 𨋢5] {lung4 lip1} /monte-charge; ascenseur de service/
 籮 箩 [luo2] {lo4} /(fam.) fesses; derrière/
 籮噼 箩噼 [luo2 pi1] {lo1 pet1} /(fam.) fesses; derrière/
 籮底橙 箩底橙 [luo2 di3 cheng2] {lo4 dai2 caang2} /(fig.) fond du panier; produits restants que personne ne veut/(fig.) (péj.) femmes qui restent célibataires toute leur vie/(lit.) oranges (qui restent) au fond/
@@ -16189,7 +16190,7 @@
 ????f 罨爛 罨烂 [yan3 lan4] {ap1 laan6} /leave something covered up too long to be rotten/
 罨耷 罨耷 [yan3 da1] {ap1 daap3} /(endroit) délabré; humide; mal aéré/
 罩 罩 [zhao4] {zaau3} /couvercle/couverture/(fig.) (vieilli) soutien-gorge/
-罩籬 罩篱 [zhao4 li2] {zaau3 lei1} /passoire/(en particulier) (ustensile de cuisine) passoire à long manche; passoire à fondue chinoise (voir aussi 笊籬|笊篱)/
+罩籬 罩篱 [zhao4 li2] {zaau3 lei1} /passoire/(en particulier) (ustensile de cuisine) écumoire; passoire à long manche; passoire à fondue chinoise (voir aussi 笊籬|笊篱)/
 罩袍 罩袍 [zhao4 pao2] {zaau3 pou4} /burqa; burka; bourka/
 罪不容誅 罪不容诛 [zui4 bu4 rong2 zhu1] {zeoi6 bat1 jung4 zyu1} /(expr.) la mort est trop douce pour quelqu'un qui a commis un tel crime/
 罪孽深重 罪孽深重 [zui4 nie4 shen1 zhong4] {zeoi6 jip6 sam1 zung6} /immonde; vicieux/
@@ -26046,6 +26047,6 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 ｇｕｒ ｇｕｒ [ju2] [goe4] /(souvent dans la forme négative, voir 唔ｇｕｒ|唔ｇｕｒ) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
 啹 啹 [ju2] [goe4] /(souvent dans la forme négative, voir 唔啹|唔啹) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
 𢤹 𢤹 [ju2] [goe4] /(rare, voir ｇｕｒ|ｇｕｒ ou 啹|啹) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
-笊籬 笊篱 [zhao4 li5] {zaau3 lei1} /passoire/(en particulier) (ustensile de cuisine) passoire à long manche; passoire à fondue chinoise/
-篱 篱 [li2] {lei1} /passoire/
+笊籬 笊篱 [zhao4 li5] {zaau3 lei1} /passoire/(en particulier) (ustensile de cuisine) écumoire; passoire à long manche; passoire à fondue chinoise/
+篱 篱 [li2] {lei1} /passoire/écumoire/
 醃鹹魚 腌咸魚 [yan1 xian2 yu2] {jip3 haam4 jyu2} /(expr. idiom.) suer à grosses gouttes; transpirer beaucoup/(lit.) faire mariner du poisson salé/
