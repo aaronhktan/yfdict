@@ -1,4 +1,4 @@
-# CC-FCanto
+# YFDICT
 # Le dictionnaire cantonais-français libre et gratuit
 # Version 2018-11-29
 # 
@@ -11831,7 +11831,7 @@
 水勼油 水勼油 [shui3 jiu1 you2] {seoi2 kau1 jau4} /(expr. idiom.) incompatible/(expr. idiom.) ne pas s'entendre (avec quelqu'un); s'entendre comme chien et chat/(lit.) comme mélanger de l'eau et de l'huile/
 水口 水口 [shui3 kou3] {seoi2 hau2} /Shui Hau, localité de Hong Kong/
 ????f 水吧 水吧 [shui3 ba1] {seoi2 baa1} /bar; comptoir où se servent les boissons/
-水喉 水喉 [shui3 hou2] {seoi2 hau4} /robinet/conduite d'eau/(argot) riche/
+水喉 水喉 [shui3 hou2] {seoi2 hau4} /robinet/conduite d'eau/(argot) personne riche/
 水喉水 水喉水 [shui3 hou2 shui3] {seoi2 hau4 seoi2} /l'eau du robinet/
 水喉通 水喉通 [shui3 hou2 tong1] {seoi2 hau4 tung1} /conduite d'eau en métal/
 水喉鐵 水喉铁 [shui3 hou2 tie3] {seoi2 hau4 tit3} /conduite d'eau/
