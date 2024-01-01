@@ -2217,6 +2217,7 @@
 全部 全部 [quan2 bu4] {cyun4 bou6} /tout/
 全音符 全音符 [quan2 yin1 fu2] {cyun4 jam1 fu4} /(musique, figure de note) ronde/
 全額 全额 [quan2 e2] {cyun4 ngaak6} /montant total; somme totale/
+全日 全日 [quan2 ri4] {cyun4 jat6} /24 heures; toute la journée/
 兩仔乸 两仔乸 [liang3 zi3 na2] {loeng5 zai2 naa2} /mère et fils/
 兩仔爺 两仔爷 [liang3 zi3 ye2] {loeng5 zai2 je4} /père et fils/
 兩份 两份 [liang3 fen4] {loeng5 fan2} /deux ensemble/partager entre deux personnes; appartenir à deux/diviser en deux portions/
@@ -15590,6 +15591,7 @@
 節約 节约 [jie2 yue1] {zit3 joek3} /économiser; épargner/
 節約能源 节约能源 [jie2 yue1 neng2 yuan2] {zit3 joek3 nang4 jyun4} /économies d'énergie/
 節育 节育 [jie2 yu4] {zit3 juk6} /contraception/
+節禮日 节礼日 [jie2 li3 ri4] {zit3 lai5 jat6} /Boxing Day, Après-Noël; Jour des boîtes; Lendemain de Noël/
 箅 箅 [bi4] {bei3} /panier vapeur en bambou/
 箍 箍 [gu1] {ku1} /sauver (une relation)/avoir (un appareil dentaire)/appareil dentaire/cerceau/étrangler/
 箍煲 箍煲 [gu1 bao1] {ku1 bou1} /(fig.) sauver une relation/
@@ -20819,6 +20821,7 @@
 雙面人 双面人 [shuang1 mian4 ren2] {soeng1 min6 jan4} /(personnage de fiction) Harvey Dent, Double-Face/
 雙面膠 双面膠 [shuang1 mian4 hao2] {soeng1 min6 gaau1} /ruban adhésif double face/
 雙體船 双体船 [shuang1 ti3 chuan2] {soeng1 tai2 syun4} /catamaran; bateau possédant deux coques/
+雙十一 双十一 [shuang1 shi2 yi1] {soeng1 sap6 jat1} /Fête des célibataires, célébrée le 11 Novembre, maintenant aussi un évènement commercial/
 雛鳥 雏鸟 [chu2 niao3] {co1 niu5} /oisillon/poussin/
 雜事 杂事 [za2 shi4] {zaap6 si6} /bagatelles; choses de peu d'importance/tâches quotidiennes/
 雜嘜 杂唛 [za2 ma4] {zaap6 mak1} /(produit) de seconde zone; d'une marque inférieure/
@@ -22583,6 +22586,8 @@
 黑墨墨 黑墨墨 [hei1 mo4 mo4] {hak1 mak6 mak6} /tout noir; très sombre/
 ????f 黑點 黑点 [hei1 dian3] {hak1 dim2} /tache/endroit dangereux; endroit où se produisent beaucoup d'accidents/
 黑鼆鼆 黑鼆鼆 [hei1 meng3 meng3] {haak1 mang1 mang1} /(expr.) tout noir; très obscure; sans lumière/(expr.) très noir/
+黑五 黑五 [hei1 wu3] {hak1 ng5} /Vendredi fou; Vendredi noir; Black Friday/
+黑色星期五 黑色星期五 [hei1 se4 xing1 qi1 wu3] {hak1 sik1 sing1 kei4 ng5} /Vendredi fou; Vendredi noir; Black Friday/
 墨七 墨七 [mo4 qi1] {mak6 cat1} /voleur; cambrioleur/
 墨水 墨水 [mo4 shui3] {mak6 seoi2} /encre/(fig.) savoir; connaissance/
 墨水筆 墨水笔 [mo4 shui3 bi3] {mak6 seoi2 bat1} /stylo/
@@ -23056,6 +23061,7 @@
 ????c 兇九 凶九 [xiong1 jiu3] {hung1 gau2} /(vulg.) (euphémisme de 兇𨳊|凶𨳊 « intimider »)/
 ????f 兇神惡煞 凶神恶煞 [xiong1 shen2 e4 sha4] {hung1 san4 ok3 saat3} /(expr.) menaçant; féroce/
 光棍佬 光棍佬 [guang1 gun5 lao3] {gwong1 gwan3 lou2} /(fig.) homme célibataire/(fig.) escroc/
+光棍 光棍 [guang1 gun5] {gwong1 gwan3} /(fig.) homme célibataire/(fig.) escroc/
 ????c 光管腳 光管脚 [guang1 guan3 jiao3] {gwong1 gun2 goek3} /jambes sans poils (is this negative?)/
 ????f 兜人入會 兜人入会 [dou1 ren2 ru4 hui4] {dau1 jan4 jap6 wui2} /recruter quelqu'un dans un gang/
 ????f 兜友 兜友 [dou1 you3] {dau1 jau2} /groupe de personnes/recruter quelqu'un dans un gang/
