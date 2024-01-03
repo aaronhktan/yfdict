@@ -1713,6 +1713,7 @@
 倉 仓 [cang1] {cong1} /entrepôt/
 倉底貨 仓底货 [cang1 di3 huo4] {cong1 dai2 fo3} /(fig.) produits invendables; produits qui ne sont pas populaires/(lit.) produits au fond de l'entrepôt/
 倉頡輸入法 仓颉输入法 [cang1 jie2 shu1 ru4 fa3] {cong1 kit3 syu1 jap6 faat3} /méthode cangjie, méthode d'entrée pour saisir de sinogrammes/
+個 个 [ge4] {go3} /(dans un prix, sert à partager le partie décimale de la partie entière, ex. 八個九|八个九 baat3 go3 gau2 « huit dollars quatre-vingt-dix »)/
 個人衛生 个人卫生 [ge4 ren2 wei4 sheng1] {go3 jan4 wai6 sang1} /hygiène personelle/
 個半 个半 [ge4 ban4] {go3 bun3} /un et demi/
 個喎 个㖞 [ge4 kuai1] {go3 wo3} /(particule finale pour des exclamations ou des questions)/
@@ -5138,7 +5139,7 @@
 ????f 埋櫃 埋柜 [mai2 gui4] {maai4 gwai6} /(boutique, magasin) régler les comptes à la fin de journée/
 埋欄 埋栏 [mai2 lan2] {maai4 laan1} /s'entendre avec (quelqu'un)/avoir du succès avec quelque chose; réussir/
 ????f 埋牙 埋牙 [mai2 ya2] {maai4 ngaa4} /deux personnes ou groupes qui s'apprêtent à s'affronter, à se battre entre eux/
-????f 埋站 埋站 [mai2 zhan4] {maai4 zaam6} /s'approcher du prochain arrêt (train, bus, etc.)/
+????f 埋站 埋站 [mai2 zhan4] {maai4 zaam6} /s'approcher du prochain arrêt (train, bus, métro, etc.)/
 ????f 埋籠 埋笼 [mai2 long2] {maai4 lung4} /(volaille, bétail, etc.) rentrer dans la cage la nuit/
 ????f 埋街 埋街 [mai2 jie1] {maai4 gaai1} /toucher terre/(vieilli) femme des bateaux qui s'épouse avec une homme qui vit sur terre/
 ????f 埋街食井水 埋街食井水 [mai2 jie1 shi2 jing3 shui3] {maai4 gaai1 sik6 zeng2 seoi2} /(expr. idiom.) (des prostituées) se marier/(expr. idiom.) se marier à quelqu'un d'une famille plus riche/(lit.) toucher terre et boire l'eau de puits/
@@ -7221,7 +7222,8 @@
 巖巖巉巉 岩岩巉巉 [yan2 yan2 chan2 chan2] {ngaam4 ngaam4 caam4 caam4} /irregulier; difforme; asymétrique/
 巖石 岩石 [yan2 shi2] {ngaam4 sek6} /roche; pierre/
 川島芳子 川岛芳子 [chuan1 dao3 fang1 zi5] {cyun1 dou2 fong1 zi2} /Kawashima, princesse Mandchoue/
-????f 川流不息 川流不息 [chuan1liu2bu4xi1] {cyun1 lau4 bat1 sik1} /(expr.) aller en un flot ininterrompu/(expr.) très fréquenté (restaurant, centre d'achat, etc.)/(lit.) comme un ruisseau qui coule sans interruption/
+????f 川流不息 川流不息 [chuan1 liu2 bu4 xi1] {cyun1 lau4 bat1 sik1} /(expr.) aller en un flot ininterrompu/(expr.) très fréquenté (restaurant, centre d'achat, etc.)/(lit.) comme un ruisseau qui coule sans interruption/
+川貝 川贝 [chuan1 bei4] {cyun1 bui3} /bulbe de la plante Bulbus fritillariae cirrhosae, utilisé dans la médecine traditionelle chinoise pour soulager la toux et réduire la production de mucus/
 ????f 州 州 [zhou1] {zau1} /préfecture; province; subdivision administrative/île dans une rivière/
 ????c 州官放火 州官放火 [zhou1 guan1 fang4 huo3] {zau1 gun1 fong3 fo2} /(expr. idiom.) dictature/
 巢𠵼𠵼 巢𠵼𠵼 [chao2 meng4 meng4] {caau4 mang1 mang1} /ridé/froissé/fripé/
@@ -13064,6 +13066,7 @@
 無關大體 无关大体 [wu2 guan1 da4 ti3] {mou4 gwaan1 daai6 tai2} /être insignifiant; ne pas avoir beaucoup d'importance/
 無限 无限 [wu2 xian4] {mou4 haan6} /infini/illimité; sans limites/
 無限大 无限大 [wu2 xian4 da4] {mou4 haan6 daai6} /(mathématiques) infini/
+無限續杯 无限续杯 [wu2 xian4 xu4 bei1] {mou4 haan6 zuk6 bui1} /boissons à volonté/
 ????f 無隙可乘 无隙可乘 [wu2 xi4 ke3 cheng2] {mou4 gwik1 ho2 sing4} /(expr. idiom.) aucune faille à exploiter/
 無頭東宮 无头东宫 [wu2 tou2 dong1 gong1] {mou4 tau4 dung1 gung1} /« Love is Beautiful » (« L'amour est beau »), drama historique hongkongais/
 無風三尺浪 无风三尺浪 [wu2 feng1 san1 chi3 lang4] {mou4 fung1 saam1 cek3 long6} /(expr. idiom.) troubles inattendus/(lit.) vagues d'un mètre de haut sans vent/
@@ -13323,6 +13326,7 @@
 爉 爉 [la4] {laap6} /cire/
 爐 炉 [lu2] {lou4} /cuisinière; fourneau/haut-fourneau/radiateur; convecteur/chauffe-eau/
 爐灰 炉灰 [lu2 hui1] {lou4 fui1} /cendres/
+爐頭 炉头 [lu4 tou2] {lou4 tau4} /élément chauffant sur une cuisinière/
 爔 爔 [xi1] {hei1} /lumière du soleil/
 ????f 爛 烂 [lan4] {laan6} /(fam.) avoir une dépendance (à la drogue, au jeu, etc.)/(fam.) bourré; ivre; soûl/
 爛ｇａｇ 烂ｇａｇ [lan4 g a g] {laan6 gek1} /(fam.) mauvaise blague/(orig.) de 爛|烂 « brisé; cassé; mauvais » et l'anglais gag, « blague »/
@@ -16171,6 +16175,7 @@
 繫念 系念 [xi4 nian4] {hai6 nim6} /être préoccupé par; se soucier de.../
 繼 继 [ji4] {gai3} /beau-(père)/belle-(mère)/demi-(frère; sœur)/continuer/suivant/
 續 续 [xu4] {zuk6} /continuer/prolonger (un contrat)/
+續杯 续杯 [xu4 bei1] {zuk6 bui1} /(d'une boisson) remplir à nouveau/
 纍贅 累赘 [lei2 zhui5] {leoi6 zeoi6} /pesant; lourd; encombrant/inconvénient; soucis/
 纏 缠 [chan2] {cin4} /emmêler/déranger; perturber; gêner/
 纏住 缠住 [chan2 zhu4] {cin4 zyu6} /emmêler/être obsédé par (quelque chose)/déranger; perturber; gêner/
@@ -22850,6 +22855,7 @@
 不知幾... 不知几... [bu4 zhi1 ji3…] {bat1 zi1 gei2…} /très; tellement; autant; extrêmement (voir aussi 唔知幾|唔知几)/
 ????c 不醉無歸 不醉无归 [bu4 zui4 wu2 gui1] {bat1 zeoi3 mou4 gwai1} /(expr. idiom.) (used to urge friends to drink until they are drunk)/
 不需 不需 [bu4 xu1] {bat1 seoi1} /non nécessaire; superflu/
+不夜城 不夜城 [bu4 ye4 cheng2] {bat1 je6 sing4} /ville qui ne dort jamais/
 ????c 丙一身 丙一身 [bing3 yi1 shen1] {bing2 jat1 san1} /(fam.) tabasser; rouer de coups/
 ????c 丙一鑊 丙一镬 [bing3 yi1 huo4] {bing2 jat1 wok6} /(fam.) tabasser; rouer de coups/
 ????c 丙到豬頭咁 丙到猪头咁 [bing3 dao4 zhu1 tou2 gan1] {bing2 dou3 zyu1 tau4 gam2} /(expr. idiom.) être tabassé; être couvert de bleus/(lit.) être tabassé et avoir l'air d'une tête de cochon/
@@ -26062,3 +26068,4 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 噶 噶 [ga2] {gaa3} /(Chine continental) (voir 㗎|㗎)/(Chine continental) (voir 嘅)/
 ＩＧ ＩＧ [ai4 ji4] {aai1 zi1} /(Hong Kong) Instagram, réseau social/
 ＡＥ ＡＥ [ei1 yi4] {ei1 i1} /(Hong Kong) American Express, société de carte de crédit/
+噫 噫 [yi4] {ji2} /beurk; pouah/
