@@ -45,6 +45,7 @@
 一係 一系 [yi1 xi4] {jat1 hai6} /soit... soit.../(pour faire une suggestion) « qu'en est-il de... » ou « pourquoi pas… »/
 一係...一係 一系...一系 [yi1 xi4… yi1 xi4] {jat1 hai6… jat1 hai6} /soit... soit.../
 一個 一个 [yi1 ge5] {jat1 go3} /un, une/
+一个人 一个人 [yi1 ge5 ren2] {jat1 go3 jan1} /seul; sans autre personne/
 一個一個 一个一个 [yi1 ge5 yi1 ge5] {jat1 go3 jat1 go3} /un par un/
 一個中國 一个中国 [yi1 ge4 zhong1 guo2] {jat1 go3 zung1 gwok3} /politique d'une seule Chine/
 一個二個 一个二个 [yi1 ge5 er4 ge4] {jat1 go3 ji6 go3} /un et deux/tout; chaque/
@@ -4185,7 +4186,7 @@
 唔同 唔同 [n2 tong2] {m4 tung4} /différent/
 唔啦更 唔啦更 [n2 la5 geng4] {m4 laa1 gaang1} /être sans rapport avec; avoir aucun lien avec/
 唔啱 唔啱 [n2 yan1] {m4 ngaam1} /incorrect; erroné; faux/
-????f 唔啱牙 唔啱牙 [n2 yan1 ya2] {m4 ngaam1 ngaa4} /(expr. idiom.) qui ne sont pas en bons termes l'un avec l'autre; qui ne s'entendent pas/(lit.) pas les bonnes dents/
+????f 唔啱牙 唔啱牙 [n2 yan1 ya2] {m4 ngaam1 ngaa2} /(expr. idiom.) qui ne sont pas en bons termes l'un avec l'autre; qui ne s'entendent pas/(lit.) pas les bonnes dents/
 唔啱蕎 唔啱荞 [n2 yan1 qiao2] {m4 ngaam1 kiu2} /(expr. idiom.) y avoir du conflit; être en désaccord; ne pas partager le même avis/(lit.) ne pas avoir le bon blé noir/
 唔單只 唔单只 [n2 dan1 zhi3] {m4 daan1 zi2} /non seulement/
 唔單止 唔单止 [n2 dan1 zhi3] {m4 daan1 zi2} /non seulement/
@@ -4444,7 +4445,7 @@
 啱心水 啱心水 [yan1 xin1 shui3] {ngaam1 sam1 seoi2} /(fig.) trouver à son goût; aimer (quelque chose)/
 啱晒 啱晒 [yan1 shai4] {ngaam1 saai3} /util; convenable; approprié/avoir raison/
 啱晒合尺 啱晒合尺 [yan1 shai4 he2 chi3] {ngaam1 saai3 ho4 ce1} /(expr. idiom.) plaire beaucoup à quelqu'un; être exactement à son goût/(lit.) conformer exactement aux tons de gongche (voir aussi 合尺|合尺)/
-啱牙 啱牙 [yan1 ya2] {ngaam1 ngaa4} /(rare) bien s'entendre (voir 唔啱牙|唔啱牙)/(lit.) les dents qui conviennent/
+啱牙 啱牙 [yan1 ya2] {ngaam1 ngaa2} /(rare) bien s'entendre (voir 唔啱牙|唔啱牙)/(lit.) les dents qui conviennent/
 ????c 啱睇 啱睇 [yan1 di4] {ngaam1 tai2} /bien ou approprié de voir/
 ????f 啱聽 啱听 [yan1 ting1] {ngaam1 ting1} /(quelque chose) que l'on aime écouter; avec lequel on est d'accord/
 ????f 啱身 啱身 [yan1 shen1] {ngaam1 san1} /(vêtements) aller à quelqu'un/
@@ -9273,7 +9274,7 @@
 掟煲 掟煲 [ding4 bao1] {deng3 bou1} /(expr. idiom.) rompre; se séparer (relation amoureuse)/(lit.) briser le pot/
 掟煲費 掟煲费 [ding4 bao1 fei4] {deng3 bou1 fai3} /frais de divorce/
 掠奪 掠夺 [lu:e4 duo2] {loek6 dyut6} /saccager; piller; mettre à sac/
-掠水 掠水 [lu:e4 shui3] {loek6 seoi2} /arnaquer; escroquer/
+掠水 掠水 [lu:e4 shui3] {loek1 seoi2} /arnaquer; escroquer/
 採取 采取 [cai3 qu3] {coi2 ceoi2} /adopter (une loi); prendre des mesures/
 採擷 采撷 [cai3 xie2] {coi2 git3} /cueillir/
 採擷 采撷 [cai3 xie2] {coi2 git3} /cueillir/
@@ -14643,7 +14644,7 @@
 眈天望地 眈天望地 [dan1 tian1 wang4 di4] {daam1 tin1 mong6 dei6} /(expr. idiom.) distrait; étourdi/(expr. idiom.) regarder dans toutes les directions/(expr. idiom.) n'avoir rien à faire/(lit.) regarder le ciel et regarder la terre/
 眉宇 眉宇 [mei2 yu3] {mei4 jyu5} /(tête) front/expression du visage; mine; contenance/
 眉精眼企 眉精眼企 [mei2 jing1 yan3 qi3] {mei4 zeng1 ngaan5 kei5} /(expr. idiom.) malin; futé/
-眉豆 眉豆 [mei2 dou4] {mei4 dau6} /cornille; dolique à œil noir; pois à vache; niébé/
+眉豆 眉豆 [mei2 dou4] {mei4 dau2} /cornille; dolique à œil noir; pois à vache; niébé/
 眉鉗 眉钳 [mei2 qian2] {mei4 kim4} /pince à épiler/
 眉頭眼額 眉头眼额 [mei2 tou2 yan3 e2] {mei4 tau4 ngaan5 ngaak6} /(fig.) expression faciale/(lit.) sourcils, tête, yeux, front/
 看到 看到 [kan4 dao4] {hon3 dou3} /voir; apercevoir/
@@ -17651,7 +17652,7 @@
 螢光筆 萤光笔 [ying2 guang1 bi3] {jing4 gwong1 bat1} /(instrument d'écriture) feutre/
 螺絲 螺丝 [luo2 si1] {lo4 si1} /vis/
 螺絲批 螺丝批 [luo2 si1 pi1] {lo4 si1 pai1} /tournevis/
-蟛蜞 蟛蜞 [peng2 qi2] {paang4 kei4} /(famille de crabes) Sesarmidae/
+蟛蜞 蟛蜞 [peng2 qi2] {paang4 kei2} /(famille de crabes) Sesarmidae/
 蟥蜞 蟥蜞 [huang2 qi2] {wong4 kei2} /sangsue/
 蟲蟲蟻蟻 虫虫蚁蚁 [chong2 chong2 yi3 yi3] {cung4 cung4 ngai5 ngai5} /insectes; bibittes/(lit.) insectes et fourmis/
 ????f 蟹 蟹 [xie4] {haai5} /crabe/(fig.) personne qui a perdu de l'argent en bourse/(fig.) (d'une action en bourse) chuter; baisser/
