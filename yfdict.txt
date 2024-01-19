@@ -492,7 +492,7 @@
 上海街 上海街 [shang4 hai3 jie1] {soeng6 hoi2 gaai1} /rue Shanghai, rue à Hong Kong/
 上湯 上汤 [shang4 tang1] {soeng6 tong1} /consommé; une soupe fait à base de fond blanc de vollaile, boeuf, ou poisson à fins de cuisine, et non pour consommer/
 上漆 上漆 [shang4 qi1] {soeng5 cat1} /finition de lacque/peindre; peinturer (un mur, une voiture, etc.)/
-上畫 上画 [shang4 hua4] {soeng5 waa2} /sortie (d'un film)/
+上畫 上画 [shang4 hua4] {soeng5 waa2} /(d'un film) sortir en salle/
 上皮組織 上皮组织 [shang4 pi2 zu3 zhi1] {soeng6 pei4 zou2 zik1} /tissu épithélial/
 ????f 上盤 上盘 [shang4 pan2] {soeng6 pun2} /(jeux d'argent de soccer) favori pour gagner/(extraction minière) éponte supérieure/(chimie) lame supérieure/
 ????f 上空裝 上空装 [shang4 kong1 zhuang1] {soeng6 hung1 zong1} /topless bathing suit/
@@ -2549,8 +2549,8 @@
 ????f 冤鬼 冤鬼 [yuan1 gui3] {jyun1 gwai2} /fantôme malchanceux; fantôme victime d'une mort injuste/(inj. ou affectueux) une personne qui énerve les autres/
 冥冥 冥冥 [ming2 ming2] {ming5 ming5} /prédestinée/
 冥冥之中 冥冥之中 [ming2 ming2 zhi1 zhong1] {ming5 ming5 zi1 zung1} /prédestiné/
-????f 冥壽 冥寿 [ming2 shou4] {ming5 sau6} /célébration d'un anniversaire ou fête d'un décédé (comptant à partir de la date de naissance)/
-????f 冥誕 冥诞 [ming2 dan4] {ming5 daan3} /célébration d'un anniversaire comptant à partir de la date du décès/
+冥壽 冥寿 [ming2 shou4] {ming5 sau6} /anniversaire d'un défunt/
+冥誕 冥诞 [ming2 dan4] {ming5 daan3} /anniversaire d'un défunt/
 冥鈔 冥钞 [ming2 chao1] {ming5 caau1} /billet funéraire; argent destiné à être brûlé pour les morts/
 冧價 冧价 [lin1 jia4] {lam3 gaa3} /baisse du prix/
 冧友 冧友 [lin1 you3] {lam1 jau5} /tuer (quelqu'un)/
@@ -2737,7 +2737,7 @@
 分離 分离 [fen1 li2] {fan1 lei4} /séparer; isoler/
 分類廣告 分类广告 [fen1 lei4 guang3 gao4] {fan1 leoi6 gwong2 gou3} /petites annonces/
 ????f 分餅仔 分饼仔 [fen1 bing3 zi3] {fan1 beng2 zai2} /(fig.) truquage des offres; soumettre des offres qui ont été décidées à l’avance/(fig.) répartir également entre les membres d'un groupe/(lit.) partager les petits biscuits/
-????f 分一杯羹 分一杯羹 [fen1 yi1 bei1 geng1] {fan1 jat1 bui1 gang1} /(d'une possibilité de gagner de l'argent) obtenir son part du gâteau; emboîter le pas d'une autre personne ou société pour gagner de l'argent/
+????f 分一杯羹 分一杯羹 [fen1 yi1 bei1 geng1] {fan1 jat1 bui1 gang1} /(d'une possibilité de gagner de l'argent) obtenir sa part du gâteau; emboîter le pas d'une autre personne ou société pour gagner de l'argent/
 切 切 [qie4] {cit3} /couper/hacher/tout/
 切 切 [qie4] {cai3} /tout/
 切削力 切削力 [qie1 xiao1 li4] {cit3 soek3 lik6} /force de coupe/
@@ -4136,7 +4136,7 @@
 唐餐 唐餐 [tang2 can1] {tong4 caan1} /cuisine chinoise/repas chinois/
 唔 唔 [wu2] {m4} /ne pas/ne pas être/non/pas/
 唔一定 唔一定 [wu2 yi1 ding4] {m4 jat1 ding6} /pas forcément/
-唔三唔四 唔三唔四 [n2 san1 wu2 si4] {m4 saam1 m4 sei3} /ni l'un ni l'autre/compromis qui ne convient à personne/dubitatif/louche/indécent/
+唔三唔四 唔三唔四 [n2 san1 wu2 si4] {m4 saam1 m4 sei3} /ni l'un ni l'autre/compromis qui ne convient à personne/dubitatif/louche; douteux; suspect/indécent/
 唔中用 唔中用 [n2 zhong1 yong4] {m4 zung1 jung6} /(personne) incapable, nul/
 唔似 唔似 [n2 shi4] {m4 ci5} /différent; qui ne ressemble à aucune autre/
 唔似樣 唔似样 [n2 shi4 yang4] {m4 ci5 joeng2} /scandaleux; choquant/être complètement différent/
@@ -4166,7 +4166,7 @@
 ????c 唔係我手腳 唔系我手脚 [n2 xi4 wo3 shou3 jiao3] {m4 hai6 ngo5 sau2 goek3} /(expr. idiom.) ce n'est pas moi qui l'ait fait/(lit.) ce n'est pas ma main ni mes pieds/
 ????f 唔係猛龍唔過江 唔系猛龙唔过江 [n2 xi4 meng3 long2 m2 guo4 jiang1] {m4 hai6 maang5 lung4 m4 gwo3 gong1} /(expr. idiom.) seule une personne douée pourrait gagner une vie loin de la maison/(lit.) un dragon pas féroce ne pourrait pas franchir le fleuve/
 ????c 唔係講玩 唔系讲玩 [n2 xi4 jiang3 wan2] {m4 hai6 gong2 waan2} /(expr. idiom.) parler sérieusement, parler d'une situation grave/(lit.) ne pas parler de jouer/
-唔係路 唔系路 [n2 xi4 lu4] {m4 hai6 lou6} /(expr. idiom.) déraisonnable/(expr. idiom.) louche; suspect/(lit.) ne pas être sur la bonne voie/
+唔係路 唔系路 [n2 xi4 lu4] {m4 hai6 lou6} /(expr. idiom.) déraisonnable/(expr. idiom.) anormal/(expr. idiom.) mauvaise (façon de faire quelque chose)/(lit.) ne pas être sur la bonne voie/
 唔公平 唔公平 [wu2 gong1 ping2] {m4 gung1 ping4} /injuste/
 唔准 唔准 [n2 zhun3] {m4 zeon2} /interdiction de; défense de; ne pas/ne pas permettre/
 唔出聲 唔出声 [n2 chu1 sheng1] {m4 ceot1 seng1} /rester silencieux/
@@ -4224,7 +4224,7 @@
 ????f 唔嬲就假 唔嬲就假 [n2 niao3 jiu4 jia3] {m4 nau1 zau6 gaa2} /(expr. idiom.) avoir des bonnes raisons de se mettre en colère/(lit.) c'est faux si on n'est pas fâché/
 唔安樂 唔安乐 [wu2 an1 le4] {m4 on1 lok6} /mal à l'aise/
 唔定 唔定 [n2 ding4] {m4 ding6} /peut-être/
-唔對路 唔对路 [n2 dui4 lu4] {m4 deoi3 lou6} /(fig.) louche; suspect/(lit.) ne pas être sur la bonne voie/
+唔對路 唔对路 [n2 dui4 lu4] {m4 deoi3 lou6} /(expr. idiom.) déraisonnable/(expr. idiom.) anormal/(expr. idiom.) mauvaise (façon de faire quelque chose)/(lit.) ne pas être sur la bonne voie/
 唔少 唔少 [n2 shao3] {m4 siu2} /nombreux/
 唔少得 唔少得 [n2 shao3 de5] {m4 siu2 dak1} /indispensable/
 唔得 唔得 [n2 de5] {m4 dak1} /ne pas pouvoir/non; pas question/
@@ -8103,7 +8103,7 @@
 恩惠 恩惠 [en1 hui4] {jan1 wai6} /gentillesse; service; acte de bonté/
 ????f 恪守不渝 恪守不渝 [ke4 shou3 bu4 yu2] {kok3 sau2 bat1 jyu4} /adhere to what one has previously promised/
 恭喜發財 恭喜发财 [gong1 xi3 fa1 cai2] {gung1 hei2 faat3 coi4} /bonne année!/(lit.) félicitations et faites fortune/ 
-????c 恭賀春釐 恭贺春釐 [gong1 he4 chun1 lai4] {gung1 ho6 ceon1 hei1} /célébrations du Nouvel An chinois/
+????c 恭賀春釐 恭贺春釐 [gong1 he4 chun1 lai4] {gung1 ho6 ceon1 hei1} /fêtes du Nouvel An chinois/
 ????c 息勞歸主 息劳归主 [xi1 lao2 gui1 zhu3] {sik1 lou4 gwai1 zyu2} /to rest from one's labour and return to God/
 息口 息口 [xi1 kou3] {sik1 hau2} /taux d'intérêt/
 ????f 息影 息影 [xi1 ying3] {sik1 jing2} /prendre sa retraite de l'industrie du spectacle/
@@ -10587,7 +10587,7 @@
 普通朋友 普通朋友 [pu3 tong1 peng2 you5] {pou2 tung1 pang4 jau5} /ami ordinaire/
 普飛 普飞 [pu3 fei1] {pou3 fei1} /buffet; buffet à volonté/(orig.) de l'anglais « buffet » (« buffet, buffet à volonté »)/
 景象 景象 [jing3 xiang4] {ging2 zoeng6} /scène/
-景轟 景轰 [jing3 hong1] {ging2 gwang1} /louche; suspect/
+景轟 景轰 [jing3 hong1] {ging2 gwang1} /louche; suspect; douteux/
 晶石 晶石 [jing1 shi2] {zing1 sek6} /crystal; spath (structure cristalline)/
 智囊 智囊 [zhi4 nang2] {zi3 nong4} /think tank; groupe de réflexion; laboratoire d'idées/
 智能電話 智能电话 [zhi4 neng2 dian4 hua4] {zi3 nang4 din6 waa2} /smartphone; téléphone intelligent/
@@ -11866,10 +11866,10 @@
 水晶體 水晶体 [shui3 jing1 ti3] {seoi2 zing1 tai2} /(anatomie) cristallin; lentille située dans le globe de l'oeil/
 ????f 水枱 水枱 [shui3 si4] {seoi2 toi4} /table de préparation d'aliments avec de l'eau qui coule dessus qui sert à la nettoyer continuellement/
 水柿 水柿 [shui3 shi4] {seoi2 ci2} /kaki; plaquemine/
-????f 水桶 水桶 [shui3 tong3] {seoi2 tung2} /seau (qui sert à contenir de l'eau)/
-????f 水榭 水榭 [shui3 xie4] {seoi2 ze6} /pavillon (petit bâtiment) à bord de l'eau/
+水桶 水桶 [shui3 tong3] {seoi2 tung2} /seau (récipient pour eau)/
+水榭 水榭 [shui3 xie4] {seoi2 ze6} /pavillon (petit bâtiment) au bord de l'eau/
 水樽 水樽 [shui3 zun1] {seoi2 zeon1} /bouteille d'eau/
-????c 水殼 水壳 [shui3 ke2] {seoi2 hok3} /louche d'eau; puisoir ou puisette d'eau/
+水殼 水壳 [shui3 ke2] {seoi2 hok3} /(cuisine) louche/
 水氹 水凼 [shui3 dang4] {seoi2 tam5} /flaque d'eau/
 水汪 水汪 [shui3 wang1] {seoi2 wong1} /(fig.) peu fiable/(fig.) sans valeur/(fig.) sans espoir; n'avoir aucune chance de succès/
 水洗都唔清 水洗都唔清 [shui3 xi3 dou1 n2 qing1] {seoi2 sai2 dou1 m4 cing1} /(expr. idiom.) ne pas parvenir à prouver son innocence/(lit.) ne pas pouvoir nettoyer avec de l'eau/
@@ -13649,13 +13649,13 @@
 獅子魚 狮子鱼 [shi1 zi5 yu2] {si1 zi2 jyu2} /(poisson) Rascasse volante, Pterois volitans/
 獅頭鵝 狮头鹅 [shi1 tou2 e2] {si1 tau4 ngo2} /oie de Chine/
 獎勵 奖励 [jiang3 li4] {zoeng2 lai6} /inciter; motiver; récompenser/
-獐頭鼠目 獐头鼠目 [zhang1 tou2 shu3 mu4] {zoeng1 tau4 syu2 muk4} /(expr. idiom.) très laid et louche/(lit.) avec la tête d'un cerf et les yeux d'un rat/
-????c 獟 獟 [xiao1] {hiu1} /a crazy dog/
+獐頭鼠目 獐头鼠目 [zhang1 tou2 shu3 mu4] {zoeng1 tau4 syu2 muk4} /(expr. idiom.) (d'une personne) laid et louche; affreux et malin/(lit.) avec la tête d'un cerf et les yeux d'un rat/
+獟 獟 [xiao1] {hiu1} /chien enragé/
 獨一無二 独一无二 [du2 yi1 wu2 er4] {duk6 jat1 mou4 ji6} /(expr. idiom.) unique; seul dans son genre/(lit.) seulement un, pas deux/
 獨係 独系 [du2 xi4] {duk6 hai6} /seulement; juste/
 獨具一格 独具一格 [du2 ju4 yi1 ge2] {duk6 geoi6 jat1 gaak3} /unique; hors pair; sans pareil/
 獨到之處 独到之处 [du2 dao4 zhi1 chu4] {duk6 dou3 zi1 cyu3} /particularité; caractéristique particulière/
-????c 獨善其身 独善其身 [du2 shan4 qi2 shen1] {duk6 sin6 kei4 san1} /être égoïste; ne penser qu'à soi-même/
+獨善其身 独善其身 [du2 shan4 qi2 shen1] {duk6 sin6 kei4 san1} /(expr.) rester à l'écart; rester en dehors (d'une situation désagréable)/
 獨家村 独家村 [du2 jia1 cun1] {duk6 gaa1 cyun1} /ermite; reclus/
 獨市生意 独市生意 [du2 shi4 sheng1 yi5] {duk6 si5 saang1 ji3} /monopole/
 獨幕劇 独幕剧 [du2 mu4 ju4] {duk6 mok6 kek6} /pièce en un acte/
@@ -14336,7 +14336,7 @@
 發白日夢 发白日梦 [fa1 bai2 ri4 meng4] {faat3 baak6 jat6 mung6} /(expr. idiom.) rêvasser; rêver/
 發矛 发矛 [fa1 mao2] {faat3 maau4} /paniquer; être effrayé/devenir fou; perdre la raison/
 ????f 發窮惡 发穷恶 [fa1 qiong2 e4] {faat3 kung4 ok3} /se mettre en colère à cause de son pauvreté; être irrité par ses difficultés financières/
-發糕 发糕 [fa1 gao1] {faat3 gou1} /gateau éponge cuit à la vapeur, patisserie chinoise consommée lors des célébrations du Nouvel An chinois/
+發糕 发糕 [fa1 gao1] {faat3 gou1} /gateau éponge cuit à la vapeur, patisserie chinoise consommée lors des fêtes du Nouvel An chinois/
 發羊吊 发羊吊 [fa1 yang2 diao4] {faat3 joeng4 diu3} /(fam.) faire une crise d'épilepsie/(fam.) épilepsie/
 發老脾 发老脾 [fa1 lao3 pi2] {faat3 lou5 pei4} /piquer une crise/se mettre en colère; s'emporter; se fâcher/s'énerver/
 發脾氣 发脾气 [fa1 pi2 qi4] {faat3 pei4 hei3} /se mettre en colère; s'emporter; se fâcher/piquer une crise/s'énerver/
@@ -15500,8 +15500,8 @@
 笑到見牙唔見眼 笑到见牙唔见眼 [xiao4 dao4 jian4 ya2 n2 jian4 yan3] {siu3 dou3 gin3 ngaa4 m4 gin3 ngaan5} /(expr. idiom.) rire de bon cœur/(lit.) rire jusqu'à ce que l'on puisse voir les dents et ne plus voir les yeux/
 笑口吟吟 笑口吟吟 [xiao4 kou3 yin2 yin2] {siu3 hau2 jam4 jam4} /sourire/sourirant/
 ????f 笑口噬噬 笑口噬噬 [xiao4 kou3 shi4 shi4] {siu3 hau2 sai4 sai4} /avoir un sourire forcé; avoir un faux sourire/
-????f 笑口棗 笑口枣 [xiao4 kou3 zao3] {siu3 hau2 zou2} /« boules de sésame souriantes », dessert chinois consommé lors des célébrations du Nouvel an/
-笑吟吟 笑吟吟 [xiao4 yin2 yin2] {siu3 jam4 jam4} /avec un sourire; souriant/
+笑口棗 笑口枣 [xiao4 kou3 zao3] {siu3 hau2 zou2} /« boules de sésame souriantes », dessert chinois consommé lors des fêtes du Nouvel an/
+笑吟吟 笑吟吟 [xiao4 yin2 yin2] {siu3 jam4 jam4} /avec un sourire/(en particulier) avec un sourire lubrique/(en particulier) avec un sourire narquois/
 笑咪咪 笑眯眯 [xiao4 mi1 mi1] {siu3 mi1 mi1} /sourire; avoir un petit sourire/
 笑嘻嘻 笑嘻嘻 [xiao4 xi1 xi1] {siu3 hei1 hei1} /avec un sourire; souriant/
 笑大人個口 笑大人个口 [xiao4 da4 ren5 ge4 kou3] {siu3 daai6 jan4 go3 hau2} /(expr. idiom.) très gênant; très humiliant/(lit.) qui fait rire aux éclats/
@@ -15778,7 +15778,7 @@
 糖果 糖果 [tang2 guo3] {tong4 gwo2} /bonbon; confiserie; friandise/
 糖水 糖水 [tang2 shui3] {tong4 seoi2} /tong sui, soupe sucrée servie comme dessert/
 ????f 糖水舖 糖水铺 [tang2 shui3 pu4] {tong4 seoi2 pou2} /restaurant de desserts où le tong sui est servi/
-糖環 糖环 [tang2 huan2] {tong4 waan4} /« anneaux de sucre », patisserie frite consommée lors des célébrations du Nouvel an chinois/
+糖環 糖环 [tang2 huan2] {tong4 waan4} /« anneaux de sucre », patisserie frite consommée lors des fêtes du Nouvel an chinois/
 糖膠樹 糖胶树 [tang2 jiao1 shu4] {tong4 gaau1 syu6} /(arbre tropical) Alstonia scholaris; arbre du diable; alstonia des écoliers; quinquina d'Inde; quinquina d'Australie/
 糖衣炮彈 糖衣炮弹 [tang2 yi1 pao4 dan4] {tong4 ji1 paau3 daan2} /(expr. idiom.) quelque chose qui paraît bon à première vue mais qui se révèle nuisible/(lit.) balle (d'arme à feu) recouverte de sucre/
 糖黐豆 糖黐豆 [tang2 chi1 dou4] {tong4 ci1 dau2} /(fig.) (personnes) inséparables/(lit.) comme du sucre qui colle aux fèves/
@@ -17336,7 +17336,7 @@
 落水狗 落水狗 [luo4 shui3 gou3] {lok6 seoi2 gau2} /(fig.) personne malchanceuse/(fig.) mauvaise personne qui a perdu son pouvoir/(lit.) chien tombé dans l'eau/
 落狗屎 落狗屎 [luo4 gou3 shi3] {lok6 gau2 si2} /(fig.) pleuvoir à cordes; pleuvoir à torrent; pleuvoir à verse; pleuvoir très fort/(lit.) pleuvoir des excréments de chien/
 ????f 落班 落班 [luo4 ban1] {lok6 baan1} /finir de travailler; sortir du travail; quitter le travail; finir de bosser/
-????f 落畫 落画 [luo4 hua4] {lok6 waa2} /(verb: (of a movie) to leave the big screen; to leave the theaters) date d'arrêt du box-office/
+????f 落畫 落画 [luo4 hua4] {lok6 waa2} /(d'un film) être retiré du cinéma; ne plus être à l’affiche/
 ????f 落紅 落红 [luo4 hong2] {lok6 hung4} /perdre la virginité/????f the show (during pregnancy when the plug of mucus from the cervix comes away)/(vieilli) (d'une fleur) tomber/
 落肥 落肥 [luo4 fei2] {lok6 fei4} /fertiliser; épandre de l'engrais/
 落膈 落膈 [luo4 ge2] {lok6 gaak3} /se reposer après un repas pour permettre à l'estomac de bien digérer la nourriture/
@@ -18007,7 +18007,7 @@
 西斜 西斜 [xi1 xie2] {sai1 ce4} /(chambre ou appartement) orienté ouest; avoir les fenêtres du côté ouest/
 ????f 西斜熱 西斜热 [xi1 xie2 re4] {sai1 ce4 jit6} /chaleur d'un coucher du soleil; chaleur ressentie lorsque l'on a des fenêtres du côté ouest/
 西方國家 西方国家 [xi1 fang1 guo2 jia1] {sai1 fong1 gwok3 gaa1} /pays occidentaux/
-西曬 西晒 [xi1 shai4] {sai1 saai3} /(chambre ou appartement) orienté ouest; avoir les fenêtres du côté ouest/
+西曬 西晒 [xi1 shai4] {sai1 saai3} /(chambre ou appartement) orienté ouest; avoir les fenêtres du côté ouest (voir aussi 西斜熱|西斜热)/
 西梅 西梅 [xi1 mei2] {sai1 mui2} /pruneau/
 西樂 西乐 [xi1 yue4] {sai1 ngok6} /musique occidentale/
 ????c 西樵 西樵 [xi1 qiao2] {sai1 ciu4} /Northwest wind/
@@ -18107,7 +18107,7 @@
 觀點 观点 [guan1 dian3] {gun1 dim2} /point de vue; avis; opinion/
 角 角 [jiao3] {gok3} /coin/angle/corne/pièce de dix cents/
 角 角 [jue2] {gok3} /personnage/rôle/lutter/
-????f 角仔 角仔 [jiao3 zi3] {gok3 zai2} /yau gok; jau gok; dumpling frit à l'huile qui est consommée lors des célébrations du Nouvel an chinois/
+角仔 角仔 [jiao3 zi3] {gok3 zai2} /yau gok; jau gok; dumpling frit à l'huile qui est consommée lors des fêtes du Nouvel an chinois/
 角度 角度 [jiao3 du4] {gok3 dou6} /angle/point de vue; angle/
 角落頭 角落头 [jiao3 lao4 tou5] {gok3 lok1 tau2} /coin/
 ????f 角鋼 角钢 [jiao3 gang1] {gok3 gong3} /Angle bar/
@@ -19185,7 +19185,7 @@
 蹺 跷 [qiao1] {kiu5} /lever (les pieds)/croiser (les bras, les jambes)/sécher les cours/
 蹺 跷 [qiao1] {kiu2} /par chance; par hasard/
 蹺妙 跷妙 [qiao1 miao4] {kiu2 miu6} /ingénieux/truc; astuce/
-蹺蹊 跷蹊 [qiao1 qi5] {kiu1 kei1} /bizarre; suspect; louche/
+蹺蹊 跷蹊 [qiao1 qi5] {kiu1 kei1} /bizarre; suspect; louche; douteux/
 躁 躁 [zao4] {cou3} /colérique; irascible; grincheux/impatient/
 躁暴 躁暴 [zao4 bao4] {cou3 bou6} /grincheux; irascible/brutal; violent/
 ????c 躁火 躁火 [zao4 huo3] {cou3 fo2} /raging with anger; angry/
@@ -19765,10 +19765,10 @@
 遼代 辽代 [liao2 dai4] {liu4 doi6} /dynastie Liao/
 遼朝 辽朝 [liao2 chao2] {liu4 ciu4} /dynastie Liao/
 避孕袋 避孕袋 [bi4 yun4 dai4] {bei6 jan6 doi6} /préservatif; capote; condom/
-????f 避年 避年 [bi4 nian2] {bei6 nin4} /quitter la maison afin d'éviter les célébrations et obligations sociales du Nouvel An chinois/
+避年 避年 [bi4 nian2] {bei6 nin4} /voyager (loin de chez soi) afin d'éviter les fêtes et obligations sociales du Nouvel An chinois/
 避忌 避忌 [bi4 ji4] {bei6 gei6} /éviter un sujet tabou/
 避暑勝地 避暑胜地 [bi4 shu3 sheng4 di4] {bei6 syu2 sing3 dei6} /résidence d'été; station balnéaire/
-????c 避車 避车 [bi4 che1] {bei6 ce1} /donner un droit de passage à un autre véhicule/esquiver les voitures/(escape car?)/
+避車 避车 [bi4 che1] {bei6 ce1} /donner un droit de passage à un autre véhicule/esquiver les voitures/
 避雨 避雨 [bi4 yu3] {bei6 jyu5} /s'abriter de la pluie; échapper à la pluie/
 避風塘 避风塘 [bi4 feng1 tang2] {bei6 fung1 tong4} /(Hong Kong) abri anti-typhon; abri des typhons/(fig.) maison familiale/
 避風頭 避风头 [bi4 feng1 tou5] {bei6 fung1 tau4} /faire profil bas/
@@ -20673,7 +20673,7 @@
 陰氣 阴气 [yin1 qi4] {jam1 hei3} /énergie yin/énergie féminine/énergie négative de la nature/
 陰濕 阴湿 [yin1 shi1] {jam1 sap1} /sombre et humide/(fig.) fourbe; rusé; malin/
 陰盛陽衰 阴盛阳衰 [yin1 sheng4 yang2 shuai1] {jam1 sing6 joeng4 seoi1} /(expr. idiom.) beaucoup de femmes et peu d'hommes/(lit.) beaucoup de yin, peu de yang/
-????f 陰聲細氣 阴声细气 [yin1 sheng1 xi4 qi4] {jam1 seng1 sai3 hei3} /(expr.) parler d'un voix douce (connotation négative, personne louche ou sinistre)/
+????f 陰聲細氣 阴声细气 [yin1 sheng1 xi4 qi4] {jam1 seng1 sai3 hei3} /(expr.) (d'une personne louche ou douteuse) parler d'un voix douce (connotation négative)/
 陰謀家 阴谋家 [yin1 mou2 jia1] {jam1 mau4 gaa1} /conspirateur/
 陰陰凍 阴阴冻 [yin1 yin1 dong4] {jam1 jam1 dung3} /froid; frette; frais/
 陰陰嘴笑 阴阴嘴笑 [yin1 yin1 zui3 xiao4] {jam1 jam1 zeoi2 siu3} /(expr. idiom.) rire sous sa barbe; rire en cachette/(lit.) rire d'une bouche en pénombre/
@@ -23304,7 +23304,7 @@
 合皮 合皮 [he2 pi2] {hap6 pei4} /content; heureux/(orig.) de l'anglais « happy » (« content, heureux »)/
 吉屋 吉屋 [ji2 wu1] {gat1 uk1} /maison inoccupée/
 吉慶圍 吉庆围 [ji2 qing4 wei2] {gat1 hing3 wai4} /Kat Hing Wai, village de Hong Kong/
-????f 吉祥如意 吉祥如意 [ji2 xiang2 ru2yi4] {gat1 coeng4 jyu4 ji3} /(expr.) que vous aurez autant de chance que vous voudrez (note : cette expression est utilisée pendant les célébrations du Nouvel An chinois)/
+????f 吉祥如意 吉祥如意 [ji2 xiang2 ru2yi4] {gat1 coeng4 jyu4 ji3} /(expr.) que vous aurez autant de chance que vous voudrez (note : cette expression est utilisée pendant les fêtes du Nouvel An chinois)/
 吊住條尾 吊住条尾 [diao4 zhu4 tiao2 wei3] {diu3 zyu6 tiu4 mei5} /(fam.) suivre; filer; pister/(fam.) filer aux basques/(lit.) s'accrocher à la queue/
 ????f 吊頸都要透氣 吊颈都要透气 [diao4 jing3 dou1 yao4 tou4 qi4] {diu3 geng2 dou1 jiu3 tau3 hei3} /(expr. idiom.) il faut prendre des pauses même si on est très occupé/(lit.) même si on est pendu, il faut respirer/
 同價 同价 [tong2 jia4] {tung4 gaa3} /même prix; coûter le même prix/
@@ -23789,7 +23789,7 @@
 寸到飛起 寸到飞起 [cun4 dao4 fei1 qi3] {cyun3 dou3 fei1 hei2} /(expr.) être très arrogant/(lit.) arrogant à se faire voler/
 ????f 寸得起 寸得起 [cun4 de5 qi3] {cyun3 dak1 hei2} /être arrogant mais avoir les exploits pour le justifier/
 寸過馬撚 寸过马撚 [cun4 guo4 ma3 nian3] {cyun3 gwo3 maa5 lan2} /(expr.) (vulg.) être très arrogant/(lit.) plus arrogant que la bite du cheval/
-????c 封老毛 封老毛 [feng1 lao3 mao2] {fung1 lou5 mou4} /(fam.) (fig.) offrir une enveloppe rouge (lors des célébrations du Nouvel An chinois)/
+????c 封老毛 封老毛 [feng1 lao3 mao2] {fung1 lou5 mou4} /(fam.) (fig.) offrir une enveloppe rouge (lors des fêtes du Nouvel An chinois)/
 ????f 封艇 封艇 [feng1 ting3] {fung1 teng5} /(argot des chauffeurs de taxi) se faire confisquer son taxi/(lit.) reboucher la barque/
 ????c 射嘢 射嘢 [she4 ye3] {se6 je5} /(fam.) éjaculer/
 專業知識 专业知识 [zhuan1 ye4 zhi1 shi5] {zyun1 jip6 zi1 sik1} /connaissance spécialisée/
@@ -23953,8 +23953,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 恨仔 恨仔 [hen4 zi3] {han6 zai2} /vouloir un fils/
 ????f 恨到發燒 恨到发烧 [hen4 dao4 fa1 shao1] {han6 dou3 faat3 siu1} /(expr. idiom.) vouloir quelque chose désespérément/(lit.) vouloir jusqu'à avoir de la fièvre/
 ????f 恨死隔離 恨死隔离 [hen4 si3 ge2 li2] {han6 sei2 gaak3 lei4} /(expr.) être l'objet d'une forte envie/(lit.) rendre les voisins très jaloux/
-????f 恭喜吉祥 恭喜吉祥 [gong1 xi3 ji2 xiang2] {gung1 hei2 gat1 coeng4} /(expr.) que vous ayez de la bonne fortune et de la bonne chance! (note : cette expression est utilisée pendant les célébrations du Nouvel An chinois)/
-????f 恭喜發財,利市𢭃來 恭喜发财,利市𢭃来 [gong1 xi3 fa1 cai2, li4 shi4 dou4 lai2] {gung1 hei2 faat3 coi4, lei6 si6 dau6 loi4} /félicitations et que vous soyez prospère, apportez-moi mon enveloppe rouge! (note : cette expression est utilisée lors des célébrations du Nouvel An chinois par les enfants pour demander d'une façon un peu espiègle que l'on leur donne leur enveloppe rouge)/
+????f 恭喜吉祥 恭喜吉祥 [gong1 xi3 ji2 xiang2] {gung1 hei2 gat1 coeng4} /(expr.) que vous ayez de la bonne fortune et de la bonne chance! (note : cette expression est utilisée pendant les fêtes du Nouvel An chinois)/
+????f 恭喜發財,利市𢭃來 恭喜发财,利市𢭃来 [gong1 xi3 fa1 cai2, li4 shi4 dou4 lai2] {gung1 hei2 faat3 coi4, lei6 si6 dau6 loi4} /félicitations et que vous soyez prospère, apportez-moi mon enveloppe rouge! (note : cette expression est utilisée lors des fêtes du Nouvel An chinois par les enfants pour demander d'une façon un peu espiègle que l'on leur donne leurs enveloppes rouges)/
 ????c 恰死 恰死 [qia4 si3] {hap1 sei2} /to bully severely [colloquial]/
 患上 患上 [huan4 shang4] {waan6 soeng5} /contracter (une maladie)/
 ????m 悶戰 闷战 [men4 zhan4] {mun6 zin3} /to use the tactic of deliberately prolonging something to waste or buy time [colloquial]/
@@ -25108,7 +25108,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 竹升女 竹升女 [zhu2 sheng1 nu:3] {zuk1 sing1 neoi2} /fille d'origine chinoise qui a grandi à l'étranger/
 竹席 竹席 [zhu2 xi2] {zuk1 zek6} /natte de bambou/
 笑到轆地 笑到辘地 [xiao4 dao4 lu4 di4] {siu3 dou3 luk1 dei2} /(expr. idiom.) très drôle; à se tordre de rire/(lit.) rire à s'en rouler par terre/
-????f 笑淫淫 笑淫淫 [xiao4 yin2 yin2] {siu3 jam4 jam4} /sourire d'une manière louche; sourire d'une manière lubrique/
+????f 笑淫淫 笑淫淫 [xiao4 yin2 yin2] {siu3 jam4 jam4} /avec un sourire/(en particulier) avec un sourire lubrique/(en particulier) avec un sourire narquois/
 笑爆咀 笑爆咀 [xiao4 bao4 ju3] {siu3 baau3 zeoi2} /(fig.) éclater de rire; trouver quelque chose très drôle/(lit.) rire à s'exploser la bouche/
 笑爆肚 笑爆肚 [xiao4 bao4 du4] {siu3 baau3 tou5} /(fig.) éclater de rire; trouver quelque chose très drôle/(lit.) rire à s'exploser la bouche/
 笠水 笠水 [li4 shui3] {lap1 seoi2} /avoir peur de quelque chose/
@@ -26020,9 +26020,9 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 𠹌 𠹌 [neng3] {nang3} /rare/(vulg.) bite; queue; pénis/
 𠺘 𠺘 [lang4] {long2} /rincer/
 𢭃 𢭃 [duan3] {dau3} /toucher/
-????f 𢭃 𢭃 [duan3] {dau6} /recevoir/gagner de l'argent facile (ton réprobateur)/(en particulier) recevoir des enveloppes rouges (pendant les célébrations du Nouvel An chinois) (voir aussi 𢭃利是|𢭃利是)/(police) enquêter/(en particulier) (police) vérifier l'identité de quelqu'un (voir aussi 畀龜逗|畀龟逗)/soulever quelque chose; soutenir (un poids)/
-𢭃利是 𢭃利是 [duan3 li4 shi4] {dau6 lai6 si6} /recevoir des enveloppes rouges (pendant les célébrations du Nouvel An chinois)/
-𢭃利是 𢭃利是 [duan3 li4 shi4] {dau6 lei6 si6} /recevoir des enveloppes rouges (pendant les célébrations du Nouvel An chinois)/
+????f 𢭃 𢭃 [duan3] {dau6} /recevoir/gagner de l'argent facile (ton réprobateur)/(en particulier) recevoir des enveloppes rouges (lors des fêtes du Nouvel An chinois) (voir aussi 𢭃利是|𢭃利是)/(police) enquêter/(en particulier) (police) vérifier l'identité de quelqu'un (voir aussi 畀龜逗|畀龟逗)/soulever quelque chose; soutenir (un poids)/
+𢭃利是 𢭃利是 [duan3 li4 shi4] {dau6 lai6 si6} /recevoir des enveloppes rouges (lors des fêtes du Nouvel An chinois)/
+𢭃利是 𢭃利是 [duan3 li4 shi4] {dau6 lei6 si6} /recevoir des enveloppes rouges (lors les fêtes du Nouvel An chinois)/
 𢳆 𢳆 [ao4] {ngou4} /secouer/se balancer/
 𣎴 𣎴 [dun3] {dan2} /stump of a tree/block of wood / stone/brick of porcelain clay/ # adapted from cc-cedict
 ????f 𤗈 𤗈 [xie4] {sip3} /insérer (dans une fente)/(plus généralement) faire rentrer quelque chose dans un petit espace/
@@ -26089,3 +26089,4 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 ＡＥ ＡＥ [ei1 yi4] {ei1 i1} /(Hong Kong) American Express, société de carte de crédit/
 噫 噫 [yi4] {ji2} /beurk; pouah/
 撻 挞 [ta4] {taak1} /démarrer (la voiture)/allumer; enflammer/(onomatopée d'un bruit sec) tac/
+塱 塱 [lang3] {long5} /(dans les noms de lieu) /digue surélevée; remblai de terre/
