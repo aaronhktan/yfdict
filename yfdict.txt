@@ -4074,8 +4074,8 @@
 咳水 咳水 [ke2 shui3] {kat1 seoi2} /sirop contre la toux/
 咳藥水 咳药水 [ke2 yao4 shui3] {kat1 joek6 seoi2} /sirop contre la toux/
 咸 咸 [xian2] {haam4} /salé/
-咸湿佬 咸湿佬 [xian2 shi1 lao3] {haam4 sap1 lou2} /(fig.) homme lubrique/(lit.) homme salé mouillé/
-咸濕公 咸湿公 [xian2 shi1 gong1] {haam4 sap1 gung1} /(fig.) vieil homme lubrique/(lit.) vieil homme salé mouillé/
+咸湿佬 咸湿佬 [xian2 shi1 lao3] {haam4 sap1 lou2} /(fig.) homme lubrique; homme libidineux/(lit.) homme salé mouillé/
+咸濕公 咸湿公 [xian2 shi1 gong1] {haam4 sap1 gung1} /(fig.) vieil homme lubrique; vieil homme libidineux/(lit.) vieil homme salé mouillé/
 咸片 咸片 [xian2 pian4] {haam4 pin2} /film pornographique/(lit.) film salé/
 咸豐年咁耐 咸丰年咁耐 [Xian2 feng1 nian2 gan1 nai4] {haam4 fung1 nin4 gam3 noi6} /(expr. idiom.) il y a très longtemps/
 ????c 咽喉 咽喉 [yan1 hou2] {jin1 hau4} /(fam.) cerveau (de quelque chose)/
@@ -22385,9 +22385,9 @@
 ????c 鹹淡水 咸淡水 [xian2 dan4 shui3] {haam4 taam5 seoi2} /eau saumâtre/dodgy business/
 鹹濕 咸湿 [xian2 shi1] {haam4 sap1} /(fig.) lubrique; libertin/(lit.) salé et humide/
 鹹濕 咸濕 [xian2 shi1] {haam4 sap1} /(fig.) lubrique; libertin/(lit.) salé et humide/
-鹹濕佬 咸湿佬 [xian2 shi1 lao3] {haam4 sap1 lou2} /pervers sexuel; homme lubrique/(lit.) homme salé et humide/
+鹹濕佬 咸湿佬 [xian2 shi1 lao3] {haam4 sap1 lou2} /pervers sexuel; homme lubrique; homme libidineux/(lit.) homme salé et humide/
 鹹濕片 咸湿片 [xian2 shi1 pian4] {haam4 sap1 pin3} /film pornographique; film porno/
-鹹濕鬼 咸湿鬼 [xian2 shi1 gui3] {haam4 sap1 gwai2} /pervers sexuel; homme lubrique/(lit.) fantôme salé et humide/
+鹹濕鬼 咸湿鬼 [xian2 shi1 gui3] {haam4 sap1 gwai2} /pervers sexuel; homme lubrique; homme libidineux/(lit.) fantôme salé et humide/
 鹹煎餅 鹹煎饼 [jian3 jian1 bing5] {haam4 zin1 beng2} /crêpe salée/
 鹹片 鹹片 [jian3 pian4] {haam4 pin2} /film pornographique; film porno/
 鹹粒 鹹粒 [jian3 li4] {haam4 nap1} /kératose pilaire/
@@ -25967,7 +25967,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 𪁐姐 𪁐姐 [li2 jie3] {fung6 ze2} /prostituée (voir aussi 鳳姐|凤姐)/
 ????m 鹹水大鱷 咸水大鳄 [xian2 shui3 da4 e4] {haam4 seoi2 daai6 ngok6} /a foreign swindler [colloquial] (specifically speculator in financial market?)/(lit.) crococile d'eau de mer/
 ????m 鹹淡場 咸淡场 [xian2 dan4 chang3] {haam4 taam5 coeng4} /a business that is slightly dodgy [colloquial]/
-????f 鹹濕仔 咸湿仔 [xian2 shi1 zi3] {haam4 sap1 zai2} /(fig.) jeune homme libertin; jeune homme qui est un obsédé sexuel/(lit.) jeune homme salé mouillé/
+????f 鹹濕仔 咸湿仔 [xian2 shi1 zi3] {haam4 sap1 zai2} /(fig.) jeune homme libertin; jeune homme qui est un obsédé sexuel; jeune homme libidineux/(lit.) jeune homme salé mouillé/
 ????v 鹹濕故仔 咸湿故仔 [xian2 shi1 gu4 zi3] {haam4 sap1 gu2 zai2} /(fig.) histoires érotiques (mais pas trop explicite)/(lit.) histoire salée mouillée/
 鹹濕相 咸湿相 [xian2 shi1 xiang1] {haam4 sap1 soeng2} /(fig.) photos pornographiques/(lit.) photo salée mouillée/
 鹹濕笑話 咸湿笑话 [xian2 shi1 xiao4 hua5] {haam4 sap1 siu3 waa2} /(fig.) blagues indécentes/(lit.) blague salé mouillé/
