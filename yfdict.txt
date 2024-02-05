@@ -618,7 +618,7 @@
 不特只 不特只 [bu4 te4 zhi3] {bat1 dak6 zi2} /non seulement/
 不特止 不特止 [bu4 te4 zhi3] {bat1 dak6 zi2} /non seulement/
 不甘後人 不甘后人 [bu4 gan1 hou4 ren2] {bat1 gam1 hau6 jan4} /ne pas se laisser surpasser; ne pas se laisser prendre du retard/
-不生性 不生性 [bu4 sheng1 xing5] {bat1 saang1 sing3} /immature/être désobéissant; se conduire mal/
+不生性 不生性 [bu4 sheng1 xing5] {bat1 saang1 sing3} /immature; (enfant) vilain; désobéissant; qui se conduit mal/
 不留 不留 [bu4 liu2] {bat1 lau1} /depuis le début; tous ce temps/jusqu'ici; jusqu'au présent/
 不留意 不留意 [bu4 liu2 yi4] {bat1 lau4 ji3} /être négligent; être inattentif/
 ????f 不知好笑還是好怒 不知好笑还是好怒 [bu4 zhi1 hao3 xiao4 hai2 shi5 hao3 nu4] {bat1 zi1 hou2 siu3 waan4 si6 hou2 nou6} /(expr. idiom.) rendre quelqu'un fou/(expr. idiom.) ne pas savoir comment on devrait réagir face à une situation/(lit.) ne pas savoir si on devrait rire de quelque chose ou être exaspéré/
@@ -4275,7 +4275,7 @@
 ????f 唔理三七廿一 唔理三七廿一 [n2 li3 san1 qi1 nian4 yi1] {m4 lei5 saam1 cat1 jaa6 jat1} /(expr. idiom.) sans se soucier des conséquences; quoi qu'il arrive; n'importe ce qui arrive; peu importe le moyen/(expr. idiom.) s'en foutre de tout/(lit.) se ficher de trois fois sept égal vingt-et-un/
 ????c 唔理得咁多 唔理得咁多 [n2 li3 de5 gan1 duo1] {m4 lei5 dak1 gam3 do1} /se ficher de tout/le faire tout simplement/
 唔理點 唔理点 [n2 li3 dian3] {m4 lei5 dim2} /quoi qu'il arrive; n'importe ce qui arrive; peu importe le moyen/
-????c 唔生性 唔生性 [n2 sheng1 xing5] {m4 saang1 sing3} /immature/
+唔生性 唔生性 [n2 sheng1 xing5] {m4 saang1 sing3} /immature; (enfant) vilain; désobéissant; qui se conduit mal/
 唔相干 唔相干 [wu2 xiang1 gan1] {m4 soeng1 gon1} /hors de propos; qui n'a rien à voir avec/
 ????f 唔瞅唔睬 唔瞅唔睬 [n2 chou3 m2 cai3] {m4 cau1 m4 coi2} /(expr. idiom.) bouder; faire la tête à quelqu'un; ignorer quelqu'un/
 唔知 唔知 [n2 zhi1] {m4 zi1} /ne pas savoir; ne pas connaître; méconnaître/très; tellement; autant; extrêmement/
@@ -5519,6 +5519,7 @@
 大人物 大人物 [da4 ren2 wu4] {daai6 jan4 mat2} /personne importante ou populaire/
 大仔 大仔 [da4 zi3] {daai6 zai2} /fils aîné; premier-né/
 大件事 大件事 [da4 jian4 shi4] {daai6 gin6 si6} /affaire sérieuse; situation grave/
+????f 大件夾抵食 大件夹抵食 [da4 jian4 jia1 di3 shi2] {daai6 gin6 gaap3 dai2 sik6} /(d'un repas) une grande portion à bas prix/
 大份 大份 [da4 fen4] {daai6 fan6} /grande partie/
 大佛寺 大佛寺 [da4 fo2 si4] {daai6 fat6 zi2} /Temple Dafo (lit.) temple du Grand Bouddha, temple situé dans la ville de Canton/
 大佬 大佬 [da4 lao3] {daai6 lou2} /frère aîné; grand frère/gestionnaire; patron/directeur; chef; leader/(exprime de la surprise, indignation, ou colère) mon pote; mec/
@@ -11123,7 +11124,7 @@
 柯士甸 柯士甸 [ke1 shi4 dian4] {o1 si6 din6} /John Gardiner Austin, ancien Secrétaire Coloniale de Hong Kong/
 柯士甸道 柯士甸道 [ke1 shi4 dian4 dao4] {o1 si6 din6 dou6} /Austin Road, rue située à Hong Kong/
 柯打 柯打 [ke1 da3] {o1 daa2} /ordre; commandement/(restaurant) commande/(orig.) de l'anglais « order » (« ordre »)/
-柴台 柴台 [chai2 tai2] {caai4 toi4} /interrompre un spectacle; chahuter/
+柴台 柴台 [chai2 tai2] {caai4 toi4} /interrompre un spectacle; huer; chahuter/
 柴灣 柴湾 [chai2 wan1] {caai4 waan1} /Chai Wan, quarter de Hong Kong/Chai Wan, station du métro de Hong Kong/
 柴魚 柴鱼 [chai2 yu2] {caai4 jyu4} /morue séchée/katsuobushi, préparation japonaise de bonite à ventre rayé séchée, fermentée, et fumée/
 校友會 校友会 [xiao4 you3 hui4] {haau6 jau5 wui2} /association des anciens élèves/
@@ -20939,6 +20940,7 @@
 離遠 离远 [li2 yuan3] {lei4 jyun5} /à distance; de loin/
 離鄉別井 离乡别井 [li2 xiang1 bie2 jing3] {lei4 hoeng1 bit6 zeng2} /quitter sa ville natale/
 離開 离开 [li2 kai1] {lei4 hoi1} /partir; quitter; s'en aller/(fig.) décéder/
+????f 離地 离地 [li2 di4] {lei4 dei6} /(d'une personne) être privilégié et déconnecté des gens ordinaires/
 難 难 [nan2] {naan4} /difficile/
 難 难 [nan2] {naan6} /catastrophe; désastre/
 難以形容 难以形容 [nan2 yi3 xing2 rong2] {naan4 ji5 jing4 jung4} /indescriptible; indicible/
@@ -24881,6 +24883,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????c 生耦 生耦 [sheng1 ou3] {saang1 ngau5} /flirtation; coquetry [colloquial]/
 生芒果 生芒果 [sheng1 mang2 guo3] {saang1 mong1 gwo2} /(fig.) contracter une MST; contracter une maladie sexuellement transmissible/(lit.) faire pousser des mangues/
 生面口 生面口 [sheng1 mian4 kou3] {saang1 min6 hau2} /(d'une personne) inconnu; nouveau/
+生性 生性 [sheng1 xing4] {saang1 sing3} /sage; mûr/(d'un enfant) bien élevé; obéissant/
 ????f 用屎忽諗嘢 用屎忽谂嘢 [yong4 shi3 hu1 shen3 ye3] {jung6 si2 fat1 nam2 je5} /(expr. idiom.) (fam.) faire une suggestion ridicule; penser d'une façon ridicule; être très stupide/(lit.) utiliser ses fesses pour penser/
 ????c 甩大牙 甩大牙 [shuai3 da4 ya2] {lat1 daai6 ngaa4} /to lose one's molars ('if you tell lies you will lose your molars', an expression used to express the importance of honesty) [colloquial] (講大話甩大牙)/
 甩甩ｃｕｔｃｕｔ 甩甩ｃｕｔｃｕｔ [shuai3 shuai3c u t c u t] {lat1 lat1 kat1 kat1} /(fam.) trébucher sur ses mots; parler avec difficulté/
