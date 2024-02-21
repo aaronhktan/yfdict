@@ -6046,6 +6046,7 @@
 奇蹟 奇迹 [qi2 ji4] {kei4 zik1} /miracle; merveille/
 奇離 奇离 [qi2 li2] {ke4 le4} /(comportement) excentrique; bizarre; farfelu/mal habillé/impoli; grossier/
 ????c 奈佢唔何 奈渠唔何 [nai4 qu2 n2 he2] {noi6 keoi5 m4 ho4} /(personne, fauteur de troubles) de qui l'on ne peut pas s'occuper; que l'on ne peut pas supporter; de qui l'on n'arrive pas a s'en charger/(personne, fauteur de troubles) qu'on ne peut plus discipliner; que l'on ne peut pas arrêter; que l'on ne peut pas punir/
+奈何 奈何 [nai4 he2] {noi6 ho4} /quel dommage; on ne peut rien y faire/
 ????f 奉天承運 奉天承运 [feng4 tian1 cheng2 yun4] {fung6 tin1 sing4 wan6} /(expr. idiom.) par grâce de Dieu; par le mandat du Ciel/
 ????f 奉旨 奉旨 [feng4 zhi3] {fung6 zi2} /assurément; certainement; absolument; forcément/en vertu d'un décret impérial/
 ????f 奉旨成婚 奉旨成婚 [feng4 zhi3 cheng2 hun1] {fung6 zi2 sing4 fan1} /(shotgun marriage; marriage due to a woman getting pregnant)/
@@ -9796,7 +9797,7 @@
 據 据 [ju4] {geoi3} /preuve; quelque chose qui établit la véracité d'un fait/
 據我所知 据我所知 [ju4 wo3 suo3 zhi1] {geoi3 ngo5 so2 zi1} /à ma connaissance; d'après ce que je sais; d'après moi/
 據説 据说 [ju4 shuo1] {geoi3 syut3} /on dit que; j'ai entendu dire que/
-據講 據讲 [ji3 jiang3] {geoi3 gong2} /on dit que; j'ai entendu dire que/
+據講 據讲 [ju4 jiang3] {geoi3 gong2} /on dit que; j'ai entendu dire que/
 㩒住頭 㩒住头 [qin2 zhu4 tou2] {gam6 zyu6 tau4} /se mettre au travail; s'affairer à (faire quelque chose)/être absorbé dans son travail/
 㩒機 㩒机 [qin2 ji1] {gam6 gei1} /(fig.) retirer de l'argent à un guichet automatique; retirer de l'argent à un distributeur automatique de billets/(lit.) appuyer sur la machine/
 㩒錢 㩒钱 [qin2 qian2] {gam6 cin2} /(fig.) retirer de l'argent à un guichet automatique; retirer de l'argent à un distributeur automatique de billets/(lit.) appuyer sur l'argent/
@@ -15434,7 +15435,7 @@
 竇唯 窦唯 [dou4 wei2] {dau6 wai4} /Dou Wei, musicien chinois/
 ????f 竊國 窃国 [qie4 guo2] {sit3 gwok3} /usurper le pouvoir de l'État/
 竊案 窃案 [qie4 an4] {sit3 on3} /vol (prendre quelque chose d'autrui)/
-立亂 立乱 [li4 luan4] {lap6 lyun6} /en désordre; désordonné/imprudemment; précipitamment; étourdiment/
+立亂 立乱 [li4 luan4] {lap6 lyun2} /imprudemment; précipitamment; sans y penser/
 立例 立例 [li4 li4] {laap6 lai6} /légiférer/
 立功 立功 [li4 gong1] {laap6 gung1} /apporter une grande contribution/accomplir une bonne œuvre/acquérir des mérites/se disinguer; se démarquer; sortir du lot/
 ????f 立功贖罪 立功赎罪 [li4 gong1 shu2 zui4] {laap6 gung1 suk6 zeoi6} /(expr.) expier un crime en faisant une bonne action/
@@ -15681,6 +15682,8 @@
 ????f 籠屋 笼屋 [long2 wu1] {lung4 uk1} /(en particulier, à Hong Kong) « maison-cage », appartement subdivisé d'une superficie minuscule, souvent de moins de dix mètres carrés (voir aussi 棺材房|棺材房, 板間房|板间房)/
 籠裏雞作反 笼里鸡作反 [long2 li3 ji1 zuo4 fan3] {lung4 leoi5 gai1 zok3 faan2} /(expr. idiom.) conflit interne/(lit.) les poules dans la cage se révoltent/
 ????f 籠𨋢 笼𨋢 [lung2 𨋢5] {lung4 lip1} /monte-charge; ascenseur de service/
+籠底 笼底 [long2 di3] {lung2 dai2} /(fig.) (décrit un « lieu » où se trouve un secret bien gardé, ex. « sous le boisseau »)/(fig.) (d'un projet, des plans) remettre à plus tard; mettre de côté; abandonner pour l'instant/(lit.) fond du panier/
+籠底 笼底 [long2 di3] {lung4 dai2} /(fig.) (décrit un « lieu » où se trouve un secret bien gardé, ex. « sous le boisseau »)/(fig.) (d'un projet, des plans) remettre à plus tard; mettre de côté; abandonner pour l'instant/(lit.) fond du panier/
 籮 箩 [luo2] {lo4} /(fam.) fesses; derrière/
 籮噼 箩噼 [luo2 pi1] {lo1 pet1} /(fam.) fesses; derrière/
 籮底橙 箩底橙 [luo2 di3 cheng2] {lo4 dai2 caang2} /(fig.) fond du panier; produits restants que personne ne veut/(fig.) (péj.) femmes qui restent célibataires toute leur vie/(lit.) oranges (qui restent) au fond/
