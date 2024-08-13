@@ -4950,7 +4950,7 @@
 國難 国难 [guo2 nan4] {gwok3 naan6} /crise nationale/
 ????c 國魂 国魂 [guo2 hun2] {gwok3 wan4} /esprit national/
 圍 围 [wei2] {wai4} /circonférence/
-圍內 围內 [wei2 na4] {wai4 noi2} /clique; cercle fermé/
+圍內 围內 [wei2 nei4] {wai4 noi2} /clique; cercle fermé/
 圍屏 围屏 [wei2 ping2] {wai4 ping4} /paravent/
 圍繞 围绕 [wei2 rao4] {wai4 jiu5} /entourer/tourner autour de/axer sur/
 圍頭話 围头话 [wei2 tou2 hua4] {wai4 tau4 waa6} /dialecte Weitou/
@@ -10452,9 +10452,9 @@
 明暗 明暗 [ming2 an4] {ming4 am3} /la lumière et l'obscurité/
 明槍暗箭 明枪暗箭 [ming2 qiang1 an4 jian4] {ming4 coeng1 am3 zin3} /(expr. idiom.) attaques ouvertes et attaques clandestines/(lit.) une lance en pleine journée, des flèches en pleine nuit/
 ????f 明渠 明渠 [ming2 qu2] {ming4 keoi4} /drain découvert; fossé ouvert (nullah: an open, usually concrete-lined channel designed to allow rapid drainage of storm precipitation or industrial wastewater, essentially a canal that is dry most of the time)/
-明火 明火 [ming2 huo3] {ming4 fo2} /flamme ouverte/
-????f 明火執仗 明火执仗 [ming2 huo3 zhi2 zhang4] {ming4 fo2 zap1 zoeng3} /(expr. idiom.) voler de façon éhontée/(expr. idiom.) faire de mauvaises choses effrontément/(lit.) prendre ses armes à flamme ouverte/
-????f 明火打劫 明火打劫 [ming2 huo3 da3 jie2] {ming4 fo2 daa2 gip3} /(expr. idiom.) voler de façon éhontée/(lit.) voler avec des torches et armes/
+明火 明火 [ming2 huo3] {ming4 fo2} /flamme nue/
+????f 明火執仗 明火执仗 [ming2 huo3 zhi2 zhang4] {ming4 fo2 zap1 zoeng3} /(expr. idiom.) voler de façon éhontée; voler au grand jour/(expr. idiom.) faire de mauvaises choses effrontément/(lit.) prendre ses armes à flamme nue/
+????f 明火打劫 明火打劫 [ming2 huo3 da3 jie2] {ming4 fo2 daa2 gip3} /(expr. idiom.) voler de façon éhontée; voler au grand jour/(lit.) voler avec des torches et armes/
 ????f 明燈 明灯 [ming2 deng1] {ming4 dang1} /lumière brillante/(fig.) une personne qui a raison quand il prédit l'avenir/(fig.) (sarcastique) une personne qui a toujours tort quand il donne des conseils ou essaie de prédire l'avenir/
 ????c 明爐 明炉 [ming2 lu2] {ming4 lou4} /faire cuire sur un feu charbon/
 明珠台 明珠台 [ming2 zhu1 tai2] {ming4 zyu1 toi4} /TVB Pearl, chaîne de télévision à Hong Kong/
