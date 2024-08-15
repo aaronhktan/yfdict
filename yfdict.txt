@@ -3486,7 +3486,7 @@
 ????f 受茶禮 受茶礼 [shou4 cha2 li3] {sau6 caa4 lai5} /accepter les cadeaux de fiançailles et se fiancer/
 受落 受落 [shou4 luo4] {sau6 lok6} /être populaire; être bien accueilli/
 受薪 受薪 [shou4 xin1] {sau6 san1} /percevoir un salaire/
-????f 受軟唔受硬 受软唔受硬 [shou4 ruan3 n2 shou4 ying4] {sau6 jyun5 m4 sau6 ngaang6} /(expr. idiom.) quelqu'un qui peut être persuadé mais ne peut pas être obligé à faire quelque chose/(lit.) qui reçoit une chose molle mais pas une chose dure/
+????f 受軟唔受硬 受软唔受硬 [shou4 ruan3 n2 shou4 ying4] {sau6 jyun5 m4 sau6 ngaang6} /(expr. idiom.) quelqu'un qui peut être persuadé mais ne peut pas être obligé de faire quelque chose/(lit.) qui reçoit une chose molle mais pas une chose dure/
 受靶 受靶 [shou4 ba3] {sau6 baa2} /être critiqué/être emprisonné/
 受騙上當 受骗上当 [shou4 pian4 shang4 dang4] {sau6 pin3 soeng5 dong3} /(expr.) être trompé/
 受黑錢 受黑钱 [shou4 hei1 qian2] {sau6 hak1 cin2} /(fig.) accepter des pots-de-vin/(lit.) recevoir de l'argent noir/
@@ -3499,11 +3499,11 @@
 口乖 口乖 [kou3 guai1] {hau2 gwaai1} /beau-parleur; flatteur/(lit.) bouche obéissante/
 口乾 口干 [kou3 gan1] {hau2 gon1} /avoir soif/bouche sèche/
 口信 口信 [kou3 xin4] {hau2 seon3} /message vocal/
-????f 口同鼻拗 口同鼻拗 [kou3 tong2 bi2 ao3] {hau2 tung4 bei6 ngaau3} /(expr. idiom.) situation « il a dit, elle a dit »; deux côtés qui se disputent sans faits ou rationalisation/(lit.) la bouche et le nez obstiné/
-????f 口吻 口吻 [kou3 wen3] {hau2 man5} /ton de la voix; attitude exprimée par la voix/
+口同鼻拗 口同鼻拗 [kou3 tong2 bi2 ao3] {hau2 tung4 bei6 ngaau3} /(expr. idiom.) situation « il a dit, elle a dit »; deux côtés qui se disputent sans faits ou rationalisation/(lit.) la bouche et le nez obstiné/
+口吻 口吻 [kou3 wen3] {hau2 man5} /ton de la voix; attitude exprimée par la voix/
 口唇 口唇 [kou3 chun2] {hau2 seon4} /lèvres/
 口唇膏 口唇膏 [kou3 chun2 gao1] {hau2 seon4 gou1} /rouge à lèvres/
-????f 口唔對心 口唔对心 [kou3 n2 dui4 xin1] {hau2 m4 deoi3 sam1} /(expr. idiom.) dire une chose mais penser une autre; ne pas dire ce que l'on pense vraiment/(lit.) la bouche ne fait pas face au cœur/
+口唔對心 口唔对心 [kou3 n2 dui4 xin1] {hau2 m4 deoi3 sam1} /(expr. idiom.) dire une chose mais penser une autre; ne pas dire ce que l'on pense vraiment/(lit.) la bouche ne fait pas face au cœur/
 口啞 口哑 [kou3 ya3] {hau2 aa2} /muet, muette/
 口啞啞 口哑哑 [kou3 e4 e4] {hau2 aa2 aa2} /(fig.) avoir un chat dans la gorge; rester sans voix; être muet/
 口噏噏 口噏噏 [kou3 xi1 xi1] {hau2 ngap1 ngap1} /balbutier; parler indistinctement/
@@ -3518,14 +3518,14 @@
 口擘擘 口掰掰 [kou3 bai1 bai1] {hau2 maak3 maak3} /bouche bée/haleter/
 口數 口数 [kou3 shu4] {hau2 sou3} /calcul mental/
 ????f 口服心服 口服心服 [kou3 fu2 xin1 fu2] {hau2 fuk6 sam1 fuk6} /être convaincu; avoir du respect pour quelqu'un ou l'avis de quelqu'un/
-????f 口果 口果 [kou3 guo3] {hau2 gwo2} /(collation) fruits séchés/
+????m 口果 口果 [kou3 guo3] {hau2 gwo2} /(collation) fruits séchés/
 口氣 口气 [kou3 qi4] {hau2 hei3} /haleine de la bouche/ton (de la voix); façon de parler; attitude exprimée par la voix/
 口水 口水 [kou3 shui3] {hau2 seoi2} /salive/bavard; loquace/
 口水佬 口水佬 [kou3 shui3 lao3] {hau2 seoi2 lou2} /(fig.) moulin à paroles; bavard/(lit.) homme à salive/
 口水多過茶 口水多过茶 [kou3 shui3 duo1 guo4 cha2] {hau2 seoi2 do1 gwo3 caa4} /(expr. idiom.) bavard; loquace/(lit.) plus de salive que du thé/
-????f 口水尾 口水尾 [kou3 shui3 wei3] {hau2 seoi2 mei5} /nourriture et boissons qui restent/(fig.) mots ou idées déjà mentionnés par les autres/
+口水尾 口水尾 [kou3 shui3 wei3] {hau2 seoi2 mei5} /(un peu péj.) nourriture et boissons qui restent/postillons; gouttes de salive/(fig.) mots ou idées déjà mentionnés par les autres/
 口水流 口水流 [kou3 shui3 liu2] {hau2 seoi2 lau4} /baver/
-????f 口水溦 口水溦 [kou3 shui3 mei2] {hau2 seoi2 mei4} /postillons; gouttes de salive/(fig.) mots ou idées déjà mentionnés par les autres/
+口水溦 口水溦 [kou3 shui3 mei2] {hau2 seoi2 mei4} /(un peu péj.) nourriture et boissons qui restent/postillons; gouttes de salive/(fig.) mots ou idées déjà mentionnés par les autres/(voir aussi 口水尾|口水尾)/
 口水痰 口水痰 [kou3 shui3 tan2] {hau2 seoi2 taam4} /expectoration (glaire, mucus)/
 口水肩 口水肩 [kou3 shui3 jian1] {hau2 seoi2 gin1} /bavoir; bavette/
 口水花 口水花 [kou3 shui3 hua1] {hau2 seoi2 faa1} /postillons; gouttes de salive/
@@ -3538,26 +3538,26 @@
 口疏 口疏 [kou3 shu1] {hau2 so1} /(fig.) qui ne sait pas tenir sa langue/
 口痕 口痕 [kou3 hen2] {hau2 han4} /(fig.) avoir un petit creux/(fig.) moulin à paroles; bavard/(lit.) bouche qui démange/
 口痕友 口痕友 [kou3 hen2 you3] {hau2 han4 jau5} /(fig.) moulin à paroles; bavard/(lit.) personne qui a la bouche qui démange/
-????f 口盅 口盅 [kou3 zhong1] {hau2 zung1} /tasse pour se rincer la bouche après s'eêtre brossé les dents/
-????f 口硬 口硬 [kou3 ying4] {hau2 ngaang6} /(fig.) qui refuse d'admettre ses erreurs/(lit.) bouche dure/
+口盅 口盅 [kou3 zhong1] {hau2 zung1} /tasse pour se rincer la bouche après s'être brossé les dents/
+口硬 口硬 [kou3 ying4] {hau2 ngaang6} /(fig.) qui refuse d'admettre ses erreurs/(lit.) bouche dure/
 口碼 口码 [kou3 ma3] {hau2 maa5} /éloquence/
 口窒窒 口窒窒 [kou3 zhi4 zhi4] {hau2 zat6 zat6} /balbutiant; (s'exprimer) en hésitant/
 口立濕 口立濕 [kou3 li4 chi4] {hau2 laap6 sap1} /casse-croûte; grignotine; collation/
 口腫面腫 口肿面肿 [kou3 zhong3 mian4 zhong3] {hau2 zung2 min6 zung2} /bouche et visage enflé/
 口腹 口腹 [kou3 fu4] {hau2 fuk1} /appétit; désir de manger (voir 口腹之慾|口腹之欲)/
-????f 口臭仔 口臭仔 [kou3 chou4 zi3] {hau2 cau3 zai2} /(fig.) jeune homme qui s'attire des ennuis parce qu'il ne sait pas tenir sa langue/(lit.) jeune homme avec une bouche qui pue/
-????f 口花 口花 [kou3 hua1] {hau2 faa1} /flatter; être mielleux avec/
-口花花 口花花 [kou3 hua1 hua5] {hau2 faa1 faa1} /flatteur; mielleux/
+????m 口臭仔 口臭仔 [kou3 chou4 zi3] {hau2 cau3 zai2} /(fig.) jeune homme qui s'attire des ennuis parce qu'il est grossier/(lit.) jeune homme avec une bouche qui pue/
+口花 口花 [kou3 hua1] {hau2 faa1} /(personne) flatteur; mielleux/
+口花花 口花花 [kou3 hua1 hua5] {hau2 faa1 faa1} /(personne) flatteur; mielleux/
 ????c 口苦 口苦 [kou3 ku3] {hau2 fu2} /goût amer dans la bouche/ne pas avoir d'appétit/
 口角 口角 [kou3 jiao3] {hau2 gok3} /coin de la bouche/disputer/dispute/
-????f 口語化 口语化 [kou3 yu3 hua4] {hau2 jyu5 faa3} /(registre, langage) (to colloquialise) rendre familier/
+口語化 口语化 [kou3 yu3 hua4] {hau2 jyu5 faa3} /(registre, langage) « traduire » en langage familier/
 口說無憑 口说无凭 [kou3 shuo1 wu2 ping2] {hau2 syut3 mou4 pang4} /la parole ne peut pas servir de preuve/
-????f 口輕 口轻 [kou3 qing1] {hau2 heng1} /(fig.) qui fait de vaines promesses; qui fait des promesses creuses; qui ne tient pas ses promesses/(lit.) bouche légère/
+口輕 口轻 [kou3 qing1] {hau2 heng1} /(fig.) qui fait de vaines promesses; qui fait des promesses creuses; qui ne tient pas ses promesses/(lit.) bouche légère/
 口輕輕 口轻轻 [kou3 qing1 qing1] {hau2 heng1 heng1} /(fig.) qui fait de vaines promesses; qui fait des promesses creuses; qui ne tient pas ses promesses/(lit.) bouche légère/
 口部 口部 [kou3 bu4] {hau2 bou6} /oral/la bouche/
 口震震 口震震 [kou3 zhen4 zhen4] {hau2 zan3 zan3} /balbutiant; (s'exprimer) en hésitant/
 口面 口面 [kou3 mian4] {hau2 min6} /expression (de visage)/visage/
-????f 口響 口响 [kou3 xiang3] {hau2 hoeng2} /(fig.) qui ne tient pas ses promesses/(lit.) bouche bruyante/
+口響 口响 [kou3 xiang3] {hau2 hoeng2} /(fig.) qui ne tient pas ses promesses/(lit.) bouche bruyante/
 口頭 口头 [kou3 tou2] {hau2 tau4} /verbalement/
 口黑面黑 口黑面黑 [kou3 hei1 mian4 hei1] {hau2 hak1 min6 hak1} /avoir l'air mécontent/
 口齒 口齿 [kou3 chi3] {hau2 ci2} /articulation; énonciation/capacité de parler/crédibilité; fiabilité/promesse/
@@ -3578,8 +3578,8 @@
 古老十八代 古老十八代 [gu3 lao3 shi2 ba1 dai4] {gu2 lou5 sap6 baat3 doi6} /(expr.) très vieux; très ancien/(expr.) il y a très longtemps/
 ????f 古老當時興 古老当时兴 [gu3 lao3 dang1 shi2 xing1] {gu2 lou5 dong3 si4 hing1} /revenir au goût du jour/
 ????f 古老石山 古老石山 [gu3 lao3 shi2 shan1] {gu2 lou5 sek6 saan1} /(expr. idiom.) vieil homme têtu, vieille femme têtue; personne âgée qui refuse d'accepter des nouvelles idées/(lit.) une montagne ancienne/
-古董 古董 [gu3 dong3] {gu2 dung2} /(personne) vieux et fragile/
-????f 古裝片 古装片 [gu3 zhuang1 pian4] {gu2 zong1 pin2} /film de costumes chinois traditionnel (costume drama film)/
+古董 古董 [gu3 dong3] {gu2 dung2} /(fig.) (personne) vieux et fragile/(lit.) antiquité/
+????f 古裝片 古装片 [gu3 zhuang1 pian4] {gu2 zong1 pin2} /film de costumes chinois traditionnels/
 ????f 古訓 古训 [gu3 xun4] {gu2 fan3} /vieil adage; ancienne maxime/
 古銅 古铜 [gu3 tong2] {gu2 tung4} /bronzé/bronze/
 古雅 古雅 [gu3 ya3] {gu2 ngaa5} /classique et élégant/
@@ -3589,7 +3589,7 @@
 句號 句号 [ju4 hao4] {geoi3 hou6} /point (ponctuation)/
 另一邊 另一边 [ling4 yi1 bian1] {ling6 jat1 bin1} /l'autre côté/
 另外 另外 [ling4 wai4] {ling6 ngoi6} /autre/
-????f 另行安排 另行安排 [ling4 xing2 an1 pai2] {ling6 hang4 on1 paai4} /prendre des dispositions différentes/
+????c 另行安排 另行安排 [ling4 xing2 an1 pai2] {ling6 hang4 on1 paai4} /prendre des dispositions différentes/
 另行通知 另行通知 [ling4 xing2 tong1 zhi1] {ling6 hang4 tung1 zi1} /notifier plus tard/
 ????c 另議 另议 [ling4 yi4] {ling6 ji5} /en parler plus tard/
 另起爐灶 另起炉灶 [ling4 qi3 lu2 zao4] {ling6 hei2 lou4 zou3} /(expr. idiom.) ouvrir une nouvelle entreprise/(lit.) créer une autre cuisinière/
@@ -3633,7 +3633,7 @@
 可見度 可见度 [ke3 jian4 du4] {ho2 gin3 dou6} /visibilité/
 台 台 [tai2] {toi4} /scène; estrade; tribune/station de radio/chaîn de télévision/abbréviation de Taïwan/
 台 台 [tai2] {toi2} /table/
-????f 台型 台型 [tai2 xing2] {toi4 jing4} /charisme sur scène; performance sur scène (air on scene; performance on scene)/
+????f 台型 台型 [tai2 xing2] {toi4 jing4} /charisme sur scène; performance sur scène/
 台山話 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /(langue) taishanais/
 台灣問題 台湾问题 [tai2 wan1 wen4 ti2] {toi4 waan1 man6 tai4} /« question de Taïwan », le sujet du statut de Taïwan vis-à-vis la Chine continentale/
 台灣牌 台湾牌 [tai2 wan1 pai2] {toi4 waan1 paai2} /mah-jong taïwanais/
@@ -3684,14 +3684,14 @@
 各有各 各有各 [ge4 you3 ge4] {gok3 jau5 gok3} /avec son propre (quelque chose)/séparément/
 各自為政 各自为政 [ge4 zi4 wei2 zheng4] {gok3 zi6 wai4 zing3} /(expr.) faire les choses chacun à sa manière, sans considérer l'effort d'ensemble/
 各花入各眼 各花入各眼 [ge4 hua1 ru4 ge4 yan3] {gok3 faa1 jap6 gok3 ngaan5} /(expr. idiom.) la beauté est dans les yeux de celui qui regarde; la beauté est subjective/(lit.) chaque fleur entre différement dans chaque oeil/
-????f 各行各路 各行各路 [ge4 hang2 ge4 lu4] {gok3 haang4 gok3 lou6} /chacun suit son propre chemin; deux personnes qui se séparent ou font des choses différentes à l'avenir/
-????f 各適其適 各適其適 [ge4 di2 qi2 di2] {gok3 sik1 kei4 sik1} /(expr.) chacun fait ce qui lui plaît/
+各行各路 各行各路 [ge4 hang2 ge4 lu4] {gok3 haang4 gok3 lou6} /chacun suit son propre chemin/(en particulier) deux personnes qui se séparent ou feront des choses différentes à l'avenir/
+各適其適 各適其適 [ge4 di2 qi2 di2] {gok3 sik1 kei4 sik1} /(expr.) chacun fait ce qui lui plaît/
 各項 各项 [ge4 xiang4] {gok3 hong6} /chaque objet/chaque type/
 各顯神通 各显神通 [ge4 xian3 shen2 tong1] {gok3 hin2 san4 tung1} /(expr.) chacun montre son propre aptitude unique (voir aussi 八仙過海，各顯神通|八仙过海，各显神通)/
 合乎 合乎 [he2 hu1] {hap6 fu4} /qui correspond (aux faits)/qui est conforme (aux normes)/
 合乎邏輯 合乎逻辑 [he2 hu1 luo2 ji5] {hap6 fu4 lo4 cap1} /logique; rationnel/
-????f 合份 合份 [he2 fen4] {gaap3 fan2} /mutualiser les moyens/
-????c 合作企業 合作企业 [he2 zuo4 qi3 ye4] {hap6 zok3 kei5 jip6} /entreprise coopérative (exists but hard to explain: company where multiple people pool together resources and build a company together, while also contributing in their own area of expertise, expected to be a long-term partnership rather than a single investment)/
+合份 合份 [he2 fen4] {gaap3 fan2} /mutualiser les moyens/
+????m 合作企業 合作企业 [he2 zuo4 qi3 ye4] {hap6 zok3 kei5 jip6} /entreprise coopérative/
 合埋 合埋 [he2 mai2] {hap6 maai4} /fermer/combiner/
 合尺 合尺 [he2 chi3] {ho4 ce1} /les deux notes du système de notation musical gongche/
 合心水 合心水 [he2 xin1 shui3] {hap6 sam1 seoi2} /(fig.) plaire à quelqu'un; être à son goût/
@@ -3722,26 +3722,26 @@
 ????f 吊威吔 吊威吔 [diao4 wei1 ye5] {diu3 wai1 jaa2} /être suspendu dans les airs pour un film ou une émission de télé; faire une cascade/(orig.) de l'anglais « wire » (« fil de fer »), d'où 吊威也|吊威也 « être suspendu par un fil de fer »/
 吊尾 吊尾 [diao4 wei3] {diu3 mei5} /suivre; prendre en filature; filer/
 ????f 吊櫃 吊柜 [diao4 gui4] {diu3 gwai6} /armoire (murale); placard suspendu; placard attaché au mur qui ne touche pas au sol/
-????c 吊煲 吊煲 [diao4 bao1] {diu3 bou1} /qui n'arrive pas à se débrouiller seul, sans défense/sans emploi/
+????m 吊煲 吊煲 [diao4 bao1] {diu3 bou1} /qui n'arrive pas à se débrouiller seul, sans défense/sans emploi/
 吊癮 吊瘾 [diao4 yin3] {diu3 jan5} /(fig.) arrêt net; arrêt brutal (d'une dépendance)/(fig.) titiller; allécher/(fig.) garder en suspens/(lit.) suspendre une envie/
 吊砂煲 吊砂煲 [diao4 sha1 bao1] {diu3 saa1 bou1} /(fig.) être sans emploi; vivoter; subsister avec peine/(lit.) suspendre la terrine/
 吊臘鴨 吊腊鸭 [diao4 la4 ya1] {diu3 laap6 aap2} /(expr. idiom.) (fam.) pendre; se pendre/(lit.) suspendre un canard au barbecue/
-????f 吊起來賣 吊起来卖 [diao4 qi3 lai2 mai4] {diu3 hei2 lai4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
-????f 吊起嚟賣 吊起嚟卖 [diao4 qi3 li2 mai4] {diu3 hei2 lei4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
+吊起來賣 吊起来卖 [diao4 qi3 lai2 mai4] {diu3 hei2 lai4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
+吊起嚟賣 吊起嚟卖 [diao4 qi3 li2 mai4] {diu3 hei2 lei4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
 吊銷執照 吊销执照 [diao4 xiao1 zhi2 zhao4] {diu3 siu1 zap1 ziu3} /retirer une licence/
 吊銷牌照 吊销牌照 [diao4 xiao1 pai2 zhao4] {diu3 siu1 paai4 ziu3} /retirer une licence/
 吊鐘 吊钟 [diao4 zhong1] {diu3 zung1} /(genre d'arbres et arbustes) enkianthus/luette/
 吊門桔 吊门桔 [diao4 men2 ju2] {diu3 mun4 gat1} /(fig.) personne maigre/(lit.) mandarine accrochée à la porte/
 吊靴鬼 吊靴鬼 [diao4 xue1 gui3] {diu3 hoe1 gwai2} /(fig.) personne collante; harceleur, harceleuse/(lit.) fantôme qui traîne les bottes/
 吊頸 吊颈 [diao4 jing3] {diu3 geng2} /se suicider par pendaison/
-????f 吊頸都要透氣 吊颈都要透气 [diao4 jing3 dou1 yao4 tou4 qi4] {diu3 geng2 dou1 jiu3 tau2 hei3} /(expr. idiom.) tout le monde a besoin de prendre une pause, même si on est très occupé/(lit.) on a besoin de respirer même si on se suicide par pendaison/
+吊頸都要透氣 吊颈都要透气 [diao4 jing3 dou1 yao4 tou4 qi4] {diu3 geng2 dou1 jiu3 tau2 hei3} /(expr. idiom.) tout le monde a besoin de faire une pause, même si on est très occupé/(lit.) on a besoin de respirer même si on se suicide par pendaison/
 吊骨 吊骨 [diao4 gu3] {diu3 gwat1} /(pantalon) trop court/(endroit) reculé; inaccessible/
 吊腳 吊脚 [diao4 jiao3] {diu3 goek3} /(pantalon) trop court/(endroit) reculé; inaccessible/
-????f 吊高嚟賣 吊高嚟卖 [diao4 gao1 li2 mai4] {diu3 gou1 lei4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
-????f 吊鹽水 吊盐水 [diao4 yan2 shui3] {diu3 jim4 seoi2} /mettre sous perfusion/
-????f 同一個鼻哥窿出氣 同一个鼻哥窿出气 [tong2 yi1 ge5 bi2 ge1 long2 chu1 qi4] {tung4 jat1 go3 bei6 go1 lung1 ceot1 hei3} /(expr. idiom.) (péj.) partager le même point de vue; avoir les mêmes idées; partager les mêmes avis; être de mèche avec quelqu'un; être complice avec quelqu'un/(lit.) souffler de la même narine/
+吊高嚟賣 吊高嚟卖 [diao4 gao1 li2 mai4] {diu3 gou1 lei4 maai6} /(expr. idiom.) vendre quelque chose trop cher; vendre des produits à un prix trop élevé/(expr. idiom.) demander plus après être devenu célèbre; se faire désirer; adopter une attitude arrogante à cause de sa célébrité, sa beauté, etc./(lit.) vendre des objets suspendus dans l'air/
+吊鹽水 吊盐水 [diao4 yan2 shui3] {diu3 jim4 seoi2} /mettre sous perfusion/
+同一個鼻哥窿出氣 同一个鼻哥窿出气 [tong2 yi1 ge5 bi2 ge1 long2 chu1 qi4] {tung4 jat1 go3 bei6 go1 lung1 ceot1 hei3} /(expr. idiom.) (péj.) partager le même point de vue; avoir les mêmes idées; partager les mêmes avis; être de mèche avec quelqu'un; être complice avec quelqu'un/(lit.) souffler de la même narine/
 同事 同事 [tong2 shi4] {tung4 si6} /collègue/
-????f 同人唔同命，同遮唔同柄 同人唔同命，同遮唔同柄 [tong2 ren2 n2 tong2 ming4 , tong2 zhe1 n2 tong2 bing3] {tung4 jan4 m4 tung4 ming6 tung4 ze1 m4 tung4 beng3} /chacun a son propre destin; à chacun son destin/(lit.) même personnes, différentes vies; même parapluie, différentes poignées/
+同人唔同命，同遮唔同柄 同人唔同命，同遮唔同柄 [tong2 ren2 n2 tong2 ming4 , tong2 zhe1 n2 tong2 bing3] {tung4 jan4 m4 tung4 ming6 tung4 ze1 m4 tung4 beng3} /(expr. idiom.) chacun a son propre destin; à chacun son destin/(lit.) même personnes, différentes vies; même parapluie, différentes poignées/
 同仁 同仁 [tong2 ren2] {tung4 jan4} /collègue/
 同位角 同位角 [tong2 wei4 jiao3] {tung4 wai6 gok3} /angles correspondants/
 同和站 同和站 [tong2 he2 zhan4] {tung4 wo2 zaam6} /station Tonghe, station du métro de Canton/
@@ -3755,7 +3755,7 @@
 同心圓 同心圆 [tong2 xin1 yuan2] {tung4 sam1 jyun4} /cercles concentriques/
 同性婚姻 同性婚姻 [tong2 xing4 hun1 yin1] {tung4 sing3 fan1 jan1} /mariage entre personnes de même sexe; mariage homosexuel; mariage gay/
 同情心 同情心 [tong2 qing2 xin1] {tung4 cing4 sam1} /empathie/
-????f 同撈同煲 同捞同煲 [tong2 lao1 tong2 bao1] {tung4 lou1 tung4 bou1} /(expr. idiom.) se serrer les coudes pour faire face à l'adversité; rester unis contre vents et marées/(lit.) à travers mélanger et bouillir/
+同撈同煲 同捞同煲 [tong2 lao1 tong2 bao1] {tung4 lou1 tung4 bou1} /(expr. idiom.) se serrer les coudes pour faire face à l'adversité; rester unis contre vents et marées/(lit.) à travers mélanger et bouillir/
 同樂 同乐 [tong2 le4] {tung4 lok6} /s'amuser ensemble/
 同樣 同样 [tong2 yang4] {tung4 joeng6} /même; pareil; identique/
 同步 同步 [tong2 bu4] {tung4 bou6} /au même rhythme que/
@@ -3769,7 +3769,7 @@
 同花 同花 [tong2 hua1] {tung4 faa1} /(poker) quinte flush/
 同行 同行 [tong2 hang2] {tung4 hang4} /voyager ou aller ensemble/
 同行 同行 [tong2 hang2] {tung4 hong4} /quelqu'un qui travaille dans la même industrie/
-????f 同行如敵國 同行如敌国 [tong2 hang2 ru2 di2 guo2] {tung4 hong4 jyu4 dik6 gwok3} /(expr. idiom.) deux personnes travaillant dans la même industrie sont comme deux pays qui sont ennemis/(lit.) même industrie comme deux pays ennemis/
+同行如敵國 同行如敌国 [tong2 hang2 ru2 di2 guo2] {tung4 hong4 jyu4 dik6 gwok3} /(expr. idiom.) deux personnes travaillant dans la même industrie sont comme deux pays qui sont ennemis/(lit.) même industrie comme deux pays ennemis/
 同謀 同谋 [tong2 mou2] {tung4 mau4} /conspirer; comploter/
 ????f 同門 同门 [tong2 men2] {tung4 mun4} /étudier sous le même maître/
 名副其實 名副其实 [ming2 fu4 qi2 shi2] {ming4 fu3 kei4 sat6} /(expr. idiom.) être digne du nom/être judicieusement nommé/
@@ -3777,7 +3777,7 @@
 ????f 名媛望族 名媛望族 [ming2 yuan2 wang4 zu2] {ming4 wun4 mong6 zuk6} /personne née dans une famille de classe sociale supérieure/
 ????f 名成利就 名成利就 [ming2 cheng2 li4 jiu4] {ming4 sing4 lei6 zau6} /(expr. idiom.) réussir et devenir célèbre/
 名校 名校 [ming2 xiao4] {ming4 haau6} /école réputée/
-????f 名正言順 名正言顺 [ming2 zheng4 yan2 shun4] {ming4 zing3 jin4 seon6} /(expr. idiom.) raisonné; approprié; justifié; logique/
+????f 名正言順 名正言顺 [ming2 zheng4 yan2 shun4] {ming4 zing3 jin4 seon6} /(expr. idiom.) convenable; conforme aux règles; légitime; justifiable/
 名牌 名牌 [ming2 pai2] {ming4 paai4} /(produit) de marque/marque connue/
 名符其實 名符其实 [ming2 fu2 qi2 shi2] {ming4 fu4 kei4 sat6} /(expr.) être digne du nom/être judicieusement nommé/
 名貴 名贵 [ming2 gui4] {ming4 gwai3} /rare; cher; de valeur/
@@ -3789,13 +3789,13 @@
 向右 向右 [xiang4 you4] {hoeng3 jau6} /vers la droite/tourner vers la droite/
 向左 向左 [xiang4 zuo3] {hoeng3 zo2} /vers la gauche/tourner vers la gauche/
 向著 向着 [xiang4 zhe5] {hoeng3 zoek6} /(se tourner) vers/
-????f 吔吔烏 吔吔乌 [ye5 ye5 wu1] {jaa4 jaa4 wu1} /(personne) qui ne fait pas un bon travail; qui est peu fiable/(produit) de mauvaise qualité/
+吔吔烏 吔吔乌 [ye5 ye5 wu1] {jaa4 jaa4 wu1} /(personne) qui ne fait pas un bon travail; qui est peu fiable/(produit) de mauvaise qualité/
 吔吔聲 吔吔声 [ye5 ye5 sheng1] {jaa1 jaa1 seng1} /(interjection qui exprime la surprise, l'incrédulité, la colère, la douleur, etc.)/
 吔屎 吔屎 [ye5 shi3] {jaak3 si2} /va te faire foutre, (Can.) mange d'la marde!/(lit.) mange de la merde/
 吔蕉 吔蕉 [ye5 jiao1] {jaak3 ziu1} /va te faire foutre, (Can.) mange d'la marde!/(lit.) mange une banane/
-????f 吖嗎 吖吗 [a1 ma5] {aa1 maa3} /(particule modale exprimant qu'un fait semble évident au locuteur, ou qui explique son avis)/(particule modale qui demande la confirmation, similaire à « ... non? » en français)/
-????f 吖嗱 吖嗱 [a1 na2] {aa1 naa4} /(particule modale exprimant une menace, qui suit la condition et se situe avant les conséquences)/
-????f 吖嘛 吖嘛 [a1 ma5] {aa1 maa3} /(particule modale exprimant qu'un fait semble évident au locuteur, ou qui explique son avis)/(particule modale qui demande la confirmation, similaire à « ... non? » en français)/
+吖嗎 吖吗 [a1 ma5] {aa1 maa3} /(particule modale exprimant qu'un fait semble évident au locuteur, ou qui explique son avis)/(particule modale qui demande la confirmation, similaire à « ... non? » en français)/
+吖嗱 吖嗱 [a1 na2] {aa1 naa4} /(particule modale exprimant une menace qui suit la condition préable et se situe avant les conséquences)/
+吖嘛 吖嘛 [a1 ma5] {aa1 maa3} /(particule modale exprimant qu'un fait semble évident au locuteur, ou qui explique son avis)/(particule modale qui demande la confirmation, similaire à « ... non? » en français)/
 君 君 [jun1] {gwan1} /roi; souverain; monarque/(litt.) monsieur/(arch.) vous/
 君主專制 君主专制 [jun1 zhu3 zhuan1 zhi4] {gwan1 zyu2 zyun1 zai3} /monarchie absolue/
 君之 君之 [jun1 zhi1] {gwan1 zi1} /qui appartient au roi/
@@ -3807,13 +3807,13 @@
 吞口水養命 吞口水养命 [tun1 kou3 shui3 yang3 ming4] {tan1 hau2 seoi2 joeng5 meng6} /(expr. idiom.) qui est très pauvre/(lit.) survivre en avalant sa propre salive/
 吞咗火藥 吞咗火药 [tun1 zuo5 huo3 yao4] {tan1 zo2 fo2 joek6} /(expr. idiom.) de mauvaise humeur; irascible/(lit.) avoir avalé de la poudre à canon/
 吞拿魚三文治 吞拿鱼三文治 [tun1 na2 yu2 san1 wen2 zhi4] {tan1 naa4 jyu2 saam1 man4 zi6} /sandwich au thon/
-????f 吞槍 吞枪 [tun1 qiang1] {tan1 coeng1} /se suicider en tirant dans la bouche (to commit suicide by shooting oneself in the mouth)/(lit.) avaler une arme à feu/
+????f 吞槍 吞枪 [tun1 qiang1] {tan1 coeng1} /se suicider en se tirant une balle dans la bouche (to commit suicide by shooting oneself in the mouth)/(lit.) avaler une arme à feu/
 吞樸 吞朴 [tun1 pu3] {tan1 pok1} /être paresseux/
-????f 吞蛋 吞蛋 [tun1 dan4] {tan1 daan2} /(fig.) obtenir une note de zéro sur un examen/(fig.) (sports) ne pas marquer de buts; marquer zéro point/(lit.) avaler un oeuf/
+吞蛋 吞蛋 [tun1 dan4] {tan1 daan2} /(fig.) obtenir une note de zéro pour un examen/(fig.) (sports) ne pas marquer de buts; marquer zéro point/(lit.) avaler un oeuf/
 吞那魚 吞那鱼 [tun1 na4 yu2] {tan1 naa5 jyu4} /thon/(orig.) de l'anglais « tuna » (« thon »)/
 吟吟沉沉 吟吟沉沉 [yin2 yin2 chen2 chen2] {ngam4 ngam4 cam4 cam4} /maugréant; gromellant/
 吟沉 吟沉 [yin2 chen2] {ngam4 cam4} /maugréant; gromellant/parler sans arrêt/
-????f 吟詩作對 吟诗作对 [yin2 shi1 zuo4 dui4] {jam4 si1 zok3 deoi3} /écrire des poèmes et des distiques/
+????f 吟詩作對 吟诗作对 [yin2 shi1 zuo4 dui4] {jam4 si1 zok3 deoi3} /(litt.) écrire des poèmes et des distiques/
 ????f 含冤莫白 含冤莫白 [han2 yuan1 mo4 bai2] {ham4 jyun1 mok6 baak6} /être victime d'un coup monté mais ne pas pouvoir se défendre; être victime d'une injustice mais ne pas pouvoir se défendre/
 含含聲 含含声 [han2 han2 sheng1] {ham4 ham4 seng1} /(onomatopée pour quelque chose qui brûle)/(onomatopée pour un endroit bruyant)/
 含撚 含捻 [han2 nian3] {ham4 lan2} /(vulg.) fellation; pipe; turlute/
@@ -3856,8 +3856,8 @@
 吹波機 吹波机 [chui1 bo1 ji1] {ceoi1 bo1 gei1} /éthylotest/
 吹波膠 吹波膠 [chui1 bo1 hao2] {ceoi1 bo1 gaau1} /chewing-gum/
 吹漲 吹涨 [chui1 zhang3] {ceoi1 zoeng3} /(fig.) énerver; agacer; frustrer/(lit.) gonfler/
-????f 吹爆 吹爆 [chui1 bao4] {ceoi1 baau3} /(fig.) énerver; agacer; frustrer/(lit.) gonfler au point de faire exploser quelque chose/
-????f 吹皺一池春水 吹皱一池春水 [chui1 zhou4 yi1 chi2 chun1 shui3] {ceoi1 zau3 jat1 ci4 ceon1 seoi2} /(expr. idiom.) ce n'est pas de tes affaires; ce n'est pas de vos oignons/(expr. idiom.) être attiré par quelque chose; être séduit par quelque chose/
+吹爆 吹爆 [chui1 bao4] {ceoi1 baau3} /(fig.) être énervé; être agacé; être frustré/(lit.) gonfler au point de faire exploser quelque chose/
+????m 吹皺一池春水 吹皱一池春水 [chui1 zhou4 yi1 chi2 chun1 shui3] {ceoi1 zau3 jat1 ci4 ceon1 seoi2} /(expr. idiom.) ce n'est pas de tes affaires; ce n'est pas de vos oignons/(expr. idiom.) être attiré par quelque chose; être séduit par quelque chose/
 吹笛 吹笛 [chui1 di2] {ceoi1 dek2} /jouer de la flûte/
 吹脹 吹胀 [chui1 zhang4] {ceoi1 zoeng3} /(fig.) énerver; agacer; frustrer/(lit.) gonfler/
 吹雞 吹鸡 [chui1 ji1] {ceoi1 gai1} /donner un coup de sifflet/appeler des renfort/
@@ -3878,11 +3878,11 @@
 呃 呃 [e4] {aak1} /tromper; duper; mentir/
 呃人 呃人 [e4 ren2] {aak1 jan4} /tromper; duper; mentir/
 呃呃騙騙 呃呃骗骗 [e4 e4 pian4 pian5] {aak1 aak1 pin3 pin3} /escroquer; arnaquer/
-????f 呃晒 呃晒 [e4 shai4] {ak1 saai3} /duper tout le monde/
+呃晒 呃晒 [e4 shai4] {ak1 saai3} /duper tout le monde/
 呃神騙鬼 呃神骗鬼 [e4 shen2 pian4 gui3] {aak1 san4 pin3 gwai2} /(expr. idiom.) tromper; duper; mentir/(lit.) duper les dieux et mentir aux esprits/
 ????f 呃秤 呃秤 [e4 cheng4] {aak1 cing3} /escroquer ses clients en utilisant des balances truquées; donner moins au client que le montant convenu/
 呃錢 呃钱 [e4 qian2] {ak1 cin4} /escroquer; arnaquer/arnaque/
-????f 呃飲呃食 呃饮呃食 [e4 yin3 e4 shi2] {aak1 jam2 aak1 sik6} /(to get a free meal by tricking somebody or just taking advantage of a situation, e.g. pretending to be a member of another team to take the food at their celebration, or taking food from a celebration for a cause that you don't care about)/(to take something without somebody else's permission, e.g. taking a small item from a shop)/
+????f 呃飲呃食 呃饮呃食 [e4 yin3 e4 shi2] {aak1 jam2 aak1 sik6} /(expr. idiom.) se procurer un repas en arnaquant quelqu'un; se procurer un repas d'une fête ou autre évènement en faisant semblant d'être un invité/(par extension) prendre quelque chose de petit de quelqu'un à son insu/
 呃鬼 呃鬼 [e4 gui3] {aak1 gwai2} /(expr. idiom.) mentir; tromper; duper/(lit.) duper un fantôme/
 ????f 呃鬼食豆腐 呃鬼食豆腐 [e4 gui3 shi2 dou4 fu5] {aak1 gwai2 sik6 dau6 fu6} /(expr. idiom.) mensonge qui est facile à détecter/(lit.) amener un fantôme à manger du tofu par la ruse/
 ????m 呆板 呆板 [dai1 ban3] {ngoi4 baan2} /(personne) rigide; inflexible/
@@ -3890,9 +3890,9 @@
 呈現 呈现 [cheng2 xian4] {cing4 jin6} /apparaître; se montrer/
 告 告 [gao4] {gou3} /poursuivre en justice; attaquer en justice/annoncer/dénoncer/
 告假 告假 [gao4 jia4] {gou3 gaa3} /demander un congé/
-????f 告地狀 告地状 [gao4 di4 zhuang4] {gou3 dei6 zong6} /histoire larmoyante écrite sur la terre par les mendiants/
+????f 告地狀 告地状 [gao4 di4 zhuang4] {gou3 dei6 zong6} /histoire larmoyante écrite sur le sol par les mendiants pour se faire apitoyer/
 告士打道 告士打道 [gao4 shi4 da3 dao4] {gou3 si6 daa2 dou6} /rue Gloucester, une rue situé dans la ville de Hong Kong/
-????f 告枕頭狀 告枕头状 [gao4 zhen3 tou2 zhuang4] {gou3 zam2 tau4 zong6} /se plaindre des autres à son conjoint/(lit.) porter plainte à l'oreiller/
+告枕頭狀 告枕头状 [gao4 zhen3 tou2 zhuang4] {gou3 zam2 tau4 zong6} /se plaindre des autres à son conjoint/(lit.) porter plainte à l'oreiller/
 告狀 告状 [gao4 zhuang4] {gou3 zong6} /porter plainte; se plaindre/poursuivre en justice; attaquer en justice/
 告白 告白 [gao4 bai2] {gou3 baak6} /avis au public/annonce; publicité/
 告票 告票 [gao4 piao4] {gou3 piu3} /contravention; procès-verbal; prune/
@@ -3916,7 +3916,7 @@
 呢度 呢度 [ne5 du4] {ni1 dou6} /ici/
 呢排 呢排 [ne5 pai2] {ni1 paai4} /ces derniers temps; dernièrement/
 呢條 呢条 [ne5 tiao2] {ni1 tiu4} /celui-ci, celle-ci/
-????f 呢槓嘢 呢杠嘢 [ne5 gang4 ye3] {ni1 lung5 je5} /(un peu péj.) cette affaire/
+呢槓嘢 呢杠嘢 [ne5 gang4 ye3] {ni1 lung5 je5} /(un peu péj.) cette affaire/
 呢樣 呢样 [ne5 yang4] {nei4 joeng2} /ce type; cette sorte; ce genre, ceci/
 呢次 呢次 [ne5 ci4] {nei1 ci3} /cette fois-ci/
 呢牌 呢牌 [ne5 pai2] {ni1 paai4} /ces derniers temps; dernièrement/
@@ -3929,7 +3929,7 @@
 呢隻嘢 呢只嘢 [ne5 zhi1 ye3] {nei1 zek3 je5} /ce, cet, cette (animal, chose, etc.)/
 呢駁 呢驳 [ne5 bo2] {ni1 bok3} /récemment/
 周不時 周不时 [zhou1 bu4 shi2] {zau1 bat1 si4} /souvent; toujours/
-????c 周匝 周匝 [zhou1 za1] {zau1 zaap3} /surround; considerate/
+周匝 周匝 [zhou1 za1] {zau1 zaap3} /encercler/
 ????f 周年旺相 周年旺相 [zhou1 nian2 wang4 xiang4] {zau1 nin4 wong6 soeng3} /(expression utilisée pour la bonne fortune pour toute l'année)/
 周慧敏 周慧敏 [zhou1 hui4 min3] {zau1 wai6 man5} /Vivian chow, chanteuse hongkongaise/
 周打 周打 [zhou1 da3] {zau1 daa2} /soupe épaisse; chaudrée/(orig.) de l'anglais « chowder » (« soupe épaisse; chaudrée »)/
@@ -3946,7 +3946,7 @@
 ????f 周記 周记 [zhou1 ji4] {zau1 gei3} /journal intime hebdomadaire (exercice scolaire)/
 周身 周身 [zhou1 shen1] {zau1 san1} /tout le corps/
 ????f 周身八寶 周身八宝 [zhou1 shen1 ba1 bao3] {zau1 san1 baat3 bou2} /(expr. idiom.) avoir beaucoup d'outils partout/(expr. idiom.) qui est très talentueux/(expr. idiom.) qui est ingénieux/(lit.) avoir huit trésors autour de soi/
-????f 周身刀冇張利 周身刀冇张利 [zhou1 shen1 dao1 mao3 zhang1 li4] {zau1 san1 dou1 mou5 zoeng1 lei6} /(expr. idiom.) qui trop embrasse mal étreint; qui a de nombreuses capacités sans avoir de réel talent/(lit.) ne pas avoir un seul couteau tranchant/
+????f 周身刀冇張利 周身刀冇张利 [zhou1 shen1 dao1 mao3 zhang1 li4] {zau1 san1 dou1 mou5 zoeng1 lei6} /(expr. idiom.) qui trop embrasse mal étreint; qui connaît un peu de tout sans être expert en rien/(lit.) ne pas avoir un seul couteau tranchant/
 周身唔聚財 周身唔聚财 [zhou1 shen1 n2 ju4 cai2] {zau1 san1 m4 zeoi6 coi4} /(expr. idiom.) se sentir mal à l'aise/
 周身屎 周身屎 [zhou1 shen1 shi3] {zau1 san1 si2} /(fig.) être dans de beaux draps; être dans le pétrin/(lit.) avoir tout le corps couvert de merde/
 周身癮 周身瘾 [zhou1 shen1 yin3] {zau1 san1 jan5} /(fig.) avoir beaucoup d'intérêts; avoir de nombreux passe-temps/
@@ -3965,19 +3965,19 @@
 呷乾醋 呷干醋 [xia1 gan1 cu4] {haap3 gon1 cou3} /(fig.) être jaloux/(lit.) siroter du vinaigre sec/
 呷醋 呷醋 [xia1 cu4] {haap3 cou3} /jaloux; envieux/
 呻 呻 [shen1] {san3} /maugréer; chialer; se plaindre/
-????f 呻窮 呻穷 [shen1 qiong2] {san3 kung4} /se plaindre d'être pauvre/
+????m 呻窮 呻穷 [shen1 qiong2] {san3 kung4} /se plaindre d'être pauvre/
 呻笨 呻笨 [shen1 ben4] {san1 ban6} /admettre qu'on est stupide/se confier à quelqu'un/
 呼之欲出 呼之欲出 [hu1 zhi1 yu4 chu1] {fu1 zi1 juk6 ceot1} /(expr.) évident; clair/
 呼吸作用 呼吸作用 [hu1 xi1 zuo4 yong4] {fu1 kap1 zok3 jung6} /respiration/
 呼吸困難 呼吸困难 [hu1 xi1 kun4 nan5] {fu1 kap1 kwan3 naan4} /difficulté respiratoire/
-????f 呼呼喝喝 呼呼喝喝 [hu1 hu1 he4 he1] {fu1 fu1 hot3 hot3} /arrogant/impoli/
-????f 呼天搶地 呼天抢地 [hu1 tian1 qiang1 di4] {fu1 tin1 coeng1 dei6} /en deuil (cries of anguish; cries of grief)/(lit.) crier au ciel et frapper la terre/
+????m 呼呼喝喝 呼呼喝喝 [hu1 hu1 he4 he1] {fu1 fu1 hot3 hot3} /arrogant/impoli/
+呼天搶地 呼天抢地 [hu1 tian1 qiang1 di4] {fu1 tin1 coeng1 dei6} /pousser des cris d'angoisse; pleurer de chagrin/(lit.) crier au ciel et frapper la terre/
 呼籲 呼吁 [hu1 yu4] {fu1 jyu6} /faire appel à (quelqu'un); demander (quelqu'un à faire quelque chose)/
 命令 命令 [ming4 ling4] {ming6 ling6} /ordre/ordonner/
 命大 命大 [ming4 da4] {meng6 daai6} /chanceux; l'échapper belle/
-????f 命正 命正 [ming4 zheng4] {meng6 zeng3} /beau destin/
+命正 命正 [ming4 zheng4] {meng6 zeng3} /beau destin/
 命水 命水 [ming4 shui3] {meng6 seoi2} /destin; chance; fortune/
-????f 命醜 命丑 [ming4 chou3] {meng6 cau2} /mauvais sort; funeste destin/
+命醜 命丑 [ming4 chou3] {meng6 cau2} /mauvais sort; funeste destin/
 咀 咀 [ju3] {zeoi2} /embrasser/maudire; jurer (voir aussi 詛|诅)/
 咀嚼 咀嚼 [ju3 jue2] {zeoi2 zoek3} /(soutenu) mastiquer/
 咁 咁 [gan1] {gam3} /tellement; autant; tant/
@@ -3990,9 +3990,8 @@
 咁大個仔 咁大个仔 [gan1 da4 ge4 zi3] {gam3 daai6 go3 zai2} /(fam.) adulte/
 咁大隻蛤乸隨街跳 咁大只蛤乸随街跳 [gan1 da4 zhi1 ge2 na2 sui2 jie1 tiao4] {gam3 daai6 zek3 gap3 naa2 ceoi4 gaai1 tiu3} /(expr. idiom.) trop beau pour être vrai; on n'a rien sans rien; ce n'est pas possible/(lit.) un crapaud tellement grand qui saute par la rue/
 咁滯 咁滞 [gan1 zhi4] {gam3 zai6} /environ; à peu près/
-????f 咁諗 咁谂 [gan1 shen3] {gam1 sam2} /penser; penser à/
 咁高咁大 咁高咁大 [gan1 gao1 gan1 da4] {gam2 gou1 gam2 daai6} /au même niveau; de même rang/
-???? 咂嘴 咂嘴 [za1 zui3] {zaap3 zeoi2} /Lip smacking/
+????m 咂嘴 咂嘴 [za1 zui3] {zaap3 zeoi2} /claquer les lèvres/
 咋 咋 [za3] {zaa3} /c'est tout; c'est juste que.../
 咋咋聲 咋咋声 [ze2 ze2 sheng1] {zaa4 zaa2 seng1} /rapidement; vite/
 咋咋臨 咋咋临 [ze2 ze2 lin2] {zaa4 zaa4 lam4} /rapidement; dépêche-toi/
@@ -4002,11 +4001,11 @@
 和事酒 和事酒 [he2 shi4 jiu3] {wo4 si6 zau2} /repas pour régler une dispute (voir aussi 和頭酒|和头酒)/
 和勝和 和胜和 [he2 sheng4 he2] {wo4 sing3 wo2} /Wo Shing Wo, une triade de Hong Kong/
 和味 和味 [he2 wei4] {wo4 mei6} /délicieux; très goûteux/très rentable/
-????f 和尚擔遮 和尚担遮 [he2 shang5 dan1 zhe1] {wo4 soeng2 daam1 ze1} /(expr. en suspens) qui enfreint les règles; incontrôlable/(lit.) moine qui utilise un parapluie (deuxième partie: 無髮無天|无发无天, « pas de cheveux ni de ciel ». L'expression est un double calembour: 無髮|无发 « pas de cheveux », faisant référence aux moines chauves, est prononcé de la même façon que 無法|无法 « sans règles ». 無天|无天 « pas de ciel », que le moine ne peut pas voir à cause du parapluie, signifie aussi « défier les Cieux »)/
+和尚擔遮 和尚担遮 [he2 shang5 dan1 zhe1] {wo4 soeng2 daam1 ze1} /(expr. en suspens) qui enfreint les règles; incontrôlable/(lit.) moine qui utilise un parapluie (deuxième partie: 無髮無天|无发无天, « pas de cheveux ni de ciel ». L'expression est un double calembour: 無髮|无发 « pas de cheveux », faisant référence aux moines chauves, est prononcé de la même façon que 無法|无法 « sans règles ». 無天|无天 « pas de ciel », que le moine ne peut pas voir à cause du parapluie, signifie aussi « défier les Cieux »)/
 和平利用 和平利用 [he2 ping2 li4 yong4] {wo4 ping4 lei6 jung6} /utiliser pacifiquement/
 和平演變 和平演变 [he2 ping2 yan3 bian4] {wo4 ping4 jin2 bin3} /révolution pacifique (du socialisme au capitalisme)/
 和平路 和平路 [he2 ping2 lu4] {wo4 ping4 lou6} /rue Heping, une rue à Shenzhen/
-????f 和薖 和薖 [he2 ke1] {wo6 gwo3} /égaliser; rendre la pareille/
+????c 和薖 和薖 [he2 ke1] {wo6 gwo3} /égaliser; rendre la pareille/
 和藹 和蔼 [he2 ai3] {wo4 oi2} /gentil/
 和衷共濟 和衷共济 [he2 zhong1 gong4 ji4] {wo4 cung1 gung6 zai3} /soutenir l'un l'autre; travailler ensemble/
 和諧 和谐 [he2 xie2] {wo4 haai4} /paix/censurer (voir aussi 河蟹|河蟹)/
