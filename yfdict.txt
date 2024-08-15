@@ -1367,10 +1367,10 @@
 伏匿匿 伏匿匿 [fu2 ni4 ni4] {buk6 nei1 nei1} /cache-cache/jouer à cache-cache/
 休养所 休养所 [xiu1 yang3 suo3] {jau1 joeng5 so2} /sanatorium/
 休息 休息 [xiu1 xi5] {jau1 sik1} /faire une pause/se coucher; dormir/
-休息時間 休息时间 [xiu1 xi2 shi2 jian1] {jau1 sik1 si4 gaan3} /pause/
+休息時間 休息时间 [xiu1 xi2 shi2 jian1] {jau1 sik1 si4 gaan3} /pause; temps de repos/
 休憩 休憩 [xiu1 qi4] {jau1 hei3} /faire une pause/se détendre/
 休戚 休戚 [xiu1 qi1] {jau1 cik1} /joie et tristesse/
-休眠 休眠 [xiu1 mian2] {jau1 min4} /rester en sommeil/
+休眠 休眠 [xiu1 mian2] {jau1 min4} /rester en sommeil/(informatique) hiberner/
 休閑 休闲 [xiu1 xian2] {jau1 haan4} /se reposer; profiter de temps libre/
 休養所 休养所 [xiu1 yang3 suo3] {jau1 joeng5 so2} /sanatorium/
 伙 伙 [huo3] {fo2} /(classificateur pour les personnes)/équipe/maison/
@@ -18639,13 +18639,13 @@
 ????c 豬網油 猪网油 [zhu1 wang3 you2] {zyu1 mong5 jau4} /mesentery of a pig; pork caul fat; pork fat netting; pork lace fat/
 豬肉乾 猪肉干 [zhu1 rou4 gan1] {zyu1 juk6 gon1} /viande séchée et salée de porc; jerky de porc/
 豬肚 猪肚 [zhu1 du3] {zyu1 tou5} /tripes de porc/
-????f 豬肝色 猪肝色 [zhu1 gan1 se4] {zyu1 gon1 sik1} /brun rouge; rouge-brun; marron/
+豬肝色 猪肝色 [zhu1 gan1 se4] {zyu1 gon1 sik1} /brun rouge; rouge-brun; marron/(lit.) couleur du foie du porc)
 豬脷 猪脷 [zhu1 li4] {zyu1 lei6} /langue de porc/
 豬腦 猪脑 [zhu1 nao3] {zyu1 nou5} /cervelle de porc/
-????f 豬腩肉 猪腩肉 [zhu1 nan3 rou4] {zyu1 naam5 juk6} /pork belly/
+豬腩肉 猪腩肉 [zhu1 nan3 rou4] {zyu1 naam5 juk6} /poitrine de porc/
 豬腰 猪腰 [zhu1 yao1] {zyu1 jiu1} /rognon de porc/
 豬腳 猪脚 [zhu1 jiao3] {zyu1 goek3} /pied de cochon; pied de porc/
-????f 豬腳薑 猪脚姜 [zhu1 jiao3 jiang1] {zyu1 goek3 goeng1} /pork knuckles in ginger and sweetened vinegar/
+豬腳薑 猪脚姜 [zhu1 jiao3 jiang1] {zyu1 goek3 goeng1} /jambonneau ou jarret de porc cuit dans du vinaigre doux avec du gingembre, plat cantonais souvent servi aux femmes venant d'avoir un enfant/
 豬腸 猪肠 [zhu1 chang2] {zyu1 coeng4} /chitterlings; intestin grêle du porc/
 豬腸粉 猪肠粉 [zhu1 chang2 fen3] {zyu1 coeng4 fan2} /rouleau de nouille de riz sans farce/
 豬膏 猪膏 [zhu1 gao1] {zyu1 gou1} /saindoux/
