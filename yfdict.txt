@@ -11087,7 +11087,7 @@
 架子 架子 [jia4 zi5] {gaa2 zi2} /insolence; prétention; arrogance/
 架撐 架撑 [jia4 cheng1] {gaa2 caang1} /outil/
 ????f 架樑 架梁 [jia4 liang2] {gaa3 loeng2} /a person who mediates in a dispute or an argument/
-????f 架步 架步 [jia4 bu4] {gaa3 bou6} /maison de jeu souterraine/bordel illégal/
+????f 架步 架步 [jia4 bu4] {gaa3 bou6} /maison de jeu souterraine/maison close illégale/
 架生 架生 [jia4 sheng1] {gaa2 caang1} /outil/
 架罉 架罉 [jia4 cang1] {gaa2 caang1} /outil/
 柄埋 柄埋 [bing3 mai2] {beng3 maai4} /cacher; dissimuler/
@@ -20898,7 +20898,7 @@
 雞眼 鸡眼 [ji1 yan3] {gai1 ngaan5} /(médecine) cal/
 雞碎 鸡碎 [ji1 sui4] {gai1 seoi3} /très peu/
 雞碎咁多 鸡碎咁多 [ji1 sui4 han2 duo1] {gai1 seoi3 gam3 do1} /très peu/
-雞竇 鸡窦 [ji1 dou4] {gai1 dau3} /bordel, maison close/(lit.) nid de poule/
+雞竇 鸡窦 [ji1 dou4] {gai1 dau3} /(fig.) maison close/(lit.) nid de poule/
 雞籠 鸡笼 [ji1 long2] {gai1 lung4} /poulailler/
 ????f 雞粉 鸡粉 [ji1 fen3] {gai1 fan2} /chicken (bouillon) powder/
 雞紅 鸡红 [ji1 hong2] {gai1 hung4} /sang de poulet/
@@ -20927,7 +20927,7 @@
 雞骨草 鸡骨草 [ji1 gu3 cao3] {gai1 gwat1 cou2} /(espèce de plantes) Abrus cantoniensis/
 雞髀 鸡髀 [ji1 bi4] {gai1 bei2} /cuisse de poulet/pilon de poulet/
 雞髀打人牙骹軟 鸡髀打人牙骹软 [ji1 bi4 da3 ren2 ya2 qiao1 ruan3] {gai1 bei2 daa2 jan4 ngaa4 gaau3 jyun5} /(expr. idiom.) on n’attrape pas des mouches avec du vinaigre; persuader quelqu'un avec des moyens doux/(lit.) frapper le maxillaire avec un pilon de poulet jusqu'à ce qu'il soit mou/
-雞竇 鸡窦 [ji1 dou4] {gai1 dau3} /(fam.) bordel; maison de prostitution/(lit.) nid de poule/
+雞竇 鸡窦 [ji1 dou4] {gai1 dau3} /(fig.) maison close; maison de prostitution/(lit.) nid de poule/
 雞同鴨講 鸡同鸭讲 [ji1 tong2 ya1 jiang3] {gai1 tung4 aap3 gong2} /(expr. idiom.) deux personnes qui se parlent mais qui ne se comprennent pas (à cause d'une barrière linguistique, parce qu'ils parlent de différentes choses, etc.)/(expr. idiom.) dialogue de sourds/(lit.) poule parlant avec canard/
 離 离 [li2] {lei4} /partir; quitter; s'en aller/(distance) être à... de (ex. être à cinq minutes du campus)/
 離境 离境 [li2 jing4] {lei4 ging2} /quitter un pays/
@@ -21916,7 +21916,7 @@
 ????f 馬會 马会 [ma3 hui4] {maa5 wui2} /jockey club/
 馬棚 马棚 [ma3 peng2] {maa5 paang4} /écurie/
 ????m 馬標 马标 [ma3 biao1] {maa5 biu1} /(courses hippiques) sorte de billet de loterie des courses hippiques de Hong Kong/
-馬檻 马槛 [ma3 kan3] {maa5 laam2} /bordel; maison close/
+馬檻 马槛 [ma3 kan3] {maa5 laam2} /(fam.) bordel; maison close; lupanar/
 ????f 馬死落地行 马死落地行 [ma3 si3 lao4 di4 xing2] {maa5 sei2 lok6 dei6 haang4} /(expr. idiom.) tirer le meilleur parti d'une mauvaise situation; persévérer face à l'adversité/(lit.) descendre du cheval mort et continuer à marcher/
 馬灣 马湾 [ma3 wan1] {maa5 waan1} /Ma Wan, île de Hong Kong/
 ????f 馬膽 马胆 [ma3 dan3] {maa5 daam2} /(courses hippiques) the horse that you put your money on/
@@ -22242,7 +22242,7 @@
 魚𦢊 鱼𦢊 [yu2 bao2] {jyu4 pok1} /vessie de poisson; vessie natatoire de poisson/
 魚蛋 鱼蛋 [yu2 dan4] {jyu4 daan2} /boulettes de poisson/
 ????f 魚蛋妹 鱼蛋妹 [yu2 dan4 mei4] {jyu4 daan2 mui1} /prostituée qui permet les actes sexuels à part les rapports sexuels/
-????f 魚蛋檔 鱼蛋档 [yu2 dan4 dang4] {jyu4 daan2 dong3} /(fig.) maison close avec des femmes qui permettent des actes sexuels à part les rapports sexuels/(lit.) stand de boulettes de poisson/
+魚蛋檔 鱼蛋档 [yu2 dan4 dang4] {jyu4 daan2 dong3} /(fig.) maison close avec des femmes qui permettent des actes sexuels à part le coït/(lit.) stand de boulettes de poisson/
 魚蛋河 鱼蛋河 [yu2 dan4 he2] {jyu4 daan2 ho2} /nouilles de riz avec boulettes de poisson/
 魚蛋粉 鱼蛋粉 [yu2 dan4 fen3] {jyu4 daan2 fan2} /nouilles de riz avec boulettes de poisson/
 魚蝦蟹 鱼虾蟹 [yu2 xia1 xie4] {jyu4 haa1 haai5} /Hoo Hey How, jeu de casino se jouant avec des dés/(lit.) poisson crevette crabe/
@@ -22309,7 +22309,7 @@
 鳳凰衛視 凤凰卫视 [feng4 huang2 Wei4 shi4] {fung6 wong4 wai6 si6} /Phoenix Satellite Television, société chinoise de télévision/
 鳳姐 凤姐 [feng4 jie3] {fung6 ze2} /prostituée/
 鳳梨酥 凤梨酥 [feng4 li2 su1] {fung6 lei4 sou1} /gâteau à ananas, patisserie taïwanaise/
-????f 鳳竇 凤窦 [feng4 dou4] {fung6 dau3} /bordel avec une seule femme/
+鳳竇 凤窦 [feng4 dou4] {fung6 dau3} /(fig.) maison close avec une seule femme/(lit.) nid de phénix/
 鴆毒 鸩毒 [zhen4 du2] {zam6 duk6} /(litt.) vin empoisonné/
 鴆酒 鸩酒 [zhen4 jiu3] {zam6 zau2} /(litt.) vin empoisonné/
 ????c 鴛盟 鸳盟 [yuan1 meng2] {jyun1 mang4} /vœu entre deux amoureux/
@@ -22326,7 +22326,7 @@
 鴨嘴梨 鸭嘴梨 [ya1 zui3 li2] {aap3 zeoi2 lei4} /fruit du Pyrus bretschneideri, poire chinoise blanche/
 鴨寮街 鸭寮街 [ya1 liao2 jie1] {aap3 liu4 gaai1} /Apliu Street, rue de Hong Kong/
 鴨巴甸 鸭巴甸 [ya1 ba1 dian4] {aap3 baa1 din1} /Aberdeen, ville d'Écosse/
-????f 鴨店 鸭店 [ya1 dian4] {aap3 dim3} /(fig.) maison close avec de prostitués (de sexe masculin)/(lit.) boutique de canards/
+鴨店 鸭店 [ya1 dian4] {aap3 dim3} /(fig.) maison close avec de prostitués (de sexe masculin)/(lit.) boutique de canards/
 鴨洲 鸭洲 [ya1 zhou1] {aap3 zau1} /Robinson Island ou Ap Chau, île de Hong Kong/
 鴨絨 鸭绒 [ya1 rong2] {aap3 jung2 } /duvet de canard/
 鴨肉 鸭肉 [ya1 rou4] {aap3 juk6} /chair de canard/
@@ -22517,7 +22517,7 @@
 黃腳雞 黄脚鸡 [huang2 jiao3 ji1] {wong4 goek3 gai1} /(fig.) piège à miel/(lit.) poule à patte jaune/
 ????c 黃膽水 黄胆水 [huang2 dan3 shui3] {wong4 daam2 seoi2} /gastric fluid / gastric juice (this is commonly mistaken as bile[wk2] (膽汁) by most people which is infact a greenish colour) /
 黃色小說 黄色小说 [huang2 se4 xiao3 shuo1] {wong4 sik1 siu2 syut3} /roman érotique/
-黃色架步 黄色架步 [huang2 se4 jia4 bu4] {wong4 sik1 gaa3 bou6} /bordel; maison close/(lit.) maison jaune/
+黃色架步 黄色架步 [huang2 se4 jia4 bu4] {wong4 sik1 gaa3 bou6} /maison close; lupanar/(lit.) maison jaune/
 黃花筒 黄花筒 [huang2 hua1 tong3] {wong4 faa1 tung2} /(genre de poissons) Larimichthys/
 黃芽白 黄芽白 [huang2 ya2 bai2] {wong4 ngaa4 baak6} /pe-tsaï; chou chinois; chou de Pékin; chou napa; nappa/
 黃蜂竇 黄蜂窦 [huang2 feng1 dou4] {wong4 fung1 dau3} /guêpier; nid de guêpes/
@@ -22742,7 +22742,7 @@
 龍鬚草 龙须草 [long2 xu1 cao3] {lung4 sou1 cou2} /(espèce de plantes) Eulaliopsis binata/
 龍鼓灘 龙鼓滩 [long2 gu3 tan1] {lung4 gu2 taan1} /Lung Kwu Tan, région de Hong Kong/
 龜 龟 [gui1] {gwai1} /(péj.) flic; police/(fam.) (vulg.) pénis (voir 龜頭|龟头)/(péj.) être lâche; être peureux/
-龜婆 龟婆 [gui1 po2] {gwai1 po2} /tenancière de bordel/
+龜婆 龟婆 [gui1 po2] {gwai1 po2} /(fam.) maquerelle; tenancière d'une maison close/(lit.) femme aux tortues/
 龜背 龟背 [gui1 bei4] {gwai1 bui3} /gilet matelassé/déviation de la colonne vertébrale/
 龜苓膏 龟苓膏 [gui1 ling2 gao1] {gwai1 ling4 gou1} /guīlínggāo, gelée fabriquée à l'aide de poudre de plastrons de tortues et d'herbes médicinales/
 龜蛋 龟蛋 [gui1 dan4] {gwai1 daan2} /(fig.) connard/(lit.) œuf de tortue/
@@ -23706,7 +23706,7 @@
 ????m 奈...唔何 奈...唔何 [nai4… wu2 he2] {noi6…m4 ho4} /…cannot intervene, interfere, stop whatever … is doing in anyway; simply can't do anything to … [colloquial]/
 ????f 契姐 契姐 [qi4 jie3] {kai3 ze2} /god sister; sworn sister [written and colloquial]/
 套料 套料 [tao4 liao4] {tou3 liu2} /(fig.) amener quelqu'un à révéler de l'information/
-????c 女ｋｅｅｐｅｒ 女ｋｅｅｐｅｒ [nu:3ｋｅｅｐｅｒ] {neoi2 ki1 paa2} /(fam.) tenancière de bordel/
+????c 女ｋｅｅｐｅｒ 女ｋｅｅｐｅｒ [nu:3ｋｅｅｐｅｒ] {neoi2 ki1 paa2} /(fam.) maquerelle; tenancière d'une maison close/
 女人湯圓 女人汤圆 [nu:3 ren5 tang1 yuan2] {neoi5 jan4 tong1 jyun2} /(expr.) don Juan; séducteur; tombeur/(lit.) tang yuan des femmes/
 ????f 女同志 女同志 [nu:3 tong2 zhi4] {neoi5 tung4 zi3} /lesbienne; femme homosexuelle/camarade (communiste) de sexe féminin/
 女帽 女帽 [nu:3 mao4] {neoi5 mou2} /chapeau de femme/
@@ -24407,7 +24407,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 晒招 晒招 [shai4 zhao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
 晒蕉 晒蕉 [shai4 jiao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
 ????f 晒行馬 晒行马 [shai4 xing2 ma3] {saai3 hang4 maa5} /(d'une triade chinoise) faire une démonstration de force/
-????f 晒馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter un bordel/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/(lit.) visiter l'écurie/
+????f 晒馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter une maison close/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/(lit.) visiter l'écurie/
 晚風 晚风 [wan3 feng1] {maan5 fung1} /brise du soir/
 普通知識 普通知识 [pu3 tong1 zhi1 shi5] {pou2 tung1 zi1 sik1} /connaissances générales/
 ????c 暗中控制 暗中控制 [an4 zhong1 kong4 zhi4] {am3 zung1 hung3 zai3} /to manipulate; to control in secret [written and colloquial]/
@@ -24421,7 +24421,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 曬料 晒料 [shai4 liao4] {saai3 liu2} /se pavaner; péter de la broue; crâner; frimer/
 曬蕉 晒蕉 [shai4 jiao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
 ????f 曬行馬 晒行马 [shai4 xing2 ma3] {saai3 hang4 maa5} /(d'une triade chinoise) faire une démonstration de force/
-????f 曬馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter un bordel/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/
+????f 曬馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter une maison close/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/
 更大 更大 [geng4 da4] {gang3 daai6} /encore plus grand/
 更好 更好 [geng4 hao3] {gang3 hou2} /encore mieux/
 更想 更想 [geng4 xiang3] {gang3 soeng2} /vouloir encore plus/préférer; aimer mieux/
@@ -24796,9 +24796,9 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 爆鑊大嘢 爆镬大嘢 [bao4 huo4 da4 ye3] {baau3 wok6 daai6 je5} /(fig.) dénoncer un grand scandale/
 ????c 爆鑊杰嘢 爆镬杰嘢 [bao4 huo4 jie2 ye3] {baau3 wok6 git6 je5} /to expose a big scandal [colloquial]/
 ????m 爆陰毒 爆阴毒 [bao4 yin1 du2] {baau3 jam1 duk6} /to use underhand ways to harm someone; to reveal someone's insidious plans [colloquial]/
-????m 爆馬欄 爆马栏 [bao4 ma3 lan2] {baau3 maa5 laan4} /(fig.) loger à l'hôtel/(fig.) visiter un bordel/
-????m 爆馬欖 爆马榄 [bao4 ma3 lan3] {baau3 maa5 laam5} /(fig.) loger à l'hôtel/(fig.) visiter un bordel/
-????m 爆馬纜 爆马缆 [bao4 ma3 lan3] {baau3 maa5 laam6} /(fig.) loger à l'hôtel/(fig.) visiter un bordel/
+????m 爆馬欄 爆马栏 [bao4 ma3 lan2] {baau3 maa5 laan4} /(fig.) loger à l'hôtel/(fig.) visiter une maison close/
+????m 爆馬欖 爆马榄 [bao4 ma3 lan3] {baau3 maa5 laam5} /(fig.) loger à l'hôtel/(fig.) visiter une maison close/
+????m 爆馬纜 爆马缆 [bao4 ma3 lan3] {baau3 maa5 laam6} /(fig.) loger à l'hôtel/(fig.) visiter une maison close/
 ????f 爛命一條 烂命一条 [lan4 ming4 yi1 tiao2] {laan6 meng6 jat1 tiu4} /(expr. idiom.) n'avoir rien accompli pendant sa vie et n'avoir rien à perdre/(lit.) vie brisée/
 ????c 爛瓦 烂瓦 [lan4 wa3] {laan6 ngaa5} /(fig.) chat/(lit.) tuile brisée/
 爛笪 烂笪 [lan4 da2] {laan6 daat3} /(fig.) sans scrupules; sans principes/
@@ -25964,7 +25964,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 鳩毛 鸠毛 [jiu1 mao2] {gau1 mou4} /(vulg.) poil du pubis d'un homme/
 ????f 鳩毛放紙鷂 鸠毛放纸鹞 [jiu1 mao2 fang4 zhi3 yao4] {gau1 mou4 fong3 zi2 jiu2} /(expr. en suspens) (vulg.) prendre un gros risque/(lit.) utiliser des poils du pubis pour voler un cerf-volant (deuxième partie 博到盡|博到尽 bok3 dou3 zeon6 « tout risquer », jeu de mots avec 駁到盡|驳到尽 bok3 dou3 zeon6 « devoir lier beaucoup (de poils de pubis) ensemble »)/
 鳩笠 鸠笠 [jiu1 li4] {gau1 lap1} /(fam.) (vulg.) capote; préservatif/
-????f 鳯竇 鳯窦 [feng4 dou4] {fung6 dau3} /bordel avec une seule femme (voir aussi 鳳竇|凤窦)/
+????f 鳯竇 鳯窦 [feng4 dou4] {fung6 dau3} /maison close avec une seule femme (voir aussi 鳳竇|凤窦)/
 ????f 鴉烏婆 鸦乌婆 [ya1 wu1 po2] {aa1 wu1 po2} /(fig.) (d'une femme) vieille sorcière; vieille bique; vieille mégère; femme laide et acariâtre/personnage (vieille femme menaçante, comme Baba Yaga) qu'on menace d'appeler pour enlever les vilains enfants/
 ????f 鴛鴦房 鸳鸯房 [yuan1 yang5 fang2] {jyun1 joeng1 fong2} /suite nuptiale/
 ????v 鴛鴦腳 鸳鸯脚 [yuan1 yang5 jiao3] {jyun1 joeng1 goek3} /avoir un pied plus grand que l'autre/a type of flying kicks style in martial arts [colloquial]/
