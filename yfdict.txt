@@ -11087,7 +11087,7 @@
 架子 架子 [jia4 zi5] {gaa2 zi2} /insolence; prétention; arrogance/
 架撐 架撑 [jia4 cheng1] {gaa2 caang1} /outil/
 ????f 架樑 架梁 [jia4 liang2] {gaa3 loeng2} /a person who mediates in a dispute or an argument/
-????f 架步 架步 [jia4 bu4] {gaa3 bou6} /maison de jeu souterraine/maison close illégale/
+架步 架步 [jia4 bu4] {gaa3 bou6} /maison de jeu souterraine/maison close illégale/
 架生 架生 [jia4 sheng1] {gaa2 caang1} /outil/
 架罉 架罉 [jia4 cang1] {gaa2 caang1} /outil/
 柄埋 柄埋 [bing3 mai2] {beng3 maai4} /cacher; dissimuler/
@@ -20927,7 +20927,7 @@
 雞骨草 鸡骨草 [ji1 gu3 cao3] {gai1 gwat1 cou2} /(espèce de plantes) Abrus cantoniensis/
 雞髀 鸡髀 [ji1 bi4] {gai1 bei2} /cuisse de poulet/pilon de poulet/
 雞髀打人牙骹軟 鸡髀打人牙骹软 [ji1 bi4 da3 ren2 ya2 qiao1 ruan3] {gai1 bei2 daa2 jan4 ngaa4 gaau3 jyun5} /(expr. idiom.) on n’attrape pas des mouches avec du vinaigre; persuader quelqu'un avec des moyens doux/(lit.) frapper le maxillaire avec un pilon de poulet jusqu'à ce qu'il soit mou/
-雞竇 鸡窦 [ji1 dou4] {gai1 dau3} /(fig.) maison close; maison de prostitution/(lit.) nid de poule/
+雞竇 鸡窦 [ji1 dou4] {gai1 dau3} /(fig.) maison close; lupanar/(lit.) nid de poule/
 雞同鴨講 鸡同鸭讲 [ji1 tong2 ya1 jiang3] {gai1 tung4 aap3 gong2} /(expr. idiom.) deux personnes qui se parlent mais qui ne se comprennent pas (à cause d'une barrière linguistique, parce qu'ils parlent de différentes choses, etc.)/(expr. idiom.) dialogue de sourds/(lit.) poule parlant avec canard/
 離 离 [li2] {lei4} /partir; quitter; s'en aller/(distance) être à... de (ex. être à cinq minutes du campus)/
 離境 离境 [li2 jing4] {lei4 ging2} /quitter un pays/
@@ -24407,7 +24407,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 晒招 晒招 [shai4 zhao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
 晒蕉 晒蕉 [shai4 jiao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
 ????f 晒行馬 晒行马 [shai4 xing2 ma3] {saai3 hang4 maa5} /(d'une triade chinoise) faire une démonstration de force/
-????f 晒馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter une maison close/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/(lit.) visiter l'écurie/
+晒馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter une maison close/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/(lit.) visiter l'écurie/
 晚風 晚风 [wan3 feng1] {maan5 fung1} /brise du soir/
 普通知識 普通知识 [pu3 tong1 zhi1 shi5] {pou2 tung1 zi1 sik1} /connaissances générales/
 ????c 暗中控制 暗中控制 [an4 zhong1 kong4 zhi4] {am3 zung1 hung3 zai3} /to manipulate; to control in secret [written and colloquial]/
@@ -24421,7 +24421,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 曬料 晒料 [shai4 liao4] {saai3 liu2} /se pavaner; péter de la broue; crâner; frimer/
 曬蕉 晒蕉 [shai4 jiao1] {saai3 ziu1} /se pavaner; péter de la broue; crâner; frimer/
 ????f 曬行馬 晒行马 [shai4 xing2 ma3] {saai3 hang4 maa5} /(d'une triade chinoise) faire une démonstration de force/
-????f 曬馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter une maison close/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/
+曬馬檻 晒马槛 [shai4 ma3 kan3] {saai3 maa5 laam2} /(fig.) visiter une maison close/(fam.) (fig.) louer une chambre dans un love hotel (« hôtel d'amour ») pour avoir des relations sexuelles/
 更大 更大 [geng4 da4] {gang3 daai6} /encore plus grand/
 更好 更好 [geng4 hao3] {gang3 hou2} /encore mieux/
 更想 更想 [geng4 xiang3] {gang3 soeng2} /vouloir encore plus/préférer; aimer mieux/
@@ -24796,9 +24796,9 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 爆鑊大嘢 爆镬大嘢 [bao4 huo4 da4 ye3] {baau3 wok6 daai6 je5} /(fig.) dénoncer un grand scandale/
 ????c 爆鑊杰嘢 爆镬杰嘢 [bao4 huo4 jie2 ye3] {baau3 wok6 git6 je5} /to expose a big scandal [colloquial]/
 ????m 爆陰毒 爆阴毒 [bao4 yin1 du2] {baau3 jam1 duk6} /to use underhand ways to harm someone; to reveal someone's insidious plans [colloquial]/
-????m 爆馬欄 爆马栏 [bao4 ma3 lan2] {baau3 maa5 laan4} /(fig.) loger à l'hôtel/(fig.) visiter une maison close/
-????m 爆馬欖 爆马榄 [bao4 ma3 lan3] {baau3 maa5 laam5} /(fig.) loger à l'hôtel/(fig.) visiter une maison close/
-????m 爆馬纜 爆马缆 [bao4 ma3 lan3] {baau3 maa5 laam6} /(fig.) loger à l'hôtel/(fig.) visiter une maison close/
+爆馬欄 爆马栏 [bao4 ma3 lan2] {baau3 maa5 laan4} /(fig.) visiter une maison close/
+爆馬欖 爆马榄 [bao4 ma3 lan3] {baau3 maa5 laam5} /(fig.) visiter une maison close/
+爆馬纜 爆马缆 [bao4 ma3 lan3] {baau3 maa5 laam6} /(fig.) visiter une maison close/
 ????f 爛命一條 烂命一条 [lan4 ming4 yi1 tiao2] {laan6 meng6 jat1 tiu4} /(expr. idiom.) n'avoir rien accompli pendant sa vie et n'avoir rien à perdre/(lit.) vie brisée/
 ????c 爛瓦 烂瓦 [lan4 wa3] {laan6 ngaa5} /(fig.) chat/(lit.) tuile brisée/
 爛笪 烂笪 [lan4 da2] {laan6 daat3} /(fig.) sans scrupules; sans principes/
@@ -25964,7 +25964,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 鳩毛 鸠毛 [jiu1 mao2] {gau1 mou4} /(vulg.) poil du pubis d'un homme/
 ????f 鳩毛放紙鷂 鸠毛放纸鹞 [jiu1 mao2 fang4 zhi3 yao4] {gau1 mou4 fong3 zi2 jiu2} /(expr. en suspens) (vulg.) prendre un gros risque/(lit.) utiliser des poils du pubis pour voler un cerf-volant (deuxième partie 博到盡|博到尽 bok3 dou3 zeon6 « tout risquer », jeu de mots avec 駁到盡|驳到尽 bok3 dou3 zeon6 « devoir lier beaucoup (de poils de pubis) ensemble »)/
 鳩笠 鸠笠 [jiu1 li4] {gau1 lap1} /(fam.) (vulg.) capote; préservatif/
-????f 鳯竇 鳯窦 [feng4 dou4] {fung6 dau3} /maison close avec une seule femme (voir aussi 鳳竇|凤窦)/
+鳯竇 鳯窦 [feng4 dou4] {fung6 dau3} /(fig.) maison close avec une seule femme (voir aussi 鳳竇|凤窦)/(lit.) nid de phénix/
 ????f 鴉烏婆 鸦乌婆 [ya1 wu1 po2] {aa1 wu1 po2} /(fig.) (d'une femme) vieille sorcière; vieille bique; vieille mégère; femme laide et acariâtre/personnage (vieille femme menaçante, comme Baba Yaga) qu'on menace d'appeler pour enlever les vilains enfants/
 ????f 鴛鴦房 鸳鸯房 [yuan1 yang5 fang2] {jyun1 joeng1 fong2} /suite nuptiale/
 ????v 鴛鴦腳 鸳鸯脚 [yuan1 yang5 jiao3] {jyun1 joeng1 goek3} /avoir un pied plus grand que l'autre/a type of flying kicks style in martial arts [colloquial]/
