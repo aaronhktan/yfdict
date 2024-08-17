@@ -4500,25 +4500,25 @@
 喊都無謂 喊都无谓 [han3 dou1 wu2 wei4] {haam3 dou1 mou4 wai6} /(expr. idiom.) pleurer ne sert à rien/
 ????f 喊驚 喊惊 [han3 jing1] {haam3 geng1} /une coutume selon laquelle un parent crie en public pour trouver un remède quand son enfant est malade/
 ????c 喎呵 㖞啊 [kuai1 a5] {wo1 ho2} /exprimer son chagrin, exprimer son deuil/rire diabolique/
-????c 喎咗 㖞咗 [kuai1 zuo5] {wo5 zo2} /gâché/
+喎咗 㖞咗 [kuai1 zuo5] {wo5 zo2} /gâché/
 喐不得其正 喐不得其正 [yu4 bu5 de5 qi2 zheng4] {juk1 bat1 dak1 kei4 zing3} /ne pas être capable de bouger/
 喐動 喐动 [yu4 dong4] {juk1 dung6} /mouvement/bouger/
 喐啲 喐啲 [yu4 di1] {juk1 di1} /facilement/fréquemment/
 喐喐下 喐喐下 [yu4 yu4 xia4] {juk1 juk1 haa2} /bouger un peu/
 喐喐貢 喐喐贡 [yu4 yu4 gong4] {juk1 juk1 gung3} /bouger sans cesse les jambes ou les bras; avoir la bougeotte/
-????f 喐嚟喐去 喐嚟喐去 [yu4 li2 yu4 qu4] {juk1 lai4 (lei4) juk1 heoi3} /se déplacer d'un côté à un autre/
+????f 喐嚟喐去 喐嚟喐去 [yu4 li2 yu4 qu4] {juk1 lei4 juk1 heoi3} /bouger d'un côté à un autre/
 喐手 喐手 [yu4 shou3] {juk1 sau2} /agir; faire du travail/attaquer/
-????f 喐手喐腳 喐手喐脚 [yu4 shou3 yu4 jiao3] {juk1 sau2 juk1 goek3} /(expr.) se battre; se montrer physiquement aggresif/(expr.) harceler sexuellement/(lit.) bouger les mains et les jambes/
+喐手喐腳 喐手喐脚 [yu4 shou3 yu4 jiao3] {juk1 sau2 juk1 goek3} /(expr.) se battre; se montrer physiquement aggresif/(expr.) harceler sexuellement/(expr.) tourner et retourner; bouger beaucoup/(lit.) bouger les mains et les jambes/
 喐親 喐亲 [yu4 qin1] {juk1 can1} /facilement/
-????f 喐身喐勢 喐身喐势 [yu4 shen1 yu4 shi4] {juk1 san1 juk1 sai3} /agité; avoir la bougeotte/
+喐身喐勢 喐身喐势 [yu4 shen1 yu4 shi4] {juk1 san1 juk1 sai3} /agité; avoir la bougeotte; frétiller/
 喘息 喘息 [chuan3 xi1] {cyun2 sik1} /faire une pause/
 喚醒 唤醒 [huan4 xing3] {wun6 sing2} /réveiller/
-????f 喜 喜 [xi3] {hei2} /fête; occasion spécial/de noces; lié aux noces/
+喜 喜 [xi3] {hei2} /fête; occasion spécial/de noces; lié aux noces/
 喜人 喜人 [xi3 ren2] {hei2 jan4} /rendre heureux; remonter le moral de quelqu'un/
 喜帖街 喜帖街 [xi3 tie3 jie1] {hei2 tip3 gaai1} /Lee Tung Street, une rue située dans la ville de Hong Kong/
 喜悅 喜悦 [xi3 yue4] {hei2 jyut6} /heureux; joyeux/
-????f 喜慶事 喜庆事 [xi3 qing4 shi4] {hei2 hing3 si6} /évènements spéciaux; évènements de fête/
-????f 喜聯 喜联 [xi3 lian2] {hei2 lyun2} /distique de mariage; proverbes écrits sur du papier rouge qui sont accrochées sur un mur pendant un mariage/
+喜慶事 喜庆事 [xi3 qing4 shi4] {hei2 hing3 si6} /évènements spéciaux; évènements de fête/
+喜聯 喜联 [xi3 lian2] {hei2 lyun2} /distique de mariage; proverbes écrits sur du papier rouge qui est accroché au mur pendant un mariage/
 喜酌 喜酌 [xi3 zhuo2] {hei2 zoek3} /repas de noces; banquet de mariage/
 喜靈洲 喜灵洲 [xi3 ling2 zhou1] {hei2 ling4 zau1} /Hei Ling Chau, une île de Hong Kong/
 喝 喝 [he1] {hot3} /crier fort/
@@ -4528,7 +4528,7 @@
 喝茶 喝茶 [he1 cha2] {hot3 caa4} /boire du thé/
 喧嚷 喧嚷 [xuan1 rang3] {hyun1 joeng6} /parler fort; faire du bruit/vacarme; tapage; brouhaha/
 喪 丧 [sang4] {song3} /fou; dérangé; dingue/
-????c 喪仔 丧仔 [sang4 zi3] {song3 zai2} /gangsters/
+????m 喪仔 丧仔 [sang4 zi3] {song3 zai2} /gangsters/
 喫飯 吃饭 [chi1 fan4] {hek3 faan6} /prendre un repas/manger du riz/
 喬宏 乔宏 [qiao2 hong2] {kiu4 wang4} /Roy Chiao, un acteur hongkongais/
 喬寶寶 乔宝宝 [qiao2 bao3 bao3] {kiu4 bou2 bou2} /Gill Mohindepaul Singh, un acteur hongkongais/
@@ -4539,24 +4539,24 @@
 單位 单位 [dan1 wei4] {daan1 wai2} /appartement/
 單係 单系 [dan1 xi4] {daan1 hai6} /seulement/
 單利 单利 [dan1 li4] {daan1 lei6} /intérêt simple/
-????f 單吊西 单吊西 [dan1 diao4 xi1] {daan1 diu3 sai1} /n'avoir qu'un costume; n'avoir qu'un costard/porter un veste de costume qui ne correspond pas au reste du costume/
+單吊西 单吊西 [dan1 diao4 xi1] {daan1 diu3 sai1} /n'avoir qu'un costume; n'avoir qu'un costard; avoir seulement un costume/porter un veste de costume qui ne correspond pas au reste du costume/
 單單彳 单单彳 [dan1 dan1 chi4] {daan1 daan1 cik1} /seul; solitaire; isolé/
-????f 單單打打 单单打打 [dan1 dan1 da3 da3] {daan1 daan1 daa2 daa2} /critiquer de façon implicite; critiquer en utilisant des métaphores/
+單單打打 单单打打 [dan1 dan1 da3 da3] {daan1 daan1 daa2 daa2} /critiquer de manière implicite; critiquer en utilisant des métaphores/
 單孔目 单孔目 [dan1 kong3 mu4] {daan1 hung2 muk6} /(ordre d'animaux) Monotremata; monotrèmes/
-????f 單對單 单对单 [dan1 dui4 dan1] {daan1 deoi3 daan1} /à deux; tête à tête/
+單對單 单对单 [dan1 dui4 dan1] {daan1 deoi3 daan1} /un contre un/
 單引號 单引号 [dan1 yin3 hao4] {daan1 jan5 hou6} /guillemets simples/
 ????c 單手獨拳 单手独拳 [dan1 shou3 du2 quan2] {daan1 sau2 duk6 kyun4} /seul/(lit.) une seule main et un seul poing/
 單打一 单打一 [dan1 da3 yi1] {daan1 daa2 jat1} /ne penser qu'à une chose/
 單拖 单拖 [dan1 tuo1] {daan1 to1} /seul; solitaire/
 單料 单料 [dan1 liao4] {daan1 liu2} /mince/
-????c 單料銅煲 单料铜煲 [dan1 liao4 tong2 bao1] {daan1 liu2 tung4 bou1} /pot en cuivre mince/
-????f 單眼仔 单眼仔 [dan1 yan3 zi3] {daan1 ngaan5 zai2} /homme ou garçon borgne/Bob Razowski de Monstres et Cie (Fr.) ou Monstres, Inc (Can.)/(lit.) garçon avec un oeil unique/
-????f 單眼簷 单眼檐 [dan1 yan3 yan2] {daan1 ngaan5 jam4} /simples paupières; mono paupière; yeux bridés/
+????m 單料銅煲 单料铜煲 [dan1 liao4 tong2 bao1] {daan1 liu2 tung4 bou1} /pot en cuivre mince/
+單眼仔 单眼仔 [dan1 yan3 zai3] {daan1 ngaan5 zai2} /homme ou garçon borgne/Bob Razowski de Monstres et Cie (Fr.) ou Monstres, Inc (Can.)/(lit.) garçon avec un oeil unique/
+單眼簷 单眼檐 [dan1 yan3 yan2] {daan1 ngaan5 jam4} /simples paupières; mono paupière; yeux bridés/
 單程路 单程路 [dan1 cheng2 lu4] {daan1 cing4 lou6} /rue à sens unique/
 單立文 单立文 [dan1 li4 wen2] {sin6 lap6 man4} /Pal Sinn, un acteur hongkongais/
 單聲 单声 [dan1 sheng1] {daan1 seng1} /dire; raconter; informer/
 ????f 單襟 单襟 [dan1 jin1] {daan1 kam1} /(d'une veste de costume) droit/
-????f 單調 单调 [dan1 diao4] {daan1 diu6} /monotone; ennuyeux/terne; morne/
+單調 单调 [dan1 diao4] {daan1 diu6} /monotone; ennuyeux/
 單身寡仔 单身寡仔 [dan1 shen1 gua3 zi3] {daan1 san1 gwaa2 zai2} /jeune homme célibataire/
 單身寡佬 单身寡佬 [dan1 shen1 gua3 lao3] {daan1 san1 gwaa2 lou2} /homme célibataire/
 單車徑 单车径 [dan1 che1 jing4] {daan1 ce1 ging3} /piste cyclable; voie cyclable/
@@ -4566,10 +4566,10 @@
 單項式 单项式 [dan1 xiang4 shi4] {daan1 hong6 sik1} /(mathématiques) monôme/
 喱士 喱士 [li2 shi4] {lei1 si2} /dentelle/(orig.) de l'anglais « lace »/
 喳喳聲 喳喳声 [zha1 zha1 sheng1] {zaa4 zaa2 seng1} /rapidement/
-????c 喺口唇邊 喺口唇边 [bei2 kou3 chun2 bian1] {hai2 hau2 seon4 bin1} /(expr. idiom.) constamment parler de quelque chose/(lit.) au bord des lèvres/
+????m 喺口唇邊 喺口唇边 [bei2 kou3 chun2 bian1] {hai2 hau2 seon4 bin1} /(expr. idiom.) parler constamment de quelque chose/(expr. idiom.) avoir quelque chose sur le bout de la langue/(lit.) au bord des lèvres/
 喺嗰度 喺嗰度 [bei2 g5? du4] {hai2 go2 dou6} /là-bas/
-????c 喺孔夫子面前賣文章 喺孔夫子面前卖文章 [bei2 Kong3 fu1 zi3 mian4 qian2 mai4 wen2 zhang1] {hai2 hung2 fu1 zi2 min6 cin4 maai6 man4 zoeng1} /arrogant, qui se surestime/(lit.) lire un texte à Confucius/
-????f 喺度 喺度 [bei2 du4] {hai2 dou6} /ici/présent/(marque l'aspect progressif)/
+????c 喺孔夫子面前賣文章 喺孔夫子面前卖文章 [bei2 kong3 fu1 zi3 mian4 qian2 mai4 wen2 zhang1] {hai2 hung2 fu1 zi2 min6 cin4 maai6 man4 zoeng1} /arrogant, qui se surestime/(lit.) lire un texte à Confucius/
+喺度 喺度 [bei2 du4] {hai2 dou6} /ici/présent/(grammaire) (marque l'aspect progressif)/
 喺處 喺处 [bei2 chu3] {hai2 syu3} /c'est ici/
 ????c 喺門角落頭燒炮仗 喺门角落头烧炮仗 [bei2 men2 jiao3 lao4 tou5 shao1 pao4 zhang5] {hai2 mun4 gok3 lok1 tau2 siu1 paau3 zoeng2} /entendre le bruit mais ne pas voir la personne/
 喼 喼 [jie2] {gip1} /bagage; valise; mallette/
@@ -4578,45 +4578,45 @@
 喼頓 喼顿 [ji2 dun4] {gip1 deon2} /capitaine/(orig.) de l'anglais « captain » (« capitaine »)/
 㗎仔 㗎仔 [jia4 zi3] {gaa4 zai2} /(inj.) (péj.) jeune Japonais/
 㗎佬 㗎佬 [jia4 lao3] {gaa4 lou2} /(inj.) (péj.) Japonais/
-????f 㗎咋 㗎咋 [jia4 za3] {gaa3 zaa3, zaa4} /(particule modale pour exprimer « juste », « seulement », « c'est tout »)/
-????f 㗎啦 㗎啦 [jia4 la5] {gaa3 laa1} /(particule modale pour affirmer un fait, pour exprimer qu'il n'y ait pas d'autres choix)/
-????f 㗎啦 㗎啦 [jia4 la5] {gaa3 laa3} /(particule modale pour rappeler quelqu'un de quelque chose)/(particule modale pour donner des conseils)/
-????f 㗎啦 㗎啦 [jia4 la5] {gaa3 laa4} /(particule modale pour exprimer le sentiment de quelque chose un peu inattendue, avec un ton perplexe)/
-????f 㗎喇 㗎喇 [jia4 la3] {gaa3 laa1} /(particule modale pour affirmer un fait, pour exprimer qu'il n'y ait pas d'autres choix)/
+㗎咋 㗎咋 [jia4 za3] {gaa3 zaa3, zaa4} /(particule modale pour exprimer « juste », « seulement », « c'est tout »)/
+㗎啦 㗎啦 [jia4 la5] {gaa3 laa1} /(particule modale pour affirmer un fait, pour exprimer qu'il n'y ait pas d'autres choix)/
+㗎啦 㗎啦 [jia4 la5] {gaa3 laa3} /(particule modale pour rappeler quelqu'un de quelque chose)/(particule modale pour donner des conseils)/
+㗎啦 㗎啦 [jia4 la5] {gaa3 laa4} /(particule modale pour exprimer le sentiment de quelque chose un peu inattendue, avec un ton perplexe)/
+㗎喇 㗎喇 [jia4 la3] {gaa3 laa1} /(particule modale pour affirmer un fait, pour exprimer qu'il n'y ait pas d'autres choix)/
 㗎妹 㗎妹 [jia4 mei4] {gaa4 mui1} /(inj.) (péj.) Japonaise/
 㗎話 㗎话 [jia4 hua4] {gaa4 waa2} /(inj.) (péj.) langue japonaise/
 㗎文 㗎文 [jia4 wen2] {gaa4 man2} /(inj.) (péj.) langue japonaise/
 𠸎埋 𠸎埋 [na2 mai2] {naa1 maai4} /et/
-𠸎耕 𠸎耕 [na2 geng1] {naa1 gaang1} /lié, connexe/
+𠸎耕 𠸎耕 [na2 geng1] {laa1 gaang1} /lié; connexe; en lien avec/
 ????c 嗋 嗋 [xie2] {hip3} /respirer/
 嗌交 嗌交 [ai4 jiao1] {aai3 gaau1} /se disputer; se quereller/
 嗌嘢食 嗌嘢食 [ai4 ye3 shi2] {aai3 je5 sik6} /commander de la nourriture/
-????f 嗌數 嗌数 [ai4 shu4] {aai3 sou3} /compter fort; annoncer d'une voix forte des numéros/annoncer l'addition d'une table/
-????f 嗌生嗌死 嗌生嗌死 [ai4 sheng1 ai4 si3] {aai3 saang1 aai3 sei2} /(expr. idiom.) hurler et pleurer comme un hystérique/(lit.) crier pour vivre et crier pour mourir/
+????m 嗌數 嗌数 [ai4 shu4] {aai3 sou3} /compter fort; annoncer d'une voix forte des numéros/annoncer l'addition d'une table/se disputer d'un montant (ex. l'addition, une note pour un examen, etc.)/
+????c 嗌生嗌死 嗌生嗌死 [ai4 sheng1 ai4 si3] {aai3 saang1 aai3 sei2} /(expr. idiom.) hurler et pleurer comme un hystérique/(lit.) crier pour vivre et crier pour mourir/
 嗌生晒 嗌生晒 [ai4 sheng1 shai4] {aai3 saang1 saai3} /crier fort; faire du bruit/
-????f 嗌街婆 嗌街婆 [ai4 jie1 po2] {aai3 gaai1 po2} /(fig.) (péj.) femme aggressive; femme déraisonnable/(lit.) une femme qui hurle en public/
-????f 嗌通街 嗌通街 [ai4 tong1 jie1] {aai3 tung1 gaai1} /(se dit habituellement des femmes) se disputer avec les autres en public/
+????c 嗌街婆 嗌街婆 [ai4 jie1 po2] {aai3 gaai1 po2} /(fig.) (péj.) femme aggressive; femme déraisonnable/(lit.) une femme qui hurle en public/
+????m 嗌通街 嗌通街 [ai4 tong1 jie1] {aai3 tung1 gaai1} /(se dit habituellement des femmes) se disputer avec les autres en public/
 嗌霎 嗌霎 [ai4 sha4] {aai3 saap3} /se disputer; se quereller/
 嗍氣 嗍气 [suo1 qi4] {sok3 hei3} /haleter/reprendre son souffle/épuisant; fatigant; exténuant/
 嗍水 嗍水 [suo1 shui3] {sok3 seoi2} /absorber de l'eau/
 嗒 嗒 [ta4] {taap3} /tomber amoureux/
 嗒 嗒 [da4] {dep1} /goûter; lécher/
-????f 嗒嗒聲 嗒嗒声 [da1 da1 sheng1] {taap3 taap3 sing1} /(onomatopée pour le son des horloges) tic-tac/
-????f 嗒糖 嗒糖 [da1 tang2] {dap1 tong4} /(expr. idiom.) sentiment de bonheur lorsque l'on reçoit de l'affection/(lit.) manger une friandise/
-????f 嗒落有味 嗒落有味 [da1 luo4 you3 wei4] {taap3 lok6 jau5 mei6} /(expr. idiom.) le sens devient clair après y avoir réfléchi pour un moment/(lit.) nourriture qui n'a pas l'air savoureux mais qui a bon goût quand l'on la mange/
+嗒嗒聲 嗒嗒声 [da1 da1 sheng1] {taap3 taap3 sing1} /(onomatopée pour le son des horloges) tic-tac/
+????c 嗒糖 嗒糖 [da1 tang2] {dap1 tong4} /(expr. idiom.) sentiment de bonheur lorsque l'on reçoit de l'affection/(lit.) manger une friandise/
+嗒落有味 嗒落有味 [da1 luo4 you3 wei4] {taap3 lok6 jau5 mei6} /(expr. idiom.) tout devient clair après y avoir réfléchi pour un moment/(lit.) nourriture qui n'a pas l'air savoureux mais qui a bon goût quand l'on la mange/
 嗟怨 嗟怨 [jie1 yuan4] {ze1 jyun3} /se plaindre/
 嗢 嗢 [wa4] {wat1} /avaler/rire/vomir/
-????f 嗦嗦聲 嗦嗦声 [suo1 suo1 sheng1] {sok3 sok3 seng1} /(onomatopée pour la nourriture croustillant)/
+嗦嗦聲 嗦嗦声 [suo1 suo1 sheng1] {sok3 sok3 seng1} /(onomatopée pour la nourriture croustillante)/
 嗧 嗧 [jia1] {gaa1} /(vieilli) gallon/
-????c 嗨喲 嗨哟 [hai1 yo1] {hei1 yo1} /« hey yo », de l'anglais/
-????f 嗯 嗯 [en1] {ng6} /hein?/(interjection pour se montrer d'accord)/
-嗰 嗰 [ge4] {go2} /celui-là/
+????c 嗨喲 嗨哟 [hai1 yo1] {hei1 jou1} /« hey yo », de l'anglais/
+嗯 嗯 [en1] {ng6} /hein?/OK; (interjection pour montrer son accord)/euh; (interjection pour montrer l'hésitation dans un discours)/
+嗰 嗰 [ge4] {go2} /celui-là (voir aussi 嗰個|𠮶个)/
 嗰位 嗰位 [g5? wei4] {go2 wai6} /cette personne-là/
 嗰便 嗰便 [g5? bian4] {go2 bin6} /là-bas/de cette côté-là/près de, par/par là/situé dans…/
 嗰個 嗰个 [g5? ge4] {go2 go3} /celui-là; celle-là/
 嗰啲 嗰啲 [g5? di1] {go2 di1} /ceux-là; celles-là/ces/
 嗰啲嘢 嗰啲嘢 [g5? di1 ye3] {go2 di1 je5} /ces choses-là/
-????c 嗰單嘢 嗰单嘢 [g5? dan1 ye3] {go2 daan1 je5} /cette évènement-là/dans ce cas-là/
+嗰單嘢 嗰单嘢 [g5? dan1 ye3] {go2 daan1 je5} /cet évènement-là/dans ce cas-là/
 嗰度 嗰度 [g5? du4] {go2 dou6} /là-bas/près de; par/par là/situé dans…/
 嗰排 嗰排 [g5? pai2] {go2 paai2} /à cette époque/
 嗰排 嗰排 [g5? pai2] {go2 paai4} /à cette époque/
@@ -4631,37 +4631,37 @@
 嗰處 嗰处 [g5? chu3] {go2 syu3} /là-bas/
 嗰陣 嗰阵 [g5? zhen4] {go2 zan6} /ce temps-là/à cette époque/
 嗰陣時 嗰阵时 [g5? zhen4 shi2] {go2 zan6 si4} /à cette époque/
-????f 嗰隻衰嘢 嗰只衰嘢 [g5? zhi1 shuai1 ye3] {go2 zek3 seoi1 je5} /cette mauvaise chose-là (se dit habituellement des personnes ou des animaux)/
-????f 嗰頭近 嗰头近 [g5? tou2 jin4] {go2 tau4 kan5} /près de l'âge de la mort/
+嗰隻衰嘢 嗰只衰嘢 [g5? zhi1 shuai1 ye3] {go2 zek3 seoi1 je5} /(péj.) cette mauvaise chose-là (se dit habituellement des personnes ou des animaux); ce cas-là; cette personne-là, qui cause des problèmes/
+嗰頭近 嗰头近 [g5? tou2 jin4] {go2 tau4 kan5} /près de la mort; avoir un pied dans la tombe/
 嗱喳 嗱喳 [na2 zha1] {laa5 zaa2} /de mauvaise qualité/sale/aléatoire/
-????f 嗱喳麵 嗱喳面 [na2 zha1 mian4] {laa5 zaa2 min6} /Hong Kong style cart noodles (noodles sold from a food cart)/(lit.) nouilles sales/
+嗱喳麵 嗱喳面 [na2 zha1 mian4] {laa5 zaa2 min6} /nouilles de charrette (en particulier ceux à Hong Kong) (voir aussi 車仔麵|车仔面)/(lit.) nouilles sales/
 嗱嗱聲 嗱嗱声 [na2 na2 sheng1] {naa4 naa2 seng1} /dépêche-toi!/immédiatement; sans hésitation; rapidement/
 嗲 嗲 [dia3] {de2} /parler; bavarder/flirter/aguicheur; séducteur/
 嗲吊 嗲吊 [dia3 diao4] {de2 diu3} /lent; paresseux; fainéant/
 嗲嗲吊 嗲嗲吊 [dia3 dia3 diao4] {de2 de2 diu3} /qui ne fait pas un effort; qui procrastine/
 嗲嗲渧 嗲嗲渧 [dia3 dia3 di1] {de4 de2 dai3} /(eau, salive, etc.) qui goutte sans cesse/
-????f 嗲聲嗲氣 嗲声嗲气 [dia3 sheng1 dia3 qi4] {de2 seng1 de2 hei3} /(une femme qui) parle de façon enfantine qui fait semblant d'être mignonne et innocente/
+????f 嗲聲嗲氣 嗲声嗲气 [dia3 sheng1 dia3 qi4] {de2 seng1 de2 hei3} /(une femme qui) parle de façon enfantine pour se présenter comme mignonne et innocente/(d'une femme) parler d'une manière aguicheuse/
 𠺘口 𠺘口 [lang4 kou3] {long2 hau2} /rincer la bouche; se laver la bouche; se gargariser/
 𠺘口盅 𠺘口盅 [lang4 kou3 zhong1] {long2 hau2 zung1} /mug utilisé pour rincer la bouche/
 嗾使 嗾使 [sou3 shi3] {sau2 sai2} /inciter; fomenter/
-????f 嘅 慨 [kai3] {ge2} /(particule modale qui exprime de la surprise ou de la doute)/(pronom relatif) qui/
-????f 嘅啫 嘅啫 [ge2 ze1] {ge3 ze1} /(particule modale qui exprime « juste », « seulement », « c'est tout »)/
-????f 嘅嗻 嘅嗻 [ge2 zhe5] {ge3 ze1} /(particule modale qui exprime « juste », « seulement », « c'est tout »)/
+嘅 慨 [kai3] {ge2} /(particule modale qui exprime de la surprise ou de la doute)/(pronom relatif) qui/
+嘅啫 嘅啫 [ge2 ze1] {ge3 ze1} /(particule modale qui exprime « juste », « seulement », « c'est tout »)/
+嘅嗻 嘅嗻 [ge2 zhe5] {ge3 ze1} /(particule modale qui exprime « juste », « seulement », « c'est tout »)/
 嘅話 嘅话 [ge2 hua4] {ge3 waa2} /dans ce cas/
 嘆 叹 [tan4] {taan3} /apprécier; jouir/reposer; se relaxer; se détendre/luxueux; somptueux/
-????f 嘆世界 叹世界 [tan4 shi4 jie4] {taan3 sai3 gaai3} /profiter de la vie/
+嘆世界 叹世界 [tan4 shi4 jie4] {taan3 sai3 gaai3} /mener une vie luxueuse; mener une vie aisée/
 嘆茶 叹茶 [tan4 cha2] {taan3 caa4} /savourer un thé/
 嘆號 叹号 [tan4 hao4] {taan3 hou6} /point d'exclamation/
 嘈交 嘈交 [cao2 jiao1] {cou4 gaau1} /se disputer; se quereller/
-????f 嘈到拆樓 嘈到拆楼 [cao2 dao4 chai1 lou2] {cou4 dou3 caak3 lau4} /tellement bruyant que l'on croirait que quelqu'un était en train de démolir un immeuble/
+嘈到拆樓 嘈到拆楼 [cao2 dao4 chai1 lou2] {cou4 dou3 caak3 lau4} /(expr. idiom.) très bruyant/(lit.) tellement bruyant que l'on croirait que quelqu'un était en train de démolir un immeuble/
 嘈吵 嘈吵 [cao2 chao3] {cou4 caau2} /bruyant/
 嘈喧巴閉 嘈喧巴闭 [cao2 xuan1 ba1 bi4] {cou4 hyun1 baa1 bai3} /(expr.) bruyant/
-????f 嘈嘈閉 嘈嘈闭 [cao1 cao5 bi4] {cou4 cou4 bai3} /bruyant/se disputer bruyamment/
+嘈嘈閉 嘈嘈闭 [cao1 cao5 bi4] {cou4 cou4 bai3} /bruyant/se disputer bruyamment/
 嘈嘈閉閉 嘈嘈闭闭 [cao1 cao5 bi4 bi4] {cou4 cou4 bai3 bai3} /se disputer/bruyant/
 嘈生晒 嘈生晒 [cao2 sheng1 shai4] {cou4 saang1 saai3} /qui est très bruyant; qui fait un vacarme/
 嘈生曬 嘈生晒 [cao2 sheng1 shai4] {cou4 saang1 saai3} /qui est très bruyant; qui fait un vacarme/
 ????c 嘈耳 嘈耳 [cao2 er3] {cou4 ji5} /bruyant/
-????f 嘈醒 嘈醒 [cao2 xing3] {cou4 seng2} /être réveillé par du bruit/
+嘈醒 嘈醒 [cao2 xing3] {cou4 seng2} /être réveillé par du bruit/
 嘉禾望崗站 嘉禾望岗站 [jia1 he2 wang4 gang3 zhan4] {gaa1 wo4 mong6 gong1 zaam6} /Jiahewanggang Station, station du métro de Canton/
 嘉道理農場 嘉道理农场 [jia1 dao4 li5 nong2 chang3] {gaa1 dou6 lei5 nung4 coeng4} /Kadoorie Farm & Botanic Garden, jardin botanique situé dans la ville de Hong Kong/
 嘍口 喽口 [lou5 kou3] {lau3 hau2} /balbutier; bégayer/
@@ -4670,7 +4670,7 @@
 嘔奶 呕奶 [ou3 nai3] {au2 naai5} /(bébé) vomir du lait/
 嘔心 呕心 [ou3 xin1] {au2 sam1} /(fig.) dégoutant/(fig.) faire un grand effort; mettre tous ses efforts; donner son maximum/(lit.) vomir le cœur/
 嘔浪 呕浪 [ou3 lang4] {au2 long6} /avoir le mal de mer/(lit.) vomir des vagues/
-????f 嘔血 呕血 [ou3 xue4] {au2 hyut3} /(fig.) être en colère; être fâché/(fig.) être épuisé; être très fatigué/(lit.) vomir du sang/
+嘔血 呕血 [ou3 xue4] {au2 hyut3} /(fig.) être en colère; être fâché/(fig.) être épuisé; être très fatigué/(lit.) vomir du sang/
 嘔電 呕电 [ou3 dian4] {au2 din6} /(fig.) énervant/(lit.) vomir de l'électricité/
 嘖嘖稱羡 啧啧称羡 [ze2 ze2 cheng1 xian4] {zaak3 zaak3 cing1 sin6} /(expr. idiom.) faire l'éloge de quelqu'un ou quelque chose/
 嘗新 尝新 [chang2 xin1] {soeng4 san1} /essayer de nouvelles choses/
@@ -4679,36 +4679,36 @@
 嘢食 嘢食 [ye3 shi2] {je5 sik6} /nourriture; aliments/
 嘢飲 嘢饮 [ye3 yin3] {je5 jam2} /boissons; breuvages/
 嘥 嘥 [sai1] {saai1} /gaspillage; perte/gaspiller/
-????f 嘥口水 嘥口水 [sai1 kou3 shui3] {saai1 hau2 seoi2} /(expr. idiom.) perdre son temps en tentant de convaincre quelqu'un de quelque chose/(lit.) gaspiller sa salive/
+嘥口水 嘥口水 [sai1 kou3 shui3] {saai1 hau2 seoi2} /(expr. idiom.) perdre son temps en essayant de convaincre quelqu'un de quelque chose/(lit.) gaspiller sa salive/
 ????c 嘥地方 嘥地方 [sai1 di4 fang5] {saai1 dei6 fong1} /perte d'espace/
-????f 嘥心機 嘥心机 [sai1 xin1 ji1] {saai1 sam1 gei1} /perdre son temps; gaspiller ses efforts/
-????f 嘥心機,挨眼瞓 嘥心机,挨眼瞓 [sai1 xin1 ji1 , ai1 yan3 xun4] {saai1 sam1 gei1 ngaai4 ngaan5 fan3} /(expr. idiom.) travailler fort pour rien/
+嘥心機 嘥心机 [sai1 xin1 ji1] {saai1 sam1 gei1} /perdre son temps; gaspiller ses efforts; faire quelque chose en vain/
+嘥心機,挨眼瞓 嘥心机,挨眼瞓 [sai1 xin1 ji1 , ai1 yan3 xun4] {saai1 sam1 gei1 ngaai4 ngaan5 fan3} /(expr. idiom.) travailler fort pour rien/
 嘥撻 嘥挞 [sai1 ta4] {saai1 taat3} /gaspiller; perdre/
 嘥料 嘥料 [sai1 liao4] {saai1 liu2} /gaspiller/
 嘥時間 嘥时间 [sai1 shi2 jian1] {saai1 si4 gaan3} /perte de temps; gaspillage de temps/
-????f 嘥氣 嘥气 [sai1 qi4] {saai1 hei3} /(expr. idiom.) faire quelque chose pour rien/(lit.) gaspiller son air/
+嘥氣 嘥气 [sai1 qi4] {saai1 hei3} /(expr. idiom.) perdre son temps; gaspiller ses efforts; faire une effort pour quelque chose qui ne sert à rien/(lit.) gaspiller son air/
 ????c 嘥燈賣油 嘥灯卖油 [sai1 deng1 mai4 you2] {saai1 dang1 maai6 jau4} /(expr. idiom.) travailler fort pour rien/(lit.) gaspiller sa lumière pour vendre de l'huile/
-????f 嘥聲壞氣 嘥声坏气 [sai1 sheng1 huai4 qi4] {saai1 sing1 waai6 hei3} /(expr.) perte d'effort/
-????f 嘥錢 嘥钱 [sai1 qian2] {saai1 cin2} /être dépensier; perdre de l'argent; gaspiller de l'argent/
-????c 噓唏 嘘唏 [xu1 xi1] {heoi1 hei1} /soupirer; sangloter/
+嘥聲壞氣 嘥声坏气 [sai1 sheng1 huai4 qi4] {saai1 sing1 waai6 hei3} /(expr.) perte de temps; peine perdue/
+嘥錢 嘥钱 [sai1 qian2] {saai1 cin2} /être dépensier; perdre de l'argent; gaspiller de l'argent/
+????m 噓唏 嘘唏 [xu1 xi1] {heoi1 hei1} /soupirer; sangloter/
 𠼮求 𠼮求 [ai3 qiu2] {ngai1 kau4} /supplier/
-????f 嘟咭 嘟咭 [du1 ji1] {dut1 kaat1} /effectuer un paiement avec une carte, particulièrement un paiement sans contact/(orig.) onomatopée pour le bip d'une machine de paiement + l'anglais « card » (« carte »)/
+嘟咭 嘟咭 [du1 ji1] {dut1 kaat1} /payer avec une carte bancaire ou carte de crédit, particulièrement un paiement sans contact/(orig.) onomatopée pour le bip d'une machine de paiement + l'anglais « card » (« carte »)/
 嘩 哗 [hua1] {waa1} /oh!/waouh!/
-????f 嘩嘩聲 哗哗声 [hua1 hua1 sheng1] {waa1 waa1 seng1} /(onomatopée pour une réaction quand on est surpris, étonné ou excité)/
+嘩嘩聲 哗哗声 [hua1 hua1 sheng1] {waa1 waa1 seng1} /(onomatopée pour une réaction quand on est surpris, étonné ou excité)/
 嘩鬼 哗鬼 [hua1 gui3] {waa1 gwai2} /(enfant) espiègle; vilain/
 嘮嘈 唠嘈 [lao2 cao2] {lou4 cou4} /être bruyant/
 嘰咕 叽咕 [ji1 gu1] {gei1 gu1} /parler doucement; chuchoter; murmurer/
-????f 嘰哩咕嚕 叽哩咕噜 [ji1 li5 gu1 lu1] {gei1 li1 gu1 lou1} /(personne) qui n'articule pas clairement ses mots; qui parle indistinctement; qui est incompréhensible/
+嘰哩咕嚕 叽哩咕噜 [ji1 li5 gu1 lu1] {gei1 li1 gu1 lou1} /(personne) qui n'articule pas clairement ses mots; qui parle indistinctement; qui est incompréhensible/
 嘰嘰趷趷 叽叽趷趷 [ji1 ji1 he2 he2] {gi4 gi1 gat6 gat6} /(fam.) se plaindre; chialer; râler/
 嘰趷 叽趷 [ji1 he2] {gei1 gat6} /balbutier; bégayer; bredouiller/se plaindre/
 嘲笑 嘲笑 [chao2 xiao4] {zaau1 siu3} /se moquer de; rire de; ridiculiser/
 嘴 嘴 [zui3] {zeoi2} /bouche/bec/embrasser/
-????f 嘴刁 嘴刁 [zui3 diao1] {zeoi2 diu1} /fine bouche; difficile pour ce qui est de la nourriture/
+嘴刁 嘴刁 [zui3 diao1] {zeoi2 diu1} /qui est difficile sur la nourriture; qui fait la fine bouche/
 嘴𠴕𠴕 嘴𠴕𠴕 [zui3 miao4 miao4] {zeoi2 miu2 miu2} /pincer les lèvres; faire la moue (pour montrer sa désapprobation)/
 嘴喵喵 嘴喵喵 [zui3 miao1 miao1] {zeoi2 miu2 miu2} /pincer les lèvres; faire la moue (pour montrer sa désapprobation)/
 嘴滑 嘴滑 [zui3 hua2] {zeoi2 waat6} /bavard/
 嘴脣 嘴唇 [zui3 chun2] {zeoi2 seon4} /lèvres/
-????f 嘴尖 嘴尖 [zui3 jian1] {zeoi2 zim1} /(personne) difficile; pointilleux/pointilleux sur la nourriture/(personne) mordant; caustique/
+嘴尖 嘴尖 [zui3 jian1] {zeoi2 zim1} /(personne) difficile; pointilleux/qui est difficile sur la nourriture; qui fait la fine bouche/(personne) mordant; caustique/
 嘻嘻哈哈 嘻嘻哈哈 [xi1 xi5 ha1 ha1] {hei1 hei1 haa1 haa1} /être content; s'amuser/
 嘿嘿 嘿嘿 [hei1 hei1] {hei1 hei1} /(onomatopée d'un gloussement)/
 ????c 噆 噆 [zan3] {caam2} /tenir dans la bouche/piquer/
@@ -4722,36 +4722,36 @@
 噉樣 啖样 [dan4 yang4] {gam2 joeng2} /comme ça; de cette façon/donc.../
 噉都得 啖都得 [dan4 dou1 de5] {gam2 dou1 dak1} /comment est-ce possible?/
 噉頭 啖头 [dan4 tou2] {gam2 tau2} /ressembler; avoir l'air de/
-????f 噍完鬆 噍完松 [jiao4 wan2 song1] {ziu6 jyun4 sung1} /(expr. idiom.) quitter le navire après avoir bénéficié d'un avantage/(lit.) partir après avoir mangé/
-????f 噏 噏 [xi1] {ngap1} /dire des bêtises; parler sans cesse; jacasser/
+????f 噍完鬆 噍完松 [jiao4 wan2 song1] {ziu6 jyun4 sung1} /(expr. idiom.) abandonner quelqu'un après l'avoir exploité/(lit.) partir après avoir mangé/
+噏 噏 [xi1] {ngap1} /dire des bêtises; parler sans cesse; jacasser/
 噏三噏四 噏三噏四 [xi1 san1 xi1 si4] {ngap1 saam1 ngap1 sei3} /(expr. idiom.) répandre des rumeurs; cancaner/(lit.) parler de trois et parler de quatre/
 噏得就噏 噏得就噏 [xi1 de5 jiu4 xi1] {ngap1 dak1 zau6 ngap1} /(expr.) dire des bêtises; dire n'importe quoi/
-????f 噏耷 噏耷 [xi1 da1] {ngap1 dap1} /(d'un endroit) misérable; sale; négligé; qui manque d'entretien/
-????c 噒諄 噒谆 [lian2 zhun1] {leon1 zeon1} /maladroit/
-????f 噗哧 噗哧 [pu1 chi1] {pok3 ci1} /rire dans sa barbe; rire en secret/
+噏耷 噏耷 [xi1 da1] {ngap1 dap1} /(d'un endroit) misérable; sale; négligé; qui manque d'entretien/
+噒諄 噒谆 [lian2 zhun1] {leon1 zeon1} /qui parle trop; qui parle sans cesse/
+噗哧 噗哧 [pu1 chi1] {pok3 ci1} /rire dans sa barbe; rire en secret/
 噙晚 噙晚 [qin2 wan3] {kam4 maan5} /hier soir/
 噚日 㖊日 [xun2 ri4] {cam4 jat6} /hier/
 噚晚 㖊晚 [xun2 wan3] {cam4 maan5} /hier soir/
-????c 噴吐 喷吐 [pen1 tu3] {pan3 tou3} /cracher (du feu); (sang) jaillir/
+????c 噴吐 喷吐 [pen1 tu3] {pan3 tou3} /cracher (du feu); (sang) gicler/
 噴射船 喷射船 [pen1 she4 chuan2] {pan3 se6 syun4} /hydroptère/
 噴槍 喷枪 [pen1 qiang1] {pan3 coeng1} /aérographe; pistolet à peinture/
 噴灌 喷灌 [pen1 guan4] {pan3 gun3} /irrigation par aspersion/
 ????c 噢咻 噢咻 [yu3 xu3] {o1 jau1} /gémir à cause de la douleur/
-????f 器宇 器宇 [qi4 yu3] {hei3 jyu5} /allure; comportement/
+????c 器宇 器宇 [qi4 yu3] {hei3 jyu5} /tendance; perspectives/
 器皿 器皿 [qi4 min3] {hei3 ming5} /ustensile (de cuisine)/(suffixe pour indiquer sorte d'ustensile)/
 噪音 噪音 [zao4 yin1] {cou3 jam1} /bruit/
 噪音污染 噪音污染 [zao4 yin1 wu1 ran3] {cou3 jam1 wu1 jim5} /pollution sonore/
 噱噱聲 噱噱声 [jue2 jue2 sheng1] {goek4 goek2 seng1} /(dormir) profondément/
 噱頭 噱头 [xue2 tou2] {coek3 tau4} /facéties; singeries/truc; astuce/
-????f 㗾哆 㗾哆 [xue1 duo1] {heoi1 do1} /qui a la forme d'une trompette/
-????f 㗾㗾聲 㗾㗾声 [xue1 xue1 sheng1] {heoi4 heoi4 seng1} /(onomatopée d'une rivière à courant rapide)/
+????c 㗾哆 㗾哆 [xue1 duo1] {heoi1 do1} /qui a la forme d'une trompette/
+㗾㗾聲 㗾㗾声 [xue1 xue1 sheng1] {heoi4 heoi4 seng1} /(onomatopée d'une rivière à courant rapide)/(onomatopée pour un fluide qui coule)/(par extension) rapidement/
 嚇 吓 [xia4] {haak3} /menacer/effrayer; faire peur/
 嚇唬 吓唬 [xia4hu5] {haak3 fu2} /bluffer/
 嚇死 吓死 [xia4 si3] {haak3 sei2} /faire très peur (à quelqu'un)/
 嚇窒 吓窒 [xia4 zhi4] {haak3 zat6} /avoir peur; épeuré; effrayé/
 嚇親 吓亲 [xia4 qin1] {haak3 can1} /être effrayé (par quelqu'un ou quelque chose)/
 嚇阻 吓阻 [he4 zu3] {haak3 zo2} /avoir fait peur (à quelqu'un, quelque chose); avoir effrayé (quelqu'un, quelque chose)/
-????f 嚇鬼 吓鬼 [xia4 gui3] {haak3 gwai2} /faire peur; effrayer (souvent utilisé au négatif pour affirmer le contraire, que l'on n'a pas eu peur)/(lit.) faire peur au fantôme/
+嚇鬼 吓鬼 [xia4 gui3] {haak3 gwai2} /faire peur; effrayer (souvent utilisé au négatif pour affirmer le contraire, que l'on n'a pas eu peur)/(lit.) faire peur au fantôme/
 嚎啕 嚎啕 [hao2 tao2] {hou4 tou4} /gémir; geindre/
 嚟 嚟 [li4] {lai4} /venir/pour; afin de/
 嚟 嚟 [li4] {lei4} /venir/pour; afin de/
@@ -4763,38 +4763,38 @@
 嚟真 嚟真 [li2 zhen1] {lai2 zan1} /pour de vrai; être sérieux/
 嚟緊 嚟紧 [li2 jin3] {lei4 gan2} /en train de venir/
 嚟自 嚟自 [li2 zi4] {lei4 zi6} /provenir de; venir de/
-????f 嚡嚡聲 嚡嚡声 [hai4 hai4 sheng1] {haai4 haai2 seng1} /(onomatopée d'un soupir)/
-????f 嚡澀澀 嚡涩涩 [hai4 se4 se4] {haai4 saap3 saap3} /rêche; rugueux/(aliment) dur; coriace/
-????f 嚡熠熠 嚡熠熠 [hai4 yi4 yi4] {haai4 saap6 saap6} /rêche; rugueux/(aliment) dur; coriace/
+嚡嚡聲 嚡嚡声 [hai4 hai4 sheng1] {haai4 haai2 seng1} /(onomatopée d'un soupir)/
+嚡澀澀 嚡涩涩 [hai4 se4 se4] {haai4 saap3 saap3} /rêche; rugueux/(aliment) dur; coriace/
+嚡熠熠 嚡熠熠 [hai4 yi4 yi4] {haai4 saap6 saap6} /rêche; rugueux/(aliment) dur; coriace/
 嚤佗 嚤佗 [mo1 tuo2] {mo1 to4} /moteur/(orig.) de l'anglais « motor » (« moteur »)/
 𡃁仔 𡃁仔 [liang4 zai3] {leng1 zai2} /enfant; adolescent/
 𡃁ken 𡃁ken [liang4 keng1] {leng1 keng1} /gars; jeune homme/(péj.) jeune homme bon à rien/
 𡃁妹 𡃁妹 [liang4 mei4] {leng1 mui1} /petite fille/
 𡃁模 𡃁模 [liang4 mo2] {leng1 mou4} /jeune mannequin/
-????c 嚪 嚪 [dan4] {daam6} /bouchée/
-????f 嚴令 严令 [yan2 ling4] {jim4 ling6} /consigne stricte/
+嚪 嚪 [dan4] {daam6} /bouchée/
+嚴令 严令 [yan2 ling4] {jim4 ling6} /consigne stricte; ordre strict/
 嚴刑峻法 严刑峻法 [yan2 xing2 jun4 fa3] {jim4 jing4 zeon3 faat3} /(expr.) punition sévère; loi draconienne/
 嚴刑拷打 严刑拷打 [yan2 xing2 kao3 da3] {jim4 jing4 haau1 daa2} /torture; punition sévère utilisée lors d'un interrogatoire/
-????f 嚴刑逼供 严刑逼供 [yan2 xing2 bi1 gong4] {jim4 jing4 bik1 gung1} /torture; punition sévère utilisée pour extorquer des aveux/
+????f 嚴刑逼供 严刑逼供 [yan2 xing2 bi1 gong4] {jim4 jing4 bik1 gung1} /extorquer des aveux sous la torture/
 嚴寒 严寒 [yan2 han2] {jim4 hon4} /frigide/
-????f 嚴師 严师 [yan2 shi1] {jim4 si1} /professeur strict/
-????f 嚴禁 严禁 [yan2 jin4] {jim4 gam3} /interdire strictement; interdire formellement/
+嚴師 严师 [yan2 shi1] {jim4 si1} /professeur strict/
+嚴禁 严禁 [yan2 jin4] {jim4 gam3} /interdire strictement/
 嚴辦 严办 [yan2 ban4] {jim4 baan6} /punir sévèrement; sévir/
 嚴陣以待 严阵以待 [yan2 zhen4 yi3 dai4] {jim4 zan6 ji5 doi6} /(expr.) prêt au combat/
 囂屎 嚣屎 [xiao1 shi3] {hiu1 si2} /arrogant/
 囂張 嚣张 [xiao1 zhang1] {hiu1 zoeng1} /arrogant; vantard; fanfaron/
-????f 囉 啰 [luo1] {lo1} /(particule modale qui exprime le caractère évident de quelque chose)/
+囉 啰 [luo1] {lo1} /(particule modale qui exprime le caractère évident de quelque chose)/
 ????c 囉噃 罗噃 [luo2 bo5] {lo4 bo3} /alerte; avis/
 囉囉攣 罗罗挛 [luo1 luo1 luan2] {lo1 lo1 lyun1} /mal à l'aise; anxieux; préoccupé; énervé/
 囉攣 罗挛 [luo2 luan2] {lo1 lyun1} /mal à l'aise; anxieux; préoccupé; énervé/
 囉柚 罗柚 [luo2 you4] {lo1 jau2} /derrière; fesses/
-????f 囉氣 罗气 [luo2 qi4] {lo4 hei3} /rendre quelqu'un malheureux; contrarier quelqu'un (make somebody unhappy, annoy them, eg. a misbehaving child to their parents)/
+囉氣 罗气 [luo2 qi4] {lo4 hei3} /rendre quelqu'un malheureux; contrarier quelqu'un/
 囊中物 囊中物 [nang2 zhong1 wu4] {nong4 zung1 mat6} /(expr. idiom.) dans la poche; quelque chose qui est certaine ou facile/(lit.) une chose qui est dans le sac/
 囊空如洗 囊空如洗 [nang2 kong1 ru2 xi3] {nong4 hung1 jyu4 sai2} /(expr. idiom) ne pas avoir de l'argent; fauché; à sec/(lit.) poche vide comme si elle a été lavée/
 囚牢 囚牢 [qiu2 lao2] {cau4 lou4} /cellule de prison/
-????f 囚籠 囚笼 [qiu2 long2] {cau4 lung4} /cage de prisonnier/
+囚籠 囚笼 [qiu2 long2] {cau4 lung4} /(litt.) cage de prisonnier/
 囚衣 囚衣 [qiu2 yi1] {cau4 ji1} /uniforme de prison; uniforme de prisonnier/
-????f 囚車 囚车 [qiu2 che1] {cau4 ce1} /véhicule pour le transport des prisonniers/
+囚車 囚车 [qiu2 che1] {cau4 ce1} /véhicule pour le transport des prisonniers; véhicule pour le transport des détenus/
 囚首垢面 囚首垢面 [qiu2 shou3 gou4 mian4] {cau4 sau2 gau3 min6} /(expr. idiom.) (d'une personne) négligé; dépenaillé/(lit.) avoir un visage sale comme un prisonnier/
 四 四 [si4] {sei3} /(fam.) servant; domestique (voir aussi 阿四|啊四)/
 四不像 四不像 [si4 bu4 xiang4] {sei3 bat1 zoeng6} /cerf du père David, Elaphurus davidianus/
@@ -4812,8 +4812,8 @@
 四十年代 四十年代 [si4 shi2 nian2 dai4] {sei3 sap6 nin4 doi6} /les années 1940/
 四千 四千 [si4 qian1] {sei3 cin1} /quatre mille/
 四周圍 四周围 [si4 zhou1 wei2] {sei3 zau1 wai4} /de tous les côtés/partout; tout autour/qui entoure/
-????f 四哥 四哥 [si4 ge1] {sei3 go1} /quatrième frère aîné/surnom de Patrick Tse, acteur hongkongais/
-????f 四四六六 四四六六 [si4 si4 liu4 liu4] {sei3 sei3 luk6 luk6} /(expr.) de façon appropriée; d'une manière convenable/(lit.) quatre quatre six six/
+四哥 四哥 [si4 ge1] {sei3 go1} /quatrième frère aîné/surnom de Patrick Tse, acteur hongkongais/
+四四六六 四四六六 [si4 si4 liu4 liu4] {sei3 sei3 luk6 luk6} /(expr.) parvenir à un consensus et travailler ensemble/(lit.) quatre quatre six six/
 四圍貢 四围贡 [si4 wei2 gong4] {sei3 wai4 gung3} /flâner; musarder; traîner/
 四塊半 四块半 [si4 kuai4 ban4] {sei3 faai3 bun3} /cercueil; bière/
 四季桔 四季桔 [si4 ji4 ju2] {sei3 gwai3 gat1} /clémentine/
@@ -4821,39 +4821,39 @@
 四平八正 四平八正 [si4 ping2 ba1 zheng4] {sei3 ping4 baat3 zing3} /(expr.) bien rangé; ordonné/
 四年 四年 [si4 nian2] {sei3 nin4} /quatre ans/
 四方八面 四方八面 [si4 fang1 ba1 mian4] {sei3 fong1 baat3 min6} /(expr.) de tous les côtés/(lit.) quatre directions et huit faces/
-????f 四方𡃈 四方𡃈 [si4 fang1 ke4] {sei3 fong1 kwaak1} /cadre à quatre côtés/
+????m 四方𡃈 四方𡃈 [si4 fang1 ke4] {sei3 fong1 kwaak1} /cadre à quatre côtés/
 四方形 四方形 [si4 fang1 xing2] {sei3 fong1 jing4} /un carré/
 四方木 四方木 [si4 fang1 mu4] {sei3 fong1 muk6} /(fig.) tire-au-flanc; paresseux; fainéant/(fig.) idiot; crétin; imbécile/(lit.) bois équarri/
 四方竹 四方竹 [si4 fang1 zhu2] {sei3 fong1 zuk1} /type de bambou/
-????f 四方緙 四方缂 [si4 fang1 ke4] {sei3 fong1 kwaak1} /cadre à quatre côtés/
-????f 四方辮頂 四方辫顶 [si4 fang1 bian4 ding3] {sei3 fong1 bin1 deng2} /(expr. idiom.) homme qui gaspille tout son argent courant après des femmes mais qui n'a pas de succès/
+????m 四方緙 四方缂 [si4 fang1 ke4] {sei3 fong1 kwaak1} /cadre à quatre côtés/
+四方辮頂 四方辫顶 [si4 fang1 bian4 ding3] {sei3 fong1 bin1 deng2} /(expr. idiom.) homme qui gaspille tout son argent en draguant des femmes mais qui n'a aucun succès/
 四日 四日 [si4 ri4] {sei3 jat6} /quatre jours/le quatrième jour d'un mois/
 四星級 四星级 [si4 xing1 ji2] {sei3 sing1 kap1} /(un hôtel) quatre étoiles/
-????f 四暗刻 四暗刻 [si4 an4 ke4] {sei3 am3 kaan5} /quatre « triplés cachés », quatre ensembles de trois tuiles portant le même chiffre de la même suite, ou trois tuiles d'honneur identique dans le jeu de mah-jong/
+????m 四暗刻 四暗刻 [si4 an4 ke4] {sei3 am3 kaan5} /quatre « triplés cachés », quatre ensembles de trois tuiles portant le même chiffre de la même suite, ou trois tuiles d'honneur identique dans le jeu de mah-jong/
 四書五經 四书五经 [si4 shu1 Wu3 jing1] {sei3 syu1 ng5 ging1} /Quatre Livres et Cinq Classiques, textes importants du confucianisme/
 四月十七號 四月十七号 [si4 yue4 shi2 qi1 hao4] {sei3 jyut6 sap6 cat1 hou6} /le 17 avril/
 四條 四条 [si4 tiao2] {sei3 tiu2} /quatre/(jeux de cartes) carré/
 四正 四正 [si4 zheng4] {si3 zeng3} /bien rangé; ordonné/(écriture) soigné; propre/
 四海 四海 [si4 hai5] {sei3 hoi2} /Quatre Mers, limites de la Chine historique/
-????f 四海一家 四海一家 [si4 hai3 yi1 jia1] {sei3 hoi2 jat1 gaa1} /le monde uni; le monde est une grande famille/
-????c 四海流浪 四海流浪 [si4 hai5 liu2 lang4] {sei3 hoi2 lau4 long6} /Fourway Rangers; rove everywhere/
+????f 四海一家 四海一家 [si4 hai3 yi1 jia1] {sei3 hoi2 jat1 gaa1} /le monde uni; le monde est une grande famille; tous les peuples du monde/
+????c 四海流浪 四海流浪 [si4 hai5 liu2 lang4] {sei3 hoi2 lau4 long6} /x/
 四眼仔 四眼仔 [si4 yan3 zi3] {sei3 ngaan5 zai2} /porteur de lunettes/
 四眼佬 四眼佬 [si4 yan3 lao3] {sei3 ngaan5 lou2} /porteur de lunettes/
 四眼妹 四眼妹 [si4 yan3 mei4] {sei3 ngaan5 mui1} /porteuse de lunettes/
 四眼婆 四眼婆 [si4 yan3 po2] {sei3 ngaan5 po2} /porteuse de lunettes/
 四眼狗 四眼狗 [si4 yan3 gou3] {sei3 ngaan5 gau2} /(péj.) porteur de lunettes/(lit.) chien à quatre yeux/
-????c 四肢無力 四肢无力 [si4 zhi1 wu2 li4] {sei3 zi1 mou4 lik6} /corps faible/(lit.) quatre membres sans force/
+????m 四肢無力 四肢无力 [si4 zhi1 wu2 li4] {sei3 zi1 mou4 lik6} /corps faible/(lit.) quatre membres sans force/
 四腳爬爬 四脚爬爬 [si4 jiao3 pa2 pa2] {sei3 goek3 paa4 paa4} /ramper/
 四週 四周 [si4 zhou1] {sei3 zau1} /alentours/
 四邊四便 四边四便 [si4 bian1 si4 bian4] {sei3 bin1 sei3 bin6} /alentours/
 四邑 四邑 [si4 yi4] {sei3 jap1} /« Seiyap » ou « Sze Yup », littéralement les quatre comtés, région désignant Xinhui, Taishan, Kaiping, Enping, Jiangmen/
 四重唱 四重唱 [si4 chong2 chang4] {sei3 cung4 coeng3} /quatuor musical/
-????c 四野 四野 [si4 ye3] {sei3 je5} /autour/
+????m 四野 四野 [si4 ye3] {sei3 je5} /autour/
 四項 四项 [si4 xiang4] {sei3 hong6} /quatre objets/quatre catégories/
 回力球 回力球 [hui2 li4 qiu2] {wui4 lik6 kau4} /pelote basque, sports traditionnels basques/
 回南 回南 [hui2 nan2] {wui4 naam4} /(le temps) qui se réchauffe de nouveau au printemps; les températures qui remontent (se dit de la Chine du Sud)/(lit.) retourner au sud/
-????f 回南天 回南天 [hui2 nan2 tian1] {wui4 naam4 tin1} /(le temps) qui se réchauffe de nouveau au printemps; les températures qui remontent (se dit de la Chine du Sud)/(lit.) retourner au temps du sud/
-????f 回吐 回吐 [hui2 tu3] {wui4 tou3} /(bourse) vendre des actions à profit/
+回南天 回南天 [hui2 nan2 tian1] {wui4 naam4 tin1} /(le temps) qui se réchauffe de nouveau au printemps; les températures remontent (se dit de la Chine du Sud)/(lit.) retourner au temps du sud/
+回吐 回吐 [hui2 tu3] {wui4 tou3} /(économie) vendre des actions à profit/
 回報率 回报率 [hui2 bao4 lu:4] {wui4 bou3 leot6} /retour sur investissement; rendement des investissements/
 回家 回家 [hui2jia1] {wui4 gaa1} /rentrer (à la maison)/
 回扣 回扣 [hui2 kou4] {wui4 kau3} /rabais/
@@ -4866,17 +4866,17 @@
 回歸祖國 回归祖国 [hui2 gui1 zu3 guo2] {wui4 gwai1 zou2 gwok3} /retourner à son pays d'origine/
 回氣 回气 [hui2 qi4] {wui4 hei3} /faire une pause/
 回水 回水 [hui2 shui3] {wui4 seoi2} /obtenir un remboursement; se faire rembourser/(lit.) rendre de l'eau/
-????f 回眸一笑 回眸一笑 [hui2 mou2 yi1 xiao4] {wui4 mau4 jat1 siu3} /(expr.) (une belle femme) se retourner et sourir/
+回眸一笑 回眸一笑 [hui2 mou2 yi1 xiao4] {wui4 mau4 jat1 siu3} /(expr.) (d'une belle femme) se retourner et sourir/
 回穩 回稳 [hui2 wen3] {wui4 wan2} /redevenir stable/
 回蕩 回荡 [hui2 dang4] {wui4 dong6} /retentir; résonner; faire de l'écho/
-????f 回軟 回软 [hui2 ruan3] {wui4 jyun5} /stocks diminuant après des hauts de marché/
-????f 回鄉證 回乡证 [hui2 xiang1 zheng4] {wui4 hoeng1 zing3} /visa d'entrée à la Chine continentale pour les citoyens de Hong Kong et Macau/
+回軟 回软 [hui2 ruan3] {wui4 jyun5} /(économie) (valeur d'une action, d'une monnaie) reculer légèrement; baisser un peu/
+回鄉證 回乡证 [hui2 xiang1 zheng4] {wui4 hoeng1 zing3} /visa d'entrée à la Chine continentale pour les citoyens de Hong Kong et Macau/
 回電話 回电话 [hui2 dian4 hua4] {wui4 din6 waa2} /rappeler (au téléphone)/
 回頭 回头 [hui2 tou2] {wui4 tau4} /tourner la tête/se repentir/plus tard/
-????f 回頭是岸 回头是岸 [hui2 tou2 shi4 an4] {wui4 tau4 si6 ngon6} /repentir est le salut (in repentence there is salvation)/
-????f 回魂 回魂 [hui2 hun2] {wui4 wan4} /l'âme qui retourne à son corps après la mort/
-因住 因住 [yin1 zhu4] {jan1 zyu6} /fais attention!/
-????f 因住嚟 因住嚟 [yin1 zhu4 li2] {jan1 zyu6 lei4} /fais attention!/(phrase utilisée pour menacer quelqu'un) prends garde! vous ferez mieux de faire attention!/
+回頭是岸 回头是岸 [hui2 tou2 shi4 an4] {wui4 tau4 si6 ngon6} /repentir est le salut/(expr. idiom.) (utilisé pour exprimer son approbation quand quelqu'un reconnaît ses erreurs ou regrette ses actes)/
+回魂 回魂 [hui2 hun2] {wui4 wan4} /(de l'âme d'un défunt) retourner au monde des vivants/
+因住 因住 [yin1 zhu4] {jan1 zyu6} /fais attention! attention!/
+因住嚟 因住嚟 [yin1 zhu4 li2] {jan1 zyu6 lei4} /fais attention! attention!/(phrase utilisée pour menacer quelqu'un) prends garde! vous ferez mieux de faire attention!/
 因何 因何 [yin1 he2] {jan1 ho4} /raison/pourquoi/
 因加得減 因加得减 [yin1 jia1 de5 jian3] {jan1 gaa1 dak1 gaam2} /(expr. idiom.) se tirer dans le pied/(lit.) baisser à cause d'une hausse/
 因果報應 因果报应 [yin1 guo3 bao4 ying4] {jan1 gwo2 bou3 jing3} /(Bouddhisme) karma/
@@ -4887,15 +4887,15 @@
 囡囡 囡囡 [nan1 nan1] {naam4 naam4} /fille (du sens d'un enfant de parents)/copine; petite amie; blonde/prostituée/
 困擾 困扰 [kun4 rao3] {kwan3 jiu5} /ennuyer; déranger/déconcerter; troubler/
 困難 困难 [kun4 nan5] {kwan3 naan4} /problème; difficulté/
-????c 困難重重 困难重重 [kun4 nan5 chong2 chong2] {kwan3 naan4 cung4 cung4} /plusieurs problèmes; plusieurs défis/hérissée de difficultés/
+困難重重 困难重重 [kun4 nan5 chong2 chong2] {kwan3 naan4 cung4 cung4} /plusieurs problèmes; plusieurs défis/hérissée de difficultés/
 固定 固定 [gu4 ding4] {gu3 ding6} /stable; fixé/
-????f 固步自封 固步自封 [gu4 bu4 zi4 feng1] {gu3 bou6 zi6 fung1} /(expr. idiom) qui est vieux jeu; qui ne veut pas changer/(lit.) se restreindre avec les mêmes pas/
+固步自封 固步自封 [gu4 bu4 zi4 feng1] {gu3 bou6 zi6 fung1} /(expr. idiom) qui ne veut pas changer; qui cesse de progresser/(lit.) se restreindre avec les mêmes pas/
 固然之 固然之 [gu4 ran2 zhi1] {gu3 jin4 zi1} /bien sûr/
-????f 圈中人 圈中人 [quan1 zhong1 ren2] {hyun1 zung1 jan4} /initié; homme du sérail; insider/(lit.) personne dans le cercle/
+圈中人 圈中人 [quan1 zhong1 ren2] {hyun1 zung1 jan4} /initié; homme du sérail; insider/(lit.) personne dans le cercle/
 圈肥 圈肥 [juan4 fei2] {gyun6 fei4} /fumier/
 國 国 [guo2] {gwok3} /empire; nation; État/
 國交 国交 [guo2 jiao1] {gwok3 gaau1} /relations inter-étatiques/
-????f 國內市場 国内市场 [guo2 nei4 shi4 chang3] {gwok3 noi6 si5 coeng4} /marché domestique; marché intérieur (market within a country)/
+國內市場 国内市场 [guo2 nei4 shi4 chang3] {gwok3 noi6 si5 coeng4} /marché domestique; marché intérieur/
 國內生產毛額 国内生产毛额 [guo2 nei4 sheng1 chan3 mao2 e2] {gwok3 noi6 sang1 caan2 mou4 ngaak6} /produit intérieur brut/
 國內貿易 国内贸易 [guo2 nei4 mao4 yi4] {gwok3 noi6 mau6 jik6} /commerce intérieur/
 國境線 国境线 [guo2 jing4 xian4] {gwok3 ging2 sin3} /frontières nationales/
@@ -4905,9 +4905,9 @@
 國家地理雜誌 国家地理杂志 [Guo2 jia1 Di4 li3 za2 zhi4] {gwok3 gaa1 dei6 lei5 zaap6 zi3} /magazine National Geographic/
 國家大事 国家大事 [guo2 jia1 da4 shi4] {gwok3 gaa1 daai6 si6} /affaires nationales/
 國家標準 国家标准 [guo2 jia1 biao1 zhun3] {gwok3 gaa1 biu1 zeon2} /normes nationales/
-????c 國家機器 国家机器 [guo2 jia1 ji1 qi4] {gwok3 gaa1 gei1 hei3} /appareil de l'État/
+國家機器 国家机器 [guo2 jia1 ji1 qi4] {gwok3 gaa1 gei1 hei3} /appareil d'État/
 國家機密 国家机密 [guo2 jia1 ji1 mi4] {gwok3 gaa1 gei1 mat6} /secret d'État; information classée secète/
-????c 國家機構 国家机构 [guo2 jia1 ji1 gou4] {gwok3 gaa1 gei1 kau3} /institutions nationales; institution publique/
+國家機構 国家机构 [guo2 jia1 ji1 gou4] {gwok3 gaa1 gei1 kau3} /institutions nationales; institution publique/
 國家機關 国家机关 [guo2 jia1 ji1 guan1] {gwok3 gaa1 gei1 gwaan1} /organes de l'État/
 國家權力 国家权力 [guo2 jia1 quan2 li4] {gwok3 gaa1 kyun4 lik6} /pouvoir de l'État/
 國家銀行 国家银行 [guo2 jia1 yin2 hang2] {gwok3 gaa1 ngan4 hong4} /banque nationale/
@@ -4917,7 +4917,7 @@
 國文 国文 [guo2 wen2] {gwok3 man4} /langue nationale (en particulier, celle de la Chine, le mandarin)/
 國旗 国旗 [guo2qi2] {gwok3 kei4} /drapeau national/
 國格 国格 [guo2 ge2] {gwok3 gaak3} /prestige national/
-????f 國殤 国殇 [guo2 shang1] {gwok3 soeng1} /personne qui est morte pour son pays/
+國殤 国殇 [guo2 shang1] {gwok3 soeng1} /personne qui est morte pour son pays; martyre pour la cause nationale/
 國民大會 国民大会 [guo2 min2 ga4 hui4] {gwok3 man4 daai6 wui2} /Assemblée nationale (en particulier, celle de la république de Chine)/
 國民教育 国民教育 [guo2 min2 jiao4 yu4] {gwok3 man4 gaau3 juk6} /éducation nationale/
 國民生產 国民生产 [guo2 min2 sheng1 chan3] {gwok3 man4 sang1 caan2} /productivité nationale/
@@ -4926,19 +4926,19 @@
 國泰航空公司 国泰航空公司 [Guo2 tai4 Hang2 kong1 gong1 si1] {gwok3 taai3 hong4 hung1 gung1 si1} /Cathay Pacific, compagnie aérienne basée dans la ville de Hong Kong/
 國營商業 国营商业 [guo2 ying2 shang1 ye4] {gwok3 jing4 soeng1 jip6} /entreprise d'état; entreprise publique/
 國父紀念館 国父纪念馆 [guo2 fu4 ji4 nian4 guan3] {gwok3 fu6 gei2 nim6 gun2} /« Sun Yat-sen Memorial Hall », salle commémorative de Sun Yat-sen, située à Taïwan/
-????c 國祚 国祚 [guo2 zuo4] {gwok3 zou6} /durée d'un règne/
+國祚 国祚 [guo2 zuo4] {gwok3 zou6} /durée d'un pays, d'un empire/durée d'un règne/
 國立臺灣大學 国立台湾大学 [guo2 li4 tai2 wan1 da4 xue2] {gwok3 laap6 toi4 waan1 daai6 hok6} /Université nationale de Taïwan/
 國腳 国脚 [guo2 jiao3] {gwok3 goek3} /joueur de football de l'équipe nationale/
 國舅 国舅 [guo2 jiu4] {gwok3 kau5} /frère de la reine/
 國色 国色 [guo2 se4] {gwok3 sik1} /beauté/(lit.) couleur de la pivoine arbustive/
-????f 國計民生 国计民生 [guo2 ji4 min2 sheng1] {gwok3 gai3 man4 sang1} /l'économie du pays et la subsistance du peuple/
-國貨 国货 [guo2 huo4] {gwok3 fo3} /produits originant de la Chine/
-????f 國醫 国医 [guo2 yi1] {gwok3 ji1} /practicien de la médecine traditionelle chinoise/
-????f 國門 国门 [guo2 men2] {gwok3 mun4} /« National Gate », porte frontalière entre la Chine et la Russie à Manzhouli/
+國計民生 国计民生 [guo2 ji4 min2 sheng1] {gwok3 gai3 man4 sang1} /(expr.) l'économie du pays et les moyens d'existence du peuple/
+國貨 国货 [guo2 huo4] {gwok3 fo3} /produits originaires de la Chine/
+國醫 国医 [guo2 yi1] {gwok3 ji1} /praticien de la médecine traditionelle chinoise/
+國門 国门 [guo2 men2] {gwok3 mun4} /« National Gate » (« Porte Nationale »), poste frontalier entre la Chine et la Russie à Manzhouli/
 國際公約 国际公约 [guo2 ji4 gong1 yue1] {gwok3 zai3 gung1 joek3} /traité international/
 國際市場 国际市场 [guo2 ji4 shi4 chang3] {gwok3 zai3 si5 coeng4} /marché international/
-????c 國際慣例 国际惯例 [guo2 ji4 guan4 li4] {gwok3 zai3 gwaan3 lai6} /droit international public/
-國際換日線 国际换日线 [Guo2 ji4 Huan4 ri4 xian4] {gwok3 zai3 wun6 jat6 sin3} /ligne de changement de date/
+國際慣例 国际惯例 [guo2 ji4 guan4 li4] {gwok3 zai3 gwaan3 lai6} /pratique internationale/
+國際換日線 国际换日线 [guo2 ji4 huan4 ri4 xian4] {gwok3 zai3 wun6 jat6 sin3} /ligne de changement de date/
 國際水平 国际水平 [guo2 ji4 shui3 ping2] {gwok3 zai3 seoi2 ping4} /normes internationales/
 國際法院 国际法院 [Guo2 ji4 Fa3 yuan4] {gwok3 zai3 faat3 jyun2} /Cour international de justice/
 國際組織 国际组织 [guo2 ji4 zu3 zhi1] {gwok3 zai3 zou2 zik1} /organismes internationaux/
@@ -4947,7 +4947,7 @@
 國際貨幣基金會 国际货币基金会 [guo2 ji4 huo4 bi4 ji1 jin1 hui4] {gwok3 zai3 fo3 bai6 gei1 gam1 wui2} /Fonds monétaire international/
 國際金融中心 国际金融中心 [guo2 ji4 jin1 rong2 zhong1 xin1] {gwok3 zai3 gam1 jung4 zung1 sam1} /International Financial Centre, gratte-ciel situé dans la ville de Hong Kong/
 國難 国难 [guo2 nan4] {gwok3 naan6} /crise nationale/
-????c 國魂 国魂 [guo2 hun2] {gwok3 wan4} /esprit national/
+國魂 国魂 [guo2 hun2] {gwok3 wan4} /esprit national; l'âme d'une nation/
 圍 围 [wei2] {wai4} /circonférence/
 圍內 围內 [wei2 nei4] {wai4 noi2} /clique; cercle fermé/
 圍屏 围屏 [wei2 ping2] {wai4 ping4} /paravent/
@@ -4963,30 +4963,30 @@
 圓滿 圆满 [yuan2 man3] {jyun4 mun5} /de manière satisfaisante/
 圓玄學院 圆玄学院 [yuan2 xuan2 xue2 yuan4] {jyun4 jyun4 hok6 jyun2} /Institut Yuen Yuen, temple Taoïste à Hong Kong/
 圓碌碌 圆碌碌 [yuan2 lu4 lu4] {jyun4 luk1 luk1} /rond; arrondi; sphérique; cylindrique/
-????f 圓肉 圆肉 [yuan2 rou4] {jyun4 juk6} /chair séchée du longane (voir aussi 桂圓肉|桂圓肉)/
-????f 圓謊 圆谎 [yuan2 huang3] {jyun4 fong1} /cacher un mensonge; essayer d'expliquer les contradictions dans un mensonge/
+圓肉 圆肉 [yuan2 rou4] {jyun4 juk6} /chair séchée du longane (voir aussi 桂圓肉|桂圓肉)/
+圓謊 圆谎 [yuan2 huang3] {jyun4 fong1} /essayer d'expliquer les contradictions dans un mensonge/
 圓蹄 圆蹄 [yuan2 ti2] {jyun4 tai4} /sabot de cochon; patte de cochon/
 圓軲轆 圆轱辘 [yuan2 gu1 lu5] {jyun4 gu1 luk1} /très rond; arrondi/
 ????c 圓面積 圆面积 [yuan2 mian4 ji1] {jyun4 min6 zik1} /aire d'un cercle/
 圓顱方趾 圆颅方趾 [yuan2 lu2 fang1 zhi3] {jyun4 lou4 fong1 zi2} /(expr.) être humain/(lit.) crâne circulaire et pieds carrés/
 圖則 图则 [tu2 ze2] {tou4 zak1} /dessin architectural; plan d'étage/
-????f 圖報 图报 [tu2 bao4] {tou4 bou3} /récompenser; rendre (la bonté, la gentilesse)/
+圖報 图报 [tu2 bao4] {tou4 bou3} /(litt.) récompenser; rendre (la bonté, la gentilesse)/
 圖形 图形 [tu2 xing2] {tou4 jing4} /figure (en géometrie)/
-????c 圖文 图文 [tu2 wen2] {tou4 man4} /diagramme avec légende/
-????f 圖文並茂 图文并茂 [tu2 wen2 bing4 mao4] {tou4 man4 bing6 mau6} /(expr.) quand le texte et les images se complètent les uns les autres, quand ils se conviennent très bien/
-????c 圖景 图景 [tu2 jing3] {tou4 ging2} /perspective/
+圖文 图文 [tu2 wen2] {tou4 man4} /diagramme avec légende/image humoristique (avec des mots dessus); image macro; mème Internet/
+圖文並茂 图文并茂 [tu2 wen2 bing4 mao4] {tou4 man4 bing6 mau6} /(expr.) (d'une publication) avec d'excellentes images et de texte bien écrit/
+????f 圖景 图景 [tu2 jing3] {tou4 ging2} /perspective (sur une situation)/
 圖示 图示 [tu2 shi4] {tou4 si6} /icône/
 圖表 图表 [tu2 biao3] {tou4 biu2} /tableau; graphique; diagramme/
 圖解 图解 [tu2 jie3] {tou4 gaai2} /graphique; graphe/
 圖謀 图谋 [tu2 mou2] {tou4 mau4} /comploter; intriguer; conspirer/
 圖靈機 图灵机 [tu2 ling2 ji1] {tou4 ling4 gei1} /machine de Turing/
 圖章 图章 [tu2 zhang1] {tou4 zoeng1} /sceau; empreinte faite par un cachet officiel/
-????f 團友 团友 [tuan2 you3] {tyun4 jau5} /personne dans le même groupe de touristes; compagnon de route; compagnon de voyage/
+團友 团友 [tuan2 you3] {tyun4 jau5} /personne dans le même groupe de touristes; compagnon de route; compagnon de voyage/
 團圓飯 团圆饭 [tuan2 yuan2 fan4] {tyun4 jyun4 faan6} /(Can.) souper de réunion de famille; (Fr.) dîner de réunion de famille/
-????c 團團 团团 [tuan2 tuan2] {tyun4 tyun4} /tas; pile; amas d'objets circulaires/
-????f 團年飯 团年饭 [tuan2 nian2 fan4] {tyun4 nin4 faan6} /(Can.) souper de réunion de famille du réveillon; (Fr.) dîner de réunion de famille de réveillon/
+團團 团团 [tuan2 tuan2] {tyun4 tyun4} /encerler; entourer/
+????f 團年飯 团年饭 [tuan2 nian2 fan4] {tyun4 nin4 faan6} /(Can.) souper (Fr.) dîner de réunion de famille du réveillon (du Nouvel An chinois)/
 團結一致 团结一致 [tuan2 jie2 yi1 zhi4] {tyun4 git3 jat1 zi3} /(expr.) uni/
-????f 團費 团费 [tuan2 fei4] {tyun4 fai3} /frais pour se joindre à un groupe de touristes/(Chine) cotisation de la Ligue de la jeunesse communiste chinoise/
+團費 团费 [tuan2 fei4] {tyun4 fai3} /prix d'un voyage organisé/(Chine) cotisation de la Ligue de la jeunesse communiste chinoise/
 土 土 [tu3] {tou2} /terre/nul/démodé/
 土佬 土佬 [tu3 lao3] {tou2 lou2} /campagnard; péquenaud; plouc/
 土共 土共 [tu3 gong4] {tou2 gung6} /hongkongais qui appuient le Parti communiste chinois/
@@ -4996,7 +4996,7 @@
 土專家 土专家 [tu3 zhuan1 jia1] {tou2 zyun1 gaa1} /autodidacte/(lit.) experts de la terre/
 土方 土方 [tu3 fang1] {tou2 fong1} /Hijikata, surnom japonais/
 土氣 土气 [tu3 qi4] {tou2 hei3} /démodé; ringard/rustique; grossier/
-????f 土炮 土炮 [tu3 pao2] {tou2 paau3} /armes de fabrication artisanale/alcool de riz de mauvaise qualité/
+土炮 土炮 [tu3 pao2] {tou2 paau3} /(produit) fabriqué localement/alcool de riz de mauvaise qualité/
 土瓜灣 土瓜湾 [tu3 gua1 wan1] {tou2 gwaa1 waan4} /To Kwa Wan, quartier dans la ville de Hong Kong/
 土生葡人 土生葡人 [tu3 sheng1 pu2 ren2] {tou2 sang1 pou4 jan4} /Portugais né à Macao/
 土耳其斯坦 土耳其斯坦 [tu3 er3 qi2 si1 tan3] {tou2 ji5 kei4 si1 taan2} /Turkestan, région d'Asie centrale/
