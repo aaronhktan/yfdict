@@ -5290,7 +5290,7 @@
 墊底 垫底 [dian4 di3] {zin3 dai2} /déductible (voir 墊底費|垫底费)/en bas des classements/mettre quelque chose sous quelque chose d'autre/
 墜地 坠地 [zhui4 di4] {zeoi6 dei6} /(litt.) tomber par terre/(litt.) naître; être né/
 墜火 坠火 [zhui4 huo3] {zeoi6 fo2} /(médecine traditionnelle chinoise) réduire la chaleur interne/
-增值 增值 [zeng1 zhi2] {zang1 zik6} /recharger (une carte)/
+增值 增值 [zeng1 zhi2] {zang1 zik6} /recharger (une carte); charger (une carte)/
 增至 增至 [zeng1 zhi4] {zang1 zi3} /accroître à/
 增進 增进 [zeng1 jin4] {zang1 zeon3} /améliorer/
 增長 增长 [zeng1 zhang3] {zang1 zoeng2} /croissance/
@@ -7296,7 +7296,7 @@
 差佬 差佬 [cha1 lao3] {caai1 lou2} /policier/
 差利 差利 [cha1 li4] {caa1 lei6} /surnom de Charlie Chaplin, acteur du cinéma muet britannique/(orig.) de l'anglais « Charlie »/
 差唔多 差唔多 [cha1 n2 duo1] {caa1 m4 do1} /presque; quasiment; près de/
-差啲 差啲 [cha1 di1] {caa1 di1} /un peu pire/presque/
+差啲 差啲 [cha1 di1] {caa1 di1} /presque/un peu pire/
 差天共地 差天共地 [cha1 tian1 gong4 di4] {caa1 tin1 gung6 dei6} /(expr. idiom.) très différent; deux mondes à part; jour et nuit/(lit.) aussi différent que le ciel et la terre/
 差婆 差婆 [cha1 po2] {caai1 po4} /policière/
 差少少 差少少 [cha1 shao3 shao1] {caa1 siu2 siu2} /un peu pire/tout près de; presque; quasiment/
@@ -8043,7 +8043,7 @@
 ????f 急流勇退 急流勇退 [ji2 liu2 yong3 tui4] {gap1 lau4 jung5 teoi3} /(expr.) prendre sa retraite au sommet de sa carrière; prendre sa retraite à l'apogée de sa carrière/
 ????f 急湍 急湍 [ji2 tuan1] {gap1 teon1} /rapides (partie d'un cours d'eau qui descend rapidement)/
 急症室 急症室 [ji2 zheng4 shi4] {gap1 zing3 sat1} /salle d'urgence/
-????f 急起直追 急起直追 [ji2 qi3 zhi2 zhui1] {gap1 hei2 zik6 zeoi1} /travailler fort pour rattraper son retard (work hard to catch up to somebody else who is ahead)/
+????f 急起直追 急起直追 [ji2 qi3 zhi2 zhui1] {gap1 hei2 zik6 zeoi1} /travailler fort pour rattraper son retard/
 急跌 急跌 [ji2 die1] {gap1 dit3} /plonger; baisser fortement; chuter; dégringoler/
 急風 急风 [ji2 feng1] {gap1 fung1} /bourrasque; rafale/typhon; cyclone tropical/
 急風暴雨 急风暴雨 [ji2 feng1 bao4 yu3] {gap1 fung1 bou6 jyu5} /violente tempête; orage soudain et intense/
@@ -9255,7 +9255,7 @@
 排骨仔 排骨仔 [pai2 gu3 zi3] {paai4 gwat1 zai2} /(péj.) homme maigrichon/(lit.) (culinaire) côtes/
 排骨精 排骨精 [pai2 gu3 jing1] {paai4 gwat1 zing1} /(péj.) homme maigrichon, femme maigrichonne; sac d'os/
 ????f 排队取号 排队取号 [pai2 dui4 qu3 hao4] {paai4 deoi2 ceoi2 hou6} /(expr.) prenez un ticket et faites la queue/
-????c 掕 掕 [ling2] {ling4} /bags; stuff/
+掕 掕 [ling2] {lang3} /ensemble/avec/en lien avec/
 掗位 挜位 [ya3 wei4] {ngaa6 wai2} /prendre trop de place; être encombrant/
 掗埞 挜埞 [ya3 di1] {ngaa6 deng6} /prendre trop de place; être encombrant/
 掗拃 挜拃 [ya3 zha2] {ngaa6 zaa6} /qui prend trop de place; encombrant/(vêtements) épais; gros/(personne) autoritaire; dominateur/
@@ -14045,7 +14045,7 @@
 由得 由得 [you2 de5] {jau5 dak1} /laisser; permettre/
 由淺入深 由浅入深 [you2 qian3 ru4 shen1] {jau4 cin2 jap6 sam1} /de facile à difficile/
 由細到大 由细到大 [you2 xi4 dao4 da4] {jau4 sai3 dou3 daai6} /de petit à grand/
-由頭到尾 由头到尾 [you2 tou2 dao4 wei3] {jau4 tau4 dou3 mei5} /du début à la fin/
+由頭到尾 由头到尾 [you2 tou2 dao4 wei3] {jau4 tau4 dou3 mei5} /du début à la fin; de bout en bout/
 甲 甲 [jia3] {gaap3} /premier; meilleur/championnat/carapace; armure/blindé/ongle/
 甲蟲 甲虫 [jia3 chong2] {gaap3 cung4} /(automobile Volkswagen) coccinelle/
 申 申 [shen1] {san1} /affirmer; faire valoir/expliquer/porter; déposer (une plainte)/
@@ -17959,6 +17959,7 @@
 褒獎 褒奖 [bao1 jiang3] {bou1 zoeng2} /louer; reconnaître; apprécier/
 ????c 褒義詞 褒义词 [bao1 yi4 ci2] {bou1 ji6 ci4} /Commendatory term/
 褓姆車 褓姆车 [bao3 mu3 che1] {bou2 mou5 ce1} /mini-autobus scolaire; « nanny-van » (« fourgon nounou »)/fourgon appartenant à une célébrité/
+褦 褦 [nai4] {lang3} /ensemble/avec/en lien avec/
 褦襶 褦襶 [nai4 dai4] {le5 fei2} /(personne) stupide; idiot; bête/chapeau de soleil/
 褪出 褪出 [tui4 chu1] {tan3 ceot1} /sortir; partir; quitter/
 褪後 褪后 [tun4 hou4] {tan3 hau6} /reculer; reculer d'un pas/
@@ -19359,7 +19360,7 @@
 輿論 舆论 [yu2 lun4] {jyu4 leon6} /opinion publique/
 轄下 辖下 [xia2 xia4] {hat6 haa6} /avoir compétence sur/
 轆 辘 [lu4] {luk1} /roue/rouler/
-轆卡 辘卡 [lu4 ka3] {luk1 kaat1} /payer par carte bancaire/
+轆卡 辘卡 [lu4 ka3] {luk1 kaat1} /payer par carte bancaire; payer par carte de crédit/
 ????f 轆轆 辘辘 [lu4 lu4] {luk1 luk1} /(onomatopée d'une voiture roulante)/(onomatopée d'un gargouillement de l'estomac)/(onomatopée d'un objet qui roule)/
 ????c 轇轕 轇轕 [Jiu1 huan2] {gaau1 got3} /dispute/
 轉 转 [zhuan3] {zyun2} /tourner autour d'un point/transférer/changer/
@@ -21105,7 +21106,7 @@
 電髮 电发 [dian4 fa4] {din6 faat3} /se faire une permanente/
 電鬚刨 电须刨 [dian4 xu1 bao4] {din6 sou1 paau2} /rasoir électrique/
 需 需 [xu1] {seoi1} /besoin/avoir besoin/
-需求 需求 [xu1 qiu2] {seoi1 kau4} /besoin/(finances) demande sur le marché/
+需求 需求 [xu1 qiu2] {seoi1 kau4} /besoin/(économie) demande du marché/
 震揗揗 震揗揗 [zhen4 shun3 shun3] {zan3 tan4 tan4} /trembler/trembler de peur/
 震震貢 震震贡 [zhen4 zhen4 gong4] {zan3 zan3 gung3} /en mouvement; pas immobile/
 震驚 震惊 [zhen4 jing1] {zan3 ging1} /surpris; choqué; bouleversé/
@@ -22127,7 +22128,7 @@
 鬥木 斗木 [dou4 mu4] {dau3 muk6} /travailler le bois/
 鬥木佬 斗木佬 [dou4 mu4 lao3] {dau3 muk6 lou2} /charpentier; menuisier/
 鬥氣 斗气 [dou4 qi4] {dau3 hei3} /se disputer; se quereller/
-????c 鬥氣冤家 斗气冤家 [dou4 qi4 yuan1 jia5] {dau3 hei3 jyun1 gaa1} /vindictive enemies/
+????c 鬥氣冤家 斗气冤家 [dou4 qi4 yuan1 jia5] {dau3 hei3 jyun1 gaa1} /ennemis de longue date/
 鬥負氣 斗负气 [dou4 fu4 qi4] {dau3 fu6 hei3} /garder rancune/
 ????c 鬥踩 斗踩 [dou4 cai3] {dau3 caai2} /to slander each other/
 鬥車 斗车 [dou4 che1] {dau3 ce1} /course automobile/
@@ -25057,7 +25058,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 硬掘掘 硬掘掘 [ying4 jue2 jue2] {ngaang6 gwak6 gwak6} /(d'un objet) très dur/
 ????f 硬晒 硬晒 [ying4 shai4] {ngaang6 saai3} /(d'un objet) dur; rigide; résistant/(fam.) (d'un pénis) en érection/
 硬榾榾 硬榾榾 [ying4 gu3 gu3] {ngaang6 gwak6 gwak6} /(d'un objet) très dur/
-碌ｃａｒｄ 碌ｃａｒｄ [lu4ｃａｒｄ] {luk1 kaat1} /payer par carte de crédit/
+碌ｃａｒｄ 碌ｃａｒｄ [lu4ｃａｒｄ] {luk1 kaat1} /payer par carte bancaire; payer par carte de crédit/
 碌Ｌｉｎｇ 碌Ｌｉｎｇ [lu4Ｌｉｎｇ] {luk1 ling1} /jouer au bowling/(orig.) 碌|碌 « faire rouler » + ling de l'anglais « (bowling) lane » (« piste de bowling »)/
 碌嘢 碌嘢 [lu4 ye3] {luk1 je5} /(fam.) (fig.) nouille; queue; bite; pénis/(lit.) (chose qui ressemble à) une tige/
 碌木 碌木 [lu4 mu4] {luk1 muk6} /(fam.) (fig.) personne stupide; imbécile; crétin/(fam.) personne immobile; personne qui ne bouge pas/(lit.) un morceau de bois/
