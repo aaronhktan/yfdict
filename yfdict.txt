@@ -56,7 +56,7 @@
 一個巴仙 一个巴仙 [yi1 ge5 ba1 xian1] {jat1 go3 baa1 sin1} /un pourcent/(orig.) de l'anglais « percent » (« pourcent »)/
 一個鐘 一个钟 [yi1 ge5 zhong1] {jat1 go3 zung1} /une heure/
 一個餅印 一个饼印 [yi1 ge5 bing3 yin4] {jat1 go3 beng2 jan3} /deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille)/(lit.) une empreinte de biscuit/
-一個餅印噉 一个饼印啖 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille)/(lit.) comme une empreinte de biscuit/
+一個餅印噉 一个饼印噉 [yi1 ge5 bing3 yin4 dan4] {jat1 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille)/(lit.) comme une empreinte de biscuit/
 一個骨 一个骨 [yi1 ge5 gu3] {jat1 go3 gwat1} /quinze minutes; un quart d'heure/(orig.) argot cantonais, de l'anglais « quarter » (« un quart »), la prononciation du mot « quart » en anglais est similaire à la prononciation cantonaise du mot « 骨 » (gwat1))/(lit.) un os/
 一倍 一倍 [yi1 bei4] {jat1 pui5} /100% plus; double; deux fois/
 一億 一亿 [yi1 yi4] {jat1 jik1} /cent millions/
@@ -92,7 +92,7 @@
 一嚿溜 一嚿溜 [yi1 huo4 liu1] {jat1 gau6 liu1} /une boule de quelque chose/
 一嚿雲 一嚿云 [yi1 huo4 yun2] {jat1 gau6 wan4} /(fig.) être distrait; être perdu dans ses pensées/(fig.) stupide; idiot; bête/(lit.) un morceau de nuage/
 一嚿飯 一嚿饭 [yi1 huo4 fan4] {jat1 gau6 faan6} /(fig.) idiot; bête; sot/(fig.) avoir l'esprit lent/(lit.) une masse de riz/
-一嚿飯噉 一嚿饭啖 [yi1 huo4 fan4 dan4] {jat1 gau6 faan6 gam2} /(fig.) idiot; bête; sot/(fig.) avoir l'esprit lent/(lit.) une masse de riz/
+一嚿飯噉 一嚿饭噉 [yi1 huo4 fan4 dan4] {jat1 gau6 faan6 gam2} /(fig.) idiot; bête; sot/(fig.) avoir l'esprit lent/(lit.) une masse de riz/
 一回 一回 [yi1 hui2] {jat1 wui4} /une fois/
 一國三公 一国三公 [yi1 guo2 san1 gong1] {jat1 gwok3 saam1 gung1} /(fig.) direction ou leadership désuni/(lit.) un état avec trois dirigeants/
 一國之君 一国之君 [yi1 guo2 zhi1 jun1] {jat1 gwok3 zi1 gwan1} /roi/président/premier ministre/chef d'État/
@@ -278,7 +278,7 @@
 一身鬆 一身松 [yi1 shen1 song1] {jat1 san1 sung1} /soulagé du stress/
 一輪嘴 一轮嘴 [yi1 lun2 zui3] {jat1 leon2 zeoi2} /débiter; parler rapidement et sans interruptions/
 一轆木 一辘木 [yi1 lu4 mu4] {jat1 luk1 muk6} /(fig.) immobile; sans bouger/(fig.) lent; stupide/(lit.) un morceau de bois/
-一轆木噉 一辘木啖 [yi1 lu4 mu4 dan4] {jat1 luk1 muk6 gam2} /(fig.) immobile; sans bouger/(fig.) lent; stupide/(lit.) comme un morceau de bois/
+一轆木噉 一辘木噉 [yi1 lu4 mu4 dan4] {jat1 luk1 muk6 gam2} /(fig.) immobile; sans bouger/(fig.) lent; stupide/(lit.) comme un morceau de bois/
 一轆杉 一辘杉 [yi1 lu4 shan1] {jat1 luk1 caam3} /(fig.) qui ne réagit pas; qui ne bouge pas/(fig.) qui ne prend pas initiative/(fig.) personne stupide; imbécile; crétin/(lit.) un rondin/
 一邊倒 一边倒 [yi1 bian1 dao3] {jat1 bin1 dou2} /bénéficier d'une supériorité écrasante/favoriser un côté/
 一部 一部 [yi1 bu4] {jat1 bou6} /(classificateur pour les téléphones cellulaires, télévisions ou appareils électroniques)/
@@ -296,9 +296,9 @@
 一陣風 一阵风 [yi1 zhen4 feng1] {jat1 zan6 fung1} /brise; vent/
 一隅 一隅 [yi1 yu2] {jat1 jyu4} /un endroit; un coin/
 一隻屐 一只屐 [yi1 zhi1 ji1] {jat1 zek3 kek6} /(fig.) un visage triste/(fig.) misérable/(fig.) être surmené; surchargé de travail/(lit.) comme une semelle/
-一隻屐噉 一只屐啖 [yi1 zhi1 ji1 dan4] {jat1 zek3 kek6 gam2} /(fig.) avoir l'air démoralisé; triste/(fig.) être épuisé; être lessivé/(lit.) comme une semelle/
+一隻屐噉 一只屐噉 [yi1 zhi1 ji1 dan4] {jat1 zek3 kek6 gam2} /(fig.) avoir l'air démoralisé; triste/(fig.) être épuisé; être lessivé/(lit.) comme une semelle/
 一隻牛 一只牛 [yi1 zhi1 niu2] {jat1 zek3 ngau4} /(fig.) travailleur; dévoué; dédié au travail/(lit.) un taureau/
-一隻狗噉 一只狗啖 [yi1 zhi1 gou3 dan4] {jat1 zek3 gau2 gam2} /(se comporter) comme un chien/(fig.) travailler fort/
+一隻狗噉 一只狗噉 [yi1 zhi1 gou3 dan4] {jat1 zek3 gau2 gam2} /(se comporter) comme un chien/(fig.) travailler fort/
 一雙 一双 [yi1 shuang1] {jat1 soeng1} /une paire (de souliers, etc.)/
 一雙鞋 一双鞋 [yi1 shuang1 xie2] {jat1 soeng1 haai4} /une paire de souliers/
 一雞死，一雞鳴 一鸡死，一鸡鸣 [yi1 ji1 si3 , yi1 ji1 ming2] {jat1 gai1 sei2 ，jat1 gai1 ming4} /(expr. idiom.) lorsqu'une porte ferme, une autre s'ouvre/(lit.) un coq meurt, un autre chante/
@@ -1626,9 +1626,9 @@
 係唔係 系唔系 [xi4 wu2 xi4] {hai6 m4 hai6} /(utilisé pour demander des questions, comme en français « ... n'est-ce pas? » ou « ... non? » ou « est-ce que ... »)/
 係啦 系啦 [xi4 la5] {hai6 laa1} /oui/
 係喎 系㖞 [xi4 kuai1] {hai6 wo3} /ah, oui!/ah, c'est vrai!/
-係噉 系啖 [xi4 dan4] {hai6 gam2} /être comme ceci/c'est tout/sans arrêt; continuellement/
-係噉先 系啖先 [xi4 dan4 xian1] {hai6 gam2 sin1} /c'est tout pour l'instant; à la prochaine!/
-係噉意 系啖意 [xi4 dan4 yi4] {hai6 gam2 ji2} /(faire quelque chose) avec négligence/(faire quelque chose) sans trop y penser; sans trop réfléchir/
+係噉 系噉 [xi4 dan4] {hai6 gam2} /être comme ça/c'est tout/sans arrêt; continuellement/
+係噉先 系噉先 [xi4 dan4 xian1] {hai6 gam2 sin1} /c'est tout pour l'instant; à la prochaine!/
+係噉意 系噉意 [xi4 dan4 yi4] {hai6 gam2 ji2} /(faire quelque chose) avec négligence/(faire quelque chose) sans trop y penser; sans trop réfléchir/
 係威係勢 系威系势 [xi4 wei1 xi4 shi4] {hai6 wai1 hai6 sai3} /avoir l'air imposant/
 係就係 系就系 [xi4 jiu4 xi4] {hai6 zau6 hai6} /(fig.) c'est comme ça/(lit.) ça l'est comme il l'est/
 係要 系要 [xi4 yao4] {hai6 jiu3} /avoir besoin (de quelque chose)/vouloir/
@@ -4150,11 +4150,11 @@
 唔使驚 唔使惊 [m2 shi3 jing1] {m4 sai2 geng1} /n'ayez pas peur/
 唔係 唔系 [wu2 xi4] {m4 hai6} /non; pas; ne pas être/
 唔係…手腳 唔系…手脚 [wu2 xi4 … shou3 jiao3] {m4 hai6 ...sau2 goek3} /ne pas faire le poids devant quelqu'un; ne pas être à l'hauteur de quelqu'un/
-唔係人噉品 唔系人啖品 [wu2 xi4 ren2 dan4 pin3] {m4 hai6 jan4 gam2 ban2} /(expr. idiom.) inhumain; cruel; sans pitié/(lit.) qui n'est pas comme un humain/
+唔係人噉品 唔系人噉品 [wu2 xi4 ren2 dan4 pin3] {m4 hai6 jan4 gam2 ban2} /(expr. idiom.) inhumain; cruel; sans pitié/(lit.) qui n'est pas comme un humain/
 唔係吖嗎 唔系吖吗 [wu2 xi4 a1 ma5] {m4 hai6 aa1 maa3} /ce n'est pas possible! (exprime la déception)/
 唔係啩 唔系啩 [wu2 xi4 gua3] {m4 hai6 gwaa3} /sérieux?, vraiment? (exprime la doute ou la surprise)/
 唔係嘅話 唔系嘅话 [wu2 xi4 ge2 hua4] {m4 hai6 ge3 waa6} /sinon/
-唔係噉話 唔系啖话 [wu2 xi4 dan4 hua4] {m4 hai6 gam2 waa6} /(formule de politesse, réponse à un compliment) vous êtes trop gentil; vous me flattez/(lit.) ne dites pas ça!/
+唔係噉話 唔系噉话 [wu2 xi4 dan4 hua4] {m4 hai6 gam2 waa6} /(formule de politesse, réponse à un compliment) vous êtes trop gentil; vous me flattez/(lit.) ne dites pas ça!/
 唔係幾 唔系几 [wu2 xi4 ji3] {m4 hai6 gei2} /pas vraiment; pas tellement; pas aussi (suivi d'un adjectif)/
 ????f 唔係我手腳 唔系我手脚 [wu2 xi4 wo3 shou3 jiao3] {m4 hai6 ngo5 sau2 goek3} /(expr. idiom.) ce n'est pas moi qui l'ait fait/(expr. idiom.) ne pas faire le poids devant moi; ne pas être à ma hauteur/(lit.) ce n'est pas ma main ni mes pieds/
 ????f 唔係猛龍唔過江 唔系猛龙唔过江 [wu2 xi4 meng3 long2 m2 guo4 jiang1] {m4 hai6 maang5 lung4 m4 gwo3 gong1} /(expr. idiom.) seule une personne douée peut gagner une vie loin de la maison; ceux qui viennent de loin doivent être talenteux pour être venus ici pour concourir/(lit.) un dragon pas féroce ne pourrait pas franchir le fleuve/
@@ -4488,7 +4488,7 @@
 喊到一句句 喊到一句句 [han3 dao4 yi1 ju4 ju4] {haam3 dou3 jat1 geoi2 geoi3} /pleurer fort/
 喊包 喊包 [han3 bao1] {haam3 baau1} /pleurnicheur; quelqu'un qui pleure beaucoup/
 喊口 喊口 [han3 kou3] {haam3 hau2} /pleurnicheur; quelqu'un qui pleure beaucoup/
-喊噉口 喊啖口 [han3 dan4 kou3] {haam3 daam6 hau2} /avoir l'air triste/
+喊啖口 喊啖口 [han3 dan4 kou3] {haam3 daam6 hau2} /avoir l'air triste/
 喊打喊殺 喊打喊杀 [han3 da3 han3 sha1] {haam3 daa2 haam3 saat3} /(expr.) menacer d'actes de violence; menacer de recourir à la violence/
 喊苦喊忽 喊苦喊忽 [han3 ku3 han3 hu1] {haam3 fu2 haam3 fat1} /(expr. idiom.) être un pleurnicheur/
 喊都無謂 喊都无谓 [han3 dou1 wu2 wei4] {haam3 dou1 mou4 wai6} /(expr. idiom.) pleurer ne sert à rien/
@@ -4709,13 +4709,14 @@
 ????c 噆 噆 [zan3] {cam3} /prolixe; interminable/
 噆氣 噆气 [can3 qi4] {cam3 hei3} /prolixe; interminable/
 ????c 噈 噈 [cu4] {zaap3, hap6, zuk1} /sur le point de/
-噉又係 啖又系 [dan4 you4 xi4] {gam2 jau6 hai6} /en effect; effectivement/
-噉又得 啖又得 [dan4 you4 de5] {gam2 jau6 dak1} /ça va aussi/
-噉唔係 啖唔系 [dan4 wu2 xi4] {gam2 m4 hai6} /ce n'est pas ça.../
-噉就 啖就 [dan4 jiu4] {gam2 zau6} /alors.../donc.../
-噉樣 啖样 [dan4 yang4] {gam2 joeng2} /comme ça; de cette façon/donc.../
-噉都得 啖都得 [dan4 dou1 de5] {gam2 dou1 dak1} /comment est-ce possible?/
-噉頭 啖头 [dan4 tou2] {gam2 tau2} /ressembler; avoir l'air de/
+噉做 噉做 [dan4 zuo4] {gam2 zou6} /faire de cette manière/
+噉又係 噉又系 [dan4 you4 xi4] {gam2 jau6 hai6} /en effect; effectivement/
+噉又得 噉又得 [dan4 you4 de5] {gam2 jau6 dak1} /ça va aussi/
+噉唔係 噉唔系 [dan4 wu2 xi4] {gam2 m4 hai6} /ce n'est pas ça.../
+噉就 噉就 [dan4 jiu4] {gam2 zau6} /alors.../donc.../
+噉樣 噉样 [dan4 yang4] {gam2 joeng2} /comme ça; de cette façon/donc.../
+噉都得 噉都得 [dan4 dou1 de5] {gam2 dou1 dak1} /comment est-ce possible?/
+噉頭 噉头 [dan4 tou2] {gam2 tau2} /ressembler; avoir l'air de/
 ????f 噍完鬆 噍完松 [jiao4 wan2 song1] {ziu6 jyun4 sung1} /(expr. idiom.) abandonner quelqu'un après l'avoir exploité/(lit.) partir après avoir mangé/
 噏 噏 [xi1] {ngap1} /dire des bêtises; parler sans cesse; jacasser/
 噏三噏四 噏三噏四 [xi1 san1 xi1 si4] {ngap1 saam1 ngap1 sei3} /(expr. idiom.) répandre des rumeurs; cancaner/(lit.) parler de trois et parler de quatre/
@@ -5188,7 +5189,7 @@
 ????f 執藥 执藥 [zhi2 shuo4] {zap1 joek6} /obtenir une ordonnance d'un médecin (en particulier pour la médecine chinoise)/
 執行主席 执行主席 [zhi2 xing2 zhu3 xi2] {zap1 hang4 zyu2 zik6} /président du conseil d'administration/
 執行李 执行李 [zhi2 xing2 li3] {zap1 hang4 lei5} /faire ses valises/
-執豆噉執 执豆啖执 [zhi2 dou4 dan4 zhi2] {zap1 dau2 gam2 zap1} /(expr. idiom.) très facile; sans effort; sans peine/(lit.) comme ramasser des petits pois/
+執豆噉執 执豆噉执 [zhi2 dou4 dan4 zhi2] {zap1 dau2 gam2 zap1} /(expr. idiom.) très facile; sans effort; sans peine/(lit.) comme ramasser des petits pois/
 執贏 执赢 [zhi2 ying2] {zap1 jeng4} /(compétition) avoir le dessus; prendre la tête/
 執起 执起 [zhi2 qi3] {zap1 hei2} /ramasser/
 ????f 執輸 执输 [zhi2 shu1] {zap1 syu1} /rater sa chance; manquer une belle occasion/
@@ -5590,7 +5591,7 @@
 大學城站 大学城站 [da4 xue2 cheng2 zhan4] {daai6 hok6 sing4 zaam6} /station University Town, station du métro de Canton/
 ????c 大安主義 大安主义 [da4 an1 zhu3 yi4] {daai6 on1 zyu2 ji6} /(expr.) être trop sûr; être trop confiant; avoir un faux sentiment de sécurité/
 大安旨意 大安旨意 [da4 an1 zhi3 yi4] {daai6 on1 zi2 ji3} /(expr.) être trop sûr; être trop confiant; avoir un faux sentiment de sécurité/
-????f 大家噉話 大家啖话 [da4 gu1 dan4 hua4] {daai6 gaa1 gam2 waa6} /(formule de politesse, réponse à de bons vœux) vous aussi; toi aussi/(lit.) tout le monde le dit/
+????f 大家噉話 大家噉话 [da4 gu1 dan4 hua4] {daai6 gaa1 gam2 waa6} /(formule de politesse, réponse à de bons vœux) vous aussi; toi aussi/(lit.) tout le monde le dit/
 大家好 大家好 [da4 gu1 hao3] {daai6 gaa1 hou2} /bonjour tout le monde/
 ????f 大家好做 大家好做 [da4 gu1 hao3 zuo4] {daai6 gaa1 hou2 zou6} /pour l'intérêt général (for everybody's convenience)/
 大家姐 大家姐 [da4 jia1 jie3] {daai6 gaa1 ze1} /soeur aînée/patronne; cheffe; dirigeante/
@@ -6120,7 +6121,7 @@
 ????f 好仔 好仔 [hao3 zi3] {hou2 zai2} /homme bien/
 ????f 好仔唔當差 好仔唔当差 [hao3 zi3 wu2 dang1 cha1] {hou2 zai2 m4 dong1 caai1} /une bonne personne ne serait pas policier/(orig.) à cause de la corruption dans les forces policières de Hong Kong, un parent ne voudrait pas que son fils devienne policier/
 好似 好似 [hao3 si4] {hou2 ci5} /similaire; semblant/ressembler à; s'apparenter à/(exprime de la doute) peut-être/
-好似…噉 好似…啖 [hao3 si4 … dan4] {hou2 ci5 … gam2} /avoir l'air de; ressembler à/
+好似…噉 好似…噉 [hao3 si4 … dan4] {hou2 ci5 … gam2} /avoir l'air de; ressembler à/
 好似係 好似系 [hao3 si4 xi4] {hou2 ci5 hai6} /il semble que (quelque chose) est.../
 ????f 好佬怕爛佬 好佬怕烂佬 [hao3 lao3 pa4 lan4 lao3] {hou2 lou2 paa3 laan6 lou2} /(expr. idiom.) les bonnes personnes ne se disputent pas avec les personnes déraisonnables/(lit.) les bonnes personnes ont peur des méchants/
 ????f 好佬怕爛佬，爛佬怕潑婦 好佬怕烂佬，烂佬怕泼妇 [hao3 lao3 pa4 lan4 lao3，lan4 lao3 pa4 po1 fu4] {hou2 lou2 paa3 laan6 lou2，laan6 lou2 paa3 put3 fu5} /(expr. idiom.) les bonnes personnes ne se disputent pas avec les personnes déraisonnables; les personnes déraisonnables ne se disputent pas avec les mégères/(lit.) les bonnes personnes ont peur des méchants; les méchants ont peur des mégères/
@@ -6980,7 +6981,7 @@
 就手 就手 [jiu4 shou3] {zau6 sau2} /utile; pratique/
 就是 就是 [jiu4 shi4] {zau6 si6} /être/être exactement (ça)/
 就正 就正 [jiu4 zheng4] {zau6 zing3} /au moment même; à l'instant; tout à l'heure/
-就算係噉 就算系啖 [jiu4 suan4 xi4 dan4] {zau6 syun3 hai6 gam2} /même si c'est comme ça/
+就算係噉 就算系噉 [jiu4 suan4 xi4 dan4] {zau6 syun3 hai6 gam2} /même si c'est comme ça/
 就腳 就脚 [jiu4 jiao3] {zau6 goek3} /facile d'accès; près; proche/
 就至 就至 [jiu4 zhi4] {zau6 zi3} /au moment même; à l'instant; tout à l'heure/
 ????c 就話 就话 [jiu4 hua4] {zau6 waa6} /raisonnable/
@@ -8725,7 +8726,7 @@
 ????f 打鑼都搵唔到 打锣都揾唔到 [da3 luo2 dou1 wen3 wu2 dao4] {daa2 lo2 dou1 wan2 m4 dou2} /(expr. idiom.) chercher partout mais ne pas arriver à trouver ce que l'on cherche/(lit.) ne pas arriver à trouver ce que l'on recherche même en faisant retentir le gong/
 打關斗 打关斗 [da3 guan1 dou4] {daa2 gwaan1 dau2} /faire une culbute/faire un saut périlleux/(rarement) faire la roue/(voir aussi 打大翻|打大翻)/
 打筋斗 打筋斗 [da3 jin1 dou3] {daa2 gwaan1 dau2} /faire une culbute/faire un saut périlleux/(rarement) faire la roue/(voir aussi 打大翻|打大翻)/
-打雀噉眼 打雀啖眼 [da3 que4 dan4 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) regarder attentivement; fixer du regard/(lit.) regarder comme un oiseau/
+打雀噉眼 打雀噉眼 [da3 que4 dan4 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) regarder attentivement; fixer du regard/(lit.) regarder comme un oiseau/
 打電報 打电报 [da3 dian4 bao4] {daa2 din6 bou3} /envoyer un télégramme/
 打電腦遊戲 打电脑游戏 [da3 dian4 nao3 you2 xi4] {daa2 din6 nou5 jau4 hei3} /jouer des jeux vidéos sur PC/
 打震 打震 [da3 zhen4] {daa2 zan3} /trembler; frémir/
@@ -13433,7 +13434,7 @@
 牙牙學語 牙牙学语 [ya2 ya2 xue2 yu3] {ngaa4 ngaa4 hok6 jyu5} /(bébé) babiller; gazouiller/
 牙痕 牙痕 [ya2 hen2] {ngaa4 han4} /(fig.) parler à tort et à travers; parler sans fin; babiller; jacasser/(lit.) avoir les dents qui démangent/
 牙痛咁聲 牙痛咁声 [ya2 tong4 gan1 sheng1] {ngaa4 tung3 gam2 seng1} /(expr. idiom.) ne pas vouloir faire quelque chose; se plaindre/(lit.) crier comme si l'on avait mal aux dents/
-牙痛噉聲 牙痛啖声 [ya2 tong4 dan4 sheng1] {ngaa4 tung3 gam2 seng1} /(expr. idiom.) ne pas vouloir faire quelque chose; se plaindre/(lit.) crier comme si l'on avait mal aux dents/
+牙痛噉聲 牙痛噉声 [ya2 tong4 dan4 sheng1] {ngaa4 tung3 gam2 seng1} /(expr. idiom.) ne pas vouloir faire quelque chose; se plaindre/(lit.) crier comme si l'on avait mal aux dents/
 牙簽 牙签 [ya2 qian1] {ngaa4 cim1} /cure-dents/
 牙縫刷 牙缝刷 [ya2 feng4 shua1] {ngaa4 fung4 saat3} /brossette interdentaire/
 牙罅 牙罅 [ya2 xia4] {ngaa4 laa3} /espaces entre les dents/
@@ -13962,7 +13963,7 @@
 生蛋 生蛋 [sheng1 dan4] {saang1 daan2} /pondre un œuf/œuf cru/
 生蝦 生虾 [sheng1 xia1] {saang1 haa1} /crevettes crues/
 生蝦咁跳 生虾咁跳 [sheng1 xia1 gan1 tiao4] {saang1 haa1 gam2 tiu3} /(expr. idiom.) furieux; fou furieux/(lit.) sauter comme une crevette vivante/
-生蝦噉跳 生虾啖跳 [sheng1 xia1 dan4 tiao4] {saang1 haa1 gam2 tiu3} /(expr. idiom.) furieux; fou furieux/(lit.) sauter comme une crevette vivante/
+生蝦噉跳 生虾噉跳 [sheng1 xia1 dan4 tiao4] {saang1 haa1 gam2 tiu3} /(expr. idiom.) furieux; fou furieux/(lit.) sauter comme une crevette vivante/
 生螆 生螆 [sheng1 ci4] {saang1 zi1} /infesté de poux/(animal) avoir une maladie de la peau/
 生螆貓 生螆猫 [sheng1 ci4 mao1] {saang1 zi1 maau1} /chat qui a des puces/
 生螆貓入眼 生螆猫入眼 [sheng1 ci4 mao1 ru4 yan3] {sang1 zi1 maau1 jap6 ngaan5} /(expr. idiom.) (amour) coup de foudre/(lit.) comme un chat avec une teigne dans l'œil/
@@ -15174,8 +15175,8 @@
 視聽教育 视听教育 [shi4 ting1 jiao4 yu4] {si6 ting1 gaau3 juk6} /enseignement audiovisuel/
 視藝 视艺 [shi4 yi4] {si6 ngai6} /arts visuels/
 視野 视野 [shi4 ye3] {si6 je5} /champ visuel/
+禁用 禁用 [jin4 yong4] {kam1 jung6} /qui dure longtemps; résistant à l'usure/
 禁例 禁例 [jin4 li4] {gam3 lai6} /interdictions/
-????c 禁做 禁做 [jin4 zuo4] {gam2 zou6} /done this way/
 禁做 禁做 [jin4 zuo4] {kam1 zou6} /(tâche) long; chronophage; qui occupe trop de temps; difficile/
 禁地 禁地 [jin4 di4] {gam3 dei6} /zone d'accès restreint/
 禁止通行 禁止通行 [jin4 zhi3 tong1 xing2] {gam3 zi2 tung1 hang4} /entrée interdite; accès interdit; défense d'entrer/
@@ -17129,9 +17130,9 @@
 苦瓜 苦瓜 [ku3 gua1] {fu2 gwaa1} /concombre amer/(fig.) personne malheureuse; personne très triste/(fig.) personne qui souffre/
 苦瓜乾 苦瓜干 [ku3 gua1 gan1] {fu2 gwaa1 gon1} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) concombre amer séché/
 苦瓜乾噉口面 苦瓜干噉口面 [ku3 gua1 gan1 dan4 kou3 mian4] {fu2 gwaa1 gon1 gam2 hau2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; avoir un air lugubre/(lit.) avoir une expression faciale comme un concombre amer séché/
-苦瓜噉口面 苦瓜啖口面 [ku3 gua1 dan4 kou3 mian4] {fu2 gwaa1 gam2 hau2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir une expression faciale comme un concombre amer/
-苦瓜噉嘅面 苦瓜啖嘅面 [ku3 gua1 dan4 ge2 mian4] {fu2 gwaa1 gam2 ge3 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir une expression faciale comme un concombre amer/
-苦瓜噉面 苦瓜啖面 [ku3 gua1 dan4 mian4] {fu2 gwaa1 gam2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir un visage comme un concombre amer/
+苦瓜噉口面 苦瓜噉口面 [ku3 gua1 dan4 kou3 mian4] {fu2 gwaa1 gam2 hau2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir une expression faciale comme un concombre amer/
+苦瓜噉嘅面 苦瓜噉嘅面 [ku3 gua1 dan4 ge2 mian4] {fu2 gwaa1 gam2 ge3 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir une expression faciale comme un concombre amer/
+苦瓜噉面 苦瓜噉面 [ku3 gua1 dan4 mian4] {fu2 gwaa1 gam2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste; air un air lugubre/(lit.) avoir un visage comme un concombre amer/
 苦茶 苦茶 [ku3 cha2] {fu2 caa4} /tisane chinoise/
 苦過弟弟 苦过弟弟 [ku3 guo4 di4 di5] {fu2 gwo3 di4 di2} /(expr. idiom.) abattu; déprimé; démoralisé; très malheureux/
 英 英 [ying1] {jing1} /héros/galant; noble; vertueux/(litt.) fleur/(abbr. pour le Royaume-Uni)/
@@ -17671,7 +17672,7 @@
 蟻多摟死象 蚁多搂死象 [yi3 duo1 lou3 si3 xiang4] {ngai5 do1 lau1 sei2 zoeng6} /(expr. idiom.) l'union fait la force/(lit.) beaucoup de fourmis ensemble peuvent tuer un éléphant/
 蟻民 蚁民 [yi3 min2] {ngai5 man4} /gens ordinaires; gens du commun; prolétariat/
 蟻竇 蚁窦 [yi3 dou4] {ngai5 dau3} /fourmilière/
-蟻躝噉 蚁躝啖 [yi3 lan2 dan4] {ngai5 laan1 gam2} /(fig.) lent/(lit.) lent comme un fourmi/
+蟻躝噉 蚁躝噉 [yi3 lan2 dan4] {ngai5 laan1 gam2} /(fig.) lent/(lit.) lent comme un fourmi/
 蟾宮 蟾宫 [chan2 gong1] {sim4 gung1} /(litt.) la lune/(lit.) palais du crapaud/
 蠄蟝 蠄蟝 [qin2 qu2] {kam4 keoi2} /crapaud/
 蠄蟧 蠄蟧 [qin2 lao2] {kam4 lou4} /araignée/
@@ -17869,7 +17870,7 @@
 ????c 衰牌 衰牌 [shuai1 pai2] {seoi1 paai2} /Bad cards; shameful; disgraceful; poor; disappointing/
 衰硬 衰硬 [shuai1 ying4] {seoi1 ngaang6} /être voué à l'échec; être condamné à l'échec/
 衰神 衰神 [shuai1 shen2] {seoi1 san4} /porte-malheur; persone qui amène la malchance/personne indigne de confiance/personne méprisable/
-衰衰噉 衰衰啖 [shuai1 shuai1 dan4] {seoi1 seoi1 gam2} /casse-pied; enquiquineur; importun/
+衰衰噉 衰衰噉 [shuai1 shuai1 dan4] {seoi1 seoi1 gam2} /casse-pied; enquiquineur; importun/
 衰過偷貓 衰过偷猫 [shuai1 guo4 tou1 mao1] {seoi1 gwo3 tau1 maau1} /(fig.) personne très méchante; très mauvaise personne/(lit.) pire qu'un voleur de chats/
 衰鬼 衰鬼 [shuai1 gui3] {seoi1 gwai2} /casse-pied; enquiquineur; importun/(lit.) mauvais fantôme/
 衰鬼嘢 衰鬼嘢 [shuai1 gui3 ye3] {seoi1 gwai2 je5} /casse-pied; enquiquineur; importun/(lit.) mauvais objet-fantôme/
@@ -18950,7 +18951,7 @@
 ????f 起作用 起作用 [qi3 zuo4 yong4] {hei2 zok3 jung6} /to start working; to kick in/
 起來 起来 [qi3 lai5] {hei2 loi4} /se lever; se mettre debout/
 起勢 起势 [qi3 shi4] {hei2 sai3} /continuellement; sans arrêt/de toutes ses forces/
-起勢噉 起势啖 [qi3 shi4 dan4] {hei2 sai3 gam2} /continuellement; sans arrêt/de toutes ses forces/
+起勢噉 起势噉 [qi3 shi4 dan4] {hei2 sai3 gam2} /continuellement; sans arrêt/de toutes ses forces/
 起嚟 起嚟 [qi3 li2] {hei2 lai4} /(indique le début et la poursuite d'une action)/(indique un mouvement vers le haut)/
 ????f 起字容 起字容 [qi3 zi4 rong2] {hei2 zi6 jung4} /vérifier les antécédents; déterrer des informations sur quelqu'un; trouver et publier les informations privées de quelqu'un/
 ????f 起尾注 起尾注 [qi3 wei3 zhu4] {hei2 mei5 zyu3} /to set a trap and await the right opportunity to strip someone of all they have in one go; to enjoy the fruits of somebody else's labour; to steal what somebody else has done at the last minute/
@@ -20260,7 +20261,7 @@
 鐾 鐾 [bei4] {bei3} /affûter; aiguiser/
 鑊 镬 [huo4] {wok6} /wok/chaudron/problème; ennui/
 鑊底 镬底 [huo4 di3] {wok6 dai2} /fond d'une poêle/dos d'une poêle/
-????f 鑊底噉面 镬底啖面 [huo4 di3 dan4 mian4] {wok6 dai2 gam2 min6} /(expr. idiom.) visage irrité; visage en colère/(lit.) avoir un visage comme le dos d'une poêle/
+????f 鑊底噉面 镬底噉面 [huo4 di3 dan4 mian4] {wok6 dai2 gam2 min6} /(expr. idiom.) visage irrité; visage en colère/(lit.) avoir un visage comme le dos d'une poêle/
 ????f 鑊撈 镬捞 [huo4 lao1] {wok6 lou1} /résidus alimentaires brûlés au fond d'une poêle/
 ????f 鑊氣 镬气 [huo4 qi4] {wok6 hei3} /(fig.) bon goût d'un plat cuit à l'huile et à haute température dans un wok/(lit.) essence de wok/
 鑊鏟 镬铲 [huo4 chan3] {wok6 caan2} /spatule pour wok/
@@ -20865,7 +20866,7 @@
 雞咁腳 鸡咁脚 [ji1 gan1 jiao3] {gai1 gam2 goek3} /(fig.) partir précipitamment; filer/(lit.) avoir les pieds comme une poule/
 雞啄唔斷 鸡啄唔断 [ji1 zhuo2 wu2 duan4] {gai1 doeng1 m4 tyun5} /(expr. idiom.) parler sans cesse/(lit.) poule qui donne des coups de bec sans cesse/
 雞嗉 鸡嗉 [ji1 su4] {gai1 sou3} /(fig.) bagatelle; trivialité; chose de peu d'importance/(lit.) jabot de poule/
-雞噉腳 鸡啖脚 [ji1 dan4 jiao3] {gai1 gam2 goek3} /(fig.) partir précipitamment; filer/(lit.) avoir les pieds comme une poule/
+雞噉腳 鸡噉脚 [ji1 dan4 jiao3] {gai1 gam2 goek3} /(fig.) partir précipitamment; filer/(lit.) avoir les pieds comme une poule/
 雞子 鸡子 [ji1 zi5] {gai1 zi2} /testicule de poulet/
 ????f 雞尾包 鸡尾包 [ji1 wei3 bao1] {gai1 mei5 baau1} /brioche cocktail, petit pain farci de sucre et de noix de coco râpée/
 雞尾酒會 鸡尾酒会 [ji1 wei3 jiu3 hui4] {gai1 mei5 zau2 wui2} /cocktail; réception; soirée/
@@ -22154,7 +22155,7 @@
 鬼剃頭 鬼剃头 [gui3 ti4 tou2] {gwai2 tai3 tau4} /alopécie/
 鬼古 鬼古 [gui3 gu3] {gwai2 gu2} /histoire de fantômes/
 鬼咁 鬼咁 [gui3 gan1] {gwai2 gam3} /très; tellement; extrêmement/
-鬼噉 鬼啖 [gui3 dan4] {gwai2 gam3} /très; tellement; extrêmement/
+鬼噉 鬼噉 [gui3 dan4] {gwai2 gam3} /très; tellement; extrêmement/
 鬼妹 鬼妹 [gui3 mei4] {gwai2 mui1} /femme occidentale/(lit.) sœur cadette fantôme/
 鬼市 鬼市 [gui3 shi4] {gwai2 si5} /marché de nuit/(lit.) marché de fantômes/
 鬼影 鬼影 [gui3 ying3] {gwai2 jing2} /(informatique) image fantôme/
@@ -22171,7 +22172,7 @@
 鬼死 鬼死 [gui3 si3] {gwai2 sei2} /très; extrêmement/
 鬼死咁 鬼死咁 [gui3 si3 gan1] {gwai2 sei2 gam2} /très; extrêmement/
 鬼殺咁嘈 鬼杀咁嘈 [gui3 sha1 gan1 cao2] {gwai2 saat3 gam3 cou4} /(expr. idiom.) faire beaucoup de bruit/(expr. idiom.) pousser un cri épouvantable/(expr. idiom.) se plaindre bruyamment/(lit.) aussi bruyant qu'un fantôme qui tue/
-鬼殺噉聲 鬼杀啖声 [gui3 sha1 dan4 sheng1] {gwai2 saat3 gam2 seng1} /(expr. idiom.) faire beaucoup de bruit/(expr. idiom.) pousser un cri épouvantable/(expr. idiom.) se plaindre bruyamment/(lit.) son comme un fantôme qui tue/
+鬼殺噉聲 鬼杀噉声 [gui3 sha1 dan4 sheng1] {gwai2 saat3 gam2 seng1} /(expr. idiom.) faire beaucoup de bruit/(expr. idiom.) pousser un cri épouvantable/(expr. idiom.) se plaindre bruyamment/(lit.) son comme un fantôme qui tue/
 鬼混 鬼混 [gui3 hun4] {gwai2 wan6} /avoir une liaison/coucher à droite à gauche/
 鬼火 鬼火 [gui3 huo3] {gwai2 fo2} /feu follet/jack-o’-lantern; citrouille-lanterne; citrouille d'Halloween/
 鬼火咁靚 鬼火咁靓 [gui3 huo3 gan1 jing4] {gwai2 fo2 gam2 leng3} /(d'une femme) très attirante/(lit.) aussi belle qu'un feu follet/
@@ -22188,7 +22189,7 @@
 鬼頭 鬼头 [gui3 tou2] {gwai2 tau4} /étranger (en particulier, un Occidental ou Occidentale)/(lit.) tête de fantôme/
 鬼頭仔 鬼头仔 [gui3 tou2 zi3] {gwai2 tau4 zai2} /(fig.) taupe; informateur; indic; mouchard/(lit.) petit tête de fantôme/
 鬼食泥 鬼食泥 [gui3 shi2 ni2] {gwai2 sik6 nai4} /(fig.) marmonner; manger ses mots/(lit.) comme un fantôme qui mange de la terre/
-鬼食泥噉聲 鬼食泥啖声 [gui3 shi2 ni2 dan4 sheng1] {gwai2 sik6 nai4 gam2 seng1} /(fig.) marmonner; manger ses mots/(lit.) comme un fantôme qui mange de la terre/
+鬼食泥噉聲 鬼食泥噉声 [gui3 shi2 ni2 dan4 sheng1] {gwai2 sik6 nai4 gam2 seng1} /(fig.) marmonner; manger ses mots/(lit.) comme un fantôme qui mange de la terre/
 鬼馬 鬼马 [gui3 ma3] {gwai2 maa5} /drôle; hilarant/fourbe; sournois; rusé/
 鬼馬事 鬼马事 [gui3 ma3 shi4] {gwai2 maa5 si6} /acte honteux/
 鬼鬼鼠鼠 鬼鬼鼠鼠 [gui3 gui3 shu3 shu3] {gwai2 gwai2 syu2 syu2} /(fig.) furtif/(fig.) discrèement; en douce/(lit.) fantôme fantôme souris souris/
@@ -23029,7 +23030,7 @@
 係咩 系咩 [xi4 mie1] {hai6 me1} /vraiment? (exprime l'étonnement ou la doute)/
 ????f 係唔係先 系唔系先 [xi4 wu2 xi4 xian1] {hai6 m4 hai6 sin1} /..., non? (note : employé à la fin d'une question pour exprimer que le locuteur s'attend à ce que la personne à qui la question se pose soit d'accord avec lui)/
 ????f 係喇 系喇 [xi4 la3] {hai6 laa1} /oui; bien sûr (note : exprime une certaine détermination)/
-????c 係噉啦 系啖啦 [xi4 dan4 la5] {hai6 gam2 laa1} /so be it; let it be this way; that's a deal [colloquial]/
+????c 係噉啦 系噉啦 [xi4 dan4 la5] {hai6 gam2 laa1} /so be it; let it be this way; that's a deal [colloquial]/
 ????c 保健中心 保健中心 [bao3 jian4 zhong1 xin1] {bou2 gin6 zung1 sam1} /health centre; wellness centre [written and colloquial]/
 ????f 保守地說 保守地说 [bao3 shou3 di4 shuo1] {bou2 sau2 dei6 syut3} /conservatively speaking; to understate/
 ????c 保守行為 保守行为 [bao3 shou3 xing2 wei2] {bou2 sau2 hang4 wai4} /conservative behaviour; a binding over (conservative as in prudent or politically?)/
@@ -23811,7 +23812,7 @@
 ????f 少個崩都唔得 少个崩都唔得 [shao3 ge4 beng1 dou1 wu2 de5] {siu2 go3 bang1 dou1 m4 dak1} /(expr. idiom.) je ne vais pas accepter moins d'argent; je vous fais mon meilleur prix/(lit.) même pas un cent de moins/
 少條毛 少条毛 [shao3 tiao2 mao2] {siu2 tiu4 mou4} /(fig.) être blessé ou endommagé de quelque manière que ce soit/(lit.) avoir perdu un poil/
 ????m 少等 少等 [shao3 deng3] {siu2 dang2} /un petit moment; quelques instants/
-就噉 就啖 [jiu4 dan4] {zau6 gam2} /juste comme ça/tout simplement/
+就噉 就噉 [jiu4 dan4] {zau6 gam2} /juste comme ça/tout simplement/
 屌你娘親 屌你娘亲 [diao3 ni3 niang2 qin1] {diu2 nei5 noeng4 can1} /(vulg.) nique ta mère/
 ????f 屌你老尾冚家剷 屌你老尾冚家铲 [diao3 ni3 lao3 wei3 ka4 jia1 chan3] {diu2 nei5 lou5 mei5 ham6 gaa1 caan2} /(très vulg.) nique ta mère, connard!/
 ????f 屌你老母個仆街仔 屌你老母个仆街仔 [diao3 ni3 lao3 mu3 ge4 pu1 jie1 zi3] {diu2 nei5 lou5 mou2 go3 puk1 gaai1 zai2} /(très vulg.) nique ta mère, connard!/
@@ -23994,8 +23995,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 戇柒 戆柒 [zhuang4 qi1] {ngong6 cat6} /(vulg.) connard/(lit.) bite stupide/
 戇閪 戆閪 [zhuang4 se1] {ngong6 hai1} /(vulg.) connasse; pétasse/(lit.) chatte stupide/
 戇鳩鳩 戆鸠鸠 [zhuang4 jiu1 jiu1] {ngong6 gau1 gau1} /(vulg.) con comme un balai/
-成個餅印咁 成个饼印咁 [cheng2 ge4 bing3 yin4 gan1] {seng4 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille) (voir aussi 一個餅印噉|一个饼印啖)/(lit.) toute une empreinte de biscuit/
-成個餅印噉 成个饼印啖 [cheng2 ge4 bing3 yin4 gan1] {seng4 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille) (voir aussi 一個餅印噉|一个饼印啖)/(lit.) toute une empreinte de biscuit/
+成個餅印咁 成个饼印咁 [cheng2 ge4 bing3 yin4 gan1] {seng4 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille) (voir aussi 一個餅印噉|一个饼印噉)/(lit.) toute une empreinte de biscuit/
+成個餅印噉 成个饼印噉 [cheng2 ge4 bing3 yin4 gan1] {seng4 go3 beng2 jan3 gam2} /(expr. idiom.) deux personnes qui se ressemblent (s'emploie généralement en parlant de membres de la même famille) (voir aussi 一個餅印噉|一个饼印噉)/(lit.) toute une empreinte de biscuit/
 成晚 成晚 [cheng2 wan3] {seng4 maan5} /toute la nuit/
 成棚人 成棚人 [cheng2 peng2 ren2] {seng4 paang4 jan4} /foule; cohue; grand nombre de personnes/
 ????f 成碌木咁 成碌木咁 [cheng2 lu4 mu4 gan1] {seng4 luk1 muk6 gam2} /(expr.) être stupide et prendre beaucoup de temps à agir/(lit.) comme un morceau de bois/
@@ -24228,7 +24229,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 搞屎搞棍 搞屎搞棍 [gao3 shi3 gao3 gun4] {gaau2 si2 gaau2 gwan3} /(fam.) semer la pagaille; répandre le désordre/(lit.) remuer les crottes, remuer le bâton/
 搞彎 搞弯 [gao3 wan1] {gaau2 waan1} /gâcher; ruiner; gâter/
 搞得有聲有色 搞得有声有色 [gao3 de5 you3 sheng1 you3 se4] {gaau2 dak1 jau5 seng1 jau5 sik1} /(expr. idiom.) faire réussir (une fête, une soirée, un évènement/(lit.) faire en sorte qu'il y ait des sons et des couleurs/
-搞成噉 搞成啖 [gao3 cheng2 dan4] {gaau2 sing4 gam2} /(expr. idiom.) gâcher; ruiner; faire échouer quelque chose; avoir de mauvais résultats/(lit.) avoir un résultat comme ça/
+搞成噉 搞成噉 [gao3 cheng2 dan4] {gaau2 sing4 gam2} /(expr. idiom.) gâcher; ruiner; faire échouer quelque chose; avoir de mauvais résultats/(lit.) avoir un résultat comme ça/
 ????f 搞搞震冇幫襯 搞搞震冇帮衬 [gao3 gao3 zhen4 mao3 bang1chen4] {gaau2 gaau2 zan3 mou5 bong1 can3} /entrer dans une boutique et déranger les travailleurs sans rien acheter/(fig.) causer des ennuis; déranger quelqu'un et lui faire perdre son temps/
 ????f 搞撚錯 搞撚错 [gao3 nian3 cuo4] {gaau2 lan2 co3} /(vulg.) tu te fous de ma gueule, ou quoi? (you've got to be fucking kidding me!)/
 ????f 搞是攪非 搞是搅非 [gao3 shi4 jiao3 fei1] {gaau2 si6 gaau2 fei1} /(expr. idiom.) semer la zizanie; provoquer des disputes entre des personnes/(lit.) faire oui faire non/
