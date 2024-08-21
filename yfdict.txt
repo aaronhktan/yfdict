@@ -842,7 +842,7 @@
 乖乖仔 乖乖仔 [guai1 guai5 zi3] {gwaai1 gwaai1 zai2} /fils sage/
 乖乖女 乖乖女 [guai1 guai5 nu:3] {gwaai1 gwaai1 neoi5} /fille sage/
 乖仔 乖仔 [guai1 zi3] {gwaai1 zai2} /fils sage; fils bien-élevé/
-乖女 乖女 [guai1 nü3] {gwaai1 neoi5} /fille sage; fille bien-élevée/
+乖女 乖女 [guai1 nu:3] {gwaai1 neoi5} /fille sage; fille bien-élevée/
 乖舛 乖舛 [guai1 chuan3] {gwaai1 cyun2} /malheureux/erreur; faute/
 乖豬 乖猪 [guai1 zhu1] {gwaai1 zyu1} /(affectueux) bien élevé/(lit.) cochon sage/
 乘搭 乘搭 [cheng2 da1] {sing4 daap3} /prendre (le bus, le train, etc.)/
@@ -3933,7 +3933,7 @@
 周時無日 周时无日 [zhou1 shi2 wu2 ri4] {zau1 si4 mou4 jat6} /souvent; toujours/
 周期律 周期律 [zhou1 qi1 lu:4] {zau1 kei4 leot6} /(chimie) loi périodique/
 周海媚 周海媚 [zhou1 hai3 mei4] {zau1 hoi2 mei4} /Kathy Chau, actrice hongkongaise/
-周率 周率 [zhou1 lü4] {zau1 leot2} /(mathématiques) pi (voir aussi 圓周率|圆周率)/
+周率 周率 [zhou1 lu:4] {zau1 leot2} /(mathématiques) pi (voir aussi 圓周率|圆周率)/
 周界 周界 [zhou1 jie4] {zau1 gaai3} /(mathématiques) périmètre/
 周秀娜 周秀娜 [zhou1 xiu4 nuo2] {zau1 sau3 naa4} /Chrissie Chow, mannequin hongkongaise/
 周街 周街 [zhou1 jie1] {zau1 gaai1} /partout/
@@ -4401,7 +4401,7 @@
 啞仔 哑仔 [ya3 zi3] {aa2 zai2} /muet; garçon souffrant de troubles de l'élocution/
 啞佬 哑佬 [ya3 lao3] {aa2 lou2} /muet; homme souffrant de troubles de l'élocution/
 啞光 哑光 [ya3 guang1] {aa2 gwong1} /mat; terne/
-啞女 哑女 [ya3 nü3] {aa2 neoi2} /muette; fille souffrant de troubles de l'élocution/
+啞女 哑女 [ya3 nu:3] {aa2 neoi2} /muette; fille souffrant de troubles de l'élocution/
 啞婆 哑婆 [ya3 po2] {aa2 po2} /muette; femme souffrant de troubles de l'élocution/
 啞色 哑色 [ya3 se4] {aa2 sik1} /mat; terne/
 啡 啡 [fei1] {fe1} /marron; brun/café/
@@ -5942,7 +5942,7 @@
 ????f 太古城 太古城 [tai4 gu3 cheng2] {taai3 gu2 sing4} /Taikoo Shing, grand ensemble privé à Quarry Bay, un quartier d'affaires à Hong Kong/
 太大 太大 [tai4 da4] {taai3 daai6} /trop grand/
 太奶奶 太奶奶 [tai4 nai3 nai5] {taai3 naai4 naai2} /arrière grand-mère paternel; grand-mère du père/
-????f 太子女 太子女 [tai4 zi3 nü3] {taai3 zi2 neoi2} /fille du patron, femme née dans une famille riche/
+????f 太子女 太子女 [tai4 zi3 nu:3] {taai3 zi2 neoi2} /fille du patron, femme née dans une famille riche/
 ????f 太子爺 太子爷 [tai4 zi3 ye2] {taai3 zi2 je2} /fils du patron, homme né dans une famille riche/
 太子道 太子道 [tai4 zi3 dao4] {taai3 zi2 dou6} /Prince Edward Road, rue de Kowloon, Hong Kong/
 ????f 太師椅 太师椅 [tai4 shi1 yi3] {taai3 si1 ji2} /fauteuil en bois à l'ancienne/
@@ -5956,7 +5956,7 @@
 太空人 太空人 [tai4 kong1 ren2] {taai3 hung1 jan4} /(Hong Kong) homme qui reste à Hong Kong quand sa femme et ses enfants émigrent à un autre pays/(lit.) astronaute; cosmonaute; taïkonaute; spationaute; vyomanaute; voyageur de l'espace/
 太空穿梭機 太空穿梭机 [tai4 kong1 chuan1 suo1 ji1] {taai3 hung1 cyun1 so1 gei1} /astronef; vaisseau spatial/
 太空衫 太空衫 [tai4 kong1 shan1] {taai3 hung1 saam1} /combinaison spatiale/
-太空褸 太空褛 [tai4 kong1 lü3] {taai3 hung1 lau1} /parka; doudoune/(lit.) manteau spatial/
+太空褸 太空褛 [tai4 kong1 lu:3] {taai3 hung1 lau1} /parka; doudoune/(lit.) manteau spatial/
 ????f 太老爺 太老爷 [tai4 lao3 ye2] {taai3 lou5 je4} /(forme d'addresse utilisé par n domestique au père de son maître)/
 太長 太长 [tai4 zhang3] {taai3 coeng4} /trop long/
 太陰曆 太阴历 [tai4 yin1 li4] {taai3 jam1 lik6} /calendrier lunaire/
@@ -7284,7 +7284,7 @@
 巧遇 巧遇 [qiao3 yu4] {haau2 jyu6} /rencontrer par hasard; croiser; tomber sur/
 ????f 巧言令色 巧言令色 [qiao3 yan2 ling4 se4] {haau2 jin4 ling6 sik1} /(expr. idiom.) baratin et air flatteur; flatteries/
 巨債 巨债 [ju4 zhai4] {geoi6 zaai3} /grande dette/
-巫女 巫女 [wu1 nü3] {mou4 neoi5} /chamane; sorcière/miko, jeune femme au service d'un sanctuaire shintoïste/
+巫女 巫女 [wu1 nu:3] {mou4 neoi5} /chamane; sorcière/miko, jeune femme au service d'un sanctuaire shintoïste/
 差 差 [cha4] {caa1} /mauvais/de pauvre qualité/défectueux/légèrement; un peu/
 差一皮 差一皮 [cha1 yi1 pi2] {caa1 jat1 pei4} /un classement inférieur/un peu pire/
 差人 差人 [chai1 ren2] {caai1 jan4} /policier, policière/
@@ -10757,7 +10757,7 @@
 ????c 有揸手 有揸手 [you3 zha1 shou3] {jau5 zaa1 sau2} /(fig.) avoir; posséder/(fig.) mettre la main sur des objets de valeur ou un montant d'argent qui sert d'avance/(lit.) tenir dans les mains/
 ????f 有揸拿 有揸拿 [you3 zha1 na2] {jau5 zaa1 naa4} /(fig.) être confiant dans le succès (de quelque chose)/(lit.) avoir de quoi tenir et prendre/
 有效數字 有效数字 [you3 xiao4 shu4 zi4] {jau5 haau6 sou3 zi6} /chiffres significatifs/
-有效率 有效率 [you3 xiao4 lü4] {jau5 haau6 leot2} /efficace/
+有效率 有效率 [you3 xiao4 lu:4] {jau5 haau6 leot2} /efficace/
 有數 有数 [you3 shu4] {jau5 sou3} /un peu; quelques/connaître la situation; savoir quoi faire/
 有數為 有数为 [you3 shu4 wei2] {jau5 sou3 wai4} /valoir le prix/être rentable/
 有料 有料 [you3 liao4] {jau5 liu2} /impressionnant/(personne) capable; efficace/(médicaments, objets) efficace/avoir des ragots/contenir des renseignements utiles, avoir de l'information utile/riche/(Notez: « 料 » signifie « chose »; « 有料 » signifie donc « avoir des choses ». Dans les sens figurés, 料 signifie l'efficacité, de l'argent, des informations, etc.)/
@@ -12281,7 +12281,7 @@
 浩園 浩园 [hao4 yuan2] {hou6 jyun4} /Gallant Garden, cimetière publique de Hong Kong/
 浪漫 浪漫 [lang4 man4] {long6 maan6} /romantique/
 浮光掠影 浮光掠影 [fu2 guang1 lu:e4 ying3] {fau4 gwong1 loek6 jing2} /(fig.) rapide; hâtif/(fig.) superficiel/(lit.) lumière vacillante et seulement un aperçu/
-浮動匯率 浮动汇率 [fu2 dong4 hui4 lü4] {fau4 dung6 wui6 leot2} /(finance) taux de change flottant)/
+浮動匯率 浮动汇率 [fu2 dong4 hui4 lu:4] {fau4 dung6 wui6 leot2} /(finance) taux de change flottant)/
 ????c 浮動工資 浮动工资 [fu2 dong4 gong1 zi1] {fau4 dung6 gung1 zi1} /rénumération fluctuante/
 浮板 浮板 [fu2 ban3] {fau4 baan2} /planche de natation/
 浮生 浮生 [fu2 sheng1] {fau4 sang1} /(plantes) pousser dans l'eau; flotter sur l'eau/(fig.) vie éphémère; vie passagère/
@@ -15953,7 +15953,7 @@
 細路 细路 [xi4 lu4] {sai3 lou6} /enfant; gamin/
 細路仔 细路仔 [xi4 lu4 zi3] {sai3 lou6 zai2} /enfant; gamin/
 細路哥 细路哥 [xi4 lu4 ge1] {sai3 lou2 go1} /enfants/
-細路女 细路女 [xi4 lu4 nü3] {sai3 lou6 neoi2} /petite fille/
+細路女 细路女 [xi4 lu4 nu:3] {sai3 lou6 neoi2} /petite fille/
 細隻 细只 [xi4 zhi1] {sai3 zek3} /petit/
 細食 细食 [xi4 shi2] {sai3 sik6} /ne pas manger beaucoup; avoir un petit appétit/
 細餸 细餸 [xi4 song4] {sai3 sung3} /(fig.) ne pas manger beaucoup; avoir un petit appétit/
@@ -19987,7 +19987,7 @@
 野仔 野仔 [ye3 zi3] {je5 zai2} /fils illégitime/
 野外 野外 [ye3 wai4] {je5 ngoi6} /campagne; champs/en plein nature; au grand air/
 野外作業 野外作业 [ye3 wai4 zuo4 ye4] {je5 ngoi6 zok3 jip6} /travail de terrain/
-野女 野女 [ye3 nü3] {je5 neoi2} /fille illégitime/
+野女 野女 [ye3 nu:3] {je5 neoi2} /fille illégitime/
 野心 野心 [ye3 xin1] {je5 sam1} /ambitieux/
 野心勃勃 野心勃勃 [ye3 xin1 bo2 bo2] {je5 sam1 but6 but6} /(expr.) être excessivement ambitieux/
 野心家 野心家 [ye3 xin1 jia1] {je5 sam1 gaa1} /carriériste; personne qui ne travaille que pour sa promotion/
