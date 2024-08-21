@@ -4265,7 +4265,7 @@
 唔爭在 唔争在 [wu2 zheng1 zai4] {m4 zaang1 zoi6} /pouvoir aussi bien (faire quelque chose); ne pas dépendre sur (quelque chose)/ne pas manquer; avoir/
 唔理 唔理 [wu2 li3] {m4 lei5} /s'en foutre; s'en ficher (de quelque chose)/quel que soit; indépendamment de; peu importe/
 唔理三七二十一 唔理三七二十一 [m4 li3 san1 qi1 er4 shi2 yi1] {m4 lei5 saam1 cat1 ji6 sap6 jat1} /(expr. idiom.) sans se soucier des conséquences; quoi qu'il arrive; peu importe ce qui arrive; quoi qu'il en coûte/(lit.) s'en ficher de trois fois sept égal vingt-et-un/
-唔理三七廿一 唔理三七廿一 [wu2 li3 san1 qi1 nian4 yi1] {m4 lei5 saam1 cat1 jaa6 jat1} /(expr. idiom.) sans se soucier des conséquences; quoi qu'il arrive; peu importe ce qui arrive; quoi qu'il en coûte/(lit.) s'en ficher de trois fois sept égal vingt-et-un/
+唔理三七廿一 唔理三七廿一 [wu2 li3 san1 qi1 nian4 yi1] {m4 lei5 saam1 cat1 jaa6 jat1} /(expr. idiom.) sans se soucier des conséquences; quoi qu'il arrive; peu importe ce qui arrive; coûte que coûte/(lit.) s'en ficher de trois fois sept égal vingt-et-un/
 唔理得咁多 唔理得咁多 [wu2 li3 de5 gan1 duo1] {m4 lei5 dak1 gam3 do1} /ça n'a plus d'importance; je m'en fiche maintenant/
 唔理點 唔理点 [wu2 li3 dian3] {m4 lei5 dim2} /quoi qu'il arrive; n'importe ce qui arrive; peu importe le moyen/
 唔生性 唔生性 [wu2 sheng1 xing5] {m4 saang1 sing3} /immature; (enfant) vilain; désobéissant; qui se conduit mal/
@@ -5001,11 +5001,11 @@
 在在 在在 [zai4 zai4] {zoi6 zoi6} /ici/
 在家 在家 [zai4 jia1] {zoi6 gaa1} /à la maison/
 在家工作 在家工作 [zai4 jia1 gong1 zuo4] {zoi6 gaa1 gung1 zok3} /travail à domicile; télétravail/
-????c 在心 在心 [zai4 xin1] {zoi6 sam1} /dans son coeur/
-????f 在意 在意 [zai4 yi4] {zoi6 ji3} /attacher de l'importance à; prendre au cœur; prêter attention à (souvent utilisé au négatif)/
-????f 在所不惜 在所不惜 [zai4 suo3 bu4 xi1] {zoi6 so2 bat1 sik1} /(expr.) déterminé à faire quelque chose, peu importe le moyen/
-????f 在望 在望 [zai4 wang4] {zoi6 mong6} /être visible; être en vue/être imminent; être à la portée de main; être en vue/
-????f 在案 在案 [zai4 an4] {zoi6 on3} /être documenté; dire officiellement (be on the record)/
+在心 在心 [zai4 xin1] {zoi6 sam1} /dans son coeur/
+在意 在意 [zai4 yi4] {zoi6 ji3} /attacher de l'importance à; prendre au cœur; prêter attention à (souvent utilisé au négatif)/
+在所不惜 在所不惜 [zai4 suo3 bu4 xi1] {zoi6 so2 bat1 sik1} /(expr.) déterminé à faire quelque chose, coûte que coûte/
+在望 在望 [zai4 wang4] {zoi6 mong6} /être visible; être en vue/(d'un succès, d'une victoire) être imminent; être à la portée de main/
+????f 在案 在案 [zai4 an4] {zoi6 on3} /être documenté; être inscrit au procès-verbal/
 在生 在生 [zai4 sheng1] {zoi6 saang1} /encore vivant/
 圭臬 圭臬 [gui1 nie4] {gwai1 jit6} /norme/
 地 地 [de5] {dei6} /terre; sol/caractère utilisé pour pluraliser les pronoms en cantonais, utilisé de la même manière que « 哋 »/
@@ -5018,13 +5018,13 @@
 地對地 地对地 [di4 dui4 di4] {dei6 deoi3 dei6} /(missile) sol-sol/
 地對空 地对空 [di4 dui4 kong1] {dei6 deoi3 hung1} /(missile) surface-air/
 地峽 地峡 [di4 xia2] {dei6 haap6} /isthme/
-????c 地布 地布 [di4 bu4] {dei6 bou3} /serpillière; torchon destiné au lavage du sol/
+地布 地布 [di4 bu4] {dei6 bou3} /serpillière; torchon destiné au lavage du sol/
 地帶 地带 [di4 dai4] {dei6 daai3} /région/
 地底下 地底下 [di4 di3 xia4] {dei6 dai2 haa6} /souterrain/
 地庫 地库 [di4 ku4] {dei6 fu3} /sous-sol/
 地廬 地庐 [di4 lu2] {dei6 lou4} /sous-sol; cave/
 地拖 地拖 [di4 tuo1] {dei6 to1} /(Can.) vadrouille, (Fr.) balai serpillère/
-????f 地方國營 地方国营 [di4 fang1 guo2 ying2] {dei6 fong1 gwok3 jing4} /locally administered but state-run/
+????c 地方國營 地方国营 [di4 fang1 guo2 ying2] {dei6 fong1 gwok3 jing4} /administré localement mais géré par l'État/
 地方戲 地方戏 [di4 fang1 xi4] {dei6 fong1 hei3} /opéra local/
 地方政府 地方政府 [di4 fang1 zheng4 fu3] {dei6 fong1 zing3 fu2} /gouvernement local/
 地方稅 地方税 [di4 fang1 shui4] {dei6 fong1 seoi3} /impôts locaux/
@@ -5037,53 +5037,53 @@
 地球人 地球人 [di4 qiu2 ren2] {dei6 kau4 jan4} /Terrien/
 地球日 地球日 [Di4 qiu2 ri4] {dei6 kau4 jat6} /Jour de la Terre/
 地理環境 地理环境 [di4 li3 huan2 jing4] {dei6 lei5 waan4 ging2} /environnement géographique/
-????c 地產霸權 地产霸权 [di4 chan3 ba4 quan2] {dei6 caan2 baa3 kyun4} /monopole de promoteur immobilier/
+地產霸權 地产霸权 [di4 chan3 ba4 quan2] {dei6 caan2 baa3 kyun4} /dominance des promoteurs immobiliers/
 地盤工人 地盘工人 [di4 pan2 gong1 ren2] {dei6 pun4 gung1 jan4} /ouvrier de bâtiment/
 地磁 地磁 [di4 ci2] {dei6 ci4} /géomagnétisme/
-????f 地糊 地糊 [di4 hu2] {dei6 wu4} /(mah-jong) au début de la partie, n'avoir besoin qu'une tuile pour gagner/
+地糊 地糊 [di4 hu2] {dei6 wu4} /(mah-jong) au début de la partie, n'avoir besoin qu'une tuile pour gagner/
 地羊 地羊 [di4 yang2] {dei6 joeng4} /viande de chien/(lit.) mouton de la terre/
 地膽 地胆 [di4 dan3] {dei6 daam2} /(personne) du coin; de la région; qui connaît la région/
 地質 地质 [di4 zhi4] {dei6 zat1} /géologie/
 地質力學 地质力学 [di4 zhi4 li4 xue2] {dei6 zat1 lik6 hok6} /géomécanique/
-????f 地踎 地踎 [di4 mou2] {dei6 mau1} /sans-emploi qui s'accroupit au coin de la rue/gredin; crapule/(of poor taste, low-class, not very good)/
-????f 地踎館 地踎馆 [di4 mou2 guan3] {dei6 mau1 gun2} /stalle de rue/
+地踎 地踎 [di4 mou2] {dei6 mau1} /sans-emploi qui s'accroupit au coin de la rue/gredin; crapule/de mauvais goût/associé à une class sociale inférieure/
+地踎館 地踎馆 [di4 mou2 guan3] {dei6 mau1 gun2} /stand de nourriture dans la rue; stand de « street food »/(par extension) petit restaurant pas cher/
 地道 地道 [di4 dao5] {dei6 dou6} /style authentique/
 地道 地道 [di4 dao4] {dei6 dou6} /tunnel souterrain/
 地鐵 地铁 [di4 tie3] {dei6 tit3} /métro/(Hong Kong) MTR, métro de Hong Kong/
-????f 地震預報 地震预报 [di4 zhen4 yu4 bao4] {dei6 zan3 jyu6 bou3} /prévision de séisme/
+地震預報 地震预报 [di4 zhen4 yu4 bao4] {dei6 zan3 jyu6 bou3} /prévision des séismes/
 地面化 地面化 [di4 mian4 hua4] {dei6 min2 faa3} /découvert; mis au jour; devenir publique/
 地頭 地头 [di4 tou2] {dei6 tau4} /territoire/
-????f 地頭蟲 地头虫 [di4 tou2 chong2] {dei6 tau4 cung4} /personne du coin; personne de la région; personne qui connaît la région/(lit.) insecte du coin/
+地頭蟲 地头虫 [di4 tou2 chong2] {dei6 tau4 cung4} /(fig.) personne de la région; personne qui connaît la région/(lit.) insecte du coin/
 均真 均真 [jun1 zhen1] {gwan1 zan1} /juste et honnête/
-????c 坐一望二 坐一望二 [zuo4 yi2 wang4 er4] {zo6 jat1 mong6 ji6} /rapprocher son objectif/désirer, convoiter quelque chose que l'on n'a pas/(lit.) s'asseoir sur un, regarder deux/
+????m 坐一望二 坐一望二 [zuo4 yi2 wang4 er4] {zo6 jat1 mong6 ji6} /rapprocher son objectif/désirer, convoiter quelque chose que l'on n'a pas/(lit.) s'asseoir sur un, regarder deux/
 坐不住 坐不住 [zuo4 bu5 zhu4] {co5 bat1 zyu6} /ne pas tenir en place; être agité/
 坐低 坐低 [zuo4 di1] {zo5 dai1} /s'assoir; s'asseoir/
 坐唔定 坐唔定 [zuo4 wu2 ding4] {co5 m4 ding6} /ne pas tenir en place; être agité/
 坐埋一條船 坐埋一条船 [zuo4 mai2 yi1 tiao2 chuan2] {co5 maai4 jat1 tiu4 syun4} /(expr.) être dans le même bateau; être dans le même bain; être dans la même situation/(lit.) s'asseoir dans le même bateau/
-????f 坐夜 坐夜 [zuo4 ye4] {co5 je2} /rester éveillé toute la nuit (stay up overnight)/
+坐夜 坐夜 [zuo4 ye4] {co5 je2} /rester éveillé toute la nuit; passer une nuit blanche/
 坐定定 坐定定 [zuo4 ding4 ding4] {co5 ding6 ding6} /attendre patiemment; s'asseoir sans bouger/
 坐定粒六 坐定粒六 [zuo4 ding4 li4 liu4] {zo6 ding6 nap1 luk6} /(expr.) être sûr et certain/
-????f 坐收漁人之利 坐收渔人之利 [zuo4 shou1 yu2 ren2 zhi1 li4] {zo6 sau1 jyu4 jan4 zi1 lei6} /(expr. idiom.) profiter des conflits des autres/
-????c 坐梗 坐梗 [zuo4 geng3] {zo6 gang2} /certain; sûr/
-????f 坐正 坐正 [zuo4 zheng4] {co5 zeng3} /être promu au travail/(lit.) se tenir droit/
-????f 坐波監 坐波监 [zuo4 bo1 jian1] {co5 bo1 gaam1} /exclusion temporaire lors d'un match de foot (ou autre sport de ballon) à cause d'une pénalité/(lit.) s'asseoir dans le prison de ballon/
+坐收漁人之利 坐收渔人之利 [zuo4 shou1 yu2 ren2 zhi1 li4] {zo6 sau1 jyu4 jan4 zi1 lei6} /(expr. idiom.) profiter des conflits des autres (voir aussi 鷸蚌相爭，漁人得利|鹬蚌相争，渔人得利)/
+坐梗 坐梗 [zuo4 geng3] {zo6 gang2} /certain; sûr/
+????f 坐正 坐正 [zuo4 zheng4] {co5 zeng3} /(fig.) être promu au travail; être promu d'adjoint à chef/(lit.) se tenir droit/
+坐波監 坐波监 [zuo4 bo1 jian1] {co5 bo1 gaam1} /(fig.) exclusion temporaire lors d'un match de foot (ou autre sport de ballon) à cause d'une pénalité/(lit.) s'asseoir dans le prison de ballon/
 坐監 坐监 [zuo4 jian1] {co5 gaam1} /être en prison; être incarcéré/
 坐視 坐视 [zuo4 shi4] {zo6 si6} /regarder sans aider; rester les bras croisés/
-????f 坐移民監 坐移民监 [zuo4 yi2 min2 jian1] {co5 ji4 man4 gaam1} /rester dans un pays ou une région pour un certain temps afin de satisfaire les conditions pour l'immigration/(lit.) faire un séjour en prison d'immigration/
-????f 坐穩船 坐稳船 [zuo4 wen3 chuan2] {co5 wan2 syun4} /(expression pour exprimer des bons voeux à quelqu'un qui voyage par bateau)/
-????f 坐穩車 坐稳车 [zuo4 wen3 che1] {co5 wan2 ce1} /(expresion pour exprimer des bon voeux à quelqu'un qui voyage par autobus ou voiture)/
-????c 坐穩釣魚船 坐稳钓鱼船 [zuo4 wen3 diao4 yu2 chuan2] {zo6 wan2 diu3 jyu4 syun4} /(expr. idiom.) avoir beaucoup de confiance/(lit.) s'asseoir de manière stable sur un bateau de pêche/
+坐移民監 坐移民监 [zuo4 yi2 min2 jian1] {co5 ji4 man4 gaam1} /(fig.) rester dans un pays ou une région pour un certain temps afin de satisfaire les conditions pour l'immigration/(lit.) faire un séjour en prison d'immigration/
+坐穩船 坐稳船 [zuo4 wen3 chuan2] {co5 wan2 syun4} /(expression pour exprimer ses voeux à quelqu'un qui voyage par bateau)/
+坐穩車 坐稳车 [zuo4 wen3 che1] {co5 wan2 ce1} /(expression pour exprimer ses voeux à quelqu'un qui voyage par autobus ou voiture)/
+????c 坐穩釣魚船 坐稳钓鱼船 [zuo4 wen3 diao4 yu2 chuan2] {co5 wan2 diu3 jyu4 syun4} /(expr. idiom.) avoir beaucoup de confiance/(lit.) s'asseoir de manière stable sur un bateau de pêche/
 坐等 坐等 [zuo4 deng3] {zo6 dang2} /s'asseoir et attendre/
 坐船 坐船 [zuo4 chuan2] {co5 syun4} /aller en bateau/
 坐花廳 坐花厅 [zuo4 hua1 ting1] {co5 faa1 teng1} /(vieilli) aller en prison/(lit.) s'asseoir dans la salle des fleurs/
-????f 坐起身 坐起身 [zuo4 qi3 shen1] {co5 hei2 san1} /se redresser (en s'asseyant)/
+坐起身 坐起身 [zuo4 qi3 shen1] {co5 hei2 san1} /se redresser/
 坐霸王車 坐霸王车 [zuo4 ba4 wang2 che1] {co5 baa3 wong4 ce1} /évasion tarifaire/
-????f 坐飛機位 坐飞机位 [zuo4 fei1 ji1 wei4] {co5 fei1 gei1 wai2} /s'asseoir dans des sièges les plus élevées dans un gymnase, un stade, un auditorium (sit in the nosebleed section)/(lit.) s'asseoir dans les sièges d'avion/
-????f 坐食山崩 坐食山崩 [zuo4 shi2 shan1 beng1] {zo6 sik6 saan1 bang1} /(expr. idiom.) dépenser ses épargnes; dépenser sans gagner de l'argent/(lit.) s'asseoir et manger la montagne jusqu'à ce qu'elle s'effrondre/
-????f 坐吃山空 坐吃山空 [zuo4 chi1 shan1 kong1] {co5 hek3 saan1 hung1} /(expr. idiom.) dépenser ses épargnes; dépenser sans gagner de l'argent/(lit.) s'asseoir et manger la montagne jusqu'à ce qu'elle soit vide/
+????f 坐飛機位 坐飞机位 [zuo4 fei1 ji1 wei4] {co5 fei1 gei1 wai2} /(fig.) s'asseoir dans des sièges les plus élevées dans un gymnase, un stade, un auditorium; s'asseoir dans le poulailler; avoir une place au paradis/(lit.) s'asseoir dans les sièges d'avion/
+坐食山崩 坐食山崩 [zuo4 shi2 shan1 beng1] {zo6 sik6 saan1 bang1} /(expr. idiom.) dépenser ses épargnes; dépenser sans gagner de l'argent/(lit.) s'asseoir et manger la montagne jusqu'à ce qu'elle s'effrondre/
+坐吃山空 坐吃山空 [zuo4 chi1 shan1 kong1] {co5 hek3 saan1 hung1} /(expr. idiom.) dépenser ses épargnes; dépenser sans gagner de l'argent/(lit.) s'asseoir et manger la montagne jusqu'à ce qu'elle soit vide/
 坐館 坐馆 [zuo4 guan3] {zo6 gun2} /leader d'une triade hongkongaise/
 坑渠 坑渠 [keng1 qu2] {haang1 keoi4} /égouts/
-????f 坑渠油 坑渠油 [keng1 qu2 you2] {haang1 keoi4 jau4} /gutter oil (reclaimed cooking oil, health hazard)/
+坑渠油 坑渠油 [keng1 qu2 you2] {haang1 keoi4 jau4} /huile d'égout; huile illégale provenant d'huiles usées des restaurants, des égouts, etc. (voir aussi 地溝油｜地沟油)/
 坑渠老鼠 坑渠老鼠 [keng1 qu2 lao3 shu3] {haang1 keoi4 lou5 syu2} /rats d'égouts/
 ????f 坑腩 坑腩 [keng1 nan3] {haang1 naam5} /bouts de côte sans os/
 坡紙 坡纸 [po1 zhi3] {bo1 zi2} /dollar singapourien/
@@ -5091,91 +5091,91 @@
 坢 坢 [ban4] {pun5} /flanc de coteau/plan; plat/
 ????c 坣 坣 [tang1] {bok3} /parapet de l'autoroute/
 坦桑尼亞聯合共和國 坦桑尼亚联合共和国 [tan3 sang1 ni2 ya4 lian2 he2 gong4 he2 guo2] {taan2 song1 nei4 aa3 lyun4 hap6 gung6 wo4 gwok3} /République unie de Tanzani/
-坪洲 坪洲 [ping2 zhou1] {ping4 zau1} /Peng Chau, un endroit situé dans la ville de Hong Kong/
-????f 坳胡 坳胡 [ao4 hu2] {aau1 wu1} /méchant dans les contes de fées/
-????f 坳胡婆 坳胡婆 [ao4 hu2 po2] {aau1 wu1 po2} /méchante dans les contes de fées/
+坪洲 坪洲 [ping2 zhou1] {ping4 zau1} /Peng Chau, île à Hong Kong/
+坳胡 坳胡 [ao4 hu2] {aau1 wu1} /(dans les contes de fées) méchant/
+????f 坳胡婆 坳胡婆 [ao4 hu2 po2] {aau1 wu1 po2} /(dans les contes de fées) méchante (de sexe féminin)/
 ????c 坶 坶 [mu3] {muk6} /(arch.) mot utilisé pour désigner les villes pendant la Dynastie Shang/
 垂手可得 垂手可得 [chui2 shou3 ke3 de2] {seoi4 sau2 ho2 dak1} /facile à obtenir sans effort/
 垃圾佬 垃圾佬 [la1 ji1 lao3] {laap6 saap3 lou2} /balayeur de rue/
 垃圾嘢 垃圾嘢 [la1 ji1 ye3] {laap6 saap3 je5} /ordures; poubelles; déchets/
 垃圾崗 垃圾岗 [la1 ji1 gang3] {laap6 saap3 gong1} /décharge; dépotoir/
 垃圾篸 垃圾篸 [la1 ji1 can3] {laap6 saap3 caam2} /pelle à poussière; pelle à balai; ramasse-poussière/
-????f 垃圾蟲 垃圾虫 [la1 ji1 chong2] {laap6 saap3 cung4} /pollueur; semeur de détritus/
+垃圾蟲 垃圾虫 [la1 ji1 chong2] {laap6 saap3 cung4} /(fig.) pollueur; semeur de détritus; personne qui jette des leurs ordures par terre dans la rue/(lit.) insecte des déchets/
 垃圾袋 垃圾袋 [la1 ji1 dai4] {laap6 saap3 doi6} /sac poubelle; sac à ordures/
 垃圾鏟 垃圾铲 [la1 ji1 chan3] {laap6 saap3 caan2} /pelle à poussière; pelle à balai; ramasse-poussière/
 型 型 [xing2] {jing4} /élégant; chic (apparence physique)/
 型仔 型仔 [xing2 zi3] {jing4 zai2} /bel homme; homme chic/
 型到痹 型到痹 [xing2 dao4 bi4] {jing4 dou3 bei3} /très chic; très élégant; très à la mode/
-????f 型男索女 型男索女 [xing2 nan2 suo3 nu:3] {jing4 naam4 sok3 neoi5} /(expr.) homme chic et femme sexy/
+型男索女 型男索女 [xing2 nan2 suo3 nu:3] {jing4 naam4 sok3 neoi5} /(expr.) homme chic et femme sexy/
 城巴 城巴 [cheng2 ba1] {sing4 baa1} /Citybus, une compagnie de bus de Hong Kong /
 城市生活 城市生活 [cheng2 shi4 sheng1 huo2] {sing4 si5 sang1 wut6} /vie urbaine/
 城市當代舞蹈團 城市当代舞蹈团 [cheng2 shi4 dang1 dai4 wu3 dao4 duan2] {sing4 si5 dong1 doi6 mou5 dou6 tyun4} /City Contemporary Dance Company, compagnie de danse de Hong Kong/
 城市電訊 城市电讯 [cheng2 shi4 dian4 xun4] {sing4 si5 din6 seon3} /City Telecom Limited, autrefois une compagnie de télécommunications de Hong Kong/
 城裡 城里 [cheng2 li3] {sing4 leoi5} /dans la ville/
-城門水塘 城门水塘 [cheng2 men2 shui3 tang2] {sing4 mun4 seoi2 tong4} /réservoir Shing Mun, réservoir d'eau situé dans les Nouveaux Territoires de Hong Kong /
+城門水塘 城门水塘 [cheng2 men2 shui3 tang2] {sing4 mun4 seoi2 tong4} /réservoir Shing Mun, réservoir d'eau situé aux Nouveaux Territoires de Hong Kong/
 城門河 城门河 [cheng2 men2 he2] {sing4 mun4 ho4} /rivière Shing Mun, une rivière située à Hong Kong/
 城門隧道 城门隧道 [cheng2 men2 sui4 dao4] {sing4 mun4 seoi6 dou6} /tunnel Shing Mun, tunnel routier reliant Shatin et Tsuen Wan dans les Nouveaux Territoires, à Hong Kong/
 ????f 城闕 城阙 [cheng2 que4] {sing4 kyut3} /tour de guet sur les deux côtés de la porte de la ville/
-埃及人 埃及人 [Ai1 ji2 ren2] {aai1 kap6 jan4} /Égyptien, Égyptienne/
+埃及人 埃及人 [ai1 ji2 ren2] {aai1 kap6 jan4} /Égyptien, Égyptienne/
 埋 埋 [mai2] {maai4} /complété; réglé/rejoindre/aussi; également/et/
 埋位 埋位 [mai2 wei4] {maai4 wai2} /prendre sa place; se mettre à table/se préparer/
-????f 埋便 埋便 [mai2 bian4] {maai4 bin6} /côté proche; bord intérieur (the 'inner side' of something, ex. on a couch = closer to the backrest as opposed to the part where your feet dangle off of; in a car = closer to the middle of the car as opposed to the sides)/à l'intérieur/près de/
+埋便 埋便 [mai2 bian4] {maai4 bin6} /vers l'intérieur/à l'intérieur/près de/
 埋去 埋去 [mai2 qu4] {maai4 heoi3} /se rapprocher; s'approcher; aller plus près/
 埋口 埋口 [mai2 kou3] {maai4 hau2} /fermer une plaie/(vielli) fermer boutique; mettre la clé sous la porte/
 埋單 埋单 [mai2 dan1] {maai4 daan1} /l'addition, s'il vous plaît!/subir les conséquences de ses actes/(vocabulaire de gang) tuer quelqu'un/
 埋嚟 埋嚟 [mai2 li2] {maai4 lai2} /se rapprocher; s'approcher; venir plus près/
 埋堆 埋堆 [mai2 dui1] {maai4 deoi1} /rejoindre un groupe; se joindre à un groupe/
 埋尾 埋尾 [mai2 wei3] {maai4 mei5} /conclure une tâche; régler les derniers détails/
-????f 埋岸 埋岸 [mai2 an4] {maai4 ngon6} /(bateau) accoster; arriver à quai; arriver au rivage/
-????f 埋席 埋席 [mai2 xi2] {maai4 zik6} /prendre sa place lors d'une cérémonie ou banquet/
+埋岸 埋岸 [mai2 an4] {maai4 ngon6} /(bateau) accoster; arriver à quai; se mettre au quai/
+埋席 埋席 [mai2 xi2] {maai4 zik6} /prendre sa place lors d'une cérémonie ou banquet/
 埋怨 埋怨 [man2 yuan4] {maai4 jyun3} /se plaindre/
 埋手 埋手 [mai2 shou3] {maai4 sau2} /entamer; commencer/
-????f 埋手打三更 埋手打三更 [mai2 shou3 da3 san1 geng1] {maai4 sau2 daa2 saam1 gaang1} /(expr. idiom.) échouer dès le début/
-????f 埋數 埋数 [mai2 shu4] {maai4 sou3} /payer ou régler un compte/(comptable) enregistrer les transactions/calculer un montant final; calculer une somme finale/
+埋手打三更 埋手打三更 [mai2 shou3 da3 san1 geng1] {maai4 sau2 daa2 saam1 gaang1} /(expr. idiom.) mal aller dès le début; ne pas bien se dérouler de la première heure/(lit.) arriver au quart de jour et faire sonner le gong pour le quart de l'après-midi/
+埋數 埋数 [mai2 shu4] {maai4 sou3} /payer ou régler un compte/(comptable) enregistrer les transactions/calculer un montant final; calculer une somme finale/
 埋棧 埋栈 [mai2 zhan4] {maai4 zaan2} /séjourner dans un hôtel/
-????f 埋櫃 埋柜 [mai2 gui4] {maai4 gwai6} /(boutique, magasin) régler les comptes à la fin de journée/
+埋櫃 埋柜 [mai2 gui4] {maai4 gwai6} /(boutique, magasin) régler les comptes à la fin de journée/
 埋欄 埋栏 [mai2 lan2] {maai4 laan1} /s'entendre avec (quelqu'un)/avoir du succès avec quelque chose; réussir/
-????f 埋牙 埋牙 [mai2 ya2] {maai4 ngaa4} /deux personnes ou groupes qui s'apprêtent à s'affronter, à se battre entre eux/
-????f 埋站 埋站 [mai2 zhan4] {maai4 zaam6} /s'approcher du prochain arrêt (train, bus, métro, etc.)/
-????f 埋籠 埋笼 [mai2 long2] {maai4 lung4} /(volaille, bétail, etc.) rentrer dans la cage la nuit/
-????f 埋街 埋街 [mai2 jie1] {maai4 gaai1} /toucher terre/(vieilli) femme des bateaux qui s'épouse avec une homme qui vit sur terre/
-????f 埋街食井水 埋街食井水 [mai2 jie1 shi2 jing3 shui3] {maai4 gaai1 sik6 zeng2 seoi2} /(expr. idiom.) (des prostituées) se marier/(expr. idiom.) se marier à quelqu'un d'une famille plus riche/(lit.) toucher terre et boire l'eau de puits/
-????c 埋身 埋身 [mai2 shen1] {maai4 san1} /se rapprocher physiquement/devenir intime/développer une relation intime avec des intentions cachées/
-????f 埋閘 埋闸 [mai2 zha2] {maai4 zaap6} /(boutique, magasin) fermer pour la journée/
+埋牙 埋牙 [mai2 ya2] {maai4 ngaa4} /deux personnes ou groupes qui s'apprêtent à s'affronter, à se battre entre eux/
+埋站 埋站 [mai2 zhan4] {maai4 zaam6} /s'approcher du prochain arrêt (train, bus, métro, etc.)/
+埋籠 埋笼 [mai2 long2] {maai4 lung4} /(volaille, bétail, etc.) rentrer dans la cage la nuit/
+埋街 埋街 [mai2 jie1] {maai4 gaai1} /toucher terre/(vieilli) (fig.) femme des bateaux qui s'épouse avec une homme qui vit sur terre/
+埋街食井水 埋街食井水 [mai2 jie1 shi2 jing3 shui3] {maai4 gaai1 sik6 zeng2 seoi2} /(expr. idiom.) (des prostituées) se marier/(expr. idiom.) se marier à quelqu'un d'une famille plus riche/(lit.) toucher terre et boire l'eau de puits/
+埋身 埋身 [mai2 shen1] {maai4 san1} /se rapprocher physiquement/devenir intime avec quelqu'un/
+埋閘 埋闸 [mai2 zha2] {maai4 zaap6} /(boutique, magasin) fermer pour la journée/
 埋頭埋腦 埋头埋脑 [mai2 tou2 mai2 nao3] {maai4 tau4 maai4 nou5} /(expr. idiom.) s'immerger dans; être absorbé par quelque chose; être dévoué à quelque chose/(lit.) enfouir sa tête et enfouir son cerveau/
-????f 埕埕塔塔 埕埕塔塔 [cheng2 cheng2 ta3 ta3] {cing4 cing4 taap3 taap3} /(péj.) sentimental; mièvre; guimauve/(lit.) pots et urnes/
+埕埕塔塔 埕埕塔塔 [cheng2 cheng2 ta3 ta3] {cing4 cing4 taap3 taap3} /(péj.) sentimental; mièvre; guimauve/(lit.) pots et urnes/
 埗頭 埗头 [bu4 tou2] {bou4 tau4} /quai; jetée/
 埞方 埞方 [di1 fang1] {deng6 fong1} /endroit; lieu/espace; place/
 埠 埠 [bu4] {fau6} /ville/
 ????c 埢 埢 [quan2] {gyun3} /arrondi; enroulé/
 埲 埲 [beng3] {bung6} /(classificateur des odeurs, habituellement désagréables)/
 執 执 [zhi2] {zap1} /ramasser/acheter/faire ses valises/faire du ménage/démissionner/
-????f 執二攤 执二摊 [zhi2 er4 tan1] {zap1 ji6 taan1} /utiliser des biens d'occasion/sortir avec un ex d'un ami/remplacer; prendre la place de quelqu'un d'autre/
-????f 執人口水尾 执人口水尾 [zhi2 ren2 kou3 shui3 wei3] {zap1 jan4 hau2 seoi2 mei1} /(expr. idiom.) répéter ce qui a déjà été dit par autrui/(lit.) ramasser les restes de la salive d'autrui/
-????f 執人口水溦 执人口水溦 [zhi2 ren2 kou3 shui3 mei2] {zap1 jan4 hau2 seoi2 mei1} /(expr. idiom.) répéter ce qui a déjà été dit par autrui/(lit.) ramasser les restes de la salive d'autrui/
+執二攤 执二摊 [zhi2 er4 tan1] {zap1 ji6 taan1} /(fig.) utiliser des biens d'occasion/(fig.) sortir avec un ex d'un ami/(fig.) remplacer; prendre la place de quelqu'un d'autre/(lit.) prendre l'étal d'autrui/
+執人口水尾 执人口水尾 [zhi2 ren2 kou3 shui3 wei3] {zap1 jan4 hau2 seoi2 mei1} /(expr. idiom.) répéter ce qui a déjà été dit par autrui/(lit.) ramasser les restes de la salive d'autrui/
+執人口水溦 执人口水溦 [zhi2 ren2 kou3 shui3 mei2] {zap1 jan4 hau2 seoi2 mei1} /(expr. idiom.) répéter ce qui a déjà été dit par autrui/(lit.) ramasser les restes de la salive d'autrui/
 執仔 执仔 [zhi2 zi3] {zap1 zai2} /soins maternels; soins néonatals/
 執仔婆 执仔婆 [zhi2 zi3 po2] {zap1 zai2 po4} /sage-femme/
 執位 执位 [zhi2 wei4] {zap1 wai2} /(mah-jong) organisation des sièges avant le début du jeu/(mathématique) permutation/
 執倒 执倒 [zhi2 dao4] {zap1 dou2} /ramasser/avoir de la chance/
 執到 执到 [zhi2 dao4] {zap1 dou3} /ramasser/avoir de la chance/
-????f 執到寶 执到宝 [zhi2 dao4 bao3] {zap1 dou2 bou2} /(expr. idiom.) recevoir quelque chose de valeur de manière inattendue/(lit.) ramasser un trésor/
+執到寶 执到宝 [zhi2 dao4 bao3] {zap1 dou2 bou2} /(expr. idiom.) recevoir quelque chose de valeur de manière inattendue/(lit.) ramasser un trésor/
 執到正 执到正 [zhi2 dao4 zheng4] {zap1 dou3 zeng3} /bien s'habiller; s'endimancher/
-????f 執到都喊三聲 执到都喊三声 [zhi2 dao4 dou1 han3 san1 sheng1] {zap1 dou3 dou1 haam3 saam1 sing1} /(expr. idiom.) bien que quelque chose soit facile à obtenir, il a beaucoup de défauts; une chose qui ne vaut pas la peine de faire; une chose qui n'apporte que du malheur/(lit.) même si on le ramasserait, on crierait trois fois/
+執到都喊三聲 执到都喊三声 [zhi2 dao4 dou1 han3 san1 sheng1] {zap1 dou3 dou1 haam3 saam1 sing1} /(expr. idiom.) bien que quelque chose soit facile à obtenir, il a beaucoup de défauts; une chose qui ne vaut pas la peine de faire; une chose qui n'apporte que du malheur/(lit.) même si on le ramasserait, on crierait trois fois/
 執包袱 执包袱 [zhi2 bao1 fu5] {zap1 baau1 fuk6} /(expr. idiom.) démissionner/(lit.) ramasser ses choses/
 執嘢 执嘢 [zhi2 ye3] {zap1 je5} /faire du ménage; ranger/
 執地 执地 [zhi2 di4] {zap1 dei6} /faire les poubelles/
 執媽 执妈 [zhi2 ma1] {zap1 maa1} /sage-femme/
-????c 執字粒 执字粒 [zhi2 zi4 li4] {zap1 zi6 lap1} /réviser, modifier, identifier des fautes à corriger dans un texte/composer; mettre en page/(lit.) repérer des mots/
-????f 執屍 执尸 [zhi2 shi1] {zap1 si1} /enlever un cadavre (to clear away, to put away a dead body)/
-????f 執平嘢 执平嘢 [zhi2 ping2 ye3] {zap1 peng4 je5} /acheter des produits bon marché; acheter de produits à un prix avantageux/
+執字粒 执字粒 [zhi2 zi4 li4] {zap1 zi6 lap1} /(fig.) réviser, modifier, identifier des fautes à corriger dans un texte/(fig.) composer; mettre en page/(lit.) repérer des mots/
+執屍 执尸 [zhi2 shi1] {zap1 si1} /retirer le corps d'un défunt; se débarrasser d'un cadavre/
+執平嘢 执平嘢 [zhi2 ping2 ye3] {zap1 peng4 je5} /acheter des produits bon marché; acheter de produits à un prix avantageux/
 執床 执床 [zhi2 chuang2] {zap1 cong4} /faire le lit/
 執房 执房 [zhi2 fang2] {zap1 fong2} /ranger la chambre; nettoyer la pièce/
 執手 执手 [zhi2 shou3] {zap1 sau2} /tenir la main/
-????f 執手尾 执手尾 [zhi2 shou3 wei3] {zap1 sau2 mei5} /(fig.) terminer une tâche laissée inachevée par autrui/
+執手尾 执手尾 [zhi2 shou3 wei3] {zap1 sau2 mei5} /(fig.) terminer une tâche laissée inachevée par autrui/(lit.) ramasser la queue de la main/
 執政 执政 [zhi2 zheng4] {zap1 zing3} /être au pouvoir/
 執正 执正 [zhi2 zheng4] {zap1 zeng3} /se comporter selon des normes ou règles/bien s'habiller; s'endimancher/
-????f 執死雞 执死鸡 [zhi2 si3 ji1] {zap1 sei2 gai1} /(expr. idiom.) profiter d'une manne; tirer profit d'une situation inattendue/(expr. idiom.) (football) cherry picking/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule morte/
-????f 執死雞仔 执死鸡仔 [zhi2 si3 ji1 zai3] {zap1 sei2 gai1 zai2} /(expr. idiom.) profiter d'une manne; tirer profit d'une situation inattendue/(expr. idiom.) (football) cherry picking/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule morte/
+執死雞 执死鸡 [zhi2 si3 ji1] {zap1 sei2 gai1} /(expr. idiom.) profiter d'un bienfait inespéré; tirer profit d'une situation inattendue/(expr. idiom.) (football) marquer un but facile après que le ballon a été bloqué par le gardien de but/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule morte/
+執死雞仔 执死鸡仔 [zhi2 si3 ji1 zai3] {zap1 sei2 gai1 zai2} /(expr. idiom.) profiter d'un bienfait inespéré; tirer profit d'une situation inattendue/(expr. idiom.) (football) marquer un but facile après que le ballon a été bloqué par le gardien de but/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule morte/
 執滯 执滞 [zhi2 zhi4] {zap1 zai6} /obstiné; têtu/
 執漏 执漏 [zhi2 lou4] {zap1 lau6} /oublier d'apporter quelque chose/réparer une fuite/
 執生 执生 [zhi2 sheng1] {zap1 saang1} /improviser; prendre les choses commes elles viennent/
@@ -5185,43 +5185,43 @@
 執笠 执笠 [zhi2 li4] {zap1 lap1} /fermer boutique; mettre la clé sous la porte/
 執筆忘字 执笔忘字 [zhi2 bi3 wang4 zi4] {zap1 bat1 mong4 zi6} /(expr. idiom.) amnésie des caractères, quand l'on oublie comment écrire un caractère/(lit.) ramasser son stylo et oublier le mot/
 執籌 执筹 [zhi2 chou2] {zap1 cau2} /tirer au sort; participer à un tirage/
-????f 執茶 执茶 [zhi2 cha2] {zap1 caa4} /obtenir une ordonnance d'un médecin (en particulier pour la médecine chinoise)/
-????f 執藥 执藥 [zhi2 shuo4] {zap1 joek6} /obtenir une ordonnance d'un médecin (en particulier pour la médecine chinoise)/
+執茶 执茶 [zhi2 cha2] {zap1 caa4} /obtenir une ordonnance d'un médecin (en particulier pour la médecine traditionnelle chinoise)/
+執藥 执藥 [zhi2 shuo4] {zap1 joek6} /obtenir une ordonnance d'un médecin (en particulier pour la médecine traditionnelle chinoise)/
 執行主席 执行主席 [zhi2 xing2 zhu3 xi2] {zap1 hang4 zyu2 zik6} /président du conseil d'administration/
 執行李 执行李 [zhi2 xing2 li3] {zap1 hang4 lei5} /faire ses valises/
 執豆噉執 执豆噉执 [zhi2 dou4 dan4 zhi2] {zap1 dau2 gam2 zap1} /(expr. idiom.) très facile; sans effort; sans peine/(lit.) comme ramasser des petits pois/
 執贏 执赢 [zhi2 ying2] {zap1 jeng4} /(compétition) avoir le dessus; prendre la tête/
 執起 执起 [zhi2 qi3] {zap1 hei2} /ramasser/
-????f 執輸 执输 [zhi2 shu1] {zap1 syu1} /rater sa chance; manquer une belle occasion/
-????f 執輸行頭慘過敗家 执输行头惨过败家 [zhi2 shu1 hang2 tou2 can3 guo4 bai4 jia1] {zap1 syu1 hong4 tau4 caam2 gwo3 baai6 gaa1} /rien n'est pire que manquer une belle occasion/
-????f 執金吾 执金吾 [zhi2 jin1 wu2] {zap1 gam1 ng4} /officier responsable du maintain de l'ordre public dans la ville capitale pendant la dynastie Han/
-????f 執雞 执鸡 [zhi2 ji1] {zap1 gai1} /(expr. idiom.) profiter d'une manne; tirer profit d'une situation inattendue/(expr. idiom.) (football) cherry picking/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule/
+執輸 执输 [zhi2 shu1] {zap1 syu1} /rater sa chance; manquer une belle occasion/
+執輸行頭慘過敗家 执输行头惨过败家 [zhi2 shu1 hang2 tou2 can3 guo4 bai4 jia1] {zap1 syu1 hong4 tau4 caam2 gwo3 baai6 gaa1} /(expr. idiom.) rien n'est pire que manquer une belle occasion/(lit.) rater sa chance est pire que déshonorer sa famille/
+執金吾 执金吾 [zhi2 jin1 wu2] {zap1 gam1 ng4} /officier responsable du maintain de l'ordre public dans la ville capitale pendant la dynastie Han/
+執雞 执鸡 [zhi2 ji1] {zap1 gai1} /(expr. idiom.) profiter d'un bienfait inespéré; tirer profit d'une situation inattendue/(expr. idiom.) (football) marquer un but facile après que le ballon a été bloqué par le gardien de but/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule morte/
 執頭執尾 执头执尾 [zhi2 tou2 zhi2 wei3] {zap1 tau4 zap1 mei5} /(expr.) régler les derniers détails/(expr.) faire des petits boulots/
 執齊 执齐 [zhi2 qi2] {zap1 cai4} /avoir fini de faire ses valises/avoir tout rangé/
-????f 執屋 执屋 [zhi2 wu1] {zap1 uk1} /faire le ménage de la maison/
+執屋 执屋 [zhi2 wu1] {zap1 uk1} /faire du ménage; nettoyer sa maison/
 基 基 [ji1] {gei1} /homosexuel; gay/(orig.) de l'anglais « gay » (« homosexuel, gay »)/
 基圍蝦 基围虾 [ji1 wei2 xia1] {gei1 wai4 haa1} /crevette d'élevage/
-????c 基本國策 基本国策 [ji1 ben3 guo2 ce4] {gei1 bun2 gwok3 caak3} /politique nationale de base/
-????c 基本建設 基本建设 [ji1 ben3 jian4 she4] {gei1 bun2 gin3 cit3} /infrastructure/
+基本國策 基本国策 [ji1 ben3 guo2 ce4] {gei1 bun2 gwok3 caak3} /politique nationale de base/
+基本建設 基本建设 [ji1 ben3 jian4 she4] {gei1 bun2 gin3 cit3} /infrastructure/
 基本轉錄因子 基本转录因子 [ji1 ben3 zhuan3 lu4 yin1 zi3] {gei1 bun2 zyun3 luk6 jan1 zi2} /(biologie) facteur général de transcription/
 基礎代謝 基础代谢 [ji1 chu3 dai4 xie4] {gei1 co2 doi6 ze6} /(biologie) métabolisme de base/
 基金 基金 [ji1 jin1] {gei1 gam1} /fonds; caisse; dotation/
-????f 埻 埻 [zhun3] {zeon2} /cible pour le tir à l'arc/
+埻 埻 [zhun3] {zeon2} /cible pour le tir à l'arc/
 埼玉縣 埼玉县 [qi2 yu4 xian4] {kei4 juk6 jyun6} /Saitama, ville japonaise/
 堁 堁 [ke4] {fo2, fo3} /(litt.) poussière/
 堂 堂 [tang2] {tong4} /coffre/classe/
 堂口 堂口 [tang2 kou3] {tong4 hau2} /faction dans un gang ou triade/
-????f 堂喫 堂吃 [tang2 chi1] {tong4 jaak3} /manger sur place (vs à emporter 拎走|拎走 ou 外賣|外卖)/
+堂喫 堂吃 [tang2 chi1] {tong4 jaak3} /manger sur place (vs à emporter 拎走|拎走 ou 外賣|外卖)/
 堂客 堂客 [tang2 ke5] {tong4 haak3} /femme mariée; épouse; conjointe/
-????f 堂家姐 堂家姐 [tang2 jia1 jie3] {tong4 gaa1 ze2} /cousine plus âgée que le locuteur qui est la fille d'un des frères de son père/
+堂家姐 堂家姐 [tang2 jia1 jie3] {tong4 gaa1 ze2} /cousine plus âgée que le locuteur qui est la fille d'un des frères de son père/
 堂課 堂课 [tang2 ke4] {tong4 fo3} /classes; cours/
 堂費 堂费 [tang2 fei4] {tong4 fai3} /frais de justice/frais de scolarité/
 堅 坚 [jian1] {gin1} /ferme; solide/vrai; authentique/
 堅嘢 坚嘢 [jian1 ye3] {gin1 je5} /objet authentique/
 堅固 坚固 [jian1 gu4] {gin1 gu3} /ferme; solide/
 堅尼地城 坚尼地城 [jian1 ni2 di4 cheng2] {gin1 nei4 dei6 sing4} /Kennedy Town, un endroit situé dans la ville de Hong Kong/
-????f 堅料 坚料 [jian1 liao4] {gin1 liu2} /information véritable ou authentique, révélée par une source fiable/
-????f 堅決否認 坚决否认 [jian1 jue2 fou3 ren4] {gin1 kyut3 fau2 jing6} /rejeter catégoriquement; nier fermement/
+堅料 坚料 [jian1 liao4] {gin1 liu2} /information véritable ou authentique, révélée par une source fiable/
+堅決否認 坚决否认 [jian1 jue2 fou3 ren4] {gin1 kyut3 fau2 jing6} /(expr.) rejeter catégoriquement; nier fermement/
 堅過石堅 坚过石坚 [jian1 guo4 shi2 jian1] {gin1 gwo3 sek6 gin1} /(expr. idiom.) vrai pour de vrai/(lit.) plus ferme que de la roche/
 堅道 坚道 [jian1 dao4] {gin1 dou6} /Caine Road, une rue située à Hong Kong/
 堆填 堆填 [dui1 tian2] {deoi1 tin4} /décharge; dépotoir; site d'enfouissement/
@@ -5234,7 +5234,7 @@
 報大數 报大数 [bao4 da4 shu4] {bou3 daai6 sou3} /faire semblant d'avoir plus (d'argent, etc.); gonfler les chiffres/(lit.) rapporter une grande somme/
 報寸 报寸 [bao4 cun4] {bou3 cyun3} /dénoncer; moucharder; signaler comme coupable à la police/
 報應 报应 [bao4 ying4] {bou3 jing3} /karma; châtiment divin/
-????f 報料 报料 [bao4 liao4] {bou3 liu2} /(nouvelles) rapporter/
+報料 报料 [bao4 liao4] {bou3 liu2} /(nouvelles) rapporter/
 報答 报答 [bao4 da2] {bou3 daap3} /récompenser; rendre/
 報紙佬 报纸佬 [bao4 zhi3 lao3] {bou3 zi2 lou2} /vendeur de journaux/
 報紙檔 报纸档 [bao4 zhi3 dang4] {bou3 zi2 dong3} /kiosque à journaux/
@@ -5242,7 +5242,7 @@
 報販 报贩 [bao4 fan4] {bou3 faan2} /vendeur de journaux/
 場 场 [chang3] {coeng4} /territoire/(classificateur pour des films et concerts)/
 堵截 堵截 [du3 jie2] {dou2 zit6} /intercepter; interrompre/
-????c 堶 堶 [tuo2] {to4} /a game of throwing bricks in the past/
+????m 堶 堶 [tuo2] {to4} /(arch.) jeu dans lequel on lance des briques/
 塊嘢 块嘢 [kuai4 ye3] {faai3 je5} /morceau (mince et plat) de quelque chose/
 塌地 塌地 [ta1 di4] {taap3 dei6} /très; extrêmement; complètement/
 塑膠袋 塑胶袋 [su4 jiao1 dai4] {sou3 gaau1 doi2} /sac en plastique/
@@ -5250,38 +5250,38 @@
 塔羅牌 塔罗牌 [ta3 luo2 pai2] {taap3 lo4 paai2} /cartes de tarot/
 塔門 塔门 [ta3 men2] {taap3 mun4} /Grass Island, une île située dans la ville de Hong Kong/
 塗改帶 涂改带 [tu2 gai3 dai4] {tou4 goi2 daai2} /ruban correcteur/
-????f 塘基 塘基 [tang2 ji1] {tong4 gei1} /rives d'un étang/
+塘基 塘基 [tang2 ji1] {tong4 gei1} /rives d'un étang/
 塘尾 塘尾 [tang2 wei3] {tong4 mei5} /libellule; demoiselle; agrion/village de Hong Kong, Tong Mei/
-????f 塘底泥 塘底泥 [tang2 di3 ni2] {tong4 dai2 nai4} /(expr. idiom.) une personne qui se montre seulement quand elle n'a plus d'argent/(lit.) terre au fond d'un étang (qui est seulement visible quand le niveau d'eau est très bas)/
-????f 塘底特 塘底特 [tang2 di3 te4] {tong4 dai2 dak6} /(expr. idiom.) une personne qui se montre seulement quand elle n'a plus d'argent/(lit.) piquets au fond d'un étang (qui sont seulement visibles quand le niveau d'eau est très bas)/
-????c 塘水滾塘魚 塘水滚塘鱼 [tang2 shui3 gun3 tang2 yu2] {tong4 seoi2 gwan2 tong4 jyu2} /(expr. idiom.) le résultat final est toujours le même/(lit.) les lacs n'ont que de l'eau et des poissons/
+塘底泥 塘底泥 [tang2 di3 ni2] {tong4 dai2 nai4} /(expr. idiom.) quelqu'un qui apparaît seulement quand il n'a plus d'argent/(lit.) terre au fond d'un étang (qui est seulement visible quand le niveau d'eau est très bas)/
+塘底特 塘底特 [tang2 di3 te4] {tong4 dai2 dak6} /(expr. idiom.) une personne qui apparaît seulement quand il n'a plus d'argent/(lit.) piquets au fond d'un étang (qui sont seulement visibles quand le niveau d'eau est très bas)/
+????f 塘水滾塘魚 塘水滚塘鱼 [tang2 shui3 gun3 tang2 yu2] {tong4 seoi2 gwan2 tong4 jyu2} /(expr. idiom.) se dit d'une situation où on ne peut pas gagner plus d'argent parce que le montant total est limité (ex. le montant d'argent qu'a une famille qui joue au poker restera le même peu importe combien de fois l'argent change de mains parmi les membres de cette famille)/(lit.) les lacs n'ont que de l'eau et des poissons/
 塘蒿 塘蒿 [tang2 hao1] {tong4 hou1} /(espèce de plantes) conyza bonariensis, vergerette de Buenos Aires/
-????f 塘𧋦 塘𧋦 [tang2 mei3] {tong4 mei1} /(vieilli) libellule/
-????f 塘蝨 塘虱 [tang2 shi1] {tong4 sat1} /Clariidae, poissons-chats qui respirent de l'air/
-????f 塘蝨魚 塘虱鱼 [tang2 shi1 yu2] {tong4 sat1 jyu2} /Clariidae, poissons-chats qui respirent de l'air/
+塘𧋦 塘𧋦 [tang2 mei3] {tong4 mei1} /(vieilli) libellule/petit bâteau découvert/
+塘蝨 塘虱 [tang2 shi1] {tong4 sat1} /Clariidae, poissons-chats qui respirent de l'air/
+塘蝨魚 塘虱鱼 [tang2 shi1 yu2] {tong4 sat1 jyu2} /Clariidae, poissons-chats qui respirent de l'air/
 塘邊鶴 塘边鹤 [tang2 bian1 he4] {tong4 bin1 hok2} /(expr. idiom.) témoin; spectateur; quelqu'un qui ne participe pas/(lit.) grue près de l'étang/
-????f 塘魚 塘鱼 [tang2 yu2] {tong4 jyu4} /poissons de l'étang/
+塘魚 塘鱼 [tang2 yu2] {tong4 jyu4} /poissons de l'étang/
 塞 塞 [sai1] {coi3} /bloqué/coincé/
-????c 塞古盟憎 塞古盟憎 [sai1 gu3 meng2 zeng1] {sak1 gu2 mang4 zang1} /prendre une décision sans savoir toute l'information/
+????c 塞古盟憎 塞古盟憎 [sai1 gu3 meng2 zeng1] {sak1 gu2 mang4 zang1} /(expr. idiom.) devoir prendre une décision sans connaître tous les faits/
 塞竇窿 塞窦窿 [se1 dou4 long2] {sak1 dau6 lung1} /enfant/
 塞豆窿 塞豆窿 [sai1 dou4 long2] {sak1 dau6 lung1} /enfant/
 塨 塨 [gong1] {gung1} /(mot utilisé dans les noms chinois)/
 填 填 [tian2] {tin4} /remplir; compléter (un formulaire)/remplir; remblayer; combler/
 填充 填充 [tian2 chong1] {tin4 cung1} /remplir/
 填命 填命 [tian2 ming4] {tin4 meng6} /payer de sa vie/
-????f 填平 填平 [tian2 ping2] {tin4 ping4} /remplir quelque chose jusqu'à ce la surface devient plate; combler/
-????f 填鴨 填鸭 [tian2 ya1] {tin4 aap3} /canard gavé/
-????f 填鴨式教育 填鸭式教育 [tian2 ya1 shi4 jiao4 yu4] {tin4 aap3 sik1 gaau3 juk6} /(expr. idiom.) éducation où les étudiants ont besoin d'accumuler beaucoup de connaissances en peu de temps et négligent les compétences pratiques/(lit.) éducation de style canard gavé/
+填平 填平 [tian2 ping2] {tin4 ping4} /remplir quelque chose jusqu'à ce la surface devient plate; combler/
+填鴨 填鸭 [tian2 ya1] {tin4 aap3} /canard gavé/
+????f 填鴨式教育 填鸭式教育 [tian2 ya1 shi4 jiao4 yu4] {tin4 aap3 sik1 gaau3 juk6} /(expr. idiom.) éducation où les étudiants ont besoin d'accumuler beaucoup de connaissances en peu de temps et négligent les compétences pratiques; éducation où on a besoin de bachoter tout le temps/(lit.) éducation de style canard gavé/
 ????c 塴 塴 [beng4] {bang1, baang6, bing3} /descendre le cercueil dans la terre/
 塵俗 尘俗 [chen2 su2] {can4 zuk6} /affaires mondaines/
-????c 塵土飛揚 尘土飞扬 [chen2 tu3 fei1 yang2] {can4 tou2 fei1 joeng4} /poussière flottante/
+????m 塵土飛揚 尘土飞扬 [chen2 tu3 fei1 yang2] {can4 tou2 fei1 joeng4} /poussière flottante/
 塵垢 尘垢 [chen2 gou4] {can4 gau3} /poussière; saleté/
 塵氣 尘气 [chen2 qi4] {can4 hei3} /arrogant; vaniteux/
 塵灰 尘灰 [chen2 hui1] {can4 fui1} /poussière/
 塹壕 堑壕 [qian4 hao2] {cim3 hou4} /(militaire) tranchée/
 境地 境地 [jing4 di4] {ging2 dei6} /situation; circonstance/
-????c 境域 境域 [jing4 yu4] {ging2 wik6} /frontières territoriales/région/condition/
-????f 境界 境界 [jing4 jie4] {ging2 gaai3} /frontière; limite/niveau; degré (d'une compétence)/
+境域 境域 [jing4 yu4] {ging2 wik6} /frontières territoriales/région/condition/
+境界 境界 [jing4 jie4] {ging2 gaai3} /frontière; limite/niveau; degré (d'une compétence)/
 墊底 垫底 [dian4 di3] {zin3 dai2} /déductible (voir 墊底費|垫底费)/en bas des classements/mettre quelque chose sous quelque chose d'autre/
 墜地 坠地 [zhui4 di4] {zeoi6 dei6} /(litt.) tomber par terre/(litt.) naître; être né/
 墜火 坠火 [zhui4 huo3] {zeoi6 fo2} /(médecine traditionnelle chinoise) réduire la chaleur interne/
@@ -5291,17 +5291,17 @@
 增長 增长 [zeng1 zhang3] {zang1 zoeng2} /croissance/
 增長速度 增长速度 [zeng1 zhang3 su4 du4] {zang1 zoeng2 cuk1 dou6} /taux de croissance/
 墟冚 墟冚 [xu1 ka4] {heoi1 ham6} /animé; vivant; fréquenté; bondé; plein à craquer/
-????f 墟場 墟场 [xu1 chang3] {heoi1 coeng4} /marché (temporaire); foire; bazar/
+墟場 墟场 [xu1 chang3] {heoi1 coeng4} /marché (temporaire); foire; bazar/
 墟墟冚冚 墟墟冚冚 [xu1 xu1 ka4 ka4] {heoi1 heoi1 ham6 ham6} /animé; vivant; fréquenté; bondé; plein à craquer/
 墟巴嘈閉 墟巴嘈闭 [xu1 ba1 cao2 bi4] {heoi1 baa1 cou4 bai3} /(d'une foule) bruyant; très bruyant/
 墟日 墟日 [xu1 ri4] {heoi1 jat6} /jour de marché/
 墮 堕 [duo4] {do6} /tomber/être suspendu; pendre de quelque chose/
 墮入 堕入 [duo4 ru4] {do6 jap6} /tomber (dans un piège, amoureux, etc.)/
 墮落雞 堕落鸡 [duo4 luo4 ji1] {do6 lok6 gai1} /(fig.) (péjoratif) femme moralement corrompue; femme immorale/
-????f 墮角 堕角 [duo4 jiao3] {do6 goek3} /(endroit) reculé; qui est au milieu de nul part/
+墮角 堕角 [duo4 jiao3] {do6 goek3} /(endroit) reculé; lointain/
 墳墓 坟墓 [fen2 mu4] {fan4 mou6} /tombe; fosse mortuaire/
 墼 墼 [ji1] {gik1} /(arch.) brique crue/
-????f 墾殖 垦殖 [ken3 zhi2] {han2 zik6} /récupérer et cultiver les terres agricoles/
+墾殖 垦殖 [ken3 zhi2] {han2 zik6} /récupérer et cultiver les terres agricoles/
 壁櫃 壁柜 [bi4 gui4] {bik1 gwai6} /armoire murale/
 壁蝨 壁虱 [bi4 shi1] {bik1 sat1} /(insecte) punaise des lits; tique/
 壓制 压制 [ya1 zhi4] {aat3 zai3} /étouffer; réprimer (des idées)/réprimer; refouler (sa colère)/
@@ -5312,7 +5312,7 @@
 壓氣 压气 [ya1 qi4] {aat3 hei3} /air comprimé/
 壓縮空氣 压缩空气 [ya1 suo1 kong1 qi4] {aat3 suk1 hung1 hei3} /air comprimé/
 壓軸 压轴 [ya1 zhou4] {aat3 zuk6} /bouquet final; clou du spectacle/
-????f 壓驚 压惊 [ya1 jing1] {aat3 ging1} /aider quelqu'un à se remettre d'un choc/
+壓驚 压惊 [ya1 jing1] {aat3 ging1} /(fig.) aider quelqu'un à se remettre d'un choc/(lit.) écraser le choc/
 壞 坏 [huai4] {waai6} /mauvais; méchant/cassé; en panne; hors service/ruiner/pourrir; s'abîmer; gâter/
 壞到加零一 坏到加零一 [huai4 dao4 jia1 ling2 yi1] {waai6 dou3 gaa1 ling4 jat1} /(personne) terrible; très mauvais/
 壞咗 坏咗 [huai4 zuo5] {waai6 zo2} /cassé; en panne; hors service/pourrir/
@@ -5328,27 +5328,27 @@
 士啤 士啤 [shi4 pi2] {si6 be1} /extra/(orig.) de l'anglais « spare » (« extra »)/
 士多店 士多店 [shi4 duo1 dian4] {si6 do1 dim3} /magasin (« boutique, magasin »)/(orig.) de l'anglais « store » (« boutique, magasin »)/
 士多房 士多房 [shi4 duo1 fang2] {si6 do1 fong2} /réserve; cellier/(orig.) de l'anglais « storeroom » (« réserve, cellier »)/
-????f 士撻 士挞 [shi4 ta4] {si6 taat1} /starter, démarreur (pour lampes fluorescentes)/(orig.) de l'anglais « starter »/
-????f 士撻膽 士挞胆 [shi4 ta4 dan3] {si6 taat1 daam2} /starter; démarreur (pour lampes fluorescentes)/(orig.) de l'anglais « starter »/
+士撻 士挞 [shi4 ta4] {si6 taat1} /starter, démarreur (pour lampes fluorescentes)/(orig.) de l'anglais « starter »/
+士撻膽 士挞胆 [shi4 ta4 dan3] {si6 taat1 daam2} /starter; démarreur (pour lampes fluorescentes)/(orig.) de l'anglais « starter »/
 士擔 士担 [shi4 dan1] {si6 daam1} /timbre/(orig.) de l'anglais « stamp »/
 士的 士的 [shi4 di4] {si6 dik1} /canne de marche/(orig.) de l'anglais « stick »/
 士碌架 士碌架 [shi4 lu4 jia4] {si6 luk1 gaa2} /snooker/(orig.) de l'anglais « snooker »/
 壯健 壮健 [zhuang4 jian4] {zong3 gin6} /grand et fort; en pleine santé; robuste/
 壯志 壮志 [zhuang4 zhi4] {zong3 zi3} /grand idéal; noble ambition/
-????f 壯膽 壮胆 [zhuang4 dan3] {zong3 daam2} /enhardir; donner du courage/
+壯膽 壮胆 [zhuang4 dan3] {zong3 daam2} /enhardir; donner du courage/
 ????c 壯苗 壮苗 [zhuang4 miao2] {zong3 miu4} /nourrir des germes/
 壯觀 壮观 [zhuang4 guan1] {zong3 gun1} /(paysage) magnifique; incroyable; spectaculaire/
 壯麗 壮丽 [zhuang4 li4] {zong3 lai6} /(paysage) magnifique; pittoresque/
 壵 壵 [zhuang4] {zong3} /grand et fort; robuste (voir 壯|壮)/
-????c 壼奧 壸奥 [kun3 ao4] {kwan2 ou3} /profond; significatif/
+????c 壼奧 壸奥 [kun3 ao4] {kwan2 ou3} /profond; significatif/y avoir anguille sous roche; y avoir quelque chose qui cloche/
 壽 寿 [shou4] {sau6} /longévité/
 壽仔 寿仔 [shou4 zi3] {sau6 zai2} /imbécile; idiot; clown/
-????f 壽包 寿包 [shou4 bao1] {sau6 baau1} /pain d'annversaire chinois (qui se mange seulement lors des banquets d'anniversaire des personnes âgées pour célébrer leur longévité)/
+壽包 寿包 [shou4 bao1] {sau6 baau1} /pain d'annversaire chinois (qui se mange seulement lors des banquets d'anniversaire des personnes âgées pour célébrer leur longévité)/
 ????c 壽幛 寿幛 [shou4 zhang4] {sau6 zoeng3} /cadeau d'anniversaire de soie/
-????f 壽星仔 寿星仔 [shou4 xing5 zi3] {sau6 sing1 zai2} /garçon dont c'est l'anniversaire; roi de la fête; héros de la fête/
-????f 壽星公 寿星公 [shou4 xing1 gong1] {sau6 sing1 gung1} /garçon dont c'est l'anniversaire; roi de la fête; héros de la fête (birthday boy)/dieu de la longévité/une personne très âgée/
-????f 壽星公吊頸 寿星公吊颈 [shou4 xing1 gong1 diao4 jing3] {sau6 sing1 gung1 diu3 geng2} /(expr. en suspens) faire quelque chose très risqué, qui met en danger sa vie/(lit.) dieu de longévité qui se pend (deuxième partie 嫌命長|嫌命长 « jugeant sa vie trop longue »)/
-????f 壽星女 寿星女 [shou4 xing5 nu:3] {sau6 sing1 neoi2} /fille dont c'est l'anniversaire; reine de la fête (birthday girl)/
+壽星仔 寿星仔 [shou4 xing5 zi3] {sau6 sing1 zai2} /garçon dont c'est l'anniversaire; roi de la fête; héros de la fête/
+壽星公 寿星公 [shou4 xing1 gong1] {sau6 sing1 gung1} /garçon dont c'est l'anniversaire; roi de la fête; héros de la fête/dieu de la longévité/une personne très âgée/
+壽星公吊頸 寿星公吊颈 [shou4 xing1 gong1 diao4 jing3] {sau6 sing1 gung1 diu3 geng2} /(expr. en suspens) faire quelque chose très risqué, qui met en danger sa vie/(lit.) dieu de longévité qui se pend (deuxième partie 嫌命長|嫌命长 « jugeant sa vie trop longue »)/
+壽星女 寿星女 [shou4 xing5 nu:3] {sau6 sing1 neoi2} /fille dont c'est l'anniversaire; reine de la fête/
 壽板 寿板 [shou4 ban3] {sau6 baan2} /cercueil/
 壽癦 寿癦 [shou4 mo4] {sau6 mak6} /tache de vieillesse; lentigo sénile/
 壽眉 寿眉 [shou4 mei2] {sau6 mei2} /thé Shoumei/
@@ -5356,10 +5356,10 @@
 壽頭 寿头 [shou4 tou2] {sau6 tau4} /idiot; crétin/
 壽頭壽腦 寿头寿脑 [shou4 tou2 shou4 nao3] {sau6 tau4 sau6 nou5} /personne naïve et crédule/
 夏令時間 夏令时间 [xia4 ling4 shi2 jian1] {haa6 ling6 si4 gaan3} /heure d'été; système consistant à ajuster l'heure locale officielle/
-????c 夏佳理 夏佳理 [xia4 jia1 li3] {haa6 gaai1 lei5} /Ronald Joseph Archulli, former chairman of Hong Kong Exchanges and Clearing, Non-official Members Convenor of the Executive Council of Hong Kong and a senior partner at King & Wood Mallesons/
+夏佳理 夏佳理 [xia4 jia1 li3] {haa6 gaai1 lei5} /Ronald Joseph Archulli, ex-président de Hong Kong Exchanges and Clearing Limited/
 夏枯草 夏枯草 [xia4 ku1 cao3] {haa6 fu1 cou2} /(espèce de plantes) Brunelle commune; Prunella vulgaris/
 夏灣拿 夏湾拿 [xia4 wan1 na2] {haa6 waan1 naa4} /La Havane, la capitale de Cuba/
-????f 夏爐冬扇 夏炉冬扇 [xia4 lu2 dong1 shan4] {haa6 lou4 dung1 sin3} /peine perdue, effort inutile causé par une mauvaise allocation de ressources/(lit.) cuisinière en été, éventail en hiver/
+夏爐冬扇 夏炉冬扇 [xia4 lu2 dong1 shan4] {haa6 lou4 dung1 sin3} /(expr. idiom.) peine perdue; effort inutile causé par une mauvaise allocation de ressources/(lit.) radiateur en été, éventail en hiver/
 夏禮輔循環 夏礼辅循环 [xia4 li3 fu3 xun2 huan2] {haa6 lai5 fu6 ceon4 waan4} /(biologie) cycle de Krebs/
 夏節 夏节 [xia4 jie2] {haa6 zit3} /Fête des bateaux-dragons/
 夏門 夏门 [xia4 men2] {haa6 mun4} /Xiamen, chinoise/
@@ -5372,39 +5372,39 @@
 外公 外公 [wai4gong1] {ngoi6 gung1} /grand-père maternel/
 外出 外出 [wai4 chu1] {ngoi6 ceot1} /sortir/dehors/
 外出血 外出血 [wai4 chu1 xue4] {ngoi6 ceot1 hyut3} /hémorragie externe/
-????c 外力作用 外力作用 [wai4 li4 zuo4 yong4] {ngoi6 lik6 zok3 jung6} /force externe/
-????c 外務員 外务员 [wai4 wu4 yuan2] {ngoi6 mou6 jyun4} /officier d'affaires externes/
+外力作用 外力作用 [wai4 li4 zuo4 yong4] {ngoi6 lik6 zok3 jung6} /force externe/
+????m 外務員 外务员 [wai4 wu4 yuan2] {ngoi6 mou6 jyun4} /officier d'affaires externes/
 外匯市場 外汇市场 [wai4 hui4 shi4 chang2] {ngoi6 wui6 si5 coeng4} /marché des changes; forex/
 外史 外史 [wai4 shi3] {ngoi6 si2} /histoire « non-officielle »/
-????c 外因 外因 [wai4 yin1] {ngoi6 jan1} /raison indépendante; cause externe/
+外因 外因 [wai4 yin1] {ngoi6 jan1} /raison indépendante; cause externe/
 外國遊客 外国游客 [wai4 guo2 you2 ke4] {ngoi6 gwok3 jau4 haak3} /touristes étrangers/
-????f 外圍 外围 [wai4 wei2] {ngoi6 wai4} /prise de paris illégale; bookmaking illégal/périphérie/
+外圍 外围 [wai4 wei2] {ngoi6 wai4} /prise de paris illégale; bookmaking illégal/périphérie/
 外地 外地 [wai4di4] {ngoi6 dei6} /outre-mer; région étrangère; autre partie du pays/
 外埠 外埠 [wai4 bu4] {ngoi6 fau6} /autres villes/
 外太公 外太公 [wai4 tai4 gong1] {ngoi6 taai3 gung1} /arrière-grand-père maternel/
 外太婆 外太婆 [wai4 tai4 po2] {ngoi6 taai3 po4} /arrière-grand-mère maternelle/
-????f 外姓 外姓 [wai4 xing4] {ngoi6 sing3} /nom de famille d'autrui/nom de famille de la mère/
-????f 外嫁女 外嫁女 [wai4 jia4 nü3] {ngoi6 gaa3 neoi2} /fille mariée/
-外子 外子 [wai4 zi3] {ngoi6 zi2} /(litt.) mon conjoint; mon mari; mon époux/
-????f 外孫 外孙 [wai4 sun1] {ngoi6 syun1} /petits-fils; enfant de sexe masculin de sa fille/
-????f 外家 外家 [wai4 jia1] {ngoi6 gaa1} /(fam.) belle-famille; famille de l'épouse/
+外姓 外姓 [wai4 xing4] {ngoi6 sing3} /nom de famille d'autrui/nom de famille de la mère/
+外嫁女 外嫁女 [wai4 jia4 nu:3] {ngoi6 gaa3 neoi2} /fille mariée/
+外子 外子 [wai4 zi3] {ngoi6 zi2} /(litt.) (poli) mon conjoint; mon mari; mon époux/
+外孫 外孙 [wai4 sun1] {ngoi6 syun1} /petits-fils; enfant de sexe masculin de sa fille/
+外家 外家 [wai4 jia1] {ngoi6 gaa1} /(fam.) belle-famille; famille de l'épouse/
 外寇 外寇 [wai4 kou4] {ngoi6 kau3} /envahisseur étranger/
 外島 外岛 [wai4 dao3] {ngoi6 dou2} /îles périphériques (de Hong Kong)/
 外底 外底 [wai4 di3] {ngoi6 dai2} /(vieilli) dehors/semelle extérieure/
 外掛 外挂 [wai4 gua4] {ngoi6 gwaa3} /qui se branche/externe/accroché dehors/
 外援 外援 [wai4 yuan2] {ngoi6 wun4} /aide étrangère/(sports) athlète étranger, athlète étrangère/
-????f 外族 外族 [wai4 zu2] {ngoi6 zuk6} /personne d'un autre clan/étranger/
-????f 外景 外景 [wai4 jing3] {ngoi6 ging2} /(cinéma) scène extérieure/
-????f 外母 外母 [wai4 mu3] {ngoi6 mou2} /belle-mère (appellation donnée à la mère de sa femme)/
+外族 外族 [wai4 zu2] {ngoi6 zuk6} /personne d'un autre clan/étranger/
+外景 外景 [wai4 jing3] {ngoi6 ging2} /(cinéma) scène extérieure; scène tourné sur place/
+外母 外母 [wai4 mu3] {ngoi6 mou2} /belle-mère (appellation donnée à la mère de sa femme)/
 外母乸 外母乸 [wai4 mu3 na2] {ngoi6 mou5 naa2} /belle-mère (appellation donnée à la mère de sa femme)/
-????f 外江佬 外江佬 [wai4 jiang1 lao3] {ngoi6 gong1 lou2} /(péj.) personne qui vient d'autre province/(péj.) personne qui vient à Hong Kong de la Chine continentale/
+外江佬 外江佬 [wai4 jiang1 lao3] {ngoi6 gong1 lou2} /(péj.) personne qui vient d'autre province/(péj.) personne originaire de la Chine continentale qui vient à Hong Kong/
 外洩 外泄 [wai4 xie4] {ngoi6 sit3} /fuite (d'information)/
 ????c 外漏 外漏 [wai4 lou4] {ngoi6 lau6} /fuite/
 外父 外父 [wai4 fu4] {ngoi6 fu2} /beau-père (appellation donnée au père de sa femme)/
-????f 外父咁外 外父咁外 [wai4 fu4 gan1 wai4] {ngoi6 fu2 gam2 ngoi6} /(expr. idiom.) être un obstacle; entraver; gêner/(lit.) être aussi « extérieur » qu'un beau-père (外父|外父 « père extérieur »)/
-????f 外甥女 外甥女 [wai4 sheng5 nu:3] {ngoi6 sang1 neoi2} /nièce; enfant de sexe féminin de sa sœur/
+外父咁外 外父咁外 [wai4 fu4 gan1 wai4] {ngoi6 fu2 gam2 ngoi6} /(expr. idiom.) être un obstacle; entraver; gêner/(lit.) être aussi « extérieur » qu'un beau-père (外父|外父 « père extérieur »)/
+外甥女 外甥女 [wai4 sheng5 nu:3] {ngoi6 sang1 neoi2} /nièce; enfant de sexe féminin de sa sœur/
 外省 外省 [wai4 sheng3] {ngoi6 saang2} /autres provinces/
-????f 外省人 外省人 [wai4 sheng3 ren2] {ngoi6 saang2 jan4} /personne qui vient d'une autre province/(péj.) qui vient à Hong Kong de la Chine continentale//
+外省人 外省人 [wai4 sheng3 ren2] {ngoi6 saang2 jan4} /personne qui vient d'une autre province/(péj.) personne originaire de la Chine continentale qui vient à Hong Kong/
 外籍人士 外籍人士 [wai4 ji2 ren2 shi4] {ngoi6 zik6 jan4 si6} /étranger; personne qui vient d'un autre pays/
 ????f 外線 外线 [wai4 xian4] {ngoi6 sin3} /(téléphonie) ligne extérieure/
 外觀 外观 [wai4 guan1] {ngoi6 gun1} /aspect extérieur/
@@ -5416,15 +5416,15 @@
 外陰部 外阴部 [wai4 yin1 bu4] {ngoi6 jam1 bou6} /vulve/
 外顯子 外显子 [wai4 xian3 zi5] {ngoi6 hin2 zi2} /(biologie) exon/
 夙怨 夙怨 [su4 yuan4] {suk1 jyun3} /anciennes rancunes; anciennes disputes/
-????f 多一事不如少一事 多一事不如少一事 [duo1 yi1 shi4 bu4 ru2 shao3 yi1 shi4] {do1 jat1 si6 bat1 jyu4 siu2 jat1 si6} /(expr. idiom.) ne fais pas de vagues! ne viens pas jouer les trouble-fête/(lit.) une chose de plus, pourquoi pas une chose de moins/
-????f 多一事長一智 多一事长一智 [duo1 yi1 shi4 zhang3 yi1 zhi4] {do1 jat1 si6 zoeng2 jat1 zi3} /(expr. idiom.) on apprend de ses erreurs/
+多一事不如少一事 多一事不如少一事 [duo1 yi1 shi4 bu4 ru2 shao3 yi1 shi4] {do1 jat1 si6 bat1 jyu4 siu2 jat1 si6} /(expr. idiom.) ne fais pas de vagues! ne viens pas jouer les trouble-fête!/(lit.) une chose de plus, pourquoi pas une chose de moins/
+多一事長一智 多一事长一智 [duo1 yi1 shi4 zhang3 yi1 zhi4] {do1 jat1 si6 zoeng2 jat1 zi3} /(expr. idiom.) on apprend de ses erreurs/(lit.) avec chaque problème on devient plus sage/
 多不勝數 多不胜数 [duo1 bu4 sheng4 shu3] {do1 bat1 sing1 sou3} /(expr. idiom.) beaucoup; nombreux/
 多事 多事 [duo1 shi4] {do1 si6} /fouineur; indiscret; qui s'occupe de ce qui ne le regarde pas/
 多些 多些 [duo1 xie1] {do1 se1} /un peu plus/
-????c 多位 多位 [duo1 wei4] {do1 wai2} /plus d'espace/plus de sièges/plusieurs personnes/à plusieurs chiffres/
-????f 多個香爐多隻鬼 多个多只鬼 [duo1 ge5 xiang1 lu2 duo1 zhi1 gui3] {do1 go3 hoeng1 lou4 do1 zek3 gwai2} /(expr. idiom.) plus il y a de personnes dans une entreprise, moins on peut réaliser les profits/(lit.) plus il y a de brûleurs d'encens, plus il y a d'esprits/
-????f 多口 多口 [duo1 kou3] {do1 hau2} /bavard; loquace; qui aime parler/interrompre (une conversation)/
-????f 多句嘴 多句嘴 [duo1 ju4 zui3] {do1 geoi3 zeoi2} /en dire plus; dire une phrase de plus/
+多位 多位 [duo1 wei4] {do1 wai2} /plus d'espace/plus de sièges/plusieurs personnes/à plusieurs chiffres/
+多個香爐多隻鬼 多个多只鬼 [duo1 ge5 xiang1 lu2 duo1 zhi1 gui3] {do1 go3 hoeng1 lou4 do1 zek3 gwai2} /(expr. idiom.) plus il y a de personnes dans une entreprise, moins on peut réaliser les profits/(lit.) plus il y a de brûleurs d'encens, plus il y a d'esprits/
+多口 多口 [duo1 kou3] {do1 hau2} /bavard; loquace; qui aime parler/interrompre (une conversation)/
+多句嘴 多句嘴 [duo1 ju4 zui3] {do1 geoi3 zeoi2} /en dire plus; dire une phrase de plus/
 多啦Ａ夢 多啦Ａ梦 [duo1 la5 A meng4] {do1 laa1 Ａ mung6} /Doraemon, dessin animé japonais/
 多啲 多啲 [duo1 di1] {do1 di1} /un peu plus/
 多士爐 多士炉 [duo1 shi4 lu2] {do1 si2 lou4} /grille-pain/(orig.) de l'anglais « toast » (« toast, pain grillé ») et 爐|炉 (« fourneau, four »)/
@@ -5435,44 +5435,44 @@
 多層次 多层次 [duo1 ceng2 ci4] {do1 cang4 ci3} /multiniveau/
 多年 多年 [duo1 nian2] {do1 nin4} /plusieurs années/
 多得 多得 [duo1 de2] {do1 dak1} /grâce à; à cause de/
-????f 多得你唔少 多得你唔少 [duo1 de2 ni3 wu2 shao3] {do1 dak1 nei5 m4 siu2} /merci quand même! merci beaucoup! (sarcastique, exprime de la colère ou frustration)/
-????f 多手 多手 [duo1 shou3] {do1 sau2} /(enfant) tripoteur; tactile; qui aime tout toucher/
+多得你唔少 多得你唔少 [duo1 de2 ni3 wu2 shao3] {do1 dak1 nei5 m4 siu2} /(sarcastique, exprime de la colère ou frustration) merci quand même! merci beaucoup!/
+多手 多手 [duo1 shou3] {do1 sau2} /(enfant) tripoteur; tactile; qui aime tout toucher/
 多數人 多数人 [duo1 shu4 ren2] {do1 sou3 jan4} /la plupart des gens/
 多春魚 多春鱼 [duo1 chun1 yu2] {do1 ceon1 jyu2} /(peut désigner plusieurs espèces de poisson) Spirinchus lanceolatus, Shishamo; Mallotus villosus, capelin; Spirinchus thaleichthys/
-????f 多渠道 多渠道 [duo1 qu2 dao4] {do1 keoi4 dou6} /(commerce) multi-channel distribution system/
-????c 多煩 多烦 [duo1 fan2] {do1 faan4} /importuner; déranger; donner du mal à/
+????f 多渠道 多渠道 [duo1 qu2 dao4] {do1 keoi4 dou6} /(commerce) réseau de distribution multicanal/
+多煩 多烦 [duo1 fan2] {do1 faan4} /(utilisé dans une requête) excusez-moi de vous déranger; excusez-moi de vous importuner/
 多的是 多的是 [duo1 di2 shi4] {do1 dik1 si6} /beaucoup; nombreux/
 多種經營 多种经营 [duo1 zhong3 jing1 ying2] {do1 zung2 ging1 jing4} /économie diversifiée/
 多籮籮 多箩箩 [duo1 luo2 luo2] {do1 lo4 lo4} /beaucoup; nombreux/
 多羅羅 多罗罗 [duo1 luo2 luo5] {do1 lo4 lo4} /beaucoup; nombreux/
-????f 多舊魚 多旧鱼 [duo1 jiu4 yu2] {do1 gau6 jyu2} /(vulg.) conneries; paroles stupides qui ne veulent rien dire/
+多舊魚 多旧鱼 [duo1 jiu4 yu2] {do1 gau6 jyu2} /(vulg.) conneries; paroles stupides qui ne veulent rien dire/(lit.) un morceau de poisson de plus/
 多色 多色 [duo1 se4] {do1 sik1} /multicolore/
 多蒙特 多蒙特 [duo1 meng2 te4] {do1 mung4 dak6} /Dortmund, club de football allemand/
 多計 多计 [duo1 ji4] {do1 gai2} /plusieurs idées; plusieurs stratégies (voir aussi 矮仔多計|矮仔多计)/
-????f 多謝夾盛惠 多谢夹盛惠 [duo1 xie4 jia1 sheng4 hui4] {do1 ze6 gaap3 sing6 wai6} /(impoli) non merci, je ne suis pas intéressé/
-????f 多財善賈 多财善贾 [duo1 cai2 shan4 gu3] {do1 coi4 sin6 gu2} /(expr. idiom.) les choses deviennent plus faciles quand on a tout ce dont on a besoin/(lit.) il est plus facile de faire du commerce quand l'on a plus d'argent/
-????f 多除少補 多除少补 [duo1 chu2 shao3 bu3] {do1 ceoi4 siu2 bou2} /(expr.) tout excédent sera remboursé mais tout déficit devra être payé/
-?????f 多隻香爐多隻鬼 多只香炉多只鬼 [duo1 zhi1 xiang1 lu2 duo1 zhi1 gui3] {do1 zek3 hoeng1 lou4 do1 zek3 gwai2} plus il y a de personnes dans une entreprise, moins on peut réaliser les profits/(lit.) plus il y a de brûleurs d'encens, plus il y a d'esprits/
+多謝夾盛惠 多谢夹盛惠 [duo1 xie4 jia1 sheng4 hui4] {do1 ze6 gaap3 sing6 wai6} /(impoli) non merci, je ne suis pas intéressé/
+多財善賈 多财善贾 [duo1 cai2 shan4 gu3] {do1 coi4 sin6 gu2} /(expr. idiom.) les choses deviennent plus faciles quand on a tout ce dont on a besoin/(lit.) il est plus facile de faire du commerce quand l'on a plus d'argent/
+????f 多除少補 多除少补 [duo1 chu2 shao3 bu3] {do1 ceoi4 siu2 bou2} /(expr.) tout excédent sera remboursé mais tout déficit devra être payé (surtout utilisé quand on demande à quelqu'un de participer financièrement à un projet, etc.)/
+多隻香爐多隻鬼 多只香炉多只鬼 [duo1 zhi1 xiang1 lu2 duo1 zhi1 gui3] {do1 zek3 hoeng1 lou4 do1 zek3 gwai2} plus il y a de personnes dans une entreprise, moins on peut réaliser les profits/(lit.) plus il y a de brûleurs d'encens, plus il y a d'esprits/
 多麼 多么 [duo1 me5] {do1 mo1} /tellement; tant; si/
-????f 夜 夜 [ye4] {je6} /nuit; soir/tard dans la nuit/poste de nuit/
+夜 夜 [ye4] {je6} /nuit; soir/tard dans la nuit/poste de nuit; quart de nuit (voir aussi 夜更|夜更)/
 夜來 夜来 [ye4 lai2] {je6 loi4} /dans la nuit/
 夜來香 夜来香 [ye4 lai2 xiang1] {je6 loi4 hoeng1} /(fig.) excrément humain; matières fécales/(lit.) parfum du soir/
-????f 夜光表 夜光表 [ye4 guang1 biao3] {je6 gwong1 biu1} /montre phosphorescente (glow-in-the-dark watch)/
+????f 夜光表 夜光表 [ye4 guang1 biao3] {je6 gwong1 biu1} /montre phosphorescente/
 夜冷 夜冷 [ye4 leng3] {je6 laang1} /biens d'occasion/
 夜冷貨 夜冷货 [ye4 leng3 huo4] {je6 laang1 fo3} /biens d'occasion/
 夜學 夜学 [ye4 xue2] {je6 hok6} /école du soir/
 夜工 夜工 [ye4 gong1] {je6 gung1} /travail de nuit/
-????c 夜戰 夜战 [ye4 zhan4] {je6 zin3} /travailler très tard dans la nuit/sortir la nuit; aller en boîte la nuit/
+????m 夜戰 夜战 [ye4 zhan4] {je6 zin3} /travailler très tard dans la nuit/sortir la nuit; aller en boîte la nuit/
 夜明珠 夜明珠 [ye4 ming2 zhu1] {je6 ming4 zyu1} /perle luminescente/
 夜晚黑 夜晚黑 [ye4 wan3 hei1] {je6 maan5 haak1} /la nuit/
 夜晚流流長 夜晚流流长 [ye4 wan3 liu2 liu2 chang2] {je6 maan5 lau4 lau4 coeng} /très longue nuit/
 夜更 夜更 [ye4 geng1] {je6 gaang1} /poste de nuit; quart de nuit (voir aussi 早更|早更 et 中更|中更)/
 夜盜蟲 夜盗虫 [ye4 dao4 chong2] {je6 dou6 cung4} /(espèce d'insectes) Spodoptera litura; Noctuelle rayée/
 夜盲 夜盲 [ye4 mang2] {je6 maang4} /cécité nocturne; héméralopie/
-????f 夜裏 夜里 [ye4 li3] {je6 lei5} /dans la nuit; pendant la nuit/
+夜裏 夜里 [ye4 li3] {je6 leoi5} /dans la nuit; pendant la nuit/
 夜車 夜车 [ye4 che1] {je6 ce1} /train de nuit/bus de nuit/
 夜遊神 夜游神 [ye4 you2 shen2] {je6 jau4 san4} /(fig.) couche-tard; noctambule/
-????f 夜長夢多 夜长梦多 [ye4 chang2 meng4 duo1] {je6 coeng4 mung6 do1} /(expr. idiom.) les délais engendrent des problèmes/(lit.) plus la nuit est longue, plus on rêvera/
+夜長夢多 夜长梦多 [ye4 chang2 meng4 duo1] {je6 coeng4 mung6 do1} /(expr. idiom.) les retards engendrent des problèmes/(lit.) plus la nuit est longue, plus on rêvera/
 夜香 夜香 [ye4 xiang1] {je6 hoeng1} /(fig.) excrément humain; matières fécales/(lit.) parfum de la nuit/
 夜鬼 夜鬼 [ye4 gui3] {je6 gwai2} /(fig.) couche-tard; nocatambule/(lit.) fantôme de la nuit/
 夜麻麻 夜麻麻 [ye4 ma2 ma2] {je6 maa1 maa1} /très tard dans la nuit/
@@ -5489,7 +5489,7 @@
 夠算 够算 [gou4 suan4] {gau3 syun3} /satisfaire; être assez/
 夠腳 够脚 [gou4 jiao3] {gau3 goek3} /(fig.) assez de joueurs; assez de gens pour commencer un jeu/(lit.) assez de pieds/
 夠膽 够胆 [gou4 dan3] {gau3 daam2} /avoir le courage (de faire quelque chose); avoir le cran (de faire quelque chose)/
-????f 夠膽死 够胆死 [gou4 dan3 si3] {gau3 daam2 sei2} /(fig.) avoir le culot (de faire quelque chose); être osé ou audacieux d'une manière un peu irréfléchie/(lit.) être prêt à mourir/
+夠膽死 够胆死 [gou4 dan3 si3] {gau3 daam2 sei2} /(fig.) avoir le culot (de faire quelque chose); être osé ou audacieux d'une manière irréfléchie/(lit.) être prêt à mourir/
 夠薑 够姜 [gou4 jiang1] {gau3 goeng1} /(fig.) avoir le courage (de faire quelque chose); avoir le cran (de faire quelque chose)/(lit.) avoir assez de gingembre/
 夠運 够运 [gou4 yun4] {gau3 wan6} /avoir de la chance/
 夠鐘 够钟 [gou4 zhong1] {gau3 zung1} /le temps est écoulé! c'est fini! c'est terminé!/
