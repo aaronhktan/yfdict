@@ -2182,7 +2182,7 @@
 入貨 入货 [ru4 huo4] {jap6 fo3} /réapprovisionner; regarnir (des produits dans un magasin)/
 入錢 入钱 [ru4 qian2] {jap6 cin4} /faire un dépôt d'argent/
 入閘 入闸 [ru4 zha2] {jap6 zaap6} /passer par un portillon de contrôle de billet/(des chevaux) arriver aux portillons de départ/
-????f 入闈 入闱 [ru4 wei2] {jap6 wai4} /(examens impériaux) entrer dans la salle d'examen/(championnat, tournoi) poursuivre le tournoi; se qualifier pour le match suivant/
+入闈 入闱 [ru4 wei2] {jap6 wai4} /(examens impériaux) entrer dans la salle d'examen/(championnat, tournoi) passer au prochain tour; se qualifier pour le match suivant/
 入電油 入电油 [ru4 dian4 you2] {jap6 din6 jau2} /ravitailler (en carburant)/
 入面 入面 [ru4 mian4] {jap6 min6} /à l'intérieur/
 入魔 入魔 [ru4 mo2] {jap6 mo1} /(fig.) être ensorcelé; être obsédé; être captivé/(lit.) avoir des démons qui entrent/
@@ -4623,7 +4623,7 @@
 嗰牌 嗰牌 [g5? pai2] {go2 paai2} /à cette époque/
 嗰牌 嗰牌 [g5? pai2] {go2 paai4} /à cette époque/
 嗰處 嗰处 [g5? chu3] {go2 syu3} /là-bas/
-嗰陣 嗰阵 [g5? zhen4] {go2 zan6} /ce temps-là/à cette époque/
+嗰陣 嗰阵 [g5? zhen4] {go2 zan6} /ce temps-là; ce moment-là; sur le coup/à cette époque/
 嗰陣時 嗰阵时 [g5? zhen4 shi2] {go2 zan6 si4} /à cette époque/
 嗰隻衰嘢 嗰只衰嘢 [g5? zhi1 shuai1 ye3] {go2 zek3 seoi1 je5} /(péj.) cette mauvaise chose-là (se dit habituellement des personnes ou des animaux); ce cas-là; cette personne-là, qui cause des problèmes/
 嗰頭近 嗰头近 [g5? tou2 jin4] {go2 tau4 kan5} /près de la mort; avoir un pied dans la tombe/
@@ -14461,7 +14461,7 @@
 的確涼 的确涼 [di2 que4 liang2] {dik1 kok3 loeng4} /Dacron, textile synthétique/
 的而且確 的而且确 [de5 er2 qie3 que4] {dik1 ji4 ce2 kok3} /en effet; effectivement/
 的色 的色 [de5 se4] {dik1 sik1} /minuscule; petit/
-的起心肝 的起心肝 [de5 qi3 xin1 gan1] {dik1 hei2 sam1 gon1} /(expr. idiom.) consacrer beaucoup d'efforts à faire quelque chose/(lit.) soulever cœur et foie/
+的起心肝 的起心肝 [de5 qi3 xin1 gan1] {dik1 hei2 sam1 gon1} /(expr. idiom.) faire de gros efforts pour faire quelque chose/(lit.) soulever cœur et foie/
 的骰 的骰 [de5 tou2] {dik1 sik1} /minuscule; petit/
 皆知 皆知 [jie1 zhi1] {gaai1 zi1} /tout le monde sait; comme chacun le sait/
 皇 皇 [huang2] {wong4} /roi; empereur/
@@ -15014,7 +15014,7 @@
 硝化 硝化 [xiao1 hua4] {siu1 faa3} /nitration/
 硬 硬 [ying4] {ngaang6} /dur; solide; ferme/inflexible; têtu; obstiné/inévitable; inéluctable; certain/
 硬件 硬件 [ying4 jian4] {ngaang6 gin2} /matériel informatique; hardware/infrastructure/
-????f 硬係 硬系 [ying4 xi4] {ngaang2 hai6} /faire quelque chose en dépit de l'opposition de quelqu'un d'autre; s'obstiner à faire quelque chose ou la faire d'une manière déconseillée/n'avoir aucune autre choix que de faire quelque chose d'une certaine manière/
+????f 硬係 硬系 [ying4 xi4] {ngaang2 hai6} /faire quelque chose en dépit de l'opposition de quelqu'un d'autre; s'obstiner à faire quelque chose ou la faire d'une manière déconseillée/n'avoir aucun autre choix que de faire quelque chose d'une certaine manière/
 硬倔倔 硬倔倔 [ying4 jue4 jue4] {ngaang6 gwat6 gwat6} /très dur; très ferme; très solide/
 硬健 硬健 [ying4 jian4] {ngaang6 gin6} /en pleine forme/
 硬功夫 硬功夫 [ying4 gong1 fu5] {ngaang6 gung1 fu1} /grande expertise; maîtrise/
