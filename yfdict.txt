@@ -6005,12 +6005,12 @@
 夾 夹 [jia1] {gep2} /épingle/tenir entre deux choses; serrer; coincer/
 夾 夹 [jia1] {gip6} /épingle/tenir entre deux choses; serrer; coincer/
 夾份 夹份 [jia1 fen4] {gaap3 fan2} /mettre de l'argent en commun; faire pot commun/
-????f 夾口供 夹口供 [jia1 kou3 gong4] {gaap3 hau2 gung1} /collaborer pour raconter la même histoire à la police/
+夾口供 夹口供 [jia1 kou3 gong4] {gaap3 hau2 gung1} /(fig.) collaborer pour raconter la même histoire à la police/
 夾埋 夹埋 [jia1 mai2] {gaap3 maai4} /avec/ensemble/
-????f 夾屋 夹屋 [jia1 wu1] {gaap3 uk1} /« Sandwich Class Housing Scheme », programme de logement visant à faciliter l'accession à la propriété de la classe classe moyenne hongkongaise/
-????f 夾心人 夹心人 [jia1 xin1 ren2] {gaap3 sam1 jan4} /(fig.) personne entre le marteau et l'enclume; personne qui se trouve entre deux partis qui ont des intérêts contraires/(lit.) personne-sandwich/
+夾屋 夹屋 [jia1 wu1] {gaap3 uk1} /« Sandwich Class Housing Scheme », programme de logement visant à faciliter l'accession à la propriété de la classe classe moyenne hongkongaise/
+夾心人 夹心人 [jia1 xin1 ren2] {gaap3 sam1 jan4} /(fig.) personne entre le marteau et l'enclume; personne qui se trouve entre deux partis qui ont des intérêts contraires/(lit.) personne-sandwich/
 夾心階層 夹心阶层 [jia1 xin1 jie1 ceng2] {gaap3 sam1 gaai1 cang4} /« classe sandwich », la class moyenne de Hong Kong/
-????f 夾心餅 夹心饼 [jia1 xin1 bing3] {gaap3 sam1 beng2} /biscuit fourré; biscuit sandwich; sandwich-cookie/(fig.) être entre le marteau et l'enclume; se trouver entre deux partis qui ont des intérêts contraires/
+夾心餅 夹心饼 [jia1 xin1 bing3] {gaap3 sam1 beng2} /biscuit fourré; biscuit sandwich; sandwich-cookie/(fig.) être entre le marteau et l'enclume; se trouver entre deux partis qui ont des intérêts contraires/
 夾手夾腳 夹手夹脚 [jia1 shou3 jia1 jiao3] {gaap3 sau2 gaap3 goek3} /(expr. idiom.) collaborer; travailler ensemble/(lit.) mettre les mains et pieds ensemble/
 夾硬 夹硬 [jia1 ying4] {gaap3 ngaang2} /par la force; de force/
 夾萬 夹万 [jia1 wan4] {gaap3 maan6} /coffre-fort/
@@ -6030,47 +6030,47 @@
 奀雌雌 奀雌雌 [di2 ci2 ci2] {ngan1 ci1 ci1} /maigre; faible; chétif/
 奄奄 奄奄 [yan3 yan3] {jim1 jim1} /être à son dernier souffle; être proche de la mort/(fig.) en déclin; en baisse/
 奄尖 奄尖 [yan3 jian1] {jim2 zim1} /difficile; tatillon; dur à satisfaire/
-????c 奄悶 奄闷 [yan3 men4] {jim2 mun6} /ennuyant/déprimé/sans énergie; découragé/
+????m 奄悶 奄闷 [yan3 men4] {jim2 mun6} /ennuyant/déprimé/sans énergie; découragé/
 奅 奅 [pao4] {paau3} /(arch.) grand mais vide/mentir/se vanter; fanfaronner/
 奇 奇 [qi2] {kei4} /inattendu; imprévu/imprévisible/
 奇偉果 奇伟果 [qi2 wei3 guo3] {kei4 wai5 gwo2} /(fruit) kiwi/
 奇妙 奇妙 [qi2 miao4] {kei4 miu6} /merveilleux; magnifique; magique/
 奇摩 奇摩 [qi2 mo2] {kei4 mo1} /Yahoo!, société de services web/
-????c 奇緣 奇缘 [qi2 yuan2] {kei4 jyun4} /destin étrange/rencontre fortuite/
+????m 奇緣 奇缘 [qi2 yuan2] {kei4 jyun4} /destin étrange/rencontre fortuite/
 奇蹟 奇迹 [qi2 ji4] {kei4 zik1} /miracle; merveille/
 奇離 奇离 [qi2 li2] {ke4 le4} /(comportement) excentrique; bizarre; farfelu/mal habillé/impoli; grossier/
-????c 奈佢唔何 奈渠唔何 [nai4 qu2 wu2 he2] {noi6 keoi5 m4 ho4} /(personne, fauteur de troubles) de qui l'on ne peut pas s'occuper; que l'on ne peut pas supporter; de qui l'on n'arrive pas a s'en charger/(personne, fauteur de troubles) qu'on ne peut plus discipliner; que l'on ne peut pas arrêter; que l'on ne peut pas punir/
+奈佢唔何 奈渠唔何 [nai4 qu2 wu2 he2] {noi6 keoi5 m4 ho4} /(expr.) (personne, fauteur de troubles) qu'on ne peut plus discipliner; que l'on ne peut pas arrêter; que l'on ne peut pas punir/
 奈何 奈何 [nai4 he2] {noi6 ho4} /quel dommage; on ne peut rien y faire/
-????f 奉天承運 奉天承运 [feng4 tian1 cheng2 yun4] {fung6 tin1 sing4 wan6} /(expr. idiom.) par grâce de Dieu; par le mandat du Ciel/
-????f 奉旨 奉旨 [feng4 zhi3] {fung6 zi2} /assurément; certainement; absolument; forcément/en vertu d'un décret impérial/
-????f 奉旨成婚 奉旨成婚 [feng4 zhi3 cheng2 hun1] {fung6 zi2 sing4 fan1} /(shotgun marriage; marriage due to a woman getting pregnant)/
+????c 奉天承運 奉天承运 [feng4 tian1 cheng2 yun4] {fung6 tin1 sing4 wan6} /(expr. idiom.) par grâce de Dieu; par le mandat du Ciel/
+奉旨 奉旨 [feng4 zhi3] {fung6 zi2} /assurément; certainement; absolument; forcément (se dit en particulier d'une mauvaise habitude)/en vertu d'un décret impérial/
+????f 奉旨成婚 奉旨成婚 [feng4 zhi3 cheng2 hun1] {fung6 zi2 sing4 fan1} /(expr. idiom.) mariage précipité (à cause de la grossesse de la mariée)/(lit.) mariage décrété par l'empereur/
 奉獻 奉献 [feng4 xian4] {fung6 hin3} /donner; offrir en sacrifice/se consacrer à; se dévouer à/
-????c 奏捷 奏捷 [zou4 jie2] {zau3 zit6} /revenir victorieux/
+????m 奏捷 奏捷 [zou4 jie2] {zau3 zit6} /revenir victorieux/
 奏章 奏章 [zou4 zhang1] {zau3 zoeng1} /rapport à l'empereur/
-????f 契 契 [qi4] {kai3} /contrat/devenir parrain, devenir marraine; prêter serment et « adopter » l'enfant d'autrui/devenir filleul, devenir filleule; être « adopté » par autrui/jurer un serment de fidélité (à quelqu'un)/
+契 契 [qi4] {kai3} /contrat/devenir parrain, devenir marraine; prêter serment et « adopter » l'enfant d'autrui/devenir filleul, devenir filleule; être « adopté » par autrui/jurer un serment de fidélité (à quelqu'un)/
 契乸 契乸 [qi4 na2] {kai3 naa2} /marraine/
 契仔 契仔 [qi4 zi3] {kai3 zai2} /filleul/
-????f 契哥 契哥 [qi4 ge1] {kai3 go1} /frère de sang; homme ou garçon plus âgé que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
+契哥 契哥 [qi4 ge1] {kai3 go1} /frère de sang; homme ou garçon plus âgé que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
 契女 契女 [qi4 nu:3] {kai3 neoi5} /filleule/
-????f 契妹 契妹 [qi4 mei4] {kai3 mui6} /sœur de sang; femme ou fille plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
-????f 契姐 契姐 [qi4 jie3] {kai3 ze1} /sœur de sang; femme ou fille plus âgée que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
+契妹 契妹 [qi4 mei4] {kai3 mui6} /sœur de sang; femme ou fille plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
+契姐 契姐 [qi4 jie3] {kai3 ze1} /sœur de sang; femme ou fille plus âgée que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
 契家佬 契家佬 [qi4 jia1 lao3] {kai3 gaa1 lou2} /(péj.) amant d'une femme mariée/
 契家婆 契家婆 [qi4 jia1 po2] {kai3 gaa1 po4} /(péj.) amante d'un homme marié; maîtresse/
-????f 契弟 契弟 [qi4 di4] {kai3 dai6} /frère de sang; homme ou garçon plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/idiot; connard; salaud; crapule/gigolo; prostitué/(péj.) homme plus jeune d'un couple homosexuel/
+契弟 契弟 [qi4 di4] {kai3 dai6} /frère de sang; homme ou garçon plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/idiot; connard; salaud; crapule/gigolo; prostitué/(péj.) homme plus jeune d'un couple homosexuel/
 契爺 契爷 [qi4 ye2] {kai3 je4} /parrain/(fig.) papa gâteau/
 契約 契约 [qi4 yue1] {kai3 joek3} /contrat/
-????f 契細佬 契细佬 [qi4 xi4 lao3] {kai3 sai3 lou2} /frère de sang; homme ou garçon plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
+契細佬 契细佬 [qi4 xi4 lao3] {kai3 sai3 lou2} /frère de sang; homme ou garçon plus jeune que le locuteur ou la locutrice à qui il ou elle a juré serment de fidélité/
 契闊 契阔 [qie4 kuo4] {kit3 fut3} /être séparé/
-????f 奓腳 奓脚 [chi3 jiao3] {zaa3 goek3} /jambes écartés/étroit en haut, large en bas/
+????c 奓腳 奓脚 [chi3 jiao3] {zaa3 goek3} /jambes écartés/étroit en haut, large en bas/
 奓鼻 奓鼻 [chi3 bi2] {zaa3 bei6} /grandes narines/
-????f 奕奕 奕奕 [yi4 yi4] {jik6 jik6} /être énergique; rayonner de vitalité/
+奕奕 奕奕 [yi4 yi4] {jik6 jik6} /être énergique; rayonner de vitalité/
 套戥 套戥 [tao4 deng3] {tou3 dang6} /(opération financière) arbitrage/
 套現 套现 [tao4 xian4] {tou3 jin6} /liquider; réaliser en argent liquide/
-????f 套票 套票 [tao4 piao4] {tou3 piu3} /billets de saison; abonnement/voyage à forfait; ensemble de services (transport, hébergement, visites, etc.) proposé à prix fixe/
+套票 套票 [tao4 piao4] {tou3 piu3} /billets de saison; abonnement/voyage à forfait; ensemble de services (transport, hébergement, visites, etc.) proposé à prix fixe/
 奪取 夺取 [duo2 qu3] {dyut6 ceoi2} /prendre; saisir; arracher (le pouvoir, le contrôle, etc.)/
 奪目 夺目 [duo2 mu4] {dyut6 muk6} /qui attire la vue; qui attire le regard/
 奪眶而出 夺眶而出 [duo2 kuang4 er2 chu1] {dyut6 hong1 ji4 ceot1} /(expr. idiom.) fondre en larmes/
-????f 奮勇當先 奋勇当先 [fen4 yong3 dang1 xian1] {fan5 jung5 dong1 sin1} /(expr.) être parmi les premiers à attaquer; être courageux et se battre à l'avant-garde/
+奮勇當先 奋勇当先 [fen4 yong3 dang1 xian1] {fan5 jung5 dong1 sin1} /(expr.) être parmi les premiers à attaquer; être courageux et se battre à l'avant-garde/
 奮勉 奋勉 [fen4 mian3] {fan5 min5} /(litt.) faire un effort résolu/
 奮鬥 奋斗 [fen4 dou4] {fan5 dau3} /lutter; se battre/
 女中豪傑 女中豪杰 [nu:3 zhong1 hao2 jie2] {neoi5 zung1 hou4 git6} /héroïne/femme exceptionnelle; femme accomplie; femme éminente/
@@ -6079,30 +6079,30 @@
 女人 女人 [nu:3 ren5] {neoi5 jan2} /femme/
 女人味 女人味 [nu:3 ren2 wei4] {neoi5 jan2 mei6} /féminité; charme féminin/
 女人形 女人形 [nu:3 ren2 xing2] {neoi5 jan2 jing4} /hommes qui s'habillent ou se comportent de manière féminine; homme efféminé/
-????f 女人街 女人街 [nu:3 ren5 jie1] {neoi5 jan2 gaai1} /rue Tung Choi, rue à Hong Kong, couramment appelé la « rue des femmes », « marché des femmes »/
+女人街 女人街 [nu:3 ren5 jie1] {neoi5 jan2 gaai1} /rue Tung Choi, rue à Hong Kong, couramment appelé la « rue des femmes », « marché des femmes »/
 女仔 女仔 [nu:3 zai3] {neoi5 zai2} /fille, jeune femme/
-????f 女仔之家 女仔之家 [nu:3 zai3 zhi1 jia1] {neoi5 zai2 zi1 gaa1} /(au début d'une phrase) en tant que fille.../
+女仔之家 女仔之家 [nu:3 zai3 zhi1 jia1] {neoi5 zai2 zi1 gaa1} /(expr.) (au début d'une phrase) en tant que fille.../
 女低音 女低音 [nu:3 di1 yin1] {neoi5 dai1 jam1} /alto (catégorie vocale)/
 女包 女包 [nu:3 bao1] {neoi2 baau1} /(péj.) petite fille/
-????f 女女 女女 [nu:3 nu:3] {neoi4 neoi2} /fille (dans le sens d'un enfant des parents)/blonde; petite amie; copine/lesbienne/(forme d'addresse à une prostituée, utilisée par les maquereaux)/
+女女 女女 [nu:3 nu:3] {neoi4 neoi2} /fille (dans le sens d'un enfant des parents)/blonde; petite amie; copine/lesbienne/(forme d'addresse à une prostituée, utilisée par les maquereaux)/
 女學生 女学生 [nu:3 xue2 sheng5] {neoi5 hok6 saang1} /étudiantes; écolières; élèves/
 女廁所 女厕所 [nu:3 ce4 suo3] {neoi5 ci3 so2} /toilettes des femmes/
 女性 女性 [nu:3 xing4] {neoi5 sing3} /femme/sexe féminin/
 女權運動 女权运动 [nu:3 quan2 yun4 dong4] {neoi5 kyun4 wan6 dung6} /féminisme/
 女演員 女演员 [nu:3 yan3 yuan2] {neoi5 jin2 jyun4} /(cinéma) actrice; comédienne/
-????f 女為悅己者容 女为悦己者容 [nu:3 wei4 yue4 ji3 zhe3 rong2] {neoi5 wai6 jyut6 gei2 ze2 jung4} /femme qui s'habille bien pour un homme qu'elle veut impressionner/
+女為悅己者容 女为悦己者容 [nu:3 wei4 yue4 ji3 zhe3 rong2] {neoi5 wai6 jyut6 gei2 ze2 jung4} /(expr.) femme qui s'habille bien pour un homme qu'elle veut impressionner/
 ????c 女王老五 女王老五 [nu:3 wang2 lao3 wu3] {neoi5 wong4 lou5 ng5} /femme célibataire et riche (d'un certain âge)/
 女生 女生 [nu:3 sheng1] {neoi5 sang1} /femme/
-????f 女生宿舍 女生宿舍 [nu:3 sheng1 su4 she4] {neoi5 saang1 suk1 se3} /dortoirs des femmes; dortoirs des filles/
+女生宿舍 女生宿舍 [nu:3 sheng1 su4 she4] {neoi5 saang1 suk1 se3} /dortoirs des femmes; dortoirs des filles/
 女界 女界 [nu:3 jie4] {neoi5 gaai3} /monde des femmes/toilettes des femmes/
-????f 女童院 女童院 [nu:3 tong2 yuan4] {neoi5 tung4 jyun2} /(girls' home, reform center for girls)/
-????f 奴化 奴化 [nu2 hua4] {nou4 faa3} /réduire quelqu'un à l'esclavage, asservir/
+女童院 女童院 [nu:3 tong2 yuan4] {neoi5 tung4 jyun2} /établissement pénitentiaire pour filles/
+奴化 奴化 [nu2 hua4] {nou4 faa3} /réduire quelqu'un à l'esclavage, asservir/
 奶嘢 奶嘢 [nai3 ye3] {naai5 je5} /avoir des ennuis; s'attirer des ennuis/
-????f 奶奶 奶奶 [nai3 nai5] {naai4 naai2} /belle-mère/grand-mère paternel/(forme d'addresse à une vieille femme)/
+奶奶 奶奶 [nai3 nai5] {naai4 naai2} /belle-mère/grand-mère paternel/(forme d'addresse à une vieille femme)/
 奶樽 奶樽 [nai3 zun1] {naai5 zeon1} /biberon/
 奶粉 奶粉 [nai3 fen3] {naai5 fan2} /lait en poudre/lait maternisé/
 奶糖 奶糖 [nai3 tang2] {naai5 tong2} /toffee/
-????f 奶膽 奶胆 [nai3 dan3] {naai5 daam2} /ampoule dépolie/
+奶膽 奶胆 [nai3 dan3] {naai5 daam2} /ampoule dépolie/
 奸仔 奸仔 [jian1 zi3] {gaan1 zai2} /malfaiteur/
 奸角 奸角 [jian1 jiao3] {gaan1 gok3} /(cinéma, théâtre) méchant/
 奸貓 奸猫 [jian1 mao1] {gaan1 maau1} /être malhonnête; tricher/
@@ -6113,26 +6113,26 @@
 她的 她的 [ta1 de5] {taa1 dik1} /son, sa (quand l'objet appartient à une femme) (utlisé à l'écrit - à l'oral on dirait plutôt 佢嘅|佢嘅)/
 好Ｙｅａｈ 好Ｙｅａｈ [hao3 Y5 e5 a5 h5] {hou2 Y5 e5 a5 h5} /très cool, intéressant/
 好主意 好主意 [hao3 zhu3 yi5] {hou2 zyu2 ji3} /bonne idée/
-????f 好事不出門，壞事傳千里 好事不出门，坏事传千里 [hao3 shi4 bu4 chu1 men2 , huai4 shi4 chuan2 qian1 li3] {hou2 si6 bat1 ceot1 mun4 waai6 si6 cyun4 cin1 lei5} /(expr. idiom.) les bonnes nouvelles ne se répandent pas, mais les mauvaises nouvelles circulent vite/(lit.) les bons actes ne sortent pas, mais les mauvais actes voyagent mille li/
+好事不出門，壞事傳千里 好事不出门，坏事传千里 [hao3 shi4 bu4 chu1 men2 , huai4 shi4 chuan2 qian1 li3] {hou2 si6 bat1 ceot1 mun4 waai6 si6 cyun4 cin1 lei5} /(expr. idiom.) les bonnes nouvelles ne se répandent pas, mais les mauvaises nouvelles circulent vite/(lit.) les bons actes ne sortent pas, mais les mauvais actes voyagent mille li/
 好人 好人 [hao3 ren2] {hou2 jan4} /bonne personne/
 好人事 好人事 [hao3 ren2 shi4] {hou2 jan4 si2} /aimable; avenant; sympa/
-????f 好人好姐 好人好姐 [hao3 ren2 hao3 jie3] {hou2 jan4 hou2 ze2} /personne normale; personne qui a une bonne réputation/(personne) qui va bien; qui n'est pas blessé; qui est en état normal/
+好人好姐 好人好姐 [hao3 ren2 hao3 jie3] {hou2 jan4 hou2 ze2} /personne normale; personne qui a une bonne réputation/(personne) qui va bien; qui n'est pas blessé; qui est en état normal/
 ????c 好人難做 好人难做 [hao3 ren2 nan2 zuo4] {hou2 jan4 naan4 zou6} /il est difficile d'être une bonne personne/même avec les bonnes intentions, les bonnes personnes feront du mal/l'enfer est pavé de bonnes intentions/
-????f 好仔 好仔 [hao3 zi3] {hou2 zai2} /homme bien/
-????f 好仔唔當差 好仔唔当差 [hao3 zi3 wu2 dang1 cha1] {hou2 zai2 m4 dong1 caai1} /une bonne personne ne serait pas policier/(orig.) à cause de la corruption dans les forces policières de Hong Kong, un parent ne voudrait pas que son fils devienne policier/
+好仔 好仔 [hao3 zi3] {hou2 zai2} /homme bien/
+好仔唔當差 好仔唔当差 [hao3 zi3 wu2 dang1 cha1] {hou2 zai2 m4 dong1 caai1} /(expr.) une bonne personne ne serait pas policier/(orig.) à cause de la corruption dans les forces policières de Hong Kong, un parent ne voudrait pas que son fils devienne policier/
 好似 好似 [hao3 si4] {hou2 ci5} /similaire; semblant/ressembler à; s'apparenter à/(exprime de la doute) peut-être/
 好似…噉 好似…噉 [hao3 si4 … dan4] {hou2 ci5 … gam2} /avoir l'air de; ressembler à/
 好似係 好似系 [hao3 si4 xi4] {hou2 ci5 hai6} /il semble que (quelque chose) est.../
-????f 好佬怕爛佬 好佬怕烂佬 [hao3 lao3 pa4 lan4 lao3] {hou2 lou2 paa3 laan6 lou2} /(expr. idiom.) les bonnes personnes ne se disputent pas avec les personnes déraisonnables/(lit.) les bonnes personnes ont peur des méchants/
-????f 好佬怕爛佬，爛佬怕潑婦 好佬怕烂佬，烂佬怕泼妇 [hao3 lao3 pa4 lan4 lao3，lan4 lao3 pa4 po1 fu4] {hou2 lou2 paa3 laan6 lou2，laan6 lou2 paa3 put3 fu5} /(expr. idiom.) les bonnes personnes ne se disputent pas avec les personnes déraisonnables; les personnes déraisonnables ne se disputent pas avec les mégères/(lit.) les bonnes personnes ont peur des méchants; les méchants ont peur des mégères/
-????c 好使好用 好使好用 [hao3 shi3 hao3 yong4] {hou2 sai2 hou2 jung6} /obéissant, docile et productif/
+好佬怕爛佬 好佬怕烂佬 [hao3 lao3 pa4 lan4 lao3] {hou2 lou2 paa3 laan6 lou2} /(expr. idiom.) les bonnes personnes ne se disputent pas avec les personnes déraisonnables/(lit.) les bonnes personnes ont peur des méchants/
+好佬怕爛佬，爛佬怕潑婦 好佬怕烂佬，烂佬怕泼妇 [hao3 lao3 pa4 lan4 lao3，lan4 lao3 pa4 po1 fu4] {hou2 lou2 paa3 laan6 lou2，laan6 lou2 paa3 put3 fu5} /(expr. idiom.) les bonnes personnes ne se disputent pas avec les personnes déraisonnables; les personnes déraisonnables ne se disputent pas avec les mégères/(lit.) les bonnes personnes ont peur des méchants; les méchants ont peur des mégères/
+????m 好使好用 好使好用 [hao3 shi3 hao3 yong4] {hou2 sai2 hou2 jung6} /obéissant, docile et productif/simple d'utilisation et utile/
 好傢伙 好家伙 [hao3 jia1 huo5] {hou2 gaa1 fo2} /mon Dieu!/
 好傾 好倾 [hao3 qing1] {hou2 king1} /bien s'entendre, avoir beaucoup de choses à dire, avoir eu une bonne discussion/
 好到極 好到极 [hao3 dao4 ji2] {hou2 dou3 gik6} /très bon; excellent/
 好力 好力 [hao4 li4] {hou2 lik6} /fort; énergique/
 好勁 好劲 [hao3 jin4] {hou2 ging6} /très puissant/superbe; génial/
 好友 好友 [hao3 you3] {hou2 jau5} /bon ami; ami proche/
-????c 好口 好口 [hao3 kou3] {hou2 hau2} /baratineur; beau parleur/
+好口 好口 [hao3 kou3] {hou2 hau2} /baratineur; beau parleur/
 好叻 好叻 [hao3 le4] {hou2 lek1} /intelligent; brillant/bon; doué/
 好呀 好呀 [hao3 ya5] {hou2 aa3} /bien; OK; d'accord/
 好味 好味 [hao3 wei4] {hou2 mei6} /délicieux; goûteux/
@@ -6142,15 +6142,15 @@
 好唱口 好唱口 [hao3 chang4 kou3] {hou2 coeng3 hau2} /(fig.) être de bonne humeur/(fig.) faire des remarques sarcastiques/(lit.) être d'humeur de chanter/
 好啱偈 好啱偈 [hao3 yan1 ji4] {hou2 ngaam1 gai2} /(fig.) s'entendre avec quelqu'un/
 好啲 好啲 [hao3 di1] {hou2 di1} /mieux/
-????f 好嘅唔靈醜嘅靈 好嘅唔灵丑嘅灵 [hao3 ge2 m2 ling2 chou3 ge2 ling2] {hou2 koi3 m4 ling4 cau2 koi3 ling4} /(expr.) parler d'une mauvaise chose causera ladite chose/
+好嘅唔靈醜嘅靈 好嘅唔灵丑嘅灵 [hao3 ge2 m2 ling2 chou3 ge2 ling2] {hou2 ge3 m4 ling4 cau2 ge3 ling4} /(expr.) parler d'une mauvaise chose causera ladite chose (se dit pour reprocher à quelqu'un d'avoir dit quelque chose de mauvais augure)/(lit.) les bonnes choses ne se concrétisent pas, mais les mauvaises choses se réaliseront/
 好嘈 好嘈 [hao3 cao2] {hou2 cou4} /très bruyant/
 好嘢 好嘢 [hao3 ye3] {hou2 je5} /très bon; excellent; remarquable/produit de bonne qualité/félicitations! bien joué! hourra!/
 好地地 好地地 [hao3 di4 di4] {hou2 dei6 dei6} /tout allait bien... (puis la situation a changé)/
 好多時 好多时 [hao3 duo1 shi2] {hou2 do1 si4} /fréquemment; souvent/
 好天 好天 [hao3 tian1] {hou2 tin1} /journée ensoleillée; belle journée; beau temps/
-????f 好天搵埋落雨米 好天揾埋落雨米 [hao3 tian1 wen3 mai2 luo4 yu3 mi3] {hou2 tin1 wan2 maai4 lok6 jyu5 mai5} /(expr. idiom.) bien préparé pour un avenir incertain/(lit.) avoir trouvé du riz lors des beaux jours pour les jours de pluie/
+好天搵埋落雨米 好天揾埋落雨米 [hao3 tian1 wen3 mai2 luo4 yu3 mi3] {hou2 tin1 wan2 maai4 lok6 jyu5 mai5} /(expr. idiom.) bien préparé pour un avenir incertain/(lit.) avoir trouvé du riz lors des beaux jours pour les jours de pluie/
 好好地 好好地 [hao3 hao3 de5] {hou2 hou2 dei2} /bien/
-????c 好好的 好好的 [hao3 hao3 de5] {hou2 hou2 dik1} /bon; bien/
+好好的 好好的 [hao3 hao3 de5] {hou2 hou2 dik1} /bon; bien/
 好好睇睇 好好睇睇 [hao3 hao3 di4 di4] {hou2 hou2 tai2 tai2} /bien exécuté; bien fait/beau, belle/
 好孩子 好孩子 [hao3 hai2 zi5] {hou2 haai4 zi2} /enfants sages/
 好少 好少 [hao3 shao3] {hou2 siu2} /très peu/rarement/
@@ -6160,25 +6160,24 @@
 好市 好市 [Hao3 shi4] {hou2 si5} /se vendre comme des petits pains; être très en demande/
 好彩 好彩 [hao3 cai3] {hou2 coi2} /heureusement; par chance/chanceux/
 好彩數 好彩数 [hao3 cai3 shu4] {hou2 coi2 sou3} /avoir de la chance/
-????c 好得 好得 [hao3 de5] {hou2 dak1} /très bien/beau, belle; séduisant/grâce à/heureusement; par chance/
+好得 好得 [hao3 de5] {hou2 dak1} /très bien/beau, belle; séduisant/grâce à/heureusement; par chance/
 好得多 好得多 [hao3 de5 duo1] {hou2 dak1 do1} /beaucoup mieux/
 好得滯 好得滞 [hao3 de5 zhi4] {hou2 dak1 zai6} /trop bon/
-????f 好心 好心 [hao3 xin1] {hou2 sam1} /(exprime une légère désapprobation)/
-????c 好心地 好心地 [hao3 xin1 di4] {hou2 sam1 dei2} /gentil; sympathique/avoir bon coeur/
+好心 好心 [hao3 xin1] {hou2 sam1} /(exprime une légère désapprobation)/
 好心情 好心情 [hao3 xin1 qing2] {hou2 sam1 cing4} /de bonne humeur/
 好心有好報 好心有好报 [hao3 xin1 you3 hao3 bao4] {hou2 sam1 jau5 hou2 bou3} /la générosité sera récompensée/
 好心機 好心机 [hao3 xin1 ji1] {hou2 sam1 gei1} /être méticuleux; faire beaucoup d'attention; être très concentré sur (quelque chose)/
-????f 好心着雷劈 好心着雷劈 [hao3 xin1 zhe5 lei2 pi1] {hou2 sam1 zoek6 leoi4 pek3} /(expr.) une bonne action ne reste jamais impunie; la générosité n'est pas toujours récompensée/(lit.) ceux qui ont des bonnes intentions seront frappés par la foudre/
-????c 好恨 好恨 [hao3 hen4] {hou2 han6} /vouloir vraiment/avoir hâte de/
+好心着雷劈 好心着雷劈 [hao3 xin1 zhe5 lei2 pi1] {hou2 sam1 zoek6 leoi4 pek3} /(expr.) une bonne action ne reste jamais impunie; la générosité n'est pas toujours récompensée/(lit.) ceux qui ont des bonnes intentions seront frappés par la foudre/
+好恨 好恨 [hao3 hen4] {hou2 han6} /vouloir vraiment/avoir hâte de/
 好想 好想 [hao3 xiang3] {hou2 soeng2} /manquer beaucoup (dans le sens de « tu me manques beaucoup »)/vouloir vraiment faire quelque chose; avoir vraiment hâte de faire quelque chose/
 好意頭 好意头 [hao3 yi4 tou2] {hou2 ji3 tau4} /propice; de bon augure/
 好戲在後頭 好戏在后头 [hao3 xi4 zai4 hou4 tou5] {hou2 hei3 zoi6 hau6 tau4} /(expr. idiom.) garder le meilleur pour la fin/
-????f 好手尾 好手尾 [hao3 shou3 wei3] {hou2 sau2 mei5} /qui laisse un lieu plus propre qu'on ne l'ait trouvé; qui nettoie après son passage/aller jusqu'au bout; commencer quelque chose et le finir/
-????f 好手腳 好手脚 [hao3 shou3 jiao3] {hou2 sau2 goek3} /(fig.) qui ne vole pas; probe; honnête/(lit.) bons mains et pieds/
-????f 好抵 好抵 [hao3 di3] {hou2 dai2} /bon marché; bonne valeur (good value for money)/
+好手尾 好手尾 [hao3 shou3 wei3] {hou2 sau2 mei5} /qui laisse un lieu plus propre qu'on ne l'ait trouvé; qui nettoie après son passage/aller jusqu'au bout; commencer quelque chose et le finir/
+好手腳 好手脚 [hao3 shou3 jiao3] {hou2 sau2 goek3} /(fig.) qui ne vole pas; probe; honnête/(lit.) bons mains et pieds/
+好抵 好抵 [hao3 di3] {hou2 dai2} /bon marché; bonne valeur; bonne affaire; à un prix avantageux/
 好日 好日 [hao3 ri4] {hou2 jat6} /bonne journée; journée propice pour (un évènement, etc.)/
-????f 好景 好景 [hao3 jing3] {hou2 ging2} /bon temps; bon moment; période de bonheur/
-????f 好樣 好样 [hao3 yang4] {hou2 joeng2} /beau, belle; avoir un joli visage/
+好景 好景 [hao3 jing3] {hou2 ging2} /bon temps; bon moment; période de bonheur/
+好樣 好样 [hao3 yang4] {hou2 joeng2} /beau, belle; avoir un joli visage/
 好正 好正 [hao3 zheng4] {hou2 zeng3} /très bon/
 好死 好死 [hao3 si3] {hou2 sei2} /personne qui meurt de façon paisible, une belle mort/trop beau pour être vrai/
 好氣 好气 [hao3 qi4] {hou2 hei3} /patient/bavard; qui aime parler/
@@ -6186,14 +6185,14 @@
 好消息 好消息 [hao3 xiao1 xi2] {hou2 siu1 sik1} /bonnes nouvelles/
 好清 好清 [hao3 qing1] {hou2 cing1} /très clair/se récupérer; guérir/
 好焗 好焗 [hao3 ju2] {hou2 guk6} /chaud et étouffant/
-????f 好物沉歸底 好物沉归底 [hao3 wu4 chen2 gui1 di3] {hou2 mat6 cam4 gwai1 dai2} /le meilleur arrive à la fin/
-????c 好猛鬼 好猛鬼 [hao3 meng3 gui3] {hou2 maang5 gwai2} /très hanté/
+????c 好物沉歸底 好物沉归底 [hao3 wu4 chen2 gui1 di3] {hou2 mat6 cam4 gwai1 dai2} /(expr. idiom.) le meilleur arrive à la fin/
+好猛鬼 好猛鬼 [hao3 meng3 gui3] {hou2 maang5 gwai2} /(fam.) très hanté/
 好番 好番 [hao3 fan1] {hou2 faan1} /se récupérer; guérir/
 好癐 好癐 [hao3 guai4] {hou2 gui6} /très fatigué/
 好的 好的 [hao3 de5] {hou2 dik1} /très bien; oui/
 好相與 好相与 [hao3 xiang1 yu3] {hou2 soeng1 jyu5} /gentil; sympathique; aimable; avenant/
 好眉好貌 好眉好貌 [hao3 mei2 hao3 mao4] {hou2 mei4 hou2 maau6} /beau, belle/
-????f 好眉好貌生沙蝨 好眉好貌生沙虱 [hao3 mei2 hao3 mao4 sheng1 sha1 shi1] {hou2 mei4 hou2 maau6 saang1 saa1 sat1} /(expr. idiom.) (d'une personne) tout ce qui brille n’est pas or; les apparences peuvent être trompeuses/(lit.) une belle personne peut avoir des poux/
+好眉好貌生沙蝨 好眉好貌生沙虱 [hao3 mei2 hao3 mao4 sheng1 sha1 shi1] {hou2 mei4 hou2 maau6 saang1 saa1 sat1} /(expr. idiom.) (d'une personne) tout ce qui brille n’est pas or; les apparences peuvent être trompeuses/(lit.) une belle personne peut avoir des poux/
 好眼 好眼 [hao3 yan3] {hou2 ngaan5} /avoir un œil de lynx; avoir un regard perçant; à l'œil vif; avoir de bons yeux/
 好眼界 好眼界 [hao3 yan3 jie4] {hou2 ngaan5 gaai3} /avoir de bons yeux/bien viser/
 好瞓 好瞓 [hao3 fen4] {hou2 fan3} /bien dormir/
@@ -6206,19 +6205,19 @@
 好耳 好耳 [hao3 er3] {hou2 ji5} /bonne audition; bonne ouïe/
 好聲 好声 [hao3 sheng1] {hou2 seng1} /faites attention!/
 好聲好氣 好声好气 [hao3 sheng1 hao3 qi4] {hou2 seng1 hou2 hei3} /parler calmement; discuter calmement/
-????f 好聽 好听 [hao3 ting1] {hou2 teng1} /(voix, musique) qui sonne bien; qui a une belle sonorité/(propos) agréable à entendre/
+好聽 好听 [hao3 ting1] {hou2 teng1} /(voix, musique) qui sonne bien; qui a une belle sonorité/(propos) agréable à entendre/
 好腳頭 好脚头 [hao3 jiao3 tou2] {hou2 goek3 tau4} /propice; favorable; qui apporte bonheur/
 好膽 好胆 [hao3 dan3] {hou2 daam2} /brave; courageux/
 好行 好行 [hao3 xing2] {hou2 haang4} /(formule de politesse) prenez soin de vous! bon retour!/(lit.) bonne marche!/
 好行夾唔送 好行夹唔送 [hao3 xing2 jia1 wu2 song4] {hou2 haang4 gaap3 m4 sung3} /(expr.) vous n'êtes pas bienvenu, allez-vous-en!/
 好衰唔衰 好衰唔衰 [hao3 shuai1 wu2 shuai1] {hou2 seoi1 m4 seoi1} /malheureusement/
-????c 好話 好话 [hao3 hua4] {hou2 waa2} /condamner/accuser/(devant un pronom) critiquer/
-????f 好話唔好聽 好话唔好听 [hao3 hua4 wu2 hao3 ting1] {hou2 waa6 m4 hou2 teng1} /(expr.) à vrai dire; pour être honnête; pour parler franchement/(lit.) bon à dire mais pas désagréable d'entendre/
+????m 好話 好话 [hao3 hua4] {hou2 waa2} /condamner/accuser/(devant un pronom) critiquer/
+好話唔好聽 好话唔好听 [hao3 hua4 wu2 hao3 ting1] {hou2 waa6 m4 hou2 teng1} /(expr.) à vrai dire; pour être honnête; pour parler franchement/(lit.) bon à dire mais pas désagréable d'entendre/
 好識 好识 [hao3 shi2] {hou2 sik1} /bien savoir; bien connaître/
 好貴 好贵 [hao3 gui4] {hou2 gwai3} /très cher/
 好賣 好卖 [hao3 mai4] {hou2 maai6} /qui se vend comme des petits pains; qui se vend très bien/
 好返 好返 [hao3 fan3] {hou2 faan2} /se récupérer; guérir/
-????c 好逑 好逑 [hao3 qiu2] {hou2 kau4} /(litt.) conjoint idéal/désiré par de nombreuses personnes/
+????m 好逑 好逑 [hao3 qiu2] {hou2 kau4} /(litt.) conjoint idéal/désiré par de nombreuses personnes/
 好過冇 好过冇 [hao3 guo4 mao3] {hou2 gwo3 mou5} /mieux que rien/
 好醜 好丑 [hao3 chou3] {hou2 cau2} /très laid/bon et mauvais/au moins/
 好野 好野 [hao3 ye3] {hou2 je5} /très bon; excellent; remarquable/produit de bonne qualité/félicitations! bien joué! hourra!/
@@ -6227,44 +6226,44 @@
 好頭好尾 好头好尾 [hao3 tou2 hao3 wei3] {hou2 tau4 hou2 mei5} /bon début et bonne fin/
 好頸 好颈 [hao3 jing3] {hou2 geng2} /avoir bon caractère; être d'humeur égale/
 好食 好食 [hao3 shi2] {hou2 sik6} /goûteux; délicieux/
-????f 好食好住 好食好住 [hao3 shi2 hao3 zhu4] {hou2 sik6 hou2 zyu6} /(expr. idiom.) vie confortable/(lit.) manger bien et vivre confortablement/
-????f 好食懶飛 好食懒飞 [hao3 shi2 lan3 fei1] {hou3 sik6 laan5 fei1} /(expr. idiom.) qui veut récolter les avantages sans travailler/(lit.) qui mange bien mais ne veut pas voler/
-????f 好食爭崩頭 好食争崩头 [hao3 shi2 zheng1 beng1 tou2] {hou2 sik6 zaang1 bang1 tau4} /(expr.) se bagarrer pour des articles en solde (ex. pendant les soldes d'après-Noël)/(lit.) se bagarrer jusqu'à crever la tête pour quelque chose de goûteux/
+好食好住 好食好住 [hao3 shi2 hao3 zhu4] {hou2 sik6 hou2 zyu6} /(expr. idiom.) vie confortable/(lit.) manger bien et vivre confortablement/
+好食懶飛 好食懒飞 [hao3 shi2 lan3 fei1] {hou3 sik6 laan5 fei1} /(expr. idiom.) qui veut récolter les avantages sans travailler/(lit.) qui mange bien mais ne veut pas voler/
+好食爭崩頭 好食争崩头 [hao3 shi2 zheng1 beng1 tou2] {hou2 sik6 zaang1 bang1 tau4} /(expr.) se bagarrer pour des articles en solde (ex. pendant les soldes d'après-Noël)/(lit.) se bagarrer jusqu'à crever la tête pour quelque chose de goûteux/
 好鬼 好鬼 [hao3 gui3] {hou2 gwai2} /très; extrêmement/
 好鬼死 好鬼死 [hao3 gui3 si3] {hou2 gwai2 sei2} /incroyablement; extrêmement; très/
 如 如 [ru2] {jyu4} /comme; par exemple/
 如上 如上 [ru2 shang4] {jyu4 soeng6} /comme en haut/
 如上所述 如上所述 [ru2 shang4 suo3 shu4] {jyu4 soeng6 so2 seot6} /comme indiqué ci-dessus/
 如何 如何 [ru2 he2] {jyu4 ho4} /comment/pourquoi pas... qu'en est-il de.../
-????c 如入無人之境 如入无人之境 [ru2 ru4 wu2 ren2 zhi1 jing4] {jyu4 jap6 mou4 jan4 zi1 ging2} /(expr. idiom.) ne rencontrer aucune résistance/(lit.) comme entrer en territoire déserte/
+如入無人之境 如入无人之境 [ru2 ru4 wu2 ren2 zhi1 jing4] {jyu4 jap6 mou4 jan4 zi1 ging2} /(expr. idiom.) ne rencontrer aucune résistance/(expr. idiom.) être sans égal; être hors pair/(lit.) comme entrer en territoire déserte/
 如喪考妣 如丧考妣 [ru2 sang4 kao3 bi3] {jyu4 song3 haau2 bei2} /(expr. idiom.) (péj.) très anxieux; bouleversé/(lit.) comme si ses parents sont morts/
-????f 如夢初醒 如梦初醒 [ru2 meng4 chu1 xing3] {jyu4 mung6 co1 sing2} /(expr. idiom.) avoir une révélation; comprendre soudain/(lit.) comme si on se réveillait d'une rêve/
+如夢初醒 如梦初醒 [ru2 meng4 chu1 xing3] {jyu4 mung6 co1 sing2} /(expr. idiom.) avoir une révélation; comprendre soudain/(lit.) comme si on se réveillait d'une rêve/
 如常 如常 [ru2 chang2] {jyu4 soeng4} /comme d'habitude/
 如日中天 如日中天 [ru2 ri4 zhong1 tian1] {jyu4 jat6 zung1 tin1} /(expr. idiom.) avoir beaucoup d'influence; être au sommet de sa carrière/(litt). comme le soleil à midi/
 如此而已 如此而已 [ru2 ci3 er2 yi3] {jyu4 ci2 ji4 ji5} /c'est tout/
 如許 如许 [ru2 xu3] {jyu4 heoi2} /(litt.) tellement/(litt.) tant/(litt.) comme ça/
 如願以償 如愿以偿 [ru2 yuan4 yi3 chang2] {jyu4 jyun6 ji5 soeng4} /(expr.) voir son vœu exaucé/
-????c 妄加 妄加 [wang4 jia1] {mong5 gaa1} /ajouter sans permission/
+????m 妄加 妄加 [wang4 jia1] {mong5 gaa1} /ajouter sans permission/
 妊娠期 妊娠期 [ren4 shen1 qi1] {jam6 san1 kei4} /période de gestation/
-????f 妊娠紋 妊娠纹 [ren4 shen1 wen2] {jam6 san1 man4} /vergetures de grossesse/
+妊娠紋 妊娠纹 [ren4 shen1 wen2] {jam6 san1 man4} /vergetures de grossesse/
 妊神星 妊神星 [ren4 shen2 xing1] {jam4 san4 sing1} /(136108) Hauméa, planète naine/
 妎 妎 [xi4] {hai6, gaai3} /jalousie/
 妒恨 妒恨 [du4 hen4] {dou3 han6} /jaloux de (quelqu'un) et détester (quelqu'un)/
 妒火中燒 妒火中烧 [du4 huo3 zhong1 shao1] {dou3 fo2 zung1 siu1} /(expr. idiom.) vert de jalousie; pâlir d'envie/
 妖怪 妖怪 [yao1 guai4] {jiu2 gwaai3} /ogre; monstre/
-????f 妖聲妖氣 妖声妖气 [yao1 sheng1 yao1 qi4] {jiu1 seng1 jiu1 hei3} /qui change sa manière de parler pour flatter quelqu'un/(femme) qui parle d'une manière coquette/
-????f 妗婆 妗婆 [jin4 po2] {kam5 po4} /épouse du grand-oncle maternel/
-????f 妗母 妗母 [jin4 mu3] {kam5 mou5} /tante (en particuler, l'épouse d'un oncle maternel)/
+妖聲妖氣 妖声妖气 [yao1 sheng1 yao1 qi4] {jiu1 seng1 jiu1 hei3} /qui change sa manière de parler pour flatter quelqu'un/(femme) qui parle d'une manière coquette/
+妗婆 妗婆 [jin4 po2] {kam5 po4} /épouse du grand-oncle maternel/
+妗母 妗母 [jin4 mu3] {kam5 mou5} /tante (en particuler, l'épouse d'un oncle maternel) (voir aussi 舅母|舅母)/
 妘 妘 [yun2] {wan4} /(nom de famille chinois)/(mot utilisé dans les noms des filles)/
-????c 妙想天開 妙想天开 [miao4 xiang3 tian1 kai1] {miu6 soeng2 tin1 hoi1} /(expr. idiom.) avoir de pensées absurdes/
+妙想天開 妙想天开 [miao4 xiang3 tian1 kai1] {miu6 soeng2 tin1 hoi1} /(expr. idiom.) avoir de pensées absurdes; fantasmer/
 妙用 妙用 [miao4 yong4] {miu6 jung6} /effet magique/
 妙策 妙策 [miao4 ce4] {miu6 caak3} /stratégie ingénieuse; plan brillant/
 妙訣 妙诀 [miao4 jue2] {miu6 kyut3} /technique ingénieuse; technique astucieuse/
 妙語 妙语 [miao4 yu3] {miu6 jyu5} /mot d'esprit; boutade/
-????f 妙語解頤 妙语解颐 [miao4 yu3 jie3 yi2] {miu6 jyu5 gaai2 ji4} /(expr. idiom.) amusant; drôle (of a remark: very witty, very clever)/
-????f 妙語連珠 妙语连珠 [miao4 yu3 lian2 zhu1] {miu6 jyu5 lin4 zyu1} /(expr. idiom.) make witty remarks one after another/
-????c 妙論 妙论 [miao4 lun4] {miu6 leon6} /opinion intéressante/
-????c 妙齡少女 妙龄少女 [miao4 ling2 shao4 nu:3] {miu6 ling4 siu3 neoi5} /petite fille/jeune femme/
+妙語解頤 妙语解颐 [miao4 yu3 jie3 yi2] {miu6 jyu5 gaai2 ji4} /(expr. idiom.) (d'une remarque) amusant; intelligent; drôle/
+妙語連珠 妙语连珠 [miao4 yu3 lian2 zhu1] {miu6 jyu5 lin4 zyu1} /(expr. idiom.) plein d'esprit/(lit.) bon mot après bon mot/
+????m 妙論 妙论 [miao4 lun4] {miu6 leon6} /opinion intéressante/
+????m 妙齡少女 妙龄少女 [miao4 ling2 shao4 nu:3] {miu6 ling4 siu3 neoi5} /petite fille/jeune femme/
 妝嫁 妆嫁 [zhuang1 jia4] {zong1 gaa3} /(mariage) dot/
 妥善處理 妥善处理 [tuo3 shan4 chu3 li3] {to5 sin6 cyu2 lei5} /gérer de manière appropriée/
 妨礙 妨碍 [fang2 ai4] {fong4 ngoi6} /entraver; faire obstruction à/
@@ -6273,7 +6272,7 @@
 妹丁 妹丁 [mei4 ding1] {mui1 deng1} /(inj.) fillette; petite fille/
 妹仔 妹仔 [mei4 zi3] {mui1 zai2} /servante/
 妹仔丁 妹仔丁 [mei4 zi3 ding1] {mui1 zai2 deng1} /jeune servante/
-????f 妹仔大過主人婆 妹仔大过主人婆 [mei4 zi3 da4 guo4 zhu3 ren2 po2] {mui1 zai2 daai6 gwo3 zyu2 jan4 po4} /(expr. idiom.) avoir ses priorités à l'envers; donner la priorité à quelque chose qui n'est pas importante/(lit.) servante supérieure à sa patronne/
+妹仔大過主人婆 妹仔大过主人婆 [mei4 zi3 da4 guo4 zhu3 ren2 po2] {mui1 zai2 daai6 gwo3 zyu2 jan4 po4} /(expr. idiom.) avoir ses priorités à l'envers; donner la priorité à quelque chose qui n'est pas importante/(lit.) servante supérieure à sa patronne/
 妹妹仔 妹妹仔 [mei4 mei5 zi3] {mui4 mui1 zai2} /petite sœur; sœur cadette/fillette; petite fille/
 妹釘 妹钉 [mei4 ding1] {mui1 deng1} /(un peu inj.) petite fille/
 妻兒老小 妻儿老小 [qi1 er2 lao3 xiao3] {cai1 ji4 lou5 siu2} /toute la famille/
@@ -6282,9 +6281,9 @@
 姌 姌 [ran3] {jim5} /(femme) mince; svelte; gracile/
 姏 姏 [man2] {maan4} /femme âgée/
 姐 姐 [jie3] {ze2} /(forme d'adresse à une femme plus âgée que le locuteur)/
-????f 姐妹 姐妹 [jie3 mei4] {ze2 mui6} /demoiselle d'honneur/
+姐妹 姐妹 [jie3 mei4] {ze2 mui6} /demoiselle d'honneur/
 姐姐 姐姐 [jie3 jie5] {ze4 ze1} /grande sœur; sœur aînée/(forme d'adresse à une femme plus âgée que le locuteur)/
-????f 姐姐仔 姐姐仔 [jie3 jie5 zi3] {ze4 ze1 zai2} /jeune femme (forme d'adresse à une fille plus âgée que le locuteur)/
+姐姐仔 姐姐仔 [jie3 jie5 zi3] {ze4 ze1 zai2} /jeune femme (forme d'adresse à une fille plus âgée que le locuteur)/
 姐手姐腳 姐手姐脚 [jie3 shou3 jie3 jiao3] {ze2 sau2 ze2 goek3} /(expr.) lent et maladroit; faible; qui ne peut pas faire son travail/(lit.) avoir les mains et pieds d'une femme/
 姑仔 姑仔 [gu1 zi3] {gu1 zai2} /petite soeur de son mari; belle-soeur/
 姑勿論 姑勿论 [gu1 wu4 lun4] {gu1 mat6 leon6} /indépendamment de; quel que soit; peu importe/
@@ -6293,13 +6292,13 @@
 姑姐 姑姐 [gu1 jie3] {gu1 ze1} /soeur cadette du père; tante/
 姑娘 姑娘 [gu1 niang5] {gu1 noeng4} /infirmière/jeune femme/
 姑娘仔 姑娘仔 [gu1 niang5 zi3] {gu1 noeng4 zai2} /fille; jeune femme/
-????f 姑婆 姑婆 [gu1 po2] {gu1 po4} /tante paternelle de son époux; sœur d'un beau-père d'une femme/grand-tante paternelle; sœur d'un grand-père paternel/femme célibataire d'un certain âge/
-????f 姑爺仔 姑爷仔 [gu1 ye5 zi3] {gu1 je4 zai2} /homme qui dépend sur une femme (en particulier pour d'argent)/maquereau; souteneur; proxénète/
+姑婆 姑婆 [gu1 po2] {gu1 po4} /tante paternelle de son conjoint; sœur d'un beau-père d'une femme/grand-tante paternelle; sœur d'un grand-père paternel/femme célibataire d'un certain âge/
+姑爺仔 姑爷仔 [gu1 ye5 zi3] {gu1 je4 zai2} /homme qui dépend sur une femme (en particulier pour d'argent)/maquereau; souteneur; proxénète/
 姑蘇 姑苏 [gu1 su1] {gu1 sou1} /Gusu, nom de plusieurs villes et régions historiques de la Chine/
 姑表 姑表 [gu1 biao3] {gu1 biu2} /cousins (en particulier les enfants d'une soeur du père)/
 姓名 姓名 [xing4 ming2] {sing3 ming4} /nom complet/
 姓氏 姓氏 [xing4 shi4] {sing3 si6} /nom de famille; nom/
-????f 姓賴 姓赖 [xing4 lai4] {sing3 laai6} /(fig.) toujours rejeter la responsabilité sur quelqu'un d'autre; toujours renvoyer la balle à quelqu'un d'autre; toujours essayer de faire porter le chapeau aux autres/(lit.) avoir « rejeter la responsabilité » comme nom de famille/
+姓賴 姓赖 [xing4 lai4] {sing3 laai6} /(fig.) toujours rejeter la responsabilité sur quelqu'un d'autre; toujours essayer de faire porter le chapeau aux autres/(lit.) avoir « rejeter la responsabilité » comme nom de famille/
 委屈 委屈 [wei3 qu5] {wai2 wat1} /être victime d'une injustice; être lésé/
 委蛇 委蛇 [wei1 yi2] {wai1 se4} /vivre tranquillement/sinueux; tortueux/
 妍媸 妍媸 [yan2 chi1] {jin4 ci1} /beauté et laideur/
@@ -6307,16 +6306,16 @@
 姚子羚 姚子羚 [yao2 zi5 ling2] {jiu4 zi2 ling4} /Elaine Yiu Tse-ling, actrice et présentatrice de télévision hongkongaise/
 姣 姣 [jiao1] {gaau2} /libertin; promiscue; sexuellement excité; lascif/
 ????c 姣味 姣味 [jiao1 wei4] {haau6 mei6} /féminine/qui flirte; qui cherche à séduire/
-????f 姣婆 姣婆 [jiao1 po2] {haau4 po4} /coquette; séductrice/femme débauchée; pute; salope; marie-salope/
-????f 姣婆守唔到寡 姣婆守唔到寡 [jiao1 po2 shou3 wu2 dao4 gua3] {haau4 po4 sau2 m4 dou2 gwaa2} /(expr. idiom.) il est difficile de changer le caractère de quelqu'un/(lit.) une femme promiscue ne reste pas veuve longtemps/
-????c 姣婆藍 姣婆蓝 [jiao1 po2 lan2] {haau4 po4 laam4} /bleu-violet/
-????f 姣婆遇著脂粉客 姣婆遇着脂粉客 [jiao1 po2 yu4 zhao2 zhi1 fen3 ke4] {haau4 po4 jyu6 zoek6 zi1 fan2 haak3} /(expr. idiom.) bien s'entendre; se plaire au premier coup d'œil/(lit.) une femme promiscue et un homme libertin se rencontrent/
-????f 姣屍扽篤 姣尸扽笃 [jiao1 shi1 den4 du3] {gaau2 si1 dan6 duk1} /(expr. idiom.) (femme) séduire; faire le coquet; être promiscue/(lit.) flirter jusqu'à ce que les cadavres bandent/
-????f 姣氣 姣气 [jiao1 qi4] {haau4 hei3} /pouvoir et prestige; majesté/bonnes perspectives (good prospects for the future)/
+姣婆 姣婆 [jiao1 po2] {haau4 po4} /coquette; séductrice/femme débauchée; pute; salope; marie-salope/
+姣婆守唔到寡 姣婆守唔到寡 [jiao1 po2 shou3 wu2 dao4 gua3] {haau4 po4 sau2 m4 dou2 gwaa2} /(expr. idiom.) il est difficile de changer le caractère de quelqu'un/(lit.) une femme promiscue ne reste pas veuve longtemps/
+姣婆藍 姣婆蓝 [jiao1 po2 lan2] {haau4 po4 laam4} /bleu-vert; bleu paon/
+姣婆遇著脂粉客 姣婆遇着脂粉客 [jiao1 po2 yu4 zhao2 zhi1 fen3 ke4] {haau4 po4 jyu6 zoek6 zi1 fan2 haak3} /(expr. idiom.) (péj.) bien s'entendre; se plaire au premier coup d'œil/(lit.) une femme promiscue et un homme libertin se rencontrent/
+姣屍扽篤 姣尸扽笃 [jiao1 shi1 den4 du3] {haau6 si1 dan6 duk1} /(expr. idiom.) (femme) séduire; faire le coquet; être promiscue/(lit.) flirter jusqu'à ce que les cadavres bandent/
+姣氣 姣气 [jiao1 qi4] {haau4 hei3} /pouvoir et prestige; majesté/bonnes perspectives; qui est prometteur; qui a du potentiel/
 姨丈 姨丈 [yi2 zhang4] {ji4 zoeng2} /mari de la sœur de sa mère; oncle/
 姨仔 姨仔 [yi2 zi3] {ji1 zai2} /soeur cadette d'une épouse; belle-sœur/sœur cadette de sa mère; tante/
 姨婆 姨婆 [yi2 po2] {ji4 po4} /grand-tante/
-????f 姨媽到 姨妈到 [yi2 ma1 dao4] {ji4 maa1 dou3} /(fig.) (règles, menstruations) commencer/(lit.) la tante est arrivée (voir 大姨媽|大姨妈)/
+姨媽到 姨妈到 [yi2 ma1 dao4] {ji4 maa1 dou3} /(fig.) (règles, menstruations) commencer/(lit.) la tante est arrivée (voir 大姨媽|大姨妈)/
 姨媽姑姐 姨妈姑姐 [yi2 ma1 gu1 jie3] {ji4 maa1 gu1 ze1} /toute les tantes d'une famille/(par extension) toute la famille/
 姨媽巾 姨妈巾 [yi2 ma1 jin1] {ji4 maa1 gan1} /serviette hygiénique; serviette sanitaire; serviette periodique/
 姨甥 姨甥 [yi2 sheng1] {ji4 sang1} /enfants d'une sœur/
@@ -6325,42 +6324,42 @@
 姪仔 侄仔 [zhi2 zi3] {zat6 zai2} /neveu/
 姻婭 姻娅 [yin1 ya4] {jan1 aa3} /parent par alliance/
 姼 姼 [shi2] {ci2, si4} /belle/
-????f 姿整 姿整 [zi1 zheng3] {zi1 zing2} /fastidieux (de son apparence et tenue)/
+姿整 姿整 [zi1 zheng3] {zi1 zing2} /fastidieux (de son apparence et tenue)/
 威 威 [wei1] {wai1} /intelligent/
-????f 威也 威也 [wei1 ye3] {wai1 jaa5} /câble pour cascades, utilisé dans les films d'action/(orig.) de l'anglais « wire » (« câble »)/
+威也 威也 [wei1 ye3] {wai1 jaa5} /câble pour cascades, utilisé dans les films d'action/(orig.) de l'anglais « wire » (« câble »)/
 威信 威信 [wei1 xin4] {wai1 seon3} /prestige; confiance; respect/
 威到盡 威到尽 [wei1 dao4 jin4] {wai1 dou3 zeon6} /être champion; être le meilleur; montrer son meilleur/
 威化餅 威化饼 [wei1 hua4 bing3] {wai1 faa3 beng2} /gaufrette/(orig.) de l'anglais « wafer » (« gaufrette »)/
-????f 威吔 威吔 [wei1 ye5] {wai1 jaa1} /câble pour cascades, utilisé dans les films d'action/(orig.) de l'anglais « wire » (« câble »)/
+威吔 威吔 [wei1 ye5] {wai1 jaa1} /câble pour cascades, utilisé dans les films d'action/(orig.) de l'anglais « wire » (« câble »)/
 威士忌 威士忌 [wei1 shi4 ji4] {wai1 si6 gei2} /whisky/
 威廉王子 威廉王子 [wei1 lian2 wang2 zi3] {wai1 lim4 wong4 zi2} /Prince William, duc de Cambridge, membre de la famille royale britannique/
 威武 威武 [wei1 wu3] {wai1 mou5} /puissant; redoutable/
-????f 威水 威水 [wei1 shui3] {wai1 seoi2} /impressionant; extraordinaire/(souvent utilisé pour décrire les exploits de quelqu'un)/
+威水 威水 [wei1 shui3] {wai1 seoi2} /impressionant; extraordinaire/(souvent utilisé pour décrire les exploits de quelqu'un)/
 威水史 威水史 [wei1 shui3 shi3] {wai1 seoi2 si2} /aventures ahurissantes; grands exploits; histoire glorieuse/
-威爾斯 威尔斯 [wei1 er3 si1] {wai1 ji5 si1} /Prince of Wales Hospital, hôpital de Hong Kong/
+威爾斯 威尔斯 [wei1 er3 si1] {wai1 ji5 si1} /Prince of Wales Hospital, hôpital à Hong Kong/
 威爾斯文 威尔斯文 [wei1 er3 si1 wen2] {wai1 ji5 si1 man4} /(langue) gallois/
 威爾斯親王 威尔斯亲王 [wei1 er3 si1 qin1 wang2] {wai1 ji5 si1 can1 wong4} /prince de Galles/
-威爾斯親王醫院 威尔斯亲王医院 [wei1 er3 si1 qin1 wang2 yi1 yuan4] {wai1 ji5 si1 can1 wong4 ji1 jyun2} /Prince of Wales Hospital, hôpital de Hong Kong/
+威爾斯親王醫院 威尔斯亲王医院 [wei1 er3 si1 qin1 wang2 yi1 yuan4] {wai1 ji5 si1 can1 wong4 ji1 jyun2} /Prince of Wales Hospital, hôpital à Hong Kong/
 威脅 威胁 [wei1 xie2] {wai1 hip3} /menace/
 威靈頓街 威灵顿街 [wei1 ling2 dun4 jie1] {wai1 ling4 deon6 gaai1} Wellington Street, rue à Hong Kong/
 威風 威风 [wei1 feng1] {wai1 fung1} /imposant; impressionant; redoutable/
-????f 威風掃地 威风扫地 [wei1 feng1 sao3 di4] {wai1 fung1 sou3 dei6} /(expr.) complètement discrédité/
-????c 娓娓而談 娓娓而谈 [wei3 wei3 er2 tan2] {mei5 mei5 ji4 taam4} /parler de manière fluide, passionée/
-????c 娖 娖 [chuo4] {cuk1} /careful; stiff; prudent; neat; to argue; to put in order; to tease/
+????c 威風掃地 威风扫地 [wei1 feng1 sao3 di4] {wai1 fung1 sou3 dei6} /(expr.) complètement discrédité/
+????m 娓娓而談 娓娓而谈 [wei3 wei3 er2 tan2] {mei5 mei5 ji4 taam4} /parler de manière fluide, passionée/
+????c 娖 娖 [chuo4] {cuk1} /prudent/bien rangé/ranger/se disputer/se moquer de/
 娘丙 娘丙 [niang2 bing3] {noeng1 bing2} /démodé; ringard; dépassé/provincial; simple; rustique/
 娘子軍 娘子军 [niang2 zi3 jun1] {noeng4 zi2 gwan1} /groupe de femmes/
 娘爆 娘爆 [niang2 bao4] {noeng1 baau3} /démodé; ringard; dépassé/
 娘親 娘亲 [niang2 qin1] {noeng4 can1} /mère/
 娙 娙 [xing2] {jing4} /(femme) svelte; belle/servante/
-????f 娛樂圈 娱乐圈 [yu2 le4 quan1] {jyu4 lok6 hyun1} /show-biz; industrie du divertissement; industrie du spectacle/
+娛樂圈 娱乐圈 [yu2 le4 quan1] {jyu4 lok6 hyun1} /show-biz; industrie du divertissement; industrie du spectacle/
 娛樂性 娱乐性 [yu2 le4 xing4] {jyu4 lok6 sing3} /valeur de divertissement/
-????f 娛記 娱记 [yu2 ji4] {jyu4 gei3} /journaliste de divertissement/
+娛記 娱记 [yu2 ji4] {jyu4 gei3} /journaliste de divertissement/
 娠紀 娠纪 [shen1 ji4] {san1 gei2} /enceinte/grossesse/
 娤 娤 [zhuang1] {zong1} /maquillage/
 娥眉月 娥眉月 [e2 mei2 yue4] {ngo4 mei4 jyut6} /croissant de lune/
 娥眉洲 娥眉洲 [e2 mei2 zhou1] {ngo4 mei4 zau1} /Crescent Island, île de Hong Kong/
-????f 娶心抱 娶心抱 [qu3 xin1 bao4] {ceoi2 sam1 pou5} /(de son fils) marier une femme/
-????f 娶老婆 娶老婆 [qu3 lao3 po2] {ceoi2 lou5 po4} /(d'une homme) se marier à une femme/
+娶心抱 娶心抱 [qu3 xin1 bao4] {ceoi2 sam1 pou5} /(de son fils) marier une femme/
+娶老婆 娶老婆 [qu3 lao3 po2] {ceoi2 lou5 po4} /(d'une homme) se marier à une femme/
 婀娜多姿 婀娜多姿 [e1 nuo2 duo1 zi1] {o2 no5 do1 zi1} /(expr.) (femme) charmante; belle/
 婄腩 婄腩 [bu4 nan3] {pau3 naam5} /bedaine; brioche; panse de bière/
 婆乸 婆乸 [po2 na2] {po4 naa2} /(péj.) (forme d'adresse à une femme qui n'est plus jeune)/
@@ -6375,8 +6374,8 @@
 ????c 婘 婘 [quan2] {gyun3, kyun4} /beau/bon/parent, parente; membre de la famille/aimer quelqu'un ou quelque chose depuis longtemps/
 婚書 婚书 [hun1 shu1] {fan1 syu1} /certificat de mariage/
 ????c 婠 婠 [wan1] {waan1, wun1} /good physique, integrity/
-????f 婦女事務委員會 妇女事务委员会 [fu4 nu:3 shi4 wu4 wei3 yuan2 hui4] {fu5 neoi5 si6 mou6 wai2 jyun4 wui2} /Commission de la femme de Hong Kong/
-????f 婦女組織 妇女组织 [fu4 nu:3 zu3 zhi1] {fu5 neoi5 zou2 zik1} /organisations de femmes/
+婦女事務委員會 妇女事务委员会 [fu4 nu:3 shi4 wu4 wei3 yuan2 hui4] {fu5 neoi5 si6 mou6 wai2 jyun4 wui2} /Commission de la femme de Hong Kong/
+婦女組織 妇女组织 [fu4 nu:3 zu3 zhi1] {fu5 neoi5 zou2 zik1} /organisme de femmes/
 婦孺 妇孺 [fu4 ru2] {fu5 jyu4} /femmes et enfants/
 婦科醫生 妇科医生 [fu4 ke1 yi1 sheng1] {fu5 fo1 ji1 sang1} /gynécologue/
 婦道 妇道 [fu4 dao5] {fu5 dou6} /féminité/femmes/
@@ -6387,15 +6386,15 @@
 ????c 媔 媔 [mian2] {min4} /beaux yeux/
 ????c 媥 媥 [pian1] {pin1} /agile; habile; adroit/
 媽姐 妈姐 [ma1 jie3] {maa2 ze2} /femme de ménage chinoise/
-????f 媽媽生 妈妈生 [ma1 ma5 sheng1] {maa1 maa4 saang1} /proxénète; souteneuse (supervisor of nightclub hostesses)/(orig.) du japonais ママサン (supervisor of niggeisha)/
-媽媽聲 妈妈声 [ma1 ma5 sheng1] {maa1 maa1 seng1} /jurer; dire des gros mots/
+媽媽生 妈妈生 [ma1 ma5 sheng1] {maa1 maa4 saang1} /(fam.) proxénète; souteneuse/(orig.) du japonais ママサン/
+媽媽聲 妈妈声 [ma1 ma5 sheng1] {maa1 maa1 seng1} /(fam.) jurer; dire des gros mots/
 媽打 妈打 [ma1 da3] {maa1 daa2} /mère/(orig.) de l'anglais « mother » (« mère »)/
 媽閣廟 妈阁庙 [ma1 ge2 miao4] {maa1 gok3 miu6} /temple d'A-Ma, temple taoïste à Macao/
 媾 媾 [gou4] {gau3} /marier/courir après une fille; draguer une fille/coucher; avoir des relations sexuelles/
 媾女 媾女 [gou4 nu:3] {kau1 neoi2} /courir après une fille; draguer une fille/
 嫁唔出 嫁唔出 [jia4 wu2 chu1] {gaa3 m4 ceot1} /(femme) que personne ne veut marier/
 ????c 嫇 嫇 [meng2] {ming4, ming5, mang4} /jeunes épouses/
-????f 嫉惡如仇 嫉恶如仇 [ji2 e4 ru2 chou2] {zat6 ok3 jyu4 sau4} /(expr.) détester le mal comme si c'était son ennemi/
+嫉惡如仇 嫉恶如仇 [ji2 e4 ru2 chou2] {zat6 ok3 jyu4 sau4} /(expr.) détester le mal comme si c'était son ennemi/
 嫌米貴 嫌米贵 [xian2 mi3 gui4] {jim4 mai5 gwai3} /(expr. idiom.) décédé, mort/(lit.) se plaindre du prix du riz/
 嫌錢腥 嫌钱腥 [xian2 qian2 xing1] {jim4 cin2 seng1} /(expr. idiom.) qui refuse de l'argent ou la salaire mérité/(lit.) se plaindre que l'argent sent le poisson/
 嫖友 嫖友 [piao2 you3] {piu4 jau2} /amis qui voient les prostituées ensemble/
@@ -6412,15 +6411,15 @@
 ????c 嫳 嫳 [pie4] {pit3} /qui se fâche facilement; qui se met en colère facilement/
 嬲 嬲 [niao3] {nau1} /se fâcher; se mettre en colère/
 嬲到彈起 嬲到弹起 [niao3 dao4 dan4 qi3] {nau1 dou3 daan6 hei2} /(expr. idiom.) fou furieux/(lit.) tellement fâché qu'on se lève debout/
-????f 嬲好定笑好 嬲好定笑好 [niao3 hao3 ding4 xiao4 hao3] {nau1 hou2 ding6 siu3 hou2} /(expr.) ne pas savoir s'il faut en rire ou en pleurer; ne pas savoir comment réagir face à une situation/
+嬲好定笑好 嬲好定笑好 [niao3 hao3 ding4 xiao4 hao3] {nau1 hou2 ding6 siu3 hou2} /(expr.) ne pas savoir s'il faut en rire ou en pleurer; ne pas savoir comment réagir face à une situation/
 嬲死 嬲死 [niao3 si3] {nau1 sei2} /être très en colère; être très fâché/
 嬲爆爆 嬲爆爆 [niao3 bao4 bao4] {nau1 baau3 baau3} /fâché; en colère; furieux; enragé; fou de rage/
 㜺鬼 㜺鬼 [zan4 gui3] {zaan2 gwai2} /très intéressant; unique/
 子 子 [zi5] {zi2} /fils/enfant/une des branches terrestres, ancien système de mesure de temps/société filiale; corporation filiale/
-????f 子侄 子侄 [zi3 zhi2] {zi2 zat6} /enfants et membres plus jeunes de la famille/jeune génération; ensemble de membres de la famille qui sont une génération plus jeune que le locuteur/
+子侄 子侄 [zi3 zhi2] {zi2 zat6} /enfants et membres plus jeunes de la famille/jeune génération; ensemble de membres de la famille qui sont une génération plus jeune que le locuteur/
 子喉 子喉 [zi5 hou2] {zi2 hau4} /une des trois styles de chant de l'opéra cantonais, une voix de femme/
 子女 子女 [zi3 nu:3] {zi2 neoi5} /enfants; progéniture; descendance/
-????f 子姜 子姜 [zi3 jiang1] {zi2 goeng1} /jeune gingembre (young ginger)/
+????f 子姜 子姜 [zi3 jiang1] {zi2 goeng1} /jeune gingembre/
 子孫 子孙 [zi3 sun1] {zi2 syun1} /enfants et petits-enfants; progéniture; descendance/
 子孫根 子孙根 [zi3 sun1 gen1] {zi2 syun1 gan1} /(vulg. ou humoristique) pénis/
 子宮外孕 子宫外孕 [zi3 gong1 wai4 yun4] {zi2 gung1 ngoi6 jan6} /grossesse extra-utérine/
@@ -6429,14 +6428,14 @@
 子曰詩云 子曰诗云 [zi3 yue1 shi1 yun2] {zi2 jyut6 si1 wan4} /textes et poèmes confucéens/
 子母床 子母床 [zi3 mu3 chuang2] {zi2 mou5 cong4} /lits superposés/
 子罕 子罕 [zi3 han3] {zi2 hon2} /Zi Han, chapitre dans « Les Entretiens de Confucius »/
-????f 子薑 子姜 [zi3 jiang1] {zi2 goeng1} /jeune gingembre (young ginger)/
+????f 子薑 子姜 [zi3 jiang1] {zi2 goeng1} /jeune gingembre/
 子虛 子虚 [zi3 xu1] {zi2 heoi1} /imaginaire; inexistant/
 子虛烏有 子虚乌有 [zi3 xu1 wu1 you3] {zi2 heoi1 wu1 jau5} /(expr.) imaginaire; inexistant/
 孔 孔 [kong3] {hung2} /Confucius/confucianisme/
 孔明燈 孔明灯 [kong3 ming2 deng1] {hung2 ming4 dang1} /lanterne céleste; lanterne volante/
 孔雀石 孔雀石 [kong3 que4 shi2] {hung2 zoek3 sek6} /malachite/
 孔雀石綠 孔雀石绿 [kong3 que4 shi2 lu:4] {hung2 zoek3 sek6 luk6} /(produit chimique) vert malachite; vert de malachite/
-????f 孔雀開屏 孔雀开屏 [kong3 que4 kai1 ping2] {hung2 zoek3 hoi1 ping4} /paon qui fait la roue; paon qui déploie sa queue en éventail/
+孔雀開屏 孔雀开屏 [kong3 que4 kai1 ping2] {hung2 zoek3 hoi1 ping4} /paon qui fait la roue; paon qui déploie sa queue en éventail/
 孕育 孕育 [yun4 yu4] {jan6 juk6} /être enceinte/engendrer/
 孖 孖 [zi1] {maa1} /paire; deux/jumeaux, jumelles/
 ????f 孖Q 孖Q [ma1 Q1] {maa1 kiu1} /(courses hippiques) pari mutuel de type jumelé gagnant/
@@ -6456,17 +6455,17 @@
 孖煙通 孖烟通 [ma1 yan1 tong1] {maa1 jin1 tung1} /(sous-vêtement) caleçon/(lit.) paire de cheminées/
 孖生 孖生 [zi1 sheng1] {maa1 saang1} /jumeaux, jumelles/
 孖葉 孖叶 [ma1 ye4] {maa1 jip6} /menottes/
-????f 孖裝 孖装 [ma1 zhuang1] {maa1 zong1} /paquet de deux; duo/
-????f 孖辮 孖辫 [ma1 bian4] {maa1 bin1} /tresse double/
-????f 孖鋪 孖铺 [ma1 pu4] {maa1 pou1} /partager un lit; dormir sur le même lit/
-????f 字 字 [zi4] {zi6} /mot; caractère/cinq minutes/(sur une pièce de monnaie) pile (ant. 公|公 « face »)/(ascenseur) (Hong Kong) nombre sur le bouton dans l'ascenseur qu'il faut appuyer pour monter à un étage/prénom social; prénom de courtoisie; prénom de lettré; pseudonyme que recevait les Chinois à leur 20 ans/
-????f 字一色 字一色 [zi4 yi1 se4] {zi6 jat1 sik1} /(combinaison de tuiles dans le jeu de mah-jong) Tout Honneur/
+孖裝 孖装 [ma1 zhuang1] {maa1 zong1} /paquet de deux; duo/
+孖辮 孖辫 [ma1 bian4] {maa1 bin1} /tresse double/
+孖鋪 孖铺 [ma1 pu4] {maa1 pou1} /partager un lit; dormir sur le même lit/
+字 字 [zi4] {zi6} /mot; caractère/cinq minutes/(sur une pièce de monnaie) pile (ant. 公|公 « face »)/(ascenseur) (Hong Kong) nombre sur le bouton dans l'ascenseur qu'il faut appuyer pour monter à un étage/prénom social; prénom de courtoisie; prénom de lettré; pseudonyme que recevait les Chinois à leur 20 ans/
+字一色 字一色 [zi4 yi1 se4] {zi6 jat1 sik1} /(combinaison de tuiles dans le jeu de mah-jong) Tout Honneur/
 字匯 字汇 [zi4 hui4] {zi6 wui6} /glossaire/
 字字珠璣 字字珠玑 [zi4 zi4 zhu1 ji1] {zi6 zi6 zyu1 gei1} /(expr.) langage élégant/(lit.) chaque mot une perle/
-????f 字粒 字粒 [zi4 li4] {zi6 lap1} /caractères mobiles en mètal utilisés pour l'imprimerie/
-????f 字紙 字纸 [zi4 zhi3] {zi6 zi2} /papier brouillon à jeter, avec de l'écriture dessus/
+字粒 字粒 [zi4 li4] {zi6 lap1} /caractères mobiles en métal utilisés pour l'imprimerie/
+字紙 字纸 [zi4 zhi3] {zi6 zi2} /papier brouillon à jeter, avec de l'écriture dessus/
 字紙籮 字纸箩 [zi4 zhi3 luo2] {zi6 zi2 lo1} /corbeille à papier/
-????f 字花 字花 [zi4 hua1] {zi6 faa1} /jeu de hasard illégal qui consiste de deviner quels mots vont être révélés/
+字花 字花 [zi4 hua1] {zi6 faa1} /jeu de hasard illégal qui consiste de deviner quels mots vont être révélés/
 字鎖 字锁 [zi4 suo3] {zi6 so2} /cadenas à combinaison/
 字面上 字面上 [zi4 mian4 shang4] {zi6 min2 soeng6} /littéralement; sens litéral/
 字墨 字墨 [zi4 mo4] {zi6 mak6} /connaissance; éducation/
@@ -6475,8 +6474,8 @@
 存款簿 存款簿 [cun2 kuan3 bu4] {cyun4 fun2 bou2} /livret d'épargne/
 存疑 存疑 [cun2 yi2] {cyun4 ji4} /avoir des doutes/
 存身 存身 [cun2 shen1] {cyun4 san1} /s'abriter; se mettre à l'abri/
-????f 孝堂 孝堂 [xiao4 tang2] {haau3 tong4} /funérarium; salon funéraire (hall or parlour where a coffin is laid)/
-????f 孝子賢孫 孝子贤孙 [xiao4 zi3 xian2 sun1] {haau3 zi2 jin4 syun1} /(descendants that show filial piety; descendants that respect their ancestors)/
+孝堂 孝堂 [xiao4 tang2] {haau3 tong4} /funérarium; salon funéraire/
+孝子賢孫 孝子贤孙 [xiao4 zi3 xian2 sun1] {haau3 zi2 jin4 syun1} /(expr.) descendant qui respecte ses ancêtres/
 ????f 孟母三遷 孟母三迁 [meng4 mu3 san1 qian1] {maang6 mou5 saam1 cin1} /(expr. idiom.) une mère sage ferait n'importe quoi pour garantir un meilleur avenir pour ses enfants/(lit.) la mère de Mencius a déménagé trois fois pour l'éducation de son fils/
 孢子植物 孢子植物 [bao1 zi3 zhi2 wu4] {baau1 zi2 zik6 mat6} /plante à spore; cryptogame/
 季候風 季候风 [ji4 hou4 feng1] {gwai3 hau6 fung1} /mousson/
@@ -6491,7 +6490,7 @@
 孤寒鬼 孤寒鬼 [gu1 han2 gui3] {gu1 hon4 gwai2} /(inj.) grippe-sou; radin; harpagon/
 孤星淚 孤星泪 [gu1 xing1 lei4] {gu1 sing1 leoi6} /Les Misérables, roman de Victor Hugo/
 孤注一擲 孤注一掷 [gu1 zhu4 yi1 zhi4] {gu1 zyu3 jat1 zaak6} /(expr.) tout miser; risquer le tout pour le tout; mettre tous ses oeufs dans le même panier/
-????f 孤軍 孤军 [gu1 jun1] {gu1 gwan1} /seul soldat/armée solitaire/
+孤軍 孤军 [gu1 jun1] {gu1 gwan1} /seul soldat/armée solitaire/
 孤軍作戰 孤军作战 [gu1 jun1 zuo4 zhan4] {gu1 gwan1 zok3 zin3} /combattre seul/
 孨 孨 [zhuan3] {zyun2} /prudent/lâche/orphelin/
 孫 孙 [sun1] {syun1} /petits-enfants/(nom de famille chinois)/
@@ -6499,7 +6498,7 @@
 孫叔敖 孙叔敖 [sun1 shu2 ao2] {syun1 suk1 ngou4} /Sunshu Ao, ministre pendant la dynastie des Zhou orientaux/
 孭 孭 [mie1] {me1} /porter sur le dos/assumer la responsabilité de; prendre en charge/
 孭上身 孭上身 [mie1 shang4 shen1] {me1 soeng5 san1} /porter sur le dos/assumer la responsabilité de; prendre en charge/
-????f 孭仔 孭仔 [mie1 zi3] {me1 zai2} /porter un bébé sur le dos/
+孭仔 孭仔 [mie1 zi3] {me1 zai2} /porter un bébé sur le dos/
 孭債 孭债 [mie1 zhai4] {me1 zaai3} /avoir une dette/
 ????f 孭帶 孭带 [mie1 dai4] {me1 daai2} /(baby carrier sling; cloth strip used to hold a baby to one's body)/bandoulière; sangle; courroie/bretelles/
 孭數 孭数 [mie1 shu4] {me1 sou3} /avoir une dette/
