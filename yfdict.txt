@@ -5998,7 +5998,7 @@
 ????c 失諸交臂 失诸交臂 [shi1 zhu1 jiao1 bi4] {sat1 zyu1 gaau1 bei3} /(expr.) rater sa chance; rater une belle occasion/
 失蹄 失蹄 [shi1 ti2] {sat1 tai4} /(cheval) trébucher/
 失運 失运 [shi1 yun4] {sat1 wan6} /malchance/
-失陷 失陷 [shi1 xian4] {sat1 haam6} /tomber aux main de l'ennemi/
+失陷 失陷 [shi1 xian4] {sat1 haam6} /tomber aux mains de l'ennemi/
 失驚無神 失惊无神 [shi1 jing1 wu2 shen2] {sat1 geng1 mou4 san4} /(expr.) tout d'un coup; soudainement/
 失魂魚 失魂鱼 [shi1 hun2 yu2] {sat1 wan4 jyu2} /(fig.) écervelé; étourdi; tête de linotte/(lit.) poisson qui a perdu son âme/
 夾 夹 [jia1] {gaap3} /assortir; aller ensemble/compatible/non seulement... mais aussi.../tenir entre deux choses; serrer; coincer/ramasser la nourriture avec des baguettes/
@@ -6500,7 +6500,7 @@
 孭上身 孭上身 [mie1 shang4 shen1] {me1 soeng5 san1} /porter sur le dos/assumer la responsabilité de; prendre en charge/
 孭仔 孭仔 [mie1 zi3] {me1 zai2} /porter un bébé sur le dos/
 孭債 孭债 [mie1 zhai4] {me1 zaai3} /avoir une dette/
-????f 孭帶 孭带 [mie1 dai4] {me1 daai2} /(baby carrier sling; cloth strip used to hold a baby to one's body)/bandoulière; sangle; courroie/bretelles/
+孭帶 孭带 [mie1 dai4] {me1 daai2} /porte-bébé/bandoulière; sangle; courroie/bretelles/
 孭數 孭数 [mie1 shu4] {me1 sou3} /avoir une dette/
 孭書包 孭书包 [mie1 shu1 bao1] {me1 syu1 baau1} /porter un sac à dos/
 孭袋 孭袋 [mie1 dai4] {me1 doi6} /porter un sac/sac à bandoulière/
@@ -6509,7 +6509,7 @@
 孭鑊 孭镬 [mie1 huo4] {me1 wok6} /(fig.) porter le chapeau; être responsable d'un échec/(lit.) porter le wok/
 ????f 孭飛 孭飞 [mie1 fei1] {me1 fei1} /(fig.) assumer la responsabilité (de quelque chose)/(fig.) être la star du show; être la vedette de l'émission/(lit.) porter le billet/
 孱 孱 [can4] {caan3} /faible/
-????f 孳息 孳息 [zi1 xi1] {zi1 sik1} /(finance) rendement (d'un investissement)/
+孳息 孳息 [zi1 xi1] {zi1 sik1} /(finance) rendement (d'un investissement)/
 學以致用 学以致用 [xue2 yi3 zhi4 yong4] {hok6 ji5 zi3 jung6} /(expr.) appliquer ses connaissances/
 學似 学似 [xue2 shi4] {hok6 ci5} /être exactement comme quelqu'un d'autre; imiter quelqu'un d'autre/
 學前教育 学前教育 [xue2 qian2 jiao4 yu4] {hok6 cin4 gaau3 juk6} /éducation préscolaire/
@@ -6522,57 +6522,57 @@
 學徒制 学徒制 [xue2 tu2 zhi4] {hok6 tou4 zai3} /apprentissage; stage/
 學是學非 学是学非 [xue2 shi4 xue2 fei1] {hok6 si6 hok6 fei1} /cancaner; répandre des commérages/« Sidewalk Scientist » (scientifique de trottoir), série télévisée primée de Hong Kong/
 學是非 学是非 [xue2 shi4 fei1] {hok6 si6 fei1} /cancaner; répandre des commérages/
-????f 學會 学会 [xue2 hui4] {hok6 wui2} /apprendre/assocation; club scolaire/
+學會 学会 [xue2 hui4] {hok6 wui2} /apprendre/assocation; club scolaire/
 學業 学业 [xue2 ye4] {hok6 jip6} /éducation/
-????f 學業進步 学业进步 [xue2 ye4 jin4 bu4] {hok6 jip6 zeon3 bou6} /(expression pour souhaiter à quelqu'un du succès dans ses études)/
+學業進步 学业进步 [xue2 ye4 jin4 bu4] {hok6 jip6 zeon3 bou6} /(expression pour souhaiter à quelqu'un du succès dans ses études)/
 學民思潮 学民思潮 [xue2 min2 si1 chao2] {hok6 man4 si1 ciu4} /Scholarism, groupe d'étudiants activistes pro-démocratie de Hong Kong qui a cessé d'exister en 2016/
-????f 學潮 学潮 [xue2 chao2] {hok6 ciu4} /manifestation étudiante/
+學潮 学潮 [xue2 chao2] {hok6 ciu4} /manifestation étudiante/
 學生哥 学生哥 [xue2 sheng5 ge1] {hok6 saang1 go1} /étudiant (jeune homme ou garçon)/
 學生妹 学生妹 [xue2 sheng5 mei4] {hok6 saang1 mui1} /étudiante (jeune femme ou fille)/
 學界 学界 [xue2 jie4] {hok6 gaai3} /monde universitaire/
-????c 學社 学社 [xue2 she4] {hok6 se5} /société; club; association/
+學社 学社 [xue2 she4] {hok6 se5} /société; club; association/
 學神 学神 [xue2 shen2] {hok6 san4} /(fam.) nouveau conducteur; conducteur supervisé/(lit.) dieu de conduite/
 學習 学习 [xue2 xi2] {hok6 zaap6} /étudier; apprendre/études; apprentissage/
 學習障礙 学习障碍 [xue2 xi2 zhang4 ai4] {hok6 zaap6 zoeng3 ngoi6} /troubles d'apprentissage/
 學聯 学联 [xue2 lian2] {hok6 lyun4} /« Hong Kong Federation of Students », fédération des étudiants de Hong Kong/
-????f 學能測驗 学能测验 [xue2 neng2 ce4 yan4] {hok6 nang4 cak1 jim6} /« Hong Kong Academic Aptitude Test », test de compétences utilisé autrefois à Hong Kong/
+學能測驗 学能测验 [xue2 neng2 ce4 yan4] {hok6 nang4 cak1 jim6} /« Hong Kong Academic Aptitude Test », test de compétences utilisé autrefois à Hong Kong/
 學舌 学舌 [xue2 she2] {hok6 sit6} /répéter ce que disent les autres; répéter comme un perroquet/cancaner; répandre des commérages/
 學行車 学行车 [xue2 xing2 che1] {hok6 hang4 ce1} /trotteur/
-????f 學術研究 学术研究 [xue2 shu4 yan2 jiu1] {hok6 seot6 jin4 gau3} /recherche universitaire/
+學術研究 学术研究 [xue2 shu4 yan2 jiu1] {hok6 seot6 jin4 gau3} /recherche universitaire/
 學説 学说 [xue2 shuo1] {hok6 syut3} /théorie/
 學識 学识 [xue2 shi2] {hok6 sik1} /apprendre; maîtriser/
 學費 学费 [xue2 fei4] {hok6 fai3} /frais de scolarité/
 學部 学部 [xue2 bu4] {hok6 bou6} /département; faculté (d'une université)/
 ????f 學額 学额 [xue2 e2] {hok6 ngaak6} /(école) capacité d'acceuil/
 學齡兒童 学龄儿童 [xue2 ling2 er2 tong2] {hok6 ling4 ji4 tung4} /enfants d'âge scolaire/
-????f 孺子可教 孺子可教 [ru2 zi3 ke3 jiao1] {jyu4 zi2 ho2 gaau3} /(expr.) enfant qu'on peut enseigner; enfant qui mérite d'être enseigné/
+孺子可教 孺子可教 [ru2 zi3 ke3 jiao1] {jyu4 zi2 ho2 gaau3} /(expr.) enfant qu'on peut enseigner; enfant qui mérite d'être enseigné/
 孻 孻 [lai2] {laai1} /le ou la plus jeune; cadet, cadette/
 孻仔 孻仔 [lai2 zi3] {laai1 zai2} /fils le plus jeune; fils cadet/
-????f 孻仔拉心肝 孻仔拉心肝 [lai2 zi3 la1 xin1 gan1] {laai1 zai2 laai1 sam1 gon1} /(expr. idiom.) gâter le plus jeune enfant/(lit.) le plus jeune fils tire le cœur et le foie/
-????f 孻仔拉心肝孻女拉五臟 孻仔拉心肝孻女拉五脏 [lai2 zi3 laa1 xin1 gan1 lai2 nu:3 la1 wu3 zang] {laai1 zai laai1 sam1 gon1 laai1 neoi2 laai1 ng5 zong6} /(expr. idiom.) gâter le plus jeune enfant/(lit.) le plus jeune fils tire le cœur et le foie; la plus jeune fille tire les cinq organes internes/
-????f 孻女 孻女 [lai2 nu:3] {laai1 neoi2} /fille la plus jeune; fille cadette (youngest daughter - how to differentiate from youngest girl?)/
+孻仔拉心肝 孻仔拉心肝 [lai2 zi3 la1 xin1 gan1] {laai1 zai2 laai1 sam1 gon1} /(expr. idiom.) gâter le plus jeune enfant/(lit.) le plus jeune fils tire le cœur et le foie/
+孻仔拉心肝孻女拉五臟 孻仔拉心肝孻女拉五脏 [lai2 zi3 laa1 xin1 gan1 lai2 nu:3 la1 wu3 zang] {laai1 zai laai1 sam1 gon1 laai1 neoi2 laai1 ng5 zong6} /(expr. idiom.) gâter le plus jeune enfant/(lit.) le plus jeune fils tire le cœur et le foie; la plus jeune fille tire les cinq organes internes/
+孻女 孻女 [lai2 nu:3] {laai1 neoi2} /fille la plus jeune; fille cadette (dans une famille)/
 孻尾 孻尾 [lai2 wei3] {laai1 mei1} /arriver en dernière position/finalement/bout; arrière (d'une file)/dernier/
 孻屘 孻屘 [lai2 man1] {laai1 mei1} /arriver en dernière position/finalement/bout; arrière (d'une file)/dernier/
 孿生兄弟 孪生兄弟 [luan2 sheng1 xiong1 di4] {lyun4 saang1 hing1 dai6} /jumeaux (de sexe masculin)/
-????f 它們的 它们的 [ta1 men5 de5] {taa1 mun4 dik1} /leur (où le propriétaire est un objet inanimé)/
-????f 它的 它的 [ta1 de5] {taa1 dik1} /son (où le propriétaire est un objet inanimé)/
+它們的 它们的 [ta1 men5 de5] {taa1 mun4 dik1} /leur (où le propriétaire est un objet inanimé)/
+它的 它的 [ta1 de5] {taa1 dik1} /son (où le propriétaire est un objet inanimé)/
 宅第 宅第 [zhai2 di4] {zaak6 dai6} /manoir/
 宇宙空間 宇宙空间 [yu3 zhou4 kong1 jian1] {jyu5 zau6 hung1 gaan1} /espace; cosmos/
 守 守 [shou3] {sau2} /rester; demeurer/
-????f 守得雲開見月明 守得云开见月明 [shou3 de2 yun2 kai1 jian4 yue4 ming2] {sau2 dak1 wan4 hoi1 gin3 jyut6 ming4} /(expr. idiom.) ceux qui persistent connaîtront la victoire/(lit.) celui qui surmonte les jours nuageux verra la brillance de la lune/
-????f 守清 守清 [shou3 qing1] {sau2 cing1} /rester veuve; garder la viduité/
+守得雲開見月明 守得云开见月明 [shou3 de2 yun2 kai1 jian4 yue4 ming2] {sau2 dak1 wan4 hoi1 gin3 jyut6 ming4} /(expr. idiom.) ceux qui persistent connaîtront la victoire/(lit.) celui qui surmonte les jours nuageux verra la brillance de la lune/
+守清 守清 [shou3 qing1] {sau2 cing1} /rester veuve; garder la viduité/
 守行為 守行为 [shou3 xing2 wei2] {sau2 hang4 wai4} /absolution conditionnelle; liberté surveillée; probation/
 守龍門 守龙门 [shou3 long2 men2] {sau2 lung4 mun4} /gardien de but, gardienne de but/
 安全區 安全区 [an1 quan2 qu1] {on1 cyun4 keoi1} /zone de sécurité/
-????f 安全島 安全岛 [an1 quan2 dao3] {on1 cyun4 dou2} /îlot de circulation; îlot directionnel; îlot central; îlot séparateur/
+安全島 安全岛 [an1 quan2 dao3] {on1 cyun4 dou2} /îlot de circulation; îlot directionnel; îlot central; îlot séparateur/
 安全檢查 安全检查 [an1 quan2 jian3 cha2] {on1 cyun4 gim2 caa4} /contrôle de sécurité/
-????f 安全第一 安全第一 [an1 quan2 di4 yi1] {on1 cyun4 dai6 jat1} /la sécurité d'abord; votre sécurité est notre priorité/
-????f 安分守己 安分守己 [an1 fen4 shou3 ji3] {on1 fan6 sau2 gei2} /rester à sa place; s'occuper de ses propres affaires; se tenir dans ses limites/
+安全第一 安全第一 [an1 quan2 di4 yi1] {on1 cyun4 dai6 jat1} /la sécurité d'abord; votre sécurité est notre priorité/
+安分守己 安分守己 [an1 fen4 shou3 ji3] {on1 fan6 sau2 gei2} /(expr.) s'occuper de ses propres affaires; respecter la loi et bien se comporter/(expr.) être content de son sort/
 安名 安名 [an1 ming2] {on1 meng2} /nommer; donner un nom à/
 安士 安士 [an1 shi4] {on1 si2} /once/(orig.) de l'anglais « ounce » (« once »)/
 安大略 安大略 [an1 da4 lu:e4] {on1 daai6 loek6} /Ontario, province du Canada/
 安定 安定 [an1 ding4] {on1 ding6} /stabiliser; calmer/
-????c 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /(dated) compensation for one who has to leave family for work or any reasons/relocation bonus/
+????m 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /argent versé à la famille d'un membre d'un gang quand il est emprisonné/rénumération versé par un employeur quand un employé est blessé ou meurt(vieilli) prime de déménagement; prime de déplacement)
 安德尊 安德尊 [an1 de2 zun1] {on1 dak1 zyun1} /Junior Anderson, acteur et présentateur de télévision hongkongais/
 安樂茶飯 安乐茶饭 [an1 le4 cha2 fan4] {on1 lok6 caa4 faan6} /(expr. idiom.) vivre une vie confortable/(lit.) thé et repas paisible/
 安歷卡 安历卡 [an1 li4 ka3] {on1 lik6 kaa1} /Nicolas Anelka, footballeur français/
