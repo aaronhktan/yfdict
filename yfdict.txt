@@ -7250,10 +7250,10 @@
 工業邨 工业村 [gong1 ye4 cun1] {gung1 jip6 cyun1} /zone industrielle/
 工業部 工业部 [gong1 ye4 bu4] {gung1 jip6 bou6} /ministère de l'Industrie/
 工潮 工潮 [gong1 chao2] {gung1 ciu4} /grève/
-????f 工科學生 工科学生 [gong1 ke1 xue2 sheng1] {gung1 fo1 hok6 saang1} /étudiants de l'ingénierie et technologie/
+工科學生 工科学生 [gong1 ke1 xue2 sheng1] {gung1 fo1 hok6 saang1} /étudiants de l'ingénierie et technologie/
 工程公司 工程公司 [gong1 cheng2 gong1 si1] {gung1 cing4 gung1 si1} /société d'ingénierie/
-????c 工程設計 工程设计 [gong1 cheng2 she4 ji4] {gung1 cing4 cit3 gai3} /conception technique/
-????c 工程項目 工程项目 [gong1 cheng2 xiang4 mu4] {gung1 cing4 hong6 muk6} /projet de construction/
+工程設計 工程设计 [gong1 cheng2 she4 ji4] {gung1 cing4 cit3 gai3} /conception technique/
+工程項目 工程项目 [gong1 cheng2 xiang4 mu4] {gung1 cing4 hong6 muk6} /projet de construction/
 工聯會 工联会 [gong1 lian2 hui4] {gung1 lyun4 wui2} /Hong Kong Federation of Trade Unions, union syndicale de Hong Kong/
 工讀 工读 [gong1 du2] {gung1 duk6} /étudiant qui travaille à temps partiel/
 工資 工资 [gong1 zi1] {gung1 zi1} /salaire/
@@ -7266,23 +7266,23 @@
 左㕭 左㕭 [zuo3 ao4] {zo2 jaau1} /gaucher/
 左𠰋 左𠰋 [zuo3 qiu1] {zo2 jaau1} /gaucher/
 左手便 左手便 [zuo3 shou3 bian4] {zo2 sau2 bin6} /à gauche/
-????f 左手嚟，右手去 左手嚟，右手去 [zuo3 shou3 li2 , you4 shou3 qu4] {zo2 sau2 lei4 jau6 sau2 heoi3} /(expr. idiom.) gaspiller son argent juste après l'avoir gagné; jeter l'argent par les fenêtres/(lit.) qui entre de la main gauche et sort de la main droite/
-????f 左搖右擺 左摇右摆 [zuo3 yao2 you4 bai3] {zo2 jiu4 jau6 baai2} /se balancer; osciller/
+左手嚟，右手去 左手嚟，右手去 [zuo3 shou3 li2 , you4 shou3 qu4] {zo2 sau2 lei4 jau6 sau2 heoi3} /(expr. idiom.) gaspiller son argent juste après l'avoir gagné; jeter l'argent par les fenêtres/(lit.) qui entre de la main gauche et sort de la main droite/
+????m 左搖右擺 左摇右摆 [zuo3 yao2 you4 bai3] {zo2 jiu4 jau6 baai2} /se balancer; osciller/
 左撓 左挠 [zuo3 nao2] {zo2 jaau1} /gaucher/
 左耳入右耳出 左耳入右耳出 [zuo3 er3 ru4 , you4 er3 chu1] {zo2 ji5 jap6 jau6 ji5 ceot1} /(expr. idiom.) rentrer par une oreille et ressortir par l'autre/
-????f 左行 左行 [zuo3 xing2] {zo2 haang1} /conduire à gauche/marcher à gauche/(langue) qui s'écrit et se lit de gauche à droite/
+????c 左行 左行 [zuo3 xing2] {zo2 haang4} /conduire à gauche/marcher à gauche/(langue) qui s'écrit et se lit de gauche à droite/
 左證 左证 [zuo3 zheng4] {zo2 zing3} /preuve/
-????f 左軚 左軚 [zuo3 dai4] {zo2 taai5} /(voiture) avec le volant à gauche/
-????f 左軚車 左軚车 [zuo3 dai4 che1] {zo2 taai5 ce1} /voiture conçue pour les pays ou l'on roule à droite; voiture avec le volant à gauche/
+左軚 左軚 [zuo3 dai4] {zo2 taai5} /(voiture) avec le volant à gauche/
+左軚車 左軚车 [zuo3 dai4 che1] {zo2 taai5 ce1} /voiture conçue pour les pays ou l'on roule à droite; voiture avec le volant à gauche/
 ????c 左輔右弼 左辅右弼 [zuo3 fu3 you4 bi4] {zo2 fu6 jau6 bat6} /servir d'aide/
 左輪 左轮 [zuo3 lun2] {zo2 leon2} /revolver/
 左近 左近 [zuo3 jin4] {zo2 gan6} /aux environs de; près de; proche/
 左遷 左迁 [zuo3 qian1] {zo2 cin1} /(emploi) rétrograder/
-????f 巧取豪奪 巧取豪夺 [qiao3 qu3 hao2 duo2] {haau2 ceoi2 hou4 dyut6} /(expr. idiom.) méthodes utilisées par des personnes riches pour extorquer de l'argent aux pauvres/
-????f 巧奪天工 巧夺天工 [qiao3 duo2 tian1 gong1] {haau2 dyut6 tin1 gung1} /(expr.) artisanat splendide (magnificent worksmanship, splendid craftsmanship)/
+巧取豪奪 巧取豪夺 [qiao3 qu3 hao2 duo2] {haau2 ceoi2 hou4 dyut6} /(expr. idiom.) extorquer de l'argent aux pauvres et s'emparer de leurs possessions/
+巧奪天工 巧夺天工 [qiao3 duo2 tian1 gong1] {haau2 dyut6 tin1 gung1} /(expr.) artisanat splendide/
 巧妙 巧妙 [qiao3 miao4] {haau2 miu6} /ingénieux; astucieux/
 巧遇 巧遇 [qiao3 yu4] {haau2 jyu6} /rencontrer par hasard; croiser; tomber sur/
-????f 巧言令色 巧言令色 [qiao3 yan2 ling4 se4] {haau2 jin4 ling6 sik1} /(expr. idiom.) baratin et air flatteur; flatteries/
+巧言令色 巧言令色 [qiao3 yan2 ling4 se4] {haau2 jin4 ling6 sik1} /(expr. idiom.) qui baratine et a un air flatteur/
 巨債 巨债 [ju4 zhai4] {geoi6 zaai3} /grande dette/
 巫女 巫女 [wu1 nu:3] {mou4 neoi5} /chamane; sorcière/miko, jeune femme au service d'un sanctuaire shintoïste/
 差 差 [cha4] {caa1} /mauvais/de pauvre qualité/défectueux/légèrement; un peu/
@@ -7297,7 +7297,7 @@
 差少少 差少少 [cha1 shao3 shao1] {caa1 siu2 siu2} /un peu pire/tout près de; presque; quasiment/
 差得遠 差得远 [cha4 de5 yuan3] {caa1 dak1 jyun5} /très différent; très loin de/
 差皮 差皮 [cha1 pi2] {caa1 pei4} /mauvais; de mauvaise qualité/
-????f 差餉 差饷 [chai1 xiang3] {caai1 hoeng2} /(Hong Kong) « Rates », une taxe d'habitation à Hong Kong/
+差餉 差饷 [chai1 xiang3] {caai1 hoeng2} /(Hong Kong) « Rates », une taxe d'habitation à Hong Kong/
 差館 差馆 [chai1 guan3] {caai1 gun2} /poste de police; commissariat de police/
 已 已 [yi3] {ji5} /(indique une action faite par le passé) déjà/
 巴伐洛堤 巴伐洛堤 [ba1 fa2 luo4 di1] {baa1 fat6 lok3 tai4} /Pavarotti, ténor italien/
@@ -7317,7 +7317,7 @@
 巷仔 巷仔 [xiang4 zi3] {hong6 zai2} /ruelle/
 巷戰 巷战 [xiang4 zhan4] {hong6 zin3} /combat de rue; combat urbain/
 巷篤 巷笃 [xiang4 du3] {hong6 duk1} /au bout de la ruelle; au bout de la rue/
-????f 巷道 巷道 [hang4 dao4] {hong6 dou6} /tunnel de mine/
+巷道 巷道 [hang4 dao4] {hong6 dou6} /tunnel de mine; galerie de mine servant à ventiler et faire écouler l'eau/
 巾幗英雄 巾帼英雄 [jin1 guo2 ying1 xiong2] {gan1 gwok3 jing1 hung4} /héroïne/
 市二宮站 市二宫站 [shi4 er4 gong1 zhan4] {si5 ji6 gung1 zaam6} /station 2nd. Workers Cultural Palace, station du métro de Canton/
 市值 市值 [shi4 zhi2] {si5 zik6} /capitalisation boursière/
@@ -7330,7 +7330,7 @@
 市花 市花 [shi4 hua1] {si5 faa1} /fleur de la ville/
 市虎 市虎 [shi4 hu3] {si5 fu2} /(rare) voiture/(lit.) tigre de la ville/
 市道 市道 [shi4 dao4] {si5 dou6} /comportement du marché; tendances du marché/
-????f 市井 市井 [shi4 jing3] {si5 zeng2} /populaire; qui est apprécié par les basses classes sociales/
+市井 市井 [shi4 jing3] {si5 zeng2} /(fig.) populaire; qui est apprécié par les basses classes sociales/(lit.) les puits de la ville/
 布疋 布匹 [bu4 pi3] {bou3 pat1} /rouleau de tissu/
 布依族 布依族 [bu4 yi1 zu2] {bou3 ji1 zuk6} /peuple Buyei/
 布偉傑 布伟杰 [bu4 wei3 jie2] {bou3 wai5 git6} /Brian Burrell, acteur américain vivant à Hong Kong/
@@ -7348,12 +7348,12 @@
 布菲 布菲 [bu4 fei1] {bou3 fei1} /(repas) buffet/(orig.) de l'anglais « buffet » (« buffet »)/
 布里斯本 布里斯本 [bu4 Li3 si1 ben3] {bou3 lei5 si1 bun2} /Brisbane, ville d'Australie/
 帆船 帆船 [fan1chuan2] {faan4 syun4} /voilier/
-????c 帊 帊 [pa4] {paa3} /a big piece of cloth patched together with 2 or 3 pieces of cloth/
+????m 帊 帊 [pa4] {paa3} /morceau de tissu/
 希冀 希冀 [xi1 ji4] {hei1 kei3} /désirer; souhaiter; espérer/
 希圖 希图 [xi1 tu2] {hei1 tou4} /préparer; concevoir; comploter/
 希拉莉 希拉莉 [xi1 la1 li4] {hei1 laai1 lei6} /Hillary Clinton, secrétaire d'État des É.U. et candidate à la présidence américaine en 2016/
 希有 希有 [xi1 you3] {hei1 jau5} /rare/
-????f 希望工程 希望工程 [xi1 wang4 gong1 cheng2] {hei1 mong6 gung1 cing4} /Project Hope, projet d'administration publique visant à constuire des écoles en Chine/
+希望工程 希望工程 [xi1 wang4 gong1 cheng2] {hei1 mong6 gung1 cing4} /Project Hope, projet d'administration publique visant à constuire des écoles en Chine continentale/
 希治閣 希治阁 [xi1 zhi4 ge2] {hei1 zi6 gok3} /Alfred Hitchcock, réalisateur, scénariste, et producteur de cinéma britannique/
 希特拉 希特拉 [xi1 te4 la1] {hei1 dak6 laai1} /Adolf Hitler/
 希臘人 希腊人 [xi1 la4 ren2] {hei1 laap6 jan4} /Grec, Grecque/
@@ -7361,15 +7361,15 @@
 帝王 帝王 [di4wang2] {dai3 wong4} /empereur; souverain/impérial/
 帝祚 帝祚 [di4 zuo4] {dai3 zou6} /trône/
 帢 帢 [qia4] {hap1} /(sorte de chapeau)/
-????f 帩 帩 [qiao4] {ciu3} /foulard (pour la tête)/
-????f 師公 师公 [shi1 gong1] {si1 gung1} /maître d'un maître/père d'un maître/
-????f 師太 师太 [shi1 tai4] {si1 taai3} /maître (de sexe féminin)/femme d'un maître/
+????m 帩 帩 [qiao4] {ciu3} /foulard (pour la tête); fichu/
+師公 师公 [shi1 gong1] {si1 gung1} /maître d'un maître/père d'un maître/
+師太 师太 [shi1 tai4] {si1 taai3} /maître (de sexe féminin)/femme d'un maître/
 師奶強人 师奶强人 [shi1 nai3 qiang2 ren2] {si1 naai1 koeng4 jan4} /feuilleton cantonais, « As Sure As Fate »/femme au foyer/
-????f 師奶殺手 师奶杀手 [shi1 nai3 sha1 shou3] {si1 naai1 saat3 sau2} /(expr. idiom.) homme d'âge mûr que les femmes d'âge moyen trouvent séduisant/(lit.) meurtrier des femmes au foyer/
+師奶殺手 师奶杀手 [shi1 nai3 sha1 shou3] {si1 naai1 saat3 sau2} /(expr. idiom.) homme d'âge mûr que les femmes d'âge moyen trouvent séduisant/(lit.) assassin des femmes au foyer/
 師姑 师姑 [shi1 gu1] {si1 gu1} /nonne bouddhiste/
 師姑尿 师姑尿 [shi1 gu1 niao4] {si1 gu1 niu6} /(fig.) fade; sans goût/(lit.) urine d'une nonne bouddhiste/
-????f 師承 师承 [shi1 cheng2] {si1 sing4} /transmettre des compétences; transmettre du savoir-faire/
-????f 師法 师法 [shi1 fa3] {si1 faat3} /apprendre ou imiter un maître/connaissance transmise par un maître/
+師承 师承 [shi1 cheng2] {si1 sing4} /transmettre des compétences; transmettre du savoir-faire/
+師法 师法 [shi1 fa3] {si1 faat3} /apprendre ou imiter un maître/connaissance transmise par un maître/
 師爺 师爷 [shi1 ye5] {si1 je4} /assistant juridique/
 師範 师范 [shi1 fan4] {si1 faan6} /école normale (voir aussi 師範學校|师范学校)/
 師範學校 师范学校 [shi1 fan4 xue2 xiao4] {si1 faan6 hok6 haau6} /école normale; institut pédagogique/
@@ -7380,15 +7380,15 @@
 席豐履厚 席丰履厚 [xi2 feng1 lu:3 hou4] {zik6 fung1 lei5 hau5} /(expr. idiom.) se dorloter; vivre une vie confortable/
 席間 席间 [xi2 jian1] {zik6 gaan1} /(soutenu) pendant le banquet/
 帳面 帐面 [zhang4 mian4] {zoeng3 min2} /(valeur) comptable/
-????f 帶位 带位 [dai4 wei4] {daai3 wai2} /ouvreur; placeur/
+????c 帶位 带位 [dai4 wei4] {daai3 wai2} /ouvreur; placeur/
 帶備 带备 [dai4 bei4] {daai3 bei6} /apporter/préparer/
-????f 帶入 带入 [dai4 ru4] {daai3 jap6} /apporter (quelque chose dans un endroit)/
+帶入 带入 [dai4 ru4] {daai3 jap6} /apporter (quelque chose dans un endroit)/
 帶埋 带埋 [dai4 mai2] {daai3 maai4} /également apporter; aussi apporter/
 帶子 带子 [dai4 zi5] {daai2 zi2} /pétoncle; coquille St-Jacques/
-????f 帶挈 带挈 [dai4 qie4] {daai3 hit3} /apporter une occasion (financière ou pour progresser sa carrière/
+帶挈 带挈 [dai4 qie4] {daai3 hit3} /offrir la possibilité de progresser la carrière d'autrui; apporter du bénéfice à (quelqu'un d'autre)/
 帶水 带水 [dai4 shui3] {daai3 seoi2} /naviguer/navigateur, navigatrice/
-????f 帶眼 带眼 [dai4 yan3] {daai3 ngaan5} /être conscient de son environnement/
-????f 帶眼識人 带眼识人 [dai4 yan3 shi2 ren2] {daai3 ngaan5 sik1 jan4} /être prudent en faisant connaissance avec quelqu'un; faire la différence entre les bonnes et mauvaises personnes/
+????f 帶眼 带眼 [dai4 yan3] {daai3 ngaan5} /(fig.) faire attention aux alentours; être attentif à ce qui vous entoure/(lit.) apporter les yeux/
+帶眼識人 带眼识人 [dai4 yan3 shi2 ren2] {daai3 ngaan5 sik1 jan4} /(expr.) être prudent lors de la première rencontre avec quelqu'un; faire la différence entre les bonnes et mauvaises personnes/
 帷幄 帷幄 [wei2 wo4] {wai4 ak1} /tente militaire chinoise/
 ????c 帷蓋 帷盖 [wei2 gai4] {wai4 goi3} /housse de voiture/couvercle de cercueil/drap funéraire/
 常例 常例 [chang2 li4] {soeng4 lai6} /pratique courante/
@@ -7400,21 +7400,21 @@
 常用 常用 [chang2 yong4] {soeng4 jung6} /d'usage courant/utiliser tout le temps/
 帽峰山 帽峰山 [mao4 feng1 shan1] {mou6 fung1 saan1} /Maofengshan, montagne située à Canton/
 ????c 幍 幍 [qia4] {tou1} /chapeau en tissu de la Chine ancienne/
-????f 幕前 幕前 [mu4 qian2] {mok6 cin4} /sur scène (par opposition aux coulisses)/
+????m 幕前 幕前 [mu4 qian2] {mok6 cin4} /sur scène; devant les caméras/
 幕門 幕门 [mu4 men2] {mok6 mun4} /portes palières; portes de quai; portes automatiques situées sur le bord d'un quai de métro/
-????f 幡然悔悟 幡然悔悟 [fan1 ran2 hui3 wu4] {faan1 jin4 fui3 ng6} /(expr.) soudainement voir son erreur et se repentir/
+幡然悔悟 幡然悔悟 [fan1 ran2 hui3 wu4] {faan1 jin4 fui3 ng6} /(expr.) voir ses erreurs et se repentir/
 幢 幢 [chuang2] {zong6} /(classificateur pour édifices)/
 幧 幧 [qiao1] {ciu1} /(arch.) morceau de tissu pour attacher les cheveux d'un homme/chapeau/
-????f 幫下眼 帮下眼 [bang1 xia4 yan3] {bong1 haa6 ngaan5} /aider quelqu'un à vérifier quelque chose; aider quelqu'un à veiller sur quelque chose; aider quelqu'un à choisir quelque chose/
-????f 幫口 帮口 [bang1 kou3] {bong1 hau2} /dire quelque chose pour aider/aider quelqu'un à s'exprimer/plaider/
-????f 幫埋單 帮埋单 [bang1 mai2 dan1] {bong1 maai4 daan1} /aider à régler l'addition/
+幫下眼 帮下眼 [bang1 xia4 yan3] {bong1 haa6 ngaan5} /(fig.) aider quelqu'un à vérifier quelque chose/(fig.) aider quelqu'un à veiller sur quelque chose/(fig.) aider quelqu'un à choisir quelque chose/(lit.) aider les yeux/
+幫口 帮口 [bang1 kou3] {bong1 hau2} /dire quelque chose pour aider quelqu'un/aider quelqu'un à s'exprimer/plaider/
+幫埋單 帮埋单 [bang1 mai2 dan1] {bong1 maai4 daan1} /aider à régler l'addition/
 幫忙 帮忙 [bang1 mang2] {bong1 mong4} /aider; donner un coup de main/
 幫手 帮手 [bang1 shou3] {bong1 sau2} /aider; donner un coup de main/aide/
 幫拖 帮拖 [bang1 tuo1] {bong1 to1} /aider; donner un coup de main/
-????f 幫理不幫親 帮理不帮亲 [bang1 li3 bu4 bang1 qin1] {bong1 lei5 bat1 bong1 can1} /(expr.) être du côté de la justice au lieu d'appuyer sa famille; la justice avant les membres de sa famille/
+幫理不幫親 帮理不帮亲 [bang1 li3 bu4 bang1 qin1] {bong1 lei5 bat1 bong1 can1} /(expr.) être du côté de la justice au lieu d'appuyer sa famille; la justice avant les membres de sa famille/
 幫眼 帮眼 [bang1 yan3] {bong1 ngaan5} /aider quelqu'un à vérifier quelque chose; aider quelqu'un à veiller sur quelque chose; aider quelqu'un à choisir quelque chose/
 幫補 帮补 [bang1 bu3] {bong1 bou2} /gagner un peu d'argent/soutenir financièrement/
-????f 幫襯 帮衬 [bang1 chen4] {bong1 can3} /fréquenter; être client d'un boutique/
+幫襯 帮衬 [bang1 chen4] {bong1 can3} /fréquenter; être client d'un boutique/
 幫辦仔 帮办仔 [bang1 ban4 zi3] {bong1 baan2 zai2} /(police) inspecteur stagiaire/
 干炒牛河 干炒牛河 [gan1 chao3 niu2 he2] {gon1 caau2 ngau4 ho2} /chow fun au boeuf, beef chow fun, plat cantonais de nouilles de riz, sauté de boef, et pousses de haricot mungo/
 干諾道 干诺道 [gan1 nuo4 dao4] {gon1 nok6 dou6} /Connaught Road, rue située à Hong Kong/
@@ -7424,7 +7424,7 @@
 平 平 [ping2] {ping4} /plat; plan/
 平到笑 平到笑 [ping2 dao4 xiao4] {peng4 dou3 siu3} /(expr. idiom.) très bon marché; à très bas prix; à un prix très avantageux/(lit.) tellement bon marché qu'on rit/
 平喉 平喉 [ping2 hou2] {ping4 hau4} /un des trois styles de chant de l'opéra cantonais, habituellement voix mâle/
-????f 平地一聲雷 平地一声雷 [ping2 di4 yi1 sheng1 lei2] {ping4 dei6 jat1 sing1 leoi4} /(expr. idiom.) popularité soudaine; ascension fulgurante/(expr. idiom.) ascension soudaine de statut social/(expr. idiom.) grand changement heureux et soudain/(lit.) tonnerre soudaine sur du terrain plat/
+????m 平地一聲雷 平地一声雷 [ping2 di4 yi1 sheng1 lei2] {ping4 dei6 jat1 sing1 leoi4} /(expr. idiom.) popularité soudaine; ascension fulgurante/(expr. idiom.) ascension soudaine de statut social/(expr. idiom.) grand changement heureux et soudain/(lit.) tonnerre soudaine sur du terrain plat/
 平均速度 平均速度 [ping2 jun1 su4 du4] {ping4 gwan1 cuk1 dou6} /vitesse moyenne/
 平安包 平安包 [ping2 an1 bao1] {ping4 on1 baau1} /« Ping on bun », petit pain traditionnel de Hong Kong/
 平平安安 平平安安 [ping2 ping2 an1 an1] {ping4 ping4 on1 on1} /sain et sauf/
@@ -7432,17 +7432,17 @@
 平心而論 平心而论 [ping2 xin1 er2 lun4] {ping4 sam1 ji4 leon6} /(expr.) discuter de manière objective et équitable/
 平心靜氣 平心静气 [ping2 xin1 jing4 qi4] {ping4 sam1 zing6 hei3} /(expr.) (personne) paisible; calme; tranquille/
 平方呎 平方尺 [ping2 fang1 chi3] {ping4 fong1 cek3} /pied carré/
-????f 平方數 平方数 [ping2 fang1 shu4] {ping4 fong1 sou3} /carré parfait; nombre carré/
+平方數 平方数 [ping2 fang1 shu4] {ping4 fong1 sou3} /carré parfait; nombre carré/
 平方英里 平方英里 [ping2 fang1 ying1 li3] {ping4 fong1 jing1 lei5} /mille carré/
 平時 平时 [ping2 shi2] {ping4 si4} /habituellement; d'habitude; normalement/
 平板 平板 [ping2 ban3] {ping4 baan2} /écran plat/tablette tactile; tablette électronique; tablette numérique (voir aussi 平板電腦|平板电脑)/
-????f 平板玻璃 平板玻璃 [ping2 ban3 bo1 li5] {ping4 baan2 bo1 lei1} /verre en feuille; plaque de verre/
+????m 平板玻璃 平板玻璃 [ping2 ban3 bo1 li5] {ping4 baan2 bo1 lei1} /verre en feuille; plaque de verre/
 平權 平权 [ping2 quan2] {ping4 kyun4} /égalité des droits/
 平治 平治 [ping2 zhi4] {ping4 zi6} /Mercedes-Benz, constructeur allemand d'automobiles/
 平沽 平沽 [ping2 gu1] {peng4 gu1} /vendre à bas prix; vendre à un prix avantageux/
-????c 平添 平添 [ping2 tian1] {ping4 tim1} /ajouter naturellement/
-????f 平穩 平稳 [ping2 wen3] {ping4 wan2} /stable/en douceur; sans heurt/
-????c 平等互惠 平等互惠 [ping2 deng3 hu4 hui4] {ping4 dang2 wu6 wai6} /symbiose; association mutuellement profitable/
+????m 平添 平添 [ping2 tian1] {ping4 tim1} /ajouter naturellement/
+平穩 平稳 [ping2 wen3] {ping4 wan2} /stable/en douceur; sans heurt/
+平等互惠 平等互惠 [ping2 deng3 hu4 hui4] {ping4 dang2 wu6 wai6} /symbiose; association mutuellement profitable/partager de manière équitable les bénéfices/
 平等機會委員會 平等机会委员会 [ping2 deng3 ji1 hui4 wei3 yuan2 hui4] {ping4 dang2 gei1 wui6 wai2 jyun4 wui2} /« Equal Opportunities Commission », commission de chances égales, commission du gouvernement de Hong Kong/
 平衡 平衡 [ping2 heng2] {ping4 hang4} /équilibre/
 平角 平角 [ping2 jiao3] {ping4 gok3} /angle plat; 180°/
@@ -7457,19 +7457,19 @@
 年利 年利 [nian2 li4] {nin4 lei6} /taux d'intérêt annuel/
 年卅晚 年卅晚 [nian2 sa4 wan3] {nin4 saa1 maan5} /réveillon du Nouvel An chinois/
 年宵 年宵 [nian2 xiao1] {nin4 siu1} /Nouvel An chinois/
-????f 年宵市場 年宵市场 [nian2 xiao1 shi4 chang3] {nin4 siu1 si5 coeng4} /marché du Nouvel An chinois; foire du Nouvel An chinois/
-????f 年宵花市 年宵花市 [nian2 xiao1 hua1 shi4] {nin4 siu1 faa1 si5} /foire du Nouvel An chinois; marché aux fleurs du Nouvel An chinois/
-????c 年少老成 年少老成 [nian2 shao4 lao3 cheng2] {nin4 siu3 lou5 sing4} /(personne) mature pour son âge/
+年宵市場 年宵市场 [nian2 xiao1 shi4 chang3] {nin4 siu1 si5 coeng4} /marché du Nouvel An chinois; foire du Nouvel An chinois/
+年宵花市 年宵花市 [nian2 xiao1 hua1 shi4] {nin4 siu1 faa1 si5} /foire du Nouvel An chinois; marché aux fleurs du Nouvel An chinois/
+????c 年少老成 年少老成 [nian2 shao4 lao3 cheng2] {nin4 siu3 lou5 sing4} /(expr.) (personne) mature pour son âge/
 年晚 年晚 [nian2 wan3] {nin4 maan5} /fin de l'année lunaire/
 年期 年期 [nian2 qi1] {nin4 kei4} /période d'un an/
 年班 年班 [nian2 ban1] {nin4 baan1} /classe; année; niveau scolaire/
-????c 年生 年生 [nian2 sheng1] {nin4 sang1} /né dans l'année.../date de naissance/(plante) annuel/
+年生 年生 [nian2 sheng1] {nin4 saang1} /né dans l'année.../date de naissance/
 年產量 年产量 [nian2 chan3 liang4] {nin4 caan2 loeng6} /rendement annuel/
-????f 年畫 年画 [nian2 hua4] {nin4 waa2} /banhua du Nouvel An chinois, image utilisé pour la décoration lors des festivités du Nouvel An chinois/
+年畫 年画 [nian2 hua4] {nin4 waa2} /banhua du Nouvel An chinois, image utilisé pour la décoration lors des festivités du Nouvel An chinois/
 年糕 年糕 [nian2 gao1] {nin4 gou1} /niangao, gâteau de l'an, gâteau de riz parfumé au haricot rouge et longane consommé au Nouvel An chinois/
 年紀輕輕 年纪轻轻 [nian2 ji4 qing1 qing1] {nin4 gei2 heng1 heng1} /jeune/
 年花 年花 [nian2 hua1] {nin4 faa1} /fleurs du Nouvel An chinois/
-????f 年鑒 年鉴 [nian2 jian4] {nin4 gaam3} /annuaire, (en particulier) une publication annuelle recueillant des statistiques, l'histoire, nouvelles, etc. d'une ville ou province/
+年鑒 年鉴 [nian2 jian4] {nin4 gaam3} /annuaire, (en particulier) une publication annuelle recueillant des statistiques, l'histoire, nouvelles, etc. d'une ville ou province/
 年青人 年青人 [nian2 qing1 ren2] {nin4 cing1 jan4} /adolescents; les jeunes/
 年齡限制 年龄限制 [nian2 ling2 xian4 zhi4] {nin4 ling4 haan6 zai3} /limite d'âge/
 幸福 幸福 [xing4 fu2] {hang6 fuk1} /bonheur; bien-être/
@@ -7489,7 +7489,7 @@
 幼鹽 幼盐 [you4 yan2] {jau3 jim4} /sel fin/
 幽咽 幽咽 [you1 ye4] {jau1 jit3} /pleurnicher; gémir/
 幽幽 幽幽 [you1 you1] {jau1 jau1} /(son, lumière) faible/
-????f 幽思 幽思 [you1 si1] {jau1 si1} /penser au passé; penser à ses souvenirs; remémorer/
+????m 幽思 幽思 [you1 si1] {jau1 si1} /penser au passé; penser à ses souvenirs; remémorer/
 ????f 幽情 幽情 [you1 qing2] {jau1 cing4} /humeur pensive/
 幽閒 幽闲 [you1 xian2] {jau1 haan4} /paisible; tranquille; insouciant/
 幾 几 [ji3] {gei2} /quoi/quel, quelle/que/assez; plutôt/
