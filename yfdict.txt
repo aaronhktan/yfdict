@@ -7999,12 +7999,12 @@
 忳 忳 [tun2] {tyun4, zeon1, tan4} /ignorant/déprimé/
 念 念 [nian4] {nim6} /penser/
 念口黃 念口黄 [nian4 kou3 huang2] {nim6 hau2 wong2} /réciter par coeur sans comprendre/lire sans comprendre/
-????c 忺 忺 [xian1] {him1} /content; satisfait/confortable/
+忺 忺 [xian1] {him1} /(litt.) content; satisfait/(litt.) confortable/
 忽 忽 [hu1] {fat1} /derrière; fesses/
 忽得 忽得 [hu1 de2] {fat1 dak1} /méthaqualone, dépresseur du système nerveux central/
 忽然間 忽然间 [hu1 ran2 jian1] {fat1 jin4 gaan1} /tout d'un coup; soudainement/
-????f 忿氣 忿气 [fen4 qi4] {fan6 hei3} /capable d'admettre un échec/
-????c 怊 怊 [chao1] {ciu1, tiu4} /frustration; vide/tristesse/
+忿氣 忿气 [fen4 qi4] {fan6 hei3} /capable d'admettre un échec; admettre la défaite/accepter; se soumettre/
+怊 怊 [chao1] {ciu1, tiu4} /frustration/tristesse; déception/triste; déçu/
 怎搞 怎搞 [zen3 gao3] {zam2 gaau2} /que faire?/
 怒火中燒 怒火中烧 [nu4 huo3 zhong1 shao1] {nou6 fo2 zung1 siu1} /(expr.) très fâché; très en colère; enragé; furieux/
 怒號 怒号 [nu4 hao2] {nou6 hou4} /hurler de colère/
@@ -8015,9 +8015,9 @@
 怕醜 怕丑 [pa4 chou3] {paa3 cau2} /timide/
 怕醜草 怕丑草 [pa4 chou3 cao3] {paa3 cau2 cou2} /(espèce de plantes) mimosa pudique; sensitive; Manzelle Marie; trompe la mort; herbe mamzelle; honteuse femelle; Marie-honte/
 思 思 [si1] {si1} /manquer à/penser à/idée/
-????f 思思縮縮 思思缩缩 [si1 si1 su4 su4] {si1 si1 suk1 suk1} /furtif; discret; subreptice/timide; socialement maladroit/
+思思縮縮 思思缩缩 [si1 si1 su4 su4] {si1 si1 suk1 suk1} /furtif; discret; subreptice/timide; socialement maladroit/
 思疑 思疑 [si1 yi2] {si1 ji4} /soupçonner; suspecter; douter/doute; suspicion; méfiance/
-????f 思縮 思缩 [si1 suo1] {si1 suk1} /furtif; discret; subreptice/timide; socialement maladroit/
+思縮 思缩 [si1 suo1] {si1 suk1} /furtif; discret; subreptice/timide; socialement maladroit/
 思考 思考 [si1 kao3] {si1 haau2} /penser; réfléchir à/
 怡和 怡和 [yi2 he2] {ji4 wo2} /Jardine (dans le nom « Jardine Matheson », conglomérat basé à Hong Kong)/
 怡和洋行 怡和洋行 [yi2 he2 yang2 hang2] {ji4 wo2 joeng4 hong2} /Jardine Matheson, conglomérat basé à Hong Kong/
@@ -8025,7 +8025,7 @@
 急不及待 急不及待 [ji2 bu4 ji2 dai4] {gap1 bat1 kap6 doi6} /(expr.) avoir hâte de; être impatient de/
 急凍 急冻 [ji2 dong4] {gap1 dung3} /geler; congeler; surgeler/gelé; congelé; surgelé/
 急凍食物 急冻食物 [ji2 dong4 shi2 wu4] {gap1 dung3 sik6 mat6} /produit alimentaire surgelé/
-????f 急到爆缸 急到爆缸 [ji2 dao4 bao4 gang1] {gap1 dou3 baau3 gong1} /(expr. idiom.) très urgent; qui a besoin d'être résolu immédiatement/(lit.) se sentir comme si l'on explosait quand on a besoin d'aller aux toilettes/
+急到爆缸 急到爆缸 [ji2 dao4 bao4 gang1] {gap1 dou3 baau3 gong1} /(expr. idiom.) très urgent; qui a besoin d'être résolu immédiatement/(lit.) se sentir comme si l'on explosait quand on a besoin d'aller aux toilettes/
 急口令 急口令 [ji2 kou3 ling4] {gap1 hau2 ling6} /virelangue; casse-langue; fourchelangue/
 急就章 急就章 [ji2 jiu4 zhang1] {gap1 zau6 zoeng1} /improvisation; faire quelque chose de manière précipitée/(lit.) rédaction écrite rapidement/
 急尿 急尿 [ji2 niao4] {gap1 niu6} /avoir besoin d'uriner/
@@ -8035,14 +8035,14 @@
 急救中心 急救中心 [ji2 jiu4 zhong1 xin1] {gap1 gau3 zung1 sam1} /centre de secours d'urgence/
 急於 急于 [ji2 yu2] {gap1 jyu1} /avoir hâte de; être impatient de/
 急時抱佛腳 急时抱佛脚 [ji2 shi2 bao4 fo2 jiao3] {gap1 si4 pou5 fat6 goek3} /(expr. idiom.) remettre à plus tard; procrastiner/(lit.) en temps d'urgence, serrer les pieds de Bouddha/
-????f 急流勇退 急流勇退 [ji2 liu2 yong3 tui4] {gap1 lau4 jung5 teoi3} /(expr.) prendre sa retraite au sommet de sa carrière; prendre sa retraite à l'apogée de sa carrière/
-????f 急湍 急湍 [ji2 tuan1] {gap1 teon1} /rapides (partie d'un cours d'eau qui descend rapidement)/
+急流勇退 急流勇退 [ji2 liu2 yong3 tui4] {gap1 lau4 jung5 teoi3} /(expr.) prendre sa retraite au sommet de sa carrière; prendre sa retraite à l'apogée de sa carrière/
+急湍 急湍 [ji2 tuan1] {gap1 teon1} /rapides (partie d'un cours d'eau qui descend rapidement)/
 急症室 急症室 [ji2 zheng4 shi4] {gap1 zing3 sat1} /salle d'urgence/
-????f 急起直追 急起直追 [ji2 qi3 zhi2 zhui1] {gap1 hei2 zik6 zeoi1} /travailler fort pour rattraper son retard/
+急起直追 急起直追 [ji2 qi3 zhi2 zhui1] {gap1 hei2 zik6 zeoi1} /(expr.) travailler fort pour rattraper son retard/
 急跌 急跌 [ji2 die1] {gap1 dit3} /plonger; baisser fortement; chuter; dégringoler/
 急風 急风 [ji2 feng1] {gap1 fung1} /bourrasque; rafale/typhon; cyclone tropical/
 急風暴雨 急风暴雨 [ji2 feng1 bao4 yu3] {gap1 fung1 bou6 jyu5} /violente tempête; orage soudain et intense/
-????c 急驚風遇着慢郎中 急惊风遇着慢郎中 [ji2 jing1 feng1 yu4 zhao2 man4 lang2 zhong1] {gap1 ging1 fung1 jyu6 zoek6 maan6 long4 zung1} /(expr. idiom.) rater la date limite à cause d'une personne qui travaille de manière inefficace lors d'une urgence/(lit.) rencontrer un homme lent lors d'un ouragan/
+????m 急驚風遇着慢郎中 急惊风遇着慢郎中 [ji2 jing1 feng1 yu4 zhao2 man4 lang2 zhong1] {gap1 ging1 fung1 jyu6 zoek6 maan6 long4 zung1} /(expr. idiom.) rater la date limite à cause d'une personne qui travaille de manière inefficace lors d'une urgence/(lit.) rencontrer un homme lent lors d'un ouragan/
 性上癮 性上瘾 [xing4 shang4 yin3] {sing3 soeng5 jan5} /dépendance au sexe; accro au sexe/
 性傾向 性倾向 [xing4 qing1 xiang4] {sing3 king1 hoeng3} /orientation sexuelle/
 性命交關 性命交关 [xing4 ming4 jiao1 guan1] {sing3 ming6 gaau1 gwaan1} /(expr.) très important; question de vie ou de mort; importance capitale/
@@ -8063,11 +8063,11 @@
 ????c 怪石嶙峋 怪石嶙峋 [guai4 shi2 lin2 xun2] {gwaai3 sek6 leon4 seon1} /(expr. idiom.) (péj.) décharné et maigrichon/(lit.) roches étranges les uns à côté des autres/
 怪裡怪氣 怪里怪气 [guai4 li5 guai4 qi4] {gwaai3 leoi5 gwaai3 hei3} /(péj.) bizarre; étrange; curieux/(péj.) qui a l'air bizarre; d'aspect étrange/
 怪談 怪谈 [guai4 tan2] {gwaai3 taam4} /histoires de fantôme/
-????f 怪責 怪责 [guai4 ze2] {gwaai3 zaak3} /rejeter la faute sur quelqu'un; en vouloir à quelqu'un/
+怪責 怪责 [guai4 ze2] {gwaai3 zaak3} /rejeter la faute sur quelqu'un; imputer quelque chose à quelqu'un/
 怪錯 怪错 [guai4 cuo4] {gwaai3 co3} /accuser à tort/
 怪雞 怪鸡 [guai4 ji1] {gwaai3 gai1} /(fam.) bizarre; étrange; curieux/
 ????c 怯頭怯腦 怯头怯脑 [qie4 tou2 qie4 nao3] {hip3 tau4 hip3 nou5} /nerveux; anxieux; peureux; timide/lâche; qui manque de courage/grossier; rustique/
-????f 恃 恃 [shi4] {ci5} /tirer profit de; profiter de (to take advantage of one's background to do something; to abuse something to get an advantage)/
+恃 恃 [shi4] {ci5} /tirer profit de; profiter de/
 ????f 恃勢欺人 恃势欺人 [shi4 shi4 qi1 ren2] {ci5 sai3 hei1 jan4} /profiter de la situation; abuser de sa position pour tyranniser les autres/
 ????f 恃強凌弱 恃强凌弱 [shi4 qiang2 ling2 ruo4] {ci5 koeng4 ling4 joek6} /(étant plus fort) tyranniser les plus faibles/
 恃熟賣熟 恃熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /(expr. diom.) profiter de ses amis; exploiter sa famille ou ses proches; abuser de la gentillesse des personnes que l'on connaît/
