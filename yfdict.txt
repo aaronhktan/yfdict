@@ -8308,7 +8308,7 @@
 應允 应允 [ying4 yun3] {jing3 wan5} /permettre; donner l'autorisation à; consentir/
 應得 应得 [ying1 de2] {jing1 dak1} /mériter; devoir obtenir; devoir avoir/
 應用 应用 [ying4 yong4] {jing3 jung6} /appliquer; utiliser/application; logiciel/
-????c 應用技術 应用技术 [ying4 yong4 ji4 shu4] {jing3 jung6 gei6 seot6} /technologie d'application/compétences applicables/
+????m 應用技術 应用技术 [ying4 yong4 ji4 shu4] {jing3 jung6 gei6 seot6} /technologie d'application/compétences applicables/
 應節 应节 [ying4 jie2] {jing3 zit3} /fêter; être festive/
 應酬 应酬 [ying4 chou5] {jing3 cau4} /activité sociale; soirée; dîner/
 懊悔 懊悔 [ao4 hui3] {ou3 fui3} /regretter/
@@ -8325,25 +8325,25 @@
 懵然 懵然 [meng3 ran2] {mung2 jin4} /par ignorance; stupidement/
 懵盛盛 懵盛盛 [meng3 sheng4 sheng4] {mung2 sing6 sing6} /(péj.) distrait; étourdi/
 懵閉閉 懵闭闭 [meng3 bi4 bi4] {mung2 bai3 bai3} /(péj.) distrait; étourdi/
-????f 懶人多屎尿 懒人多屎尿 [lan3 ren2 duo1 shi3 niao4] {laan5 jan4 do1 si2 niu6} /(expr. idiom.) une personne paresseuse trouve toujours des excuses/(lit.) une personne paresseuse a beaucoup de caca et d'urine (=une personne paresseuse a toujours besoin d'aller aux toilettes)/
+懶人多屎尿 懒人多屎尿 [lan3 ren2 duo1 shi3 niao4] {laan5 jan4 do1 si2 niu6} /(expr. idiom.) une personne paresseuse trouve toujours des excuses/(lit.) une personne paresseuse a beaucoup de caca et d'urine (=une personne paresseuse a toujours besoin d'aller aux toilettes)/
 懶佬 懒佬 [lan3 lao3] {laan5 lou2} /fainéant; flemmard; personne paresseuse/
 懶佬工夫 懒佬工夫 [lan3 lao3 gong1 fu5] {laan5 lou2 gung1 fu1} /(expr.) affaire simple; travail facile/(lit.) travail d'une personne paresseuse/
 懶佬椅 懒佬椅 [lan3 lao3 yi3] {laan5 lou2 ji2} /chaise longue/(lit.) chaise d'un homme paresseux/
 懶佬鞋 懒佬鞋 [lan3 lao3 xie2] {laan5 lou2 haai4} /(fam.) souliers sans lacets/(fam.) mocassin/(lit.) souliers pour fainéants/
 懶慢 懒慢 [lan3 man4] {laan5 maan6} /paresseux; lent/
 懶懶閒 懒懒间 [lan3 lan3 jian1] {laan5 laan5 haan4} /paresseux; fainéant/
-????c 懶有型 懒有型 [lan3 you3 xing2] {laan5 jau5 jing4} /se croire beau; se croire chic/
+懶有型 懒有型 [lan3 you3 xing2] {laan5 jau5 jing4} /se croire beau; se croire chic/
 懶理 懒理 [lan3 li3] {laan5 lei5} /ça m'est égal; peu importe; je me fous; je m'en fiche/
 懶瞓豬 懒瞓猪 [lan3 fen4 zhu1] {laan5 fan3 zyu1} /(péj.) personne qui dort beaucoup; personne paresseuse/(lit.) cochon dormant/
 懶蛇 懒蛇 [lan3 she2] {laan5 se4} /(fig.) fainéant; flemmard; homme paresseux/(lit.) serpent paresseux/
 懶音 懒音 [lan3 yin1] {laan5 jam1} /sons altérés, ou prononciation familière, utilisé en particulier pour désigner des changements de prononciation du cantonais/(lit.) sons paresseux/
 懷念 怀念 [huai2 nian4] {waai4 nim6} /manquer à (tu me manques, etc.)/mémorable/
 懷鄉病 怀乡病 [huai2 xiang1 bing4] {waai4 hoeng1 beng6} /s'ennuyer de ses parents; vouloir rentrer chez soi/avoir le mal du pays/
-????f 懸紅 悬红 [xuan2 hong2] {jyun4 hung4} /prime (dans le sens d'un chasseur de primes)/
+懸紅 悬红 [xuan2 hong2] {jyun4 hung4} /prime (dans le sens d'un chasseur de primes)/
 懸隔 悬隔 [xuan2 ge2] {jyun4 gaak3} /être séparé par une grande distance/
-????f 懼色 惧色 [ju4 se4] {geoi6 sik1} /regard de peur/
+????f 懼色 惧色 [ju4 se4] {geoi6 sik1} /expression de peur/
 懿德 懿德 [yi4 de2] {ji3 dak1} /empereur Itoku, quatrième empereur du Japon/vertu; excellence morale/
-????c 懿範 懿范 [yi4 fan4] {ji3 faan6} /vertu; moralité/
+????m 懿範 懿范 [yi4 fan4] {ji3 faan6} /vertu; moralité/
 懿行 懿行 [yi4 xing2] {ji3 hang6} /conduite exemplaire/
 戀 恋 [lian4] {lyun2} /aimer; tomber amoureux/
 戀童 恋童 [lian4 tong2] {lyun2 tung4} /pédophilie/
@@ -8362,13 +8362,13 @@
 成事 成事 [cheng2 shi4] {sing4 si6} /avoir du succès; réussir/
 成交 成交 [cheng2 jiao1] {sing4 gaau1} /conclure un marché; faire un marché/
 成交量 成交量 [cheng2 jiao1 liang4] {sing4 gaau1 loeng6} /volume des transactions/
-????c 成交額 成交额 [cheng2 jiao1 e2] {sing4 gaau1 ngaak2} /rotation des stocks/
-????f 成人之美 成人之美 [cheng2 ren2 zhi1 mei3] {sing4 jan4 zi1 mei5} /aider quelqu'un a atteindre son but/
+????m 成交額 成交额 [cheng2 jiao1 e2] {sing4 gaau1 ngaak2} /rotation des stocks/chiffre d'affaires/
+成人之美 成人之美 [cheng2 ren2 zhi1 mei3] {sing4 jan4 zi1 mei5} /(expr. idiom.) aider quelqu'un à atteindre son but/
 成人教育 成人教育 [cheng2 ren2 jiao4 yu4] {sing4 jan4 gaau3 juk6} /éducation des adultes/
 成人電影 成人电影 [cheng2 ren2 dian4 ying3] {sing4 jan4 din6 jing2} /pornographie; porno; film pornographique/
 成仁取義 成仁取义 [cheng2 ren2 qu3 yi4] {sing4 jan4 ceoi2 ji6} /mourir pour une bonne cause/
 成個 成个 [cheng2 ge4] {sing4 go3} /entier; tout/
-????f 成命 成命 [cheng2 ming4] {sing4 ming6} /ordonnance ou ordre déjà faite/décision déjà faite/
+成命 成命 [cheng2 ming4] {sing4 ming6} /ordonnance rendue/décision déjà prise/
 成問題 成问题 [cheng2 wen4 ti2] {sing4 man6 tai4} /devenir un problème; devenir une controverse ou polémique/
 成奎安 成奎安 [cheng2 kui2 an1] {sing4 fui1 on1} /Shing Fui-On, acteur hongkongais/
 成就感 成就感 [cheng2 jiu4 gan3] {sing4 zau6 gam2} /sentiment d'accomplissement/
@@ -8378,15 +8378,15 @@
 成朝早 成朝早 [cheng2 chao2 zao3] {seng4 ziu1 zou2} /toute la matinée/
 成村人 成村人 [cheng2 cun1 ren2] {seng4 cyun1 jan4} /(fig.) grande foule; cohue; beaucoup de gens; beaucoup de personnes/(lit.) toute une village de personnes/
 成果 成果 [cheng2 guo3] {sing4 gwo2} /résultat; réussite; fruit (d'un travail)/
-????c 成氣候 成气候 [cheng2 qi4 hou5] {sing4 hei3 hau6} /having a prospect or an achievement/
+????m 成氣候 成气候 [cheng2 qi4 hou5] {sing4 hei3 hau6} /avoir une réussite/avoir de bonnes perspectives; avoir du potentiel/
 成為事實 成为事实 [cheng2 wei2 shi4 shi2] {sing4 wai4 si6 sat6} /se réaliser; devenir réalité/
-????c 成盤 成盘 [cheng2 pan2] {sing4 pun4} /tout un plateau/toute une assiette/
+成盤 成盘 [cheng2 pan2] {sing4 pun4} /tout un plateau/toute une assiette/
 成績表 成绩表 [cheng2 ji4 biao3] {sing4 zik1 biu2} /bulletin de notes, bulletin scolaire/relevé de notes/
 成羣 成羣 [cheng2 qun2] {sing4 kwan4} /des groupes de (quelque chose)/beaucoup de/former des groupes/
 成行成市 成行成市 [cheng2 hang2 cheng2 shi4] {sing4 hong4 sing4 si5} /(affaires) être en plein essor; être florissant; aller bien/
 成身 成身 [cheng2 shen1] {seng4 san1} /tout le corps; le corps entier/
 成長 成长 [cheng2 zhang3] {sing4 zoeng2} /grandir/croître/
-????f 成龍配套 成龙配套 [cheng2 long2 pei4 tao4] {sing4 lung4 pui3 tou3} /relier plusieurs parties disparates pour former un système complet/
+????m 成龍配套 成龙配套 [cheng2 long2 pei4 tao4] {sing4 lung4 pui3 tou3} /relier plusieurs parties disparates pour former un système complet/
 我來自潮州 我来自潮州 [wo3 lai2 zi4 chao2 zhou1] {ngo5 loi4 zi6 ciu4 zau1} /« I come from Chaozhou » (« Je viens de Chaozhou »), série télévisée hongkongaise/
 我哋 我哋 [wo3 di4] {ngo5 dei6} /nous; nous autres/
 我哋嘅 我哋嘅 [wo3 di4 ge2] {ngo5 dei6 ge3} /notre; à nous/
@@ -8397,14 +8397,14 @@
 我愛你 我爱你 [wo3 ai4 ni3] {ngo5 oi3 nei5} /je t'aime/
 我的 我的 [wo3 de5] {ngo5 dik1} /mon; ma/mien; mienne/(voir aussi 我嘅|我嘅)/
 我自己 我自己 [wo3 zi4 ji3] {ngo5 zi6 gei2} /moi-même/
-????f 戒口 戒口 [jie4 kou3] {gaai3 hau2} /éviter certaines nourritures/
-????f 戒奶 戒奶 [jie4 nai3] {gaai3 naai5} /(bébé) être sevré; cesser de boire le lait de sa mère/
-????f 戒賭 戒赌 [jie4 du3] {gaai3 dou2} /arrêter de jouer; arrêter les activités de jeu/
+戒口 戒口 [jie4 kou3] {gaai3 hau2} /éviter certaines nourritures (se dit en général pour des raisons de santé)/
+戒奶 戒奶 [jie4 nai3] {gaai3 naai5} /(bébé) être sevré; cesser de boire le lait de sa mère/
+戒賭 戒赌 [jie4 du3] {gaai3 dou2} /arrêter de jouer; arrêter les activités de jeu; ne plus jouer les jeux d'argent/
 戕賊 戕贼 [qiang1 zei2] {coeng4 caak6} /blesser; faire du mal/
 戙企 戙企 [dong4 qi3] {dung6 kei5} /vertical/qui se tient debout/se tenir debout/
 戙企水魚 戙企水鱼 [dong4 qi3 shui3 yu2] {dung6 kei5 seoi2 jyu2} /(fig.) (péj.) petites personnes grosses/(lit.) tortue qui se tient debout/
 戙篤企 戙笃企 [dong4 du3 qi3] {dung6 duk1 kei5} /vertical/qui se tient debout/
-????f 戙起牀板 戙起床板 [dong4 qi3 chuang2 ban3] {dung6 hei2 cong4 baan2} /(expr. idiom.) travailler très tard/
+戙起牀板 戙起床板 [dong4 qi3 chuang2 ban3] {dung6 hei2 cong4 baan2} /(expr. idiom.) travailler tard/(expr. idiom) passer une nuit blanche/
 戡亂 戡乱 [kan1 luan4] {ham1 lyun6} /réprimer une rébellion; écraser une rébellion/
 戥 戥 [deng3] {dang6} /se joindre à/
 戥穿石 戥穿石 [deng3 chuan1 shi2] {dang6 cyun1 sek6} /témoin (de mariage); garçons d'honneur/hommes qui aident le jeune marié le jour du mariage/
