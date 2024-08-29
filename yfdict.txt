@@ -6572,7 +6572,7 @@
 安士 安士 [an1 shi4] {on1 si2} /once/(orig.) de l'anglais « ounce » (« once »)/
 安大略 安大略 [an1 da4 lu:e4] {on1 daai6 loek6} /Ontario, province du Canada/
 安定 安定 [an1 ding4] {on1 ding6} /stabiliser; calmer/
-????m 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /argent versé à la famille d'un membre d'un gang quand il est emprisonné/rénumération versé par un employeur quand un employé est blessé ou meurt(vieilli) prime de déménagement; prime de déplacement/
+????m 安家費 安家费 [an1 jia1 fei4] {on1 gaa1 fai3} /argent versé à la famille d'un membre d'un gang quand il est emprisonné/indemnisation pour accident de travail/pension de survivant (Can.), pension de réversion (Fr.)/(vieilli) prime de déménagement; prime de déplacement/
 安德尊 安德尊 [an1 de2 zun1] {on1 dak1 zyun1} /Junior Anderson, acteur et présentateur de télévision hongkongais/
 安樂茶飯 安乐茶饭 [an1 le4 cha2 fan4] {on1 lok6 caa4 faan6} /(expr. idiom.) vivre une vie confortable/(lit.) thé et repas paisible/
 安歷卡 安历卡 [an1 li4 ka3] {on1 lik6 kaa1} /Nicolas Anelka, footballeur français/
@@ -8068,10 +8068,10 @@
 怪雞 怪鸡 [guai4 ji1] {gwaai3 gai1} /(fam.) bizarre; étrange; curieux/
 ????c 怯頭怯腦 怯头怯脑 [qie4 tou2 qie4 nao3] {hip3 tau4 hip3 nou5} /nerveux; anxieux; peureux; timide/lâche; qui manque de courage/grossier; rustique/
 恃 恃 [shi4] {ci5} /tirer profit de; profiter de/
-????f 恃勢欺人 恃势欺人 [shi4 shi4 qi1 ren2] {ci5 sai3 hei1 jan4} /profiter de la situation; abuser de sa position pour tyranniser les autres/
-????f 恃強凌弱 恃强凌弱 [shi4 qiang2 ling2 ruo4] {ci5 koeng4 ling4 joek6} /(étant plus fort) tyranniser les plus faibles/
+恃勢欺人 恃势欺人 [shi4 shi4 qi1 ren2] {ci5 sai3 hei1 jan4} /(expr.) profiter de la situation; abuser de sa position pour tyranniser les autres/
+恃強凌弱 恃强凌弱 [shi4 qiang2 ling2 ruo4] {ci5 koeng4 ling4 joek6} /(expr.) (étant plus fort) tyranniser les plus faibles/
 恃熟賣熟 恃熟卖熟 [shi4 shu2 mai4 shu2] {ci5 suk6 maai6 suk6} /(expr. diom.) profiter de ses amis; exploiter sa famille ou ses proches; abuser de la gentillesse des personnes que l'on connaît/
-????f 恃老賣老 恃老卖老 [shi4 lao3 mai4 lao3] {ci5 lou5 maai6 lou5} /(expr.) personnes âgées qui méprisent les autres/
+恃老賣老 恃老卖老 [shi4 lao3 mai4 lao3] {ci5 lou5 maai6 lou5} /(expr.) personnes âgées qui méprisent les autres/
 恆安 恒安 [heng2 an1] {hang4 on1} /Heng On, grand ensemble situé à Hong Kong/
 恆河沙 恒河沙 [heng2 he2 sha1] {hang4 ho4 saa1} /beaucoup/(lit.) comme les grains de sable sur les rives du Gange/
 恆生指數 恒生指数 [heng2 sheng1 zhi3 shu4] {hang4 sang1 zi2 sou3} /Hang Seng, indice boursier de la bourse de Hong Kong/
@@ -8083,33 +8083,33 @@
 恐怖 恐怖 [kong3 bu4] {hung2 bou3} /horrible; terrifiant; effrayant/
 恐怖份子 恐怖份子 [kong3 bu4 fen4 zi3] {hung2 bou3 fan6 zi2} /terroriste/
 恐懼感 恐惧感 [kong3 ju4 gan3] {hung2 geoi6 gam2} /peur; frayeur/
-????f 恕不奉陪 恕不奉陪 [shu4 bu4 feng4 pei2] {syu3 bat1 fung6 pui4} /(expr.) désolé de ne pas pouvoir vous tenir compagnie/
-????f 恕我直言 恕我直言 [shu4 wo3 zhi2 yan2] {syu3 ngo5 zik6 jin4} /(expr.) permettez-moi de le dire franchement; à vrai dire.../
-????f 恤金 恤金 [xu4 jin1] {seot1 gam1} /indemnisation pour accident de travail; rente pour accident de travail/pension de survivant (Can.), pension de réversion (Fr.)/
+????m 恕不奉陪 恕不奉陪 [shu4 bu4 feng4 pei2] {syu3 bat1 fung6 pui4} /(expr.) désolé de ne pas pouvoir vous tenir compagnie/
+恕我直言 恕我直言 [shu4 wo3 zhi2 yan2] {syu3 ngo5 zik6 jin4} /(expr.) permettez-moi de le dire franchement; n'en déplaise à; à vrai dire.../
+恤金 恤金 [xu4 jin1] {seot1 gam1} /indemnisation pour accident de travail/pension de survivant (Can.), pension de réversion (Fr.)/
 恤髮 恤发 [xu4 fa4] {seot1 faat3} /coupe de cheveux/
 恨 恨 [hen4] {han6} /haïr; détester/vouloir; désirer; convoiter/regretter/
 恨不相逢未嫁時 恨不相逢未嫁时 [hen4 bu4 xiang1 feng2 wei4 jia4 shi2] {han6 bat1 soeng1 fung4 mei6 gaa3 si4} /(expr.) regretter de ne pas avoir fait connaissance avec quelqu'un avant de se marier/
-????f 恨死隔籬 恨死隔篱 [hen4 si3 ge2 li2] {han6 sei2 gaak3 lei4} /(expr.) objet d'envie/(lit.) faire convoiter ses voisins/
-????f 恨錯 恨错 [hen4 cuo4] {han6 co3} /regretter ses erreurs/
+恨死隔籬 恨死隔篱 [hen4 si3 ge2 li2] {han6 sei2 gaak3 lei4} /(expr.) être l'objet d'envie/(lit.) faire convoiter ses voisins/
+恨錯 恨错 [hen4 cuo4] {han6 co3} /regretter une erreur/
 恩人 恩人 [en1 ren2] {jan1 jan4} /sauveur; bienfaiteur/
 恩寧路 恩宁路 [en1 ning2 lu4] {jan1 ning4 lou6} /Enning Road, rue située à Canton/
 恩將仇報 恩将仇报 [en1 jiang1 chou2 bao4] {jan1 zoeng1 sau4 bou3} /(expr. idiom.) mordre la main nourricière; cracher dans la soupe/
-????f 恩恩愛愛 恩恩爱爱 [e1 nen1 ai4 ai4] {jan1 jan1 oi3 oi3} /amour conjugal; amour entre un couple ou entre des parents et leurs enfants/
+????m 恩恩愛愛 恩恩爱爱 [e1 nen1 ai4 ai4] {jan1 jan1 oi3 oi3} /amour conjugal; amour entre un couple ou entre des parents et leurs enfants/
 恩情 恩情 [en1 qing2] {jan1 cing4} /gentillesse; service; acte de bonté/
 恩惠 恩惠 [en1 hui4] {jan1 wai6} /gentillesse; service; acte de bonté/
-????f 恪守不渝 恪守不渝 [ke4 shou3 bu4 yu2] {kok3 sau2 bat1 jyu4} /adhere to what one has previously promised/
+????m 恪守不渝 恪守不渝 [ke4 shou3 bu4 yu2] {kok3 sau2 bat1 jyu4} /(expr.) tenir ses promesses; ne pas dévier de que que l'on a promis/
 恭喜發財 恭喜发财 [gong1 xi3 fa1 cai2] {gung1 hei2 faat3 coi4} /bonne année!/(lit.) félicitations et faites fortune/
 ????c 恭賀春釐 恭贺春釐 [gong1 he4 chun1 lai4] {gung1 ho6 ceon1 hei1} /fêtes du Nouvel An chinois/
-????c 息勞歸主 息劳归主 [xi1 lao2 gui1 zhu3] {sik1 lou4 gwai1 zyu2} /to rest from one's labour and return to God/
+????m 息勞歸主 息劳归主 [xi1 lao2 gui1 zhu3] {sik1 lou4 gwai1 zyu2} /(expr.) reposer de ses travaux et retourner à Dieu/
 息口 息口 [xi1 kou3] {sik1 hau2} /taux d'intérêt/
-????f 息影 息影 [xi1 ying3] {sik1 jing2} /prendre sa retraite de l'industrie du spectacle/
+息影 息影 [xi1 ying3] {sik1 jing2} /prendre sa retraite de l'industrie du spectacle/
 ????c 息心 息心 [xi1 xin1] {sik1 sam1} /méditer; concentrer/se sentir soulagé/
 息息相關 息息相关 [xi1 xi1 xiang1 guan1] {sik1 sik1 soeng1 gwaan1} /(expr.) être étroitement liés l'un à l'autre/
 恰 恰 [qia4] {hap1} /approprié; convenable/taquiner; se moquer de; embêter/
 悅目 悦目 [yue4 mu4] {jyut6 muk6} /beau; joli; agréable à voir/
-????c 悔之莫及 悔之莫及 [hui3 zhi1 mo4 ji2] {fui3 zi1 mok6 kap6} /repentir trop tard/
+????f 悔之莫及 悔之莫及 [hui3 zhi1 mo4 ji2] {fui3 zi1 mok6 kap6} /(expr.) trop tard pour les regrets/
 悟道 悟道 [wu4 dao4] {ng6 dou6} /atteindre l'illumination/
-????f 悠悠蕩蕩 悠悠荡荡 [you1 you5 dang4 dang4] {jau4 jau4 dong6 dong6} /se balancer de gauche à droite; vaciller/
+????c 悠悠蕩蕩 悠悠荡荡 [you1 you5 dang4 dang4] {jau4 jau4 dong6 dong6} /se balancer de gauche à droite; vaciller/
 悢 悢 [liang4] {loeng6, long5} /contrarié; triste/
 您們 您们 [nin2 men5] {nei5 mun4} /(soutenu) vous/
 悱惻 悱恻 [fei3 ce4] {fei2 cak1} /accablé par le chagrin/
@@ -8120,13 +8120,13 @@
 悲苦 悲苦 [bei1 ku3] {bei1 fu2} /misérable; triste; sombre/triste; douloureux; pénible/
 悲觀 悲观 [bei1 guan1] {bei1 gun1} /pessimiste/
 悲觀主義 悲观主义 [bei1 guan1 zhu3 yi4] {bei1 gun1 zyu2 ji6} /pessimisme/
-????f 悶到抽筋 闷到抽筋 [men4 dao4 chou1 jin1] {mun6 dou3 cau1 gan1} /(expr. idiom.) s'ennuyer fortement/(lit.) être tellement ennuyé au point d'avoir des crampes/
+悶到抽筋 闷到抽筋 [men4 dao4 chou1 jin1] {mun6 dou3 cau1 gan1} /(expr. idiom.) s'ennuyer fortement/(lit.) s'ennuyer au point d'avoir des crampes/
 悶悶地 闷闷地 [men1 men1 di4] {mun6 mun6 dei2} /un peu ennuyé/
 悶氣 闷气 [men1 qi4] {mun6 hei3} /étouffant/mauvaise humeur/
 悽惶 凄惶 [qi1 huang2] {cai1 wong4} /triste et effrayé/
 惃頭惃腦 惃头惃脑 [gun3 tou2 gun3 nao3] {gwan1 tau4 gwan1 nou5} /(expr.) stupide; idiot; lent/(lit.) tête embrouillé, cerveau embrouillé/
 情 情 [qing2] {cing4} /sentiment; émotion/situation/
-????f 情人眼裏出西施 情人眼里出西施 [qing2 ren2 yan3 li3 chu1 xi1 shi1] {cing4 jan4 ngaan5 leoi5 ceot1 sai1 si1} /(expr. idiom.) la beauté est dans l'oeil du spectateur/
+情人眼裏出西施 情人眼里出西施 [qing2 ren2 yan3 li3 chu1 xi1 shi1] {cing4 jan4 ngaan5 leoi5 ceot1 sai1 si1} /(expr. idiom.) la beauté est dans l'oeil du spectateur/(lit.) dans l'œil de l'amant, on trouve Xi Shi/
 情信 情信 [qing2 xin4] {cing4 seon3} /lettre d'amour/
 情報局 情报局 [qing2 bao4 ju2] {cing4 bou3 guk6} /service de renseignement/
 情情塔塔 情情塔塔 [qing2 qing2 ta3 ta3] {cing4 cing4 taap3 taap3} /(péj.) sentimental; mièvre/(lit.) pots et urnes/
@@ -8141,16 +8141,16 @@
 惋傷 惋伤 [wan3 shang1] {wun2 soeng1} /(litt.) soupirer de chagrin/
 惜 惜 [xi1] {sik1} /chérir; tenir à/
 惜 惜 [xi1] {sek3} /chérir; aimer; adorer/
-????f 惜力 惜力 [xi1 li4] {sik1 lik6} /retenir ses efforts; ne pas faire de son mieux/
-????f 惜身 惜身 [xi2 shen1] {sek3 san1} /bien traiter son corps; y aller doucement sur son corps/
+惜力 惜力 [xi1 li4] {sik1 lik6} /retenir ses efforts; ne pas faire de son mieux/
+惜身 惜身 [xi2 shen1] {sek3 san1} /bien traiter son corps; y aller doucement sur son corps/
 惟我獨尊 惟我独尊 [wei2 wo3 du2 zun1] {wai4 ngo5 duk6 zyun1} /égoïste/
 惟獨是 惟独是 [wei2 du2 shi4] {wai4 duk6 si6} /seulement; juste/
 惠存 惠存 [hui4 cun2] {wai6 cyun4} /bien vouloir accepter; veuiller recevoir (un cadeau, un don, etc.)/
 惠康 惠康 [hui4 kang1] {wai6 hong1} /Wellcome, chaîne de supermarchés à Hong Kong et Taïwan/
 惡 恶 [e4] {ok3} /méchant; mauvais/cruel; sans pitié; impitoyable/féroce; vicieux; agressif/
 惡亨亨 恶亨亨 [e4 heng1 heng1] {ok3 hang1 hang1} /agressif; irascible; coléreux/
-????f 惡人自有惡人磨 恶人自有恶人磨 [e4 ren2 zi4 you3 e4 ren2 mo2] {ok3 jan4 zi6 jau5 ok3 jan4 mo4} /(expr. idiom.) on récolte ce que l'on sème; tout se finit par se payer/(lit.) une méchante personne sera punie par une personne encore plus méchante/
-????c 惡作 恶作 [e4 zuo4] {ok3 zok3} /farce; tour (voir aussi 惡作劇|恶作剧)/
+惡人自有惡人磨 恶人自有恶人磨 [e4 ren2 zi4 you3 e4 ren2 mo2] {ok3 jan4 zi6 jau5 ok3 jan4 mo4} /(expr. idiom.) on récolte ce que l'on sème; tout se finit par se payer/(lit.) une méchante personne sera punie par une personne encore plus méchante/
+惡作 恶作 [e4 zuo4] {ok3 zok3} /farce; tour (voir aussi 惡作劇|恶作剧)/dur à gérer/
 惡兆 恶兆 [e4 zhao4] {ok3 siu6} /mauvais augure; mauvais présage; mauvais signe/
 惡屎能登 恶屎能登 [e4 shi3 neng2 deng1] {ok3 si2 nang4 dang1} /(expr.) (personne) méchant; féroce; vicieux; farouche/(orig.) jeu de mots avec l'expression 惡死能登|恶死能登/
 惡意 恶意 [e4 yi4] {ok3 ji3} /malveillant/mauvaise intention/
@@ -8166,7 +8166,7 @@
 惡鯁 恶鲠 [e4 geng3] {ok3 kang2} /insupportable/(lit.) difficile à avaler/
 惢 惢 [suo3] {so2} /s'inquiéter; se soucier de/soupçonner; douter/
 想 想 [xiang3] {soeng2} /imaginer/penser; réfléchir/vouloir/se souvenir/
-????c 想唔…都幾難 想唔…都几难 [xiang3 wu2 … dou1 ji3 nan2] {soeng2 m4 dou1 gei2 naan4} /it's hard to refuse what is going to happen/
+想唔…都幾難 想唔…都几难 [xiang3 wu2 … dou1 ji3 nan2] {soeng2 m4 dou1 gei2 naan4} /(expr. idiom.) il est inévitable que.../(lit.) il est difficile d'imaginer autre chose que.../
 想得到 想得到 [xiang3 de5 dao4] {soeng2 dak1 dou2} /pensable; concevable; imaginable; envisageable/
 想想 想想 [xiang3 xiang5] {soeng2 soeng2} /penser; réfléchir/y réfléchir à deux fois/
 想望 想望 [xiang3 wang4] {soeng2 mong6} /espérer/admirer/
@@ -8180,7 +8180,7 @@
 惹氣 惹气 [re3 qi4] {je5 hei3} /se fâcher; se mettre en colère/
 惹笑 惹笑 [re3 xiao4] {je5 siu3} /faire rire les gens/drôle/
 惺惺 惺惺 [xing1 xing1] {sing1 sing1} /lucide; qui a l'esprit clair/astucieux; malin; ingénieux; intelligent/sage/
-????f 惺惺作態 惺惺作态 [xing1 xing1 zuo4 tai4] {sing1 sing1 zok3 taai3} /(expr.) affecter; feindre/
+惺惺作態 惺惺作态 [xing1 xing1 zuo4 tai4] {sing1 sing1 zok3 taai3} /(expr.) affecter; feindre; être maniéré/
 愁 愁 [chou2] {sau4} /triste; inquiet/s'inquiéter; se soucier/
 愁容 愁容 [chou2 rong2] {sau4 jung4} /air inquiet/
 愁悶 愁闷 [chou2 men4] {sau4 mun6} /triste; découragé; démoralisé; abattu/
@@ -8208,7 +8208,7 @@
 愚弄 愚弄 [yu2 nong4] {jyu4 lung6} /tromper; duper/
 愚昧 愚昧 [yu2 mei4] {jyu4 mui6} /stupide; idiot; ignorant/
 愛 爱 [ai4] {oi3} /amour/aimer/vouloir/
-????f 愛之欲其生，惡之欲其死 爱之欲其生，恶之欲其死 [ai4 zhi1 yu4 qi2 sheng1 wu4 zhi1 yu4 qi2 si3] {oi3 zi1 juk6 kei4 sang1 wu3 zi1 juk6 kei4 sei2} /(expr. idiom.) traiter quelqu'un selon ce que l'on pense d'eux/(lit.) si tu l'aimes tu voudrais qu'il vive, si tu le hais, tu voudrais qu'il meure/
+愛之欲其生，惡之欲其死 爱之欲其生，恶之欲其死 [ai4 zhi1 yu4 qi2 sheng1 wu4 zhi1 yu4 qi2 si3] {oi3 zi1 juk6 kei4 sang1 wu3 zi1 juk6 kei4 sei2} /(expr. idiom.) traiter quelqu'un selon ce que l'on pense d'eux/(lit.) si tu l'aimes tu voudrais qu'il vive, si tu le hais, tu voudrais qu'il meure/
 愛國人士 爱国人士 [ai4 guo2 ren2 shi4] {oi3 gwok3 jan4 si6} /un patriote, une patriote/
 愛國心 爱国心 [ai4 guo2 xin1] {oi3 gwok3 sam1} /patriotisme/
 愛妻 爱妻 [ai4 qi1] {oi3 cai1} /épouse aimante; tendre épouse/
@@ -8220,14 +8220,14 @@
 愛沙尼亞語 爱沙尼亚语 [ai4 sha1 ni2 ya4 yu3] {oi3 saa1 nei4 aa3 jyu5} /langue estonienne/
 愛迪達 爱迪达 [ai4 di2 da2] {oi3 dik6 daat6} /Adidas/
 愛錫 爱锡 [ai4 xi1] {oi3 sek3} /chérir; tenir beaucoup à; prendre soin de/dorloter; gâter; choyer/
-????f 愛靚唔愛命 爱靓唔爱命 [ai4 jing4 m2 ai4 ming4] {oi3 leng3 m4 oi3 meng6} /(expr. idiom.) poursuivre la beauté aux dépens de sa santé/(lit.) aimer la beauté, ne pas aimer sa vie/
+愛靚唔愛命 爱靓唔爱命 [ai4 jing4 m2 ai4 ming4] {oi3 leng3 m4 oi3 meng6} /(expr. idiom.) poursuivre la beauté aux dépens de sa santé/(lit.) aimer la beauté, ne pas aimer sa vie/
 愛麗絲夢遊仙境 爱丽丝梦游仙境 [ai4 li4 si1 meng4 you2 xian1 jing4] {oi3 lai6 si1 mung6 jau4 sin1 ging2} /Alice au pays des merveilles/
 感 感 [gan3] {gam2} /sentiment/attraper un rhume/
 感人肺腑 感人肺腑 [gan3 ren2 fei4 fu3] {gam2 jan4 fai3 fu2} /très touchant; très émouvant/
 感光紙 感光纸 [gan3 guang1 zhi3] {gam2 gwong1 zi2} /papier photographique/
 感動 感动 [gan3 dong4] {gam2 dung6} /émouvant; touchant/
 感化官 感化官 [gan3 hua4 guan1] {gam2 faa3 gun1} /agent de probation, agente de probation/
-????f 感慨 感慨 [gan3 kai3] {gam2 koi3} /regretter/être mélancolique en pensant au passé/
+感慨 感慨 [gan3 kai3] {gam2 koi3} /regretter/être mélancolique en pensant au passé/pousser un soupir de regret/
 感暑 感暑 [gan3 shu3] {gam2 syu2} /avoir une insolation; souffrir d'une insolation; avoir un coup de chaleur/
 感歎 感叹 [gan3 tan4] {gam2 taan3} /lamenter; pousser un soupir/
 感歎號 感叹号 [gan3 tan4 hao4] {gam2 taan3 hou6} /point d'exclamation/
@@ -8256,50 +8256,50 @@
 慢慢行 慢慢行 [man4 man4 xing2] {maan6 maan6 hang4} /marcher lentement/
 慢慢食 慢慢食 [man4 man4 shi2] {maan6 maan6 zi6} /manger lentement/
 慢火 慢火 [man4 huo3] {maan6 fo2} /feu doux; basse température/
-????f 慢火煮 慢火煮 [man4 huo3 zhu3] {maan6 fo2 zyu2} /chauffer doucement; faire cuire lentement; faire cuire à basse température/
+慢火煮 慢火煮 [man4 huo3 zhu3] {maan6 fo2 zyu2} /chauffer doucement; faire cuire lentement; faire cuire à basse température/
 慢駛 慢驶 [man4 shi3] {maan6 sai2} /conduire lentement; ralentir/
 慣性力 惯性力 [guan4 xing4 li4] {gwaan3 sing3 lik6} /force inertielle; force d'intertie/
 慣性定律 惯性定律 [guan4 xing4 ding4 lu:4] {gwaan3 sing3 ding6 leot6} /loi d'inertie/
 慣技 惯技 [guan4 ji4] {gwaan3 gei6} /(péj.) vieille ruse; vieux tour/
-????f 慣熟 惯熟 [guan4 shou2] {gwaan3 suk6} /bien connaître (quelqu'un)/être habitué à/
-????f 慧劍 慧剑 [hui4 jian4] {wai6 gim3} /(bouddhisme) épée de la sagesse, épée de Prajna/
+????m 慣熟 惯熟 [guan4 shou2] {gwaan3 suk6} /bien connaître (quelqu'un)/être habitué à/
+慧劍 慧剑 [hui4 jian4] {wai6 gim3} /(bouddhisme) épée de la sagesse, épée de Prajna/
 慧心 慧心 [hui4 xin1] {wai6 sam1} /sagesse/(lit.) coeurs qui comprennent la sagesse de Bouddha/
-????f 慧根 慧根 [hui4 gen1] {wai6 gan1} /(bouddhisme) don naturel pour atteindre l'illumination/
+慧根 慧根 [hui4 gen1] {wai6 gan1} /(bouddhisme) don naturel pour atteindre l'illumination/
 慧黠 慧黠 [hui4 xia2] {wai6 hat6} /malin; futé; rusé/
-????f 慰問信 慰问信 [wei4 wen4 xin4] {wai3 man6 seon3} /lettre de condoléances/
-????c 慰問金 慰问金 [wei4 wen4 jin1] {wai3 man6 gam1} /argent de condoléances/
-????f 慰留 慰留 [wei4 liu2] {wai3 lau4} /persuader un employé de rester dans la compagnie/
+????m 慰問信 慰问信 [wei4 wen4 xin4] {wai3 man6 seon3} /lettre de condoléances/
+????m 慰問金 慰问金 [wei4 wen4 jin1] {wai3 man6 gam1} /argent de condoléances/
+????m 慰留 慰留 [wei4 liu2] {wai3 lau4} /persuader un employé de rester dans la compagnie/
 慳位 悭位 [qian1 wei4] {haan1 wai2} /compact; peu encombrant/
 慳儉 悭俭 [qian1 jian3] {haan1 gim6} /économe; chiche/
-????f 慳啲啦 悭啲啦 [qian1 di1 la5] {haan1 di1 laa1} /(expr. idiom.) calme-toi!/(expr. idiom.) ne gaspillez pas votre salive!/(expr. idiom.) quelle blague!/(lit.) économiser pour soi-même/
+慳啲啦 悭啲啦 [qian1 di1 la5] {haan1 di1 laa1} /(expr. idiom.) calme-toi!/(expr. idiom.) ne gaspillez pas votre salive!/(expr. idiom.) quelle blague!/(lit.) économiser pour soi-même/
 慳家 悭家 [qian1 jia1] {haan1 gaa1} /économe; chiche/
-????f 慳水慳力 悭水悭力 [qian1 shui3 qian1 li4] {haan1 seoi2 haan1 lik6} /(expr.) qui demande moins d'effort/(lit.) qui nécessite moins d'eau et exige moins d'énergie/
+慳水慳力 悭水悭力 [qian1 shui3 qian1 li4] {haan1 seoi2 haan1 lik6} /(expr.) qui demande moins d'effort/(lit.) qui nécessite moins d'eau et exige moins d'énergie/
 慳濕 悭濕 [qian1 chi4] {haan1 sap1} /avare; grippe-sou; pingre/
-????f 慳番啖氣 悭番啖气 [qian1 fan1 dan4 qi4] {haan1 faan1 daam6 hei3} /(expression pour dire à quelqu'un que personne ne l'écoute ou que son opinion n'a aucune importance) ne gaspillez pas votre salive/(lit.) économise ta bouchée d'air/
+慳番啖氣 悭番啖气 [qian1 fan1 dan4 qi4] {haan1 faan1 daam6 hei3} /(expression pour dire à quelqu'un que personne ne l'écoute ou que son opinion n'a aucune importance) ne gaspillez pas votre salive!/(lit.) économise ta bouchée d'air/
 慳皮 悭皮 [qian1 pi2] {haan1 pei2} /économe; chiche/doué avec l'argent/
-????f 慳返 悭返 [qian1 fan3] {haan1 faan1} /faire gagner (du temps)/exiger moins (d'effort)/nécessiter moins (d'une ressource, de matériau)/
+慳返 悭返 [qian1 fan3] {haan1 faan1} /faire gagner (du temps)/exiger moins (d'effort)/nécessiter moins (d'une ressource, de matériau)/
 慳錢 悭钱 [qian1 qian2] {haan1 cin4} /économiser de l'argent/
 慳電 悭电 [qian1 dian4] {haan1 din6} /à faible consommation électrique/
 慳電膽 悭电胆 [qian1 dian4 dan3] {haan1 din6 daam2} /ampoule écoélectrique; ampoule à faible consommation électrique/
-????f 慶功宴 庆功宴 [qing4 gong1 yan4] {hing3 gung1 jin3} /festin; dîner de célébration/
-????f 慶功會 庆功会 [qing4 gong1 hui4] {hing3 gung1 wui2} /festin; dîner de célébration/
+慶功宴 庆功宴 [qing4 gong1 yan4] {hing3 gung1 jin3} /festin; dîner de fête/
+慶功會 庆功会 [qing4 gong1 hui4] {hing3 gung1 wui2} /festin; dîner de fête/
 慶過辣雞 庆过辣鸡 [qing4 guo4 la4 ji1] {hing3 gwo3 laat6 gai1} /(expr. idiom.) très fâché; très en colère/(lit.) plus chaud qu'un fer à souder/
 慷他人之慨 慷他人之慨 [kang1 ta1 ren2 zhi1 kai3] {hong2 taa1 jan4 zi1 koi3} /(expr.) dépenser l'argent des autres sans penser/
-????f 慷慨就義 慷慨就义 [kang1 kai3 jiu4 yi4] {hong2 koi3 zau6 ji6} /sacrifier sa vie avec noblesse/
+慷慨就義 慷慨就义 [kang1 kai3 jiu4 yi4] {hong2 koi3 zau6 ji6} /(expr.) sacrifier sa vie avec noblesse; mourir en martyr/
 憂心如焚 忧心如焚 [you1 xin1 ru2 fen2] {jau1 sam1 jyu4 fan4} /(expr.) très anxieux; très inquiet/
 憂慮 忧虑 [you1 lu:4] {jau1 leoi6} /s'inquiéter de; se préoccuper de/
-????f 憂憤 忧愤 [you1 fen4] {jau1 fan5} /inquiet et en colère/
+????m 憂憤 忧愤 [you1 fen4] {jau1 fan5} /inquiet et en colère/
 憂柴憂米 忧柴忧米 [you1 chai2 you1 mi3] {jau1 caai4 jau1 mai5} /(expr. idiom.) vivre au jour le jour/(lit.) s'inquiéter du bois de chauffage et du rix/
 憂鬱 忧郁 [you1 yu4] {jau1 wat1} /triste; mélancolique; morose; sombre/
 憎 憎 [zeng1] {zang1} /détester; haïr/
-????c 憎人富貴厭人窮 憎人富贵厌人穷 [zeng1 ren2 fu4 gui4 yan4 ren2 qiong2] {zang1 jan4 fu3 gwai3 jim3 jan4 kung4} /(expr. idiom.) égoïste et manquer d'intégrité/(litt.) envier les riches et détester les pauvres/
+憎人富貴厭人窮 憎人富贵厌人穷 [zeng1 ren2 fu4 gui4 yan4 ren2 qiong2] {zang1 jan4 fu3 gwai3 jim3 jan4 kung4} /(expr. idiom.) envier les riches et détester les pauvres/(expr. idiom.) égoïste et manquer d'intégrité/
 憎恨 憎恨 [zeng1 hen4] {zang1 han6} /détester; haïr/
-????c 憓 憓 [hui4] {wai6} /convaincre/débattre/obéir/
+????m 憓 憓 [hui4] {wai6} /convaincre/débattre/obéir/
 憤怒鳥 愤怒鸟 [fen4 nu4 niao3] {fan5 nou6 niu5} /Angry Birds, jeu vidéo/
 憤怨 愤怨 [fen4 yuan4] {fan5 jyun3} /fâché; en colère/
 憧憬 憧憬 [chong1 jing3] {cung1 ging2} /vision de l'avenir/attendre; espérer; désirer/
 憫恤 悯恤 [min3 xu4] {man5 seot1} /plaindre; avoir pitié de/
-????f 憲報 宪报 [xian4 bao4] {hin3 bou3} /Hong Kong Government Gazette, journal officiel du gouvernement de Hong Kong qui publie les lois/
+憲報 宪报 [xian4 bao4] {hin3 bou3} /Hong Kong Government Gazette, journal officiel de Hong Kong qui publie les lois/
 憲法 宪法 [xian4 fa3] {hin3 faat3} /charte; constitution/
 懂 懂 [dong3] {dung2} /connaître; savoir/comprendre/
 懇摯 恳挚 [ken3 zhi4] {han2 zi3} /honnête; sincère/
