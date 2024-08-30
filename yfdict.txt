@@ -8573,7 +8573,7 @@
 打交 打交 [da3 jiao1] {daa2 gaau1} /se battre; se bagarrer/
 打交叉 打交叉 [da3 jiao1 cha1] {daa2 gaau1 caa1} /écrire un « x »; faire une marque « x »/
 打交道 打交道 [da3 jiao1 dao4] {daa2 gaau1 dou6} /traiter (avec quelqu'un); avoir affaire (avec quelqu'un)/
-????f 打仔 打仔 [da3 zi5] {daa2 zai2} /videur/garde du corps/membre d'un gang responsable d'actes violents; homme de main; tueur à gages/vedette d'un film d'action/frapper ses enfants/
+????f 打仔 打仔 [da3 zi5] {daa2 zai2} /videur/garde du corps/membre d'un gang chargé de faire respecter les règles du gang (par la force); homme de main; tueur à gages/vedette d'un film d'action/frapper ses enfants/
 打仔明星 打仔明星 [da3 zai3 ming2 xing1] {daa2 zai2 ming4 sing1} /vedette d'un film d'action/
 打仗 打仗 [da3 zhang4] {daa2 zoeng3} /faire la guerre/
 打仗仔 打仗仔 [da3 zhang4 zi3] {daa2 zoeng3 zai2} /(enfants) jouer au soldat/
@@ -8795,8 +8795,8 @@
 扮到 扮到 [ban4 dao4] {baan6 dou3} /faire semblant/se déguiser; se faire passer pour/
 扮嘢 扮嘢 [ban4 ye3] {baan6 je5} /faire semblant; feindre; jouer la comédie/
 扮好人 扮好人 [ban4 hao3 ren2] {baan6 hou2 jan4} /faire semblant d'être une bonne personne/
-扮晒蟹 扮晒蟹 [ban4 shai4 xie4] {baan6 saai3 haai5} /(expr. idiom.) attacher les mains et les pieds d'un malfaiteur/(expr. idiom.) faire l'innocent; jouer l'innocent/(expr. idiom.) être arrogant; être prétentieux/(lit.) faire semblant d'être un crabe/
-扮蟹 扮蟹 [ban4 xie4] {baan6 haai5} /(expr. idiom.) attacher les mains et les pieds d'un malfaiteur/(expr. idiom.) faire l'innocent; jouer l'innocent/(expr. idiom.) être arrogant; être prétentieux/(lit.) faire semblant d'être un crabe/
+扮晒蟹 扮晒蟹 [ban4 shai4 xie4] {baan6 saai3 haai5} /(expr. idiom.) attacher les mains et les pieds d'un malfaiteur/(expr. idiom.) faire l'innocent; jouer l'innocent/(expr. idiom.) être arrogant; être prétentieux; prendre des grands airs/(lit.) faire semblant d'être un crabe/
+扮蟹 扮蟹 [ban4 xie4] {baan6 haai5} /(expr. idiom.) attacher les mains et les pieds d'un malfaiteur/(expr. idiom.) faire l'innocent; jouer l'innocent/(expr. idiom.) être arrogant; être prétentieux; prendre des grands airs/(lit.) faire semblant d'être un crabe/
 扮豬吃老虎 扮猪吃老虎 [ban4 zhu1 chi1 lao3 hu3] {baan6 zyu1 hek3 lou5 fu2} /(expr. idiom.) loup déguisé en agneau; personne qui blesse les autres après avoir gagné leur confiance; jouer l'innocent pour exploiter quelqu'un/(lit.) se déguiser en cochon pour manger le tigre/
 扮豬食老虎 扮猪食老虎 [ban4 zhu1 shi2 lao3 hu3] {baan6 zyu1 sik6 lou5 fu2} /(expr. idiom.) loup déguisé en agneau; personne qui blesse les autres après avoir gagné leur confiance; jouer l'innocent pour exploiter quelqu'un/(lit.) se déguiser en cochon pour manger le tigre/
 扮野 扮野 [ban4 ye3] {baan6 je5} /faire semblant; feindre; jouer la comédie/
@@ -9004,10 +9004,10 @@
 拉鍊 拉炼 [la1 lian4] {laai1 lin2} /fermeture éclair/
 拉頭纜 拉头缆 [la1 tou2 lan3] {laai1 tau4 laam6} /aller en premier; être le premier à faire quelque chose/
 拉頭馬 拉头马 [la1 tou2 ma3] {laai1 tau4 maa5} /(d'un gagnant de course hippique) se faire photographier avec son cheval; faire une séance photo/
-????f 拋書包 抛书包 [pao1 shu1 bao1] {paau1 syu1 baau1} /(expr. idiom.) être je-sais-tout; vouloir montrer ses connaissances/(lit.) lancer son sac à dos/
-????f 拋浪頭 抛浪头 [pao1 lang4 tou5] {paau1 long6 tau4} /(fig.) exagérer ses compétences avec le but d'intimider quelqu'un; bluffer; jouer au dur; jouer les gros bras; montrer les dents (avant un combat)/
-????f 拋生藕 抛生藕 [pao1 sheng1 ou3] {paau1 saang1 ngau5} /(fig.) (femme à un homme) flirter; draguer; séduire/(lit.) lancer un rhizome de lotus cru/
-????f 拋網 抛网 [pao1 wang3] {paau1 mong5} /lancer un filet épervier/
+拋書包 抛书包 [pao1 shu1 bao1] {paau1 syu1 baau1} /(expr. idiom.) être je-sais-tout; vouloir montrer ses connaissances/(lit.) lancer son sac à dos/
+拋浪頭 抛浪头 [pao1 lang4 tou5] {paau1 long6 tau4} /(fig.) exagérer ses compétences avec le but d'intimider quelqu'un; bluffer; jouer au dur; jouer les gros bras; montrer les dents (avant un combat)/
+拋生藕 抛生藕 [pao1 sheng1 ou3] {paau1 saang1 ngau5} /(fig.) (femme à un homme) flirter; draguer; séduire/(lit.) lancer un rhizome de lotus cru/
+拋網 抛网 [pao1 wang3] {paau1 mong5} /lancer un filet épervier/
 拋頭露面 抛头露面 [pao1 tou2 lou4 mian4] {paau1 tau4 lou6 min6} /gagner sa vie par la publicité; chercher à attirer l'attention/(péj.) (vieilli) (d'une femme) se montrer le visage en public/
 拍乸 拍乸 [pai1 na2] {paak3 naa2} /partenaire/(orig.) de l'anglais « partner » (« partenaire »)/
 拍住上 拍住上 [pai1 zhu4 shang4] {paak3 zyu6 soeng5} /travailler ensemble/
@@ -9016,38 +9016,38 @@
 拍得住 拍得住 [pai1 de5 zhu4] {paak3 dak1 zyu6} /être de force égale; être aussi bon que/
 拍心口 拍心口 [pai1 xin1 kou3] {paak3 sam1 hau2} /garantir; promettre/
 拍手掌 拍手掌 [pai1 shou3 zhang3] {paak3 sau2 zoeng2} /applaudir/
-????f 拍手無塵 拍手无尘 [pai1 shou3 wu2 chen2] {paak3 sau2 mou4 can4} /(expr. idiom.) ne plus avoir ni un centime; ne pas avoir d'argent/(lit.) frapper dans ses mains et ne même pas avoir de la poussière/
-????f 拍手稱快 拍手称快 [pai1 shou3 cheng1 kuai4] {paak3 sau2 cing1 faai3} /(expr.) applaudir et se réjouir (de quelque chose)/
-????f 拍烏蠅 拍乌蝇 [pai1 wu1 ying2] {paak3 wu1 jing1} /(expr. idiom.) (les affaires) tourner au ralenti; (boutique) être peu achalandé/(lit.) (avoir le temps d') écraser des mouches/
+拍手無塵 拍手无尘 [pai1 shou3 wu2 chen2] {paak3 sau2 mou4 can4} /(expr. idiom.) ne plus avoir ni un centime; ne pas avoir d'argent/(lit.) frapper dans ses mains et ne même pas avoir de la poussière/
+拍手稱快 拍手称快 [pai1 shou3 cheng1 kuai4] {paak3 sau2 cing1 faai3} /(expr.) applaudir et se réjouir (de quelque chose)/
+拍烏蠅 拍乌蝇 [pai1 wu1 ying2] {paak3 wu1 jing1} /(expr. idiom.) (les affaires) tourner au ralenti; (boutique) être peu achalandé/(lit.) (avoir le temps d') écraser des mouches/
 拍爛手掌 拍烂手掌 [pai1 lan4 shou3 zhang3] {paak3 laan6 sau2 zoeng2} /(fig.) applaudir beaucoup/(lit.) se frapper les main à ce qu'elles brisent/
-????c 拍硬檔 拍硬档 [pai1 ying4 dang4] {paak3 ngaang6 dong3} /rendre service/????pouvez-vous m'aider à.../coopérer; travailler en étroite collaboration; travailler ensemble/
-????c 拍膊頭 拍膊头 [pai1 bo2 tou2] {paak3 bok3 tau4} /taper sur l'épaule/(expr. idiom.) être une oreille à qui se confier; être une personne qui écoute; offre du soutien émotionnel/????(expr. idiom.) qui travaille gratuitement pour rendre service (à quelqu'un)/
+拍硬檔 拍硬档 [pai1 ying4 dang4] {paak3 ngaang6 dong3} /rendre service/pouvez-vous m'aider à.../coopérer; travailler en étroite collaboration; travailler ensemble/
+拍膊頭 拍膊头 [pai1 bo2 tou2] {paak3 bok3 tau4} /(expr. idiom.) demander de l'aide de ses amis/taper sur l'épaule/(expr. idiom.) être une oreille à qui se confier; être une personne qui écoute; offre du soutien émotionnel/
 拍薑咁拍 拍姜咁拍 [pai1 jiang1 gan1 pai1] {paak3 goeng1 gam2 paak3} /(expr. idiom.) tabasser; rouer de coups; maltraiter/(lit.) frapper comme l'on frappe du gingembre/
 拎 拎 [lin1] {ling1} /apporter; emporter; amener; emmener/tenir/prendre/
 拎住 拎住 [lin1 zhu4] {ling1 zyu6} /tenir (un objet)/
 拎走 拎走 [lin1 zou3] {ling1 zau2} /nourriture ou plat à emporter/
 拐子佬 拐子佬 [guai3 zi5 lao3] {gwaai2 zi2 lou2} /kidnappeur, kidnappeuse; ravisseur, ravisseuse/
 拐走 拐走 [guai3 zou3] {gwaai2 zau2} /kidnapper; enlever/
-????f 拒諫飾非 拒谏饰非 [ju4 jian4 shi4 fei1] {keoi5 gaan3 sik1 fei1} /(expr.) rejeter le conseil des autres puis cacher ses erreurs/
+拒諫飾非 拒谏饰非 [ju4 jian4 shi4 fei1] {keoi5 gaan3 sik1 fei1} /(expr.) rejeter le conseil des autres puis cacher ses erreurs/
 拓展 拓展 [tuo4 zhan3] {tok3 zin2} /(affaires) élarger; développer/
-????f 拔刀相助 拔刀相助 [ba2 dao1 xiang1 zhu4] {bat6 dou1 soeng1 zo6} /(expr. idiom.) apporter son aide à lutter contre l'injustice/(idiom.) tirer une épée pour aider/
-????c 拔地而起 拔地而起 [ba2 di4 er2 qi3] {bat6 dei6 ji4 hei2} /se lever soudainement de la terre/
+拔刀相助 拔刀相助 [ba2 dao1 xiang1 zhu4] {bat6 dou1 soeng1 zo6} /(expr. idiom.) apporter son aide à la lutte contre l'injustice/(idiom.) tirer une épée pour aider/
+????f 拔地而起 拔地而起 [ba2 di4 er2 qi3] {bat6 dei6 ji4 hei2} /se lever soudainement de la terre (en parlant d'une montagne)/
 拔草 拔草 [ba2 cao3] {bat6 cou2} /désherber; sarcler; arracher les mauvaises herbes/
 拔蘭地 拔兰地 [ba2 lan2 di4] {bat6 laan4 dei6} /brandy; eau-de-vie/(orig.) de l'anglais « brandy »/
-????f 拖卡 拖卡 [tuo1 ka3] {to1 kaa1} /deux autobus de la même ligne qui arrivent l'un après l'autre; deux autobus de la même ligne qui deviennent regroupés à cause du trafic/dépanneuse; remorque/
+拖卡 拖卡 [tuo1 ka3] {to1 kaa1} /deux autobus de la même ligne qui arrivent l'un après l'autre; deux autobus de la même ligne qui deviennent regroupés à cause du trafic/dépanneuse; remorque/
 拖友 拖友 [tuo1 you3] {to1 jau2} /(fam.) petit ami, petite amie; copain, copine; chum; blonde/
 拖垮 拖垮 [tuo1 kua3] {to1 kwaa1} /usé par sa vie; épuisé par sa vie; être en mauvaise santé/
 拖手仔 拖手仔 [tuo1 shou3 zai3] {to1 sau2 zai2} /tenir la main/(fig.) tomber amoureux/
 拖拉 拖拉 [tuo1 la1] {to1 laai1} /reporter; repousser; remettre à plus tard/
-????f 拖拖拉拉 拖拖拉拉 [tuo1 tuo1 la1 la1] {to1 to1 laai1 laai1} /(d'une relation) instable; houleuse/lent; qui a tendance à remettre les tâches à plus tard/
+拖拖拉拉 拖拖拉拉 [tuo1 tuo1 la1 la1] {to1 to1 laai1 laai1} /(expr.) (d'une relation) instable; houleuse/(expr.) lent; qui a tendance à remettre les tâches à plus tard/
 拖板 拖板 [tuo1 ban3] {to1 baan2} /multiprise; prise multiple/
 拖泥帶水 拖泥带水 [tuo1 ni2 dai4 shui3] {to1 nai4 daai3 seoi2} /(expr. idiom.) bâclé; mal fait; peu soigné/
-????c 拖男帶女 拖男带女 [tuo1 nan2 dai4 nu:3] {to1 naam4 daai3 neoi5} /(expr. idiom.) vivre une vie difficile/(lit.) emmener des fils et des filles/
+拖男帶女 拖男带女 [tuo1 nan2 dai4 nu:3] {to1 naam4 daai3 neoi5} /(expr. idiom.) vivre une vie difficile/(lit.) emmener tous ses enfants/
 ????c 拖線 拖线 [tuo1 xian4] {to1 sin3} /multiprise; prise multiple/câble de remorquage/
 拖肥 拖肥 [tuo1 fei2] {to1 fei2} /caramel mou/(orig.) de l'anglais « toffee » (« caramel mou »)/
 拖肥糖 拖肥糖 [tuo1 fei2 tang2] {to1 fei4 tong4} /caramel mou/(orig.) de l'anglais « toffee » (« caramel mou »)/
-????f 拖艔 拖艔 [tuo1 dou2] {to1 dou2} /bateau passager toué par un autre navire/
-????f 拖落水 拖落水 [tuo1 luo4 shui3] {to1 lok6 seoi2} /(expr. idiom.) entraîner quelqu'un dans quelque chose (connotation d'activité illicite ou risqué)/(lit.) traîner sous l'eau/
+拖艔 拖艔 [tuo1 dou2] {to1 dou2} /bateau passager remorqué par un autre navire/
+拖落水 拖落水 [tuo1 luo4 shui3] {to1 lok6 seoi2} /(expr. idiom.) entraîner quelqu'un dans quelque chose (connotation d'activité illicite ou risqué)/(lit.) traîner sous l'eau/
 拖蘇 拖苏 [tuo1 su1] {to1 sou1} /multiprise; prise multiple/
 拖頭 拖头 [tuo1 tou2] {to1 tau2} /camion; semi-remorque; poids lourd/
 拖頭佬 拖头佬 [tuo1 tou2 lao3] {to1 tau4 lou2} /chauffeur de camion; camionneur/
@@ -9056,22 +9056,22 @@
 ????c 拗實 拗实 [ao3 shi2] {aau3 sat6} /exiger (quelque chose); insister sur (quelque chose)/
 拗手瓜 拗手瓜 [ao3 shou3 gua1] {aau2 sau2 gwaa1} /faire un bras de fer avec quelqu'un/rivaliser; faire concurrence/lutte de pouvoir/
 拗撬 拗撬 [ao3 qiao4] {aau3 giu6} /dispute; querelle; désaccord/se disputer; se quereller; être en désaccord/(orig.) de l'anglais « argue » (« se disputer »)/
-????f 拗數 拗数 [ao3 shu4] {aau3 sou3} /dispute; conflit/contester un montant; se disputer au sujet de l'argent/
+拗數 拗数 [ao3 shu4] {aau3 sou3} /dispute; conflit/(en particulier) contester un montant; se disputer au sujet de l'argent/
 拗柴 拗柴 [ao3 chai2] {aau2 caai4} /se fouler la cheville; se tordre la cheville/
 拗氣 拗气 [niu4 qi4] {aau3 hei3} /se disputer; se quereller/
 拗腰 拗腰 [ao3 yao1] {aau2 jiu1} /se pencher en arrière/
 拗頸 拗颈 [ao4 jing3] {aau3 geng2} /se disputer; se quereller; être en désaccord/têtu; entêté; obstiné; ergoteur; chicanier/
 拘 拘 [ju1] {keoi1} /arrêter; interpeller; prendre quelqu'un prisonnier/inflexible; intraitable; qui refuse de changer d'idées/limiter; contraindre/
-????f 拚死無大害 拚死无大害 [pan4 si3 wu2 da4 hai4] {pun2 sei2 mou4 daai6 hoi6} /(expr. idiom.) tout risquer parce que l'on a rien à perdre; tout miser; aller à fond/
+拚死無大害 拚死无大害 [pan4 si3 wu2 da4 hai4] {pun2 sei2 mou4 daai6 hoi6} /(expr. idiom.) tout risquer parce que l'on a rien à perdre; tout miser; aller à fond/
 拚爛 拚烂 [pan4 lan4] {pun2 laan2} /s'en foutre; se laisser aller; agir de manière insouciante; s'en battre les couilles de (quelque chose)/
 招人仇口 招人仇口 [zhao1 ren2 chou2 kou3] {ziu1 jan4 sau4 hau2} /se faire des ennemis/(lit.) déranger les autres et provoquer la haine/
 招募 招募 [zhao1 mu4] {ziu1 mou6} /recruter; employer; embaucher/
 招呼 招呼 [zhao1 hu5] {ziu1 fu1} /appeler/saluer; dire bonjouer/divertir les invités; servir les invités; recevoir des amis/
-????f 招呼唔到 招呼唔到 [zhao1 hu5 wu2 dao4] {ziu1 fu1 m4 dou3} /(formule de politesse, qui s'utilise après un repas ou à la fin d'une soirée) désolé de ne pas avoir offert assez d'hospitalité; pardonnez-moi de ne pas avoir été plus attentif/
+招呼唔到 招呼唔到 [zhao1 hu5 wu2 dao4] {ziu1 fu1 m4 dou3} /(formule de politesse qui s'utilise après un repas ou à la fin d'une soirée) désolé de ne pas avoir offert assez d'hospitalité; pardonnez-moi de ne pas avoir été plus attentif/
 招徠 招徕 [zhao1 lai2] {ziu1 loi4} /attirer de nouveaux clients/
 招惹 招惹 [zhao1 re3] {ziu1 je5} /déclencher; provoquer/
-????f 招搖撞騙 招摇撞骗 [zhao1 yao2 zhuang4 pian4] {ziu1 jiu4 zong6 pin3} /(expr.) se faire passer pour quelqu'un d'autre et escroquer les autres/
-????f 招牌 招牌 [zhao1 pai5] {ziu1 paai4} /enseigne; tableau sur lequel est inscrit le nom d'une boutique/
+招搖撞騙 招摇撞骗 [zhao1 yao2 zhuang4 pian4] {ziu1 jiu4 zong6 pin3} /(expr.) se faire passer pour quelqu'un d'autre et escroquer les autres/
+招牌 招牌 [zhao1 pai5] {ziu1 paai4} /enseigne; tableau sur lequel est inscrit le nom d'une boutique/
 招積 招积 [zhao1 ji1] {ziu1 zik1} /arrogant; impudent; prétentieux/
 招紙 招纸 [zhao1 zhi3] {ziu1 zi2} /étiquette de marque; autocollant de la marque/
 招股上市 招股上市 [zhao1 gu3 shang4 shi4] {ziu1 gu2 soeng5 si5} /introduction en bourse/
@@ -9084,18 +9084,18 @@
 拜偶像 拜偶像 [bai4 ou3 xiang4] {baai3 ngau5 zoeng6} /adorer les idoles/
 拜占庭帝國 拜占庭帝国 [bai4 zhan4 ting2 di4 guo2] {baai3 zim1 ting4 dai3 gwok3} /Empire byzantain/
 拜墊 拜垫 [bai4 dian4] {baai3 zin2} /petit coussin ou tapis sur lequel on s'agenouille pour prier/zafu, coussin japonais de méditation/
-????f 拜山 拜山 [bai4 shan1] {baai3 saan1} /visiter les tombes familiales; coutume du Qingmingjie consistant aussi à nettoyer et balayer les tombes, vénérer ses ancêtres, et brûler des billets funéraires/
+拜山 拜山 [bai4 shan1] {baai3 saan1} /visiter les tombes familiales; coutume du Qingmingjie consistant aussi à nettoyer et balayer les tombes, vénérer ses ancêtres, et brûler des billets funéraires/
 拜年咭 拜年咭 [bai4 nian2 ji1] {baai3 nin4 kaat1} /cartes de souhaits du Nouvel an/
-????f 拜新山 拜新山 [bai4 xin1 shan1] {baai3 san1 saan1} /visiter la tombe d'une personne récemment décédée lors de la Fête du Qingmingjie/
-????c 拜祖先 拜祖先 [bai4 zu3 xian1] {baai3 zou2 sin1} /visiter les tombes familiales/
+拜新山 拜新山 [bai4 xin1 shan1] {baai3 san1 saan1} /visiter la tombe d'une personne récemment décédée lors de la Fête du Qingmingjie/
+拜祖先 拜祖先 [bai4 zu3 xian1] {baai3 zou2 sin1} /visiter les tombes familiales/vénérer les ancêtres/
 拜神 拜神 [bai4 shen2] {baai3 san4} /prier Dieu/(religion) vénérer; adorer/
-????f 拜神唔見雞 拜神唔见鸡 [bai4 shen2 wu2 jian4 ji1] {baai3 san4 m4 gin3 gai1} /(expr. idiom.) oublier de faire quelque chose d'important/(expr. idiom.) bavard; loquace/(expr. idiom.) qui n'arrête pas de faire des remarques; qui ne cesse d'importuner quelqu'un/(lit.) adorer Dieu et oublier ses poulets/
+拜神唔見雞 拜神唔见鸡 [bai4 shen2 wu2 jian4 ji1] {baai3 san4 m4 gin3 gai1} /(expr. idiom.) oublier de faire quelque chose d'important/(expr. idiom.) bavard; loquace/(expr. idiom.) qui n'arrête pas de faire des remarques; qui ne cesse d'importuner quelqu'un/(lit.) adorer Dieu et oublier ses poules/
 𢫕頭 𢫕头 [] {fing6 tau2} /secouer la tête/
 括弧 括弧 [kuo4 hu2] {kut3 wu4} /parenthèse, signe de ponctuation ( )/
-????f 拮傷 拮伤 [jie2 shang1] {gat1 soeng1} /être blessé par une piqûre/
+拮傷 拮伤 [jie2 shang1] {gat1 soeng1} /être blessé par une piqûre/
 拮肉 拮肉 [jie2 rou4] {gat1 juk6} /(habillement) qui gratte; qui démange/
-????f 拯溺 拯溺 [zheng3 ni4] {cing2 nik6} /faire un sauvetage aquatique; extraire une personne de l'eau pour éviter une noyade/
-????f 拱北 拱北 [gong3 bei3] {gung2 bak1} /Gongbei, point d'entrée entre Macau et Zhuhai/
+拯溺 拯溺 [zheng3 ni4] {cing2 nik6} /faire un sauvetage aquatique; extraire une personne de l'eau pour éviter une noyade/
+拱北 拱北 [gong3 bei3] {gung2 bak1} /Gongbei, passage frontalier entre Macau et Zhuhai/
 拳 拳 [quan2] {kyun4} /poing/boxe; art martial chinois/
 拳頭 拳头 [quan2 tou5] {kyun4 tau4} /poing/(un produit) de bonne qualité/
 拼 拼 [pin1] {ping3} /se battre; lutter/
@@ -9111,9 +9111,9 @@
 持槍 持枪 [chi2 qiang1] {ci4 coeng1} /armé/à main armée/
 持論 持论 [chi2 lun4] {ci4 leon6} /exprimer un avis; exprimer une idée; exprimer une opinion/
 指住 指住 [zhi3 zhu4] {zi2 zyu6} /(en train de) montrer du doigt; indiquer/
-????c 指住禿奴罵和尚 指住秃奴骂和尚 [zhi3 zhu4 tu1 nu2 ma4 he2 shang5] {zi2 zyu6 tuk1 nou4 maa6 wo4 soeng2} /(expr. idiom.) réprimander d'une manière indirecte, critiquer quelqu'un de manière indirecte en critiquant quelqu'un d'autre/(lit.) montrer un esclave du doigt pour réprimander le moine bouddhiste/
-????c 指冬瓜話葫蘆 指冬瓜话葫芦 [zhi3 dong1 gua1 hua4 hu2 lu5] {zi2 dung1 gwaa1 waa6 wu4 lou2} /(expr. idiom.) réprimander d'une manière indirecte; critiquer quelqu'un de manière indirecte en critiquant quelqu'un d'autre/(lit.) montrer la courge cireuse du doigt pour réprimander la calebasse/
-????f 指嚇 指吓 [zhi3 xia4] {zi2 haak3} /menacer avec une arme/
+指住禿奴罵和尚 指住秃奴骂和尚 [zhi3 zhu4 tu1 nu2 ma4 he2 shang5] {zi2 zyu6 tuk1 nou4 maa6 wo4 soeng2} /(expr. idiom.) réprimander d'une manière indirecte; critiquer quelqu'un de manière indirecte en critiquant quelqu'un d'autre/(lit.) montrer un esclave du doigt pour réprimander le moine bouddhiste/
+指冬瓜話葫蘆 指冬瓜话葫芦 [zhi3 dong1 gua1 hua4 hu2 lu5] {zi2 dung1 gwaa1 waa6 wu4 lou2} /(expr. idiom.) réprimander d'une manière indirecte; critiquer quelqu'un de manière indirecte en critiquant quelqu'un d'autre/(lit.) montrer la courge cireuse du doigt pour réprimander la calebasse/
+指嚇 指吓 [zhi3 xia4] {zi2 haak3} /menacer avec une arme/
 指天椒 指天椒 [zhi3 tian1 jiao1] {zi2 tin1 ziu1} /piment rouge chinois; chaotianjiao ou zitianjiao; « piment qui fait face au ciel »/
 指定 指定 [zhi3 ding4] {zi2 ding6} /désigner, indiquer/nommer, choisir pour un poste/sélectionner, choisir/
 指意 指意 [zhi3 yi4] {zi2 ji3} /dépendre de (quelque chose); compter sur (quelqu'un)/espérer; souhaiter; désirer/
@@ -9125,7 +9125,7 @@
 指點 指点 [zhi3 dian3] {zi2 dim2} /donner des ordres; donner des instructions; donner des conseils/
 按 按 [an4] {on3} /appuyer/hypothéquer/
 按摩師 按摩师 [an4 mo2 shi1] {on3 mo1 si1} /masseur/
-????c 按比例 按比例 [an4 bi3 li4] {on3 bei2 lai6} /proportionnel; qui a rapport à une proportion/
+按比例 按比例 [an4 bi3 li4] {on3 bei2 lai6} /proportionnel; qui a rapport à une proportion/
 按計劃 按计划 [an4 ji4 hua4] {on3 gai3 waak6} /conformément au plan; comme prévu; selon le plan/selon le calendrier prévu; à temps/
 按金 按金 [an4 jin1] {on3 gam1} /acompte; avance/
 挑 挑 [tiao1] {tiu1} /(vulg.) va te faire foutre! merde! (voir aussi 屌|屌)/
@@ -9135,93 +9135,93 @@
 挖 挖 [wa1] {waat3} /creuser/persuader quelqu'un à changer d'emploi (voir aussi 挖角|挖角)/
 挖肉攞瘡生 挖肉攞疮生 [wa1 rou4 luo1 chuang1 sheng1] {waat3 juk6 lo2 cong1 sang1} /(expr. idiom.) chercher des ennuis/(lit.) découper la chair pour enlever un furoncle/
 挨 挨 [ai1] {aai1} /se pencher vers; s'appuyer sur/subir; supporter; tolérer/
-????f 挨夾棍 挨夹棍 [ai1 jia1 gun4] {ngaai4 gaap3 gwan3} /(expr. idiom.) être attaqué par les deux côtés; être pris entre le marteau et l'enclume/
+挨夾棍 挨夹棍 [ai1 jia1 gun4] {ngaai4 gaap3 gwan3} /(expr. idiom.) être attaqué par les deux côtés; être pris entre le marteau et l'enclume/
 挨屏 挨屏 [ai1 ping2] {aai1 peng1} /dossier (d'un siège)/
 挨年近晚 挨年近晚 [ai1 nian2 jin4 wan3] {aai1 nin4 gan6 maan5} /presque à la fin de l'année (lunaire)/
 挨憑 挨凭 [ai1 ping2] {aai1 bang6} /s'appuyer sur (quelque chose)/
 挨拼 挨拼 [ai1 pin1] {aai1 ping3} /dossier (d'un siège)/
-????f 挨拼椅 挨拼椅 [ai1 pin1 yi3] {aai1 peng1 ji2} /chaise avec dossier/
+挨拼椅 挨拼椅 [ai1 pin1 yi3] {aai1 peng1 ji2} /chaise avec dossier/
 挨晚 挨晚 [ai1 wan3] {aai1 maan1} /soir; soirée/
 挨更抵夜 挨更抵夜 [ai1 geng4 di3 ye4] {ngaai4 gaang1 dai2 je6} /(expr. idiom.) travailler toute la nuit; passer une nuit blanche à travailler/(expr. idiom.) faire des heures supplémentaires/
-????f 挨生挨死 挨生挨死 [ai1 sheng1 ai1 si3] {ngaai4 saang1 ngaai4 sei2} /(expr. idiom.) travailler fort et vivre une vie difficile/
+挨生挨死 挨生挨死 [ai1 sheng1 ai1 si3] {ngaai4 saang1 ngaai4 sei2} /(expr. idiom.) travailler fort et vivre une vie difficile/
 挨齋 挨斋 [ai1 zhai1] {ngaai4 zaai1} /végétarien; qui ne mange pas de chair animale/
 挪亞方舟 挪亚方舟 [nuo2 ya4 fang1 zhou1] {no4 aa3 fong1 zau1} /Arche de Noé/
 挫傷 挫伤 [cuo4 shang1] {co3 soeng1} /bleu; contusion/
 挺括 挺括 [ting3 gua5] {ting5 gwaat3} /(papier, tissu) dur, rigide et lisse/
 挽回 挽回 [wan3 hui2] {waan5 wui4} /remédier à la situation; régler la situation/
 挽手 挽手 [wan3 shou3] {waan5 sau2} /tenir la main/
-????c 挽鞋 挽鞋 [wan3 xie2] {waan5 haai4} /(expr. idiom.) servir; rendre service; travailler comme domestique/(lit.) apporter des chaussures/
+挽鞋 挽鞋 [wan3 xie2] {waan5 haai4} /(expr. idiom.) servir; rendre service/(lit.) apporter des chaussures/
 挾 挟 [xie2] {gaap3} /étroit; serré/
 挾持 挟持 [xie2 chi2] {hip6 ci4} /prendre en otage/
-????f 挾腳 夹脚 [jia1 jiao3] {gep6 goek3} /chaussures qui serrent les pieds; chaussures qui sont trop petites/
-????f 挾餸 夹餸 [jia1 song4] {gaap3 sung3} /prendre la nourriture avec des baguettes/
-????f 捉人痛腳 捉人痛脚 [zhuo1 ren2 tong4 jiao3] {zuk1 jan4 tung3 goek3} /(expr. idiom.) viser les points faibles des autres; exploiter les défauts des autres/(lit.) attraper le pied blessé de quelqu'un/
+挾腳 夹脚 [jia1 jiao3] {gep6 goek3} /chaussures qui serrent les pieds; chaussures qui sont trop petites (voir aussi 抱腳|抱脚)/
+挾餸 夹餸 [jia1 song4] {gaap3 sung3} /prendre la nourriture avec des baguettes/
+捉人痛腳 捉人痛脚 [zhuo1 ren2 tong4 jiao3] {zuk1 jan4 tung3 goek3} /(expr. idiom.) viser les points faibles des autres; exploiter les défauts des autres/(lit.) attraper le pied blessé de quelqu'un/
 捉伊人 捉伊人 [zhuo1 yi1 ren2] {zuk1 ji1 jan1} /cache-cache/
 捉兒人 捉儿人 [zhuo1 r5 ren2] {zuk1 ji1 jan1} /cache-cache/
-????f 捉到鹿唔識脫角 捉到鹿唔识脱角 [zhuo1 dao4 lu4 m2 shi2 tuo1 jiao3] {zuk1 dou2 luk6 m4 sik1 tyut3 gok3} /(expr. idiom.) qui ne profite pas d'une belle occasion de faire quelque chose/(lit.) qui a attrapé le cerf mais ne sait pas lui ôter le bois/
+捉到鹿唔識脫角 捉到鹿唔识脱角 [zhuo1 dao4 lu4 m2 shi2 tuo1 jiao3] {zuk1 dou2 luk6 m4 sik1 tyut3 gok3} /(expr. idiom.) qui ne profite pas d'une belle occasion de faire quelque chose/(lit.) qui a attrapé le cerf mais ne sait pas lui ôter le bois/
 捉匿匿 捉匿匿 [zhuo1 ni4 ni4] {zuk3 nei1 nei1} /cache-cache/
 捉姣 捉姣 [zhuo1 jiao1] {zuk1 haau4} /prendre quelqu'un en flagrant délit d'adultère/
-????f 捉字虱 捉字虱 [zhuo1 zi4 shi1] {zuk1 zi6 sat1} /(expr. idiom.) jouer au Grammar Nazi; repérer et critiquer les fautes de grammaire, d'ortographe des autres/(lit.) attraper les poux des mots/
-????f 捉字蝨 捉字虱 [zhuo1 zi4 shi1] {zuk1 zi6 sat1} /(expr. idiom.) jouer au Grammar Nazi; repérer et critiquer les fautes de grammaire, d'ortographe des autres/(lit.) attraper les poux des mots/
+捉字虱 捉字虱 [zhuo1 zi4 shi1] {zuk1 zi6 sat1} /(expr. idiom.) jouer au Grammar Nazi; repérer et critiquer les fautes de grammaire, d'ortographe des autres/(lit.) attraper les poux des mots/
+捉字蝨 捉字虱 [zhuo1 zi4 shi1] {zuk1 zi6 sat1} /(expr. idiom.) jouer au Grammar Nazi; repérer et critiquer les fautes de grammaire, d'ortographe des autres/(lit.) attraper les poux des mots/
 捉棋 捉棋 [zhuo1 qi2] {zuk1 kei2} /jouer aux échecs/
 捉用神 捉用神 [zhuo1 yong4 shen2] {zuk1 jung6 san4} /deviner les intentions des autres/
-????f 捉痛腳 捉痛脚 [zhuo1 tong4 jiao3] {zuk1 tung3 goek3} /(expr. idiom.) viser les points faibles des autres; exploiter les défauts des autres/(lit.) attraper le pied qui fait mal/
+捉痛腳 捉痛脚 [zhuo1 tong4 jiao3] {zuk1 tung3 goek3} /(expr. idiom.) viser les points faibles des autres; exploiter les défauts des autres/(lit.) attraper le pied qui fait mal/
 捉緊 捉紧 [zhuo1 jin3] {zuk1 gan2} /tenir fermement; serrer; se cramponner/
 捉蟲 捉虫 [zhuo1 chong2] {zuk1 cung4} /(expr. idiom.) qui cherche des ennuis/(lit.) attraper des insectes/
 捉蟲入屎忽 捉虫入屎忽 [zhuo1 chong2 ru4 shi3 hu1] {zuk1 cung4 jap6 si2 fat1} /(expr. idiom.) chercher des ennuis/(lit.) attraper des insectes pour les mettre dans sa derrière/
 捉蟲入屎窟 捉虫入屎窟 [zhuo1 chong2 ru4 shi3 ku1] {zuk1 cung4 jap6 si2 fat1} /(expr. idiom.) chercher des ennuis/(lit.) attraper des insectes pour les mettre dans sa derrière/
 捉賊 捉贼 [zhuo1 zei2] {zuk1 caak2} /attraper le voleur/
-????f 捉錯用神 捉错用神 [zhuo1 cuo4 yong4 shen2] {zuk1 co3 jung6 san4} /mal interpréter ou mal comprendre les intentions de quelqu'un/
+捉錯用神 捉错用神 [zhuo1 cuo4 yong4 shen2] {zuk1 co3 jung6 san4} /(expr. idiom.) mal interpréter ou mal comprendre les intentions de quelqu'un/
 捉雞腳 捉鸡脚 [zhuo1 ji1 jiao3] {zuk1 gai1 goek3} /(expr. idiom.) prendre quelqu'un en flagrant délit d'adultère/(expr. idiom.) mentir; escroquer; arnaquer ses clients/(lit.) attraper les pattes de poulet/
 捉魚 捉鱼 [zhuo1 yu2] {zuk1 jyu2} /attraper des poissons; pêcher/
 捉黃腳雞 捉黄脚鸡 [zhuo1 huang2 jiao3 ji1] {zuk1 wong4 goek3 gai1} /(expr. idiom.) prendre quelqu'un en flagrant délit d'adultère/(lit.) attraper les pattes jaunes du poulet/
 捍衞 捍卫 [han4 wei4] {hon5 wai6} /défendre; protéger/
-????f 捐 捐 [juan1] {gyun1} /creuser; faire un trou/entrer dans un terrier/(fig.) entrer dans une espace étroite/faire don; donner/
-????f 捐山窿 捐山窿 [juan1 shan1 long2] {gyun1 saan1 lung1} /passer par un tunnel sous la montagne/
+捐 捐 [juan1] {gyun1} /creuser; faire un trou/entrer dans un terrier/(fig.) entrer dans une espace étroite/faire don; donner/
+捐山窿 捐山窿 [juan1 shan1 long2] {gyun1 saan1 lung1} /passer par un tunnel sous une montagne/
 捐棄前嫌 捐弃前嫌 [juan1 qi4 qian2 xian2] {gyun1 hei3 cin4 jim4} /(expr. idiom.) enterrer la hache de guerre; faire la paix; se réconcilier/(lit.) enterrer les anciennes rancunes/
-????c 捐窿捐罅 捐窿捐罅 [juan1 long2 juan1 xia4] {gyun1 lung1 gyun1 laa3} /(expr. idiom.) aller partout/(lit.) entrer dans les trous et les petites ouvertures/
+捐窿捐罅 捐窿捐罅 [juan1 long2 juan1 xia4] {gyun1 lung1 gyun1 laa3} /(expr. idiom.) aller partout (se dit en général quand on cherche quelque chose); chercher de fond en comble; chercher partout/(lit.) entrer dans les trous et les petites ouvertures/
 捐錢 捐钱 [juan1 qian2] {gyun1 cin2} /faire un don d'argent; donner de l'argent/
-????f 捕快 捕快 [bu3 kuai4] {bou6 faai3} /officier chargée d'attraper les criminels dans la Chine antique/
+捕快 捕快 [bu3 kuai4] {bou6 faai3} /officier chargé d'attraper les criminels dans la Chine antique/
 捕蠅紙 捕蝇纸 [bu3 ying2 zhi3] {bou6 jing4 zi2} /papier tue-mouche/
 捧紅 捧红 [peng3 hong2] {pung2 hung4} /rendre quelqu'un célèbre/
 捨得 舍得 [she3 de5] {se2 dak1} /manquer à; s'ennuyer de/prêt à; disposé à/
 捨我其誰 舍我其谁 [she3 wo3 qi2 shui2] {se2 ngo5 kei4 seoi4} /(expr.) si pas noi, qui? qui d'autre pourrait le faire?/
-????f 捨身圖報 舍身图报 [she3 shen1 tu2 bao4] {se2 san1 tou4 bou3} /(expr. idiom.) rembourser une dette au prix de sa vie/
-????f 捨近求遠 舍近求远 [she3 jin4 qiu2 yuan3] {se2 gan6 kau4 jyun5} /(expr. idiom.) rendre les choses plus compliquées; essayer de faire quelque chose d'impossible/(lit.) rejeter quelque chose de proche et chercher une chose lointaine/
+????c 捨身圖報 舍身图报 [she3 shen1 tu2 bao4] {se2 san1 tou4 bou3} /(expr. idiom.) rembourser une dette au prix de sa vie/
+捨近求遠 舍近求远 [she3 jin4 qiu2 yuan3] {se2 gan6 kau4 jyun5} /(expr. idiom.) rendre les choses plus compliquées; essayer de faire quelque chose d'impossible/(lit.) rejeter quelque chose de proche et chercher une chose lointaine/
 捯 捯 [dao2] {dou3, dou2} /enrouler la corde ou le fil/chercher; enquêter sur; investiguer/
-????f 捱世界 挨世界 [ai1 shi4 jie4] {ngaai4 sai3 gaai3} /(expr. idiom.) vivre une vie difficile/(lit.) supporter le monde/
+捱世界 挨世界 [ai1 shi4 jie4] {ngaai4 sai3 gaai3} /(expr. idiom.) vivre une vie difficile/(lit.) supporter le monde/
 捱夜 挨夜 [ai1 ye4] {ngaai4 je2} /(expr. idiom.) travailler tard le soir/(expr. idiom.) passer une nuit blanche/
 捱得 挨得 [ai1 de5] {ngaai4 dak1} /persévérant; tenace/
 捱更抵夜 挨更抵夜 [ai1 geng4 di3 ye4] {ngaai4 gaang1 dai2 je6} /(expr. idiom.) travailler toute la nuit; passer une nuit blanche à travailler/(expr. idiom.) faire des heures supplémentaires/
 捱生捱死 挨生捱死 [ai1 sheng1 ai2 si3] {ngaai4 saang1 ngaai4 sei2} /(expr. idiom.) vivre une vie difficile/(expr. idiom.) travailler très fort/
 捱穀種 挨谷种 [ai1 gu3 zhong3] {ngaai4 guk1 zung2} /(expr. idiom.) vivre de ses maigres épargnes/(lit.) supporter les graines de la valleé/
-????f 捱義氣 挨义气 [ai1 yi4 qi5] {ngaai4 ji6 hei3} /(expr. idiom.) faire quelque chose par amitié ou par loyauté/
+捱義氣 挨义气 [ai1 yi4 qi5] {ngaai4 ji6 hei3} /(expr. idiom.) faire quelque chose par amitié ou par loyauté/
 捱餓 挨饿 [ai2 e4] {ngaai4 ngo6} /souffrir de faim/
 捱騾仔 挨骡仔 [ai1 luo2 zi3] {ngaai4 leoi4 zai2} /(expr. idiom.) travailler fort; travailler dur; trimer/(lit.) travailler comme une mule/
-????f 捱麵包 挨面包 [ai1 mian4 bao1] {ngaai4 min6 baau1} /(expr. idiom.) devoir manger simplement pour économiser son argent/(lit.) supporter le pain/
-????f 捲土重來 卷土重来 [juan3 tu3 chong2 lai2] {gyun2 tou2 cung4 loi4} /revenir sur scène; faire une remontée/
+捱麵包 挨面包 [ai1 mian4 bao1] {ngaai4 min6 baau1} /(expr. idiom.) devoir manger simplement pour économiser son argent/(lit.) supporter le pain/
+捲土重來 卷土重来 [juan3 tu3 chong2 lai2] {gyun2 tou2 cung4 loi4} /(expr. idiom.) revenir sur scène; faire une remontée; organiser un retour/(lit.) revenir dans un nuage de poussière/
 捲煙 卷烟 [juan3 yan1] {gyun2 jin1} /cigarette; clope; smoke/cigare/
 捲粉 卷粉 [juan3 fen3] {gyun2 fan2} /rouleau de nouille de riz, plat cantonais/
-????f 捲閘 卷闸 [juan3 zha2] {gyun2 zaap6} /porte qui s'ouvre ou ferme en s'enroulant, comme une porte de garage (or for a store when it closes)/
+捲閘 卷闸 [juan3 zha2] {gyun2 zaap6} /porte qui s'ouvre ou ferme en s'enroulant, comme une porte de garage; volet roulant de sécurité/
 ????c 捳 捳 [yue4] {ngok6} /tenir fermement/
 捷泳 捷泳 [jie2 yong3] {zit3 wing6} /(type de nage) crawl/
-????f 捻死 捻死 [nian3 si3] {nin2 sei2} /écraser (un petit object ou insecte) à mort avec ses doigts/
+捻死 捻死 [nian3 si3] {nin2 sei2} /écraser (un petit object ou insecte) à mort avec ses doigts/
 捽 捽 [zuo2] {zyut6, zeot1} /frotter/(musique) scratcher; modifier la vitesse de lecture d'un disque vinyle pour produire un effet sonore particulier/
 捽碟 捽碟 [cu4 die2] {zeot1 dip2} /(musique) scratcher; modifier la vitesse de lecture d'un disque vinyle pour produire un effet sonore particulier/
 掀起 掀起 [xian1 qi3] {hin1 hei2} /causer; déclencher; provoquer/soulever/
 掂 掂 [dian1] {dim3} /toucher; entrer en contact avec quelque chose/
 掂 掂 [dian1] {dim6} /adéquat; qui correspond aux attentes/parfait/capable; ingénieux; débrouillard/(particule pour indiquer une action passée)/
 掂筆甩 掂笔甩 [dian1 bi3 shuai3] {dim6 bat1 lat1} /parfaitement droit/
-????c 掂路 掂路 [dian1 lu4] {dim6 lou6} /droit chemin; route droite/
+掂路 掂路 [dian1 lu4] {dim6 lou6} /droit chemin; route droite/route directe/
 掂過條蔗 掂过条蔗 [dian1 guo4 tiao2 zhe4] {dim6 gwo3 tiu4 ze3} /(expr. idiom.) sans incident; sans problème; bien se passer/(lit.) mieux que la canne à sucre/
 掂過碌蔗 掂过碌蔗 [dian1 guo4 lu4 zhe4] {dim6 gwo3 luk1 ze3} /(expr. idiom.) sans incident; sans problème; bien se passer/(lit.) mieux que la canne à sucre/
 掃 扫 [sao3] {sou3} /ranger; nettoyer; balayer/lire (un code QR ou autre code-barres)/
 掃地出門 扫地出门 [sao3 di4 chu1 men2] {sou3 dei6 ceot1 mun4} /(expr. idiom.) se faire virer de la maison; être mis à la porte sans rien/(lit.) balayer les ordures de la maison/
 掃平 扫平 [sao3 ping2] {sou3 ping4} /écraser; réprimer (un soulèvement)/
-????f 掃毒 扫毒 [sao3 du2] {sou3 duk6} /faire une saisie (de drogue); faire une opération antidrogue/
-????f 掃灰水 扫灰水 [sao3 hui1 shui3] {sou3 fui1 seoi2} /(mur) blanchir à la chaux/
+掃毒 扫毒 [sao3 du2] {sou3 duk6} /faire une saisie (de drogue); faire une opération antidrogue/
+掃灰水 扫灰水 [sao3 hui1 shui3] {sou3 fui1 seoi2} /(mur) blanchir à la chaux/
 掃興 扫兴 [sao3 xing4] {sou3 hing3} /rabat-joie; trouble-fête; casseux de party/
-????f 掃貨 扫货 [sao3 huo4] {sou3 fo3} /faire un magasinage effréné; se lancer dans une frénésie d'achats/
+掃貨 扫货 [sao3 huo4] {sou3 fo3} /faire un magasinage effréné; se lancer dans une frénésie d'achats/
 掃風 扫风 [sao3 feng1] {sou3 fung1} /faire faire son rot à un bébé; aider un bébé à faire son rot/
 掅起 掅起 [qing4 qi3] {cing3 hei2} /soulever; porter/
 授權書 授权书 [shou4 quan2 shu1] {sau6 kyun4 syu1} /procuration, document juridique/
@@ -9232,32 +9232,32 @@
 掌櫃 掌柜 [zhang3 gui4] {zoeng2 gwai2} /commerçant, commerçante; marchand en boutique; boutiquier/
 掌門 掌门 [zhang3 men2] {zoeng2 mun4} /maître; leader/chef d'une secte religieuse ou d'arts martiaux/
 掌門人 掌门人 [zhang3 men2 ren2] {zoeng2 mun4 jan4} /maître; leader/chef d'une secte religieuse ou d'arts martiaux/
-????f 掏錢 掏钱 [tao1 qian2] {tou4 cin4} /payer à contrecœur; cracher; abouler/
+掏錢 掏钱 [tao1 qian2] {tou4 cin4} /payer à contrecœur; cracher; abouler/
 ????c 掐住 掐住 [qia1 zhu4] {haap3 zyu6} /s'étouffer; s'étrangler/
 排 排 [pai2] {paai4} /mettre en ordre/répéter (travailler un spectacle avant de se présenter devant un public)/excréter; évacuer; déféquer; expulser des matières fécales/
 排他性 排他性 [pai2 ta1 xing4] {paai4 taa1 sing3} /exclusivité/
 排位 排位 [pai2 wei4] {paai4 wai2} /classement; un rang attribué à une personne ou chose/
 排外主義 排外主义 [pai2 wai4 zhu3 yi4] {paai4 ngoi6 zyu2 ji6} /xénophobie; exclusivisme/
 排字 排字 [pai2 zi4] {paai4 zi6} /(imprimerie) composer/(imprimerie) composition/
-????f 排排坐 排排坐 [pai2 pai2 zuo4] {paai4 paai4 co5} /s'asseoir en rang; s'asseoir ensemble en une rangée/
+排排坐 排排坐 [pai2 pai2 zuo4] {paai4 paai4 co5} /s'asseoir en rang/s'asseoir ensemble en une rangée/
 排洩 排泄 [pai2 xie4] {paai4 sit3} /excréter; évacuer; déféquer; expulser des matières fécales/
 排灌 排灌 [pai2 guan4] {paai4 gun3} /irrigation et drainage/
-????f 排長龍 排长龙 [pai2 chang2 long2] {paai4 coeng4 lung4} /(fig.) attendre longtemps en file; faire la queue dans une longue file/
+排長龍 排长龙 [pai2 chang2 long2] {paai4 coeng4 lung4} /(fig.) attendre longtemps en file; faire la queue dans une longue file/
 排闥 排闼 [pai2 ta4] {paai4 taat3} /pousser la porte/
-????f 排除異己 排除异己 [pai2 chu2 yi4 ji3] {paai4 ceoi4 ji6 gei2} /(expr.) éliminer ceux qui sont d'un avis différent; éliminer ceux qui ne sont pas d'accord/
+排除異己 排除异己 [pai2 chu2 yi4 ji3] {paai4 ceoi4 ji6 gei2} /(expr.) éliminer ceux qui sont d'un avis différent; éliminer ceux qui ne sont pas d'accord/
 排除萬難 排除万难 [pai2 chu2 wan4 nan4] {paai4 ceoi4 maan6 naan4} /(expr.) surmonter tous les obstacles/
 排隊 排队 [pai2 dui4] {paai4 deoi2} /faire la queue; faire la file/
-????f 排頭位 排头位 [pai2 tou2 wei4] {paai4 tau4 wai2} /être le premier dans la file d'attente/
+排頭位 排头位 [pai2 tou2 wei4] {paai4 tau4 wai2} /être le premier dans la file d'attente/
 排骨仔 排骨仔 [pai2 gu3 zi3] {paai4 gwat1 zai2} /(péj.) homme maigrichon/(lit.) (culinaire) côtes/
 排骨精 排骨精 [pai2 gu3 jing1] {paai4 gwat1 zing1} /(péj.) homme maigrichon, femme maigrichonne; sac d'os/
-????f 排队取号 排队取号 [pai2 dui4 qu3 hao4] {paai4 deoi2 ceoi2 hou6} /(expr.) prenez un ticket et faites la queue/
+排队取号 排队取号 [pai2 dui4 qu3 hao4] {paai4 deoi2 ceoi2 hou6} /(expr.) prenez un numéro et faites la queue/
 掕 掕 [ling2] {lang3} /ensemble/avec/en lien avec/
 掗位 挜位 [ya3 wei4] {ngaa6 wai2} /prendre trop de place; être encombrant/
 掗埞 挜埞 [ya3 di1] {ngaa6 deng6} /prendre trop de place; être encombrant/
 掗拃 挜拃 [ya3 zha2] {ngaa6 zaa6} /qui prend trop de place; encombrant/(vêtements) épais; gros/(personne) autoritaire; dominateur/
 掘 掘 [jue2] {gwat6} /creuser/gagner (de l'argent)/
 掘井 掘井 [jue2 jing3] {gwat6 zeng2} /creuser un puits/
-????f 掘金 掘金 [jue2 jin1] {gwat6 gam1} /(expr. idiom.) chercher un truc pour s'enrichir rapidement/(lit.) chercher de l'or/
+掘金 掘金 [jue2 jin1] {gwat6 gam1} /(expr. idiom.) chercher une combine pour s'enrichir rapidement/(lit.) chercher de l'or/
 掘頭巷 掘头巷 [jue2 tou2 xiang4] {gwat6 tau4 hong2} /(fig.) sans avenir; sans aucune perspective/cul-de-sac/
 掘頭路 掘头路 [jue2 tou2 lu4] {gwat6 tau4 lou6} /(fig.) sans avenir; sans aucune perspective/cul-de-sac/
 掙 挣 [zheng1] {zang1} /se débarasser de; enlever/se libérer de/se battre pour; lutter pour/se démener/
@@ -9273,8 +9273,8 @@
 掛臘鴨 挂腊鸭 [gua4 la4 ya1] {gwaa3 laap6 aap2} /(fam.) (péj.) se pendre; se suicider par pendaison/(lit.) accrocher un canard rôti chinois/
 掛藍燈籠 挂蓝灯笼 [gua4 lan2 deng1 long5] {gwaa3 laam4 dang1 lung4} /(expr. idiom.) membre non initié d'une triade chinoise/(lit.) accrocher les lanternes bleues/
 ????c 掝 掝 [huo4] {waak6} /fendre/
-????f 掟彎 掟弯 [ding4 wan1] {deng3 waan1} /(véhicule) faire un virage; faire un changement de direction/(véhicule) faire un virage serré; faire un virage brusque/
-????f 掟死狗 掟死狗 [ding4 si3 gou3] {deng3 sei2 gau2} /(expr. idiom.) aliment dur et difficile à manger (souvent employé pour décrire du pain)/(lit.) (tellement dur que) si l'on le jetait sur chien, le chien mourrait/
+掟彎 掟弯 [ding4 wan1] {deng3 waan1} /(véhicule) faire un virage serré; faire un virage brusque/(véhicule) faire un virage; faire un changement de direction/
+掟死狗 掟死狗 [ding4 si3 gou3] {deng3 sei2 gau2} /(expr. idiom.) aliment dur et difficile à manger (se dit souvent du pain)/(lit.) (tellement dur que) si l'on le jetait sur chien, le chien mourrait/
 掟煲 掟煲 [ding4 bao1] {deng3 bou1} /(expr. idiom.) rompre; se séparer (relation amoureuse)/(lit.) briser le pot/
 掟煲費 掟煲费 [ding4 bao1 fei4] {deng3 bou1 fai3} /frais de divorce/
 掠奪 掠夺 [lu:e4 duo2] {loek6 dyut6} /saccager; piller; mettre à sac/
@@ -9282,20 +9282,20 @@
 採取 采取 [cai3 qu3] {coi2 ceoi2} /adopter (une loi); prendre des mesures/
 採擷 采撷 [cai3 xie2] {coi2 git3} /cueillir/
 採擷 采撷 [cai3 xie2] {coi2 git3} /cueillir/
-????f 採青 采青 [cai3 qing1] {coi2 ceng1} /"plucking the greens", during the lion dance to celebrate Chinese New Year or the opening of new shops, auspicious green vegetable such as a lettuce (due to it sounding similar to "making money") is normally hung on a pole for the lion to eat/
+????m 採青 采青 [cai3 qing1] {coi2 ceng1} /(pendant les fêtes du Nouvel An chinois) donner de la laitue ou autre légume vert au dragon lors de la danse du dragon afin d'inviter la prospérité/
 探 探 [tan4] {taam3} /visiter/explorer/prendre la température (de quelqu'un)/
 探悉 探悉 [tan4 xi1] {taam3 sik1} /vérifier; déterminer (les faits)/
 探戈舞 探戈舞 [tan4 ge1 wu3] {taam3 gwo1 mou5} /(danse) tango/
-????f 探明儲量 探明储量 [tan4 ming2 chu3 liang4] {taam3 ming4 cyu5 loeng6} /reserves prouvées (de pétrole ou autre ressources naturelles)/
+探明儲量 探明储量 [tan4 ming2 chu3 liang4] {taam3 ming4 cyu5 loeng6} /reserves prouvées (de pétrole ou autre ressources naturelles)/
 探案 探案 [tan4 an4] {taam3 on3} /enquêter sur une affaire/
 探熱 探热 [tan4 re4] {taam3 jit6} /prendre la température (de quelqu'un)/
 探熱針 探热针 [tan4 re4 zhen1] {taam3 jit6 zam1} /thermomètre médical/
-????f 探班 探班 [tan4 ban1] {taam3 baan1} /visiter au travail; rendre visite (à quelqu'un) à son lieu de travail/
+探班 探班 [tan4 ban1] {taam3 baan1} /visiter au travail; rendre visite (à quelqu'un) à son lieu de travail/
 探盤 探盘 [tan4 pan2] {taam3 pun2} /essayer de connaître les détails (d'une affaire); sonder (quelqu'un); tâter le terrain; évaluer la situation/
 探知 探知 [tan4 zhi1] {taam3 zi1} /vérifier; déterminer; constater/
 探親 探亲 [tan4 qin1] {taam3 can1} /visiter sa famille; rendre visite à ses proches/
 探訪 探访 [tan4 fang3] {taam3 fong2} /passer voir; rendre visite/
-????f 探路 探路 [tan4 lu4] {taam3 lou6} /repérer le chemin; trouver un chemin/
+探路 探路 [tan4 lu4] {taam3 lou6} /repérer le chemin; trouver un chemin/
 掣 掣 [che4] {zai3} /frein/allumer; éteindre/interrupteur; commutateur; switch/
 掣板 掣板 [che4 ban3] {zai3 baan2} /tableau électrique/
 接吻 接吻 [jie1 wen3] {zip3 man5} /embrasser; donner un baiser/
@@ -9304,7 +9304,7 @@
 接觸 接触 [jie1 chu4] {zip3 zuk1} /contact; action de toucher/être en contact (avec quelqu'un)/toucher/
 接載 接载 [jie1 zai4] {zip3 zoi3} /prendre; passer prendre (quelqu'un en voiture)/
 接骨 接骨 [jie1 gu3] {zip3 gwat1} /immobiliser un os cassé pour qu'il se répare bien; mettre des broches ou plaques métalliques dans les os pour les repositionner et favoriser leur guérison/
-????f 接龍 接龙 [jie1 long2] {zip3 lung4} /(jeu de cartes) solitaire/(jeux) former une séquence/
+接龍 接龙 [jie1 long2] {zip3 lung4} /(jeu de cartes) solitaire/(jeux) former une séquence/
 控制器 控制器 [kong4 zhi4 qi4] {hung3 zai3 hei3} /contrôleur d'un système électronique/
 控制塔 控制塔 [kong4 zhi4 ta3] {hung3 zai3 taap3} /tour de contrôle/
 推三推四 推三推四 [tui1 san1 tui1 si4] {teoi1 saam1 teoi1 sei3} /(expr. idiom.) qui trouve toujours des excuses pour ne rien faire/(lit.) pousser trois pousser quatre/
@@ -9319,19 +9319,19 @@
 推莊 推庄 [tui1 zhuang1] {teoi1 zong1} /faire porter le chapeau à; rejeter la faute sur quelqu'un d'autre; refiler la responsabilité à quelqu'un d'autre/
 推薦 推荐 [tui1 jian4] {teoi1 zin3} /recommander/nominer/proposer/
 推託 推托 [tui1 tuo1] {teoi1 tok3} /trouver des excuses; se dérober à ses obligations; se défiler/
-????f 推讓 推让 [tui1 rang4] {teoi1 joeng6} /refuser (un poste, une service) par modestie/
-????c 推送 推送 [tui1 song4] {teoi1 sung3} /mouvement propulseur/pousser; livrer/déployer (un serveur); pousser (une mise à jour, des fichiers) à un serveur/
-????f 掩口費 掩口费 [yan3 kou3 fei4] {jim2 hau2 fai3} /prix pour son silence; pot-de-vin; prix pour que quelqu'un ne dise rien sur une affaire/
+推讓 推让 [tui1 rang4] {teoi1 joeng6} /refuser (un poste, une service) par modestie/
+????m 推送 推送 [tui1 song4] {teoi1 sung3} /mouvement propulseur/pousser; livrer/(informatique) déployer (un serveur); pousser (une mise à jour, des fichiers) à un serveur/(informatique) notifier; envoyer une notification push/
+掩口費 掩口费 [yan3 kou3 fei4] {jim2 hau2 fai3} /prix pour son silence; pot-de-vin; prix pour que quelqu'un ne dise rien sur une affaire/
 掩飾 掩饰 [yan3shi4] {jim2 sik1} /cacher; dissimuler/
 掬氣 掬气 [ju1 qi4] {guk1 hei3} /se sentir vexé; se sentir indigné; être rancunier/
 掯 掯 [ken4] {kang3} /(alcool, cigarettes) fort/(travail) dur; pénible/
 掯喉 掯喉 [ken4 hou2] {kang3 hau4} /(saveur) âcre; fort/
 掱手 掱手 [pa2 shou3] {paa4 sau2} /voleur à la tire/
 掹掹緊 掹掹紧 [meng1 meng1 jin3] {maang1 maang1 gan2} /avoir de la difficulté à joindre les deux bouts; avoir un budget serré/à peine suffisant; juste assez de; suffir tout juste de/
-????f 掹衫尾 掹衫尾 [meng1 shan1 wei3] {maang1 saam1 mei5} /(expr. idiom.) suivre ou accompagner quelqu'un; dépendre sur son réseau pour atteindre un objectif; avoir accès à un évènement à cause de son ami/(lit.) tirer sur la queue-de-pie/
+掹衫尾 掹衫尾 [meng1 shan1 wei3] {maang1 saam1 mei5} /(expr. idiom.) suivre ou accompagner quelqu'un; dépendre sur son réseau pour atteindre un objectif; avoir accès à un évènement à cause de son ami/(lit.) tirer sur la queue-de-pie/
 掹貓尾 掹猫尾 [meng1 mao1 wei3] {maang1 maau1 mei5} /(expr. idiom.) conspiration entre deux personnes pour arnaquer, escroquer les autres/(lit.) tirer sur la queue du chat/
-????c 掹雞 掹鸡 [meng1 ji1] {maang1 gai1} /tirer (une arme à feu)/(personne) laid; pas beau/
-????f 㨃鬼 㨃鬼 [cheng2 gui3] {deoi2 gwai2} /inciter (quelqu'un à faire quelque chose de mal); provoquer; fomenter/
+掹雞 掹鸡 [meng1 ji1] {maang1 gai1} /(personne) laid; pas beau; avec un visage grêlé/tirer (une arme à feu)/
+㨃鬼 㨃鬼 [cheng2 gui3] {deoi2 gwai2} /inciter (quelqu'un à faire quelque chose de mal); provoquer; fomenter/
 𢯎痕 𢯎痕 [yao2 hen2] {ngaau1 han4} /gratter; gratter une démangeaison/
 揀擇 拣择 [jian3 ze2] {gaan2 zaak6} /pointilleux; tatillon; trop minutieux/
 揀樓 拣楼 [jian3 lou2] {gaan2 lau4} /choisir une maison; choisir un appartement/
@@ -9352,7 +9352,7 @@
 提防 提防 [di1 fang2] {tai4 fong4} /être vigilant; se méfier de; se prémunir contre/
 提點 提点 [ti2 dian3] {tai4 dim2} /conseiller; donner une astuce/rappeler/
 插 插 [cha1] {caap3} /insérer/gronder; réprimander; houspiller/avoir des relations sexuelles; faire l'amour/revendiquer un territoire (voir aussi 插旗|插旗)/poignarder; donner un coup de couteau à/
-????f 插戴 插戴 [cha1 dai4] {caap3 daai3} /parure de tête; ornement de tête (d'une femme)/
+插戴 插戴 [cha1 dai4] {caap3 daai3} /parure de tête; ornement de tête (d'une femme)/
 插旗 插旗 [cha1 qi2] {caap3 kei4} /(fig.) revendiquer un territoire; conquérir un pays; envahir un pays/(lit.) planter un drapeau/
 插水 插水 [cha1 shui3] {caap3 seoi2} /simulation (sport); flop (basketball); se jeter au sol dans le but de faire croire à l'arbitre qu'une faute a été commise/plonger dans l'eau/
 插燒仔 插烧仔 [cha1 shao1 zi3] {caap3 siu1 zai2} /(péj.) enfant illégitime; bâtard/
@@ -9367,23 +9367,23 @@
 揚 扬 [yang2] {joeng4} /dire aux autres; répandre (des nouvelles)/
 揚州炒飯 扬州炒饭 [yang2 zhou1 chao3 fan4] {joeng4 zau1 caau2 faan6} /riz frit de Yangzhou, plat chinois/
 揚揚 扬扬 [yang2 yang2] {joeng4 joeng4} /ravi; très content/victorieux/
-????f 揚棄 扬弃 [yang2 qi4] {joeng4 hei3} /développer ce qui est utile et se débarasser du reste/
-????f 揚眉吐氣 扬眉吐气 [yang2 mei2 tu3 qi4] {joeng4 mei4 tou3 hei3} /(expr. idiom.) pousser un soupir de soulagement après avoir subi une période stressante/(expr. idiom.) sentiment de fierté; joie après une réussite/(lit.) remonter les sourcils et respirer/
+揚棄 扬弃 [yang2 qi4] {joeng4 hei3} /développer ce qui est utile et se débarasser du reste/
+揚眉吐氣 扬眉吐气 [yang2 mei2 tu3 qi4] {joeng4 mei4 tou3 hei3} /(expr. idiom.) pousser un soupir de soulagement après avoir subi une période stressante/(expr. idiom.) sentiment de fierté; joie après une réussite/(lit.) remonter les sourcils et respirer/
 換片 换片 [huan4 pian4] {wun6 pin2} /changer les couches/
-????f 換畫 换画 [huan4 hua4] {wun6 waa2} /(fam.) (fig.) beaucoup changer de compain ou copine très vite; changer de petit ami très vite/terminer l'exploitation d'un film et sortir un autre film/
+換畫 换画 [huan4 hua4] {wun6 waa2} /(fam.) (fig.) changer de copain ou copine très vite; changer de petit ami très vite; changer de chum, de blonde très vite/terminer l'exploitation d'un film et sortir un autre film/
 換衫 换衫 [huan4 shan1] {wun6 saam1} /changer de vêtements/
 換轉 换转 [huan4 zhuan3] {wun6 zyun3} /échanger; changer/(fig.) se mettre à la place de quelqu'un d'autre; compatir avec quelqu'un d'autre/
-????f 換肩 换肩 [huan4 jian1] {wun6 gin1} /to switch shoulders when carrying something heavy/
+????f 換肩 换肩 [huan4 jian1] {wun6 gin1} /changer d'épaules (en portant quelque chose de très lourd)/
 揞住 揞住 [an3 zhu4] {ngam2 zyu6} /couvrir; recouvrir/
-????f 揞住嘴笑 揞住嘴笑 [an3 zhu4 zui3 xiao4] {ngam2 zyu6 zeoi2 siu3} /rire dans ses mains; recouvrir sa bouche lorsque l'on rit; rire dans sa barbe/
+揞住嘴笑 揞住嘴笑 [an3 zhu4 zui3 xiao4] {ngam2 zyu6 zeoi2 siu3} /rire dans ses mains; recouvrir sa bouche lorsque l'on rit; rire dans sa barbe/
 揞脈 揞脉 [an3 mai4] {ngam2 mak6} /prendre le pouls/
-????f 揤 揤 [ji2] {zat1, zeot1} /frotter/masser pour faire pénétrer; frotter pour faire pénétrer/
+揤 揤 [ji2] {zat1, zeot1} /frotter/masser pour faire pénétrer; frotter pour faire pénétrer/
 揦住 揦住 [la2 zhu4] {laa2 zyu6} /s'accrocher à; tenir fermement; serrer; se cramponner/
 揦埋 揦埋 [la2 mai2] {laa2 maai4} /combiner; mélanger/en général; en règle général/tirer la gueule; bouder; avoir l'air mécontent/ramasser; ranger/
 揦埋口面 揦埋口面 [la2 mai2 kou3 mian4] {laa2 maai4 hau2 min6} /(expr.) tirer la gueule; bouder; avoir l'air mécontent/
 揦屎上身 揦屎上身 [la2 shi3 shang4 shen1] {laa2 si2 soeng6 san1} /(expr. idiom.) (vul.) chercher des ennuis/(lit.) frotter les excréments sur son corps/
 揦手 揦手 [la2 shou3] {laa2 sau2} /difficile à gérer (voir 揦手唔成勢|揦手唔成势)/
-????f 揦手唔成勢 揦手唔成势 [la2 shou3 wu2 cheng2 shi4] {laa2 sau2 m4 sing4 sai3} /(expr. idiom.) être dans un dilemme; ne pas avoir les moyens de faire face à un problème/(lit.) irriter les mains mais ne pas arriver à se classer/
+揦手唔成勢 揦手唔成势 [la2 shou3 wu2 cheng2 shi4] {laa2 sau2 m4 sing4 sai3} /(expr. idiom.) être dans un dilemme; ne pas avoir les moyens de faire face à un problème/(lit.) irriter les mains mais ne pas arriver à se classer/
 揦脷 揦脷 [la2 li4] {laa2 lei6} /qui est trop salé ou piquant/(fig.) très cher/(lit.) qui irrite la langue/
 揦苴 揦苴 [la2 ju1] {laa2 zaa2} /sale; malpropre/qui n'est pas préparé; déorganisé/malhonnête; pas honorable, sale (moralement)/
 揦茜 揦茜 [la2 qian4] {laa2 sai1} /(personne) négligent; étourdi/(travail) bâclé/
@@ -9395,58 +9395,58 @@
 揭盅 揭盅 [jie1 zhong1] {kit3 zung1} /dévoiler; annoncer/
 揭露 揭露 [jie1 lu4] {kit3 lou6} /dévoiler; exposer/
 揮 挥 [hui1] {fai1} /bagarre (orig.) de l'anglais « fight » (« bagarre »)/comparer/comparable/
-????f 揮春 挥春 [hui1 chun1] {fai1 ceon1} /fai chun, souhaits du Nouvel An chinois écrits sur du papier rouge et affichés sur les portes, les murs, etc./
+揮春 挥春 [hui1 chun1] {fai1 ceon1} /fai chun, souhaits du Nouvel An chinois écrits sur du papier rouge et affichés sur les portes, les murs, etc./
 揳 揳 [xie1] {sit3} /clouer/
 援軍 援军 [yuan2 jun1] {wun4 gwan1} /(militaire) renforts/
 揸 揸 [zha1] {zaa1} /tenir; avoir en main/conduire (une voiture, un autobus, un camion, etc.)/piloter (un avion)/prendre une décision/
-????f 揸ｆｉｔ 揸ｆｉｔ [zha1 f i t] {zaa1ｆｉｔ} /responsable (pour quelque tâche)/
-????f 揸ｆｉｔ人 揸ｆｉｔ人 [zha1 f i t ren2] {zaa1 ｆｉｔ jan4} /leader; chef; tête (d'un groupe, pour un project, une tâche)/
+揸ｆｉｔ 揸ｆｉｔ [zha1 f i t] {zaa1ｆｉｔ} /responsable (pour quelque tâche)/
+揸ｆｉｔ人 揸ｆｉｔ人 [zha1 f i t ren2] {zaa1 ｆｉｔ jan4} /leader; chef; tête (d'un groupe, pour un project, une tâche)/
 揸主意 揸主意 [zha1 zhu3 yi5] {zaa1 zyu2 ji3} /prendre une décision/
 揸住 揸住 [zha1 zhu4] {zaa1 zyu6} /en train de tenir; avoir dans la main/
 揸住雞毛當令箭 揸住鸡毛当令箭 [zha1 zhu4 ji1 mao2 dang1 ling4 jian4] {zaa1 zyu6 gai1 mou4 dong1 ling6 zin3} /(expr. idiom.) faire semblant d'avoir plus d'autorité qu'en réalité/(lit.) avoir des plumes de poulet en main et faire semblant d'être le drapeau d'autorité/
 揸個扒 揸个扒 [zha1 ge4 ba1] {zaa1 go3 paa4} /serrer la main/
 揸兜 揸兜 [zha1 dou1] {zaa1 dau1} /(fig.) mendiant/(fig.) sans-emploi/(lit.) qui tient un bol dans les mains/
 揸大旗 揸大旗 [zha1 da4 qi2] {zaa1 daai6 kei4} /(expr. idiom.) leader; chef; tête/(lit.) qui a le grand drapeau/
-????f 揸大葵扇 揸大葵扇 [zha1 da4 kui2 shan4] {zaa1 daai6 kwai4 sin3} /(expr. idiom.) jouer les entremetteurs; jouer les marieurs/(lit.) tenir le grand éventail de feuille de palmier/
-????f 揸弗 揸弗 [zha1 fu2] {zaa1 fit1} /responsable (pour quelque tâche)/
-????f 揸弗人 揸弗人 [zha1 fu2 ren2] {zaa1 fit1 jan4} /leader; chef; tête (d'un groupe, pour un project, une tâche)/
+揸大葵扇 揸大葵扇 [zha1 da4 kui2 shan4] {zaa1 daai6 kwai4 sin3} /(expr. idiom.) jouer les entremetteurs; jouer les marieurs/(lit.) tenir le grand éventail de feuille de palmier/
+揸弗 揸弗 [zha1 fu2] {zaa1 fit1} /responsable (d'une tâche)/
+揸弗人 揸弗人 [zha1 fu2 ren2] {zaa1 fit1 jan4} /leader; chef; tête (d'un groupe, pour un project, une tâche)/
 揸手 揸手 [zha1 shou3] {zaa1 sau2} /serrer la main/avoir en main; mettre ses mains sur (des objets de valeur, un montant d'argent qui sert de garantie, nantissement, caution)/
 揸拿 揸拿 [zha1 na2] {zaa1 naa4} /assurance; certitude; confiance/
 揸數 揸数 [zha1 shu4] {zaa1 sou3} /personne chargée de gérer l'argent ou les comptes; trésorier/
-????f 揸正來做 揸正来做 [zha1 zheng4 lai2 zuo4] {zaa1 zeng3 lai4 zou6} /(expr.) tout faire dans les règles/
-????f 揸正嚟做 揸正嚟做 [zha1 zheng4 li2 zuo4] {zaa1 zeng3 lei4 zou6} /(expr.) tout faire dans les règles/
+揸正來做 揸正来做 [zha1 zheng4 lai2 zuo4] {zaa1 zeng3 lai4 zou6} /(expr.) tout faire dans les règles/
+揸正嚟做 揸正嚟做 [zha1 zheng4 li2 zuo4] {zaa1 zeng3 lei4 zou6} /(expr.) tout faire dans les règles/
 揸水 揸水 [zha1 shui3] {zaa1 seoi2} /(fam.) uriner/
 揸水煲 揸水煲 [zha1 shui3 bao1] {zaa1 seoi2 bou1} /(fig.) serveur, serveuse/(lit.) tenir la bouilloire/
-????f 揸波 揸波 [zha1 bo1] {zaa1 bo1} /(fam.) masser les seins/
+揸波 揸波 [zha1 bo1] {zaa1 bo1} /(fam.) masser les seins/
 揸痛腳 揸痛脚 [zha1 tong4 jiao3] {zaa1 tung3 goek3} /(expr. idiom.) viser les points faibles des autres; exploiter les défauts des autres/(lit.) tenir le pied qui fait mal/
-????f 揸腰 揸腰 [zha1 yao1] {zaa1 jiu1} /vêtements qui moulent les hanches; vêtements qui mettent en valeur sa taille/
+揸腰 揸腰 [zha1 yao1] {zaa1 jiu1} /vêtements qui moulent les hanches; vêtements qui mettent en valeur sa taille/
 揸舦 揸舦 [zha1 tai4] {zaa1 taai5} /naviguer; piloter; conduire un bateau/
 揸車 揸车 [zha1 che1] {zaa1 ce1} /conduire une voiture/(aller) en voiture/
-????f 揸鐵筆 揸铁笔 [zha1 tie3 bi3] {zaa1 tit3 bat1} /(fig.) col bleu; ouvrier/(lit.) qui tient un stylo en métal dans les mains/(orig.) les ouvriers utilisent des outils en métal, d'où le « stylo en métal »; les employés de bureau utilisent des stylos (normaux)/
+揸鐵筆 揸铁笔 [zha1 tie3 bi3] {zaa1 tit3 bat1} /(fig.) col bleu; ouvrier/(lit.) qui tient un stylo en métal dans les mains/(orig.) les ouvriers utilisent des outils en métal, d'où le « stylo en métal »; les employés de bureau utilisent des stylos à encre/
 揸雞腳 揸鸡脚 [zha1 ji1 jiao3] {zaa1 gai1 goek3} /(expr. idiom.) viser les points faibles des autres; exploiter les défauts des autres/(lit.) tenir les pattes de poulet/
 揸頸就命 揸颈就命 [zha1 jing3 jiu4 ming4] {zaa1 geng2 zau6 meng6} /avaler une insulte; réprimer sa colère; rester silencieux face à l'humiliation/
-????c 揹帶 背带 [bei1 dai4] {bui3 daai2} /bandoulière; sangle; courroie/
-揼時間 揼时间 [beng5 shi2 jian1] {dam1 si4 gaan3} /prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/temporiser; chercher à gagner du temps; atermoyer/qui prend du temps/(sports) jouer la montre/
-????f 揼波鐘 揼波钟 [beng5 bo1 zhong1] {dam1 bo1 zung1} /prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/temporiser; chercher à gagner du temps; atermoyer/faire perdre son temps à quelqu'un/
-????f 揼波拿 揼波拿 [beng5 bo1 na2] {dam1 bo1 laa4} /tombola, jeu d'argent dans laquelle on gagne un lot en nature/
+揹帶 背带 [bei1 dai4] {bui3 daai2} /bandoulière; sangle; courroie/bretelles/
+揼時間 揼时间 [beng5 shi2 jian1] {dam1 si4 gaan3} /(fig.) prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/(fig.) temporiser; chercher à gagner du temps; atermoyer/(fig.) faire perdre son temps à quelqu'un/(sports) jouer la montre/
+揼波鐘 揼波钟 [beng5 bo1 zhong1] {dam1 bo1 zung1} /(fig.) prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/(fig.) temporiser; chercher à gagner du temps; atermoyer/(fig.) faire perdre son temps à quelqu'un/(sports) jouer la montre/
+揼波拿 揼波拿 [beng5 bo1 na2] {dam1 bo1 laa4} /tombola, jeu d'argent dans laquelle on gagne un lot en nature/
 揼骨 揼骨 [beng5 gu3] {dap6 gwat1} /masser; pétrir les muscles avec les mains/
-????c 㨘到立立呤 擤到立立呤 [xing3 dao4 li4 li4 ling4] {saang2 dou3 laap6 laap6 ling4} /polir; brunir/????(expr. idiom.) être pris comme bouc émissaire/
+㨘到立立呤 擤到立立呤 [xing3 dao4 li4 li4 ling4] {saang2 dou3 laap6 laap6 ling4} /polir; brunir/(expr. idiom.) être pris comme bouc émissaire/
 㨘牛王 擤牛王 [xing3 niu2 wang2] {saang2 ngau4 wong4} /réclamer ce qui appartient à quelqu'un d'autre/faire chanter; extorquer/
 𢱑子 𢱑子 [wa1 zi] {waa2 zi2} /jeu des osselets (joué avec de petites pierres)/
 ????c 𢱑石仔 𢱑石仔 [wa1 shi2 zai3] {waa2 sek6 zai2} /jouer aux osselets (avec de petites pierres)/
-????f 𢱕濕 𢱕湿 [da1 shi1] {dap6 sap1} /se faire tremper par la pluie; être mouillé par la pluie/
+𢱕濕 𢱕湿 [da1 shi1] {dap6 sap1} /se faire tremper par la pluie; être mouillé par la pluie/
 𢱕金龜 𢱕金龟 [da1 jin1 gui1] {dap6 gam1 gwai1} /(fam.) demander de l'argent de sa femme/(lit.) frapper la tortue dorée/
-????f 𢱕骨 𢱕骨 [da1 gu3] {dap6 gwat1} /masser; pétrir les muscles avec les mains/
+𢱕骨 𢱕骨 [da1 gu3] {dap6 gwat1} /masser; pétrir les muscles avec les mains/
 搈 搈 [rong2] {ngung2} /pousser/
 搉門 搉门 [que4 men2] {kok3 mun4} /frapper à la porte/
-????f 搊後腳 搊后脚 [chou1 hou4 jiao3] {cau1 hau6 goek3} /(expr. idiom.) déformer les propos de quelqu'un et les utiliser contre lui/(expr. idiom.) viser les points faibles de quelqu'un; exploiter les défauts de quelqu'un/(lit.) tirer l'arrière de la jambe/
+搊後腳 搊后脚 [chou1 hou4 jiao3] {cau1 hau6 goek3} /(expr. idiom.) déformer les propos de quelqu'un et les utiliser contre lui/(expr. idiom.) viser les points faibles de quelqu'un; exploiter les défauts de quelqu'un/(lit.) tirer l'arrière de la jambe/
 損手 损手 [sun3 shou3] {syun2 sau2} /(fig.) perdre de l'argent en bourse/(fig.) se blesser à la main/(lit.) érafler les mains/
 損手爛腳 损手烂脚 [sun3 shou3 lan4 jiao3] {syun2 sau2 laan6 goek3} /(expr. idiom.) perdre de l'argent en bourse; perdre beaucoup d'argent/(expr.) se blesser/(lit.) érafler les mains et se casser les jambes/
 損爛 损烂 [sun3 lan4] {syun2 laan6} /s'endommager; s'user/
 損耗 损耗 [sun3 hao4] {syun2 hou3} /perte; gaspillage/détérioration/
 搏一搏 搏一搏 [bo2 yi1 bo2] {bok3 jat1 bok3} /essayer; tenter le coup/tenter sa chance/
 搏亂 搏乱 [bo2 luan4] {bok3 lyun6} /profiter d'une situation chaotique pour s'enrichir; bénéficier d'une situation chatique/
-????f 搏傻 搏傻 [bo2 sha3] {bok3 so4} /faire semblant d'être stupide ou dérangé pour exploiter quelqu'un/
+搏傻 搏傻 [bo2 sha3] {bok3 so4} /faire semblant d'être stupide ou dérangé pour exploiter quelqu'un/
 搏出位 搏出位 [bo2 chu1 wei4] {bok3 ceot1 wai6} /chercher à attirer l'attention/
 搏到盡 搏到尽 [bo2 dao4 jin4] {bok3 dou3 zeon6} /prendre beaucoup de risques; tout risquer/
 搏命 搏命 [bo2 ming4] {bok3 meng6} /travailler fort; travailler sans relâche; s'efforcer de faire quelque chose/risquer sa vie (pour accomplir quelque chose)/
@@ -9454,33 +9454,33 @@
 ????c 搏大膽 搏大胆 [bo2 da4 dan3] {bok3 daai6 daam2} /(expr. idiom.) charcher la bagarre; provoquer une bagarre/(lit.) risquer sa vesicule biliaire/
 搏大霧 搏大雾 [bo2 da4 wu4] {bok3 daai6 mou6} /(expr. idiom.) profiter d'une situation chaotique/(lit.) profiter d'un brouillard épais/
 搏彩 搏彩 [bo2 cai3] {bok3 coi2} /jouer des jeux d'argent; parier/tenter sa chance/
-????f 搏懵 搏懵 [bo2 meng3] {bok3 mung2} /(expr. idiom.) profiter d'une situation chaotique; tirer avantange d'une sale affaire/(expr. idiom.) tripoter; peloter; harceler sexuellement/
+搏懵 搏懵 [bo2 meng3] {bok3 mung2} /(expr. idiom.) profiter d'une situation chaotique; profier de l'inattention de quelqu'un/(expr. idiom.) tripoter; peloter; harceler sexuellement/
 搏拉 搏拉 [bo2 la1] {bok3 laai1} /risquer d'être arrêté par la police/
 搏殺 搏杀 [bo2 sha1] {bok3 saat3} /(fig.) jouer gros jeu/(fig.) travailler fort; travailler sans relâche/(lit.) tuer par surprise/
-????f 搏炒 搏炒 [bo2 chao3] {bok3 caau2} /(fig.) risquer son travail; risquer son emploi/
+搏炒 搏炒 [bo2 chao3] {bok3 caau2} /(fig.) risquer son travail; risquer son emploi/
 搏盡 搏尽 [bo2 jin4] {bok3 zeon6} /(expr. idiom.) tout donner; y aller au fond; faire de son mieux/
 搏老命 搏老命 [bo2 lao3 ming4] {bok3 lou5 ming6} /risquer sa vie/
 搐搦 搐搦 [chu4 nuo4] {cuk1 nik1} /convulsion; spasme/
 搓 搓 [cuo1] {co1} /frapper la balle; retourner la balle/
-????f 搓圓撳扁 搓圆揿扁 [cuo1 yuan2 qin4 bian3] {co1 jyun4 gam6 bin2} /(expr. idiom.) (péj.) être une chiffe molle; être une carpette; ne pas savoir affirmer sa propre volonté ou exprimer ses propres opinions/(lit.) que l'on peut rouler en boule et puis aplatir/
-????f 搓圓㩒扁 搓圆㩒扁 [cuo1 yuan2 qin2 bian3] {co1 jyun4 gam6 bin2} /(expr. idiom.) (péj.) être une chiffe molle; être une carpette; ne pas savoir affirmer sa propre volonté ou exprimer ses propres opinions/(lit.) que l'on peut rouler en boule et puis aplatir/
-????f 搓波 搓波 [cuo1 bo1] {caai1 bo1} /jouer une partie sans compter les points; frapper un ballon ou renvoyer un ballon pour s'échauffer (en faisant du sport); envoyer la balle à quelqu'un d'autre en s'attendant à ce que l'autre personne puisse la renvoyer, plutôt que dans le but de marquer un point contre lui/
+搓圓撳扁 搓圆揿扁 [cuo1 yuan2 qin4 bian3] {co1 jyun4 gam6 bin2} /(expr. idiom.) (péj.) être une chiffe molle; être une carpette; ne pas savoir affirmer sa propre volonté ou exprimer ses propres opinions/(lit.) que l'on peut rouler en boule et puis aplatir/
+搓圓㩒扁 搓圆㩒扁 [cuo1 yuan2 qin2 bian3] {co1 jyun4 gam6 bin2} /(expr. idiom.) (péj.) être une chiffe molle; être une carpette; ne pas savoir affirmer sa propre volonté ou exprimer ses propres opinions/(lit.) que l'on peut rouler en boule et puis aplatir/
+搓波 搓波 [cuo1 bo1] {caai1 bo1} /jouer une partie sans compter les points; frapper un ballon ou renvoyer un ballon pour s'échauffer (en faisant du sport); envoyer la balle à quelqu'un d'autre en s'attendant à ce que l'autre personne puisse la renvoyer, plutôt que dans le but de marquer un point contre lui/
 搔首 搔首 [sao1 shou3] {sou1 sau2} /gratter la tête/flirter; séduire; draguer/
 搖尾乞憐 摇尾乞怜 [yao2 wei3 qi3 lian2] {jiu4 mei5 hat1 lin4} /(expr. idiom.) être obséquieux; flatter; lécher les bottes de quelqu'un/(lit.) remuer la queue et implorer la pitié/
 搖搖 摇摇 [yao2 yao2] {jiu4 jiu2} /yo-yo/(orig.) de l'anglais « yo-yo »/
 搖搖板 摇摇板 [yao2 yao2 ban3] {jiu4 jiu4 baan2} /balançoire à bascule/
 搖擺 摇摆 [yao2 bai3] {jiu4 baai2} /balancer; bercer/
-????c 搖身搖勢 摇身摇势 [yao2 shen1 yao2 shi4] {jiu4 san1 jiu4 sai3} /se balancer/
-????f 搖頭晃腦 摇头晃脑 [yao2 tou2 huang4 nao3] {jiu4 tau4 fong2 nou5} /(expr. idiom.) avoir l'air content de soi; avoir l'air fier de soi/
+搖身搖勢 摇身摇势 [yao2 shen1 yao2 shi4] {jiu4 san1 jiu4 sai3} /se balancer/
+搖頭晃腦 摇头晃脑 [yao2 tou2 huang4 nao3] {jiu4 tau4 fong2 nou5} /(expr. idiom.) avoir l'air content de soi; avoir l'air fier de soi/
 搗石屎 捣石屎 [dao3 shi2 shi3] {dou2 sek6 si2} /(fam.) mélanger du ciment/
 搜尋器 搜寻器 [sou1 xun2 qi4] {sau2 cam4 hei3} /moteur de recherche/
 搞 搞 [gao3] {gaau2} /embêter; harceler/causer des ennuis; créer de problèmes/
-????f 搞三搞四 搞三搞四 [gao3 san1 gao3 si4] {gaau2 saam1 gaau2 sei3} /(expr. idiom.) faire de mauvaises choses/(expr. idiom.) coucher avec beaucoup de personnes; visiter beaucoup de prosituées/(expr. idiom.) semer la zizanie; semer la discorde/(lit.) mélanger trois et quatre/
+搞三搞四 搞三搞四 [gao3 san1 gao3 si4] {gaau2 saam1 gaau2 sei3} /(expr. idiom.) faire de mauvaises choses/(expr. idiom.) coucher avec beaucoup de personnes; visiter beaucoup de prosituées/(expr. idiom.) semer la zizanie; semer la discorde/(lit.) mélanger trois et quatre/
 搞乜鬼 搞乜鬼 [gao3 mie1 gui3] {gaau2 mat1 gwai2} /qu'est-ce que tu fais? que faites-vous?/mais qu'est-ce qui se passe ici?/mais qu'est-ce qui te prend?/
 搞亂檔 搞乱档 [gao3 luan4 dang4] {gaau2 lyun6 dong3} /(expr. idiom.) (fam.) semer la pagaille; provoquer le désordre/
 搞事 搞事 [gao3 shi4] {gaau2 si6} /(fam.) causer des ennuis; créer de problèmes/
 搞作 搞作 [gao3 zuo4] {gaau2 zok3} /projet; tâche/spectacle; show/
-????f 搞出人命 搞出人命 [gao3 chu1 ren2 ming4] {gaau2 ceot1 jan4 meng6} /causer une perte de vie/(fam.) tomber enceinte/
+搞出人命 搞出人命 [gao3 chu1 ren2 ming4] {gaau2 ceot1 jan4 meng6} /causer une perte de vie/(fam.) tomber enceinte/
 搞出個大頭佛 搞出个大头佛 [gao3 chu1 ge4 da4 tou2 fo2] {gaau2 ceot1 go3 daai6 tau4 fat6} /(expr. idiom.) causer des ennuis; créer de problèmes/(expr. idiom.) avoir des ennuis/(lit.) finir par créer une grande tête de Bouddha/
 搞到 搞到 [gao3 dao4] {gaau2 dou3} /finir par; avoir pour conséquence de; avoir pour résultat/
 搞唔掂 搞唔掂 [gao3 wu2 dian1] {gaau2 m4 dim6} /qui ne peut pas être accompli/qui n'est pas possible; impossible; infaisable/ne pas pouvoir faire quelque chose/
@@ -9490,7 +9490,7 @@
 搞屎棍 搞屎棍 [gao3 shi3 gun4] {gaau2 si2 gwan3} /(fig.) fauteur de troubles; perturbateur/(lit.) bâton pour mélanger la merde/
 搞手 搞手 [gao3 shou3] {gaau2 sau2} /organisateur/
 搞掂 搞掂 [gao3 dian4] {gaau2 dim6} /c'est fait! c'est fini! c'est réglé!/(fig.) tuer quelqu'un, assassiner quelqu'un/
-????f 搞搞震 搞搞震 [gao3 gao3 zhen4] {gaau2 gaau2 zan3} /jouer; s'amuser; s'ébattre/faire des espiègleries; semer la discorde/
+搞搞震 搞搞震 [gao3 gao3 zhen4] {gaau2 gaau2 zan3} /jouer; s'amuser; s'ébattre/faire des espiègleries; semer la discorde/
 搞笑 搞笑 [gao3 xiao4] {gaau2 siu3} /plaisanter/
 搞邊科 搞边科 [gao3 bian1 ke1] {gaau2 bin1 fo1} /mais qu'est-ce que tu fais? (exprime la surprise)/
 搞錯 搞错 [gao3 cuo4] {gaau2 co3} /quoi! comment! ridicule! (expression de désapprobation, indignation, surprise)/commettre une erreur; faire une faute/
