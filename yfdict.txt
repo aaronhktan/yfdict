@@ -642,8 +642,9 @@
 不說不知 不说不知 [bu4 shuo1 bu4 zhi1] {bat1 syut3 bat1 zi1} /ne pas savoir quelque chose jusqu'à ce que quelqu'un le dise/
 不識 不识 [bu4 shi2] {bat1 sik1} /ne pas savoir ou connaître/
 不足為憑 不足为凭 [bu4 zu2 wei2 ping2] {bat1 zuk1 wai4 pang4} /inadmissible en preuve/ne pas avoir assez de preuves/
-不過不失 不过不失 [bu5 guo4 bu4 shi1] {bat1 gwo3 bat1 sat1} /médiocre/
-不過如此 不过如此 [bu5 guo4 ru2 ci3] {bat1 gwo3 jyu4 ci2} /médiocre; à peine acceptable/
+不過不失 不过不失 [bu4 guo4 bu4 shi1] {bat1 gwo3 bat1 sat1} /médiocre/
+不過如此 不过如此 [bu4 guo4 ru2 ci3] {bat1 gwo3 jyu4 ci2} /médiocre; à peine acceptable/
+不容有失 不容有失 [bu4 rong2 you3 shi1] {bat1 jung4 jau5 sat1} /(expr. idiom.) devoir réussir/
 ????c 丕烈 丕烈 [pi1 lie4] {pei1 lit6} /grand succès; belle réussite/
 丕績 丕绩 [pi1 ji4] {pei1 zek3} /grand succès; belle réussite/
 世 世 [shi4] {sai3} /(classificateur pour une vie)/
@@ -2200,6 +2201,7 @@
 內籠 內笼 [na4 long2] {noi6 lung4} /intérieur (d'un bâtiment, d'une pièce, etc.)/
 內線 内线 [nei4 xian4] {noi6 sin3} /ligne téléphonique interne/
 內聚力 内聚力 [nei4 ju4 li4] {noi6 zeoi6 lik6} /(informatique) cohésion/
+內國 內国 [nei4 gwo2] {noi6 gwok3} /(Hong Kong) Chine continentale (voir aussi 内地|内地)/
 全名 全名 [quan2 ming2] {cyun4 meng2} /nom complet/
 全國政協 全国政协 [quan2 guo2 zheng4 xie2] {cyun4 gwok3 zing3 hip3} /Conférence consultative politique du peuple chinois/
 全息 全息 [quan2 xi1] {cyun4 sik1} /holographie/
@@ -5055,6 +5057,7 @@
 地面化 地面化 [di4 mian4 hua4] {dei6 min2 faa3} /découvert; mis au jour; devenir publique/
 地頭 地头 [di4 tou2] {dei6 tau4} /territoire/
 地頭蟲 地头虫 [di4 tou2 chong2] {dei6 tau4 cung4} /(fig.) personne de la région; personne qui connaît la région/(lit.) insecte du coin/
+地溝油 地沟油 [di4 gou1 you2] {dei6 kau1 jau4} /huile d'égout; huile illégale provenant d'huiles usées des restaurants, des égouts, etc./
 均真 均真 [jun1 zhen1] {gwan1 zan1} /juste et honnête/
 ????m 坐一望二 坐一望二 [zuo4 yi2 wang4 er4] {zo6 jat1 mong6 ji6} /rapprocher son objectif/désirer, convoiter quelque chose que l'on n'a pas/(lit.) s'asseoir sur un, regarder deux/
 坐不住 坐不住 [zuo4 bu5 zhu4] {co5 bat1 zyu6} /ne pas tenir en place; être agité/
@@ -5094,7 +5097,7 @@
 坦桑尼亞聯合共和國 坦桑尼亚联合共和国 [tan3 sang1 ni2 ya4 lian2 he2 gong4 he2 guo2] {taan2 song1 nei4 aa3 lyun4 hap6 gung6 wo4 gwok3} /République unie de Tanzani/
 坪洲 坪洲 [ping2 zhou1] {ping4 zau1} /Peng Chau, île à Hong Kong/
 坳胡 坳胡 [ao4 hu2] {aau1 wu1} /(dans les contes de fées) méchant/
-????f 坳胡婆 坳胡婆 [ao4 hu2 po2] {aau1 wu1 po2} /(dans les contes de fées) méchante (de sexe féminin)/
+坳胡婆 坳胡婆 [ao4 hu2 po2] {aau1 wu1 po2} /(dans les contes de fées) vilaine; méchante/
 ????c 坶 坶 [mu3] {muk6} /(arch.) mot utilisé pour désigner les villes pendant la Dynastie Shang/
 垂手可得 垂手可得 [chui2 shou3 ke3 de2] {seoi4 sau2 ho2 dak1} /facile à obtenir sans effort/
 垃圾佬 垃圾佬 [la1 ji1 lao3] {laap6 saap3 lou2} /balayeur de rue/
@@ -12654,7 +12657,8 @@
 滿目瘡痍 满目疮痍 [man3 mu4 chuang1 yi2] {mun5 muk6 cong1 ji4} /(expr.) déstruction partout/
 滿肚密圈 满肚密圈 [man3 du4 mi4 quan1] {mun5 tou5 mat6 hyun1} /(expr. idiom.) plein d'idées/
 滿腔熱情 满腔热情 [man3 qiang1 re4 qing2] {mun5 hong1 jit6 cing4} /enthousiaste/avec enthousiasme; avec passion/
-???? 漁人得利 渔人得利 [yu2 ren2 de2 li4] {jyu4 jan4 dak1 lei6} /(expr. idiom.) c'est le tiers qui profite d'une dispute entre deux personnes/
+漁人得利 渔人得利 [yu2 ren2 de2 li4] {jyu4 jan4 dak1 lei6} /(expr. idiom.) c'est le tiers qui profite d'une dispute entre deux personnes/
+鷸蚌相爭，漁人得利 鹬蚌相争，渔人得利 [yu4 bang4 xiang1 zheng1 yu2 ren2 de2 li4] {wat6 pong5 soeng1 jan4 jyu4 jan4 dak1 lei6} /(expr. idiom.) c'est le tiers qui profite d'une dispute entre deux personnes/
 漁火 渔火 [yu2 huo3] {jyu4 fo2} /feu de pêche; lumière de pêche; lumière pour bateau de pêche/
 漁獲 渔获 [yu2 huo4] {jyu4 wok6} /(pêche) prise/
 漁產 渔产 [yu2 chan3] {jyu4 caan2} /fruits de mer/produits aquatiques/
@@ -17634,6 +17638,7 @@
 ????f 蝕底 蚀底 [shi2 di3] {sit6 dai2} /subir une perte; sortir perdant d'une négotiation; se faire avoir; se faire rouler/(????f be taken advantage of)/
 蝕本 蚀本 [shi2 ben3] {sit6 bun2} /perdre de l'argent/
 蝕水 食水 [shi2 shui3] {sit6 seoi2} /(fig.) perdre de l'argent/(lit.) manger de l'eau/
+食花生 食花生 [shi2 hua1 sheng1] {sik6 faa1 sang1} /(fig.) sortir le pop-corn; s'attendre à ce que des évènements dramatiques se passent/(lit.) manger des arachides/
 蝠鼠 蝠鼠 [fu2 shu3] {fuk1 syu2} /chauve-souris/
 蝦 虾 [xia1] {haa1} /crevette/intimider; maltraiter; malmener; s'en prendre à/
 蝦丸 虾丸 [xia1 wan2] {haa1 jyun2} /boulette de crevette/
@@ -20486,6 +20491,7 @@
 ????f 閘住 闸住 [zha2 zhu5] {zaap6 zyu6} /(expression) literally: "stop it";  usually people say it in an attempt to prevent the unlucky things described / predicted by other people from occurring in reality,similar to how "touch wood" is used in English (or maybe "don't jinx it")/
 ????f 閘側 闸侧 [zha2 ce4] {zaap6 zak1} /to tilt to one side; to set down an object on an angle/
 ????c 閘門 闸门 [zha2 men2] {zaap6 mun4} /portail/façade de quai; porte palière/
+????f 閘角 闸角 [zha2 jiao3] {zaap6 gok3} /découper les coins de quelque chose de carré pour qu'il ait des coins arrondis/
 閣下 阁下 [ge2 xia4] {gok3 haa6} /son excellence/
 閣仔 阁仔 [ge2 zi3] {gok3 zai2} /grenier/
 ????c 閨中 闺中 [gui1 zhong1] {gwai1 zung1} /girl's room; boudoir; (adjective) bosom/
@@ -26106,3 +26112,4 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 𠹻 𠹻 [𠹻5] {zam6} /(classificateur pour les odeurs)
 朕 朕 [zhen4] {zam6} /(classificateur pour les odeurs)
 陣 阵 [zhen4] {zam6} /(classificateur pour les odeurs)
+復刻 复刻 {fu4 ke4} {fuk1 hak1} /réimprimer/rematricer/
