@@ -10774,7 +10774,7 @@
 有案可查 有案可查 [you3 an4 ke3 cha2] {jau5 on3 ho2 caa4} /(expr.) bien documenté; qui peut être vérifié/
 有樣學樣 有样学样 [you3 yang4 xue2 yang4] {jau5 joeng2 hok6 joeng2} /(fig.) imiter le comportement des autres/(lit.) s'il y a un comportement, on apprendra à imiter ce comportement/
 有機 有机 [you3 ji1] {jau5 gei1} /organique/avoir la chance de; avoir l'occasion de/
-有機可乘 有机可乘 [you3 ji1 ke3 cheng2] {jau5 gei1 ho2 sing4} /il y a une faille que l'on peut exploiter (se dit en général de mauvais actes)/
+有機可乘 有机可乘 [you3 ji1 ke3 cheng2] {jau5 gei1 ho2 sing4} /il y a une faille que l'on peut exploiter (en parlant de mauvais actes)/
 有機肥料 有机肥料 [you3 ji1 fei2 liao4] {jau5 gei1 fei4 liu2} /engrais organique/
 有權有勢 有权有势 [you3 quan2 you3 shi4] {jau5 kyun4 jau5 sai3} /avoir le pouvoir et l'autorité/
 有殺冇賠 有杀冇赔 [you3 sha1 mao3 pei2] {jau5 saat3 mou5 pui4} /(expr.) inviolable; que l'on ne doit jamais violer/
@@ -10805,18 +10805,18 @@
 有突 有突 [you3 tu1] {jau5 dat6} /dépasser; être plus que (un certain montant)/excédent; surplus/
 有米 有米 [you3 mi3] {jau5 mai5} /(fam.) riche/(lit.) avoir du riz/
 有約 有约 [you3 yue1] {jau5 joek3} /avoir un rendez-vous/
-????f 有紋有路 有纹有路 [you3 wen2 you3 lu4] {jau5 man4 jau5 lou6} /(expr.) parler de manière convaincante; cohérente; fluide/(expr.) faire quelque chose de manière organisée/
-????f 有聲氣 有声气 [you3 sheng1 qi4] {jau5 seng1 hei3} /avoir de bonnes nouvelles (au sujet d'une affaire ou une personne)/avoir une bonne chance de réussir/(situation) prometteuse/
+有紋有路 有纹有路 [you3 wen2 you3 lu4] {jau5 man4 jau5 lou6} /(expr. idiom.) parler de manière convaincante; cohérente; fluide/(expr.) faire quelque chose de manière organisée/
+有聲氣 有声气 [you3 sheng1 qi4] {jau5 seng1 hei3} /(fig.) avoir de bonnes nouvelles (au sujet d'une affaire ou une personne)/(fig.) avoir une bonne chance de réussir/(situation) prometteuse/
 有著數 有着数 [you3 zhao1 shu4] {jau5 zoek6 sou3} /avantageux; bénéfique/
-????f 有落 有落 [you3 luo4] {jau5 lok6} /(s'emploie pour dire à un chauffeur d'autobus qu'il y a quelqu'un qui veut débarquer à la prochaine station)/
+有落 有落 [you3 luo4] {jau5 lok6} /(s'emploie pour dire à un chauffeur d'autobus qu'il y a quelqu'un qui veut débarquer à la prochaine station)/
 有蓋 有盖 [you3 gai4] {jau5 goi3} /couvert; recouvert; avoir un couvercle dessus/
-????c 有血性 有血性 [you3 xue4 xing4] {jau5 hyut3 sing3} /avoir une conscience/
+????c 有血性 有血性 [you3 xue4 xing4] {jau5 hyut3 sing3} /(fig.) avoir une conscience/
 有行 有行 [you3 xing2] {jau5 hong4} /avoir une bonne chance de réussir/(situation) prometteuse/
 有術 有术 [you3 shu4] {jau5 seot6} /avoir une solution; avoir une bonne façon de faire quelque chose/
 有言在先 有言在先 [you3 yan2 zai4 xian1] {jau5 jin4 zoi6 sin1} /(expr.) avertir au préalable; prévenir/
 有計劃 有计划 [you3 ji4 hua4] {jau5 gai3 waak6} /avoir un plan/
 有諗頭 有谂头 [you3 shen3 tou2] {jau5 nam2 tau4} /avoir beaucoup de bonnes idées/
-????f 有講有笑 有讲有笑 [you3 jiang3 you3 xiao4] {jau5 gong2 jau5 siu3} /(expr. idiom.) passer un moment à bavarder/(lit.) avoir des paroles et des rires/
+有講有笑 有讲有笑 [you3 jiang3 you3 xiao4] {jau5 gong2 jau5 siu3} /(expr. idiom.) passer un moment à bavarder/(lit.) avoir des paroles et des rires/
 有賭未為輸 有赌未为输 [you3 du3 wei4 wei2 shu1] {jau5 dou2 mei6 wai4 syu1} /(expr. idiom.) si l'on a toujours de l'argent à jouer, on n'a pas encore perdu/
 有賴 有赖 [you3 lai4] {jau5 laai6} /reposer sur; compter sur; dépendre de/
 有路 有路 [you3 lu4] {jau5 lou6} /(fam.) avoir une liaison; avoir une aventure/
@@ -10824,18 +10824,18 @@
 有蹺蹊 有跷蹊 [you3 qiao1 qi5] {jau5 kiu2 kai1} /il se passe quelque chose de louche; il y a quelque chose de suspect ici/
 有身己 有身己 [you3 shen1 ji3] {jau5 san1 gei2} /enceinte/
 有身紀 有身纪 [you3 shen1 ji4] {jau5 san1 gei2} /enceinte/
-????f 有辣有唔辣 有辣有唔辣 [you3 la4 you3 wu2 la4] {jau5 laat6 jau5 m4 laat6} /(fig.) en avoir pour tous les goûts/(fig.) avoir des avantages et des inconvénients/(fig.) il y des moments désagréables et des moments moins désagréables d'un projet/(lit.) il y a des piquants et des pas piquants/
+有辣有唔辣 有辣有唔辣 [you3 la4 you3 wu2 la4] {jau5 laat6 jau5 m4 laat6} /(fig.) avoir des avantages et des inconvénients/(fig.) il y des moments désagréables et des moments moins désagréables d'un projet/(lit.) il y a des piquants et des pas piquants/
 有運 有运 [you3 yun4] {jau5 wan6} /avoir de la chance/
 有運行 有运行 [you3 yun4 xing2] {jau5 wan6 haang4} /avoir de la chance/
 有道德 有道德 [you3 dao4 de2] {jau5 dou6 dak1} /faire preuve d'intégrité morale/
 有錢 有钱 [you3 qian2] {jau5 cin2} /riche/
-????f 有錢出錢，有力出力 有钱出钱，有力出力 [you3 qian2 chu1 qian2 , you3 li4 chu1 li4] {jau5 cin2 ceot1 cin2 jau5 lik6 ceot1 lik6} /(expr. idiom.) donner ce que l'on peut; faire tout ce que l'on peut pour aider/(lit.) si l'on a de l'argent on donne de l'argent — si l'on a de la force on utilise sa force/
+有錢出錢，有力出力 有钱出钱，有力出力 [you3 qian2 chu1 qian2 , you3 li4 chu1 li4] {jau5 cin2 ceot1 cin2 jau5 lik6 ceot1 lik6} /(expr. idiom.) donner ce que l'on peut; faire tout ce que l'on peut pour aider; apporter son pierre à l'édifice/(lit.) si l'on a de l'argent on donne de l'argent — si l'on a de la force on utilise sa force/
 有錢駛得鬼推磨 有钱驶得鬼推磨 [you3 qian2 shi3 de5 gui3 tui1 mo2] {jau5 cin2 sai2 dak1 gwai2 teoi1 mo4} /(expr. idiom.) l'argent fait tourner le monde; avec l'argent, tout est possible/(lit.) avec l'argent on peut forcer un fantôme à pousser une meule/
 有關 有关 [you3 guan1] {jau5 gwaan1} /concerné; touché; en cause/pertinent; connexe/avoir à voir avec; être en rapport avec; concerner; avoir rapport à; être lié à/
 有關方面 有关方面 [you3 guan1 fang1 mian4] {jau5 gwaan1 fong1 min6} /parties intéressées; personnes intéressées/
 有限小數 有限小数 [you3 xian4 xiao3 shu4] {jau5 haan6 siu2 sou3} /décimale finie/
 有陣時 有阵时 [you3 zhen4 shi2] {jau5 zan6 si4} /parfois; quelquefois/
-????f 有隙可乘 有隙可乘 [you3 xi4 ke3 cheng2] {jau5 kwik1 ho2 sing4} /(fig.) il y a une faille que l'on peut exploiter (there is an opportunity or loophole to exploit - usually to do something bad)/(lit.) il y a une fissure par laquelle on peut passer/
+有隙可乘 有隙可乘 [you3 xi4 ke3 cheng2] {jau5 kwik1 ho2 sing4} /(fig.) il y a une faille que l'on peut exploiter (en parlant de mauvais actes)/(lit.) il y a une fissure par laquelle on peut passer/
 有面 有面 [you3 mian4] {jau5 min2} /avoir un rang social élevé; avoir une bonne réputation/
 有頭冇尾 有头冇尾 [you3 tou2 mao3 wei3] {jau5 tau4 mou5 mei5} /(fig.) ne pas terminer une tâche; bien commencer mais vite s'essoufler/(fig.) avoir un début mais pas une fin/(lit.) avoir une tête mais pas de queue/
 有頭威，冇尾陣 有头威，冇尾阵 [you3 tou2 wei1 , mao3 wei3 zhen4] {jau5 tau4 wai1 mou5 mei5 zan6} /(expr. idiom.) bien commencer mais vite s'essoufler; abandonner à mi-chemin/
@@ -10843,13 +10843,14 @@
 有頭有路 有头有路 [you3 tou2 you3 lu4] {jau5 tau4 jau5 lou6} /bien parler; bien s'exprimer/raisonnable; organisé; méthodique/
 有頭有面 有头有面 [you3 tou2 you3 mian4] {jau5 tau4 jau5 min2} /riche; célèbre; qui a bonne réputation/
 有頭毛冇人想生鬎鬁 有头毛冇人想生瘌痢 [you3 tou2 mao2 mao3 ren2 xiang3 sheng1 la4 li5] {jau5 tau4 mou4 mou5 jan4 soeng2 saang1 laat6 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
-????f 有頭髮邊個想做癩痢 有头发边个想做癞痢 [you3 tou2 fa5 bian1 ge4 xiang3 zuo4 lai4 li4] {jau5 tau4 faat3 bin1 go3 soeng2 zou6 laat3 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
-????f 有風駛盡𢃇 有风驶尽𢃇 [you3 feng1 shi3 jin4 li5] {jau5 fung1 sai2 zeon6 lei5} /(expr. idiom.) exploiter au maximum; tirer profit de quelque chose jusqu'à ce qu'il ne reste plus d'argent à faire/(lit.) utiliser le vent pour naviguer en voilier/
+有頭髮邊個想做癩痢 有头发边个想做癞痢 [you3 tou2 fa5 bian1 ge4 xiang3 zuo4 lai4 li4] {jau5 tau4 faat3 bin1 go3 soeng2 zou6 laat3 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
+有頭髮邊個想做瘌痢 有头发边个想做癞痢 [you3 tou2 fa5 bian1 ge4 xiang3 zuo4 lai4 li4] {jau5 tau4 faat3 bin1 go3 soeng2 zou6 laat3 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
+????f 有風駛盡𢃇 有风驶尽𢃇 [you3 feng1 shi3 jin4 li5] {jau5 fung1 sai2 zeon6 lei5} /(expr. idiom.) exploiter au maximum; profiter de quelque chose jusqu'à ce qu'il ne reste plus d'argent à faire/(lit.) utiliser le vent pour naviguer en voilier/
 有驚無險 有惊无险 [you3 jing1 wu2 xian3] {jau5 ging1 mou4 him2} /(expr. idiom.) plus de peur que de mal; fausse alerte/(lit.) plus effrayant que dangereux/
 有骨 有骨 [you3 gu3] {jau5 gwat1} /(fig.) remarque passive-aggressive, qui semble innocent mais qui est en réalité une insulte ou une critique/(lit.) avoir des os/
 有鬼 有鬼 [you3 gui3] {jau5 gwai2} /(fig.) y avoir quelque chose de louche; y avoir quelque chose qui cloche; y avoir quelque chose de suspect/(lit.) avoir des fantômes/
 有鬼用 有鬼用 [you3 gui3 yong4] {jau5 gwai2 jung6} /(fig.) ne servir à rien/
-????f 有麝自然香 有麝自然香 [you3 she4 zi4 ran2 xiang1] {jau5 se6 zi6 jin4 hoeng1} /(expr. idiom.) le vrai talent se fait connaître soi-même; on n'a pas besoin de se vanter d'un vrai talent/(lit.) un cerf porte-musc est naturellement aromatique/
+有麝自然香 有麝自然香 [you3 she4 zi4 ran2 xiang1] {jau5 se6 zi6 jin4 hoeng1} /(expr. idiom.) le vrai talent se fait connaître soi-même; on n'a pas besoin de se vanter d'un vrai talent/(lit.) un cerf porte-musc est naturellement aromatique/
 朊毒體 朊毒体 [ruan3 du2 ti3] {jyun2 duk6 tai2} /prion/
 服務中心 服务中心 [fu2 wu4 zhong1 xin1] {fuk6 mou6 zung1 sam1} /centre de services/
 服務行業 服务行业 [fu2 wu4 hang2 ye4] {fuk6 mou6 hong4 jip6} /secteur des services/
@@ -10865,8 +10866,8 @@
 望住 望住 [wang4 zhu4] {mong6 zyu6} /regarder; fixer du regard; regarder avec insistance; lorgner/protéger; surveiller/
 望到頸都長 望到颈都长 [wang4 dao4 jing3 du1 chang2] {mong6 dou3 geng2 dou1 zoeng2} /(expr. idiom.) attendre depuis longtemps; avoir hâte de quelque chose mais devoir attendre très longtemps/(lit.) espérer jusqu'à ce que le cou s'allonge/
 望天打卦 望天打卦 [wang4 tian1 da3 gua4] {mong6 tin1 daa2 gwaa3} /(expr. idiom.) se résigner à son sort/
-????f 望山跑死馬 望山跑死马 [wang4 shan1 pao3 si3 ma3] {mong6 saan1 paau2 sei2 maa5} /(expr. idiom.) endroit qui semble proche mais qui est en réalité très lointain/(lit.) regarder la montagne et faire courir le cheval jusqu'à ce qu'il meurt/
-????f 望洋興歎 望洋兴叹 [wang4 yang2 xing1 tan4] {mong6 joeng4 hing1 taan3} /(expr. idiom.) se sentir petit devant quelque chose d'immense ou vaste/(expr. idiom.) se sentir impuissant devant une tâche énorme/(lit.) regarder la mer et se sentir petit/
+????fm望山跑死馬 望山跑死马 [wang4 shan1 pao3 si3 ma3] {mong6 saan1 paau2 sei2 maa5} /(expr. idiom.) endroit qui semble proche mais qui est en réalité très lointain/(lit.) regarder la montagne et faire courir le cheval jusqu'à ce qu'il meurt/
+望洋興歎 望洋兴叹 [wang4 yang2 xing1 tan4] {mong6 joeng4 hing1 taan3} /(expr. idiom.) se sentir petit devant quelque chose d'immense ou vaste/(expr. idiom.) se sentir impuissant devant une tâche énorme/(lit.) regarder la mer et se sentir petit/
 望穿秋水 望穿秋水 [wang4 chuan1 qiu1 shui3] {mong6 cyun1 cau1 seoi2} /(expr. idiom.) attendre anxieusement/
 望角 望角 [wang4 jiao3] {mong6 gok3} /ancien nom de Mongkok à Hong Kong, maintenant appelé 旺角|旺角/
 朝 朝 [chao2] {ziu1} /matin; matinée/aube/
@@ -10877,7 +10878,7 @@
 朝暉 朝晖 [zhao1 hui1] {ziu1 fai1} /lumière du matin/
 朝朝 朝朝 [zhao1 zhao1] {ziu1 ziu1} /tous les matins/
 朝朝早 朝朝早 [zhao1 zhao1 zao3] {ziu1 ziu1 zou2} /tous les matins/
-????f 朝行晚拆 朝行晚拆 [chao2 xing2 wan3 chai1] {ziu1 hang4 maan5 caak3} /préparer le lit le soir puis le ranger le matin/
+????f 朝行晚拆 朝行晚拆 [chao2 xing2 wan3 chai1] {ziu1 hang4 maan5 caak3} /(expr.) monter un étal le matin et le démonter le soir/(expr.) préparer le lit le soir puis le ranger le matin/
 朝頭早 朝头早 [chao2 tou2 zao3] {ziu1 tau4 zou2} /matin/le matin; dans la matinée/
 朝鮮薊 朝鲜蓟 [chao2 xian3 ji4] {ziu1 sin1 gai3} /artichaut/
 期刊 期刊 [qi1 kan1] {kei4 hon2} /périodique (ex. magazine)/
@@ -10886,11 +10887,11 @@
 期貨市場 期货市场 [qi1 huo4 shi4 chang3] {kei4 fo3 si5 coeng4} /marché à terme; marché de contrats à terme/
 期間 期间 [qi1 jian1] {kei4 gaan1} /durée; période/
 木 木 [mu4] {muk6} /bois/(personne) stupide; idiot; obtus/engourdi/
-????f 木俑 木俑 [mu4 yong3] {muk6 jung2} /figurine en bois (comme objet funéraire)/
+木俑 木俑 [mu4 yong3] {muk6 jung2} /figurine en bois (en parlant d'objets funéraires)/
 木偶戲 木偶戏 [mu4 ou3 xi4] {muk6 ngau5 hei3} /spectacle de marionnettes/
 木口木面 木口木面 [mu4 kou3 mu4 mian4] {muk6 hau2 muk6 min6} /(fig.) qui a un visage impassible; qui a un visage sans expression/(lit.) bouche en bois, visage en bois/
 木吉他 木吉他 [mu4 ji2 ta5] {muk6 gat1 taa1} /guitare acoustique/(orig.) de l'anglais « guitar », d'où « guitare en bois », ou guitare acoustique/
-????f 木嘴 木嘴 [mu4 zui3] {muk1 zeoi2} /(fig.) (vieilli) sot; idiot; stupide; imbécile/(fig.) qui n'a aucun sense d'humour/(lit.) bouche en bois/
+木嘴 木嘴 [mu4 zui3] {muk1 zeoi2} /(fig.) (vieilli) sot; idiot; stupide; imbécile/(fig.) qui n'a aucun sense d'humour/(lit.) bouche en bois/
 木屋 木屋 [mu4 wu1] {muk6 uk1} /maison en bois/
 木方 木方 [mu4 fang1] {muk6 fong1} /poutre en bois/
 木木獨獨 木木独独 [mu4 mu4 du2 du2] {muk6 muk6 duk6 duk6} /(personne) ennuyeux; passif; inintéressant/(personne) qui ne réagit pas; qui est ailleurs/(nourriture) fade; sans goût/
@@ -10898,39 +10899,39 @@
 木枱 木枱 [mu4 si4] {muk6 toi2} /table en bois/
 木槿 木槿 [mu4 jin3] {muk6 gan2} /(espèce de fleurs) hibiscus/
 木樨 木樨 [mu4 xi5] {muk6 sai1} /olivier odorant; olivier de Chine/
-????f 木獨 木独 [mu4 du2] {muk6 duk6} /(personne) ennuyeux; passif; inintéressant/(personne) qui ne réagit pas; qui est ailleurs/(nourriture) fade; sans goût/
+木獨 木独 [mu4 du2] {muk6 duk6} /(fig.) (personne) ennuyeux; passif; inintéressant/(fig.) (personne) qui ne réagit pas; qui est ailleurs/(fig.) (nourriture) fade; sans goût/
 木糠 木糠 [mu4 kang1] {muk6 hong1} /sciure de bois/
 木結他 木结他 [mu4 jie2 ta1] {muk6 git3 taa1} /guitare acoustique/(orig.) de l'anglais « guitar », d'où « guitare en bois », ou guitare acoustique/
-????c 木頭公仔 木头公仔 [mu4 tou5 gong1 zai3] {muk6 tau4 gung1 zai2} /poupée en bois/
-????f 木頭車 木头车 [mu4 tou5 che1] {muk6 tau4 ce1} /wooden cart used by street sellers/
+木頭公仔 木头公仔 [mu4 tou5 gong1 zai3] {muk6 tau4 gung1 zai2} /poupée en bois/
+????f 木頭車 木头车 [mu4 tou5 che1] {muk6 tau4 ce1} /charrette ou chariot (en bois) utilisé par un vendeur à la sauvette/
 木顏色筆 木颜色笔 [mu4 yan2 se4 bi3] {muk6 ngaan4 sik1 bat1} /crayon de couleur/
 木魚書 木鱼书 [mu4 yu2 shu1] {muk6 jyu4 syu1} /chansonnière de Mokugyo, qui contient des chansons chantés en jouant l'instrument en bois/
 未做 未做 [wei4 zuo4] {mei6 zou6} /pas encore fait/inachevé; incomplet; pas terminé; pas fini/
 未嘗不可 未尝不可 [wei4 chang2 bu4 ke3] {mei6 soeng4 bat1 ho2} /(expr.) rien ne s'y oppose; ce n'est pas une mauvaise idée/
 未夠 未够 [wei4 gou4] {mei6 gau3} /pas assez/
-????f 未夠班 未够班 [wei4 gou4 ban1] {mei6 gau3 baan1} /(fam.) pas à la hauteur; pas au niveau/
+未夠班 未够班 [wei4 gou4 ban1] {mei6 gau3 baan1} /(fam.) (fig.) pas à la hauteur; pas au niveau/
 未學行先學走 未学行先学走 [wei4 xue2 xing2 xian1 xue2 zou3] {mei6 hok6 haang4 sin1 hok6 zau2} /(expr. idiom.) sauter des étapes nécessaires; ne pas être prêt/(lit.) ne pas avoir appris à marcher mais apprendre à courir/
 未完 未完 [wei4 wan2] {mei6 jyun4} /inachevé; incomplet; pas fini; pas terminé/
 未完待續 未完待续 [wei4 wan2 dai4 xu4] {mei6 jyun4 doi6 zuk6} /à suivre/
 未得 未得 [wei4 de2] {mei6 dak1} /pas encore; pas encore prêt/pas encore fini; pas encore terminé/
 未得住 未得住 [wei4 de2 zhu4] {mei6 dak1 zyu6} /pas encore; pas encore prêt/
 ????c 未得自 未得自 [wei4 de2 zi4] {mei6 dak1 zi6} /pas encore; pas encore prêt/
-????f 未有耐 未有耐 [wei4 you3 nai4] {mei6 jau5 noi1} /il reste toujours un moment; pas encore l'heure; pas tout de suite; pas de sitôt/
-????f 未知數 未知数 [wei4 zhi1 shu4] {mei6 zi1 sou3} /(mathématiques) inconnue/(par extension) inconnu; quelque chose que l'on ne sait pas/
-????c 未知死 未知死 [wei4 zhi1 si3] {mei6 zi1 sei2} /(fig.) hardi; brave; courageux/(lit.) ne pas savoir mourir/
+未有耐 未有耐 [wei4 you3 nai4] {mei6 jau5 noi1} /il reste toujours un moment; pas encore l'heure; pas tout de suite; pas de sitôt/
+未知數 未知数 [wei4 zhi1 shu4] {mei6 zi1 sou3} /(mathématiques) inconnue/(par extension) inconnu; quelque chose que l'on ne sait pas/
+未知死 未知死 [wei4 zhi1 si3] {mei6 zi1 sei2} /(fig.) hardi; brave; courageux (voir aussi 唔知死|唔知死)/(lit.) ne pas savoir mourir/
 未算 未算 [wei4 suan4] {mei6 syun3} /pas vraiment; pas/
 未見 未见 [wei4 jian4] {mei6 gin3} /ne pas encore avoir vu/
-????f 未見官先打三十大板 未见官先打三十大板 [wei4 jian4 guan1 xian1 da3 san1 shi2 da4 ban3] {mei6 gin3 gun1 sin1 daa2 saam1 sap6 daai6 baan2} /(expr. idiom.) il faut payer avant d'obtenir ce que l'on veut/(lit.) trente coups de fouet avant de voir le fonctionnaire/
+未見官先打三十大板 未见官先打三十大板 [wei4 jian4 guan1 xian1 da3 san1 shi2 da4 ban3] {mei6 gin3 gun1 sin1 daa2 saam1 sap6 daai6 baan2} /(expr. idiom.) il faut payer avant d'obtenir ce que l'on veut/(lit.) trente coups de fouet avant de voir le fonctionnaire/
 未遂 未遂 [wei4 sui4] {mei6 seoi6} /raté; manqué; qui n'a pas réussi/
 未醒 未醒 [wei4 xing3] {mei6 seng2} /qui dort encore/toujours somnolent/
 本 本 [ben3] {bun2} /fonds de capital-risque/mon; notre; ce, cet, cette/
 本來 本来 [ben3 lai2] {bun2 loi4} /à l'origine; au début/originel; initial/
 本土主義 本土主义 [ben3 tu3 zhu3 yi4] {bun2 tou2 zyu2 ji6} /nativisme, localisme/
-????f 本地人 本地人 [ben3 di4 ren2] {bun2 dei6 jan4} /(personne) du coin; de la région; du pays/population locale/
+本地人 本地人 [ben3 di4 ren2] {bun2 dei6 jan4} /(personne) du coin; de la région; du pays/population locale/
 本地狀元 本地状元 [ben3 di4 zhuang4 yuan5] {bun2 dei6 zong6 jyun4} /(fig.) lépreux/(lit.) meilleurs étudiants de la région/
 本地生產總值 本地生产总值 [ben3 di4 sheng1 chan3 zong3 zhi2] {bun2 dei6 sang1 caan2 zung2 zik6} /produit intérieur brut/
 本地菜 本地菜 [ben3 di4 cai4] {bun2 dei6 coi3} /cuisine locale/(fam.) (fig.) filles locales; filles d'ici/
-????f 本地薑唔辣 本地姜唔辣 [ben3 di4 jiang1 wu2 la4] {bun2 dei6 goeng1 m4 laat6} /(expr. idiom.) les biens ou personnes locaux sont moins valorisés que ceux de l'étranger/(lit.) le gingembre local n'est pas piquant/
+本地薑唔辣 本地姜唔辣 [ben3 di4 jiang1 wu2 la4] {bun2 dei6 goeng1 m4 laat6} /(expr. idiom.) les biens ou personnes locaux sont moins valorisés que ceux de l'étranger/(lit.) le gingembre local n'est pas piquant/
 ????c 本地雞 本地鸡 [ben3 di4 ji1] {bun2 dei6 gai1} /(fig.) personnes de la région; population locale/(fam.) (fig.) filles locales; filles d'ici/(lit.) poules locales/
 本心 本心 [ben3 xin1] {bun2 sam1} /conscience; éthique; sentiment du bien et du mal/intentions originales/
 本港台 本港台 [ben3 gang3 tai2] {bun2 gong2 toi4} /ATV Home, ancienne chaîne de télévision de Hong Kong/
@@ -10942,15 +10943,15 @@
 朱古力奶 朱古力奶 [zhu1 gu3 li4 nai3] {zyu1 gu1 lik1 naai5} /lait au chocolat/
 朱古力碎 朱古力碎 [zhu1 gu3 li4 sui4] {zyu1 gu1 lik1 seoi3} /brisures de chocolat/
 朱槿 朱槿 [zhu1 jin3] {zyu1 gan2} /(espèce de plantes à fleurs) hibiscus chinois, Hibiscus rosa-sinensis/
-????f 朱油 朱油 [zhu1 you2] {zyu1 jau4} /type de sauce soja foncée/
+朱油 朱油 [zhu1 you2] {zyu1 jau4} /type de sauce soja foncée/
 朱纓花 朱缨花 [zhu1 ying1 hua1] {zyu1 jing1 faa1} /(espèce d'arbres) arbre aux houppettes, Calliandra haematocephala/
 朱義盛 朱义盛 [zhu1 yi4 sheng4] {zyu1 ji6 sing2} /(fam.) faux bijoux; bijoux fantaisie/
-????f 朱門 朱门 [zhu1 men2] {zyu1 mun4} /porte lacquée couleur rouge; porte des maisons des personnes riches/
+朱門 朱门 [zhu1 men2] {zyu1 mun4} /porte lacquée couleur rouge; porte des maisons des personnes riches/
 朱雀橋 朱雀桥 [zhu1 que4 qiao2] {zyu1 zoek3 kiu4} /(nom d'un pont en Chine)/
 朽敗 朽败 [xiu3 bai4] {nau2 baai6} /décomposé et putrefié/
 朽木糞土 朽木粪土 [xiu3 mu4 fen4 tu3] {nau2 muk6 fan3 tou2} /(fig.) bon à rien; personne sans valeur/(lit.) bois en décomposition et fumier/
 朽邁 朽迈 [xiu3 mai4] {nau2 maai6} /vieux; sénile; décrépit/
-????f 杉木 杉木 [sha1 mu4] {caam3 muk6} /(espèce d'arbres) bois de sapin; bois de pin/
+杉木 杉木 [sha1 mu4] {caam3 muk6} /(espèce d'arbres) bois de sapin; bois de pin/
 杉樹 杉树 [shan1 shu4] {caam3 syu6} /sapin chinois, Cunninghamia laceolata/
 李 李 [li3] {lei5} /prune/(nom de famille chinois)/
 李兆基 李兆基 [li3 zhao4 ji1] {lei5 siu6 gei1} /Shau Kee Lee, homme d'affaires et investisseur hongkongais/
@@ -10973,21 +10974,21 @@
 杏花邨 杏花村 [xing4 hua1 cun1] {hang6 faa1 cyun1} /Heng Fa Chuen, grand ensemble situé à Hong Kong/
 杏黃 杏黄 [xing4 huang2] {hang6 wong4} /(couleur) jaune abricot/
 村夫 村夫 [cun1 fu1] {cyun1 fu1} /homme de la campagne/campagnard; péquenaud; plouc/
-????f 村屋 村屋 [cun1 wu1] {cyun1 uk1} /« maison de village », maison de deux ou trois étages située dans une région rurale de Hong Kong/
+村屋 村屋 [cun1 wu1] {cyun1 uk1} /« maison de village », maison de deux ou trois étages située dans une région rurale de Hong Kong/
 杜奧巴 杜奥巴 [du4 ao4 ba1] {dou6 ou3 baa1} /Didier Drogba, footballeur international ivorien/
 杜拜塔 杜拜塔 [Du4 bai4 ta3] {dou6 baai3 taap3} /Burj Khalifa, anciennement Burj Dubai, gratte-ciel situé à Dubaï/
 杜比系統 杜比系统 [du4 bi3 xi4 tong3] {dou6 bei2 hai6 tung2} /système de son Dolby/
 杜牙根 杜牙根 [du4 ya2 gen1] {dou6 ngaa4 gan1} /endotonie chirurgicale/
 杜絕 杜绝 [du4 jue2] {dou6 zyut6} /éliminer; mettre fin à/
 杞子 杞子 [qi3 zi5] {gei2 zi2} /goji; baie de goji/
-????f 束手無策 束手无策 [shu4 shou3 wu2 ce4] {cuk1 sau2 mou4 caak3} /(fig.) ne plus savoir quoi faire; ne pas pouvoir trouver une situation; être à bout de nerfs/(lit.) avoir les mains liées et ne pas avoir de plan/
+束手無策 束手无策 [shu4 shou3 wu2 ce4] {cuk1 sau2 mou4 caak3} /(fig.) ne plus savoir quoi faire; ne pas pouvoir trouver une solution; être à bout de nerfs/(lit.) avoir les mains liées et ne pas avoir de plan/
 束縛 束缚 [shu4 fu4] {cuk1 bok3} /contrainte; limite; restriction; carcan/entraver/
 杧果 杧果 [mang2 guo3] {mong1 gwo2} /mangue/
-杭州西湖 杭州西湖 [hang2 zhou1 xi1 Hu2] {hong4 zau1 sai1 wu4} /Lac de l'Ouest, lac situé dans le centre de la ville de Hangzhou/
-????f 杯仔麵 杯仔面 [bei1 zi3 mian4] {bui1 zi2 min6} /nouilles instantanées (en particulier les nouilles servies dans les gobelets)/
+杭州西湖 杭州西湖 [hang2 zhou1 xi1 hu2] {hong4 zau1 sai1 wu4} /Lac de l'Ouest, lac situé dans le centre de la ville de Hangzhou/
+杯仔麵 杯仔面 [bei1 zi3 mian4] {bui1 zi2 min6} /nouilles instantanées (en particulier les nouilles servies dans les gobelets)/
 杯碟 杯碟 [bei1 die2] {bui1 dip2} /tasse et sous-tasse/sous-tasse/
-????c 杯耳 杯耳 [bei1 er3] {bui1 ji5} /anse d'une tasse/(lit.) oreille d'une tasse/
-????f 杯麵 杯面 [bei1 mian4] {bui1 min6} /nouilles instantanées (en particulier les ouilles servies dans les gobelets)/
+杯耳 杯耳 [bei1 er3] {bui1 ji5} /anse d'une tasse/(lit.) oreille d'une tasse/
+杯麵 杯面 [bei1 mian4] {bui1 min6} /nouilles instantanées (en particulier les ouilles servies dans les gobelets)/
 杰撻撻 杰挞挞 [jie2 ta4 ta4] {git6 taat3 taat3} /(liquide) épaisse; visqueux/(fig.) être dans un pétrin; avoir des problèmes; être dans de beaux draps/
 東 东 [dong1] {dung1} /est/chose; truc; machin/
 東京都 东京都 [dong1 jing1 dou1] {dung1 ging1 dou1} /Tokyo, ville capitale du Japon/
