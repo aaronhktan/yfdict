@@ -6551,10 +6551,10 @@
 學齡兒童 学龄儿童 [xue2 ling2 er2 tong2] {hok6 ling4 ji4 tung4} /enfants d'âge scolaire/
 孺子可教 孺子可教 [ru2 zi3 ke3 jiao1] {jyu4 zi2 ho2 gaau3} /(expr.) enfant qu'on peut enseigner; enfant qui mérite d'être enseigné/
 孻 孻 [lai2] {laai1} /le ou la plus jeune; cadet, cadette/
-孻仔 孻仔 [lai2 zi3] {laai1 zai2} /fils le plus jeune; fils cadet/
-孻仔拉心肝 孻仔拉心肝 [lai2 zi3 la1 xin1 gan1] {laai1 zai2 laai1 sam1 gon1} /(expr. idiom.) gâter le plus jeune enfant/(lit.) le plus jeune fils tire le cœur et le foie/
-孻仔拉心肝孻女拉五臟 孻仔拉心肝孻女拉五脏 [lai2 zi3 laa1 xin1 gan1 lai2 nu:3 la1 wu3 zang] {laai1 zai laai1 sam1 gon1 laai1 neoi2 laai1 ng5 zong6} /(expr. idiom.) gâter le plus jeune enfant/(lit.) le plus jeune fils tire le cœur et le foie; la plus jeune fille tire les cinq organes internes/
-孻女 孻女 [lai2 nu:3] {laai1 neoi2} /fille la plus jeune; fille cadette (dans une famille)/
+孻仔 孻仔 [lai2 zi3] {laai1 zai2} /benjamin; fils cadet/
+孻仔拉心肝 孻仔拉心肝 [lai2 zi3 la1 xin1 gan1] {laai1 zai2 laai1 sam1 gon1} /(expr. idiom.) gâter le benjamin de la famille/(lit.) le benjamin tire le cœur et le foie/
+孻仔拉心肝孻女拉五臟 孻仔拉心肝孻女拉五脏 [lai2 zi3 laa1 xin1 gan1 lai2 nu:3 la1 wu3 zang] {laai1 zai laai1 sam1 gon1 laai1 neoi2 laai1 ng5 zong6} /(expr. idiom.) gâter le benjamin de la famille/(lit.) le benjamin tire le cœur et le foie; la benjamine tire les cinq organes internes/
+孻女 孻女 [lai2 nu:3] {laai1 neoi2} /benjamine; fille cadette (dans une famille)/
 孻尾 孻尾 [lai2 wei3] {laai1 mei1} /arriver en dernière position/finalement/bout; arrière (d'une file)/dernier/
 孻屘 孻屘 [lai2 man1] {laai1 mei1} /arriver en dernière position/finalement/bout; arrière (d'une file)/dernier/
 孿生兄弟 孪生兄弟 [luan2 sheng1 xiong1 di4] {lyun4 saang1 hing1 dai6} /jumeaux (de sexe masculin)/
@@ -11060,6 +11060,7 @@
 林林總總 林林总总 [lin2 lin2 zong3 zong3] {lam4 lam4 zung2 zung2} /nombreux; innombrable/de toutes sortes/
 林檎 林檎 [lin2 qin2] {lam4 kam4} /attier; pommier cannelle/malus asiatica; variété de pomme chinoise/
 林沈 林沉 [lin2 chen2] {lam4 sam2} /sans valeur; sans importance/
+林沈 林沈 [lin2 chen2] {lam4 sam2} /sans valeur; sans importance/
 林海 林海 [lin2 hai3] {lam4 hoi2} /immense forêt/
 林海峰 林海峰 [lin2 hai3 feng1] {lam4 hoi2 fung1} /Jan Lamb Hoi Fong, deejay, chanteur et acteur hongkongais/
 林瑞麟 林瑞麟 [lin2 rui4 lin2] {lam4 seoi6 leon4} /Stephen Lam Sui-lung, ancien Premier Secrétaire de l'Administration de Hong Kong/
@@ -12005,19 +12006,19 @@
 沒水 没水 [mei2 shui3] {mei6 seoi2} /plonger/immerger dans l'eau/
 沒法子 没法子 [mei2 fa3 zi5] {mut6 faat3 zi2} /ne pouvoir rien y faire/
 沒關係 没关系 [mei2 guan1 xi5] {mut6 gwaan1 hai6} /sans rapport (avec)/(formule de politesse) ce n'est pas grave! ne t'inquiète pas!/
-????f 沓 沓 [da2] {daap6} /(s'emploie pour dire que la grande aiguille d'une horloge pointe sur un nombre, ex. 沓三 « pointer sur le trois » signifie « ...h15 » 沓三过半子 « pointer sur le trois et demi » signifie « ...h17 » ou « ...h18 »)/
-????f 沓正 沓正 [da2 zheng4] {daap6 zeng3} /précisément; exactement/heure pile; précisément à telle ou telle heure/heure pile; « ...h00 »/
+沓 沓 [da2] {daap6} /(s'emploie pour dire que la grande aiguille d'une horloge pointe sur un nombre, ex. 沓三 « pointer sur le trois » signifie « ...h15 » 沓三过半子 « pointer sur le trois et demi » signifie « ...h17 » ou « ...h18 »)/
+沓正 沓正 [da2 zheng4] {daap6 zeng3} /précisément; exactement/heure pile; précisément à telle ou telle heure/heure pile; « ...h00 »/
 沓水 沓水 [da2 shui3] {daap6 seoi2} /riche (voir aussi 疊水|叠水)/
 沖廁 冲厕 [chong1 ce4] {cung1 ci3} /(toilette) tirer la chasse d'eau/
 沖曬 冲晒 [chong1 shai4] {cung1 saai3} /(photographie) développer et imprimer/
 沖涼 冲凉 [chong1 liang2] {cung1 loeng4} /se doucher; prendre une douche/se baigner/
 沖涼房 冲凉房 [chong1 liang2 fang2] {cung1 loeng4 fong2} /salle de bain/toilettes/
 沖涼缸 冲凉缸 [chong1 liang2 gang1] {cung1 loeng4 gong1} /baignoire/
-????f 沖淡水 冲淡水 [chong1 dan4 shui3] {cung1 taam5 seoi2} /refroidir l'ardeur; gâcher la fête de quelqu'un; décourager quelqu'un/
+沖淡水 冲淡水 [chong1 dan4 shui3] {cung1 taam5 seoi2} /(expr. idiom.) refroidir l'ardeur; gâcher la fête de quelqu'un; décourager quelqu'un/
 沖滾水 冲滚水 [chong1 gun3 shui3] {cung1 gwan2 seoi2} /ajouter de l'eau bouillante/
 沖破 冲破 [chong1 po4] {cung1 po3} /franchir; percer (les défenses d'un ennemi)/surmonter (des obstacles)/briser; rompre avec la tradition/
 沖茶 冲茶 [chong1 cha2] {cung1 caa4} /faire du thé/
-????c 沖菜 冲菜 [chong1 cai4] {cung1 coi3} /preserved kale head; preserved turnip; preserved vegetable/
+沖菜 冲菜 [chong1 cai4] {cung1 coi3} /navet lacto-fermenté/
 沙井蓋 沙井盖 [sha1 jing3 gai4] {saa1 zeng2 goi3} /plaque d'égout/
 沙冚 沙冚 [sha1 ka4] {saa1 kam2} /garde-boue (de vélo)/
 沙包 沙包 [sha1 bao1] {saa1 baau1} /punching-ball; sac de frappe/
@@ -12033,13 +12034,13 @@
 沙展 沙展 [sha1 zhan3] {saa1 zin2} /sergent/(orig.) de l'anglais « sergeant » (« sergent »)/
 沙梨 沙梨 [sha1 li2] {saa1 lei4} /nashi; nachi; poire japonaise/
 沙沙滾 沙沙滚 [sha1 sha1 gun3] {saa4 saa4 gwan2} /(relation amoureuse) tromper/faire de l'échangisme/(personne) peu fiable/(faire quelque chose avec) négligence/
-????f 沙沙聲 沙沙声 [sha1 sha1 sheng1] {saa4 saa2 seng1} /(onomatopée de l'eau gargouillant)/bruit de froissement; bruissement; froufrou/
+沙沙聲 沙沙声 [sha1 sha1 sheng1] {saa4 saa2 seng1} /(onomatopée de l'eau qui gargouille)/bruit de froissement; bruissement; froufrou/
 沙河粉 沙河粉 [sha1 he2 fen3] {saa1 ho4 fan2} /shahe fen; he fen; nouilles plates à base de riz/
 沙漠之舟 沙漠之舟 [sha1 mo4 zhi1 zhou1] {saa1 mok6 zi1 zau1} /(fig.) chameau/(lit.) navire du désert/
 沙灘波 沙滩波 [sha1 tan1 bo1] {saa1 taan1 bo1} /ballon de plage/
 沙灘老鼠 沙滩老鼠 [sha1 tan1 lao3 shu3] {saa1 taan1 lou5 syu2} /(fig.) voleur sur la plage/(lit.) rats de la plage/
-????f 沙煲 沙煲 [sha1 bao1] {saa1 bou1} /marmite de grès; pot de terre/
-????f 沙煲兄弟 沙煲兄弟 [sha1 bao1 xiong1 di5] {saa1 bou1 hing1 dai6} /(expr. idiom.) être comme des frères; s'aimer comme des frères/(lit.) comme deux frères la même marmite/
+沙煲 沙煲 [sha1 bao1] {saa1 bou1} /marmite de grès; pot de terre/
+沙煲兄弟 沙煲兄弟 [sha1 bao1 xiong1 di5] {saa1 bou1 hing1 dai6} /(expr. idiom.) être comme des frères; s'aimer comme des frères/(lit.) comme deux frères la même marmite/
 沙田區 沙田区 [sha1 tian2 qu1] {saa1 tin4 keoi1} /District de Sha Tin, l'un des dix-huit districts de Hong Kong/
 沙田圍 沙田围 [sha1 tian2 wei2] {saa1 tin4 wai4} /Sha Tin Wai, nom d'un village situé à Hong Kong/
 沙田柚 沙田柚 [sha1 tian2 you4] {saa1 tin4 jau2} /pomelo Shatian/
@@ -12048,8 +12049,8 @@
 沙田馬場 沙田马场 [sha1 tian2 ma3 chang3] {saa1 tin4 maa5 coeng4} /Hippodrome de Sha Tin/
 沙甸 沙甸 [sha1 dian4] {saa1 din1} /(poisson) sardine/(orig.) de l'anglais « sardine » (« sardine »)/
 沙甸魚 沙甸鱼 [sha1 dian4 yu2] {saa1 din1 jyu2} /(poisson) sardine/(orig.) de l'anglais « sardine » (« sardine »)/
-????f 沙盤 沙盘 [sha1 pan2] {saa1 pun4} /????(militaire) bac à sable; modèle servant à reproduire à l'échelle la topographie d'un terrain/(terrain de jeu) bac à sable; carré de sable/
-????f 沙示 沙示 [sha1 shi4] {saa1 si6} /(boisson) salsepareille, boisson non alcoolisé semblable à la racinette/
+沙盤 沙盘 [sha1 pan2] {saa1 pun4} /(militaire) bac à sable; modèle servant à reproduire à l'échelle la topographie d'un terrain/(terrain de jeu) bac à sable; carré de sable/
+沙示 沙示 [sha1 shi4] {saa1 si6} /(boisson) salsepareille, boisson non alcoolisé semblable à la racinette/
 沙粉 沙粉 [sha1 fen3] {saa1 fan2} /poudre d'émeri/
 沙糖 沙糖 [sha1 tang2] {saa1 tong4} /sucre granulé/
 沙紙 沙纸 [sha1 zhi3] {saa1 zi2} /papier de verre; papier abrasif/(fig.) diplôme; certificat d'achèvement/
@@ -12073,15 +12074,15 @@
 河牀 河床 [he2 chuang2] {ho4 cong4} /lit (d'une rivière ou fleuve)/
 河間 河间 [he2 jian1] {ho4 gaan1} /Hejian, ville de la province de Hebei en Chine/
 河鮮 河鲜 [he2 xian1] {ho4 sin1} /poissons d'eau douce/
-????f 油光帽 油光帽 [you2 guang1 mao4] {jau4 gwong1 mou2} /chapeau en bambou verni d'huile d'abrasin/
+油光帽 油光帽 [you2 guang1 mao4] {jau4 gwong1 mou2} /chapeau en bambou verni d'huile d'abrasin/
 油占米 油占米 [you2 zhan4 mi3] {jau4 zim1 mai5} /un type de riz de très haute qualité/
-????f 油器 油器 [you2 qi4] {jau4 hei3} /aliments frits (particulièrement les aliment qui se mangent avec du congee ou lors du dim sum)/
+油器 油器 [you2 qi4] {jau4 hei3} /aliments frits (particulièrement les aliment qui se mangent avec du congee ou lors du dim sum)/
 油塘 油塘 [you2 tang2] {jau4 tong4} /Yau Tong, station du métro de Hong Kong/
 油多 油多 [you2 duo1] {jau4 do1} /toast beurré (voir aussi 牛油多士|牛油多士)/trop gras/
 油尖旺區 油尖旺区 [you2 jian1 wang4 qu1] {jau4 zim1 wong6 keoi1} /Yau Tsim Mong, l'un des dix-huit districts de Hong Kong/
-????f 油層 油层 [you2 ceng2] {jau4 cang4} /réserve pétrolière; gisement de pétrole/couche (géologique) où est enfouie une réserve pétrolière/
+油層 油层 [you2 ceng2] {jau4 cang4} /réserve pétrolière; gisement de pétrole/couche (géologique) où est enfouie une réserve pétrolière/
 油彩 油彩 [you2 cai3] {jau4 coi2} /peinture à l'huile/
-????f 油榨 油榨 [you2 zha4] {jau4 zaa3} /presse à huile/
+油榨 油榨 [you2 zha4] {jau4 zaa3} /presse à huile/
 油淋淋 油淋淋 [you2 lin2 lin2] {jau4 lam6 lam6} /(aliment) gras; grasse/
 油淰淰 油淰淰 [you2 nian3 nian3] {jau4 lam6 lam6} /(aliment) gras; grasse/
 油渣 油渣 [you2 zha1] {jau4 zaa1} /gazole; diesel/saindoux/
@@ -12098,22 +12099,22 @@
 油瓶女 油瓶女 [you2 ping2 nu:3] {jau4 peng5 neoi2} /(fig.) (péj.) belle-fille; fille de l'époux précédent/
 油站 油站 [you2 zhan4] {jau4 zaam6} /station service; station d'essence/
 油管 油管 [you2 guan3] {jau4 gun2} /oléoduc/(fam.) YouTube; site web d'hébergement de vidéos/
-????f 油紙遮 油纸遮 [you2 zhi3 zhe1] {jau4 zi2 ze1} /ombrelle de papier/
+油紙遮 油纸遮 [you2 zhi3 zhe1] {jau4 zi2 ze1} /ombrelle de papier/
 油耳 油耳 [you2 er3] {jau4 ji5} /oreille qui accumule beaucoup de cérumen/
 油脂仔 油脂仔 [you2 zhi1 zai3] {jau4 zi1 zai2} /délinquant; voyou/jeune homme qui s'habille comme les personnages de « Grease » (ou « Brillantine »), un film des années 70/
 油脂女 油脂女 [you2 zhi1 nu:3] {jau4 zi1 neoi2} /délinquante; voyou (de sexe féminin)/jeune femme qui s'habille comme les personnages de « Grease » (ou « Brillantine »), un film des années 70/
-????f 油脂裝 油脂装 [you2 zhi1 zhuang1] {jau4 zi1 zong1} /tenue excentrique, bizzare ou extravagant/tenue semblable à ce que portaient les personnages de « Grease » (ou « Brillantine »), un film des années 70/
+油脂裝 油脂装 [you2 zhi1 zhuang1] {jau4 zi1 zong1} /tenue excentrique, bizzare ou extravagant/tenue semblable à ce que portaient les personnages de « Grease » (ou « Brillantine »), un film des années 70/
 油茶 油茶 [you2 cha2] {jau4 caa4} /(espèce d'arbres) Camellia oleifera/gruau de farine sucrée/
-????f 油菜 油菜 [you2 cai4] {jau4 coi3} /légumes blanchis servis avec de l'huile ou ou sauce aux huîtres/
-????c 油螆 油螆 [you2 ci4] {jau4 zi1} /(noun) oil substance; cooking fat/
-????f 油角 油角 [you2 jiao3] {jau4 gok3} /yau gok ou jau gok, aliment traditionnel qui ressemble à un ravioli chinois frit et croustillant, consommé pour célébrer le Nouvel An chinois/
+油菜 油菜 [you2 cai4] {jau4 coi3} /légumes blanchis servis avec de l'huile ou ou sauce aux huîtres/
+????c 油螆 油螆 [you2 ci4] {jau4 zi1} /matière grasse de cuisson/
+油角 油角 [you2 jiao3] {jau4 gok3} /yau gok ou jau gok, mets traditionnel qui ressemble à un ravioli chinois frit et croustillant, consommé pour fêter le Nouvel An chinois/
 油跡 油迹 [you2 ji4] {jau4 zik1} /tache d'huile/
 油躉 油趸 [you2 dun3] {jau4 dan2} /chaland d'hydrocarbures; navire pétrolier/
 油轆 油辘 [you2 lu4] {jau4 luk1} /rouleau à peinture/
 油酸 油酸 [you2 suan1] {jau4 syun1} /acide oléique/
-????f 油鋪 油铺 [you2 pu4] {jau4 pou3} /boutique qui vend des articles quotidiens/
-????f 油鋸 油锯 [you2 ju4] {jau4 geoi3} /tronçonneuse thermique; tronçonneuse qui consomme du carburant/
-????f 油頭粉面 油头粉面 [you2 tou2 fen3 mian4] {jau4 tau4 fan2 min6} /(fig.) être très maquillé; à toilette tapageuse/
+油鋪 油铺 [you2 pu4] {jau4 pou3} /boutique qui vend des articles quotidiens/
+油鋸 油锯 [you2 ju4] {jau4 geoi3} /tronçonneuse thermique; tronçonneuse qui consomme du carburant/
+油頭粉面 油头粉面 [you2 tou2 fen3 mian4] {jau4 tau4 fan2 min6} /(fig.) être très maquillé; à toilette tapageuse/
 油香餅 油香饼 [you2 xiang1 bing3] {jau4 hoeng1 beng2} /pancake chinois frit à l'huile/
 油𩺬 油𩺬 [you2 zhui1] {jau4 zeoi1} /(espèce d'animaux) murène/
 油麥菜 油麦菜 [you2 mai4 cai4] {jau4 mak6 coi3} /A Choy; A Cai; You Mai Cai; type de laitue taïwanaise/
@@ -12126,15 +12127,15 @@
 沾上 沾上 [zhan1 shang4] {zim1 soeng5} /coller; adhérer/
 沾手 沾手 [zhan1 shou3] {zim1 sau2} /toucher avec les mains; entrer en contact avec les mains/jouer un rôle; être impliqué dans (quelque chose)/
 沾污 沾污 [zhan1 wu1] {zim1 wu1} /tacher; souillir; salir/
-????f 沿海 沿海 [yan2 hai3] {jyun4 hoi2} /côtier, côtière; le long de la côte/
-????f 沿街 沿街 [yan2 jie1] {jyun4 gaai1} /le long de la rue/dans la rue/
+沿海 沿海 [yan2 hai3] {jyun4 hoi2} /côtier, côtière; le long de la côte/
+沿街 沿街 [yan2 jie1] {jyun4 gaai1} /le long de la rue/dans la rue/
 泄漏 泄漏 [xie4 lou4] {sit3 lau6} /(liquide ou gaz) fuir/divulguer; révéler/
 泉 泉 [quan2] {cyun4} /fontaine/Enfers/(arch.) pièce; pièce de monnaie/
 泊 泊 [po1] {bok6} /stationner; garer (une voiture)/
 泊車仔 泊车仔 [bo2 che1 zi3] {paak3 ce1 zai2} /voiturier/
 泊車位 泊车位 [bo2 che1 wei4] {paak3 ce1 wai2} /place de stationnement; espace de stationnement; place de parking/
 泊車咪錶 泊车咪表 [bo2 che1 mi1 biao3] {paak3 ce1 mai1 biu1} /parcmètre/
-????f 法 法 [fa3] {faat3} /(abréviation de la France)/législatif; relatif aux lois/
+法 法 [fa3] {faat3} /(abréviation de la France)/législatif; relatif aux lois/
 法例 法例 [fa3 li4] {faat3 lai6} /loi; règle; ordonnance/
 法包 法包 [fa3 bao1] {faat3 baau1} /baguette/(lit.) pain français/
 法國嘢 法国嘢 [fa3 guo2 ye3] {faat3 gwok3 je5} /(fam.) (fig.) cuisine française/(lit.) chose française/
@@ -12143,7 +12144,7 @@
 法國文化協會 法国文化协会 [fa3 guo2 wen2 hua4 xie2 hui4] {faat3 gwok3 man4 faa3 hip3 wui2} /Alliance française, organisation dont l'objectif est de faire rayonner la langue française et la culture française à l'extérieur de la France/
 法國菜 法国菜 [fa3 guo2 cai4] {faat3 gwok3 coi3} /cuisine française/
 法庭 法庭 [fa3 ting2] {faat3 ting4} /tribunal; cour de justice/
-????f 法書 法书 [fa3 shu1] {faat3 syu1} /belle calligraphie; calligraphie tellement belle qu'elle pourrait servir d'exemple/(formule de politesse) votre calligraphie/ouvrages juridiques/
+法書 法书 [fa3 shu1] {faat3 syu1} /belle calligraphie; calligraphie tellement belle qu'elle pourrait servir d'exemple/(formule de politesse) votre calligraphie/ouvrages juridiques/
 法蘭西共和國 法兰西共和国 [fa3 lan2 xi1 gong4 he2 guo2] {faat3 laan4 sai1 gung6 wo4 gwok3} /la République française/
 法蘭西多士 法兰西多士 [fa3 lan2 xi1 duo1 shi4] {faat3 laan4 sai1 do1 si2} /pain doré; pain perdu/(lit.) pain grillé français/
 法輪佛法 法轮佛法 [fa3 lun2 fo2 fa3] {faat3 leon4 fat6 faat3} /Falun Gong ou Falun Dafa, mouvement spirituel chinois/
@@ -12152,7 +12153,7 @@
 泡哥 泡哥 [pao4 ge1] {paau1 go1} /pickpocket; voleur à la tire/
 ????c 泡水館 泡水馆 [pao4 shui3 guan3] {paau3 seoi2 gun2} /bains publiques/
 泡沫塑料 泡沫塑料 [pao4 mo4 su4 liao4] {pou5 mut6 sou3 liu2} /polystyrène/
-????f 波 波 [bo1] {bo1} /ballon/jeu de ballon; jeu de balle/(fam.) seins; mamelles; nichons/????niveau de menace cyclonique (orig. des ballons noirs utilisés à Hong Kong pour avertir les navires d'une menace cyclonique)/boîte de vitesses/onde/vague/
+波 波 [bo1] {bo1} /ballon/jeu de ballon; jeu de balle/(fam.) seins; mamelles; nichons/niveau de menace cyclonique (orig. des ballons noirs utilisés à Hong Kong pour avertir les navires d'une menace cyclonique)/boîte de vitesses/onde/vague/
 波友 波友 [bo1 you3] {bo1 jau5} /coéquipier de soccer; coéquipier de foot/
 波地 波地 [bo1 di4] {bo1 dei2} /terrain de soccer; terrain de foot/
 波場 波场 [bo1 chang3] {bo1 coeng4} /terrain de soccer; terrain de foot/salon de bal/(orig.) de l'anglais « ballroom », où « ball » (« bal ») devient « 波 »/
@@ -12165,55 +12166,55 @@
 泥屋 泥屋 [ni2 wu1] {nai4 uk1} /hutte de terre/
 泥水 泥水 [ni2 shui3] {nai4 seoi2} /eau boueuse/maçonnerie/
 泥水佬 泥水佬 [ni2 shui3 lao3] {nai4 seoi2 lou2} /maçon/
-????c 泥氹 泥凼 [ni2 dang4] {nai4 tam5} /mud pit/flaque de boue/
+????c 泥氹 泥凼 [ni2 dang4] {nai4 tam5} /bourbier; flaque de boue/
 泥湴 泥湴 [ni2 ban4] {nai4 baan6} /boue/
 泥磚 泥砖 [ni2 zhuan1] {nai4 zyun1} /(brique) adobe/
-????f 泥肉 泥肉 [ni2 rou4] {nai4 juk6} /couche de sol arable/
+泥肉 泥肉 [ni2 rou4] {nai4 juk6} /couche de terre arable/
 泥膠 泥膠 [ni2 hao2] {nai4 gaau1} /pâte à modeler/
-????f 泥菩薩過江 泥菩萨过江 [ni2 pu2 sa4 guo4 jiang1] {nai4 pou4 saat3 gwo3 gong1} /(expr. en suspens) incapable de sauver soi-même et encore même les autres/(lit.) Bouddha en argile traversant la rivière (deuxième partie 自身難保|自身难保 « incapable de se sauver lui-même »)/
+泥菩薩過江 泥菩萨过江 [ni2 pu2 sa4 guo4 jiang1] {nai4 pou4 saat3 gwo3 gong1} /(expr. en suspens) incapable de sauver soi-même et encore moins les autres/(lit.) Bouddha en argile traversant la rivière (deuxième partie 自身難保|自身难保 « incapable de se sauver lui-même »)/
 泥蚶 泥蚶 [ni2 han1] {nai4 ham1} /(espèce de mollusques bivalves) Tegillarca granosa/
 泥蝦 泥虾 [ni2 xia1] {nai4 haa1} /(espèce de crevettes) Metapenaeus ensis/
-????f 泥路 泥路 [ni2 lu4] {nai4 lou6} /chemin de terre/
-????c 泥頭 泥头 [ni2 tou2] {nai4 tau4} /a dumper/
+泥路 泥路 [ni2 lu4] {nai4 lou6} /chemin de terre/
+泥頭 泥头 [ni2 tou2] {nai4 tau4} /(Hong Kong) décombres; débris provenant d'un chantier de construction/
 泥頭車 泥头车 [ni2 tou2 che1] {nai4 tau4 ce1} /camion benne/
 泥鯭 泥鯭 [ni2 meng3] {nai4 maang1} /sigan; picot; Siganus, genre de poissons/
-????f 泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /taxi illégal où le chauffeur de taxi attend plusieurs personnes (qui ne se connaissent pas) ayant la même destination, ce qui lui permet de réduire les prix qu'il demande des passagers/
-????c 泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(espèce de canard élevée sur la terre ferme, sans accès à l'eau)/(fig.) (personne) sale/????(dirty car?) (mixed race?)/
-????c 注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /précautions/question nécessitant une attention particulière/
+泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /(Hong Kong) taxi illégal où le chauffeur de taxi attend plusieurs personnes (qui ne se connaissent pas) ayant la même destination, ce qui lui permet de réduire les prix qu'il demande des passagers/
+泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(espèce de canard élevée sur la terre ferme, sans accès à l'eau)/(fig.) (personne) sale/
+注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /précautions/
 注視 注视 [zhu4 shi4] {zyu3 si6} /fixer du regard; regarder avec insistance; lorgner; dévisager; scruter/faire attention à/
 泮塘 泮塘 [pan4 tang2] {pun3 tong6} /Pun Tong, localité de Canton en Chine/
-????c 泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, localité de Canton en Chine/Panshui, village de Guangxi/(vieilli) étang situé devant une école/
+泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, localité de Canton en Chine/Panshui, village de Guangxi/(vieilli) étang situé devant une école/
 泮溪 泮溪 [pan4 xi1] {pun3 kai1} /Panxi, ruisseau de Canton en Chine/
 泰國國際航空公司 泰国国际航空公司 [tai4 guo2 guo2 ji4 hang2 kong1 gong1 si1] {taai3 gwok3 gwok3 zai3 hong4 hung1 gung1 si1} /Thai Airways International, compagnie aérienne nationale de Thaïlande/
 泰山 泰山 [tai4 shan1] {taai3 saan1} /mont Tai, situé dans la province de Shandong en Chine/Tarzan, personnage de fiction/
-????f 泰山壓卵 泰山压卵 [tai4 shan1 ya1 luan3] {taai3 saan1 aat3 leon2} /(expr. idiom.) être complètement surclassé/(lit.) comme le mont Tai écrasant un œuf/
-????f 泰然處之 泰然处之 [tai4 ran2 chu3 zhi1] {taai3 jin4 cyu2 zi1} /(idiom.) prendre (quelque chose) calmement; garder son sang-froid/
+泰山壓卵 泰山压卵 [tai4 shan1 ya1 luan3] {taai3 saan1 aat3 leon2} /(expr. idiom.) être complètement surclassé/(lit.) comme le mont Tai écrasant un œuf/
+泰然處之 泰然处之 [tai4 ran2 chu3 zhi1] {taai3 jin4 cyu2 zi1} /(expr. idiom.) prendre (quelque chose) calmement; garder son sang-froid/
 泰王國 泰王国 [tai4 wang2 guo2] {taai3 wong4 gwok3} /royaume de Thaïlande/
 泳池 泳池 [yong3 chi2] {wing6 ci4} /piscine/
 泳灘 泳滩 [yong3 tan1] {wing6 taan1} /plage de baignade/
 𣲷懦 𣲷懦 [ni4 nuo4] {nap6 no6} /lent; indécis; hésitant/
 𣲷黐黐 𣲷黐黐 [ni4 li2 li2] {nap6 ci1 ci1} /collant; gluant/
 洋剪 洋剪 [yang2 jian3] {joeng4 zin2} /ciseaux de tailleur/
-????f 洋奴哲學 洋奴哲学 [yang2 nu2 zhe2 xue2] {joeng4 nou4 zit3 hok6} /(politique) « slavish comprador philosophy » (« culte des produits et technologies étrangers »)/
+洋奴哲學 洋奴哲学 [yang2 nu2 zhe2 xue2] {joeng4 nou4 zit3 hok6} /(politique) « slavish comprador philosophy » (« culte des produits et technologies étrangers »)/
 洋桃 洋桃 [yang2 tao2] {joeng4 tou2} /carambole/
 洋樓 洋楼 [yang2 lou2] {joeng4 lau2} /(vieilli) édifice de style occidental/
-????f 洋為中用 洋为中用 [yang2 wei2 zhong1 yong4] {joeng4 wai4 zung1 jung6} /(idiom.) se servir des produits étrangers pour améliorer la Chine/(orig.) de Mao Zedong, « 古为今用，洋为中用 », (« s'en servir du passé pour améliorer le présent, s'en servir de l'étranger pour améliorer la Chine »)/
+洋為中用 洋为中用 [yang2 wei2 zhong1 yong4] {joeng4 wai4 zung1 jung6} /(politique) (expr. idiom.) se servir des produits étrangers pour améliorer la Chine/(orig.) de Mao Zedong, « 古为今用，洋为中用 », (« s'en servir du passé pour améliorer le présent, s'en servir de l'étranger pour améliorer la Chine »)/
 洋燭 洋烛 [yang2 zhu2] {joeng4 zuk1} /bougie/
-????f 洋行 洋行 [yang2 hang2] {joeng4 hong2} /(vieilli) société de commerce qui fait affaire avec l'étranger/(vieilli) société étrangère/
-????f 洋財 洋财 [yang2 cai2] {joeng4 coi4} /aubaine; rentrée d'argent imprévue/
+洋行 洋行 [yang2 hang2] {joeng4 hong2} /(vieilli) société de commerce qui fait affaire avec l'étranger/(vieilli) société étrangère/
+洋財 洋财 [yang2 cai2] {joeng4 coi4} /aubaine; rentrée d'argent imprévue/
 洋酒 洋酒 [yang2 jiu3] {joeng4 zau2} /liqueurs ou spiritueux (d'occident)/
-????f 洗地 洗地 [xi3 di4] {sai2 dei6} /nettoyer son plancher; laver son plancher/(fig.) étouffer une affaire; cacher une affaire (criminelle)/(fig.) cesser temporairement une opération criminelle en prévision d'une descente de police/
-????f 洗塵 洗尘 [xi3 chen2] {sai2 can4} /(fig.) préparer un dîner de bienvenue pour quelqu'un venant de très loin/(lit.) laver pour enlever la poussière/
-????f 洗大餅 洗大饼 [xi3 da4 bing3] {sai2 daai6 beng2} /(fig.) laver la vaisselle (comme emploi); travailler en tant que plongeur/
-????f 洗太平地 洗太平地 [xi3 tai4 ping2 di4] {sai2 taai3 ping4 dei6} /grand nettoyage/(fig.) sévir contre (la toxicomanie, la prostitution, etc.)/(fig.) faire une descente de police/
-????f 洗底 洗底 [xi3 di3] {sai2 dai2} /(criminel) tourner la page; blanchir son nom; passer à autre chose/
-????f 洗手 洗手 [xi3 shou3] {sai2 sau2} /se laver les mains/????(fig.) (gangster) prendre sa retraite; (criminel) tourner la page/
+洗地 洗地 [xi3 di4] {sai2 dei6} /nettoyer son plancher; laver son plancher/(fig.) étouffer une affaire; cacher une affaire (criminelle)/(fig.) cesser temporairement une opération criminelle en prévision d'une descente de police/
+洗塵 洗尘 [xi3 chen2] {sai2 can4} /(fig.) préparer un souper (Can.) ou dîner (Fr.) de bienvenue pour invité venant de très loin/(lit.) laver pour enlever la poussière/
+洗大餅 洗大饼 [xi3 da4 bing3] {sai2 daai6 beng2} /(fig.) laver la vaisselle (comme emploi); travailler en tant que plongeur/
+洗太平地 洗太平地 [xi3 tai4 ping2 di4] {sai2 taai3 ping4 dei6} /grand nettoyage/(fig.) sévir contre (la toxicomanie, la prostitution, etc.)/(fig.) faire une descente de police/
+洗底 洗底 [xi3 di3] {sai2 dai2} /(criminel) tourner la page; blanchir son nom; passer à autre chose/
+洗手 洗手 [xi3 shou3] {sai2 sau2} /se laver les mains/(fig.) (gangster) prendre sa retraite; (criminel) tourner la page/
 洗手盤 洗手盘 [xi3 shou3 pan2] {sai2 sau2 pun4} /lavabo/évier/
 洗水衫 洗水衫 [xi3 shui3 shan1] {sai2 seoi2 saam1} /(fig.) vêtements de tous les jours/
 洗濕個頭 洗湿个头 [xi3 chi4 ge5 tou2] {sai2 sap1 go3 tau4} /(expr. idiom.) (situation) on a déjà commencé et on devrait aller jusqu'au bout/(lit.) la tête est déjà mouillé/
 洗白白 洗白白 [xi3 bai2 bai2] {sai2 baak6 baak6} /(enfantin) prendre un bain/
 洗碗碟機 洗碗碟机 [xi3 wan3 die2 ji1] {sai2 wun2 dip6 gei1} /lave-vaisselle/
-????f 洗米 洗米 [xi3 mi3] {sai2 mai5} /rincer le riz/
+洗米 洗米 [xi3 mi3] {sai2 mai5} /rincer le riz (avant la cuisson)/
 洗粉 洗粉 [xi3 fen3] {sai2 fan2} /lessive en poudre/
 洗肚 洗肚 [xi3 du4] {sai2 tou5} /dialyse péritonéale/
 洗腳唔抹腳 洗脚唔抹脚 [xi3 jiao3 wu2 mo3 jiao3] {sai2 goek3 m4 maat3 goek3} /(expr. idiom.) qui dépense son argent sans réfléchir; qui dépense tout son argent/(lit.) qui lave ses pieds mais n'essuie pas/
@@ -12227,7 +12228,7 @@
 洗身 洗身 [xi3 shen1] {sai2 san1} /se doucher; prendre une douche/se baigner; prendre un bain/se laver/
 洗身房 洗身房 [xi3 shen1 fang2] {sai2 san1 fong4} /salle de bain/
 洗錢 洗钱 [xi3 qian2] {sai2 cin2} /dépenser de l'argent/dépenser trop d'argent; dépenser tout son argent; jeter de l'argent par les fenêtres/blanchir de l'argent/
-????f 洗面梘 洗面枧 [xi3 mian4 jian3] {sai2 min6 gaan2} /savon visage; nettoyant pour le visage/
+洗面梘 洗面枧 [xi3 mian4 jian3] {sai2 min6 gaan2} /savon visage; nettoyant pour le visage/
 洗頭 洗头 [xi3 tou2] {sai2 tau4} /se laver les cheveux/
 洗頭水 洗头水 [xi3 tou2 shui3] {sai2 tau4 seoi2} /shampooing/
 洗髮 洗发 [xi3 fa4] {sai2 faat3} /se laver les cheveux/
@@ -12235,36 +12236,36 @@
 洛克 洛克 [luo4 ke4] {lok3 hak1} /John Locke, philosophe anglais/
 洛溪站 洛溪站 [luo4 xi1 zhan4] {lok3 kai1 zaam6} /Luoxi Station, station du métro de Canton/
 洞徹 洞彻 [dong4 che4] {dung6 cit3} /être très perspicace/
-????f 津校 津校 [jin1 xiao4] {zeon1 haau6} /école subventionnée par le gouvernement/
-????f 津津有味 津津有味 [jin1 jin1 you3 wei4] {zeon1 zeon1 jau5 mei6} /(expr.) avec grand plaisir; avec enthousiasme/
-????f 津貼學校 津贴学校 [jin1 tie1 xue2 xiao4] {zeon1 tip3 hok6 haau6} /école subventionnée par le gouvernement/
+津校 津校 [jin1 xiao4] {zeon1 haau6} /école subventionnée par le gouvernement/
+津津有味 津津有味 [jin1 jin1 you3 wei4] {zeon1 zeon1 jau5 mei6} /(expr.) avec grand plaisir; avec enthousiasme/
+津貼學校 津贴学校 [jin1 tie1 xue2 xiao4] {zeon1 tip3 hok6 haau6} /école subventionnée par le gouvernement/
 洩漏 泄漏 [xie4 lou4] {sit3 lau6} /(liquide) fuir/(information) fuiter/
 洩露 泄露 [xie4 lou4] {sit3 lou6} /révéler ou dévoiler (un secret)/(information) fuiter/
 洪 洪 [hong2] {hung4} /(nom de famille chinois)/
 洪金寶 洪金宝 [hong2 jin1 bao3] {hung4 gam1 bou2} /Sammo Hung, artiste martial, acteur, réalisateur, chorégraphe et producteur hongkongais/
-????c 洭 洭 [kuang1] {hong1} /Kuang, the name of a river in Guangdong, China/
+????c 洭 洭 [kuang1] {hong1} /Kuang, rivière à Guangdong/
 洲頭咀 洲头咀 [zhou1 tou2 ju3] {zau1 tau4 zeoi2} /Zhoutouzui, tunnel routier de Canton/
 洶洶 汹汹 [xiong1 xiong1] {hung1 hung1} /agressif; violent/tumultueux; troublé; agité/
-????c 洶涌澎湃 汹涌澎湃 [xiong1 yong3 peng2 pai4] {hung1 jung2 paang4 baai3} /déferlement (des vagues)/(lit.) s'élancer (vers quelque chose)/
-????c 洶湧澎湃 汹涌澎湃 [xiong1 yong3 peng2 pai4] {hung1 jung2 paang4 baai3} /déferlement (des vagues)/(lit.) s'élancer (vers quelque chose)/
+????m 洶涌澎湃 汹涌澎湃 [xiong1 yong3 peng2 pai4] {hung1 jung2 paang4 baai3} /déferlement (des vagues)/(lit.) s'élancer (vers quelque chose)/
+????m 洶湧澎湃 汹涌澎湃 [xiong1 yong3 peng2 pai4] {hung1 jung2 paang4 baai3} /déferlement (des vagues)/(lit.) s'élancer (vers quelque chose)/
 洹水 洹水 [huan2 shui3] {wun4 seoi2} /Huan He; Rivière Huan; rivière d'Anyang; rivière en Chine/
 活動 活动 [huo2 dong4] {wut6 dung6} /activité; évènement/faire de l'exercice/
-????f 活受罪 活受罪 [huo2 shou4 zui4] {wut6 sau6 zeoi6} /(expr.) vivre un enfer/
-????f 活口 活口 [huo2 kou3] {wut6 hau2} /survivant d'une tentative de meurtre/prisionnier qui peut fournir des informations/
+活受罪 活受罪 [huo2 shou4 zui4] {wut6 sau6 zeoi6} /(expr.) vivre un enfer/
+活口 活口 [huo2 kou3] {wut6 hau2} /survivant d'une tentative de meurtre/prisionnier qui peut fournir des informations/
 活水 活水 [huo2 shui3] {wut6 seoi2} /eau courante; eau vive/
 活見鬼 活见鬼 [huo2 jian4 gui3] {wut6 gin3 gwai2} /(expr.) totalement absurde/
 派 派 [pai4] {paai3} /attitude; air/
 派位 派位 [pai4 wei4] {paai3 wai6} /(université, école) choisir qui admettre/
 派信 派信 [pai4 xin4] {paai3 seon3} /livrer le courier/
-????f 派司 派司 [pa1 si5] {paai3 si1} /laissez-passer; document ou carte donnant accès à quelque chose/réussir (un examen, une épreuve, etc.)/
-????f 派報紙 派报纸 [pai4 bao4 zhi3] {paai3 bou3 zi2} /livrer les journaux/????(fig.) (vulg.) éjaculer prématurément; éjaculer trop rapidement/
+派司 派司 [pa1 si5] {paai3 si1} /laissez-passer; document ou carte donnant accès à quelque chose/réussir (un examen, une épreuve, etc.)/
+派報紙 派报纸 [pai4 bao4 zhi3] {paai3 bou3 zi2} /livrer les journaux/(fig.) (vulg.) éjaculer prématurément; éjaculer trop rapidement/
 派士砵 派士砵 [pai4 shi4 bo1] {paa1 si2 but3} /passport/(orig.) de l'anglais « passport » (« passeport »)/
-????f 派彩 派彩 [pai4 cai3] {paai3 coi2} /distribuer les gains d'un billet de loterie gagnant ou d'une mise gagnante/
-????c 派籌 派筹 [pai4 chou2] {paai3 cau2} /to hand out queue tickets; quota allocation, especially for assigning a pupil a place in a school/
+派彩 派彩 [pai4 cai3] {paai3 coi2} /distribuer les gains d'un billet de loterie gagnant ou d'une mise gagnante/
+派籌 派筹 [pai4 chou2] {paai3 cau2} /(dans une file d'attente) donner un numéro/
 派米 派米 [pai4 mi3] {paai3 mai5} /distribuer du riz/
-????f 派糖 派糖 [pai4 tang2] {paai3 tong2} /donner des bonbons/(fig.) donner de l'aide sociale/
+派糖 派糖 [pai4 tang2] {paai3 tong2} /donner des bonbons/(fig.) donner de l'aide sociale/
 派街坊 派街坊 [pai4 jie1 fang5] {paai3 gaai1 fong1} /donner généreusement/faire un don d'un article d'occasion/
-????f 派遣 派遣 [pai4 qian3] {paai3 hin2} /envoyer; dépêcher (une équipe)/
+派遣 派遣 [pai4 qian3] {paai3 hin2} /envoyer; dépêcher (une équipe)/
 派頭 派头 [pai4 tou2] {paai1 tau4} /apparence; style; manières/
 流 流 [liu2] {lau4} /contrefaçon; faux/inférieur; de mauvaise qualité/
 流動電話 流动电话 [liu2 dong4 dian4 hua4] {lau4 dung6 din6 waa2} /téléphone mobile; céllulaire; téléphone portable/
@@ -12272,13 +12273,13 @@
 流嘢 流嘢 [liu2 ye3] {lau4 je5} /contrefaçon; faux/camelote; produit de mauvaise qualité/
 流料 流料 [liu2 liao4] {lau4 liu2} /fausse information/
 流水線 流水线 [liu2 shui3 xian4] {lau4 seoi2 sin3} /chaîne de montage/(informatique) pipeline; chaîne de traitement/
-????f 流沙包 流沙包 [liu2 sha1 bao1] {lau4 saa1 baau1} /pain farci d'une crème sucrée à base d’œuf et de beurre/
+流沙包 流沙包 [liu2 sha1 bao1] {lau4 saa1 baau1} /brioche farcie d'une crème sucrée à base d’œuf et de beurre/
 流流 流流 [liu2 liu2] {lau4 lau4} /pendant; lors de/
 流流長  流流长 [liu2 liu2 chang2] {lau4 lau4 coeng4} /très longtemps; longue période de temps/
 流浪 流浪 [liu2 lang4] {lau4 long6} /vagabonder/(animal) errant; perdu/
 流浮山 流浮山 [liu2 fu2 shan1] {lau4 fau4 saan1} /Lau Fau Shan, région de Hong Kong/
 流花路 流花路 [liu2 hua1 lu4] {lau4 faa3 lou6} /Liuhua Lu, rue de Canton en Chine/
-????c 流血 流血 [liu2 xue4] {lau4 hyut3} /dépenser beaucoup d'argent/
+????m 流血 流血 [liu2 xue4] {lau4 hyut3} /dépenser beaucoup d'argent/
 流行 流行 [liu2 xing2] {lau4 hang4} /à la mode; tendance/(nom commun) tendance/
 流行曲 流行曲 [liu2 xing2 qu3] {lau4 hang4 kuk1} /musique pop/
 流行榜 流行榜 [liu2 xing2 bang3] {lau4 hang4 bong2} /classement musical; classement de chansons populaires (ex. Billboard Top 100 (É.U.), Top 50 (France))/
@@ -12287,17 +12288,17 @@
 流離浪蕩 流离浪荡 [liu2 li2 lang3 dang4] {lau4 lei4 long5 dong6} /(expr.) flâner; errer; musarder/(expr.) vagabonder/
 流馬尿 流马尿 [liu2 ma3 niao4] {lau4 maa5 niu6} /(fig.) pleurer/(lit.) un cheval qui urine/
 流鼻水 流鼻水 [liu2 bi2 shui3] {lau4 bei6 seoi2} /(nez) couler; avoir un nez qui coule/
-????f 浙醋 浙醋 [zhe4 cu4] {zit3 cou3} /vinaigre de Zhejiang; vinaigre Chinkiang/
+浙醋 浙醋 [zhe4 cu4] {zit3 cou3} /vinaigre de Zhejiang; vinaigre Chinkiang/
 浩園 浩园 [hao4 yuan2] {hou6 jyun4} /Gallant Garden, cimetière publique de Hong Kong/
 浪漫 浪漫 [lang4 man4] {long6 maan6} /romantique/
 浮光掠影 浮光掠影 [fu2 guang1 lu:e4 ying3] {fau4 gwong1 loek6 jing2} /(fig.) rapide; hâtif/(fig.) superficiel/(lit.) lumière vacillante et seulement un aperçu/
 浮動匯率 浮动汇率 [fu2 dong4 hui4 lu:4] {fau4 dung6 wui6 leot2} /(finance) taux de change flottant)/
-????c 浮動工資 浮动工资 [fu2 dong4 gong1 zi1] {fau4 dung6 gung1 zi1} /rénumération fluctuante/
+????f 浮動工資 浮动工资 [fu2 dong4 gong1 zi1] {fau4 dung6 gung1 zi1} /rénumération fluctuante; salaire qui change en fonction de la quantité de travail effectuée/
 浮板 浮板 [fu2 ban3] {fau4 baan2} /planche de natation/
 浮生 浮生 [fu2 sheng1] {fau4 sang1} /(plantes) pousser dans l'eau; flotter sur l'eau/(fig.) vie éphémère; vie passagère/
 浮蕩 浮荡 [fu2 dang4] {fau4 dong6} /flotter au vent/flotter sur l'eau/
 浮薸 浮薸 [fu2 piao1] {fau4 piu1} /(espèce de plantes) lentille d'eau; lentille-d'eau; lenticule; Lemna minor/
-????c 海上無魚蝦自大 海上无鱼虾自大 [hai3 shang4 wu2 yu2 xia1 zi4 da4] {hoi2 soeng6 mou4 jyu4 haa1 zi6 daai6} /'in the kingdom of the blind, the one-eyed man is king'; a person who does thinks they are better than they actually are/
+????f 海上無魚蝦自大 海上无鱼虾自大 [hai3 shang4 wu2 yu2 xia1 zi4 da4] {hoi2 soeng6 mou4 jyu4 haa1 zi6 daai6} /(expr. idiom.) être remarquable seulement parce qu'il existe très peu de compétition/
 海下 海下 [hai3 xia4] {hoi2 haa6} /Hoi Ha, village de Hong Kong/
 海下灣 海下湾 [hai3 xia4 wan1] {hoi2 haa6 waan1} /Hoi Ha Wan ou « Jone's Cove » (« Anse de Jone »), une baie de Hong Kong/
 海傍 海傍 [hai3 bang4] {hoi2 bong6} /berge; rive; bord de la mer; bord de l'eau/
@@ -12306,7 +12307,7 @@
 海南航空 海南航空 [Hai3 nan2 hang2 kong1] {hoi2 naam4 hong4 hung1} /Hainan Airlines, compagnie aérienne de la province de Hainan en Chine/
 海南雞飯 海南鸡饭 [Hai3 nan2 ji1 fan4] {hoi2 naam4 gai1 faan6} /riz au poulet hainanais/
 海口 海口 [hai3 kou3] {hoi2 hau2} /Haikou, capitale de la province chinoise de Hainan/
-????f 海味 海味 [hai3 wei4] {hoi2 mei2} /fruits de mer séchés/
+海味 海味 [hai3 wei4] {hoi2 mei2} /fruits de mer/(en particulier) fruits de mer séchés/
 海外僑胞 海外侨胞 [hai3 wai4 qiao2 bao1] {hoi2 ngoi6 kiu4 baau1} /Chinois d'outre-mer; Chinois expatriés/
 海富中心 海富中心 [hai3 fu4 zhong1 xin1] {hoi2 fu3 zung1 sam1} /Admiralty Centre, immeuble de bureaux situé à Hong Kong/
 海峽兩岸 海峡两岸 [hai3 xia2 liang3 an4] {hoi2 haap6 loeng5 ngon6} /inter-détroit (république populaire de Chine et Taïwan)/
@@ -12319,7 +12320,7 @@
 海棠 海棠 [hai3 tang2] {hoi2 tong4} /(espèce d'arbres) cognassier du Japon; Malus spectabilis/
 海水魚 海水鱼 [hai3 shui3 yu2] {hoi2 seoi2 jyu4} /poisson de mer/
 海洋公園 海洋公园 [hai3 yang2 gong1 yuan2] {hoi2 joeng4 gung1 jyun4} /Ocean Park Hong Kong, parc de loisirs situé à Hong Kong/
-????f 海涵 海涵 [hai3 han2] {hoi2 haam4} /(formule de politesse) pardonnez nos défauts/
+海涵 海涵 [hai3 han2] {hoi2 haam4} /(formule de politesse) pardonnez nos défauts/
 海港城 海港城 [hai3 gang3 cheng2] {hoi2 gong2 sing4} /Harbour City, centre d'achats situé à Hong Kong/
 海灣大橋 海湾大桥 [hai3 wan1 da4 qiao2] {hoi2 waan1 daai6 kiu4} /pont San Francisco à Oakland ou Bay Bridge, pont reliant San Francisco à Oakland qui traverse la baie de San Francisco/
 海灣航空公司 海湾航空公司 [hai3 wan1 hang2 kong1 gong1 si1] {hoi2 waan1 hong4 hung1 gung1 si1} /Gulf Air, compagnie aérienne nationale de Bahreïn/
@@ -12329,32 +12330,32 @@
 海皮 海皮 [hai3 pi2] {hoi2 pei4} /côte; rivage; bord de mer/
 海芒果 海芒果 [hai3 mang2 guo3] {hoi2 mong1 gwo2} /(espèce d'arbres) Cerberus manghas; faux manguier/
 海菜 海菜 [hai3 cai4] {hoi2 coi3} /goémon; algue comestible/
-????f 海葬 海葬 [hai3 zang4] {hoi2 zong3} /obsèques en mer; enterrement en mer/sépulture en mer/
+海葬 海葬 [hai3 zang4] {hoi2 zong3} /obsèques en mer; enterrement en mer/sépulture en mer/
 海蛇 海蛇 [hai3 she2] {hoi2 se4} /serpent de mer; serpent marin/
 海路 海路 [hai3 lu4] {hoi2 lou6} /route maritime/
 海逸酒店 海逸酒店 [hai3 yi4 jiu3 dian4] {hoi2 jat6 zau2 dim3} /Harbour Plaza, hôtel situé à Hong Kong/
 海運大廈 海运大厦 [hai3 yun4 da4 sha4] {hoi2 wan6 daai6 haa6} /Ocean Terminal, terminal de ferry et centre d'achats situé à Hong Kong/
 海邊 海边 [hai3 bian1] {hoi2 bin1} /côtier; littoral/bord de mer; bord de l'eau/
 海金沙 海金沙 [hai3 jin1 sha1] {hoi2 gam1 saa1} /Lygodium japonicum; fougère grimpante du Japon; espèce de fougère originaire de l'Asie de l'Est/
-????c 海鏡 海镜 [hai3 jing4] {hoi2 geng3} /espèce de mollusque avec un coquillage translucide/
+海鏡 海镜 [hai3 jing4] {hoi2 geng3} /Amusium pleuronectes, espèce de mollusque avec un coquillage translucide/
 海關人員 海关人员 [hai3 guan1 ren2 yuan2] {hoi2 gwaan1 jan4 jyun4} /agent des douanes/
 海關檢查 海关检查 [hai3 guan1 jian3 cha2] {hoi2 gwaan1 gim2 caa4} /contrôle douanier/
 海鮮價 海鲜价 [hai3 xian1 jia4] {hoi2 sin1 gaa3} /(fig.) prix variable; prix fluctuant/(lit.) prix des fruits de mer/
-????f 海鮮舫 海鲜舫 [hai3 xian1 fang3] {hoi2 sin1 fong2} /restaurant de fruits de mer flottant/
+海鮮舫 海鲜舫 [hai3 xian1 fang3] {hoi2 sin1 fong2} /bateau-restaurant de fruits de mer/
 海鮮酒家 海鲜酒家 [hai3 xian1 jiu3 jia1] {hoi2 sin1 zau2 gaa1} /restaurant de fruits de mer/
 浸 浸 [jin4] {zam3} /noyer/inonder/inondation/
 浸大 浸大 [jin4 da4] {zam3 daai6} /Hong Kong Baptist University (« université baptiste de Hong Kong »), université d'héritage chrétien à Hong Kong/
 浸會醫院 浸会医院 [jin4 hui4 yi1 yuan4] {zam3 wui2 ji1 jyun2} /Hong Kong Baptist Hospital, hôpital de Hong Kong/
 浸死 浸死 [jin4 si3] {zam3 sei2} /noyer/
 浸水 浸水 [jin4 shui3] {zam3 seoi2} /immerger (dans l'eau)/
-????f 浸溫泉 浸温泉 [jin4 wen1 quan2] {zam3 wan1 cyun4} /se détendre dans une source d'eau chaude/
+浸溫泉 浸温泉 [jin4 wen1 quan2] {zam3 wan1 cyun4} /se détendre dans une source d'eau chaude; faire une cure thermale/
 浸禮 浸礼 [jin4 li3] {zam3 lai5} /baptême/
-????f 浸豬籠 浸猪笼 [jin4 zhu1 long2] {zam3 zyu1 lung4} /supplice pratiqué en Chine antique pour punir les hommes adultères, consistant à les forcer à l'intérieur d'une cage pour cochons, puis immerger la cage dans l'eau pour noyer l'homme/
-????f 浸鹹水 浸咸水 [jin4 xian2 shui3] {zam3 haam4 seoi2} /(fig.) étudier à l'étranger/(lit.) s'immerger dans de l'eau salée/
+浸豬籠 浸猪笼 [jin4 zhu1 long2] {zam3 zyu1 lung4} /supplice pratiqué en Chine antique pour punir les hommes adultères, consistant à les forcer à l'intérieur d'une cage pour cochons, puis immerger la cage dans l'eau pour noyer l'homme/
+浸鹹水 浸咸水 [jin4 xian2 shui3] {zam3 haam4 seoi2} /(fig.) étudier à l'étranger/(lit.) s'immerger dans de l'eau salée/
 涂謹申 涂谨申 [tu2 jin3 shen1] {tou4 gan2 san1} /James To Kun-sun, homme politique hongkongais/
 消化作用 消化作用 [xiao1 hua4 zuo4 yong4] {siu1 faa3 zok3 jung6} /digestion/
 消失 消失 [xiao1 shi1] {siu1 sat1} /disparaître/
-????f 消毒碗櫃 消毒碗柜 [xiao1 du2 wan3 gui4] {siu1 duk6 wun2 gwai6} /placard de désinfection, appareil ménager qui sert à désinfecter des bols et ustensils/
+消毒碗櫃 消毒碗柜 [xiao1 du2 wan3 gui4] {siu1 duk6 wun2 gwai6} /placard de désinfection, appareil ménager qui sert à désinfecter des bols et ustensils/
 消滅 消灭 [xiao1 mie4] {siu1 mit6} /éliminer/s'éteindre; périr/
 消滯 消滞 [xiao1 zhi4] {siu1 zai6} /faciliter la digestion/
 消食 消食 [xiao1 shi2] {siu1 sik6} /faciliter la digestion/
@@ -12362,59 +12363,59 @@
 消耗 消耗 [xiao1 hao4] {siu1 hou3} /consommer/dépenser (de l'argent)/passer (du temps)/brûler (des calories)/
 消費 消费 [xiao1 fei4] {siu1 fai3} /consommation; dépenses/dépenser/
 消費者委員會 消费者委员会 [xiao1 fei4 zhe3 wei3 yuan2 hui4] {siu1 fai3 ze2 wai2 jyun4 wui2} /Consumer Council, organisme gouvernemental de défense des consommateurs de Hong Kong/
-????f 消閑 消闲 [xiao1 xian2] {siu1 haan4} /(adj.) pour passer le temps; de loisir/
+消閑 消闲 [xiao1 xian2] {siu1 haan4} /(adj.) pour passer le temps; de loisir/
 消防喉 消防喉 [xiao1 fang2 hou2] {siu1 fong4 hau4} /tuyau d'incendie; boyeau d'incendie; manche d'incendie/
 消防喉轆 消防喉辘 [xiao1 fang2 hou2 lu4] {siu1 fong4 hau4 luk1} /tuyau d'incendie; boyeau d'incendie; manche d'incendie/
 消防站 消防站 [xiao1 fang2 zhan4] {siu1 fong4 zaam6} /caserne de pompiers/
 消防處 消防处 [xiao1 fang2 chu4] {siu1 fong4 cyu3} /Service de sécurité incendie/(en particulier) le Service de sécurité incendie de Hong Kong/
 消除 消除 [xiao1 chu2] {siu1 ceoi4} /(informatique) supprimer/éliminer; se débarasser/
-????f 消暑 消暑 [xiao1 shu3] {siu1 syu2} /to cool down on a summer's day/
-????f 涉外經濟 涉外经济 [she4 wai4 jing1 ji4] {sip3 ngoi6 ging1 zai3} /entreprise qui ont un lien avec l'étranger/
+消暑 消暑 [xiao1 shu3] {siu1 syu2} /se rafraîchir (pour supporter la chaleur)/
+涉外經濟 涉外经济 [she4 wai4 jing1 ji4] {sip3 ngoi6 ging1 zai3} /entreprise qui ont un lien avec l'étranger/
 涌出 涌出 [yong3 chu1] {jung2 ceot1} /épancher; jaillir/
 涔涔 涔涔 [cen2 cen2] {sam4 sam4} /tomber goutte à goutte/couler; suinter; exsuder/
 ????c 涯際 涯际 [ya2 ji4] {ngaai4 zai3} /bord; limite/
 液泡 液泡 [ye4 pao4] {jik6 pou5} /vacuole/
 液體燃料 液体燃料 [ye4 ti3 ran2 liao4] {jik6 tai2 jin4 liu2} /combustible liquide; carburant liquide/
-????f 涸喉 涸喉 [he2 hou2] {kok3 hau4} /(nourriture) qui assèche la gorge/
+涸喉 涸喉 [he2 hou2] {kok3 hau4} /(nourriture) qui assèche la gorge/
 涼 凉 [liang2] {loeng4} /refroidir/
-????f 涼亭 凉亭 [liang2 ting2] {loeng4 ting2} /gazebo; belvédère; pavillon à l'extérieur ouvert/
-????f 涼果 凉果 [liang2 guo3] {loeng4 gwo2} /fruits séchés/fruits marinés/
-????f 涼氣 凉气 [liang2 qi4] {loeng4 hei3} /(médecine traditionelle chinoise) (nourriture) qui refroidit; qui met au frais/air froid/
+涼亭 凉亭 [liang2 ting2] {loeng4 ting2} /gazebo; belvédère; pavillon à l'extérieur ouvert/
+涼果 凉果 [liang2 guo3] {loeng4 gwo2} /fruits séchés/fruits marinés/
+涼氣 凉气 [liang2 qi4] {loeng4 hei3} /(médecine traditionelle chinoise) (nourriture) qui refroidit; qui met au frais/air froid/
 涼浸浸 凉浸浸 [liang2 jin4 jin4] {loeng4 zam3 zam3} /frais; froid/
 涼瓜 涼瓜 [liang2 gua1] {loeng4 gwaa1} /margose; melon amer; momordique; Momordica charantia/
 涼茶舖 凉茶舖 [liang2 cha2 pu4] {loeng4 caa4 pou2} /boutique de tisane/
 涼茶鋪 凉茶铺 [liang2 cha2 pu4] {loeng4 caa4 pou2} /boutique de tisane/
 淆底 淆底 [xiao2 di3] {ngaau4 dai2} /froussard; peureux/
-????f 淋善 淋善 [lin2 shan4] {lam4 sin6} /confiant; qui a bon coeur; trop gentil (so kind as to be taken advantage of)/
-????c 淋淋瀋瀋 淋淋沈沈 [lin2 lin2 shen3 shen3] {lam4 lam4 sam2 sam2} /n'importe quoi/affaires sans importance; affaires insignifiantes; vétille; broutille/toutes sortes/
+????f 淋善 淋善 [lin2 shan4] {lam4 sin6} /confiant; qui a bon coeur; trop gentil; tellement gentil que l'on est vulnérable ou facilement exploité/
+淋淋瀋瀋 淋淋沈沈 [lin2 lin2 shen3 shen3] {lam4 lam4 sam2 sam2} /n'importe quoi/affaires sans importance; affaires insignifiantes; vétille; broutille/toutes sortes/
 淋淋聲 淋淋声 [lin2 lin2 sheng1] {lam4 lam2 seng1} /rapidement; vite/
-????c 淋瀋 淋沈 [lin2 shen3] {lam4 sam2} /choses banales; choses triviales; bagatelle/affaires sans importance; affaires insignifiantes; vétille; broutille/
-????f 淋灕盡致 淋漓尽致 [lin2 li2 jin4 zhi4] {lam4 lei4 zeon6 zi3} /exprimer de façon frappante; expliquer de manière très détaillée; expliquer très clairement/
+淋瀋 淋沈 [lin2 shen3] {lam4 sam2} /choses banales; choses triviales; bagatelle/affaires sans importance; affaires insignifiantes; vétille; broutille/(voir aussi 林沈|林沉)/
+淋灕盡致 淋漓尽致 [lin2 li2 jin4 zhi4] {lam4 lei4 zeon6 zi3} /exprimer de façon frappante; expliquer de manière très détaillée; expliquer très clairement/
 淋花 淋花 [lin2 hua1] {lam4 faa1} /arroser les plantes; arroser les fleurs/
 淒慘 淒惨 [qi1 can3] {cai1 caam2} /misérable; tragique; triste/
 淒涼 凄凉 [qi1 liang2] {cai1 loeng4} /misérable; triste/
 淒清 凄清 [qi1 qing1] {cai1 cing1} /misérable; triste/
-????f 淘古井 淘古井 [tao2 gu3 jing3] {tou4 gu2 zeng2} /(fam.) (fig.) sortir avec ou se marier avec une vieille veuve pour son argent/(lit.) draguer un vieux puits/
+淘古井 淘古井 [tao2 gu3 jing3] {tou4 gu2 zeng2} /(fam.) (fig.) sortir avec ou se marier avec une vieille veuve pour son argent/(lit.) draguer un vieux puits/
 淚眼 泪眼 [lei4 yan3] {leoi6 ngaan5} /yeux larmoyants; yeux lacrymaux/
-????f 淝低 淝低 [fei2 di1] {fe4 dai1} /tirer (une arme à feu)/abattre (avec une arme à feu)/
-????f 淡出 淡出 [dan4 chu1] {daam6 ceot1} /s'estomper (de nos mémoires)/(cinéma) fondu de fermeture; fondu vers le noir/se retirer de la politique/arrêter le cinéma/
+淝低 淝低 [fei2 di1] {fe4 dai1} /tirer (une arme à feu)/abattre (avec une arme à feu)/
+淡出 淡出 [dan4 chu1] {daam6 ceot1} /s'estomper (de nos mémoires)/(cinéma) fondu de fermeture; fondu vers le noir/se retirer (de la politique, d'une carrière, etc.)/
 淡口 淡口 [dan4 kou3] {taam5 hau2} /sans goût; sans saveur/
 淡奶 淡奶 [dan4 nai3] {taam5 naai5} /lait évaporé/
 淡市 淡市 [dan4 shi4] {daam6 si5} /(affaires) tourner au ralenti/
-????f 淡月 淡月 [dan4 yue4] {daam6 jyut6} /un mois où les affaires tournent au ralenti/
+淡月 淡月 [dan4 yue4] {daam6 jyut6} /un mois où les affaires tournent au ralenti/
 淡水 淡水 [dan4 shui3] {taam5 seoi2} /Tamsui, district de la ville de Nouveau Taipei à Taïwan/Danshui, ville de Guangdong en Chine/
 淡汗 淡汗 [dan4 han4] {taam5 hon6} /sudation excessive/
 淡滅滅 淡灭灭 [dan4 mie4 mie4] {taam5 mit6 mit6} /fade; sans goût/
 淡茂茂 淡茂茂 [dan4 mao4 mao4] {taam5 mau6 mau6} /fade; sans goût/
-????f 淡菜 淡菜 [dan4 cai4] {daam6 coi3} /dried mussel/
-????f 淡過水鬼尿 淡过水鬼尿 [dan2 gwo4 shui3 gui3 niao4] {taam5 gwo3 seoi2 gwai2 niu6} /(expr. idiom.) (soupe, bière, café, autre boisson) trop liquide; trop léger; fade/(lit.) plus fade que l'urine d'un fantôme d'eau/
+淡菜 淡菜 [dan4 cai4] {daam6 coi3} /moule séchée/
+淡過水鬼尿 淡过水鬼尿 [dan2 gwo4 shui3 gui3 niao4] {taam5 gwo3 seoi2 gwai2 niu6} /(expr. idiom.) (soupe, bière, café, autre boisson) trop liquide; trop léger; fade/(lit.) plus fade que l'urine d'un fantôme d'eau/
 淥 渌 [lu4] {luk6} /faire cuire à eau/(cuisine) blanchir/ébouillanter; brûler/
-????f 淥親 渌亲 [lu4 qin1] {luk6 can1} /ébouillanter; brûler/
+淥親 渌亲 [lu4 qin1] {luk6 can1} /être ébouillanté; être brûlé/
 淨係 淨系 [cheng2 xi4] {zing6 hai6} /seulement; simplement/
 淨麵 淨面 [cheng2 mian4] {zing6 min6} /nouilles nature; nouilles sans sauce/
 淨含量 净含量 [jing4 han2 liang4] {zing6 ham4 loeng6} /poids net/
-????f 淫賊 淫贼 [yin2 zei2] {jam4 caak6} /(sexualité) pervers/
-????c 淬礪 淬砺 [cui4 li4] {ceoi3 lai6} /to work hard and with stamina/
+淫賊 淫贼 [yin2 zei2] {jam4 caak6} /(sexualité) pervers/(en particulier) pervers qui commet un vol/
+????m 淬礪 淬砺 [cui4 li4] {ceoi3 lai6} /travailler fort/(litt.) se fortifier à travers de rudes épreuves/
 淮鹽 淮盐 [huai2 yan2] {waai4 jim4} /sel de table de la rivière Huai, souvent mélangé avec les cinq épices (五香粉|五香粉)/
 深 深 [shen1] {sam1} /profondeur/complexe; difficile/(abréviation) Shenzhen/
 深仇大恨 深仇大恨 [shen1 chou2 da4 hen4] {sam1 sau4 daai6 han6} /haine profonde/
@@ -12424,20 +12425,20 @@
 深刻 深刻 [shen1 ke4] {sam1 hak1} /inoubliable/impressionant/
 深呼吸 深呼吸 [shen1 hu1 xi1] {sam1 fu1 kap1} /respiration profonde/
 深圳經濟特區 深圳经济特区 [Shen1 zhen4 jing1 ji4 te4 qu1] {sam1 zan3 ging1 zai3 dak6 keoi1} /zone économique spéciale de Shenzhen/
-????f 深居簡出 深居简出 [shen1 ju1 jian3 chu1] {sam1 geoi1 gaan2 ceot1} /(expr. idiom.) vivre en retrait; vivre en reclus/
+深居簡出 深居简出 [shen1 ju1 jian3 chu1] {sam1 geoi1 gaan2 ceot1} /(expr. idiom.) vivre en retrait; vivre en reclus/
 深有同感 深有同感 [shen1 you3 tong2 gan3] {sam1 jau5 tung4 gam2} /(expr.) compatir avec/(lit.) se sentir le même au profond/
 深水 深水 [shen1 shui3] {sam1 seoi2} /eaux profondes/
 深水埗區 深水埗区 [shen1 shui3 bu4 qu1] {sam1 seoi2 bou2 keoi1} /Sham Shui Po, l'un des dix-huit districts de Hong Kong/
 深水灣 深水湾 [shen1 shui3 wan1] {sam1 seoi2 waan1} /Deep Water Bay (« baie des eaux profondes »), quartier résidentiel de Hong Kong/
 深灰 深灰 [shen1 hui1] {sam1 fui1} /gris foncé/
-????c 深省 深省 [shen1 xing3] {sam1 sing2} /enlighten; to reflect upon/wake up to a sharp awareness of the truth/
-????f 深睛凸額 深睛凸额 [shen1 jing1 tu2 e2] {sam1 zing1 dat6 ngaak6} /(fig.) (inj.) laid/(lit.) yeux enfoncés et front bombé/
+深省 深省 [shen1 xing3] {sam1 sing2} /comprendre soudain après une longue période de réflexion/
+深睛凸額 深睛凸额 [shen1 jing1 tu2 e2] {sam1 zing1 dat6 ngaak6} /(expr. idiom.) (inj.) laid/(lit.) yeux enfoncés et front bombé/
 深筆字 深笔字 [shen1 bi3 zi4] {sam1 bat1 zi6} /caractère chinois traditionnel/
 深紅 深红 [shen1 hong2] {sam1 hung4} /rouge foncé; cramoisi/
 深藍色 深蓝色 [shen1 lan2 se4] {sam1 laam4 sik1} /bleu foncé/bleu marin/
-????c 深藏不露 深藏不露 [shen1 cang2 bu4 lu4] {sam1 cong4 bat1 lou6} /(expr.) cacher ses talents; ne pas se vanter ou fanfaronner/(lit.) cacher profondément et ne pas montrer/
+深藏不露 深藏不露 [shen1 cang2 bu4 lu4] {sam1 cong4 bat1 lou6} /(expr.) cacher ses talents; ne pas se vanter ou fanfaronner/(lit.) cacher profondément et ne pas montrer/
 深衣 深衣 [shen1 yi1] {sam1 ji1} /Shenyi, vêtement traditionnel pour hommes de la Chine ancienne/
-????f 深造 深造 [shen1 zao4] {sam1 cou3} /poursuivre des études; poursuivre des études avancées; continuer ses études/
+深造 深造 [shen1 zao4] {sam1 cou3} /poursuivre des études; poursuivre des études avancées; continuer ses études/
 淵源 渊源 [yuan1 yuan2] {jyun1 jyun4} /origine; source/
 淵痛 渊痛 [yuan1 tong4] {jyun1 tung3} /douloureux; courbaturé; faire mal/
 混亂 混乱 [hun4 luan4] {wan6 lyun6} /désordre; chaos/en désordre; chaotique/
@@ -12447,7 +12448,7 @@
 混沌 混沌 [hun4 dun4] {wan6 deon6} /chaos primordial/confus; embrouillé; stupide; idiot/simple d'esprit; innocent/
 混頻器 混频器 [hun4 pin2 qi4] {wan6 pan4 hei3} /(électronique) mélangeur, circuit permettant de combiner plusieurs signaux/
 混鬧 混闹 [hun4 nao4] {wan6 naau6} /en faire un pataquès; faire toute un histoire/
-????f 混水摸魚 混水摸鱼 [hun2 shui3 mo1 yu2] {wan6 seoi2 mo2 jyu4} /(expr. idiom.) profiter d'une situation confuse; pêcher en eau trouble/
+混水摸魚 混水摸鱼 [hun2 shui3 mo1 yu2] {wan6 seoi2 mo2 jyu4} /(expr. idiom.) profiter d'une situation confuse; pêcher en eau trouble/
 淹尖 淹尖 [yan1 jian1] {jim1 zim1} /exigeant; pointilleux/
 淺 浅 [qian3] {cin2} /peu profond/facile; simple/
 淺斟低唱 浅斟低唱 [qian3 zhen1 di1 chang4] {cin2 zam1 dai1 coeng3} /(expr. idiom.) se détendre de manière sophistiquée/(lit.) siroter du vin et chanter doucement/
@@ -12459,19 +12460,19 @@
 添 添 [tian1] {tim1} /plus/aussi/(particule pour souligner un affirmation)/
 添枝加葉 添枝加叶 [tian1 zhi1 jia1 ye4] {tim1 zi1 gaa1 jip6} /(expr. idiom.) enjoliver une histoire; ajouter des détails; embellir une histoire/(lit.) ajouter des branches et des feuilles/
 添補 添补 [tian1 bu5] {tim1 bou2} /remplir à nouveau/
-????f 添食 添食 [tian1 shi2] {tim1 sik6} /(vieilli) remplir à nouveau son bol à riz/(fig.) ajouter plus de nourriture au bol à nourriture d'un animal de compagnie/(fig.) faire quelque chose à nouveau/(fig.) refaire quelque chose depuis le début/(fig.) tourner plus d'épisodes pour une série télévisée; tourner plus de films dans une série/(fig.) répéter une série d'actions rentables pour gagner encore plus d'argent/
+添食 添食 [tian1 shi2] {tim1 sik6} /(vieilli) remplir à nouveau son bol à riz/(fig.) ajouter plus de nourriture au bol à nourriture d'un animal de compagnie/(fig.) faire quelque chose à nouveau/(fig.) refaire quelque chose depuis le début/(fig.) tourner plus d'épisodes pour une série télévisée; tourner plus de films dans une série/(fig.) répéter une série d'actions rentables pour gagner encore plus d'argent/
 添飯 添饭 [tian1 fan4] {tim1 faan6} /deuxième portion de riz/remplir à nouveau son bol à riz; ajouter du riz à son bol/
 添馬 添马 [tian1 ma3] {tim1 maa5} /Tamar, ancienne base navale britannique à Hong Kong/
 添馬艦 添马舰 [tian1 ma3 jian4] {tim1 maa5 laam6} /HMS Tamar, un navire transport de troupes britannique/
 淼茫 淼茫 [miao3 mang2] {miu5 mong4} /flou; indistinct/(espoir) ténu; faible/(avenir) incertain/s'étendre à perte de vue/
 清 清 [qing1] {cing1} /se débarrasser de; éliminer; enlever; retirer/ranger/propre; net/dynastie Qing/
-????f 清一色 清一色 [qing1 yi1 se4] {cing1 jat1 sik1} /main accomplie de mah-jong composée de tuiles d'une suite de tuiles de la même couleur/monochrome/monocorde/
+清一色 清一色 [qing1 yi1 se4] {cing1 jat1 sik1} /main accomplie de mah-jong composée de tuiles d'une suite de tuiles de la même couleur/monochrome/monocorde/
 清么九 清么九 [qing1 yao1 jiu3] {cing1 mo1 gau2} /une des façons de gagner une partie de Mah-jong/
 清亮 清亮 [qing1 liang5] {cing1 loeng6} /clair/illuminé; baigné de lumière/
 清倉 清仓 [qing1 cang1] {cing1 cong1} /liquider son stock; tout vendre/
 清光 清光 [qing1 guang1] {cing1 gwong1} /(après un verbe) ne laissant rien; tout; complètement; entièrement/
 清冷 清冷 [qing1 leng3] {cing1 laang5} /frais; un peu froid/désolé; desert/
-????f 清君側 清君侧 [qing1 jun1 ce4] {cing1 gwan1 zak1} /éliminer les ministres corrupteurs de l'empereur (utilisé comme prétexte de rébellion)/
+清君側 清君侧 [qing1 jun1 ce4] {cing1 gwan1 zak1} /éliminer les ministres corrupteurs de l'empereur (utilisé comme prétexte de rébellion)/
 清吧 清吧 [qing1 ba5] {cing1 baa1} /pub; bar/
 清平 清平 [qing1 ping2] {cing1 ping4} /Cheongpyeong, village en Corée du Sud/Qingping, nom de plusieurs villes et villages en Chine/
 清心 清心 [qing1 xin1] {cing1 sam1} /avoir l'esprit tranquille/avoir un cœur pur/
@@ -12485,18 +12486,18 @@
 清清楚楚 清清楚楚 [qing1 qing5 chu3 chu3] {cing1 cing1 co2 co2} /tout à fait clair; bien expliqué; succinct/
 清清白白 清清白白 [qing1 qing1 bai2 bai2] {cing1 cing1 baak6 baak6} /innocent; pure/honnête; sincère/pas coupable/
 清減 清减 [qing1 jian3] {cing1 gaam2} /perdre du poids; maigrir/
-????f 清湯寡水 清汤寡水 [qing1 tang1 gua3 shui3] {cing1 tong1 gwaa2 seoi2} /(expr.) soupe fade, très liquide/
+清湯寡水 清汤寡水 [qing1 tang1 gua3 shui3] {cing1 tong1 gwaa2 seoi2} /(expr.) soupe fade, très liquide/
 清漆 清漆 [qing1 qi1] {cing1 cat1} /vernis/
-????f 清甜 清甜 [qing1 tian2] {cing1 tim4} /(aliment, en particulier des fruits ou boissons) frais et doux/
+清甜 清甜 [qing1 tian2] {cing1 tim4} /(aliment, en particulier des fruits ou boissons) frais et doux/
 清白 清白 [qing1 bai2] {cing1 baak6} /innocent; pas coupable/
 清真寺 清真寺 [qing1zhen1si4] {cing1 zan1 zi2} /mosquée/(en particulier) Kowloon Masjid and Islamic Centre, l'une des cinq principales mosquées à Hong Kong/
 清真教 清真教 [qing1 zhen1 jiao4] {cing1 zan1 gaau3} /(religion) islam/
 清規戒律 清规戒律 [qing1 gui1 jie4 lu:4] {cing1 kwai1 gaai3 leot6} /tabou; restriction (souvent religieux)/
 清談 清谈 [qing1 tan2] {cing1 taam4} /bavarder/paroles creuses; paroles en l'air/
 清醒 清醒 [qing1 xing3] {cing1 sing2} /lucide; sérieux; sensé; sobre/conscient/
-????c 渙渙 涣涣 [huan4 huan4] {wun6 wun6} /overflowing (from a flood)/
+????m 渙渙 涣涣 [huan4 huan4] {wun6 wun6} /(de l'eau d'une inondation) déborder/
 減實 减实 [jian3 shi2] {gaam2 sat6} /prix final après une ou plusieurs réductions de prix/
-????f 減租減息 减租减息 [jian3 zu1 jian3 xi1] {gaam2 zou1 gaam2 sik1} /réduire le loyer et réduire le taux d'intérêt (généralement associé avec la politique du Parti communiste chinois)/
+減租減息 减租减息 [jian3 zu1 jian3 xi1] {gaam2 zou1 gaam2 sik1} /(expr.) réduire le loyer et réduire le taux d'intérêt (généralement associé avec la politique du Parti communiste chinois)/
 減筆字 减笔字 [jian3 bi3 zi4] {gaam2 bat1 zi6} /caractères chinois simplifiés/
 減肥 减肥 [jian3 fei2] {gaam2 fei4} /perdre du poids/être sur un régime alimentaire/
 減輕 减轻 [jian3 qing1] {gaam2 heng1} /alléger; soulager; réduire/
