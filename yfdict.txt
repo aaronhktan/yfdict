@@ -14018,7 +14018,7 @@
 用費 用费 [yong4 fei4] {jung6 fai3} /dépenses; frais/
 用途 用途 [yong4 tu2] {jung6 tou4} /usage; fonction/
 甩 甩 [shuai3] {lat1} /ôter; se débarasser de/tomber/séparer/disloquer/rater (une date limite)/se démettre; se luxer (un os)/
-????f 甩嘴 甩嘴 [shuai3 zui3] {lat1 zeoi2} /oublier les paroles d'une chanson/être incapable de garder le rhythme (d'une chanson)/lip sync fail/
+甩嘴 甩嘴 [shuai3 zui3] {lat1 zeoi2} /oublier les paroles d'une chanson/être incapable de garder le rhythme (d'une chanson)/
 甩底 甩底 [shuai3 di3] {lat1 dai2} /(fig.) poser un lapin (à quelqu'un); faire faux bond (à quelqu'un)/(fig.) rompre une promesse/(fig.) gâcher/(lit.) perdre le fond (d'une boîte)/
 甩拖 甩拖 [shuai3 tuo1] {lat1 to1} /rompre une relation amoureuse; casser/
 甩期 甩期 [shuai3 ji1] {lat1 kei4} /être en retard/dépasser la date limite; ne pas respecter le délai/
@@ -14028,8 +14028,8 @@
 甩繩馬騮 甩绳马骝 [shuai3 sheng2 ma3 liu2] {lat1 sing2 maa1 lau1} /(expr. idiom.) enfant hors contrôle/(lit.) singe sans laisse/
 甩肺 甩肺 [shuai3 fei4] {lat1 fai3} /(fig.) très grave/(lit.) poumouns qui tombent/
 甩色 甩色 [shuai3 se4] {lat1 sik1} /déteindre; perdre sa couleur/
-????f 甩褲 甩裤 [shuai3 ku4] {lat1 fu3} /(fig.) être complètement humilié/(lit.) avoir des pantalons qui tombent/
-????f 甩身 甩身 [shuai3 shen1] {lat1 san1} /(fig.) rompre une relation toxique/(fig.) s'échapper (à un mariage, un emploi, etc.)/(fig.) se sortir d'une mauvaise situation/(fig.) se tirer d'affaire/(lit.) tomber de son corps/
+????m 甩褲 甩裤 [shuai3 ku4] {lat1 fu3} /(fig.) être complètement humilié/(fig.) perdre tout son argent/(lit.) avoir des pantalons qui tombent/
+甩身 甩身 [shuai3 shen1] {lat1 san1} /(fig.) rompre une relation toxique/(fig.) s'échapper (à un mariage, un emploi, etc.)/(fig.) se sortir d'une mauvaise situation/(fig.) se tirer d'affaire/(lit.) tomber de son corps/
 甩難 甩难 [shuai3 nan2] {lat1 naan6} /(fig.) se sortir d'une mauvaise situation/(fig.) se tirer d'affaire/(lit.) des défis qui tombent/
 甩頭髮 甩头发 [shuai3 tou2 fa5] {lat1 tau4 faat3} /perdre ses cheveux/
 甩骹 甩骹 [shuai3 qiao1] {lat1 gaau3} /se démettre; se luxer/luxation; déboîtement/
@@ -14044,9 +14044,9 @@
 田心村 田心村 [tian2 xin1 cun1] {tin4 sam1 cyun1} /Tin Sam Tsuen, village de Hong Kong/
 田螺車 田螺车 [tian2 luo2 che1] {tin4 lo2 ce1} /bétonnière/
 田雞東 田鸡东 [tian2 ji1 dong1] {tin4 gai1 dung1} /partager l'addition/(nom d'un membre de la triade 14K)/
-????f 田雞過河 田鸡过河 [tian2 ji1 guo4 he2] {tin4 gai1 gwo3 ho4} /(expr. en suspens) chacun fuyant dans une direction différente/(lit.) (comme des) grenouilles traversant la rivière (deuxième partie « 各有各𨅝|各有各𨅝 », « ne se préoccupant que d'eux-mêmes »)/
+田雞過河 田鸡过河 [tian2 ji1 guo4 he2] {tin4 gai1 gwo3 ho4} /(expr. en suspens) chacun fuyant dans une direction différente/(lit.) (comme des) grenouilles traversant la rivière (deuxième partie « 各有各𨅝|各有各𨅝 », « ne se préoccupant que d'eux-mêmes »)/
 田頭 田头 [tian2 tou2] {tin4 tau4} /bord d'un champ/
-????f 田頭 田头 [tian2 tou2] {tin4 tau2} /gestionnaire des champs agricoles/
+????m 田頭 田头 [tian2 tou2] {tin4 tau2} /gestionnaire des champs agricoles/
 由上而下 由上而下 [you2 shang4 er2 xia4] {jau4 soeng6 ji4 haa6} /de haut en bas/
 由來已久 由来已久 [you2 lai2 yi3 jiu3] {jau4 loi4 ji5 gau2} /de longue date; qui remonte loin/
 由始至終 由始至终 [you2 shi3 zhi4 zhong1] {jau4 ci2 zi3 zung1} /du début à la fin/
@@ -14057,7 +14057,7 @@
 甲 甲 [jia3] {gaap3} /premier; meilleur/championnat/carapace; armure/blindé/ongle/
 甲蟲 甲虫 [jia3 chong2] {gaap3 cung4} /(automobile Volkswagen) coccinelle/
 申 申 [shen1] {san1} /affirmer; faire valoir/expliquer/porter; déposer (une plainte)/
-????f 申訴專員公署 申诉专员公署 [shen1 su4 zhuan1 yuan2 gong1 shu3] {san1 sou3 zyun1 jyun4 gung1 cyu5} /« Office of the Ombudsman », ministère publique de Hong Kong équivalent au défenseur des droits en France ou le protecteur du citoyen au Québec/
+申訴專員公署 申诉专员公署 [shen1 su4 zhuan1 yuan2 gong1 shu3] {san1 sou3 zyun1 jyun4 gung1 cyu5} /« Office of the Ombudsman », ministère publique de Hong Kong équivalent au défenseur des droits en France ou au protecteur du citoyen au Québec/
 甴曱 甴曱 [ge2 zha4] {gaat6 zaat2} /cafard/
 甴曱屎 甴曱屎 [ge2 zha4 shi3] {gaat6 zaat2 si2} /fèces de cafard/(fig.) (vulg.) tache de rousseur/
 甴曱屋 甴曱屋 [ge2 zha4 wu1] {gaat6 zaat2 uk1} /piège à cafards/
@@ -14074,7 +14074,7 @@
 男界 男界 [nan2 jie4] {naam4 gaai3} /toilettes pour hommes/
 男盜女娼 男盗女娼 [nan2 dao4 nu:3 chang1] {naam4 dou6 neoi5 coeng1} /(expr. idiom.) pire de l'humanité; rebuts de la société/(lit.) (être comme) des voleurs et des prostituées/
 男童軍 男童军 [nan2 tong2 jun1] {naam4 tung4 gwan1} /éclaireur; boy-scout; scout/
-????f 男童院 男童院 [nan2 tong2 yuan4] {naam4 tung4 jyun2} /école de réforme pour garçons/
+男童院 男童院 [nan2 tong2 yuan4] {naam4 tung4 jyun2} /école de réforme pour garçons/
 畀 畀 [bi4] {bei3} /permettre; autoriser; laisser/par/(auxiliaire pour la voix passive)/
 畀人飛 畀人飞 [bi4 ren2 fei1] {bei2 jan4 fei1} /être largué; être plaqué/
 畀人鬧 畀人闹 [bi4 ren2 nao4] {bei2 jan4 naau6} /se faire gronder; être réprimandé/
@@ -14093,9 +14093,9 @@
 畏難 畏难 [wei4 nan2] {wai3 naan4} /craindre les difficultés/
 留低 留低 [liu2 di1] {lau4 dai1} /rester; continuer à être à une endroit/restant; abandonné/
 留堂 留堂 [liu2 tang2] {lau4 tong4} /(école) avoir une retenue/
-????f 留後手 留后手 [liu2 hou4 shou3] {lau4 hau6 sau2} /allow for unforeseen circumstances/leave space for options, flexibility, etc./
+留後手 留后手 [liu2 hou4 shou3] {lau4 hau6 sau2} /(fig.) se donner une marge de manœuvre; avoir assez de ressources pour des circonstances imprévues/
 留意 留意 [liu2 yi4] {lau4 ji3} /faire attention; être attentif/prendre note de/remarquer/se méfier de; être prudent de/
-????c 留案底 留案底 [liu2 an4 di3] {lau4 on3 dai2} /criminal record filling/
+留案底 留案底 [liu2 an4 di3] {lau4 on3 dai2} /avoir un casier judiciaire/
 留產所 留产所 [liu2 chan3 suo3] {lau4 caan2 so2} /(établissement) maternité/
 留番 留番 [liu2 fan1] {lau4 faan1} /garder; conserver/entreposer/
 留鬍鬚 留胡须 [liu2 hu2 xu1] {lau4 wu4 sou1} /se laisser pousser une barbe/
@@ -14103,8 +14103,8 @@
 畜牧 畜牧 [xu4mu4] {cuk1 muk6} /élevage/agricole/
 畜產 畜产 [chu4 chan3] {cuk1 caan2} /volaille/bétail/
 畢 毕 [bi4] {bat1} /terminer; finir; achever/au complet; entier/
-畢打街 毕打街 [bi4 da3 jie1] {bat1 daa2 gaai1} /Pedder Street, rue de Hong Kong/
-????f 畢業相 毕业相 [bi4 ye4 xiang1] {bat1 jip6 soeng2} /photo des finissants; photo de diplômé/
+畢打街 毕打街 [bi4 da3 jie1] {bat1 daa2 gaai1} /Pedder Street, rue à Hong Kong/
+畢業相 毕业相 [bi4 ye4 xiang1] {bat1 jip6 soeng2} /photo des finissants; photo de diplômé/
 畢業禮 毕业礼 [bi4 ye4 li3] {bat1 jip6 lai5} /cérémonie de remise des diplômes/
 略 略 [lu:e4] {loek6} /un peu/
 略同 略同 [lu:e4 tong2] {loek6 tung4} /similaire; semblable/de la même façon; de la même manière/
@@ -14128,15 +14128,15 @@
 番鬼 番鬼 [fan1 gui3] {faan1 gwai2} /(un peu inj.) (personne) occidental, occidentale/(lit.) fantôme barbare/
 番鬼仔 番鬼仔 [fan1 gui3 zi3] {faan1 gwai2 zai2} /(un peu inj.) (personne) occidental, occidentale/(lit.) gars fantôme barbare/
 番鬼佬 番鬼佬 [fan1 gui3 lao3] {faan1 gwai2 lou2} /(un peu inj.) (personne) occidental, occientale/(lit.) type fantôme barbare/
-????f 番鬼佬月餅 番鬼佬月饼 [fan1 gui3 lao3 yue4 bing3] {faan1 gwai2 lou2 jyut6 beng2} /(expr. idiom.) s'ennuyer; s'ennuyer à mort/(lit.) gâteau de lune occidental/(orig.) jeu de mots avec l'anglais « moon cake » (gâteau de lune), dont la prononciation en anglais ressemble au cantonais 悶極|闷极 mun6 gik6 (s'ennuyer à mourir)/
+番鬼佬月餅 番鬼佬月饼 [fan1 gui3 lao3 yue4 bing3] {faan1 gwai2 lou2 jyut6 beng2} /(expr. idiom.) s'ennuyer; s'ennuyer à mort/(lit.) gâteau de lune occidental/(orig.) jeu de mots avec l'anglais « moon cake » (gâteau de lune), dont la prononciation en anglais ressemble au cantonais 悶極|闷极 mun6 gik6 (s'ennuyer à mourir)/
 番鬼佬涼茶 番鬼佬凉茶 [fan1 gui3 lao3 liang2 cha2] {faan1 gwai2 lou2 loeng4 caa4} /(fig.) bière/(lit.) tisane occidentale/
 番鬼妹 番鬼妹 [fan1 gui3 mei4] {faan1 gwai2 mui6} /(un peu inj.) femme occidentale/(lit.) fantôme barbare sœur/
 番鬼婆 番鬼婆 [fan1 gui3 po2] {faan1 gwai2 po4} /(un peu inj.) femme occidentale/(lit.) fantôme d'une femme barbare/
 番鬼荔枝 番鬼荔枝 [fan1 gui3 li4 zhi1] {faan1 gwai2 lai6 zi1} /pomme-cannelle; chérimole/(lit.) litchi de l'étranger/
 番鬼蒲桃 番鬼蒲桃 [fan1 gui3 pu2 tao5] {faan1 gwai2 pou4 tou2} /fruit du jamalac/
-????c 番鴨 番鸭 [fan1 ya1] {faan1 aap3} /musk duck (spoken)/foreign or imported duck/
-????f 畫公仔唔使畫出腸 画公仔唔使画出肠 [hua4 gong1 zai3 m2 shi3 hua4 chu1 chang2] {waak6 gung1 zai2 m4 sai2 waak6 ceot1 coeng2} /(expr. idiom.) pas besoin d'expliquer davantage; pas besoin d'en dire plus; déjà comprendre/(lit.) quand on dessine une personne, pas besoin de dessiner ses intestins/
-????f 畫公仔畫出腸 画公仔画出肠 [hua4 gong1 zai3 hua4 chu1 chang2] {waak6 gung1 zai2 waak6 ceot1 coeng4} /(expr. idiom.) dire une évidence/(expr. idiom.) donner trop d'informations; expliquer chaque détail/(lit.) dessiner les intestins quand on dessine une personne/
+番鴨 番鸭 [fan1 ya1] {faan1 aap3} /Canard musqué/
+畫公仔唔使畫出腸 画公仔唔使画出肠 [hua4 gong1 zai3 m2 shi3 hua4 chu1 chang2] {waak6 gung1 zai2 m4 sai2 waak6 ceot1 coeng2} /(expr. idiom.) pas besoin d'expliquer davantage; pas besoin d'en dire plus; déjà comprendre/(lit.) quand on dessine une personne, pas besoin de dessiner ses intestins/
+畫公仔畫出腸 画公仔画出肠 [hua4 gong1 zai3 hua4 chu1 chang2] {waak6 gung1 zai2 waak6 ceot1 coeng4} /(expr. idiom.) dire une évidence/(expr. idiom.) donner trop d'informations; expliquer chaque détail/(lit.) dessiner les intestins quand on dessine une personne/
 畫則 画则 [hua4 ze2] {waak6 zik1} /dessiner/
 畫則師 画则师 [hua4 ze2 shi1] {waak6 zak1 si1} /architecte/
 畫匠 画匠 [hua4 jiang4] {waa2 zoeng6} /peintre artisan/(péj.) mauvais peintre/
@@ -14145,38 +14145,38 @@
 畫師 画师 [hua4 shi1] {waa2 si1} /artiste/peintre/
 畫畫 画画 [hua4 hua4] {waak6 waa2} /peindre/dessiner/
 畫花口面 画花口面 [hua4 hua1 kou3 mian4] {waak6 faa1 hau2 min6} /(expr. idiom.) calomnier; diffamer/(lit.) gribouiller sur la bouche et le visage/
-????f 畫鬼腳 画鬼脚 [hua4 gui3 jiao3] {waak6 gwai2 goek3} /(jeu) « Jambe de Fantôme »; Amidakuji; Sadaritagi/
+畫鬼腳 画鬼脚 [hua4 gui3 jiao3] {waak6 gwai2 goek3} /(jeu) « Jambe de Fantôme »; Amidakuji; Sadaritagi/
 畫龜 画龟 [hua4 gui1] {waak6 gwai1} /(fig. hum.) signer; signer de son nom/(lit.) dessiner une tortue/
 當代 当代 [dang1dai4] {dong1 doi6} /contemporain; de nos jours; époque actuelle/
-????c 當佢冇到 当渠冇到 [dang1 qu2 mao3 dao4] {dong1 keoi4 mou5 dou3} /(expr.) faire comme s'il n'était pas là/
-????c 當佢冇嚟 当渠冇嚟 [dang1 qu2 mao3 li2] {dong3 keoi5 mou5 lei4} /(expr.) faire comme s'il n'était pas là/(fig.) regarder de haut/
+當佢冇到 当渠冇到 [dang1 qu2 mao3 dao4] {dong1 keoi4 mou5 dou3} /(expr.) faire comme s'il n'était pas là; ignorer quelqu'un/(fig.) regarder de haut; mépriser/
+當佢冇嚟 当渠冇嚟 [dang1 qu2 mao3 li2] {dong3 keoi5 mou5 lei4} /(expr.) faire comme s'il n'était pas là/(fig.) regarder de haut; mépriser/
 當前 当前 [dang1 qian2] {dong1 cin4} /actuel; en ce moment/qui nous fait face/
 當務之急 当务之急 [dang1wu4zhi1ji2] {dong1 mou6 zi1 gap1} /l'affaire la plus urgente/
-????f 當地人 当地人 [dang1 di4 ren2] {dong1 dei6 jan4} /habitants; du coin; de la région; population locale/
+當地人 当地人 [dang1 di4 ren2] {dong1 dei6 jan4} /habitants; du coin; de la région; population locale/
 當堂 当堂 [dang1 tang2] {dong1 tong4} /immédiatement; instantanément/juste après; tout de suite après/
-????f 當場死亡 当场死亡 [dang1 chang2 si3 wang2] {dong1 coeng4 sei2 mong4} /mourir sur les lieux de l'accident/mourir immédiatement/
+當場死亡 当场死亡 [dang1 chang2 si3 wang2] {dong1 coeng4 sei2 mong4} /mourir sur les lieux de l'accident/mourir immédiatement/
 當官 当官 [dang1 guan1] {dong1 gun1} /fonctionnaire/être un fonctionnaire/être en présence d'un fonctionnaire/
-????f 當家 当家 [dang1 jia1] {dong1 gaa1} /(noun)  The authority of a household/manage household affairs; manage the household; be the one in charge of the household/
+當家 当家 [dang1 jia1] {dong1 gaa1} /gérer un foyer/être le responsable du foyer/
 當局 当局 [dang1 ju2] {dong1 guk6} /les autorités/le gouvernement actuel/
 當差 当差 [dang1 chai1] {dong1 caai1} /être policier, être policière/
-????f 當年今日 当年今日 [dang1 nian2 jin1 ri4] {dong1 nin4 gam1 jat6} /this day in history/
+????f 當年今日 当年今日 [dang1 nian2 jin1 ri4] {dong1 nin4 gam1 jat6} /aujourd'hui dans les années précédentes/One Day, série télévisée hongkongaise/
 當心 当心 [dang1 xin1] {dong1 sam1} /prendre garde; faire attention; être pruden/
 當時 当时 [dang1 shi2] {dong1 si4} /à l'époque; à cette époque/autrefois; jadis; naguère/
 當時得令 当时得令 [dang1 shi2 de2 ling4] {dong1 si4 dak1 ling6} /(expr.) opportun; propice; un timing parfait/
-????f 當更 当更 [dang1 geng4] {dong1 gang1} /de garde/on a shift (work)/
+當更 当更 [dang1 geng4] {dong1 gang1} /de service; en service; de garde; qui est en train de travailler/
 當災 当灾 [dang1 zai1] {dong1 zoi1} /souffrir de; subir/
 當然 当然 [dang1 ran2] {dong1 jin4} /certainement; absolument; bien sûr/
 當眼 当眼 [dang1 yan3] {dong1 ngaan5} /très visible/
 當票 当票 [dang4 piao4] {dong3 piu3} /reçu de gage; reçu de prêt sur gages; ticket de mise en gage; billet de prêt/
 當紅炸子雞 当红炸子鸡 [dang1 hong2 zha2 zi3 ji1] {dong1 hung4 zaa3 zi2 gai1} /(expr. idiom.) coqueluche du moment; vedette de l'heure/(lit.) être le poussin rouge qui explose/
-????f 當耳邊風 当耳边风 [dang4 er3 bian1 feng1] {dong3 ji5 bin1 fung1} /(expr. idiom.) faire sourde oreille; faire semblant de ne pas avoir entendu quelque chose/(lit.) faire comme si du vent passe par les oreilles/
+當耳邊風 当耳边风 [dang4 er3 bian1 feng1] {dong3 ji5 bin1 fung1} /(expr. idiom.) faire sourde oreille; faire semblant de ne pas avoir entendu quelque chose/(lit.) faire comme si du vent passe par les oreilles/
 當衰 当衰 [dang1 shuai1] {dong1 seoi1} /avoir de la malchance/
 當造 当造 [dang1 zao4] {dong1 zou6} /en saison; saisonnier (s'emploie généralement pour décrire les fruits ou légumes)/
 當鋪 当铺 [dang4 pu4] {dong1 pou1} /boutique de prêteur sur gages; mont-de-piété/
 當面 当面 [dang1 mian4] {dong1 min2} /face à face; en personne/
-????f 當頭 当头 [dang1 tou2] {dong1 tau4} /plein sur la tête; droit sur la tête/right overhead; at the time when/
-????f 當頭棒喝 当头棒喝 [dang1 tou2 bang4 he4] {dong1 tau4 paang5 hot3} /(expr. idiom.) avertissement; coup de semonce/(lit.) frappé sur la tête par un bâton et être crié dessus/
-????f 當食生菜 当食生菜 [dang1 shi2 sheng1 cai4] {dong1 sik6 saang1 coi3} /(expr. idiom.) faire de promesses vides (voir aussi 誓願當食生菜|誓愿当食生菜)/(lit.) comme manger de la laitue/
+當頭 当头 [dang1 tou2] {dong1 tau4} /directement sur la tête/imminent/prioriser/
+當頭棒喝 当头棒喝 [dang1 tou2 bang4 he4] {dong1 tau4 paang5 hot3} /(expr. idiom.) avertissement; coup de semonce/(lit.) frappé sur la tête par un bâton et être crié dessus/
+當食生菜 当食生菜 [dang1 shi2 sheng1 cai4] {dong1 sik6 saang1 coi3} /(expr. idiom.) faire de promesses sans les tenir (voir aussi 誓願當食生菜|誓愿当食生菜)/(lit.) comme manger de la laitue/
 當黑 当黑 [dang1 hei1] {dong1 hak1} /avoir de la malchance/
 畸士 畸士 [ji1 shi4] {kei1 si2} /affaire; enquête (policier)/(orig.) de l'anglais « case », « affaire, cas »/
 畸形 畸形 [ji1 xing2] {kei1 jing4} /(médecine) malformation; déformation/bizarre; anormal/
@@ -14189,8 +14189,8 @@
 疊韻 叠韵 [die2 yun4] {dip6 wan5} /mot composé de deux caractères qui riment/
 疋頭 疋头 [pi3 tou5] {pat1 tau4} /rouleau de tissu/
 疍家 疍家 [dan4 jia1] {daan6 gaa1} /les Tanka, minorité de la Chine/
-????f 疍家雞見水 疍家鸡见水 [dan4 jia1 ji1 jian4 shui3] {daan6 gaa1 gai1 gin3 seoi2} /(expr. idiom.) pouvoir regarder mais ne pas toucher/(expr. idiom.) être près de ses objectifs mais ne pas pouvoir les atteindre/(lit.) comme une poule des Tanka qui voit l'eau (deuxième partie « 唔得飲|唔得饮 » mais ne peut pas la boire) (parce que les Tanka vivaient sur des bateaux)/
-????c 疏 疏 [shu1] {so1} /inexpérimenté/
+疍家雞見水 疍家鸡见水 [dan4 jia1 ji1 jian4 shui3] {daan6 gaa1 gai1 gin3 seoi2} /(expr. idiom.) pouvoir regarder mais ne pas toucher/(expr. idiom.) presque atteindre ses objectifs mais ne pas réussir/(lit.) comme une poule des Tanka qui voit l'eau (deuxième partie « 唔得飲|唔得饮 » mais ne peut pas la boire) (parce que les Tanka vivaient sur des bateaux)/
+疏 疏 [shu1] {so1} /inexpérimenté/
 疏乎 疏乎 [shu1 hu1] {so1 fu4} /confortable; détendu; décontracté/(orig.) de l'anglais « soft » (« mou; moelleux; doux »)/
 疏堂 疏堂 [shu1 tang2] {so1 tong4} /cousin éloigné (paternel)/
 疏堂兄弟 疏堂兄弟 [shu1 tang2 xiong1 di4] {so1 tong4 hing1 dai6} /cousin éloigné (masculin)/
@@ -14200,7 +14200,7 @@
 疏爽 疏爽 [shu1 shuang3] {so1 song2} /généreux/
 疏籬 疏篱 [shu1 li2] {so1 lei1} /passoire en bambou/
 疑匪 疑匪 [yi2 fei3] {ji4 fei2} /(nom commun) suspect; suspecte/
-????f 疑心生暗鬼 疑心生暗鬼 [yi2 xin1 sheng1 an4 gui3] {ji4 sam1 saang1 am3 gwai2} /(expr.) un esprit soupçonneux crée de craintes imaginaires/
+疑心生暗鬼 疑心生暗鬼 [yi2 xin1 sheng1 an4 gui3] {ji4 sam1 saang1 am3 gwai2} /(expr.) un esprit soupçonneux crée de craintes imaginaires/
 疑慮 疑虑 [yi2 lu:4] {ji4 leoi6} /doutes/scepticisme/
 疤痕組織 疤痕组织 [ba1 hen2 zu3 zhi1] {baa1 han4 zou2 zik1} /tissu cicatriciel/
 疥癬 疥癣 [jie4 xuan3] {gaai3 sin2} /gale/
@@ -14223,7 +14223,7 @@
 病革 病革 [bing4 ji2] {beng6 gaak3} /gravement malade/
 病鬼 病鬼 [bing4 gui3] {beng6 gwai2} /(fig.) personne malade/(lit.) fantôme malade/
 病魔纏身 病魔缠身 [bing4 mo2 chan2 shen1] {beng6 mo1 cin4 san1} /(expr. idiom.) souffrir d'une maladie chronique/(lit.) avoir un esprit malveillant qui embête le corps/
-????c 痎 痎 [jie1] {gaai1} /Tertian malaria/
+痎 痎 [jie1] {gaai1} /paludisme tierce; paludisme avec une fièvre qui dure deux journées/
 痕 痕 [hen2] {han4} /qui démange; qui gratte/qui chatouille/
 痕癢 痕痒 [hen2 yang3] {han4 joeng5} /qui démange; qui gratte/
 痘痘 痘痘 [dou4 dou5] {dau4 dau2} /acné; boutons/
@@ -14238,7 +14238,7 @@
 痛腳 痛脚 [tong4 jiao3] {tung3 goek3} /(fig.) faiblesse; quelque chose que peut être utilisée contre quelqu'un/(lit.) pied qui fait mal/
 痛錫 痛锡 [tong4 xi1] {tung3 sek3} /chérir; aimer tendrement; aimer profondément/
 痣 痣 [zhi4] {zi3} /grain de beauté/
-????f 痰上頸 痰上颈 [tan2 shang4 jing3] {taam4 soeng5 geng2} /avoir de la glaire dans la gorge/to describe someone who feels the impulse to go after something that they admire or is envious of, although without taking any specific actions; to have a crush on; to be close to death/
+痰上頸 痰上颈 [tan2 shang4 jing3] {taam4 soeng5 geng2} /avoir de la glaire dans la gorge/(fig.) avoir un caprice/(fig.) (par extension) vouloir quelque chose mais ne pas pouvoir l'obtenir/
 痰罐 痰罐 [tan2 guan4] {taam4 gun3} /crachoir; petite coupe où l'on crache/
 痲瘋 痲疯 [ma2 feng1] {maa4 fung1} /lèpre/
 痴綫 痴线 [chi1 xian4] {ci1 sin3} /fou, folle; dingue/(lit.) faire un court-circuit/
@@ -14254,7 +14254,7 @@
 瘋狗 疯狗 [feng1 gou3] {fung1 gau2} /chien enragé/
 瘋狗症 疯狗症 [feng1 gou3 zheng4] {fung1 gau2 zing3} /(maladie) rage/
 瘌痢 瘌痢 [la4 li4] {laat3 lei1} /favus; favid; teigne favique/
-????c 瘟 瘟 [wen1] {wan1} /peste; épidémie/(slang)  Spend a lot of time hanging out/dating with someone's boy or girl –friend/bad thing; catastrophe; oopsie/
+瘟 瘟 [wen1] {wan1} /peste; épidémie/passer beaucoup de temps avec son chum, sa blonde (voir aussi 瘟女|瘟女 瘟仔|瘟仔)/
 瘟病 瘟病 [wen1 bing4] {wan1 beng6} /épidémie saisonnière/peste/
 瘟瘟沌沌 瘟瘟沌沌 [wen1 wen1 dun4 dun4] {wan1 wan1 deon6 deon6} /étourdi; pris de vertige/éméché/fou amoureux/
 瘦削 瘦削 [shou4 xue1] {sau3 soek3} /émacié; décharné; chétif; maigre/
@@ -14279,7 +14279,7 @@
 癖性 癖性 [pi3 xing4] {pik1 sing3} /inclination; tendance; propension/
 癡線 痴线 [chi1 xian4] {ci1 sin3} /fou, folle; dingue/(lit.) faire un court-circuit/
 癡肥 痴肥 [chi1 fei2] {ci1 fei4} /obèse/
-????c 癦尿 癦尿 [mo4 niao4] {mak6 niu6} /(inj.) taches de rousseur/(lit.) grains de beauté comme de l'urine/
+癦尿 癦尿 [mo4 niao4] {mak6 niu6} /(inj.) taches de rousseur (voir aussi 癦屎|癦屎)/(lit.) grains de beauté comme de l'urine/
 癦屎 癦屎 [mo4 shi3] {mak6 si2} /(inj.) grain de beauté/(lit.) grain de beauté comme de l'excrément/
 癩瘡 癞疮 [lai4 chuang1] {laai3 cong1} /gale/
 癩皮狗 癞皮狗 [lai4 pi2 gou3] {laai3 pei4 gau2} /chien galeux/
@@ -14327,11 +14327,11 @@
 發惡 发恶 [fa1 e4] {faat3 ngok3} /se mettre en colère; se fâcher/
 發懵 发懵 [fa1 meng3] {faat3 mung2} /s'hébéter; être dans la stupeur; être dans une torpeur/être dans la rêverie; se perdre dans ses pensées; être distrait/
 發抆憎 发抆憎 [fa1 wen3 zeng1] {faat3 mang2 zang2} /irritable; grincheux; acariâtre/
-????f 發晦氣 发晦气 [fa1 hui4 qi4] {faat3 fui3 hei3} /se fâcher parce que l'on a tort (et quelqu'un d'autre l'a remarqué)/
+發晦氣 发晦气 [fa1 hui4 qi4] {faat3 fui3 hei3} /se fâcher parce que l'on a tort (et quelqu'un d'autre l'a remarqué)/
 發木獨 发木独 [fa1 mu4 du2] {faat3 muk6 duk6} /distrait; étourdi; hébété/
 發水 发水 [fa1 shui3] {faat3 seoi2} /inonder/(fig.) gonfler (les statistiques, etc.)/
 發水樓 发水楼 [fa1 shui3 lou2] {faat3 seoi2 lau4} /(expr.) logement, appartement ou édifice dont la superficie annoncée est plus grande qu'elle ne l'est en réalité/(lit.) édifice gonflé/
-????f 發泡膠盒 发泡胶盒 [fa1 pao4 jiao1 he2] {faat3 pou5 gaau1 hap2} /contenant polystyrène; contenant de styromousse; boîte en styromousse/
+發泡膠盒 发泡胶盒 [fa1 pao4 jiao1 he2] {faat3 pou5 gaau1 hap2} /contenant polystyrène; contenant en styromousse; boîte en styromousse/
 發熱絲 发热丝 [fa1 re4 si1] {faat3 jit6 si1} /élément chauffant/
 發燒友 发烧友 [fa1 shao1 you3] {faat3 siu1 jau5} /fan; passioné; adepte/accro; fou; mordu (de quelque chose)/
 發爛渣 发烂渣 [fa1 lan4 zha1] {faat3 laan6 zaa2} /piquer une crise; s'emporter; se mettre en colère; se fâcher/
@@ -14344,7 +14344,7 @@
 發癲 发癫 [fa1 dian1] {faat3 din1} /(un peu vulg.) (pop.) devenir fou; perdre la raison/
 發白日夢 发白日梦 [fa1 bai2 ri4 meng4] {faat3 baak6 jat6 mung6} /(expr. idiom.) rêvasser; rêver/
 發矛 发矛 [fa1 mao2] {faat3 maau4} /paniquer; être effrayé/devenir fou; perdre la raison/
-????f 發窮惡 发穷恶 [fa1 qiong2 e4] {faat3 kung4 ok3} /se mettre en colère à cause de son pauvreté; être irrité par ses difficultés financières/
+發窮惡 发穷恶 [fa1 qiong2 e4] {faat3 kung4 ok3} /se mettre en colère à cause de son pauvreté; être irrité par ses difficultés financières/
 發糕 发糕 [fa1 gao1] {faat3 gou1} /gateau éponge cuit à la vapeur, patisserie chinoise consommée lors des fêtes du Nouvel An chinois/
 發羊吊 发羊吊 [fa1 yang2 diao4] {faat3 joeng4 diu3} /(fam.) faire une crise d'épilepsie/(fam.) épilepsie/
 發老脾 发老脾 [fa1 lao3 pi2] {faat3 lou5 pei4} /piquer une crise/se mettre en colère; s'emporter; se fâcher/s'énerver/
@@ -14357,8 +14357,8 @@
 發身 发身 [fa1 shen1] {faat3 san1} /attreindre la puberté/
 發軟蹄 发软蹄 [fa1 ruan3 ti2] {faat3 jyun5 tai4} /avoir les jambes en coton; ne plus avoir de force dans les jambes/
 發達 发达 [fa1 da2] {faat3 daat6} /être riche/gagner une fortune; faire une fortune/développé; prospère; avancé; sophistiqué/
-????f 發酒寒 发酒寒 [fa1 jiu3 han2] {faat3 zau2 hon4} /frissonner après la consommation de l'alcool/
-????f 發酒癲 发酒癫 [fa1 jiu3 dian1] {faat3 zau2 din1} /être ivre mort; être complètement saoul/act crazy after getting drunk/
+發酒寒 发酒寒 [fa1 jiu3 han2] {faat3 zau2 hon4} /frissonner et avoir froid après la consommation de l'alcool/
+發酒癲 发酒癫 [fa1 jiu3 dian1] {faat3 zau2 din1} /délirer après avoir consommé de l'alcool/
 發錢寒 发钱寒 [fa1 qian2 han2] {faat3 cin2 hon4} /être obsédé par l'argent/
 發開口夢 发开口梦 [fa1 kai1 kou3 meng4] {faat3 hoi1 hau2 mung6} /parler dans le sommeil/
 發雞瘟 发鸡瘟 [fa1 ji1 wen1] {faat3 gai1 wan1} /(fig.) (se dit des emfants) piquer une crise; devenir fou/(lit.) avoir une maladie aviaire/
@@ -14374,11 +14374,11 @@
 白小姐 白小姐 [bai2 xiao3 jie5] {baak6 siu2 ze2} /« Miss Baek », film coréen sorti en 2018/(fig.) (drogue) héroïne/(lit.) mademoiselle blanche/
 白手 白手 [bai2 shou3] {baak6 sau2} /les mains vides; à mains nues/à partir de rien; à partir de zéro/
 白手興家 白手兴家 [bai2 shou3 xing1 jia1] {baak6 sau2 hing1 gaa1} /(expr. idiom.) de la misère à la richesse/
-????c 白撞 白撞 [bai2 zhuang4] {baak6 zong6} /pénétrer sans autorisation/escroc; arnaqueur/window-shopper, just looking?/car accident where driver is not responsinle?/wasting time due to one's carelessness?/
+白撞 白撞 [bai2 zhuang4] {baak6 zong6} /intrus; personne non autorisée/entrer sans permission/escroc; arnaqueur (en particulier quelqu'un qui entre sans permission ou qui entre sous de faux prétextes)/personne qui fait du lèche-vitrines/
 白撞雨 白撞雨 [bai2 zhuang4 yu3] {baak6 zong6 jyu5} /averse par temps ensoleillé/
 白晒晒 白晒晒 [bai2 shai4 shai4] {baak6 saai4 saai4} /trop blanc; blanc désagréable/
 白椰菜花 白椰菜花 [bai2 ye1 cai4 hua1] {baak6 je4 coi3 faa1} /chou-fleur blanc/(fig.) gonorrhée/
-????c 白欖 白榄 [bai2 lan3] {baak6 laam5} /olive/forme de chanson cantonaise/
+白欖 白榄 [bai2 lan3] {baak6 laam5} /olive/Bak Lam, une performance vocale de l'opéra cantonaise accompanée des claquements du 卜魚｜卜鱼, le wood-block cantonais/
 白沙灣 白沙湾 [bai2 sha1 wan1] {baak6 saa1 waan1} /Pak Sha Wan ou Hebe Haven, havre de Hong Kong/
 白油 白油 [bai2 you2] {baak6 jau2} /sauce de soja claire; sauce de soja légère/liquide correcteur; correcteur liquide/
 白滾水 白滚水 [bai2 gun3 shui3] {baak6 gwan2 seoi2} /eau bouillie/
@@ -14399,11 +14399,11 @@
 白紙 白纸 [bai2 zhi3] {baak6 zi2} /feuille de papier blanche/
 白肉 白肉 [bai2 rou4] {baak6 juk6} /viande blanche/
 白色污染 白色污染 [bai2 se4 wu1 ran3] {baak6 sik1 wu1 jim5} /(fig.) pollution par le plastique; pollution plastique/(lit.) pollution blanche/
-????f 白花油 白花油 [bai2 hua1 you2] {baak6 faa1 jau4} /« White Flower Embrocation »; une sorte d'huile à base de plantes (composé de l'essence d'eucalyptus, l'essence de lavande, du camphre, etc.)/
+白花油 白花油 [bai2 hua1 you2] {baak6 faa1 jau4} /« White Flower Embrocation »; une sorte d'huile à base de plantes (composé de l'essence d'eucalyptus, l'essence de lavande, du camphre, etc.)/
 白茶 白茶 [bai2 cha2] {baak6 caa4} /thés blancs/
-????f 白菜仔 白菜仔 [bai2 cai4 zi3] {baak6 coi3 zai2} /mini bok choy; bébé bok choy/
+白菜仔 白菜仔 [bai2 cai4 zi3] {baak6 coi3 zai2} /mini bok choy; bébé bok choy/
 白蒙蒙 白蒙蒙 [bai2 meng1 meng1] {baak6 mung4 mung4} /brumeux, brumeuse/
-????f 白藥 白药 [bai2 yao4] {baak6 joek6} /(médecine traditionelle chinoise) baiyao, un médicament traditionnel chinois en forme de poudre blanc/
+白藥 白药 [bai2 yao4] {baak6 joek6} /(médecine traditionelle chinoise) baiyao, un médicament traditionnel chinois en forme de poudre blanc/
 白蘭 白兰 [bai2 lan2] {baak6 laan4} /Michelia, genre de plantes à fleurs/
 白蘭花 白兰花 [bai2 lan2 hua1] {baak6 laan2 faa1} /Magnolia x alba, orchidée blanche/
 白蚱 白蚱 [bai2 zha4] {baak6 zaa3} /méduse/(fig.) agent de la circulation (ainsi nommé à cause de son uniforme, qui avait des bandes blanches)/
@@ -14412,9 +14412,9 @@
 白豆 白豆 [bai2 dou4] {baak6 dau2} /niébé; haricot à l'œil noir; cornille/
 白豆角 白豆角 [bai2 dou4 jiao3] {baak6 dau6 gok3} /gousse du niébé; gousse de la cornille/
 白貓 白猫 [bai2 mao1] {baak6 maau1} /chat blanc/
-????f 白費力氣 白费力气 [bai2 fei4 li4 qi4] {baak6 fai3 lik6 hei3} /(expr. idiom.) perdre son temps; gaspiller son énergie/
+白費力氣 白费力气 [bai2 fei4 li4 qi4] {baak6 fai3 lik6 hei3} /(expr.) perdre son temps; gaspiller son énergie/
 白費勁 白費勁 [bai2 fei4 jin4] {baak6 fai3 ging6} /(fig.) perdre son temps; gaspiller son énergie/
-白費心機 白费心机 [bai2 fei4 xin1 ji1] {baak6 fai3 sam1 gei1} /(expr. idiom.) perdre son temps; gaspiller son énergie/
+白費心機 白费心机 [bai2 fei4 xin1 ji1] {baak6 fai3 sam1 gei1} /(expr.) perdre son temps; gaspiller son énergie/
 白酒 白酒 [bai2 jiu3] {baak6 zau2} /baijiu, eau de vie à base de sorgho/vin blanc/
 白金 白金 [bai2 jin1] {baak6 gam1} /platine/argent/(lit.) or blanc/
 白雪雪 白雪雪 [bai2 xue3 xue3] {baak6 syut1 syut1} /blanc immaculé; blanc comme la neige/
@@ -14423,7 +14423,7 @@
 白雲山 白云山 [bai2 yun2 shan1] {baak6 wan4 saan1} /Baiyun Mountain (« mont Baiyun » ou « montagne des nuages blancs »), montagne située au nord de la ville de Canton/
 白雲文化廣場站 白云文化广场站 [bai2 yun2 wen2 hua4 guang3 chang3 zhan4] {baak6 wan4 man4 faa3 gwong2 coeng4 zaam6} /Baiyun Cultural Square Station (« station du square culturel de Baiyun »), station du métro de Canton/
 白雲湖 白云湖 [bai2 yun2 hu2] {baak6 wan4 wu4} /lac Baiyun, lac de Jinan dans la province de Shandong/lac Baiyun, lac de Canton/
-????f 白霍 白霍 [bai2 huo4] {baak6 fok3} /crâneur; frimeur/aimer se faire remarquer; aimer frimer/frivole/
+白霍 白霍 [bai2 huo4] {baak6 fok3} /crâneur; frimeur/aimer se faire remarquer; aimer frimer/frivole/
 白領一族 白领一族 [bai2 ling3 yi4 zu2] {baak6 leng5 jat1 zuk6} /col blanc; employé de bureau/
 白領友 白领友 [bai2 ling3 you3] {baak6 leng5 jau2} /col blanc; employé de bureau/
 白食 白食 [bai2 shi2] {baak6 sik6} /repas gratuit/dîner sans payer/profiter des autres; ne rien contribuer au groupe/
@@ -14437,10 +14437,10 @@
 白鱔 白鳝 [bai2 shan4] {baak6 sin5} /anguille/Anguille du Japon/
 白鴿 白鸽 [bai2 ge1] {baak6 gaap2} /pigeon/colombe/
 白鴿眼 白鸽眼 [bai2 ge1 yan3] {baak6 gap3 ngaan5} /(fig.) regard de mépris; regard dédaigneux/(lit.) yeux de pigeon/
-????f 白鴿籠 白鸽笼 [bai2 ge1 long2] {baak6 gaap3 lung4} /pigeonnier/(fig.) cinémomètre photographique; appareil qui prend une photo des voitures qui font un excès de vitesse/
-????f 白鼻哥 白鼻哥 [bai2 bi2 ge1] {baak6 bei6 go1} /(personnage type de l'opéra cantonais) clown ou méchant (avec le nez peint en blanc)/(fig.) personne qui a raté un examen/(fig.) coureur de jupons, don Juan/
+白鴿籠 白鸽笼 [bai2 ge1 long2] {baak6 gaap3 lung4} /pigeonnier/(fig.) cinémomètre photographique; appareil qui prend une photo des voitures qui font un excès de vitesse/
+白鼻哥 白鼻哥 [bai2 bi2 ge1] {baak6 bei6 go1} /(personnage type de l'opéra cantonais) clown ou méchant (avec le nez peint en blanc)/(fig.) personne qui a raté un examen/(fig.) coureur de jupons, don Juan/
 白賴晒 白赖晒 [bai2 lai4 shai4] {baak6 laai4 saai4} /trop blanc; blanc désagréable (voir aussi 白晒晒|白晒晒)/
-????f 百上加斤 百上加斤 [bai3 shang4 jia1 jin1] {baak3 soeng6 gaa1 gan1} /mettre de l'huile sur le feu; faire empirer la situation/
+百上加斤 百上加斤 [bai3 shang4 jia1 jin1] {baak3 soeng6 gaa1 gan1} /(expr. idiom.) mettre de l'huile sur le feu; faire empirer la situation/
 百事 百事 [bai3 shi4] {baak3 si6} /Pepsi, boisson gazeuse/
 百佳 百佳 [bai3 jia1] {baak3 gaai1} /PARKnSHOP, enseigne de supermarchés hongkongaise/
 百億 百亿 [bai3 yi4] {baak3 jik1} /dix milliards, 10 000 000 000/
@@ -14449,11 +14449,11 @@
 百厭仔 百厌仔 [bai3 yan4 zi3] {baak3 jim3 zai2} /(fig.) vilain enfant/
 百厭星 百厌星 [bai3 yan4 xing1] {baak3 jim3 sing1} /(fig.) vilant enfant/
 百合匙 百合匙 [bai3 he2 chi2] {baak3 hap6 si4} /clef passe-partout/
-????f 百密一疏 百密一疏 [bai3 mi4 yi1 shu1] {baak3 mat6 jat1 so1} /(expr. idiom.) elaborer un plan détaillé mais oublier un petit détail/
-????f 百尺竿頭,更進一步 百尺竿头,更进一步 [bai3 chi3 gan1 tou2 , geng4 jin4 yi1 bu4] {baak3 cek3 gon1 tau4 , gang3 zeon3 jat1 bou6} /(expr. idiom.) aller plus loin; progresser davantage; ne pas reposer sur ses lauriers/
+百密一疏 百密一疏 [bai3 mi4 yi1 shu1] {baak3 mat6 jat1 so1} /(expr. idiom.) élaborer un plan détaillé mais oublier un petit détail/
+百尺竿頭,更進一步 百尺竿头,更进一步 [bai3 chi3 gan1 tou2 , geng4 jin4 yi1 bu4] {baak3 cek3 gon1 tau4 , gang3 zeon3 jat1 bou6} /(expr. idiom.) aller plus loin; progresser davantage; ne pas reposer sur ses lauriers/
 百年歸老 百年归老 [bai3 nian2 gui1 lao3] {baak3 nin4 gwai1 lou5} /(par euphémisme) après le décès (s'emploie pour faire référence à la mort imminente d'une personne encore en vie)/(lit.) après cent ans, retourner à la vieillesse/
-????f 百忍成金 百忍成金 [bai3 ren3 cheng2 jin1] {baak3 jan2 sing4 gam1} /(expr. idiom.) la patience est la mère de toutes les vertus/(lit.) supporter cent (choses désagréables) devient l'or/
-????f 百搭 百搭 [bai3 da1] {baak3 daap3} /polyvalent/souple/compatible avec tout; qui se combine avec tout; qui va avec tout/
+百忍成金 百忍成金 [bai3 ren3 cheng2 jin1] {baak3 jan2 sing4 gam1} /(expr. idiom.) la patience est la mère de toutes les vertus/(lit.) supporter cent (choses désagréables) devient l'or/
+百搭 百搭 [bai3 da1] {baak3 daap3} /polyvalent/souple/compatible avec tout; qui se combine avec tout; qui va avec tout/
 百萬雄師 百万雄师 [bai3 wan4 xiong2 shi1] {baak3 maan6 hung4 si1} /(expr. idiom.) armée puissante/
 百米 百米 [bai3 mi3] {baak3 mai5} /cent mètres/
 百衲衣 百衲衣 [bai3 na4 yi1] {baak3 naap6 ji1} /robe des moines bouddhistes/haillons/
@@ -14462,7 +14462,7 @@
 百足 百足 [bai3 zu2] {baak3 zuk1} /mille-pattes; centipèdes/
 百足咁多爪 百足咁多爪 [bai3 zu2 gan1 duo1 zhao3] {baak3 zuk1 gam2 do1 zaau2} /(expr. idiom.) avoir plusieurs casquettes; avoir plusieurs cordes à son arc/(expr. idiom.) avoir beaucoup d'amis; disposer d'un vaste réseau de contactes/(lit.) avoir autant de pattes qu'un mille-pattes/
 皂白 皂白 [zao4 bai2] {zou6 baak6} /le bien et le mal/
-????c 皂隸 皂隶 [zao4 li4] {zou6 dai6} /civil servant; yamen runner/
+皂隸 皂隶 [zao4 li4] {zou6 dai6} /coursier de yámen, fonctionnaire subalterne pendant la dynastie des Qing/
 的 的 [de5] {dik1} /cible/minuscule; petit/soulever; hisser/(abbr.) taxi/(sert à souligner un fait ou un énoncé)/à; de (possession)/certainement/en effet; effectivement/
 的士佬 的士佬 [di1 shi4 lao3] {dik1 si2 lou2} /(fam.) chauffeur de taxi/
 的士司機 的士司机 [di2 shi4 si1 ji1] {dik1 si2 si1 gei1} /chauffeur de taxi/
@@ -14490,8 +14490,8 @@
 皇家飯店 皇家饭店 [huang2 jia1 fan4 dian4] {wong4 gaa1 faan6 dim3} /(fam.) (fig.) prison/(lit.) hôtel de l'empereur/
 皇帝 皇帝 [huang2 di4] {wong4 dai3} /roi/
 ????f 皇帝唔急太監急 皇帝唔急太监急 [huang2 di4 wu2 ji2 tai4 jian1 ji2] {wong4 dai3 m4 gap1 taai3 gaam3 gap1} /(expr. idiom.) les autres sont plus préoccupés par les affaires de quelqu'un que la personne elle-même/(lit.) les eunuques sont plus préoccupés que l'empereur/
-????c 皇帝女唔憂嫁 皇帝女唔忧嫁 [huang2 di4 nu:3 wu2 you1 jia4] {wong4 dai3 neoi2 m4 jau1 gaa3} /(proverb) the girls from a rich family is carefree (usually it has negative meaning)/in demand/
-????f 皇氣 皇气 [huang2 qi4] {wong4 hei3} /(fig.) (vieilli) la police; force de police; force policière/(lit.) air royal (avant la rétrocession de Hong Kong à la Chine, la force de police portait le nom de « Royal Hong Kong Police »)/
+????c 皇帝女唔憂嫁 皇帝女唔忧嫁 [huang2 di4 nu:3 wu2 you1 jia4] {wong4 dai3 neoi2 m4 jau1 gaa3} /(expr. idiom.) les filles d'une famille riche n'ont pas de soucis/(expr. idiom.) recherché; populaire/
+皇氣 皇气 [huang2 qi4] {wong4 hei3} /(fig.) (vieilli) la police; force de police; force policière/(lit.) air royal (avant la rétrocession de Hong Kong à la Chine, la force de police portait le nom de « Royal Hong Kong Police »)/
 皓皓 皓皓 [hao4 hao4] {hou6 hou6} /blanc/brillant; scintillant/
 皛 皛 [xiao3] {kiu5, jiu5} /blanc/brillant; scintillant/
 皮 皮 [pi2] {pei4} /peau/cuir/pâte de ravioli chinoi/dollar/dix mille dollars/coût; prix/
