@@ -3700,7 +3700,7 @@
 合檔 合档 [he2 dang4] {hap6 dong3} /partenaire/
 合浦 合浦 [he2 pu3] {hap6 pou2} /le xian de Hepu, district de Guangxi/
 合理 合理 [he2 li3] {hap6 lei5} /raisonnable; logique; rationnel/
-合眼緣 合眼缘 [he2 yan3 yuan2] {hap6 ngaan5 jyun4} /plaire à quelqu'un; être à son goût/
+合眼緣 合眼缘 [he2 yan3 yuan2] {hap6 ngaan5 jyun4} /(de l'objet de son amour) plaire à quelqu'un; être à son goût/
 合眾社 合众社 [he2 zhong4 she4] {hap6 zung3 se5} /United Press International, une agence de presse américaine/
 合襯 合衬 [he2 chen4] {hap6 can3} /assorti; coordonnée; qui va ensemble/
 合資企業 合资企业 [he2 zi1 qi3 ye4] {hap6 zi1 kei5 jip6} /joint-venture/
@@ -14513,21 +14513,22 @@
 皺皮 皱皮 [zhou4 pi2] {caau4 pei4} /rides/
 皺紙 皱纸 [zhou4 zhi3] {zau3 zi2} /papier de soie/
 盂蘭節 盂兰节 [yu2 lan2 jie2] {jyu4 laan4 zit3} /Fête des fantômes, fête chinoise qui a lieu le 15e jour du septième mois lunaire/
-????f 盅仔飯 盅仔饭 [zhong1 zi3 fan4] {zung1 zai2 faan6} /steamed rice in a small pot with vegetable and meat/
-????f 盅頭飯 盅头饭 [zhong1 tou2 fan4] {zung1 tau4 faan6} /thermos-potted rice (eaten by workers in early 20th centery)/
+盅飯 盅饭 [zhong1 fan4] {zung1 faan6} /genre de repas asiatique cuit à vapeur dans un petit bol en céramique qui contient du riz, des légumes et de la viande/
+盅仔飯 盅仔饭 [zhong1 zi3 fan4] {zung1 zai2 faan6} /genre de repas asiatique cuit à vapeur dans un petit bol en céramique qui contient du riz, des légumes et de la viande/
+盅頭飯 盅头饭 [zhong1 tou2 fan4] {zung1 tau4 faan6} /genre de repas asiatique cuit à vapeur dans un petit bol en céramique qui contient du riz, des légumes et de la viande/
 盆栽 盆栽 [pen2 zai1] {pun4 zoi1} /plantes en pot/bonsaï/
-????f 盆菜 盆菜 [pen2 cai4] {pun4 coi3} /Poon choi, plat chinois et hongkongais à partager entre plusieurs personnes, composé de plusieurs couches de différentes sortes de viande servi dans un grand bassin/
+盆菜 盆菜 [pen2 cai4] {pun4 coi3} /Poon choi, plat cantonais à partager entre plusieurs personnes, composé de plusieurs couches de différentes sortes de viande servi dans un grand bassin/
 盈盈 盈盈 [ying2 ying2] {jing4 jing4} /(eau) clair/(personne) poli; cultivé/heureux; content/(personne) élégant; raffiné/
 盉 盉 [he2] {wo4} /récipient utilisé pour réchauffer des spiritueux/
-????f 益 益 [yi4] {jik1} /profiter de; tirer profit de/profit/avantage/
+益 益 [yi4] {jik1} /profiter de; tirer profit de/profit/avantage/
 益力多 益力多 [yi4 li4 duo1] {jik1 lik6 do1} /Yakult, boisson lactée japonaise/
 益壽延年 益寿延年 [yi4 shou4 yan2 nian2] {jik1 sau6 jin4 nin4} /qui favorise la longévité/
-????f 盒仔飯 盒仔饭 [he2 zi3 fan4] {hap6 zai2 faan6} /repas boîte à lunch; (repas dans une) boîte à bento/
+盒仔飯 盒仔饭 [he2 zi3 fan4] {hap6 zai2 faan6} /repas boîte à lunch; (repas dans une) boîte à bento/
 盛 盛 [sheng4] {sing4} /prospère; florissant/spectaculaire; formidable/mûr/
-????f 盛惠 盛惠 [sheng4 hui4] {sing6 wai6} /merci/that will be... X dollars/
+盛惠 盛惠 [sheng4 hui4] {sing6 wai6} /merci/cela fera... (le montant total d'un achat)/
 盛智文 盛智文 [sheng4 zhi4 wen2] {sing6 zi3 man4} /Allan Zeman, homme d'affaires hongkongais, connu à Hong Kong comme « le père de Lan Kwai Fong »/
 盛載 盛载 [cheng2 zai4] {sing4 zoi3} /contenir/
-????f 盛飯 盛饭 [cheng2 fan4] {sing4 faan6} /remplir un bol de riz/
+盛飯 盛饭 [cheng2 fan4] {sing4 faan6} /remplir un bol de riz/
 盜亦有道 盗亦有道 [dao4 yi4 you3 dao4] {dou6 jik6 jau5 dou6} /(film) Les Affranchis, film de gangsters américain/
 盞 盏 [zhan3] {zaan2} /(classificateur pour les lampes et ampoules)/(classificateur pour les nids d'oiseaux)/formidable; fantastique; super; génial/en vain; pour rien; perte de temps/bon marché/
 盞嘢 盏嘢 [zhan3 ye3] {zaan2 je5} /produits de bonne qualité; du bon matos/
@@ -14539,7 +14540,7 @@
 盟塞 盟塞 [meng2 sai1] {mang4 sak1} /obstiné; entêté; têtu/
 盟籠 盟笼 [meng2 long2] {mang4 lung4} /bouché/fermé; bien fermé/
 盟鼻 盟鼻 [meng2 bi2] {mang4 bei6} /nez bouché/
-????f 盡人事 尽人事 [jin4 ren2 shi4] {zeon6 jan4 si6} /faire de son mieux; faire tout son possible (s'emploie habituellement lors d'une situation d'urgence)/
+盡人事 尽人事 [jin4 ren2 shi4] {zeon6 jan4 si6} /faire de son mieux; faire tout son possible (en parlant d'une situation d'urgence)/
 盡力 尽力 [jin4 li4] {zeon6 lik6} /faire de son mieux; faire tout son possible/
 盡可能 尽可能 [jin4 ke3 neng2] {zeon6 ho2 nang4} /(faire) tout son possible; (faire) de son mieux/
 盡地一煲 尽地一煲 [jin4 di4 yi1 bao1] {zeon6 dei6 jat1 bou1} /(expr. idiom.) tout miser sur (une tentative); faire un ultime effort/
@@ -14547,35 +14548,35 @@
 盡管 尽管 [jin3 guan3] {zeon6 gun2} /malgré; en dépit de; même si/
 監 监 [jian1] {gaam1} /forcer; obliger/inciter; encourager/arrêter; mettre en détention/prison/surveiller/
 監人乃後 监人乃后 [jian1 ren2 nai3 hou4] {gaam1 jan4 naai5 hau5} /(expr.) obliger quelqu'un à faire quelque chose/
-????f 監人賴厚 监人赖厚 [jian1 ren2 lai4 hou4] {gaam1 jan4 laai5 hau6} /(expr.) obliger quelqu'un à être ami avec soi/
+監人賴厚 监人赖厚 [jian1 ren2 lai4 hou4] {gaam1 jan4 laai5 hau6} /(expr.) obliger quelqu'un à être ami avec soi/
 監人食死貓 监人食死猫 [jian1 ren2 shi2 si3 mao1] {gaam1 jan4 sik6 sei2 maau1} /(expr. idiom.) faire de quelqu'un le bouc émissaire; faire porter le chapeau à quelqu'un; rejeter la faute sur quelqu'un/(lit.) obliger quelqu'un à manger le chat mort/
 監倉 监仓 [jian1 cang1] {gaam1 cong1} /cellule de prison/
 監察 监察 [jian1 cha2] {gaam1 caat3} /surveiller; superviser; contrôler/
 監房 监房 [jian1 fang2] {gaam1 fong4} /cellule de prison/
-????f 監熱食 监热食 [jian1 re4 shi2] {gaam3 jit6 sik6} /manger tant que (le repas) est chaud/
+監熱食 监热食 [jian1 re4 shi2] {gaam3 jit6 sik6} /manger tant que (le repas) est chaud/
 監犯 监犯 [jian1 fan4] {gaam1 faan2} /prisonnier; détenu/
 監生 监生 [jian4 sheng1] {gaam3 sang1} /vivant; toujours en vie/avec force/
 監硬 监硬 [jian1 ying4] {gaam1 ngaang6} /astreindre; contraindre; obliger/
-????f 監粗來 监粗来 [jian1 cu1 lai2] {gaam3 cou1 lei4} /faire par la force; forcer/
-????f 監粗嚟 监粗嚟 [jian1 cu1 li2] {gaam3 cou1 lei4} /faire par la force; forcer/
+監粗來 监粗来 [jian1 cu1 lai2] {gaam3 cou1 lei4} /faire par la force; forcer; utiliser la force pour ouvrir quelque chose/
+監粗嚟 监粗嚟 [jian1 cu1 li2] {gaam3 cou1 lei4} /faire par la force; forcer; utiliser la force pour ouvrir quelque chose/
 監護病房 监护病房 [jian1 hu4 bing4 fang2] {gaam1 wu6 beng6 fong2} /unité de soins intensifs/
 監頭 监头 [jian1 tou2] {gaam1 tau2} /gardien de prison/
 盤 盘 [pan2] {pun4} /territoire/chantier (de construction)/questionner; interroger/
-????f 盤口 盘口 [pan2 kou3] {pun4 hau2} /estimation; devis/prix de paris dans de jeux illégaux/
+盤口 盘口 [pan2 kou3] {pun4 hau2} /estimation; devis/prix de paris dans de jeux illégaux/
 盤滿缽滿 盘满钵满 [pan2 man3 bo1 man3] {pun4 mun5 but3 mun5} /(expr. idiom.) obtenir une grande somme d'argent/(expr. idiom.) avoir une bonne récolte/
-????c 盤結 盘结 [pan2 jie2] {pun4 git3} /enrouler/to collude with; to gang up with; to be in a knot/
+????c 盤結 盘结 [pan2 jie2] {pun4 git3} /enrouler/comploter/
 盤錢 盘钱 [pan2 qian2] {pun4 cin2} /(contrôle douanier) inspecter (les bagages) à fond/
 盥洗盆 盥洗盆 [guan4 xi3 pen2] {gun3 sai2 pun4} /vasque; lavabo/
 目前 目前 [mu4 qian2] {muk6 cin4} /maintenant; en ce moment; présentement; à cette heure/
 目前為止 目前为止 [mu4 qian2 wei2 zhi3] {muk6 cin4 wai4 zi2} /jusqu'ici; jusqu'à présent/
-????c 目及 目及 [mu4 ji2] {muk6 gap6} /(verb) see; can see/
+????c 目及 目及 [mu4 ji2] {muk6 gap6} /voir/
 目定口呆 目定口呆 [mu4 ding4 kou3 dai1] {muk6 ding6 hau2 ngoi4} /(expr.) abasourdi; ébahi; stupéfait/
 目標管理 目标管理 [mu4 biao1 guan3 li3] {muk6 biu1 gun2 lei5} /DPO, direction par objectifs (ou « management by objectives » en anglais)/
-???f 目見 目见 [mu4 jian4] {muk6 gin3} /voir par soi-même/
+目見 目见 [mu4 jian4] {muk6 gin3} /voir par soi-même/
 盲人瞎馬 盲人瞎马 [mang2 ren2 xia1 ma3] {maang4 jan4 hat6 maa5} /(expr. idiom.) se plonger dans le désastre/(lit.) homme aveugle sur un cheval aveugle/
 盲公 盲公 [mang2 gong1] {maang4 gung1} /homme aveugle (s'emploie généralement pour désigner un vieil homme aveugle)/
 盲公竹 盲公竹 [mang2 gong1 zhu2] {maang4 gung1 zuk1} /canne blanche (utilisée par les personnes aveugles ou malvoyantes)/(fig.) personne très experimentée en quelque chose; personne qui donne des conseils; personne qui montre les ficelles du métier/
-????f 盲公繩 盲公绳 [mang2 gong1 sheng2] {maang4 gung1 sing2} /treasury tag; specific type of fastener used to bind several sheets of paper together/
+????f 盲公繩 盲公绳 [mang2 gong1 sheng2] {maang4 gung1 sing2} /(article de papeterie) attache; attache qui consiste en un bout de ficelle avec deux tiges de métal ou de plastique attachées aux deux extrémités de la ficelle, servant à attacher plusieurs feuilles de papier/
 盲公鏡 盲公镜 [mang2 gong1 jing4] {maang4 gung1 geng3} /(fig.) lunettes noires; lunettes de soleil foncées/(lit.) lunettes pour les personnes aveugles/
 盲公餅 盲公饼 [mang2 gong1 bing3] {maang4 gung1 beng2} /biscuits manggong, ou biscuits de l'homme aveugle, spécialité de la ville de Foshan/
 盲動 盲动 [mang2 dong4] {maang4 dung6} /agir imprudemment/
@@ -14601,11 +14602,12 @@
 直板 直板 [zhi2 ban3] {zik6 baan2} /parfaitement droit; pas courbé/
 直程 直程 [zhi2 cheng2] {zik6 cing4} /vraiment; en réalité; en fait/exactement; justement/sans doute/
 直笛 直笛 [zhi2 di2] {zik6 dek2} /flûte à bec/
-????f 直筆甩 直笔甩 [zhi2 bi3 shuai3] {zik6 bat1 lat1} /(se tenir) droite/(route) droite/
-????f 直落 直落 [zhi2 luo4] {zik6 lok6} /(fig.) sans pause; sans interruption (s'emploie habituellement en parlant d'une série d'activités pendant une soirée, ex. manger puis écouter un film sans prendre une pause entre les deux activités)/(fam.) (fig.) avoir des relations sexuelles après un rancard/(lit.) descendre en flèche/
+直不甩 直不甩 [zhi2 bu4 shuai3] {zik6 bat1 lat1} /tout droit (voir aussi 直筆甩|直笔甩)/(se tenir) droit/(route) en ligne droite/
+直筆甩 直笔甩 [zhi2 bi3 shuai3] {zik6 bat1 lat1} /tout droit/(se tenir) droit/(route) en ligne droite/
+直落 直落 [zhi2 luo4] {zik6 lok6} /(fig.) sans pause; sans interruption (en parlant d'une série d'activités pendant une soirée, ex. manger puis écouter un film sans prendre une pause entre les deux activités)/(fam.) (fig.) avoir des relations sexuelles après un rendez-vous amoureux/(lit.) descendre en flèche/
 直覺 直觉 [zhi2 jue2] {zik6 gok3} /réflexe; instinct/intuition/sixième sens/
 直資 直资 [zhi2 zi1] {zik6 zi1} /Direct Subsidy Scheme, programme de subventions pour le système éducatif de Hong Kong/
-????f 直身裙 直身裙 [zhi2 shen1 qun2] {zik6 san1 kwan4} /(noun) a straight skirt; narrow straight dress/
+直身裙 直身裙 [zhi2 shen1 qun2] {zik6 san1 kwan4} /jupe droite/
 直通巴士 直通巴士 [zhi2 tong1 ba1 shi4] {zik6 tung1 baa1 si2} /autobus express; autobus direct/
 直通車 直通车 [zhi2 tong1 che1] {zik6 tung1 ce1} /train direct entre Canton et Hong Kong/train direct/(politique) continuité des fonctions législatives des gouvernements hongkongais et macanais après la rétrocession à la Chine/
 直音 直音 [zhi2 yin1] {zik6 jam1} /indiquer la prononciation d'un caractère chinois en utilisant un autre caractère avec la même prononciation/
@@ -14617,7 +14619,7 @@
 相去無幾 相去无几 [xiang1 qu4 wu2 ji3] {soeng1 heoi3 mou4 gei2} /(expr.) pratiquement les mêmes; sensiblement les mêmes/
 相同 相同 [xiang1 tong2] {soeng1 tung4} /similaire; semblable/même; identique/
 相商 相商 [xiang1 shang1] {soeng1 soeng1} /consulter; discuter/
-????c 相好 相好 [xiang1 hao3] {soeng1 hou2} /amant; maîtresse/avoir une liaison/to like each other?/
+相好 相好 [xiang1 hao3] {soeng1 hou2} /amant; maîtresse/avoir une liaison/avoir des relations intimes/
 相宜 相宜 [xiang1 yi2] {soeng1 ji4} /à bas prix; à prix avantageux; pas cher/acceptable; approprié; convenable/
 相對 相对 [xiang1 dui4] {soeng1 deoi3} /relatif; en comparaison/relativement; assez; plutôt/opposé/face à face/
 相對性 相对性 [xiang1 dui4 xing4] {soeng1 deoi3 sing3} /(physique) principe de relativité/(philosophie) relativisme/
@@ -14636,17 +14638,17 @@
 相知 相知 [xiang1 zhi1] {soeng1 zi1} /ami proche; intime/bien se connaître/
 相簿 相簿 [xiang4 bu4] {soeng3 bou2} /album photo/
 相與 相与 [xiang1 yu3] {soeng1 jyu5} /ensemble/bien s'entendre (avec quelqu'un)/
-????f 相見好，同住難 相见好，同住难 [xiang1 jian4 hao3 , tong2 zhu4 nan2] {soeng1 gin3 hou2 tung4 zyu6 naan4} /(expr.) it is easy to meet up with people or be friends but difficult to live together/
+相見好，同住難 相见好，同住难 [xiang1 jian4 hao3 , tong2 zhu4 nan2] {soeng1 gin3 hou2 tung4 zyu6 naan4} /(expr.) il est facile d'être amis, mais il est difficile de bien s'entendre quand on vit ensemble/
 相談 相谈 [xiang1 tan2] {soeng1 taam4} /discuter; parler/
-????f 相請不如偶遇 相请不如偶遇 [xiang1 qing3 bu4 ru2 ou3 yu4] {soeng1 cing2 bat1 jyu4 ngau5 jyu6} /(locution interjective) ça fait longtemps depuis qu'on ne s'est pas vu! quel heureux hasard!/(expr. idiom.) heureux hasard/(expr. idiom.) les heureux hasards sont préférables aux rencontres forcées/(lit.) s'inviter mutuellement, mieux vaut se rencontrer par hasard/
+相請不如偶遇 相请不如偶遇 [xiang1 qing3 bu4 ru2 ou3 yu4] {soeng1 cing2 bat1 jyu4 ngau5 jyu6} /(locution interjective) ça fait longtemps depuis qu'on ne s'est pas vu! quel heureux hasard!/(expr. idiom.) heureux hasard/(expr. idiom.) les heureux hasards sont préférables aux rencontres forcées/(lit.) s'inviter mutuellement, mieux vaut se rencontrer par hasard/
 相讓 相让 [xiang1 rang4] {soeng1 joeng6} /céder; faire des concessions/
 相貌 相貌 [xiang4mao4] {soeng3 maau6} /air; mine; contenance/
 相近 相近 [xiang1jin4] {soeng1 gan6} /similaire; semblable/même/
 相送 相送 [xiang1 song4] {soeng1 sung3} /dire au revoir; voir partir/
-????f 相逢恨晚 相逢恨晚 [xiang1 feng2 hen4 wan3] {soeng1 fung4 han6 maan5} /(expr. idiom.) regretter que l'on ne s'est pas connu plus tôt/
-????f 相見恨晚 相见恨晚 [xiang1 jian4 hen4 wan3] {soeng1 gin3 han6 maan5} /(expr. idiom.) regretter que l'on ne s'est pas connu plus tôt/
+相逢恨晚 相逢恨晚 [xiang1 feng2 hen4 wan3] {soeng1 fung4 han6 maan5} /(expr. idiom.) regretter que l'on ne s'est pas connu plus tôt/
+相見恨晚 相见恨晚 [xiang1 jian4 hen4 wan3] {soeng1 gin3 han6 maan5} /(expr. idiom.) regretter que l'on ne s'est pas connu plus tôt/
 相隨 相随 [xiang1 sui2] {soeng1 ceoi4} /accompagner; suivre/
-????c 相離 相离 [xiang1 li2] {soeng1 lei4} /separate from each other/
+相離 相离 [xiang1 li2] {soeng1 lei4} /(entre deux personnes) se séparer/
 相電流 相电流 [xiang4 dian4 liu2] {soeng1 din6 lau4} /courant (tri)phasé/
 相食 相食 [xiang1 shi2] {soeng1 sik6} /cannibalisme/bien attaché; bien noué/
 省 省 [sheng3] {saang2} /belle; éblouissante; joli; séduisante (se dit des femmes)/être critiqué; être reproché/polir; nettoyer; frotter; brosser/
@@ -14656,7 +14658,7 @@
 省市 省市 [sheng3 shi4] {saang2 si5} /provinces et villes/
 省政府 省政府 [sheng3 zheng4 fu3] {saang2 zing3 fu2} /gouvernement provincial/
 省文 省文 [sheng3 wen2] {saang2 man4} /expression ou phrase abrégée/caractère simplifié; caractère qui manque des traits/
-????f 省港旗兵 省港旗兵 [sheng3 gang3 qi2 bing1] {saang2 gong2 kei4 bing1} /membre d'un gang chinois qui commet ses crimes à Hong Kong/
+省港旗兵 省港旗兵 [sheng3 gang3 qi2 bing1] {saang2 gong2 kei4 bing1} /membre d'un gang chinois qui commet ses crimes à Hong Kong/
 省鏡 省镜 [sheng3 jing4] {saang2 geng3} /belle; éblouissante; séduisante (se dit des femmes)/
 眈天望地 眈天望地 [dan1 tian1 wang4 di4] {daam1 tin1 mong6 dei6} /(expr. idiom.) distrait; étourdi/(expr. idiom.) regarder dans toutes les directions/(expr. idiom.) n'avoir rien à faire/(lit.) regarder le ciel et regarder la terre/
 眉宇 眉宇 [mei2 yu3] {mei4 jyu5} /(tête) front/expression du visage; mine; contenance/
@@ -14687,18 +14689,18 @@
 真菌類 真菌类 [zhen1 jun1 lei4] {zan1 kwan2 leoi6} /champignons/
 真話 真话 [zhen1 hua4] {zan1 waa2} /vérité/
 真金白銀 真金白银 [zhen1 jin1 bai2 yin2] {zan1 gam1 baak6 ngan2} /(expr. idiom.) espèces sonnantes et trébuchantes/(lit.) or véritable et argent blanc/
-????f 真除 真除 [zhen1 chu2] {zan1 ceoi4} /être promu d'un poste provisoire à un poste permanent/être officiellement nommé (directeur, chef, etc.)/
+真除 真除 [zhen1 chu2] {zan1 ceoi4} /être promu d'un poste provisoire à un poste permanent/être officiellement nommé (directeur, chef, etc.)/
 眼 眼 [yan3] {ngaan5} /œil; yeux/(classificateur pour les aiguilles)/vue/
-????f 眼不見為乾淨 眼不见为干净 [yan3 bu4 jian4 wei2 gan1 jing4] {ngaan5 bat1 gin3 wai4 gon1 zeng6} /(expr. idiom.) loin des yeux, loin du cœur; on ne pense plus à quelque chose quand on ne le voit pas/(lit.) (quand) yeux ne voient pas, (on) pense que (l'objet) est propre/
+眼不見為乾淨 眼不见为干净 [yan3 bu4 jian4 wei2 gan1 jing4] {ngaan5 bat1 gin3 wai4 gon1 zeng6} /(expr. idiom.) loin des yeux, loin du cœur; on ne pense plus à quelque chose quand on ne le voit pas/(lit.) (quand) yeux ne voient pas, (on) pense que (l'objet) est propre/
 眼仔 眼仔 [yan3 zi3] {ngaan5 zai2} /yeux/(fig.) webcam/
-????f 眼仔碌碌 眼仔碌碌 [yan3 zi3 lu4 lu4] {ngaan5 zai2 luk1 luk1} /(bébé) grands yeux ronds/toiser; lancer un regard noir/avoir des yeux errants/
+眼仔碌碌 眼仔碌碌 [yan3 zi3 lu4 lu4] {ngaan5 zai2 luk1 luk1} /(d'un bébé) grands yeux ronds/toiser; lancer un regard noir/avoir des yeux errants/
 眼光光 眼光光 [yan3 guang1 guang1] {ngaan5 gwong1 gwong1} /(fig.) ne pas réussir à dormer; ne pas fermer l'œil de la nuit/(fig.) distrait; étourdi/(fig.) regarder dans le vide; avoir le regard perdu/(fig.) assister avec impuissance/(fig.) avoir les yeux grands ouverts/
 眼公仔 眼公仔 [yan3 gong1 zai3] {ngaan5 gung1 zai2} /pupille/
 眼冤 眼冤 [yan3 yuan1] {ngaan5 jyun1} /qui est une offense visuelle; horrible; dégoûtant; écœurant/
 眼凸凸 眼凸凸 [yan3 tu1 tu1] {ngaan5 dat6 dat6} /(fig.) se gonfler de colère/(lit.) avoir les yeux qui sortent de leur orbite/
 眼利 眼利 [yan3 li4] {ngaan5 lei6} /à la vue perçante; perspicace; à l'œil de lynx/
-????c 眼唔見為伶俐 眼唔见为伶俐 [yan3 wu2 jian4 wei2 ling2 li4] {ngaan5 m4 gin3 wai4 ling4 lei6} /out of sight, out of mind/
-????f 眼坦坦 眼坦坦 [yan3 tan3 tan3] {ngaan5 taan2 taan2} /(fig.) complètement vaincu; démoralisé/
+????c 眼唔見為伶俐 眼唔见为伶俐 [yan3 wu2 jian4 wei2 ling2 li4] {ngaan5 m4 gin3 wai4 ling4 lei6} /(expr. idiom.) (rare) loin des yeux, loin du cœur; on ne pense plus à quelque chose quand on ne le voit pas/(lit.) (quand) yeux ne voient pas, (on) pense que (l'objet) est ingénieux/
+眼坦坦 眼坦坦 [yan3 tan3 tan3] {ngaan5 taan2 taan2} /(fig.) complètement vaincu; démoralisé/(lit.) yeux tous blancs/
 眼大大 眼大大 [yan3 da4 da4] {ngaan5 daai6 daai6} /grands yeux/
 眼大睇過籠 眼大睇过笼 [yan3 da4 di4 guo4 long2] {ngaan5 daai6 tai2 gwo3 lung4} /(expr. idiom.) ne pas remarquer quelque chose d'évident/(lit.) avoir de grands yeux mais ne pas voir le dragon/
 眼大睇過龍 眼大睇过龙 [yan3 da4 di4 guo4 long2] {ngaan5 daai6 tai2 gwo3 lung4} /(expr. idiom.) ne pas remarquer quelque chose d'évident/(lit.) avoir de grands yeux mais ne pas voir le dragon/
@@ -14727,7 +14729,7 @@
 眼眉跳 眼眉跳 [yan3 mei2 tiao4] {ngaan5 mei4 tiu4} /contraction spasmodique des paupières, mauvais présage dans la culture chinoise/
 眼眨眨 眼眨眨 [yan3 zha3 zha3] {ngaan5 zaam2 zaam2} /yeux clignants/
 眼睛生響頭頂 眼睛生响头顶 [yan3 jing5 sheng1 xiang3 tou2 ding3] {ngaan5 zing1 saang1 hoeng2 tau4 deng2} /(expr. idiom.) arrogant; avoir un air dédaigneux; condescendant/(lit.) avoir les yeux qui poussent sur le sommet de la tête/
-????f 眼睩睩 眼睩睩 [yan3 lu4 lu4] {ngaan5 luk1 luk1} /(bébé) grands yeux ronds/toiser; lancer un regard noir/avoir des yeux errants/
+眼睩睩 眼睩睩 [yan3 lu4 lu4] {ngaan5 luk1 luk1} /(d'un bébé) grands yeux ronds/toiser; lancer un regard noir/avoir des yeux errants/
 眼睫毛 眼睫毛 [yan3 jie2 mao2] {ngaan5 zit3 mou4} /cils/
 眼䁪䁪 眼䁪䁪 [yan3 zhan3 zhan3] {ngaan5 zaam2 zaam2} /yeux clignants/
 眼矇 眼蒙 [yan3 meng2] {ngaan5 mung1} /avoir la vision floue/
@@ -14735,8 +14737,8 @@
 眼矇矇 眼蒙蒙 [yan3 meng2 meng2] {ngaan5 mung4 mung4} /fatigué; épuisé; avoir les yeux bouffis/
 眼矋矋 眼矋矋 [yan3 lei3 lei3] {ngaan5 lai3 lai3} /lancer un regard furieux; toiser/
 眼紅 眼红 [yan3 hong2] {ngaan5 hung4} /(fig.) envieux; jaloux/(lit.) yeux rouges/
-???c 眼緊 眼紧 [yan3 jin3] {ngaan5 gan2} /(fig.) envieux; jaloux/(angry; stingy?)/
-????c 眼緣 眼缘 [yan3 yuan2] {ngaan5 jyun4} /(noun) eyes-affinity/feelings after first sight/
+眼緊 眼紧 [yan3 jin3] {ngaan5 gan2} /(fig.) envieux; jaloux/
+眼緣 眼缘 [yan3 yuan2] {ngaan5 jyun4} /(d'un objet de son amour) avoir une bonne impression; bien s'entendre avec quelqu'un; se sentir comme si l'on était lié par le destin (voir aussi 合眼緣|合眼缘)/
 眼翕毛 眼翕毛 [yan3 xi1 mao2] {ngaan5 jap1 mou1} /cils/
 眼肚 眼肚 [yan3 du4] {ngaan5 tou5} /paupière inférieure/
 眼花花 眼花花 [yan3 hua1 hua5] {ngaan5 faa1 faa1} /avoir la vision trouble/être ébloui; être étonné/
@@ -14750,15 +14752,15 @@
 眾怒難犯 众怒难犯 [zhong4 nu4 nan2 fan4] {zung3 nou6 naan4 faan6} /(expr.) ne suscitez pas la colère du public/
 眾擎易舉 众擎易举 [zhong4 qing2 yi4 ju3] {zung3 king4 ji6 geoi2} /(expr. idiom.) l'union fait la force/(lit.) il est plus facile de soulever un fardeau quand plusieurs personnes aident/
 眾望所歸 众望所归 [zhong4 wang4 suo3 gui1] {zung3 mong6 so2 gwai1} /(expr.) bénificier d'un large soutien public/
-????f 眾生相 众生相 [zhong4 sheng1 xiang4] {zung3 sang1 soeng3} /diversité de personnes; toutes sortes de gens/(Bouddisme) notion d'un être vivant/
-????f 眾目昭彰 众目昭彰 [zhong4 mu4 zhao1 zhang1] {zung3 muk6 ciu1 zoeng1} /(expr. idiom.) clair pour tout le monde/(expr. idiom.) être surveillé par le public; être sous l'œil attentif du public/
-????f 眾目睽睽 众目睽睽 [zhong4 mu4 kui2 kui2] {zung3 muk6 kwai4 kwai4} /(expr. idiom.) être sous l'œil attentif du public/(expr. idiom.) être vu par tout le monde/
-????f 眾口鑠金 众口铄金 [zhong4 kou3 shuo4 jin1] {zung3 hau2 soek3 gam1} /(expr. idiom.) l'opinion publique peut confondre les faits et la réalité/(lit.) les bouches du public peuvent fondre l'or/
-????f 着龍袍唔似太子 着龙袍唔似太子 [zhe5 long2 pao2 wu2 shi4 tai4 zi3] {zoek6 lung4 pou4 m4 ci5 taai3 zi2} /(expr. idiom.) porter de nouveaux vêtements ne peut pas masquer un caractère peu raffiné/(lit.) ne pas ressembler un empereur même en portant les robes du dragon/
+眾生相 众生相 [zhong4 sheng1 xiang4] {zung3 sang1 soeng3} /diversité de personnes; toutes sortes de gens/(Bouddisme) notion d'un être vivant/
+眾目昭彰 众目昭彰 [zhong4 mu4 zhao1 zhang1] {zung3 muk6 ciu1 zoeng1} /(expr. idiom.) être surveillé par le public; être sous l'œil attentif du public/
+眾目睽睽 众目睽睽 [zhong4 mu4 kui2 kui2] {zung3 muk6 kwai4 kwai4} /(expr. idiom.) être surveillé par le public; être sous l'œil attentif du public/
+眾口鑠金 众口铄金 [zhong4 kou3 shuo4 jin1] {zung3 hau2 soek3 gam1} /(expr. idiom.) l'opinion publique peut confondre les faits et la réalité/(lit.) les bouches du public peuvent fondre l'or/
+着龍袍唔似太子 着龙袍唔似太子 [zhe5 long2 pao2 wu2 shi4 tai4 zi3] {zoek6 lung4 pou4 m4 ci5 taai3 zi2} /(expr. idiom.) porter de nouveaux vêtements ne peut pas masquer un caractère peu raffiné/(lit.) ne pas ressembler un empereur même en portant les robes du dragon/
 睇 睇 [di4] {tai2} /regarder/écouter (un film)/lire (un livre)/penser/chercher/visiter/surveiller/dépendre de/
 睇上眼 睇上眼 [di4 shang4 yan3] {tai2 soeng5 ngaan5} /prendre goût à; aimer/
 睇中 睇中 [di4 zhong1] {tai2 zung3} /choisir; préférer une option parmi plusieurs/
-????c 睇人口面 睇人口面 [di4 ren2 kou3 mian4] {tai2 jan4 hau2 min6} /having to adapt and act to other people's disposition; having to put up with the ways of others unwillingly; to live on another's favour; to depend on another/
+睇人口面 睇人口面 [di4 ren2 kou3 mian4] {tai2 jan4 hau2 min6} /(expr. idiom.) dépendre de la bonté des autres/(expr. idiom.) percevoir intuitivement l'humeur de quelqu'un/
 睇低 睇低 [di4 di1] {tai2 dai1} /regarder de haut; mépriser/
 睇住 睇住 [di4 zhu4] {tai2 zyu6} /surveiller/regardant; voyant/
 睇住佢頭 睇住渠头 [di4 zhu4 qu2 tou2] {tai2 zyu6 keoi5 tau2} /(expr. idiom.) imiter quelqu'un; suivre quelqu'un/(expr. idiom.) apprendre de quelqu'un/(lit.) regardant sa tête/
@@ -14774,17 +14776,17 @@
 睇唔開 睇唔开 [di4 wu2 kai1] {tai2 m4 hoi1} /(fig.) incapable d'accepter une mauvaise nouvelle ou une mauvaise situation; incapable de progresser; être obsédé par des ennuis/
 睇啱 睇啱 [di4 yan1] {tai2 ngaam1} /choisir; préférer une option parmi plusieurs/
 睇嚟 睇嚟 [di4 li2] {tai2 lai4} /avoir l'air; paraître/
-????f 睇嚟湊 睇嚟凑 [di4 li2 cou4] {tai2 lai2 cau3} /ça dépend.../on verra/à ce moment-là; quand le moment sera venu/
-????f 睇場 睇场 [di4 chang3] {tai2 coeng4} /membre d'un gang chargé de la sécurité d'un magasin, une maison de jeu, etc./travailler comme videur/(lit.) surveiller les lieux/
+睇嚟湊 睇嚟凑 [di4 li2 cou4] {tai2 lai2 cau3} /ça dépend.../on verra/à ce moment-là; quand le moment sera venu/
+睇場 睇场 [di4 chang3] {tai2 coeng4} /membre d'un gang chargé de la sécurité d'un magasin, une maison de jeu, etc./travailler comme videur/(lit.) surveiller les lieux/
 睇夜 睇夜 [di4 ye4] {tai2 je2} /veiller/
 睇大戲 睇大戏 [di4 da4 xi4] {tai2 daai6 hei3} /regarder un opéra chinois/
 睇好 睇好 [di4 hao3] {tai2 hou2} /être optimiste; penser que quelque chose a l'air prometteur/
-????c 睇定 睇定 [di4 ding4] {tai2 ding6} /observer; surveiller/vérifier/viser soigneusement/
+睇定 睇定 [di4 ding4] {tai2 ding6} /observer; surveiller/vérifier/viser soigneusement/
 睇實 睇实 [di4 shi2] {tai2 sat6} /surveiller/
 睇小 睇小 [di4 xiao3] {tai2 siu2} /regarder de haut; sous-estimer; minimiser/
-????f 睇山 睇山 [di4 shan1] {tai2 saan1} /vérifier le feng shui d'une cimetière/
+睇山 睇山 [di4 shan1] {tai2 saan1} /vérifier le feng shui d'une cimetière/
 睇差一皮 睇差一皮 [di4 cha1 yi1 pi2] {tai2 caa1 jat1 pei4} /(expr. idiom.) faire une mauvaise estimation/
-????f 睇得出 睇得出 [di4 de2 chu1] {tai2 dak1 ceot1} /être capable de dire que... être capable de voir que.../
+睇得出 睇得出 [di4 de2 chu1] {tai2 dak1 ceot1} /être capable de dire que... être capable de voir que.../
 睇得化 睇得化 [di4 de5 hua4] {tai2 dak1 faa3} /être capable de passer à autre chose; être capable d'accepter les mauvaises nouvelles ou une mauvaise situation; être impassible/
 睇得起 睇得起 [di4 de5 qi3] {tai2 dak1 hei2} /tenir quelqu'un en haute estime/
 睇怕 睇怕 [di4 pa4] {tai2 paa3} /je crains que... je suis désolé mais... malheureusement.../
@@ -14793,21 +14795,21 @@
 睇更 睇更 [di4 geng4] {tai2 gaang1} /gardien de nuit; veilleur/
 睇書 睇书 [di4 shu1] {tai2 syu1} /lire un livre/
 睇樓 睇楼 [di4 lou2] {tai2 lau2} /visiter une maison ou un appartement (avant de l'acheter ou louer)/
-????f 睇檔 睇档 [di4 dang4] {tai2 dong3} /tenir le magasin; garder le magasin/tenir le stand; garder le stand/
+睇檔 睇档 [di4 dang4] {tai2 dong3} /tenir le magasin; garder le magasin/tenir le stand; garder le stand/
 睇死 睇死 [di4 si3] {tai2 sei2} /(fig.) prévoir un échec; s'attendre à ce que quelqu'un échoue/(fig.) regarder de haut; dénigrer; mépriser/
-????f 睇水 睇水 [di4 shui3] {tai2 seoi2} /surveiller; veiller; monter la garde; faire le guet (souvent lors d'un activité clandestin)/
-睇水色 睇水色 [di4 shui3 se4] {tai2 seoi2 sik1} /observer la situation/
+睇水 睇水 [di4 shui3] {tai2 seoi2} /(fig.) surveiller; veiller; monter la garde; faire le guet (souvent lors d'un activité clandestin)/(lit.) surveiller l'eau/
+睇水色 睇水色 [di4 shui3 se4] {tai2 seoi2 sik1} /(fig.) observer la situation/(lit.) voir la couleur de l'eau/
 睇法 睇法 [di4 fa3] {tai2 faat3} /opinion; avis; point de vue/
 睇波 睇波 [di4 bo1] {tai2 bo1} /regarder le foot; regarder un match de basket; regarder un match de n'importe quel sport avec un ballon/
 睇淡 睇淡 [di4 dan4] {tai2 daam6} /être pessimiste; avoir une perspective negative/
 睇清楚 睇清楚 [di4 qing1 chu5] {tai2 cing1 co2} /voir clair; voir clairement/vérifier attentivement; vérifier soigneusement/
-????f 睇準起筷 睇准起筷 [di4 zhun3 qi3 kuai4] {tai2 zeon2 hei2 faai3} /(expr. idiom.) attendre le bon moment/(lit.) ne pas lever ses baguettes avant de voir la bonne nourriture/
+睇準起筷 睇准起筷 [di4 zhun3 qi3 kuai4] {tai2 zeon2 hei2 faai3} /(expr. idiom.) attendre le bon moment/(lit.) ne pas lever ses baguettes avant de voir la bonne nourriture/
 睇漏眼 睇漏眼 [di4 lou4 yan3] {tai2 lau6 ngaan5} /oublier; négliger/
 睇牛 睇牛 [di4 niu2] {tai2 ngau4} /garder le bétail/
-????f 睇田水 睇田水 [di4 tian2 shui3] {tai2 tin4 seoi2} /gérer le système d'irrigation des champs/
+睇田水 睇田水 [di4 tian2 shui3] {tai2 tin4 seoi2} /gérer le système d'irrigation des champs/
 睇病 睇病 [di4 bing4] {tai2 beng6} /consulter un médecin/diagnostiquer une maladie/
 睇症 睇症 [di4 zheng4] {tai2 zing3} /voir un patient/
-????c 睇白 睇白 [di4 bai2] {tai2 baak6} /être sûr; être clair; être évident/arriver à une conclusion/
+睇白 睇白 [di4 bai2] {tai2 baak6} /être sûr; être clair; être évident/arriver à une conclusion/
 睇相 睇相 [di4 xiang1] {tai2 soeng3} /prédire l'avenir avec la lecture du visage chinoise/
 睇相佬 睇相佬 [di4 xiang1 lao3] {tai2 soeng1 lou2} /diseur de bonne aventure (masculin)/
 睇真 睇真 [di4 zhen1] {tai2 zan1} /examiner attentivement/
@@ -14821,33 +14823,33 @@
 睇起 睇起 [di4 qi3] {tai2 hei2} /tenir quelqu'un en haute estime/
 睇起上嚟 睇起上嚟 [di4 qi3 shang4 li2] {tai2 hei2 soeng5 lei4} /paraître que; sembler que; avoir l'air que.../
 睇路 睇路 [di4 lu4] {tai2 lou6} /attention! regarde où tu vas!/
-????f 睇辦 睇办 [di4 ban4] {tai2 baan2} /vérifier les échantillons de marchandises/
+睇辦 睇办 [di4 ban4] {tai2 baan2} /vérifier les échantillons de marchandises/
 睇過 睇过 [di4 guo4] {tai2 gwo3} /avoir déjà vu; avoir déjà regardé/ça dépend de.../
-????f 睇過先 睇过先 [di4 guo4 xian1] {tai2 gwo3 sin1} /attendons de voir.../
+睇過先 睇过先 [di4 guo4 xian1] {tai2 gwo3 sin1} /attendons de voir.../
 睇醫生 睇医生 [di4 yi1 sheng1] {tai2 ji1 sang1} /consulter le médecin/
-????c 睇錢份上 睇钱份上 [di4 qian2 fen4 shang4] {tai2 cin2 fan6 soeng6} /doing something because of money; for the sake of money/
-????f 睇門口 睇门口 [di4 men2 kou3] {tai2 mun4 hau2} /guarding the entrance (spoken)/save for later; keep in reserve/
+????f 睇錢份上 睇钱份上 [di4 qian2 fen4 shang4] {tai2 cin2 fan6 soeng6} /(expr. idiom.) faire quelque chose seulement pour l'argent/
+睇門口 睇门口 [di4 men2 kou3] {tai2 mun4 hau2} /surveiller l'entrée; surveiller la porte/(fig.) mettre quelque chose en réserve pour les urgences (souvent en parlant de médicaments)/
 睇開 睇开 [di4 kai1] {tai2 hoi1} /ne pas s'en faire; ne pas se faire de soucis; pouvoir supporter une mauvaise situation/être en train de regarder; être en train de voir/
 睇開啲 睇开啲 [di4 kai1 di1] {tai2 hoi1 di1} /ne pas s'en faire; ne pas se faire de soucis; pouvoir supporter une mauvaise situation/
 睇電視 睇电视 [di4 dian4 shi4] {tai2 din6 si6} /écouter la télé; regarder la télé/
 睇霸王戲 睇霸王戏 [di4 ba4 wang2 xi4] {tai2 baa3 wong4 hei3} /(expr. idiom.) écouter un film sans payer le billet/
-????f 睇頭 睇头 [di4 tou2] {tai2 tau4} /(film, livre, etc.) qui mérite d'être vu; qui mérite d'être lu/suivre l'exemple de quelqu'un d'autre/
-????c 睇頭睇尾 睇头睇尾 [di4 tou2 di4 wei3] {tai2 tau4 tai2 mei5} /1. looking from front and back (spoken) 2. look over everything/help with small tasks/take care of chores/
-????f 睇風水 睇风水 [di4 feng1 shui5] {tai2 fung1 seoi2} /vérifier le feng shui; pratiquer la géomancie/
+睇頭 睇头 [di4 tou2] {tai2 tau4} /(film, livre, etc.) qui mérite d'être vu; qui mérite d'être lu/suivre l'exemple de quelqu'un d'autre/
+睇頭睇尾 睇头睇尾 [di4 tou2 di4 wei3] {tai2 tau4 tai2 mei5} /(expr. idiom.) faire de petites tâches/
+睇風水 睇风水 [di4 feng1 shui5] {tai2 fung1 seoi2} /vérifier le feng shui; pratiquer la géomancie/
 睇餸食飯 睇餸食饭 [di4 song4 shi2 fan4] {tai2 sung3 sik6 faan6} /(expr. idiom.) vivre selon ses moyens/(expr. idiom.) s'adapter à la situation/(lit.) regarder les plats puis manger/
 睜眉突眼 睁眉突眼 [zheng1 mei2 tu2 yan3] {zang1 mei4 dat6 ngaan5} /(expr. idiom.) lancer un regard furieux/
 督背脊 督背脊 [du1 bei4 ji3] {duk1 bui3 zek3} /(fig.) trahir; dénoncer/(fig.) parler dans son dos/(lit.) poignarder dans le dos/
-????f 睩 睩 [lu4] {luk1} /rolling (eyes)/
-????f 睬你都傻 睬你都傻 [cai3 ni3 dou1 sha3] {coi2 nei5 dou1 so4} /(un peu vulg.) je m'en fiche (de ton opinion)/(lit.) je serais un idiot si je me souciais de ton opinion/
-????f 睬佢都傻 睬渠都傻 [cai3 qu2 dou1 sha3] {coi2 keoi5 dou1 so4} /(un peu vulg.) je m'en fiche (de son opinion)/(lit.) je serais un idiot si je me souciais de son opinion/
+睩 睩 [lu4] {luk1} /lever les yeux au ciel; rouler les yeux/
+睬你都傻 睬你都傻 [cai3 ni3 dou1 sha3] {coi2 nei5 dou1 so4} /(un peu vulg.) je m'en fiche (de ton opinion)/(lit.) je serais un idiot si je me souciais de ton opinion/
+睬佢都傻 睬渠都傻 [cai3 qu2 dou1 sha3] {coi2 keoi5 dou1 so4} /(un peu vulg.) je m'en fiche (de son opinion)/(lit.) je serais un idiot si je me souciais de son opinion/
 睩眼 睩眼 [lu4 yan3] {luk1 ngaan5} /avoir les yeux grand ouverts/
 睡不著 睡不着 [shui4 bu5 zhao2] {seoi6 bat1 zoek6} /être incapable de trouver le sommeil/
 睡夢 睡梦 [shui4 meng4] {seoi6 mung6} /rêve (pendant le sommeil)/sommeil/
-????f 睡眼惺忪 睡眼惺忪 [shui4 yan3 xing1 song1] {seoi6 ngaan5 sing1 sung1} /(expr. idiom.) yeux lourds de sommeil/
+睡眼惺忪 睡眼惺忪 [shui4 yan3 xing1 song1] {seoi6 ngaan5 sing1 sung1} /(expr. idiom.) yeux lourds de sommeil/
 睡衫 睡衫 [shui4 shan1] {seoi6 saam1} /pyjama/
 睡鋪 睡铺 [shui4 pu4] {seoi6 pou1} /couchette/
 睽異 睽异 [kui2 yi4] {kwai4 ji6} /être en désaccord; avoir des opinions différentes/
-????c 瞀里 瞀里 [mao4 li3] {mau6 lei5} /dumb/
+瞀里 瞀里 [mao4 li3] {mau6 lei2} /idiot; imbécile; connard/
 瞄 瞄 [miao2] {miu4} /fixer du regard; lorgner; regarder avec insistance/jeter un coup d'œil/
 瞄準 瞄准 [miao2 zhun3] {miu4 zeon2} /viser/
 瞇埋眼 眯埋眼 [mi1 mai2 yan3] {mei1 maai4 ngaan5} /fermer les yeux/
@@ -14856,9 +14858,11 @@
 瞎話 瞎话 [xia1 hua4] {hat6 waa6} /mensonge/dire des bêtises/
 瞓覺 瞓觉 [fen4 jiao4] {fan3 gaau3} /dormir; se coucher; aller au lit/
 瞓低 瞓低 [fen4 di1] {fan3 dai1} /s'allonger; se coucher/
-????f 瞓厲頸 瞓厉颈 [fen4 li4 jing3] {fan3 lai2 geng2} /(verb) get a sore neck; get a stiff neck/
+瞓厲頸 瞓厉颈 [fen4 li4 jing3] {fan3 lai2 geng2} /souffrir d'un torticolis après avoir dormi/
+瞓戾頸 瞓戾颈 [shui4 li4 jing3] {fan3 lai2 geng2} /souffrir d'un torticolis après avoir dormi/
 瞓唔著 瞓唔着 [fen4 wu2 zhao2] {fan3 m4 zoek6} /être incapable de trouver le sommeil/
-????f 瞓捩頸 瞓捩颈 [fen4 lie4 jing3] {fan3 lai2 geng2} /to get a stiff neck/
+瞓捩頸 瞓捩颈 [shui4 lie4 jing3] {fan3 lai2 geng2} /souffrir d'un torticolis après avoir dormi/
+瞓𡂖頸 瞓𡂖颈 [shui4 lai4 jing3] {fan3 lai2 geng2} /souffrir d'un torticolis après avoir dormi/
 瞓晏覺 瞓晏觉 [fen4 yan4 jue2] {fan3 ngaan3 gaau3} /faire une sieste/
 瞓着 瞓着 [fen4 zhe5] {fan3 zoek6} /s'endormir/endormi/
 瞓著 瞓著 [fen4 zhao2] {fan3 zoek6} /s'endormir/endormi/
@@ -14878,62 +14882,62 @@
 瞬間移動 瞬间移动 [shun4 jian1 yi2 dong4] {seon3 gaan1 ji4 dung6} /téléportation/
 瞳人 瞳人 [tong2 ren2] {tung4 jan4} /pupille/
 𥋇眼 𥋇眼 [zhang3 yan3] {caang3 ngaan5} /aveuglant; éblouissant/
-????c 瞻仰 瞻仰 [zhan1 yang3] {zim1 joeng5} /rendre hommage à quelqu'un; saluer la mémoire de quelqu'un/
+瞻仰 瞻仰 [zhan1 yang3] {zim1 joeng5} /rendre hommage à quelqu'un; saluer la mémoire de quelqu'un/veillée funèbre/
 矇 蒙 [meng2] {mung4} /pas clair/flou; vague/
 矇忪 蒙忪 [meng2 song1] {mung1 sung1} /fatigué; somnolent; endormi/
 矇查查 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /distrait; étourdi/flou; vague/
 矇査査 蒙查查 [meng2 cha2 cha2] {mung4 caa4 caa4} /distrait; étourdi/flou; vague/
 矇矇光 蒙蒙光 [meng2 meng2 guang1] {mung1 mung1 gwong1} /(fig.) l'aube; lever du jour/(lit.) lumière floue/
 矇茶茶 蒙茶茶 [meng2 cha2 cha2] {mung4 caa4 caa4} /distrait; étourdi/flou; vague/
-????f 矇豬眼 蒙猪眼 [meng2 zhu1 yan3] {mung1 zyu1 ngaan5} /(noun) small eyes; eyes that look like slits/
-????f 矚目 瞩目 [zhu3 mu4] {zuk1 muk6} /attrayant; qui attire l'œil/eye-catching/
-????c 矛 矛 [mao2] {maau4} /pique; lance/malhonnête; sournois/futé/
+????f 矇豬眼 蒙猪眼 [meng2 zhu1 yan3] {mung1 zyu1 ngaan5} /(inj.) bigleux; avoir de très petits yeux/
+矚目 瞩目 [zhu3 mu4] {zuk1 muk6} /attrayant; qui attire l'œil/accrocheur/
+矛 矛 [mao2] {maau4} /pique; lance/malhonnête; sournois/futé/
 矛盾 矛盾 [mao2 dun4] {maau4 teon5} /(fig.) conflit/(fig.) contradiction/(fig.) ambivalent; partagé/
 矜貴 矜贵 [jin1 gui4] {ging1 gwai3} /arrogant; orgueilleux/précieux; coûteux/cher; chéri; bien-aimé/
 矢志不移 矢志不移 [shi3 zhi4 bu4 yi2] {ci2 zi3 bat1 ji4} /(expr. idiom.) déterminé à faire quelque chose; résolu à faire quelque chose/
-????c 矢石 矢石 [shi3 shi2] {ci2 sek6} /war; slings and arrows/
+????f 矢石 矢石 [shi3 shi2] {ci2 sek6} /(litt.) flèches et pierres; armes de guerres antiques/
 矢言 矢言 [shi3 yan2] {ci2 jin4} /serment; vœu/prêter serment/
 知 知 [zhi1] {zi1} /savoir; connaître/savoir; connaissances/informer; notifier; avertir/(ami) proche/
 知事 知事 [zhi1 shi4] {zi1 si6} /sensé; qui a du bon sens/gouverneur/savoir; connaître les choses/
-????f 知人口面不知心 知人口面不知心 [zhi1 ren2 kou3 mian4 bu4 zhi1 xin1] {zi1 jan4 hau2 min6 bat1 zi1 sam1} /(expr. idiom.) l'habit ne fait pas le moine; il faut éviter de juger les personnes par rapport à leur apparence/(lit.) connaître l'apparence d'une personne mais ne pas connaître leur cœur/
+知人口面不知心 知人口面不知心 [zhi1 ren2 kou3 mian4 bu4 zhi1 xin1] {zi1 jan4 hau2 min6 bat1 zi1 sam1} /(expr. idiom.) l'habit ne fait pas le moine; il faut éviter de juger les personnes par rapport à leur apparence/(lit.) connaître l'apparence d'une personne mais ne pas connaître leur cœur/
 知其一,不知其二 知其一,不知其二 [zhi1 qi2 yi1 , bu4 zhi1 qi2 er4] {zi1 kei4 jat1 , bat1 zi1 kei4 ji6} /(expr. idiom.) ne connaître qu'une partie de l'histoire; n'avoir qu'une compréhension partielle/
 知到 知到 [zhi1 dao4] {zi1 dou3} /savoir; connaître/(réponse affirmative; « je comprends »)/
-????f 知命之年 知命之年 [zhi1 ming4 zhi1 nian2] {zi1 ming6 zi1 nin4} /(expr. idiom.) l'âge de cinquante ans/(lit.) l'âge où l'on connaît la vie/
-????f 知啲唔知啲 知啲唔知啲 [zhi1 di1 wu2 zhi1 di1] {zi1 di1 m4 zi1 di1} /(expr. idiom.) ne connaître qu'une partie de l'histoire; ne pas connaître toute l'histoire; ne pas connaître tous les détails/(expr. idiom.) avoir des connaissances superficielles/(lit.) savoir un peu, ne pas savoir un peu/
-????f 知客 知客 [zhi1 ke4] {zi1 haak3} /reception lady (at restaurants)/prostituée/receptionist monk in front of a monastery/
-????c 知底 知底 [zhi1 di3] {zi1 dai2} /to know the inside story/
+知命之年 知命之年 [zhi1 ming4 zhi1 nian2] {zi1 ming6 zi1 nin4} /(expr. idiom.) l'âge de cinquante ans/(lit.) l'âge où l'on connaît la vie/
+知啲唔知啲 知啲唔知啲 [zhi1 di1 wu2 zhi1 di1] {zi1 di1 m4 zi1 di1} /(expr. idiom.) ne connaître qu'une partie de l'histoire; ne pas connaître toute l'histoire; ne pas connaître tous les détails/(expr. idiom.) avoir des connaissances superficielles/(lit.) savoir un peu, ne pas savoir un peu/
+知客 知客 [zhi1 ke4] {zi1 haak3} /hôte; hôtesse (qui accueille les clients à un restaurant)/prostituée/
+知底 知底 [zhi1 di3] {zi1 dai2} /connaître les dessous de (quelque chose)/
 知彼知己，百戰百勝 知彼知己，百战百胜 [zhi1 bi3 zhi1 ji3 , bai3 zhan4 bai3 sheng4] {zi1 bei2 zi1 gei2 baak3 zin3 baak3 sing3} /(Sun Tzu) Connais ton ennemi et connais-toi toi-même; eussiez-vous cent guerres à soutenir, cent fois vous serez victorieux./
 知微 知微 [zhi1 wei1] {zi1 mei4} /être mesquin; être pointilleux; élever des difficultés sur les chose insignifiantes/égoïste; ne penser qu'à soi/rechercher son intérêt au détriment des autres/
 知微麻利 知微麻利 [zhi1 wei1 ma2 li5] {zi1 mei4 maa4 lei6} /être mesquin; être pointilleux; élever des difficultés sur les chose insignifiantes/égoïste; ne penser qu'à soi/rechercher son intérêt au détriment des autres/
 知心人 知心人 [zhi1 xin1 ren2] {zi1 sam1 jan4} /ami proche; ami intime/
 知心朋友 知心朋友 [zhi1 xin1 peng2 you5] {zi1 sam1 pang4 jau2} /ami proche; ami intime/
 知恩感戴 知恩感戴 [zhi1 en1 gan3 dai4] {zi1 jan1 gam2 daai3} /ressentir de la gratitude; être reconnaissant/
-????c 知情識趣 知情识趣 [zhi1 qing2 shi2 qu4] {zi1 cing4 sik1 ceoi3} /(expr. idiom.) compatissant et bienveillant/
+知情識趣 知情识趣 [zhi1 qing2 shi2 qu4] {zi1 cing4 sik1 ceoi3} /(expr. idiom.) compatissant et bienveillant/nom d'une série radio hongkongaise/
 知慳識儉 知悭识俭 [zhi1 qian1 shi2 jian3] {zi1 haan1 sik1 gim6} /(expr. idiom.) économe; frugal/
 知書識墨 知书识墨 [zhi1 shu1 shi2 mo4] {zi1 syu1 sik1 mak6} /(expr. idiom.) instruit; cultivé; lettré/(lit.) savoir les livres et connaître l'encre/
-????c 知機 知机 [zhi1 ji1] {zi1 gei1} /(verb) to sense danger or trouble is coming; or (verb) to sense an opportunity is coming/have foresight/
+知機 知机 [zhi1 ji1] {zi1 gei1} /prévoir/
 知死 知死 [zhi1 si3] {zi1 sei2} /reconnaître sa culpabilité/en subir les conséquences/
-????f 知無不言 知无不言 [zhi1 wu2 bu4 yan2] {zi1 mou4 bat1 jin4} /tout dire sans retenue/
+知無不言 知无不言 [zhi1 wu2 bu4 yan2] {zi1 mou4 bat1 jin4} /(expr.) tout dire sans retenue/
 知衰 知衰 [zhi1 shuai1] {zi1 seoi1} /reconnaître sa culpabilité/en subir les conséquences/
 知識份子 知识份子 [zhi1 shi4 fen4 zi3] {zi1 sik1 fan6 zi2} /(nom commun) intellectuel/
 知識經濟 知识经济 [zhi1 shi5 jing1 ji4] {zi1 sik1 ging1 zai3} /économie du savoir/
-????f 知識青年 知识青年 [zhi1 shi5 qing1 nian2] {zi1 sik1 cing1 nin4} /jeune intellectuel; jeune instruit/
+知識青年 知识青年 [zhi1 shi5 qing1 nian2] {zi1 sik1 cing1 nin4} /(politique) jeune intellectuel envoyé à la campagne en vertu du programme « mouvement d’envoi des zhiqing à la campagne »/
 知醒 知醒 [zhi1 xing3] {zi1 seng2} /se réveiller à l'heure/
-????f 知醜 知丑 [zhi1 chou3] {zi1 cau2} /avoir honte; se sentir honteux/
+知醜 知丑 [zhi1 chou3] {zi1 cau2} /avoir honte; se sentir honteux/
 知錯能改 知错能改 [zhi1 cuo4 neng2 gai3] {zi1 co3 nang4 goi2} /(expr.) il faut reconnaître ses erreurs avant de les pouvoir rectifier/
-????f 知頭唔知尾 知头唔知尾 [zhi1 tou2 wu2 zhi1 wei3] {zi1 tau4 m4 zi1 mei5} /(expr. idiom.) connaître le début d'une histoire ou de l'évènement mais ne pas connaître la fin/
+知頭唔知尾 知头唔知尾 [zhi1 tou2 wu2 zhi1 wei3] {zi1 tau4 m4 zi1 mei5} /(expr. idiom.) connaître le début d'une histoire ou de l'évènement mais ne pas connaître la fin/
 短 短 [duan3] {dyun2} /court; de petite longueur/bref/déficient/faible/
 短切切 短切切 [duan3 qie1 qie1] {dyun2 cit1 cit1} /(longueur, vêtements) très court; trop court/
-????c 短命種 短命种 [duan3 ming4 zhong3] {dyun2 meng6 zung2} /Short-lived/
-????f 短度闊封 短度阔封 [duan3 du4 kuo4 feng1] {dyun2 dou6 fut3 fung1} /petit et robuste/
-????c 短打 短打 [duan3 da3] {dyun2 daa2} /(baseball) Bunt; (theatre) short range sparring with short jackets/
-????c 短敍 短叙 [duan3 xu4] {dyun2 zeoi6} /brève rencontre/
+短命種 短命种 [duan3 ming4 zhong3] {dyun2 meng6 zung2} /éphémère/
+短度闊封 短度阔封 [duan3 du4 kuo4 feng1] {dyun2 dou6 fut3 fung1} /(d'une personne) petit et robuste/
+短打 短打 [duan3 da3] {dyun2 daa2} /(baseball) faire un coup amorti/vêtements sérrés pour femmes/
+短敍 短叙 [duan3 xu4] {dyun2 zeoi6} /bref rendez-vous; brève rencontre/
 短暫 短暂 [duan3 zan4] {dyun2 zaam6} /bref; court; éphémère/
 短火 短火 [duan3 huo3] {dyun2 fo2} /pistolet; arme de poing/
 短槍 短枪 [duan3 qiang1] {dyun2 coeng1} /pistolet; arme de poing/
 短笛 短笛 [duan3 di2] {dyun2 dek6} /piccolo/
 短篇 短篇 [duan3 pian1] {dyun2 pin1} /(littérature) nouvelle/dissertation courte; rédaction courte/article court/
-????c 短薳 短䓕 [duan3 wei3] {dyun2 jyun5} /to pinch, remove the top (agriculture terminology)/
+????f 短薳 短䓕 [duan3 wei3] {dyun2 jyun5} /(agriculture) pincer; ôter une pousse d'une plante pour l'encourager à croître d'une certaine manière/
 短袖衫 短袖衫 [duan3 xiu4 shan1] {dyun2 zau6 saam1} /t-shirt/
 短裙 短裙 [duan3 qun2] {dyun2 kwan4} /minijupe/
 短褸 短褛 [duan3 lu:3] {dyun2 lau1} /blouson; manteau court/
@@ -14962,26 +14966,26 @@
 石壆 石壆 [shi2 bo2] {sek6 bok3} /bordure du trottoir/
 石子 石子 [shi2 zi3] {sek6 zi2} /caillou; galet/
 石屎樓 石屎楼 [shi2 shi3 lou2] {sek6 si2 lau2} /bâtiment en béton/
-????c 石山 石山 [shi2 shan1] {sek6 saan1} /(noun) Rocky Mountain/
+石山 石山 [shi2 shan1] {sek6 saan1} /montagne rocheuse/« montagne » dans un paysage miniature d'un bonsaï/
 石川縣 石川县 [shi2 chuan1 xian4] {sek6 cyun1 jyun6} /Préfecture d'Ishikawa, préfecture du Japon/
 石排灣 石排湾 [shi2 Pai2 wan1] {sek6 paai4 waan1} /Shek Pai Wan, baie de Hong Kong/
 石春 石春 [shi2 chun1] {sek6 ceon1} /caillou; galet/
 石板街 石板街 [shi2 ban3 jie1] {sek6 baan2 gaai1} /Pottinger Street, rue de Hong Kong/
 石油勘探 石油勘探 [shi2 you2 kan1 tan4] {sek6 jau4 ham3 taam3} /exploration pétrolière/
 石油氣 石油气 [shi2 you2 qi4] {sek6 jau4 hei3} /gas de pétrole liquéfié/
-????f 石油氣爐 石油气炉 [shi2 you2 qi4 lu2] {sek6 jau4 hei3 lou4} /LPG stove; bottled gas stove/
+石油氣爐 石油气炉 [shi2 you2 qi4 lu2] {sek6 jau4 hei3 lou4} /cuisinière à gaz de pétrole liquéfié; poêle à gaz de pétrole liquéfié/
 石澳 石澳 [shi2 ao4] {sek6 ou3} /Shek O, région de Hong Kong/
 石灰水 石灰水 [shi2 hui1 shui3] {sek6 fui1 seoi2} /eau de chaux/
-????c 石灰籮 石灰箩 [shi2 hui1 luo2] {sek6 fui1 lo4} /one who commits petty crime everywhere (slang)/
+石灰籮 石灰箩 [shi2 hui1 luo2] {sek6 fui1 lo4} /(fig.) (inj.) personne qui commet des délits et qui laisse des traces/(lit.) panier à chaux/
 石牌橋站 石牌桥站 [shi2 pai2 qiao2 zhan4] {sek6 paai4 kiu4 zaam6} /Shipaiqiao station, station du métro de Canton/
 石狗公 石狗公 [shi2 gou3 gong1] {sek6 gau2 gung1} /Sebastiscus, genre de poissons/(fig.) personne pauvre qui fait semblant d'être riche/
 石硤尾 石硖尾 [shi2 xia2 wei3] {sek6 gip3 mei5} /Shek Kip Mei, région de Hong Kong/
 石碁站 石棋站 [shi2 qi2 zhan4] {sek6 kei4 zaam6} /Shiqi Station, station du métro de Canton/
 石筆 石笔 [shi2 bi3] {sek6 bat1} /craie (pour écrire sur un tableau)/
-????f 石米 石米 [shi2 mi3] {sek6 mai5} /(construction) cailloux; gravier (particulièrement quand ceux-ci sont utilisés dans un sol granolithique)/
+石米 石米 [shi2 mi3] {sek6 mai5} /(construction) cailloux; gravier (particulièrement quand ceux-ci sont utilisés dans un sol granolithique)/
 石級 石级 [shi2 ji2] {sek6 kap1} /marches en pierre/
 石綠 石绿 [shi2 lu:4] {sek6 luk6} /vert de malachite/
-????f 石罅米 石罅米 [shi2 xia4 mi3] {sek6 laa3 mai5} /(fig.) homme avare qui ne veut dépenser d'argent que pour les prostituées/(lit.) riz dans une fissure d'une pierre/
+石罅米 石罅米 [shi2 xia4 mi3] {sek6 laa3 mai5} /(fig.) homme avare qui ne veut dépenser d'argent que pour les prostituées/(lit.) riz dans une fissure d'une pierre/
 石螺 石螺 [shi2 luo2] {sek6 lo2} /escargot d'eau douce/
 石馬 石马 [shi2 ma3] {sek6 maa5} /cheval en pierre/
 石鼓洲 石鼓洲 [Dan4 gu3 zhou1] {sek6 gu2 zau1} /Shek Kwu Chau, île de Hong Kong/
@@ -17174,6 +17178,7 @@
 ????c 英雄輩出 英雄辈出 [ying1 xiong2 bei4 chu1] {jing1 hung4 bui3 ceot1} /Heroes come forth in large numbers/
 英魂 英魂 [ying1 hun2] {jing1 wan4} /esprit d'un martyr/
 茂利 茂利 [mao4 li4] {mau6 lei2} /imbécile; idiot; connard/
+茂里 茂里 [mao4 li3] {mau6 lei2} /imbécile; idiot; connard/
 范曉萱 范晓萱 [fan4 xiao3 xuan1] {faan6 hiu2 hyun1} /Mavis Fan, chanteuse taïwanaise/
 茄 茄 [qie2] {ke2} /aubergine/tomate/
 茄 茄 [jia1] {ke1} /matières fécales; excréments; fèces/
