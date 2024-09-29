@@ -6418,6 +6418,7 @@
 嬲好定笑好 嬲好定笑好 [niao3 hao3 ding4 xiao4 hao3] {nau1 hou2 ding6 siu3 hou2} /(expr.) ne pas savoir s'il faut en rire ou en pleurer; ne pas savoir comment réagir face à une situation/
 嬲死 嬲死 [niao3 si3] {nau1 sei2} /être très en colère; être très fâché/
 嬲爆爆 嬲爆爆 [niao3 bao4 bao4] {nau1 baau3 baau3} /fâché; en colère; furieux; enragé; fou de rage/
+嬲休 嬲休 [niao3 xiu1] {nau1 jau1} /(fig.) avoir une apparence peu soignée; être vêtu de haillons; (avoir les cheveux) en bataille/
 㜺鬼 㜺鬼 [zan4 gui3] {zaan2 gwai2} /très intéressant; unique/
 子 子 [zi5] {zi2} /fils/enfant/une des branches terrestres, ancien système de mesure de temps/société filiale; corporation filiale/
 子侄 子侄 [zi3 zhi2] {zi2 zat6} /enfants et membres plus jeunes de la famille/jeune génération; ensemble de membres de la famille qui sont une génération plus jeune que le locuteur/
@@ -15517,7 +15518,7 @@
 笑到肚刺 笑到肚刺 [xiao4 dao4 du4 ci4] {siu3 dou3 tou5 cek3} /(expr. idiom.) hilarant; très drôle/(lit.) rire jusqu'à avoir mal au ventre/
 笑到見牙唔見眼 笑到见牙唔见眼 [xiao4 dao4 jian4 ya2 wu2 jian4 yan3] {siu3 dou3 gin3 ngaa4 m4 gin3 ngaan5} /(expr. idiom.) rire de bon cœur/(lit.) rire jusqu'à ce que l'on puisse voir les dents et ne plus voir les yeux/
 笑口吟吟 笑口吟吟 [xiao4 kou3 yin2 yin2] {siu3 hau2 jam4 jam4} /sourire/sourirant/
-????f 笑口噬噬 笑口噬噬 [xiao4 kou3 shi4 shi4] {siu3 hau2 sai4 sai4} /avoir un sourire forcé; avoir un faux sourire/
+笑口噬噬 笑口噬噬 [xiao4 kou3 shi4 shi4] {siu3 hau2 sai4 sai4} /(expr.) avoir un sourire forcé; avoir un faux sourire/
 笑口棗 笑口枣 [xiao4 kou3 zao3] {siu3 hau2 zou2} /« boules de sésame souriantes », dessert chinois consommé lors des fêtes du Nouvel an/
 笑吟吟 笑吟吟 [xiao4 yin2 yin2] {siu3 jam4 jam4} /avec un sourire/(en particulier) avec un sourire lubrique/(en particulier) avec un sourire narquois/
 笑咪咪 笑眯眯 [xiao4 mi1 mi1] {siu3 mi1 mi1} /sourire; avoir un petit sourire/
@@ -15531,8 +15532,8 @@
 笑口常開 笑口常开 [xiao4 kou3 chang2 kai1] {siu3 hau2 soeng4 hoi1} /(expr.) être heureux/(lit.) souvent avoir la bouche ouverte en riant/
 笠 笠 [li4] {lap1} /chapeau de pluie en bambou/vol; cambriolage/voler; cambrioler; dévaliser (de l'anglais « rob »)/amour (de l'anglais « love »)/porter (un chapeau); mettre (un chandail)/être mielleux; baratiner/
 笠嘢 笠嘢 [li4 ye3] {lap1 je5} /voler; cambrioler; dévaliser/(orig.) de l'anglais « rob »/
-????c 笠衫 笠衫 [li4 shan1] {lap1 saam1} /an undershirt; an undervest/pull; tricot/
-????c 笠記 笠记 [li4 ji4] {lap1 gei3} /pull; tricot/(noun) unknown brand???/
+笠衫 笠衫 [li4 shan1] {lap1 saam1} /maillot de corps/t-shirt/chandail; pull; tricot/
+笠記 笠记 [li4 ji4] {lap1 gei3} /maillot de corps/t-shirt/pull; tricot/
 笠高帽 笠高帽 [li4 gao1 mao4] {lap1 gou1 mou2} /(fig.) flatter/
 符合 符合 [fu2 he2] {fu4 hap6} /remplir les conditions/
 符弗 符弗 [fu2 fu2] {fu4 fit1} /solution; moyen de régler un problème/
@@ -15568,30 +15569,33 @@
 第樣 第样 [di4 yang4] {dai6 joeng6, dai6 joeng2} /une autre sorte; un autre genre; un autre type/autre; différent/
 第次 第次 [di4 ci4] {dai6 ci3} /prochaine fois/
 第處 第处 [di4 chu3] {dai6 syu3} /ailleurs; autre part; un autre endroit/
-????c 笸籮 笸箩 [po3 luo5] {gam1 po2 lo4} /panier plat/panier en osier/valuables; spoiled children (spoken) ??/
+笸叵籮 笸叵箩 [jin1 po3 luo5] {gam1 po2 lo4} /(fig.) enfant précieux/(fig.) enfant gâté/
+笸叵羅 笸叵罗 [jin1 po3 luo5] {gam1 po2 lo4} /(fig.) enfant précieux/(fig.) enfant gâté/
+笸笸籮 笸笸箩 [jin1 po3 luo5] {gam1 po2 lo4} /(fig.) enfant précieux/(fig.) enfant gâté/
+笸笸羅 笸笸罗 [jin1 po3 luo5] {gam1 po2 lo4} /(fig.) enfant précieux/(fig.) enfant gâté/
 筆刨 笔刨 [bi3 pao2] {bat1 paau4} /taille-crayon/
-????f 筆劃輸入法 笔划输入法 [bi3 hua4 shu1 ru4 fa3] {bat1 waak6 syu1 jap6 faat3} /méthode de saisie de caractères chinois utilisant les traits des caractères « stroke input method »/
-????f 筆升 笔升 [bi3 sheng1] {bat1 sing1} /porte-crayons; porte-stylo/
+筆劃輸入法 笔划输入法 [bi3 hua4 shu1 ru4 fa3] {bat1 waak6 syu1 jap6 faat3} /méthode de saisie de caractères chinois utilisant les traits des caractères (« stroke input method » en anglais)/
+筆升 笔升 [bi3 sheng1] {bat1 sing1} /porte-crayons; porte-stylo/
 筆嘴 笔嘴 [bi3 zui3] {bat1 zeoi2} /pointe de stylo; extrémité du stylo/
 筆塔 笔塔 [bi3 ta3] {bat1 taap3} /capuchon de stylo/
 筆盒 笔盒 [bi3 he2] {bat1 hap6} /trousse d'écolier; étui à crayons/
-????c 筆芯電 笔芯电 [bi3 xin1 dian4] {bat1 sam1 din6} /piles AA/a term to describe flat-chested females?/
+筆芯電 笔芯电 [bi3 xin1 dian4] {bat1 sam1 din6} /piles AA/piles AAA/
 筆袋 笔袋 [bi3 dai4] {bat1 doi6} /trousse d'écolier; étui à crayons/
 筆記簿 笔记簿 [bi3 ji4 bu4] {bat1 gei3 bou2} /cahier/
 筆錔 笔錔 [bi3 ta4] {bat1 taap3} /capuchon de stylo/
-?????f 筆墨官司 笔墨官司 [bi3 mo4 guan1 si5] {bat1 mak6 gun1 si1} /Battle of words; written polemics/
+筆墨官司 笔墨官司 [bi3 mo4 guan1 si5] {bat1 mak6 gun1 si1} /(expr. idiom.) polémique à l'écrit/(lit.) bataille de plumes et d'encre/
 等一陣 等一阵 [deng3 yi2 zhen4] {dang2 jat1 zan6} /attendez un moment! attendez un instant!/
 等份 等份 [deng3 fen4] {dang2 fan6} /parties égales; parts égales/
-????f 等位 等位 [deng3 wei4] {dang2 wai2} /(dans un restaurant) attendre qu'une table se libère/(plus généralement, rare) attendre qu'un place se libère/
+等位 等位 [deng3 wei4] {dang2 wai2} /(dans un restaurant) attendre qu'une table se libère/(plus généralement, rare) attendre qu'un place se libère/
 等到頸都長 等到颈都长 [deng3 dao4 jing3 du1 chang2] {dang2 dou3 geng2 dou1 coeng4} /(expr. idiom.) attendre longtemps/(lit.) attendre (tellement longtemps) que le cou s'allonge/
-????c 等唔切 等唔切 [deng3 m2 qie4] {dang2 m4 cit3} /can't wait/
+等唔切 等唔切 [deng3 m2 qie4] {dang2 m4 cit3} /ne pas avoir la patience d'attendre quelque chose/
 等埋 等埋 [deng3 mai2] {dang2 maai4} /attendre/
 等埋我 等埋我 [deng3 mai2 wo3] {dang2 maai4 ngo5} /attends-moi!/
-????c 等於零 等于零 [deng3 yu2 ling2] {dang2 jyu1 ling4} /to be of no use/
-????c 等比定理 等比定理 [deng3 bi3 ding4 li3] {dang2 bei2 ding6 lei5} /equal ratios theorems/
+等於零 等于零 [deng3 yu2 ling2] {dang2 jyu1 ling4} /(fig.) ne servir à rien; n'avoir aucune utilité/
+等比定理 等比定理 [deng3 bi3 ding4 li3] {dang2 bei2 ding6 lei5} /théorème de Thalès/
 等距離 等距离 [deng3 ju4 li2] {dang2 keoi5 lei4} /équidistance/
 等錢使 等钱使 [deng3 qian2 shi3] {dang2 cin2 sai2} /être à court d'argent/
-????f 等閒視之 等闲视之 [deng3 xian2 shi4 zhi1] {dang2 haan4 si6 zi1} /(expr.) prendre quelque chose à la légère; traiter quelque chose à la légère/
+等閒視之 等闲视之 [deng3 xian2 shi4 zhi1] {dang2 haan4 si6 zi1} /(expr.) prendre quelque chose à la légère; traiter quelque chose à la légère/
 等陣 等阵 [deng3 zhen4] {dang2 zan6} /attendez un moment; attendez un instant/
 等離子 等离子 [deng3 li2 zi3] {dang2 lei4 zi2} /(état de matière) plasma/
 筋肉 筋肉 [jin1 rou4] {gan1 juk6} /muscles/
@@ -15599,10 +15603,10 @@
 筍乾 笋干 [sun3 gan1] {seon2 gon1} /pousse de bambou séchée/
 筍價 笋价 [sun3 jia4] {seon2 gaa3} /bonne affaire; prix avantageux; pas cher/
 筍嘢 笋嘢 [sun3 ye3] {seon2 je5} /du bon matos/bonne chose/
-????f 筍盤 笋盘 [sun3 pan2] {seon2 pun2} /(fig.) belle propriété pas chère; bel appartement pas cher/
+筍盤 笋盘 [sun3 pan2] {seon2 pun2} /(fig.) belle propriété pas chère; bel appartement pas cher/
 筒 筒 [tong3] {tung4} /tube/(mah-jong) les tuiles « cercle »/
 筒倉 筒仓 [tong3 cang1] {tung2 cong1} /silo; bâtiment où l’on entrepose les produits agricoles/
-????f 筒裙 筒裙 [tong3 qun2] {tung2 kwan4} /jupe moulante; jupe tube/
+筒裙 筒裙 [tong3 qun2] {tung2 kwan4} /jupe moulante; jupe tube/
 答允 答允 [da1 yun3] {daap3 wan5} /accepter (une demande); consentir/promettre/
 答嘴 答嘴 [da2 zui3] {daap3 zeoi2} /interrompre; couper la parole/
 答應 答应 [da1 ying5] {daap3 jing3} /répondre/accepter; consentir/promettre/
@@ -15612,11 +15616,11 @@
 筲箕 筲箕 [shao1 ji1] {saau1 gei1} /passoire/écumoire/
 筲箕灣 筲箕湾 [shao1 ji1 wan1] {saau1 gei1 waan1} /Shau Kei Wan, ville de Hong Kong/
 筷子基 筷子基 [kuai4 zi5 ji1] {faai3 zi2 gei1} /Fai Chi Kei, région de Macao/
-????f 筷子架 筷子架 [kuai4 zi5 jia4] {faai3 zi2 gaa2} /porte-baguettes; support pour une paire de baguettes/
-????f 筷子筒 筷子筒 [kuai4 zi5 tong3] {faai3 zi2 tung2} /pot cylindrique à baguettes; contenant cylindrique à baguettes/
-????m 節令 节令 [jie2 ling4] {zit3 ling6} /Seasonal/
+筷子架 筷子架 [kuai4 zi5 jia4] {faai3 zi2 gaa2} /porte-baguettes; support pour une paire de baguettes/
+筷子筒 筷子筒 [kuai4 zi5 tong3] {faai3 zi2 tung2} /pot cylindrique à baguettes; contenant cylindrique à baguettes/
+節令 节令 [jie2 ling4] {zit3 ling6} /(objet, temps, climat) saisonnier/(fruits, légumes) de saison/
 節儉 节俭 [jie2 jian3] {zit3 gim6} /économe; frugal/
-????f 節哀 节哀 [jie2 ai1] {zit3 oi1} /réprimer son chagrin (cette expression s'utilise en présentant ses condoléances)/
+節哀 节哀 [jie2 ai1] {zit3 oi1} /réprimer son chagrin (cette expression s'utilise en présentant ses condoléances, ex. 請節哀順變！)/
 節瓜 节瓜 [jie2 gua1] {zit3 gwaa1} /courge cireuse/
 節用 节用 [jie2 yong4] {zit3 jung6} /économiser; épargner/
 節目 节目 [jie2 mu4] {zit3 muk6} /évènements/programme/émission de télévision/
@@ -15627,13 +15631,13 @@
 箅 箅 [bi4] {bei3} /panier vapeur en bambou/
 箍 箍 [gu1] {ku1} /sauver (une relation)/avoir (un appareil dentaire)/appareil dentaire/cerceau/étrangler/
 箍煲 箍煲 [gu1 bao1] {ku1 bou1} /(fig.) sauver une relation/
-????f 箍牙 箍牙 [gu1 ya2] {ku1 ngaa4} /avoir un appareil dentaire/
+箍牙 箍牙 [gu1 ya2] {ku1 ngaa4} /avoir un appareil dentaire/
 箍臣 箍臣 [gu1 chen2] {ku1 san4} /coussin/(orig.) de l'anglais « cushion »/
 箍頸 箍颈 [gu1 jing3] {ku1 geng2} /étrangler; mettre ses mains autour du cou/
 箍頸黨 箍颈党 [gu1 jing3 dang3] {ku1 geng2 dong2} /voleur ou voleuse qui étrangle ses victimes/
-????c 箕斗 箕斗 [ji1 dou3] {gei1 dau2} /(industrie minière) skip/empreinte digitale/constellations; false reputation????/
+箕斗 箕斗 [ji1 dou3] {gei1 dau2} /(industrie minière) skip/empreinte digitale (en particulier, les motifs de boucle et de verticille)/ji et nandou, loges lounaires de l'astronomie chinoise/
 算 算 [suan4] {syun3} /calculer/être considéré comme/laisser tomber/
-????f 算你夠運 算你够运 [suan4 ni3 gou4 yun4] {syun3 nei5 gau3 wan6} /estime-toi heureux/
+算你夠運 算你够运 [suan4 ni3 gou4 yun4] {syun3 nei5 gau3 wan6} /(expr.) estime-toi heureux/
 算係 算系 [suan4 xi4] {syun3 hai6} /(être) probablement/peut être considéré comme/
 算吧啦 算吧啦 [suan4 ba5 la5] {syun3 baa1 laa1} /laisse tomber/
 算好 算好 [suan4 hao3] {syun3 hou2} /pourrait être pire; pas mal; acceptable/calculé; déjà calculé/
@@ -15656,7 +15660,7 @@
 箱籠 箱笼 [xiang1 long3] {soeng1 lung5} /bagages/
 箱頭筆 箱头笔 [xiang1 tou2 bi3] {soeng1 tau4 bat1} /feutre; feutre indélébile; marqueur indélébile; marqueur à pointe biseautée/
 範圍 范围 [fan4 wei2] {faan6 wai4} /cadre; visée; envergure/zone; limites/
-????f 範文 范文 [fan4 wen2] {faan6 man4} /dissertation servant d'exemple idéal/
+範文 范文 [fan4 wen2] {faan6 man4} /dissertation servant d'exemple idéal/
 築堤 筑堤 [zhu4 di1] {zuk1 tai4} /berge; digue/
 築路 筑路 [zhu4 lu4] {zuk1 lou6} /construire une route/
 篙竹 篙竹 [gao1 zhu2] {gou1 zuk1} /Bambusa pervariabilis, espèce de bambou/
@@ -15671,11 +15675,11 @@
 篤背脊 笃背脊 [du3 bei4 ji3] {duk1 bui3 zek3} /parler dans le dos de quelqu'un/trahir; dénoncer; moucharder/
 篤誠 笃诚 [du3 cheng2] {duk1 sing4} /sincère et honnête/
 篩 筛 [shai1] {sai1} /tamis/tamiser; cribler/(fig.) éliminer; disqualifier/
-????f 篩身篩勢 筛身筛势 [shai1 shen1 shai1 shi4] {sai1 san1 sai1 sai3} /one nagging and shaking its body (spoken)/
+篩身篩勢 筛身筛势 [shai1 shen1 shai1 shi4] {sai1 san1 sai1 sai3} /(d'un enfant) agité; qui ne cesse de bouger/
 簕竇 簕窦 [le4 dou4] {lak6 dau3} /difficile à s'entendre avec/
-????f 篾片 篾片 [mie4 pian4] {mit6 pin2} /lamelle mince de bambou/(vieilli) flagorneur; flatteur/
+篾片 篾片 [mie4 pian4] {mit6 pin2} /mince lamelle de bambou/(vieilli) flagorneur; flatteur/
 篾青 篾青 [mie4 qing1] {mit6 ceng1} /cuticule de bambou/
-????c 簍休 篓休 [lou3 xiu1] {lau1 jau1} /to not care and be neglectful of one's appearance; to be slovenly/
+簍休 篓休 [lou3 xiu1] {lau1 jau1} /(fig.) avoir une apparence peu soignée; être vêtu de haillons; (avoir les cheveux) en bataille/
 簞食瓢飲 箪食瓢饮 [dan1 si4 piao2 yin3] {daan1 sik6 piu4 jam2} /(expr. idiom.) vivre dans la pauvreté/(lit.) n'avoir qu'un bol de riz à manger et une louche d'eau à boire/
 簡化漢字 简化汉字 [jian3 hua4 han4 zi4] {gaan2 faa3 hon3 zi6} /caractères chinois simplifiés; sinogrammes simplifiés/
 簡直 简直 [jian3 zhi2] {gaan2 zik6} /tout simplement/
@@ -15695,15 +15699,15 @@
 簽賬 签账 [qian1 zhang4] {cim1 zoeng3} /payer part carte de crédit; payer par carte bancaire/
 簿仔 簿仔 [bu4 zi3] {bou2 zai2} /livret; carnet; petit cahier/livret d'épargne; carnet de banque/
 籌備 筹备 [chou2 bei4] {cau4 bei6} /préparer; prendre des dispositions/
-????f 籠屋 笼屋 [long2 wu1] {lung4 uk1} /(en particulier, à Hong Kong) « maison-cage », appartement subdivisé d'une superficie minuscule, souvent de moins de dix mètres carrés (voir aussi 棺材房|棺材房, 板間房|板间房)/
+籠屋 笼屋 [long2 wu1] {lung4 uk1} /(en particulier, à Hong Kong) « maison-cage », appartement subdivisé d'une superficie minuscule, souvent de moins de dix mètres carrés (voir aussi 棺材房|棺材房, 板間房|板间房)/
 籠裏雞作反 笼里鸡作反 [long2 li3 ji1 zuo4 fan3] {lung4 leoi5 gai1 zok3 faan2} /(expr. idiom.) conflit interne/(lit.) les poules dans la cage se révoltent/
-????f 籠𨋢 笼𨋢 [lung2 𨋢5] {lung4 lip1} /monte-charge; ascenseur de service/
+籠𨋢 笼𨋢 [lung2 𨋢5] {lung4 lip1} /monte-charge; ascenseur de service/
 籠底 笼底 [long2 di3] {lung2 dai2} /(fig.) (décrit un « lieu » où se trouve un secret bien gardé, ex. « sous le boisseau »)/(fig.) (d'un projet, des plans) remettre à plus tard; mettre de côté; abandonner pour l'instant/(lit.) fond du panier/
 籠底 笼底 [long2 di3] {lung4 dai2} /(fig.) (décrit un « lieu » où se trouve un secret bien gardé, ex. « sous le boisseau »)/(fig.) (d'un projet, des plans) remettre à plus tard; mettre de côté; abandonner pour l'instant/(lit.) fond du panier/
 籮 箩 [luo2] {lo4} /(fam.) fesses; derrière/
 籮噼 箩噼 [luo2 pi1] {lo1 pet1} /(fam.) fesses; derrière/
 籮底橙 箩底橙 [luo2 di3 cheng2] {lo4 dai2 caang2} /(fig.) fond du panier; produits restants que personne ne veut/(fig.) (péj.) femmes qui restent célibataires toute leur vie/(lit.) oranges (qui restent) au fond/
-????f 米缸 米缸 [mi3 gang1] {mai5 gong1} /(noun) a vat to store rice; a container to store rice/
+米缸 米缸 [mi3 gang1] {mai5 gong1} /grand contenant à riz; bac à riz/
 米舖 米铺 [mi3 pu4] {mai5 pou3} /magasin de riz/
 米色 米色 [mi3 se4] {mai5 sik1} /beige/
 米蘭花 米兰花 [mi3 lan2 hua1] {mai5 laan4 faa1} /Aglaia odorata, espèce de plantes/
@@ -15719,12 +15723,12 @@
 粉嶺 粉岭 [fen3 ling3] {fan2 leng5} /Fanling, ville de Hong Kong/
 粉擦 粉擦 [fen3 ca1] {fan2 caat3} /effaceur pour tableaux noirs; effaceur à tableaux noirs/
 粉果 粉果 [fen3 guo3] {fan2 gwo2} /jiaozi de chaozhou; « Teochew dumpling »/
-????c 粉盒 粉盒 [fen3 he2] {fan2 hap6} /Compact; powder box/
+粉盒 粉盒 [fen3 he2] {fan2 hap6} /(maquillage) boîte à poudre; poudrier/
 粉碎 粉碎 [fen3 sui4] {fan2 seoi3} /briser; fracasser; briser en morceaux/
 粉竇 粉窦 [fen3 dou4] {fan2 dau6} /repaire de drogués où l'on prend de l'héroïne/
 粉粿 粉粿 [fen3 guo3] {fan2 gwo2} /jiaozi de chaozhou; « Teochew dumpling »/
 粉腸 粉肠 [fen3 chang2] {fan2 coeng2} /chitterlings; tripes; intestin grêle du porc/(vulg.) con; connard; tête de nœud/(vulg.) bon à rien; fainéant/
-????c 粉角 粉角 [fen3 jiao3] {fan2 gok2} /Kudzu/
+????c 粉角 粉角 [fen3 jiao3] {fan2 gok2} /kudzu/
 粉飾昇平 粉饰升平 [fen3 shi4 sheng1 ping2] {fan2 sik1 sing1 ping4} /faire semblant que tout va bien/
 粉飾太平 粉饰太平 [fen3 shi4 tai4 ping2] {fan2 sik1 taai3 ping4} /faire semblant que tout va bien/
 粒狀 粒状 [li4 zhuang4] {lap1 zong6} /granulaire; en forme de petits grains/
@@ -15736,14 +15740,14 @@
 粗口爛舌 粗口烂舌 [cu1 kou3 lan4 she2] {cou1 hau2 laan6 sit6} /(expr.) vulgaire; grossier/
 粗嚡 粗嚡 [cu1 hai4] {cou1 haai4} /rugueux/
 粗心大意 粗心大意 [cu1 xin1 da4 yi4] {cou1 sam1 daai6 ji3} /(expr.) négligent/
-????f 粗手粗腳 粗手粗脚 [cu1 shou3 cu1 jiao3] {cou1 sau2 cou1 goek3} /(expr.) pataud; qui a des mouvements maladroits/
+粗手粗腳 粗手粗脚 [cu1 shou3 cu1 jiao3] {cou1 sau2 cou1 goek3} /(expr.) pataud; qui a des mouvements maladroits, pas délicats/
 粗暴 粗暴 [cu1 bao4] {cou1 bou6} /brutal; violent/
 粗生 粗生 [cu1 sheng1] {cou1 sang1} /(plante) résistant; rustique/
 粗生粗養 粗生粗养 [cu1 sheng1 cu1 yang3] {cou1 saang1 cou1 joeng5} /no need to pay much attention during the growing period/
-????f 粗線條 粗线条 [cu1 xian4 tiao2] {cou1 sin3 tiu4} /traits épais; lignes épaisses/ébauche; aperçu approximatif/(fig.) rudimentaire/honest without tact; having little regard for niceties????/
+粗線條 粗线条 [cu1 xian4 tiao2] {cou1 sin3 tiu4} /traits épais; lignes épaisses/(fig.) rudimentaire; simple/
 粗聲粗氣 粗声粗气 [cu1 sheng1 cu1 qi4] {cou1 seng1 cou1 hei3} /(expr.) (voix) rauque/
-????c 粗著 粗着 [cu1 zhe5] {cou1 zoek6} /casual wear/
-????c 粗身大勢 粗身大势 [cu1 shen1 da4 shi4] {cou1 san1 daai6 sai3} /(expr.) une femme enceinte qui doit être plus prudente/
+粗著 粗着 [cu1 zhe5] {cou1 zoek6} /vêtements confortables; tenue décontractée; (antonyme d'une tenue habillée)/s'habiller de vêtements confortables/
+粗身大勢 粗身大势 [cu1 shen1 da4 shi4] {cou1 san1 daai6 sai3} /(expr.) (d'une femme) être enceinte et devoir être plus prudente/
 粗重 粗重 [cu1 zhong4] {cou1 cung5} /encombrant et lourd/
 粗重嘢 粗重嘢 [cu1 chong2 ye3] {cou1 cung5 je5} /dur labeur; travail acharné/
 粗重工夫 粗重工夫 [cu1 chong2 gong1 fu5] {cou1 cung5 gung1 fu1} /dur labeur; travail acharné/
@@ -15751,7 +15755,7 @@
 粟米片 粟米片 [su4 mi3 pian4] {suk1 mai5 pin3} /flocons de maïs; cornflake/
 粟米羹 粟米羹 [su4 mi3 geng1] {suk1 mai5 gang1} /soupe chinoise au poulet et maïs/
 粟粉 粟粉 [su4 fen3] {suk1 fan2} /fécule de maïs/
-????c 粢飯 粢饭 [ci1 fan4] {ci1 faan6} /(food) Shanghainese sticky rice roll/glutinous rice/
+粢飯 粢饭 [ci1 fan4] {ci1 faan6} /cifantuan; cífàntuán; plat à base de riz gluant/riz gluant; riz glutineux/
 粤文 粤文 [yue4 wen2] {jyut6 man4} /Guangdong language; written Cantonese/
 粵西 粤西 [yue4 xi1] {jyut6 sai1} /partie ouest de la province de Guangdong/
 粵人 粤人 [Yue4 ren2] {jyut6 jan4} /peuple cantonais/
@@ -15768,23 +15772,23 @@
 精乖 精乖 [jing1 guai1] {zeng1 gwaai1} /intelligent et obéissant (se dit des enfants)/
 精乖伶俐 精乖伶俐 [jing1 guai1 ling2 li4] {zeng1 gwaai1 ling4 lei6} /intelligent et obéissant (se dit des enfants)/
 精乖靈利 精乖灵利 [jing1 guai1 ling2 li4] {zeng1 gwaai1 ling4 lei6} /intelligent et obéissant (se dit des enfants)/
-????f 精人出口，笨人出手 精人出口，笨人出手 [jing1 ren2 chu1 kou3 , ben4 ren2 chu1 shou3] {zeng1 jan4 ceot1 hau2 ban6 jan4 ceot1 sau2} /(expr. idiom.) ceux qui sont intelligents donnent les ordres; ceux qui sont stupides l'éxécutent/(expr. idiom.) situation où une personne encourage quelqu'un d'autre à prendre un risque stupide, mais c'est le premier qui en profite/(lit.) les personnes intelligentes contribuent leur paroles; les personnes stupides contribuent leur mains/
+????f 精人出口，笨人出手 精人出口，笨人出手 [jing1 ren2 chu1 kou3 , ben4 ren2 chu1 shou3] {zeng1 jan4 ceot1 hau2 ban6 jan4 ceot1 sau2} /(expr. idiom.) ceux qui sont intelligents donnent les ordres, ceux qui sont stupides les réalisent/(expr. idiom.) situation où une personne encourage quelqu'un d'autre à prendre un risque stupide, mais c'est lui qui en profite/(lit.) les personnes intelligentes contribuent leur paroles, les personnes stupides contribuent leur mains/
 精仔 精仔 [jing1 zai3] {zing1 zai2} /personne intelligente/
 精伶 精伶 [jing1 ling2] {zing1 ling1} /ingénieux; intelligent; astucieux/
 精出骨 精出骨 [jing1 chu1 gu3] {zing1 ceot1 gwat1} /(fig.) ingénieux et égoïste/
 精叻 精叻 [jing1 le4] {zeng1 lek1} /ingénieux; intelligent; astucieux/
-????f 精品店 精品店 [jing1 pin3 dian4] {zing1 ban2 dim3} /magasin de bibelots; boutique; petit magasin/
-????f 精埋一便 精埋一便 [jing1 mai2 yi1 bian4] {zing1 maai4 jat1 bin6} /personne futée qui utilise son intelligence à de fins mauvaises/
-????c 精悍 精悍 [jing1 han4] {zing1 hon5} /Capable and vigorous/
+????f 精品店 精品店 [jing1 pin3 dian4] {zing1 ban2 dim3} /magasin de bibelots/
+精埋一便 精埋一便 [jing1 mai2 yi1 bian4] {zing1 maai4 jat1 bin6} /(expr.) personne futée qui utilise son intelligence pour faire du mal/
+精悍 精悍 [jing1 han4] {zing1 hon5} /(d'une personne) capable et efficace/(de l'écriture) concis et pénétrant/
 精明 精明 [jing1ming2] {zing1 ming4} /ingénieux; astucieux; malin; intelligent/
 精武門 精武门 [jing1 wu3 men2] {zing1 mou5 mun4} /La Fureur de vaincre (« Fist of Fury » ou « The Chinese Connection » en anglais), film de kung-fu dont le personnage principal est interpreté par Bruce Lee/
-????c 精歸左 精归左 [jing1 gui1 zuo3] {zeng1 gwai1 zo2} /a mind that has been corrupted/
-????f 精益求精 精益求精 [jing1yi4qiu2jing1 ] {zing1 jik1 kau4 zing1} /(verb phrase) Excelsior /
+精歸左 精归左 [jing1 gui1 zuo3] {zeng1 gwai1 zo2} /(fig.) (avec un ton désapprobateur) faire les choses de sa propre manière; faire quelque chose d'une manière malhonnête/
+精益求精 精益求精 [jing1 yi4 qiu2 jing1] {zing1 jik1 kau4 zing1} /(expr.) améliorer ce qui est déjà parfait; être toujours en train d'améliorer quelque chose/
 精神分裂 精神分裂 [jing1 shen2 fen1 lie4] {zing1 san4 fan1 lit6} /schizophrénie/
 精神爽利 精神爽利 [jing1 shen5 shuang3 li4] {zing1 san4 song2 lei6} /revigoré; énergique/
 精神病院 精神病院 [jing1 shen2 bing4 yuan4] {zing1 san4 beng6 jyun2} /hôpital psychiatrique/
 精簡機構 精简机构 [jing1 jian3 ji1 gou4] {zing1 gaan2 gei1 kau3} /rationaliser les structures administratives/
-????f 精英大師 精英大师 [jing1 ying1 da4 shi1] {zing1 jing1 daai6 si1} /Silent Witness, cheval classé premier au monde dans les courses hippiques/
+精英大師 精英大师 [jing1 ying1 da4 shi1] {zing1 jing1 daai6 si1} /Silent Witness, cheval classé premier au monde dans les courses hippiques/
 精過冇尾蛇 精过冇尾蛇 [jing1 guo4 mao3 wei3 she2] {zeng1 gwo3 mou5 mei5 se4} /(expr. idiom.) très malin; futé; astucieux/(lit.) plus futé qu'un serpent sans queue (= plus difficile à attraper qu'un serpent sans queue)/
 精選輯 精选辑 [jing1 xuan3 ji2] {zing1 syun2 cap1} /(musique) compilation; Greatest Hits; Best of/
 精采 精采 [jing1 cai3] {zing1 coi2} /merveilleux; excitant; remarquable/
@@ -15794,24 +15798,24 @@
 糊仔 糊仔 [hu2 zi3] {wu2 zai2} /nourriture pour bébés/
 糕盤 糕盘 [gao1 pan2] {gou1 pun2} /moule à gâteau/
 糖不甩 糖不甩 [tang2 bu4 shuai3] {tong4 bat1 lat1} /« sucre qui ne se détache pas » dessert cantonais; boules de riz gluant recouvertes de sucre, des arachides, et des graines de sésame/
-????f 糖冬瓜 糖冬瓜 [tang2 dong1 gua1] {tong4 dung1 gwaa1} /tranches de courge cireuse séchées et saupoudrées de sucre/
+糖冬瓜 糖冬瓜 [tang2 dong1 gua1] {tong4 dung1 gwaa1} /tranches de courge cireuse séchées et saupoudrées de sucre/
 糖果 糖果 [tang2 guo3] {tong4 gwo2} /bonbon; confiserie; friandise/
 糖水 糖水 [tang2 shui3] {tong4 seoi2} /tong sui, soupe sucrée servie comme dessert/
-????f 糖水舖 糖水铺 [tang2 shui3 pu4] {tong4 seoi2 pou2} /restaurant de desserts où le tong sui est servi/
+糖水舖 糖水铺 [tang2 shui3 pu4] {tong4 seoi2 pou2} /restaurant de desserts où le tong sui est servi/
 糖環 糖环 [tang2 huan2] {tong4 waan4} /« anneaux de sucre », patisserie frite consommée lors des fêtes du Nouvel an chinois/
 糖膠樹 糖胶树 [tang2 jiao1 shu4] {tong4 gaau1 syu6} /(arbre tropical) Alstonia scholaris; arbre du diable; alstonia des écoliers; quinquina d'Inde; quinquina d'Australie/
 糖衣炮彈 糖衣炮弹 [tang2 yi1 pao4 dan4] {tong4 ji1 paau3 daan2} /(expr. idiom.) quelque chose qui paraît bon à première vue mais qui se révèle nuisible/(lit.) balle (d'arme à feu) recouverte de sucre/
 糖黐豆 糖黐豆 [tang2 chi1 dou4] {tong4 ci1 dau2} /(fig.) (personnes) inséparables/(lit.) comme du sucre qui colle aux fèves/
 糜 糜 [mei2] {mei4} /bouillie de riz/congee/pourri/
 糟質 糟质 [zao1 zhi4] {zou1 zat1} /se moquer de (quelqu'un); insulter; injurier; tourmenter/abîmer; endommager quelque chose/
-????f 糠耳 糠耳 [kang1 er3] {hong1 ji5} /dry ear/to have dry earwax?/to not have earwax?/
+糠耳 糠耳 [kang1 er3] {hong1 ji5} /oreille qui produit très peu de cérumen/
 糧 粮 [liang2] {loeng4} /salaire/
 糧單 粮单 [liang2 dan1] {loeng4 daan1} /bulletin de salaire; fiche de paie/
 糧食 粮食 [liang2 shi5] {loeng4 sik6} /denrées; aliments; nourriture/
 糯米 糯米 [nuo4 mi3] {no6 mai5} /riz gluant/
 糯米屎忽 糯米屎忽 [nuo4 mi3 shi3 hu1] {no6 mai5 si2 fat1} /(expr. idiom.) une personne qui abuse de l'hospitalité/(lit.) fesses au riz gluant/
 糯米屎窟 糯米屎窟 [nuo4 mi3 shi3 ku1] {no6 mai5 si2 fat1} /(expr. idiom.) une personne qui abuse de l'hospitalité/(lit.) fesses au riz gluant/
-????f 糯米酒 糯米酒 [nuo4 mi3 jiu3] {no6 mai5 zau2} /Glutinous rice wine/
+糯米酒 糯米酒 [nuo4 mi3 jiu3] {no6 mai5 zau2} /boisson alcoolique à base de riz gluant/
 糯米雞 糯米鸡 [nuo4 mi3 ji1] {no6 mai5 gai1} /lo mai gai, plat classique de dimsum/
 糴米 籴米 [di2 mi3] {dek6 mai5} /acheter du riz/
 糷 糷 [lan4] {laan4, laan6} /riz cuit/riz trop mou/
@@ -15840,7 +15844,7 @@
 紅封包 红封包 [hong2 feng1 bao1] {hung4 baau1 fung1} /(plus rare) enveloppe rouge; paquet rouge/
 紅底 红底 [hong2 di3] {hung4 dai2} /fond rouge/(fig.) billet de cent dollars de Hong Kong/
 紅會 红会 [hong2 hui4] {hung4 wui2} /Société nationale de la Croix-Rouge/
-????f 紅棍 红棍 [hong2 gun4] {hung4 gwan3} /(noun) a senior position in a triad (enforcer?)/
+紅棍 红棍 [hong2 gun4] {hung4 gwan3} /membre d'un gang chargé de faire respecter les règles du gang (par la force); homme de main; tueur à gages/
 紅極一時 红极一时 [hong2 ji2 yi1 shi2] {hung4 gik6 jat1 si4} /(expr. idiom.) être très populaire pendant un certain temps/
 紅毛 红毛 [hong2 mao2] {hung4 mou4} /(nom commun) étranger, étrangère/Européen/(lit.) cheveux rouges/
 紅毛墳場 红毛坟场 [hong2 mao2 fen2 chang3] {hung4 mou4 fan4 coeng4} /cimetière de Hong Kong, anciennement appelé cimetière colonial de Hong Kong/
@@ -15848,7 +15852,7 @@
 紅毛猩猩 红毛猩猩 [hong2 mao2 xing1 xing5] {hung4 mou4 sing1 sing1} /orang-outan; orang-outang/
 紅汞 红汞 [hong2 gong3] {hung4 hung3} /Mercurochrome, merbromine, antiseptique topique/
 紅汞水 红汞水 [hong2 gong3 shui3] {hung4 hung3 seoi2} /Mercurochrome, merbromine, antiseptique topique/
-????f 紅牌阿姑 红牌阿姑 [hong2 pai2 a1 gu1] {hung4 paai2 aa3 gu1} /(noun) a famous prostitutes in a brothel/
+紅牌阿姑 红牌阿姑 [hong2 pai2 a1 gu1] {hung4 paai2 aa3 gu1} /(expr.) la prostituée la plus connue, la plus populaire d'une maison close/
 紅番 红番 [hong2 fan1] {hung4 faan1} /Amérindiens/(fig.) barbare/(lit.) aborigène rouge/(orig.) du nom en anglais (maintenant désuet et injurieux), « red Indians »/
 紅當當 红当当 [hong2 dang1 dang1] {hung4 dong1 dong6} /rouge vif/trop rouge/
 紅當蕩 红当荡 [hong2 dang1 dang4] {hung4 dong1 dong6} /rouge vif/trop rouge/
@@ -15871,20 +15875,20 @@
 紅菜頭 红菜头 [hong2 cai4 tou2] {hung4 coi3 tau4} /betterave/
 紅葡萄酒 红葡萄酒 [hong2 pu2 tao5 jiu3] {hung4 pou4 tou4 zau2} /vin rouge/
 紅藥水 红药水 [hong2 yao4 shui3] {hung4 joek6 seoi2} /Mercurochrome, merbomrine, antiseptique topique/
-????f 紅蟲 红虫 [hong2 chong2] {hung4 cung4} /(noun) tubifex worms (is this right?)/
-????c 紅蟹 红蟹 [hong2 xie4] {hung4 haai5} /coral crab (what species?)/
+紅蟲 红虫 [hong2 chong2] {hung4 cung4} /larve de chironome; ver de vase; ver de vase rouge/
+紅蟹 红蟹 [hong2 xie4] {hung4 haai5} /Charybdis feriata, espèce de crabes/
 紅衫 红衫 [hong2 shan1] {hung4 saam1} /vêtements rouges/(famille de poissons) Polynemidae; Alectis/
 紅衫魚 红衫鱼 [hong2 shan1 yu2] {hung4 saam1 jyu2} /(famille de poissons) Polynemidae; Alectis/(fig.) billet de cent dollars de Hong Kong/
-????c 紅裝 红装 [hong2 zhuang1] {hung4 zong1} /a lady's Sunday (best?) clothes/jeune femme/
-????f 紅豆冰 红豆冰 [hong2 dou4 bing1] {hung4 dau6 bing1} /sloche aux haricots azuki; slush aux haricots azuki; barbotine aux haricots azuki; granité aux haricots azuki/
+????c 紅裝 红装 [hong2 zhuang1] {hung4 zong1} /habits du dimanche/tenue colorée/jeune femme/
+紅豆冰 红豆冰 [hong2 dou4 bing1] {hung4 dau6 bing1} /sloche aux haricots azuki; slush aux haricots azuki; barbotine aux haricots azuki; granité aux haricots azuki/
 紅豆沙 红豆沙 [hong2 dou4 sha1] {hung4 dau2 saa1} /tong sui (soupe-dessert chinois) aux haricots azuki/
-????f 紅豆相思 红豆相思 [hong2 dou4 xiang1 si1] {hung4 dau6 soeng1 si1} /(expr. idiom.) peine de cœur; chagrin d'amour (is this a correct translation for lovesickness? maybe more like noun form of languir d'amour? to be constantly thinking of somebody else - to yearning for somebody)/
+紅豆相思 红豆相思 [hong2 dou4 xiang1 si1] {hung4 dau6 soeng1 si1} /(expr. idiom.) mal d'amour; peine de cœur; chagrin d'amour/
 紅酒 红酒 [hong2 jiu3] {hung4 zau2} /vin rouge/
 紅隧 红隧 [hong2 sui4] {hung4 seoi6} /Hung Hom Cross Harbour Tunnel (« tunnel routier entre îles Hung Hom »)/
-????f 紅面關公 红面关公 [hong2 mian4 guan1 gong1] {hung4 min6 gwaan1 gung1} /Red-faced Guan Gong; someone with a red face/
+紅面關公 红面关公 [hong2 mian4 guan1 gong1] {hung4 min6 gwaan1 gung1} /(expr. idiom.) une personne qui a un visage congestionné/(lit.) avoir le visage rouge comme Kwan Tai/
 紅館 红馆 [hong2 guan3] {hung4 gun2} /Hong Kong Coliseum; Hung Hom Coliseum, arène intérieure polyvalente/
 紅鬚綠眼 红须绿眼 [hong2 xu1 lu:4 yan3] {hung4 sou1 luk6 ngaan5} /(fig.) étranger/(lit.) cheveux rouges et yeux verts/
-????c 紅鬚軍師 红须军师 [hong2 xu1 jun1 shi1] {hung4 sou1 gwan1 si1} /(fig.) mauvais conseiller; mauvais stratège/(lit.) counseiller militaire aux cheveux rouges/
+紅鬚軍師 红须军师 [hong2 xu1 jun1 shi1] {hung4 sou1 gwan1 si1} /(fig.) mauvais conseiller; mauvais stratège/(lit.) counseiller militaire aux cheveux rouges/
 紅小 红小 [hong2 xiao3] {hung4 siu2} /(Hong Kong) minibus à toit rouge sans itinéraire prédéterminé (contrairement à ceux à toit vert avec itinéraire prédéterminé, 綠小|绿小)/
 紅ｖａｎ 红ｖａｎ [hong2 wan] {hung4 ｖａｎ} /(Hong Kong) minibus à toit rouge sans itinéraire prédéterminé (contrairement à ceux à toit vert avec itinéraire prédéterminé, 綠小|绿小)/
 紅鶴 红鹤 [hong2 he4] {hung4 hok2} /(oiseau) flamant/
@@ -15892,14 +15896,14 @@
 紊亂 紊乱 [wen3 luan4] {man6 lyun6} /confus; embrouillé; chaotique/
 納戈爾諾－卡拉巴赫 纳戈尔诺－卡拉巴赫 [na4 ge1 er3 nuo4 ka3 la1 ba1 he4] {naap6 gwo1 ji5 nok6 kaa1 laai1 baa1 hak1} /Haut-Karabagh/
 納稅 纳税 [na4 shui4] {naap6 seoi3} /payer des impôts/
-????c 紐 纽 [niu3] {nau2} /(noun)  Refer to New Zealand /
+紐 纽 [niu3] {nau2} /(abréviation de 紐西蘭|纽兰西 « la Nouvelle-Zélande ») (voir aussi 澳紐|澳纽)/
 紐門 纽门 [niu3 men2] {nau2 mun4} /boutonnière/
 純粹 纯粹 [chun2 cui4] {seon4 seoi6} /purement; complètement; simplement/
 純量 纯量 [chun2 liang4] {seon4 loeng6} /(mathématiques) scalaire/
-????f 紗燈 纱灯 [sha1 deng1] {saa1 dang1} /gauze lantern (not really gauze though...)/
+紗燈 纱灯 [sha1 deng1] {saa1 dang1} /lampion/
 紗籠 纱笼 [sha1 long2] {saa1 lung4} /sarong, vêtement formé d'une pièce de tissu rectangulaire en forme cylindrique/
 紗紙 纱纸 [sha1 zhi3] {saa1 zi2} /papier de soie/
-????f 紗罩 纱罩 [sha1 zhao4] {saa1 zaau3} /manchon à incandescence/????f gauze or screen covering (over dishes of food)/
+????f 紗罩 纱罩 [sha1 zhao4] {saa1 zaau3} /manchon à incandescence/cloche alimentaire de gaze; couvre-plat; « tente » pour aliments/
 紗錠 纱锭 [sha1 ding4] {saa1 ding3} /fuseau; bobine de fil/
 紙包唔住火 纸包唔住火 [zhi3 bao1 wu2 zhu4 huo3] {zi2 baau1 m4 zyu6 fo2} /(expr. idiom.) la vérité ne peut pas être cachée/(lit.) le papier ne peut pas envelopper le feu/
 紙屑 纸屑 [zhi3 xie4] {zi2 sit3} /bouts de papier/
@@ -15939,13 +15943,13 @@
 紮紮跳 紮扎跳 [za1 zha1 tiao4] {zaat3 zaat3 tiu3} /sautiller; sauter partout/
 紮職 扎职 [zha1 zhi2] {zaat3 zik1} /(fam.) obtenir une promotion; être promu/
 紮腳 扎脚 [za1 jiao3] {zaat3 goek3} /coutume des pieds bandés/
-????f 紮鐵 扎铁 [za1 tie3] {zaat3 tit3} /(construction) bar bending/
+紮鐵 扎铁 [za1 tie3] {zaat3 tit3} /(construction) positionnement et attachement des barres d'armature/
 紮馬 扎马 [za1 ma3] {zaat3 maa5} /kiba-dachi, posture de kung-fu/
 累 累 [lei4] {leoi6} /fatigué; épuisé; crevé/causer des ennuis à quelqu'un/
 累世 累世 [lei3 shi4] {leoi5 sai3} /pendant plusieurs générations/
 累人累物 累人累物 [lei4 ren2 lei3 wu4] {leoi6 jan4 leoi6 mat6} /être un fardeau pour les autres/
 累卵 累卵 [lei3 luan3] {leoi5 leon2} /(fig.) précaire/(lit.) tas d'œufs/
-????c 累死 累死 [lei4 si3] {leoi6 sei2} /épuisé; crevé/accuser faussement/???? to drag someone down into a bad situation/
+累死 累死 [lei4 si3] {leoi6 sei2} /épuisé; crevé/accuser faussement/mêler quelqu'un à une sale affaire/
 累積 累积 [lei3 ji1] {leoi5 zik1} /accumuler/
 細 细 [xi4] {sai3} /petit/minuscule/
 細佬 细佬 [xi4 lao3] {sai3 lou2} /frère cadet/(fam.) pénis/
@@ -15957,7 +15961,7 @@
 細姐 细姐 [xi4 jie3] {sai3 ze2} /belle-mère; nouvelle conjointe de son père/concubine de son père/
 細婆 细婆 [xi4 po2] {sai3 po2} /concubine/
 細嬸 细婶 [xi4 shen3] {sai3 sam2} /conjointe du frère cadet de son mari/
-????f 細工 细工 [xi4 gong1] {sai3 gung1} /artisanat; beau travail; bienfacture/garçon de courses; fille de courses; personne qui fait les courses (errand boy????)/
+細工 细工 [xi4 gong1] {sai3 gung1} /artisanat; beau travail; bienfacture/garçon de courses; fille de courses; personne qui fait les courses/
 細故 细故 [xi4 gu4] {sai3 gu3} /bagatelle; broutille; vétille; affaire sans importance/
 細時 细时 [xi4 shi2] {sai3 si4} /dans sa jeunesse; quand l'on était petit/
 細碼 细码 [xi4 ma3] {sai3 maa5} /(taille de vêtements) petit/
@@ -15990,8 +15994,8 @@
 終之 终之 [zhong1 zhi1] {zung1 zi1} /enfin; finalement/
 終歸 终归 [zhong1 gui1] {zung1 gwai1} /finalement; au bout du compte; au final/
 終須 终须 [zhong1 xu1] {zung1 seoi1} /inévitablement; forcément; tôt ou tard/
-????f 終須有日龍穿鳳 终须有日龙穿凤 [zhong1 xu1 you3 ri4 long2 chuan1 feng4] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6} /(expr. idiom.) tout le monde aura sa chance de réussir/
-????f 終須有日龍穿鳳，唔信一世褲穿窿 终须有日龙穿凤，唔信一世裤穿窿 [zhong1 xu1 you3 ri4 long2 chuan1 feng4, wu2 xin4 yi1 shi4 ku4 chuan1 long2] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6, m4 seon3 jat1 sai3 fu3 cyun1 lung1} /(expr. idiom.) tout le monde aura sa chance de réussir/(lit.) il y aura sûrement un jour où le dragon perce le phénix (= tu réussiras) - si tu n'y crois pas, toute la vie tu auras des trous dans tes pantalons (= tu seras pauvre toute la vie)/
+終須有日龍穿鳳 终须有日龙穿凤 [zhong1 xu1 you3 ri4 long2 chuan1 feng4] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6} /(expr. idiom.) tout le monde aura sa chance de réussir/
+終須有日龍穿鳳，唔信一世褲穿窿 终须有日龙穿凤，唔信一世裤穿窿 [zhong1 xu1 you3 ri4 long2 chuan1 feng4, wu2 xin4 yi1 shi4 ku4 chuan1 long2] {zung1 seoi1 jau5 jat6 lung4 cyun1 fung6, m4 seon3 jat1 sai3 fu3 cyun1 lung1} /(expr. idiom.) tout le monde aura sa chance de réussir/(lit.) il y aura sûrement un jour où le dragon perce le phénix (= tu réussiras) - si tu n'y crois pas, toute la vie tu auras des trous dans tes pantalons (= tu seras pauvre toute la vie)/
 絃外之音 弦外之音 [xian2 wai4 zhi1 yin1] {jin4 ngoi6 zi1 jam1} /(fig.) implication; insinuation/(lit.) sons en dehors des cordes/
 絃索 弦索 [xian2 suo3] {jin4 sok3} /(d'un instrument de musique) corde/
 弦線 弦线 [xian2 xian4] {jin4 sin3} /(d'un instrument de musique) corde/
@@ -18000,7 +18004,7 @@
 褲頭帶 裤头带 [ku4 tou2 dai4] {fu3 tau4 daai2} /ceinture/ceinture en élastique/
 ????f 褲骨 裤骨 [ku4 gu3] {fu3 gwat1} /pli vertical d'un pantalon/(lit.) os d'un pantalon/
 ????f 褲髀 裤髀 [ku4 bi4] {fu3 bei2} /partie d'un pantalon qui couvre les cuisses/
-褸丘 褛丘 [lu:3 qiu1] {lau1 jau1} /vêtu de haillons/(fig.) désordonné/(fig.) (avoir les cheveux) en bataille/
+褸丘 褛丘 [lu:3 qiu1] {lau1 jau1} /(fig.) avoir une apparence peu soignée; être vêtu de haillons; (avoir les cheveux) en bataille/
 褸尾 褛尾 [lu:3 wei3] {lau1 mei1} /en dernière place/
 ????f 褸裙 褛裙 [lu:3 qun2] {lau5 kwan4} /cape pour enfants/one-piece dress/long manteau pour femmes/
 襄助 襄助 [xiang1 zhu4] {soeng1 zo6} /aider/
