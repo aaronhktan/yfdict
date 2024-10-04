@@ -16007,10 +16007,10 @@
 組團 组团 [zu3 tuan2] {zou2 tyun4} /groupe; équipe/
 組成 组成 [zu3 cheng2] {zou2 sing4} /former; composer/composition; résultat de mélanger/
 組織液 组织液 [zu3 zhi1 ye4] {zou2 zik1 jik6} /liquide interstitiel/
-????c 組織生活 组织生活 [zu3 zhi1 sheng1 huo2] {zou2 zik1 sang1 wut6} /Organizational life/
+組織生活 组织生活 [zu3 zhi1 sheng1 huo2] {zou2 zik1 sang1 wut6} /(expr.) les activités d'une organisation (souvent utilisé dans le contexte de 党的组织生活|黨的組織生活, les activités des cellules du Parti communiste chinois)/
 組織路線 组织路线 [zu3 zhi1 lu4 xian4] {zou2 zik1 lou6 sin3} /principes d'organisation; principes organisationnels/
 組織部 组织部 [zu3 zhi1 bu4] {zou2 zik1 bou6} /Ministère de l'organisation du Parti communiste chinois, ministère responsable pour la gestion des ressources humaines/
-????c 組織領導 组织领导 [zu3 zhi1 ling3 dao3] {zou2 zik1 ling5 dou6} /leadership organisationnel/
+????c 組織領導 组织领导 [zu3 zhi1 ling3 dao3] {zou2 zik1 ling5 dou6} /leadership organisationnel/leader d'une organization/
 組黨 组党 [zu3 dang3] {zou2 dong2} /former un parti politique/
 結 结 [jie2] {git3} /terminer; conclure; achever/(chimie) précipiter; se cristalliser/
 結他 结他 [jie2 ta1] {git3 taa1} /guitare/
@@ -16020,8 +16020,8 @@
 結婚典禮 结婚典礼 [jie2 hun1 dian3 li3] {git3 fan1 din2 lai5} /cérémonie de mariage/
 結婚證書 结婚证书 [jie2 hun1 zheng4 shu1] {git3 fan1 zing3 syu1} /certificat de mariage; contrat de mariage; extrait de mariage/
 結恭 结恭 [jie2 gong1] {git3 gung1} /constipation/
-????f 結拜兄弟 结拜兄弟 [jie2 bai4 xiong1 di4] {git3 baai3 hing1 dai6} /frères jurés; frères de sang (version féminine?)/
-????f 結晶器 结晶器 [jie2 jing1 qi4] {git3 zing1 hei3} /casting mold; a crystallizer (industrial crystallizer)/
+結拜兄弟 结拜兄弟 [jie2 bai4 xiong1 di4] {git3 baai3 hing1 dai6} /frères jurés; frères de sang/
+結晶器 结晶器 [jie2 jing1 qi4] {git3 zing1 hei3} /cristallisateur industriel/
 結果 结果 [jie1 guo3] {git3 gwo2} /conséquence; résultat/
 結業證書 结业证书 [jie2 ye4 zheng4 shu1] {git3 jip6 zing3 syu1} /certificat d'achèvement; certificat de réussite/
 結繩 结绳 [jie2 sheng2] {git3 sing4} /nouer/
@@ -16044,11 +16044,12 @@
 絕響 绝响 [jue2 xiang3] {zyut6 hoeng2} /art perdu; art oublié/
 絕頂 绝顶 [jue2 ding3] {zyut6 ding2} /très; extrêmement/
 絞殺 绞杀 [jiao3 sha1] {gaau2 saat3} /étrangler/garrotter/pendre/
-????c 絞纜 绞缆 [jiao3 lan3] {gaau2 laam6} /stranded (like multiple strands? or like to tangle up?) cable (for mooring boats?)/
-????c 絞腸痧 绞肠痧 [jiao3 chang2 sha1] {gaau2 coeng4 saa1} /(disease) a cholera (traditional Chinese medicine version?)/
+絞纜 绞缆 [jiao3 lan3] {gaau2 laam6} /enrouler une corde ou câble, en particulier une aussière/
+絞纜機 绞缆机 [jiao3 lan3 ji1] {gaau2 laam6 gei1} /treuil/
+絞腸痧 绞肠痧 [jiao3 chang2 sha1] {gaau2 coeng4 saa1} /colique/diarrhée/(médecine traditionelle chinoise) « dry colic » (colique sèche), maladie qui se caractérise par les douleurs intestinales et l'inabilité d'évacuer ses selles ou de vomir/
 給予 给予 [ji3 yu3] {kap1 jyu5} /offrir (de l'aide)/
 給養 给养 [ji3 yang3] {kap1 joeng5} /rations alimentaires/
-????f 絨衫 绒衫 [rong2 shan1] {jung2 saam1} /chandail en molleton/
+絨衫 绒衫 [rong2 shan1] {jung2 saam1} /polaire; chandail en polaire; chandail en molleton/
 絨衣 絨衣 [rong2 yi1] {jung2 ji1} /sweat-shirt; pull; tricot/
 絨褲 绒裤 [rong2 ku4] {jung2 fu3} /pantalon de survêtement; pantalon de jogging/
 統 统 [tong3] {tung2} /ensemble/
@@ -16057,12 +16058,12 @@
 絲光 丝光 [si1 guang1] {si1 gwong1} /mercerisation; mercerisage/coton mercerisé/
 絲母 丝母 [si1 mu3] {si1 mou5} /écrou/
 絲瓜刨 丝瓜刨 [si1 gua1 pao2] {si1 gwaa1 paau2} /éplucheur; couteau servant à éplucher des légumes/
-????c 絲瓜絡 丝瓜络 [si1 gua1 luo4] {si1 gwaa1 lok2} /Loofah/
-????c 絲發 丝发 [si1 fa1] {si1 faat3} /soie/(silky hair?)/
+絲瓜絡 丝瓜络 [si1 gua1 luo4] {si1 gwaa1 lok2} /luffa; éponge végétale/
+絲發 丝发 [si1 fa1] {si1 faat3} /soie/satin/cheveux soyeux/
 絲米 丝米 [si1 mi3] {si1 mai5} /décimillimètre/
 絲絲入扣 丝丝入扣 [si1 si1 ru4 kou4] {si1 si1 jap6 kau3} /(expr. idiom.) avec soin méticuleux et talent impeccable/(lit.) chaque fil entre dans le bouton/
-?????c 絲苗 丝苗 [si1 miao2] {si1 miu4} /a premium quality rice/
-絲髮 丝发 [si1 fa4] {si1 faat3} /soie/(silky hair?)/
+絲苗 丝苗 [si1 miao2] {si1 miu4} /Oryza sativa subsp. indica, un riz/
+絲髮 丝发 [si1 fa4] {si1 faat3} /soie/satin/cheveux soyeux/
 絹花 绢花 [juan4 hua1] {gyun3 faa1} /fleur en soie/
 綁鞋帶 绑鞋带 [bang3 xie2 dai4] {bong2 haai4 daai2} /faire ses lacets; lacer ses chaussures/
 經典力學 经典力学 [jing1 dian3 li4 xue2] {ging1 din2 lik6 hok6} /mécanique newtonienne/
@@ -16072,17 +16073,17 @@
 經濟客位 经济客位 [jing1 ji4 ke4 wei4] {ging1 zai3 haak3 wai2} /(transport aérien) classe économique/
 經濟效益 经济效益 [jing1 ji4 xiao4 yi4] {ging1 zai3 haau6 jik1} /performance économique; efficience économique/
 經濟日報 经济日报 [jing1 ji4 Ri4 bao4] {ging1 zai3 jat6 bou3} /« Economic Daily » ou « China Economic Daily », journal du Parti communiste chinois/
-????c 經濟林 经济林 [jing1 ji4 lin2] {ging1 zai3 lam4} /cash trees/economic forest?/
+????f 經濟林 经济林 [jing1 ji4 lin2] {ging1 zai3 lam4} /forêt dont les récoltes sont non du bois mais des fruits, des médicaments, etc./
 經理人 经理人 [jing1 li3 ren2] {ging1 lei5 jan4} /agent; manager/
 經紀 经纪 [jing1 ji4] {ging1 gei2} /courtier en bourse/
-????c 經綸 经纶 [jing1 lun2] {ging1 leon4} /(religion) oikonomia/statecraft/
+經綸 经纶 [jing1 lun2] {ging1 leon4} /(litt.) arranger les fils de soie/(fig.) l'art de gouverner; habileté politique; capacité de gérer les affaires d'un État/
 經緯度 经纬度 [jing1 wei3 du4] {ging1 wai5 dou6} /latitude et longitude; coordonnées géographiques; système de coordonnées qui permettent de localiser un lieu sur la Terre/
 經費 经费 [jing1 fei4] {ging1 fai3} /dépenses opérationnelles/
 經過 经过 [jing1 guo4] {ging1 gwo3} /subir/traverser; passer par/à travers/
-????f 經一事長一智 經一事長一智 [jing1 yi1 shi4 zhang3 yi1 zhi4] {ging1 jat1 si6 zoeng2 jat1 zi3} /(expr. idiom.) on apprend de ses erreurs/
-????c 綜合利用 综合利用 [zong1 he2 li4 yong4] {zung3 hap6 lei6 jung6} /Comprehensive Utilization/
-????f 綜合國力 综合国力 [zong1 he2 guo2 li4] {zung3 hap6 gwok3 lik6} /« Comprehensive National Power (CNP) » (« échelle globale de puissance nationale »), échelle utilisée par le Parti communiste chinois pour classer les pays par ordre de puissance militaire, économique, etc./
-????f 綜合大學 综合大学 [zong1 he2 da4 xue2] {zung3 hap6 daai6 hok6} /(noun) a comprehensive university/
+經一事長一智 經一事長一智 [jing1 yi1 shi4 zhang3 yi1 zhi4] {ging1 jat1 si6 zoeng2 jat1 zi3} /(expr. idiom.) on apprend de ses erreurs/
+????f 綜合利用 综合利用 [zong1 he2 li4 yong4] {zung3 hap6 lei6 jung6} /(expr.) utilisation complète; le fait d'utiliser ses ressources matérielles à fond/
+綜合國力 综合国力 [zong1 he2 guo2 li4] {zung3 hap6 gwok3 lik6} /« Comprehensive National Power (CNP) » (« échelle globale de puissance nationale »), échelle utilisée par le Parti communiste chinois pour classer les pays par ordre de puissance militaire, économique, etc./
+綜合大學 综合大学 [zong1 he2 da4 xue2] {zung3 hap6 daai6 hok6} /université polyvalente/
 綜合治理 综合治理 [zong1 he2 zhi4 li3] {zung3 hap6 zi6 lei5} /traitement complet/
 綜援 综援 [zong1 yuan2] {zung1 wun4} /Comprehensive Social Security Assistance, programme d'aide sociale de Hong Kong/
 綠小 绿小 [lu:4 xiao3] {luk6 siu2} /(Hong Kong) minibus à toit vert avec itinéraire prédéterminé (contrairement aux minibus à toit rouge sans itinéraire prédéterminé, 紅小|红小)/
@@ -16093,7 +16094,7 @@
 綠衣 绿衣 [lu:4 yi1] {luk6 ji1} /policier/(lit.) vêtements verts/
 綠豆公 绿豆公 [lu:4 dou4 gong1] {luk6 dau6 gung1} /haricot mungo particulièrement dur/
 綠豆沙 绿豆沙 [lu:4 dou4 sha1] {luk6 dau6 saa1} /tong sui (soupe de dessert chinoise) aux haricots mungo/
-????f 綢仔 绸仔 [chou2 zi3] {cau4 zai2} /soie/gambiered Canton silk gauze/
+綢仔 绸仔 [chou2 zi3] {cau4 zai2} /soie/soie Xiangyunsha/
 維也納航空公司 维也纳航空公司 [wei2 ye3 na4 hang2 kong1 gong1 si1] {wai4 jaa5 naap6 hong4 hung1 gung1 si1} /Lauda Air, compagnie aérienne autrichienne/
 維他奶 维他奶 [wei2 ta1 nai3] {wai4 taa1 naai5} /Vitasoy, entreprise hongkongaise spécialisée dans les boissons non-alcoolisées/
 維修 维修 [wei2xiu1] {wai4 sau1} /réparer/
@@ -16105,30 +16106,31 @@
 網絡打手 网络打手 [wang3 luo4 da2 shou3] {mong5 lok6 daa2 sau2} /astroturfer, commentateur en ligne qui est payé pour simuler un mouvement populaire/
 網課 网课 [wang3 ke4] {mong5 fo3} /cours en ligne/
 綵排 彩排 [cai3 pai2] {coi2 paai4} /répétition; essai; répétition avant de jouer devant un public/répéter/
-????c 綵燈 彩灯 [cai3 deng1] {coi2 dang1} /Festive lantern/
+綵燈 彩灯 [cai3 deng1] {coi2 dang1} /lampion coloré/
 綽頭 绰头 [chuo4 tou2] {coek3 tau4} /facéties, singeries/truc; astuce/
-????f 綾羅綢緞 绫罗绸缎 [ling2 luo2 chou2 duan4] {ling4 lo4 cau4 dyun6} /(expr.) des soies et des satins/
+綾羅綢緞 绫罗绸缎 [ling2 luo2 chou2 duan4] {ling4 lo4 cau4 dyun6} /(expr.) des soies et des satins/
 綿羊仔 绵羊仔 [mian2 yang2 zi3] {min4 joeng2 zai2} /vélomoteur; cyclomoteur/
-????c 緉 緉 [liang3] {loeng5, loeng6} /a pair of/
+緉 緉 [liang3] {loeng5} /une paire de/
+緉 緉 [liang3] {loeng6} /une paire de/
 緊密 紧密 [jin3 mi4] {gan2 mat6} /inséparable/étroit/
 緊張 紧张 [jin3 zhang1] {gan2 zoeng1} /nerveux; tendu/
 緊張大師 紧张大师 [jin3 zhang1 da4 shi1] {gan2 zoeng1 daai6 si1} /peureux; trouillard; personne craintive/surnom pour Alfred Hitchcock/
 緊要事 紧要事 [jin3 yao4 shi4] {gan2 jiu3 si6} /question urgente; affaire urgente/
-????c 緊鑼密鼓 紧锣密鼓 [jin3 luo2 mi4 gu3] {gan2 lo4 mat6 gu2} /busy for preparation; great fanfare; wildly beating gongs and drums; intense publicity campaign in preparation for some sinister undertaking/
+????f 緊鑼密鼓 紧锣密鼓 [jin3 luo2 mi4 gu3] {gan2 lo4 mat6 gu2} /(expr. idiom.) en préparation intense/(expr. idiom.) lancer une campagne publicitaire pour une entreprise quelqueconque/
 緋聞 绯闻 [fei1 wen2] {fei1 man4} /scandale sexuel/
 緘口 缄口 [jian1 kou3] {gaam1 hau2} /garder un secret; ne pas dire un mot/
 緙絲 缂丝 [ke4 si1] {hak1 si1} /(tapisserie) kesi, technique chinoise de tapisserie/
 線 线 [xian4] {sin3} /ligne/file/indice/route/frontière/un peu de/
 線人 线人 [xian4ren2] {sin3 jan4} /indicateur; délateur; informateur/taupe; espion/
-????c 線材 线材 [xian4 cai2] {sin3 coi4} /wire stock; wire rod/
+????m 線材 线材 [xian4 cai2] {sin3 coi4} /fil de fer; fil métallique/
 線條 线条 [xian4 tiao2] {sin3 tiu4} /ligne; trait/lignes; forme; silhouette/
 線步 线步 [xian4 bu4] {sin3 bou6} /(couture) point/
 線民 线民 [xian4 min2] {sin3 man4} /indicateur; délateur; informateur/taupe; espion/
 線眼 线眼 [xian4 yan3] {sin3 ngaan5} /indicateur; délateur; informateur/taupe; espion/
-????c 線絡 线络 [xian4 luo4] {sin3 lok3} /(noun) line; circuit; wire; road; railway track; but ruote/
-????f 線膨脹 线膨胀 [xian4 peng2 zhang4] {sin3 paang4 zoeng3} /(physique) dilatation thermique linéaire/
-????f 線衫 线衫 [xian4 shan1] {sin3 saam1} /tricots (light knitwear)/
-????f 線裝 线装 [xian4 zhuang1] {sin3 zong1} /traditional Chinese thread (book)binding/
+線絡 线络 [xian4 luo4] {sin3 lok3} /sac filet/
+線膨脹 线膨胀 [xian4 peng2 zhang4] {sin3 paang4 zoeng3} /(physique) dilatation thermique linéaire/
+????f 線衫 线衫 [xian4 shan1] {sin3 saam1} /tricot léger/
+線裝 线装 [xian4 zhuang1] {sin3 zong1} /reliure à la chinoise/
 線路板 线路板 [xian4 lu4 ban3] {sin3 lou6 baan2} /circuit imprimé/
 線轆 线辘 [xian4 lu4] {sin3 luk1} /fuseau; bobine de file/
 線鉗 线钳 [xian4 qian2] {sin3 kim4} /pince à dénuder/
@@ -16137,20 +16139,20 @@
 編號 编号 [bian1 hao4] {pin1 hou6} /numéro/
 編訂 编订 [bian1 ding4] {pin1 deng6} /compiler (des données)/
 編輯部 编辑部 [bian1 ji2 bu4] {pin1 cap1 bou6} /rédaction; comité de rédaction/
-????c 編配 编配 [bian1 pei4] {pin1 pui3} /Allocation/
+編配 编配 [bian1 pei4] {pin1 pui3} /allouer/allocation/
 緩步跑 缓步跑 [huan3 bu4 pao3] {wun6 bou6 paau2} /jogging; footing/
 緬甸蟒蛇 缅甸蟒蛇 [mian3 dian4 mang3 she2] {min5 din6 mong5 se4} /Python birman/
 練 练 [lian4] {lin6} /pratiquer; s'entraîner; répéter/expérimenté; qualifié; compétent/soie blanche/
-????f 練精學懶 练精学懒 [lian4 jing1 xue2 lan3] {lin6 zeng1 hok6 laan5} /(expr. idiom.) ruser et éviter de travailler/(lit.) s'entraîner à être rusé et apprendre à être paresseux/
+練精學懶 练精学懒 [lian4 jing1 xue2 lan3] {lin6 zeng1 hok6 laan5} /(expr. idiom.) ruser et éviter de travailler/(lit.) s'entraîner à être rusé et apprendre à être paresseux/
 練習生 练习生 [lian4 xi2 sheng1] {lin6 zaap6 sang1} /apprenti; stagiaire/
 練習簿 练习簿 [lian4 xi2 bu4] {lin6 zaap6 bou6} /cahier d'exercices/
 練馬師 练马师 [lian4 ma3 shi1] {lin6 maa5 si1} /dresseur de chevaux/
-????c 緺 緺 [gua1] {gwaa1, waa1, gwo1} /A loft of hair from a lady; purple and blue ribbon/
+????m 緺 緺 [gua1] {gwaa1, waa1, gwo1} /ruban bleu-violet/
 縈懷 萦怀 [ying2 huai2] {jing4 waai4} /occuper son esprit; être préoccupé par (quelque chose); se soucier de (quelque chose)/
 縉紳 缙绅 [jin4 shen1] {zeon3 san1} /fonctionnaire/
 縣份 县份 [xian4 fen4] {jyun6 fan6} /comté/
 縣市 县市 [xian4 shi4] {jyun6 si5} /comté/
-????c 縮入 缩入 [suo1 ru4] {suk1 jap6} /rétracter/(infiltrate?)/
+縮入 缩入 [suo1 ru4] {suk1 jap6} /rétracter; retirer/
 縮埋一二角 缩埋一二角 [suo1 mai2 yi1 er4 jiao3] {suk1 maai4 jat1 ji6 gok3} /se cacher dans un coin/
 縮埋一嚿 缩埋一嚿 [suo1 mai2 yi1 huo4] {suk1 maai4 jat1 gau6} /se pelotonner; se lover/
 縮埋一字角 缩埋一字角 [suo1 mai2 yi1 zi4 jiao3] {suk1 maai4 jat1 zi6 gok3} /se cacher dans un coin/
@@ -16168,18 +16170,18 @@
 縮骨 缩骨 [suo1 gu3] {suk1 gwat1} /être égoïste; profiter des autres/réduire les dépenses/
 縮骨遮 缩骨遮 [suo1 gu3 zhe1] {suk1 gwat1 ze1} /parapluie pliant/
 縱壞 纵坏 [zong4 huai4] {zung3 waai6} /gâter; être trop indulgent/
-????c 縱情聲色 纵情声色 [zong4 qing2 sheng1 se4] {zung3 cing4 sing1 sik1} /(expr.) se livrer à la débauche/
-????c 縱橫 纵横 [zong4 heng2] {zung1 waang4} /to travel across in depth/
-????f 縱橫捭闔 纵横捭阖 [zong4 heng2 bai3 he2] {zung1 waang4 baai2 hap6} /(expr.) manœuvrer parmi plusieurs groupes politiques/
+縱情聲色 纵情声色 [zong4 qing2 sheng1 se4] {zung3 cing4 sing1 sik1} /(expr.) se livrer à la débauche/
+縱橫 纵横 [zong4 heng2] {zung1 waang4} /traverser sans entraves (voir aussi 縱橫交錯|纵横交错)/
+縱橫捭闔 纵横捭阖 [zong4 heng2 bai3 he2] {zung1 waang4 baai2 hap6} /(expr. idiom.) manœuvrer plusieurs groupes politiques; manipuler plusieurs groupes politiques/
 縷縷 缕缕 [lu:3 lu:3] {leoi5 leoi5} /en continu; continuellement; sans cesse/
 總係 總系 [cong1 xi4] {zung2 hai6} /toujours/à chaque fois/forcément; inévitablement/
-????f 總稱 总称 [zong3 cheng1] {zung2 cing1} /terme de référence général/
-????f 總匯 总汇 [zong3 hui4] {zung2 wui6} /(de deux cours d'eau) confluer; se rejoindre; converger/(de personnes ou d'objets) confluence; agrégation; regroupement/
+總稱 总称 [zong3 cheng1] {zung2 cing1} /terme de référence général; terme générique/
+總匯 总汇 [zong3 hui4] {zung2 wui6} /(de deux cours d'eau) confluer; se rejoindre; converger/(de personnes ou d'objets) confluence; agrégation; regroupement/
 總工程師 总工程师 [zong3 gong1 cheng2 shi1] {zung2 gung1 cing4 si1} /ingénieur en chef/
 總帳 总帐 [zong3 zhang4] {zung2 zoeng3} /Grand livre; ensemble des comptes utilisés d'une entreprise/
 總廚 總厨 [cong1 chu2] {zung2 cyu4} /chef cuisinier/
 總指揮 总指挥 [zong3 zhi3 hui1] {zung2 zi2 fai1} /commandant en chef/
-????f 總政 总政 [zong3 zheng4] {zung2 zing3} /« General Political Department », ministère d'une organisation responsable pour son activité politique/
+總政 总政 [zong3 zheng4] {zung2 zing3} /« General Political Department », ministère d'une organisation responsable pour son activité politique/
 總教練 总教练 [zong3 jiao4 lian4] {zung2 gaau3 lin6} /entraîner principal/
 總數 总数 [zong3shu4] {zung2 sou3} /total; somme/
 總督府 总督府 [zong3 du1 fu3] {zung2 duk1 fu2} /Government House (« résidence du gouvernement »), résidence officielle du gouverneur de Hong Kong pendant l'époque coloniale/
@@ -16190,12 +16192,12 @@
 總裁 总裁 [zong3 cai2] {zung2 coi4} /PDG; président-directeur général/
 總言之 總言之 [cong1 yan2 zhi1] {zung2 jin4 zi1} /pour résumer; en somme; bref/
 總論 总论 [zong3 lun4] {zung2 leon6} /introduction; aperçu; résumé/
-????c 總路線 总路线 [zong3 lu4 xian4] {zung2 lou6 sin3} /general line/
+總路線 总路线 [zong3 lu4 xian4] {zung2 lou6 sin3} /(politique) (en parlant d'un parti communiste) ligne générale; principes du parti (en anglais, « general line of the party »)/
 總預算 总预算 [zong3 yu4 suan4] {zung2 jyu6 syun3} /budget total/
 繁忙時間 繁忙时间 [fan2 mang2 shi2 jian1] {faan4 mong4 si4 gaan3} /heure de pointe/
 繁榮富強 繁荣富强 [fan2 rong2 fu4 qiang2] {faan4 wing4 fu3 koeng4} /(expr.) riche et prospère/
 繁殖力 繁殖力 [fan2 zhi2 li4] {faan4 zik6 lik6} /fertilité; fécondité/
-????c 繁碎 繁碎 [fan2 sui4] {faan4 seoi3} /Loaded with trivial matters/
+繁碎 繁碎 [fan2 sui4] {faan4 seoi3} /fastidieux et banal/qui est compliqué à cause des petits détails insignifiants/
 繁華 繁华 [fan2 hua2] {faan4 waa4} /prospère; riche; florissant/
 繁難 繁难 [fan2 nan2] {faan4 naan4} /difficile; compliqué; ennuyeux/
 繁體中文 繁体中文 [fan2 ti3 zhong1 wen2] {faan4 tai2 zung1 man2} /chinois écrit avec des caractères chinois traditionnels ou des sinogrammes traditionnels/
@@ -16203,12 +16205,13 @@
 繑口 繑口 [jue2 kou3] {kiu2 hau2} /(fig.) difficile à prononcer/(lit.) qui emmêle la bouche/
 繑絲邊 繑丝边 [jue2 si1 bian1] {hiu1 si1 bin1} /clé de sinogramme « 糸 »/
 繑脷 繑脷 [jue2 li4] {kiu5 lei6} /(fig.) difficile à prononcer/(lit.) qui emmêle la langue/
-????m 繑起 繑起 [jue2 qi3] {kiu5 hei2} /créer des ennuis pour quelqu'un (to put somebody in a difficult position)/
+????c 繑起 繑起 [jue2 qi3] {kiu5 hei2} /créer des ennuis pour quelqu'un/
+繑起對手 繑起对手 [qiao1 qi3 dui4 shou3} [kiu5 hei2 soeng1 sau2] /se croiser les bras/
 織冷衫 织冷衫 [zhi1 leng3 shan1] {zik1 laang1 saam1} /tricoter un pull/
 織卒 织卒 [zhi1 zu2] {zik1 zeot1} /(rare) grillon/
 織蟀 织蟀 [zhi1 shuai4] {zik1 seot1} /(rare) grillon/
 織針 织针 [zhi1 zhen1] {zik1 zam1} /aiguille à tricoter/
-????f 繡球 绣球 [xiu4 qiu2] {sau3 kau4} /« xiuqiu », balles de soie données en cadeau pour symboliser l'amour/(fleur) hortensia/
+繡球 绣球 [xiu4 qiu2] {sau3 kau4} /« xiuqiu », balles de soie données en cadeau pour symboliser l'amour/(fleur) hortensia/
 繡花枕頭 绣花枕头 [xiu4 hua1 zhen3 tou5] {sau3 faa1 zam2 tau4} /(expr. idiom.) personne superficielle; personne qui est belle mais pas intelligente/(lit.) taie d'oreiller brodée/
 繫念 系念 [xi4 nian4] {hai6 nim6} /être préoccupé par; se soucier de.../
 繼 继 [ji4] {gai3} /beau-(père)/belle-(mère)/demi-(frère; sœur)/continuer/suivant/
@@ -16225,16 +16228,16 @@
 缸 缸 [gang1] {gong1} /réservoir; cuve; citerne/
 缸瓦 缸瓦 [gang1 wa3] {gong1 ngaa5} /potteries/
 缺損 缺损 [que1 sun3] {kyut3 syun2} /trouble psychique; trouble mental/défectueux/
-????f 缺課 缺课 [que1 ke4] {kyut3 fo3} /manquer la classe; louper des cours/
+缺課 缺课 [que1 ke4] {kyut3 fo3} /manquer la classe; louper des cours/
 缽仔糕 钵仔糕 [bo1 zi3 gao1] {but3 zai2 gou1} /Put chai ko, dessert hongkongais/
 缽櫃 钵柜 [bo1 gui4] {but3 gwai6} /placard/
 缽酒 钵酒 [bo1 jiu3] {but3 zau2} /(vin) porto/
 罅 罅 [xia4] {laa3} /fente; brèche; interstice/
 罐頭刀 罐头刀 [guan4 tou2 dao1] {gun3 tau2 dou1} /ouvre-boîtes/
-????f 罨 罨 [yan3] {jim2} /(verb)  To apply Chinese herbal medicine onto a spot of a body/musty; humid smell/
+罨 罨 [yan3] {jim2} /appliquer un médicament sur la peau/
 罨 罨 [yan3] {ap1} /odeur de moisi; odeur fétide/
 罨汁 罨汁 [yan3 zhi1] {ap1 zap1} /(endroit) délabré; humide; mal aéré/
-????f 罨爛 罨烂 [yan3 lan4] {ap1 laan6} /leave something covered up too long to be rotten/
+罨爛 罨烂 [yan3 lan4] {ap1 laan6} /couvrir quelque chose et l'oublier jusqu'à ce qu'il pourrit/
 罨耷 罨耷 [yan3 da1] {ap1 daap3} /(endroit) délabré; humide; mal aéré/
 罩 罩 [zhao4] {zaau3} /couvercle/couverture/(fig.) (vieilli) soutien-gorge/
 罩籬 罩篱 [zhao4 li2] {zaau3 lei1} /passoire/(en particulier) (ustensile de cuisine) écumoire; passoire à long manche; passoire à fondue chinoise (voir aussi 笊籬|笊篱)/
@@ -16245,17 +16248,17 @@
 置之不理 置之不理 [zhi4 zhi1 bu4 li3] {zi3 zi1 bat1 lei5} /ignorer; fermer les yeux; ne prêter aucune attention à/
 置備 置备 [zhi4 bei4] {zi3 bei6} /acheter (du matériel)/
 置地 置地 [zhi4 di4] {zi3 dei6} /Landmark, organisation immobilière hongkongaise/
-????c 置業公司 置业公司 [zhi4 ye4 gong1 si1] {zi3 jip6 gung1 si1} /Real Estate Company/
+置業公司 置业公司 [zhi4 ye4 gong1 si1] {zi3 jip6 gung1 si1} /société immobilière/
 置諸不理 置诸不理 [zhi4 zhu1 bu4 li3] {zi3 zyu1 bat1 lei5} /(expr. idiom.) fermer les yeux; faire comme si l'on avait pas vu/(lit.)
 置諸度外 置诸度外 [zhi4 zhu1 du4 wai4] {zi3 zyu1 dou6 ngoi6} /ignorer; fermer les yeux; ne prêter aucune attention à/
-????f 置身 置身 [zhi4 shen1] {zi3 san1} /(preposition) 1. At (a place); 2. In (a situation, place etc.)/
+置身 置身 [zhi4 shen1] {zi3 san1} /être (quelque part); se trouver (quelque part)/être (dans une situation)/
 署理 署理 [shu3 li3] {cyu5 lei5} /assuer l'intérim de/agir au nom de/
 罰 罚 [fa2] {fat6} /punir; pénaliser/condamner à une amende/
-????f 罰企 罚企 [fa2 qi3] {fat6 kei5} /(punition scolaire) devoir se tenir debout pendant une période de temps/
-????f 罰出場 罚出场 [fa2 chu1 chang3] {fat6 ceot1 coeng4} /Sent off the field due to a foul/
+罰企 罚企 [fa2 qi3] {fat6 kei5} /(punition scolaire) devoir se tenir debout pendant une période de temps/
+罰出場 罚出场 [fa2 chu1 chang3] {fat6 ceot1 coeng4} /exclure un joueur sanctionné; obliger un joueur à quitter le terrain/
 罷啦 罢啦 [ba5 la5] {baa6 laa1} /(particule modale employée après une suggestion qui incite quelqu'un à changer d'avis)/
 罷喇 罢喇 [ba5 la3] {baa6 laa1} /(particule modale employée après une suggestion qui incite quelqu'un à changer d'avis)/
-????f 罷就 罢就 [ba5 jiu4] {baa6 zau6} /(sarcastique) très bien! d'accord!/tant pis/
+罷就 罢就 [ba5 jiu4] {baa6 zau6} /(sarcastique) très bien! d'accord!/tant pis/
 羅先 罗先 [luo2 xian1] {lo4 sin1} /Rasŏn, ville de la Corée du Nord/
 羅士敏 罗士敏 [luo2 shi4 min3] {lo4 si6 man5} /Hercules George Robert Robinson, cinquième gouverneur de Hong Kong/
 羅宋湯 罗宋汤 [luo2 song4 tang1] {lo4 sung3 tong1} /borsch; borscht/soupe à la tomate/
@@ -16268,7 +16271,7 @@
 羅范椒芬 罗范椒芬 [luo2 fan4 jiao1 fen1] {lo4 faan6 ziu1 fan1} /Fanny Law, ancien haut fonctionnaire de Hong Kong/
 羅馬生菜 罗马生菜 [luo2 ma3 sheng1 cai4] {lo4 maa5 saang1 coi3} /laitue romaine/
 羅馬鬥獸場 罗马斗兽场 [luo2 ma3 dou4 shou4 chang3] {lo4 maa5 dau3 sau3 coeng4} /Colisée (situé à Rome)/
-????f 羈留病房 羁留病房 [ji1 liu2 bing4 fang2] {gei1 lau4 beng6 fong2} /Custodial ward/
+????f 羈留病房 羁留病房 [ji1 liu2 bing4 fang2] {gei1 lau4 beng6 fong2} /partie d'un hôpital dédié aux prisonniers (en anglais « custodial ward »)/
 羊 羊 [yang2] {joeng4} /chèvre; bouc/mouton; bélier/(nom de famille chinois)/pigeon; personne crédule/faible/
 羊乸 羊乸 [yang2 na2] {joeng4 naa2} /chèvre (femelle)/
 羊公 羊公 [yang2 gong1] {joeng4 gung1} /bélier/bouc/
@@ -16287,7 +16290,7 @@
 美利堅合衆國 美利坚合衆国 [mei3 li4 jian1 he2 zhong4 guo2] {mei5 lei6 gin1 hap6 zung3 gwok3} /États-Unis d'Amérique/
 美利樓 美利楼 [mei3 li4 lou2] {mei5 lei6 lau4} /Murray House, monument hongkongais/
 美利濱 美利滨 [mei3 li4 bin1] {mei5 lei6 ban1} /(rare) Melbourne, ville australienne/
-????f 美勞 美劳 [mei3 lao2] {mei5 lou4} /Arts and Craft (old school subject)/
+????f 美勞 美劳 [mei3 lao2] {mei5 lou4} /l'artisanat comme matière scolaire (en anglais, « arts and crafts »)/
 美國太空總署 美国太空总署 [mei3 guo2 tai4 kong1 zong3 shu3] {mei5 gwok3 taai3 hung1 zung2 cyu5} /NASA/
 美國海軍 美国海军 [mei3 guo2 Hai3 jun1] {mei5 gwok3 hoi2 gwan1} /United States Navy, US Navy, marine de guerre des États-Unis/
 美國總統 美国总统 [mei3 guo2 zong3 tong3] {mei5 gwok3 zung2 tung2} /président des États-Unis/
@@ -16300,11 +16303,12 @@
 美心快餐 美心快餐 [mei3 xin1 kuai4 can1] {mei5 sam1 faai3 caan1} /Maxim's Fast Food, chaîne de restauration rapide/
 美心西餅 美心西饼 [mei3 xin1 xi1 bing3] {mei5 sam1 sai1 beng2} /Maxim's Cakes, chaîne de boulangeries hongkongaise/
 美籍華人 美籍华人 [mei3 ji2 hua2 ren2] {mei5 zik6 waa4 jan4} /Sino-américain, Sino-américaine/
-????f 美育 美育 [mei3 yu4] {mei5 juk6} /Aesthetic education; art education/
-????f 美言 美言 [mei3 yan2] {mei5 jin4} /recommander (quelqu'un)/belles paroles; beaux mots/
+????m 美育 美育 [mei3 yu4] {mei5 juk6} /éducation esthétique/
+美言 美言 [mei3 yan2] {mei5 jin4} /recommander (quelqu'un)/belles paroles; beaux mots/
 美麗華酒店 美丽华酒店 [mei3 li4 hua2 jiu3 dian4] {mei5 lai6 waa4 zau2 dim3} /The Mira Hong Kong, hôtel situé à Hong Kong/
-????c 羒 羒 [fen2] {fan1, fan4} /a white Ram; an ewe (a fully matured female sheep)/
-????c 羕 羕 [yang4] {joeng6} /flowing water/
+羒 羒 [fen2] {fan1} /bélier blanc/
+羒 羒 [fen2] {fan4} /bélier blanc/
+????c 羕 羕 [yang4] {joeng6} /eau qui coule/déborder/
 羞人 羞人 [xiu1 ren2] {sau1 jan4} /avoir honte; se sentir gêné; se sentir ridicule/
 羞家 羞家 [xiu1 jia1] {sau1 gaa1} /honteux; déshonorant/
 羣埋 群埋 [qun2 mai2] {kwan4 maai4} /fréquenter (quelqu'un); traîner avec/
@@ -16319,13 +16323,13 @@
 群星 群星 [qun2 xing1] {kwan4 sing1} /galaxie/(musique) Various Artists, artistes divers/
 群眾運動 群众运动 [qun2 zhong4 yun4 dong4] {kwan4 zung3 wan6 dung6} /mouvement de masse; campagne de masse/
 群策群力 群策群力 [qun2 ce4 qun2 li4] {kwan4 caak3 kwan4 lik6} /travailler en équipe/
-????c 群育 群育 [qun2 yu4] {kwan4 juk6} /group learning; team building/
+????f 群育 群育 [qun2 yu4] {kwan4 juk6} /développement social; apprendre à travailler avec les autres et avoir des relations saines/
 群言堂 群言堂 [qun2 yan2 tang2] {kwan4 jin4 tong4} /(fig.) règle du consensus/(lit.) endroit où chaque personne peut s'exprimer libre de tout jugement/
 義 义 [yi4] {ji6} /justifié; juste; vertueux/adopté; adoptif/beau-(père); belle-(mère)/prosthétique; prothèse/
-????f 義師 义师 [yi4 shi1] {ji6 si1} /armée vertueuse (army that fights a just war)/
-????f 義正詞嚴 义正词严 [yi4 zheng4 ci2 yan2] {ji6 zing3 ci4 jim4} /To speak sternly out of a sense of righteousness/
+????f 義師 义师 [yi4 shi1] {ji6 si1} /armée vertueuse; armée qui fait une guerre juste/
+????f 義正詞嚴 义正词严 [yi4 zheng4 ci2 yan2] {ji6 zing3 ci4 jim4} /(expr. idiom.) dire quelque chose sévèrement pour des motifs de justesse/
 義舉 义举 [yi4 ju3] {ji6 geoi2} /acte vertueux pour le bien commun/
-????c 義莊 义庄 [yi4 zhuang1] {ji6 zong1} /(noun) coffin house; mortuary/charity? clan charity?/
+????f 義莊 义庄 [yi4 zhuang1] {ji6 zong1} /lieu où l'on met un cercueil avant de l'enterrer/
 羹 羹 [geng1] {gang1} /cuillère/
 羹匙 羹匙 [geng1 chi2] {gang1 ci4} /cuillère/
 羽毛未豐 羽毛未丰 [yu3 mao2 wei4 feng1] {jyu5 mou4 mei6 fung1} /(expr. idiom.) être inexperimenté; être un débutant ou novice/(lit.) ne pas encore avoir beaucoup de plumes/
@@ -16336,18 +16340,18 @@
 習染 习染 [xi2 ran3] {zaap6 jim5} /prendre (une mauvaise habitude)/
 翕手 翕手 [xi1 shou3] {jaap6 sau2, jap1 sau2} /faire signe de main/
 翕眼 翕眼 [xi1 yan3] {hap1 ngaan5} /cligner les yeux/
-????f 翠微 翠微 [cui4 wei1] {ceoi3 mei4} /blue mountain mists; hazy blue mountains scenery; a shady retreat on a green hill/
+????f 翠微 翠微 [cui4 wei1] {ceoi3 mei4} /paysage d'un flanc de colline bleu-vert baigné par la brume/refuge ombragé sur une colline verte/
 翡翠台 翡翠台 [fei3 cui4 tai2] {fei2 ceoi3 toi4} /Jade Channel, chaîne de télévision hongkongais/
-????f 翳 翳 [yi4] {ngai3} /(temps) très humide; lourd; étouffant/avoir des difficultés à respirer; se sentir comme s'il y avait un poids sur la poitrine/
-????f 翳氣 翳气 [yi4 qi4] {ngai3 hei3} /troublé; contrarié/(upset because one has been the suject of mistreatment)/
+翳 翳 [yi4] {ngai3} /(temps) très humide; lourd; étouffant/avoir des difficultés à respirer; se sentir comme s'il y avait un poids sur la poitrine/
+翳氣 翳气 [yi4 qi4] {ngai3 hei3} /troublé; contrarié/se sentir lésé/
 翳滯 翳滞 [yi4 zhi4] {ngai3 zai6} /dyspepsie; indigestion/
 翳焗 翳焗 [yi4 ju2] {ngai3 guk6} /(temps) très humide; lourd; étouffant/
 翳熱 翳热 [yi4 re4] {ngai3 jit6} /(temps) très humide; lourd; étouffant/
 翳肺 翳肺 [yi4 fei4] {ngai3 fai3} /se sentir déprimé à cause d'un problème persistant/
-????c 翼 翼 [yi4] {jik6} /aile/côté; flanc/???? (verb) 1. to conceal; 2. to cover/
+翼 翼 [yi4] {jik6} /aile (d'un animal)/aile (d'un bâtiment); pavillon/côté; flanc/faction (politique)/protéger; aider/
 翻去 翻去 [fan1 qu4] {faan1 heoi3} /rentrer; retourner/
 翻嚟 翻嚟 [fan1 li2] {faan1 lai2} /revenir/
-????c 翻天 翻天 [fan1 tian1] {faan1 tin1} /raise a rumpus; earthshaking/(overthrow the government)/(misbehave)/
+翻天 翻天 [fan1 tian1] {faan1 tin1} /stupéfiant; fracassant/renverser un gouvernement/(d'un enfant) être vilain/chaotique/
 翻學 翻学 [fan1 xue2] {faan1 hok6} /aller à l'école (voir aussi 返學|返学)/
 翻工 翻工 [fan1 gong1] {faan1 gung1} /retravailler; refaire/aller travailler (voir aussi 返工|返工)/
 翻抄 翻抄 [fan1 chao1] {faan1 caau1} /reproduire; recopier/
@@ -16361,16 +16365,16 @@
 翻頭婆 翻头婆 [fan1 tou2 po2] {faan1 tau4 po4} /(inj.) (péj.) femme qui s'est remariée/
 翻頭嫁 翻头嫁 [fan1 tou2 jia4] {faan1 tau4 gaa3} /(inj.) (péj.) femme qui s'est remariée/
 翻風 翻风 [fan1 feng1] {faan1 fung1} /(vent) se lever/(fig.) faire froid/
-????f 老 老 [lao3] {lou5} /vieux; âgé/sec et trop cuit/(placé devant un nom ou surnom pour indiquer sa familiarité avec une personne ou endroit)/
+老 老 [lao3] {lou5} /vieux; âgé/sec et trop cuit/(placé devant un nom ou surnom pour indiquer sa familiarité avec une personne ou un lieu)/
 老交情 老交情 [lao3 jiao1 qing5] {lou5 gaau1 cing4} /vieil ami/
 老人家 老人家 [lao3 ren2 jia1] {lou5 jan4 gaa1} /(nom collectif) personnes âgées/
 老人成嫩仔 老人成嫩仔 [lao3 ren2 cheng2 nen4 zi3] {lou5 jan4 sing4 nyun6 zai2} /(expr. idiom.) rajeunir; rajeunissement/
 老人星 老人星 [lao3 ren2 xing1] {lou5 jan4 sing1} /(étoile) Canopus/dieu de prospérité et longévité/
-????f 老人精 老人精 [lao3 ren2 jing1] {lou5 jan4 zing1} /(péj.) comme un vieil homme dans le corps d'un enfant; enfant sage, qui agit en adulte/
+老人精 老人精 [lao3 ren2 jing1] {lou5 jan4 zing1} /(péj.) comme un vieil homme dans le corps d'un enfant; enfant sage, qui agit en adulte/
 老伯 老伯 [lao3 bo2] {lou5 baak3} /vieil homme; homme âgé/(forme de politesse pour les personnes plus âgées de sexe masculin)/
 老作 老作 [lao3 zuo4] {lou5 zok3} /mentir; inventer des histoires/
 ????f 老來嬌 老来娇 [lao3 lai2 jiao1] {lou5 loi4 giu1} /(un peu péj.) vieille femme qui essaie de paraître plus jeune/
-????f 老倌 老倌 [lao3 guan1] {lou5 gun1} /chanteur ou acteur d'opéra cantonais célèbre/
+老倌 老倌 [lao3 guan1] {lou5 gun1} /chanteur ou acteur d'opéra cantonais célèbre/
 老公 老公 [lao3 gong1] {lou5 gung1} /mari; époux/
 老公仔 老公仔 [lao3 gong1 zai3] {lou5 gung1 zai2} /(affectueux) mari; chéri; petit mari/
 老公撥扇 老公拨扇 [lao3 gong5 bo1 shan4] {lou5 gung1 put3 sin3} /(expr. en suspens) pitoyable; malheureux; triste/(lit.) mari qui évente (deuxième partie: 妻涼|妻凉 « femme qui se sent fraîche »; jeu de mots avec 淒涼|凄凉 « misérable; triste »)/
@@ -16379,11 +16383,11 @@
 老嘢 老嘢 [lao3 ye3] {lou5 je5} /(péj.) vieillard; vieux/
 老坑 老坑 [lao3 keng1] {lou5 haang1} /(péj.) les vieux; les personnes âgées/
 老夫子 老夫子 [lao3 fu1 zi3] {lou5 fu1 zi2} /Old Master Q, manhua hongkongais/
-????f 老婆仔 老婆仔 [lao3 po5 zi3] {lou5 po4 zai2} /(affectueux) chérie/(affectueux) (term to address long-time girlfriend ????)/
+老婆仔 老婆仔 [lao3 po5 zi3] {lou5 po4 zai2} /(terme d'affection pour sa femme, pour sa blonde) chérie; mon cœur; mon lapin/
 老婆餅 老婆饼 [lao3 po5 bing3] {lou5 po4 beng2} /« biscuit de la femme », biscuit chinois/
 老宗 老宗 [lao3 zong1] {lou5 zung1} /personne du même clan/parent éloigné qui porte le même nom de famille/
 老定 老定 [lao3 ding4] {lou5 ding6} /(personne) calme; imperturbable/
-????f 老少平安 老少平安 [lao3 shao4 ping2 an1] {lou5 siu3 ping4 on1} /the old and the young are all safe and sound, the name for a dish of steamed tofu with fish paste /
+老少平安 老少平安 [lao3 shao4 ping2 an1] {lou5 siu3 ping4 on1} /plat cantonais de tofu cuit à la vapeur et de pâte de poisson/
 老尖 老尖 [lao3 jian1] {lou5 zim1} /(fam.) Tsim Sha Tsui/
 老屈 老屈 [lao3 qu1] {lou5 wat1} /accuser faussement; monter un coup contre (quelqu'un)/
 老差骨 老差骨 [lao3 cha1 gu3] {lou5 caai1 gwat1} /policier expérimenté/
@@ -16403,8 +16407,8 @@
 老水 老水 [lao3 shui3] {lou5 seoi2} /expérimenté/
 老水鴨 老水鸭 [lao3 shui3 ya1] {lou5 seoi2 aap2} /canard à la sauce soja/
 老波骨 老波骨 [lao3 bo1 gu3] {lou5 bo1 gwat1} /footballeur expérimenté/
-????f 老泥 老泥 [lao3 ni2] {lou5 nai4} /crasse, saletés sur la peau/
-????f 老泥妹 老泥妹 [lao3 ni2 mei4] {lou5 nai4 mui1} /(literally: grubby girl); teenage girl who stays away from home and hangs out on the streets, usually promiscuous and vulgar in their mannerism (female equivalent of « bad boy »)/
+老泥 老泥 [lao3 ni2] {lou5 nai4} /crasse, saletés sur la peau/
+老泥妹 老泥妹 [lao3 ni2 mei4] {lou5 nai4 mui1} /adolescente de nature rebelle (ce terme est souvent associé à la consommation de drogue, la prostitution, etc.)/
 老火湯 老火汤 [lao3 huo3 tang1] {lou5 fo2 tong1} /soupe cantonaise mijotée pendant quelques heures/
 老火靚湯 老火靓汤 [lao3 huo3 jing4 tang1] {lou5 fo2 leng3 tong1} /soupe cantonaise mijotée pendant quelques heures/
 老爆 老爆 [lao3 bao4] {lou5 baau3} /voler; cambrioler; dévaliser/
@@ -16432,17 +16436,17 @@
 老薑 老姜 [lao3 jiang1] {lou5 goeng1} /(fig.) personne qui a beaucoup d'expériences de la vie/(fig.) personne experimentée; vieux de la vieille/(lit.) vieux gingembre/
 老藕 老藕 [lao3 ou3] {lou5 ngau5} /(fig.) (péj.) vieille femme/(lit.) vieille racine de lotus/
 老虎乸 老虎乸 [lao3 hu3 na2] {lou5 fu2 naa2} /(fig.) harpie; mégère/(fig.) femme violente; femme farouche/(fig.) épouse; femme/(lit.) tigresse/
-????c 老虎唔發威當病貓 老虎唔发威当病猫 [lao3 hu3 wu2 fa1 wei1 dang1 bing4 mao1] {lou5 fu2 m4 faat3 wai1 dong3 beng6 maau1} /(expr. idiom.) ne me sous-estimes pas!/(lit.) prendre un tigre qui ne rugit pas pour un chat malade/
+老虎唔發威當病貓 老虎唔发威当病猫 [lao3 hu3 wu2 fa1 wei1 dang1 bing4 mao1] {lou5 fu2 m4 faat3 wai1 dong3 beng6 maau1} /(expr. idiom.) ne me sous-estimes pas!/(lit.) prendre un tigre qui ne rugit pas pour un chat malade/
 老虎蟹 老虎蟹 [lao3 hu3 xie4] {lou5 fu2 haai5} /(crabe) ranina ranina, ranine dentée/(fig.) quoi qu'il arrive; malgré tout; peu importe (ce qui arrive)/(fig.) brute; tyran/
-????f 老虎頭上釘蝨乸 老虎头上钉虱乸 [lao3 hu3 tou2 shang5 ding1 shi1 na2] {lou5 fu2 tau4 soeng6 deng1 sat1 naa2} /(expr. idiom.) provoquer une personne puissante; provoquer une organisation puissante/(lit.) mettre un pou sur la tête du tigre/
+老虎頭上釘蝨乸 老虎头上钉虱乸 [lao3 hu3 tou2 shang5 ding1 shi1 na2] {lou5 fu2 tau4 soeng6 deng1 sat1 naa2} /(expr. idiom.) provoquer une personne puissante; provoquer une organisation puissante/(lit.) mettre un pou sur la tête du tigre/
 老虔婆 老虔婆 [lao3 qian2 po2] {lou5 kin4 po4} /(inj.) vieille femme acariâtre; petite vieille/
-????f 老處 老处 [lao3 chu3] {lou5 cyu2} /old virgin (spoken)/
+????f 老處 老处 [lao3 chu3] {lou5 cyu2} /(fam.) vieille vierge; femme d'un certain âge qui est encore vierge/
 老行專 老行专 [lao3 hang2 zhuan1] {lou5 hong4 zyun1} /expert dans un domaine; vieux de la vieille/
 老行尊 老行尊 [lao3 xing2 zun1] {lou5 hang4 zyun1} /expert dans un domaine; vieux de la vieille/
 老街站 老街站 [lao3 jie1 zhan4] {lou5 gaai1 zaam6} /Laojie Station, station du métro de Shenzhen/
 老表 老表 [lao3 biao3] {lou5 biu2} /cousin/
 老衲 老衲 [lao3 na4] {lou5 naap6} /vieux moine bouddhiste/
-????f 老襟 老襟 [lao3 jin1] {lou5 kam1} /the name two or multiple male address each other if they have sexual relationship with the same woman (spoken)/
+老襟 老襟 [lao3 jin1] {lou5 kam1} /(terme d'adresse pour un pote qui a couché avec la même femme)/
 老襯 老衬 [lao3 chen4] {lou5 can3} /personne crédule; candide/(fig.) jeune marié/(fig.) gens mariés; couples mariés/
 老襯亭 老衬亭 [lao3 chen4 ting2] {lou5 can3 ting4} /(argot) Peak Tower, centre commercial situé sur le pic Victoria à Hong Kong/
 老西 老西 [lao3 xi1] {lou5 sai1} /complet; costume; complet-veston; costard; veston-cravate/
@@ -16451,7 +16455,7 @@
 老豆 老豆 [lao3 dou4] {lou5 dau6} /papa; père/
 老豆老母 老豆老母 [lao3 dou4 lao3 mu3] {lou5 dau6 lou5 mou2} /parents; père et mère/
 老貓燒鬚 老猫烧须 [lao3 mao1 shao1 xu1] {lou5 maau1 siu1 sou1} /(expr. idiom.) il n’y a si bon cheval qui ne bronche; tout le monde peut se tromper/(lit.) même les vieux chats brûlent leurs moustaches/
-????f 老身 老身 [lao3 shen1] {lou5 san1} /(forme de politesse pour une vieille femme, première personne du singulier)/
+老身 老身 [lao3 shen1] {lou5 san1} /(forme de politesse pour une vieille femme, première personne du singulier)/
 老野 老野 [lao3 ye3] {lou5 je5} /(péj.) vieillard; vieux/
 老闆 老板 [lao3 ban3] {lou5 baan2} /chef; patron; supérieur/propriétaire (d'une entreprise ou un magasin); patron; commerçant/
 老闆娘 老板娘 [lao3 ban3 niang2] {lou5 baan2 noeng4} /cheffe; patronne/propriétaire (d'une entreprise ou un magasin); patronne; commerçante/femme du propriétaire/
@@ -16467,7 +16471,7 @@
 老鼠拉龜 老鼠拉龟 [lao3 shu3 la1 gui1] {lou5 syu2 laai1 gwai1} /(expr. en suspens) ne pas savoir par où commencer/(lit.) comme un souris qui traîne une tortue (deuxième partie 冇埞埋手|冇定埋手 « avoir nulle part où mettre ses mains »)/
 老鼠斑 老鼠斑 [lao3 shu3 ban1] {lou5 syu2 baan1} /(espèce de poissons) Cromileptes altivelis; Mérou de Grace Kelly; Mérou bossu/
 老鼠貨 老鼠货 [lao3 shu3 huo4] {lou5 syu2 fo3} /biens volés/(lit.) objets des souris/
-????f 老齧齧 老齧齧 [lao3 nie4 nie4] {lou5 nget6 nget6} /(personne) vieux et faible/(légumes) vieux et dur/
+老齧齧 老齧齧 [lao3 nie4 nie4] {lou5 nget6 nget6} /(personne) vieux et faible/(légumes) vieux et dur/
 考妣 考妣 [kao3 bi3] {haau2 bei2} /parents décédés; père et mère décédés/
 考察 考察 [kao3 cha2] {haau2 caat3} /enquêter/rechercher; étudier/expédition de recherche/
 考慮 考虑 [kao3 lu:4] {haau2 leoi6} /considérer; tenir compte de/
@@ -16485,14 +16489,14 @@
 耍功夫 耍功夫 [shua3 gong1 fu5] {saa2 gung1 fu1} /pratiquer le Kung Fu/
 耍太極 耍太极 [shua3 tai4 ji2] {saa2 taai3 gik6} /(fig.) refiler la patate chaude; rejeter ses responsabilités; tergiverser/(lit.) pratiquer le tai-chi/
 耍家 耍家 [shua3 jia1] {saa2 gaa1} /doué; habile; adroit/
-????f 耍手 耍手 [shua3 shou3] {saa2 sau2} /(geste de la main) non merci/
-????f 耍手擰頭 耍手拧头 [shua3 shou3 ning3 tou2] {saa2 sau2 ning6 tau4} /secouer la tête et faire un signe de main pour refuser/
+耍手 耍手 [shua3 shou3] {saa2 sau2} /(geste de la main) non merci/
+耍手擰頭 耍手拧头 [shua3 shou3 ning3 tou2] {saa2 sau2 ning6 tau4} /secouer la tête et faire un signe de main pour refuser/
 耍把戲 耍把戏 [shua3 ba3 xi4] {saa2 baa2 hei3} /jongler/jouer des tours à quelqu'un/
 耍樂 耍乐 [shua3 le4] {saa2 lok6} /s'amuser; rigoler/jouer (un jeu)/
 耍盲雞 耍盲鸡 [shua3 mang2 ji1] {saa2 maang4 gai1} /colin-maillard; jeu de loup où le chasseur a les yeux bandés/
 耍笑 耍笑 [shua3 xiao4] {saa2 siu3} /plaisanter/jouer des tours à quelqu'un/taquiner quelqu'un/
 耍筆桿 耍笔杆 [shua3 bi3 gan3] {saa2 bat1 gon1} /(péj.) (ne rien savoir à part) manier la plume/
-????f 耍花槍 耍花枪 [shua3 hua1 qiang1] {saa2 faa1 coeng1} /(d'un couple romantique) faire semblant de se disputer/describes the interaction between a couple where both parties demonstrate their love through harmless petty arguments; argue for fun/
+耍花槍 耍花枪 [shua3 hua1 qiang1] {saa2 faa1 coeng1} /(fig.) (d'un couple romantique) faire semblant de se disputer; se disputer mais pas vraiment/
 耍嘴皮 耍嘴皮 [shua3 zui3 pi2] {saa2 zeoi2 pei4} /parler sans jamais agir/
 耐 耐 [nai4] {noi6} /longtemps; longue période de temps/
 耐不耐 耐不耐 [nai4 bu4 nai4] {noi6 bat1 noi2} /de temps en temps; parfois/
