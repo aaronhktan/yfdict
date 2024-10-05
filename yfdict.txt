@@ -16509,7 +16509,7 @@
 耘田 耘田 [yun2 tian2] {wan4 tin4} /désherber les champs/
 耥耙 耥耙 [tang1 ba4] {tong2 paa3} /herse pour les rizières/
 耨喉 耨喉 [nou4 hou2] {nau6 hau4} /trop sucré; écœurant/trop gras/
-????c 耨市 耨市 [nou4 shi4] {nau6 si5} /unsellable; unmarketable; encounter poor sales; in excess of demand (is it unsellable because there's too much supply or because it's bad quality?)/
+耨市 耨市 [nou4 shi4] {nau6 si5} /se vendre mal/
 耳仔 耳仔 [er3 zi3] {ji5 zai2} /oreille/oreilles/
 耳仔窿 耳仔窿 [er3 zi3 long2] {ji5 zai2 lung1} /canal auditif/piercing oreille/
 耳仔軟 耳仔软 [er3 zi3 ruan3] {ji5 zai2 jyun5} /(fig.) (personne) influençable; malléable/(lit.) oreilles molles/
@@ -16526,7 +16526,7 @@
 耷低頭 耷低头 [da1 di1 tou2] {dap1 dai1 tau4} /baisser la tête/regarder par terre; regarder vers le bas/(fig.) être déçu; être triste; être troublé/
 耷尾 耷尾 [da1 wei3] {daap3 mei5} /laisser inachevé; ne pas finir quelque chose que l'on a commencé/
 耷尾狗 耷尾狗 [da1 wei3 gou3] {dap1 mei5 gau2} /perdant; perdante/
-????f 耷濕 耷濕 [da1 chi4] {daap3 sap1} /(d'un objet ou endroit) rudimentaire; délabré; trop simple/(too simple; unbecoming; shabby)/
+耷濕 耷濕 [da1 chi4] {daap3 sap1} /(d'un objet ou endroit) rudimentaire; délabré; trop simple/
 耷頭佬 耷头佬 [da1 tou2 lao3] {daap3 tau4 lou2} /personne futée; personne rusée; personne maligne/
 耷頭耷腦 耷头耷脑 [da1 tou2 da1 nao3] {dap1 tau4 dap1 nou5} /(expr.) découragé; démoralisé/(lit.) tête affaissée, cerveau affaissée/
 聖堂 圣堂 [sheng4 tang2] {sing3 tong4} /temple confucéen/église/
@@ -16541,7 +16541,7 @@
 聘請 聘请 [pin4 qing3] {ping3 cing2} /recruter; embaucher; engager/
 聚腳 聚脚 [ju4 jiao3] {zeoi6 goek3} /(personnes) se rassembler; se réunir/
 聚腳地 聚脚地 [ju4 jiao3 di4] {zeoi6 goek3 dei6} /lieu de rassemblement; lieu de rencontrer/
-????f 聚舊 聚旧 [ju4 jiu4] {zeoi6 gau6} /gathering; reunion of old friends; to reminisce about the past/
+聚舊 聚旧 [ju4 jiu4] {zeoi6 gau6} /assemblée de vieux amis/
 聞 闻 [wen2] {man4} /sentir; percevoir quelque chose par l'odorat/savoir; connaître/
 聞得 闻得 [wen2 de2] {man4 dak1} /entendre parler de/
 䎺得過 䎺得过 [zhi3 de2 guo4] {zai3 dak1 gwo3} /valoir le coup; valoir la peine/justifier son prix; rentable/
@@ -16556,7 +16556,7 @@
 聯針 联针 [lian2 zhen1] {lyun4 zam1} /(médecine) suturer; recoudre/
 聰明一世，蠢鈍一時 聪明一世，蠢钝一时 [cong1 ming5 yi1 shi4 , chun3 dun4 yi1 shi2] {cung1 ming4 jat1 sai3 ceon2 deon6 jat1 si4} /(expr. idiom.) il n’y a si bon cheval qui ne bronche; tout le monde peut se tromper/(lit.) intelligent toute sa vie, stupide pour un moment/
 聲 声 [sheng1] {sing1} /son; bruit/voix/ton/réputation/dire; annoncer; affirmer; prétendre; déclarer; proclamer/
-????f 聲勢浩大 声势浩大 [sheng1 shi4 hao4 da4] {sing1 sai3 hou6 daai6} /(expr.) démonstration de force impressionnante; majestueux et imposant (is démonstration de force too militaristic?)/
+聲勢浩大 声势浩大 [sheng1 shi4 hao4 da4] {sing1 sai3 hou6 daai6} /(expr.) démonstration de force impressionnante; majestueux et imposant/
 聲喉 声喉 [sheng1 hou2] {sing1 hau4} /voix/
 聲大夾冇準 声大夹冇准 [sheng1 da4 jia1 mao3 zhun3] {seng1 daai6 gaap3 mou5 zeon2} /(expr.) parler fort mais ne dire que des bêtises/(lit.) gros bruit qui ne contient rien de bien/
 聲大夾惡 声大夹恶 [sheng1 da4 jia1 e4] {seng1 daai6 gaap3 ngok3} /(expr.) parler fort et d'une manière hostile/
@@ -16566,14 +16566,14 @@
 聲線 声线 [sheng1 xian4] {seng1 sin3} /(musique) voix/timbre de la voix/ton de la voix/
 聲能 声能 [sheng1 neng2] {sing1 nang4} /énergie acoustique; énergie des ondes sonores/
 聲色 声色 [sheng1 se4] {sing1 sik1} /voix et contenance/(litt.) les femmes et la musique/(litt.) plaisirs sensuels; débauche/
-????f 聲色俱厲 声色俱厉 [sheng1 se4 ju4 li4] {sing1 sik1 keoi1 lai6} /(expr.) parler sur un ton sec et avoir un air sévère/
+聲色俱厲 声色俱厉 [sheng1 se4 ju4 li4] {sing1 sik1 keoi1 lai6} /(expr.) parler d'un ton sec et avoir un air sévère/
 聳入雲霄 耸入云霄 [song3 ru4 yun2 xiao1] {sung2 jap6 wan4 siu1} /(expr.) (d'un grand bâtiment) toucher le ciel/
 聳聽 耸听 [song3 ting1] {sung2 ting3} /dramatiser; exagérer/
-????c 職別 职别 [zhi2 bie2] {zik1 bit6} /Job title, rank/
+職別 职别 [zhi2 bie2] {zik1 bit6} /titre de poste/
 職官 职官 [zhi2 guan1] {zik1 gun1} /fonctionnaire/
-????f 職權 职权 [zhi2quan2] {zik1 kyun4} /(noun) Authority of work position; power of the office (e.g. power of the office of the president); one's authority (conferred by their job)/
-????c 職權範圍 职权范围 [zhi2 quan2 fan4 wei2] {zik1 kyun4 faan6 wai4} /Terms of Reference/
-????c 聽價唔聽斗 听价唔听斗 [ting1 jia4 wu2 ting1 dou4] {teng1 gaa3 m4 teng1 dau2} /just listen to the brief idea but without knowing the intrinsic detail/
+職權 职权 [zhi2 quan2] {zik1 kyun4} /autorité accordé par son poste/
+職權範圍 职权范围 [zhi2 quan2 fan4 wei2] {zik1 kyun4 faan6 wai4} /mandat; cadre d'un poste/
+聽價唔聽斗 听价唔听斗 [ting1 jia4 wu2 ting1 dou4] {teng1 gaa3 m4 teng1 dau2} /(expr. idiom.) vouloir passer à l'action sans connaître les détails/(lit.) entendre le prix mais pas entendre la taille du sceau/
 聽出耳油 听出耳油 [ting1 chu1 er3 you2] {teng1 ceot1 ji5 jau4} /(expr. idiom.) mélodieux; doux à l'oreille/(lit.) l'huile coule des oreilles/
 聽唔明 听唔明 [ting1 wu2 ming2] {teng1 m4 ming4} /incapable de comprendre/
 聽尼士 听尼士 [ting1 ni2 shi4] {ting1 nei4 si6} /(rare) (vieilli) tennis/
@@ -16599,18 +16599,19 @@
 聽音樂 听音乐 [ting1 yin1 yue4] {teng1 jam1 ngok6} /écouter la musique/
 肉乾 肉干 [rou4 gan1] {juk6 gon1} /viande séchée/
 肉俎砧板上 肉俎砧板上 [rou4 zu3 zhen1 ban3 shang4] {juk6 zo2 zam1 baan2 soeng6} /(expr. idiom.) ne pas avoir le choix; être sans issue/(lit.) comme un morceau de viande sur la planche à découper/
-????c 肉刺 肉刺 [rou4 ci4] {juk6 cek3, juk6 ci3} /envie; petite portion de peau près des ongles/(heartache; distress?; person? thorn in one's side)/
+肉刺 肉刺 [rou4 ci4] {juk6 ci3} /envie; petite portion de peau près des ongles/
+????f 肉刺 肉刺 [rou4 ci4] {juk6 cek3} /se sentir mécontent après avoir dépensé une grande somme d'argent/se sentir triste après avoir renoncé à quelqu'un, quelque chose auquel on tenait/
 肉參 肉参 [rou4 shen1] {juk6 sam1} /otage/
 肉店 肉店 [rou4 dian4] {juk6 dim3} /boucherie/
 肉彈 肉弹 [rou4 dan4] {juk6 daan2} /(fam.) femme attirante; femme canon/(fam.) (d'une femme) avoir une taille de guêpe; ligne superbe; belles formes/(lit.) bombe de chair/
 肉搏 肉搏 [rou4 bo2] {juk6 bok3} /combattre corps-à-corps/
-????f 肉檔 肉档 [rou4 dang4] {juk6 dong3} /étal de boucher/
+肉檔 肉档 [rou4 dang4] {juk6 dong3} /étal de boucher/
 肉滑 肉滑 [rou4 hua2] {juk6 waat6} /viande hachée marinée/(dans l'expression 皮光肉滑|皮光肉滑) peau lisse; peau douce/
 肉痛 肉痛 [rou4 tong4] {juk6 tung3} /réticent (à faire quelque chose)/peiner; faire mal; faire de la peine; attrister/(note d'usage: cette expression s'emploie généralement pour une situation où quelqu'un doit dépenser de l'argent ou se séparer d'un objet de valeur/
 肉眼牛扒 肉眼牛扒 [rou4 yan3 niu2 pa2] {juk6 ngaan5 ngau4 paa2} /entrecôte/faux-filet/
 肉碎 肉碎 [rou4 sui4] {juk6 seoi3} /hachis de viande; viande hachée/
 肉粒 肉粒 [rou4 li4] {juk6 lap1} /viande en dés; viande en cubes/acrochordon; molluscum pendulum; polype fibroépithélial; tétine/
-????f 肉絲炒麵 肉丝炒面 [rou4 si1 chao3 mian4] {juk6 si1 caau2 min6} /chow mein au bœuf en lanières/
+肉絲炒麵 肉丝炒面 [rou4 si1 chao3 mian4] {juk6 si1 caau2 min6} /chow mein au bœuf en lanières/
 肉緊 肉紧 [rou4 jin3] {juk6 gan2} /être très préoccupé par; se soucier beaucoup de/
 肉色 肉色 [rou4 se4] {juk6 sik1} /couleur pêche; couleur chair/
 肉蟹 肉蟹 [rou4 xie4] {juk6 haai5} /Scylla serrata; crabe des palétuviers; crabe de mangrove/
@@ -16631,7 +16632,7 @@
 肢體語言 肢体语言 [zhi1 ti3 yu3 yan2] {zi1 tai2 jyu5 jin4} /langage du corps/
 肥仔 肥仔 [fei2 zi3] {fei4 zai2} /(personne) (affectueux) (fam.) gros, grosse; petit gros, petite grosse/
 肥仔嘜 肥仔唛 [fei2 zi3 ma4] {fei4 zai2 mak1} /(affectueux) (fam.) (personne de sexe masculin) gros; petit gros/
-????f 肥仔水 肥仔水 [fei2 zi3 shui3] {fei4 zai2 seoi2} /Gripe Water/
+????f 肥仔水 肥仔水 [fei2 zi3 shui3] {fei4 zai2 seoi2} /eau de grignotage (en anglais, « gripe water »)/
 肥仔米 肥仔米 [fei2 zi3 mi3] {fei4 zai2 mai5} /riz rond; riz japonica/
 肥佬 肥佬 [fei2 lao3] {fei4 lou2} /rater; échouer à (un examen)/(personne de sexe masculin) gros; petit gros/(orig.) de l'anglais « fail » (échouer, rater)/
 肥揗揗 肥揗揗 [fei2 shun3 shun3] {fei4 tan4 tan4} /(personne) gros; obèse; corpulent/(aliment) gras/
@@ -16643,16 +16644,16 @@
 肩負重任 肩负重任 [jian1 fu4 zhong4 ren4] {gin1 fu6 zung6 jam6} /(expr.) grande responsabilité; lourde responsabilité/
 肯制 肯制 [ken3 zhi4] {hang2 zai3} /donner son accord; approuver/
 肯雅 肯雅 [ken3 ya3] {hang2 ngaa5} /Kenya, pays d'Afrique de l'Est/
-????f 育才 育才 [yu4 cai2] {juk6 coi4} /éduquer et former les personnes talentueuses; développer les talents des personnes douées/
+育才 育才 [yu4 cai2] {juk6 coi4} /éduquer et former les personnes talentueuses; développer les talents des personnes douées/
 肺動脈 肺动脉 [fei4 dong4 mai4] {fai3 dung6 mak6} /artère pulmonaire/
 肺臟 肺脏 [fei4 zang4] {fai3 zong6} /poumon/
 肺講嘢 肺讲嘢 [fei4 jiang3 ye3] {fai3 gong2 je5} /dire n'importe quoi; dire des bêtises/
 肺靜脈 肺静脉 [fei4 jing4 mai4] {fai3 zing6 mak6} /veine pulmonaire/
 胃潰瘍 胃溃疡 [wei4 kui4 yang2] {wai6 kui2 joeng4} /ulcère gastro-duodénal; ulcère de l'estomac/
-????c 胃火 胃火 [wei4 huo3] {wai6 fo2} /(médecine traditionelle chinoise) The stomach's ability to digest; appetite/
-????c 胈 胈 [ba2] {bat6} /The fine hair on body, especially on calves and arms/
+胃火 胃火 [wei4 huo3] {wai6 fo2} /(médecine traditionelle chinoise) « feu de l'estomac », la capacité de l'estomac de digérer/
+胈 胈 [ba2] {bat6} /cheveux fins (en particulier ceux sur les cuisses)/
 背手 背手 [bei4 shou3] {bui3 sau2} /mettre les mains dans le dos/pot-de-vin; dessous-de-table; bakchich/
-????c 背手影 背手影 [bei4 shou3 ying3] {bui3 sau2 jing2} /to be in poor light; to do something with one's back to the light; to stand in one's own light/
+????c 背手影 背手影 [bei4 shou3 ying3] {bui3 sau2 jing2} /avoir le dos vers la source de lumière/
 背時 背时 [bei4 shi2] {bui6 si4} /Unlucky; be out of luck; behind the times/
 背泳 背泳 [bei4 yong3] {bui3 wing6} /dos crawlé; nage sur le dos/
 背脊骨 背脊骨 [bei4 ji3 gu3] {bui3 zek3 gwat1} /colonne vertébrale/
@@ -16679,27 +16680,27 @@
 胯下 胯下 [kua4 xia4] {kwaa3 haa6} /entrejambe; aine/
 胳肋底 胳肋底 [ge1 le1 di3] {gaak3 laak1 dai2} /aisselle/
 胸圍 胸围 [xiong1 wei2] {hung1 wai4} /soutien-gorge/
-????f 胸毛 胸毛 [xiong1 mao2] {hung1 mou4} /poils du torse; poils du poitrine/
+胸毛 胸毛 [xiong1 mao2] {hung1 mou4} /poils du torse; poils du poitrine/
 胸襟 胸襟 [xiong1 jin1] {hung1 kam1} /vision; aspiration/largeur d'esprit/(d'un veste) revers/
-????f 胸襲 胸袭 [xiong1 xi2] {hung1 zaap6} /aggresser sexuellement en touchant les seins/
+胸襲 胸袭 [xiong1 xi2] {hung1 zaap6} /agresser sexuellement en touchant les seins/
 胸部 胸部 [xiong1 bu4] {hung1 bou6} /poitrine/seins/
 胺 胺 [an4] {on1} /(chimie) amine/
 能劇 能剧 [neng2 ju4] {nang4 kek6} /théâtre nô, style de théâtre japonais/
 能工巧匠 能工巧匠 [neng2 gong1 qiao3 jiang4] {nang4 gung1 haau2 zoeng6} /artisan qualifié/
-????f 能文能武 能文能武 [neng2 wen2 neng2 wu3] {nang4 man4 nang4 mou5} /(expr.) érudit et athlétique/
+能文能武 能文能武 [neng2 wen2 neng2 wu3] {nang4 man4 nang4 mou5} /(expr.) érudit et athlétique/
 能源部 能源部 [neng2 yuan2 bu4] {nang4 jyun4 bou6} /département de l'Énergie/
-????f 能者為師 能者为师 [neng2 zhe3 wei2 shi1] {nang4 ze2 wai4 si1} /A phrase: Let those who can serve, teach/
+????f 能者為師 能者为师 [neng2 zhe3 wei2 shi1] {nang4 ze2 wai4 si1} /(expr.) que ceux qui connaissent le sujet l'enseignent/
 能言善道 能言善道 [neng2 yan2 shan4 dao4] {nang4 jin4 sin6 dou6} /(expr.) être éloquent; être beau parleur/
-????c 脂粉客 脂粉客 [zhi1 fen3 ke4] {zi1 fan2 haak3} /(is this positive or negative connotation?) a dissolute / lecherous / lascivious guy/
+脂粉客 脂粉客 [zhi1 fen3 ke4] {zi1 fan2 haak3} /(fig.) pervers; obsédé sexuel/
 脂質 脂质 [zhi1 zhi2] {zi1 zat1} /lipide/
 脂類 脂类 [zhi1 lei4] {zi1 leoi6} /lipide/
-????f 脅從 胁从 [xie2 cong2] {hip3 cung4} /complice sous la contrainte/
+脅從 胁从 [xie2 cong2] {hip3 cung4} /(vieilli) complice sous la contrainte/
 脆 脆 [cui4] {ceoi3} /croustillant; croquant; craquant/(voix) claire; nette/
 脆卜卜 脆卜卜 [cui4 bu3 bu3] {ceoi3 bok1 bok1} /croustillant; croquant; craquant/
 脆弱 脆弱 [cui4 ruo4] {ceoi3 joek6} /fragile; faible/
-????f 脆皮 脆皮 [cui4 pi2] {ceoi3 pei4} /(cuisine) à peau croustillante (ex. poulet frit, tofu frit, etc.)/
+脆皮 脆皮 [cui4 pi2] {ceoi3 pei4} /(cuisine) à peau croustillante (ex. poulet frit, tofu frit, etc.)/
 脢肉 脢肉 [mei2 rou4] {mui4 juk6} /filet/
-????f 脢頭 脢头 [mei2 tou2] {mui4 tau2} /(épaule de porc; épaule picnic?) pork collar butt/
+????f 脢頭 脢头 [mei2 tou2] {mui4 tau2} /épaule de porc; épaule picnic (en anglais, « pork collar butt »)/
 脫位 脱位 [tuo1 wei4] {tyut3 wai6} /luxation; déboîtement/luxer/
 脫戲 脫戏 [tuo1 xi4] {tyut3 hei3} /film avec un scène de nu/
 脫星 脱星 [tuo1 xing1] {tyut3 sing1} /pornstar; star du porno/
@@ -16707,7 +16708,7 @@
 脫節 脱节 [tuo1 jie2] {tyut3 zit3} /se détacher/être dépassé; être démodé; être vieux jeu/
 脫離實際 脱离实际 [tuo1 li2 shi2 ji4] {tyut3 lei4 sat6 zai3} /se déconnecter de la réalité/
 脫離關係 脱离关系 [tuo1 li2 guan1 xi5] {tyut3 lei4 gwaan1 hai6} /(expr.) couper les ponts avec quelqu'un; rompre les relations avec quelqu'un/
-????c 脫墨 脫墨 [tuo1 mo4] {tyut3 mak2} /removal of a mole/decolourize; remove ink; fade/
+脫墨 脫墨 [tuo1 mo4] {tyut3 mak2} /enlever un grain de beauté/
 脷苔 脷苔 [li4 tai2] {lei6 toi1} /revêtement blanc sur la langue/
 脹卜卜 胀卜卜 [zhang4 bu3 bu3] {zoeng3 buk1 buk1} /enflé; gonflé/bombé; protubérant; proéminent/
 脹泵泵 胀泵泵 [zhang4 beng4 beng4] {zoeng3 bam1 bam1} /enflé; gonflé/bombé; protubérant; proéminent/
@@ -16719,7 +16720,7 @@
 腌魚 腌鱼 [yan1 yu2] {jip3 jyu2} /kipper; poisson salé/
 腍 腍 [ren3] {nam4} /(aliment) tendre/(personne) tendre; trop gentil/
 腍佛 腍佛 [ren3 fo2] {nam4 fat6} /(personne) d'humeur égale; doux; qui a bon caractère/
-????f 腍厴 腍厣 [ren3 yan3] {nam4 jim2} /(du corps humain) côtés/
+????f 腍厴 腍厣 [ren3 yan3] {nam4 jim2} /(du corps humain) côtés; parties latérales du tronc près des intestins et de l'estomac/
 腍啤啤 腍啤啤 [ren3 pi2 pi2] {nam4 be4 be4} /mou, molle/trop mou, trop molle/carpette; paillasson; chiffe molle; personne faible de caractère/
 腍善 腍善 [ren3 shan4] {nam4 sin6} /qui a bon caractère; sympathique; de caractère facile/
 腍柿 腍柿 [ren3 shi4] {nam4 ci5} /kaki; plaquemine/
@@ -16727,7 +16728,7 @@
 腎囊 肾囊 [shen4 nang2] {san6 nong4} /kyste rénal/scrotum/
 腎虧 肾亏 [shen4 kui1] {san6 kwai1} /(médecine traditionelle chinoise) faiblesse rénale/
 腐乳 腐乳 [fu3 ru3] {fu6 jyu5} /tofu fermenté; furu; sufu/
-????f 腐乳通菜 腐乳通菜 [fu3 ru3 tong1 cai4] {fu6 jyu5 tung1 coi3} /tofu fermenté et liseron d'eau, plat chinois/
+腐乳通菜 腐乳通菜 [fu3 ru3 tong1 cai4] {fu6 jyu5 tung1 coi3} /tofu fermenté et liseron d'eau, plat chinois/
 腐敗無能 腐败无能 [fu3 bai4 wu2 neng2] {fu6 baai6 mou4 nang4} /corruption et incompétence/
 腐爛 腐烂 [fu3 lan4] {fu6 laan6} /décomposer; pourrir/putride/
 腐皮 腐皮 [fu3 pi2] {fu6 pei4} /peau de tofu; feuille de tofu; yuba/
@@ -16738,25 +16739,25 @@
 腕足 腕足 [wan4 zu2] {wun2 zuk1} /(biologie) pédoncule/
 腕錶 腕表 [wan4 biao3] {wun2 biu1} /montre; montre-bracelet; bracelet-montre/
 腥 腥 [xing1] {seng1} /odeur de poisson/sentir le poisson/viande crue/
-????f 腥味 腥味 [xing1 wei4] {seng1 mei6} /(connotation négative) odeur du poisson/
+腥味 腥味 [xing1 wei4] {seng1 mei6} /(connotation négative) odeur du poisson/
 腥悶 腥闷 [xing1 men4] {seng1 mun6} /pointilleux; tatillon; minutieux; difficile/
-????f 腥曷 腥曷 [xing1 he2] {seng1 hot3} /puanteur de poisson/
-????f 腥氣 腥气 [xing1 qi5] {seng1 hei3} /(connotation négative) odeur du poison/
+腥曷 腥曷 [xing1 he2] {seng1 hot3} /puanteur de poisson/
+腥氣 腥气 [xing1 qi5] {seng1 hei3} /(connotation négative) odeur du poison/
 腥膻 腥膻 [xing1 shan1] {seng1 zin1} /sentir le poisson et le mouton/(fig.) viande; non-végétarien/(fig.) envahisseurs/(fig.) mauvaises choses/
 腥臊 腥臊 [xing1 sao1] {seng1 sou1} /puanteur/
 腥臭 腥臭 [xing1 chou4] {seng1 cau3} /puanteur de poisson/
 腦囟 脑囟 [nao3 xin4] {nou5 seon3} /fontanelle/
-????f 腦囟未生埋 脑囟未生埋 [nao3 xin4 wei4 sheng1 mai2] {nou5 seon2 mei6 saang1 maai4} /(expr. idiom.) immature; enfantin; puéril/(lit.) personne dont les fontanelles ne sont pas soudées/
+腦囟未生埋 脑囟未生埋 [nao3 xin4 wei4 sheng1 mai2] {nou5 seon2 mei6 saang1 maai4} /(expr. idiom.) (d'une personne) immature; enfantin; puéril/(lit.) personne dont les fontanelles ne sont pas soudées/
 腦殼 脑壳 [nao3 ke2] {nou5 hok3} /crâne/
 腦滿腸肥 脑满肠肥 [nao3 man3 chang2 fei2] {nou5 mun5 coeng2 fei4} /(expr.) riches oisifs/
-????f 腦筍未生埋 脑笋未生埋 [nao3 sun3 wei4 sheng1 mai2] {nou5 seon2 mei6 saang1 maai4} /(expr. idiom.) immature; enfantin; puéril/(lit.) personne dont les fontanelles ne sont pas soudées/
+腦筍未生埋 脑笋未生埋 [nao3 sun3 wei4 sheng1 mai2] {nou5 seon2 mei6 saang1 maai4} /(expr. idiom.) (d'une personne) immature; enfantin; puéril/(lit.) personne dont les fontanelles ne sont pas soudées/
 腩 腩 [nan3] {naam5} /ventre; bedaine/filet/poitrine de bœuf/
-????f 腰斬 腰斩 [yao1 zhan3] {jiu1 zaam2} /(arch.) (peine de mort) couper en deux à la taille/(fig.) annulation d'un projet ou évènement en cours/
+腰斬 腰斩 [yao1 zhan3] {jiu1 zaam2} /(arch.) (peine de mort) couper en deux à la taille/(fig.) annulation d'un projet ou évènement en cours/
 腰痛 腰痛 [yao1 tong4] {jiu1 tung3} /lombalgie; lumbago; douleurs au lombaires/
 腰酸背痛 腰酸背痛 [yao1 suan1 bei4 tong4] {jiu1 syun1 bui3 tung3} /(expr.) avoir mal partout/(lit.) avoir mal à la taille et avoir mal au dos/
 腰間 腰间 [yao1 jian1] {jiu1 gaan1} /(anatomie) taille/
 腰骨 腰骨 [yao1 gu3] {jiu1 gwat1} /colonne vertébrale/force de caractère/
-????f 腳 脚 [jiao3] {goek3} /pied/jambe/base; support/(d'un mur, d'une montagne, etc.) pied/note en bas de la page; note de bas de la page/joueur dans un jeu (de mah-jong)/(plus particulièrement) le dernier joueur qui rejoint une partie de mah-jong, pour qu'il y ait assez de joueurs pour commencer le jeu/(dans le mot 水腳|水脚) dépenses/
+腳 脚 [jiao3] {goek3} /pied/jambe/base; support/(d'un mur, d'une montagne, etc.) pied/note en bas de la page; note de bas de la page/joueur dans un jeu (de mah-jong)/(plus particulièrement) le dernier joueur qui rejoint une partie de mah-jong, pour qu'il y ait assez de joueurs pour commencer le jeu/(dans le mot 水腳|水脚) dépenses/
 腳制 脚制 [jiao3 zhi4] {goek3 zai3} /pédale/pédale de frein/(note: usage déconseillé; voir 腳掣|脚掣)/
 腳力 脚力 [jiao3 li4] {goek3 lik6} /la force des jambes/
 腳坳 脚坳 [jiao3 ao4] {goek3 aau3} /fosse poplitée; creux du genou/
@@ -16782,7 +16783,7 @@
 腳趾尾 脚趾尾 [jiao3 zhi3 wei3] {goek3 zi2 mei1} /petit orteil/
 腳趾屘 脚趾屘 [jiao3 zhi3 man1] {goek3 zi2 mei1} /petit orteil/
 腳趾甲 脚趾甲 [jiao3 zhi3 jia5] {goek3 zi2 gaap3} /ongle de pied/
-????f 腳趾罅 脚趾罅 [jiao3 zhi3 xia4] {goek3 zi2 laa3} /espaces entre les orteils/
+腳趾罅 脚趾罅 [jiao3 zhi3 xia4] {goek3 zi2 laa3} /espaces entre les orteils/
 腳踭 脚踭 [jiao3 zheng1] {goek3 zaang1} /talon/
 腳軟 脚软 [jiao3 ruan3] {goek3 jyun5} /avoir les jambes molles; avoir les jambes en coton; être très fatigué; être épuisé/être terrifié; avoir très peur/
 腳面 脚面 [jiao3 mian4] {goek3 min6} /cou-de-pied; partie supérieure du pied/
@@ -16794,17 +16795,17 @@
 腳骹 脚骹 [jiao3 qiao1] {goek3 gaau3} /cheville/
 腳魚 脚鱼 [jiao3 yu2] {goek3 jyu4} /tortue à carapace molle/
 腳膠 脚胶 [jiao3 hao2] {goek3 gaau1} /(Hong Kong) fétichiste des pieds/
-????c 腷 腷 [bi4] {bik1} /To be depressed as a result of sadness or anger/
+????c 腷 腷 [bi4] {bik1} /être mécontent à cause de la colère ou la tristesse/
 ????f 腸仔包 肠仔包 [chang2 zi3 bao1] {coeng2 zai2 baau1} /brioche hot-dog, petit pain hongkongais fourré à hot-dog/
 腸梗阻 肠梗阻 [chang2 geng3 zu3] {coeng4 gang2 zo2} /occlusion intestinale/
 腸肚 肠肚 [chang2 du4] {coeng4 tou5} /les intestins et le ventre/(fig.) intentions; buts/
-????f 腹稿 腹稿 [fu4 gao3] {fuk1 gou2} /schéma mental (?) (A draft plan worked out in one's mind; mental notes)/
+????f 腹稿 腹稿 [fu4 gao3] {fuk1 gou2} /schéma mental; plan dans la tête/
 腹背受敵 腹背受敌 [fu4 bei4 shou4 di2] {fuk1 bui3 sau6 dik6} /(expr. idiom.) être pris entre deux feux/
 膊頭 膊头 [bo2 tou2] {bok3 tau4} /épaule/
 ????c 有膊頭 有膊头 [you3 bo2 tou2] {jau5 bok3 tau4} /(fig.) (personne) responsable; fiable; sur qui on peut compter/
 有出息 有出息 [you3 chu1 xi1] {jau5 ceot1 sik1} /(fig.) aller loin dans la vie/
-????f 有喜 有喜 [you3 xi3] {jau5 hei2} /avoir une heureuse occasion; avoir un heureux évènement (souvent des noces)/
-????c 膊頭高過耳 膊头高过耳 [bo2 tou2 gao1 guo4 er3] {bok3 tau4 gou1 gwo3 ji5} /Shoulders higher than the ears, to describe someone who is very skinny, like an opium addict/
+????f 有喜 有喜 [you3 xi3] {jau5 hei2} /avoir une heureuse occasion qui vient; avoir un heureux évènement qui vient (souvent des noces)/
+????c 膊頭高過耳 膊头高过耳 [bo2 tou2 gao1 guo4 er3] {bok3 tau4 gou1 gwo3 ji5} /(expr. idiom.) maigre et chétif/(lit.) avoir les épaules plus hautes que les oreilles/
 膏蟹 膏蟹 [gao1 xie4] {gou1 haai5} /crabe de palétuviers femelle/
 膚皮潦草 肤皮潦草 [fu1 pi2 liao2 cao3] {fu1 pei4 liu4 cou2} /(expr. idiom.) négligent; superficiel; rapide; sommaire/
 浮皮潦草 浮皮潦草 [fu2 pi2 liao2 cao3] {fau4 pei4 liu4 cou2} /(expr. idiom.) négligent; superficiel; rapide; sommaire/
@@ -16816,7 +16817,7 @@
 膠公仔 膠公仔 [hao2 gong1 zai3] {gaau1 gung1 zai2} /poupée en plastique/
 膠刀 膠刀 [hao2 dao1] {gaau1 dou1} /couteau en plastique/
 膠叉 膠叉 [hao2 cha1] {gaau1 caa1} /fourchette en plastique/
-膠喉 胶喉 [Jiao1 hou2] {gaau1 hau4} /tuyau d'arrosage en plastique/
+膠喉 胶喉 [jiao1 hou2] {gaau1 hau4} /tuyau d'arrosage en plastique/
 膠喉 膠喉 [hao2 hou2] {gaau1 hau4} /tuyau d'arrosage en plastique/
 膠套 膠套 [hao2 tao4] {gaau1 tou3} /pochette en plastique/sac en plastique/
 膠拖 膠拖 [hao2 tuo1] {gaau1 to1} /tongs en plastique; tongs en caoutchouc/
@@ -16837,10 +16838,10 @@
 膠通 膠通 [hao2 tong1] {gaau1 tung1} /tuyau en plastique/
 膠體溶液 胶体溶液 [jiao1 ti3 rong2 ye4] {gaau1 tai2 jung4 jik6} /solution colloïdale; sol/
 膨脹 膨胀 [peng2 zhang4] {paang4 zoeng3} /se gonfler/(pain) faire lever/
-?????f 膳費 膳费 [shan4 fei4] {sin6 fai3} /Meal charge; board expenses/
+膳費 膳费 [shan4 fei4] {sin6 fai3} /frais de repas; coût d'un repas/
 膶腸 膶肠 [run4 chang2] {jeon2 coeng2} /saucisse chinoise de foie de porc/saucisse chinoise de foie de canard/
 膽大心細 胆大心细 [dan3 da4 xin1 xi4] {daam2 daai6 sam1 sai3} /courageux et prudent/
-????f 膽機 胆机 [dan3 ji1] {daam2 gei1} /amplificateur à tubes; amplificateur à soupapes/
+膽機 胆机 [dan3 ji1] {daam2 gei1} /amplificateur à tubes; amplificateur à soupapes/
 膽正命平 胆正命平 [dan3 zheng4 ming4 ping2] {daam2 zeng3 meng6 peng4} /(expr.) prêt à mourir pour la justice/
 膽生毛 胆生毛 [dan3 sheng1 mao2] {daam2 saang1 mou4} /(personne) audacieux; osé; courageux/
 膽生石 胆生石 [dan3 sheng1 shi2] {daam2 saang1 sek6} /calcul biliaire/
@@ -16865,11 +16866,11 @@
 臘腸 腊肠 [la4 chang2] {laap6 coeng2} /lap cheong, saucisse cantonaise/
 臘腸卷 腊肠卷 [la4 chang2 juan3] {laap6 coeng2 gyun2} /petit pain fourré au lap cheong; petit fourré à la saucisse cantonaise/
 臘腸褲 腊肠裤 [la4 chang2 ku4] {laap6 coeng2 fu3} /(fig.) pantalon à coupe slim/(lit.) pantalons (qui resssemblent à une) saucisse cantonaise/
-????c 臘起 腊起 [la4 qi3] {laap6 hei2} /to be put into a situation where there is no way out/
+????c 臘起 腊起 [la4 qi3] {laap6 hei2} /être dans une mauvaise situation et ne pas trouver une solution/
 臘鴨 腊鸭 [la4 ya1] {laap6 aap2} /canard séché et fumé/
 臚列 胪列 [lu2 lie4] {lou4 lit6} /énumérer; lister/
-𦣇噼 𦣇噼 [Luo2 pi1] {lo1 pek1} /fesse; derrière/
-????c 臥薪嘗膽 卧薪尝胆 [wo4 xin1 chang2 dan3] {ngo6 san1 soeng4 daam2} /endure hardship to accomplish an ambition/
+𦣇噼 𦣇噼 [luo2 pi1] {lo1 pek1} /fesse; derrière/
+臥薪嘗膽 卧薪尝胆 [wo4 xin1 chang2 dan3] {ngo6 san1 soeng4 daam2} /(expr. idiom.) se soumettre aux souffrances pour atteindre un but/(lit.) dormir sur des brindilles et gouter à la bile/
 臨 临 [lin2] {lam4} /arriver/donner sur; avoir vue sur; faire face à/temporaire; provisoire; intérim/imminent/
 臨危不亂 临危不乱 [lin2 wei1 bu4 luan4] {lam4 ngai4 bat1 lyun6} /(expr.) calme face au danger/
 臨天光瀨尿 临天光濑尿 [lin2 tian1 guang1 lai4 niao4] {lam4 tin1 gwong1 laai6 niu6} /(expr. idiom.) échouer au dernier moment/(lit.) se mouiller juste avant l'aube/
@@ -16901,23 +16902,23 @@
 自奉 自奉 [zi4 feng4] {zi6 fung6} /satisfaire ses propres besoins/
 自封 自封 [zi4 feng1] {zi6 fung1} /se prétendre; se proclamer; s'autoproclamer; professer être/se limiter; se borner; s'enfermer; se bloquer; s'enferrer/
 自小 自小 [zi4 xiao3] {zi6 siu2} /depuis son enfance/
-????f 自己最知自己事 自己最知自己事 [zi4 ji5 zui4 zhi1 zi4 ji5 shi4] {zi6 gei2 zeoi3 zi1 zi6 gei2 si6} /one knows his/her own business the best/
+自己最知自己事 自己最知自己事 [zi4 ji5 zui4 zhi1 zi4 ji5 shi4] {zi6 gei2 zeoi3 zi1 zi6 gei2 si6} /(expr.) chacun connaît mieux ses propres affaires/
 自己友 自己友 [zi4 ji5 you3] {zi6 gei2 jau2} /confrère; membre du même groupe/l'un des miens; l'un des nôtres; une personne de notre tribu/
 自己工 自己工 [zi4 ji5 gong1] {zi6 gei2 gung1} /travail indépendant; emploi autonome; emploi où l'on est à la fois propriétaire et employé/
 自己攞嚟衰 自己攞嚟衰 [zi4 ji5 luo1 li2 shuai1] {zi6 gei2 lo2 lei4 seoi1} /(expr. idiom.) récolter ce que l'on sème; se causer des ennuis/
-????f 自己身有屎 自己身有屎 [zi4 ji3 shen1 you3 shi3] {zi6 gei2 san1 jau5 si2} /(expr. idiom.) avoir quelque chose à cacher; avoir fait quelque chose de mauvais et essayer de le dissimuler/
+自己身有屎 自己身有屎 [zi4 ji3 shen1 you3 shi3] {zi6 gei2 san1 jau5 si2} /(expr. idiom.) avoir quelque chose à cacher; avoir fait quelque chose de mauvais et essayer de le dissimuler/(lit.) avoir des crottes sur le corps/
 自憐 自怜 [zi4 lian2] {zi6 lin4} /apitoiement sur soi-même; auto-apitoiement/
 自我中心 自我中心 [zi4 wo3 zhong1 xin1] {zi6 ngo5 zung1 sam1} /égoïsme; égotisme; égocentrisme/
-????c 自我作古 自我作古 [zi4 wo3 zuo4 gu3] {zi6 ngo5 zok3 gu2} /être le premier à faire quelque chose; innover; sortie des sentiers battus/
+自我作古 自我作古 [zi4 wo3 zuo4 gu3] {zi6 ngo5 zok3 gu2} /(expr.) être le premier à faire quelque chose; innover; sortie des sentiers battus/
 自我價值 自我价值 [zi4 wo3 jia4 zhi2] {zi6 ngo5 gaa3 zik6} /amour-propre; auto-estime/
 自打嘴巴 自打嘴巴 [zi4 da3 zui3 ba5] {zi6 daa2 zeoi2 baa1} /(expr. idiom.) se contredire/(lit.) se frapper la bouche/
-????f 自把自為 自把自为 [zi4 ba3 zi4 wei2] {zi6 baa2 zi6 wai4} /penser par soi-même; décider soi-même; ignorer les conseils des autres/
+自把自為 自把自为 [zi4 ba3 zi4 wei2] {zi6 baa2 zi6 wai4} /décider soi-même sans tenir compte des conseils des autres/
 自持 自持 [zi4 chi2] {zi6 ci4} /se retenir; se modérer; se maitriser/
-????f 自救 自救 [zi4 jiu4] {zi6 gau3} /to save oneself; help oneself/
+自救 自救 [zi4 jiu4] {zi6 gau3} /aider soi-même; sauver soi-même/
 自斟自酌 自斟自酌 [zi4 zhen1 zi4 zhuo2] {zi6 zam1 zi6 zoek3} /boire seul/(fig.) avoir son propre opinion; avoir son propre avis/
 自新 自新 [zi4 xin1] {zi6 san1} /se réformer; tourner la page; prendre un nouveau départ/
-????f 自梳 自梳 [zi4 shu1] {zi6 so1} /femme qui déclare qu'elle restera célibataire toute la vie/
-????f 自梳女 自梳女 [zi4 shu1 nu:3] {zi6 so1 neoi5} /femme qui déclare qu'elle restera célibatire toute la vie/
+自梳 自梳 [zi4 shu1] {zi6 so1} /femme qui déclare qu'elle restera célibataire toute la vie/
+自梳女 自梳女 [zi4 shu1 nu:3] {zi6 so1 neoi5} /femme qui déclare qu'elle restera célibatire toute la vie/
 自殘 自残 [zi4 can2] {zi6 caan4} /to harm oneself; to mutilate oneself; self harm/
 自決 自决 [zi4 jue2] {zi6 kyut3} /autodétermination/décider seul; prendre une décision seul/
 自決權 自决权 [zi4 jue2 quan2] {zi6 kyut3 kyun4} /droit à l'autodétermination/
@@ -16926,7 +16927,7 @@
 自然力 自然力 [zi4 ran2 li4] {zi6 jin4 lik6} /éléments de la nature/
 自然環境 自然环境 [zi4 ran2 huan2 jing4] {zi6 jin4 waan4 ging2} /environnement; environnement naturel/
 自用 自用 [zi4 yong4] {zi6 jung6} /pour usage personnel/
-????f 自由搏擊 自由搏击 [zi4 you2 bo2 ji1] {zi6 jau4 bok3 gik1} /combat libre/
+自由搏擊 自由搏击 [zi4 you2 bo2 ji1] {zi6 jau4 bok3 gik1} /combat libre/
 自由球 自由球 [zi4 you2 qiu2] {zi6 jau4 kau4} /(football) coup franc/
 自由競爭 自由竞争 [zi4 you2 jing4 zheng1] {zi6 jau4 ging6 zang1} /libre marché; libre concurrence/
 自發 自发 [zi4 fa1] {zi6 faat3} /spontané/
@@ -16949,15 +16950,15 @@
 臭屎密冚 臭屎密冚 [chou4 shi3 mi4 ka4] {cau3 si2 mat6 gam2} /(expr. idiom.) laver son linge sale en famille; ne pas laver son linge sale en public/(lit.) couvrir les matières fécales puantes/
 臭崩天 臭崩天 [chou4 beng1 tian1] {cau3 bang1 tin1} /qui pue; qui sent mauvais/
 臭崩崩 臭崩崩 [chou4 beng1 beng1] {cau3 bang1 bang1} /qui pue; qui sent mauvais/
-????c 臭檔 臭档 [chou4 dang4] {cau3 dong3} /cocky; arrogant (slang)/(irritable, grumpy?)/
+臭檔 臭档 [chou4 dang4] {cau3 dong3} /(d'une personne) acariâtre; hargneux/
 臭水 臭水 [chou4 shui3] {cau3 seoi2} /désinfectant; liquide désinfectant/
 臭油膉 臭油膉 [chou4 you2 yi4] {cau3 jau4 jik1} /odeur rance/
 臭烹烹 臭烹烹 [chou4 peng1 peng1] {cau3 bang1 bang1} /qui pue; qui sent mauvais/
 臭狐 臭狐 [chou4 hu2] {cau3 wu4} /odeur corporelle/
-????c 臭男人 臭男人 [chou4 nan2 ren5] {cau3 naam4 jan4} /(débauché) a man of bad character/
+臭男人 臭男人 [chou4 nan2 ren5] {cau3 naam4 jan2} /débauché; pervers; obsédé sexuel/
 臭脾氣 臭脾气 [chou4 pi2 qi5] {cau3 pei4 hei3} /irascible; coléreux; irritable; grincheux/
 臭腥 臭腥 [chou4 xing1] {cau3 seng1} /(odeur) rance; nauséabond/
-????c 臭花 臭花 [chou4 hua1] {cau3 faa1} /Lantana camara; big sage; wild sage; red sage; white sage; tickberry/
+臭花 臭花 [chou4 hua1] {cau3 faa1} /fleur du latanier, Lantana camara/fleur cadavre/
 臭草 臭草 [chou4 cao3] {cau3 cou2} /Lantana camara; lantanier/
 臭青 臭青 [chou4 qing1] {cau3 ceng1} /odeur de légumes crus/odeur de l'herbe/
 臭飛 臭飞 [chou4 fei1] {cau3 fei1} /voyou; gamin des rues/
@@ -16968,34 +16969,34 @@
 至得 至得 [zhi4 de5] {zi3 dak1} /pour; afin de; (exprime une condition de succès)/
 至死 至死 [zhi4 si3] {zi3 sei2} /jusqu'à la mort/
 至緊 至紧 [zhi4 jin3] {zi3 gan2} /le plus important; le plus critique/
-????f 至聖先師 至圣先师 [zhi4 sheng4 xian1 shi1] {zi3 sing3 sin1 si1} /greatest sage and teacher (Confucius)/
+至聖先師 至圣先师 [zhi4 sheng4 xian1 shi1] {zi3 sing3 sin1 si1} /(expr.) Confucius/(lit.) l'inégalable sage et enseignant/
 至話 至话 [zhi4 hua4] {zi3 waa6} /tout à l'heure/
 致敬 致敬 [zhi4 jing4] {zi3 ging3} /saluer; rendre hommage à; honorer/
 臺 台 [tai2] {toi4} /(abbr.) Taïwan/
 臺山話 台山话 [tai2 shan1 hua4] {toi4 saan1 waa2} /dialecte de Taishan; langue de Taishan/
-????c 臺柱 台柱 [tai2 zhu4] {toi4 cyu5} /column; the main actors in a troupe; the backbone (important people) of an organisation/
-????c 臺柱子 台柱子 [tai2 zhu4 zi5] {toi4 cyu5 zi2} /key actors/ actresses in a drama / theatre group/
+臺柱 台柱 [tai2 zhu4] {toi4 cyu5} /les stars du spectacle/
+臺柱子 台柱子 [tai2 zhu4 zi5] {toi4 cyu5 zi2} /les stars du spectacle/
 臺灣人 台湾人 [tai2 wan1 ren2] {toi4 waan1 jan4} /Taïwanais; Taïwanaise/peuple taïwanais/
 臺灣高速鐵路 台湾高速铁路 [tai2 wan1 gao1 su4 tie3 lu4] {toi4 waan1 gou1 cuk1 tit3 lou6} /Taiwan High Speed Rail (THSR), ligne à grande vitesse de Taïwan/
 舂 舂 [chong1] {zung1} /frapper; pilonner/se précipiter/foncer sur/percuter; rentrer dans; tomber/
 舂個頭埋去 舂个头埋去 [chong1 ge5 tou2 mai2 qu4] {zung1 go3 tau4 maai4 heoi3} /(expr.) se précipiter (pour faire quelque chose)/
-????f 舂杵 舂杵 [chong1 chu3] {zung1 cyu2} /mortier pour moudre le riz/
-????c 舂牆 舂墙 [chong1 qiang2] {zung1 coeng4} /affermir un mur avec de l'argile rouge/
-????f 舂瘟雞 舂瘟鸡 [chong1 wen1 ji1] {zung1 wan1 gai1} /(fig.) personne qui marche en chancelant; personne qui titube et se cogne contre des objets/(fig.) une personne téméraire; une personne qui agit sans réflexion/(lit.) poule malade qui rentre dans des objets/
-????c 舂米公 舂米公 [chong1 mi3 gong1] {zung1 mai5 gung1} /Evaniidae; ensign wasps/
+舂杵 舂杵 [chong1 chu3] {zung1 cyu2} /mortier pour broyer le riz/
+舂牆 舂墙 [chong1 qiang2] {zung1 coeng4} /affermir un mur avec de l'argile rouge/(voir aussi 氼水舂牆|氼水舂墙)/
+舂瘟雞 舂瘟鸡 [chong1 wen1 ji1] {zung1 wan1 gai1} /(fig.) personne qui marche en chancelant; personne qui titube et se cogne contre des objets/(fig.) une personne téméraire; une personne qui agit sans réflexion/(lit.) poule malade qui rentre dans des objets/
+????c 舂米公 舂米公 [chong1 mi3 gong1] {zung1 mai5 gung1} /Evaniidae, famille d'insectes hyménoptères apocrites/
 舅仔 舅仔 [jiu4 zi3] {kau5 zai2} /frère cadet de sa femme/
-????f 舅仔鞋 舅仔鞋 [jiu4 zi3 xie2] {kau5 zai2 haai4} /coutume traditionelle qui consiste à donner à chacun des frères de la jeune mariée une paire de souliers/
+舅仔鞋 舅仔鞋 [jiu4 zi3 xie2] {kau5 zai2 haai4} /coutume traditionelle qui consiste à donner à chacun des frères de la jeune mariée une paire de souliers/
 舅公 舅公 [jiu4 gong1] {kau5 gung1} /grand-oncle paternel; frère de sa grand-mère paternelle/grand-oncle maternel; frère de sa grand-mère maternelle/
 舅奶奶 舅奶奶 [jiu4 nai3 nai3] {kau5 naai4 naai2} /grand-tante; femme d'un oncle maternel de son père/femme de l'oncle maternel de son mari/
 舅婆 舅婆 [jiu4 po2] {kau5 po4} /grand-tante; femme d'un oncle maternel de sa mère/
 舅老爺 舅老爷 [jiu4 lao3 ye2] {kau5 lou5 je4} /oncle maternel de son père/oncle maternel de sa mère/oncle maternel de son mari/
 與 与 [yu3] {jyu5} /et/avec/
 與 与 [yu3] {jyu6} /participer/
-????c 與共 与共 [yu3 gong4] {jyu5 gung6} /rester ensemble/
+與共 与共 [yu3 gong4] {jyu5 gung6} /(litt.) rester ensemble/
 ????c 與別不同 与别不同 [yu3 bie2 bu4 tong2] {jyu5 bit6 bat1 tung4} /se distinguer; se démaquer; être différent de tous les autres/
 與及 与及 [yu3 ji2] {jyu5 kap6} /et; de plus/
 與會者 与会者 [yu4 hui4 zhe3] {jyu6 wui2 ze2} /participant à une réunion/
-????f 與虎謀皮 与虎谋皮 [yu3 hu3 mou2 pi2] {jyu5 fu2 mau4 pei4} /(expr. idiom.) faire des demandes irréalistes; essayer de convaincre quelqu'un d'agir contre leurs intérêts/(lit.) demander la peau au tigre/
+與虎謀皮 与虎谋皮 [yu3 hu3 mou2 pi2] {jyu5 fu2 mau4 pei4} /(expr. idiom.) faire des demandes irréalistes; essayer de convaincre quelqu'un d'agir contre leurs intérêts/(lit.) demander la peau au tigre/
 興 兴 [xing4] {hing1} /populaire; tendance; à la mode/
 興修 兴修 [xing1 xiu1] {hing1 sau1} /commencer la contruction/
 興辦 兴办 [xing1 ban4] {hing1 baan6} /établir; fonder; initier/
@@ -26137,3 +26138,4 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 朕 朕 [zhen4] {zam6} /(classificateur pour les odeurs)
 陣 阵 [zhen4] {zam6} /(classificateur pour les odeurs)
 復刻 复刻 {fu4 ke4} {fuk1 hak1} /réimprimer/rematricer/
+氼水舂牆 氼水舂墙 [ni4 shui3 chong1 qiang1] {mei6 seoi2 cung1 coeng4} /(expr. idiom.) prendre un grand risque/(expr. idiom.) remuer ciel et terre/(lit.) plonger dans l'eau et cogner la tête contre le mur/
