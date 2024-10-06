@@ -16600,7 +16600,7 @@
 肉乾 肉干 [rou4 gan1] {juk6 gon1} /viande séchée/
 肉俎砧板上 肉俎砧板上 [rou4 zu3 zhen1 ban3 shang4] {juk6 zo2 zam1 baan2 soeng6} /(expr. idiom.) ne pas avoir le choix; être sans issue/(lit.) comme un morceau de viande sur la planche à découper/
 肉刺 肉刺 [rou4 ci4] {juk6 ci3} /envie; petite portion de peau près des ongles/
-????f 肉刺 肉刺 [rou4 ci4] {juk6 cek3} /se sentir mécontent après avoir dépensé une grande somme d'argent/se sentir triste après avoir renoncé à quelqu'un, quelque chose auquel on tenait/
+????f 肉刺 肉刺 [rou4 ci4] {juk6 cek3} /se sentir mécontent après avoir dépensé une grande somme d'argent/se sentir triste après avoir abandonné quelqu'un ou quelque chose de précieux/
 肉參 肉参 [rou4 shen1] {juk6 sam1} /otage/
 肉店 肉店 [rou4 dian4] {juk6 dim3} /boucherie/
 肉彈 肉弹 [rou4 dan4] {juk6 daan2} /(fam.) femme attirante; femme canon/(fam.) (d'une femme) avoir une taille de guêpe; ligne superbe; belles formes/(lit.) bombe de chair/
@@ -16804,7 +16804,7 @@
 膊頭 膊头 [bo2 tou2] {bok3 tau4} /épaule/
 ????c 有膊頭 有膊头 [you3 bo2 tou2] {jau5 bok3 tau4} /(fig.) (personne) responsable; fiable; sur qui on peut compter/
 有出息 有出息 [you3 chu1 xi1] {jau5 ceot1 sik1} /(fig.) aller loin dans la vie/
-????f 有喜 有喜 [you3 xi3] {jau5 hei2} /avoir une heureuse occasion qui vient; avoir un heureux évènement qui vient (souvent des noces)/
+有喜 有喜 [you3 xi3] {jau5 hei2} /avoir quelque chose à fêter (souvent en parlant des noces)/
 ????c 膊頭高過耳 膊头高过耳 [bo2 tou2 gao1 guo4 er3] {bok3 tau4 gou1 gwo3 ji5} /(expr. idiom.) maigre et chétif/(lit.) avoir les épaules plus hautes que les oreilles/
 膏蟹 膏蟹 [gao1 xie4] {gou1 haai5} /crabe de palétuviers femelle/
 膚皮潦草 肤皮潦草 [fu1 pi2 liao2 cao3] {fu1 pei4 liu4 cou2} /(expr. idiom.) négligent; superficiel; rapide; sommaire/
@@ -17006,9 +17006,9 @@
 舉行 举行 [ju3 xing2] {geoi2 hang4} /recevoir; acceuillir (un évènement)/
 舊 旧 [jiu4] {gau6} /ancien; vieux/ex-; ancien/(classficateur pour un morceau ou une masse de quelque chose)/
 舊城區 旧城区 [jiu4 cheng2 qu1] {gau6 sing4 keoi1} /quartier historique; vieux quartier/
-????f 舊大埔墟站 旧大埔墟站 [jiu4 Da4 bu4 xu1 zhan4] {gau6 daai6 bou3 heoi1 zaam6} /Old Tai Po Market Station, ancienne gare ferroviaire à Hong Kong, transformée en musée/
+舊大埔墟站 旧大埔墟站 [jiu4 Da4 bu4 xu1 zhan4] {gau6 daai6 bou3 heoi1 zaam6} /Old Tai Po Market Station, ancienne gare ferroviaire à Hong Kong transformée en musée/
 舊底 旧底 [jiu4 di3] {gau6 dai2} /il y a longtemps; jadis; dans le passé lointain; antan/
-????f 舊招牌 旧招牌 [jiu4 zhao1 pai5] {gau6 ziu1 paai4} /entreprise établie avec une bonne réputation/
+舊招牌 旧招牌 [jiu4 zhao1 pai5] {gau6 ziu1 paai4} /entreprise établie depuis longtemps avec une bonne réputation/
 舊日 旧日 [jiu4ri4] {gau6 jat6} /autrefois; dans le passé; naguère; jadis; antan/
 舊時 旧时 [jiu4 shi2] {gau6 si4} /autrefois; dans le passé; naguère; jadis; antan/
 舊樓 旧楼 [jiu4 lou2] {gau6 lau2} /ancien bâtiment/
@@ -17018,9 +17018,9 @@
 舊生 旧生 [jiu4 sheng1] {gau6 sang1} /ancien élève/étudiants des années supérieures (à comparer avec le mot 新生|新生 « étudiant de première année »)/
 舊陣時 旧阵时 [jiu4 zhen4 shi2] {gau6 zan6 si4} /autrefois; dans le passé; naguère; jadis; antan/
 舊體字 旧体字 [jiu4 ti3 zi4] {gau6 tai2 zi6} /(plus rare) sinogrammes traditionnels; caractères chinois traditionnels/
-????c 舌尖上的粵語 舌尖上的粤语 [she2 jian1 shang4 de5 yue4 yu3] {sit3 zim1 soeng6 dik1 jyut6 jyu5} /« Introduction à la langue cantonaise », vidéo en ligne qui porte sur l'histoire de la langue cantonaise par rapport au mandarin et si l'on devrait la consider une langue ou une dialecte chinois/
-????c 舌苔 舌苔 [she2 tai1] {sit6 toi1} /(médecine traditionelle chinoise) coating on tongue/
-????c 舍監 舍监 [she4 jian1] {se3 gaam1} /Warden of a school dormitory/
+舌尖上的粵語 舌尖上的粤语 [she2 jian1 shang4 de5 yue4 yu3] {sit3 zim1 soeng6 dik1 jyut6 jyu5} /« Introduction à la langue cantonaise », vidéo en ligne qui porte sur l'histoire de la langue cantonaise par rapport au mandarin et si l'on devrait la consider une langue ou une dialecte chinois/
+舌苔 舌苔 [she2 tai1] {sit6 toi1} /revêtement blanc sur la langue (voir aussi 脷苔|脷苔)/
+舍監 舍监 [she4 jian1] {se3 gaam1} /concierge d'une résidence d'étudiants/
 舐 舐 [shi4] {lem2} /lécher/
 舐犢 舐犊 [shi4 du2] {saai5 duk6} /amour parental/
 舒伯特 舒伯特 [shu1 bo2 te4] {syu1 baak3 dak6} /Franz Schubert, compositeur autrichien/
@@ -17028,19 +17028,19 @@
 舒夫真高 舒夫真高 [shu1 fu1 zhen1 gao1] {syu1 fu1 zan1 gou1} /Andriy Chevtchenko, Andriy Shevchenko, footballeur international ukrainien/
 舒展 舒展 [shu1 zhan3] {syu1 zin2} /s'étirer (avant ou après un exercice)/
 舒適 舒适 [shu1 shi4] {syu1 sik1} /confortable; douillet/
-????f 舖位 铺位 [pu4 wei4] {pou3 wai2} /(espace boutique?) shop space; premises for a shop/
+舖位 铺位 [pu4 wei4] {pou3 wai2} /local commercial; lieu pour un magasin/
 舖租 铺租 [pu4 zu1] {pou3 zou1} /loyer de la boutique/
 舖頭 铺头 [pu4 tou2] {pou3 tau2} /magasin; boutique/
 𦧲飯應 𦧲饭应 [fan4 ying1] {loe1 faan6 jing3} /(fig.) accepter sans hésitation/(lit.) recracher du riz pour répondre/
 舞 舞 [wu3] {mou5} /danser/jouer/
-????f 舞台劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre (qui inclut de la danse et du chant)/
-????f 舞女 舞女 [wu3 nu:3] {mou5 neoi2} /danseuse/hôtesse d'une boîte de nuit; entraîneuse/strip-teaseuse/escorte (de sexe féminin)/
-????f 舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /hôtesse d'une boîte de nuit; entraîneuse/strip-teaseuse/
-????c 舞文弄墨 舞文弄墨 [wu3 wen2 nong4 mo4] {mou5 man4 lung6 mak6} /(positive or negative connotation? does it have to do with the law?) show off literary skill; to play with words/
+舞台劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre (qui inclut de la danse et du chant)/
+舞女 舞女 [wu3 nu:3] {mou5 neoi2} /danseuse/hôtesse d'une boîte de nuit; entraîneuse/strip-teaseuse/
+舞小姐 舞小姐 [wu3 xiao3 jie5] {mou5 siu2 ze2} /hôtesse d'une boîte de nuit; entraîneuse/strip-teaseuse/
+舞文弄墨 舞文弄墨 [wu3 wen2 nong4 mo4] {mou5 man4 lung6 mak6} /(expr. idiom.) être un génie des mots; être une personne qui écrit bien/(lit.) danser avec la langue et jouer avec l'encre/
 舞男 舞男 [wu3 nan2] {mou5 naam4} /gigolo; escorte (de sexe masculin)/
-????f 舞臺劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre (qui inclut de la danse et du chant)/
+舞臺劇 舞台剧 [wu3 tai2 ju4] {mou5 toi4 kek6} /pièce de théâtre (qui inclut de la danse et du chant)/
 舞蹈 舞蹈 [wu3 dao3] {mou5 dou6} /danse/choréographie/
-????f 舞麒麟 舞麒麟 [wu3 qi2 lin2] {mou5 kei4 leon4} /Unicorn dance/
+舞麒麟 舞麒麟 [wu3 qi2 lin2] {mou5 kei4 leon4} /danse du qilin/
 舟楫 舟楫 [zhou1 ji2] {zau1 zip3} /vaisseaux; navires; bateaux/
 舟車 舟车 [zhou1 che1] {zau1 geoi1} /moyens de transport/(fig.) voyage/
 舢舨充炮艇 舢舨充炮艇 [shan1 ban3 chong1 pao4 ting3] {saan1 baan2 cung1 paau3 teng5} /(expr. idiom.) bluffer; tromper/(expr. idiom.) produit piraté; contrefaçon/(lit.) sampan faisant semblant d'être un navire de guerre/
@@ -17051,14 +17051,14 @@
 船灣海 船湾海 [chuan2 wan1 hai3] {syun4 waan1 hoi2} /Plover Cove, crique de Hong Kong/
 船灣淡水湖 船湾淡水湖 [chuan2 wan1 dan4 shui3 hu2] {syun4 waan1 taam2 seoi2 wu4} /Plover Cove Reservoir (« réservoir Plover Cove »), réservoir côtier de Hong Kong/
 船舶 船舶 [chuan2 bo2] {syun4 bok6} /navires; bateaux/marin; relatif à la mer/
-????c 船頭尺 船头尺 [chuan2 tou2 chi3] {syun4 tau4 cek3} /person who always ask for money (slang)/
+船頭尺 船头尺 [chuan2 tou2 chi3] {syun4 tau4 cek3} /(fig.) une personne qui demande toujours de l'argent/
 艇 艇 [ting3] {teng5} /barque; petit bateau/
 艇仔 艇仔 [ting3 zi3] {teng5 zai2} /barque; petit bateau/(fig.) intermédiaire (pour un trafiquant de drogues; pour un usurier; etc.)/(fig.) cuillère à soupe/(fig.) taxi/
 艇仔粥 艇仔粥 [ting3 zi3 zhou1] {teng5 zai2 zuk1} /congee sampan/
-????f 艇家 艇家 [ting3 jia1] {teng5 gaa1} /Tanka/personne qui vit dans les bateaux/
-????f 艇屋 艇屋 [ting3 wu1] {teng5 uk1} /bateau qui sert de maison/
+艇家 艇家 [ting3 jia1] {teng5 gaa1} /Tanka/personne qui vit dans les bateaux/
+艇屋 艇屋 [ting3 wu1] {teng5 uk1} /bateau qui sert de maison/
 良口 良口 [liang2 kou3] {loeng4 hau2} /Liangkou, village de Canton/
-????f 良民證 良民证 [liang2 min2 zheng4] {loeng4 man4 zing3} /Certificate of No Criminal Conviction (« certificat d'absence de condamnation pénale »)/
+良民證 良民证 [liang2 min2 zheng4] {loeng4 man4 zing3} /Certificate of No Criminal Conviction (« certificat d'absence de condamnation pénale »)/
 良駒 良驹 [liang2 ju1] {loeng4 keoi1} /un beau cheval/
 色 色 [se4] {sik1} /couleur/caractéristique; attribut/contenance; expression du visage; expression faciale/paysage/désir sexuel; lubricité; luxure/
 色仔 色仔 [se4 zi3] {sik1 zai2} /(usage déconseillé, voir 骰仔|骰仔) dé; dé à jouer/
@@ -17073,7 +17073,7 @@
 芋角 芋角 [yu4 jiao3] {wu6 gok3} /dumpling de taro, mets de dimsum hongkongais/
 芋頭糕 芋头糕 [yu4 tou5 gao1] {wu6 tau2 gou1} /gâteau de taro, mets chinois/
 芒果布甸 芒果布甸 [mang2 guo3 bu4 dian4] {mong1 gwo2 bou3 din6} /pouding aux mangues/
-????f 芙翅 芙翅 [fu2 chi4] {fu4 ci3} /abats de poulet/
+芙翅 芙翅 [fu2 chi4] {fu4 ci3} /abats de poulet/
 芙蓉蛋 芙蓉蛋 [fu2 rong2 dan4] {fu4 jung4 daan2} /fu yung hai ou œuf foo yung, plat à base d'omelette/
 芝士漢堡 芝士汉堡 [zhi1 shi4 han4 bao3] {zi1 si2 hon3 bou2} /cheeseburger; hambourgeois au fromage; hamburger au fromage/
 芝士漢堡包 芝士汉堡包 [zhi1 shi4 han4 bao3 bao1] {zi1 si6 hon3 bou2 baau1} /cheeseburger; hambourgeois au fromage; hamburger au fromage/
@@ -17082,7 +17082,7 @@
 芝麻卷 芝麻卷 [zhi1 ma5 juan3] {zi1 maa4 gyun2} /rouleau de sésame hongkongais (« black sesame roll » en anglais)/
 芝麻灣 芝麻湾 [zhi1 ma5 wan1] {zi1 maa4 waan1} /Chi Ma Wan (« baie de sésame »), une baie de Hong Kong/
 芝麻糊 芝麻糊 [zhi1 ma5 hu2] {zi1 maa4 wu2} /soupe de sésame noir, dessert chinois/
-????f 芥菜仔 芥菜仔 [jie4 cai4 zi3] {gaai3 coi3 zai2} /Brassica juncea; small mustard greens/
+????f 芥菜仔 芥菜仔 [jie4 cai4 zi3] {gaai3 coi3 zai2} /pousses de Brassica juncea; pousses de moutarde brune; pousses de moutarde chinoise/
 芥蘭頭 芥兰头 [gai4 lan2 tou2] {gaai3 laan2 tau4} /chou-rave; colrave/
 芥辣 芥辣 [jie4 la4] {gaai3 laat6} /wasabi/moutarde/
 芥醬 芥酱 [jie4 jiang4] {gaai3 zoeng3} /moutarde/
@@ -17090,7 +17090,7 @@
 芫荽 芫荽 [yan2 sui5] {jyun4 seoi1} /coriandre/
 芬達 芬达 [fen1 da2] {fan1 daat6} /Fanta, marque commerciale de soda allemande/
 花 花 [hua1] {faa1} /fleur/fleuri; couvert de fleurs/de sexe féminin; femme/embelli; orné; fleuri/chargé; trop orné; bigarré/coloré; multicolore; polychrome/rayé/érafler; égratigner/gribouiller/(vision) trouble; flou; indistinct/dépenser; gaspiller (de l'argent)/pré-vente/impudique; luxurieux; lubrique/petite fleur sur l'épaulette d'un policier indiquant son rang/(nom de famille chinois)/
-????f 花么 花么 [hua1 me5] {faa1 jiu1} /A term in Mahjong 'all terminals and honours hand'/
+????f 花么 花么 [hua1 me5] {faa1 jiu1} /(Hong Kong) (mah-jong) « all terminals and honours hand »/
 花仔 花仔 [hua1 zi3] {faa1 zai2} /garçon d'honneur/
 花令紙 花令纸 [hua1 ling4 zhi3] {faa1 ling6 zi2} /(vieilli) mandat d'arrêt/
 花假 花假 [hua1 jia3] {faa1 gaa2} /faux; contrefaçon; inauthentique/ruse; tromperie; duperie/
@@ -17100,65 +17100,65 @@
 花呢碌 花呢碌 [hua1 ni2 lu4] {faa1 li1 luk1} /voyant; criard; tapageur; bigarré/
 花哩碌 花哩碌 [hua1 li5 lu4] {faa1 li1 luk1} /voyant; criard; tapageur; bigarré/
 花哩花碌 花哩花碌 [hua1 li5 hua1 lu4] {faa1 li1 faa1 luk1} /voyant; criard; tapageur; bigarré/
-????f 花𡃁 花𡃁 [hua1 liang4] {faa1 leng1} /jeune homme oisif; jeune homme sans talent; « greaser »; blouson noir; jeune homme qui se soucie de son apparence et qui sèche les cours, qui évite de travailler, etc./novice; débutant/
+花𡃁 花𡃁 [hua1 liang4] {faa1 leng1} /jeune homme oisif; jeune homme sans talent; « greaser »; blouson noir; jeune homme qui se soucie de son apparence et qui sèche les cours, qui évite de travailler, etc./novice; débutant/
 花圈 花圈 [hua1 quan1] {faa1 hyun1} /couronne de fleurs; couronne florale/
 花園 花园 [hua1 yuan2] {faa1 jyun2} /jardin/cour avant; jardin de devant/parc/
 花園街 花园街 [hua1 yuan2 jie1] {faa1 jyun4 gaai1} /Fa Yuen Street, rue de Hong Kong/
 花園道 花园道 [hua1 yuan2 dao4] {faa1 jyun4 dou6} /Garden Road, rue de Hong Kong/
 花城 花城 [hua1 cheng2] {faa1 sing4} /ville des fleurs, surnom pour la ville de Canton/
 花城大道 花城大道 [hua1 cheng2 da4 dao4] {faa1 sing4 daai6 dou6} /Huacheng Road (« boulevard de la ville des fleurs »), boulevard de Canton/
-????c 花基 花基 [hua1 ji1] {faa1 gei1} /a plant platform made from bricks/
+????f 花基 花基 [hua1 ji1] {faa1 gei1} /espaces verts en bordure (ou au centre) d'une rue; terre-plein (avec plantes, arbres, etc.)/
 花士令 花士令 [hua1 shi4 ling4] {faa1 si6 ling2} /vaseline; gelée de pétrole/
 花多眼亂 花多眼乱 [hua1 duo1 yan3 luan4] {faa1 do1 ngaan5 lyun6} /(expr. idiom.) avoir l'embarras du choix; avoir un excès de choix/(lit.) beaucoup de fleurs, avoir les yeux confus/
 花女 花女 [hua1 nu:3] {faa1 neoi2} /demoiselle d'honneur/
 花奶 花奶 [hua1 nai3] {faa1 naai5} /lait évaporé; lait concentré/
-????c 花尾渡 花尾渡 [hua1 wei3 du4] {faa1 mei5 dou6} /a type of barge which has a flowery stern/
-????f 花市 花市 [hua1 shi4] {faa1 si5} /foire du Nouvel an chinois/
-????c 花弗 花弗 [hua1 fu2] {faa1 fit1} /flirtatious; a fickle lover; to describe someone who likes to dress in fancy clothings or in a fashionable style/
+花尾渡 花尾渡 [hua1 wei3 du4] {faa1 mei5 dou6} /bateau, souvent décoré ou joli, servant de moyen de transport à Guangdong et dans la région de la Grande Baie (Hong Kong, Macau, etc.) pendant le vingtième siècle/
+花市 花市 [hua1 shi4] {faa1 si5} /foire du Nouvel an chinois dans laquelle on vend des fleurs/
+花弗 花弗 [hua1 fu2] {faa1 fit1} /(péj.) coquet; dandy; homme qui se préoccupe de sa tenue qui cherche à séduire/(péj.) homme à femmes; coureur de jupons/
 花心大少 花心大少 [hua1 xin1 da4 shao4] {faa1 sam1 daai6 siu2} /(expr. idiom.) drageur; coureur de jupons; séducteur; casanova; don Juan; playboy/(lit.) carrotte à centre creux/
 花心蘿蔔 花心萝卜 [hua1 xin1 luo2 bo5] {faa1 sam1 lo4 baak6} /(expr. idiom.) drageur; coureur de jupons; séducteur; casanova; don Juan; playboy/(lit.) carrotte à centre creux/
 花手巾 花手巾 [hua1 shou3 jin1] {faa1 sau2 gan1} /(espèce de poissons) poisson-paradis/
-????c 花柳 花柳 [hua1 liu3] {faa1 lau5} /(only syphilis? is this the right translation?) syphilis (spoken)/
+花柳 花柳 [hua1 liu3] {faa1 lau5} /(fam.) infection sexuellement transmissible/(en particulier) (fam.) syphilis/(fam.) bordel; maison close; maison de prostitution/
 花樣百出 花样百出 [hua1 yang4 bai3 chu1] {faa1 joeng2 baak3 ceot1} /(expr. idiom.) une grande variété/
 花樽 花樽 [hua1 zun1] {faa1 zeon1} /vase; vase à fleurs/
 花款 花款 [hua1 kuan3] {faa1 fun2} /style/conception; design/
-????f 花牌 花牌 [hua1 pai2] {faa1 paai2} /(mah-jong) tuile fleur/grande couronne de fleurs, utilisée lors des funérailles, des fêtes, etc./
+花牌 花牌 [hua1 pai2] {faa1 paai2} /(mah-jong) tuile fleur/grande couronne de fleurs, utilisée lors des funérailles, des fêtes, etc./
 花王 花王 [hua1 wang2] {faa1 wong4} /jardinier professionel/pivoine/
 花生油 花生油 [hua1 sheng1 you2] {faa1 sang1 jau4} /huile d'arachide/
 花生糊 花生糊 [hua1 sheng1 hu2] {faa1 sang1 wu2} /soupe sucrée aux arachides, dessert chinois/
 花生糖 花生糖 [hua1 sheng1 tang2] {faa1 sang1 tong2} /nougatine/
-????f 花生肉 花生肉 [hua1 sheng1 rou4] {faa1 sang1 juk6} /arachides écalées/
-????f 花生腳 花生脚 [hua1 sheng1 jiao3] {faa1 sang1 goek3} /arachide déssechée; arachide ratatinée/????c embarrassed/
+花生肉 花生肉 [hua1 sheng1 rou4] {faa1 sang1 juk6} /arachides écalées/
+花生腳 花生脚 [hua1 sheng1 jiao3] {faa1 sang1 goek3} /arachide déssechée; arachide ratatinée/
 花碼 花码 [hua1 ma3] {faa1 maa5} /huama; numération Suzhou/
-????f 花筒 花筒 [hua1 tong3] {faa1 tung4} /Tube-shaped fireworks/
-????f 花絮 花絮 [hua1 xu4] {faa1 seoi5} /(noun)  Highlight (of a TV show, movie, etc.); sidelight/
+花筒 花筒 [hua1 tong3] {faa1 tung4} /feu d'artifices qui produisent un effet semblable aux machines aux étincelles froides/
+????f 花絮 花絮 [hua1 xu4] {faa1 seoi5} /(des nouvelles) des petits bouts d'informations qui sont présentés avec la nouvelle principale mais à laquelle ils ne sont pas liés/
 花腔女高音 花腔女高音 [hua1 qiang1 nu:3 gao1 yin1] {faa1 hong1 neoi5 gou1 jam1} /soprano léger; soprano colorature/
 花膠 花胶 [hua1 jiao1] {faa1 gaau1} /(aliment) vessie natatoire séchée/
 花臣 花臣 [hua1 chen2] {faa1 san2} /(créer) des ennuis/(jouer) des tours/triche; tromperie; truc; astuce/mode; style/(orig.) de l'anglais « fashion » (« mode »)/
 花菇 花菇 [hua1 gu1] {faa1 gu1} /lentin de chêne de très bonne qualité/
 花螺 花螺 [hua1 luo2] {faa1 lo2} /escargot de mer/
-????c 花蟹 花蟹 [hua1 xie4] {faa1 haai5} /billet de dix dollars de Hong Kong/
+花蟹 花蟹 [hua1 xie4] {faa1 haai5} /billet de dix dollars de Hong Kong/
 花貓 花猫 [hua1 mao1] {faa1 maau1} /chat multicolore/
-????c 花門 花门 [hua1 men2] {faa1 mun4, faa1 mun2} /Hua Men, a place in China; a brothel; to dodge work/
-????f 花階磚 花阶砖 [hua1 jie1 zhuan1] {faa1 gaai1 zyun1} /cobblestones with pattern/
-????f 花靚 花靓 [hua1 jing4] {faa1 leng1} /jeune homme oisif; jeune homme sans talent; « greaser »; blouson noir; jeune homme qui se soucie de son apparence et qui sèche les cours, qui évite de travailler, etc./
-????f 花靚仔 花靓仔 [hua1 liang4 zai3] {faa1 leng3 zai2} /jeune homme oisif; jeune homme sans talent; « greaser »; blouson noir; jeune homme qui se soucie de son apparence et qui sèche les cours, qui évite de travailler, etc./débutant; novice/
+????c 花門 花门 [hua1 men2] {faa1 mun2} /nom de lieu en Chine/(fig.) bordel; maison close; maison de prostitution/(fig.) éviter de faire son travail/
+花階磚 花阶砖 [hua1 jie1 zhuan1] {faa1 gaai1 zyun1} /dalle décorée/
+花靚 花靓 [hua1 jing4] {faa1 leng1} /jeune homme oisif; jeune homme sans talent; « greaser »; blouson noir; jeune homme qui se soucie de son apparence et qui sèche les cours, qui évite de travailler, etc./
+花靚仔 花靓仔 [hua1 liang4 zai3] {faa1 leng3 zai2} /jeune homme oisif; jeune homme sans talent; « greaser »; blouson noir; jeune homme qui se soucie de son apparence et qui sèche les cours, qui évite de travailler, etc./débutant; novice/
 花面貓 花面猫 [hua1 mian4 mao1] {faa1 min6 maau1} /visage tout sale; visage crasseux/
 花鳥蟲魚 花鸟虫鱼 [hua1 niao3 chong2 yu2] {faa1 niu5 cung4 jyu4} /(expr. idiom.) nature; monde naturel; monde de la nature/(lit.) fleurs, oiseaux, insectes, poissons/
-????f 花街 花街 [hua1 jie1] {faa1 gaai1} /Lunar New Year flower market; Lunar New Year fair/quartier chaud (prostitution)/
+花街 花街 [hua1 jie1] {faa1 gaai1} /foire du Nouvel An chinois dans laquelle on vend des fleurs/quartier chaud (prostitution)/
 芳名 芳名 [fang1 ming2] {fong1 ming4} /(litt. ou vieilli) nom d'une jeune femme/(litt. ou vieilli) bonne réputation/
 芳村 芳村 [fang1 cun1] {fong1 cyun1} /Fangcun, ancien district de la ville de Canton/
 芳澤 芳泽 [fang1 ze2] {fong1 zaak6} /fragrance; odeur plaisante/huile pour cheveux parfumée, utilisée par les femmes dans la Chine ancienne/
 芳草 芳草 [fang1 cao3] {fong1 cou2} /herbe odorante/(fig.) partenaire romantique idéal/
-????c 芶 芶 [gou1] {gau1} /(nom de famille chinois)/
+芶 芶 [gou1] {gau1} /(nom de famille chinois)/
 芽菜 芽菜 [ya2 cai4] {ngaa4 coi3} /pousse de soja/
-????c 芽豆 芽豆 [ya2 dou4] {ngaa4 dau2} /sprouted broad bean/
-????c 苔衣 苔衣 [tai2 yi1] {toi4 ji1} /(plante) mousse/????c priest's robe/
+芽豆 芽豆 [ya2 dou4] {ngaa4 dau2} /fève germée/
+苔衣 苔衣 [tai2 yi1] {toi4 ji1} /(plante) mousse/
 苗 苗 [miao2] {miu4} /germe; pousse; jeune pousse/jeunes enfants/petit d'un animal/vaccin/les Miao, groupe ethnique de la Chine/(d'une femme) mince; svelte;gracieux (voir 苗條|苗条)/(nom de famille chinois)/
-????f 苟活 苟活 [gou3 huo2] {gau2 wut6} /mener une vie misérable/
+苟活 苟活 [gou3 huo2] {gau2 wut6} /mener une vie misérable/
 若果 若果 [ruo4 guo3] {joek6 gwo2} /si; à condition que; supposé que/
 若然之 若然之 [ruo4 ran2 zhi1] {joek6 jin4 zi1} /si; à condition que; supposé que/
-????f 苦不堪言 苦不堪言 [ku3 bu4 kan1 yan2] {fu2 bat1 ham1 jin4} /(expr. idiom.) endurer des souffrances indicibles/
+苦不堪言 苦不堪言 [ku3 bu4 kan1 yan2] {fu2 bat1 ham1 jin4} /(expr. idiom.) endurer des souffrances indicibles/
 苦刁刁 苦刁刁 [ku3 diao1 diao1] {fu2 diu1 diu1} /(goût) très amer/
 苦口苦面 苦口苦面 [ku3 kou3 ku3 mian4] {fu2 hau2 fu2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste/(lit.) bouche amère, visage amer/
 苦口苦麵 苦口苦面 [ku3 kou3 ku3 mian4] {fu2 hau2 fu2 min6} /(expr. idiom.) avoir l'air malheureux; avoir un air morose; avoir l'air triste/(lit.) bouche amère, visage amer/
@@ -17180,7 +17180,7 @@
 英姿 英姿 [ying1 zi1] {jing1 zi1} /héroïque; courageux; brave; vaillant/
 英式鬆餅 英式松饼 [ying1 shi4 song1 bing3] {jing1 sik1 sung1 beng2} /scone, petit pain britannique/
 英才 英才 [ying1 cai2] {jing1 coi4} /personnes talentueuses; personnes douées/
-????f 英文堂 英文堂 [ying1 wen2 tang2] {jing1 man2 tong4} /cours d'anglais/????f (religion) ministère anglais/
+英文堂 英文堂 [ying1 wen2 tang2] {jing1 man2 tong4} /cours d'anglais/(religion) service religieux en anglais/
 英格蘭超級聯賽 英格兰超级联赛 [ying1 ge2 lan2 chao1 ji2 lian2 sai4] {jing1 gaak3 laan4 ciu1 kap1 lyun4 coi3} /championnat d'Angleterre de football; Premier League/
 英武 英武 [ying1 wu3] {jing1 mou5} /soldatesque/vaillant; brave; courageux/
 英泥 英泥 [ying1 ni2] {jing1 nai4} /ciment/(lit.) terre anglaise/
@@ -17189,7 +17189,7 @@
 英磅 英磅 [ying1 bang4] {jing1 bong2} /livre; livre sterling/
 英聯邦運動會 英联邦运动会 [ying1 lian2 bang1 yun4 dong4 hui4] {jing1 lyun4 bong1 wan6 dung6 wui2} /Jeux du Commonwealth/
 英豪 英豪 [ying1 hao2] {jing1 hou4} /héros/
-????c 英雄輩出 英雄辈出 [ying1 xiong2 bei4 chu1] {jing1 hung4 bui3 ceot1} /Heroes come forth in large numbers/
+英雄輩出 英雄辈出 [ying1 xiong2 bei4 chu1] {jing1 hung4 bui3 ceot1} /(expr. idiom.) un grand nombre de héros apparaissent/
 英魂 英魂 [ying1 hun2] {jing1 wan4} /esprit d'un martyr/
 茂利 茂利 [mao4 li4] {mau6 lei2} /imbécile; idiot; connard/
 茂里 茂里 [mao4 li3] {mau6 lei2} /imbécile; idiot; connard/
@@ -17201,28 +17201,28 @@
 茄士咩 茄士咩 [qie2 shi4 mie1] {ke1 si6 me1} /cachemire/(orig.) de l'anglais « cashmere », (« cachemire »)/
 茄汁 茄汁 [qie2 zhi1] {ke4 zap1} /ketchup/sauce tomate/
 茄瓜 茄瓜 [qie2 gua1] {ke2 gwaa1} /aubergine/
-????c 茅柴 茅柴 [mao2 chai2] {maau4 caai4} /bad wine/deceitful person/dried weeds/
+茅柴 茅柴 [mao2 chai2] {maau4 caai4} /(péj.) mauvais vin/
 茨實 茨实 [ci2 shi2] {ci4 sat6} /graine d'Euryale ferox; graine du nénuphar épineux/
-????f 茭筍 茭笋 [jiao1 sun3] {gaau1 seon2} /water bamboo; wild rice shoots/
+茭筍 茭笋 [jiao1 sun3] {gaau1 seon2} /pousses du riz sauvage de Mandchourie (Zizania latifolia) qui sont consommées comme légume/
 茶園 茶园 [cha2 yuan2] {caa4 jyun4} /plantation de thé/jardin de thé/salon de thé/
 茶寮 茶寮 [cha2 liao2] {caa4 liu4} /salon de thé/
 茶居 茶居 [cha2 ju1] {caa4 geoi1} /salon de thé/
 茶杯碟 茶杯碟 [cha2 bei1 die2] {caa4 bui1 dip2} /soucoupe (pour une tasse à thé)/
-????f 茶果 茶果 [cha2 guo3] {caa4 gwo2} /dumpling de riz gluant/
+茶果 茶果 [cha2 guo3] {caa4 gwo2} /dumpling de riz gluant/
 茶果嶺 茶果岭 [cha2 guo3 ling3] {caa4 gwo2 leng5} /Cha Kwo Ling, colline de Hong Kong/
 茶水 茶水 [cha2 shui3] {caa4 seoi2} /thé et eau/(fig.) boissons/
 茶水房 茶水房 [cha2 shui3 fang2] {caa4 seoi2 fong2} /cellier/
 茶水間 茶水间 [cha2 shui3 jian1] {caa4 seoi2 gaan1} /cellier/
 茶油 茶油 [cha2 you2] {caa4 jau4} /huile de camélia/
 茶煲 茶煲 [cha2 bao1] {caa4 bou1} /théière/(personne) difficile; agaçant; ennuyeux (orig. de l'anglais « trouble »)/
-????c 茶瓜 茶瓜 [cha2 gua1] {caa4 gwaa1} /gherkin/
+茶瓜 茶瓜 [cha2 gua1] {caa4 gwaa1} /concombre mariné à la chinoise/
 茶盅 茶盅 [cha2 zhong1] {caa4 zung1} /gaiwan, tasse à couvercle servant à infuser du thé/
 茶磚 茶砖 [cha2 zhuan1] {caa4 zyun1} /brique de thé; gâteau de thé/
-????f 茶粿 茶粿 [cha2 guo3] {caa4 gwo2} /dumpling de riz gluant/
+茶粿 茶粿 [cha2 guo3] {caa4 gwo2} /dumpling de riz gluant/
 茶羹 茶羹 [cha2 geng1] {caa4 gang1} /cuillère à thé/
 茶腳 茶脚 [cha2 jiao3] {caa4 goek3} /restes de thé/marc de thé/
-????f 茶芥 茶芥 [cha2 jie4] {caa4 gaai3} /frais d'entrée (pour un restaurant cantonais)/(lit.) thé et wasabi/
-????f 茶位 茶位 [cha2 wei4] {caa4 wai2} /frais d'entrée (pour un restaurant cantonais)/
+茶芥 茶芥 [cha2 jie4] {caa4 gaai3} /frais d'entrée (pour un restaurant cantonais)/(lit.) thé et wasabi/
+茶位 茶位 [cha2 wei4] {caa4 wai2} /frais d'entrée (pour un restaurant cantonais)/
 茶隔 茶隔 [cha2 ge2] {caa4 gaak3} /passoire à thé/
 茶餐廳 茶餐厅 [cha2 can1 ting1] {caa4 caan1 teng1} /Cha chaan teng; café de style Hong Kong/
 茸茸 茸茸 [rong2 rong2] {jung4 jung4} /duveteux; doux et épais/
@@ -17245,29 +17245,29 @@
 草芥 草芥 [cao3 jie4] {cou2 gaai3} /sans valeur; sans importance/
 草花頭 草花头 [cao3 hua1 tou5] {cou2 faa1 tau2} /radicale de Kangxi 140 « 艹 »/
 草蜢 草蜢 [cao3 meng3] {cou2 maang5} /The Grasshopper, groupe de cantopop hongkongais/
-????f 草頭王 草头王 [cao3 tou2 wang2] {cou2 tau4 wong4} /chef des bandits/
-????f 草龍 草龙 [cao3 long2] {cou2 lung4} /lézard; scincidé/(fig.) cigarette dopée avec de l'héroïne/
+草頭王 草头王 [cao3 tou2 wang2] {cou2 tau4 wong4} /(fig.) (vieilli) chef des bandits/
+草龍 草龙 [cao3 long2] {cou2 lung4} /lézard; scincidé/(fig.) cigarette dopée avec de l'héroïne/
 荏苒 荏苒 [ren3 ran3] {jam5 jim5} /(le temps) passe vite/
-????c 荒年 荒年 [huang1 nian2] {fong1 nin4} /Famine year (is this used only literally?)/
+????f 荒年 荒年 [huang1 nian2] {fong1 nin4} /année de famine/
 荒涼 荒凉 [huang1 liang2] {fong1 loeng4} /désert; désolé; aride/
-????f 荒腔走板 荒腔走板 [huang1 qiang1 zou3 ban3] {fong1 hong1 zau2 baan2} /chanter faux/dévier de la norme; dévier de ce qui est approprié; dépasser des limites raisonnables/
+荒腔走板 荒腔走板 [huang1 qiang1 zou3 ban3] {fong1 hong1 zau2 baan2} /(expr. idiom.) chanter faux/(expr. idiom.) dévier de la norme; dévier de ce qui est approprié; dépasser des limites raisonnables/
 荒蕪 荒芜 [huang1 wu2] {fong1 mou4} /(terrain) aride; désolé/
 荔園 荔园 [li4 yuan2] {lai6 jyun4} /Lai Chi Kok Amusement Park (« Parc d'attracions Lai Chi Kok »)/
 荔景 荔景 [li4 jing3] {lai6 ging2} /Lai King, quartier à Hong Kong/
-????f 荔枝菌 荔枝菌 [li4 zhi1 jun1] {lai6 zi1 kwan2} /edible fungus that grows on lychee trees (Macrolepiota albuminosa)/
+????m 荔枝菌 荔枝菌 [li4 zhi1 jun1] {lai6 zi1 kwan2} /(espèce de champignons comestibles)/
 荔枝角 荔枝角 [li4 zhi1 jiao3] {lai6 zi1 gok3} /Lai Chi Kok; quartier résidentiel de Hong Kong/
-荷 荷 [he2] {ho4} /(abbr. pour les Pays-Bas)/
+荷 荷 [he2] {ho4} /(abréviation pour les Pays-Bas)/
 荷倌 荷倌 [he2 guan1] {ho4 gun1} /donneur; croupier (de casino)/
 荷包亂揈 荷包乱轰 [he2 bao1 luan4 hong1] {ho4 baau1 lyun2 fang6} /gaspiller de l'argent/
 荷包仔 荷包仔 [he2 bao1 zi3] {ho4 baau1 zai2} /voleur à la tire/
 荷包倒吊 荷包倒吊 [he2 bao1 dao4 diao4] {ho4 baau1 dou3 diu3} /gaspiller de l'argent/
 荷包友 荷包友 [he2 bao1 you3] {ho4 baau1 jau5} /pickpocket; voleur à la tire/
-????f 荷塘 荷塘 [he2 tang2] {ho4 tong4} /étang de lotus; étang où poussent des plantes de lotus/
+荷塘 荷塘 [he2 tang2] {ho4 tong4} /étang de lotus; étang où poussent des plantes de lotus/
 荷官 荷官 [he2 guan1] {ho4 gun1} /donneur; croupier (de casino)/
 荷李活 荷李活 [he2 li3 huo2] {ho4 lei5 wut6} /Hollywood, quartier de Los Angeles/
 荷李活道 荷李活道 [he2 li3 huo2 dao4] {ho4 lei5 wut6 dou6} /Hollywood Road, rue de Hong Kong/
 荷葉 荷叶 [he2 ye4] {ho4 jip6} /feuille de lotus/
-????f 荷葉飯 荷叶饭 [he2 ye4 fan4] {ho4 jip6 faan6} /riz frit chinois emballé dans une feuille de lotus/
+荷葉飯 荷叶饭 [he2 ye4 fan4] {ho4 jip6 faan6} /riz frit chinois emballé dans une feuille de lotus/
 荷蘭文 荷兰文 [he2 lan2 wen2] {ho4 laan1 man2} /(langue) néerlandais/
 荷蘭水 荷兰水 [he2 lan2 shui3] {ho4 laan1 seoi2} /(vieilli) boisson gazeuse/(vieilli) eau pétillante/(lit.) eau des Pays-Bas/
 荷蘭水蓋 荷兰水盖 [he2 lan2 shui3 gai4] {ho4 laan1 seoi2 goi3} /(fig.) Ordre du Mérite; décorations; médailles/(lit.) bouchon de bouteille de boisson gazeuse/
@@ -17283,15 +17283,15 @@
 菜 菜 [cai4] {coi3} /légumes/légumes verts feuillus/mets; plat/cuisine/jeune femme/blonde; petite amie; copine/prostituée/oisif; paresseux/
 菜乾 菜干 [cai4 gan1] {coi3 gon1} /dried vegetables/
 菜子 菜子 [cai4 zi3] {coi3 zi2} /graines de légumes/colza/
-????c 菜心樖 菜心樖 [cai4 xin1 ke1] {coi3 sam1 po1} /the tender flower stalk of vegetables harvested being maturing (before it has matured)/
-????f 菜欄 菜栏 [cai4 lan2] {coi3 laan1} /marché de gros de légumes/
+????f 菜心樖 菜心樖 [cai4 xin1 ke1] {coi3 sam1 po1} /tige d'un légume récolté avant la maturité/choy sum/
+菜欄 菜栏 [cai4 lan2] {coi3 laan1} /marché de gros de légumes/
 菜汁 菜汁 [cai4 zhi1] {coi3 zap1} /sauce qui reste après avoir consommé un plat de légumes/
 菜牌 菜牌 [cai4 pai2] {coi3 paai4} /(d'un restaurant) carte; menu/
-????f 菜田 菜田 [cai4 tian2] {coi3 tin4} /Vegetable fields (bigger than a potager)/
+菜田 菜田 [cai4 tian2] {coi3 tin4} /champ de légumes/
 菜腳 菜脚 [cai4 jiao3] {coi3 goek3} /restes; ce qui reste après un repas/
-????c 菜膽 菜胆 [cai4 dan3] {coi3 daam2} /cœur (d'un légume); partie la plus tendre d'un légume/
-????c 菜薳 菜䓕 [cai4 wei3] {coi3 jyun5} /cœur (d'un légume); partie la plus tendre d'un légume/
-????c 菜薹 菜薹 [cai4 tai2] {coi3 toi4} /cœur (d'un légume); partie la plus tendre d'un légume/
+菜膽 菜胆 [cai4 dan3] {coi3 daam2} /cœur (d'un légume); partie la plus tendre d'un légume (souvent en parlant les légumes verts feuillus)/
+菜薳 菜䓕 [cai4 wei3] {coi3 jyun5} /cœur (d'un légume); partie la plus tendre d'un légume (souvent en parlant les légumes verts feuillus)/
+菜薹 菜薹 [cai4 tai2] {coi3 toi4} /cœur (d'un légume); partie la plus tendre d'un légume (souvent en parlant les légumes verts feuillus)/choy sum/
 菠菜豆腐 菠菜豆腐 [bo1 cai4 dou4 fu5] {bo1 coi3 dau6 fu6} /(fig.) urgence; crise/(fig.) évènement peu propice/(lit.) épinard et tofu/
 菠萝包 菠萝包 [bo1 luo2 bao1] {bo1 lo4 baau1} /brioche-ananas/
 菠蘿包 菠萝包 [bo1 luo2 bao1] {bo1 lo4 baau1} /brioche-ananas/
@@ -17299,8 +17299,8 @@
 菠蘿汁 菠萝汁 [bo1 luo2 zhi1] {bo1 lo4 zap1} /jus d'ananas/
 菠蘿油 菠萝油 [bo1 luo2 you2] {bo1 lo4 jau4} /brioche-ananas avec du beurre/
 菠蘿蓋 菠萝盖 [bo1 luo5 gai4] {bo1 lo4 goi3} /(anatomie) rotule/(lit.) bouchon d'ananas/
-????f 菠蘿釘 菠萝钉 [bo1 luo2 ding1] {bo1 lo4 deng1} /spikes on a pineapple/
-????f 菠蘿雞 菠萝鸡 [bo1 luo2 ji1] {bo1 lo4 gai1} /(fig.) personne qui exploite les autres; personne qui tire profit des efforts des autres/(lit.) poulet à l'ananas/
+????f 菠蘿釘 菠萝钉 [bo1 luo2 ding1] {bo1 lo4 deng1} /épines sur la peau de l'ananas/
+菠蘿雞 菠萝鸡 [bo1 luo2 ji1] {bo1 lo4 gai1} /(fig.) personne qui exploite les autres; personne qui tire profit des efforts des autres/(lit.) poulet à l'ananas/
 菠蘿麻 菠萝麻 [bo1 luo2 ma2] {bo1 lo4 maa4} /(textile) fibre sisal/
 菡萏 菡萏 [han4 dan4] {haam5 daam6} /(litt.) lotus/
 菢竇 抱窦 [bao4 dou4] {bou6 dau3} /couver (des œufs)/
@@ -17322,16 +17322,16 @@
 華比銀行 华比银行 [hua2 bi3 yin2 hang2] {waa4 bei2 ngan4 hong4} /Belgian Bank, ancienne banque de Hong Kong/
 華爾滋 华尔滋 [hua2 er3 zi1] {waa4 ji5 zi1} /(danse) valse/
 華盛頓大學 华盛顿大学 [hua2 sheng4 dun4 da4 xue2] {waa4 sing6 deon6 daai6 hok6} /Université de Washington/
-????f 華秀 华秀 [hua2 xiu4] {waa4 sau3} /Waa sau, nom d'un personnage connu pour avoir un chien féroce (voir 狼過華秀雙狗|狼过华秀双狗)/
+華秀 华秀 [hua2 xiu4] {waa4 sau3} /Waa sau, nom d'un personnage connu pour son chien féroce (voir 狼過華秀雙狗|狼过华秀双狗)/
 華翰 华翰 [hua2 han4] {waa4 hon6} /(vieilli, humble) votre lettre/
 華裔 华裔 [Hua2 yi4] {waa4 jeoi6} /étranger d'origine chinoise/
-????c 菱角 菱角 [ling2 jiao3] {ling4 gok3} /(old slang) (figurative) 1. Knuckle (of a hand) (this refers to an old slang; "食菱角" (of physical punishment)  Hit someone's head with the knuckle of a hand) /
+菱角 菱角 [ling2 jiao3] {ling4 gok3} /mâcre nageante; châtaigne d'eau/
 菲薄 菲薄 [fei3 bo2] {fei2 bok6} /humble/piètre; maigre/mépriser; dénigrer/
-????f 菲傭 菲佣 [fei1 yong1] {fei1 jung4} /bonne philippaine/
+菲傭 菲佣 [fei1 yong1] {fei1 jung4} /bonne philippaine/
 菸草 烟草 [yan1 cao3] {jin1 cou2} /tabac/
 菸鹼醯胺腺嘌呤二核苷酸 菸硷醯胺腺嘌呤二核苷酸 [yan1 jian3 xi1 an1 xian4 piao4 ling2 er4 he2 gan1 suan1] {jin1 gaan2 hei1 on1 sin3 piu1 ling4 ji6 hat6 gam1 syun1} /nicotinamide adénine dinucléotide, NAD/
 萌塞 萌塞 [meng2 sai1] {mang4 sak1} /obstiné; têtu; étroit d'esprit; qui rejette les conseils des autres/
-????c 萍蹤 萍踪 [ping2 zong1] {ping4 zung1} /(literal tracks?) Track of a wanderer/
+萍蹤 萍踪 [ping2 zong1] {ping4 zung1} /parcours d'un nomade/
 著 着 [zhe5] {zoek3} /(vêtement, chaussures) porter/(lumière, appareil électrique) allumer/brûler/écrire; rédiger/célèbre; connu/
 著數 着数 [zhao1 shu4] {zoek6 sou3} /bonne affaire; aubaine/profit; avantage/
 著燈 著灯 [zhao2 deng1] {zoek6 dang1} /allumer les lumières/
@@ -17340,15 +17340,15 @@
 落 落 [luo4] {lok6} /descendre/tomber/baisser/aller/ajouter/débarquer/avorter; mettre fin à une grossesse/
 落Ｄ 落Ｄ [luo4 D] {lok6 di1} /aller à un discothèque/
 落仔 落仔 [luo4 zi3] {lok6 zai2} /avorter; mettre fin à une grossesse/
-????f 落剩 落剩 [luo4 sheng4] {lok6 sing6} /qui reste; résiduaire/
+落剩 落剩 [luo4 sheng4] {lok6 sing6} /qui reste; résiduaire/
 落力 落力 [luo4 li4] {lok6 lik6} /travailler fort; faire beaucoup d'effort/
 落去 落去 [luo4 qu4] {lok6 heoi3} /descendre/(en particulier) descendre l'escalier/
 落口供 落口供 [luo4 kou3 gong4] {lok6 hau2 gung1} /(police) recueillir une déclaration/
 落吧 落吧 [luo4 ba5] {lok6 baa1} /aller au bar/
-????f 落單 落单 [luo4 dan1] {lok6 daan1} /faire une commande; commander (quelque chose); passer une commande/(en particulier) commander à manger; commander de la nourriture/
+落單 落单 [luo4 dan1] {lok6 daan1} /faire une commande; commander (quelque chose); passer une commande/(en particulier) commander à manger; commander de la nourriture/
 落嘴頭 落嘴头 [luo4 zui3 tou2] {lok6 zeoi2 tau4} /essayer de persuader; essayer de convaincre; essayer d'amadouer (quelqu'un)/
-????f 落嚟 落嚟 [luo4 li2] {lok6 lai4} /descendre (et venir vers le locuteur)/descends! (vers moi!)/
-????f 落堂 落堂 [luo4 tang2] {lok6 tong4} /(d'une classe) terminer/
+落嚟 落嚟 [luo4 li2] {lok6 lai4} /descendre (et venir vers le locuteur)/descends! (vers moi!)/
+落堂 落堂 [luo4 tang2] {lok6 tong4} /(d'une classe) terminer/
 落場 落场 [luo4 chang3] {lok6 coeng4} /partir/conclure; terminer; prendre fin/pas en service; de repos/
 落大雨 落大雨 [luo4 da4 yu3] {lok6 daai6 jyu5} /pleuvoir des cordes; pleuvoir à verse; pleuvoir à torrent; pleuvoir très fort/
 落妝 落妆 [luo4 zhuang1] {lok6 zong1} /démaquiller; enlever le maquillage/
@@ -17357,22 +17357,22 @@
 落形 落形 [luo4 xing2] {lok6 jing4} /maigrir; amaigrir/
 落後 落后 [luo4 hou4] {lok6 hau6} /prendre du retard/dépassé; démodé/
 落手 落手 [luo4 shou3] {lok6 sau2} /agir; passer à l'action; entreprendre/
-????f 落手打三更 落手打三更 [luo4 shou3 da3 san1 geng1] {lok6 sau2 daa2 saam1 gaang1} /(expr. idiom.) faire quelque chose de travers dès le départ/
-落手落腳 落手落脚 [luo4 shou3 lao4 jiao3] {lok6 sau2 lok6 goek3} /(slang) someone is doing work by herself or himself physically; to get one's hands dirty in work; to put one's hands and feet to work/
+落手打三更 落手打三更 [luo4 shou3 da3 san1 geng1] {lok6 sau2 daa2 saam1 gaang1} /(expr. idiom.) mal aller dès le début; ne pas bien se dérouler de la première heure/(lit.) arriver au quart de jour et faire sonner le gong pour le quart de l'après-midi/
+落手落腳 落手落脚 [luo4 shou3 lao4 jiao3] {lok6 sau2 lok6 goek3} /(expr. idiom.) metter la main à la pâte; participer au travail/(lit.) y mettre les mains et les pieds/
 落晒形 落晒形 [luo4 shai4 xing2] {lok6 saai3 jing4} /avoir l'air triste; avoir l'air fatigué; avoir l'air pâle/
-????f 落更 落更 [luo4 geng4] {lok6 gaang1} /sortir du travail; finir de travailler; finir de bosser/
+落更 落更 [luo4 geng4] {lok6 gaang1} /sortir du travail; finir de travailler; finir de bosser/
 落本 落本 [luo4 ben3] {lok6 bun2} /investir beaucoup d'argent sur (quelque chose); dépenser beaucoup d'argent sur (quelque chose)/
 落格 落格 [luo4 ge2] {lok6 gaak3} /détourner (de l'argent)/(nourriture) digérer/
 落案 落案 [luo4 an4] {lok6 ngon3} /porter plainte/
-????f 落樓 落楼 [luo4 lou2] {lok6 lau2} /descendre; passer d'un étage supérieur à un étage inférieur/
-????f 落樓下 落楼下 [luo4 lou2 xia4] {lok6 lau4 haa6} /descendre; passer d'un étage supérieur à un étage inférieur/
+落樓 落楼 [luo4 lou2] {lok6 lau2} /descendre; passer d'un étage supérieur à un étage inférieur/
+落樓下 落楼下 [luo4 lou2 xia4] {lok6 lau4 haa6} /descendre (souvent au rez-de-chaussée)/
 落機 落机 [luo4 ji1 ] {lok6 gei1} /descendre de l'avion/
 落水 落水 [luo4 shui3] {lok6 seoi2} /tomber dans l'eau/(rare) pleuvoir/
 落水狗 落水狗 [luo4 shui3 gou3] {lok6 seoi2 gau2} /(fig.) personne malchanceuse/(fig.) mauvaise personne qui a perdu son pouvoir/(lit.) chien tombé dans l'eau/
 落狗屎 落狗屎 [luo4 gou3 shi3] {lok6 gau2 si2} /(fig.) pleuvoir à cordes; pleuvoir à torrent; pleuvoir à verse; pleuvoir très fort/(lit.) pleuvoir des excréments de chien/
-????f 落班 落班 [luo4 ban1] {lok6 baan1} /finir de travailler; sortir du travail; quitter le travail; finir de bosser/
-????f 落畫 落画 [luo4 hua4] {lok6 waa2} /(d'un film) être retiré du cinéma; ne plus être à l’affiche/
-????f 落紅 落红 [luo4 hong2] {lok6 hung4} /perdre la virginité/????f the show (during pregnancy when the plug of mucus from the cervix comes away)/(vieilli) (d'une fleur) tomber/
+落班 落班 [luo4 ban1] {lok6 baan1} /finir de travailler; sortir du travail; quitter le travail; finir de bosser/
+落畫 落画 [luo4 hua4] {lok6 waa2} /(d'un film) être retiré du cinéma; ne plus être à l’affiche/
+落紅 落红 [luo4 hong2] {lok6 hung4} /perdre la virginité; saigner en perdant sa virginité/
 落肥 落肥 [luo4 fei2] {lok6 fei4} /fertiliser; épandre de l'engrais/
 落膈 落膈 [luo4 ge2] {lok6 gaak3} /se reposer après un repas pour permettre à l'estomac de bien digérer la nourriture/
 落臺 落台 [luo4 tai2] {lok6 toi4} /sortir de la scène; descendre de la scène/(fig.) démissionner; se retirer/
@@ -17381,20 +17381,20 @@
 落草為寇 落草为寇 [luo4 cao3 wei2 kou4] {lok6 cou2 wai4 kau3} /(expr.) s'échapper dans la forêt et devenir un hors-la-loi/
 落荒而逃 落荒而逃 [luo4 huang1 er2 tao2] {lok6 fong1 ji4 tou4} /(expr.) fuir après une défaite/
 落街 落街 [luo4 jie1] {lok6 gaai1} /descendre au rez-de-chaussée pour sortir/sortir; sortir de chez soi pour prendre du bon temps (ex. aller en boîte, aller au bar, etc.)/faire du shopping; magasiner/
-????c 落袋 落袋 [luo4 dai4] {lok6 doi2} /to put in the pocket; to pocket (pool, income, literal?)/
+落袋 落袋 [luo4 dai4] {lok6 doi2} /mettre dans ses poches (souvent en parlant de l'argent)/profiter; bénéficier/
 落訂 落订 [luo4 ding4] {lok6 deng6} /verser un acompte; faire une avance/
 落足 落足 [luo4 zu2] {lok6 zuk1} /dépenser beaucoup d'argent/faire beaucoup d'efforts/
 落車 落车 [luo4 che1] {lok6 ce1} /descendre d'un véhicule; débarquer/
 落鄉 落乡 [luo4 xiang1] {lok6 hoeng1} /aller à la campagne/aller à sa ville natale/
-????f 落閘放狗 落闸放狗 [luo4 zha2 fang4 gou3] {lok6 zaap6 fong3 gau2} /(expr. idiom.) fermer boutique/(expr. idiom.) (expression utilisée pour presser ses collègues avant l'heure de fermeture et leur encourager à finir leurs tâches rapidement)/(expr. idiom.) (expression utilisée pour mettre en garde des visiteurs)/(lit.) fermer le portail et lâcher les chiens/
+落閘放狗 落闸放狗 [luo4 zha2 fang4 gou3] {lok6 zaap6 fong3 gau2} /(expr. idiom.) fermer boutique/(expr. idiom.) (expression utilisée pour presser ses collègues avant l'heure de fermeture et leur encourager à finir leurs tâches rapidement)/(expr. idiom.) (expression utilisée pour mettre en garde des visiteurs)/(lit.) fermer le portail et lâcher les chiens/
 落降頭 落降头 [luo4 jiang4 tou2] {lok6 gong3 tau4} /jeter un sort vaudou/
 落雨 落雨 [luo4 yu3] {lok6 jyu5} /pleuvoir/
 落雨收柴 落雨收柴 [luo4 yu3 shou1 chai2] {lok6 jyu5 sau1 caai4} /(expr. idiom.) accomplir une tâche avec négligence; bâcler le travail; faire quelque chose de manière précipitée/(lit.) ramasser le bois de chauffage quand il commence à pleuvoir/
 落雨溦 落雨溦 [luo4 yu3 mei2] {lok6 jyu5 mei4} /bruiner; pleuvioter/
 落雨濕濕 落雨湿湿 [luo4 yu3 chi4 chi4] {lok6 jyu5 sap1 sap1} /être trempé par la pluie/
-????f 落雨絲濕 落雨丝濕 [luo4 yu3 si1 chi4] {lok6 jyu5 si1 sap1} /situation où les rues sont glissantes à cause de la pluie/être trempé par la pluie/
+落雨絲濕 落雨丝濕 [luo4 yu3 si1 chi4] {lok6 jyu5 si1 sap1} /situation où les rues sont glissantes à cause de la pluie/être trempé par la pluie/
 落雪 落雪 [luo4 xue3] {lok6 syut3} /neiger/
-????f 落雪水 落雪水 [luo4 xue3 shui3] {lok6 syut3 seoi2} /pleuvioter une pluie froide/
+落雪水 落雪水 [luo4 xue3 shui3] {lok6 syut3 seoi2} /pleuvioter une pluie froide/
 落面 落面 [luo4 mian4] {lok6 min2} /perdre la face; être humilié/
 落鞋油 落鞋油 [luo4 xie2 you2] {lok6 haai4 jau2} /(fig.) flatter; flagorner; lécher les bottes/(lit.) mettre du cirage sur les chaussures/
 落髮 落发 [luo4 fa4] {lok6 faat3} /prendre la tonsure; se raser les cheveux pour devenir moine/
@@ -17413,9 +17413,9 @@
 葡提子 葡提子 [pu2 ti2 zi5] {pou4 tai4 zi2} /raisin/
 葡文 葡文 [Pu2 wen2] {pou4 man2} /(langue) portugais/
 董事 董事 [dong3 shi4] {dung2 si6} /administrateur; membre du conseil d'administration/
-????c 葫蘆王 葫芦王 [hu2 lu5 wang2] {wu4 lou2 wong4} /someone who likes to brag and lie/
-????f 葱度 葱度 [cong1 du4] {cung1 dou2} /ciboule coupée en filaments d'environ un pouce de long/
-????f 葵扇 葵扇 [kui2 shan4] {kwai4 sin3} /éventail de feuille de palmier/(cartes à jouer) pique/
+葫蘆王 葫芦王 [hu2 lu5 wang2] {wu4 lou2 wong4} /(fig.) vantard; bravache/(lit.) roi des calebasses/
+葱度 葱度 [cong1 du4] {cung1 dou2} /ciboule coupée en filaments d'environ un pouce de long/
+葵扇 葵扇 [kui2 shan4] {kwai4 sin3} /éventail de feuille de palmier/(cartes à jouer) pique/
 葵瓜子 葵瓜子 [kui2 gua1 zi3] {kwai4 gwaa1 zi2} /graines de tournesol/
 葵興 葵兴 [kui2 xing1] {kwai4 hing1} /Kwai Hing; quartier résidentiel de Hong Kong/
 葵芳 葵芳 [kui2 fang1] {kwai4 fong1} /Kwai Fong; quartier résidentiel de Hong Kong/
@@ -17434,7 +17434,7 @@
 蒲 蒲 [pu2] {pou4} /sortir; sortir de chez soi pour prendre du bon temps (ex. aller en boîte, aller au bar, etc.)/traîner; flâner dans un seul endroit/
 蒲台島 蒲台岛 [pu2 tai2 dao3] {pou4 toi4 dou2} /île Po Toi; la plus méridionale des îles de Hong Kong/
 蒲吧 蒲吧 [pu2 ba5] {pou4 baa1} /sortir; sortir de chez soi pour prendre du bon temps (ex. aller en boîte, aller au bar, etc.)/traîner au bar/
-????f 蒲柳 蒲柳 [pu2 liu3] {pou4 lau5} /big catkin willow/
+蒲柳 蒲柳 [pu2 liu3] {pou4 lau5} /Salix gracilistyla, espèce de plantes/
 蒲桃 蒲桃 [pu2 tao5] {pou4 tou4} /raisin/
 蒲桃 蒲桃 [pu2 tao5] {pou4 tou2} /fruit du jamrosat/
 蒲桃公 蒲桃公 [pu2 tao2 gong1] {pou4 tou4 gung1} /fruit du jamrosat/
@@ -17452,23 +17452,24 @@
 ????c 蓨 蓨 [tiao1] {sau1} /semis/(acide) oxalique)/
 ????c 蓨 蓨 [tiao1] {tiu1} /(genre de fleurs) Emilia/
 ????c 蓨 蓨 [tiao1] {tiu4} /(ancien nom de lieu de la province de Hebei)/
-????f 蓬蓬鬆鬆 蓬蓬松松 [peng2 peng5 song1 song1] {pung4 pung4 sung1 sung1} /(cheveux) gonflés; bouffants/
+????c 蓬蓬鬆鬆 蓬蓬松松 [peng2 peng5 song1 song1] {pung4 pung4 sung1 sung1} /(expr.) (cheveux) gonflés; bouffants/
 蓮子口面 莲子口面 [lian2 zi3 kou3 mian4] {lin4 zi2 hau2 min6} /(fig.) visage rond/(lit.) visage en forme de graine de lotus/
 蓮子蓉口面 莲子蓉口面 [lian2 zi3 kou3 mian4] {lin4 zi2 jung4 hau2 min6} /(fig.) content/(lit.) visage de pâte de graine de lotus/
-????f 蓮花杯 莲花杯 [lian2 hua1 bei1] {lin4 faa1 bui1} /(small tub of ice cream in the shape of a cup, like Haagen Dazs)/
+????f 蓮花杯 莲花杯 [lian2 hua1 bei1] {lin4 faa1 bui1} /glace en pot; crème glacée vendue dans un contenant la taille d'une tasse/
 蔓越桔 蔓越桔 [man4 yue4 ju2] {maan6 jyut6 gat1} /canneberge/
 蔗汁 蔗汁 [zhe4 zhi1] {ze3 zap1} /jus de canne à sucre/
 蔗蝦 蔗虾 [zhe4 xia1] {ze3 haa1} /Chạo tôm, plat vietnamien; surimi de crevettes grillées sur un bâtonnet de canne à sucre/
-????f 蔗雞 蔗鸡 [zhe4 ji1] {ze3 gai1} /Sugarcane chicken/
+????c 蔗雞 蔗鸡 [zhe4 ji1] {ze3 gai1} /canne à sucre/
 蔞葉 蒌叶 [lou2 ye4] {lau1 jip6} /bétel (Piper betle), plante grimpante/
 蔡卓妍 蔡卓妍 [cai4 zhuo2 yan2] {coi3 coek3 jin4} /Charlene Choi Cheuk-yin, actrice et chanteuse hongkongaise/
 蔡少芬 蔡少芬 [cai4 shao3 fen1] {coi3 siu2 fan1} /Ada Choi Siu Fun, actrice hogkongaise/
 蔡瀾 蔡澜 [cai4 lan2] {coi3 laan4} /Chua Lam, chroniqueur hongkongais/
 蔣麗芸 蒋丽芸 [jiang3 li4 yun2] {zoeng2 lai6 wan4} /Ann Chiang Lai-wan, femme politique hongkongaise/
 蔥頭 葱头 [cong1 tou2] {cung1 tau4} /échalote/
-????c 蔧 蔧 [hui4] {seoi6, wai6} /Kochia scoparia/
+蔧 蔧 [hui4] {seoi6} /Bassia scopaira; Kochia scoparia, espèce de plantes/
+蔧 蔧 [hui4] {wai6} /Bassia scopaira; Kochia scoparia, espèce de plantes/
 蔫韌 蔫韧 [nian1 ren4] {jin1 ngan6} /(viande) coriace; filandreux/(aliment) caoutchouteux/(d'un couple romantique) intime; amoureux/
-????f 蔭庇 荫庇 [yin4 bi4] {jam3 bei3} /(verb, noun? for an ancestor to protect and bless?) protection; shelter/
+????f 蔭庇 荫庇 [yin4 bi4] {jam3 bei3} /protection par ses ancêtres/(des ancêtres) protéger ses descendants/
 蔽塞 蔽塞 [bi4 se4] {bai3 sak1} /boucher; bloquer/
 蕃薯 蕃薯 [fan1 shu3] {faan4 syu4} /patate douce/
 蕙蘭 蕙兰 [hui4 lan2] {wai6 laan4} /Cymbidium, genre d'orchidées/
@@ -17478,7 +17479,7 @@
 蕩失 荡失 [dang4 shi1] {dong6 sat1} /se perdre; s'égarer/
 蕩失路 荡失路 [dang4 shi1 lu4] {dong6 sat1 lou6} /se perdre; s'égarer/
 盪失路 荡失路 [dang4 shi1 lu4] {dong6 sat1 lou6} /se perder; s'égarer/
-????f 蕩平 荡平 [dang4 ping2] {dong6 ping4} /(how is this used in a sentence?) To mop up and quell; to suppress and wipe out; to clear away; to sweep off/
+蕩平 荡平 [dang4 ping2] {dong6 ping4} /réprimer; freiner (une rébellion)/
 蕩街 荡街 [dang4 jie1] {dong6 gaai1} /magasiner; faire du lèche-vitrine; faire les magasins/
 蕭崗站 萧岗站 [xiao1 gang3 zhan4] {siu1 gong1 zaam6} /Xiaogang station, station du métro de Canton/
 蕭敬騰 萧敬腾 [xiao1 jing4 teng2] {siu1 ging3 tang4} /Jam Hsiao, chanteur taïwanais/
@@ -17492,14 +17493,14 @@
 薄扶林 薄扶林 [bo2 fu2 lin2] {bok6 fu4 lam4} /Pok Fu Lam, village de Hong Kong/
 薄扶林水塘 薄扶林水塘 [bo2 fu2 lin2 shui3 tang2] {bok6 fu4 lam4 seoi2 tong4} /Pok Fu Lam Reservoir, bassin de retenue à Hong Kong/
 薄皮 薄皮 [bo2 pi2] {bok6 pei2} /(fig.) susceptible; à fleur de peau/à croûte mince/à peau mince/
-????c 薄絨 薄绒 [bao2 rong2] {bok6 jung2} /light fleece/
+薄絨 薄绒 [bao2 rong2] {bok6 jung2} /(tissu) polaire léger/
 薄罉 薄罉 [bo2 cang1] {bok6 caang1} /pancake; crêpe/
 薄英英 薄英英 [bo2 ying1 ying1] {bok6 jing1 jing1} /trop mince; trop fin/
 薄荷 薄荷 [bo4he5] {bok6 ho4} /menthe/
 薄荷糖 薄荷糖 [bo4 he5 tang2] {bok6 ho4 tong2} /bonbon à la menthe; pastille à la menthe/
 薑 姜 [jiang1] {goeng1} /gingembre/(fig.) courage/
-????f 薑汁撞奶 姜汁撞奶 [jiang1 zhi1 zhuang4 nai3] {goeng1 zap1 zong6 naai5} /lait caillé au gingembre, dessert cantonais/
-????f 薑醋 姜醋 [jiang1 cu4] {goeng1 cou3} /pieds de cochon au gingembre et au vinaigre, plat cantonais souvent préparé pour les femmes qui viennent d'accoucher/
+薑汁撞奶 姜汁撞奶 [jiang1 zhi1 zhuang4 nai3] {goeng1 zap1 zong6 naai5} /lait caillé au gingembre, dessert cantonais/
+薑醋 姜醋 [jiang1 cu4] {goeng1 cou3} /pieds de cochon au gingembre et au vinaigre, plat cantonais souvent préparé pour les femmes qui viennent d'accoucher/
 薯仔 薯仔 [shu3 zai3] {syu4 zai2} /patate/idiot; imbécile/personne sans importance/personne qui porte des vêtements démodés/
 薯嘜 薯唛 [shu3 ma4] {syu4 mak1} /idiot; imbécile/(orig.) de l'anglais « schmuck » (« idiot; imbécile »)/
 薯莨 薯莨 [shu3 liang2] {syu4 loeng4} /(genre d'ignames) Dioscorea cirrhosa/
@@ -17516,7 +17517,7 @@
 藏 藏 [cang2] {zong6} /(abbr. pour le Tibet)/
 藏鋒 藏锋 [cang2 feng1] {cong4 fung1} /cacher ses talents/
 藐視法庭 藐视法庭 [miao3 shi4 fa3 ting2] {miu5 si6 faat3 ting4} /outrage au tribunal/
-????c 藕粉 藕粉 [ou3 fen3] {ngau5 fan2} /lotus root starch (gooey sweet food)/
+藕粉 藕粉 [ou3 fen3] {ngau5 fan2} /amidon de racine de lotus (« lotus root starch » en anglais), dessert chinois gluant/
 藝員 艺员 [yi4 yuan2] {ngai6 jyun4} /acteur, actrice; comédien, comédienne/
 藝者 艺者 [yi4 zhe3] {ngai6 ze2} /geisha/
 藝術中心 艺术中心 [yi4 shu4 zhong1 xin1] {ngai6 seot6 zung1 sam1} /centre des arts/
