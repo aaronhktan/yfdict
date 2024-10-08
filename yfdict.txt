@@ -14909,7 +14909,7 @@
 知底 知底 [zhi1 di3] {zi1 dai2} /connaître les dessous de (quelque chose)/
 知彼知己，百戰百勝 知彼知己，百战百胜 [zhi1 bi3 zhi1 ji3 , bai3 zhan4 bai3 sheng4] {zi1 bei2 zi1 gei2 baak3 zin3 baak3 sing3} /(Sun Tzu) Connais ton ennemi et connais-toi toi-même; eussiez-vous cent guerres à soutenir, cent fois vous serez victorieux./
 知微 知微 [zhi1 wei1] {zi1 mei4} /être mesquin; être pointilleux; élever des difficultés sur les chose insignifiantes/égoïste; ne penser qu'à soi/rechercher son intérêt au détriment des autres/
-知微麻利 知微麻利 [zhi1 wei1 ma2 li5] {zi1 mei4 maa4 lei6} /être mesquin; être pointilleux; élever des difficultés sur les chose insignifiantes/égoïste; ne penser qu'à soi/rechercher son intérêt au détriment des autres/
+知微麻利 知微麻利 [zhi1 wei1 ma2 li5] {zi1 mei4 maa4 lei6} /être mesquin; être pointilleux; se chamailler; se disputer à cause de détails insignifiants/égoïste; ne penser qu'à soi/rechercher son intérêt au détriment des autres/
 知心人 知心人 [zhi1 xin1 ren2] {zi1 sam1 jan4} /ami proche; ami intime/
 知心朋友 知心朋友 [zhi1 xin1 peng2 you5] {zi1 sam1 pang4 jau2} /ami proche; ami intime/
 知恩感戴 知恩感戴 [zhi1 en1 gan3 dai4] {zi1 jan1 gam2 daai3} /ressentir de la gratitude; être reconnaissant/
@@ -17358,7 +17358,7 @@
 落後 落后 [luo4 hou4] {lok6 hau6} /prendre du retard/dépassé; démodé/
 落手 落手 [luo4 shou3] {lok6 sau2} /agir; passer à l'action; entreprendre/
 落手打三更 落手打三更 [luo4 shou3 da3 san1 geng1] {lok6 sau2 daa2 saam1 gaang1} /(expr. idiom.) mal aller dès le début; ne pas bien se dérouler de la première heure/(lit.) arriver au quart de jour et faire sonner le gong pour le quart de l'après-midi/
-落手落腳 落手落脚 [luo4 shou3 lao4 jiao3] {lok6 sau2 lok6 goek3} /(expr. idiom.) metter la main à la pâte; participer au travail/(lit.) y mettre les mains et les pieds/
+落手落腳 落手落脚 [luo4 shou3 lao4 jiao3] {lok6 sau2 lok6 goek3} /(expr. idiom.) mettre la main à la pâte; participer soi-même au travail/(lit.) y mettre les mains et les pieds/
 落晒形 落晒形 [luo4 shai4 xing2] {lok6 saai3 jing4} /avoir l'air triste; avoir l'air fatigué; avoir l'air pâle/
 落更 落更 [luo4 geng4] {lok6 gaang1} /sortir du travail; finir de travailler; finir de bosser/
 落本 落本 [luo4 ben3] {lok6 bun2} /investir beaucoup d'argent sur (quelque chose); dépenser beaucoup d'argent sur (quelque chose)/
@@ -18004,50 +18004,50 @@
 褲穿窿 裤穿窿 [ku4 chuan1 long2] {fu3 cyun1 lung4} /(fig.) indigent; démuni/(lit.) avoir des trous dans son pantalon/
 褲腳 裤脚 [ku4 jiao3] {fu3 goek3} /ourlet d'un pantalon/
 褲袋 裤袋 [ku4 dai4] {fu3 doi2} /poche de pantalon/
-????f 褲鍊 裤炼 [ku4 lian4] {fu3 lin2} /fermeture éclair d'un pantalon/
+褲鍊 裤炼 [ku4 lian4] {fu3 lin2} /fermeture éclair d'un pantalon/
 褲頭帶 裤头带 [ku4 tou2 dai4] {fu3 tau4 daai2} /ceinture/ceinture en élastique/
-????f 褲骨 裤骨 [ku4 gu3] {fu3 gwat1} /pli vertical d'un pantalon/(lit.) os d'un pantalon/
-????f 褲髀 裤髀 [ku4 bi4] {fu3 bei2} /partie d'un pantalon qui couvre les cuisses/
+褲骨 裤骨 [ku4 gu3] {fu3 gwat1} /pli vertical d'un pantalon/(lit.) os d'un pantalon/
+褲髀 裤髀 [ku4 bi4] {fu3 bei2} /partie d'un pantalon qui couvre les cuisses/
 褸丘 褛丘 [lu:3 qiu1] {lau1 jau1} /(fig.) avoir une apparence peu soignée; être vêtu de haillons; (avoir les cheveux) en bataille/
 褸尾 褛尾 [lu:3 wei3] {lau1 mei1} /en dernière place/
-????f 褸裙 褛裙 [lu:3 qun2] {lau5 kwan4} /cape pour enfants/one-piece dress/long manteau pour femmes/
+褸裙 褛裙 [lu:3 qun2] {lau5 kwan4} /cape pour enfants/robe d'une seule pièce/long manteau pour femmes/
 襄助 襄助 [xiang1 zhu4] {soeng1 zo6} /aider/
-????f 襟 襟 [jin1] {kam1} /beaux-frères dont les épouses sont des sœurs/(fam.) deux hommes qui ont couché avec la même femme/revers (d'un veste)/sein; siège des émotions/(fig.) largeur d'esprit/supporter; endurer; tolérer/durable/qui nécessite beaucoup de temps ou d'argent à réaliser/
+襟 襟 [jin1] {kam1} /beaux-frères dont les épouses sont des sœurs/(fam.) deux hommes qui ont couché avec la même femme (voir aussi 老襟|老襟)/revers (d'un veste)/sein; siège des émotions/(fig.) largeur d'esprit/supporter; endurer; tolérer/durable/qui nécessite beaucoup de temps ou d'argent à réaliser/
 襟兄弟 襟兄弟 [jin1 xiong1 di4] {kam1 hing1 dai6} /beaux-frères dont les épouses sont des sœurs/(fam.) deux hommes qui ont couché avec la même femme/
 襟計 襟计 [jin1 ji4] {kam1 gai3} /qui coûte cher; qui coûte beaucoup/
 襟章 襟章 [jin1 zhang1] {kam1 zoeng1} /badge; macaron; insigne rond fixé sur un vêtement/
 襦裙 襦裙 [ru2 qun2] {jyu4 kwan4} /ruqun, vêtement traditionnel chinois/
 襪箍 袜箍 [wa4 gu1] {mat6 ku1} /jarretelle; jarretière/
-????c 襪頭 袜头 [wa4 tou2] {mat6 tau4} /the welt of a sock/mouth of a sock/orteil/
+襪頭 袜头 [wa4 tou2] {mat6 tau4} /(partie d'une chaussette) côte/
 襯 衬 [chen4] {can3} /(d'un vêtement) aller à/(d'un couple) être compatible/harmoniser; faire ressortir/doubler; placer quelque chose en dessous/doublure/
 襯家 衬家 [chen4 jia1] {can3 gaa1} /beaux-parents/
 襯托 衬托 [chen4 tuo1] {can3 tok3} /faire ressortir; mettre en valeur/
 襲擊 袭击 [xi2 ji1] {zaap6 gik1} /attaquer par surprise; assaillir/attaque surprise; coup de main/
-????f 襲用 袭用 [xi2 yong4] {zaap6 jung6} /utiliser quelque chose qui a déjà été utilisé depuis longtemps/
+襲用 袭用 [xi2 yong4] {zaap6 jung6} /suivre une méthode qui existe depuis longtemps/
 襲警 袭警 [xi2 jing3] {zaap6 ging2} /agresser un policier/
 西九龍 西九龙 [xi1 jiu3 long2] {sai1 gau2 lung4} /West Kowloon; partie ouest de Kowloon, à Hong Kong/
 西京 西京 [xi1 jing1] {sai1 ging1} /Xijing, ville chinoise/ancien nom de Xi'an/ancien nom de Luoyang/ancien nom de Datong/
 西人 西人 [xi1 ren2] {sai1 jan4} /Occidental, Occidentale/
 西便 西便 [xi1 bian4] {sai1 bin6} /partie ouest; partie occidentale/
-????f 西冷 西冷 [xi1 leng3] {sai1 laang1} /faux-filet/
-????f 西冷牛扒 西冷牛扒 [xi1 leng3 niu2 pa2] {sai1 laang5 ngau4 paa4} /faux-filet/
+西冷 西冷 [xi1 leng3] {sai1 laang1} /faux-filet; aloyau/(orig.) de l'anglais « sirloin »/
+西冷牛扒 西冷牛扒 [xi1 leng3 niu2 pa2] {sai1 laang5 ngau4 paa4} /faux-filet; aloyau/(orig.) de l'anglais « sirloin »/
 西化 西化 [xi1 hua4] {sai1 faa3} /occidentaliser/
 西北地區 西北地区 [xi1 bei3 Di4 qu1] {sai1 bak1 dei6 keoi1} /Xibei (« territoires du nord-ouest »), région de la Chine/
 西北風 西北风 [xi1 bei3 feng1] {sai1 bak1 fung1} /vent du nord-ouest/
 西區海底隧道 西区海底隧道 [xi1 qu1 hai3 di3 sui4 dao4] {sai1 keoi1 hoi2 dai2 seoi6 dou6} /Western Harbour Crossing, tunnel à Hong Kong qui traverse Victoria Harbour/
-????c 西南二伯父 西南二伯父 [xi1 nan2 er4 bo2 fu4] {sai1 naam4 ji6 baak3 fu6} /someone who appears to be reputable whom others will entrust as a mentor to a youngster but in reality he is someone who will turn a blind eye to any wrong doings of the youngster and connive their bad behaviours and habits/
+西南二伯父 西南二伯父 [xi1 nan2 er4 bo2 fu4] {sai1 naam4 ji6 baak3 fu6} /(expr. idiom.) personne âgée qui incite les plus jeunes à faire de mauvaises choses/
 西多 西多 [xi1 duo1] {sai1 do1} /pain doré; pain perdu/
 西多士 西多士 [xi1 duo1 shi4] {sai1 do1 si6} /pain doré; pain perdu/
 西岸 西岸 [xi1 an4] {sai1 ngon6} /partie ouest du Bund de Shanghai/côte ouest/
 西布朗 西布朗 [xi1 bu4 lang2] {sai1 bou3 long5} /West Bromwich, ville britannique/
 西斜 西斜 [xi1 xie2] {sai1 ce4} /(chambre ou appartement) orienté ouest; avoir les fenêtres du côté ouest/
-????f 西斜熱 西斜热 [xi1 xie2 re4] {sai1 ce4 jit6} /chaleur d'un coucher du soleil; chaleur ressentie lorsque l'on a des fenêtres du côté ouest/
+西斜熱 西斜热 [xi1 xie2 re4] {sai1 ce4 jit6} /chaleur d'un coucher du soleil; chaleur ressentie quand l'on a des fenêtres du côté ouest/
 西方國家 西方国家 [xi1 fang1 guo2 jia1] {sai1 fong1 gwok3 gaa1} /pays occidentaux/
 西曬 西晒 [xi1 shai4] {sai1 saai3} /(chambre ou appartement) orienté ouest; avoir les fenêtres du côté ouest (voir aussi 西斜熱|西斜热)/
 西梅 西梅 [xi1 mei2] {sai1 mui2} /pruneau/
 西樂 西乐 [xi1 yue4] {sai1 ngok6} /musique occidentale/
-????c 西樵 西樵 [xi1 qiao2] {sai1 ciu4} /Northwest wind/
 西樵山 西樵山 [xi1 qiao2 shan1] {sai1 ciu4 saan1} /mont Xiqiao, volcan éteint à Guangdong/
+西樵大餅 西樵大饼 [xi1 qiao2 da4 bing3] {sai1 ciu4 daai6 beng2} /(nom d'une patisserie cantonaise)/
 西洋仔 西洋仔 [xi1 yang2 zi3] {sai1 joeng4 zai2} /(fam.) Occidental/
 西洋參 西洋参 [xi1 yang2 shen1] {sai1 joeng4 sam1} /ginseng américain; ginseng à cinq folioles; Panax quinquefolius/
 西洋拳 西洋拳 [xi1 yang2 quan2] {sai1 joeng4 kyun4} /(sport de combat) boxe/
@@ -18059,8 +18059,8 @@
 西營盤 西营盘 [xi1 ying2 pan2] {sai1 jing4 pun4} /Sai Ying Pun, ville du côte nord-ouest de Hong Kong/
 西片 西片 [xi1 pian4] {sai1 pin2} /films occidentaux/
 西環 西环 [xi1 huan2] {sai1 waan4} /Sai Wan; Western District; Western, région de l'île de Hong Kong/(par métonymie) Bureau de liaison avec Hong Kong/(par extension) gouvernement de la RPC/
-????f 西瓜刀 西瓜刀 [xi1 gua1 dao1] {sai1 gwaa1 dou1} /couteau à pastèque/
-????f 西瓜瓤 西瓜瓤 [xi1 gua5 rang2] {sai1 gwaa1 nong4} /chair de pastèque/
+西瓜刀 西瓜刀 [xi1 gua1 dao1] {sai1 gwaa1 dou1} /couteau à pastèque/
+西瓜瓤 西瓜瓤 [xi1 gua5 rang2] {sai1 gwaa1 nong4} /chair de pastèque/
 西生菜 西生菜 [xi1 sheng1 cai4] {sai1 saang1 coi3} /laitue iceberg/
 西紙 西纸 [xi1 zhi3] {sai1 zi2} /devise étrangère/
 西菜 西菜 [xi1 cai4] {sai1 coi3} /cuisine occidentale/
@@ -18071,47 +18071,48 @@
 西門口 西门口 [xi1 men2 kou3] {sai1 mun4 hau2} /Ximenkou, station du métro de Canton/
 西隧 西隧 [xi1 sui4] {sai1 seoi6} /Western Harbour Crossing, tunnel à Hong Kong qui traverse Victoria Harbour/
 西風 西风 [xi1 feng1] {sai1 fung1} /vent d'ouest/
-????f 西餅 西饼 [xi1 bing3] {sai1 beng2} /gâteau occidental/patisserie occidentale/
+西餅 西饼 [xi1 bing3] {sai1 beng2} /gâteau occidental/patisserie occidentale/
 西餐房 西餐房 [xi1 can1 fang2] {sai1 caan1 fong2} /restaurant occidental/
 西柚 西柚 [xi1 you4] {sai1 jau2} /pamplemousse/
 西柚汁 西柚汁 [xi1 you4 zhi1] {sai1 jau2 zap1} /jus de pamplemousse/
 要生要死 要生要死 [yao4 sheng1 yao4 si3] {jiu3 sang1 jiu3 sei2} /(expr. idiom.) être hystérique/(lit.) vouloir naître, vouloir mourir/
 要素 要素 [yao4 su4] {jiu3 sou3} /élément clé; facteur essentiel/
-????f 要靚唔要命 要靓唔要命 [yao4 jing4 wu2 yao4 ming4] {jiu3 leng3 m4 jiu3 meng6} /(expr. idiom.) (personne) prêt à sacrifier sa santé pour la beauté/(lit.) vouloir la beauté, ne pas vouloir la vie/
-????f 要面 要面 [yao4 mian4] {jiu3 min6} /(fig.) vouloir rester dans les bonnes grâces des autres; être préoccupé par sa réputation/(lit.) vouloir la face/
-????f 要頸唔要命 要颈唔要命 [yao4 jing3 wu2 yao4 ming4] {jiu3 geng2 m4 jiu3 meng6} /(expr. idiom.) s'obstiner à faire quelquec chose sans égard pour les conséquences/(lit.) vouloir son cou (=être obstiné), ne pas vouloir sa vie/
+要靚唔要命 要靓唔要命 [yao4 jing4 wu2 yao4 ming4] {jiu3 leng3 m4 jiu3 meng6} /(expr. idiom.) (personne) prêt à sacrifier sa santé pour la beauté/(lit.) vouloir la beauté, ne pas vouloir la vie/
+要面 要面 [yao4 mian4] {jiu3 min6} /(fig.) vouloir rester dans les bonnes grâces des autres; être préoccupé par sa réputation/(lit.) vouloir la face/
+要頸唔要命 要颈唔要命 [yao4 jing3 wu2 yao4 ming4] {jiu3 geng2 m4 jiu3 meng6} /(expr. idiom.) s'obstiner à faire quelquec chose sans égard pour les conséquences/(lit.) vouloir son cou (=être obstiné), ne pas vouloir sa vie/
 覆機 复机 [fu4 ji1] {fuk1 gei1} /(téléphone) rappeler; appeler à nouveau/
-????f 覆診 复诊 [fu4 zhen3] {fuk1 can2} /rendez-vous de suivi avec le médecin; nouvelle visite chez le médecin/
+覆診 复诊 [fu4 zhen3] {fuk1 can2} /rendez-vous de suivi avec le médecin; nouvelle visite chez le médecin/
 見世面 见世面 [jian4 shi4 mian4] {gin3 sai3 min6} /voir du pays; explorer; élargir ses horizons/
-????f 見人講人話，見鬼講鬼話 见人讲人话，见鬼讲鬼话 [jian4 ren2 jiang3 ren2 hua4 , jian4 gui3 jiang3 gui3 hua4] {gin3 jan4 gong2 jan4 waa2 gin3 gwai2 gong2 gwai2 waa2} /(expr. idiom.) hypocrite; pas sincère; personne qui veut plaire à tout le monde/(lit.) voir un être humain, parler la langue des êtres humains; voir un fantôme, parler la langue des fantômes/
-????f 見使 见使 [jian4 shi3] {gin3 sai2} /(adjectif) (of money) to go farther, to be able to buy much more with the money that you have/économique; bon marché/
+見人講人話，見鬼講鬼話 见人讲人话，见鬼讲鬼话 [jian4 ren2 jiang3 ren2 hua4 , jian4 gui3 jiang3 gui3 hua4] {gin3 jan4 gong2 jan4 waa2 gin3 gwai2 gong2 gwai2 waa2} /(expr. idiom.) hypocrite; pas sincère; personne qui veut plaire à tout le monde/(lit.) voir un être humain, parler la langue des êtres humains; voir un fantôme, parler la langue des fantômes/
+見使 见使 [jian4 shi3] {gin3 sai2} /(de l'argent) qui est dépensé pour quelque chose qui a bon bon rapport qualité-prix; qui est dépensé pour quelque chose de bon marché/
 見功 见功 [jian4 gong1] {gin3 gung1} /être efficace; produire l'effet désiré/
 見周公 见周公 [jian4 zhou1 gong1] {gin3 zau1 gung1} /(fig.) se coucher; dormir/(lit.) voir le duc Dan de Zhou/
-????f 見客 见客 [jian4 ke4] {gin3 haak3} /recevoir, accueillir des invités/recevoir, accueillir un client/
-????c 見山就拜 见山就拜 [jian4 shan1 jiu4 bai4] {gin3 saan1 zau6 baai3} /to randomly pay compliments to anyone without really knowing who they are/
+見客 见客 [jian4 ke4] {gin3 haak3} /recevoir, accueillir des invités/recevoir, accueillir un client/
+見山就拜 见山就拜 [jian4 shan1 jiu4 bai4] {gin3 saan1 zau6 baai3} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs; traiter les gens différemment selon leur statut social/(lit.) vénérer n'importe quelle montagne que l'on voit/
+見山就拜見低就踩 见山就拜见低就踩 [jian4 shan1 jiu4 bai4 jian4 di1 jiu4 cai3] {gin3 saan1 zau6 baai3 gin3 dai1 zau6 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs; traiter les gens différemment selon leur statut social/(lit.) vénérer n'importe quelle montagne que l'on voit, piétiner n'importe qui est plus petit/
 見工 见工 [jian4 gong1] {gin3 gung1} /avoir un entretien d'embauche/
 見機 见机 [jian4 ji1] {gin3 gei1} /lorsque l'occasion se présente/selon les circonstances/
 見步行步 见步行步 [jian4 bu4 xing2 bu4] {gin3 bou6 haang4 bou6} /(expr. idiom.) y aller petit à petit/(expr. idiom.) prendre les choses comme elles viennent; ne pas avoir de plan à long terme/(lit.) regarder un pas, faire un pas/
-????f 見死不救 见死不救 [jian4 si3 bu4 jiu4] {gin3 sei2 bat1 gau3} /(expr.) ne pas aider quelqu'un en danger de mort; ne pas aider quelqu'un dans une situation très dangereuse/(lit.) voir mourir ne pas sauver/
-????f 見牙不見眼 见牙不见眼 [jian4 ya2 bu4 jian4 yan3] {gin3 ngaa4 bat1 gin3 ngaan5} /(expr. idiom.) faire un grand sourire/(lit.) voir les dents et pas les yeux/
+見死不救 见死不救 [jian4 si3 bu4 jiu4] {gin3 sei2 bat1 gau3} /(expr.) ne pas aider quelqu'un en danger de mort; ne pas aider quelqu'un dans une situation très dangereuse/(lit.) voir mourir ne pas sauver/
+見牙不見眼 见牙不见眼 [jian4 ya2 bu4 jian4 yan3] {gin3 ngaa4 bat1 gin3 ngaan5} /(expr. idiom.) faire un grand sourire/(lit.) voir les dents et pas les yeux/
 見牙唔見眼 见牙唔见眼 [jian4 ya2 wu2 jian4 yan3] {gin3 ngaa4 m4 gin3 ngaan5} /(expr. idiom.) faire un grand sourire/(lit.) voir les dents et pas les yeux/
-????c 見者有份 见者有份 [jian4 zhe3 you3 fen4] {gin3 ze2 jau5 fan6} /everyone present can have a share/
+????f 見者有份 见者有份 [jian4 zhe3 you3 fen4] {gin3 ze2 jau5 fan6} /(expr.) (en offrant quelque chose à quelqu'un) tous ceux qui sont présents peuvent en prendre une portion; puisque vous êtes ici, je vous en donne une portion/(lit.) un témoin aura une portion/
 見連丸 见连丸 [jian4 lian2 wan2] {gin3 lin4 jyun2} /quinine/
 見過鬼就怕黑 见过鬼就怕黑 [jian4 guo4 gui3 jiu4 pa4 hei1] {gin3 gwo3 gwai2 zau6 paa3 hak1} /(expr. idiom.) chat échaudé craint l’eau froide/(lit.) voir un fantôme, avoir peur du noir/
 見過鬼怕黑 见过鬼怕黑 [jian4 guo4 gui3 pa4 hei1] {gin3 gwo3 gwai2 paa3 hak1} /(expr. idiom.) chat échaudé craint l’eau froide/(lit.) voir un fantôme, avoir peur du noir/
 見錢開眼 见钱开眼 [jian4 qian2 kai1 yan3] {gin3 cin2 hoi1 ngaan5} /(expr. idiom.) grippe-sou; avare; pingre/(lit.) voir de l'argent, ouvrir les yeux/
 見錢眼開 见钱眼开 [jian4 qian2 yan3 kai1] {gin3 cin2 ngaan5 hoi1} /(expr. idiom.) grippe-sou; avare; pingre/(lit.) voir de l'argent, yeux ouverts/
-????f 見鑊打鑊 见镬打镬 [jian4 huo4 da3 huo4] {gin3 wok6 daa2 wok6} /(menace) le jour où tu te présenteras devant ma face, je te tabasserai/(lit.) voir le wok, frapper le wok/
+????f 見鑊打鑊 见镬打镬 [jian4 huo4 da3 huo4] {gin3 wok6 daa2 wok6} /(menace) le jour où tu te présenteras devant moi, je te tabasserai/(lit.) voir le wok, frapper le wok/
 見風使𢃇 见风使𢃇 [jian4 feng1 shi3] {gin3 fung1 sai2 to4} /(expr. idiom.) personne adaptable; personne souple/(expr. idiom.) prendre les choses comme elles viennent/(lit.) voir où le vent souffle et hisser une voile/
-????f 見食 见食 [jian4 shi2] {gin3 sik6} /(d'un casse-croûte, collation, ou un repas) qui semble interminable; qui semble ne pas s'épuiser même si l'on a l'impression d'en avoir beaucoup mangé; qui contient beaucoup plus que l'on aurait pensé (very good value, seem bottomless, seem to have much more than one would expect/
-????f 見飯 见饭 [jian4 fan4] {gin3 faan6} /(riz) qui se gonfle beaucoup lors de la cuisson; qui est plus volumineux après la cuisson que l'on aurait pensé/
-????f 見高就拜見低就踩 见高就拜见低就踩 [jian4 gao1 jiu4 bai4 jian5 di1 jiu4 cai3] {gin3 gou1 zau6 baai3 gin3 dai1 zau6 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
-????f 見高拜見低踩 见高拜见低踩 [jian4 gao1 bai4 jian5 di1 cai3] {gin3 gou1 baai3 gin3 dai1 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
+見食 见食 [jian4 shi2] {gin3 sik6} /(d'un casse-croûte, collation, ou un repas) qui semble interminable; qui semble ne pas s'épuiser même si l'on a l'impression d'en avoir beaucoup mangé; qui contient beaucoup plus que l'on aurait pensé; en avoir beaucoup pour le prix/
+見飯 见饭 [jian4 fan4] {gin3 faan6} /(riz) qui se gonfle beaucoup lors de la cuisson; qui est plus volumineux après la cuisson que l'on aurait pensé/
+見高就拜見低就踩 见高就拜见低就踩 [jian4 gao1 jiu4 bai4 jian5 di1 jiu4 cai3] {gin3 gou1 zau6 baai3 gin3 dai1 zau6 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs; traiter les gens différemment selon leur statut social/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
+見高拜見低踩 见高拜见低踩 [jian4 gao1 bai4 jian5 di1 cai3] {gin3 gou1 baai3 gin3 dai1 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs; traiter les gens différemment selon leur statut social/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
 見鬼 见鬼 [jian4 gui3] {gin3 gwai2} /mince! merde!/va te faire voir! va te faire foutre!/(lit.) voir un fantôme/
-????f 見財化水 见财化水 [jian4 cai2 hua4 shui3] {gin3 coi4 faa3 seoi2} /ne pas arriver à gagner une somme d'argent que l'on allait bientôt recevoir/(lit.) voir les richesses se transformer en eau/
+見財化水 见财化水 [jian4 cai2 hua4 shui3] {gin3 coi4 faa3 seoi2} /(expr. idiom.) rater sa chance de gagner de l'argent; perdre tout argent/(lit.) voir les richesses se transformer en eau/
 規模 规模 [gui1 mo2] {kwai1 mou4} /échelle; portée; étendue (d'une action)/
 規畫 规画 [gui1 hua4] {kwai1 waak6} /planifier/plan; projet/
-????f 親兄弟 亲兄弟 [qin1 xiong1 di4] {can1 hing1 dai6} /frère de sang (pas dans le sens figuré)/
+親兄弟 亲兄弟 [qin1 xiong1 di4] {can1 hing1 dai6} /frère de sang (sens propre); frère ou demi-frère biologique/
 親切 亲切 [qin1 qie4] {can1 cit3} /amical; cordial; gentil/
 親家奶奶 亲家奶奶 [qing4 jia5 nai3 nai5] {can3 gaa1 naai4 naai2} /belle-mère de son fils ou de sa fille/
 親家母 亲家母 [qing4 jia5 mu3] {can3 gaa1 mou5} /belle-mère de son fils ou de sa fille/
@@ -18119,15 +18120,15 @@
 親家公 亲家公 [qing4 jia5 gong1] {can3 gaa1 gung1} /beau-père de son fils ou de sa fille/
 親屬關係 亲属关系 [qin1 shu3 guan1 xi5] {can1 suk6 gwaan1 hai6} /lien de parenté/
 親愛的 亲爱的 [qin1 ai4 de5] {can1 oi3 dik1} /chéri, chérie/
-????f 親戚到 亲戚到 [qin1 qi1 dao4] {can1 cik1 dou3} /start menstruating; for the menstrual period to begin/
+親戚到 亲戚到 [qin1 qi1 dao4] {can1 cik1 dou3} /(euphémique) avoir ses règles; avoir ses menstruations/(lit.) les membres de la famille arrivent/
 親戚巾 亲戚巾 [qin1 qi1 jin1] {can1 cik1 gan1} /tampon hygiénique; serviette hygiénique/
-????c 親戚鬼鬼 亲戚鬼鬼 [qin1 qi1 gui3 gui3] {can1 cik1 gwai2 gwai2} /close Relatives/
+????f 親戚鬼鬼 亲戚鬼鬼 [qin1 qi1 gui3 gui3] {can1 cik1 gwai2 gwai2} /(expr.) les liens familiaux étroits/
 親手 亲手 [qin1 shou3] {can1 sau2} /faire soi-même/
 親朋戚友 亲朋戚友 [qin1 peng2 qi1 you3] {can1 pang4 cik1 jau5} /parents et amis/
-????f 親歷其境 亲历其境 [qin1 li4 qi2 jing4] {can1 lik6 kei4 ging2} /voir de ses propres yeux; expérimenter personnellement/
-????f 親生仔不如近身錢 亲生仔不如近身钱 [qin1 sheng1 zi3 bu4 ru2 jin4 shen1 qian2] {can1 saang1 zai2 bat1 jyu4 gan6 san1 cin4} /(expr. idiom.) économiser de l'argent pour soi-même est plus prudent que dépendre sur ses enfants/(lit.) enfant, mieux vaut de l'argent près de soi/
+親歷其境 亲历其境 [qin1 li4 qi2 jing4] {can1 lik6 kei4 ging2} /(expr.) voir de ses propres yeux; faire l'expérience personnelle/
+親生仔不如近身錢 亲生仔不如近身钱 [qin1 sheng1 zi3 bu4 ru2 jin4 shen1 qian2] {can1 saang1 zai2 bat1 jyu4 gan6 san1 cin4} /(expr. idiom.) économiser de l'argent pour soi-même est plus prudent que dépendre sur ses enfants/(lit.) enfant, mieux vaut de l'argent près de soi/
 親筆簽名 亲笔签名 [qin1 bi3 qian1 ming2] {can1 bat1 cim1 meng2} /signature/
-????f 親自出馬 亲自出马 [qin1 zi4 chu1 ma3] {can1 zi6 ceot1 maa5} /to attend to a matter personally/
+親自出馬 亲自出马 [qin1 zi4 chu1 ma3] {can1 zi6 ceot1 maa5} /(expr. idiom.) mettre la main à la pâte; participer soi-même à un travail/(lit.) monter à cheval soi-même/
 親身 亲身 [qin1 shen1] {can1 san1} /en personne; de première main/
 覺 觉 [jue2] {gaau3} /sieste/sommeil/
 覺意 觉意 [jue2 yi4] {gok3 ji3} /s'en apercevoir; se rendre compte/
@@ -18136,9 +18137,9 @@
 觀塘區 观塘区 [guan4 tang2 qu1] {gun1 tong4 keoi1} /district de Kwun Tong, district de Hong Kong/
 觀塘線 观塘线 [guan4 tang2 xian4] {gun1 tong4 sin3} /Kwun Tong Line, ligne du métro de Hong Kong/
 觀塘繞道 观塘绕道 [guan4 tang2 rao4 dao4] {gun1 tong4 jiu5 dou6} /Kwun Tong Bypass, autoroute surélevée de Hong Kong/
-????c 觀念更新 观念更新 [guan1 nian4 geng1 xin1] {gun1 nim6 gang1 san1} /To renew a Concept/
-????c 觀自在菩薩 观自在菩萨 [guan1 zi4 zai4 pu2 sa4] {gun1 zi6 zoi6 pou4 saat3} /Avalokitesvara Bodhisattva/
-????f 觀音兵 观音兵 [guan1 yin1 bing1] {gun1 jam1 bing1} /(péj.) quelqu'un de très intéressée par une femme et qui fait tout pour qu'elle lui accorde de l'attention, sans succès/(lit.) chevalier de la déesse de la pitié/
+????m 觀念更新 观念更新 [guan1 nian4 geng1 xin1] {gun1 nim6 gang1 san1} /reconsidérer un concept; revoir et réviser ses pensées/
+觀自在菩薩 观自在菩萨 [guan1 zi4 zai4 pu2 sa4] {gun1 zi6 zoi6 pou4 saat3} /bodhisattva Avalokiteśvara; bodhisattva Avalokiteshvara/
+????f 觀音兵 观音兵 [guan1 yin1 bing1] {gun1 jam1 bing1} /(péj.) quelqu'un qui qui s'intéresse à une femme et qui fait tout pour qu'elle lui accorde de l'attention, sans succès/(lit.) chevalier de la déesse de la pitié/
 觀音竹 观音竹 [guan1 yin1 zhu2] {gun1 jam1 zuk1} /(espèce de bambou) Phyllostachys aurea/
 觀點 观点 [guan1 dian3] {gun1 dim2} /point de vue; avis; opinion/
 角 角 [jiao3] {gok3} /coin/angle/corne/pièce de dix cents/
@@ -18146,45 +18147,45 @@
 角仔 角仔 [jiao3 zi3] {gok3 zai2} /yau gok; jau gok; dumpling frit à l'huile qui est consommée lors des fêtes du Nouvel an chinois/
 角度 角度 [jiao3 du4] {gok3 dou6} /angle/point de vue; angle/
 角落頭 角落头 [jiao3 lao4 tou5] {gok3 lok1 tau2} /coin/
-????f 角鋼 角钢 [jiao3 gang1] {gok3 gong3} /Angle bar/
+角鋼 角钢 [jiao3 gang1] {gok3 gong3} /cornière en fer/
 解 解 [jie3] {gaai2} /séparer/défaire/résoudre/libérer; émanciper/soulager (la douleur)/expliquer/comprendre/
 解夢 解梦 [jie3 meng4] {gaai2 mung6} /interpréter un rêve; pratiquer l'onéiromancie/
 解放 解放 [jie3 fang4] {gaai2 fong3} /libérer; émanciper/libération; émancipation/
-????f 解款 解款 [jie3 kuan3] {gaai3 fun2} /envoyer de l'argent sous escorte/
-????f 解款車 解款车 [jie3 kuan3 che1] {gaai3 fun2 ce1} /véhicule blindé de transport des objets de valeur/
+解款 解款 [jie3 kuan3] {gaai3 fun2} /envoyer de l'argent sous escorte/
+解款車 解款车 [jie3 kuan3 che1] {gaai3 fun2 ce1} /véhicule blindé de transport des objets de valeur/
 解決問題 解决问题 [jie3 jue2 wen4 ti2] {gaai2 kyut3 man6 tai4} /résoudre des problèmes/
-????f 解犯 解犯 [jie4 fan4] {gaai3 faan2} /To escort a prisoner under guard/
+解犯 解犯 [jie4 fan4] {gaai3 faan2} /escorter un prisonnier/
 解究 解究 [jie3 jiu1] {gaai2 gau3} /raison; explication/
 解纈 解缬 [jie3 xie2] {gaai2 lit3} /défaire un nœud/(fig.) résoudre un problème/
 解説 解说 [jie3 shuo1] {gaai2 syut3} /expliquer/
-????f 解送 解送 [jie4 song4] {gaai3 sung3} /To send under guard/
+解送 解送 [jie4 song4] {gaai3 sung3} /envoyer quelque chose sous escorte/
 觳觫 觳觫 [hu2 su4] {huk6 cuk1} /trembler de peur/
 觸目皆是 触目皆是 [chu4 mu4 jie1 shi4] {zuk1 muk6 gaai1 si6} /être partout; être très fréquent; qui peut être vu partout/
 言 言 [yan2] {jin4} /dialecte/langue/patois/parole/mot/
 言之成理 言之成理 [yan2 zhi1 cheng2 li3] {jin4 zi1 sing4 lei5} /(expr.) (de ses paroles) avoir du sens et être convaincant/
-????f 言之有據 言之有据 [yan2 zhi1 you3 ju4] {jin4 zi1 jau5 geoi3} /Well grounded; to speak on good grounds; arguments based on facts/
+言之有據 言之有据 [yan2 zhi1 you3 ju4] {jin4 zi1 jau5 geoi3} /(expr.) (de ses paroles) être raisonné; être logique; avoir du sens/
 言之有理 言之有理 [yan2 zhi1 you3 li3] {jin4 zi1 jau5 lei5} /(expr.) (de ses paroles) avoir du sens et être convaincant/
-????f 言之過早 言之过早 [yan2 zhi1 guo4 zao3] {jin4 zi1 gwo3 zou2} /trop tôt pour le dire; trop tôt pour en tirer des conclusions; trop tôt pour déterminer (les conséquences d'une action)/
-言之鑿鑿 言之凿凿 [yan2 zhi1 zao2 zao2] {jin4 zi1 zok6 zok6} /dire avec certitude/
-????f 言人人殊 言人人殊 [yan2 ren2 ren2 shu1] {jin4 jan4 jan4 syu4} /tout le monde raconte une histoire différente/
+言之過早 言之过早 [yan2 zhi1 guo4 zao3] {jin4 zi1 gwo3 zou2} /(expr.) trop tôt pour le dire; trop tôt pour en tirer des conclusions; trop tôt pour déterminer (les conséquences d'une action)/
+言之鑿鑿 言之凿凿 [yan2 zhi1 zao2 zao2] {jin4 zi1 zok6 zok6} /(expr.) dire avec certitude/
+言人人殊 言人人殊 [yan2 ren2 ren2 shu1] {jin4 jan4 jan4 syu4} /(expr.) tout le monde raconte une histoire différente/
 言和 言和 [yan2 he2] {jin4 wo4} /faire la paix/
 言喻 言喻 [yan2 yu4] {jin4 jyu6} /exprimer avec des mots/
-????f 言多必失 言多必失 [yan2 duo1 bi4 shi1] {jin4 do1 bit1 sat1} /(expr. idiom.) mieux vaut garder le silence que de parler et se faire du tort; il faut savoir quand se retenir de parler/(lit.) ceux qui ont beaucoup de paroles vont forcément faire une erreur/
-????f 言者無罪 言者无罪 [yan2 zhe3 wu2 zui4] {jin4 ze2 mou4 zeoi6} /Do not blame the man who speaks; (don't shoot the messenger; let the man speak his mind)/
+言多必失 言多必失 [yan2 duo1 bi4 shi1] {jin4 do1 bit1 sat1} /(expr. idiom.) mieux vaut garder le silence que de parler et se faire du tort; il faut savoir quand se retenir de parler/(lit.) ceux qui ont beaucoup de paroles vont forcément faire une erreur/
+言者無罪 言者无罪 [yan2 zhe3 wu2 zui4] {jin4 ze2 mou4 zeoi6} /(expr. idiom.) ce n’est pas en cassant le thermomètre qu’on fait tomber la fièvre/(lit.) la personne qui parle n'a pas brisé la loi/
 言行不一 言行不一 [yan2 xing2 bu4 yi1] {jin4 hang4 bat1 jat1} /(expr. idiom.) dire une chose et en faire une autre/(lit.) paroles et actions ne s'accordent pas/
 言語 言语 [yan2 yu5] {jin4 jyu5} /communication orale/
 言論 言论 [yan2 lun4] {jin4 leon6} /expression (ex. 言論自由|言论自由 liberté d'expression)/opinion; avis/
-????f 言路 言路 [yan2 lu4] {jin4 lou6} /channels through which criticisms and suggestions may be communicated to the leadership/
-????c 言重 言重 [yan2 zhong4] {jin4 zung6} /Too serious; to say something over seriously that embarrasses someone; to say something that is over flattering/
+????f 言路 言路 [yan2 lu4] {jin4 lou6} /les façons dont les suggestions and critiques arrivent aux supérieurs/(lit.) les routes des paroles/
+言重 言重 [yan2 zhong4] {jin4 zung6} /parler sérieusement/(d'une critique) être trop sévère; qui humilie quelqu'un/(d'un auditeur) être excessivement poli; être excessivement flatteur/
 訂 订 [ding4] {deng6} /conclure/réserver/s'abonner/acompte; avance/
 訂合同 订合同 [ding4 he2 tong2] {deng6 hap6 tung4} /signer un contrat; conclure un contrat/
-????f 訂座 订座 [ding4 zuo4] {deng6 zo6} /réservation (à un restaurant)/
+訂座 订座 [ding4 zuo4] {deng6 zo6} /réservation (à un restaurant)/
 訂裝 订装 [ding4 zhuang1] {deng1 zong1} /relier (des livres)/
 訂閲 订阅 [ding4 yue4] {deng6 jyut6} /abonnement/
 計上心來 计上心来 [ji4 shang4 xin1 lai2] {gai3 soeng5 sam1 loi4} /(expr.) une idée vient à l'esprit; une stratégie (ou truc, ou astuce) vient à l'esprit/
 計仔 计仔 [ji4 zi3] {gai2 zai2} /stratégie; astuce; truc; filon/
 計埋 计埋 [ji4 mai2] {gai3 maai4} /total; total général/
-????f 計帶 计带 [ji4 dai4] {gai3 daai3} /(péj.) être pointilleux; faire des histoires; se chamailler; se disputer/
+計帶 计带 [ji4 dai4] {gai3 daai3} /(péj.) être pointilleux; se chamailler/
 計我話 计我话 [ji4 wo3 hua4] {gai3 ngo5 waa6} /à mon avis/
 計數 计数 [ji4 shu4] {gai3 sou3} /calculer/calculation/
 計數機 计数机 [ji4 shu4 ji1] {gai3 sou3 gei1} /calculatrice/
@@ -18194,7 +18195,7 @@
 討 讨 [tao3] {tou2} /inviter/provoquer/demander/réprimer par la force/dénoncer; condamner/épouser une femme/discuter/étudier/supplier; implorer/
 討價 讨价 [tao3 jia4] {tou2 gaa3} /marchander; négocier un prix/
 討價還價 讨价还价 [tao3jia4huan2jia4] {tou2 gaa3 waan4 gaa3} /(expr.) marchander; négocier un prix/
-????f 訓導主任 训导主任 [xun4 dao3 zhu3 ren4] {fan3 dou6 zyu2 jam6} /doyen des étudiants (d'une école primaire ou secondaire)/
+訓導主任 训导主任 [xun4 dao3 zhu3 ren4] {fan3 dou6 zyu2 jam6} /doyen des étudiants (d'une école primaire ou secondaire)/
 訓練有素 训练有素 [xun4 lian4 you3 su4] {fan3 lin6 jau5 sou3} /bien formé/bien entraîné/
 訓覺 训觉 [xun4 jue2] {fan3 gaau3} /dormir; coucher/
 託付 托付 [tuo1 fu4] {tok3 fu6} /confier (un objet, une tâche, une personne) à (quelqu'un)/
@@ -18203,10 +18204,10 @@
 託管 托管 [tuo1 guan3] {tok3 gun2} /confier (un objet, une tâche, une personne) à (quelqu'un)/
 託運 托运 [tuo1 yun4] {tok3 wan6} /enregistrer (ses bagages)/
 託運行李 托运行李 [tuo1 yun4 xing2 li3] {tok3 wan6 hang4 lei5} /bagage enregistré/
-????f 記 记 [ji4] {gei3} /(suffixe ajouté au nom d'une personne proche)/(suffixe ajouté au nom d'un magasin ou d'un restaurant)/se souvenir; se rappeler/enregistrer; noter/
+記 记 [ji4] {gei3} /(suffixe ajouté au nom d'une personne proche)/(suffixe ajouté au nom d'un magasin ou d'un restaurant)/se souvenir; se rappeler/enregistrer; noter/
 記分員 记分员 [ji4 fen1 yuan2] {gei3 fan1 jyun4} /marqueur, marqueuse; personne qui compte les points/
-????f 記掛 记挂 [ji4 gua4] {gei3 gwaa3} /constantly thinking of; missing (spoken)/
-????f 記號 记号 [ji4 hao5] {gei3 hou6} /marque; signe; trace/
+記掛 记挂 [ji4 gua4] {gei3 gwaa3} /penser constamment à/manquer (à quelqu'un)/
+記號 记号 [ji4 hao5] {gei3 hou6} /marque; signe; trace/
 記認 记认 [ji4 ren4] {gei3 jing6} /signe distinctif; signe particulier; signe qui aide à identifier un objet ou personne/
 訛騙 讹骗 [e2 pian4] {ngo4 pin3} /tromper; duper; escroquer/
 設宴 设宴 [she4 yan4] {cit3 jin3} /organiser un banquet/
@@ -18215,14 +18216,14 @@
 許冠文 许冠文 [xu3 guan1 wen2] {heoi2 gun3 man4} /Michael Hui Koon Man, acteur hongkongais/
 許冠英 许冠英 [xu3 guan1 ying1] {heoi2 gun1 jing1} /Ricky Hui Koon-Ying, acteur et chanteur hongkongais/
 許志安 许志安 [xu3 zhi4 an1] {heoi2 zi3 on1} /Andy Hui Chi-On, chanteur et acteur hongkongais/
-????f 許留山 许留山 [xu3 liu2 shan1] {heoi2 lau4 saan1} /Hui Lau Shan; chaîne de restaurants de dessert hongkongais/
+許留山 许留山 [xu3 liu2 shan1] {heoi2 lau4 saan1} /Hui Lau Shan; chaîne de restaurants de dessert hongkongais/
 許鞍華 许鞍华 [xu3 an1 hua2] {heoi2 on1 waa4} /Ann Hui On-Wah, réalisatrice hongkongaise/
-????c 訴説 诉说 [su4 shuo1] {sou3 syut3} /To tell (sentimental?)/
+訴説 诉说 [su4 shuo1] {sou3 syut3} /dire quelque chose d'une manière sentimentale/
 訶子 诃子 [he1 zi3] {ho1 zi2} /(espèce de plantes) Terminalia chebula/
 診 诊 [zhen3] {can2} /diagnostiquer un maladie/examiner un patient/
 診症室 诊症室 [zhen3 zheng4 shi4] {can2 zing3 sat1} /salle d'examen médical; salle de consultation médicale/
-????f 診金 诊金 [zhen3 jin1] {can2 gam1} /honoraire du médecin; frais d'une consultation médicale/
-????f 註冊護士 注册护士 [zhu4 ce4 hu4 shi5] {zyu3 caak3 wu6 si6} /infirmier diplômé; infirmière diplômée; infirmier autorisé, infirmière autorisée; infirmier immatriculé, infirmière immatriculée/
+診金 诊金 [zhen3 jin1] {can2 gam1} /honoraire du médecin; frais d'une consultation médicale/
+註冊護士 注册护士 [zhu4 ce4 hu4 shi5] {zyu3 caak3 wu6 si6} /infirmier diplômé; infirmière diplômée; infirmier autorisé, infirmière autorisée; infirmier immatriculé, infirmière immatriculée/
 註明 注明 [zhu4 ming2] {zyu3 ming4} /indiquer clairement/
 註釋 注释 [zhu4 shi4] {zyu3 sik1} /annotation; apostille/
 註音 注音 [zhu4 yin1] {zyu3 jam1} /zhuyin; bopomofo; système pour la transcription du mandarin utilisée au Taïwan/
@@ -18236,50 +18237,50 @@
 詐傻扮懵 诈傻扮懵 [zha4 sha3 ban4 meng3] {zaa3 so4 baan6 mung2} /(expr.) feindre l'ignorance; faire l'innocent/(lit.) faire le fou et faire l'imbécile/
 詐呆詐吽 诈呆诈吽 [zha4 dai1 zha4 hong1] {zaa3 ngoi4 zaa3 ngau6} /faire l'imbécile; faire le naïf/
 詐唔知 诈唔知 [zha4 wu2 zhi1] {zaa3 m4 zi1} /feindre l'ignorance; faire semblant de ne pas savoir quelque chose/
-????f 詐嗲 诈嗲 [zha4 dia3] {zaa3 de2} /feigning coy / kittenish in order to get pampered from others/(to act like a spoiled child)/
+詐嗲 诈嗲 [zha4 dia3] {zaa3 de2} /(d'une femme) être coquin, fripon pour obtenir ce que l'on veut/ 
 詐型 诈型 [zha4 xing2] {zaa3 jing4} /se plaindre; maugréer; rouspéter/feindre; faire semblant/
-????f 詐嬌 诈娇 [zha4 jiao1] {zaa3 giu1} /feigning coy / kittenish in order to get pampered from others/
-????f 詐嬌弄嗲 诈娇弄嗲 [zha4 jiao1 nong4 dia3] {zaa3 giu1 lung6 de2} /To act like a spoiled child; to throw a tantrum; to act coquettishly/
+詐嬌 诈娇 [zha4 jiao1] {zaa3 giu1} /(d'une femme) être coquin, fripon pour obtenir ce que l'on veut/
+詐嬌弄嗲 诈娇弄嗲 [zha4 jiao1 nong4 dia3] {zaa3 giu1 lung6 de2} /(d'une femme) être coquin, fripon pour obtenir ce que l'on veut/
 詐懵 诈懵 [zha4 meng3] {zaa3 mung2} /faire l'imbécile; faire le con/
 詐戇 诈戆 [zha4 zhuang4] {zaa3 ngong6} /faire l'imbécile; faire le con/
-????f 詐癲扮傻 诈癫扮傻 [zha4 dian1 ban4 sha3] {zaa3 din1 baan6 so4} /(expr.) faire le fou; faire semblant d'être un forcené/
+詐癲扮傻 诈癫扮傻 [zha4 dian1 ban4 sha3] {zaa3 din1 baan6 so4} /(expr.) faire le fou/
 詐癲賣戇 诈癫卖戆 [zha4 dian1 mai4 zhuang4] {zaa3 din1 maai6 ngung6} /(expr. idiom.) faire l'imbécile; faire le con; feindre l'ignorance/(lit.) faire le fou, vendre sa stupidité/
 詐糊 诈糊 [zha4 hu2] {zaa3 wu4} /(fig.) déclarer prématurément sa victoire dans une partie de mah-jong/(lit.) faux congee/
 詐耳聾 诈耳聋 [zha4 er3 long2] {zaa3 ji5 lung4} /(expr. idiom.) prétendre ne pas entendre/(expr. idiom.) feindre l'ignorance; faire semblant de ne pas savoir quelque chose/(lit.) prétendre avoir les oreilles sourdes/
 詐聾扮啞 诈聋扮哑 [zha4 long2 ban4 ya3] {zaa3 lung4 baan6 aa2} /(expr. idiom.) feindre l'ignorance/(lit.) faire semblant d'être sourd-muet/
-詐詐諦諦 诈诈谛谛 [zha4 zha4 di4 di4] {zaa3 zaa3 dai3 dai3} /faire semblant; feindre/
+詐詐諦諦 诈诈谛谛 [zha4 zha4 di4 di4] {zaa3 zaa3 dai3 dai3} /faire semblant; feindre/(adverbe) en faisant semblant/
 詐諦 诈谛 [zha4 di4] {zaa3 dai3} /faire semblant; feindre/
 評價 评价 [ping2 jia4] {ping4 gaa3} /évaluer; estimer/évaluation; estimation/
 評判 评判 [ping2 pan4] {ping4 pun3} /juge; arbitre/
-????f 評劇 评剧 [ping2 ju4] {ping4 kek6} /Pingju, sorte d'opéra du nord de la Chine/
+評劇 评剧 [ping2 ju4] {ping4 kek6} /Pingju, opéra du nord de la Chine/
 評核 评核 [ping2 he2] {ping4 hat6} /évaluer; examiner; estimer/
-????f 評獎 评奖 [ping2 jiang3] {ping4 zoeng2} /décider à qui décerner les prix par discussion/
+評獎 评奖 [ping2 jiang3] {ping4 zoeng2} /décider à qui décerner les prix par discussion/
 評論員 评论员 [ping2 lun4 yuan2] {ping4 leon6 jyun4} /commentateur/
 評講 评讲 [ping2 jiang3] {ping4 gong2} /évaluer; critiquer/
 評選 评选 [ping2 xuan3] {ping4 syun2} /sélectionner par consensus/voter/
 詞曲 词曲 [ci2 qu3] {ci4 kuk1} /paroles et musique (d'une chanson)/
-????c 詞譜 词谱 [ci2 pu3] {ci4 pou2} /lyrics/
-????c 詞鋒 词锋 [ci2 feng1] {ci4 fung1} /style of writing / wordings/
-????c 詞韻 词韵 [ci2 yun4] {ci4 wan5} /rhyme of writing / words/
+詞譜 词谱 [ci2 pu3] {ci4 pou2} /collection de modèles pour les paroles de la poésie Ci/
+詞鋒 词锋 [ci2 feng1] {ci4 fung1} /(de l'écriture) pénétrant; incisif/
+詞韻 词韵 [ci2 yun4] {ci4 wan5} /rimes de la poésie Ci/
 詠嘆 咏叹 [yong3 tan4] {wing6 taan3} /chanter/scander/louer; faire l'éloge de/
 詢問 询问 [xun2 wen4] {seon1 man6} /s'informer; se renseigner; s'enquérir/
 詢問處 询问处 [xun2 wen4 chu4] {seon1 man6 cyu3} /bureau de renseignements/
 試 试 [shi4] {si3} /essayer; tenter/examen; test/entrevue; interview/
-????f 試吓 试吓 [shi4 xia4] {si3 haa5} /tente le coup! essaie-le!/
+試吓 试吓 [shi4 xia4] {si3 haa5} /tente le coup! essaie-le!/
 試味 试味 [shi4 wei4] {si3 mei6} /goûter; examiner la saveur de quelquec chose/
 試味道 试味道 [shi4 wei4 dao4] {si3 mei6 dou6} /goûter; examiner la saveur de quelque chose/
-????f 試問 试问 [shi4 wen4] {si3 man6} /nous voudrions vous demander... puis-je vous demander... (utilisé dans les questions rhétoriques)/
+試問 试问 [shi4 wen4] {si3 man6} /nous voudrions vous demander... puis-je vous demander... (utilisé dans les questions rhétoriques)/
 試試 试试 [shi4 shi5] {si2 si3 } /essayer; tenter/
 試身 试身 [shi4 shen1] {si3 san1} /essayer (un vêtement)/
 試身室 试身室 [shi4 shen1 shi4] {si3 san1 sat1} /cabine d'essayage/
 試過 试过 [shi4 guo4] {si3 gwo3} /avoir essayé; avoir tenté/
-????f 試食 试食 [shi4 shi2] {si3 sik6} /goûter un aliment; déguster un aliment (to sample food)/
+試食 试食 [shi4 shi2] {si3 sik6} /goûter un aliment; déguster un aliment/
 詩 诗 [shi1] {si1} /poème/poésie/
 詩史 诗史 [shi1 shi3] {si1 si2} /histoire de la poésie/
 詩史試時市事 诗史试时市事 [shi1 shi3 shi4 shi2 shi4 shi4] {si1 si2 si3 si4 si5 si6} /(expression dont les mots comprennent les six tons du cantonais)/
 詩史試時市事色錫食 诗史试时市事色锡食 [shi1 shi3 shi4 shi2 shi4 shi4 se4 xi1 shi2] {si1 si2 si3 si4 si5 si6 sik1 sek3 sik6} /(expression dont les mots comprennent les neuf tons du cantonais - six contours de ton et trois tons d'entrée)/
 詩歌 诗歌 [shi1 ge1] {si1 go1} /hymne/poésie/
-????f 詩餘 诗余 [shi1 yu2] {si1 jyu4} /short sentences in Chinese poetry (specific type of Chinese poetry)/
+詩餘 诗余 [shi1 yu2] {si1 jyu4} /paroles de la poésie Ci/
 詫異 诧异 [cha4 yi4] {caa3 ji6} /surpris; étonné; déconcerté/
 話 话 [hua4] {waa6} /parler/gronder; réprimander/penser (ex. qu'en pensez-vous?)/responsable/
 話 话 [hua4] {waa2} /parole/dialecte/langue/patois/
@@ -18288,9 +18289,9 @@
 話之佢 话之渠 [hua4 zhi1 qu2] {waa6 zi1 keoi5} /je me fiche de lui; je me fous de lui/
 話事 话事 [hua4 shi4] {waa6 si6} /être le responsable; être le chef/mener la danse; prendre les décisions/
 話事人 话事人 [hua4 shi4 ren2] {waa6 si6 jan4} /le responsable; le chef/
-????f 話事偈 话事偈 [hua4 shi4 ji4] {waa6 si6 gai2} /comme (quelqu'un) l'a dit... (in the wise words of X....)/
-????f 話事啤 话事啤 [hua4 shi4 pi2] {waa6 si6 pe1} /show hand poker/
-????c 話低 话低 [hua4 di1] {waa6 dai1} /indiquer; dire à l'avance/laisser un message/ordonner; donner des instructions/
+話事偈 话事偈 [hua4 shi4 ji4] {waa6 si6 gai2} /comme (quelqu'un) l'a dit.../
+話事啤 话事啤 [hua4 shi4 pi2] {waa6 si6 pe1} /Stud à cinq cartes; « five-card stud » en anglais/
+話低 话低 [hua4 di1] {waa6 dai1} /indiquer; dire à l'avance/laisser un message/ordonner; donner des instructions/
 話你知 话你知 [hua4 ni3 zhi1] {waa6 nei5 zi1} /te le dire; t'informer/
 話到尾 话到尾 [hua4 dao4 wei3] {waa6 dou3 mei5} /en fin de compte; au bout du compte; finalement; somme toute/
 話口未完 话口未完 [hua4 kou3 wei4 wan2] {waa6 hau2 mei6 jyun4} /(expr. idiom.) quand on parle du loup.../(lit.) même pas avoir fini de le dire/
@@ -18299,8 +18300,8 @@
 話咁易 话咁易 [hua4 gan1 yi4] {waa6 gam2 ji6} /(expr.) très facile/(expr.) facilement/(lit.) aussi facile que le dire/
 話唔埋 话唔埋 [hua4 wu2 mai2] {waa6 m4 maai4} /difficile de dire avec certitude; difficile de prévoir/possible; probable; pas certain; incertain/
 話唔定 话唔定 [hua4 wu2 ding4] {waa6 m4 ding6} /difficile de dire avec certitude; difficile de prévoir/possible; probable; pas certain; incertain/
-????f 話啫 话啫 [hua4 ze1] {waa6 ze1} /quoi qu'il en soit; malgré cela; pourtant/
-????f 話係咁話啫 話系咁話啫 [hua4 xi4 gan1 hua4 ze1] {waa6 hai6 gam2 waa6 ze1} /quoi qu'il en soit; malgré cela; pourtant/
+話啫 话啫 [hua4 ze1] {waa6 ze1} /quoi qu'il en soit; malgré cela; pourtant/
+話係咁話啫 話系咁話啫 [hua4 xi4 gan1 hua4 ze1] {waa6 hai6 gam2 waa6 ze1} /quoi qu'il en soit; malgré cela; pourtant/(lit.) c'est juste que l'on l'a dit/
 話定 话定 [hua4 ding4] {waa6 ding6} /se mettre d'accord/
 話實 话实 [hua4 shi2] {waa6 sat6} /confirmer/décider; régler; se mettre d'accord/
 話得埋 话得埋 [hua4 de5 mai2] {waa6 dak1 maai4} /prévisible; possible de dire avec certitude/
@@ -18313,35 +18314,35 @@
 話知你 话知你 [hua4 zhi1 ni3] {waa6 zi1 nei5} /je me fiche de toi; je me fous de toi/
 話知佢 话知渠 [hua4 zhi1 qu2] {waa6 zi1 keoi5} /je me fiche de lui; je me fous de lui/
 話聲 话声 [hua4 sheng1] {waa6 seng1} /informer quelqu'un; garder quelqu'un au courant; dire (quelque chose) à quelqu'un/
-????f 話落 话落 [hua4 luo4] {waa6 lok6} /indiquer; dire à l'avance/laisser un message/ordonner; donner des instructions/
+話落 话落 [hua4 luo4] {waa6 lok6} /indiquer; dire à l'avance/laisser un message/ordonner; donner des instructions/
 話都冇咁快 话都冇咁快 [hua4 dou1 mao3 gan1 kuai4] {waa6 dou1 mou5 gam3 faai3} /(expr. idiom.) aussitôt dit aussitôt fait/(lit.) le dire ne serait pas aussi vite/
 話頭醒尾 话头醒尾 [hua4 tou2 xing3 wei3] {waa6 tau4 sing2 mei5} /(expr. idiom.) ingénieux; astucieux; intelligent; perspicace; qui apprend vite/(lit.) tête qui parle et queue avec l'esprit clair/
 話齋 话斋 [hua4 zhai1] {waa6 zaai1} /comme (quelqu'un) l'a dit.../
 話中有話 话中有话 [hua4 zhong1 you3 hua4] {waa6 zung1 jau5 waa6} /(expr. idiom.) il y a un sens caché dans ces paroles/(lit.) il y a des paroles dans ces paroles/
 該煨 该煨 [gai1 wei1] {goi1 wui1} /quel dommage! quelle pitié!/
-????c 該釘就釘，該鐵就鐵 该钉就钉，该铁就铁 [gai1 ding1 jiu4 ding1 , gai1 tie3 jiu4 tie3] {goi1 deng1 zau6 deng1 goi1 tit3 zau6 tit3} /there should be no ambiguity/
+????c 該釘就釘，該鐵就鐵 该钉就钉，该铁就铁 [gai1 ding1 jiu4 ding1 , gai1 tie3 jiu4 tie3] {goi1 deng1 zau6 deng1 goi1 tit3 zau6 tit3} /(expr. idiom.) il ne doit pas avoir d'ambigüités/(lit.) utiliser les clous s'il faut clouer, utiliser du fer s'il faut du fer/
 詳悉 详悉 [xiang2 xi1] {coeng4 sik1} /savoir clairement; connaître clairement; connaître les détails/
 詳明 详明 [xiang2 ming2] {coeng4 ming4} /clair et détaillé/
 詹培忠 詹培忠 [zhan1 pei2 zhong1] {zim1 pui4 zung1} /Chim Pui-chung, homme d'affaires et homme politique hongkongais/
 詹瑞文 詹瑞文 [zhan1 rui4 wen2] {zim1 seoi6 man4} /Jim Chim Sui-man, comédien et acteur hongkongais/
 詹遜 詹逊 [zhan1 xun4] {zim1 seon3} /Sir Franklin Charles Gimson, ancien Premier Secrétaire de l’Administration de Hong Kong/
-????f 誠徵 诚征 [cheng2 zheng1] {sing4 zing1} /Wanted; looking for (usually to hire someone; to be a roommate, etc.)/
-????c 誌在 志在 [zhi4 zai4] {zi3 zoi6} /aim at; to care about; where one's aspirations lies/
-????f 認低威 认低威 [ren4 di1 wei1] {jing6 dai1 wai1} /s'avouer vaincu; reconnaître son infériorité/
+誠徵 诚征 [cheng2 zheng1] {sing4 zing1} /appel à (candidatures, contributions, etc.); demander (quelque chose) sincèrement/
+誌在 志在 [zhi4 zai4] {zi3 zoi6} /viser (un certain but); avoir une ambition de quelque chose/
+認低威 认低威 [ren4 di1 wei1] {jing6 dai1 wai1} /s'avouer vaincu; reconnaître son infériorité/
 認住 认住 [ren4 zhu4] {jing6 zyu6} /avoir l'impression; ressentir intuitivement/
 認叻 认叻 [ren4 le4] {jing6 lek1} /se vanter; fanfaronner; frimer; se péter les bretelles/
 認屎認屁 认屎认屁 [ren4 shi3 ren4 pi4] {jing6 si2 jing6 pei3} /(expr. idiom.) (fam.) être vantard/(lit.) prétendre chier, prétendre péter/
 認數 认数 [ren4 shu4] {jing6 sou3} /admettre sa responsabilité/
 認為 认为 [ren4 wei2] {jing6 wai4} /penser; considérer; estimer/
-????c 認細佬 认细佬 [ren4 xi4 lao3] {jing6 sai3 lou2} /(fig.) s'avouer vaincu; reconnaître son infériorité/
+認細佬 认细佬 [ren4 xi4 lao3] {jing6 sai3 lou2} /(fig.) s'avouer vaincu; reconnaître son infériorité/
 認股證 认股证 [ren4 gu3 zheng4] {jing6 gu2 zing3} /(finance) warrant; bon d'option/
-????c 認衰仔 认衰仔 [ren4 shuai1 zai3] {jing6 seoi1 zai2} /(fig.) s'avouer vaincu; reconnaître son infériorité/
-????f 認親認戚 认亲认戚 [ren4 qin1 ren4 qi1] {jing6 can1 jing6 cik1} /(péj.) pretending to be a close friend of one (spoken)/
+認衰仔 认衰仔 [ren4 shuai1 zai3] {jing6 seoi1 zai2} /(fig.) s'avouer vaincu; reconnaître son infériorité/
+認親認戚 认亲认戚 [ren4 qin1 ren4 qi1] {jing6 can1 jing6 cik1} /(péj.) faire semblant d'être un ami proche de quelqu'un/(lit.) faire semblant d'être un membre de la famille de quelqu'un/
 誓不罷休 誓不罢休 [shi4 bu4 ba4 xiu1] {sai6 bat1 baa6 jau1} /jurer de ne pas arrêter; jurer de ne pas abandonner/
-????c 誓神劈願 誓神劈愿 [shi4 shen2 pi1 yuan4] {sai6 san4 pek3 jyun6} /to swear a solemn oath/
+誓神劈願 誓神劈愿 [shi4 shen2 pi1 yuan4] {sai6 san4 pek3 jyun6} /(expr. idiom.) déterminé; résolu; inébranlable/(lit.) jurer aux dieux et faire vœu/
 誓願 誓愿 [shi4 yuan4] {sai6 jyun6} /prêter serment/
-????f 誓願當食生菜 誓愿当食生菜 [shi4 yuan4 dang1 shi2 sheng1 cai4] {sai6 jyun6 dong3 sik6 saang1 coi3} /(expr. idiom.) faire une promesse sans avoir l'intention de la tenir/(lit.) prêter serment comme si l'on mangeait de la laitue/
-????f 誘供 诱供 [you4 gong4] {jau5 gung1} /amener quelqu'un à faire des aveux/
+誓願當食生菜 誓愿当食生菜 [shi4 yuan4 dang1 shi2 sheng1 cai4] {sai6 jyun6 dong3 sik6 saang1 coi3} /(expr. idiom.) faire une promesse sans avoir l'intention de la tenir/(lit.) prêter serment comme si l'on mangeait de la laitue/
+誘供 诱供 [you4 gong4] {jau5 gung1} /amener quelqu'un à faire des aveux/
 誘姦 诱奸 [you4 jian1] {jau5 gaan1} /séduire; amener quelqu'un à avoir des rapports sexuels/
 語源學 语源学 [yu3 yuan2 xue2] {jyu5 jyun4 hok6} /étymologie/
 語言 语言 [yu3 yan2] {jyu5 jin4} /langue/linguistique/
@@ -18352,7 +18353,7 @@
 說大話 说大话 [shuo1 da4 hua4] {syut3 daai6 waa6} /mentir/exagérer; se vanter; fanfaronner/
 說白 说白 [shuo1 bai2] {syut3 baak6} /révéler; divulguer (quelque chose de caché)/dire les choses franchement; appeler un chat un chat/
 說穿 说穿 [shuo1 chuan1] {syut3 cyun1} /révéler; divulguer (quelque chose de caché)/dire les choses franchement; appeler un chat un chat/
-????c 說開 说开 [shuo1 kai1] {syut3 hoi1} /speaking of; when it comes to; talking about/
+說開 说开 [shuo1 kai1] {syut3 hoi1} /en parlant de/
 說話算話 说话算话 [shuo1 hua4 suan4 hua4] {syu3 waa6 syun3 waa6} /(expr. idiom.) tenir parole; tenir ses promesses/
 説不定 说不定 [shuo1 bu4 ding4] {syut3 bat1 ding6} /peut-être; possiblement/
 説明 说明 [shuo1 ming2] {syut3 ming4} /explication/expliquer/
@@ -18373,23 +18374,23 @@
 調查報告 调查报告 [diao4 cha2 bao4 gao4] {diu6 caa4 bou3 gou3} /rapport d'enquête/
 調校 调校 [tiao2 jiao4] {tiu4 gaau3} /ajuster; régler/
 調轉頭 调转头 [diao4 zhuan3 tou2] {diu6 zyun3 tau4} /se retourner; faire volte-face/sens dessus dessous; la tête en bas; à l'envers/(véhicule) faire demi-tour/(fig.) faire volte-face; changer d'avis/
-????f 調高 调高 [diao4 gao1] {tiu4 gou1} /monter (ex. le thermostat)/(adjust higher)/
+調高 调高 [diao4 gao1] {tiu4 gou1} /monter (ex. le thermostat); ajuster quelque chose pour qu'il soit plus haut/
 諂上欺下 谄上欺下 [chan3 shang4 qi1 xia4] {cim2 soeng6 hei1 haa6} /(expr.) flatter ses supérieurs et mépriser ses inférieurs/
-????f 諂笑 谄笑 [chan3 xiao4] {cim2 siu3} /to smile obsequiously; fawning smile/
+????f 諂笑 谄笑 [chan3 xiao4] {cim2 siu3} /sourire de manière servile/
 諂諛 谄谀 [chan3 yu2] {cim2 jyu4} /lécher les bottes; flatter servilement/
-????f 談判專家 谈判专家 [tan2 pan4 zhuan1 jia1] {taam4 pun3 zyun1 gaa1} /Negotiator (negotiation expert; person who helps police or amy negotiate)/
+談判專家 谈判专家 [tan2 pan4 zhuan1 jia1] {taam4 pun3 zyun1 gaa1} /négociateur/
 談妥 谈妥 [tan2 tuo3] {taam4 to5} /parvenir à un accord/
 談笑 谈笑 [tan2 xiao4] {taam4 siu3} /parler et rire/
 談鋒 谈锋 [tan2 feng1] {taam4 fung1} /éloquence/
 請 请 [qing3] {ceng2} /embaucher/inviter/veuillez... s'il vous plaît/demander; faire une demande/
 請命 请命 [qing3 ming4] {cing2 ming6} /plaider en faveur de quelqu'un/
 請客 请客 [qing3 ke4] {ceng2 haak3} /inviter (quelqu'un) à dîner/payer le repas de quelqu'un d'autre/c'est ma tournée/
-????f 請槍 请枪 [qing3 qiang1] {ceng2 coeng1} /hiring someone to handle one's own duty or work; hiring someone to do an exam on one's behalf/
+請槍 请枪 [qing3 qiang1] {ceng2 coeng1} /(fig.) engager quelqu'un à passer un examen à sa place/(lit.) engager un fusil/
 請求 请求 [qing3 qiu2] {cing2 kau4} /demander; faire une demande/supplier; implorer/
-????f 請鎗 请鎗 [qing3 cheng1] {cing2 coeng1} /paying someone to inpersonate or disguise as one (slang)/
-????f 請飲 请饮 [qing3 yin3] {ceng2 jam2} /inviter quelqu'un à un banquet de mariage/inviter quelqu'un à un banquet formel/(lit.) inviter (quelqu'un) à boire/
+請鎗 请鎗 [qing3 cheng1] {cing2 coeng1} /(fig.) engager quelqu'un à passer un examen à sa place/(lit.) engager un fusil/
+請飲 请饮 [qing3 yin3] {ceng2 jam2} /inviter quelqu'un à un banquet de mariage/inviter quelqu'un à un banquet formel/(lit.) inviter (quelqu'un) à boire/
 請飲咖啡 请饮咖啡 [qing3 yin3 ka1 fei1] {ceng2 jam2 gaa3 fe1} /inviter (quelqu'un) pour un café/se faire interroger par l'ICAC (commission indépendante anticorruption de Hong Kong)/
-????f 論功行賞 论功行赏 [lun4 gong1 xing2 shang3] {leon6 gung1 hang4 soeng2} /récompenser selon son niveau de contribution/
+論功行賞 论功行赏 [lun4 gong1 xing2 shang3] {leon6 gung1 hang4 soeng2} /(expr.) récompenser selon son niveau de contribution/
 論盡 论尽 [lun4 jin4] {leon6 zeon6} /maladroit/négligent/avoir la tête en l'air/avoir des ennuis/
 論著 论著 [lun4 zhu4] {leon6 zyu3} /traité; écrit académique; livre/
 論處 论处 [lun4 chu3] {leon6 cyu2} /punir; châtier/
@@ -18397,24 +18398,24 @@
 諗 谂 [shen3] {sam2} /penser/
 諗住 谂住 [shen3 zhu4] {nam2 zyu6} /prévoir; avoir l'intention de/être en train de penser/
 諗唔到 谂唔到 [shen3 wu2 dao4] {nam2 m4 dou2} /ne pas avoir prévu/imprévu; inattendu/ne pas pouvoir en penser/ne pas réussir à trouver une solution/
-????f 諗唔過 谂唔过 [shen3 wu2 guo4] {nam2 m4 gwo3} /ne pas mériter d'être considéré/
+諗唔過 谂唔过 [shen3 wu2 guo4] {nam2 m4 gwo3} /ne pas mériter d'être considéré/
 諗嚟度去 谂嚟度去 [shen3 li2 du4 qu4] {nam2 lei4 dok6 heoi3} /(expr.) contempler; réfléchir mûrement; examiner attentivement/
-????f 諗得過 谂得过 [shen3 de2 guo4] {nam2 dak1 gwo3} /mérite d'être considérer; à considérer/
+諗得過 谂得过 [shen3 de2 guo4] {nam2 dak1 gwo3} /mérite d'être considérer; à considérer/
 諗掂 谂掂 [shen3 dian1] {nam2 dim6} /penser/trouver une solution/contempler; réfléchir soigneusement; réfléchir mûrement/
 諗法 谂法 [shen3 fa3] {nam2 faat3} /pensée; idée/façon de penser/
-????c 諗爛心肝 谂烂心肝 [shen3 lan4 xin1 gan1] {nam2 laan6 sam1 gon1} /to turn over the matter in one's head; to consider seriously about something; over-thinking/
-????f 諗真啲 谂真啲 [shen3 zhen1 di1] {nam2 zan1 di1} /(fig.) contempler; réfléchir soigneusement; réfléchir mûrement/(fig.) réfléchis-y à deux fois! pensez-y soigneusement!/(lit.) réfléchir pour de vrai/
-????f 諗縮數 谂缩数 [shen3 suo1 shu4] {nam2 suk1 sou3} /(péj.) trouver des astuces pour économiser ses forces et son argent/(péj.) agir de manière égoïste/
+諗爛心肝 谂烂心肝 [shen3 lan4 xin1 gan1] {nam2 laan6 sam1 gon1} /(expr. idiom.) suranalyser; trop réfléchir à quelque chose/(lit.) penser à briser le cœur/
+諗真啲 谂真啲 [shen3 zhen1 di1] {nam2 zan1 di1} /(fig.) contempler; réfléchir soigneusement; réfléchir mûrement/(fig.) réfléchis-y à deux fois! pensez-y soigneusement!/(lit.) réfléchir pour de vrai/
+諗縮數 谂缩数 [shen3 suo1 shu4] {nam2 suk1 sou3} /(péj.) trouver des astuces pour économiser ses forces et son argent/(péj.) agir de manière égoïste/
 諗翻 谂翻 [shen3 fan1] {nam2 faan1} /repenser; se rappeler; se souvenir/
 諗翻轉頭 谂翻转头 [shen3 fan1 zhuan3 tou2] {nam2 faan1 zyun3 tau4} /repenser; se rappeler; se souvenir/
 諗落 谂落 [shen3 luo4] {nam2 lok6} /après mûre réflexion; après un examen attentif; tout bien réfléchi/
 諗計 谂计 [shen3 ji4] {nam2 gai3} /trouver une solution; trouver un plan/
 諗通 谂通 [shen3 tong1] {nam2 tung1} /contempler; réfléchir soigneusement; réfléchir mûrement/
-????c 諗錯隔籬 谂错隔篱 [shen3 cuo4 ge2 li2] {nam2 co3 gaak3 lei4} /To think in the wrong way (to be wrong?)/
-????f 諗頭 谂头 [shen3 tou2] {nam2 tau4} /idée; pensée/solution/plan/ingénieux; inventif; débrouillard/qui vaut la peine d'être considéré/
-????f 𧨾鬼食豆腐 𧨾鬼食豆腐 [shan2 gui3 shi2 dou4 fu] {tam3 gwai2 sik6 dau6 fu6} /attempt to deceive somebody into a trap that is very easy to see through/(lit.) tenter de faire manger du tofu au fantôme/
+諗錯隔籬 谂错隔篱 [shen3 cuo4 ge2 li2] {nam2 co3 gaak3 lei4} /(expr. idiom.) se tromper; se méprendre sur quelque chose/(lit.) se tromper de celui d'à côté/
+諗頭 谂头 [shen3 tou2] {nam2 tau4} /idée; pensée/solution/plan/ingénieux; inventif; débrouillard/qui vaut la peine d'être considéré/
+????f 𧨾鬼食豆腐 𧨾鬼食豆腐 [shan2 gui3 shi2 dou4 fu] {tam3 gwai2 sik6 dau6 fu6} /(expr. idiom.) tendre un piège à quelqu'un qui est très facile d'éviter/(lit.) tenter de faire manger du tofu au fantôme/
 諢名 诨名 [hun4 ming2] {wan6 ming4} /surnom; sobriquet/
-????c 諦 谛 [di4] {dai3} /sarcasm/
+諦 谛 [di4] {dai3} /se moquer de/
 諫阻 谏阻 [jian4 zu3] {gaan3 zo2} /dissuader/
 諱言 讳言 [hui4 yan2] {wai5 jin4} /ne pas oser de dire la vérité/
 諷刺 讽刺 [feng3 ci4] {fung3 ci3} /satiriser/se moquer/ironie/sarcasme/
@@ -18422,21 +18423,21 @@
 諸事丁 诸事丁 [zhu1 shi4 ding1] {zyu1 si6 ding1} /(péj.) fouineur, fouineuse/
 諸事八卦 诸事八卦 [zhu1 shi4 ba1 gua4] {zyu1 si6 baat3 gwaa3} /(expr. idiom.) fouineur; indiscret; qui se mêle à des affaires qui ne les concerne pas/
 諸事理 诸事理 [zhu1 shi4 li3] {zyu1 si6 lei5} /(péj.) fouineur, fouineuse/
-????c 諸多事幹 诸多事干 [zhu1 duo1 shi4 gan4] {zyu1 do1 si6 gon3} /fouineur; indiscret; qui se mêle à des affaires qui ne les concerne pas/
+諸多事幹 诸多事干 [zhu1 duo1 shi4 gan4] {zyu1 do1 si6 gon3} /(expr. idiom.) fouineur; indiscret; qui se mêle à des affaires qui ne les concerne pas/(expr. idiom.) beaucoup de choses qui ne servent à rien/
 謀 谋 [mou2] {mau4} /stratégie; plan/rechercher; chercher/planifier/
 謀人寺 谋人寺 [mou2 ren2 si4] {mau4 jan4 zi6} /magasin qui vend ses marchandises à un prix excessif/
-????f 謁見 谒见 [ye4 jian4] {jit3 gin3} /demander une audience avec un supérieur/
-????c 謄清 誊清 [teng2 qing1] {tang4 cing1} /A fair copy/
+謁見 谒见 [ye4 jian4] {jit3 gin3} /demander une audience avec un supérieur/
+謄清 誊清 [teng2 qing1] {tang4 cing1} /faire un copie au propre; réviser un brouillon jusqu'à ce qu'il n'y ait plus de fautes/
 謗議 谤议 [bang4 yi4] {pong3 ji5} /calomnier; diffamer/
 謗讟 谤讟 [bang4 du2] {pong3 duk6} /calomnier; diffamer/
 謙 谦 [qian1] {him1} /humble/
 謙厚 谦厚 [qian1 hou4] {him1 hau5} /humble/
 謙虛 谦虚 [qian1 xu1] {him1 heoi1} /humble/
-????f 謙謙君子 谦谦君子 [qian1 qian1 jun1 zi3] {him1 him1 gwan1 zi2} /A modest, self-disciplined gentleman/
+謙謙君子 谦谦君子 [qian1 qian1 jun1 zi3] {him1 him1 gwan1 zi2} /gentilhomme humble/
 講 讲 [jiang3] {gong2} /dire; parler/raconter/
 講一套做一套 讲一套做一套 [jiang3 yi1 tao4 zuo4 yi1 tao4] {gong2 jat1 tou3 zou6 jat1 tou3} /(expr. idiom.) dire une chose et en faire une autre/(lit.) dire une collection; faire une collection/
 講三講四 讲三讲四 [jiang3 san1 jiang3 si4] {gong2 saam1 gong2 sei3} /commérer; cancaner; faire des commérages/
-????c 講人事 讲人事 [jiang3 ren2 shi4] {gong2 jan4 si2} /to be particular about one's connections; it's all about contacts / relationships / networking/
+講人事 讲人事 [jiang3 ren2 shi4] {gong2 jan4 si2} /(fig.) utiliser son réseau pour résoudre un problème; utiliser ses contacts pour résoudre un problème/(lit.) parler des affaires des gens/
 講假 讲假 [jiang3 jia3] {gong2 gaa2} /mentir/
 講到尾 讲到尾 [jiang3 dao4 wei3] {gong2 dou3 mei5} /somme toute; tout compte fait; dans l'ensemble/
 講到話 讲到话 [jiang3 dao4 hua4] {gong2 dou3 waa6} /en ce qui concerne/
@@ -18451,18 +18452,18 @@
 講大話 讲大话 [jiang3 da4 hua4] {gong2 daai6 waa6} /mentir/
 講實 讲实 [jiang3 shi2] {gong2 sat6} /confirmer/
 講就易，做就難 讲就易，做就难 [jiang3 jiu4 yi4 , zuo4 jiu4 nan2] {gong2 zau6 ji6 zou6 zau6 naan4} /(expr. idiom.) plus vite dit que fait/(lit.) le dire est facile, le faire est difficile/
-????c 講得出就講 讲得出就讲 [jiang3 de2 chu1 jiu4 jiang3] {gong2 dak1 ceot1 zau6 gong2} /speak carelessly/
+????m 講得出就講 讲得出就讲 [jiang3 de2 chu1 jiu4 jiang3] {gong2 dak1 ceot1 zau6 gong2} /(expr. idiom.) si on peut le dire, on peut le faire/
 講得口響 讲得口响 [jiang3 de5 kou3 xiang3] {gong2 dak1 hau2 hoeng2} /(expr. idiom.) dire ce que l'on veut entendre; faire de promesses vides/(lit.) parler de manière que l'on puisse entendre/
-????c 講心啫 讲心啫 [jiang3 xin1 ze1] {gong2 sam1 ze1} /to treat a person with sincerity; be loyal in friendship; to carry one's heart upon one's sleeve; to confide in someone/
-????f 講心嗰句 讲心嗰句 [jiang3 xin1 g5? ju4] {gong2 sam1 go2 geoi3} /pour être honnête/
+????c 講心啫 讲心啫 [jiang3 xin1 ze1] {gong2 sam1 ze1} /(fig.) être un ami loyal/(fig.) se confier à quelqu'un/(lit.) parler du cœur/
+講心嗰句 讲心嗰句 [jiang3 xin1 g5? ju4] {gong2 sam1 go2 geoi3} /pour être honnête/
 講情 讲情 [jiang3 qing2] {gong2 cing4} /intercéder; solliciter pour quelqu'un; plaider en faveur de quelqu'un/
-????c 講手 讲手 [jiang3 shou3] {gong2 sau2} /martial art contest; sparring (is this just a fight or a specific martial arts thing?)/
+講手 讲手 [jiang3 shou3] {gong2 sau2} /(arts martiaux) se battre/
 講打講殺 讲打讲杀 [jiang3 da3 jiang3 sha1] {gong2 daa2 gong2 saat3} /(expr. idiom.) recourir à la violence; en venir aux mains; commencer une bagarre/(lit.) parler de frapper et de tuer/
 講故 讲故 [jiang3 gu4] {gong2 gu3} /raconter des histoires; conter/
 講故仔 讲故仔 [jiang3 gu4 zi3] {gong2 gu3 zai2} /raconter des histoires; conter/
 講數 讲数 [jiang3 shu4] {gong2 sou3} /négocier/marchander; négocier les prix/
 講數口 讲数口 [jiang3 shu4 kou3] {gong2 sou3 hau2} /marchander; négocier des prix/
-????c 講明就陳顯南 讲明就陈显南 [jiang3 ming2 jiu4 chen2 xian3 nan2] {gong2 ming4 zau6 can4 hin2 naam4} /One will naturally understand without having to explain all the details/
+????c 講明就陳顯南 讲明就陈显南 [jiang3 ming2 jiu4 chen2 xian3 nan2] {gong2 ming4 zau6 can4 hin2 naam4} /(expr. idiom.) on peut comprendre sans avoir besoin de dire tous les détails/
 講是非 讲是非 [jiang3 shi4 fei1] {gong2 si6 fei1} /commérer; cancaner; faire des commérages/
 講書 讲书 [jiang3 shu1] {gong2 syu1} /enseigner/
 講法 讲法 [jiang3 fa5] {gong2 faat3} /façon de dire quelque chose; formulation de mots; choix de mots/
@@ -18472,10 +18473,10 @@
 講真 讲真 [jiang3 zhen1] {gong2 zan1} /dire la vérité/à vrai dire... pour dire la vérité..../
 講真嗰句 讲真嗰句 [jiang3 zhen1 ge4 ju4] {gong2 zan1 go2 geoi3} /à vrai dire... pour dire la vérité.../
 講笑 讲笑 [jiang3 xiao4] {gong2 siu3} /plaisanter; blaguer/
-????f 講笑搵第樣 讲笑揾第样 [jiang3 xiao4 wen3 di4 yang4] {gong2 siu3 wan2 dai6 joeng2} /(expr. idiom.) il n'y a pas de quoi rire; ce n'est pas à prendre à la légère/(lit.) trouvez autre matière à plaisanter/
+講笑搵第樣 讲笑揾第样 [jiang3 xiao4 wen3 di4 yang4] {gong2 siu3 wan2 dai6 joeng2} /(expr. idiom.) il n'y a pas de quoi rire; ce n'est pas à prendre à la légère/(lit.) trouvez autre matière à plaisanter/
 講粗口 讲粗口 [jiang3 cu1 kou3] {gong2 cou1 hau2} /jurer; dire des gros mots; proférer des grossièretés/
 講耶穌 讲耶稣 [jiang3 ye1 su1] {gong2 je4 sou1} /(fig.) faire la morale/prêcher/(lit.) parler de Jésus/
-????f 講話有骨 讲话有骨 [jiang3 hua4 you3 gu3] {gong2 waa6 jau5 gwat1} /(expr. idiom.) il y a un sens caché dans ces paroles; c'est un compliment traître (backhanded compliment)/(lit.) ces paroles ont des os/
+講話有骨 讲话有骨 [jiang3 hua4 you3 gu3] {gong2 waa6 jau5 gwat1} /(expr. idiom.) il y a un sens caché dans ces paroles; c'est un compliment à double tranchant/(lit.) ces paroles ont des os/
 講說話 讲说话 [jiang3 shuo1 hua4] {gong2 syut3 waa6} /parler; dire/
 講起上嚟 讲起上嚟 [jiang3 qi3 shang4 li2] {gong2 hei2 soeng5 lei4} /d'ailleurs; au fait; à propos/
 講起又講 讲起又讲 [jiang3 qi3 you4 jiang3] {gong2 hei2 jau6 gong2} /d'ailleurs; au fait; à propos/
@@ -18483,19 +18484,19 @@
 講道理 讲道理 [jiang3 dao4 li3] {gong2 dou6 lei5} /être raisonnable/(lit.) parler avec raison/
 講開又講 讲开又讲 [jiang3 kai1 you4 jiang3] {gong2 hoi1 jau6 gong2} /d'ailleurs; au fait; à propos/
 講電話 讲电话 [jiang3 dian4 hua4] {gong2 din6 waa2} /parler au téléphone/
-????f 講飲講食 讲饮讲食 [jiang3 yin3 jiang3 shi2] {gong2 jam2 gong2 sik6} /parler de nourriture et de boisson/
+講飲講食 讲饮讲食 [jiang3 yin3 jiang3 shi2] {gong2 jam2 gong2 sik6} /parler de nourriture et de boisson/
 謝天華 谢天华 [xie4 tian1 hua2] {ze6 tin1 waa4} /Michael Tse Tin Wah, acteur et chanteur hongkongais/
 謝拉特 谢拉特 [Xie4 la1 te4] {ze6 laai1 dak6} /Steven George Gerrard, footballeur international anglais/
-????f 謝灶 谢灶 [xie4 zao4] {ze6 zou3} /To express thanks for the god of kitchen/(also a holiday)/
+謝灶 谢灶 [xie4 zao4] {ze6 zou3} /(fête du dernier mois du calendrier chinois où les familles remercient le Zaowangye ou Dieu du fourneau)/
 謝爾曼質數 谢尔曼质数 [xie4 er3 man4 zhi4 shu4] {ze6 ji5 maan6 zat1 sou3} /(mathématiques) nombre premier de Sophie Germain/
-????c 謝皮 谢皮 [xie4 pi2] {ze6 pei4} /épuisé; crevé; fatigué/mort/misérable; malheureux/
+謝皮 谢皮 [xie4 pi2] {ze6 pei4} /(fig.) épuisé; crevé; fatigué/(fig.) mort/(fig.) misérable; malheureux/(lit.) avoir la peau qui s'est fanée/
 謝賢 谢贤 [xie4 xian2] {ze6 jin4} /Patrick Tse Yin, acteur, producteur, scénariste et réalisateur hongkongais/
-????f 謠言止於智者 谣言止于智者 [yao2 yan2 zhi3 yu2 zhi4 zhe3] {jiu4 jin4 zi2 jyu1 zi3 ze2} /(expr.) un homme intelligent ne croit pas aux rumeurs/
+謠言止於智者 谣言止于智者 [yao2 yan2 zhi3 yu2 zhi4 zhe3] {jiu4 jin4 zi2 jyu1 zi3 ze2} /(expr.) un personne intelligente ne croit pas aux rumeurs/(lit.) quand les rumeurs arrivent à une personne sage, elles s'arrêtent/
 謦欬 謦欬 [qing3 kai4] {hing3 kat1} /(litt.) tousser/(litt.) bavarder/
 謹小慎微 谨小慎微 [jin3 xiao3 shen4 wei1] {gan2 siu2 san6 mei4} /(expr.) pointilleux; minutieux/(expr.) trop prudent/
-????f 譁眾取寵 哗众取宠 [hua2 zhong4 qu3 chong3] {waa1 zung3 ceoi2 cung2} /plaire aux foules en faisant des bêtises/
+譁眾取寵 哗众取宠 [hua2 zhong4 qu3 chong3] {waa1 zung3 ceoi2 cung2} /(expr.) plaire aux foules en faisant des bêtises/
 證 证 [zheng4] {zing3} /certification; documentation/certificat; document; permis/preuve/prouver/vérifier/confirmer/
-????c 證供 证供 [zheng4 gong1] {zing3 gung1} /Evidence/
+證供 证供 [zheng4 gong1] {zing3 gung1} /(droit) preuve; témoignage/
 譏嘲 讥嘲 [ji1 chao2] {gei1 zaau1} /se moquer de; caricaturer; persifler; tourner en ridicule/
 譖氣 谮气 [zen4 qi4] {cam3 hei3} /prolixe; verbeux; loquace/
 ????c 譖趙 谮赵 [zen4 zhao4] {cam3 ziu6} /Long-winded; to describe someone who nags a lot/
