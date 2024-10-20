@@ -4687,6 +4687,7 @@
 ????c 嘥燈賣油 嘥灯卖油 [sai1 deng1 mai4 you2] {saai1 dang1 maai6 jau4} /(expr. idiom.) travailler fort pour rien/(lit.) gaspiller sa lumière pour vendre de l'huile/
 嘥聲壞氣 嘥声坏气 [sai1 sheng1 huai4 qi4] {saai1 sing1 waai6 hei3} /(expr.) perte de temps; peine perdue/
 嘥錢 嘥钱 [sai1 qian2] {saai1 cin2} /être dépensier; perdre de l'argent; gaspiller de l'argent/
+嘥銀時 嘥銀時 [sai1 yin2 shi2] {saai1 ngan4 si4} /(péj.) sciences comme sujet d'études à l'université/(lit.) perdre de l'argent et du temps/
 ????m 噓唏 嘘唏 [xu1 xi1] {heoi1 hei1} /soupirer; sangloter/
 𠼮求 𠼮求 [ai3 qiu2] {ngai1 kau4} /supplier/
 嘟咭 嘟咭 [du1 ji1] {dut1 kaat1} /payer avec une carte bancaire ou carte de crédit, particulièrement un paiement sans contact/(orig.) onomatopée pour le bip d'une machine de paiement + l'anglais « card » (« carte »)/
@@ -11093,7 +11094,8 @@
 架妹 架妹 [jia4 mei4] {gaa4 mui1} /(péj.) une Japonaise/
 架子 架子 [jia4 zi5] {gaa2 zi2} /insolence; prétention; arrogance/
 架撐 架撑 [jia4 cheng1] {gaa2 caang1} /outil/
-????f 架樑 架梁 [jia4 liang2] {gaa3 loeng2} /a person who mediates in a dispute or an argument/
+架樑 架梁 [jia4 liang2] {gaa3 loeng2} /médiateur/
+架兩 架两 [jia4 liang3] {gaa3 loeng2} /médiateur/
 架步 架步 [jia4 bu4] {gaa3 bou6} /maison de jeu souterraine/maison close illégale/
 架生 架生 [jia4 sheng1] {gaa2 caang1} /outil/
 架罉 架罉 [jia4 cang1] {gaa2 caang1} /outil/
@@ -23330,6 +23332,7 @@
 古惑女 古惑女 [gu3 huo4 nu:3] {gu2 waak6 neoi2} /(fam.) membre d'un gang de sexe féminin/
 古肅 古肃 [gu3 su4] {gu2 suk1} /conservateur; vieux jeu; qui a des idées démodées/habituellement silencieux; taciturne; réticent/
 古蠱仔 古蛊仔 [gu3 huo4 zi3] {gu2 waak6 zai2} /(fam.) membre d'un gang de sexe masculin/
+古語有云 古语有云 [gu3 yu3 you3 yun2] {gu2 jyu5 jau5 wan4} /(expr. idiom.) comme dit le proverbe/
 只需要 只需要 [zhi3 xu1 yao4] {zi2 seoi1 jiu3} /a seulement besoin de/
 ????f 叫人 叫人 [jiao4 ren2] {giu3 jan4} /saluer quelqu'un en utilisant les appellations appropriées (note : se dit habituellement des personnes plus jeunes qui accueillent un membre de la famille ou un invité en utilisant une appellation qui indique un certain niveau de respect)/dire à quelqu'un (de faire quelque chose)/
 叭叭聲 叭叭声 [ba1 ba1 sheng1] {baa4 baa2 seng1} /(expr.) précipitamment; en toute hâte/
@@ -25688,6 +25691,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 過火位 过火位 [guo4 huo3 wei4] {gwo3 fo2 wai2} /(fig.) aller trop loin; aller au-delà du raisonnable/
 過面 过面 [guo4 mian4] {gwo3 min2} /(fig.) passer d'une triade à une autre/
 過癮 过瘾 [guo4 yin3] {gwo3 jan5} /(fam.) (activité) amusant/(fam.) (activité) agréable/(fam.) (plus généralement) (activité, film, jeu, chanson, etc.) bon/
+過一棟 过一栋 [guo4 yi1 dong4] {gwo3 jat1 dung6} /(fig.) monter un coup contre quelqu'un; monter un bateau à quelqu'un/(orig.) terme du jeu de mah-jong/
 還拖 还拖 [hai2 tuo1] {waan4 to1} /se défendre; faire une contre-attaque/
 還要 还要 [hai2 yao4] {waan4 jiu3} /vouloir encore plus/toujours avoir besoin de (faire quelque chose, d'avoir quelque chose)/
 ????c 邊個阿媽生你㗎 边个阿妈生你㗎 [bian1 ge4 a1 ma1 sheng1 ni3 jia4] {bin1 go3 aa3 maa1 sang1 nei5 gaa3} /(expr. idiom.) (inj.) pour qui tu te prends?/(lit.) quelle mère t'a donné naissance?/
