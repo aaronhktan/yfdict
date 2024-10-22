@@ -29,7 +29,7 @@
 一事 一事 [yi1 shi4] {jat1 si6} /affaire; sujet/
 一二 一二 [yi1 er4] {jat1 ji6} /un ou deux/un peu/quelques-uns/un par un/
 一些些 一些些 [yix1 xie1 xie1] {jat1 se1 se1} /un petit peu/
-????f 一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /(expr. idiom.) chacun doit faire face aux conséquences de ses actions; il faut assumer les conséquences de ses actes/
+一人做事一人當 一人做事一人当 [yi1 ren2 zuo4 shi4 yi1 ren2 dang1] {jat1 jan4 zou6 si6 jat1 jan4 dong1} /(expr. idiom.) chacun doit faire face aux conséquences de ses actions; il faut assumer les conséquences de ses actes/
 一人計短，二人計長 一人计短，二人计长 [yi1 ren2 ji4 duan3 , er4 ren2 ji4 zhang3] {jat1 jan4 gai3 dyun2 ji6 jan4 gai3 zoeng2} /(expr. idiom.) mieux voient quatre yeux que deux/(lit.) une personne a un plan trop court, l'autre a un plan trop long/
 一仆一碌 一仆一碌 [yi1 pu2 yi1 lu4] {jat1 puk1 jat1 luk1} /(expr. idiom.) trébucher; tomber par terre/(expr. idiom.) en toute hâte; précipitamment/(lit.) un trébuchement, un roulement/
 一介 一介 [yi1 jie4] {jat1 gaai3} /un type (de personne)/
@@ -20001,9 +20001,9 @@
 重係 重系 [zhong4 xi4] {zung6 hai6} /toujours; encore/d'ailleurs; de plus; en outre/
 重兼 重兼 [zhong4 jian1] {zung6 gim1} /d'ailleurs; de plus; en outre/
 重刑 重刑 [zhong4 xing2] {cung5 jing4} /lourde peine; peine sévère/
-????c 重嘢 重嘢 [zhong4 ye3] {cung5 je5} /heavy things/
-????f 重慶大廈 重庆大厦 [chong2 qing4 da4 sha4] {cung4 hing3 daai6 haa6} /Chungking Mansions, centre commercial de Hong Kong/
-????c 重手 重手 [chong2 shou3] {cung5 sau2} /too much (spoken)/(person who spends too much money?)/
+重嘢 重嘢 [zhong4 ye3] {cung5 je5} /objets lourds/
+重慶大廈 重庆大厦 [chong2 qing4 da4 sha4] {cung4 hing3 daai6 haa6} /Chungking Mansions, centre commercial à Hong Kong/
+重手 重手 [chong2 shou3] {cung5 sau2} /utiliser trop de force/
 重振 重振 [chong2 zhen4] {cung4 zan3} /réhabiliter; rétablir/revitaliser/
 重𢱕𢱕 重𢱕𢱕 [zhong4 da1 da1] {cung5 dap6 dap6} /très lourd/
 重播 重播 [chong2 bo1] {cung4 bo3} /rediffusion/
@@ -20016,15 +20016,15 @@
 重案組 重案组 [chong2 an4 zu3] {cung5 on3 zou2} /Crime Story, film hongkongais/
 重𣲷𣲷 重𣲷𣲷 [zhong4 ni4 ni4] {cung5 nap6 nap6} /assez lourd/
 重皮 重皮 [chong2 pi2] {cung5 pei2} /coûteux; cher/
-????c 重秤 重秤 [zhong4 cheng4] {cung5 cing3} /lourd/
+重秤 重秤 [zhong4 cheng4] {cung5 cing3} /lourd; dense/
 重裝 重装 [chong2 zhuang1] {cung5 zong1} /(informatique) réinstaller/
 重複 重复 [chong2 fu4] {cung4 fuk1} /encore; à nouveau/répéter/répétition/
 重要問題 重要问题 [zhong4 yao4 wen4 ti2] {zung6 jiu3 man6 tai4} /question clé/
 重託 重托 [zhong4 tuo1] {cung5 tok3} /grande confiance/
-????f 重賞之下，必有勇夫 重赏之下，必有勇夫 [zhong4 shang3 zhi1 xia4 , bi4 you3 yong3 fu1] {cung5 soeng2 zi1 haa6 bit1 jau5 jung5 fu1} /(expr. idiom.) avec des récompenses généreuses, on trouvera sûrement des hommes courageux/
-????f 重金禮聘 重金礼聘 [zhong4 jin1 li3 pin4] {cung5 gam1 lai5 ping3} /recruter avec un salaire élevé/
-????f 重陽節 重阳节 [chong2 yang2 jie2] {cung4 joeng4 zit3} /Fête du double yang, Fête du double neuf, fête où l'on visite les tombes de ses ancêtres et l'on grimpe sur une hauter pour y pique-niquer/
-????f 重頭 重头 [chong2 tou2] {cung5 tau4} /refaire/recommencer depuis le début; reprendre depuis le début/
+重賞之下，必有勇夫 重赏之下，必有勇夫 [zhong4 shang3 zhi1 xia4 , bi4 you3 yong3 fu1] {cung5 soeng2 zi1 haa6 bit1 jau5 jung5 fu1} /(expr. idiom.) avec des récompenses généreuses, on trouvera sûrement des hommes courageux/(expr. idiom.) l'argent parle/
+重金禮聘 重金礼聘 [zhong4 jin1 li3 pin4] {cung5 gam1 lai5 ping3} /recruter avec un salaire élevé/employer quelqu'un et lui payer un bon salaire/
+重陽節 重阳节 [chong2 yang2 jie2] {cung4 joeng4 zit3} /Fête du double yang, Fête du double neuf, fête où l'on visite les tombes de ses ancêtres/
+重頭 重头 [chong2 tou2] {cung4 tau4} /refaire/recommencer depuis le début; reprendre depuis le début/
 重點 重点 [chong2 dian3] {zung6 dim2} /élément clé; point clé; point essentiel/
 野 野 [ye3] {je5} /sauvage/chose/
 野仔 野仔 [ye3 zi3] {je5 zai2} /fils illégitime/
@@ -20034,8 +20034,8 @@
 野心 野心 [ye3 xin1] {je5 sam1} /ambitieux/
 野心勃勃 野心勃勃 [ye3 xin1 bo2 bo2] {je5 sam1 but6 but6} /(expr.) être excessivement ambitieux/
 野心家 野心家 [ye3 xin1 jia1] {je5 sam1 gaa1} /carriériste; personne qui ne travaille que pour sa promotion/
-????c 野水鴨 野水鸭 [ye3 shui3 ya1] {je5 seoi2 aap3} /canard sauvage (a mallard; a wild dabbling duck)/
-????c 野菊 野菊 [ye3 ju2] {je5 guk1} /Chrysanthemum indicum/
+野水鴨 野水鸭 [ye3 shui3 ya1] {je5 seoi2 aap3} /canard de surface; canard barboteur/
+野菊 野菊 [ye3 ju2] {je5 guk1} /Chrysanthemum indicum/
 野菌 野菌 [ye3 jun1] {je5 kwan2} /champignons sauvages/
 野蠻 野蛮 [ye3 man2] {je5 maan4} /barbare; incivilizé/cruel/déraisonnable; insensé/
 野鳥 野鸟 [ye3 niao3] {je5 niu5} /oiseau sauvage/faune ailée/
@@ -20044,7 +20044,7 @@
 量天尺 量天尺 [liang2 tian1 chi3] {loeng4 tin1 cek3} /(espèce de fleurs) Hylocereus undatus/
 量度 量度 [liang2 du4] {loeng4 dok6} /mesurer/
 釐定 厘定 [li2 ding4] {lei4 ding6} /élaborer; établir (des règles)/
-????c 釐戥 厘戥 [li2 deng3] {lei4 dang6} /a small weighing scale (for gold, silver, Chinese medicinal materials, etc.); a type of dragonfly/
+釐戥 厘戥 [li2 deng3] {lei4 dang6} /romaine; petite balance qui sert à mesurer le poids de l'argent/
 金 金 [jin1] {gam1} /or/doré/métal/argent; monnaie/(nom de famille chinois)/(argot) excrément; matière fécale/
 金不換 金不换 [jin1 bu5 huan4] {gam1 bat1 wun6} /(plante) basilic/
 金像獎 金象奖 [jin1 xiang4 jiang3] {gam1 zoeng6 zoeng2} /Hong Kong Film Awards, prix décerné au cinéma hongkongais/
@@ -20052,11 +20052,11 @@
 金光 金光 [jin1 guang1] {gam1 gwong1} /rayon doré; lumière dorée/
 金光閃閃 金光闪闪 [jin1 guang1 shan3 shan3] {gam1 gwong1 sim2 sim2} /étincelant/
 金剛經 金刚经 [Jin1 gang1 jing1] {gam1 gong1 ging1} /(bouddhisme mahāyāna) Sūtra du Diamant/
-????c 金句 金句 [jin1 ju4] {gam1 geoi3} /favourite quote/
-????c 金吾 金吾 [jin1 wu2] {gam1 ng4} /the dragon in ancient legends that represents treasure; Imperial Guards/
+金句 金句 [jin1 ju4] {gam1 geoi3} /épigramme; aphorisme; proverbe/
+金吾 金吾 [jin1 wu2] {gam1 ng4} /officier de la garde impériale/bâton en cuivre, symbole d'autorité impériale/
 金咭 金咭 [jin1 ji1] {gam1 kaat1} /(fig.) black card; carte bancaire noire; carte haut-de-gamme/(lit.) carte d'or/
-????c 金唱片 金唱片 [jin1 chang4 pian1] {gam1 coeng3 pin3} /golden disk / record, music recording sales certification/
-????f 金器 金器 [jin1 qi4] {gam1 hei3} /récipient en or/objet en or/
+金唱片 金唱片 [jin1 chang4 pian1] {gam1 coeng3 pin3} /disque d'or, récompense pour un artiste dont un album a vendu un certain nombre d'exemplaires/
+金器 金器 [jin1 qi4] {gam1 hei3} /récipient en or/objet en or/
 金城武 金城武 [jin1 cheng2 wu3] {gam1 sing4 mou5} /Takeshi Kaneshiro, acteur et mannequin japonais/
 金埕 金埕 [jin1 cheng2] {gam1 cing4} /urne funéraire/
 金婚 金婚 [jin1 hun1] {gam1 fan1} /noces d'or; cinquantième anniversaire de mariage/
@@ -20068,18 +20068,18 @@
 金山橙 金山橙 [jin1 shan1 cheng2] {gam1 saan1 caang2} /orange californienne/
 金山郊野公園 金山郊野公园 [jin1 shan1 jiao1 ye3 gong1 yuan2] {gam1 saan1 gaau1 je5 gung1 jyun4} /Kam Shan Country Park ou Golden Hill Country Park, parc publique de Hong Kong/
 金山阿伯 金山阿伯 [jin1 shan1 a4 bai3] {gam1 saan1 aa3 baak3} /(fig.) Chinois qui a vécu aux États-Unis et revient à la Chine/(fig.) homme d'origine chinoise né aux États-Unis/
-????f 金手指 金手指 [jin1 shou3 zhi3] {gam1 sau2 zi2} /(fig.) traître; informateur; espion infiltré; agent double; taupe/(fig.) personne qui parle dans le dos de quelqu'un d'autre; faux jeton; médisant/gold finger (hardware cheat device for video game consoles)/(lit.) doigt en or/
+金手指 金手指 [jin1 shou3 zhi3] {gam1 sau2 zi2} /(fig.) traître; informateur; espion infiltré; agent double; taupe/(fig.) personne qui parle dans le dos de quelqu'un d'autre; faux jeton; médisant/(fig.) dispositif de triche pour jeux vidéo; cartouche de triche/(lit.) doigt en or/
 金撈 金捞 [jin1 lao1] {gam1 lou1} /Rolex en or/
 金星 金星 [jin1 xing1] {gam1 sing1} /(planète) Vénus/
-????f 金曲 金曲 [jin1 qu3] {gam1 kuk1} /(fig.) chanson classique; grand succès/(lit.) chanson en or/
+金曲 金曲 [jin1 qu3] {gam1 kuk1} /(fig.) chanson classique; grand succès/(lit.) chanson en or/
 金木水火土 金木水火土 [jin1 mu4 shui3 huo3 tu3] {gam1 muk6 seoi2 fo2 tou2} /cinq éléments dans la culture chinoise: métal, bois, eau, feu, terre/
 金櫻子 金樱子 [jin1 ying1 zi5] {gam1 jing1 zi2} /(espèce de rosier) Rosa laevigata, rosier des Cherokees/
 金毛 金毛 [jin1 mao2] {gam1 mou1} /cheveux blonds/blond; personne dont les cheveux sont de la couleur blonde/
 金牌 金牌 [jin1 pai2] {gam1 paai4} /médaille d'or/de très bonne qualité; de premier choix/
 金牌獎 金牌奖 [jin1 pai2 jiang3] {gam1 paai4 zoeng2} /médaille d'or/premier prix; prix octroyé à la personne qui obtient la première place/
 金牛 金牛 [Jin1 niu2] {gam1 ngau4} /(fig.) billet de mille dollars de Hong Kong/(lit.) taureau en or/
-????f 金盤洗手 金盘洗手 [jin1 pan2 xi3 shou3] {gam1 pun4 sai2 sau2} /retire from mafia or gangster/(fig.) prendre sa retraite/(lit.) laver ses mains dans un lavabo en or/
-????f 金睛火眼 金睛火眼 [jin1 jing1 huo3 yan3] {gam1 zing1 fo2 ngaan5} /(fig.) très fatigué/(fig.) travailler très tard dans la nuit/(fig.) être très concentré/(lit.) avoir une globe oculaire en or et les yeux de feu/
+金盤洗手 金盘洗手 [jin1 pan2 xi3 shou3] {gam1 pun4 sai2 sau2} /(fig.) ne plus être un gangster; ne plus être membre de triade/(fig.) prendre sa retraite/(lit.) laver ses mains dans un lavabo en or/
+金睛火眼 金睛火眼 [jin1 jing1 huo3 yan3] {gam1 zing1 fo2 ngaan5} /(fig.) très fatigué/(fig.) travailler très tard dans la nuit/(fig.) être très concentré/(lit.) avoir une globe oculaire en or et les yeux de feu/
 金禧 金禧 [jin1 xi3] {gam1 hei1} /jubilé d'or; cinquantième anniversaire de quelque chose/
 金秋 金秋 [jin1 qiu1] {gam1 cau1} /(litt.) automne doré/
 金竹 金竹 [jin1 zhu2] {gam1 zuk1} /(espèce de bambous) Phyllostachys parvifolia/
@@ -20088,23 +20088,23 @@
 金筍 金笋 [jin1 sun3] {gam1 seon2} /carrotte/
 金管局 金管局 [jin1 guan3 ju2] {gam1 gun2 guk6} /Hong Kong Monetary Authority (Autorité Monétaire de Hong Kong), banque centrale de la ville de Hong Kong/
 金絲貓 金丝猫 [jin1 si1 mao1] {gam1 si1 maau1} /(espèce d'araignées) Thiania subopressa/
-????f 金縷衣 金缕衣 [jin1 lu:3 yi1] {gam1 lau5 ji1} /costume funéraire de jade brodée avec des fils d'or/
+金縷衣 金缕衣 [jin1 lu:3 yi1] {gam1 lau5 ji1} /costume funéraire de jade brodée avec des fils d'or/
 金腳帶 金脚带 [jin1 jiao3 dai4] {gam1 goek3 daai3} /(espèce de serpents) Bungarus fasciatus, Bongare fascié, Bongare annelé, Bongare rayé, Bungare/
 金舖 金铺 [jin1 pu4] {gam1 pou2} /bijouterie/
 金莎 金莎 [jin1 sha1] {gam1 saa1} /chocolat Ferrero Rocher/
-????f 金蘭姊妹 金兰姊妹 [jin1 lan2 jie3 mei4] {gam1 laan4 zi2 mui2} /(fig.) sworn sisters/(lit.) sœurs de lotus en or/
+????f 金蘭姊妹 金兰姊妹 [jin1 lan2 jie3 mei4] {gam1 laan4 zi2 mui2} /(fig.) sœur jurée (par opposition à une sœur de sang)/(lit.) sœurs de lotus en or/
 金融中心 金融中心 [jin1 rong2 zhong1 xin1] {gam1 jung4 zung1 sam1} /centre financier/
 金融海嘯 金融海啸 [jin1 rong2 hai3 xiao4] {gam1 jung4 hoi2 siu3} /crise financière; crise économique/
 金豬 金猪 [jin1 zhu1] {gam1 zyu1} /cochon de lait rôti/
 金鈪 金鈪 [jin1 e4] {gam1 ngaak2} /bracelet en or/
 金銀紙 金银纸 [jin1 yin2 zhi3] {gam1 ngan4 zi2} /billet funéraire/
-????f 金銀膶 金银膶 [jin1 yin2 ren4] {gam1 ngan4 jeon2} /(barbecue cantonais) foie de porc farcie de la viande de porc/
+金銀膶 金银膶 [jin1 yin2 ren4] {gam1 ngan4 jeon2} /(barbecue cantonais) foie de porc farcie de la viande de porc/
 金銀衣紙 金银衣纸 [jin1 yin2 yi1 zhi3] {gam1 ngan4 ji1 zi2} /billet funéraire/
 金鋪 金铺 [jin1 pu4] {gam1 pou1} /bijouterie; magasin où l'on vend des bijoux et de l'or/
-????f 金錢肚 金钱肚 [jin1 qian2 du4] {gam1 cin4 tou5} /honeycomb tripe/
+金錢肚 金钱肚 [jin1 qian2 du4] {gam1 cin4 tou5} /(cuisine) réticulum de bœuf utilisé en cuisine/
 金錢龜 金钱龟 [jin1 qian2 gui1] {gam1 cin4 gwai1} /(espèce de tortues) Cuora trifasciata/
 金鐘道 金钟道 [jin1 zhong1 dao4] {gam1 zung1 dou6} /Queensway, rue de Hong Kong/
-????f 金雞瓦 金鸡瓦 [jin1 ji1 wa3] {gam1 gai1 ngaa5} /(fig.) éclats de verre laissés sur le dessus des murs pour dissuader les voleurs potentiels/(lit.) tuiles de la poule dorée/
+金雞瓦 金鸡瓦 [jin1 ji1 wa3] {gam1 gai1 ngaa5} /(fig.) éclats de verre laissés sur le dessus des murs pour dissuader les voleurs potentiels/(lit.) tuiles de la poule dorée/
 金額 金额 [jin1 e2] {gam1 ngaak2} /somme d'argent/
 金風 金风 [jin1 feng1] {gam1 fung1} /(litt.) vent d'automne/
 金馬倫道 金马伦道 [jin1 ma3 lun2 dao4] {gam1 maa5 leon4 dou6} /Cameron Road, rue de Hong Kong/
@@ -20112,7 +20112,7 @@
 金魚街 金鱼街 [jin1 yu2 jie1] {gam1 jyu2 gaai1} /marché de poissons rouges (et autres espèces de vie marine) sur la rue Tung Choi de Hong Kong/
 金魚黃 金鱼黄 [jin1 yu2 huang2] {gam1 jyu2 wong4} /jaune-orange/(lit.) jaune du poisson rouge/
 釘 钉 [ding1] {deng1} /coudre (utilisé particulièrement, mais pas exclusivement, pour parler de boutons)/clouer/(livres) relier/(fam.) casser sa pipe; crever; mourir/
-????c 釘仔 钉仔 [ding1 zi3] {deng1 zai2} /folliculitis/
+????m 釘仔 钉仔 [ding1 zi3] {deng1 zai2} /folliculite/
 釘咗 钉咗 [ding1 zuo5] {deng1 zo2} /casser sa pipe; crever; mourir; déceder/
 釘書機 钉书机 [ding4 shu1 ji1] {deng1 syu1 gei1} /agrafeuse; brocheuse/
 釘書釘 钉书钉 [ding4 shu1 ding1] {deng1 syu1 deng1} /agrafe/
@@ -20120,9 +20120,9 @@
 釘牌 钉牌 [ding1 pai2] {deng1 paai4} /avoir son permis suspendu/
 釘蓋 钉盖 [ding1 gai4] {deng1 goi3} /(fig.) casser sa pipe; crever; mourir; déceder/(lit.) clouer le couvercle du cerceuil/
 針 针 [zhen1] {zam1} /aiguille/point de tricot; maille/(insecte, abeille, etc.) piquer/seringue/s'en prendre à/
-????f 針冇兩頭利 针冇两头利 [zhen1 mao3 liang3 tou2 li4] {zam1 mou5 loeng5 tau4 lei6} /(expr. idiom.) on ne peut pas avoir le beurre et l'argent de beurre/(lit.) les deux bouts d'une aiguille ne peuvent pas tous les deux être pointus/
-????f 針唔拮到肉唔知痛 针唔拮到肉唔知痛 [zhen1 wu2 jie2 dao4 rou4 wu2 zhi1 tong4] {zam1 m4 gat1 dou3 juk6 m4 zi1 tung3} /(expr. idiom.) on ne comprend pas la douleur avant avant de la ressentir nous-mêmes/(lit.) sans avoir une aiguille qui perce la peau, on ne connaît pas la douleur/
-????f 針嘜 针唛 [zhen1 ma4] {zam1 mak1} /RYO tobacco (roll-your-own cigarette)/
+針冇兩頭利 针冇两头利 [zhen1 mao3 liang3 tou2 li4] {zam1 mou5 loeng5 tau4 lei6} /(expr. idiom.) on ne peut pas avoir le beurre et l'argent de beurre/(lit.) les deux bouts d'une aiguille ne peuvent pas tous les deux être pointus/
+針唔拮到肉唔知痛 针唔拮到肉唔知痛 [zhen1 wu2 jie2 dao4 rou4 wu2 zhi1 tong4] {zam1 m4 gat1 dou3 juk6 m4 zi1 tung3} /(expr. idiom.) on ne comprend pas la douleur avant avant de la ressentir nous-mêmes/(lit.) sans avoir une aiguille qui perce la peau, on ne connaît pas la douleur/
+針嘜 针唛 [zhen1 ma4] {zam1 mak1} /cigarette roulée à la main/
 針對 针对 [zhen1 dui4] {zam1 deoi3} /cibler; viser/être dirigé contre/s'en prendre à/contrer; contrecarrer; s'opposer à/
 針山 针山 [zhen1 shan1] {zam1 saan1} /Needle Hill, colline de Hong Kong/
 針波 针波 [zhen1 bo1] {zam1 bo1} /(basketball) entre-deux, « jump-ball »/
@@ -20133,8 +20133,8 @@
 ????c 針鼻削鐵 针鼻削铁 [zhen1 bi2 xue1 tie3] {zam1 bei6 soek3 tit3} /faire des profits insignifiants/
 釣金龜 钓金龟 [diao4 jin1 gui1] {diu3 gam1 gwai1} /chercher un papa-gâteau/
 釣餌 钓饵 [diao4 er3] {diu3 nei6} /(pêche) appât/(fig.) appât; leurre/
-????c 鈒骨 钑骨 [ji2 gu3] {kap1 gwat1} /blanket stitch/
-????f 鈒骨機 钑骨机 [ji2 gu3 ji1] {zaap6 gwat1 gei1} /an overlocking machine; an overedging machine/
+鈒骨 钑骨 [ji2 gu3] {kap1 gwat1} /(couture) surjeter; coudre en surjet/surjet/
+鈒骨機 钑骨机 [ji2 gu3 ji1] {zaap6 gwat1 gei1} /(couture) surjeteuse/
 鈚 鈚 [pi1] {pei4} /soc; lame de charrue/
 鈴鈴 铃铃 [ling2 ling2] {ling1 ling1} /clochette/
 鉗仔 钳仔 [qian2 zi3] {kim4 zai2} /pince/pince à épiler/
@@ -20150,22 +20150,22 @@
 銀 银 [yin2] {ngan4} /(chimie) argent/argent; monnaie; devise/
 銀 银 [yin2] {ngan2} /argent; monnaie; devise/
 銀両 银两 [yin2 liang3] {ngan4 loeng2} /argent utilisé comme monnaie/
-????c 銀主盤 银主盘 [yin2 zhu3 pan2] {ngan4 zyu2 pun4} /foreclosure/
+銀主盤 银主盘 [yin2 zhu3 pan2] {ngan4 zyu2 pun4} /saisie; forclusion/
 銀仔 银仔 [yin2 zi3] {ngan2 zai2} /pièce; pièce de monnaie/
 銀包 银包 [yin2 bao1] {ngan4 baau1} /portefeuille/sac à main/
 銀灰 银灰 [yin2 hui1] {ngan4 fui1} /gris argenté/
 銀礦灣 银矿湾 [yin2 kuang4 wan1] {ngan4 kwong3 waan1} /Silver Mine Bay, plage de Hong Kong/
-????c 銀粘 银粘 [yin2 nian2] {ngan4 nim1} /a type of sticky rice/
+銀粘 银粘 [yin2 nian2] {ngan4 nim1} /(sorte de riz très gluant)/
 銀紙 银纸 [yin2 zhi3] {ngan4 zi2} /coupure; billet de banque/
 銀線灣 银线湾 [yin2 xian4 wan1] {ngan4 sin3 waan1} /Silverstrand Beach, plage de Hong Kong/
 銀腳帶 银脚带 [yin2 jiao3 dai4] {ngan4 goek3 daai3} /(espèce de serpents) Bungarus multicinctus, Bongare rayé/
-????c 銀芽 银芽 [yin2 ya2] {ngan4 ngaa4} /bean sprouts (stem only?)/(onompatopoeia for explosion?)/(silver ore?)/
+銀芽 银芽 [yin2 ya2] {ngan4 ngaa4} /tige de la pousse d'haricot mungo/(onomatopée pour une explosion)/
 銀行擔保 银行担保 [yin2 hang2 dan1 bao3] {ngan4 hong4 daam1 bou2} /garantie bancaire/
 銀行簿 银行簿 [yin2 hang2 bu4] {ngan4 hong4 bou6} /livret de banque; carnet de banque; livret d'épargne; carnet d'épargne/
-????c 銀雞 银鸡 [yin2 ji1] {ngan4 gai1} /(noun) silver whistle (police)/police siren?/
+銀雞 银鸡 [yin2 ji1] {ngan4 gai1} /sifflet argent de la police/
 銀鱈魚 银鳕鱼 [yin2 xue3 yu2] {ngan4 syut3 jyu4} /(poisson) morue; cabillaud/
 銅綠 铜绿 [tong2 lu:4] {tung4 luk6} /vert-de-gris, produit de corrosion de cuivre/
-????f 銅臭 铜臭 [tong2 chou4] {tung4 cau3} /(fig.) personne qui ne vit que pour l'argent; personne qui pense avant tout à gagner de l'argent/(lit.) puer de cuivre/
+銅臭 铜臭 [tong2 chou4] {tung4 cau3} /(fig.) personne qui ne vit que pour l'argent; personne qui pense avant tout à gagner de l'argent/(lit.) puer de cuivre/
 銅銀 铜银 [tong2 yin2] {tung4 ngan2} /fausse monnaie; monnaie contrefaite; pièce contrefaite/pièce de monnaie en cuivre/
 銅錢 铜钱 [tong2 qian2] {tung4 cin4} /pièce de monnaie en cuivre/
 銅鑼灣 铜锣湾 [tong2 luo2 wan1] {tung4 lo4 waan4} /Causeway Bay, quartier de Hong Kong/
@@ -20180,7 +20180,7 @@
 鋤大D 锄大D [chu2 da4 D] {co4 daai6 di2} /« Big Two », jeu de cartes/
 鋤大弟 锄大弟 [chu2 da4 di4] {co4 daai6 di2} /« Big Two », jeu de cartes/
 鋪 铺 [pu1] {pou1} /paver; daller/
-????f 鋪草皮 铺草皮 [pu1 cao3 pi2] {pou1 cou2 pei4} /poser du gazon/(fig.) perdre de l'argent aux courses hippiques/
+鋪草皮 铺草皮 [pu1 cao3 pi2] {pou1 cou2 pei4} /poser du gazon/(fig.) perdre de l'argent aux courses hippiques/
 鋪頭 铺头 [pu1 tou2] {pou3 tau2} /magasin; boutique/
 鋭利 锐利 [rui4 li4] {jeoi6 lei6} /tranchant; aiguisé; coupant/(vue) perçant/
 鋸扒 锯扒 [ju4 ba1] {goe3 paa2} /manger un steak/manger des côtes de porc/(par extension) manger un repas occidental/
@@ -20191,7 +20191,7 @@
 錄得 录得 [lu4 de5] {luk6 dak1} /enregistrer/
 錄歌 录歌 [lu4 ge1] {luk6 go1} /enregistrer une chanson/
 錐仔 锥仔 [zhui1 zi3] {zeoi1 zai2} /(outil) poinçon/
-????f 錐耳 锥耳 [zhui1 er3] {zeoi1 ji5} /esgourde; conduit auditif externe/
+錐耳 锥耳 [zhui1 er3] {zeoi1 ji5} /percer ses oreilles/
 錐鞋 锥鞋 [zhui1 xie2] {zeoi1 haai4} /réparer des chaussures/
 錐體 锥体 [zhui1 ti3] {zeoi1 tai2} /pyramide/cône/
 錘仔 锤仔 [chui2 zi3] {ceoi4 zai2} /marteau/
@@ -20205,24 +20205,24 @@
 錢會 钱会 [qian2 hui4] {cin2 wui2} /tontine, association de financement informelle d'une communauté composée de plusieurs familles/
 錢銀 钱银 [qian2 yin2] {cin2 ngan2} /argent; liquide; monnaie/
 錢銀問題 钱银问题 [qian2 yin2 wen4 ti2] {cin2 ngan2 man6 tai4} /problèmes financiers; problèmes d'argent/
-????f 錢銀糾紛 钱银纠纷 [qian2 yin2 jiu1 fen1] {cin2 ngan2 dau2 fan1} /dispute sur l'argent/
+錢銀糾紛 钱银纠纷 [qian2 yin2 jiu1 fen1] {cin2 ngan2 dau2 fan1} /dispute sur l'argent/
 錦上路 锦上路 [jin3 shang4 lu4] {gam2 soeng6 lou6} /Kam Sheung Road, rue de Hong Kong/
 錦標 锦标 [jin3 biao1] {gam2 biu1} /prix; trophée/
 錦田 锦田 [jin3 tian2] {gam2 tin4} /Kam Tin, ville de Hong Kong/
 錦綸 锦纶 [jin3 lun2] {gam2 gwaan1} /fibre de polyamide; nylon/
-????f 錦繡河山 锦绣河山 [jin3 xiu4 he2 shan1] {gam2 sau3 ho4 saan1} /(expr. idiom.) pays de splendeurs; beau pays; terre de beauté/(lit.) (pays de) belles rivières et montagnes/
+錦繡河山 锦绣河山 [jin3 xiu4 he2 shan1] {gam2 sau3 ho4 saan1} /(expr. idiom.) pays de splendeurs; beau pays; terre de beauté/(lit.) (pays de) belles rivières et montagnes/
 錫住 锡住 [xi1 zhu4] {sek3 zyu6} /prendre soin de (quelqu'un)/gâter (quelq'un)/
 錫紙 锡纸 [xi1 zhi3] {sek3 zi2} /feuille d'aluminium/
 錫身 锡身 [xi1 shen1] {sek3 san1} /(fig.) prendre soin de son corps/(fig.) avoir peur de mourir/(lit.) aimer son corps/
 錯手 错手 [cuo4 shou3] {co3 sau2} /par erreur; par accident/
-????f 錯有錯着 错有错着 [cuo4 you3 cuo4 zhe5] {co3 jau5 co3 zoek6} /(expr. idiom.) le bon côté d'une erreur/(lit.) une erreur a ses avantages/
-????f 錯有錯著 错有错著 [cuo4 you3 cuo4 chu2] {co3 jau5 co3 zoek6} /(expr. idiom.) le bon côté d'une erreur/(lit.) une erreur a ses avantages/
-????f 錯蕩 错荡 [cuo4 dang4] {co3 dong6} /(formule de politesse) (humble) merci d'être venu/
+錯有錯着 错有错着 [cuo4 you3 cuo4 zhe5] {co3 jau5 co3 zoek6} /(expr. idiom.) le bon côté d'une erreur/(lit.) une erreur a ses avantages/
+錯有錯著 错有错著 [cuo4 you3 cuo4 chu2] {co3 jau5 co3 zoek6} /(expr. idiom.) le bon côté d'une erreur/(lit.) une erreur a ses avantages/
+錯蕩 错荡 [cuo4 dang4] {co3 dong6} /(formule de politesse) (humble) merci d'être venu/
 錯見 错见 [cuo4 jian4] {co3 gin3} /idée erronée/
 錶肉 表肉 [biao3 rou4] {biu1 juk2} /(fig.) (horlogerie) mouvement, mécanisme d'une montre/(lit.) chair d'une montre/
 錶菂 表菂 [biao3 di1] {biu1 dik1} /(horlogerie) couronne d'une montre/
-????c 錶蓋 表盖 [biao3 gai4] {biu1 goi3} /the cover of a watch (front or back cover?)/
-????c 錶行 表行 [biao3 xing2] {biu1 hong2} /watch (store or company?)/
+????m 錶蓋 表盖 [biao3 gai4] {biu1 goi3} /(horlogerie) le verre d'une montre/(horlogerie) fond de boîte d'une montre/
+錶行 表行 [biao3 xing2] {biu1 hong2} /magasin de montres/
 錶面 表面 [biao3 mian4] {biu1 min6} /(horlogerie) cadran/
 鍊金術 炼金术 [lian4 jin1 shu4] {lin6 gam1 seot6} /alchimie/
 鍍金 镀金 [du4 jin1] {dou6 gam1} /doré/plaqué or/
@@ -20231,13 +20231,13 @@
 鍛練 锻练 [duan4 lian4] {dyun3 lin6} /s'entraîner/tremper/
 鍛鍊 锻炼 [duan4 lian4] {dyun3 lin6} /s'entraîner/tremper/
 鍾嘉欣 钟嘉欣 [zhong1 jia1 xin1] {zung1 gaa1 jan1} /Linda Chung Ka-yan, actrice et chanteuse sino-canadienne/
-????c 鍾子期 钟子期 [zhong1 zi3 qi2] {zung1 zi2 kei4} /Zhong Ziqi, a historical person in ancient China, in a classical literary allusion from the story with Bo Ya(伯牙), referring to the harsh reality that talent and ability can rarely meet and find people who can really appreciate them/
+鍾子期 钟子期 [zhong1 zi3 qi2] {zung1 zi2 kei4} /Zung Zikei ou Zhong Ziqi, ami du célèbre musicien Bo Ya de la période des Printemps et Automnes/
 鍾山 钟山 [zhong1 shan1] {zung1 saan1} /Zhongshan, subdivision administrative de la province du Guizhou en Chine/
 鍾情 钟情 [zhong1 qing2] {zung1 cing4} /tomber amoureux/
 鍾意 钟意 [zhong1 yi4] {zung1 ji3} /aimer/
 鍾意點就點 钟意点就点 [zhong1 yi4 dian3 jiu4 dian3] {zung1 ji3 dim2 zau6 dim2} /(expr.) faites ce que vous voulez/
 鍾欣桐 钟欣桐 [zhong1 xin1 tong2] {zung1 jan1 tung4} /Gillian Chung, actrice et chanteuse hongkongaise/
-????f 鍾落潭 钟落潭 [zhong1 luo4 tan2] {zung1 lok6 taam4} /Zhong Luo Tan, bourgade de Canton en Chine/
+鍾落潭 钟落潭 [zhong1 luo4 tan2] {zung1 lok6 taam4} /Zhong Luo Tan, bourgade de Canton en Chine/
 鍾馗 钟馗 [zhong1 kui2] {zung1 kwai4} /Zhong Kui, exorciste légendaire de Chine/
 鎅刀 鎅刀 [gai3 dao1] {gaai3 dou1} /couteau à lame rétractable; cutter; stylet/
 鎖住 锁住 [suo3 zhu4] {so2 zyu6} /verrouillé; fermé à clé; barré/
@@ -20247,17 +20247,17 @@
 鎖頭 锁头 [suo3 tou5] {so2 tau4} /serrure; verrou/
 鎚仔 锤仔 [chui2 zi3] {ceoi4 zai2} /marteau/
 鎢絲 钨丝 [wu1 si1] {wu1 si1} /filament de tungstène/
-????c 鏈冚 链冚 [lian4 ka4] {lin6 ham6} /chain guard for a bike/
+鏈冚 链冚 [lian4 ka4] {lin6 ham6} /protège-chaînes; garde-chaînes (pour vélo)/
 鏘鏘 锵锵 [qiang1 qiang1] {coeng1 coeng1} /(onomatopée) tintement; bruit métallique/
 鏟 铲 [chan3] {caan2} /pelle/spatule; maryse/éradiquer; éliminer; enlever/
-????c 鏟地皮 铲地皮 [chan3 di4 pi2] {caan2 dei6 pei4} /to sell items (often antiques) that has been dug up from graves or collected from villages/
+鏟地皮 铲地皮 [chan3 di4 pi2] {caan2 dei6 pei4} /piller les tombes et vendre les artéfacts qui s'y trouvent/
 鏟泥車 铲泥车 [chan3 ni2 che1] {caan2 nai4 ce1} /bulldozer/
 鏟除 铲除 [chan3 chu2] {caan2 ceoi4} /éradiquer; éliminer; déraciner/
 鏡 镜 [jing4] {geng2} /lunettes/
 鏡 镜 [jing4] {geng3} /miroir; verre/
-????c 鏡屏 镜屏 [jing4 ping2] {geng3 ping4} /a full length free standing mirror/
+鏡屏 镜屏 [jing4 ping2] {geng3 ping4} /miroir pleine longueur/
 鏡面 镜面 [jing4 mian4] {geng3 min6} /surface d'un miroir/
-????f 鏢局 镖局 [biao1 ju2] {biu1 guk6} /organisation qui fournit des gardes de corps ou escortes armées/
+鏢局 镖局 [biao1 ju2] {biu1 guk6} /organisation qui fournit des gardes de corps ou escortes armées/
 鏢靶 镖靶 [biao1 ba3] {biu1 baa2} /cible de fléchettes/
 鏨刀 錾刀 [zan4 dao1] {zaam6 dou1} /ciseau; burin/
 鏺 䥽 [po4] {put3} /faucille/
@@ -20266,7 +20266,7 @@
 鐘咭 钟咭 [zhong1 ji1] {zung1 kaat1} /carte de pointage/
 鐘意 钟意 [zhong1 yi4] {zung1 ji3} /aimer/
 鐘數 钟数 [zhong1 shu4] {zung1 sou3} /l'heure/
-????f 鐘落潭 钟落潭 [zhong1 luo4 tan2] {zung1 lok6 taam4} /Zhong Luo Tan, bougade de Canton en Chine/
+鐘落潭 钟落潭 [zhong1 luo4 tan2] {zung1 lok6 taam4} /Zhong Luo Tan, bougade de Canton en Chine/
 鐘點女傭 钟点女佣 [zhong1 dian3 nu:3 yong1] {zung1 dim2 neoi5 jung4} /servante payée à l'heure/
 鐘點妹 钟点妹 [zhong1 dian3 mei4] {zung1 dim2 mui6} /servante payée à l'heure/
 鐘點工人 钟点工人 [zhong1 dian3 gong1 ren2] {zung1 dim2 gung1 jan4} /employé payé à l'heure/
@@ -20279,15 +20279,15 @@
 鐵器時代 铁器时代 [tie3 qi4 Shi2 dai4] {tit3 hei3 si4 doi6} /âge de fer/
 鐵心 铁心 [tie3 xin1] {tit3 sam1} /noyau de fer/résolu; ferme; déterminé; inébranlable/
 鐵打酒 铁打酒 [tie3 da3 jiu3] {tit3 daa2 zau2} /(médecine traditionelle chinoie) liqueur médicinale pour les blessures traumatiques/
-????f 鐵拐李打足球 铁拐李打足球 [tie3 guai3 li3 da3 zu2 qiu2] {tit3 gwaai2 lei5 daa2 zuk1 kau4} /(expr. en suspens) se débrouiller tout seul; faire tout seul (deuxième partie 一腳踼|一脚踢 « taper le ballon avec un seul pied »)/(lit.) comme Tie Guai Li jouant au soccer (un des huit immortels du taoïsme qui s'appuie sur une canne en fer)/
+鐵拐李打足球 铁拐李打足球 [tie3 guai3 li3 da3 zu2 qiu2] {tit3 gwaai2 lei5 daa2 zuk1 kau4} /(expr. en suspens) se débrouiller tout seul; faire tout seul (deuxième partie 一腳踼|一脚踢 « taper le ballon avec un seul pied »)/(lit.) comme Tie Guai Li jouant au soccer (un des huit immortels du taoïsme qui s'appuie sur une canne en fer)/
 鐵杵磨成針 铁杵磨成针 [tie3 chu3 mo2 cheng2 zhen1] {tit3 cyu5 mo4 sing4 zam1} /perseverance will prevail./
 鐵枝 铁枝 [tie3 zhi1] {tit3 zi1} /barre de fer/
 鐵沙梨 铁沙梨 [tie3 sha1 li2] {tit3 saa1 lei2} /(fig.) personne très avare/(lit.) poire nashi en fer/
 鐵漢 铁汉 [tie3 han4] {tit3 hon3} /(fig.) homme avec une volonté de fer/(lit.) homme en fer/
-????c 鐵皮屋 铁皮屋 [tie3 pi2 wu1] {tit3 pei4 uk1} /a cabin / house built from  galvanized-iron sheets/
+????f 鐵皮屋 铁皮屋 [tie3 pi2 wu1] {tit3 pei4 uk1} /(Hong Kong) cabane en métal/
 鐵筆 铁笔 [tie3 bi3] {tit3 bat1} /pied-de-biche/
 鐵線 铁线 [tie3 xian4] {tit3 sin2} /fil de fer/
-????f 鐵腳馬眼神仙肚 铁脚马眼神仙肚 [tie3 jiao3 ma3 yan3 shen2 xian1 du4] {tit3 goek3 maa5 ngaan5 san4 sin1 tou5} /(expr. idiom.) personne qui a une grande endurance physique, qui n'a pas faim, et qui ne se fatigue pas facilement (se dit particulièrement des journalistes investigatives de Hong Kong)/(lit.) avoir des jambes de fer, des yeux de cheval, et l'estomac d'un immortel/
+鐵腳馬眼神仙肚 铁脚马眼神仙肚 [tie3 jiao3 ma3 yan3 shen2 xian1 du4] {tit3 goek3 maa5 ngaan5 san4 sin1 tou5} /(expr. idiom.) personne qui a une grande endurance physique, qui n'a pas faim, et qui ne se fatigue pas facilement (se dit particulièrement des journalistes investigatives de Hong Kong)/(lit.) avoir des jambes de fer, des yeux de cheval, et l'estomac d'un immortel/
 鐵蓮花 铁莲花 [tie3 lian2 hua1] {tit3 lin4 faa1} /coup de poing américain/(lit.) lotus en fer/
 鐵路站 铁路站 [tie3 lu4 zhan4] {tit3 lou6 zaam6} /gare ferroviaire; gare de chemin de fer/
 鐵通 铁通 [tie3 tong1] {tit3 tung1} /China Mobile Tietong ou China Railcom, opérateur de télécommunications chinois/
@@ -20304,9 +20304,9 @@
 鐾 鐾 [bei4] {bei3} /affûter; aiguiser/
 鑊 镬 [huo4] {wok6} /wok/chaudron/problème; ennui/
 鑊底 镬底 [huo4 di3] {wok6 dai2} /fond d'une poêle/dos d'une poêle/
-????f 鑊底噉面 镬底噉面 [huo4 di3 dan4 mian4] {wok6 dai2 gam2 min6} /(expr. idiom.) visage irrité; visage en colère/(lit.) avoir un visage comme le dos d'une poêle/
-????f 鑊撈 镬捞 [huo4 lao1] {wok6 lou1} /résidus alimentaires brûlés au fond d'une poêle/
-????f 鑊氣 镬气 [huo4 qi4] {wok6 hei3} /(fig.) bon goût d'un plat cuit à l'huile et à haute température dans un wok/(lit.) essence de wok/
+鑊底噉面 镬底噉面 [huo4 di3 dan4 mian4] {wok6 dai2 gam2 min6} /(expr. idiom.) visage irrité; visage en colère/(lit.) avoir un visage comme le dos d'une poêle/
+鑊撈 镬捞 [huo4 lao1] {wok6 lou1} /résidus alimentaires brûlés au fond d'une poêle/
+鑊氣 镬气 [huo4 qi4] {wok6 hei3} /(fig.) bon goût d'un plat cuit à l'huile et à haute température dans un wok/(lit.) essence de wok/
 鑊鏟 镬铲 [huo4 chan3] {wok6 caan2} /spatule pour wok/
 鑌鐵 镔铁 [bin1 tie3] {ban1 tit3} /acier de Damas; acier damassé; acier Damas/
 鑑於 鉴于 [jian4 yu2] {gaam3 jyu1} /étant donné; vu que; compte tenu de/
@@ -20318,7 +20318,7 @@
 鑒賞 鉴赏 [jian4 shang3] {gaam3 soeng2} /apprécier (la musique, la littérature)/
 鑠石流金 铄石流金 [shuo4 shi2 liu2 jin1] {soek3 sek6 lau4 gam1} /(expr. idiom.) temps très chaud; chaleur accablante; chaleur étouffante/(lit.) fondre les pierres et faire couler l'or/
 鑠金 铄金 [shuo4 jin1] {soek3 gam1} /fondre l'or/
-????c 鑼機 锣机 [luo2 ji1] {lo4 gei1} /a milling machine/
+鑼機 锣机 [luo2 ji1] {lo4 gei1} /fraiseuse, machine-outil/
 鑽 钻 [zuan1] {zyun1} /diamant/
 鑽 钻 [zuan4] {zyun3} /percer un trou/
 鑽石山 钻石山 [zuan4 shi2 shan1] {zyun3 sek6 saan1} /Diamond Hill, ville de Hong Kong/
@@ -20341,7 +20341,7 @@
 長崎縣 长崎县 [chang2 qi2 xian4] {coeng4 kei4 jyun6} /Préfecture de Nagasaki, préfecture du Japon/
 長工 长工 [chang2 gong1] {coeng4 gung1} /employé à temps plein/emploi permanent; emploi à long terme/
 長情 长情 [zhang3 qing2] {coeng4 cing4} /amour fidèle; amour indéfictible; amour inébranlable/
-????f 長房 长房 [zhang3 fang2] {zoeng2 fong4} /famille du fils aîné/
+長房 长房 [zhang3 fang2] {zoeng2 fong4} /famille du fils aîné/
 長拉拉 长拉拉 [zhang3 la1 la5] {coeng4 laai4 laai4} /très long; trop long/
 長撓撓 长挠挠 [zhang3 nao2 nao2] {coeng4 naau4 naau4} /très longtemps/
 長春籐 长春藤 [chang2 chun1 teng2] {coeng4 ceon1 tang4} /(genre de plantes) Hedera; liane/
@@ -20353,12 +20353,12 @@
 長氣袋 长气袋 [zhang3 qi4 dai4] {coeng4 hei3 doi6} /(fig.) moulin à paroles; personne très bavarde/(lit.) sac à long air/
 長江 长江 [chang2 jiang1] {coeng4 gong1} /Yangzi Jiang, fleuve Bleu, Yang-Tsé-Kiang, Yang-Tsé, fleuve chinois/
 長洲 长洲 [chang2 zhou1] {coeng4 zau1} /île de Cheung Chau/
-????c 長流流 长流流 [chang2 liu2 liu2] {coeng4 lau4 lau4} /long (period of time)/
+長流流 长流流 [chang2 liu2 liu2] {coeng4 lau4 lau4} /très longue période de temps/
 長生店 长生店 [chang2 sheng1 dian4] {coeng4 sang1 dim3} /magasin de cercueils/
 長生板 长生板 [chang2 sheng1 ban3] {coeng4 sang1 baan2} /cercueil/
-????f 長短句 长短句 [chang2 duan3 ju4] {coeng4 dyun2 geoi3} /poème dont les vers alternent de longeur datant de la dynastie Tang/
-????c 長短腳 长短脚 [zhang3 duan3 jiao3] {coeng4 dyun2 goek3} /uneven leg length/(name of a criminal organization?)/
-????f 長短週 长短周 [chang2 duan3 zhou1] {coeng4 dyun2 zau1} /système où l'on alterne entre une semaine de six jours et une semaine de cinq jours; système où l'on alterne entre travailler et ne pas travailler le samedi/
+長短句 长短句 [chang2 duan3 ju4] {coeng4 dyun2 geoi3} /poème dont les vers alternent de longeur datant de la dynastie Tang/
+????f 長短腳 长短脚 [zhang3 duan3 jiao3] {coeng4 dyun2 goek3} /avoir un pied plus long et un pied plus court/
+長短週 长短周 [chang2 duan3 zhou1] {coeng4 dyun2 zau1} /système où l'on alterne entre une semaine de six jours et une semaine de cinq jours; système où l'on alterne entre travailler et ne pas travailler le samedi/
 長程 长程 [chang2 cheng2] {coeng4 cing4} /à long rayon d'action/qui a une longue portée/(fig.) à long term/
 長篇大論 长篇大论 [chang2 pian1 da4 lun4] {coeng4 pin1 daai6 leon6} /(expr.) (discours ou article) très long; traînant; ennuyeux/
 長糧 长粮 [chang2 liang2] {coeng4 loeng4} /prestation de retraite; prestaion de pension/
@@ -20367,7 +20367,7 @@
 長足 长足 [chang2 zu2] {coeng4 zuk1} /(développement) substantiel; considérable; rapide/
 長通粉 长通粉 [zhang3 tong1 fen3] {coeng4 tung1 fan2} /(pâte alimentaire) penne/
 長青隧道 长青隧道 [chang2 qing1 sui4 dao4] {coeng4 cing1 seoi6 dou6} /Cheung Tsing Tunnel, tunnel routier de Hong Kong/
-????f 長驅直入 长驱直入 [chang2 qu1 zhi2 ru4] {coeng4 keoi1 zik6 jap6} /to drive straight in; to march straight into (without encountering any resistance)/
+????f 長驅直入 长驱直入 [chang2 qu1 zhi2 ru4] {coeng4 keoi1 zik6 jap6} /(expr.) pénétrer dans un territoire ennemi sans rencontrer des résistances/
 長鬚鯨 长须鲸 [chang2 xu1 jing1] {coeng4 sou1 king4} /(espèce de baleines) Balaenoptera physalus, rorqual commun/
 長魚 长鱼 [chang2 yu2] {coeng4 jyu4} /anguille/(lit.) long poisson/
 門人 门人 [men2 ren2] {mun4 jan4} /disciple; partisan; émule/
@@ -20376,11 +20376,11 @@
 門口 门口 [men2 kou3] {mun4 hau2} /entrée/porte d'entrée/porte/
 門口狗 门口狗 [men2 kou3 gou3] {mun4 hau2 gau2} /chien de garde/
 門房 门房 [men2 fang2] {mun4 fong4} /portier; concierge; gardien/loge de concierge; demeure d'un concierge/
-????c 門氏五虎將 门氏五虎将 [men2 shi4 wu3 hu3 jiang4] {mun4 si6 ng5 fu2 zoeng3} /the five representative Cantonese profanities/
-????f 門縫 门缝 [men2 feng4] {mun4 fung4} /espace entre la porte et le châssis de la porte/
-????f 門罅 门罅 [men2 xia4] {mun4 laa3} /espace entre la porte et le châssis de la porte/
+門氏五虎將 门氏五虎将 [men2 shi4 wu3 hu3 jiang4] {mun4 si6 ng5 fu2 zoeng3} /(expr.) les cinq gros mots cantonais (comme concept)/
+門縫 门缝 [men2 feng4] {mun4 fung4} /espace entre la porte et le châssis de la porte/
+門罅 门罅 [men2 xia4] {mun4 laa3} /espace entre la porte et le châssis de la porte/
 門診部 门诊部 [men2 zhen3 bu4] {mun4 can2 bou6} /(hôpital) centre de consultation/
-????c 門釘 门钉 [men2 ding1] {mun4 deng1} /doornail; decorative nails on the door panel/
+????f 門釘 门钉 [men2 ding1] {mun4 deng1} /saillies (comme décoration) sur les portes chinoises/
 門鉸 门铰 [men2 jiao3] {mun4 gaau2} /charnière de porte/
 門鐘 门钟 [men2 zhong1] {mun4 zung1} /sonnette/
 門面話 门面话 [men2 mian5 hua4] {mun4 min6 waa2} /(fig.) belles paroles; paroles creuses; promesses en l'air/(lit.) paroles d'apparence/
@@ -20389,13 +20389,13 @@
 閂埋門 闩埋门 [shuan1 mai2 men2] {saan1 maai4 mun4} /fermer la porte/
 閂後門 闩后门 [shuan1 hou4 men2] {saan1 hau6 mun4} /fermer la porte arrière/
 閂掣 闩掣 [shuan1 che4] {saan1 zai3} /fermer; éteindre; arrêter/
-????f 閂死 闩死 [shuan1 si3] {saan1 sei2} /bloquer un footballeur de l'autre équipe/
+閂死 闩死 [shuan1 si3] {saan1 sei2} /bloquer un footballeur de l'autre équipe/
 閂鋪 闩铺 [shuan1 pu4] {saan1 pou3} /(magasin) fermer pour la journée/(magasin, entreprise) faire faillite; mettre la clé sous la porte/
 閂門 闩门 [shuan1 men2] {saan1 mun4} /fermer la porte/(par extension) (magasin) fermer pour la journée/
 閃 闪 [shan3] {sim2} /esquiver/étinceler; briller/s'échapper; partir en douce; partir tranquillement/
 閃咭 闪咭 [shan3 ji1] {sim2 kaat1} /fiche; carte mémoire/
 閃燃 闪燃 [shan3 ran2] {sim2 jin4} /embrasement généralisé éclair; EGE; « flashover »/
-????f 閃緞 闪缎 [shan3 duan4] {sim2 dyun6} /a type of scintillating silk/
+閃緞 闪缎 [shan3 duan4] {sim2 dyun6} /soie scintillante/
 閃縮 闪缩 [shan3 suo1] {sim2 suk1} /furtif; évasif/
 閃耀 闪耀 [shan3 yao4] {sim2 jiu6} /étinceler/
 閃閃令 闪闪令 [shan3 shan3 ling4] {sim2 sim2 ling3} /étincelant; reluisant/
@@ -20416,35 +20416,35 @@
 開口及着脷 开口及着脷 [kai1 kou3 ji2 zhe5 li4] {hoi1 hau2 kap6 zoek6 lei6} /(expr. idiom.) gaffer; mettre les pieds dans le plat; parler sans ménagement/
 開口埋口 开口埋口 [kai1 kou3 mai2 kou3] {hoi1 hau2 maai4 hau2} /toujours parler de quelque chose; ne pas arrêter de parler de quelque chose/
 開口夢 开口梦 [kai1 kou3 meng4] {hoi1 hau2 mung6} /parler dans son sommeil; parler en dormant/
-????f 開口夾著脷 开口夹着脷 [kai1 kou3 jia1 zhe5 li4] {hoi1 hau2 gap3 zoek6 lei6} /(expr. idiom.) gaffer; dire quelque chose qu'on ne devrait pas dire; mettre les pieds dans le plat/(lit.) ouvrir la bouche et y coincer la langue/
+開口夾著脷 开口夹着脷 [kai1 kou3 jia1 zhe5 li4] {hoi1 hau2 gap3 zoek6 lei6} /(expr. idiom.) gaffer; dire quelque chose qu'on ne devrait pas dire; mettre les pieds dans le plat/(lit.) ouvrir la bouche et y coincer la langue/
 開口有話 开口有话 [kai1 kou3 you3 hua4] {hoi1 hau2 jau5 waa6} /comme dit le proverbe.../
 開口棗 开口枣 [kai1 kou3 zao3] {hoi1 hau2 zou2} /boule de sésame frite/
 開古 开古 [kai1 gu3] {hoi1 gu2} /dire à quelqu'un la réponse à l'énigme/
 開嚟 开嚟 [kai1 li2] {hoi1 lai2} /sortir; s'écarter ou s'éloigner de quelque chose/
 開坑 开坑 [kai1 keng1] {hoi1 haang1} /creuser un fossé/(fig.) se mettre au travail/
-????c 開埋井俾人食水 开埋井俾人食水 [kai1 mai2 jing3 bi3 ren2 shi2 shui3] {hoi1 maai4 zeng2 bei2 jan4 sik6 seoi2} /(expr. idiom.) travailler fort sur quelque chose mais avoir quelqu'un d'autre s'en attribuer la mérite/
+開埋井俾人食水 开埋井俾人食水 [kai1 mai2 jing3 bi3 ren2 shi2 shui3] {hoi1 maai4 zeng2 bei2 jan4 sik6 seoi2} /(expr. idiom.) travailler fort sur quelque chose mais avoir quelqu'un d'autre s'en attribuer la mérite/(lit.) forer un puits pour que quelqu'un d'autre buve l'eau/
 開夜 开夜 [kai1 ye4] {hoi1 je2} /travailler très tard la nuit; passer une nuit blanche/
 開大 开大 [kai1 da4] {hoi1 daai6} /ouvrir grand/déféquer/
-????f 開大價 开大价 [kai1 da4 jia4] {hoi1 daai6 gaa3} /fixer un prix de départ très élevé/
+開大價 开大价 [kai1 da4 jia4] {hoi1 daai6 gaa3} /fixer un prix de départ très élevé/
 開天索價 开天索价 [kai1 tian1 suo3 jia4] {hoi1 tin1 sok3 gaa3} /(expr.) prix très haut; prix exorbitant; prix excessif/
 開天索價，落地還錢 开天索价，落地还钱 [kai1 tian1 suo3 jia4 , lao4 di4 huan2 qian2] {hoi1 tin1 sok3 gaa3， lok6 dei6 waan4 cin2} /(expr. idiom.) grand écart entre le prix demandé et l'offre/
 開學日 开学日 [kai1 xue2 ri4] {hoi1 hok6 jat6} /premier jour de l'école; jour de la rentrée/
 開封 开封 [Kai1feng1] {hoi1 fung1} /briser un sceau; ouvrir l'emballage/
 開工 开工 [kai1 gong1] {hoi1 gung1} /se mettre au travail/
-????c 開工典禮 开工典礼 [kai1 gong1 dian3 li3] {hoi1 gung1 din2 lai5} /the opening ceremony; the commencement ceremony; the groundbreaking ceremony/
+開工典禮 开工典礼 [kai1 gong1 dian3 li3] {hoi1 gung1 din2 lai5} /cérémonie d'inauguration/
 開幕 开幕 [kai1 mu4] {hoi1 mok6} /cérémonie d'ouverture/
 開平碉樓 开平碉楼 [kai1 ping2 diao1 lou2] {hoi1 ping4 diu1 lau4} /diaolou de Kaiping, tours fortifiés de Kaiping/
 開年 开年 [kai1 nian2] {hoi1 nin4} /manger un repas avec de la viande le deuxième jour du Nouvel An chinois/prochaine année/commencer la nouvelle année/(fig.) tabasser; frapper à tabac; rouer de coups/
 開底 开底 [kai1 di3] {hoi1 dai2} /à fond ouvert/côté extérieur (d'une maison)/
-????f 開張大吉 开张大吉 [kai1 zhang1 da4 ji2] {hoi1 zoeng1 daai6 gat1} /ouverture propice d'une nouvelle entreprise/
-????c 開彩 开彩 [kai1 cai3] {hoi1 coi2} /to draw the lottery/
+開張大吉 开张大吉 [kai1 zhang1 da4 ji2] {hoi1 zoeng1 daai6 gat1} /ouverture propice d'une nouvelle entreprise/
+開彩 开彩 [kai1 cai3] {hoi1 coi2} /tirage de la loterie/
 開心見誠 开心见诚 [kai1 xin1 jian4 cheng2] {hoi1 sam1 gin3 sing4} /(expr.) être honnête; être sincère/(lit.) ouvrir le cœur et voir la sincérité/
 開房 开房 [kai1 fang2] {hoi1 fong2} /louer une chambre d'hôtel/(par extension) louer une chambre d'hôtel pour avoir de relations sexuelles/
 開手 开手 [kai1 shou3] {hoi1 sau2} /commencer à faire quelque chose/
 開拓創新 开拓创新 [kai1 tuo4 chuang4 xin1] {hoi1 tok3 cong3 san1} /(expr. idiom.) ouvrir la voie; être novateur; faire preuve d'innovation/
 開拖 开拖 [kai1 tuo1] {hoi1 to1} /commencer une bagarre/
 開揚 开扬 [kai1 yang2] {hoi1 joeng4} /lumineux et spacieux/
-????f 開攤 开摊 [kai1 tan1] {hoi1 taan1} /dresser un stand; créer un stand; installer un stand/
+開攤 开摊 [kai1 tan1] {hoi1 taan1} /préparer un étal au marché/
 開支 开支 [kai1 zhi1] {hoi1 zi1} /dépenses/
 開支票 开支票 [kai1 zhi1 piao4] {hoi1 zi1 piu3} /faire un chèque/
 開放政策 开放政策 [kai1 fang4 zheng4 ce4] {hoi1 fong3 zing3 caak3} /glasnost, politique de l'Union Soviétique/
@@ -20453,26 +20453,26 @@
 開明車馬 开明车马 [kai1 ming2 che1 ma3] {hoi1 ming4 geoi1 maa5} /(expr. idiom.) être direct; ne pas cacher ses intentions/(lit.) mettre le chariot et le cheval en formation de combat/
 開枝散葉 开枝散叶 [kai1 zhi1 san4 ye4] {hoi1 zi1 saan3 jip6} /(expr. idiom.) mettre au monde; donner naissance à/
 開枱 开枱 [kai1 si4] {hoi1 toi2} /mettre la table/jouer une partie de mah-jong/
-????f 開標 开标 [kai1 biao1] {hoi1 biu1} /open sealed tenders or bids/
-????f 開檔 开档 [kai1 dang4] {hoi1 dong3} /lancer une entreprise; créer une entreprise/set up a stand (eg. fruit stand) in the market in the morning/
+????f 開標 开标 [kai1 biao1] {hoi1 biu1} /annoncer les résultats d'un appel d'offres de soumissions cachetées/
+開檔 开档 [kai1 dang4] {hoi1 dong3} /lancer une entreprise; créer une entreprise/préparer un étal au marché/
 開檯 开台 [kai1 tai2] {hoi1 toi2} /mettre la table/jouer une partie de mah-jong/
-????f 開正 开正 [kai1 zheng4] {hoi1 zeng3} /se dérouler exactement comme l'on l'a voulu; avoir les circonstances jouer en sa faveur/
+開正 开正 [kai1 zheng4] {hoi1 zeng3} /se dérouler exactement comme l'on l'a voulu; avoir les circonstances jouer en sa faveur/
 開波 开波 [kai1 bo1] {hoi1 bo1} /démarrer; commencer (un match de foot)/(par extension) commencer quelque chose/(par extension) se mettre au travail/
 開火 开火 [kai1huo3] {hoi1 fo2} /ouvrir le feu; tirer/se disputer; quereller/allumer; mettre en marche; brancher/allumer la cuisinière à gaz/
-????f 開片 开片 [kai1 pian4] {hoi1 pin2} /(fig.) commencer une bagarre entre gangs; participer à un combat à couteau entre gangs/(lit.) ouvrir les lames/
+開片 开片 [kai1 pian4] {hoi1 pin2} /(fig.) commencer une bagarre entre gangs; participer à un combat à couteau entre gangs/(lit.) ouvrir les lames/
 開玩笑 开玩笑 [kai1 wan2 xiao4] {hoi1 waan4 siu3} /plaisanter; blaguer/
-????f 開發公司 开发公司 [kai1 fa5 gong1 si1] {hoi1 faat3 gung1 si1} /(real estate) a development company/
+開發公司 开发公司 [kai1 fa5 gong1 si1] {hoi1 faat3 gung1 si1} /promoteur immobilier/
 開硬弓 开硬弓 [kai1 ying4 gong1] {hoi1 ngaang6 gung1} /faire par la force/
 開篷車 开篷车 [kai1 peng2 che1] {hoi1 pung4 ce1} /(voiture) cabriolet; décapotable/
 開籠雀 开笼雀 [kai1 long2 que4] {hoi1 lung4 zoek2} /(fig.) moulin à paroles; bavard/(lit.) oiseau avec la cage ouverte/
 開罐頭 开罐头 [kai1 guan4 tou2] {hoi1 gun3 tau2 } /ouvrir une boîte de conserve/
 開聲 开声 [kai1 sheng1] {hoi1 seng1} /commencer à parler/s'exprimer; dire ce que l'on pense; prendre la parole; se prononcer/échauffer la voix; faire des échauffements vocaux/
-????c 開膳 开膳 [kai1 shan4] {hoi1 sin6} /to start to eat/
+????c 開膳 开膳 [kai1 shan4] {hoi1 sin6} /commencer à manger/
 開舖 开铺 [kai1 pu4] {hoi1 pou3} /démarrer une entreprise/(boutique, magasin) ouvrir/
 開航 开航 [kai1 hang2] {hoi1 hong4} /être ouvert à la navigation/prendre la mer; commencer un voyage sur la mer/
-????c 開花期 开花期 [kai1 hua1 qi1] {hoi1 faa1 kei4} /florescence;anthesis; the flowering period; the flower blooming season/
+開花期 开花期 [kai1 hua1 qi1] {hoi1 faa1 kei4} /période de floraison/
 開花結果 开花结果 [kai1 hua1 jie1 guo3] {hoi1 faa1 git3 gwo2} /(expr. idiom.) donner des résultats positifs; porter ses fruits/(lit.) s'épanouir et donner des fruits/
-????f 開荒 开荒 [kai1 huang1] {hoi1 fong1} /défricher (des terres incultes)/
+開荒 开荒 [kai1 huang1] {hoi1 fong1} /défricher (des terres incultes)/
 開荒牛 开荒牛 [kai1 huang1 niu2] {hoi1 fong1 ngau4} /(fig.) pionnier; fondateur/(lit.) bœuf qui défriche des terres incultes/
 開襟冷衫 开襟冷衫 [kai1 jin1 leng3 shan1] {hoi1 kam1 laang1 saam1} /cardigan/
 開講有話 开讲有话 [kai1 jiang3 you3 hua4] {hoi1 gong2 jau5 waa6} /comme dit le proverbe.../
@@ -20483,20 +20483,20 @@
 開鑊 开镬 [kai1 huo4] {hoi1 wok6} /préparer un wok pour la cuisson/(fam.) (fig.) avoir des relations sexuelles; coucher; faire l'amour/(fam.) (fig.) violer/(fam.) (fig.) perdre sa virginité/
 開門 开门 [kai1 men2] {hoi1 mun4} /ouvrir la porte/(boutique, magasin) ouvrir/
 開門七件事 开门七件事 [kai1 men2 qi1 jian4 shi4] {hoi1 mun4 cat1 gin6 si6} /(expr.) les sept nécessités de la vie: bois de chauffage, riz, huile, sel, sauce, vinaigre, thé/
-????c 開門辦學 开门办学 [kai1 men2 ban4 xue2] {hoi1 mun4 baan6 hok6} /open-door schooling/
+開門辦學 开门办学 [kai1 men2 ban4 xue2] {hoi1 mun4 baan6 hok6} /école dont les cours sont ouverts à tous/
 開開心心 开开心心 [kai1 kai5 xin1 xin1] {hoi1 hoi1 sam1 sam1} /gaiment; gaiement; joyeusement/
-????f 開面 开面 [kai1 mian4] {hoi1 min6} /(opéra cantonais) se maquiller le visage avant de monter en scène/
+開面 开面 [kai1 mian4] {hoi1 min6} /(opéra cantonais) se maquiller le visage avant de monter en scène/
 開頭 开头 [kai1 tou2] {hoi1 tau4} /commencement; début/commencer; débuter/
 開飯 开飯 [kai1 fan4] {hoi1 faan6} /servir un repas/prendre un repas/c'est l'heure du dîner! c'est l'heure du souper! à table!/
 開飯喇 开饭喇 [kai1 fan4 la3] {hoi1 faan6 laa1} /c'est l'heure du dîner! à table! le dîner est servi!/c'est l'heure du souper! le souper est servi!/
 開餐 开餐 [kai1 can1] {hoi1 caan1} /prendre un repas; dîner; déjeuner; souper/
 開首 开首 [kai1 shou3] {hoi1 sau2} /au début/
-????f 開齋 开斋 [kai1 zhai1] {hoi1 zaai1} /arrêter un régime végétarien/rompre le jeûne/commencer; débuter; démarrer/faire le premier de quelque chose (ex. marquer le premier but, réaliser la première vente de la journée, etc.)/
+開齋 开斋 [kai1 zhai1] {hoi1 zaai1} /arrêter un régime végétarien/rompre le jeûne/commencer; débuter; démarrer/faire le premier de quelque chose (ex. marquer le premier but, réaliser la première vente de la journée, etc.)/
 閏日 闰日 [run4 ri4] {jeon6 jat6} /jour intercalaire/
 閏年 闰年 [run4 nian2] {jeon6 nin4} /année bissextile/
 ????f 閑情逸致 闲情逸致 [xian2 qing2 yi4 zhi4] {haan4 cing4 jat6 zi3} /(expr.) d'un état d'esprit détendu/
 閑日 闲日 [xian2 ri4] {haan4 jat2} /jour de congé/(Hong Kong) jour ouvré/
-?????c 閑閑地 闲闲地 [xian2 xian2 di4] {haan4 haan4 dei2} /au moins; de moins/
+閑閑地 闲闲地 [xian2 xian2 di4] {haan4 haan4 dei2} /au moins; de moins/
 閒事 闲事 [xian2 shi4] {haan4 si6} /other's business/
 ????f 閒心 闲心 [xian2 xin1] {haan4 sam1} /état d'esprit détendu/
 ????c 閒散 闲散 [xian2 san3] {haan4 saan3} /à loisir/inutilisé; inoccupé/
