@@ -19173,7 +19173,7 @@
 踎監 踎监 [mou2 jian1] {mau1 gaam1} /être emprisonné/
 踎街 踎街 [mou2 jie1] {mau1 gaai1} /être sans-abri/
 踎躉 踎趸 [mou2 dun3] {mau1 dan1} /être sans emploi; être au chômage/
-䟴䟴腳 䟴䟴脚 [zhen4 zhen4 jiao3] {ngan3 ngan3 goek3} /(fig.) vivre une vie confortable/(lit.) gigoter/
+䟴䟴腳 䟴䟴脚 [zhen4 zhen4 jiao3] {ngan3 ngan3 goek3} /(fig.) vivre sans soucis; mener une vie confortable/(lit.) gigoter/
 䟴高 䟴高 [zhen4 gao1] {ngan3 gou1} /marcher sur la pointe des pieds/
 踏兩頭船 踏两头船 [ta4 liang3 tou2 chuan2] {daap6 loeng5 tau4 syun4} /(expr. idiom.) sortir avec deux personnes au même temps/(lit.) prendre deux bateaux/
 踏單車 踏单车 [ta4 dan1 che1] {daap6 daan1 ce1} /faire du vélo/
@@ -19341,7 +19341,7 @@
 軟腍腍 软腍腍 [ruan3 ren3 ren3] {jyun5 nam4 nam4} /mou, molle; moelleux; doux/
 軟腳蟹 软脚蟹 [ruan3 jiao3 xie4] {jyun5 goek3 haai5} /(fig.) gringalet; avorton; homme faible/(fig.) lâche/(fig.) homme impotent/(lit.) crabe aux jambes molles/
 軟荏荏 软荏荏 [ruan3 ren3 ren3] {jyun5 jam4 jam4} /mou, molle; moelleux; doux/faible; chétif; débile/
-????f 軟飯 软饭 [ruan3 fan4] {jyun5 faan6} /(fig.) homme en couple pour l'argent; homme qui vit de sa femme/(lit.) riz mou/
+軟飯 软饭 [ruan3 fan4] {jyun5 faan6} /(fig.) homme qui vit de sa femme; homme qui dépend de sa femme pour l'argent (voir aussi 食軟飯|食软饭)/(lit.) riz mou/
 軫宿 轸宿 [Zhen3 xiu4] {zan2 suk1} /Zhen, loge lunaire de l'astronomie chinoise/
 軫懷 轸怀 [zhen3 huai2] {zan2 waai4} /pleurer un défunt; chérir la mémoire de quelqu'un/
 軸對稱 轴对称 [zhou2 dui4 chen4] {zuk6 deoi3 cing3} /symétrie axiale; symétrie de rotation/
@@ -21168,7 +21168,7 @@
 露三點 露三点 [lu4 san1 dian3] {lou6 saam1 dim2} /(fig.) (d'une femme) être nue/(lit.) montrer trois points (=deux seins et sexe)/
 露兩點 露两点 [lu4 liang3 dian3] {lou6 loeng5 dim2} /(fig.) montrer ses seins/(lit.) montrer deux points/
 露宿者 露宿者 [lu4 su4 zhe3] {lou6 suk1 ze2} /sans-abri; sans-logis/
-露宿風餐 露宿风餐 [lu4 su4 feng1 can1] {lou6 suk1 fung1 caan1} /(expr. idiom.) rude vie dans la nature sauvage/(expr. idiom.) rude vie d'un nomade/(lit.) dormir en plein air et prendre ses repas dehors/
+露宿風餐 露宿风餐 [lu4 su4 feng1 can1] {lou6 suk1 fung1 caan1} /(expr. idiom.) rude vie dans la nature sauvage (voir aussi 風餐露宿|风餐露宿)/(expr. idiom.) rude vie d'un nomade/(lit.) dormir en plein air et prendre ses repas dehors/
 露械 露械 [Lou4 xie4] {lou6 haai2} /montrer son sexe à quelqu'un/
 露筍 露笋 [lu4 sun3] {lou6 seon2} /asperge; Asparagus officinalis/
 露頭角 露头角 [lu4 tou2 jiao3] {lou6 tau4 gok3} /être prometteur; commencer à montrer du talent/
@@ -21501,21 +21501,21 @@
 風俗習慣 风俗习惯 [feng1 su2 xi2 guan4] {fung1 zuk6 zaap6 gwaan3} /(expr.) us et coutumes/
 風頭十足 风头十足 [feng1 tou2 shi2 zu2] {fung1 tau4 sap6 zuk1} /être à l'honneur; être en vedette/
 風信 风信 [feng1 xin4] {fung1 seon3} /(litt.) vent saisonnier/nouvelles/
-????f 風吹草動 风吹草动 [feng1 chui1 cao3 dong4] {fung1 ceoi1 cou2 dung6} /(expr. idiom.) il y a des nuages à l'horizon; signes de trouble; signes de problèmes/(lit.) soufflement du vent et bruissement de l'herbe/
+風吹草動 风吹草动 [feng1 chui1 cao3 dong4] {fung1 ceoi1 cou2 dung6} /(expr. idiom.) il y a des nuages à l'horizon; signes de trouble; signes de problèmes/(lit.) soufflement du vent et bruissement de l'herbe/
 風吹雞蛋殼 风吹鸡蛋壳 [feng1 chui1 ji1 dan4 ke2] {fung1 ceoi1 gai1 daan2 hok3} /(expr.) plaie d'argent n'est pas mortelle; l'argent n'est pas tout/(lit.) (l'argent, c'est comme) une coquille d'œuf qui peut être facilement emportée par le vent/
-????f 風吹雞蛋殼，財散人安樂 风吹鸡蛋壳，财散人安乐 [feng1 chui1 ji1 dan4 ke2，cai2 san4 ren2 an1 le4] {fung1 ceoi1 gai2 daan2 hok3，coi4 saan3 jan4 on1 lok6} /(expr. idiom.) plaie d'argent n'est pas mortelle; l'argent n'est pas tout/(lit.) (l'argent, c'est comme) une coquille d'œuf qui peut être facilement emportée par le vent, l'on est plus content quand nos richesses sont dispersées/
+風吹雞蛋殼，財散人安樂 风吹鸡蛋壳，财散人安乐 [feng1 chui1 ji1 dan4 ke2，cai2 san4 ren2 an1 le4] {fung1 ceoi1 gai2 daan2 hok3，coi4 saan3 jan4 on1 lok6} /(expr. idiom.) plaie d'argent n'est pas mortelle; l'argent n'est pas tout/(lit.) (l'argent, c'est comme) une coquille d'œuf qui peut être facilement emportée par le vent, l'on est plus content quand nos richesses sont dispersées/
 風塵中人 风尘中人 [feng1 chen2 zhong1 ren2] {fung1 can4 zung1 jan4} /(expr.) prostituée/
 風季 风季 [feng1 ji4] {fung1 gwai3} /saison des typhons/
 風度翩翩 风度翩翩 [feng1 du4 pian1 pian1] {fung1 dou6 pin1 pin1} /(expr.) maintien élégant d'un jeune homme/
-????c 風擺柳 风摆柳 [feng1 bai3 liu3] {fung1 baai2 lau5} /describes someone who is indecisive / irresolute / lacks definite views of their own / easily swayed/
+????c 風擺柳 风摆柳 [feng1 bai3 liu3] {fung1 baai2 lau5} /(fig.) (d'une personne) facilement influencé/
 風景區 风景区 [feng1 jing3 qu1] {fung1 ging2 keoi1} /endroit pittoresque/
 風月場所 风月场所 [feng1 yue4 chang3 suo3] {fung1 jyut6 coeng4 so2} /(expr.) lieu de débauche/(expr.) quartier chaud; quarter à prostituées/
 風栗 风栗 [feng1 li4] {fung1 leot6} /châtaigne/
 風槍 风枪 [feng1 qiang1] {fung1 coeng1} /pistolet à air comprimé/
 風櫃 风柜 [feng1 gui4] {fung1 gwai6} /outil mécanique pour vanner/
 風水佬 风水佬 [feng1 shui5 lao3] {fung1 seoi2 lou2} /maître de Feng Shui/
-????f 風水佬呃你十年八年 风水佬呃你十年八年 [feng1 shui5 lao3 e4 ni3 shi2 nian2 ba1 nian2] {fung1 seoi2 lou2 aak1 nei5 sap6 nin4 baat3 nin4} /(expr. idiom.) est-ce que je te mentirais? jamais je ne te mentirais/(lit.) un maître de feng shui peut t'escroquer pendant huit ou dix années/
-????f 風水佬呃你十年八年，唔呃得一世 风水佬呃你十年八年，唔呃得一世 [feng1 shui5 lao3 e4 ni3 shi2 nian2 ba1 nian2 , m2 e4 de5 yi1 shi4] {fung1 seoi2 lou2 aak1 nei5 sap6 nin4 baat3 nin4 ，m4 aak1 dak1 jat1 sai3} /(expr. idiom.) est-ce que je te mentirais? jamais je ne te mentirais/(lit.) un maître de feng shui peut t'escroquer pendant huit ou dix années, mais pas pendant toute la vie/
+風水佬呃你十年八年 风水佬呃你十年八年 [feng1 shui5 lao3 e4 ni3 shi2 nian2 ba1 nian2] {fung1 seoi2 lou2 aak1 nei5 sap6 nin4 baat3 nin4} /(expr. idiom.) est-ce que je te mentirais? jamais je ne te mentirais/(lit.) un maître de feng shui peut t'escroquer pendant huit ou dix années/
+風水佬呃你十年八年，唔呃得一世 风水佬呃你十年八年，唔呃得一世 [feng1 shui5 lao3 e4 ni3 shi2 nian2 ba1 nian2 , m2 e4 de5 yi1 shi4] {fung1 seoi2 lou2 aak1 nei5 sap6 nin4 baat3 nin4 ，m4 aak1 dak1 jat1 sai3} /(expr. idiom.) est-ce que je te mentirais? jamais je ne te mentirais/(lit.) un maître de feng shui peut t'escroquer pendant huit ou dix années, mais pas pour toute la vie/
 風水尾 风水尾 [feng1 shui5 wei3] {fung1 seoi2 mei5} /(fig.) personne qui dépense tout l'argent de sa famille; personne qui dilapide son héritage/(lit.) dernière brise et dernière eau/
 風水師 风水师 [feng1 shui5 shi1] {fung1 seoi2 si1} /maître de Feng Shui/
 風油軚 风油軚 [feng1 you2 dai4] {fung1 jau4 taai5} /direction assistée électrique; D.A.E./
@@ -21524,60 +21524,60 @@
 風濕病 风湿病 [feng1 shi1 bing4] {fung1 sap1 beng6} /rheumatism;rheumatic disease/
 風煙 风烟 [feng1 yan1] {fung1 jin1} /wind and smoke ; a hazy scenery / view; chaos of war; smoke that drifts away with the wind("烽烟"beacon-fire)/
 風爐 风炉 [feng1 lu2] {fung1 lou4} /petit poêle du charbon/haut fourneau/
-????f 風球 风球 [feng1 qiu2] {fung1 kau4} /système d'alertes pour les typhons à Hong Kong (voir aussi 波|波)/typhon/
+風球 风球 [feng1 qiu2] {fung1 kau4} /système d'alertes pour les typhons à Hong Kong (voir aussi 波|波)/typhon/
 風生水起 风生水起 [feng1 sheng1 shui3 qi3] {fung1 saang1 seoi2 hei2} /(expr. idiom.) faire fortune; devenir riche/
 風筒 风筒 [feng1 tong2] {fung1 tung2} /sèche-cheveux; séchoir/
 風紀 风纪 [feng1 ji4] {fung1 gei2} /préfet; élève chargé de la discipline/
 風腸 风肠 [feng1 chang2] {fung1 coeng4} /(saucisse hongkongaise) lap cheong/
 風褸 风褛 [feng1 lu:3] {fung1 lau1} /anorak; coupe-vent/
 風言風語 风言风语 [feng1 yan2 feng1 yu3] {fung1 jin4 fung1 jyu5} /(expr. idiom.) calomnie/(lit.) paroles de vent/
-????c 風赧 风赧 [feng1 nan3] {fung1 naan5} /(what type?) hives; urticarial /
+風赧 风赧 [feng1 nan3] {fung1 naan5} /urticaire/
 風采 风采 [feng1 cai3] {fung1 coi2} /élégance; grâce/charisme/
 風鈴 风铃 [feng1 ling2] {fung1 ling4} /carillon éolien/
 風雅 风雅 [feng1 ya3] {fung1 ngaa5} /gracieux/cultivé/raffiné; élégant/
 風雪 风雪 [feng1 xue3] {fung1 syut3} /blizzard; tempête de neige/
 風頭火勢 风头火势 [feng1 tou2 huo3 shi4] {fung1 tau4 fo2 sai3} /(expr. idiom.) situation critique/
 風頭躉 风头趸 [feng1 tou5 dun3] {fung1 tau4 dan2} /chercheur d'attention/
-????f 風餐露宿 风餐露宿 [feng1 can1 lu4 su4] {fung1 caan1 lou6 suk1} /(expr. idiom.) endurer la difficulté de voyager dans les régions sauvages/(lit.) manger dans le vent et dormir dans la rosée/
+風餐露宿 风餐露宿 [feng1 can1 lu4 su4] {fung1 caan1 lou6 suk1} /(expr. idiom.) rude vie dans la nature sauvage/(expr. idiom.) rude vie d'un nomade/(lit.) prendre ses repas dehors et dormir en plein air/
 風騷 风骚 [feng1 sao1] {fung1 sou1} /littérature/excellence littéraire/(d'une femme) aguicheur; coquet/
 風鱔 风鳝 [feng1 shan4] {fung1 sin5} /anguille/
 颶風 飓风 [ju4 feng1] {geoi6 fung1} /ouragan; typhon/
-????f 飄色 飘色 [piao1 se4] {piu1 sik1} /Piu Sik (« couleurs flottantes »), défilé traditionnnel chinois/
+飄色 飘色 [piao1 se4] {piu1 sik1} /Piu Sik (« couleurs flottantes »), défilé traditionnnel chinois/
 飄蕩 飘荡 [piao1 dang4] {piu1 dong6} /flotter; voltiger; s'agiter/flaner; errer/
-????c 飄飄欲仙 飘飘欲仙 [piao1 piao1 yu4 xian1] {piu1 piu1 juk6 sin1} /(expr. idiom.) être au septième ciel; être très heureux/(lit.) flotter comme un immortel/
+飄飄欲仙 飘飘欲仙 [piao1 piao1 yu4 xian1] {piu1 piu1 juk6 sin1} /(expr. idiom.) être au septième ciel; être très heureux/(lit.) flotter comme un immortel/
 飛 飞 [fei1] {fei1} /voler; se maintenir dans les airs/prendre l'avion/rompre avec; se séparer de/couper (les cheveux)/membre d'un gang/billet; ticket/
 飛仔 飞仔 [fei1 zai3] {fei1 zai2} /membre d'un gang (de sexe masculin)/
 飛仔飛女 飞仔飞女 [fei1 zai3 fei1 nu:3] {fei1 zai2 fei1 neoi2} /membre d'un gang/voyou; vandale/
-????c 飛來峰 飞来峰 [fei1 lai2 feng1] {fei1 loi4 fung1} /a klippe; a klip; a nappe outlier/
-????f 飛來蜢 飞来蜢 [fei1 lai2 meng3] {fei1 loi4 maang2} /(fig.) évènement heureux inattendu/(lit.) sauterelle volante/
-????c 飛利 飞利 [fei1 li4] {fei1 lei6} /fury; sharp; fierce and tough; forceful; describes someone who is difficult to deal with/
+飛來峰 飞来峰 [fei1 lai2 feng1] {fei1 loi4 fung1} /(géologie) klippe/
+飛來蜢 飞来蜢 [fei1 lai2 meng3] {fei1 loi4 maang2} /(fig.) évènement heureux inattendu/(lit.) sauterelle volante/
+飛利 飞利 [fei1 li4] {fei1 lei6} /impressionnant; formidable (voir aussi 犀飛利|犀飞利)/
 飛利浦公司 飞利浦公司 [fei1 li4 pu3 gong1 si1] {fei1 lei6 pou2 gung1 si1} /Koninklijke Philips N.V ou Philips, société de technologie néerlandaise/
 飛咁快 飞咁快 [fei1 gan1 kuai4] {fei1 gam3 faai3} /(fig.) très rapide; très vite; rapide comme l'éclair/(lit.) aussi vite que voler/
 飛哩啡呢 飞哩啡呢 [fei1 li5 fei1 ne5] {fi4 li1 fe4 le4} /qui parle rapidement/(d'un fluide corporel, ex. larmes, salive) couler à flots/
 飛飛聲 飞飞声 [fei1 fei1 sheng1] {fi4 fi2 seng1} /(onomatopée du vent qui souffle) chuintement/
-????f 飛單 飞单 [fei1 dan1] {fei1 daan1} /(fig.) détourner de l'argent/(lit.) ne pas mettre (quelque chose) sur le reçu/
+飛單 飞单 [fei1 dan1] {fei1 daan1} /(fig.) détourner de l'argent/(lit.) ne pas mettre (quelque chose) sur le reçu/
 飛士 飞士 [fei1 shi4] {fei1 si6} /réputation; renommé/(orig.) de l'anglais « face » (« visage »), dans le sens « lose face » (« perdre la face »), lui-même calqué du cantonais 丟臉|丟臉 « perdre la face »/
-????c 飛天本事 飞天本事 [fei1 tian1 ben3 shi4] {fei1 tin1 bun2 si6} /resourceful;capable/
-????f 飛天蠄蟧 飞天蠄蟧 [fei1 tian1 qin2 lao2] {fei1 tin1 kam4 lou2} /(fig.) cambrioleur des appartements de tour/(espèce de plantes) Alsophila spinulosa/(lit.) araignée qui vole dans le ciel/
+飛天本事 飞天本事 [fei1 tian1 ben3 shi4] {fei1 tin1 bun2 si6} /(expr.) être très compétent; être très capable/
+飛天蠄蟧 飞天蠄蟧 [fei1 tian1 qin2 lao2] {fei1 tin1 kam4 lou2} /(fig.) cambrioleur des appartements de tour; voleur qui entre un domicile en grimpant/(espèce de plantes) Alsophila spinulosa/(lit.) araignée qui vole dans le ciel/
 飛女 飞女 [fei1 nu:3] {fei1 neoi5} /vilaine fille; mauvaise femme/
-????f 飛擒大咬 飞擒大咬 [fei1 qin2 da4 yao3] {fei1 kam4 daai6 ngaau5} /(expr. idiom.) être hardi; être impertinent; être rentre-dedans/
-????f 飛機友 飞机友 [fei1 ji1 you3] {fei1 gei1 jau2} /(fig.) personne peu fiable; personne qui ne vient jamais; personne qui plante ses amis (voir aussi 放飛機|放飞机)/(lit.) ami d'avion/
+????f 飛擒大咬 飞擒大咬 [fei1 qin2 da4 yao3] {fei1 kam4 daai6 ngaau5} /(expr. idiom.) demander trop; vouloir trop/(expr. idiom.) (en particulier) faire du rentre-dedans; demander de manière indiscrète des relations sexuelles/
+飛機友 飞机友 [fei1 ji1 you3] {fei1 gei1 jau2} /(fig.) personne peu fiable; personne qui ne vient jamais; personne qui pose un lapin à ses amis (voir aussi 放飛機|放飞机)/(lit.) ami d'avion/
 飛機庫 飞机库 [fei1 ji1 ku4] {fei1 gei1 fu3} /hangar à avion/
 飛機恤 飞机恤 [fei1 ji1 xu4] {fei1 gei1 seot1} /veste; blouson/
-????f 飛機欖 飞机榄 [fei1 ji1 lan3] {fei1 gei1 laam2} /(anglais: « aeroplane olive » ou « licorice olive ») snack cantonais en forme d'olive constitué d'herbes marinées avec du sel et de la réglisse/(lit.) olive à l'avion/
+飛機欖 飞机榄 [fei1 ji1 lan3] {fei1 gei1 laam2} /collation cantonaise en forme d'olive constitué d'herbes marinées avec du sel et de la réglisse (« aeroplane olive » ou « licorice olive » en anglais)/(lit.) olive à l'avion/
 飛機裇 飞机裇 [fei1 ji1 xu1] {fei1 gei1 seot1} /veste; blousonn/
 飛機頭 飞机头 [fei1 ji1 tou2] {fei1 gei1 tau4} /(coiffure) Pompadour; rockabilly; coupe avec une houppe rehaussée sur le front tenue par la brillantine/(lit.) tête à l'avion/
 飛毛腿 飞毛腿 [fei1 mao2 tui3] {fei1 mou4 teoi2} /(fig.) personne qui peut courir très vite/(lit.) pied à plumes volantes/
-????f 飛水 飞水 [fei1 shui3] {fei1 seoi2} /faire cuire à l'eau bouillante pendant un instant; blanchir; ébouillanter/
+飛水 飞水 [fei1 shui3] {fei1 seoi2} /faire cuire à l'eau bouillante pendant un instant; blanchir; ébouillanter/
 飛沙走奶 飞沙走奶 [fei1 sha1 zou3 nai3] {fei1 saa1 zau2 naai5} /(café) noir; sans lait ni sucre/(thé) sans lait ni sucre/(lit.) sucre qui vole et lait qui marche/
 飛滋 飞滋 [fei1 zi1] {fei1 zi1} /aphte; ulcère buccale/
 痱滋 痱滋 [fei4 zi1] {fei1 zi1} /aphte; ulcère buccale/
 飛發 飞发 [fei1 fa1] {fei1 faat3} /couper les cheveux/
-????f 飛的 飞的 [fei1 de5] {fei1 dik1} /to speed or race off in a taxi/
+????f 飛的 飞的 [fei1 de5] {fei1 dik1} /prendre un taxi et rouler à toute vitesse/
 飛砂走石 飞砂走石 [fei1 sha1 zou3 shi2] {fei1 saa1 zau2 sek6} /(fig.) vent violent/(fig.) situation chaotique/(lit.) sable qui vole et roches qui marchent/
-????f 飛站 飞站 [fei1 zhan4] {fei1 zaam6} /(of transport) to skip stations or to miss stops/
+飛站 飞站 [fei1 zhan4] {fei1 zaam6} /(d'un bus, train, etc.) sauter un arrêt; ne pas arrêter à une station/
 飛簷 飞檐 [fei1 yan2] {fei1 sim4} /avant-toit en surplomb/
-????f 飛簷走壁 飞檐走壁 [fei1 yan2 zou3 bi4] {fei1 sim4 zau2 bik1} /(expr. idiom.) sauter sur des toits et franchir des murs/
+飛簷走壁 飞檐走壁 [fei1 yan2 zou3 bi4] {fei1 sim4 zau2 bik1} /(expr. idiom.) sauter sur des toits et franchir des murs/
 飛翔 飞翔 [fei1 xiang2] {fei1 coeng4} /voler/
 飛翔公園站 飞翔公园站 [fei1 xiang2 gong1 yuan2 zhan4] {fei1 coeng4 gung1 jyun4 zaam6} /Feixiang Park Station, station du métro de Canton/
 飛翔船 飞翔船 [fei1 xiang2 chuan2] {fei1 coeng4 syun4} /aéroglisseur/
@@ -21585,33 +21585,33 @@
 飛翼船 飞翼船 [fei1 yi4 chuan2] {fei1 jik6 syun4} /aéroglisseur/
 飛腳 飞脚 [fei1 jiao3] {fei1 goek3} /(fig.) coup de pied volant/(fig.) très vite/(lit.) pied volant/
 飛行器 飞行器 [fei1 xing2 qi4] {fei1 hang4 hei3} /aéronef/
-????f 飛行棋 飞行棋 [fei1 xing2 qi2] {fei1 hang4 kei4} /« échecs à l'avion », jeu de société chinois qui ressemble au Ludo/
-????f 飛象過河 飞象过河 [fei1 xiang4 guo4 he2] {fei1 zoeng6 gwo3 ho4} /(expr. idiom.) transgresser une règle; briser une règle/(expr. idiom.) (en particulier) reach across the table to get food/(lit.) l'éléphant traverse la rivière (coup illégale aux échecs chinois)/
+飛行棋 飞行棋 [fei1 xing2 qi2] {fei1 hang4 kei4} /« échecs à l'avion », jeu de société chinois qui ressemble au Ludo/
+????f 飛象過河 飞象过河 [fei1 xiang4 guo4 he2] {fei1 zoeng6 gwo3 ho4} /(expr. idiom.) transgresser une règle; briser une règle/(expr. idiom.) (en particulier) tendre la main pour prendre de la nourriture à l'autre bout de la table/(lit.) l'éléphant traverse la rivière (coup illégale aux échecs chinois)/
 飛起 飞起 [fei1 qi3] {fei1 hei2} /extrêmement; très; terriblement/planter (quelqu'un); abandonner quelqu'un/rompre avec; se séparer de/décoller; prendre son envol/
 飛踢 飞踢 [fei1 ti1] {fei1 tek3} /coup de pied volant/
 飛車 飞车 [fei1 che1] {fei1 ce1} /(fig.) conduire vite; rouler vite/(lit.) voiture volante/
-????f 飛車黨 飞车党 [fei1 che1 dang3] {fei1 ce1 dong2} /gang qui participe à des courses automobiles illégales/(lit.) gang aux voitures volantes/
-????f 飛邊 飞边 [fei1 bian1] {fei1 bin1} /enlever la croûte (du pain)/(pain) sans croûtes/
+飛車黨 飞车党 [fei1 che1 dang3] {fei1 ce1 dong2} /gang qui participe à des courses automobiles illégales/(lit.) gang aux voitures volantes/
+飛邊 飞边 [fei1 bian1] {fei1 bin1} /enlever la croûte (du pain)/(pain) sans croûtes/
 飛騰 飞腾 [fei1 teng2] {fei1 tang4} /prendre son envol; prendre son essor/
 飛髮 飞发 [fei1 fa4] {fei1 faat3} /couper les cheveux/
 飛髮舖 飞发铺 [fei1 fa4 pu4] {fei1 faat3 pou3} /salon de coiffure; boutique de barbier/
 飛髮鋪 飞发铺 [fei1 fa4 pu4] {fei1 faat3 pou2} /salon de coiffure; boutique de barbier/
 飛鵝山 飞鹅山 [fei1 e2 shan1] {fei1 ngo4 saan1} /pic Kowloon, situé à Hong Kong/
 飛鵝嶺 飞鹅岭 [fei1 e2 ling3] {fei1 ngo4 leng5} /pic Feieling, situé à Huizhou/
-????f 食七咁食 食七咁食 [shi2 qi1 gan1 shi2] {sik6 cat1 gam2 sik6} /(expr. idiom.) s'empiffrer; manger avidement; se goinfrer/(lit.) manger comme le sept (les Cantonais organisent un banquet après sept jours de deuil)/
-????f 食七噉食 食七噉食 [shi2 qi1 dan4 shi2] {sik6 cat1 gam2 sik6} /(expr. idiom.) s'empiffrer; manger avidement; se goinfrer/(lit.) manger comme le sept (les Cantonais organisent un banquet après sept jours de deuil)/
+食七咁食 食七咁食 [shi2 qi1 gan1 shi2] {sik6 cat1 gam2 sik6} /(expr. idiom.) s'empiffrer; manger avidement; se goinfrer/(lit.) manger comme le sept (les Cantonais organisent un banquet après sept jours de deuil)/
+食七噉食 食七噉食 [shi2 qi1 dan4 shi2] {sik6 cat1 gam2 sik6} /(expr. idiom.) s'empiffrer; manger avidement; se goinfrer/(lit.) manger comme le sept (les Cantonais organisent un banquet après sept jours de deuil)/
 食井水 食井水 [shi2 jing3 shui3] {sik6 zeng2 seoi2} /(fig.) (d'une prostituée) se marier (voir aussi 埋街飲井水|埋街饮井水)/(fig.) (peuple des bateaux) épouser un homme qui vit sur de la terre ferme/(fig.) se marier à une personne de classe sociale supérieure/(lit.) manger de l'eau de puits/
-????f 食人唔𦧲骨 食人唔𦧲骨 [shi2 ren2 wu2 luo2 gu3] {sik6 jan4 m4 loe1 gwat1} /(expr. idiom.) impitoyable et rapace (voir aussi 食人唔𦧲骨|食人唔𦧲骨)/(lit.) manger les gens et ne pas recracher les os/
+食人唔𦧲骨 食人唔𦧲骨 [shi2 ren2 wu2 luo2 gu3] {sik6 jan4 m4 loe1 gwat1} /(expr. idiom.) impitoyable et rapace (voir aussi 食人唔𦧲骨|食人唔𦧲骨)/(lit.) manger les gens et ne pas recracher les os/
 食人族 食人族 [shi2 ren2 zu2] {sik6 jan4 zuk6} /groupe de cannibales/
-????f 食人隻車 食人只车 [shi2 ren2 zhi1 che1] {sik6 jan4 zek3 geoi1} /(expr. idiom.) exploiter quelqu'un/(expr. idiom.) être très avare/(lit.) manger la voiture de quelqu'un/
+食人隻車 食人只车 [shi2 ren2 zhi1 che1] {sik6 jan4 zek3 geoi1} /(expr. idiom.) exploiter quelqu'un/(expr. idiom.) être très avare/(lit.) manger la voiture de quelqu'un/
 食住上 食住上 [shi2 zhu4 shang4] {sik6 zyu6 soeng5} /(fig.) profiter d'une occasion; saisir l'occasion/(lit.) pouvoir manger/
 食住條水 食住条水 [shi2 zhu4 tiao2 shui3] {sik6 zyu6 tiu4 seoi2} /(expr. idiom.) profiter d'une occasion; saisir l'occasion/(lit.) manger le courant d'eau/
 食偏門 食偏门 [shi2 pian1 men2] {sik6 pin1 mun4} /(fig.) gagner sa vie d'une façon malhonnête/(lit.) manger la porte qui penche/
-????f 食價 食价 [shi2 jia4] {sik6 gaa3} /(agent immobilier) fournir un prix plus bas au vendeur et un prix plus haut à l'acheteur puis se mettre la différence entre les prix dans les poches/(lit.) manger des prix/
+食價 食价 [shi2 jia4] {sik6 gaa3} /(agent immobilier) fournir un prix plus bas au vendeur et un prix plus haut à l'acheteur puis empocher la différence entre les prix/(lit.) manger des prix/
 食力 食力 [shi2 li4] {sik6 lik6} /(fig.) être capable de supporter le poids (de quelque chose)/(fig.) gagner sa vie en tant que travailleur manuel/(lit.) manger la force/
 食咗 食咗 [shi2 zuo5] {sik6 zo2} /avoir déjà mangé/
 食咗火藥 食咗火药 [shi2 zuo5 huo3 yao4] {sik6 zo2 fo2 joek6} /(expr. idiom.) être très en colère; être furieux/(lit.) avoir mangé de la poudre à canon/
-????c 食咗草龍 食咗草龙 [shi2 zuo5 cao3 long2] {sik6 zo2 cou2 lung4} /to chirp or twitter all the time (in a good mood),  like a bird/
+食咗草龍 食咗草龙 [shi2 zuo5 cao3 long2] {sik6 zo2 cou2 lung4} /(expr. idiom.) être très content et ne cesser d'en parler/(lit.) dragon qui a mangé de l'herbe/
 食咗飯未呀 食咗饭未呀 [shi2 zuo5 fan4 wei4 ya5] {sik6 zo2 faan6 mei6 aa1} /(salutation) tu as déjà mangé? as-tu mangé?/
 食品工業 食品工业 [shi2 pin3 gong1 ye4] {sik6 ban2 gung1 jip6} /industrie alimentaire/
 食品店 食品店 [shi2 pin3 dian4] {sik6 ban2 dim3} /magasin d'alimentation/
@@ -21621,40 +21621,40 @@
 食埋 食埋 [shi2 mai2] {sik6 maai4} /aussi manger/
 食堂 食堂 [shi2tang2] {sik6 tong4} /cafétéria/cantine/
 食塞米 食塞米 [shi2 sai1 mi3] {sik6 sak1 mai5} /(fig.) être une personne inutile; être un bon à rien/(lit.) se boucher en mangeant du maïs/
-????f 食塵 食尘 [shi2 chen2] {sik6 can4} /(fig.) prendre du retard/(fig.) être à la traîne; se laisser distancer/(fig.) avoir tendance à attirer la poussière/(lit.) manger de la poussière/
+食塵 食尘 [shi2 chen2] {sik6 can4} /(fig.) prendre du retard/(fig.) être à la traîne; se laisser distancer/(fig.) avoir tendance à attirer la poussière/(lit.) manger de la poussière/
 食夜粥 食夜粥 [shi2 ye4 zhou1] {sik6 je6 zuk1} /(fig.) pratiquer les arts martiaux (voir aussi 食過夜粥|食过夜粥)/(lit.) manger du congee le soir/
 食大茶飯 食大茶饭 [shi2 da4 cha2 fan4] {sik6 daai6 caa4 faan6} /(expr. idiom.) gagner sa vie d'une façon malhonnête/(lit.) manger un grand repas/
-????f 食夾棍 食夹棍 [shi2 jia1 gun4] {sik6 gaap3 gwan3} /(fig.) être attaqué des deux côtés; être pris entre deux feux/(fig.) se trouver entre le marteau et l’enclume; se trouver entre deux partis qui ont des intérêts contraires/(fig.) fournir un prix plus bas au vendeur et un prix plus haut à l'acheteur puis se mettre la différence entre les prix dans les poches/(lit.) manger l'étau de jambe/
+食夾棍 食夹棍 [shi2 jia1 gun4] {sik6 gaap3 gwan3} /(fig.) être attaqué des deux côtés; être pris entre deux feux/(fig.) se trouver entre le marteau et l’enclume; se trouver entre deux partis qui ont des intérêts contraires/(fig.) fournir un prix plus bas au vendeur et un prix plus haut à l'acheteur puis se mettre la différence entre les prix dans les poches/(lit.) manger l'étau de jambe/
 食字 食字 [shi2 zi4] {sik6 zi6} /(fig.) faire un jeu de mots (avec); faire un calembour (avec)/(lit.) manger des mots/
 食宵夜 食宵夜 [shi2 xiao1 ye4] {sik6 siu1 je2} /manger une collation de minuit/manger une repas très tard le soir/
 食家 食家 [shi2 jia1] {sik6 gaa1} /gourmet; gastronome/
-????c 食少啖多覺瞓 食少啖多觉瞓 [shi2 shao3 dan4 duo1 jue2 fen4] {sik6 siu2 daam6 do1 gaau3 fan3} /some risks are not worth taking (especially dangerous  / unrighteous / illegit activities), it's better to be able to sleep well at night without feeling guilty/
+食少啖多覺瞓 食少啖多觉瞓 [shi2 shao3 dan4 duo1 jue2 fen4] {sik6 siu2 daam6 do1 gaau3 fan3} /(expr. idiom.) certaines choses (en particulier des actes illégaux, malhônnetes ou quelque chose de très risqué) ne valent pas la peine/(lit.) en manger moins mais dormir plus/
 食尾糊 食尾糊 [shi2 wei3 hu2] {sik6 mei5 wu4} /(mah-jong) gagner la dernière partie d'une série de jeux de mah-jong/(lit.) manger le dernier gruau/
 食屎 食屎 [shi2 shi3] {sik6 si2} /(vulg.) dégage! va te faire foutre!/(fig.) (vulg.) être dans la merde; être dans le pétrin; avoir des ennuis/(lit.) mangez de la merde!/
 食屎屙飯 食屎屙饭 [shi2 shi3 e1 fan4] {sik6 si2 o1 faan6} /(expr. idiom.) (connotation négative) faire les choses d'une manière inhabituelle; faire les choses d'une manière illogique/(lit.) manger de la merde et déféquer du riz/
-????f 食屎食着豆 食屎食着豆 [shi2 shi3 shi2 zhe5 dou4] {sik6 si2 sik6 zoek6 dau2} /(expr. idiom.) (péj.) (situation où) une personne sans talent parvient à réussir quelque chose/(lit.) trouver un haricot en mangeant de la merde/
-????f 食得咸魚抵得渴 食得咸鱼抵得渴 [shi2 de5 xian2 yu2 di3 de2 ke3] {sik6 dak1 haam4 jyu4 dai2 dak1 hot3} /(expr. idiom.) il faut assumer les conséquences de ses actes/(lit.) si vous mangez du poisson salé il faut tolérer le soif/
-????f 食得唔好嘥 食得唔好嘥 [shi2 de5 wu2 hao3 sai1] {sik6 dak1 m4 hou2 saai1} /(expr.) ne pas gaspiller de la nourriture/(lit.) si c'est comestible, on ne devrait pas le gaspiller/
+食屎食着豆 食屎食着豆 [shi2 shi3 shi2 zhe5 dou4] {sik6 si2 sik6 zoek6 dau2} /(expr. idiom.) (péj.) (situation où) une personne sans talent parvient à réussir quelque chose/(lit.) trouver un haricot en mangeant de la merde/
+食得咸魚抵得渴 食得咸鱼抵得渴 [shi2 de5 xian2 yu2 di3 de2 ke3] {sik6 dak1 haam4 jyu4 dai2 dak1 hot3} /(expr. idiom.) il faut assumer les conséquences de ses actes/(lit.) si vous mangez du poisson salé il faut tolérer le soif/
+食得唔好嘥 食得唔好嘥 [shi2 de5 wu2 hao3 sai1] {sik6 dak1 m4 hou2 saai1} /(expr.) ne pas gaspiller de la nourriture/(lit.) si c'est comestible, on ne devrait pas le gaspiller/
 食得㗎 食得㗎 [shi2 de5 jia4] {sik6 dak1 gaa3} /c'est comestible/
 食得㗎 食得㗎 [shi2 de5 jia4] {sik6 dak1 gaa4} /c'est comestible?/
-????f 食得禾米多 食得禾米多 [shi2 de5 he2 mi3 duo1] {sik6 dak1 wo4 mai5 do1} /(expr. idiom.) personne qui a commis beaucoup de mauvais actes/(lit.) qui a mangé beaucoup de céréales/
+食得禾米多 食得禾米多 [shi2 de5 he2 mi3 duo1] {sik6 dak1 wo4 mai5 do1} /(expr. idiom.) personne qui a commis beaucoup de mauvais actes/(lit.) qui a mangé beaucoup de céréales/
 食得落 食得落 [shi2 de5 luo4] {sik6 dak1 lok6} /avoir envie de manger/être capable de manger/être appétissant/
-????f 食得鹹魚就要抵得渴 食得咸鱼就要抵得渴 [shi2 de5 xian2 yu2 jiu4 yao4 di3 de2 ke3] {sik6 dak1 haam4 jyu4 zau6 jiu3 dai2 dak1 hot3} /(expr. idiom.) il faut assumer les conséquences de ses actes/(lit.) si vous mangez du poisson salé il faut tolérer le soif/
-????f 食得鹹魚抵得渴 食得咸鱼抵得渴 [shi2 de5 xian2 yu2 di3 de2 ke3] {sik6 dak1 haam4 jyu4 dai2 dak1 hot3} /(expr. idiom.) il faut assumer les conséquences de ses actes/(lit.) si vous mangez du poisson salé il faut tolérer le soif/
-????f 食拖鞋飯 食拖鞋饭 [shi2 tuo1 xie2 fan4] {sik6 to1 haai2 faan6} /(expr. idiom.) (d'un homme) (inj.) dépendre de sa conjointe; être un homme au foyer/(lit.) manger du riz de la pantoufle/
+食得鹹魚就要抵得渴 食得咸鱼就要抵得渴 [shi2 de5 xian2 yu2 jiu4 yao4 di3 de2 ke3] {sik6 dak1 haam4 jyu4 zau6 jiu3 dai2 dak1 hot3} /(expr. idiom.) il faut assumer les conséquences de ses actes/(lit.) si vous mangez du poisson salé il faut tolérer le soif/
+食得鹹魚抵得渴 食得咸鱼抵得渴 [shi2 de5 xian2 yu2 di3 de2 ke3] {sik6 dak1 haam4 jyu4 dai2 dak1 hot3} /(expr. idiom.) il faut assumer les conséquences de ses actes/(lit.) si vous mangez du poisson salé il faut tolérer le soif/
+食拖鞋飯 食拖鞋饭 [shi2 tuo1 xie2 fan4] {sik6 to1 haai2 faan6} /(expr. idiom.) (d'un homme) (inj.) dépendre de sa conjointe; être un homme au foyer/(lit.) manger du riz de la pantoufle/
 食晏 食晏 [shi2 yan4] {sik6 aan3} /manger le midi; (Fr.) déjeuner (Can.) dîner/(lit.) manger l'après-midi/
 食晚飯 食晚饭 [shi2 wan3 fan4] {sik6 maan5 faan6} /manger le soir; (Fr.) dîner (Can.) souper/(lit.) manger le riz du soir/
 食枉米 食枉米 [shi2 wang3 mi3] {sik6 wong2 mai5} /(fig.) être une personne inutile; être un bon à rien/(lit.) gaspiller du riz/
 食檸檬 食柠檬 [shi2 ning2 meng2] {sik6 ning4 mung1} /(fig.) être rejeté (par une fille, par une femme)/(lit.) manger un citron/
 食欲不振 食欲不振 [shi2 yu4 bu4 zhen4] {sik6 juk6 bat1 zan3} /manque d'appétit/anorexie/
-????f 食死貓 食死猫 [shi2 si3 mao1] {sik6 sei2 maau1} /(expr. idiom.) porter le chapeau; prendre la responsabilité pour les actes de quelqu'un d'autre/(lit.) manger un chat mort/
-????f 食水 食水 [shi2 shui3] {sik6 seoi2} /eau potable/tirant d'eau du navire (voir aussi 吃水|吃水)/(fig.) grands profits; grands marges/
+食死貓 食死猫 [shi2 si3 mao1] {sik6 sei2 maau1} /(expr. idiom.) porter le chapeau; prendre la responsabilité pour les actes de quelqu'un d'autre/(lit.) manger un chat mort/
+食水 食水 [shi2 shui3] {sik6 seoi2} /eau potable/tirant d'eau du navire (voir aussi 吃水|吃水)/(fig.) grands profits; grands marges/
 食水深 食水深 [shi2 shui3 shen1] {sik6 seoi2 sam1} /(fig.) faire d'énormes bénéfices; gagner d'énormes profits/(lit.) manger d'eaux profondes/
 食波餅 食波饼 [shi2 bo1 bing3] {sik6 bo1 beng2} /(fig.) être frappé par un ballon (de soccer, de basket-ball, etc.)/(lit.) manger un biscuit à ballon/
 食滯 食滞 [shi2 zhi4] {sik6 zai6} /trop manger et avoir une indigestion/
 食滯咗 食滞咗 [shi2 zhi4 zuo5] {sik6 zai6 zo2} /avoir trop mangé/
 食烟 食烟 [shi2 yan1] {sik6 jin1} /fumer une cigarette/fumer du tabac/
-????f 食無情雞 食无情鸡 [shi2 wu2 qing2 ji1] {sik6 mou4 cing4 gai1} /(fig.) être congédié; être renvoyé/(lit.) manger du poulet sans pitié/(orig.) tradition chinoise qui consiste à manger un repas de poulet le soir du Mei-ngaa (尾牙) avec son patron et les autres employés. la tête du poulet serait arrangée de manière qu'elle pointerait vers un employé qui allait être congédié pendant l'année à venir/
+食無情雞 食无情鸡 [shi2 wu2 qing2 ji1] {sik6 mou4 cing4 gai1} /(fig.) être congédié; être renvoyé/(lit.) manger du poulet sans pitié/(orig.) tradition chinoise qui consiste à manger un repas de poulet le soir du Mei-ngaa (尾牙) avec son patron et les autres employés. la tête du poulet serait arrangée de manière qu'elle pointerait vers un employé qui allait être congédié pendant l'année à venir/
 食煙 食烟 [shi2 yan1] {sik6 jin1} /fumer une cigarette/fumer du tabac/
 食物金字塔 食物金字塔 [shi2 wu4 jin1 zi4 ta3] {sik6 mat6 gam1 zi6 taap3} /pyramide alimentaire/
 食環署 食环署 [shi2 huan2 shu3] {sik6 waan4 cyu5} /Food and Environmental Hygiene Department (FEHD) (« Ministère d'hygiène alimentaire et environnementale » de Hong Kong)/
@@ -21667,16 +21667,16 @@
 食神 食神 [shi2 shen2] {sik6 san4} /gourmet; gastronome/
 食穀種 食谷种 [shi2 gu3 zhong3] {sik6 guk1 zung2} /(fig.) vivre de ses économies/(lit.) manger ses graines de céréales/
 食粥 食粥 [shi2 zhou1] {sik6 zuk1} /manger du congee/
-????f 食粥食飯 食粥食饭 [shi2 zhou1 shi2 fan4] {sik6 zuk1 zi6 faan6} /(expr. idiom.) ça passe ou ça casse/(lit.) que l'on mange du congee ou du riz/
+食粥食飯 食粥食饭 [shi2 zhou1 shi2 fan4] {sik6 zuk1 zi6 faan6} /(expr. idiom.) ça passe ou ça casse/(lit.) que l'on mange du congee ou du riz/
 食糊 食糊 [shi2 hu2] {sik6 wu2} /(fig.) gagner une partie de mah-jong/(lit.) manger du gruau/
 食糖 食糖 [shi2 tang2] {sik6 tong2} /manger des bonbons/(fig.) prendre de la drogue; consommer des drogues; cachetonner/
-????f 食糖水 食糖水 [shi2 tang2 shui3] {sik6 tong4 seoi2} /manger du tong sui, un dessert chinois/(fig.) (vulg.) avoir des relations sexuelles dans un hôtel d'amour/
-????f 食經 食经 [shi2 jing1] {sik6 ging1} /« bible de nourriture », titre courant de rubriques alimentaires dans les journaux/
+食糖水 食糖水 [shi2 tang2 shui3] {sik6 tong4 seoi2} /manger du tong sui, un dessert chinois/(fig.) (vulg.) avoir des relations sexuelles dans un hôtel d'amour/
+食經 食经 [shi2 jing1] {sik6 ging1} /« bible de nourriture », titre courant de rubriques alimentaires dans les journaux/
 食胡 食胡 [shi2 hu2] {sik6 wu2} /(fig.) gagner une partie de mah-jong/
-????c 食腦 食脑 [shi2 nao3] {sik6 nou5} /smart (spoken)/to think/
+食腦 食脑 [shi2 nao3] {sik6 nou5} /(fig.) être très intelligent; être très créatif/(fig.) dépendre de son intelligence ou de sa créativité pour gagner sa vie/(lit.) manger du cerveau/
 食自己 食自己 [shi2 zi4 ji3] {sik6 zi6 gei2} /(fig.) se débrouiller seul/(fig.) se masturber/(lit.) se manger/
 食蓮子羹 食莲子羹 [shi2 lian2 zi3 geng1] {sik6 lin4 zi2 gang1} /(fig.) être tué par balle; être abattu/(lit.) manger de la soupe à lotus/
-????f 食蕉 食蕉 [shi2 jiao1] {sik6 ziu1} /(vulg.) va te faire mettre! va te faire voir!/(lit.) va manger une banane (=va le sucer, va faire une fellation)/
+食蕉 食蕉 [shi2 jiao1] {sik6 ziu1} /(vulg.) va te faire mettre! va te faire voir!/(lit.) va manger une banane (=va le sucer, va faire une fellation)/
 食藥 食药 [shi2 yao4] {sik6 joek6} /prendre des médicaments/
 食螺螄 食螺蛳 [shi2 luo2 si5] {sik6 lo4 si1} /(fig.) bégayer (voir aussi 食螺絲|食螺丝)/(lit.) manger un escargot/
 食西北風 食西北风 [shi2 xi1 bei3 feng1] {sik6 sai1 bak1 fung1} /(expr. idiom.) éprouver des difficultés financières; ne pas avoir d'argent pour manger/(lit.) manger le vent du nord-ouest/
@@ -21685,24 +21685,24 @@
 食豆腐 食豆腐 [shi2 dou4 fu5] {sik6 dau6 fu6} /(fig.) avoir les mains baladeuses; être un tripoteur/(lit.) manger du tofu/
 食貓面 食猫面 [shi2 mao1 mian4] {sik6 maau1 min6} /(fig.) se faire gronder/(lit.) manger les nouilles du chat/
 食貓麵 食猫面 [shi2 mao1 mian4] {sik6 maau1 min6} /(fig.) se faire gronder/(lit.) manger les nouilles du chat/
-????f 食軟飯 食软饭 [shi2 ruan3 fan4] {sik6 jyun5 faan6} /(fig.) vivre de sa conjointe; être un homme au foyer; gagner moins d'argent que sa femme/(lit.) manger du riz mou/
+食軟飯 食软饭 [shi2 ruan3 fan4] {sik6 jyun5 faan6} /(fig.) vivre de sa conjointe; être un homme au foyer; gagner moins d'argent que sa femme/(lit.) manger du riz mou/
 食過 食过 [shi2 guo4] {sik6 gwo3} /avoir déjà mangé; avoir déjà goûté/
 食過夜粥 食过夜粥 [shi2 guo4 ye4 zhou1] {sik6 gwo3 je6 zuk1} /(fig.) pratiquer les arts martiaux/(lit.) manger du congee d'hier soir/
-????f 食過翻尋味 食过翻寻味 [shi2 guo fan1 xun2 wei4] {zi6 gwo3 faan1 cam4 mei6} /(fig.) délicieux; goûteux/(fig.) revenir pour plus/(lit.) en avoir goûté et revenir pour rechercher le goût/
+食過翻尋味 食过翻寻味 [shi2 guo fan1 xun2 wei4] {zi6 gwo3 faan1 cam4 mei6} /(fig.) délicieux; goûteux/(fig.) revenir pour plus/(lit.) en avoir goûté et revenir pour rechercher le goût/
 食過返尋味 食过返寻味 [shi2 guo4 fan3 xun2 wei4] {sik6 gwo3 faan2 cam4 mei6} /(fig.) délicieux; goûteux/(fig.) revenir pour plus/(lit.) en avoir goûté et revenir pour rechercher le goût/
 食錯藥 食错藥 [shi2 cuo4 shuo4] {sik6 co3 joek6} /(fig.) avoir perdu la tête; avoir perdu la raison/(lit.) avoir mangé le mauvais médicament/
-????f 食長糧 食长粮 [shi2 chang2 liang2] {sik6 coeng4 loeng4} /vivre de sa pension après sa retraite/
+食長糧 食长粮 [shi2 chang2 liang2] {sik6 coeng4 loeng4} /(fig.) vivre de sa pension après sa retraite/(lit.) manger un aliment long/
 食雜 食杂 [shi2 za2] {sik6 zaap6} /manger de la viande/
 食霸王飯 食霸王饭 [shi2 ba4 wang2 fan4] {sik6 baa3 wong4 faan6} /(fig.) partir sans payer pour son repas; quitter un restaurant sans régler l'addition; faire un resto-basket/(lit.) manger le repas d'un tyran/
-????f 食風 食风 [shi2 feng1] {sik6 fung1} /(fig.) voguer avec le vent; avoir le vent en poupe/(fig.) n'avoir rien à manger/(fig.) voyager (orig. du malais « makan angin », « manger du vent »)/(lit.) manger du vent/
-????f 食風栗 食风栗 [shi2 feng1 li4] {sik6 fung1 leot6} /rap somebody on the head using one's knuckles/(lit.) manger des châtaignes/
+食風 食风 [shi2 feng1] {sik6 fung1} /(fig.) voguer avec le vent; avoir le vent en poupe/(fig.) n'avoir rien à manger/(fig.) voyager (orig. du malais « makan angin », « manger du vent »)/(lit.) manger du vent/
+????f 食風栗 食风栗 [shi2 feng1 li4] {sik6 fung1 leot6} /(fig.) (punition) taper sur la tête de quelqu'un avec les doigts/(lit.) manger des châtaignes/
 食飯 食饭 [shi2 fan4] {sik6 faan6} /prendre un repas; manger un repas/
 食飽 食饱 [shi2 bao3] {sik6 baau2} /manger à sa faim; manger jusqu'à ce que l'on sente rassassié/
-????f 食飽無憂米 食饱无忧米 [shi2 bao3 wu1 you1 mi3] {sik6 baau2 mou4 jau1 mai5} /(expr. idiom.) vivre une vie sans soucis/(lit.) manger à sa faim et ne plus avoir besoin de se soucier du riz/
+食飽無憂米 食饱无忧米 [shi2 bao3 wu1 you1 mi3] {sik6 baau2 mou4 jau1 mai5} /(expr. idiom.) vivre une vie sans soucis; mener une vie confortable/(lit.) manger à sa faim et ne plus avoir besoin de se soucier du riz/
 食飽飯等屎屙 食饱饭等屎屙 [shi2 bao3 fan4 deng3 shi3 e1] {sik6 baau2 faan6 dang2 si2 o1} /(expr. idiom.) n'avoir rien à faire/(lit.) manger à sa faim et attendre pour déféquer/
 食餬 食糊 [shi2 hu2] {sik6 wu4} /(fig.) gagner une partie de mah-jong/(lit.) manger du gruau/
 食鬼 食鬼 [shi2 gui3] {sik6 gwai2} /Pac-Man, jeu vidéo/
-????f 食鹽多過你食米 食盐多过你食米 [shi2 yan2 duo1 guo4 ni3 shi2 mi3] {sik6 jim4 do1 gwo3 nei5 sik6 mai5} /(expr. idiom.) j'ai beaucoup d'expeérience dans la vie que toi/(lit.) j'ai mangé plus de sel que tu aies mangé du riz/
+食鹽多過你食米 食盐多过你食米 [shi2 yan2 duo1 guo4 ni3 shi2 mi3] {sik6 jim4 do1 gwo3 nei5 sik6 mai5} /(expr. idiom.) j'ai beaucoup plus d'expérience dans la vie que toi/(lit.) j'ai mangé plus de sel que tu aies mangé du riz/
 食齋 食斋 [shi2 zhai1] {sik6 zaai1} /être végétarien/(fig.) ne pas avoir de relations sexuelles/
 食螺絲 食螺丝 [shi2 luo2 si1] {sik6 lo4 si1} /(fig.) marmonner; parler entre ses dents; parler indistinctement/(lit.) manger des vis/
 食𩜠𩜠 食𩜠𩜠 [shi2 mum5 mum5] {sik6 mam1 mam1} /(enfantin) manger/
@@ -21714,62 +21714,62 @@
 飯桶 饭桶 [fan4 tong3] {faan6 tung2} /seau à riz/bon à rien/personne obèse; patapouf/
 飯檯 饭台 [fan4 tai2] {faan6 toi2} /table à manger/
 飯殼 饭壳 [fan4 ke2] {faan6 hok3} /shakushi; shamoji; spatule pour servir le riz/
-????f 飯湯 饭汤 [fan4 tang1] {faan6 tong1} /eau de riz; eau dans laquelle le riz a été cuit (voir aussi 米湯|米汤)/
+飯湯 饭汤 [fan4 tang1] {faan6 tong1} /eau de riz; eau dans laquelle le riz a été cuit (voir aussi 米湯|米汤)/
 飯焦 饭焦 [fan4 jiao1] {faan6 ziu1} /riz brûlé/
 飯煲 饭煲 [fan4 bao1] {faan6 bou1} /cuiseur de riz/
 飯盒 饭盒 [fan4 he2] {faan6 hap2} /boîte à lunch; gamelle; bento/repas disposé dans une boîte compartimentée/
-????f 飯腳 饭脚 [fan4 jiao3] {faan6 goek3} /(fig.) restants de riz/(fig.) personne avec qui l'on mange un repas/(lit.) jambe de riz/
-????f 飯蓋 饭盖 [fan4 gai4] {faan6 goi3} /couvercle d'un cuiseur de riz/
+飯腳 饭脚 [fan4 jiao3] {faan6 goek3} /(fig.) restants de riz/(fig.) personne avec qui l'on mange un repas/(lit.) jambe de riz/
+飯蓋 饭盖 [fan4 gai4] {faan6 goi3} /couvercle d'un cuiseur de riz/
 飯量 饭量 [fan4 liang4] {faan6 loeng6} /appétit/
 飯鏟 饭铲 [fan4 chan3] {faan6 caan2} /shakushi; shamoji; spatule pour servir le riz/spatule/
 飯鏟頭 饭铲头 [fan4 chan3 tou2] {faan6 caan2 tau4} /(espèce de serpents) Naja atra/
-????f 飲 饮 [yin3] {jam2} /boire/boisson; breuvage/assister à un banquet (en particulier, une réception de mariage)/
+飲 饮 [yin3] {jam2} /boire/boisson; breuvage/assister à un banquet (en particulier, une réception de mariage)/
 飲到大大地 饮到大大地 [yin3 dao4 da4 da4 di4] {jam2 dou3 daai6 daai2 dei2} /(expr. idiom.) être un peu ivre; avoir la tête qui tourne/(lit.) boire jusqu'à se sentir un peu grand/
 飲勝 饮胜 [yin3 sheng4] {jam2 sing3} /santé! tchin-tchin!/
 飲勝佢 饮胜渠 [yin3 sheng4 qu2] {jam2 sing3 keoi5} /santé! tchin-tchin!/
 飲咖啡 饮咖啡 [yin3 ka1 fei1] {jam2 gaa3 fe1} /boire du café/prendre un café/
-????c 飲咗門官茶 饮咗门官茶 [yin3 zuo5 men2 guan1 cha2] {jam2 zo2 mun4 gun1 caa4} /to be grinning all the time/
+飲咗門官茶 饮咗门官茶 [yin3 zuo5 men2 guan1 cha2] {jam2 zo2 mun4 gun1 caa4} /(expr. idiom.) rire sans cesse/
 飲品 饮品 [yin3 pin3] {jam2 ban2} /boisson; breuvage/
 飲嘢 饮嘢 [yin3 ye3] {jam2 je5} /boire quelque chose/
 飲大 饮大 [yin3 da4] {jam2 daai6} /se soûler; se saouler; boire de l'alcool jusqu'à l'ébriété/
 飲大咗 饮大咗 [yin3 da4 zuo5] {jam2 daai6 zo2} /ivre; saoul/
 飲奶 饮奶 [yin3 nai3] {jam2 naai5} /boire du lait/(fig.) étudier; prendre des leçons/
 飲家 饮家 [yin3 jia1] {jam2 gaa1} /œnophile; personne qui apprécie le vin/
-????f 飲彈 饮弹 [yin3 dan4] {jam2 daan2} /(fig.) être touché par une balle/(fig.) to commit suicide by shooting oneself in the mouth/(lit.) boire une balle/
+????f 飲彈 饮弹 [yin3 dan4] {jam2 daan2} /(fig.) être touché par une balle/(fig.) se suicider en se tirant dans la bouche/(lit.) boire une balle/
 飲得 饮得 [yin3 de5] {jam2 dak1} /potable/qui a une haute tolérance à l'alcool/
 飲得杯落 饮得杯落 [yin3 de5 bei1 luo4] {jam2 dak1 bui1 lok6} /(exprime le soulagement) c'est enfin terminé/(lit.) je pourrais boire un verre/
 飲悶酒 饮闷酒 [yin3 men4 jiu3] {jam2 mun6 zau2} /noyer son chagrin dans l'alcool; boire seul/
-????f 飲早茶 饮早茶 [yin3 zao3 cha2] {jam2 zou2 caa4} /to have morning tea and breakfast / dim sum in the morning/
+飲早茶 饮早茶 [yin3 zao3 cha2] {jam2 zou2 caa4} /manger du dimsum le matin/boire du thé tôt le matin/
 飲杯 饮杯 [yin3 bei1] {jam2 bui1} /santé! tchin-tchin!/boire un verre/
 飲歌 饮歌 [yin3 ge1] {jam2 go1} /chanson préférée/
-????f 飲水尾 饮水尾 [yin3 shui3 wei3] {jam2 seoi2 mei5} /drink leftover soup/
+飲水尾 饮水尾 [yin3 shui3 wei3] {jam2 seoi2 mei5} /boire de la soupe qui reste/
 飲泣 饮泣 [yin3 qi4] {jam2 jap1} /pleurer en silence/
 飲筒 饮筒 [yin3 tong3] {jam2 tung2} /(Hong Kong) paille; petite tube servant à aspirer un liquide/
 飲管 饮管 [yin3 guan3] {jam2 gun2} /(Hong Kong) paille; petite tube servant à aspirer un liquide/
-????f 飲茶 饮茶 [yin3 cha2] {jam2 caa4} /prendre le thé/boire du thé/« yum caa », manger des dim sum/
-????c 飲薑酒 饮姜酒 [yin3 jiang1 jiu3] {jam2 goeng1 zau2} /baby's full month celebration (spoken) (is this the celebration itself or an expression of congraulations?)/
+飲茶 饮茶 [yin3 cha2] {jam2 caa4} /prendre le thé/boire du thé/« yum caa », manger des plats de dimsum/
+飲薑酒 饮姜酒 [yin3 jiang1 jiu3] {jam2 goeng1 zau2} /fêter le premier mois d'un nouveau-né/
 飲衫 饮衫 [yin3 shan1] {jam2 saam1} /tenue de soirée/(lit.) tenue de banquet/
 飲醉 饮醉 [yin3 zui4] {jam2 zeoi3} /ivre; saoul/
 飲醉咗 饮醉咗 [yin3 zui4 zuo5] {jam2 zeoi3 zo2} /s'être soûlé; s'être saoulé; avoir bu jusqu'à l'ébriété/
 飲醉酒 饮醉酒 [yin3 zui4 jiu3] {jam2 zeoi3 zau2} /ivre; saoul/
-????f 飲頭啖湯 饮头啖汤 [yin3 tou2 dan4 tang1] {jam2 tau4 daam6 tong1} /the 'early bird' of 'early bird gets the worm'; the first one to get some kind of benefit/(lit.) boire la première gorgée de soupe/
+飲頭啖湯 饮头啖汤 [yin3 tou2 dan4 tang1] {jam2 tau4 daam6 tong1} /(expr. idiom.) être le premier à faire quelque chose et en profiter/(lit.) boire la première gorgée de soupe/
 飲食店 饮食店 [yin3 shi2 dian4] {jam2 sik6 dim3} /restaurant; resto/
 飲食業 饮食业 [yin3 shi2 ye4] {jam2 sik6 jip6} /industrie de la restauration/
 飲飲食食 饮饮食食 [yin3 yin3 shi2 shi2] {jam2 jam2 sik6 sik6} /(expr.) boire et manger/
 飲飽食醉 饮饱食醉 [yin3 bao3 shi2 zui4] {jam2 baau2 sik6 zeoi3} /(expr.) manger à sa faim et boire tout son soûl/
-????f 飲馬投錢 饮马投钱 [yin4 ma3 tou2 qian2] {jam2 maa5 tau4 cin2} /(expr. idiom.) personne très honnête/(lit.) (personne qui) payerait même pour l'eau que boit son cheval/
+飲馬投錢 饮马投钱 [yin4 ma3 tou2 qian2] {jam2 maa5 tau4 cin2} /(expr. idiom.) personne très honnête/(lit.) (personne qui) payerait même pour l'eau que boit son cheval/
 飲鴆止渴 饮鸩止渴 [yin3 zhen4 zhi3 ke3] {jam2 zam6 zi2 hot3} /chercher une solution rapide sans tenir en compte les conséquences/(lit.) boire du poison pour se désaltérer/
-????f 飽上心頭 饱上心头 [bao3 shang4 xin1 tou2] {baau2 soeng5 sam1 tau4} /(expr. idiom.) en avoir assez mangé; avoir mangé à sa faim/(lit.) rassasié jusqu'à la gorge/
+飽上心頭 饱上心头 [bao3 shang4 xin1 tou2] {baau2 soeng5 sam1 tau4} /(expr. idiom.) en avoir assez mangé; avoir mangé à sa faim/(lit.) rassasié jusqu'à la gorge/
 飽到上心口 饱到上心口 [bao3 dao4 shang4 xin1 kou3] {baau2 dou3 soeng5 sam1 hau2} /(expr. idiom.) en avoir assez mangé; avoir mangé à sa faim/(lit.) rassasié jusqu'à la gorge/
 飽和溶液 饱和溶液 [bao3 he2 rong2 ye4] {baau2 wo4 jung4 jik6} /(chimie) solution saturée/
-????c 飽和狀態 饱和状态 [bao3 he2 zhuang4 tai4] {baau2 wo4 zong6 taai3} /saturation state (what type of saturation?)/
-????f 飽暖思淫慾 饱暖思淫欲 [bao3 nuan3 si1 yin2 yu4] {baau2 nyun5 si1 jam4 juk6} /when one is materially comfortable, one will be lustful/
+飽和狀態 饱和状态 [bao3 he2 zhuang4 tai4] {baau2 wo4 zong6 taai3} /(chimie) état de saturation/
+飽暖思淫慾 饱暖思淫欲 [bao3 nuan3 si1 yin2 yu4] {baau2 nyun5 si1 jam4 juk6} /(expr.) quand l'on est confortable et on a assez mangé, l'on devient de plus en plus libertin/
 飽死 饱死 [bao3 si3] {baau2 sei2} /avoir mangé à sa faim; être très rassasié/(fig.) ça suffit! j'en ai assez de toi et ton arrogance! ne te surestime pas! (voir aussi 飽死荷蘭豆|饱死荷兰豆)/
 飽死荷蘭豆 饱死荷兰豆 [bao3 si3 he2 lan2 dou4] {baau2 sei2 ho4 laan1 dau6} /(expr. en suspens) ça suffit! j'en ai assez de toi et ton arrogance! ne te surestime pas!/(lit.) avoir mangé assez de pois mange-tout pour mourir (deuxième partie 餓死芹菜頭|饿死芹菜头 « mourir de faim en mangeant du céléri »)/
 飾櫃 饰柜 [shi4 gui4] {sik1 gwai6} /a display cabinet/
-????c 餅仔 饼仔 [bing3 zi3] {beng2 zai2} /a share of the cake; a slice of the pie/
-????f 餅印 饼印 [bing3 yin4] {beng2 jan3} /(fig.) deux visages qui se ressemblent/(lit.) cookie stamp/
-????f 餅咭 饼咭 [bing3 ji1] {beng2 kaat1} /cake vouchers (voucher redeemable for a cake)/
+餅仔 饼仔 [bing3 zi3] {beng2 zai2} /part du gâteau; une partie des bénéfices de quelque chose/
+餅印 饼印 [bing3 yin4] {beng2 jan3} /(fig.) deux visages qui se ressemblent/(lit.) moule à biscuit/
+餅咭 饼咭 [bing3 ji1] {beng2 kaat1} /coupon pour un gâteau; carte-cadeau pour un gâteau/
 餅家 饼家 [bing3 jia1] {beng2 gaa1} /boulangerie-patisserie/
 餅店 饼店 [bing3 dian4] {beng2 dim3} /boulangier-patisserie/
 養 养 [yang3] {joeng5} /élever (des enfants, des animaux)/entretenir; cultiver/guérir; récupérer; se remettre/
@@ -21780,58 +21780,58 @@
 養大 养大 [yang3 da4] {joeng5 daai6} /élever (des enfants)/
 養尊處優 养尊处优 [yang3 zun1 chu3 you1] {joeng5 zyun1 cyu3 jau1} /(expr. idiom.) vivre comme un roi; vivre comme un coq en pâte/
 養殖 养殖 [yang3 zhi2] {joeng5 zik6} /(aquaculture) élever; cultiver/
-????f 養老 养老 [yang3 lao3] {joeng5 lou5} /provide for the elderly (esp. parents)/jouir de sa retraite/
+養老 养老 [yang3 lao3] {joeng5 lou5} /prendre soin d'une personne âgée (en particulier un parent)/jouir de sa retraite/
 養身 养身 [yang3 shen1] {joeng5 san1} /prendre soin de sa santé/
 餐 餐 [can1] {caan1} /repas/(classificateur des repas)/
 餐包 餐包 [can1 bao1] {caan1 baau1} /petit pain/
-????f 餐卡 餐卡 [can1 ka3] {caan1 kaa1} /carte de repas/(dim sum cart? carts in restaurants that carry food)/
+餐卡 餐卡 [can1 ka3] {caan1 kaa1} /carte de repas/voiture-restaurant/
 餐叉 餐叉 [can1 cha1] {caan1 caa1} /fourchette de table/
 餐單 餐单 [can1 dan1] {caan1 daan1} /(restaurant) carte; menu/
 餐屎 餐屎 [can1 shi3] {caan1 si2} /chance; occasion/(orig.) de l'anglais « chance » (« chance, occasion »)/
 餐搵餐食 餐揾餐食 [can1 wen3 can1 shi2] {caan1 wan2 caan1 sik6} /(expr. idiom.) vivre au jour le jour/(lit.) repas trouvé repas mangé/
-????f 餐搵餐食餐餐清 餐揾餐食餐餐清 [can1 wen3 can1 shi2 can1 can1 qing1] {caan1 wan3 caan1 sik6 caan1 caan1 cing1} /(expr. idiom.) vivre au jour le jour/(lit.) repas trouvé repas mangé, chaque repas complètement dévoré/
+餐搵餐食餐餐清 餐揾餐食餐餐清 [can1 wen3 can1 shi2 can1 can1 qing1] {caan1 wan3 caan1 sik6 caan1 caan1 cing1} /(expr. idiom.) vivre au jour le jour/(lit.) repas trouvé repas mangé, chaque repas complètement dévoré/
 餐檯 餐台 [can1 tai2] {caan1 toi1} /table à manger/
 餐飲業 餐饮业 [can1 yin3 ye4] {caan1 jam2 jip6} /industrie de la restauration/
 餓 饿 [e4] {ngo6} /faim/avoir faim/
-????f 餓死老婆燻臭屋 饿死老婆熏臭屋 [e4 si3 lao3 po5 xun1 chou4 wu1] {ngo6 sei2 lou5 po4 fan1 cau3 uk1} /(expr. idiom.) homme incapable de gagner assez d'argent pour sa famille/(lit.) affamer sa femme et remplir la maison d'une sale odeur/
-????f 餓狗搶屎 饿狗抢屎 [e4 gou3 qiang3 shi3] {ngo6 gau2 coeng2 si2} /(expr. idiom.) se ruer vers des objets qui ne valent pas grand chose/(lit.) chien faim se bat pour la merde/
+餓死老婆燻臭屋 饿死老婆熏臭屋 [e4 si3 lao3 po5 xun1 chou4 wu1] {ngo6 sei2 lou5 po4 fan1 cau3 uk1} /(expr. idiom.) homme incapable de gagner assez d'argent pour subvenir aux besoins de sa famille/(lit.) affamer sa femme et remplir la maison d'une sale odeur/
+餓狗搶屎 饿狗抢屎 [e4 gou3 qiang3 shi3] {ngo6 gau2 coeng2 si2} /(expr. idiom.) se ruer vers des objets qui ne valent pas grand chose/(lit.) chien faim se bat pour la merde/
 餓狼 饿狼 [e4 lang2] {ngo6 long4} /(fig.) personne rapace/(lit.) loup rapace/
-????f 餓過飢 饿过饥 [e4 guo4 ji1] {ngo6 gwo3 gei1} /(fig.) voir très faim/(fig.) avoir tellement faim que l'on n'a plus faim/
-????c 餓鬼投胎 饿鬼投胎 [e4 gui3 tou2 tai1] {ngo6 gwai2 tau4 toi1} /(expr. idiom.) avoir très faim/(expr. idiom.) eat with no manners, large mouthfuls and too quickly (slang)/(lit.) (manger) comme un fantôme affamé qui est réincarné/
+餓過飢 饿过饥 [e4 guo4 ji1] {ngo6 gwo3 gei1} /(fig.) voir très faim/(fig.) avoir tellement faim que l'on n'a plus faim/
+餓鬼投胎 饿鬼投胎 [e4 gui3 tou2 tai1] {ngo6 gwai2 tau4 toi1} /(expr. idiom.) avoir très faim/(expr. idiom.) manger de manière grossière; s'empiffrer; se goinfrer/(lit.) (manger) comme un fantôme affamé qui est réincarné/
 餘味 余味 [yu2 wei4] {jyu4 mei6} /impression durable; forte impression; bonne impression/bon arrière-goût/
 餘暇 余暇 [yu2 xia2] {jyu4 haa6} /temps libre/
 餘毒 余毒 [yu2 du2] {jyu4 duk6} /influence pernicieuse/
 餘生 余生 [yu2 sheng1] {jyu4 sang1} /reste de sa vie; restant de sa vie/
-????f 餘興 余兴 [yu2 xing4] {jyu4 hing3} /lingering interest; desire to continue doing something that makes one happy or that one enjoys/divertissement après le dîner/
+餘興 余兴 [yu2 xing4] {jyu4 hing3} /divertissement après le souper (Can.), dîner (Fr.)/
 餛飩 馄饨 [hun2 tun5] {wan4 tan1} /wonton/
-????f 餛飩麵 馄饨面 [hun2 tun5 mian4] {wan4 tan1 min6} /soupe aux nouilles wonton; nouilles wonton/
-????f 餲堪堪 餲堪堪 [ai4 kan1 kan1] {ngaat3 ham1 ham1} /odeur d'urine; puanteur d'urine/
+餛飩麵 馄饨面 [hun2 tun5 mian4] {wan4 tan1 min6} /soupe aux nouilles wonton; nouilles wonton/
+餲堪堪 餲堪堪 [ai4 kan1 kan1] {ngaat3 ham1 ham1} /odeur d'urine; puanteur d'urine/
 餵人奶 喂人奶 [wei4 ren2 nai3] {wai3 jan4 naai5} /nourrir de lait/(en particulier) allaiter/
-????f 餵奶 喂奶 [wei4 nai3] {wai3 naai5} /nourrir de lait/(en particulier) allaiter/
-????f 餵老虎機 喂老虎机 [wei4 lao3 hu3 ji1] {wai3 lou5 fu2 gei1} /(fig.) dépenser beaucoup d'argent en jouant à une machine à sous/(fig.) mettre des pièces dans le parcmètre/(lit.) nourrir la machine du tigre (=machine à sous)/
+餵奶 喂奶 [wei4 nai3] {wai3 naai5} /nourrir de lait/(en particulier) allaiter/
+餵老虎機 喂老虎机 [wei4 lao3 hu3 ji1] {wai3 lou5 fu2 gei1} /(fig.) dépenser beaucoup d'argent en jouant à une machine à sous/(fig.) mettre des pièces dans le parcmètre/(lit.) nourrir la machine du tigre (=machine à sous)/
 餵飼 喂饲 [wei4 si4] {wai3 zi6} /nourrir (des animaux)/
 餸 餸 [song4] {sung3} /plat; plat d'accompagnement; plat autre que le riz/
 餸菜 餸菜 [song4 cai4] {sung3 coi3} /plat d'accompagnement; plat autre que le riz/
 餸頭餸尾 餸头餸尾 [song4 tou2 song4 wei3] {sung3 tau4 sung3 mei5} /restes; restes d'un repas/(lit.) tête et queue d'un plat d'accompagnement/
-????f 餿水 馊水 [sou1 shui3] {sau1 seoi2} /pâtée; ce que l'on donne à manger aux animaux (particulièrement les cochons)/
+餿水 馊水 [sou1 shui3] {sau1 seoi2} /pâtée; ce que l'on donne à manger aux animaux (particulièrement les cochons)/
 饑餓 饥饿 [ji1 e4] {gei1 ngo6} /faim; famine/
-????f 饑饉三十 饥馑三十 [ji1 jin3 san1 shi2] {gei1 gan2 saam1 sap6} /Famine events, localized events of voluntary fasting for 30 or 40 hours depending on the region to raise money and awareness for world hunger./
+????f 饑饉三十 饥馑三十 [ji1 jin3 san1 shi2] {gei1 gan2 saam1 sap6} /grève de la faim d'une durée de trente à quarante heures/
 饒沃 饶沃 [rao2 wo4] {jiu4 juk1} /sol fertile/
 饑寒交迫 饥寒交迫 [ji1 han2 jiao1 po4] {gei1 hon4 gaau1 bik1} /(expr. idiom.) être très pauvre/(lit.) souffrir de la faim et du froid/
-????c 饒讓 饶让 [rao2 rang4] {jiu4 joeng6} /tolerance and concession; to let off; to excuse; to have mercy on; to reprieve/
+饒讓 饶让 [rao2 rang4] {jiu4 joeng6} /effacer (une dette); (finances) exonérer/
 首創精神 首创精神 [shou3 chuang4 jing1 shen2] {sau2 cong3 zing1 san4} /esprit avant-gardiste; esprit pionner; esprit créatif/
-????f 首惡 首恶 [shou3 e4] {sau2 ok3} /the chief criminal; main culprit/
+首惡 首恶 [shou3 e4] {sau2 ok3} /principal coupable; principal responsable/
 首日 首日 [shou3 ri4] {sau2 jat6} /le premier jour/
 首期 首期 [shou3 qi1] {sau2 kei4} /première période/acompte; versement initial/
 首本 首本 [shou3 ben3] {sau2 bun2} /meilleur travail de quelqu'un/
 首烏 首乌 [shou3 wu1] {sau2 wu1} /(espèce de plantes) Fallopia multiflora; Fallopia multiflora/
 首當其衝 首当其冲 [shou3 dang1 qi2 chong1] {sau2 dong1 kei4 cung1} /(expr. idiom.) être le premier touché/
 首肯 首肯 [shou3 ken3] {sau2 hang2} /donner son accord; approuver/
-????c 首被告 首被告 [shou3 bei4 gao4] {sau2 bei6 gou3} /the first defendant/
+首被告 首被告 [shou3 bei4 gao4] {sau2 bei6 gou3} /(loi) défendeur principal/
 香 香 [xiang1] {hoeng1} /senrit bon; être parfumé/délicieux; appétissant/(sommeil) profond/bâton d'encens/(par euphémisme) décéder; mourir/vaincu; battu/hors service/
-????f 香主 香主 [xiang1 zhu3] {hoeng1 zyu2} /incense master, a senior rank in a gang/
-????c 香信 香信 [xiang1 xin4] {hoeng1 seon3} /a type of shiitake mushroom/
-????c 香口 香口 [xiang1 kou3] {hoeng1 hau2} /tasty; crispy (spoken)/
+????f 香主 香主 [xiang1 zhu3] {hoeng1 zyu2} /(rang senior d'un membre d'un gang)/
+香信 香信 [xiang1 xin4] {hoeng1 seon3} /une sorte de champignon shiitaké/
+香口 香口 [xiang1 kou3] {hoeng1 hau2} /savoureux/
 香咗 香咗 [xiang1 zuo5] {hoeng1 zo2} /(par euphémisme) décédé; mort/vaincu; battu/hors service/(lit.) parfumé/
 香噴噴 香喷喷 [xiang1 pen1 pen1] {hoeng1 pan3 pan3} /sentir bon; être parfumé/délicieux; appétissant/
 香川縣 香川县 [xiang1 chuan1 xian4] {hoeng1 cyun1 jyun6} /préfecture de Kagawa; préfecture du Japon/
@@ -21840,12 +21840,12 @@
 香樟 香樟 [xiang1 zhang1] {hoeng1 zoeng1} /(espèce d'arbres) Cinnamomum camphora; camphrier; arbre à camphre; Bois de Shiu; Laurier de Chine/
 香氣 香气 [xiang1 qi4] {hoeng1 hei3} /odeur agréable; parfum; fragrance/
 香江 香江 [xiang1 jiang1] {hoeng1 gong1} /nom poétique de Hong Kong/rivière des Parfums; fleuve du Viêt Nam/
-????f 香油 香油 [xiang1 you2] {hoeng1 jau4} /huile de sésame/(fig.) don d'argent à un temple chinois/
-????f 香消玉殞 香消玉殒 [xiang1 xiao1 yu4 yun3] {hoeng1 siu1 juk6 wan5} /(expr. idiom.) décès d'une beauté/(lit.) une fragrance s'estompe et le jade disparaît/
+香油 香油 [xiang1 you2] {hoeng1 jau4} /huile de sésame/(fig.) don d'argent à un temple chinois/
+香消玉殞 香消玉殒 [xiang1 xiao1 yu4 yun3] {hoeng1 siu1 juk6 wan5} /(expr. idiom.) décès d'une beauté/(lit.) une fragrance s'estompe et le jade disparaît/
 香港上海匯豐銀行 香港上海汇丰银行 [xiang1 gang3 shang4 hai3 hui4 feng1 yin2 hang2] {hoeng1 gong2 soeng5 hoi2 wui6 fung1 ngan4 hong4} /HSBC; groupe bancaire international britannique/
 香港中央圖書館 香港中央图书馆 [xiang1 gang3 zhong1 yang1 tu2 shu1 guan3] {hoeng1 gong2 zung1 joeng1 tou4 syu1 gun2} /Hong Kong Central Library (« bibliothèque centrale de Hong Kong »)/
 香港中學文憑考試 香港中学文凭考试 [Xiang1 gang3 zhong1 xue2 wen2 ping2 kao3 shi4] {hoeng1 gong2 zung1 hok6 man4 pang4 haau2 si5} /Hong Kong Diploma of Secondary Education Examination (« diplôme d'études secondaires de Hong Kong »), examen pour accéder à l'enseignement supérieur équivalent au baccalauréat (Fr.) ou le diplôme d'études collégiales (Québec)/
-????f 香港中學會考 香港中学会考 [xiang1 gang3 zhong1 xue2 hui4 kao3] {hoeng1 gong2 zung1 hok6 wui6 haau2} /Hong Kong Certificate of Education Examination, ancien diplôme d'études secondaires de Hong Kong remplacé depuis 2011 par le 香港中學文憑考試|香港中学文凭考试/
+香港中學會考 香港中学会考 [xiang1 gang3 zhong1 xue2 hui4 kao3] {hoeng1 gong2 zung1 hok6 wui6 haau2} /Hong Kong Certificate of Education Examination, ancien diplôme d'études secondaires de Hong Kong remplacé depuis 2011 par le 香港中學文憑考試|香港中学文凭考试/
 香港互聯網註冊管理有限公司 香港互联网注册管理有限公司 [xiang1 gang3 hu4 lian2 wang3 zhu4 ce4 guan3 li3 you3 xian4 gong1 si1] {hoeng1 gong2 wu6 lyun4 mong5 zyu3 caak3 gun2 lei5 jau5 haan6 gung1 si1} /Hong Kong Internet Registration Corporation Limited, association qui gère le domaine de premier niveau national de Hong Kong (.hk)/
 香港仔 香港仔 [xiang1 gang3 zai3] {hoeng1 gong2 zai2} /Aberdeen; Hong Kong/
 香港仔水塘 香港仔水塘 [xiang1 gang3 zai3 shui3 tang2] {hoeng1 gong2 zai2 seoi2 tong4} /Aberdeen Reservoirs, deux bassins de retenue à Hong Kong/
@@ -21861,27 +21861,27 @@
 香港地 香港地 [xiang1 gang3 di4] {hoeng1 gong2 dei2} /ici, à Hong Kong/
 香港城市大學 香港城市大学 [xiang1 gang3 cheng2 shi4 da4 xue2] {hoeng1 gong2 sing4 si5 daai6 hok6} /City University of Hong Kong, université municipale de Hong Kong/
 香港域名註冊有限公司 香港域名注册有限公司 [xiang1 gang3 yu4 ming2 zhu4 ce4 you3 xian4 gong1 si1] {hoeng1 gong2 wik6 meng2 zyu3 caak3 jau5 haan6 gung1 si1} /Hong Kong Domain Name Registration Company Limited, filiale du Hong Kong Internet Registration Corporation Limited/
-????f 香港大學大學堂 香港大学大学堂 [xiang1 gang3 Da4 xue2 da4 xue2 tang2] {hoeng1 gong2 daai6 hok6 daai6 hok6 tong4} /University Hall, the student residence of the Hong Kong University/
+香港大學大學堂 香港大学大学堂 [xiang1 gang3 aa4 xue2 da4 xue2 tang2] {hoeng1 gong2 daai6 hok6 daai6 hok6 tong4} /University Hall, résidence universitaire à l'Université de Hong Kong/
 香港大球場 香港大球场 [xiang1 gang3 da4 qiu2 chang3] {hoeng1 gong2 daai6 kau4 coeng4} /Hong Kong Stadium, aussi connu sous le nom de Hong Kong Stadium/
 香港天文台 香港天文台 [xiang1 gang3 tian1 wen2 tai2] {hoeng1 gong2 tin1 man4 toi4} /observatoire de Hong Kong, (« Hong Kong Observatory » en anglais)/
 香港太空館 香港太空馆 [xiang1 gang3 tai4 kong1 guan3] {hoeng1 gong2 taai3 hung1 gun2} /musée de l'espace de Hong Kong, (« Hong Kong Space Museum » en anglais)/
 香港寬頻 香港宽频 [xiang1 gang3 kuan1 pin2] {hoeng1 gong2 fun1 pan4} /HKBN Ltd., aussi connu sous le nom de Hong Kong Broadband Network, opérateur de télécommunications à Hong Kong/
-????f 香港專上學生聯會 香港专上学生联会 [xiang1 gang3 zhuan1 shang4 xue2 sheng5 lian2 hui4] {hoeng1 gong2 zyun1 soeng6 hok6 saang1 lyun4 wui2} /Hong Kong Federation of Students, bureau d'étudiants de quatre universités à Hong Kong/
+香港專上學生聯會 香港专上学生联会 [xiang1 gang3 zhuan1 shang4 xue2 sheng5 lian2 hui4] {hoeng1 gong2 zyun1 soeng6 hok6 saang1 lyun4 wui2} /Hong Kong Federation of Students, bureau d'étudiants de quatre universités à Hong Kong/
 香港小姐 香港小姐 [xiang1 gang3 xiao3 jie5] {hoeng1 gong2 siu2 ze2} /Miss Hong Kong, concours de beauté féminin de Hong Kong/
 香港建築師學會 香港建筑师学会 [xiang1 gang3 jian4 zhu4 shi1 xue2 hui4] {hoeng1 gong2 gin3 zuk1 si1 hok6 wui2} /Hong Kong Institute of Architects, organisation professionnelle d'architectes de Hong Kong/
-????f 香港房屋協會 香港房屋协会 [xiang1 gang3 fang2 wu1 xie2 hui4] {hoeng1 gong2 fong4 uk1 hip3 wui2} /Hong Kong Housing Society, public housing provider in Hong Kong/
-????f 香港房屋委員會 香港房屋委员会 [xiang1 gang3 fang2 wu1 wei3 yuan2 hui4] {hoeng1 gong2 fong4 uk1 wai2 jyun4 wui2} /Hong Kong Housing Authority, public housing provider in Hong Kong/
+香港房屋協會 香港房屋协会 [xiang1 gang3 fang2 wu1 xie2 hui4] {hoeng1 gong2 fong4 uk1 hip3 wui2} /Hong Kong Housing Society, deuxième fournisseur de logement social à Hong Kong par son importance/
+香港房屋委員會 香港房屋委员会 [xiang1 gang3 fang2 wu1 wei3 yuan2 hui4] {hoeng1 gong2 fong4 uk1 wai2 jyun4 wui2} /Hong Kong Housing Authority, premier fournisseur de logement social à Hong Kong par son importance/
 香港教育學院 香港教育学院 [xiang1 gang3 jiao4 yu4 xue2 yuan4] {hoeng1 gong2 gaau3 juk6 hok6 jyun2} /institut d'éducation de Hong Kong (en anglais « Hong Kong Institute of Education »), ancien nom de l'université d'éducation de Hong Kong (en anglais « Education University of Hong Kong »)/
 香港文化博物館 香港文化博物馆 [xiang1 gang3 wen2 hua4 bo2 wu4 guan3] {hoeng1 gong2 man4 faa3 bok3 mat6 gun2} /musée du patrimoine de Hong Kong, (en anglais « Hong Kong Heritage Museum »)/
-????f 香港旅遊協會 香港旅游协会 [xiang1 gang3 lu:3 you2 xie2 hui4] {hoeng1 gong2 leoi5 jau4 hip3 wui2} /Hong Kong Tourism Board, office de tourisme de Hong Kong/
+香港旅遊協會 香港旅游协会 [xiang1 gang3 lu:3 you2 xie2 hui4] {hoeng1 gong2 leoi5 jau4 hip3 wui2} /Hong Kong Tourism Board, office de tourisme de Hong Kong/
 香港會議展覽中心 香港会议展览中心 [xiang1 gang3 hui4 yi4 zhan3 lan3 zhong1 xin1] {hoeng1 gong2 wui2 ji5 zin2 laam5 zung1 sam1} /Hong Kong Convention and Exhibition Centre, palais des congrès à Hong Kong/
 香港樹仁大學 香港树仁大学 [xiang1 gang3 shu4 ren2 da4 xue2] {hoeng1 gong2 syu6 jan4 daai6 hok6} /Hong Kong Shue Yan University, université d'arts libéraux à Hong Kong/
-????f 香港機場管理局 香港机场管理局 [xiang1 gang3 ji1 chang3 guan3 li3 ju2] {hoeng1 gong2 gei1 coeng4 gun2 lei5 guk6} /Airport Authroity Hong Kong/
+香港機場管理局 香港机场管理局 [xiang1 gang3 ji1 chang3 guan3 li3 ju2] {hoeng1 gong2 gei1 coeng4 gun2 lei5 guk6} /Airport Authority Hong Kong, autorité gouvernementale qui gère l'aéroport de Hong Kong/
 香港歷史博物館 香港历史博物馆 [xiang1 gang3 li4 shi3 bo2 wu4 guan3] {hoeng1 gong2 lik6 si2 bok3 mat6 gun2} /musée d'histoire de Hong Kong (« Hong Kong Museum of History » en anglais)/
 香港殯儀館 香港殡仪馆 [xiang1 gang3 bin4 yi2 guan3] {hoeng1 gong2 ban3 ji4 gun2} /Hong Kong Funeral Home, le premier funérarium de Hong Kong/
 香港海底隧道 香港海底隧道 [xiang1 gang3 hai3 di3 sui4 dao4] {hoeng1 gong2 hoi2 dai2 seoi6 dou6} /Cross-Harbour Tunnel (« Tunnel de la traversée du détroit »), tunnel sous-marin à Hong Kong qui traverse le détroit de Victoria Harbour/
 香港海洋公園 香港海洋公园 [xiang1 gang3 hai3 yang2 gong1 yuan2] {hoeng1 gong2 hoi2 joeng4 gung1 jyun4} /Ocean Park Hong Kong, parc de loisirs à Hong Kong/
-????f 香港海關 香港海关 [xiang1 gang3 hai3 guan1] {hoeng1 gong2 hoi2 gwaan1} /Hong Kong Customs and Excise Department/
+香港海關 香港海关 [xiang1 gang3 hai3 guan1] {hoeng1 gong2 hoi2 gwaan1} /Hong Kong Customs and Excise Department, agence du gouvernement de Hong Kong responsable des services douaniers/
 香港海防博物館 香港海防博物馆 [xiang1 gang3 hai3 fang2 bo2 wu4 guan3] {hoeng1 gong2 hoi2 fong4 bok3 mat6 gun2} /musée de la défense côtière de Hong Kong (« Hong Kong Museum of Coastal Defence » en anglais)/
 香港浸會大學 香港浸会大学 [xiang1 gang3 jin4 hui4 da4 xue2] {hoeng1 gong2 zam3 wui2 daai6 hok6} /université baptiste de Hong Kong (« Hong Kong Baptist University » en anglais)/
 香港演藝學院 香港演艺学院 [xiang1 gang3 yan3 yi4 xue2 yuan4] {hoeng1 gong2 jin2 ngai6 hok6 jyun2} /académie des arts du spectacle de Hong Kong (« Hong Kong Academy for Performing Arts » en anglais), institution académique et lieu de spectacles/
@@ -21891,19 +21891,19 @@
 香港禮賓府 香港礼宾府 [xiang1 gang3 li3 bin1 fu3] {hoeng1 gong2 lai5 ban1 fu2} /Hong Kong Government House, résidence d'État de Hong Kong/
 香港科學館 香港科学馆 [xiang1 gang3 ke1 xue2 guan3] {hoeng1 gong2 fo1 hok6 gun2} /musée des sciences de Hong Kong (« Hong Kong Science Museum » en anglais)/
 香港管弦樂團 香港管弦乐团 [xiang1 gang3 guan3 xian2 yue4 tuan2] {hoeng1 gong2 gun2 jin4 ngok6 tyun4} /Orchestre philharmonique de Hong Kong/
-????f 香港紅十字會輸血服務中心 香港红十字会输血服务中心 [xiang1 gang3 Hong2 Shi2 zi4 hui4 shu1 xie3 fu2 wu4 zhong1 xin1] {hoeng1 gong2 hung4 sap6 zi6 wui2 syu1 hyut3 fuk6 mou6 zung1 sam1} /Hong Kong Red Cross Blood Transfusion Service/
+香港紅十字會輸血服務中心 香港红十字会输血服务中心 [xiang1 gang3 hong2 shi2 zi4 hui4 shu1 xie3 fu2 wu4 zhong1 xin1] {hoeng1 gong2 hung4 sap6 zi6 wui2 syu1 hyut3 fuk6 mou6 zung1 sam1} /Hong Kong Red Cross Blood Transfusion Service, service de transfusion sanguine à Hong Kong/
 香港經濟日報 香港经济日报 [xiang1 gang3 jing1 ji4 ri4 bao4] {hoeng1 gong2 ging1 zai3 jat6 bou3} /Hong Kong Economic Times, journal quotidien hongkongais/
-????f 香港考試及評核局 香港考试及评核局 [xiang1 gang3 kao3 shi4 ji2 ping2 he2 ju2] {hoeng1 gong2 haau2 si5 kap6 ping4 hat6 guk2} /Hong Kong Examinations and Assessment Authority/
-????f 香港考試局 香港考试局 [xiang1 gang3 kao3 shi4 ju2] {hoeng1 gong2 haau2 si5 guk6} /Hong Kong Examinations and Assessment Authority/
+香港考試及評核局 香港考试及评核局 [xiang1 gang3 kao3 shi4 ji2 ping2 he2 ju2] {hoeng1 gong2 haau2 si5 kap6 ping4 hat6 guk2} /Hong Kong Examinations and Assessment Authority, agence du gouvernement de Hong Kong d’évaluation éducative/
+香港考試局 香港考试局 [xiang1 gang3 kao3 shi4 ju2] {hoeng1 gong2 haau2 si5 guk6} /Hong Kong Examinations and Assessment Authority, agence du gouvernement de Hong Kong d'évaluation éducative/
 香港聯合交易所 香港联合交易所 [xiang1 gang3 lian2 he2 jiao1 yi4 suo3] {hoeng1 gong2 lyun4 hap6 gaau1 jik6 so2} /Hong Kong Exchanges and Clearing Limited, HKEx/
 香港職工會聯盟 香港职工会联盟 [xiang1 gang3 zhi2 gong1 hui4 lian2 meng2] {hoeng1 gong2 zik1 gung1 wui2 lyun4 mang4} /Hong Kong Confederation of Trade Unions, parti politique hongkongais/
-????f 香港舞蹈團 香港舞蹈团 [xiang1 gang3 wu3 dao4 duan2] {hoeng1 gong2 mou5 dou6 tyun4} /Hong Kong Dance Company, groupe des arts de spectacle à Hong Kong/
+香港舞蹈團 香港舞蹈团 [xiang1 gang3 wu3 dao4 duan2] {hoeng1 gong2 mou5 dou6 tyun4} /Hong Kong Dance Company, groupe des arts de spectacle à Hong Kong/
 香港藝術館 香港艺术馆 [xiang1 gang3 yi4 shu4 guan3] {hoeng1 gong2 ngai6 seot6 gun2} /musée d'art de Hong Kong (« Hong Kong Museum of Art » en anglais)/
 香港語言學學會粵語拼音方案 香港语言学学会粤语拼音方案 [xiang1 gang3 yu3 yan2 xue2 xue2 hui4 yue4 yu3 pin1 yin1 fang1 an4] {hoeng1 gong2 jyu5 jin4 hok6 hok6 wui2 jyut6 jyu5 ping3 jam1 fong1 on3} /Jyutping, système de romanisation du cantonais crée par la Société linguistique de Hong Kong (« Linguistic Society of Hong Kong » ou « LSHK » en anglais)/
 香港警務處 香港警务处 [xiang1 gang3 jing3 wu4 chu4] {hoeng1 gong2 ging2 mou6 cyu2} /police de Hong Kong (« Hong Kong Police Force » en anglais)/
-香港賽馬會 香港赛马会 [xiang1 gang3 Sai4 ma3 hui4] {hoeng1 gong2 coi3 maa5 wui2} /Jockey Club de Hong Kong (« Hong Kong Jockey Club » en anglais)/
-????f 香港輔助警察隊 香港辅助警察队 [xiang1 gang3 fu3 zhu4 jing3 cha2 dui4] {hoeng1 gong2 fu6 zo6 ging2 caat3 deoi6} /Hong Kong Auxiliary Police Force, unité de réserve de la police de Hong Kong/
-香港迪士尼樂園 香港迪士尼乐园 [xiang1 gang3 Di2 shi4 ni2 Le4 yuan2] {hoeng1 gong2 dik6 si6 nei4 lok6 jyun4} /Hong Kong Disneyland/
+香港賽馬會 香港赛马会 [xiang1 gang3 sai4 ma3 hui4] {hoeng1 gong2 coi3 maa5 wui2} /Jockey Club de Hong Kong (« Hong Kong Jockey Club » en anglais)/
+香港輔助警察隊 香港辅助警察队 [xiang1 gang3 fu3 zhu4 jing3 cha2 dui4] {hoeng1 gong2 fu6 zo6 ging2 caat3 deoi6} /Hong Kong Auxiliary Police Force, unité de réserve de la police de Hong Kong/
+香港迪士尼樂園 香港迪士尼乐园 [xiang1 gang3 di2 shi4 ni2 Le4 yuan2] {hoeng1 gong2 dik6 si6 nei4 lok6 jyun4} /Hong Kong Disneyland/
 香港郵政 香港邮政 [xiang1 gang3 you2 zheng4] {hoeng1 gong2 jau4 zing3} /Hongkong Post, service postal du Hong Kong/
 香港醫學會 香港医学会 [xiang1 gang3 yi1 xue2 hui4] {hoeng1 gong2 ji1 hok6 wui2} /The Hong Kong Medical Association, association médicale de Hong Kong/
 香港鐵路博物館 香港铁路博物馆 [xiang1 gang3 tie3 lu4 bo2 wu4 guan3] {hoeng1 gong2 tit3 lou6 bok3 mat6 gun2} /musée du rail de Hong Kong (« Hong Kong Railway Museum » en anglais)/
@@ -21914,26 +21914,26 @@
 香港體育學院 香港体育学院 [xiang1 gang3 ti3 yu4 xue2 yuan4] {hoeng1 gong2 tai2 juk6 hok6 jyun2} /institut du sport de Hong Kong/
 香港體育館 香港体育馆 [xiang1 gang3 ti3 yu4 guan3] {hoeng1 gong2 tai2 juk6 gun2} /Hong Kong Coliseum, arène intérieure polyvalente à Hong Kong/
 香港高級程度會考 香港高级程度会考 [xiang1 gang3 gao1 ji2 cheng2 du5 hui4 kao3] {hoeng1 gong2 gou1 kap1 cing4 dou6 wui6 haau2} /Hong Kong Advanced Level Examination (HKALE), ancien examen pour accéder à l'enseignement supérieur/
-????f 香濃 香浓 [xiang1 nong2] {hoeng1 nung4} /aromatique; riche en saveurs/
+香濃 香浓 [xiang1 nong2] {hoeng1 nung4} /aromatique; riche en saveurs/
 香爐墩 香炉墩 [xiang1 lu2 dun1] {hoeng1 lou4 dan2} /encensoir/(fig.) fils unique/
 香爐𣎴 香炉𣎴 [xiang1 lu2 dun1] {hoeng1 lou4 dan2} /encensoir/(fig.) fils unique/
-????f 香爐灰 香炉灰 [xiang1 lu2 hui1] {hoeng1 lou4 fui1} /cendres d'un bâton d'encens/
+香爐灰 香炉灰 [xiang1 lu2 hui1] {hoeng1 lou4 fui1} /cendres d'un bâton d'encens/
 香爐躉 香炉趸 [xiang1 lu2 dun3] {hoeng1 lou4 dan2} /encensoir/(fig.) fils unique/
 香牙蕉 香牙蕉 [xiang1 ya2 jiao1] {hoeng1 ngaa4 ziu1} /banane Cavendish/
 香甜 香甜 [xiang1tian2] {hoeng1 tim4} /délicieux/(sommeil) profond/
-????f 香笄 香笄 [xiang1 ji1] {hoeng1 gai1} /bout d'un bâton d'encens qui reste après qu'il est brûlé/
-????f 香笄腳 香笄脚 [xiang1 ji1 jiao3] {hoeng1 gai1 goek3} /(fig.) jambes maigres/(lit.) jambes comme le bout d'un bâton d'encens brûlé/
+香笄 香笄 [xiang1 ji1] {hoeng1 gai1} /bout d'un bâton d'encens qui reste après qu'il est brûlé/
+香笄腳 香笄脚 [xiang1 ji1 jiao3] {hoeng1 gai1 goek3} /(fig.) jambes maigres/(lit.) jambes comme le bout d'un bâton d'encens brûlé/
 香米 香米 [xiang1 mi3] {hoeng1 mai5} /riz parfumé/
 香芹 香芹 [xiang1 qin2] {hoeng1 kan4} /persil/
-????f 香蕉仔 香蕉仔 [xiang1 jiao1 zi3] {hoeng1 ziu1 zai2} /enfant d'origine chinoie qui a grandi à l'étranger/(lit.) petite banane (avoir la peau jaune mais être blanc à l'intérieur)/
-????f 香蕉糕 香蕉糕 [xiang1 jiao1 gao1] {hoeng1 ziu1 gou1} /banana roll, a type of Chinese pastry/
+香蕉仔 香蕉仔 [xiang1 jiao1 zi3] {hoeng1 ziu1 zai2} /enfant d'origine chinoie qui a grandi à l'étranger/(lit.) petite banane (avoir la peau jaune mais être blanc à l'intérieur)/
+香蕉糕 香蕉糕 [xiang1 jiao1 gao1] {hoeng1 ziu1 gou1} /gâteau à la banane, dessert hongkongais (« banana roll » en anglais)/
 香蕉船 香蕉船 [xiang1 jiao1 chuan2] {hoeng1 ziu1 syun4} /banana split, dessert glacé/
 香雞 香鸡 [xiang1 ji1] {hoeng1 gai1} /(fig.) maigre/(lit.) comme le bout d'un bâton d'encens brûlé/
 香雞腳 香鸡脚 [xiang1 ji1 jiao3] {hoeng1 gai1 goek3} /(fig.) jambes maigres/(lit.) jambes comme le bout d'un batôn d'encens brûlé/
 香雲紗 香云纱 [xiang1 yun2 sha1] {hoeng1 wan4 saa1} /soie cantonaise traitée avec l'extrait de la plante Dioscorea cirrhosa Lour. et étalé sur de la boue riveraine pendant plusieurs mois, spécialité de la ville de Shunde/
-????f 馨香 馨香 [xin1 xiang1] {hing1 hoeng1} /parfum; fragrance/(utilisé au négatif) réputé; de bonne réputation/
+馨香 馨香 [xin1 xiang1] {hing1 hoeng1} /parfum; fragrance/(utilisé au négatif) réputé; de bonne réputation/
 馬上 马上 [ma3 shang4] {maa5 soeng6} /aussitôt; tout de suite; immédiatement/
-????f 馬上風 马上风 [ma3 shang4 feng1] {maa5 soeng6 fung1} /mort pendant un rapport sexuel/
+馬上風 马上风 [ma3 shang4 feng1] {maa5 soeng6 fung1} /mort pendant un rapport sexuel/
 馬主 马主 [ma3 zhu3] {maa5 zyu2} /propriétaire de chevaux/
 馬交 马交 [ma3 jiao1] {maa5 gaau1} /autre nom de Macao/(orig.) de la prononciation en anglais du mot « Macau » (« Macao »)/
 馬交佬 马交佬 [ma3 jiao1 lao3] {maa5 gaau1 lou2} /Macanais; homme de Macao/
@@ -21943,33 +21943,33 @@
 馬來西亞華人公會 马来西亚华人公会 [ma3 lai2 xi1 ya4 hua2 ren2 gong1 hui4] {maa5 loi4 sai1 aa3 hung1 jan4 gung1 wui2} /Association des Chinois de Malaisie, parti politique malaisien/
 馬克斯 马克斯 [ma3 ke4 si1] {maa5 haak1 si1} /Max Weber, économiste et sociologue allemand/
 馬六甲州 马六甲州 [ma3 liu4 jia3 zhou1] {maa5 luk6 gaap3 zau1} /Malacca, état du sud-ouest de la Malaisie/
-????f 馬到功成 马到功成 [ma3 dao4 gong1 cheng2] {maa5 dou3 gung1 sing4} /réussie immédiatement/
+馬到功成 马到功成 [ma3 dao4 gong1 cheng2] {maa5 dou3 gung1 sing4} /(expr. idiom.) réussir immédiatement/
 馬國明 马国明 [Ma3 guo2 ming2] {maa5 gwok3 ming4} /Kenneth Ma Kwok Ming, acteur hongkongais/
 馬場 马场 [ma3 chang3] {maa5 coeng4} /hippodrome/
-????f 馬季 马季 [ma3 ji4] {maa5 gwai3} /saison des courses hippiques/
+馬季 马季 [ma3 ji4] {maa5 gwai3} /saison des courses hippiques/
 馬尿 马尿 [ma3 niao4] {maa5 niu6} /(fig.) larmes/(lit.) urine de cheval/
 馬尿水 马尿水 [ma3 niao4 shui3] {maa5 niu6 seoi2} /Ma Liu Shui, région de Hong Kong/
 馬屎洲 马屎洲 [ma3 shi3 zhou1] {maa5 si2 zau1} /Ma Shi Chau, île de Hong Kong/
-????f 馬弁 马弁 [ma3 bian4] {maa5 bin6} /garde du corps d'un officier/
+馬弁 马弁 [ma3 bian4] {maa5 bin6} /garde du corps d'un officier/
 馬料水 马料水 [ma3 liao4 shui3] {maa5 liu6 seoi2} /Ma Liu Shui, région de Hong Kong/
-????f 馬會 马会 [ma3 hui4] {maa5 wui2} /jockey club/
+馬會 马会 [ma3 hui4] {maa5 wui2} /club des jockeys/
 馬棚 马棚 [ma3 peng2] {maa5 paang4} /écurie/
-????m 馬標 马标 [ma3 biao1] {maa5 biu1} /(courses hippiques) sorte de billet de loterie des courses hippiques de Hong Kong/
+馬標 马标 [ma3 biao1] {maa5 biu1} /(courses hippiques) sorte de billet de loterie des courses hippiques de Hong Kong/
 馬檻 马槛 [ma3 kan3] {maa5 laam2} /(fam.) bordel; maison close; lupanar/
-????f 馬死落地行 马死落地行 [ma3 si3 lao4 di4 xing2] {maa5 sei2 lok6 dei6 haang4} /(expr. idiom.) tirer le meilleur parti d'une mauvaise situation; persévérer face à l'adversité/(lit.) descendre du cheval mort et continuer à marcher/
+馬死落地行 马死落地行 [ma3 si3 lao4 di4 xing2] {maa5 sei2 lok6 dei6 haang4} /(expr. idiom.) s'adapter face à une mauvaise situation; persévérer face à l'adversité/(lit.) descendre du cheval mort et continuer à marcher/
 馬灣 马湾 [ma3 wan1] {maa5 waan1} /Ma Wan, île de Hong Kong/
-????f 馬膽 马胆 [ma3 dan3] {maa5 daam2} /(courses hippiques) the horse that you put your money on/
+馬膽 马胆 [ma3 dan3] {maa5 daam2} /(courses hippiques) le cheval sur lequel l'on a misé/
 馬虎 马虎 [ma3 hu5] {maa1 fu1} /négligent; sans soin/
 馬蜂窩 马蜂窝 [ma3 feng1 wo1] {maa5 fung1 wo1} /guêpier/
-????f 馬蠅 马蝇 [ma3 ying2] {maa5 jing4} /taon à cheval; mouche à cheval; Tabanidae/
+馬蠅 马蝇 [ma3 ying2] {maa5 jing4} /taon à cheval; mouche à cheval; Tabanidae/
 馬褲 马裤 [ma3 ku4] {maa5 fu3} /(équitation) culotte/
-????f 馬豆糕 马豆糕 [ma3 dou4 gao1] {maa5 dau6 gou1} /coconut split pea pudding/
-????f 馬蹄粉 马蹄粉 [ma3 ti2 fen3] {maa5 tai2 fan2} /farine de châtaigne d'eau/
-????f 馬蹄糕 马蹄糕 [ma3 ti2 gao1] {maa5 tai4 gou1} /gâteau à la farine de châtaigne d'eau/
+馬豆糕 马豆糕 [ma3 dou4 gao1] {maa5 dau6 gou1} /pudding au noix de coco et au pois cassé, dessert hongkongais/
+馬蹄粉 马蹄粉 [ma3 ti2 fen3] {maa5 tai2 fan2} /farine de châtaigne d'eau/
+馬蹄糕 马蹄糕 [ma3 ti2 gao1] {maa5 tai4 gou1} /gâteau à la farine de châtaigne d'eau/
 馬蹄蘭 马蹄兰 [ma3 ti2 lan2] {maa5 tai4 laan4} /(espèce de fleurs) Zantedeschia aethiopica, Arum blanc, Arum d'Éthiopie, Richarde, calla/
 馬蹄露 马蹄露 [ma3 ti2 lu4] {maa5 tai4 lou6} /Celine Ma Tai-Lo, actrice et chanteuse hongkongaise/
-????f 馬迷 马迷 [ma3 mi2] {maa5 mai4} /fan de courses hippiques; fan de courses de chevaux/
-????f 馬達 马达 [ma3 da2] {maa5 daat6} /moteur/voyoute; voyou (de sexe féminin)/
+馬迷 马迷 [ma3 mi2] {maa5 mai4} /fan de courses hippiques; fan de courses de chevaux/
+馬達 马达 [ma3 da2] {maa5 daat6} /moteur/voyoute; voyou (de sexe féminin)/
 馬醫 马医 [ma3 yi1] {maa5 ji1} /vétérinaire équin/
 馬靴 马靴 [ma3 xue1] {maa5 hoe1} /bottes d'équitation/
 馬頭圍 马头围 [ma3 tou2 wei2] {maa5 tau4 wai4} /Ma Tau Wai, région de Hong Kong/
@@ -21977,27 +21977,27 @@
 馬首是瞻 马首是瞻 [ma3 shou3 shi4 zhan1] {maa5 sau2 si6 zim1} /emboîter le pas; suivre son exemple/
 馬騮 马骝 [ma3 liu2] {maa5 lau1} /singe/
 馬騮仔 马骝仔 [ma3 liu2 zi3] {maa5 lau1 zai2} /petit singe/
-????f 馬騮搣 马骝搣 [ma3 liu2 mie4] {maa5 lau1 mit1} /monkey picked oolong tea, a type of tea leaf/
-????c 馬騮梯 马骝梯 [ma3 liu2 ti1] {maa5 lau4 tai1} /a fixed flat ladder (construction site / lift pit)/
+馬騮搣 马骝搣 [ma3 liu2 mie4] {maa5 lau1 mit1} /thé oolong cueillie par singes/
+馬騮梯 马骝梯 [ma3 liu2 ti1] {maa5 lau4 tai1} /échelle droite/
 馬騮精 马骝精 [ma3 liu2 jing1] {maa5 lau1 zing1} /(fig.) vilain enfant/(lit.) esprit de singe/
 馬騮衣 马骝衣 [ma3 liu2 yi1] {maa5 lau4 ji1} /(fig.) tenue de travail/(fig.) vêtements trop serrés/(lit.) chemise de singe/
 馮 冯 [ping2] {fung4} /(nom de famille chinois)/
 馮德倫 冯德伦 [feng2 de2 lun2] {fung4 dak1 leon4} /Stephen Fung Tak -Lun, acteur, chanteur, scénariste, réalisateur hongkongais/
 馮檢基 冯检基 [feng2 jian3 ji1] {fung4 gim2 gei1} /Frederick Fung Kin-kee, homme politique hongkongais/
-????f 馳名中外 驰名中外 [chi2 ming2 zhong1 wai4] {ci4 ming4 zung1 ngoi6} /to be renowned at home and abroad/
-????f 馳念 驰念 [chi2 nian4] {ci4 nim6} /to miss or to think longingly of someone or something far away/
+????f 馳名中外 驰名中外 [chi2 ming2 zhong1 wai4] {ci4 ming4 zung1 ngoi6} /(expr.) être connu chez soi et à l'étranger/
+馳念 驰念 [chi2 nian4] {ci4 nim6} /s'ennuyer de quelqu'un; penser à quelqu'un qui n'est pas là/
 馳驅 驰驱 [chi2 qu1] {ci4 keoi1} /galoper/
-????c 馴和 驯和 [xun4 he2] {seon4 wo4} /tame;docile/
+馴和 驯和 [xun4 he2] {seon4 wo4} /docile; timide/
 馴品 驯品 [xun2 pin3] {seon4 ban2} /gentil; pur; innocent; naïf/
 馴獸師 驯兽师 [xun4 shou4 shi1] {seon4 sau3 si1} /dompteur; dresseur d'animaux/
 駁 驳 [bo2] {bok3} /attacher; relier; connecter/
-????c 駁口 驳口 [bo2 kou3] {bok3 hau2} /jointure/
+駁口 驳口 [bo2 kou3] {bok3 hau2} /jointure; endroit où deux objets se joignent/
 駁咀駁舌 驳咀驳舌 [bo2 ju3 bo2 she2] {bok3 zeoi2 bok3 sit6} /répliquer; riposter; répondre insolemment/
 駁嘴 驳嘴 [bo2 zui3] {bok3 zeoi2} /se disputer; se quereller/répliquer/
 駁火 驳火 [bo2 huo3] {bok3 fo2} /échanger des coups de feu/
-????c 駁腳 驳脚 [bo2 jiao3] {bok3 goek3} /intermédiaire; entremise/
+駁腳 驳脚 [bo2 jiao3] {bok3 goek3} /courtier; intermédiaire/
 駁艇 驳艇 [bo2 ting3] {bok3 teng5} /péniche; barge/
-????c 駁艔 驳艔 [bo2 dou2] {bok3 dou6} /a transit barge/
+????c 駁艔 驳艔 [bo2 dou2] {bok3 dou6} /barge/traversier; ferry/
 駁骨 驳骨 [bo2 gu3] {bok3 gwat1} /réparer un os brisé/
 駐外 驻外 [zhu4 wai4] {zyu3 ngoi6} /stationné à l'étranger/
 駐守 驻守 [zhu4 shou3] {zyu3 sau2} /stationner; rester en stationnement; être en garnison/
