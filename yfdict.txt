@@ -536,7 +536,7 @@
 下啖氣 下啖气 [xia4 dan4 qi4] {haa6 daam6 hei3} /avaler sa colère; réprimer sa colère/
 下嫁 下嫁 [xia4 jia4] {haa6 gaa3} /se marier/
 下定 下定 [xia4 ding4] {haa6 deng6} /prendre une décision/passer une commande/verser un acompte/
-下巴輕輕 下巴轻轻 [xia4 ba5 qing1 qing1] {haa6 baa1 hing1 hing1} //(expr. idiom.) qui fait des promesses sans y réfléchir; qui rompt ses promesses; qui revient sur ses paroles (voir aussi 下扒輕輕|下扒轻轻)/
+下巴輕輕 下巴轻轻 [xia4 ba5 qing1 qing1] {haa6 baa1 hing1 hing1} /(expr. idiom.) qui fait des promesses sans y réfléchir; qui rompt ses promesses; qui revient sur ses paroles (voir aussi 下扒輕輕|下扒轻轻)/
 下年 下年 [xia4 nian2] {haa6 nin4} /l'année prochaine/
 下底 下底 [xia4 di3] {haa6 dai2} /sous; en dessous/
 下情上達 下情上达 [xia4 qing2 shang4 da2] {haa6 cing4 soeng6 daat6} /mettre ses supérieurs au courant de la situation des subordonées/
@@ -3311,7 +3311,7 @@
 卜公碼頭 卜公码头 [bu3 gong1 ma3 tou5] {buk1 gung1 maa5 tau4} /Blake Pier, une gare maritime qui était jadis à Central, mais maintenant à Stanley, Hong Kong/
 卜卜聲 卜卜声 [bu3 bu3 sheng1] {buk4 buk2 seng1} /onomatopée pour les battements de coeur/
 卜卜脆 卜卜脆 [bu3 bu3 cui4] {bok1 bok1 ceoi3} /croquant/(fig.) (d'une jeune femme) énergique; belle/
-卜魚 卜鱼 [bo5 yu2] [buk1 jyu2] /wood-block cantonais/
+卜魚 卜鱼 [bo5 yu2] {buk1 jyu2} /wood-block cantonais/
 占卦 占卦 [zhan1 gua4] {zim1 gwaa3} /divination chinoise/prédire l'avenir/
 占士邦 占士邦 [zhan4 shi4 bang1] {zim1 si6 bong1} /James Bond/
 卡 卡 [ka3] {kaa1} /(classificateur pour les wagons)/camion/carte de crédit/obstacler (routier)/se retrouver bloqué; être coincé/
@@ -4348,8 +4348,8 @@
 唔駛客氣 唔驶客气 [wu2 shi3 ke4 qi5] {m4 sai2 haak3 hei3} /(formule de politesse) de rien; bienvenue; il n'y a pas de quoi; je vous en prie/(formule de politesse) merci de nous avoir accueilli; merci de votre hospitalité (mais non merci)/faites comme chez vous; servez-vous!/
 ????f 唔鹹唔淡 唔鹹唔淡 [wu2 jian3 wu2 dan4] {m4 haam4 m4 taam5} /(expr. idiom.) ne pas avoir maîtrisé une langue ou une habileté/(lit.) ni salé ni fade/
 唔黐家 唔黐家 [wu2 chi1 jia1] {m4 ci1 gaa1} /(fig.) qui n'est jamais à la maison/(fig.) pas proche avec sa famille/(lit.) ne pas coller à la maison/
-唔ｇｕｒ 唔ｇｕｒ [wu2 ju2] [goe4] /ne pas être satisfait; avoir des objections/
-唔啹 唔啹 [wu2 ju2] [m4 goe4] /ne pas être satisfait; avoir des objections/
+唔ｇｕｒ 唔ｇｕｒ [wu2 ju2] {m4 goe4} /ne pas être satisfait; avoir des objections/
+唔啹 唔啹 [wu2 ju2] {m4 goe4} /ne pas être satisfait; avoir des objections/
 ????c 唗 唗 [dou1] {dau1} /it is an expression for saying hello or sighing/
 唞 唞 [dou3] {tau2} /avoir le souffle coupé/faire une pause/
 唞吓 唞吓 [dou3 xia4] {tau2 haa5} /faire une pause/
@@ -6350,7 +6350,7 @@
 威爾斯親王 威尔斯亲王 [wei1 er3 si1 qin1 wang2] {wai1 ji5 si1 can1 wong4} /prince de Galles/
 威爾斯親王醫院 威尔斯亲王医院 [wei1 er3 si1 qin1 wang2 yi1 yuan4] {wai1 ji5 si1 can1 wong4 ji1 jyun2} /Prince of Wales Hospital, hôpital à Hong Kong/
 威脅 威胁 [wei1 xie2] {wai1 hip3} /menace/
-威靈頓街 威灵顿街 [wei1 ling2 dun4 jie1] {wai1 ling4 deon6 gaai1} Wellington Street, rue à Hong Kong/
+威靈頓街 威灵顿街 [wei1 ling2 dun4 jie1] {wai1 ling4 deon6 gaai1} /Wellington Street, rue à Hong Kong/
 威風 威风 [wei1 feng1] {wai1 fung1} /imposant; impressionant; redoutable/
 ????c 威風掃地 威风扫地 [wei1 feng1 sao3 di4] {wai1 fung1 sou3 dei6} /(expr.) complètement discrédité/
 ????m 娓娓而談 娓娓而谈 [wei3 wei3 er2 tan2] {mei5 mei5 ji4 taam4} /parler de manière fluide, passionée/
@@ -7168,7 +7168,7 @@
 山頂 山顶 [shan1 ding3] {saan1 deng2} /sommet; cime; pic/pic Victoria, à Hong Kong/
 山頂纜車 山顶缆车 [shan1 ding3 lan3 che1] {saan1 deng2 laam6 ce1} /le Peak Tram, funiculaire à Hong Kong/
 山高水低 山高水低 [shan1 gao1 shui3 di1] {saan1 gou1 seoi2 dai1} /(expr. idiom.) évènements malheureux/(lit.) montagnes hautes, niveau d'eau bas/
-山高皇帝遠 山高皇帝远 [shan1 gao1 huang2 di4 yuan3] {saan1 gou1 wong4 dai3 jyun5} /région hors du contrôle d'un gouvernement/(litt). les montagnes sont hautes et l'empereur est loin/
+山高皇帝遠 山高皇帝远 [shan1 gao1 huang2 di4 yuan3] {saan1 gou1 wong4 dai3 jyun5} /(expr. idiom.) région hors du contrôle d'un gouvernement/(litt). les montagnes sont hautes et l'empereur est loin/
 山魈 山魈 [shan1 xiao1] {saan1 siu1} /mandrill, primate d'Afrique/
 屹然 屹然 [yi4 ran2] {ngat6 jin4} /imposant; majestueux/ne pas céder; tenir bon/
 屹立 屹立 [yi4 li4] {ngat6 laap6} /se dresser/se tenir droit; se tenir debout/(d'une structure) exister; se trouver (quelque part depuis longtemps)/
@@ -16215,7 +16215,7 @@
 繑絲邊 繑丝边 [jue2 si1 bian1] {hiu1 si1 bin1} /clé de sinogramme « 糸 »/
 繑脷 繑脷 [jue2 li4] {kiu5 lei6} /(fig.) difficile à prononcer/(lit.) qui emmêle la langue/
 ????c 繑起 繑起 [jue2 qi3] {kiu5 hei2} /créer des ennuis pour quelqu'un/
-繑起對手 繑起对手 [qiao1 qi3 dui4 shou3} [kiu5 hei2 soeng1 sau2] /se croiser les bras/
+繑起對手 繑起对手 [qiao1 qi3 dui4 shou3] {kiu5 hei2 soeng1 sau2} /se croiser les bras/
 織冷衫 织冷衫 [zhi1 leng3 shan1] {zik1 laang1 saam1} /tricoter un pull/
 織卒 织卒 [zhi1 zu2] {zik1 zeot1} /(rare) grillon/
 織蟀 织蟀 [zhi1 shuai4] {zik1 seot1} /(rare) grillon/
@@ -19539,7 +19539,7 @@
 ????m 送人情 送人情 [song4 ren2 qing2] {sung3 jan4 cing4} /rendre service à quelqu'un sans trop d'effort/
 送佛送到西 送佛送到西 [song4 fo2 song4 dao4 xi1] {sung3 fat6 sung3 dou3 sai1} /(expr. idiom.) aider quelqu'un aussi longtemps qu'il en a besoin/(lit.) accompagner Bouddha à l'Occident/
 送口果 送口果 [song4 kou3 guo3] {sung3 hau2 gwo2} /fruits préservés que l'on mange avec les médicaments traditionnels chinois/
-送審 送审 [song4 shen3] {sung3 sam2} /soumettre
+送審 送审 [song4 shen3] {sung3 sam2} /soumettre (un rapport, etc. à un supérieur)/
 送往 送往 [song4 wang3] {sung3 wong5} /dire au revoir; faire ses adieux; voir partir/
 送機 送机 [song4 ji1] {sung3 gei1} /déposer (quelqu'un) à l'aéroport/
 送死 送死 [song4 si3] {sung3 sei2} /rechercher la mort/
@@ -22724,7 +22724,7 @@
 鼓舞 鼓舞 [gu3 wu3] {gu2 mou5} /encourager/
 ????m 鼓譟 鼓噪 [gu3 zao4] {gu2 cou3} /se plaindre bruyamment/
 鼓起泡腮 鼓起泡腮 [gu3 qi3 pao4 sai1] {gu2 hei2 paau1 soi1} /(expr. idiom.) être fâché; être en colère/(expr. idiom.) avoir l'air triste; avoir l'air misérable/(lit.) gonfler les joues/
-鼠 鼠 [shu3] [syu2] /se glisser; se faufiler; entrer furtivement dans un lieu/
+鼠 鼠 [shu3] {syu2} /se glisser; se faufiler; entrer furtivement dans un lieu/
 鼠入嚟 鼠入嚟 [shu3 ru4 li2] {syu2 jap6 lai4} /se glisser; entrer furtivement dans un lieu/
 鼠嘢 鼠嘢 [shu3 ye3] {syu2 je5} /voler (des objets); dévaliser (quelque chose)/
 鼠摸 鼠摸 [shu3 mo1] {syu2 mo1} /(fig.) voleur à la petite semaine/(lit.) souris touche/
@@ -22932,7 +22932,7 @@
 ????f 不醉無歸 不醉无归 [bu4 zui4 wu2 gui1] {bat1 zeoi3 mou4 gwai1} /(expr.) continue à boire!/(lit.) si t'es pas ivre, t'as pas assez bu!/
 不需 不需 [bu4 xu1] {bat1 seoi1} /non nécessaire; superflu/
 不夜城 不夜城 [bu4 ye4 cheng2] {bat1 je6 sing4} /ville qui ne dort jamais/
-丙 丙 [bing3] [bing2] /(fam.) tabasser; rouer de coups/
+丙 丙 [bing3] {bing2} /(fam.) tabasser; rouer de coups/
 丙一身 丙一身 [bing3 yi1 shen1] {bing2 jat1 san1} /(fam.) tabasser; rouer de coups/
 丙一鑊 丙一镬 [bing3 yi1 huo4] {bing2 jat1 wok6} /(fam.) tabasser; rouer de coups/
 丙到豬頭咁 丙到猪头咁 [bing3 dao4 zhu1 tou2 gan1] {bing2 dou3 zyu1 tau4 gam2} /(expr. idiom.) être tabassé; être couvert de bleus/(lit.) être tabassé et avoir l'air d'une tête de cochon/
@@ -22941,7 +22941,7 @@
 丙到飛起 丙到飞起 [bing3 dao4 fei1 qi3] {bing2 dou3 fei1 hei2} /(fam.) tabasser; rouer de coups/(lit.) frapper jusqu'à ce qu'il vole/
 丙鑊 丙镬 [bing3 huo4] {bing2 wok6} /(fam.) tabasser; rouer de coups/
 丙鑊甘 丙镬甘 [bing3 huo4 gan1] {bing2 wok6 gam1} /(fam.) tabasser; rouer de coups/
-抦 抦 [bing3] [bing2] /(fam.) tabasser; rouer de coups/
+抦 抦 [bing3] {bing2} /(fam.) tabasser; rouer de coups/
 抦一身 抦一身 [bing3 yi1 shen1] {bing2 jat1 san1} /(fam.) tabasser; rouer de coups/
 抦一鑊 抦一镬 [bing3 yi1 huo4] {bing2 jat1 wok6} /(fam.) tabasser; rouer de coups/
 抦到豬頭咁 抦到猪头咁 [bing3 dao4 zhu1 tou2 gan1] {bing2 dou3 zyu1 tau4 gam2} /(expr. idiom.) être tabassé; être couvert de bleus/(lit.) être tabassé et avoir l'air d'une tête de cochon/
@@ -26170,9 +26170,9 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 渺無人煙 渺无人烟 [miao3 wu2 ren2 yan1] {miu5 mou4 jan4 jin1} /(expr. idiom.) isolé et inhabité/
 渺茫 渺茫 [miao3 mang2] {miu5 mong4} /(chances) être minces; être faibles/
 蟒蛇 蟒蛇 [mang3 she2] {mong5 se4} /python/
-ｇｕｒ ｇｕｒ [ju2] [goe4] /(souvent dans la forme négative, voir 唔ｇｕｒ|唔ｇｕｒ) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
-啹 啹 [ju2] [goe4] /(souvent dans la forme négative, voir 唔啹|唔啹) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
-𢤹 𢤹 [ju2] [goe4] /(rare, voir ｇｕｒ|ｇｕｒ ou 啹|啹) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
+ｇｕｒ ｇｕｒ [ju2] {goe4} /(souvent dans la forme négative, voir 唔ｇｕｒ|唔ｇｕｒ) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
+啹 啹 [ju2] {goe4} /(souvent dans la forme négative, voir 唔啹|唔啹) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
+𢤹 𢤹 [ju2] {goe4} /(rare, voir ｇｕｒ|ｇｕｒ ou 啹|啹) satisfait; n'avoir aucune objection/confortable/se sentir mieux/
 笊籬 笊篱 [zhao4 li5] {zaau3 lei1} /passoire/(en particulier) (ustensile de cuisine) écumoire; passoire à long manche; passoire à fondue chinoise/
 篱 篱 [li2] {lei1} /passoire/écumoire/
 醃鹹魚 腌咸魚 [yan1 xian2 yu2] {jip3 haam4 jyu2} /(expr. idiom.) suer à grosses gouttes; transpirer beaucoup/(lit.) faire mariner du poisson salé/
@@ -26182,10 +26182,10 @@ hea hea [hea5] {he3} /perdre son temps; tuer le temps/(faire quelque chose) d'un
 噫 噫 [yi4] {ji2} /beurk; pouah/
 撻 挞 [ta4] {taak1} /démarrer (la voiture)/allumer; enflammer/(onomatopée d'un bruit sec) tac/
 塱 塱 [lang3] {long5} /(dans les noms de lieu) /digue surélevée; remblai de terre/
-𠹻 𠹻 [𠹻5] {zam6} /(classificateur pour les odeurs)
-朕 朕 [zhen4] {zam6} /(classificateur pour les odeurs)
-陣 阵 [zhen4] {zam6} /(classificateur pour les odeurs)
-復刻 复刻 {fu4 ke4} {fuk1 hak1} /réimprimer/rematricer/
+𠹻 𠹻 [𠹻5] {zam6} /(classificateur pour les odeurs)/
+朕 朕 [zhen4] {zam6} /(classificateur pour les odeurs)/
+陣 阵 [zhen4] {zam6} /(classificateur pour les odeurs)/
+復刻 复刻 [fu4 ke4] {fuk1 hak1} /réimprimer/rematricer/
 氼水舂牆 氼水舂墙 [ni4 shui3 chong1 qiang1] {mei6 seoi2 cung1 coeng4} /(expr. idiom.) prendre un grand risque/(expr. idiom.) remuer ciel et terre/(lit.) plonger dans l'eau et cogner la tête contre le mur/
 𢱢 𢱢 [suo3] {saak3} /(de fruit, de melon) quartier; portion triangulaire de quelque chose/(en général) portion/
 上𢱢 上𢱢 [shang4 suo3] {soeng6 saak3} /(cuisine) (volaille cuite) portion supérieure avec la poitrine (voir aussi 下𢱢|下𢱢)/
