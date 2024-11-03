@@ -14221,6 +14221,7 @@
 疾雷 疾雷 [ji2 lei2] {zat6 leoi4} /coup de tonnerre soudain/(fig.) ultra-rapide; rapide comme l'éclair/
 痄腮 痄腮 [zha4 sai1] {zaa3 soi1} /oreillons; parotidite/
 病 病 [bing4] {beng6} /malade; atteint d'une maladie/anormal/
+病人 病人 [bing4 ren2] {beng6 jan4} /(par extension) patient (d'un médecin, qu'il soit malade ou non)/
 病人衫 病人衫 [bing4 ren2 shan1] {beng6 jan4 saam1} /blouse d'hôpital; chemise d'hôpital; jaquette d'hôpital/
 病君 病君 [bing4 jun1] {beng6 gwan1} /(fam.) personne malade/(lit.) seigneur malade/
 病咗 病咗 [bing4 zuo5] {beng6 zo2} /tomber malade/
@@ -19992,7 +19993,7 @@
 醫療事故 医疗事故 [yi1 liao2 shi4 gu4] {ji1 liu4 si6 gu3} /erreur médicale/
 醫療輔助隊 医疗辅助队 [yi1 liao2 fu3 zhu4 dui4] {ji1 liu4 fu6 zo6 deoi6} /Auxiliary Medical Service, fournisseur de services médicaux à Hong Kong dont les « employés » sont tous des volontaires/
 醫管局 医管局 [yi1 guan3 ju2] {ji1 gun2 guk2} /Hospital Authority, ministère des hôpitaux publiques de Hong Kong/
-醫者父母心 医者父母心 [yi1 zhe3 fu4 mu3 xin1] {ji1 ze2 fu6 mou5 sam1} /(expr. idiom.) un médecin devrait traiter ses patients comme s'ils étaient membres de sa propre famille/(lit.) un médecine devrait avoir le cœur d'un parent/
+醫者父母心 医者父母心 [yi1 zhe3 fu4 mu3 xin1] {ji1 ze2 fu6 mou5 sam1} /(expr. idiom.) un médecin devrait traiter ses patients comme s'ils étaient membres de sa propre famille/(lit.) un médecin devrait avoir le cœur d'un parent/
 醫肚 医肚 [yi1 du4] {ji1 tou5} /soulager la faim/
 醫藥費 医药费 [yi1 yao4 fei4] {ji1 joek6 fai3} /frais médicaux; honoraires médicaux/
 醫院管理局 医院管理局 [yi1 yuan4 guan3 li3 ju2] {ji1 jyun2 gun2 lei5 guk6} /Hospital Authority, ministère des hôpitaux publiques de Hong Kong/
@@ -25324,6 +25325,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????f 肉食公司 肉食公司 [rou4 shi5 gong1 si1] {juk6 sik6 gung1 si1} /compagnie agro-alimentaire spécialisée dans la viande/
 肉食性動物 肉食性动物 [rou4 shi5 xing4 dong4 wu4] {juk6 sik6 sing3 dung6 mat6} /carnivore; animal qui mange de la viande/
 ????c 肚癮 肚瘾 [du4 yin3] {tou5 jan5} /(avoir) des envies (de nourriture)/
+肚煲 肚煲 [du4 bao1] {tou5 bou1} /(enfantin) ventre/
 肥嘟嘟 肥嘟嘟 [fei2 du1 du1] {fei4 dyut1 dyut1} /(fam.) (d'un bébé, jeune enfant) potelé (connotation positive)/
 肥妹 肥妹 [fei2 mei4] {fei4 mui1} /grosse fille; fille obèse/
 肥婆 肥婆 [fei2 po2] {fei4 po4} /grosse femme; femme obèse/
