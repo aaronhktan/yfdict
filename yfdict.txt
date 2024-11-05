@@ -2610,7 +2610,7 @@
 凍啡 冻啡 [dong4 fei1] {dung3 fei1} /café glacé/
 凍房 冻房 [dong4 fang2] {dung3 fong2} /chambre froide; chambre servant à conserver à basse température des aliments/
 凍檸水 冻柠水 [dong4 ning2 shui3] {dung3 ning4 seoi2} /(Can.) limonade; (Fr.) citronnade/
-凍檸茶 冻柠茶 [dong4 ning2 cha2] {dung3 ling4 caa4} /thé glacé au citron/
+凍檸茶 冻柠茶 [dong4 ning2 cha2] {dung3 ning2 caa4} /thé glacé au citron/
 凍水 冻水 [dong4 shui3] {dung3 seoi2} /eau froide/
 凍滾水 冻滚水 [dong4 gun3 shui3] {dung3 gwan2 seoi2} /eau bouillie qui est maintenant refroidie/
 凍親 冻亲 [dong4 qin1] {dung3 can1} /prendre froid; s'enrhumer; attraper un rhume/
@@ -11527,8 +11527,8 @@
 檳榔薯 槟榔薯 [bin1 lang2 shu3] {ban1 long4 syu4} /patate douce à chair pourpre/
 檸檬 柠檬 [ning2 meng2] {ning4 mung1} /limon/
 檸檬雜飲 柠檬杂饮 [ning2 meng2 za2 yin3] {ning4 mung1 zaap6 jam2} /sirop de limon; sirop de limonade; boisson à base de sucre, d'eau pétillante, et de sirop de sucre/
-檸水 柠水 [ning2 shui3] {ning4 seoi2} /(Can.) limonade (Fr.) citronnade/
-檸茶 柠茶 [ning2 cha2] {ning4 caa4} /thé au citron/
+檸水 柠水 [ning2 shui3] {ning2 seoi2} /(Can.) limonade (Fr.) citronnade/
+檸茶 柠茶 [ning2 cha2] {ning2 caa4} /thé au citron/
 櫃 柜 [gui4] {gwai6} /armoire/conteneur d'expédition/comptoir (d'accueil, de service à la clientèle, etc.)/
 櫃位 柜位 [gui4 wei4] {gwai6 wai2} /comptoir (d'accueil, de service à la clientèle, etc.)/
 櫃位貓 柜位猫 [gui4 wei4 mao1] {gwai6 wai2 maau1} /maneki-neko, chat porte-bonheur, statue représentant un chat qui lève une ou plusieurs pattes au niveau de l'oreille/
