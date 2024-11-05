@@ -9461,8 +9461,13 @@
 揼波鐘 揼波钟 [beng5 bo1 zhong1] {dam1 bo1 zung1} /(fig.) prendre beaucoup de temps à faire quelque chose afin d'éviter plus de travail/(fig.) temporiser; chercher à gagner du temps; atermoyer/(fig.) faire perdre son temps à quelqu'un/(sports) jouer la montre/
 揼波拿 揼波拿 [beng5 bo1 na2] {dam1 bo1 laa4} /tombola, jeu d'argent dans laquelle on gagne un lot en nature/
 揼骨 揼骨 [beng5 gu3] {dap6 gwat1} /masser; pétrir les muscles avec les mains/
+渻 渻 [sheng3] {saang2} /frotter; nettoyer/
+渻手 渻手 [sheng3 shou3] {saang2 sau2} /se laver les mains/
+㨘 擤 [xing3] {saang2} /frotter; nettoyer/
+㨘手 擤手 [xing3 shou3] {saang2 sau2} /se laver les mains/
 㨘到立立呤 擤到立立呤 [xing3 dao4 li4 li4 ling4] {saang2 dou3 laap6 laap6 ling4} /polir; brunir/(expr. idiom.) être pris comme bouc émissaire/
 㨘牛王 擤牛王 [xing3 niu2 wang2] {saang2 ngau4 wong4} /réclamer ce qui appartient à quelqu'un d'autre/faire chanter; extorquer/
+㨘鼻涕 擤鼻涕 [xing3 bi2 ti4] {sang3 bei6 tai3} /se moucher/
 𢱑子 𢱑子 [wa1 zi] {waa2 zi2} /jeu des osselets (joué avec de petites pierres)/
 ????c 𢱑石仔 𢱑石仔 [wa1 shi2 zai3] {waa2 sek6 zai2} /jouer aux osselets (avec de petites pierres)/
 𢱕濕 𢱕湿 [da1 shi1] {dap6 sap1} /se faire tremper par la pluie; être mouillé par la pluie/
@@ -12050,6 +12055,7 @@
 沖涼 冲凉 [chong1 liang2] {cung1 loeng4} /se doucher; prendre une douche/se baigner/
 沖涼房 冲凉房 [chong1 liang2 fang2] {cung1 loeng4 fong2} /salle de bain/toilettes/
 沖涼缸 冲凉缸 [chong1 liang2 gang1] {cung1 loeng4 gong1} /baignoire/
+沖涼液 冲凉液 [chong1 liang2 yi1] {cung1 loeng4 jik6} /gel douche/
 沖淡水 冲淡水 [chong1 dan4 shui3] {cung1 taam5 seoi2} /(expr. idiom.) refroidir l'ardeur; gâcher la fête de quelqu'un; décourager quelqu'un/
 沖滾水 冲滚水 [chong1 gun3 shui3] {cung1 gwan2 seoi2} /ajouter de l'eau bouillante/
 沖破 冲破 [chong1 po4] {cung1 po3} /franchir; percer (les défenses d'un ennemi)/surmonter (des obstacles)/briser; rompre avec la tradition/
@@ -13264,7 +13270,7 @@
 熱朱古力 热朱古力 [re4 zhu1 gu3 li4] {jit6 zyu1 gu1 lik1} /chocolat chaud/
 熱核 热核 [re4 he2] {jit6 hat6} /thermonucléaire/
 熱核反應 热核反应 [re4 he2 fan3 ying4] {jit6 hat6 faan2 jing3} /réaction thermonucléaire/
-熱氣 热气 [re4 qi4] {jit6 hei3} /(médecine traditionnelle chinoise) chaleur interne/
+熱氣 热气 [re4 qi4] {jit6 hei3} /(médecine traditionnelle chinoise) chaleur interne/(médecine traditionnelle chinoise) (d'un aliment) qui augmente la chaleur interne/
 熱氣飯 热气饭 [re4 qi4 fan4] {jit6 hei3 faan6} /(expr. idiom.) quelque chose qui est difficile à faire/(expr. idiom.) quelque chose qui causera des problèmes à l'avenir/(lit.) du riz qui causera la chaleur interne/
 熱水壺 热水壶 [re4 shui3 hu2] {jit6 seoi2 wu2} /bouilloire/
 熱水爐 热水炉 [re4 shui3 lu2] {jit6 seoi2 lou4} /chauffe-eau/
@@ -14933,6 +14939,7 @@
 矚目 瞩目 [zhu3 mu4] {zuk1 muk6} /attrayant; qui attire l'œil/accrocheur/
 矛 矛 [mao2] {maau4} /pique; lance/malhonnête; sournois/futé/
 矛盾 矛盾 [mao2 dun4] {maau4 teon5} /(fig.) conflit/(fig.) contradiction/(fig.) ambivalent; partagé/
+矛賴 矛赖 [mao2 lai4] {maau4 laai1} /sans gêne/
 矜貴 矜贵 [jin1 gui4] {ging1 gwai3} /arrogant; orgueilleux/précieux; coûteux/cher; chéri; bien-aimé/
 矢志不移 矢志不移 [shi3 zhi4 bu4 yi2] {ci2 zi3 bat1 ji4} /(expr. idiom.) déterminé à faire quelque chose; résolu à faire quelque chose/
 ????f 矢石 矢石 [shi3 shi2] {ci2 sek6} /(litt.) flèches et pierres; armes de guerres antiques/
@@ -16762,7 +16769,9 @@
 腍 腍 [ren3] {nam4} /(aliment) tendre/(personne) tendre; trop gentil/
 腍佛 腍佛 [ren3 fo2] {nam4 fat6} /(personne) d'humeur égale; doux; qui a bon caractère/
 ????f 腍厴 腍厣 [ren3 yan3] {nam4 jim2} /(du corps humain) côtés; parties latérales du tronc près des intestins et de l'estomac/
-腍啤啤 腍啤啤 [ren3 pi2 pi2] {nam4 be4 be4} /mou, molle/trop mou, trop molle/carpette; paillasson; chiffe molle; personne faible de caractère/
+腍啤啤 腍啤啤 [ren4 pi2 pi2] {nam4 be4 be4} /mou; pâteux; ramolli/carpette; paillasson; chiffe molle; personne faible de caractère/
+腍啤啤 腍啤啤 [ren4 pi2 pi2] [nam4 bet6 bet6] /mou; pâteux; ramolli/carpette; paillasson; chiffe molle; personne faible de caractère/
+腍謝謝 腍谢谢 [ren4 xie4 xie4] {nam4 ze6 ze6} /mou; pâteux; ramolli/carpette; paillasson; chiffe molle; personne faible de caractère/
 腍善 腍善 [ren3 shan4] {nam4 sin6} /qui a bon caractère; sympathique; de caractère facile/
 腍柿 腍柿 [ren3 shi4] {nam4 ci5} /kaki; plaquemine/
 腎人 肾人 [shen4 ren2] {san4 jan4} /(inj.) un fou; un cinglé; un forcené; un énergumène/(inj.) imbécile; idiot/
@@ -17491,6 +17500,7 @@
 蓆攝底 席摄底 [xi2 she4 di3] {zek6 sip3 dai2} /sous la natte/
 蓉 蓉 [rong2] {jung4} /purée; aliments écrasés/aliments hachés/
 蓉蓉爛爛 蓉蓉烂烂 [rong2 rong2 lan4 lan4] {jung4 jung4 laan6 laan6} /brisé; cassé; abîmé/en lambeaux/
+蓋樓 盖楼 [gai4 lou2] {goi3 lau2} /(fig.) laisser un commentaire sur un réseau social, un forum, etc./(lit.) bâtir des immeubles/
 蓋世無雙 盖世无双 [gai4 shi4 wu2 shuang1] {koi3 sai3 mou4 soeng1} /(expr.) incomparable; sans égal; sans pareil/
 蓋世英雄 盖世英雄 [gai4 shi4 ying1 xiong2] {koi3 sai3 jing1 hung4} /(expr.) héros sans pareil/
 ????c 蓨 蓨 [tiao1] {sau1} /semis/(acide) oxalique)/
@@ -18356,6 +18366,7 @@
 話得埋 话得埋 [hua4 de5 mai2] {waa6 dak1 maai4} /prévisible; possible de dire avec certitude/
 話明 话明 [hua4 ming2] {waa6 ming4} /dire clairement/
 話是 话是 [hua4 shi4] {waa6 si6} /être le responsable; être le chef/mener la danse; prendre les décisions/
+話是頭 话是头 [hua4 shi4 tou2] {waa6 si6 tau2} /comme quelqu'un l'a dit; comme dit l'adage/
 話時話 话时话 [hua4 shi2 hua4] {waa6 si4 waa6} /d'ailleurs; au fait; à propos/
 話晒 话晒 [hua4 shai4] {waa6 saai3} /en fin de compte; au bout du compte; finalement; somme toute/
 話晒事 话晒事 [hua4 shai4 shi4] {waa6 saai3 si6} /faire ce que l'on veut/
@@ -19906,6 +19917,7 @@
 邪行 邪行 [xie2 xing5] {ce4 hang6} /mauvaises actions/
 邪骨 邪骨 [xie2 gu3] {ce4 gwat1} /(fig.) massage qui se termine avec une relation sexuelle/(lit.) mauvais os/
 邪魔外道 邪魔外道 [xie2 mo2 wai4 dao4] {ce4 mo1 ngoi6 dou6} /sacrilège; doctrine hérétique et mauvaises actions/
+喐 喐 [yu4] {juk1} /bouger/tabasser; assaillir; attaquer; agresser/toucher/
 郁 郁 [yu4] {juk1} /bouger/tabasser; assaillir; attaquer; agresser/toucher/
 鬱 郁 [yu4] {wat1} /triste; mélancolique/luxuriante/parfumé/élégant/
 郁動 郁动 [yu4 dong4] {juk1 dung6} /bouger/
@@ -22206,7 +22218,7 @@
 鬆弛 松弛 [song1 chi2] {sung1 ci4} /(peau) qui s'affaisse/
 鬆懈 松懈 [song1 xie4] {sung1 haai6} /laxiste; permissif/distrait; avoir baissé la garde/
 鬆毛狗 松毛狗 [song1 mao2 gou3] {sung1 mou4 gau2} /chow-chow, race de chien originaire de Mongolie/
-鬆毛鬆翼 松毛松翼 [song1 mao2 song1 yi4] {sung1 mou4 sung1 jik6} /(expr. idiom.) qui se croit très bon en quelque chose mais qui est en réalité inexpérimenté (voir aussi 鬆毛鬆翼|松毛松翼)/
+鬆毛鬆翼 松毛松翼 [song1 mao2 song1 yi4] {sung1 mou4 sung1 jik6} /(expr. idiom.) qui se croit très bon en quelque chose mais qui est en réalité inexpérimenté (voir aussi 鬆刮毛鬆翼|松毛松翼)/
 鬆緊 松紧 [song1 jin3] {sung1 gan2} /tension; élasticité/
 鬆馳 松驰 [song1 chi2] {sung1 ci4} /(usage déconseillé) (peau) qui s'affaisse (voir aussi 鬆弛|松弛)/
 鬆骨 松骨 [song1 gu3] {sung1 gwat1} /technique de massage avec deux mains/(par plaisanterie) frapper/
@@ -23233,7 +23245,7 @@
 入籠 入笼 [ru4 long2] {jap6 lung4} /(fig.) aller en prison/(lit.) entrer dans une cage/
 內地同志 内地同志 [nei4 di4 tong2 zhi4] {noi6 dei6 tung4 zi3} /nos camarades de la Chine continentale/
 內膽 内胆 [nei4 dan3] {noi6 daam2} /marmite intérieure; chambre intérieure (ex. d'une bouteille isotherme ou autocuiseur)/sous-vêtements masculins; slip; caleçon; boxer/
-?????c 全力支持我玩謝佢！ 全力支持我玩谢佢！ [quan2 li4 zhi1 chi2 wo3 wan2 xie4 qu2！] {cyun4 lik6 zi1 ci4 ngo5 waan4 ze6 keoi5！} /aide-moi à l'énerver!/
+????c 全力支持我玩謝佢！ 全力支持我玩谢佢！ [quan2 li4 zhi1 chi2 wo3 wan2 xie4 qu2！] {cyun4 lik6 zi1 ci4 ngo5 waan4 ze6 keoi5！} /aide-moi à l'énerver!/
 全店 全店 [quan2 dian4] {cyun4 dim3} /tous les articles (de la boutique)/
 全部我嘅 全部我嘅 [quan2 bu4 wo3 ge2] {cyun4 bou6 ngo5 ge3} /(expr.) c'est ma tournée! c'est moi qui paie!/(lit.) c'est tout à moi/
 兩個 两个 [liang3 ge5] {loeng5 go3} /deux (de quelque chose)/
@@ -23330,6 +23342,7 @@
 利益衝突 利益冲突 [li4 yi4 chong1 tu1] {lei6 jik1 cung1 dat6} /(expr.) conflit d'intérêts/
 刮竹 刮竹 [gua1 zhu2] {gwaat3 zuk1} /(fig.) jouer au mah-jong/(lit.) gratter le bambou/
 ????c 刮鐘 刮钟 [gua1 zhong1] {gwaat3 zung1} /(fig.) vendre les services d'une prostituée/
+刮損 刮损 [gua1 sun3] {gwaat3 syun2} /s'écorcher; s'égratigner/
 到嘔 到呕 [dao4 ou3] {dou3 au2} /(fig.) très; extrêmement/(lit.) (suivant un adjectif) à vomir/
 到痺 到痹 [dao4 bi4] {dou3 bei3} /(fig.) très extrêmement/(lit.) (suivant un adjectif) à être paralysé/
 ????m 到訂 到订 [dao4 ding4] {dou3 deng6} /(fam.) avoir un orgasme; jouir; venir/
@@ -23894,6 +23907,7 @@
 好路數 好路数 [hao3 lu4 shu4] {hou2 lou6 sou3} /rentable/
 好醜命生成 好丑命生成 [hao3 chou3 ming4 sheng1 cheng2] {hou2 cau2 meng6 saang1 seng4} /(expr.) son sort est prédéterminé/(lit.) les aléas de la vie sont prédéterminés quand on est nés/
 好鬼衰 好鬼衰 [hao3 gui3 shuai1] {hou2 gwai2 seoi1} /(d'une personne) horrible; méchant/
+好心你 好心你 [hao3 xin1 ni3] {hou2 sam1 nei5} /(exprime la frustration) sacré nom de Dieu; ben voyons! franchement!/
 妙嘴妙舌 妙嘴妙舌 [miao4 zui3 miao4 she2] {miu2 zeoi2 miu2 sit6} /sourire avec mépris/
 妳們自己 奶们自己 [nai3 men5 zi4 ji3] {nei5 mun4 zi6 gei2} /(rare) (à l'écrit) (d'un groupe composé entièrement de femmes) vous-mêmes/
 妳哋自己 奶哋自己 [nai3 di4 zi4ji3] {nei6 dei6 zi6 gei2} /(rare) (à l'oral) (d'un groupe composé entièrement de femmes) vous-mêmes/
@@ -24851,7 +24865,9 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 ????m 海鮮餐 海鲜餐 [hai3 xian1 can1] {hoi2 sin1 caan1} /repas de fruits de mer/(fig.) produit à prix variable/
 淆 淆 [xiao2] {ngaau4} /avoir peur/
 淆老襯 淆老衬 [xiao2 lao3 chen4] {ngaau4 lou5 can3} /(expr.) (péj.) gagner sa vie honnêtement (expression utilisée par des criminels pour se moquer des criminels repentis)/
-淋ｂａｔｂａｔ 淋ｂａｔｂａｔ [lin2b a t b a t] {nam4 bet6 bet6} /mou; mollasse; flasque/timide; trop gentil/
+淋ｂａｔｂａｔ 淋ｂａｔｂａｔ [lin2b a t b a t] {nam4 bet6 bet6} /mou; pâteux; ramolli/carpette; paillasson; chiffe molle; personne faible de caractère/
+淋ｂｅｔｂｅｔ 淋ｂｅｔｂｅｔ [lin2b e t b e t] {nam4 bet6 bet6} /mou; pâteux; ramolli/carpette; paillasson; chiffe molle; personne faible de caractère/
+淋謝謝 淋谢谢 [lin2 xie4 xie4] {nam4 ze6 ze6} /mou; pâteux; ramolli/carpette; paillasson; chiffe molle; personne faible de caractère/
 淫媒 淫媒 [yin2 mei2] {jam4 mui4} /maquereau; proxénète/
 混噩 混噩 [hun4 e4] {wan6 ngok6} /(d'une personne) à la dérive; sans ambition; sans objectifs clairs/
 清楚地 清楚地 [qing1 chu5 di4] {cing1 co2 dei6} /(à l'écrit) clairement; d'une manière nette/
@@ -25134,6 +25150,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 發羊角風 发羊角风 [fa1 yang2 jiao3 feng1] {faat3 joeng4 gok3 fung1} /(fam.) faire une crise d'épilepsie/(fam.) épilepsie/
 ????m 發老姣 发老姣 [fa1 lao3 jiao1] {faat3 lou5 haau4} /(d'une femme âgée) faire la coquette/
 發花癲 发花癫 [fa1 hua1 dian1] {faat3 faa1 din1} /(fig.) (d'une femme) piquer une crise; grimper au mur/(fig.) devenir fou/(fig.) se languir d'amour/(lit.) devenir fou des fleurs/
+發臭脾氣 发臭脾气 [fa1 chou4 pi2 qi5] {faat3 cau3 pei4 hei3} /piquer une crise/
 發過豬啼 发过猪啼 [fa1 guo4 zhu1 ti2] {faat3 gwo3 zyu1 tai4} /(expr. idiom.) gagner beaucoup d'argent; devenir très riche (voir aussi 發過豬頭|发过猪头)/
 發過豬頭 发过猪头 [fa1 guo4 zhu1 tou2] {faat3 gwo3 zyu1 tau4} /(expr. idiom.) gagner beaucoup d'argent; devenir très riche (voir aussi 發過豬啼|发过猪啼)/
 白天鵝 白天鹅 [bai2 tian1 e2] {baak6 tin1 ngo4} /cygne (blanc)/
@@ -25308,6 +25325,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 等下 等下 [deng3 xia4] {dang2 haa5} /attends un peu/bientôt; dans un instant; un peu plus tard/
 等如 等如 [deng3 ru2] {dang2 jyu4} /égal à/
 等我 等我 [deng3 wo3] {dang2 ngo5} /attends-moi!/
+等間 等间 [deng3 jian1] {dang2 gaan1} /bientôt; dans un instant/
 ????m 答必 答必 [da2 bi4] {daap6 bit1} /(fam.) (Malaysie et Singpour) mais; toutefois/
 算你好彩 算你好彩 [suan4 ni3 hao3 cai3] {syun3 nei5 hou2 coi2} /(expr.) estime-toi heureux/
 算啦 算啦 [suan4 la5] {syun3 laa1} /ce n'est pas grave; t'en fais pas/
@@ -26325,3 +26343,4 @@ wet wet [wet1] {wet1} /s'amuser; se détendre; sortir en ville/
 𡄽滑梯 𡄽滑梯 [ hua2 ti1] {soe4 waat6 tai1} /glissoire (Can.), toboggan (Fr.)/
 飚晒火 飚晒火 [biao1 shai4 huo3] {biu1 saai3 fo2} /(fam.) (fig.) furieux; enragé/(lit.) tourbillon de feu/
 戚 戚 [qi1] {cik1} /lever; soulever (voir aussi 摵|摵)/
+☒手 ☒手 [shou3] {jaap6 sau2} /faire au revoir de la main/
