@@ -11,13 +11,13 @@ Puis, en 2018, les manifestations à Hong Kong m'ont profondément touché, en p
 J'espère que ce dictionnaire du cantonais moderne, tel qu'il est parlé de nos jours, vous sera utile, et je tiens à remercier tous ceux qui ont contribué à cet immense projet!
 
 ## Contributeurs
-Jian Huang
-Fei Tan
-Cathy Huang
-Tara Collington
-Nicole Nolette
-Anqi Wu
-Sophia Ye
+* Jian Huang
+* Fei Tan
+* Cathy Huang
+* Tara Collington
+* Nicole Nolette
+* Anqi Wu
+* Sophia Ye
 
 ## Notes typographiques
 
