@@ -8784,7 +8784,7 @@
 托兒所 托儿所 [tuo1 er2 suo3] {tok3 ji4 so2} /garderie; crèche/
 托塔都應承 托塔都应承 [tuo1 ta3 dou1 ying4 cheng2] {tok3 taap3 dou1 jing1 sing4} /(expr. idiom.) qui rompt ses promesses; qui accepte de faire tout ce que l'on lui demande, même si ce n'est pas possible/(lit.) promettre même de tenir un pagode au-dessus sa tête/
 托大腳 托大脚 [tuo1 da4 jiao3] {tok3 daai6 goek3} /(expr. idiom.) flatter; flagorner (son patron)/(lit.) tenir le grand pied/
-托手踭 托手踭 [tuo1 shou3 zheng1] {tok3 sau2 zaang1} /refuser (une demande)/
+托手踭 托手踭 [tuo1 shou3 zheng1] {tok3 sau2 zaang1} /(fig.) refuser d'aider quelqu'un; refuser (une demande)/
 托故 托故 [tuo1 gu4] {tok3 gu3} /trouver des excuses (pour faire quelque chose)/
 托水龍 托水龙 [tuo1 shui3 long2] {tok3 seoi2 lung4} /(fig.) détourner (les fonds de quelque chose); escroquer/(lit.) voler le dragon-bateau/
 托賴 托赖 [tuo1 lai4] {tok3 laai6} /(formule de politesse) merci (utilisé pour remercier quelqu'un quand il te rend service)/(expr. phatique) ça va; pas mal (utilisé pour répondre à une question, « ça va? »)/pas mauvais, pas mal, adéquat/
@@ -15290,6 +15290,8 @@
 ????f 禮賓司 礼宾司 [li3 bin1 si1] {lai5 ban1 si1} /concierge en chef d'un hôtel/bureau du Protocole/
 禮賓府 礼宾府 [li3 bin1 fu3] {lai5 ban1 fu2} /Government House (« résidence du gouvernement »), résidence officielle du gouverneur de Hong Kong pendant l'époque coloniale/
 禮餅 礼饼 [li3 bing3] {lai5 beng2} /gâteau de mariage; pièce montée/
+禮品卡 礼品卡 [li3 pin3 ka1] {lai5 ban2 kaa1} /carte cadeau/
+禮品咭 礼品咭 [li3 pin3 ka1] {lai5 ban2 kaat1} /carte cadeau/
 禽 禽 [qin2] {kam4} /capturer/
 禽獸行為 禽兽行为 [qin2 shou4 xing2 wei2] {kam4 sau3 hang4 wai4} /(fig.) comportement barbare/
 萬一 万一 [wan4 yi1] {maan6 jat1} /onze mille/
@@ -24225,8 +24227,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 打魚蛋 打鱼蛋 [da3 yu2 dan4] {daa2 jyu4 daan2} /(fam.) (fig.) peloter les seins d'une femme/(lit.) frapper les œufs de poisson/
 打鳩 打鸠 [da3 jiu1] {daa2 gau1} /(vulg.) (fig.) casser la gueule; crisser une volée; tabasser; rouer de coups; réduire en bouillie/
 托塔都唔識轉膊 托塔都唔识转膊 [tuo1 ta3 dou1 wu2 shi2 zhuan3 bo2] {tok3 taap3 dou1 m4 sik1 zyun3 bok3} /(expr. idiom.) inflexible; qui a de la difficulté à s'adapter aux circonstances; qui refuse de changer sa façon de faire les choses/(lit.) ne pas savoir changer d'épaule même en portant le tour/
-托手爭 托手争 [tuo1 shou3 zheng1] {tok3 sau2 zaang1} /(fig.) refuser d'aider quelqu'un/
-托手㬹 托手㬹 [tuo1 shou3 zheng1] {tok3 sau2 zaang1} /(fig.) refuser d'aider quelqu'un/
+托手爭 托手争 [tuo1 shou3 zheng1] {tok3 sau2 zaang1} /(fig.) refuser d'aider quelqu'un; refuser (une demande)/
+托手㬹 托手㬹 [tuo1 shou3 zheng1] {tok3 sau2 zaang1} /(fig.) refuser d'aider quelqu'un; refuser (une demande)/
 ????c 托撚 托撚 [tuo1 nian3] {tok3 lan2} /(vulg.) faire quelque chose d'inutile; tenter de faire quelque chose qui est trop difficile/
 托杉 托杉 [tuo1 shan1] {tok3 caam3} /(fig.) faire quelque chose d'inutile/(fig.) tenter de faire quelque chose d'impossible; tenter de faire quelque chose qui est trop difficile/(lit.) porter le pin/
 托杉唔識轉膊 托杉唔识转膊 [tuo1 shan1 wu2 shi2 zhuan3 bo2] {tok3 caam3 m4 sik1 zyun3 bok3} /(expr. idiom.) inflexible; qui a de la difficulté à s'adapter aux circonstances; qui refuse de changer sa façon de faire les choses/(lit.) ne pas savoir changer d'épaule même en portant le pin/
@@ -26328,3 +26330,4 @@ wet wet [wet1] {wet1} /s'amuser; se détendre; sortir en ville/
 飚晒火 飚晒火 [biao1 shai4 huo3] {biu1 saai3 fo2} /(fam.) (fig.) furieux; enragé/(lit.) tourbillon de feu/
 戚 戚 [qi1] {cik1} /lever; soulever (voir aussi 摵|摵)/
 ☒手 ☒手 [shou3] {jaap6 sau2} /faire au revoir de la main/
+瘀血 瘀血 [yu1 xue4] {jyu2 hyut3} /sang extravasé/
