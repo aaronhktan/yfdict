@@ -15751,6 +15751,8 @@
 籠𨋢 笼𨋢 [lung2 𨋢5] {lung4 lip1} /monte-charge; ascenseur de service/
 籠底 笼底 [long2 di3] {lung2 dai2} /(fig.) (décrit un « lieu » où se trouve un secret bien gardé, ex. « sous le boisseau »)/(fig.) (d'un projet, des plans) remettre à plus tard; mettre de côté; abandonner pour l'instant/(lit.) fond du panier/
 籠底 笼底 [long2 di3] {lung4 dai2} /(fig.) (décrit un « lieu » où se trouve un secret bien gardé, ex. « sous le boisseau »)/(fig.) (d'un projet, des plans) remettre à plus tard; mettre de côté; abandonner pour l'instant/(lit.) fond du panier/
+籠溜 笼熘 [long2 liu1] {lung4 liu1} /(fam.) ruse; artifice; manigance; fourberie/ 
+籠ｌｉｕ 笼ｌｉｕ [long2 ｌｉｕ] {lung4 liu1} /(fam.) ruse; artifice; manigance; fourberie/
 籮 箩 [luo2] {lo4} /(fam.) fesses; derrière/
 籮噼 箩噼 [luo2 pi1] {lo1 pet1} /(fam.) fesses; derrière/
 籮底橙 箩底橙 [luo2 di3 cheng2] {lo4 dai2 caang2} /(fig.) fond du panier; produits restants que personne ne veut/(fig.) (péj.) femmes qui restent célibataires toute leur vie/(lit.) oranges (qui restent) au fond/
@@ -22854,6 +22856,7 @@
 龍鬚糖 龙须糖 [long2 xu1 tang2] {lung4 sou1 tong2} /(confiserie) barbe à dragon, confiserie semblable à la barbe à papa/
 龍鬚草 龙须草 [long2 xu1 cao3] {lung4 sou1 cou2} /(espèce de plantes) Eulaliopsis binata/
 龍鼓灘 龙鼓滩 [long2 gu3 tan1] {lung4 gu2 taan1} /Lung Kwu Tan, région de Hong Kong/
+龍撩 龙撩 [long2 liao1] {lung4 liu1} /(fam.) ruse; artifice; manigance; fourberie/ 
 龜 龟 [gui1] {gwai1} /(péj.) flic; police/(fam.) (vulg.) pénis (voir 龜頭|龟头)/(péj.) être lâche; être peureux/
 龜婆 龟婆 [gui1 po2] {gwai1 po2} /(fam.) maquerelle; tenancière d'une maison close/(lit.) femme aux tortues/
 龜背 龟背 [gui1 bei4] {gwai1 bui3} /gilet matelassé/déviation de la colonne vertébrale/
@@ -23325,7 +23328,9 @@
 ????c 出料 出料 [chu1 liao4] {ceot1 liu2} /(fig.) montrer ce dont on est capable; montrer ce qu'on est capable de faire/(fam.) éjaculer/
 出晒位 出晒位 [chu1 shai4 wei4] {ceot1 saai3 wai2} /se distinguer des autres avec son comportement bizarre; dépasser les bornes en cherchant à se faire remarquer (connotation négative)/
 出番啖氣 出番啖气 [chu1 fan1 dan4 qi4] {ceot1 faan1 daam6 hei3} /(fig.) se venger/
-出籠ｌｉｕ 出笼ｌｉｕ [chu1long2ｌｉｕ] {ceot1 lung4 liu1} /tricher/arnaquer; escroquer/
+出龍撩 出龙撩 [chu1 long2 liao1] {ceot1 lung4 liu1} /(fam.) tricher/(fam.) arnaquer; escroquer/ 
+出籠ｌｉｕ 出笼ｌｉｕ [chu1 long2 ｌｉｕ] {ceot1 lung4 liu1} /(fam.) tricher/(fam.) arnaquer; escroquer/
+出籠溜 出笼熘 [chu1 long2 liu1] {ceot1 lung4 liu1} /(fam.) tricher/(fam.) arnaquer; escroquer/ 
 出花臣 出花臣 [chu1 hua1 chen2] {ceot1 faa1 san2} /tricher/arnaquer; escroquer/
 出血位 出血位 [chu1 xie3 wei4] {ceot1 hyut3 wai2} /(imprimerie) fond perdu/
 出血線 出血线 [chu1 xie3 xian4] {ceot1 hyut3 sin3} /(imprimerie) ligne qui délimite le fond perdu/
