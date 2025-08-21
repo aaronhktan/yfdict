@@ -787,6 +787,7 @@
 串女 串女 [chuan4 nu:3] {cyun3 neoi5} /membres de gang (de sexe féminin) qui rôdent les rues/(fig.) fille arrogante/
 串字 串字 [chuan4 zi4] {cyun3 zi6} /épeler un mot/
 串講 串讲 [chuan4 jiang3] {cyun3 gong2} /éxpliquer; résumer/
+串過馬撚 串过马捻 [chuan4 guo4 ma3 nian3] {cyun3 gwo3 maa5 lan2} /(expr. idiom.) (vulg.) très arrogant/(lit.) plus arrogant que la bite du cheval/
 丸仔 丸仔 [wan2 zi3] {jyun2 zai2} /pilules; comprimés (souvent pour désigner les drogues)/
 丹墀 丹墀 [dan1 chi2] {daan1 ci4} /marches à l'entrée d'un palais chinois/
 丹尼士巨龍 丹尼士巨龙 [dan1 ni2 shi4 ju4 long2] {daan1 nei4 si6 geoi6 lung4} /Dennis Dragon, un modèle d'autobus manufacturé par la compagnie Dennis/
@@ -2618,7 +2619,7 @@
 凘 凘 [si1] {si1} /(litt.) glace flottante/
 凜凜 凛凛 [lin3 lin3] {lam5 lam5} /glacial; très froid/impressionnant; imposant; magnifique/
 凜然 凛然 [lin3 ran2] {lam5 jin4} /impressionant; imposant/
-凝眸 凝眸 [ning2 mou2] {jing4 mau4} /fixer (son regard sur quelque chose); regarder avec insistance/
+凝眸 凝眸 [ning2 mou2] {jing4 mau4} /fixer; regarder avec insistance/
 凝重 凝重 [ning2 zhong4] {jing4 zung6} /sérieux; grave; solonnel/
 凡係 凡系 [fan2 xi4] {faan4 hai6} /tout; chaque/
 凱旋 凯旋 [kai3 xuan2] {hoi2 syun4} /revenir victorieux (voir aussi 凱旋歸來|凯旋归来)/
@@ -2924,6 +2925,7 @@
 割脈 割脉 [ge1 mai4] {got3 mak6} /se trancher les veines; se suicider en s'ouvrant les veines du poignet/
 割頸 割颈 [ge1 jing3] {got3 geng2} /se trancher l'artère carotide/
 割席 割席 [ge2 xi2] {got3 zek6} /couper les ponts; rompre les relations avec quelqu'un/
+割席 割席 [ge2 xi2] {got3 zik6} /couper les ponts; rompre les relations avec quelqu'un/
 割蓆 割蓆 [ge2 xi2] {got3 zek6} /couper les ponts; rompre les relations avec quelqu'un/
 割𥱊 割𥱊 [ge2 xi2] {got3 zek6} /couper les ponts; rompre les relations avec quelqu'un/
 創 创 [chuang4] {cong3} /innover; créer/établir; créer une entreprise/(blessure) traumatique/
@@ -3100,7 +3102,7 @@
 包艇 包艇 [bao1 ting3] {baau1 teng5} /(fig.) arriver dernier; être à la dernière place (compétition)/(lit.) réserver un bateau/
 包裝 包装 [bao1 zhuang1] {baau1 zong1} /emballage/
 包起 包起 [bao1 qi3] {baau1 hei2} /assumer l'entière responsabilité/réserver (une table, une place à un restaurant, etc.)/être sugar daddy; être papa-gâteau/
-包頂頸 包顶颈 [bao1 ding3 jing3] {baau1 ding2 geng2} /ergoteur; chicaneur/
+包頂頸 包顶颈 [bao1 ding3 jing3] {baau1 ding2 geng2} /ergoteur; chicaneur; qui cherche du conflit/
 ????f 包骨 包骨 [bao1 gu3] {baau1 gwat1} /couture rabattue (en anglais, « lap seam »)/
 匏瓜 匏瓜 [pao2 gua1] {paau4 gwaa1} /calebasse/
 化 化 [hua4] {faa3} /changer; transformer/chimie/en finir avec quelque chose/accepter la vérité ou la réalité/fondre/dissoudre/mendier/
@@ -9092,7 +9094,7 @@
 拗柴 拗柴 [ao3 chai2] {aau2 caai4} /se fouler la cheville; se tordre la cheville/
 拗氣 拗气 [niu4 qi4] {aau3 hei3} /se disputer; se quereller/
 拗腰 拗腰 [ao3 yao1] {aau2 jiu1} /se pencher en arrière/
-拗頸 拗颈 [ao4 jing3] {aau3 geng2} /se disputer; se quereller; être en désaccord/têtu; entêté; obstiné; ergoteur; chicanier/
+拗頸 拗颈 [ao4 jing3] {aau3 geng2} /se disputer; se quereller; être en désaccord/têtu; entêté; obstiné; ergoteur; chicanier; qui cherche du conflit/
 拘 拘 [ju1] {keoi1} /arrêter; interpeller; prendre quelqu'un prisonnier/inflexible; intraitable; qui refuse de changer d'idées/limiter; contraindre/
 拚死無大害 拚死无大害 [pan4 si3 wu2 da4 hai4] {pun2 sei2 mou4 daai6 hoi6} /(expr. idiom.) tout risquer parce que l'on a rien à perdre; tout miser; aller à fond/
 拚爛 拚烂 [pan4 lan4] {pun2 laan2} /s'en foutre; se laisser aller; agir de manière insouciante; s'en battre les couilles de (quelque chose)/
@@ -10885,7 +10887,7 @@
 有頭毛冇人想生鬎鬁 有头毛冇人想生瘌痢 [you3 tou2 mao2 mao3 ren2 xiang3 sheng1 la4 li5] {jau5 tau4 mou4 mou5 jan4 soeng2 saang1 laat6 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
 有頭髮邊個想做癩痢 有头发边个想做癞痢 [you3 tou2 fa5 bian1 ge4 xiang3 zuo4 lai4 li4] {jau5 tau4 faat3 bin1 go3 soeng2 zou6 laat3 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
 有頭髮邊個想做瘌痢 有头发边个想做癞痢 [you3 tou2 fa5 bian1 ge4 xiang3 zuo4 lai4 li4] {jau5 tau4 faat3 bin1 go3 soeng2 zou6 laat3 lei1} /(expr. idiom.) personne ne choisirait de faire quelque chose qui leur nuit/(lit.) personne avec des cheveux ne veut contracter le favus/
-????f 有風駛盡𢃇 有风驶尽𢃇 [you3 feng1 shi3 jin4 li5] {jau5 fung1 sai2 zeon6 lei5} /(expr. idiom.) exploiter au maximum; profiter de quelque chose jusqu'à ce qu'il ne reste plus d'argent à faire/(lit.) utiliser le vent pour naviguer en voilier/
+????f 有風駛盡𢃇 有风驶尽𢃇 [you3 feng1 shi3 jin4 li5] {jau5 fung1 sai2 zeon6 lei5} /(expr. idiom.) presser le citron; exploiter au maximum; profiter de quelque chose jusqu'à ce qu'il ne reste plus d'argent à faire/(lit.) utiliser le vent pour naviguer en voilier/
 有驚無險 有惊无险 [you3 jing1 wu2 xian3] {jau5 ging1 mou4 him2} /(expr. idiom.) plus de peur que de mal; fausse alerte/(lit.) plus effrayant que dangereux/
 有骨 有骨 [you3 gu3] {jau5 gwat1} /(fig.) remarque passive-aggressive, qui semble innocent mais qui est en réalité une insulte ou une critique/(lit.) avoir des os/
 有鬼 有鬼 [you3 gui3] {jau5 gwai2} /(fig.) il y a quelque chose de louche; il y a quelque chose qui cloche; il y a quelque chose de suspect/(lit.) avoir des fantômes/
@@ -12225,7 +12227,7 @@
 泥鯭的 泥鯭的 [ni2 meng3 de5] {nai4 maang1 dik1} /(Hong Kong) taxi illégal où le chauffeur de taxi attend plusieurs personnes (qui ne se connaissent pas) ayant la même destination, ce qui lui permet de réduire les prix qu'il demande des passagers/(lit.) taxi aux sigans/
 泥鴨 泥鸭 [ni2 ya1] {nai4 aap2} /(espèce de canard élevée sur la terre ferme, sans accès à l'eau)/(fig.) (personne) sale/
 注意事項 注意事项 [zhu4 yi4 shi4 xiang4] {zyu3 ji3 si6 hong6} /précautions/
-注視 注视 [zhu4 shi4] {zyu3 si6} /fixer du regard; regarder avec insistance; lorgner; dévisager; scruter/faire attention à/
+注視 注视 [zhu4 shi4] {zyu3 si6} /fixer du regard; regarder de façon insistante; lorgner; dévisager; scruter/faire attention à/
 泮塘 泮塘 [pan4 tang2] {pun3 tong6} /Pun Tong, localité de Canton en Chine/
 泮水 泮水 [pan4 shui3] {pun3 seoi2} /Pun Tong, localité de Canton en Chine/Panshui, village de Guangxi/(vieilli) étang situé devant une école/
 泮溪 泮溪 [pan4 xi1] {pun3 kai1} /Panxi, ruisseau de Canton en Chine/
@@ -14753,7 +14755,7 @@
 眼大大 眼大大 [yan3 da4 da4] {ngaan5 daai6 daai6} /grands yeux/
 眼大睇過籠 眼大睇过笼 [yan3 da4 di4 guo4 long2] {ngaan5 daai6 tai2 gwo3 lung4} /(expr. idiom.) ne pas remarquer quelque chose d'évident/(lit.) avoir de grands yeux mais ne pas voir le dragon/
 眼大睇過龍 眼大睇过龙 [yan3 da4 di4 guo4 long2] {ngaan5 daai6 tai2 gwo3 lung4} /(expr. idiom.) ne pas remarquer quelque chose d'évident/(lit.) avoir de grands yeux mais ne pas voir le dragon/
-眼定定 眼定定 [yan3 ding4 ding4] {ngaan5 ding6 ding6} /fixer du regard; regarder fixement; lorgner; regarder avec insistance/(fig.) ébahi; abasourdi/
+眼定定 眼定定 [yan3 ding4 ding4] {ngaan5 ding6 ding6} /fixer du regard; regarder fixement; lorgner; regarder de façon insistante/(fig.) ébahi; abasourdi/
 眼屎 眼屎 [yan3 shi3] {ngaan5 si2} /chassie/
 眼挑針 眼挑针 [yan3 tiao1 zhen1] {ngaan5 tiu1 zam1} /orgelet; infection des cils ou de la paupière/
 眼挹毛 眼挹毛 [yan3 yi4 mao2] {ngaan5 jap1 mou4} /cils/
@@ -14899,7 +14901,7 @@
 睡鋪 睡铺 [shui4 pu4] {seoi6 pou1} /couchette/
 睽異 睽异 [kui2 yi4] {kwai4 ji6} /être en désaccord; avoir des opinions différentes/
 瞀里 瞀里 [mao4 li3] {mau6 lei2} /idiot; imbécile; connard/
-瞄 瞄 [miao2] {miu4} /fixer du regard; lorgner; regarder avec insistance/jeter un coup d'œil/
+瞄 瞄 [miao2] {miu4} /fixer du regard; lorgner; regarder de façon insistante/jeter un coup d'œil/
 瞄準 瞄准 [miao2 zhun3] {miu4 zeon2} /viser/
 瞇埋眼 眯埋眼 [mi1 mai2 yan3] {mei1 maai4 ngaan5} /fermer les yeux/
 瞌埋眼 瞌埋眼 [ke1 mai2 yan3] {hap1 maai4 ngaan5} /fermer les yeux/
@@ -15464,8 +15466,9 @@
 穿窿 穿窿 [chuan1 long2] {cyun1 lung1} /faire un trou dans un objet par usure/être perforé; avoir un trou/
 穿鼻 穿鼻 [chuan1 bi2] {cyun1 bei6} /percer le nez/
 突擊 突击 [tu1ji1] {dat6 gik1} /attaquer soudainement et violemment/
-突然 突然 [tu1 ran2] {dat6 jin4} /soudainement; subitement; brusquement/
-突然之間 突然之间 [tu1 ran2 zhi1 jian1] {dat6 jin4 zi1 gaan1} /soudainement; subitement; brusquement/
+突然 突然 [tu1 ran2] {dat6 jin4} /soudainement; subitement; brusquement; de but en blanc/
+突然之間 突然之间 [tu1 ran2 zhi1 jian1] {dat6 jin4 zi1 gaan1} /soudainement; subitement; brusquement; de but en blanc/
+突然間 突然间 [tu1 ran2 jian1] {dat6 jin4 gaan1} /soudainement; subitement; brusquement; de but en blanc/
 窄 窄 [zhai3] {zaak3} /étroit/serré/petit/
 ????c 窄搣搣 窄搣搣 [zhai3 mie4 mie4] {zaak3 mit6 mit6} /trop serré; trop petit/
 ????c 窄硤硤 窄硖硖 [zhai3 xia2 xia2] {zaak3 gip6 gip6} /trop serré; trop petit/
@@ -19105,7 +19108,7 @@
 趁熱鬧 趁热闹 [chen4 re4 nao4] {can3 jit6 naau6} /se joindre à la fête/
 趁風使𢃇 趁风使𢃇 [chen4 feng1 shi3 li3] {can3 fung1 sai2 lei5} /(expr. idiom.) (péj.) opportuniste; s'adapter aux circonstances; profiter de la situation/(lit.) disposer les voiles de son navire selon les vents/
 趁高興 趁高兴 [chen4 gao1 xing4] {can3 gou1 hing3} /se joindre à la fête/
-超 超 [chao1] {ciu1} /très/plus que/lorgner; regarder longuement; fixer; dévisager/lunettes de soleil/super; génial/(equivalent to pffft; used to dismiss something)/
+超 超 [chao1] {ciu1} /très/plus que/lorgner; regarder de façon insistante; fixer; dévisager/lunettes de soleil/super; génial/(equivalent to pffft; used to dismiss something)/
 超人一等 超人一等 [chao1 ren2 yi1 deng3] {ciu1 jan4 jat1 dang2} /(expr.) être mieux que les autres; être un cran au-dessus des autres/
 超任 超任 [chao1 ren4] {ciu1 jam6} /Super Nintendo Entertainment System; SNES; Super Famicom; Super NES; SNES/
 超小型 超小型 [chao1 xiao3 xing2] {ciu1 siu2 jing4} /subminiature/
@@ -20554,7 +20557,7 @@
 開車 开车 [kai1 che1] {hoi1 ce1} /(véhicule) conduire/
 開鋪 开铺 [kai1 pu4] {hoi1 pou3} /démarrer une entreprise/(boutique, magasin) ouvrir/
 開鏡 开镜 [kai1 jing4] {hoi1 geng3} /(cinéma) commencer à tourner/
-開鑊 开镬 [kai1 huo4] {hoi1 wok6} /préparer un wok pour la cuisson/(fam.) (fig.) avoir des relations sexuelles; coucher; faire l'amour/(fam.) (fig.) violer/(fam.) (fig.) perdre sa virginité/
+開鑊 开镬 [kai1 huo4] {hoi1 wok6} /préparer un wok pour la cuisson/(fam.) (fig.) taper; avoir des relations sexuelles; coucher/(fam.) (fig.) violer/(fam.) (fig.) perdre sa virginité/
 開門 开门 [kai1 men2] {hoi1 mun4} /ouvrir la porte/(boutique, magasin) ouvrir/
 開門七件事 开门七件事 [kai1 men2 qi1 jian4 shi4] {hoi1 mun4 cat1 gin6 si6} /(expr.) les sept nécessités de la vie: bois de chauffage, riz, huile, sel, sauce, vinaigre, thé/
 開門辦學 开门办学 [kai1 men2 ban4 xue2] {hoi1 mun4 baan6 hok6} /école dont les cours sont ouverts à tous/
@@ -24237,8 +24240,8 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 打鑼都搵唔倒 打锣都揾唔倒 [da3 luo2 dou1 wen3 wu2 dao4] {daa2 lo2 dou1 wan2 m4 dou2} /(expr. idiom.) ne pas réussir à trouver quelqu'un même après avoir consacré bien des efforts/(lit.) ne pas réussir à trouver même en frappant le gong/
 打開本書 打开本书 [da3 kai1ben3 shu1] {daa2 hoi1 bun2 syu1} /ouvrir un livre/
 打雀 打雀 [da3 que4] {daa2 zoek2} /jouer au mah-jong (voir aussi 打麻雀|打麻雀)/
-打雀咁眼 打雀咁眼 [da3 que4 gan1 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) fixer; garder le regard sur quelqu'un ou quelque chose (d'une manière grossière)/
-打雀噉眼 打雀噉眼 [da3 que4 dan4 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) fixer; garder le regard sur quelqu'un ou quelque chose (d'une manière grossière)/
+打雀咁眼 打雀咁眼 [da3 que4 gan1 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) fixer; regarder de façon insistante quelqu'un ou quelque chose (d'une manière grossière)/
+打雀噉眼 打雀噉眼 [da3 que4 dan4 yan3] {daa2 zoek2 gam2 ngaan5} /(expr. idiom.) fixer; regarder de façon insistante quelqu'un ou quelque chose (d'une manière grossière)/
 打魚蛋 打鱼蛋 [da3 yu2 dan4] {daa2 jyu4 daan2} /(fam.) (fig.) peloter les seins d'une femme/(lit.) frapper les œufs de poisson/
 打鳩 打鸠 [da3 jiu1] {daa2 gau1} /(vulg.) (fig.) casser la gueule; crisser une volée; tabasser; rouer de coups; réduire en bouillie/
 托塔都唔識轉膊 托塔都唔识转膊 [tuo1 ta3 dou1 wu2 shi2 zhuan3 bo2] {tok3 taap3 dou1 m4 sik1 zyun3 bok3} /(expr. idiom.) inflexible; qui a de la difficulté à s'adapter aux circonstances; qui refuse de changer sa façon de faire les choses/(lit.) ne pas savoir changer d'épaule même en portant le tour/
