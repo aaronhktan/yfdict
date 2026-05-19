@@ -14009,6 +14009,7 @@
 生活水準 生活水准 [sheng1 huo2 shui3 zhun3] {sang1 wut6 seoi2 zeon2} /niveau de vie/
 生活環境 生活环境 [sheng1 huo2 huan2 jing4] {sang1 wut6 waan4 ging2} /atmosphère/milieu/conditions de vie/cadre de vie/
 生活習慣 生活习惯 [sheng1 huo2 xi2 guan4] {sang1 wut6 zaap6 gwaan3} /mode de vie; style de vie/
+生活開支 生开開支 [sheng1 huo2 kai1 zhi1] {sang1 wut6 hoi1 zi1} /coût de la vie; dépenses quotidiennes/
 生滾 生滚 [sheng1 gun3] {saang1 gwan2} /(mode de cuisson) faire cuire des minces lamelles de viande crue dans du congee porté à ébullition/
 生烏雞 生乌鸡 [sheng1 wu1 ji1] {saang1 wu1 gai1} /(fig.) (vêtements) développer de la moissiure/(lit.) donner naissance à des poules soie (des poules noires)/
 生猛海鮮 生猛海鲜 [sheng1 meng3 hai3 xian1] {saang1 maang5 hoi2 sin1} /produits de la mer vivants/
@@ -19858,6 +19859,8 @@
 遮醜 遮丑 [zhe1 chou3] {ze1 cau2} /cacher ses défauts/cacher sa honte/
 遮陰 遮阴 [zhe1 yin1] {ze1 jam1} /ombrager/
 遮骨 遮骨 [zhe1 gu3] {ze1 gwat1} /mât, baleines, et coulant d'un parapluie; toutes les parties d'une parapluie qui ne sont pas de tissu/(lit.) os de parapluie/
+遮光板 遮光板 [zhe1 guang1 ban3] {ze1 gwong1 baan2} /(sur un avion) obturateur de hublot/
+遮光簾 遮光帘 [zhe1 guang1 lian2] {ze1 gwong1 lim2} /(automobile) toit ouvrant (désigne en particulier une toile ou panneau qui atténue la lumière et non la vitre)/
 遲下 迟下 [chi2 xia4] {ci4 haa5} /plus tard/
 遲到好過冇到 迟到好过冇到 [chi2 dao4 hao3 guo4 mao3 dao4] {ci4 dou3 hou2 gwo3 mou5 dou3} /mieux vaut tard que jamais/
 遲啲 迟啲 [chi2 di1] {ci4 di1} /plus tard/
@@ -21227,6 +21230,7 @@
 電風筒 电风筒 [dian4 feng1 tong3] {din6 fung1 tung2} /sèche-cheveux; séchoir/
 電髮 电发 [dian4 fa4] {din6 faat3} /se faire une permanente/
 電鬚刨 电须刨 [dian4 xu1 bao4] {din6 sou1 paau2} /rasoir électrique/
+電雞 电鸡 [dian4 ji1] {din6 gai1} /(Guangdong) cyclomoteur; moped; bicyclette assistée/
 需 需 [xu1] {seoi1} /besoin/avoir besoin/
 需求 需求 [xu1 qiu2] {seoi1 kau4} /besoin/(économie) demande du marché/
 震揗揗 震揗揗 [zhen4 shun3 shun3] {zan3 tan4 tan4} /trembler/trembler de peur/
@@ -23856,6 +23860,7 @@
 天空中 天空中 [tian1 kong1 zhong1] {tin1 hung1 zung1} /dans les airs; dans le ciel/
 天花龍鳯 天花龙鳯 [tian1 hua1 long2 feng4] {tin1 faa1 lung4 fung6} /(expr. idiom.) hyperbole; exagération/
 天熱 天热 [tian1 re4] {tin1 jit6} /l'été/(temps) faire chaud/
+天幕 天幕 [tian1 mu4] {tin1 mok6} /(automobile) toit ouvrant (désigne en particulier une toile ou panneau qui atténue la lumière et non la vitre)/
 太忙 太忙 [tai4 mang2] {taai3 mong4} /trop occupé/
 太過份 太过份 [tai4 guo4 fen4] {taai3 gwo3 fan6} /qui est allé trop loin; qui a dépassé les bornes; déraisonnable/
 失去平衡 失去平衡 [shi1 qu4 ping2 heng2] {sat1 heoi3 ping4 hang4} /perdre l'équilibre/
@@ -26357,3 +26362,4 @@ wet wet [wet1] {wet1} /s'amuser; se détendre; sortir en ville/
 噼噼 噼噼 [pet1 pet1] {pi1 pi1} /(enfantin) popotin; fesses; derrière; (Can.) foufounes/
 浭 浭 [geng1] {gaang3} /traverser à gué/
 挭 挭 [geng3] {gaang3} /mélanger; agiter; brasser/traverser à gué (voir aussi 浭|浭)/
+握手樓 握手楼 [wo4 shou3 lou2] {aak1 sau2 lau2} /immeubles résidentiels construits avec très peu d'espace entre eux/(orig.) un appartement dans un autre immeuble serait tellement proche que l'on pourrait serrer la main de son voisin/
