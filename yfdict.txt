@@ -5218,7 +5218,7 @@
 執豆噉執 执豆噉执 [zhi2 dou4 dan4 zhi2] {zap1 dau2 gam2 zap1} /(expr. idiom.) très facile; sans effort; sans peine/(lit.) comme ramasser des petits pois/
 執贏 执赢 [zhi2 ying2] {zap1 jeng4} /(compétition) avoir le dessus; prendre la tête/
 執起 执起 [zhi2 qi3] {zap1 hei2} /ramasser/
-執輸 执输 [zhi2 shu1] {zap1 syu1} /rater sa chance; manquer une belle occasion/
+執輸 执输 [zhi2 shu1] {zap1 syu1} /rater sa chance; laisser passer sa chance; manquer une belle occasion/
 執輸行頭慘過敗家 执输行头惨过败家 [zhi2 shu1 hang2 tou2 can3 guo4 bai4 jia1] {zap1 syu1 hong4 tau4 caam2 gwo3 baai6 gaa1} /(expr. idiom.) rien n'est pire que manquer une belle occasion/(lit.) rater sa chance est pire que déshonorer sa famille/
 執金吾 执金吾 [zhi2 jin1 wu2] {zap1 gam1 ng4} /officier responsable du maintain de l'ordre public dans la ville capitale pendant la dynastie Han/
 執雞 执鸡 [zhi2 ji1] {zap1 gai1} /(expr. idiom.) profiter d'un bienfait inespéré; tirer profit d'une situation inattendue/(expr. idiom.) (football) marquer un but facile après que le ballon a été bloqué par le gardien de but/(expr. idiom.) ajouter quelques touches finales au travail d'autrui puis s'attribuer tout le mérite/(lit.) ramasser une poule morte/
@@ -6022,7 +6022,7 @@
 失禮人 失礼人 [shi1 li3 ren2] {sat1 lai5 jan4} /perdre la face; être humilié/
 失禮死人 失礼死人 [shi1 li3 si3 ren2] {sat1 lai5 sei2 jan4} /perdre la face; être humilié/
 失落感 失落感 [shi1 luo4 gan3] {sat1 lok6 gam2} /sentiment de vide; sentiment de futilité/sentiment d'aliénation; sentiment de non-appartenance/
-????c 失諸交臂 失诸交臂 [shi1 zhu1 jiao1 bi4] {sat1 zyu1 gaau1 bei3} /(expr.) rater sa chance; rater une belle occasion/
+失諸交臂 失诸交臂 [shi1 zhu1 jiao1 bi4] {sat1 zyu1 gaau1 bei3} /(expr.) rater sa chance; laisser passer sa chance; manquer une belle occasion/
 失蹄 失蹄 [shi1 ti2] {sat1 tai4} /(cheval) trébucher/
 失運 失运 [shi1 yun4] {sat1 wan6} /malchance/
 失陷 失陷 [shi1 xian4] {sat1 haam6} /tomber aux mains de l'ennemi/
@@ -9757,7 +9757,7 @@
 撶 撶 [hua2] {waa1} /ramer; propulser (un bateau, une chaloupe, etc.)/
 撻 挞 [ta4] {taat1} /tarte/tartelette/voler (de l'argent)/démarrer (une véhicule)/
 撻 挞 [ta4] {taat3} /échouer; gâcher; foutre en l'air/
-撻Ｑ 挞Ｑ [ta4 Q] {taat3 kiu1} /(vocabulaire de football) louper la balle/(fig.) rater sa chance; manquer une belle occasion/(fig.) faire une erreur/
+撻Ｑ 挞Ｑ [ta4 Q] {taat3 kiu1} /(vocabulaire de football) louper la balle/(fig.) rater sa chance; laisser passer sa chance; manquer une belle occasion/(fig.) faire une erreur/
 撻伐 挞伐 [ta4 fa2] {taat3 fat6} /lancer une croisade contre; monter une expédition punitive à/
 撻嘢 挞嘢 [ta4 ye3] {taat1 je5} /voler; cambrioler; dévaliser/
 撻定 挞定 [ta4 ding4] {taat3 deng6} /perdre l'acompte (après avoir décidé d'annuler quelque chose)/
@@ -10577,7 +10577,7 @@
 ????m 是非啄 是非啄 [shi4 fei1 zhuo2] {si6 fei1 doeng1} /(fam.) une personne qui aime inventer des rumeurs; personne qui aime semer la zizanie/(fam.) porte-panier; personne rapporteuse/
 是非根 是非根 [shi4 fei1 gen1] {si6 fei1 gan1} /(fam.) (fig.) génitaux mâles/(lit.) racine de tous les problèmes/
 是非皆因強出頭 是非皆因强出头 [shi4 fei1 jie1 yin1 qiang2 chu1 tou2] {si6 fei1 gaai1 jan1 koeng5 ceot1 tau4} /(expr. idiom.) ne cherche pas les ennuis/(lit.) les disputes sont causées par les personnes qui se mêlent aux affaires des autres/
-時不我與 时不我与 [shi2 bu4 wo3 yu3] {si4 bat1 ngo5 jyu5} /(expr.) rater une belle occasion (de faire quelque chose)/(lit.) le temps ne m'attend pas/
+時不我與 时不我与 [shi2 bu4 wo3 yu3] {si4 bat1 ngo5 jyu5} /(expr.) rater sa chance; laisser passer sa chance; manquer une belle occasion/(lit.) le temps ne m'attend pas/
 時不時 时不时 [shi2 bu4 shi2] {si4 bat1 si4} /parfois; de temps en temps/souvent/
 時代雜誌 时代杂志 [shi2 dai4 za2 zhi4] {si4 doi6 zaap6 zi3} /Time (magazine)/
 時份 时份 [shi2 fen4] {si4 fan6} /moment d'une journée/
@@ -12732,7 +12732,7 @@
 漏氣 漏气 [lou4 qi4] {lau6 hei3} /fuite d'air/lent à agir; apathique/indécis; hésitant/
 漏網 漏网 [lou4 wang3] {lau6 mong5} /(fig.) passer entre les mailles du filet; échapper au châtiment/
 漏罅 漏罅 [lou4 xia4] {lau6 laa3} /fente; fissure/(fig.) trou; faille (dans un plan)/(fig.) erreur; faute/
-漏雞 漏鸡 [lou4 ji1] {lau6 gai1} /(fig.) rater sa chance; manquer une belle occasion/
+漏雞 漏鸡 [lou4 ji1] {lau6 gai1} /(fig.) rater sa chance; laisser passer sa chance; manquer une belle occasion/
 漏電 漏电 [lou4 dian4] {lau6 din6} /présenter une fuite d'électricité; faire un court-circuit/
 漏風 漏风 [lou4 feng1] {lau6 fung1} /fuite d'air/(fig.) fuiter; divulguer une information/(fig.) parler de manière défectueuse à cause de la perte d'une ou plusieurs dents de devant/contenant ou emballage pas hermétique/
 漏縫 漏缝 [lou4 feng4] {lau6 fung6} /fente; fissure/
@@ -18180,7 +18180,7 @@
 見高就拜見低就踩 见高就拜见低就踩 [jian4 gao1 jiu4 bai4 jian5 di1 jiu4 cai3] {gin3 gou1 zau6 baai3 gin3 dai1 zau6 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs; traiter les gens différemment selon leur statut social/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
 見高拜見低踩 见高拜见低踩 [jian4 gao1 bai4 jian5 di1 cai3] {gin3 gou1 baai3 gin3 dai1 caai2} /(expr. idiom.) flatter ses supérieurs et mépriser ses inférieurs; traiter les gens différemment selon leur statut social/(lit.) voir ceux de plus haut et les louer, voir ceux de plus bas et les piétiner/
 見鬼 见鬼 [jian4 gui3] {gin3 gwai2} /mince! merde!/va te faire voir! va te faire foutre!/(lit.) voir un fantôme/
-見財化水 见财化水 [jian4 cai2 hua4 shui3] {gin3 coi4 faa3 seoi2} /(expr. idiom.) rater sa chance de gagner de l'argent; perdre tout argent/(lit.) voir les richesses se transformer en eau/
+見財化水 见财化水 [jian4 cai2 hua4 shui3] {gin3 coi4 faa3 seoi2} /(expr. idiom.) laisser passer une chance de gagner de l'argent; perdre tout son argent/(lit.) voir les richesses se transformer en eau/
 規模 规模 [gui1 mo2] {kwai1 mou4} /échelle; portée; étendue (d'une action)/
 規畫 规画 [gui1 hua4] {kwai1 waak6} /planifier/plan; projet/
 親兄弟 亲兄弟 [qin1 xiong1 di4] {can1 hing1 dai6} /frère de sang (sens propre); frère ou demi-frère biologique/
@@ -19020,7 +19020,7 @@
 赤鱲角 赤鱲角 [Chi4 lie4 jiao3] {cek3 laap6 gok3} /Chek Lap Kok, île de Hong Kong/
 赦宥 赦宥 [she4 you4] {se3 jau6} /(droit) grâcier; remettre sa peine/
 赧然 赧然 [nan3 ran2] {naan5 jin4} /rougir de honte/
-走 走 [zou3] {zau2} /marcher/aller/bouger/s'en aller/mourir; décéder/sans; pas de/rater (sa chance); manquer (une belle occasion)/
+走 走 [zou3] {zau2} /marcher/aller/bouger/s'en aller/mourir; décéder/sans; pas de/rater, laisser passer (sa chance); manquer (une belle occasion)/
 走下坡 走下坡 [zou3 xia4 po1] {zau2 haa6 po1} /péricliter; décliner/
 走佬 走佬 [zou3 lao3] {zau2 lou2} /fuir/
 走光 走光 [zou3 guang1] {zau2 gwong1} /(fig.) avoir un incident de garde-robe/(photographie) surexposer/
@@ -19052,7 +19052,7 @@
 走精面 走精面 [zou3 jing1 mian4] {zau2 zeng1 min2} /(fig.) prendre un raccourci; couper les coins ronds; agir dans son intérêt sans se soucier des conséquences pour les autres/(lit.) agir avec un visage malin/
 走趯 走趯 [zou3 ti4] {zau2 dek3} /participer à des activités/se presser/faire des courses/
 走趲 走趱 [zou3 zan3] {zau2 zaan2} /avoir de latitude; avoir de flexibilité; avoir une marge de manœuvre/
-走雞 走鸡 [zou3 ji1] {zau2 gai1} /(fig.) rater sa chance; manquer une belle occasion/(lit.) perdre ses poules/
+走雞 走鸡 [zou3 ji1] {zau2 gai1} /(fig.) rater sa chance; laisser passer sa chance; manquer une belle occasion/(lit.) perdre ses poules/
 走難 走难 [zou3 nan2] {zau2 naan6} /fuir un catastrophe/
 走電 走电 [zou3 dian4] {zau2 din6} /(électricité) fuite de courant/
 走頭 走头 [zou3 tou2] {zau2 tau4} /partir; fuir; s'enfuir; s'échapper/
@@ -19461,7 +19461,7 @@
 輸到貼地 输到贴地 [shu1 dao4 tie1 di4] {syu1 dou3 tip3 dei2} /(expr. idiom.) être anéanti; être abattu; subir une défaite terrible/(lit.) perdre jusqu'à se mettre par terre/
 輸氧 输氧 [shu1 yang3] {syu1 joeng5} /oxygénothérapie/
 輸硬 输硬 [shu1 ying4] {syu1 ngaang6} /être sûr de perdre; n'avoir aucune chance de gagner/
-輸蝕 输食 [shu1 shi2] {syu1 sit6} /(fig.) rater sa chance; manquer une belle occasion/(fig.) subir une perte/(fig.) être désavantagé/(fig.) être incapable de concurrencer; être incapable de rivaliser/
+輸蝕 输食 [shu1 shi2] {syu1 sit6} /(fig.) rater sa chance; laisser passer sa chance; manquer une belle occasion/(fig.) subir une perte/(fig.) être désavantagé/(fig.) être incapable de concurrencer; être incapable de rivaliser/
 輸賭 输赌 [shu1 du3] {syu1 dou2} /parier; miser/
 輸錢 输钱 [shu1 qian2] {syu1 cin2} /perdre de l'argent/
 輻射熱 辐射热 [fu2 she4 re4] {fuk1 se6 jit6} /chaleur transmise par rayonnement/
@@ -23524,7 +23524,7 @@
 咁都得 咁都得 [gan1 dou1 de5] {gam2 dou1 dak1} /(exprime de la désapprobation et de l'étonnement) mais c'est vraiment comme ça? je n'en reviens pas! c'est insupportable! c'est horrible!/
 咁都好講一餐 咁都好讲一餐 [gan1 dou1 hao3 jiang3 yi1 can1] {gam2 dou1 hou2 gong2 jat1 caan1} /(expr.) pas la peine d'en faire tout un fromage!/
 咁鬼 咁鬼 [gan1 gui3] {gam3 gwai2} /(fam.) tellement; si/
-咁近城隍廟都唔求支好籤 咁近城隍庙都唔求支好签 [gan1 jin4 cheng2 huang2 miao4 dou2 wu2 qiu2 fan1 zhi1 hao3 qian1] {gam3 kan5 sing4 wong4 miu2 dou1 m4 kau4 faan1 zi1 hou2 cim1} /(expr. idiom.) rater sa chance; rater une belle occasion de faire quelque chose/(lit.) se trouver près du temple de la déité de la ville or ne pas demander conseil d'une personne sage/
+咁近城隍廟都唔求支好籤 咁近城隍庙都唔求支好签 [gan1 jin4 cheng2 huang2 miao4 dou2 wu2 qiu2 fan1 zhi1 hao3 qian1] {gam3 kan5 sing4 wong4 miu2 dou1 m4 kau4 faan1 zi1 hou2 cim1} /(expr. idiom.) rater sa chance; laisser passer sa chance; manquer une belle occasion de faire quelque chose/(lit.) se trouver près du temple de la déité de la ville or ne pas demander conseil d'une personne sage/
 咕𠱸 咕𠱸 [gu1 chen2] {gu1 seon2} /coussin/(orig.) de l'anglais « cushion » (« coussin »)/
 咕順 咕顺 [gu1 shun4] {gu1 seon2} /coussin/(orig.) de l'anglais « cushion » (« coussin »)/
 咖啡仔 咖啡仔 [ka1 fei1 zi3] {gaa3 fe1 zai2} /(Hong Kong) contractuel; fonctionnaire de police chargée de vérifier le stationnement des voitures/(lit.) petit brun/(orig.) les uniformes des contractuels à Hong Kong sont de couleur brun/
