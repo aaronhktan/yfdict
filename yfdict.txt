@@ -7477,6 +7477,7 @@
 平角 平角 [ping2 jiao3] {ping4 gok3} /angle plat; 180°/
 平靚正 平靓正 [ping2 jing4 zheng4] {peng4 leng3 zeng3} /(expr.) bon rapport qualité-prix; (produit) qui est vendu à un prix raisonnable, qui est joli, est qui convient/
 平面設計 平面设计 [pian2 mian4 she4 ji4] {ping4 min2 cit3 gai3} /graphisme; conception graphique; design graphique/
+平伏 平伏 [ping2 fu2] {ping4 fuk6} /se calmer; se rasséréner/
 平面鏡 平面镜 [ping2 mian4 jing4] {ping4 min2 geng3} /miroir plan/
 平頭裝 平头装 [ping2 tou2 zhuang1] {ping4 tau4 zong1} /coupe en brosse/
 年刊 年刊 [nian2 kan1] {nin4 hon2} /publication annuelle/
@@ -21136,7 +21137,7 @@
 雲尼斯達萊 云尼斯达莱 [yun2 ni2 si1 da2 lai2] {wan4 nei4 si1 daat6 loi4} /Ruud van Nistelrooy, footballeur néerlandais/
 雲梯 云梯 [yun2 ti1] {wan4 tai1} /échelle dépliante/(en particulier) échelle de pompiers/
 雲海 云海 [yun2 hai3] {wan4 hoi2} /mer de nuages/
-雲漢 云汉 [Yun2 han4] {wan4 hon3} /(arch.) Voie Lactée/ciel/
+雲漢 云汉 [yun2 han4] {wan4 hon3} /(arch.) Voie Lactée/ciel/
 雲石 云石 [Yun2 shi2] {wan4 sek6} /marbre/
 雲紗 云纱 [yun2 sha1] {wan4 saa1} /soie cantonaise traitée avec l'extrait de la plante Dioscorea cirrhosa Lour. et étalé sur de la boue riveraine pendant plusieurs mois, spécialité de la ville de Shunde/
 雲耳 云耳 [yun2 er3] {wan4 ji5} /champignon noir; Auricularia polytricha; Auricularia nigricans/
@@ -21152,6 +21153,7 @@
 零沽 零沽 [ling2 gu1] {ling4 gu1} /vendre/
 零舍 零舍 [ling2 she4] {ling4 se3} /particulièrement; singulièrement; remarquablement; extrêmement/
 零零林林 零零林林 [ling2 ling2 lin2 lin2] {ling4 ling4 lam4 lam4} /rapidement; vite; à toute vitesse/
+零元購 零元购 [ling2 yuan2 gou3] {ling4 jyun4 kau3} /(Chine continentale) (hum.) vols commis par les Noirs/(lit.)achats à zéro dollar/
 雷 雷 [lei2] {leoi4} /tonnerre/(gang) loyauté/courage; bravoure/
 雷公 雷公 [lei2 gong1] {leoi4 gung1} /Lei Gong, Sire Tonnerre, divinité chinoise responsable du tonnerre/
 雷公蛇 雷公蛇 [lei2 gong1 she2] {leoi4 gung1 se4} /lézard; gecko/(lit.) serpent du Sire Tonnerre/
@@ -23477,6 +23479,7 @@
 同檯食飯，各自修行 同台食饭，各自修行 [tong2 tai2 shi2 fan4, ge4 zi4 xiu1 xing2] {tung4 toi4 sik6 faan6, gok3 zi6 sau1 hang6} /(expr. idiom.) (d'un groupe de personnes) être ensemble mais avoir tous leur propres pensées, buts, croyances, etc./(lit.) manger à la même table, mais s'améliorer eux-mêmes/
 ????c 向後傾 向后倾 [xiang4 hou4 qing1] {hoeng3 hau6 king1} /se pencher en arrière/
 ????c 向後轉 向后转 [xiang4 hou4 zhuan3] {hoeng3 hau6 zyun3} /faire demi-tour/demi-tour/
+嚮導 向导 [xiang4 dao3] {hoeng3 dou6} /guide touristique/
 吓吓 吓吓 [xia4 xia4] {haa5 haa5} /chaque fois/
 吔茄 吔茄 [ye1 qie2] {jaak3 ke1} /(vulg.) mange d'la marde! mange de la merde!/
 吔飯 吔饭 [ye1 fan4] {jaak3 faan6} /manger; prendre un repas/
@@ -24087,6 +24090,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 㢥起床板 㢥起床板 [dong4 qi3 chuang2 ban3] {dung6 hei2 cong4 baan2} /(expr. idiom.) travailler très tard dans la nuit/(expr. idiom.) rester éveillé jusqu'à très tard dans la nuit; ne pas dormir/
 弗弗地 弗弗地 [fu2 fu2 di4] {fat1 fat1 dei2} /(fam.) cinglé; dingue; fou/
 弱雞 弱鸡 [ruo4 ji1] {joek6 gai1} /(fig.) faible/(fig.) peureux, timide/(lit.) poule faible/
+弱不禁風 弱不禁风 [ruo4 bu4 jin1 feng1] {joek6 bat1 gam1 fung1} /(expr. idiom.) très faible/(lit.) trop faible pour supporter le vent/
 強姦藥 强奸药 [qiang2 jian1 yao4] {koeng4 gaan1 joek6} /drogue du viol/
 彈出嚟 弹出嚟 [dan4 chu1 li2] {daan6 ceot1 lei4} /apparaître soudain; jaillir; surgir/bondir; sauter/
 彈鐘 弹钟 [dan4 zhong1] {daan2 zung1} /(fam.) (fig.) rejeter une prostituée et en demander une autre/
