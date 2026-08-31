@@ -619,7 +619,7 @@
 不特只 不特只 [bu4 te4 zhi3] {bat1 dak6 zi2} /non seulement/
 不特止 不特止 [bu4 te4 zhi3] {bat1 dak6 zi2} /non seulement/
 不甘後人 不甘后人 [bu4 gan1 hou4 ren2] {bat1 gam1 hau6 jan4} /ne pas se laisser surpasser; ne pas se laisser prendre du retard/
-不生性 不生性 [bu4 sheng1 xing5] {bat1 saang1 sing3} /immature; (enfant) vilain; désobéissant; qui se conduit mal/
+不生性 不生性 [bu4 sheng1 xing5] {bat1 saang1 sing3} /méprisable/(enfant) vilain; espiègle; désobéissant/
 不留 不留 [bu4 liu2] {bat1 lau1} /depuis le début; tous ce temps/jusqu'ici; jusqu'au présent/
 不留意 不留意 [bu4 liu2 yi4] {bat1 lau4 ji3} /être négligent; être inattentif/
 不知好笑還是好怒 不知好笑还是好怒 [bu4 zhi1 hao3 xiao4 hai2 shi5 hao3 nu4] {bat1 zi1 hou2 siu3 waan4 si6 hou2 nou6} /(expr. idiom.) ne pas savoir comment on devrait réagir face à une situation; trouver quelque chose tellement ridicule ou agaçant que l'on a envie de rire et pleurer au même temps/(lit.) ne pas savoir si on devrait rire de quelque chose ou être exaspéré/
@@ -1054,7 +1054,7 @@
 五窮六絕 五穷六绝 [wu3 qiong2 liu4 jue2] {ng5 kung4 luk6 zyut6} /désespéré/(Hong Kong) hors saison (utilisé par l'industrie du cinéma pour décrire les mois entre avril et juin)/(lit.) pauvre en mai, impasse en juin/
 五花茶 五花茶 [wu3 hua1 cha2] {ng5 faa1 caa4} /tisane infusée de cinq types de fleurs/
 五蛇羹 五蛇羹 [wu3 she2 geng1] {ng5 se4 gang1} /soupe à cinq serpents; soupe dont la particularité est l'utilisation de cinq espèces de serpents dans sa préparation/
-五行欠打 五行欠打 [wu3 xing2 qian4 da3] {ng5 hang4 him3 daa2} /(fam.) canaille; crapule/(fam.) (enfant) déobéissant; vilain/
+五行欠打 五行欠打 [wu3 xing2 qian4 da3] {ng5 hang4 him3 daa2} /(fam.) méprisable; malhonnête/(fam.) (enfant) déobéissant; espiègle; vilain/
 五行欠水 五行欠水 [wu3 xing2 qian4 shui3] {ng5 hang4 him3 seoi2} /ne pas avoir d'argent; être pauvre; être indigent/
 五行缺水 五行缺水 [wu3 xing2 que1 shui3] {ng5 hang4 kyut3 seoi2} /ne pas avoir d'argent; être pauvre; être indigent/
 五邑 五邑 [wu3 yi4] {ng5 jap1} /Wuyi, une région située dans le delta de la rivière des Perles qui inclut les cinq comptés de Heshan, Xinhui, Taishan, Kaiping, et Enping/
@@ -3449,8 +3449,8 @@
 反射定律 反射定律 [fan3 she4 ding4 lu:4] {faan2 se6 ding6 leot6} /loi de la réflexion (de lumière)/
 反應器 反应器 [fan3 ying4 qi4] {faan2 jing3 hei3} /réacteur/
 反抗 反抗 [fan3 kang4] {faan2 kong3} /se rébeller; se révolter/
-反斗 反斗 [fan3 dou4] {faan2 dau2} /espiègle; coquin; vilain/
-反斗星 反斗星 [fan3 dou4 xing1] {faan2 dau2 sing1} /enfant vilain/
+反斗 反斗 [fan3 dou4] {faan2 dau2} /(enfant) espiègle; vilain; déobéissant/
+反斗星 反斗星 [fan3 dou4 xing1] {faan2 dau2 sing1} /vilain enfant; enfant espiègle; enfant déobéissant/
 反方 反方 [fan3 fang1] {faan2 fong1} /(dans un débat) opposition/
 反清復明 反清复明 [fan3 qing1 fu4 ming2] {faan2 cing1 fuk6 ming4} /(expr.) se révolter contre la dynastie Qing pour rétablir la dynastie Ming/
 反為 反为 [fan3 wei2] {faan2 wai4} /en revanche; par contre/
@@ -3466,7 +3466,7 @@
 反領 反领 [fan3 ling3] {faan2 leng5} /col remonté/
 反骨 反骨 [fan3 gu3] {faan2 gwat1} /traître; déloyal; infidèle/
 反骨仔 反骨仔 [fan3 gu3 zi3] {faan2 gwat1 zai2} /traître; une personne déloyale; une personne infidèle/
-反鬥 反斗 [fan3 dou4] {faan2 dau3} /(enfant) espiègle; coquin; vilain/
+反鬥 反斗 [fan3 dou4] {faan2 dau3} /(enfant) espiègle; vilain; déobéissant/
 反黑組 反黑组 [fan3 hei1 zu3] {faan2 hak1 zou2} /brigade de district anti-triade (unité de police à Hong Kong)/
 叔仔 叔仔 [shu1 zi3] {suk1 zi2} /oncle; frère cadet du père/
 ????c 叔姪縮窒 叔侄缩窒 [shu2 zhi2 suo1 zhi4] {suk1 zat6 suk1 zat6} /(expr.) se dit d'une situation où quelqu'un revient sur ses paroles et réussit à ne rien payer/
@@ -4285,7 +4285,7 @@
 唔理三七廿一 唔理三七廿一 [wu2 li3 san1 qi1 nian4 yi1] {m4 lei5 saam1 cat1 jaa6 jat1} /(expr. idiom.) sans se soucier des conséquences; quoi qu'il arrive; peu importe ce qui arrive; coûte que coûte/(lit.) s'en ficher de trois fois sept égal vingt-et-un/
 唔理得咁多 唔理得咁多 [wu2 li3 de5 gan1 duo1] {m4 lei5 dak1 gam3 do1} /ça n'a plus d'importance; je m'en fiche maintenant/
 唔理點 唔理点 [wu2 li3 dian3] {m4 lei5 dim2} /quoi qu'il arrive; n'importe ce qui arrive; peu importe le moyen/
-唔生性 唔生性 [wu2 sheng1 xing5] {m4 saang1 sing3} /immature; (enfant) vilain; désobéissant; qui se conduit mal/
+唔生性 唔生性 [wu2 sheng1 xing5] {m4 saang1 sing3} /méprisable/(enfant) vilain; espiègle; désobéissant/
 唔相干 唔相干 [wu2 xiang1 gan1] {m4 soeng1 gon1} /hors de propos; qui n'a rien à voir avec/
 唔瞅唔睬 唔瞅唔睬 [wu2 chou3 m2 cai3] {m4 cau1 m4 coi2} /(expr. idiom.) bouder; faire la tête à quelqu'un; ignorer quelqu'un/
 唔知 唔知 [wu2 zhi1] {m4 zi1} /ne pas savoir; ne pas connaître; méconnaître/très; tellement; autant; extrêmement/
@@ -4712,7 +4712,7 @@
 嘟咭 嘟咭 [du1 ji1] {dut1 kaat1} /payer avec une carte bancaire ou carte de crédit, particulièrement un paiement sans contact/(orig.) onomatopée pour le bip d'une machine de paiement + l'anglais « card » (« carte »)/
 嘩 哗 [hua1] {waa1} /oh!/waouh!/
 嘩嘩聲 哗哗声 [hua1 hua1 sheng1] {waa1 waa1 seng1} /(onomatopée pour une réaction quand on est surpris, étonné ou excité)/
-嘩鬼 哗鬼 [hua1 gui3] {waa1 gwai2} /(enfant) espiègle; vilain/
+嘩鬼 哗鬼 [hua1 gui3] {waa1 gwai2} /(enfant) espiègle; vilain; désobéissant/
 嘮嘈 唠嘈 [lao2 cao2] {lou4 cou4} /être bruyant/
 嘰咕 叽咕 [ji1 gu1] {gei1 gu1} /parler doucement; chuchoter; murmurer/
 嘰哩咕嚕 叽哩咕噜 [ji1 li5 gu1 lu1] {gei1 li1 gu1 lou1} /(personne) qui n'articule pas clairement ses mots; qui parle indistinctement; qui est incompréhensible/
@@ -6052,7 +6052,7 @@
 奀挑鬼命 奀挑鬼命 [di2 tiao1 gui3 ming4] {ngan1 tiu1 gwai2 ming6} /personne faible; personne fragile; personne chétive; personne frêle; sac d'os/
 奀星 奀星 [di2 xing1] {ngan1 sing1} /acteur ou actrice inconnu/
 奀瘦 奀瘦 [di2 shou4] {ngan1 sau3} /maigre; magrichon/
-奀皮 奀皮 [di2 pi2] {ngan1 pei4} /(enfant) vilain; méchant/
+奀皮 奀皮 [di2 pi2] {ngan1 pei4} /(enfant) vilain; méchant; déobéissant/
 奀細 奀细 [di2 xi4] {ngan1 sai3} /maigre; petit; faible; chétif/
 奀雌雌 奀雌雌 [di2 ci2 ci2] {ngan1 ci1 ci1} /maigre; faible; chétif/
 奄奄 奄奄 [yan3 yan3] {jim1 jim1} /être à son dernier souffle; être proche de la mort/(fig.) en déclin; en baisse/
@@ -10697,8 +10697,8 @@
 曲蹄 曲蹄 [qu1 ti2] {kuk1 tai4} /(péj.) Tanka, peuple des bateaux/(lit.) sabot courbé/
 曳 曳 [ye4] {jai5} /espiègle/vilan (enfant)/de mauvaise qualité/
 曳嘢 曳嘢 [ye4 ye3] {jai5 je5} /produit de mauvaise qualité/
-曳曳 曳曳 [ye4 ye4] {jai1 jai1} /vilain (enfant)/
-曳猪 曳猪 [ye4 zhu1] {jai6 zyu1} /(enfantin) vilain enfant/
+曳曳 曳曳 [ye4 ye4] {jai1 jai1} /(enfantin) (enfant) vilain; espiègle; désobéissant/
+曳猪 曳猪 [ye4 zhu1] {jai5 zyu1} /(enfantin) vilain enfant/
 更 更 [geng4] {gang3} /quart de travail; période de travail; shift/
 更多 更多 [geng4 duo1] {gang3 do1} /encore plus; davantage/
 更改 更改 [geng1 gai3] {gang1 goi2} /changer; modifier/
@@ -14501,7 +14501,7 @@
 百佳 百佳 [bai3 jia1] {baak3 gaai1} /PARKnSHOP, enseigne de supermarchés hongkongaise/
 百億 百亿 [bai3 yi4] {baak3 jik1} /dix milliards, 10 000 000 000/
 百力滋 百力滋 [bai3 li4 zi1] {baak3 lik6 zi1} /Pretz, grignotine chinoise/
-百厭 百厌 [bai3 yan4] {baak3 jim3} /(enfant) vilain/
+百厭 百厌 [bai3 yan4] {baak3 jim3} /(enfant) vilain; espiègle; désobéissant/
 百厭仔 百厌仔 [bai3 yan4 zi3] {baak3 jim3 zai2} /(fig.) vilain enfant/
 百厭星 百厌星 [bai3 yan4 xing1] {baak3 jim3 sing1} /(fig.) vilant enfant/
 百合匙 百合匙 [bai3 he2 chi2] {baak3 hap6 si4} /clef passe-partout/
@@ -16413,7 +16413,7 @@
 翼 翼 [yi4] {jik6} /aile (d'un animal)/aile (d'un bâtiment); pavillon/côté; flanc/faction (politique)/protéger; aider/
 翻去 翻去 [fan1 qu4] {faan1 heoi3} /rentrer; retourner/
 翻嚟 翻嚟 [fan1 li2] {faan1 lai2} /revenir/
-翻天 翻天 [fan1 tian1] {faan1 tin1} /stupéfiant; fracassant/renverser un gouvernement/(d'un enfant) être vilain/chaotique/
+翻天 翻天 [fan1 tian1] {faan1 tin1} /stupéfiant; fracassant/renverser un gouvernement/(d'un enfant) être vilain; mal se conduire; être déobéissant/chaotique/
 翻學 翻学 [fan1 xue2] {faan1 hok6} /aller à l'école (voir aussi 返學|返学)/
 翻工 翻工 [fan1 gong1] {faan1 gung1} /retravailler; refaire/aller travailler (voir aussi 返工|返工)/
 翻抄 翻抄 [fan1 chao1] {faan1 caau1} /reproduire; recopier/
@@ -17982,7 +17982,7 @@
 衰過偷貓 衰过偷猫 [shuai1 guo4 tou1 mao1] {seoi1 gwo3 tau1 maau1} /(fig.) personne très méchante; très mauvaise personne/(lit.) pire qu'un voleur de chats/
 衰鬼 衰鬼 [shuai1 gui3] {seoi1 gwai2} /casse-pied; enquiquineur; importun/(lit.) mauvais fantôme/
 衰鬼嘢 衰鬼嘢 [shuai1 gui3 ye3] {seoi1 gwai2 je5} /casse-pied; enquiquineur; importun/(lit.) mauvais objet-fantôme/
-????f 衰鬼豆 衰鬼豆 [shuai1 gui3 dou4] {seoi1 gwai2 dau2} /vilain enfant/(par plaisanterie) (à un ami) bon à rien/
+衰鬼豆 衰鬼豆 [shuai1 gui3 dou4] {seoi1 gwai2 dau2} /vilain enfant/(par plaisanterie) (à un ami) bon à rien/
 衷情 衷情 [zhong1 qing2] {cung1 cing4} /émotion sincère/
 衷腸 衷肠 [zhong1 chang2] {cung1 coeng4} /mots du fond du cœur/
 袁彌明 袁弥明 [yuan2 mi2 ming2] {jyun4 nei4 ming4} /Erica Yuen Mi-ming, femme politique et actrice hongkongaise/
@@ -19231,7 +19231,7 @@
 跳樓貨 跳楼货 [tiao4 lou2 huo4] {tiu3 lau2 fo3} /(fig.) marchandises vendues à très bas prix lors d'une vente de faillite/(lit.) marchandises (vendues après que le patron s'est suicidé en) sautant d'un endroit élevé/
 跳欄 跳栏 [tiao4 lan2] {tiu3 laan4} /(sport) course de haies/
 跳灰 跳灰 [tiao4 hui1] {tiu3 fui1} /Jumping Ash, film hongkongais/
-跳皮 跳皮 [tiao4 pi2] {tiu3 pei4} /vilain; méchant/
+跳皮 跳皮 [tiao4 pi2] {tiu3 pei4} /(enfant) vilain; espiègle; désobéissasnt/
 跳蝨 跳虱 [tiao4 shi1] {tiu3 sat1} /(insecte) puce/
 跳蝨市場 跳虱市场 [tiao4 shi1 shi4 chang3] {tiu3 sat1 si5 coeng4} /marché aux puces; brocante; vide-greniers/
 跳跳紮 跳跳扎 [tiao4 tiao4 zha1] {tiu3 tiu3 zaat3} /sauter partout; sautiller/vif; animé/
@@ -21245,7 +21245,7 @@
 霎 霎 [sha4] {saap3} /se disputer; se quereller/instant; fraction d'une seconde/
 霎戇 霎戆 [sha4 zhuang4] {saap3 ngong6} /stupide; ridicule; bête/
 霎時 霎时 [sha4 shi2] {saap3 si4} /tout d'un coup; en un instant; en un rien de temps; en un clin d'œil/
-霎氣 霎气 [sha4 qi4] {saap3 hei3} /se disputer; se quereller/(enfant) vilain; désobéissant/inquiétant; préoccupant; troublant/
+霎氣 霎气 [sha4 qi4] {saap3 hei3} /se disputer; se quereller/(enfant) vilain; espiègle; désobéissant/inquiétant; préoccupant; troublant/
 ????f 霎眼嬌 霎眼娇 [sha4 yan3 jiao1] {saap3 ngaan5 giu1} /fille ou femme qui semble belle seulement à première vue/
 霓虹燈 霓虹灯 [ni2 hong2 deng1] {ngai4 hung4 dang1} /enseigne au néon/néon; lampe néon/
 霖雨 霖雨 [lin2 yu3] {lam4 jyu5} /(litt.) pluie continue; pluie persistante/être mouillé par la pluie (voir aussi 淋雨|淋雨)/
@@ -21406,7 +21406,7 @@
 韃靼斯坦 鞑靼斯坦 [da2 da2 si1 tan3 ] {taat3 daat3 si1 taan2} /République du Tatarstan/
 韃靼語 鞑靼语 [da2 da2 yu3] {taat3 daat3 jyu5} /(langue) tatar/
 韆鞦 千秋 [qian1 qiu1] {cin1 cau1} /balançoire; siège que l'on suspend par des cordes pour balancer/
-韌皮 韧皮 [ren4 pi2] {ngan1 pei4} /(enfant) vilain; déobéissant/
+韌皮 韧皮 [ren4 pi2] {ngan1 pei4} /(enfant) vilain; espiègle; déobéissant/
 韌力 韧力 [ren4 li4] {ngan6 lik6} /résistance; endurance/
 韌黐黐 韧黐黐 [ren4 chi1 chi1] {ngan6 ci1 ci1} /(cuisine) coriace/
 韓 韩 [han2] {hon4} /coréen/
@@ -23080,7 +23080,7 @@
 ????f 二路元帥 二路元帅 [er4 lu4 yuan2 shuai4] {ji6 lou6 jyun4 seoi3} /(triade, mafia chinoise) leaders de deuxième niveau/
 五姑娘 五姑娘 [wu3 gu1 niang5] {ng5 gu1 noeng2} /(fam.) (d'un homme) la main utilisée pour se masturber/(lit.) mademoiselle cinq/
 五成熟 五成熟 [wu3 cheng2 shu2] {ng5 sing4 suk6} /(steak) cuit à point/(lit.) cuit à cinquante pour cent/
-五行欠炳 五行欠炳 [wu3 xing2 qian4 bing3] {ng5 hang4 him3 bing2} /(fam.) canaille; crapule/(fam.) (enfant) déobéissant; vilain/
+五行欠炳 五行欠炳 [wu3 xing2 qian4 bing3] {ng5 hang4 him3 bing2} /(fam.) méprisable/(fam.) (enfant) déobéissant; espiègle; vilain/
 亞士匹靈 亚士匹灵 [ya4 shi4 pi3 ling2] {aa3 si6 pat1 ling4} /aspirine/
 亞洲式 亚洲式 [ya4 zhou1 shi4] {aa3 zau1 sik1} /style asiatique/
 交保護費 交保护费 [jiao1 bao3 hu4 fei4] {gaau1 bou2 wu6 fai3} /payer une taxe de protection; payer un frais de protection/
@@ -24196,7 +24196,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 戥番勻 戥番匀 [deng3 fan1 yun2] {dang6 faan1 wan4} /rendre les deux côtés égaux; trouver un compromis/
 ????m 戥豬石 戥猪石 [deng3 zhu1 shi2] {dang6 zyu1 sek6} /(fam.) intérimaire/(en particulier) (fam.) personne qui aide le jeune marié le jour de son mariage/
 戴套吹 戴套吹 [dai4 tao4 chui1] {daai3 tou3 ceoi1} /(fam.) mettre une capote pour se faire suçer; porter un préservatif pendant une fellation/
-戴袋 戴袋 [dai4 dai4] {daai3 doi2} /(fam.) mettre une capote; porter un préservatif/
+戴袋 戴袋 [dai4 dai4] {daai3 doi2} /(fam.) mettre une capote; porter un préservatif; utiliser le condom/
 戴隱形眼鏡 戴隐形眼镜 [dai4 yin3 xing2 yan3 jing4] {daai3 jan2 jing4 ngaan5 geng2} /porter des lentilles de contact/
 所有的 所有的 [suo3 you3 de5] {so2 jau5 dik1} /tous, toutes/
 扁ｐａｔｐａｔ 扁ｐａｔｐａｔ [bian3 p a t p a t] {bin2 pet6 pet6} /(fam.) très plat/
@@ -25034,7 +25034,7 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 狗不理 狗不理 [gou3 bu4 li3] {gau2 bat1 lei5} /petit pain farci qui contient du porc et des légumes, spécialité de la ville de Tianjian/
 ????m 狗屎佬 狗屎佬 [gou3 shi3 lao3] {gau2 si2 lou2} /(fam.) connard; salaud/(lit.) crotte de chien/
 狗王 狗王 [gou3 wang2] {gau2 wong4} /(fig.) équipe chargée d'attraper des camelots; équipe chargée d'attraper des vendeurs à la sauvette/(lit.) roi des chiens/
-狗笠 狗笠 [gou3 li4] {gau2 lap1} /(fam.) capote; préservatif/
+狗笠 狗笠 [gou3 li4] {gau2 lap1} /(fam.) capote; préservatif; condom/
 狗話 狗话 [gou3 hua4] {gau2 waa2} /(fam.) conneries; du n'importe quoi/(lit.) paroles de chien/
 狗話連篇 狗话连篇 [gou3 hua4 lian2 pian1] {gau2 waa6 lin4 pin1} /(expr. idiom.) conneries/(lit.) paroles de chien page après page/
 ????c 狗閪 狗閪 [gou3 se1] {gau2 hai1} /(vulg.) trou de cul; connard; con; enfoiré/(lit.) vagin de chienne/
@@ -26205,9 +26205,9 @@ in差廚 in差厨 [in5 cha1 cyu2] {in6 caa1 cyu4} /(fam.) responsable; être à 
 鳩支孖碌 鸠支孖碌 [jiu1 zhi1 ma1 lu4] {gau1 zi1 maa1 luk1} /(expr. idiom.) (vulg.) (d'une personne) très con; très cave; très énervant; très agaçant/
 鳩毛 鸠毛 [jiu1 mao2] {gau1 mou4} /(vulg.) poil du pubis d'un homme/
 鳩毛放紙鷂 鸠毛放纸鹞 [jiu1 mao2 fang4 zhi3 yao4] {gau1 mou4 fong3 zi2 jiu2} /(expr. en suspens) (vulg.) prendre un gros risque/(lit.) utiliser des poils du pubis pour voler un cerf-volant (deuxième partie 博到盡|博到尽 bok3 dou3 zeon6 « tout risquer », jeu de mots avec 駁到盡|驳到尽 bok3 dou3 zeon6 « devoir lier beaucoup (de poils de pubis) ensemble »)/
-鳩笠 鸠笠 [jiu1 li4] {gau1 lap1} /(fam.) (vulg.) capote; préservatif/
+鳩笠 鸠笠 [jiu1 li4] {gau1 lap1} /(fam.) (vulg.) capote; préservatif; condom/
 鳯竇 鳯窦 [feng4 dou4] {fung6 dau3} /(fig.) maison close avec une seule femme (voir aussi 鳳竇|凤窦)/(lit.) nid de phénix/
-鴉烏婆 鸦乌婆 [ya1 wu1 po2] {aa1 wu1 po2} /(fig.) (d'une femme) vieille sorcière; vieille bique; vieille mégère; femme laide et acariâtre/personnage (vieille femme menaçante, comme Baba Yaga) qu'on menace d'appeler pour enlever les vilains enfants/
+鴉烏婆 鸦乌婆 [ya1 wu1 po2] {aa1 wu1 po2} /(fig.) (d'une femme) vieille sorcière; vieille bique; vieille mégère; femme laide et acariâtre/personnage (vieille femme menaçante, comme Baba Yaga) qu'on menace d'appeler pour enlever les vilains enfants; croque-mitaine/
 鴛鴦房 鸳鸯房 [yuan1 yang5 fang2] {jyun1 joeng1 fong2} /suite nuptiale/
 ????f 鴛鴦腳 鸳鸯脚 [yuan1 yang1 jiao3] {jyun1 joeng1 goek3} /avoir un pied plus grand que l'autre/(arts martiaux) coup de pied volant/
 鵝頸橋 鹅颈桥 [e2 jing3 qiao2] {ngo4 geng2 kiu4} /(surnom du Canal Road Flyover à Hong Kong)/(surnom de la région autour du Canal Road Flyover à Hong Kong, près de Causeway Bay)/
